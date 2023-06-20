@@ -139,11 +139,68 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|FAB-250M-54 (250 kg)|FAB-250M-62 (250 kg)|FAB-500M-54 (500 kg)|FAB-500M-62 (500 kg)}}
-{{main|ZB-500 incendiary|S-8KO|S-24B}}
-{{main|R-27ER1|R-27R1|R-27T1|R-60|R-60MK}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-29.png]]</div>
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| || 4 || 4 || || 4 || 4 ||
+|-
+! [[FAB-250M-54 (250 kg)|250 kg FAB-250M-54]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[OFAB-250Sh (250 kg)|250 kg OFAB-250Sh]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[FAB-500Sh (500 kg)|500 kg FAB-500Sh]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[ZB-500 incendiary]] bombs
+| || 1 || 1 || || 1 || 1 ||
+|-
+! [[S-8KO]] rockets
+| || 20 || 20 || || 20 || 20 ||
+|-
+! [[S-24B]] rockets
+| || 1 || 1 || || 1 || 1 ||
+|-
+! [[R-27ER1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-27R1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-27T1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-60]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
+! [[R-60MK]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
+! 1,500 l drop tanks
+| || || || 1 || || ||
+|-
+| colspan="8" | Maximum permissible loadout weight: 3,050 kg<br>Maximum permissible wing load: 1,525 kg<br>Maximum permissible weight imbalance: 1,200 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 
 * Without load
 * 2 x R-60MK missiles
@@ -159,64 +216,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x 250 kg FAB-250M-54 bombs (2,000 kg total)
 * 4 x 250 kg FAB-250M-62 bombs (1,000 kg total)
 * 8 x 250 kg FAB-250M-62 bombs (2,000 kg total)
+* 8 x 250 kg OFAB-250Sh bombs (2,000 kg total)
 * 4 x 500 kg FAB-500M-54 bombs (inner hardpoints) (2,000 kg total)
 * 4 x 500 kg FAB-500M-54 bombs (2,000 kg total)
 * 4 x 500 kg FAB-500M-62 bombs (inner hardpoints) (2,000 kg total)
 * 4 x 500 kg FAB-500M-62 bombs (2,000 kg total)
+* 6 x 500 kg FAB-500Sh bombs (3,000 kg total)
 * 4 x ZB-500 incendiary bombs
 * 1 x 1,500 l drop tank
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-29.png]]</div>
-|-
-! 100 kg OFAB-100 bombs
-| || 4 || 4 || || 4 || 4 ||
-|-
-! 250 kg FAB-250M-54 bombs
-| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
-|-
-! 250 kg FAB-250M-62 bombs
-| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
-|-
-! 500 kg FAB-500M-54 bombs
-| || 1 || 1, 2 || || 1, 2 || 1 ||
-|-
-! 500 kg FAB-500M-62 bombs
-| || 1 || 1, 2 || || 1, 2 || 1 ||
-|-
-! ZB-500 incendiary bombs
-| || 1 || 1 || || 1 || 1 ||
-|-
-! S-8KO rockets
-| || 20 || 20 || || 20 || 20 ||
-|-
-! S-24B rockets
-| || 1 || 1 || || 1 || 1 ||
-|-
-! R-27ER1 missiles
-| || || 1 || || 1 || ||
-|-
-! R-27R1 missiles
-| || || 1 || || 1 || ||
-|-
-! R-27T1 missiles
-| || || 1 || || 1 || ||
-|-
-! R-60 missiles
-| 1 || 1 || 1 || || 1 || 1 || 1
-|-
-! R-60MK missiles
-| 1 || 1 || 1 || || 1 || 1 || 1
-|-
-! 1,500 l drop tanks
-| || || || 1 || || ||
-|-
-| colspan="8" | Maximum permissible loadout weight: 2,050 kg<br>Maximum permissible wing load: 1,025 kg<br>Maximum permissible weight imbalance: 900 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 The MiG-29 has a unique flight character, its engines consume a lot of fuel thus the external fuel tank, getting rid of the external fuel tank will reduce drag and improve the performance of the aircraft, this is mostly done before engaging a target. But the engines also provide excellent thrust at a very wide range of speeds giving you enough power to engage in long-lasting dogfights. The aircraft is not equipped with variable wing sweep, which is not very noticeable. Only when flying at high speeds at lower altitudes will you begin to notice that the wings produce much lift. The MiG-29 has decent manoeuvrability at high and low speeds, the energy retention is not something to complain about either. The 30 mm guns have a high velocity, making it easy to aim at targets, and are much better than earlier Soviet aircraft. The missiles which are the most effective are the R-60MK and R-27ER1. The R-60MK are very easy to flare off, and at its BR many people will dodge these missiles in a head-on fairly easily. But the R-27ER1 has some very effective performance, with an improved radar system this missile will rock the battlefield.
@@ -231,18 +239,18 @@ To use the radar variants of the R-27 to the fullest make sure to firstly enable
 
 '''CAS'''
 
-The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realistic. Equip your MiG-29 with 6 x FAB-500M-54 or FAB-500M-62 (the -54 version is lighter with almost the same explosive mass), add 2 R-60MKs optionally. Start heading to the battle area and go for a behind approach of the enemy spawn, this will allow you to take care of SPAAs or any other targets with a surprise. Once you found yourself a target, prepare to slow down to near Mach 1 and align your CCIP with the target, drop all or half of all the bombs on a 0.5 second fuse. Once bombs have been dropped, either start speeding off back to the airfield for more bombs, or make use of your R-60MKs to take care of any enemy air targets. Furthermore, make sure to swap your radar into IRST mode, as you do not carry any radar missiles and it will make you more stealthy to face off enemy jets. It is suggested to also take a mixed countermeasures loadout, it can help you dodge surface-to-air missiles and break their lock on.
+The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realistic. Equip your MiG-29 with 6 x FAB-500SH, add 2 R-60MKs optionally. Start heading to the battle area and go for a behind approach of the enemy spawn, this will allow you to take care of SPAAs or any other targets with a surprise. Once you found yourself a target, prepare to slow down to near Mach 1 and align your CCIP with the target, drop all or half of all the retarded bombs with a 0 second fuse (the bombs slowly fall on the target, allowing you to escape the blast while also instantly eliminating the target). Once the bombs have been dropped, either start speeding off back to the airfield for more bombs, or make use of your R-60MKs to take care of any enemy air targets. Furthermore, make sure to swap your radar into IRST mode, as you do not carry any radar missiles and it will make you more stealthy to face off enemy jets. It is suggested to also take a mixed countermeasures loadout, it can help you dodge surface-to-air missiles and break their lock on.
 
 '''Enemies worth noting'''
 
-[[F-16 (Family)|F-16 series]] : The F-16's are considered the top opponent against the MiG-29, having a equal amount of power and ability to combat you. Singularly you might have a upper hand in skill and abilities thanks to the R-27 and R-60 missiles, but beware. The moment a F-16 teams up with one another, they become a formidable and dangerous group. The more F-16's are flying as a flock the more dangerous they become. In comparison with the MiG-29: the F-16 performs better in groups, and it is that what you have to look out for. It's best to avoid engaging into a flock of F-16's, but to rather engage it from a distance (with use of R-27 missiles) or wait for the flock to fall apart. This will give you again a upper hand over the F-16 and give you the ability to combat it 1 on 1. Further than that make sure to keep a eye out for their missiles, they have a excellent medium range and can retain a IR lock very well.
+[[F-16 (Family)|F-16 series]] : The F-16's are considered the top opponent against the MiG-29, having a equal amount of power and ability to combat you. Singularly you might have a upper hand in skill and abilities thanks to the R-27 and R-60 missiles, but beware. The moment a F-16 teams up with one another, they become a formidable and dangerous group. The more F-16's are flying as a flock the more dangerous they become. In comparison with the MiG-29: the F-16 performs better in groups, and it is that what you have to look out for. It's best to avoid engaging into a flock of F-16's, but to rather engage it from a distance (with use of R-27 missiles) or wait for the flock to fall apart. This will give you again a upper hand over the F-16 and give you the ability to combat it 1 on 1. Further than that make sure to keep a eye out for their missiles, they have a excellent medium range and can retain a IR lock very well.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Great top speed at all altitudes; with a wing rip speed of Mach 1.3 at sea level 
+* Great top speed at all altitudes; with a wing rip speed of Mach 1.3 at sea level
 * High turning performance and agility, especially at low to medium speed
 * The GSh-30-1 cannon is well suited for air combat, possessing effective damage and ballistics
 * Highly effective radar system, has TWS along with PD and Head-Down modes
@@ -254,7 +262,7 @@ The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realisti
 
 * High fuel consumption on afterburner; as little as 4 minutes without a drop tank
 * The twin engines burn hot, producing a large signature for enemy IR missiles
-* R-60MK IR missiles have a rather short range 
+* R-60MK IR missiles have a rather short range
 * Can easily G-LOC due to high manoeuvrability
 * Relatively narrow radar search width of 30°, inferior to the 120°+ found on F-14s and F-16s
 

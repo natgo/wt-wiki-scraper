@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (はるかぜ, [[Abbreviations#.28JP.29_Naval|namesake]]: Spring Wind) is a rank {{Specs|rank}} Japanese destroyer {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The '''{{Specs|name}}''' (はるかぜ, [[Abbreviations#.28JP.29_Naval|namesake]]: Spring Wind) was the first destroyer class made in Japan after WW2, and resembles American destroyers more than its IJN predecessors. Inspired by ships from the war, the Harukaze-class mainly took advantage of designs from the American [[Gearing (Family)|Gearing-class]] in overall construction and equipment, with traverse taken from Imperial Japanese designs.
 
-The first destroyer class made in Japan after WW2, the JDS Harukaze resembles American destroyers more than its IJN predecessors. It is armed with 3 fast-firing single 127 mm guns with a variety of shells, including HE-VT to take down aircraft, which is also added to with a good AA battery of 2 quad-mount 40 mm Bofors cannons. However, Harukaze lacks torpedoes of any kind, which prevents it from reliably taking down large ships. Compared to other destroyers, Harukaze is relatively slow, having a max speed of only 56 km/h. In many ways, Harukaze is like a larger version of the JDS frigates [[Akebono]] and [[Ikazuchi]], having fast-firing dual-purpose guns, a somewhat slow speed, and a secondary armament of only depth charges.
+The Harukaze was introduced in [[Update "Winged Lions"]]. She is armed with 3 fast-firing single 127 mm guns with a variety of shells, including HE-VT to take down aircraft, which is also added to with a good AA battery of 2 quad-mount 40 mm Bofors cannons. However, Harukaze lacks torpedoes of any kind, which prevents it from reliably taking down large ships. Compared to other destroyers, Harukaze is relatively slow, having a maximum speed of only 56 km/h. In many ways, Harukaze is like a larger version of the JDS frigates [[Akebono]] and [[Ikazuchi]], having fast-firing dual-purpose guns, a somewhat slow speed, and a secondary armament of only depth charges.
 
 == General info ==
 === Survivability and armour ===
@@ -82,7 +82,7 @@ Equipped with 2 quad turrets in the front and back of the ship, both Bofors moun
 | 40 mm HEFI-T || HEFI-T || 874 || 0.9 || 0 || 0.1 || 67.13 || 79° || 80° || 81°
 |-
 | 40 mm AP-T || AP-T || 874 || 0.89 || N/A || N/A || N/A || 47° || 60° || 65°
-|} 
+|}
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}

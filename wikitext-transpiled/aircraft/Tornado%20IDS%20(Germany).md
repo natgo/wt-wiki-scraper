@@ -122,11 +122,11 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German strike aircraft {{
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Cross}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Cross}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -141,32 +141,25 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 83 (1,000 lb)|AIM-9L Sidewinder|AS.34 Kormoran}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 2 x 1,500 l drop tanks
-* 56 x large calibre countermeasures
-* 2 x AIM-9L Sidewinder missiles
-* 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
-* 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
-* 4 x AS.34 Kormoran missiles
-* 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9 !! width="5%" | 10 !! width="5%" | 11
-| rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints_Tornado_GR.1.png]]</div>
+| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_Tornado_GR.1.png]]</div>
 |-
-! 1,000 lb LDGP Mk 83 bombs
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
 | || || 1, 2 || 1, 2* <sup>†</sup> || 1, 2* <sup>†</sup> || 1* <sup>†</sup> || 1, 2* <sup>†</sup> || 1, 2* <sup>†</sup> || 1, 2 || ||
 |-
-! AIM-9L Sidewinder missiles
+! [[Mk 83 AIR (1,000 lb)|1,000 lb Mk 83 AIR]] bombs
+| || || 1, 2 || 1, 2* <sup>†</sup> || 1, 2* <sup>†</sup> || 1* <sup>†</sup> || 1, 2* <sup>†</sup> || 1, 2* <sup>†</sup> || 1, 2 || ||
+|-
+! [[AIM-9L Sidewinder]] missiles
 | || 1 || || || || || || || || 1 ||
 |-
-! AS.34 Kormoran missiles
-| || || 1 || 1<sup>†</sup> || || || || 1<sup>†</sup> || 1 || ||
+! [[AS.34 Kormoran]] missiles
+| || || 1 || 1 || || || || 1 || 1 || ||
 |-
 ! Large calibre countermeasures
 | 28 || || || || || || || || || || 28
@@ -175,7 +168,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | || || 1 || || || || || || 1 || ||
 |-
 | colspan="13" | * Bombs on hardpoint 6 cannot be equipped in conjunction with dual bomb mounts on hardpoints 4-8 <br> <sup>†</sup> AS.34 Kormoran missiles on hardpoints 4/8 cannot be equipped in conjunction with bombs on hardpoints 4-8
+|-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 2 x 1,500 l drop tanks
+* 56 x large calibre countermeasures
+* 2 x AIM-9L Sidewinder missiles
+* 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
+* 7 x 1,000 lb Mk 83 AIR bombs (7,000 lb total)
+* 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
+* 12 x 1,000 lb Mk 83 AIR bombs (12,000 lb total)
+* 4 x AS.34 Kormoran missiles
+* 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -160,12 +160,52 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|SNEB type 23|GAU-4 (20 mm)}}
-{{main|AIM-7E Sparrow|AIM-9D Sidewinder|AIM-9G Sidewinder|Skyflash}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_Phantom_FG.1.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| || || || || || 1 || || || || ||
+|-
+! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
+| 2 || 3 || || || || 3 || || || || 3 || 2
+|-
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
+| 2 || 2 || || || || 3 || || || || 2 || 2
+|-
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| 2 || 2 || || || || 3 || || || || 2 || 2
+|-
+! [[SNEB type 23]] rockets
+| 36 || 54 || || || || 54 || || || || 54 || 36
+|-
+! [[AIM-7E Sparrow]] missiles
+| || || || 1 || 1 || || 1 || 1 || || ||
+|-
+! [[AIM-9D Sidewinder]] missiles
+| || || 1, 2 || || || || || || 1, 2 || ||
+|-
+! [[AIM-9G Sidewinder]] missiles
+| || || 2 || || || || || || 2 || ||
+|-
+! [[Skyflash]] missiles
+| || || || 1 || 1 || || 1 || 1 || || ||
+|-
+! 600 gal drop tanks
+| || || || || || 1 || || || || ||
+|-
+| colspan="12" | Maximum permissible weight imbalance: 1,500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 20 mm GAU-4 cannon (1,200 rpg)
+* 1 x 600 gal drop tank
 * 2 x AIM-9D Sidewinder missiles
 * 4 x AIM-9D Sidewinder missiles
 * 4 x AIM-9G Sidewinder missiles
@@ -173,41 +213,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x Skyflash missiles
 * 234 x SNEB type 23 rockets
 * 11 x 1,000 lb H.E. M.C. Mk.13 bombs (11,000 lb total)
+* 11 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (11,000 lb total)
 * 13 x 540 lb Mk.M2 bombs (7,020 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_Phantom_FG.1.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1200 rpg)
-| || || || || || 1 || || || || ||
-|-
-! 540 lb Mk.M2 bombs
-| 2 || 3 || || || || 3 || || || || 3 || 2
-|-
-! 1,000 lb H.E. M.C. Mk.13 bombs
-| 2 || 2 || || || || 3 || || || || 2 || 2
-|-
-! SNEB type 23 rockets
-| 36 || 54 || || || || 54 || || || || 54 || 36
-|-
-! AIM-7E Sparrow missiles
-| || || || 1 || 1 || || 1 || 1 || || ||
-|-
-! AIM-9D Sidewinder missiles
-| || || 1, 2 || || || || || || 1, 2 || ||
-|-
-! AIM-9G Sidewinder missiles
-| || || 2 || || || || || || 2 || ||
-|-
-! Skyflash missiles
-| || || || 1 || 1 || || 1 || 1 || || ||
-|-
-| colspan="12" | Maximum permissible weight imbalance: 1,500 kg
-|-
-|}
+{{Navigation-End}}
 
 Like the [[F-4C]], the Phantom FGR.2 lacks any internal guns; instead relying on an M61 Vulcan rotary cannon, mounted centrally under the fuselage. The cannon is angled downwards at about 1°, coupled with the position of the gun under aircraft this makes aiming slightly more difficult than on other aircraft; the gun also has a wide bullet spread. A benefit of the rotary cannon is that it can fire all 1,200 rounds before it can overheat and jam. Unlike the F-4C the Phantom FGR.2 can only carry a single gunpod.
 
@@ -226,7 +234,7 @@ There are two main schools of thought on how to fly the Phantom FGR.2 to best ma
 
 Some players prefer to use this to their advantage and get to altitude at the start of the game in order to be above the vast majority of enemy aircraft. When choosing to play this way a good climbing technique is to take off on full afterburner straight into either a 20° or a 30° climb, depending on if you value speed or altitude more. A spaded Phantom FGR.2 with 20m of fuel the cannon pod and 4 x [[AIM-9G]] and 4 x [[Skyflash]] (the recommended load-out for most players) will accelerate to > Mach 1 in a 20° climb and reach 5,000 m about 1 minute 10 seconds after leaving the ground; by comparison in 30° climb it will reach 5,000 m in about 55 seconds after leaving the ground, albeit travelling at only Mach 0.8. The choice of which climb profile to follow (or make your own) is up to you; 30° will get you to altitude quicker and in less horizontal distance, but at the expense of speed; on larger maps you may wish to take the 20° to get to the battle area quicker, it depend on your playstyle; there are also other situations where having more speed once you get to altitude is desirable.
 
-Everything varies depending on your playstyle and the situation in battle, but as a rough guide: it is not advisable to climb due to many other aircraft at this tier having better flight performance and missile such as the F-14A Early and the MiG-29. It is essential to keep your speed as high as possible, your best chance for a kill is during a head-on with your Skyflash missiles. 
+Everything varies depending on your playstyle and the situation in battle, but as a rough guide: it is not advisable to climb due to many other aircraft at this tier having better flight performance and missile such as the F-14A Early and the MiG-29. It is essential to keep your speed as high as possible, your best chance for a kill is during a head-on with your Skyflash missiles.
 
 The Skyflash is a lethal SARH missile, having 25G of overload, however the range may not be as good when compared to other SARH missiles at this tier. When at high altitude (5 km+) These missiles can be fired at around 10 km in a head-on situation with a high chance of hitting the target. At low altitude try to fire it around 4-5 km in a head on situation.
 
@@ -236,7 +244,7 @@ Comparing the 2 western top tier IR missiles - the AIM-9G and AIM-9J - the AIM-9
 
 [[File:R-60 Dodge Phantom PoV.mp4|thumb|right|Dodging an R-60 in the Phantom FGR.2 (Phantom player view)]]
 [[File:R-60 Dodge Missile PoV.mp4|thumb|right|Dodging an R-60 in the Phantom FGR.2 (Missile view)]]
-At high altitudes the Phantom becomes much less manoeuvrable, and to some extent loses its raw performance advantage compared to other top tier jets. Therefore, you may alternatively learn how to best use the Phantom at lower altitudes where controls are more responsive and its acceleration and speed dominate the competition. All missiles have a reduced effective range (by a factor of ~1/3) due to denser air and the greater probability of the target evading missiles. Skyflashes will only be effective within 6 km in head-ons only, and AIM-9Gs within 3 km in subsonic pursuits. Holding on to any energy is crucial as it keeps open the option to disengage when needed. Phantoms have a few last-ditch tricks to shake off a pursuer closing the distance, however, the manoeuvre must be timed and executed perfectly or it will result in your death. The 20 mm M61 Vulcan is the ideal weapon for these knife fights, sporting a 6,000 rpm rate of fire and a 1,050 m/s muzzle velocity. The stock Vulcan is accurate enough even for high deflection shots at 1 km, and spraying a barrage of 20 mm at the enemy's cockpit in a head-on is more likely to cripple the enemy in several components (pilot, radar, wing roots, tail, even the engines) than a laser beam. While the HEF-I rounds in the Air Targets belt is enticing, the best belt against enemy aircraft is the Ground Targets belt. API rounds tends to ignite enemy aircraft more than HEF-I, and as an added bonus, leftover ammo can be used to attack ground targets after the furball ends. The default belts may be used instead to save on Silver Lions, as both the default and Ground Targets belts perform exceptionally well against aircraft and ground targets. Another valid strategy is to not carry the gunpod at all and enjoy the extra speed and turn rate, however this means you are mostly defenseless in a dogfight. 
+At high altitudes the Phantom becomes much less manoeuvrable, and to some extent loses its raw performance advantage compared to other top tier jets. Therefore, you may alternatively learn how to best use the Phantom at lower altitudes where controls are more responsive and its acceleration and speed dominate the competition. All missiles have a reduced effective range (by a factor of ~1/3) due to denser air and the greater probability of the target evading missiles. Skyflashes will only be effective within 6 km in head-ons only, and AIM-9Gs within 3 km in subsonic pursuits. Holding on to any energy is crucial as it keeps open the option to disengage when needed. Phantoms have a few last-ditch tricks to shake off a pursuer closing the distance, however, the manoeuvre must be timed and executed perfectly or it will result in your death. The 20 mm M61 Vulcan is the ideal weapon for these knife fights, sporting a 6,000 rpm rate of fire and a 1,050 m/s muzzle velocity. The stock Vulcan is accurate enough even for high deflection shots at 1 km, and spraying a barrage of 20 mm at the enemy's cockpit in a head-on is more likely to cripple the enemy in several components (pilot, radar, wing roots, tail, even the engines) than a laser beam. While the HEF-I rounds in the Air Targets belt is enticing, the best belt against enemy aircraft is the Ground Targets belt. API rounds tends to ignite enemy aircraft more than HEF-I, and as an added bonus, leftover ammo can be used to attack ground targets after the furball ends. The default belts may be used instead to save on Silver Lions, as both the default and Ground Targets belts perform exceptionally well against aircraft and ground targets. Another valid strategy is to not carry the gunpod at all and enjoy the extra speed and turn rate, however this means you are mostly defenseless in a dogfight.
 
 In theory, the ideal playstyle for the Phantom is to play as a support fighter as many enemies at this tier carry better missiles and is more manoeuvrable. When partaking in the low altitude brawl you need to maintain good situational awareness. You can outrun most other jet in a straight line, but if you get caught up in a dogfight all it takes is one missile from the enemy to ruin your day. However noticing an incoming missile in time and deploying countermeasures will almost always defeat the missile.
 

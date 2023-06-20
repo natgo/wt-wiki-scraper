@@ -142,68 +142,75 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|AIM-9D Sidewinder|AIM-9G Sidewinder|Shafrir 2}}
-{{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x AIM-9D Sidewinder missiles
-* 2 x AIM-9G Sidewinder missiles
-* 2 x Shafrir 2 missiles
-* 13 x 500 lb LDGP Mk 82 bombs (6,500 lb total)
-* 8 x 1,000 lb LDGP Mk 83 bombs (8,000 lb total)
-* 8 x 1,000 lb LDGP Mk 83 bombs + 2 x AIM-9G Sidewinder missiles (8,000 lb total)
-* 8 x 750 lb M117 cone 45 bombs (6,000 lb total)
-* 8 x 750 lb M117 cone 45 bombs + 2 x AIM-9G Sidewinder missiles (6,000 lb total)
-* 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
-* 2 x 2,000 lb LDGP Mk 84 bombs + 2 x AIM-9G Sidewinder missiles (4,000 lb total)
-* 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
-* 16 x Zuni Mk32 Mod 0 ATAP rockets
-* 76 x FFAR Mighty Mouse rockets
-* 9 x 500 lb LDGP Mk 82 bombs + 2 x AIM-9G Sidewinder missiles + 16 x Zuni Mk32 Mod 0 ATAP rockets (4,500 lb total)
-* 9 x 500 lb LDGP Mk 82 bombs + 2 x AIM-9G Sidewinder missiles + 76 x FFAR Mighty Mouse rockets (4,500 lb total)
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 20 mm GAU-4 cannons (1,200 rpg)
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
 | || 1 || || || || 1 ||
 |-
-! 500 lb LDGP Mk 82 bombs
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
 | || 2, 3 || 2 || 5 || 2 || 2, 3 ||
 |-
-! 750 lb M117 cone 45 bombs
+! [[SAMP Mk 82 250 Snakeye (500 lb)|500 lb SAMP Mk 82 250 Snakeye]] bombs
+| || 3 || 2 || 5 || 2 || 3 ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
 | || 2 || 2 || || 2 || 2 ||
 |-
-! 1,000 lb LDGP Mk 83 bombs
-| || 2 || 2 || || 2 || 2 ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
 | || 1 || || || || 1 ||
 |-
-! FFAR Mighty Mouse rockets
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || 2, 2 || 2 || || 2 || 2, 2 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
 | || 38 || || || || 38 ||
 |-
-! Zuni Mk32 Mod 0 ATAP rockets
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
 | || 8 || || || || 8 ||
 |-
-! AIM-9D Sidewinder missiles
+! [[AIM-9D Sidewinder]] missiles
 | 1 || || || || || || 1
 |-
-! AIM-9G Sidewinder missiles
+! [[AIM-9G Sidewinder]] missiles
 | 1 || || || || || || 1
 |-
-! Shafrir 2 missiles
+! [[Shafrir 2]] missiles
 | 1 || || || || || || 1
 |-
-| colspan="8" | Maximum permissible weight imbalance: 1,100 kg
+! [[Python 3]] missiles
+| 1 || || || || || || 1
+|-
+| colspan="8" | Maximum permissible loadout weight: 4,295 kg<br>Maximum permissible wing load: 1,500 kg
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 2 x AIM-9D Sidewinder missiles
+* 2 x AIM-9G Sidewinder missiles
+* 2 x Python 3 missiles
+* 2 x Shafrir 2 missiles
+* 13 x 500 lb LDGP Mk 82 bombs (6,500 lb total)
+* 15 x 500 lb SAMP Mk 82 250 Snakeye bombs (7,500 lb total)
+* 8 x 1,000 lb LDGP Mk 83 bombs (8,000 lb total)
+* 8 x 1,000 lb LDGP Mk 83 bombs + 2 x Python 3 missiles (8,000 lb total)
+* 8 x 750 lb M117 cone 45 bombs (6,000 lb total)
+* 8 x 750 lb M117 cone 45 bombs + 2 x Python 3 missiles (6,000 lb total)
+* 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
+* 2 x 2,000 lb LDGP Mk 84 bombs + 2 x Python 3 missiles (4,000 lb total)
+* 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
+* 16 x Zuni Mk32 Mod 0 ATAP rockets
+* 76 x FFAR Mighty Mouse rockets
+* 2 x Python 3 missiles + 9 x 500 lb LDGP Mk 82 bombs + 16 x Zuni Mk32 Mod 0 ATAP rockets (4,500 lb total)
+* 2 x Python 3 missiles + 9 x 500 lb LDGP Mk 82 bombs + 76 x FFAR Mighty Mouse rockets (4,500 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -218,6 +225,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * Good manoeuvrability
 * Turns hard
 * Hard-hitting 30 mm autocannons
+* Python 3 missiles have a high G limit, very good range and acceleration
 
 '''Cons:'''
 

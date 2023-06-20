@@ -141,20 +141,84 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|AGM-62A Walleye I (505 kg)|GBU-8 (2,000 lb)|AGM-65B}}
-{{main|AIM-7E Sparrow|AIM-7E-2 Sparrow|AIM-9D Sidewinder|AIM-9G Sidewinder}}
-{{main|BLU-27/B incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="20" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 3 || 3 || || || || 5 || || || || 3 || 3
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 2 || 3 || || || || 3 || || || || 3 || 2
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[AGM-62A Walleye I (505 kg)|505 kg AGM-62A Walleye I]] bombs
+| 1 || 1* || || || || || || || || 1* || 1
+|-
+! [[GBU-8 (2,000 lb)|2,000 lb GBU-8]] bombs
+| 1 || 1* || || || || || || || || 1* || 1
+|-
+! [[BLU-27/B incendiary]] bombs
+| 1 || || || || || 2 || || || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 57 || 57 || || || || 57 || || || || 57 || 57
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 12 || 12 || || || || 12 || || || || 12 || 12
+|-
+! [[AGM-65B]] missiles
+| || 3* || || || || || || || || 3* ||
+|-
+! [[AIM-7E Sparrow]] missiles
+| || || || 1<sup>†</sup> || 1 || || 1 || 1<sup>†</sup> || || ||
+|-
+! [[AIM-7E-2 Sparrow]] missiles
+| || || || 1<sup>†</sup> || 1 || || 1 || 1<sup>†</sup> || || ||
+|-
+! [[AIM-9D Sidewinder]] missiles
+| || || 2* || || 1<sup>†</sup> || || 1<sup>†</sup> || || 2* || ||
+|-
+! [[AIM-9G Sidewinder]] missiles
+| || || 2* || || 1<sup>†</sup> || || 1<sup>†</sup> || || 2* || ||
+|-
+! 600 gal drop tanks
+| || || || || || 1 || || || || ||
+|-
+| colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
+|-
+| colspan="13" | * Marked options on hardpoints 2/10 cannot be carried in conjunction with air-to-air missiles on hardpoints 3/9 respectively <br> <sup>†</sup> Sparrows on hardpoints 4/8 cannot be carried in conjunction with Sidewinders on hardpoints 5/7 respectively
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 600 gal drop tank
 * 2 x AIM-9D Sidewinder missiles
 * 6 x AIM-9D Sidewinder missiles
 * 6 x AIM-9G Sidewinder missiles
 * 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
 * 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
 * 4 x BLU-27/B incendiary bombs
 * 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
@@ -166,66 +230,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 6 x AGM-65B missiles
 * 4 x 505 kg AGM-62A Walleye I bombs (2,020 kg total)
 * 4 x 2,000 lb GBU-8 bombs (8,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1200 rpg)
-| 1 || || || || || 1 || || || || || 1
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 750 lb M117 cone 45 bombs
-| 3 || 3 || || || || 5 || || || || 3 || 3
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 2 || 3 || || || || 3 || || || || 3 || 2
-|-
-! 505 kg AGM-62A Walleye I bombs
-| 1 || 1* || || || || || || || || 1* || 1
-|-
-! 2,000 lb GBU-8 bombs
-| 1 || 1* || || || || || || || || 1* || 1
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| 1 || || || || || 1 || || || || || 1
-|-
-! BLU-27/B incendiary bombs
-| 1 || || || || || 2 || || || || || 1
-|-
-! FFAR Mighty Mouse rockets
-| 57 || 57 || || || || 57 || || || || 57 || 57
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 12 || 12 || || || || 12 || || || || 12 || 12
-|-
-! AGM-65B missiles
-| || 3* || || || || || || || || 3* ||
-|-
-! AIM-7E Sparrow missiles
-| || || || 1<sup>†</sup> || 1 || || 1 || 1<sup>†</sup> || || ||
-|-
-! AIM-7E-2 Sparrow missiles
-| || || || 1<sup>†</sup> || 1 || || 1 || 1<sup>†</sup> || || ||
-|-
-! AIM-9D Sidewinder missiles
-| || || 2* || || 1<sup>†</sup> || || 1<sup>†</sup> || || 2* || ||
-|-
-! AIM-9G Sidewinder missiles
-| || || 2* || || 1<sup>†</sup> || || 1<sup>†</sup> || || 2* || ||
-|-
-| colspan="12" | Maximum permissible weight imbalance: 1,500 kg
-|-
-| colspan="13" | * Marked options on hardpoints 2/10 cannot be carried in conjunction with air-to-air missiles on hardpoints 3/9 respectively <br> <sup>†</sup> Sparrows on hardpoints 4/8 cannot be carried in conjunction with Sidewinders on hardpoints 5/7 respectively
-|-
-|}
+{{Navigation-End}}
 
 The Kurnass's weapons will be largely familiar to previous US pilots. The change in Sidewinder variants compared to the original F-4E is worth discussing in more detail: as a US Air Force variant, the American F-4E has USAF models of the Sidewinder in the form of the stock AIM-9E and the top AIM-9J. The Kurnass on the other hand has US Navy Sidewinders as seen on the USN [[F-4J]] or the British [[Phantom FGR.2]]: the stock AIM-9D and the top AIM-G. As far as stock missiles go, the AIM-9D is greatly preferable to the AIM-9E with better range and maneuverability. The AIM-9J vs AIM-9G comparison is more up to personal preference, as the former has slightly higher overload and fares better in maneuvering combat while the latter has a wider seeker view and is better for sneak attacks at a distance. Thus, while the Kurnass has the maneuverable F-4E airframe with an internal gun for close in fights, its Sidewinders do not quite lean in that direction.
 
@@ -235,7 +240,7 @@ The only change to the ground attack weapons is the lack of access to the GBU-15
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The F-4E Phantom II is well-suited for most in-game situations. For attacking ground targets, the plane is armed with an assortment of bombs, rockets, and missiles. Against air targets, players may employ the vehicle's deadly air-to-air missiles and frontal cannons. Three externally-mounted gunpods may be equipped. Although they will undoubtedly increase the vehicle's destructive capabilities, they also appreciably hinder flight performance through induced drag. In many situations, one front-facing cannon is all that is required to dispatch an opponent aircraft. As for the missiles, the ones used by this plane are average at its rank, comparable to the [[R-60]] missiles equipped by the [[MiG-21MF (Germany)]] and the [[MiG-21SMT]] (albeit with worse manoeuvrability). The [[AIM-9G Sidewinder|AIM-9G]] missiles are most effective when fired from between 2 to 4 km away from the target. Any closer will make it harder for the missile to hit the target and the end result could be a miss. At higher altitudes the [[AIM-7E-2]] missiles can ensure better results when shot from 4 - 6 km range as they are almost impossible to dodge at these heights.
+The F-4E Phantom II is well-suited for most in-game situations. For attacking ground targets, the plane is armed with an assortment of bombs, rockets, and missiles. Against air targets, players may employ the vehicle's deadly air-to-air missiles and frontal cannons. Three externally-mounted gunpods may be equipped. Although they will undoubtedly increase the vehicle's destructive capabilities, they also appreciably hinder flight performance through induced drag. In many situations, one front-facing cannon is all that is required to dispatch an opponent aircraft. As for the missiles, the ones used by this plane are average at its rank, comparable to the [[R-60]] missiles equipped by the [[MiG-21MF (Germany)]] and the [[MiG-21SMT]] (albeit with worse manoeuvrability). The [[AIM-9G Sidewinder|AIM-9G]] missiles are most effective when fired from between 2 to 4 km away from the target. Any closer will make it harder for the missile to hit the target and the end result could be a miss. At higher altitudes the [[AIM-7E-2]] missiles can ensure better results when shot from 4 - 6 km range as they are almost impossible to dodge at these heights.
 
 The F-4E has a high rate of climb. This is however where most of its performance advantages end. Due to its weight, the Phantom has rather mediocre acceleration, and not a very high top speed. It is not advised to dogfight anything other than Starfighters and other Phantom variants, as the F-4E has a very poor turn rate. Although the aircraft has better energy retention than most of its opponents, it still bleeds considerable amounts of speed while turning, which can't be regained very quickly due to the aircraft's heavy weight. It also performs quite poorly at low speeds, which is also caused by its weight.
 

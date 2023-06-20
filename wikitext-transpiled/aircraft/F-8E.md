@@ -137,12 +137,58 @@ The offensive armament of the F-8E consists of 4 x 20 mm Browning-Colt Mk12 Mod 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|Mk 77 mod 4 incendiary}}
-{{main|AGM-12B Bullpup|AIM-9B Sidewinder|AIM-9C Sidewinder|AIM-9D Sidewinder}}
-{{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 3, 6 || || || 3, 6
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 3, 6 || || || 3, 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 3, 4 || || || 3, 4
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 3, 4 || || || 3, 4
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 1, 2 || || || 1, 2
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || || || 1
+|-
+! [[Mk 77 mod 4 incendiary]] bombs
+| 1 || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 7, 19, 38 || || || 7, 19, 38
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 4, 8 || 2*, 4 || 2*, 4 || 4, 8
+|-
+! [[AGM-12B Bullpup]] missiles
+| 1 || || || 1
+|-
+! [[AIM-9B Sidewinder]] missiles
+| || 1*, 2 || 1*, 2 ||
+|-
+! [[AIM-9C Sidewinder]] missiles
+| || 1*, 2 || 1*, 2 ||
+|-
+! [[AIM-9D Sidewinder]] missiles
+| || 1*, 2 || 1*, 2 ||
+|-
+| colspan="6" | * Single missiles can be carried concurrently with dual Zuni rockets on the same hardpoint
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 2 x AIM-9C Sidewinder missiles
@@ -158,10 +204,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x Zuni Mk32 Mod 0 ATAP rockets + 2 x AIM-9D Sidewinder missiles
 * 2 x AGM-12B Bullpup missiles
 * 12 x 250 lb LDGP Mk 81 bombs (3,000 lb total)
+* 12 x 250 lb Mk 81 Snakeye bombs (3,000 lb total)
 * 8 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
+* 8 x 500 lb Mk 82 Snakeye bombs (4,000 lb total)
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
 * 2 x Mk 77 mod 4 incendiary bombs
+{{Navigation-End}}
 
 The F-8E has a much more extensive selection of multirole weaponry when compared to the preceding [[F8U-2]], although it is still intended for use mainly as an air supremacy aircraft.
 
@@ -178,48 +227,6 @@ The AIM-9B is the most basic missile that planes of this rank get. It is an IR m
 The AIM-9C is a basic {{Annotation|SARH|Semi-Active Radar-Homing}} missile, and the other stock option for the F-8E: it has very similar flight performance to the AIM-9D IR missile also found on this aircraft, with good range, 18Gs of pull, however it does have an uncaged seekerhead and since it is a radar missile, is all-aspect. This missile works well, only limited by the radar set which is rather prone to ground clutter. Pilots are recommended to only use the missile at high altitude, or while below the enemy aircraft. Also, pilots should be aware that this missile uses "pulse" guidance; this means that unlike more advanced radar missiles like the [[AIM-7 Sparrow (Family)|AIM-7 Sparrow]], any amount of chaff from the enemy will immediately decoy it. It is recommended to use this missile against planes without countermeasures or enemy pilots which choose to not equip chaff, as it is more difficult to kinematically dodge the missile without the use of chaff.
 
 The final missile the F-8E gains access to is the AIM-9D. A later evolution of the AIM-9B, this has much better range and pull, especially at altitude where hits from over 6 km can reasonably be expected. It still has a caged seekerhead like the AIM-9B, so pilots may find it slightly difficult to fire the missile at a manoeuvring target, but once off the rails the missile performs admirably and is one of the better IR missiles at its rank. It is recommended to run 2 of the AIM-9D along with 2 of the AIM-9C if the pilot wishes to engage both with radar and IR missiles, or just the AIM-9D if the pilot prefers no warning to enemy pilots.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 250 lb LDGP Mk 81 bombs
-| 3, 6 || || || 3, 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 3, 4 || || || 3, 4
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 1, 2 || || || 1, 2
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| 1 || || || 1
-|-
-! Mk 77 mod 4 incendiary bombs
-| 1 || || || 1
-|-
-! FFAR Mighty Mouse rockets
-| 7, 19, 38 || || || 7, 19, 38
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 4, 8 || 2*, 4 || 2*, 4 || 4, 8
-|-
-! AGM-12B Bullpup missiles
-| 1 || || || 1
-|-
-! AIM-9B Sidewinder missiles
-| || 1*, 2 || 1*, 2 ||
-|-
-! AIM-9C Sidewinder missiles
-| || 1*, 2 || 1*, 2 ||
-|-
-! AIM-9D Sidewinder missiles
-| || 1*, 2 || 1*, 2 ||
-|-
-| colspan="6" | * Single missiles can be carried concurrently with dual Zuni rockets on the same hardpoint
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

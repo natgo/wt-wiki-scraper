@@ -175,6 +175,7 @@ When deployed properly, the Tiger UHT is a great addition to any line-up. What i
 * Stinger is not effective against fast moving targets greatly limiting self-defence against aircraft
 * Only 8 ATGMs compared to its contemporaries with 12 or even 16 ATGMs
 * PARS-3 missiles are relatively slow
+* Lacks IRCM to counter incoming AAM
 
 == History ==
 ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
@@ -183,6 +184,7 @@ When deployed properly, the Tiger UHT is a great addition to any line-up. What i
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tiger_uht Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

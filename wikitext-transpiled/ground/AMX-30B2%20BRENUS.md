@@ -29,41 +29,12 @@ The ERA offers a really good protection for chemical energy penetrators such as 
 
 '''EIREL Active Protection System'''
 [[File:EIREL APS in action.gif|thumb|AMX-30B2 BRENUS using EIREL against an M901 I-TOW ATGM at 320m (GIF media). As it is seen, the BRENUS turret doesn't have to be aiming directly on the enemy.]]
+{{main|Active protection systems#Electro-optical APS}}
 The AMX-30B2 BRENUS has access to an infrared jammer, the EIREL APS. It is a constant active APS which provides protection against a wide variety of threats. The scanner-type jamming device (honeycomb shaped equipment next to smoke launchers) is mounted on the roof of the tank to cover the vulnerable frontal arc. It called "Infrared Countermeasure" for the following reason: SACLOS guidance utilizes a beam-riding guidance which is connected to the GPS (gunner main sight in some cases, on others it is a different sight like on [[T-55AM-1]] and [[T-62M-1]]) which uses a flare as reference point for the guidance system in the ATGM. The missile moves with the gunner's sight and the flare tries to stay on the crosshairs. IRCM confuses the GPS with a brighter IR light decoy acting as the flare (the flare is also IR) which signals the ATGM to move to a different position nowhere near from the gunner's target.
 [[File:EIREL IR light.png|left|thumb|AMX-30B2 BRENUS with EIREL turned on at night with light intensifier NVD]]
 The EIREL APS has a minimum jamming range of roughly 50 m, meaning it will only deviate ATGMs past 50 m although it depends on the ATGM speed and ATGM angle of attack. This is the approximate distance between all ATGM in-game but it may vary. It will be able to jam a missile launched by a [[Swingfire]] faster due to its launch speed and flight path than an [[M3 Bradley]]. It has a protection arc of ~60° horizontal (between 20°-30° horizontally, refer to gif) and 120° vertical (able to counter helicopter-launched ATGMs). The turret must be facing the threat in order to let the APS work properly.
-{{clear}}
-EIREL will jam SACLOS missiles including wire-guidance:<div style="column-count:3;-moz-column-count:3;-webkit-column-count:3">
-* [[3M7]] ([[IT-1]])
-* [[9M17M Falanga]] ([[Mi-4AV]]/[[Mi-24A]])
-* [[9M17P Falanga-PV]] ([[Mi-24D (USSR)|Mi-24D]])
-* 9M112 ([[T-64B]] / [[T-80B]])
-* [[9M113 Konkurs|9M113]] ([[BMP-1]]/[[SPz BMP-1]]/[[BMP-2]])
-* [[9M114 Shturm]] ([[Shturm-S]]/Russian Helicopters)
-* 9M117 ([[T-55AM-1]]/[[T-62M-1]]/[[BMP-3]])
-* 9M119 ([[T-72B]]/[[T-72B (1989)]]/[[T-80U]])
-* [[9M120 Ataka]] ([[Mi-35M]]/[[Mi-28N]]/[[Ka-52]])
-* [[9M311]] ([[ZPRK 2S6]])
-* [[BGM-71A TOW]]
-* [[BGM-71B TOW]]
-* [[BGM-71C I-TOW]]
-* [[AS.11]]
-* [[HOT-1]]
-* [[HOT-2 TOW]]
-* [[HOT-3]] ([[EC-665 Tiger HAD]]/[[EC-665 Tiger HAP]]/[[EC-665 Tiger UHT]])
-* MGM-51B ([[M551 Sheridan|M551]]/[[M60A2]])
-* MGM-51C ([[XM-803]]/[[MBT-70]]/[[KPz-70]])
-* [[Swingfire]] ([[Swingfire]]/[[Striker]])
-* [[MILAN]] ([[Marder A1-]]/[[Ratel 20]]/[[Warrior]])
-* [[HJ-73E]] ([[ZBD86]])
-* [[Type 79]] ([[Type 89]])
-* [[Roland]] ([[FlaRakPz 1]]/[[Roland 1]]/[[FlaRakRad]])
-* [[VT1]] ([[FlaRakRad]]/[[ItO 90M]])
-* ACRA ([[AMX-30 ACRA]])
-* [[Rbs 55]] ([[UDES 33]]/[[Pvrbv 551]])
-* [[Rbs 56]] ([[Strf 9040 BILL]])</div>
 
-Laser guided missiles (AGM-114 Hellfire, MIM146 ADATS, etc) will not be jammed by EIREL. In order to let the APS work, it must be tuned on with a key in the control section. The APS can be destroyed.
+EIREL will jam SACLOS missiles that are not equipped with ECCM systems. Laser guided missiles (AGM-114 Hellfire, MIM146 ADATS, etc) will not be jammed by EIREL. In order to let the APS work, it must be tuned on with a key in the control section. The APS can be destroyed.
 [[File:EIREL APS while on the move.gif|thumb|EIREL APS while on the move. As seen in the gif, the ATGM can be deviated to the sky. This is a random flight path which cannot be controlled by the player. ]]
 EIREL can be used while on the move (although turret must be facing the enemy). While on the move (specially horizontally), the jammed ATGM will move in an uncontrolled direction like normal jamming but riskier, keep this in mind as it can hit a track, engine deck or close enough to create fragmentation and mark the AMX-30 and/or friendlies. When moving forward to an enemy who fired an ATGM, it will be affected by the APS but due to the BRENUS momentum, the ATGM can hit the BRENUS if the ATGM is redirected towards the ground. EIREL creates a thermal signature which can be seen with thermal sights. It also can also be used as an IR spotlight (as shown in picture). This can be a disadvantage when in night maps as tanks with NVD (except when tanks are using thermal view) will be able to see the light beam. The APS should be turned on and off at commander's discretion. When on day maps, this will not be an issue. EIREL must have a clear line-of-sight with the enemy launcher (at least enemy sights must be able to see the tank). Tanks firing behind cover like the Swingfire can also be affected by the APS. As long as the enemy is within the jamming arc, the BRENUS will be protected against SACLOS ATGMs. The AMX-30B2 BRENUS has no access to Laser Warning Receiver (LWR) or Missile Alert Warning (MAW), so the player must rely on visual contact with the ATGM and the launcher (no LWR makes the helicopter lock-on invisible). Thankfully, the thermal sights will be capable of detecting the fireball created by the ATGMs at certain distances.
 

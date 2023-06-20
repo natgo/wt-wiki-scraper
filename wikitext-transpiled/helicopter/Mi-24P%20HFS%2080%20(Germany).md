@@ -311,7 +311,7 @@ The delivery of this helicopter is likely been inspired by the retirement delive
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mi_24p_german_hfs80 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 5:56 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 5:56 - ''War Thunder Official Channel''|o90jz82NemI|'''Mi-24 Ultimate Review''' - ''Bob Dickinson''|}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

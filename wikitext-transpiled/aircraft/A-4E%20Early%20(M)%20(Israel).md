@@ -139,9 +139,10 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Mk 81 (250 lb)|SAMP Mk 82 (500 lb)|SAMP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|GBU-8 (2,000 lb)}}
-{{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)|AGM-62A Walleye I (505 kg)}}
-{{main|AIM-9B Sidewinder|Mk 77 mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
+{{main|SAMP Mk 81 (250 lb)|SAMP Mk 82 (500 lb)|SAMP Mk 82 250 Snakeye (500 lb)|SAMP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
+{{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)|Mk 77 mod 4 incendiary}}
+{{main|AGM-62A Walleye I (505 kg)|GBU-8 (2,000 lb)|AIM-9B Sidewinder}}
+{{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
@@ -154,6 +155,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 3 x 360/50 kg G.P. bombs (1,080 kg total)
 * 3 x 500/50 kg G.P. bombs (1,500 kg total)
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 14 x 500 lb SAMP Mk 82 250 Snakeye bombs (7,000 lb total)
 * 2 x 505 kg AGM-62A Walleye I bombs (1,010 kg total)
 * 1 x 2,000 lb GBU-8 bomb (2,000 lb total)
 * 9 x Mk 77 mod 4 incendiary bombs
@@ -175,6 +177,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | 1 || 6 || 6 || 6 || 1
 |-
 ! 500 lb SAMP Mk 82 bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! 500 lb SAMP Mk 82 250 Snakeye bombs
 | 1 || 3 || 6 || 3 || 1
 |-
 ! 250/50 kg G.P. bombs
@@ -210,7 +215,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! AIM-9B Sidewinder missiles
 | 1 || || || || 1
 |-
-| colspan="6" | Maximum permissible weight: 2,710 kg<br>Maximum permissible weight imbalance: 900 kg
+| colspan="6" | Maximum permissible loadout weight: 3,720 kg<br>Maximum permissible wing load: 1,860 kg
 |-
 |}
 

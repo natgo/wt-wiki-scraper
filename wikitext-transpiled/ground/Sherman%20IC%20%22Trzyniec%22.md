@@ -4,7 +4,7 @@
 | usage-1 = other Shermans
 | link-1 = M4 Sherman (Family)
 | usage-2 = other uses
-| link-2 = Firefly (Disambiguation)
+| link-2 = Sherman (Disambiguation)
 }}
 {{Specs-Card
 |code=uk_sherman_ic_firefly

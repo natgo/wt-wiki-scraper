@@ -119,11 +119,11 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American jet figh
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -139,67 +139,80 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|Mk 79 Mod 1 incendiary}}
-{{main|AIM-7F Sparrow|AIM-9H Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
+|-
+! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
+| || || || || || 1 || || || || ||
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 3 || 3 || || || || 3 || || || || 3 || 3
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 2 || 2 || || || || 3 || || || || 2 || 2
+|-
+! [[Mk 79 Mod 1 incendiary]] bombs
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 38 || 57 || || || || 57 || || || || 57 || 38
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 12 || 12 || || || || 12 || || || || 12 || 12
+|-
+! [[AIM-7F Sparrow]] missiles
+| || 1 || || 1 || 1 || || 1 || 1 || || 1 ||
+|-
+! [[AIM-9H Sidewinder]] missiles
+| || || 2 || || || || || || 2 || ||
+|-
+! 600 gal drop tanks
+| || || || || || 1 || || || || ||
+|-
+| colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
+|-
+| colspan="13" | * Sparrows on hardpoints 2/10 cannot be carried in conjunction with Sidewinders on hardpoints 3/9 respectively
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 20 mm Mk 11 mod 5 cannon (750 rpg)
+* 1 x 600 gal drop tank
 * 4 x AIM-9H Sidewinder missiles
 * 6 x AIM-7F Sparrow missiles
 * 1 x 20 mm Mk 11 mod 5 cannon + 4 x AIM-7F Sparrow missiles + 4 x AIM-9H Sidewinder missiles + 48 x Zuni Mk32 Mod 0 ATAP rockets
 * 1 x 20 mm Mk 11 mod 5 cannon + 4 x AIM-7F Sparrow missiles + 4 x AIM-9H Sidewinder missiles + 190 x FFAR Mighty Mouse rockets
 * 1 x 20 mm Mk 11 mod 5 cannon + 4 x AIM-7F Sparrow missiles + 4 x AIM-9H Sidewinder missiles + 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
 * 1 x 20 mm Mk 11 mod 5 cannon + 4 x AIM-7F Sparrow missiles + 4 x AIM-9H Sidewinder missiles + 18 x 500 lb LDGP Mk 82 bombs (9,000 lb total)
+* 1 x 20 mm Mk 11 mod 5 cannon + 4 x AIM-7F Sparrow missiles + 4 x AIM-9H Sidewinder missiles + 18 x 250 lb Mk 81 Snakeye bombs (4,500 lb total)
+* 1 x 20 mm Mk 11 mod 5 cannon + 4 x AIM-7F Sparrow missiles + 4 x AIM-9H Sidewinder missiles + 18 x 500 lb Mk 82 Snakeye bombs (9,000 lb total)
 * 1 x 20 mm Mk 11 mod 5 cannon + 4 x AIM-7F Sparrow missiles + 4 x AIM-9H Sidewinder missiles + 12 x 750 lb M117 cone 45 bombs (9,000 lb total)
 * 1 x 20 mm Mk 11 mod 5 cannon + 4 x AIM-7F Sparrow missiles + 4 x AIM-9H Sidewinder missiles + 8 x 1,000 lb LDGP Mk 83 bombs (8,000 lb total)
-* 3x 1,000 lb Mk 79 Mod 1 incendiary bombs (3,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
-|-
-! 20 mm Mk 11 mod 5 cannons (750 rpg)
-| || || || || || 1 || || || || ||
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 750 lb M117 cone 45 bombs
-| 3 || 3 || || || || 3 || || || || 3 || 3
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 2 || 2 || || || || 3 || || || || 2 || 2
-|-
-! Mk 79 Mod 1 incendiary bombs
-| 1 || || || || || 1 || || || || || 1
-|-
-! FFAR Mighty Mouse rockets
-| 38 || 57 || || || || 57 || || || || 57 || 38
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 12 || 12 || || || || 12 || || || || 12 || 12
-|-
-! AIM-7F Sparrow missiles
-| || 1* || || 1 || 1 || || 1 || 1 || || 1* ||
-|-
-! AIM-9H Sidewinder missiles
-| || || 2* || || || || || || 2* || ||
-|-
-| colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
-|-
-| colspan="13" | * Sparrows on hardpoints 2/10 cannot be carried in conjunction with Sidewinders on hardpoints 3/9 respectively
-|}
+* 3 x Mk 79 Mod 1 incendiary bombs
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Being a slightly upgraded F-4J, the F-4S retains many of its predecessor's defining characteristics. 
+Being a slightly upgraded F-4J, the F-4S retains many of its predecessor's defining characteristics.
 
 The main difference between the two is the F-4S' leading edge wing slats. These greatly increase manoeuvrability, but as a side affect decrease energy retention. Even with improved manoeuvrability, the F-4S still does not pull hard enough to competitively dogfight.
 
@@ -211,7 +224,7 @@ The most powerful aspect of the F-4S is its weaponry. For IR-guided missiles, it
 '''Pros:'''
 
 * Powerful pulse-Doppler radar
-* Can carry 8 air-to-air missiles 
+* Can carry 8 air-to-air missiles
 ** One of the best SARH missiles at 11.3
 * Can take off and land on aircraft carrier
 * A wide range of suspended armaments, suitable for any playstyle

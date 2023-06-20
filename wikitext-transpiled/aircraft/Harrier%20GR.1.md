@@ -146,41 +146,47 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|H.E. M.C. Mk.II (500 lb)|H.E. M.C. Mk.13 (1,000 lb)|Mk 77 mod 4 incendiary|SRAAM|SNEB type 23}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_Harrier_GR.3.png]]</div>
+|-
+! [[H.E. M.C. Mk.II (500 lb)|500 lb H.E. M.C. Mk.II]] bombs
+| 1 || 1, 2 || 1 || 1, 2 || 1
+|-
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
+| || 1, 2 || 1 || 1, 2 ||
+|-
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| || 1, 2 || 1 || 1, 2 ||
+|-
+! [[Mk 77 mod 4 incendiary]] bombs
+| 1 || 1 || 1 || 1 || 1
+|-
+! [[SNEB type 23]] rockets
+| 18 || 36 || || 36 || 18
+|-
+! [[SRAAM]] missiles
+| 2 || || || || 2
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 4 x SRAAM missiles
 * 108 x SNEB type 23 rockets
 * 5 x 500 lb H.E. M.C. Mk.II bombs (2,500 lb total)
 * 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
 * 3 x 1,000 lb H.E. M.C. Mk.13 bombs (3,000 lb total)
+* 3 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (3,000 lb total)
 * 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
+* 4 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (4,000 lb total)
 * 5 x Mk 77 mod 4 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints_Harrier_GR.3.png]]</div>
-|-
-! 500 lb H.E. M.C. Mk.II bombs
-| 1 || 1, 2 || 1 || 1, 2 || 1
-|-
-! 1,000 lb H.E. M.C. Mk.13 bombs
-| || 1, 2 || 1 || 1, 2 ||
-|-
-! Mk 77 mod 4 incendiary bombs
-| 1 || 1 || 1 || 1 || 1
-|-
-! SNEB type 23 rockets
-| 18 || 36 || || 36 || 18
-|-
-! SRAAM missiles
-| 2 || || || || 2
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

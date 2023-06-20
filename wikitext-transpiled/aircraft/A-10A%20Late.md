@@ -118,7 +118,7 @@ The A-10A has substantial armour around the cockpit, fuel tanks, and transmissio
 * 38 mm titanium alloy - "bathtub" around the bottom of the cockpit
 * 44 mm bulletproof glass (54°) - windshield in front of the pilot
 
-The A-10A is equipped with a whopping 480 countermeasures. This gives an extended and effective protection against even the most potent heat-seeking missiles it will face. A good strategy is to turn on periodic countermeasures upon entering a battle. The constant flares will make you practically immune to IR guided missiles, and since the A-10A has so many countermeasures, you won’t have to worry about running out as you will probably still be left with a large amount provided you survive. 
+The A-10A is equipped with a whopping 480 countermeasures. This gives an extended and effective protection against even the most potent heat-seeking missiles it will face. A good strategy is to turn on periodic countermeasures upon entering a battle. The constant flares will make you practically immune to IR guided missiles, and since the A-10A has so many countermeasures, you won't have to worry about running out as you will probably still be left with a large amount provided you survive.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -137,7 +137,7 @@ The A-10A is equipped with a whopping 480 countermeasures. This gives an extende
 |}
 
 === Offensive armament ===
-{{Specs-Avia-Offensive}}	
+{{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 {{main|GAU-8/A (30 mm)}}
 
@@ -150,10 +150,38 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|LDGP Mk 84 (2,000 lb)|AGM-65D|AIM-9L Sidewinder|Hydra-70 M247}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 1 || 1 || 1, 3 || 1, 3 || 1 || 1 || 1, 3 || 1, 3 || 1 || 1
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 1 || 1 || 1, 3 || 1, 3 || 1 || 1 || 1, 3 || 1, 3 || 1 || 1
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || 1 || 1 || 1 || 1 || 1 || 1 || ||
+|-
+! [[Hydra-70 M247]] rockets
+| || 7 || 7, 21 || 7, 21 || || || 7, 21 || 7, 21 || 7 ||
+|-
+! [[AGM-65D]] missiles
+| || || 3 || || || || || 3 || ||
+|-
+! [[AIM-9L Sidewinder]] missiles
+| 1, 2 || || || || || || || || || 1, 2
+|-
+| colspan="11" | Maximum permissible weight imbalance: 1,000 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9L Sidewinder missiles
 * 42 x Hydra-70 M247 rockets
@@ -161,37 +189,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 84 x Hydra-70 M247 rockets + 4 x AIM-9L Sidewinder missiles
 * 10 x 500 lb LDGP Mk 82 bombs (5,000 lb total)
 * 12 x 500 lb LDGP Mk 82 bombs (6,000 lb total)
+* 18 x 500 lb Mk 82 Snakeye bombs (9,000 lb total)
 * 12 x 500 lb LDGP Mk 82 bombs + 4 x AIM-9L Sidewinder missiles (6,000 lb total)
 * 6 x 2,000 lb LDGP Mk 84 bombs (12,000 lb total)
 * 6 x 2,000 lb LDGP Mk 84 bombs + 4 x AIM-9L Sidewinder missiles (12,000 lb total)
 * 6 x AGM-65D missiles
 * 6 x AGM-65D missiles + 4 x AIM-9L Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9 !! width="5%" | 10
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! AIM-9L Sidewinder missiles
-| 1, 2 || || || || || || || || || 1, 2
-|-
-! 500 lb LDGP Mk 82 bombs
-| 1 || 1 || 1, 3 || 1, 3 || 1 || 1 || 1, 3 || 1, 3 || 1 || 1
-|-
-! Hydra-70 M247 rockets
-| || 7 || 7, 21 || 7, 21 || || || 7, 21 || 7, 21 || 7 ||
-|-
-! AGM-65D missiles
-| || || 3 || || || || || 3 || ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || 1 || 1 || 1 || 1 || 1 || 1 || ||
-|-
-| colspan="11" | Maximum permissible weight imbalance: 1,000 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -201,9 +206,9 @@ The A-10's low speed makes it difficult to reach enemy ground units and bases wi
 
 However, its slow speed and great maneuverability allows the A-10 much more time to aim its weapons at ground targets than if it were, say, a supersonic aircraft which is unmanoeuvrable at low speeds. Due to this, the A-10 can farm ground targets much quicker than most other planes; with its 1,174 rounds of 30 mm, a single A-10 left unchecked to freely attack ground targets can reduce an enemy team's ticket count by half or more. As stated before, the A-10 has very little chance in a vertical dogfight. However, the A-10's slow speed and good low speed manoeuvrability gives it the advantage in a horizontal scissors dogfight, as the likely faster enemy aircraft will quickly pass in front of the A-10's devastating gun. In a prolonged horizontal low speed scissors dogfight, the enemy aircraft would have likely bled much of their speed, again giving the A-10 an advantage with its good low speed manoeuvrability. If the enemy attempts to run away, the A-10 can exploit their low speed to launch an AIM-9L. When flying the A-10, if you notice an attacking aircraft may be unaware of the A-10's speed weakness (or unaware of how to exploit it), attempt to force it into a horizontal turn fight or scissors where you will have the advantage.
 
-The A-10A Late can equip up to four AIM-9L air-to-air missiles for self-defense. These missiles have long range, high manoeuvrability (30G maximum overload), and all-aspect ability (can be launched from all sides including the front). However, there are a few significant drawbacks. The AIM-9Ls have a low track rate, meaning that while the missile has great manoeuvrability, it takes a long time to deflect its control surfaces and actually reach that manoeuvrability. This is a big problem noticeable in a couple situations. First, when the missile is initially launched, the AIM-9L travels basically straight for a moment before taking some time to get to speed and manoeuvrability. This means that it has trouble making high-aspect close range launches, especially in a head-on where the enemy's high approach rate gives the AIM-9L little time to manoeuvre. Second, it struggles to follow targets in multi-axis high-G manoeuvres (such as rolling and pitching aggressively at the same time and alternating directions). The next big problem is its tendency to overlead targets traveling at high speed. What this means is that it will turn towards the target, lead too far as if the enemy was traveling faster than they actually are, and at the last moment it will attempt to turn back in towards the enemy to correct itself, which usually causes the missile to miss. Finally, the AIM-9L is very sensitive, consistently and easily going after not only flares but also other missiles. 
+The A-10A Late can equip up to four AIM-9L air-to-air missiles for self-defense. These missiles have long range, high manoeuvrability (30G maximum overload), and all-aspect ability (can be launched from all sides including the front). However, there are a few significant drawbacks. The AIM-9Ls have a low track rate, meaning that while the missile has great manoeuvrability, it takes a long time to deflect its control surfaces and actually reach that manoeuvrability. This is a big problem noticeable in a couple situations. First, when the missile is initially launched, the AIM-9L travels basically straight for a moment before taking some time to get to speed and manoeuvrability. This means that it has trouble making high-aspect close range launches, especially in a head-on where the enemy's high approach rate gives the AIM-9L little time to manoeuvre. Second, it struggles to follow targets in multi-axis high-G manoeuvres (such as rolling and pitching aggressively at the same time and alternating directions). The next big problem is its tendency to overlead targets traveling at high speed. What this means is that it will turn towards the target, lead too far as if the enemy was traveling faster than they actually are, and at the last moment it will attempt to turn back in towards the enemy to correct itself, which usually causes the missile to miss. Finally, the AIM-9L is very sensitive, consistently and easily going after not only flares but also other missiles.
 
-All these drawbacks make the AIM-9L quite an unreliable missile, and those familiar with the other high-tier Sidewinder variants (such as the AIM-9G/H and AIM-9J/P) will quickly notice the AIM-9L missing shots that those other sidewinder variants would easily have made. However, these drawbacks absolutely do not make the AIM-9L a useless missile, as they can be extremely deadly when used correctly. Despite having a poor track rate, it still has high manoeuvrability, meaning that if an enemy tries to dodge the missile by simply turning hard in just one direction (which happens fairly commonly), the missile will reach its maximum manoeuvrability and likely destroy them. Its long range and all-aspect capability means that it can catch unaware enemies off guard. Launching from below is a good way to do this, and enemies tend to not properly dodge the missile in head-ons. Despite its unreliability, if an enemy isn't going fast, the AIM-9L will easily strike them from even long ranges. Finally, at its BR, the A-10A Late and its AIM-9Ls commonly encounter aircraft without flares, making those aircraft especially vulnerable in these situations. In conclusion, you shouldn't expect the AIM-9L to reliably kill enemies, but if used properly, they can be used effectively in a support role. 
+All these drawbacks make the AIM-9L quite an unreliable missile, and those familiar with the other high-tier Sidewinder variants (such as the AIM-9G/H and AIM-9J/P) will quickly notice the AIM-9L missing shots that those other sidewinder variants would easily have made. However, these drawbacks absolutely do not make the AIM-9L a useless missile, as they can be extremely deadly when used correctly. Despite having a poor track rate, it still has high manoeuvrability, meaning that if an enemy tries to dodge the missile by simply turning hard in just one direction (which happens fairly commonly), the missile will reach its maximum manoeuvrability and likely destroy them. Its long range and all-aspect capability means that it can catch unaware enemies off guard. Launching from below is a good way to do this, and enemies tend to not properly dodge the missile in head-ons. Despite its unreliability, if an enemy isn't going fast, the AIM-9L will easily strike them from even long ranges. Finally, at its BR, the A-10A Late and its AIM-9Ls commonly encounter aircraft without flares, making those aircraft especially vulnerable in these situations. In conclusion, you shouldn't expect the AIM-9L to reliably kill enemies, but if used properly, they can be used effectively in a support role.
 
 With the AIM-9L, it is important to keep in mind its effective launch/lock ranges. From rear aspect, the missile can hit enemies traveling faster than the A-10 from 2.5 km, or similar speed enemies from 3 km. From side aspect, the missile can hit enemies at 3 km. From the front, the missile usually won't get a lock on even afterburning aircraft until 2 km, so be prepared to launch and quickly evade.
 
@@ -213,7 +218,7 @@ With the AIM-9L, it is important to keep in mind its effective launch/lock range
 '''Pros:'''
 
 * Great manoeuvrability
-* Great roll rate 
+* Great roll rate
 * Good armour protection around the cockpit area that will protect the pilot
 * 480 countermeasures are extremely effective against common heat-seeking missiles and early radar-guided missiles
 * Devastating cannon with a large ammo pool
@@ -221,15 +226,15 @@ With the AIM-9L, it is important to keep in mind its effective launch/lock range
 * Access to four all-aspect AIM-9L Sidewinder air-to-air missiles with long range, excellent turning ability, and significant flare resistance
 * Sturdy wings which are hard to rip and don't break in dives
 * Access to AGM-65D air-to-ground TV-guided missiles which have heat-sensing thermal sights and can therefore be used during night operations unlike the previous AGM-65A/B
-* The aircraft's slow speed means G-forces sustained during manoeuvres isn’t much of an issue
+* The aircraft's slow speed means G-forces sustained during manoeuvres isn't much of an issue
 
 '''Cons:'''
 
-* Very poor climb rate and moderate acceleration 
+* Very poor climb rate and moderate acceleration
 * Extremely poor top speed makes the A-10 easy prey, especially to SAMs and SPAA
 * Does not have access to gunpods or guided bombs which the premium A-10 gets
 * Engine can potentially overheat when running at or near 100% throttle unless on a winter map
-* Engines are heavily exposed and vulnerable 
+* Engines are heavily exposed and vulnerable
 * Large wingspan makes for a large target
 
 == History ==

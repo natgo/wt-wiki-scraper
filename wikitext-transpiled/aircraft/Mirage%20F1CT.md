@@ -139,62 +139,70 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Type 25 (250 kg)|SAMP Type 21 (400 kg)|SAMP Mk 82 (500 lb)|SAMP Mk 83 (1,000 lb)|SAMP Mk 84 (2,000 lb)}}
-{{main|Matra R530|Matra R530E|Matra R550 Magic 2|Matra Super 530F|SNEB type 23}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_F1C.png]]</div>
+|-
+! [[SAMP Mk 82 (500 lb)|500 lb SAMP Mk 82]] bombs
+| || 1 || 1, 2 || 1, 4 || 1, 2 || 1 ||
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| || 1 || 1 || 1 || 1 || 1 ||
+|-
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
+| || 1 || 1 || 1 || 1 || 1 ||
+|-
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| || 1 || 1 || 1, 4 || 1 || 1 ||
+|-
+! [[SAMP Type 21 200 (400 kg)|400 kg SAMP Type 21 200]] bombs
+| || 1 || 1 || 1, 4 || 1 || 1 ||
+|-
+! [[SAMP Mk 83 (1,000 lb)|1,000 lb SAMP Mk 83]] bombs
+| || 1 || 1 || 1, 2 || 1 || 1 ||
+|-
+! [[SAMP Mk 84 (2,000 lb)|2,000 lb SAMP Mk 84]] bombs
+| || || 1 || 1, 2 || 1 || ||
+|-
+! [[SNEB type 23]] rockets
+| || 18, 36 || 18, 36 || || 18, 36 || 18, 36 ||
+|-
+! [[Matra R530]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[Matra R530E]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[Matra R550 Magic 2]] missiles
+| 1 || || || || || || 1
+|-
+! [[Matra Super 530F]] missiles
+| || || 1 || || 1 || ||
+|-
+| colspan="8" | Maximum permissible weight imbalance: 950 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 72 x SNEB type 23 rockets
 * 144 x SNEB type 23 rockets
 * 10 x 500 lb SAMP Mk 82 bombs (5,000 lb total)
+* 5 x 250 kg SAMP Type 25 200 bombs (1,250 kg total)
 * 8 x 400 kg SAMP Type 21 bombs (3,200 kg total)
+* 8 x 400 kg SAMP Type 21 200 bombs (3,200 kg total)
 * 6 x 1,000 lb SAMP Mk 83 bombs (6,000 lb total)
 * 3 x 2,000 lb SAMP Mk 84 bombs (6,000 lb total)
 * 2 x Matra R550 Magic 2 missiles
 * 2 x Matra R530E missiles
 * 2 x Matra R530 missiles
 * 2 x Matra Super 530F missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_F1C.png]]</div>
-|-
-! 500 lb SAMP Mk 82 bombs
-| || 1 || 1, 2 || 1, 4 || 1, 2 || 1 ||
-|-
-! 250 kg SAMP Type 25 bombs
-| || 1 || 1 || 1 || 1 || 1 ||
-|-
-! 400 kg SAMP Type 21 bombs
-| || 1 || 1 || 1, 4 || 1 || 1 ||
-|-
-! 1,000 lb SAMP Mk 83 bombs
-| || 1 || 1 || 1, 2 || 1 || 1 ||
-|-
-! 2,000 lb SAMP Mk 84 bombs
-| || || 1 || 1, 2 || 1 || ||
-|-
-! SNEB type 23 rockets
-| || 18, 36 || 18, 36 || || 18, 36 || 18, 36 ||
-|-
-! Matra R530 missiles
-| || || 1 || || 1 || ||
-|-
-! Matra R530E missiles
-| || || 1 || || 1 || ||
-|-
-! Matra R550 Magic 2 missiles
-| 1 || || || || || || 1
-|-
-! Matra Super 530F missiles
-| || || 1 || || 1 || ||
-|-
-| colspan="8" | Maximum permissible weight imbalance: 950 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

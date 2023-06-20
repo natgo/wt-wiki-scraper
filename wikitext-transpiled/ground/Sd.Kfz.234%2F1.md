@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is the second production model of the [[Sd.Kfz.234 (Family)]] after the [[Sd.Kfz.234/2]] and is a heavily armoured car recon vehicle with a simple open-top turret providing a 20 mm autocannon next to an MG42 machine gun to deal with infantry and light combat vehicles. 
+The '''{{Specs|name}}''' was the second production model of the [[Sd.Kfz.234 (Family)|Sd.Kfz.234]] after the [[Sd.Kfz.234/2]] and was a heavily armoured car reconnaissance vehicle with a simple open-top turret providing a 20 mm autocannon next to an MG42 machine gun to deal with infantry and light combat vehicles. The Sd.Kfz 234 series were primarily built as a further improvement to Germany's reconnaissance vehicles after learning of the effectiveness of said type of vehicle with combat reports of the Sd.Kfz. series 231/232/233.
 
-It was introduced during [[Update 1.97 "Viking Fury"]] as a reward for the [[wt:en/news/6669-special-space-race-en|"Space Race" event]]. The Sd.Kfz.234/1 combines the familiar chassis of the [[Sd.Kfz.234/2]], but with the turret of the [[Sd.Kfz. 140/1]]. While not as heavily armoured as the latter, the mobility presented by the former's chassis gives the Sd.Kfz.234/1 excellent map manoeuvrability to utilise the 20 mm autocannon against unsuspecting opponents.
+It was introduced during [[Update 1.97 "Viking Fury"]] as a reward for the [[wt:en/news/6669-special-space-race-en|"Space Race" event]]. The Sd.Kfz.234/1 combines the familiar chassis of the [[Sd.Kfz.234/2]] with the turret of the [[Sd.Kfz. 140/1]]. While not as heavily armoured as the latter, the mobility presented by the former's chassis gives the Sd.Kfz.234/1 excellent map manoeuvrability to utilise the 20 mm autocannon against unsuspecting opponents.
 
 == General info ==
 === Survivability and armour ===

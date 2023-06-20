@@ -131,7 +131,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 The two cannons are arranged in the belly portion of the fuselage exiting the aircraft just behind the pilot's location. Each is armed with the same amount of ammunition, which means that both guns will fire together until empty.
 
-This aircraft is the first of the French jets to use 30 mm DEFA canons, which are (as of Update 1.95) the best 30 mm guns in the game, with the highest shell velocity, rate of fire, and gun reliability. While the default ammunition is underwhelming, the "air targets" ammunition will shred enemy fighters with a single or a couple of shells. Heavier targets might need 3-5 hits to loose a wing.
+This aircraft is the first of the French jets to use 30 mm DEFA canons, which are (as of Update 1.95) the best 30 mm guns in the game, with the highest shell velocity, rate of fire, and gun reliability. While the default ammunition is underwhelming, the "air targets" ammunition will shred enemy fighters with a single or a couple of shells. Heavier targets might need 3-5 hits to lose a wing.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

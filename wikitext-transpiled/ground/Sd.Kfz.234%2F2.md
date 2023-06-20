@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (also known as the '''{{PAGENAME}}''') is the first production and most well-known version of the [[Sd.Kfz.234 (Family)]]. It is a heavy armored car reconnaissance vehicle featuring the turret of the prototype VK 16.02 Leopard housing a [[KwK 39 (50 mm)]] cannon next to an MG42 machine gun. 
+The '''{{Specs|name}}''' is the first production variant and most well-known version of the [[Sd.Kfz.234 (Family)|Sd.Kfz.234 family]]. It was a heavy armoured car reconnaissance vehicle featuring the turret of the prototype VK 16.02 Leopard housing a [[KwK 39 (50 mm)|50 mm KwK 39]] cannon next to an MG42 machine gun. The Sd.Kfz 234 series were primarily built as a further improvement to Germany's reconnaissance vehicles after learning of the effectiveness of said type of vehicle with combat reports of the Sd.Kfz. series 231/232/233.
 
-It was introduced in [[Update 1.69 "Regia Aeronautica"]]. A respectable armoured car, the {{PAGENAME}} presents great speed and a significant 50 mm KwK39 cannon. Due to its status as a light tank, and thus having the ability to scout, it should put more emphasis on its speed to put itself in an advantageous position to sight targets for allies, with its gun only for emergencies should an enemy vehicle try to get an upper hand of the vehicle.
+It was introduced in [[Update 1.69 "Regia Aeronautica"]]. A respectable armoured car, the {{PAGENAME}} presents great speed and a significant 50 mm KwK39 cannon. Due to its status as a light tank, and thus having the ability to scout, it should put more emphasis on its speed to put itself in an advantageous position to sight targets for allies, with its gun only for emergencies should an enemy vehicle try to get an upper hand on the vehicle.
 
 == General info ==
 === Survivability and armour ===

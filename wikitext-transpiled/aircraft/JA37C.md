@@ -40,11 +40,11 @@ A decently fast plane, capable of around Mach 1.4 within a game. Somewhat fast t
 ==== Details ====
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="6" | Features
+! colspan="7" | Features
 |-
-! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
+! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute !! Thrust reversal
 |-
-| X || X || ✓ || ✓ || X || X     <!-- ✓ -->
+| X || X || ✓ || ✓ || X || X || {{Annotation|✓*|Only when landed}}     <!-- ✓ -->
 |-
 |}
 
@@ -59,7 +59,7 @@ A decently fast plane, capable of around Mach 1.4 within a game. Somewhat fast t
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,536 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || N/A || N/A || 400 || ~12 || ~4
+| 1,536 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || 400 || ~12 || ~4
 |-
 |}
 
@@ -69,7 +69,7 @@ A decently fast plane, capable of around Mach 1.4 within a game. Somewhat fast t
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 865 || < 700 || < 520 || N/A
+| < 865 || < 700 || < 520 || -
 |-
 |}
 
@@ -120,11 +120,11 @@ The JA37C, being primarily a fighter-interceptor, is not equipped with any armou
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
+| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -145,7 +145,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-* Without load
+* 1 x 1,250 l drop tank
 * 2 x RB24J missiles
 * 6 x RB24 missiles
 * 6 x RB24J missiles
@@ -155,20 +155,23 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="5" width="20%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6 !! width="7%" | 7
+| rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints_JA37D.png]]</div>
 |-
 ! psrak m/70 rockets
-| || 6 || 6 || 6 || 6 ||
+| || 6 || 6 || || 6 || 6 ||
 |-
 ! RB24 missiles
-| 1 || 1 || 1 || 1 || 1 || 1
+| 1 || 1 || 1 || || 1 || 1 || 1
 |-
 ! RB24J missiles
-| 1 || 1 || 1 || 1 || 1 || 1
+| 1 || 1 || 1 || || 1 || 1 || 1
 |-
 ! RB71 missiles
-| || 1 || || || 1 ||
+| || 1 || || || || 1 ||
+|-
+! 1,250 l drop tanks
+| || || || 1 || || ||
 |-
 |}
 
@@ -199,7 +202,7 @@ Try to stay out of any extended dogfight, especially if your opponent has any su
 
 * Extremely poor energy retention during sustained turns, only made worse by its acceleration at low speeds
 * Fuel-thirsty afterburner
-* Lackluster performance at mid-to-low subsonic speeds and mediocre acceleration
+* Lacklustre performance at mid-to-low subsonic speeds and mediocre acceleration
 * Weak airbrakes
 * You are facing better-performing missiles at your BR
 * Radar locks onto chaff easily

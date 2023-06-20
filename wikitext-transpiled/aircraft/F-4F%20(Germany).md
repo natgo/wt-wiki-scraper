@@ -168,19 +168,76 @@ With its extremely high rate of fire, trigger discipline is a must.
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|AGM-65B|AIM-9B FGW.2 Sidewinder|AIM-9E Sidewinder|AIM-9J Sidewinder}}
-{{main|BLU-27/B incendiary|M118 (3,000 lb)|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| 1 || || || || || || 1
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 3 || || 6 || || 3 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 3 || || 6 || || 3 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 3 || || 6 || || 3 || 6
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 2 || 3 || || 3 || || 3 || 2
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || || || 1 || || || 1
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 3 || 3 || || 5 || || 3 || 3
+|-
+! [[M118 (3,000 lb)|3,000 lb M118]] bombs
+| || || || 1 || || ||
+|-
+! [[BLU-27/B incendiary]] bombs
+| 1 || || || 2 || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 57 || 57 || || 57 || || 57 || 57
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 12 || 12 || || 12 || || 12 || 12
+|-
+! [[AGM-65B]] missiles
+| || 1 || || || || 1 ||
+|-
+! [[AIM-9B FGW.2 Sidewinder]] missiles
+| || || 2 || || 2 || ||
+|-
+! [[AIM-9E Sidewinder]] missiles
+| || || 1, 2 || || 1, 2 || ||
+|-
+! [[AIM-9J Sidewinder]] missiles
+| || || 2 || || 2 || ||
+|-
+! 600 gal drop tanks
+| || || || 1 || || ||
+|-
+| colspan="8" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 600 gal drop tank
 * 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
 * 2 x AIM-9E Sidewinder missiles
 * 4 x AIM-9B FGW.2 Sidewinder missiles
 * 4 x AIM-9E Sidewinder missiles
 * 4 x AIM-9J Sidewinder missiles
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
 * 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
 * 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
@@ -188,58 +245,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 285 x FFAR Mighty Mouse rockets
 * 60 x Zuni Mk32 Mod 0 ATAP rockets
 * 2 x AGM-65B missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1200 rpg)
-| 1 || || || || || || 1
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 3 || || 6 || || 3 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 3 || || 6 || || 3 || 6
-|-
-! 750 lb M117 cone 45 bombs
-| 3 || 3 || || 5 || || 3 || 3
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 2 || 3 || || 3 || || 3 || 2
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| 1 || || || 1 || || || 1
-|-
-! 3,000 lb M118 bombs
-| || || || 1 || || ||
-|-
-! BLU-27/B incendiary bombs
-| 1 || || || 2 || || || 1
-|-
-! FFAR Mighty Mouse rockets
-| 57 || 57 || || 57 || || 57 || 57
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 12 || 12 || || 12 || || 12 || 12
-|-
-! AGM-65B missiles
-| || 1 || || || || 1 ||
-|-
-! AIM-9B FGW.2 Sidewinder missiles
-| || || 2 || || 2 || ||
-|-
-! AIM-9E Sidewinder missiles
-| || || 1, 2 || || 1, 2 || ||
-|-
-! AIM-9J Sidewinder missiles
-| || || 2 || || 2 || ||
-|-
-| colspan="8" | Maximum permissible weight imbalance: 1,500 kg
-|-
-|}
+{{Navigation-End}}
 
 '''GAU-4 gunpods''' - additional gunpods with M61A1 cannons, providing 1,200 rounds per gun. These basically allow pilot to put a wall of lead between their plane and the enemy, however, they severely hamper flight performance.
 
@@ -312,7 +318,7 @@ If pilots need to counter ground based AA, the best tactic is to break line of s
 
 * AIM-9J's are decently flare-resistant (especially compared to Russian counterparts such as the R-60)
 * Comes with internal 20 mm Vulcan cannon rather than having to equip it as an external pylon (unlike other Phantoms)
-* Equipped with RWR and 90 Countermeasures 
+* Equipped with RWR and 90 Countermeasures
 * Variety of large air-to-ground payloads, including the potent AGM-65B Maverick fire and forget missiles.
 
 '''Cons:'''

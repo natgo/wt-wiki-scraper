@@ -145,35 +145,40 @@ As the ADEN Mk.4 is typically only used in air-to-air engagements, it may be adv
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|AIM-9G Sidewinder|CRV7 M247}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 8 x 540 lb Mk.M2 bombs (4,320 lb total)
-* 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
-* 2 x AIM-9G Sidewinder missiles
-* 76 x CRV7 M247 rockets
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 540 lb Mk.M2 bombs
+! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
 | 1 || 2 || 2 || 2 || 1
 |-
-! 1,000 lb H.E. M.C. Mk.13 bombs
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
 | 1 || 2 || 2 || 2 || 1
 |-
-! CRV7 M247 rockets
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| 1 || 2 || 2 || 2 || 1
+|-
+! [[CRV7 M247]] rockets
 | 19 || 19 || || 19 || 19
 |-
-! AIM-9G Sidewinder missiles
+! [[AIM-9G Sidewinder]] missiles
 | 1 || || || || 1
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 8 x 540 lb Mk.M2 bombs (4,320 lb total)
+* 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
+* 8 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (8,000 lb total)
+* 2 x AIM-9G Sidewinder missiles
+* 76 x CRV7 M247 rockets
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -212,7 +217,7 @@ The aircraft features a drag chute, air brakes, and an arresting hook, as well a
 * Only able to cary two AIM-9G Sidewinders.
 * Does not come equipped with any kind of radar, leaving it unable to use radar-homing missiles.
 * Incredibly heavy when loaded with bombs.
-* Does not carry any sort of countermeasures, leaving it susceptible to AA missiles.
+* Does not carry any sort of countermeasures, leaving it susceptible to AA missiles.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

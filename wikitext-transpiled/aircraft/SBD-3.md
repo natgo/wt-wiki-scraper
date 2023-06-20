@@ -151,13 +151,15 @@ The '''''{{PAGENAME}}''''' is armed with:
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 [[File:Dauntless_dive_carrier.JPG.jpg|thumbnail|right|A Dauntless diving towards a Japanese carrier.]]
-{{main|AN-M30A1 (100 lb)|AN-M65A1 (1,000 lb)|Type A Mark I mine|M2 Browning (12.7 mm)}}
+{{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|Type A Mark I mine|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 1 x 1,000 lb AN-M65A1 bomb + 2 x 100 lb AN-M30A1 bombs (1,200 lb total)
 * 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
 * 1 x Type A Mark I mine
+* 1 x 500 lb AN-M64A1 bomb (500 lb total)
+* 1 x 500 lb AN-M64A1 bomb + 2 x 100 lb AN-M30A1 bombs (700 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

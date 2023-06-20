@@ -139,18 +139,86 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|OFAB-250sv (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary|GSh-23L (23 mm)}}
-{{main|Kh-23M|Kh-25ML|Kh-29L|R-60}}
-{{main|S-3K|S-5K|S-8KO}}
-{{main|S-24B|S-25L|S-25O}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="21" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| || || 1 || || || 1 || ||
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| 5 || || 1 || 4 || 4 || 1 || || 5
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || || 1 || 3 || 3 || 1 || || 1
+|-
+! [[OFAB-250Sh (250 kg)|250 kg OFAB-250Sh]] bombs
+| 1 || || 1 || 3 || 3 || 1 || || 1
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| 1 || || || 2 || 2 || || || 1
+|-
+! [[FAB-500Sh (500 kg)|500 kg FAB-500Sh]] bombs
+| 1 || || || 2 || 2 || || || 1
+|-
+! [[ZB-500 incendiary]] bombs
+| 1 || || || 1 || 1 || || || 1
+|-
+! [[S-3K]] rockets
+| 7 || || || 7 || 7 || || || 7
+|-
+! [[S-5K]] rockets
+| 32 || || 32 || || || 32 || || 32
+|-
+! [[S-8KO]] rockets
+| 20 || || 20 || || || 20 || || 20
+|-
+! [[S-24B]] rockets
+| 1 || || 1 || 1 || 1 || 1 || || 1
+|-
+! [[S-25O]] rockets
+| 1 || || || || || || || 1
+|-
+! [[Kh-23M]] missiles
+| 1 || || || || || || || 1
+|-
+! [[Kh-25ML]] missiles
+| 1 || || || 1 || 1 || || || 1
+|-
+! [[Kh-29L]] missiles
+| || || || 1 || 1 || || ||
+|-
+! [[R-60]] missiles
+| || 1 || 2 || || || 2 || 1 ||
+|-
+! [[S-25L]] missiles
+| 1 || || || || || || || 1
+|-
+! Delta-NG targeting pod
+| || || 1 || || || || ||
+|-
+! 800 l drop tanks
+| || || || 1 || 1 || || ||
+|-
+| colspan="9" | Maximum permissible weight imbalance: 700 kg
+|-
+| colspan="10" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 2 x 800 l drop tanks
 * 2 x R-60 missiles
 * 20 x 100 kg OFAB-100 bombs (2,000 kg total)
 * 10 x 250 kg OFAB-250sv bombs (2,500 kg total)
+* 10 x 250 kg OFAB-250Sh bombs (2,500 kg total)
 * 6 x 500 kg FAB-500M-62 bombs (3,000 kg total)
+* 6 x 500 kg FAB-500Sh bombs (3,000 kg total)
 * 28 x S-3K rockets
 * 128 x S-5K rockets
 * 6 x S-24B rockets
@@ -163,66 +231,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 6 x R-60 missiles
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
 * 4 x ZB-500 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="19" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| || || 1 || || || 1 || ||
-|-
-! 100 kg OFAB-100 bombs
-| 5 || || 1 || 4 || 4 || 1 || || 5
-|-
-! 250 kg OFAB-250sv bombs
-| 1 || || 1 || 3 || 3 || 1 || || 1
-|-
-! 500 kg FAB-500M-62 bombs
-| 1 || || || 2 || 2 || || || 1
-|-
-! ZB-500 incendiary bombs
-| 1 || || || 1 || 1 || || || 1
-|-
-! S-3K rockets
-| 7 || || || 7 || 7 || || || 7
-|-
-! S-5K rockets
-| 32 || || 32 || || || 32 || || 32
-|-
-! S-8KO rockets
-| 20 || || 20 || || || 20 || || 20
-|-
-! S-24B rockets
-| 1 || || 1 || 1 || 1 || 1 || || 1
-|-
-! S-25O rockets
-| 1 || || || || || || || 1
-|-
-! Kh-23M missiles
-| 1 || || || || || || || 1
-|-
-! Kh-25ML missiles
-| 1 || || || 1 || 1 || || || 1
-|-
-! Kh-29L missiles
-| || || || 1 || 1 || || ||
-|-
-! R-60 missiles
-| || 1 || 2 || || || 2 || 1 ||
-|-
-! S-25L missiles
-| 1 || || || || || || || 1
-|-
-! Delta-NG
-| || || 1 || || || || ||
-|-
-| colspan="9" | Maximum permissible weight imbalance: 700 kg
-|-
-| colspan="10" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -164,19 +164,22 @@ There are several big threats to the Vautour, take care around the [[Sea Vixen F
 
 '''Pros:'''
 
-* Has great acceleration and good top speed
+* It has the same engines of the [[S.O.4050 Vautour IIB]], giving an '''outstanding''' acceleration in maximum power and good top speed
 * Able to mix the loadouts of AA-20 Nord and R.511 missiles
 * The AA-20 Nords are very useful and reliable in head-ons thanks to the great proxy fuse and warhead, and the R.511 in most situations as the Vautour is able to lock by radar
 * Excellent quadruple 30 mm cannons with good ammo capacity and insane damage
 * R.511 has excellent manoeuvrability for an early radar-guided missile, and also the radar has much less ground interference compared to its contemporaries
+* Has a airspawn, giving it the ability to perform an initial deadly surprise attack against any opponent with its unique and effective weapons set
 
 '''Cons:'''
 
+* The engines overheat quickly at 110%
+* Incredibly poor manoeuvrability in any manoeuvre and speed
+* It's the Vautour with the less turning capacity compared to any variant, as the Flight Model is shared with the [[S.O.4050 Vautour IIA]], not having an all-flying tail while the extra thrust increases the already extreme compression 
 * Although manoeuvrable, the R.511 is one of the slowest missiles in the game, it is not able to catch enemies with considerable speed in a tail chase
 * The R.511 produces a pretty visible smoke from kilometres away, and many planes can see and evade pretty easily
-* Incredibly poor manoeuvrability in any manoeuvre and speed
 * Entirely lacks air-to-ground options, making it a one-dimensional vehicle.
-* the AA-20 Nord missiles are MCLOS, needing specific keybinds and full manual guidance by the pilot in certain situations, not beginner-friendly
+* The AA-20 Nord missiles are MCLOS, needing specific keybinds and full manual guidance by the pilot in certain situations, not beginner-friendly
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

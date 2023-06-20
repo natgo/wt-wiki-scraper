@@ -122,7 +122,7 @@ The A-7K was introduced during [[Update "Sky Guardians"]] as a reward for the [[
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="5" | [[Ballistic Computer]]
+! colspan="4" | [[Ballistic Computer]]
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
 |-
@@ -137,32 +137,91 @@ The A-7K was introduced during [[Update "Sky Guardians"]] as a reward for the [[
 The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
-** 1 x 20 mm M61A1 cannon, chin-mounted (1,000 rpg)
+** 1 x 20 mm M61A1 cannon, chin-mounted (500 rpg)
 ** 1 x 20 mm M61A1 cannon + 120 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|GBU-8 (2,000 lb)|AGM-65B|AIM-9L Sidewinder|AIM-9J Sidewinder}}
-{{main|FFAR Mighty Mouse|BLU-27/B incendiary|GAU-13/A (30 mm)|GAU-4 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-7D.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| || || 1 || || || 1 || ||
+|-
+! [[GAU-13/A (30 mm)|30 mm GAU-13/A]] cannons (353 rpg)
+| || || 1 || || || 1 || ||
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 4, 6 || 6 || || || || || 6 || 4, 6
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 4, 6 || 6 || || || || || 6 || 4, 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 4, 6 || 6 || || || || || 6 || 4, 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 4, 6 || 6 || || || || || 6 || 4, 6
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 1 || 4 || 2 || || || 2 || 4 || 1
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 2, 3 || 3 || || || || || 3 || 2, 3
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || 1 || 1 || || || 1 || 1 || 1
+|-
+! [[GBU-8 (2,000 lb)|2,000 lb GBU-8]] bombs
+| || 1 || 1 || || || 1 || 1 ||
+|-
+! [[BLU-27/B incendiary]] bombs
+| 1 || 1 || 1 || || || 1 || 1 || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 19 || 19 || || || 19 || 19 || 19
+|-
+! [[AGM-65B]] missiles
+| || 3 || || || || || 3 ||
+|-
+! [[AIM-9J Sidewinder]] missiles
+| || || || 1 || 1 || || ||
+|-
+! [[AIM-9L Sidewinder]] missiles
+| || || || 1 || 1 || || ||
+|-
+! LANA Flir Navigation Pod
+| || || 1 || || || || ||
+|-
+| colspan="9" | Maximum permissible loadout weight: 7,260 kg<br>Maximum permissible wing load: 3,630 kg<br>Maximum permissible weight imbalance: 2,900 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 2 x AIM-9L Sidewinder missiles
 * 2 x AIM-9J Sidewinder missiles
+* 2 x AIM-9L Sidewinder missiles
 * 114 x FFAR Mighty Mouse rockets
 * 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
+* 24 x 250 lb Mk 81 Snakeye bombs (6,000 lb total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 14 x 750 lb M117 cone 45 bombs (10,500 lb total)
 * 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
 * 6 x 2,000 lb LDGP Mk 84 bombs (12,000 lb total)
-* 4 x 2,000 lb GBU-8 (8,000 lb total)
+* 4 x 2,000 lb GBU-8 bombs (8,000 lb total)
 * 6 x BLU-27/B incendiary bombs
-* 6 x AGM-65B
+* 6 x AGM-65B missiles
 * 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
 * 2 x 30 mm GAU-13/A cannons (353 rpg = 706 total)
+{{Navigation-End}}
 
 The A-7K can carry huge amount of suspended armament for ground attack use. Aircraft starts of with up to 24 x 250 lb LDGP Mk 81 bombs, which are enough to dispose of a base in Air RB. After researching 24 x 500 lb Mk 82 bombs the plane is capable of destroying 2 bases in one run. It can also take 14 x 750 lb M117, 12 x 1,000 lb LDGP Mk 83 and 6 x 2,000 lb LDGP Mk 84 bombs, which are more useful in Ground RB since they offer larger blast radii. For use against ground vehicles the plane can carry 114 x FFAR Mighty Mouse rockets, 4 x 2,000 lb GBU-8 TV-guided bombs and 6 x AGM-65B TV-guided air-to-ground missiles. Guided munitions are used with the LANA Flir Navigation Pod, which provides thermal vision over the battlefield, making spotting targets easier. That makes the A-7K a very potent CAS option that can bring havoc upon the enemy team. The aircraft can also carry 6 x BLU-27/B incendiary bombs, and for self-defense against enemy planes it starts with 2 x AIM-9J air-to-air missiles, which can be upgraded to AIM-9Ls. For increased firepower, the plane can take 2 x 20 mm  GAU-4 gunpods (with 1,200 rounds each) or 2 x 30 mm GAU-13/A gunpods (with 353 rounds each).
 

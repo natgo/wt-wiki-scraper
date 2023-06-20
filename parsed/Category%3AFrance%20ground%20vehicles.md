@@ -145,16 +145,18 @@
 {{Tree-Line|V Rank}}
 |
 {{Tree-Unit|fr_amx_13_90}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|fr_amx_30_1972}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|fr_amx_50_surbaisse}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Arrow-Full|2}}
+|
+{{Tree-Unit|fr_amx_30_auf_1}}
 {{Tree-Arrow}}
-|
-{{Tree-Arrow-Full|1}}
-|
 {{Tree-Unit|fr_amx_50_foch}}
 {{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
@@ -194,6 +196,8 @@
 {{Tree-Unit|fr_sk105_a2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|fr_amx_30_super}}
+{{Tree-Skip}}
+{{Tree-Unit|fr_vbci2_mct30}}
 |
 
 {{Tree-Line|VII Rank}}

@@ -131,8 +131,10 @@
 |
 {{Tree-Unit|jp_type_60_atm}}
 {{Tree-Arrow}}
+{{Tree-Unit|jp_type_87_rcv_prot}}
+{{Tree-Arrow}}
 {{Tree-Unit|jp_type_87_rcv}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|jp_m47_patton_II}}
 {{Tree-Arrow}}
@@ -166,9 +168,9 @@
 {{Tree-Unit|jp_type_87}}
 {{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
-{{Tree-Unit|jp_type_74_mod_g_kai}}
-|
 {{Tree-Unit|jp_type_16_mod}}
+|
+{{Tree-Unit|jp_type_74_mod_g_kai}}
 
 {{Tree-Line|VII Rank}}
 |

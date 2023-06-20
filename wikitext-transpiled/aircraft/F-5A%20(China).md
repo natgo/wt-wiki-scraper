@@ -146,15 +146,56 @@ The F-5 can make short work of enemy jet fighters thanks to its fairly accurate 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|AGM-12B Bullpup|AIM-9P Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|BLU-1 incendiary}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-5E_(China).png]]</div>
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| || || 6 || 6 || 6 || ||
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| || 1 || 1 || 1 || 1 || 1 ||
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| || 1 || 1 || 1 || 1 || 1 ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || 1 || 1 || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || || 1 || 1 || 1 || ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || || 1 || || ||
+|-
+! [[BLU-1 incendiary]] bombs
+| || 1 || 1 || 1 || 1 || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| || 19 || 19 || || 19 || 19 ||
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| || 4 || || || || 4 ||
+|-
+! [[AGM-12B Bullpup]] missiles
+| || 1 || 1 || || 1 || 1 ||
+|-
+! [[AIM-9P Sidewinder]] missiles
+| 1 || || || || || || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9P Sidewinder missiles
 * 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
 * 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 5 x 500 lb Mk 82 Snakeye bombs (2,500 lb total)
 * 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
 * 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
@@ -162,48 +203,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x Zuni Mk32 Mod 0 ATAP rockets
 * 4 x AGM-12B Bullpup missiles
 * 5 x BLU-1 incendiary bombs
+{{Navigation-End}}
 
 The F-5A has a bewildering array of loadouts, but the vast majority are dedicated to ground attack. Once AIM-9P missiles are unlocked, your attack capability is vastly increased and F-5A becomes an effective dogfighter provided it is not carrying too much ordnance.
 
 For a pure air-to-air role, the 2x AIM-9P loadout is the best, as the F-5A cannot carry more than two air-to-air missiles and everything else causes unnecessary weight and drag during combat. Most of the other loadouts still include the twin AIM-9Ps as a supplement to combinations of rockets, AGMs, and bombs. For mixed battles, these multirole loadouts are generally best option as they allow the F-5A to cause plenty of havoc to ground targets while still having air-to-air missiles for countering enemy aircraft. The one loadout lacking missiles that may be worth considering consists of 4x AGM-12B Bullpup AGMs and nothing else; Bullpups are very lethal against player controlled tanks but the multirole loadouts are limited to only having two of them.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-5E_(China).png]]</div>
-|-
-! 250 lb LDGP Mk 81 bombs
-| || || 6 || 6 || 6 || ||
-|-
-! 500 lb LDGP Mk 82 bombs
-| || 1 || 1 || 1 || 1 || 1 ||
-|-
-! 750 lb M117 cone 45 bombs
-| || 1 || 1 || 1 || 1 || 1 ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || || 1 || 1 || 1 || ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || || 1 || || ||
-|-
-! BLU-1 incendiary bombs
-| || 1 || 1 || 1 || 1 || 1 ||
-|-
-! FFAR Mighty Mouse rockets
-| || 19 || 19 || || 19 || 19 ||
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| || 4 || || || || 4 ||
-|-
-! AGM-12B Bullpup missiles
-| || 1 || 1 || || 1 || 1 ||
-|-
-! AIM-9P Sidewinder missiles
-| 1 || || || || || || 1
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

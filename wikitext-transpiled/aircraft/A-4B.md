@@ -157,8 +157,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|Mk 77 mod 4 incendiary|Mk 79 Mod 1 incendiary}}
+{{main|LDGP Mk 81 (250 lb)|Mk 81 Snakeye (250 lb)|LDGP Mk 82 (500 lb)|Mk 82 Snakeye (500 lb)}}
+{{main|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|Mk 77 mod 4 incendiary|Mk 79 Mod 1 incendiary}}
 {{main|AGM-12B Bullpup|AIM-9B Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
@@ -170,6 +170,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 3 x AGM-12B Bullpup missiles
 * 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
 * 9 x 500 lb LDGP Mk 82 bombs (4,500 lb total)
+* 18 x 250 lb Mk 81 Snakeye bombs (4,500 lb total)
+* 9 x 500 lb Mk 82 Snakeye bombs (4,500 lb total)
 * 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
 * 7 x Mk 77 mod 4 incendiary bombs
@@ -180,7 +182,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! 20 mm Mk 11 mod 5 cannons (750 rpg)
 | 1 || 1 || 1
@@ -188,7 +190,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! 250 lb LDGP Mk 81 bombs
 | 6 || 6 || 6
 |-
+! 250 lb Mk 81 Snakeye bombs
+| 6 || 6 || 6
+|-
 ! 500 lb LDGP Mk 82 bombs
+| 3 || 3 || 3
+|-
+! 500 lb Mk 82 Snakeye bombs
 | 3 || 3 || 3
 |-
 ! 1,000 lb LDGP Mk 83 bombs
@@ -215,7 +223,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! AIM-9B Sidewinder missiles
 | 1 || || 1
 |-
-| colspan="4" | Maximum permissible weight: 2,710 kg<br>Maximum permissible weight imbalance: 900 kg
+| colspan="4" | Maximum permissible loadout weight: 2,710 kg<br>Maximum permissible wing load: 1,800 kg
 |-
 |}
 
@@ -255,7 +263,8 @@ Due to the diversity of weapons options afforded to the {{PAGENAME}} and their v
 * Fully loaded with ordnance makes it difficult to evade if necessary
 * Average speed, can reach Mach 1 in an extended dive
 * High stall speed
-* Limited ammo for wing-root mounted 20mm autocannons
+* Limited ammo for wing-root mounted 20 mm autocannons
+* No CCIP of any type, no CCRP for bombs
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

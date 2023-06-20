@@ -28,7 +28,7 @@ The '''{{Specs|name}}''' (ちくご, [[Abbreviations#.28JP.29_Naval|namesake]]: 
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|3 inch Mk.33 (76 mm)}}
 
-Chikugo carries two 3 inch Mk.33 automatic cannons in twin installation. The turret is placed at the front of the ship and can effectively cover the front and sides of your vessel, but is unable to react to enemies from the rear. HE shells can take care of unarmoured targets especially motor boats which can be destroyed within a few shots. For armoured targets and destroyers you can choose AP shells but you still have to keep in mind that it is a 76 mm multi-purpose cannon. HE-VT shells are good for use in AA roles. These guns heat up quickly so keep an eye on continuous rapid fire or you may lose one or both until repairs complete.
+Chikugo carries two 3 inch Mk.33 automatic cannons in twin installation. The turret is placed at the front of the ship and can effectively cover the front and sides of your vessel, but is unable to react to enemies from the rear. HE shells can take care of unarmoured targets especially motor boats which can be destroyed within a few shots. For armoured targets and destroyers you can choose AP shells but you still have to keep in mind that it is a 76 mm multi-purpose cannon. HE-VT shells are good for use in AA roles. These guns heat up quickly so keep an eye on continuous rapid fire or you may lose one or both until repairs complete. Changing between ammunition types is time-consuming and leaves you vulnerable with no ability to return fire until switch is complete.
 
 {{:3 inch Mk.33 (76 mm)/Ammunition|76 mm HC Mk.27, 76 mm APHE, 76 mm HE-VT}}
 === Secondary armament ===
@@ -70,6 +70,7 @@ On the other hand, the main gun can load high explosive shells with time variabl
 * Only destroyer spawn although its most effective against other sub-chasers
 * Not able to release all torpedoes to one side
 * Aiming with secondary armament can be difficult due to convergence of bridge and weapon
+* Switching between ammunition types for 76mm guns takes a long time
 
 == History ==
 ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''

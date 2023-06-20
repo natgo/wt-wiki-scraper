@@ -430,6 +430,8 @@
 {{Tree-Arrow-Full|2}}
 |
 {{Tree-Unit|su_22um3k}}
+{{Tree-Arrow}}
+{{Tree-Unit|su_22m4}}
 |
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|f-4f}}

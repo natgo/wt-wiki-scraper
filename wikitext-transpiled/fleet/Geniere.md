@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+After World War II Italy's navy had been cut in half but not only was it also restricted in many cases in matters of armaments but only from the 1950s onward was it allowed the complete reconstruction of the navy because it entered into NATO, during the years several ships were built but at the same time tensions between NATO and the Warsaw Pact increased and so it asked the United States for destroyers that would be delivered in the 1970s to replace the old Benson-class destroyers, three [[Fletcher (Family)|Fletcher-class]] ships were delivered, later renamed Fante (D 561), Geniere (D 555) and Lanciere (D 560), the Geniere (D 555) in Italian service did not do much participated in training missions, coastal control and more, but never saw combat after 5 years the ship will be replaced with other more modern units and will eventually be scrapped.
 
-One of the hundreds of [[USS Fletcher|Fletcher]]-class destroyers built by the United States, the USS Prichett (DD-561) saw extensive action during World War II, the Korean War, and the Vietnam War before being sold to the Italian Navy, who later renamed her as ''Geniere''.
-
-While her real life service with Italy was rather quiet and unremarkable, in War Thunder, the Geniere offers a drastic shift of play style. Unlike the other Italian destroyers that were restricted to support roles due to their slow reload, the Geniere features a suite of versatile 127 mm and 76 mm cannons, both of them are great against surface and aerial targets alike. This allows the ship to be a robust powerhouse for any Italian captain's lineup.
+Introduced with the [[Update "Danger Zone"|"Danger Zone" update]], it is a fairly good Rank II premium ship thanks to its armament composed of four single 127mm guns with autoloader so with a good reload and thanks to SAP shots you will be able to make ammo rack to enemy ships very easily, besides that they are equipped with HE-VT so perfect to shoot down even aircraft, then three twin 76mm emplacements very useful to shoot down aircraft with HE-VTs and cause damage quickly to the enemy, the manoeuvrability and speed are quite good, and finally we can talk about the 6 anti-submarine torpedo launchers that cause little damage to large ships but I can disable them for a while so I can run away or destroy easily with the main guns, this ship is perfect for those who want to have a different style of play from the Italian WWII destroyers.
 
 == General info ==
 === Survivability and armour ===
@@ -156,6 +154,7 @@ Due to the ship's worn-out condition, the Italian Navy only intended to operate 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_destroyer_fletcher_geniere Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

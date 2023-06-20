@@ -112,8 +112,8 @@ Gun convergence should be considered since the cannons are mounted far apart on 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR|M2 Browning (12.7 mm)}}
-{{main|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)}}
+{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-M66A2 (2,000 lb)}}
+{{main|HVAR|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -126,6 +126,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 1 x 1,000 lb AN-M65A1 bomb + 2 x 500 lb AN-M64A1 bombs (2,000 lb total)
 * 8 x HVAR rockets
 * 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
+* 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
 
 The SB2C-5 has a good choice of ordnance, though it comes stock with only two [[AN-M57 (250 lb)|250 lb bombs]] that give it an extremely poor bombing capacity. From there on, either the [[M2 Browning (12.7 mm)|DGP-1]] or [[Mk.13-6 (2,216 lb)|ITC mk.III]] modifications can be researched to give either a total of four 12.7 mm machine guns (a preferable choice for Air Battles) or a torpedo (preferable for Naval Battles) respectively. It's not until the tier IV that the [[AN-M65A1 (1,000 lb)|MBC mk.I]] modification becomes available giving the plane an ability to use its most potent bombing setup with a single 1,000 lb + two 500 lb bombs.
 

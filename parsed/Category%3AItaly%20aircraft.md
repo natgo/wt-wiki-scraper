@@ -201,6 +201,7 @@
 {{Tree-Unit|fiat_g91_y}}
 {{Tree-Arrow}}
 {{Tree-Unit|fiat_g91_ys}}
+{{Tree-Arrow}}
 |
 {{Tree-Arrow-Full|3}}
 |
@@ -216,6 +217,7 @@
 {{Tree-Unit|f-104s_asa}}
 {{Tree-Arrow}}
 |
+{{Tree-Arrow-Full|2}}
 |
 {{Tree-Arrow-Full|2}}
 |
@@ -228,6 +230,7 @@
 {{Tree-Unit|f_16a_block_15_adf_italy}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|tornado_adv}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|tornado_ids_it_mod95}}

@@ -140,7 +140,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
+{{main|LDGP Mk 81 (250 lb)|Mk 81 Snakeye (250 lb)|LDGP Mk 82 (500 lb)|Mk 82 Snakeye (500 lb)}}
+{{main|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
 {{main|AGM-62A Walleye I ER (510 kg)|GBU-8 (2,000 lb)|AIM-9B Sidewinder}}
 {{main|Mk 77 mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
@@ -152,6 +153,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 36 x Zuni Mk32 Mod 0 ATAP rockets
 * 20 x 250 lb LDGP Mk 81 bombs (5,000 lb total)
 * 14 x 500 lb LDGP Mk 82 bombs (7,000 lb total)
+* 20 x 250 lb Mk 81 Snakeye bombs (5,000 lb total)
+* 14 x 500 lb Mk 82 Snakeye bombs (7,000 lb total)
 * 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
 * 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
@@ -164,7 +167,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-4E_Early.png]]</div>
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-4E_Early.png]]</div>
 |-
 ! 20 mm Mk 11 mod 5 cannons (750 rpg)
 | || 1 || 1 || 1 ||
@@ -172,7 +175,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! 250 lb LDGP Mk 81 bombs
 | 1 || 6 || 6 || 6 || 1
 |-
+! 250 lb Mk 81 Snakeye bombs
+| 1 || 6 || 6 || 6 || 1
+|-
 ! 500 lb LDGP Mk 82 bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! 500 lb Mk 82 Snakeye bombs
 | 1 || 3 || 6 || 3 || 1
 |-
 ! 510 kg AGM-62A Walleye I ER bombs
@@ -201,8 +210,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 |-
 ! AIM-9B Sidewinder missiles
 | 1 || || || || 1
-|-
-| colspan="6" | Maximum permissible weight: 2,710 kg<br>Maximum permissible weight imbalance: 900 kg
 |-
 |}
 

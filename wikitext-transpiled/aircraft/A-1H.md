@@ -71,12 +71,13 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-The A-1H only has 2 15 mm steel plates on the side and 40 mm of bulletproof glass. The side armour can easily be penetrated with 20 mm rounds. 
+The A-1H only has 2 15 mm steel plates on the side and 40 mm of bulletproof glass. The side armour can easily be penetrated with 20 mm rounds.
 
 === Modifications and economy ===
 {{Specs-Economy}}
 
 == Armaments ==
+[[File:Hardpoints_{{PAGENAME}}.png|450px|thumb|right]]
 {{Specs-Avia-Armaments}}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
@@ -92,82 +93,88 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|AN-M57 (250 lb)|LDGP Mk 82 (500 lb)|AN-M64A1 (500 lb)|M117 cone 45 (750 lb)}}
-{{main|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|BLU-1 incendiary|Mk 77 mod 2 incendiary}}
-{{main|FFAR Mighty Mouse|HVAR|Zuni Mk32 Mod 0 ATAP|M134 Minigun (7.62 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
-[[File:Hardpoints_{{PAGENAME}}.png|450px|thumb|right]]
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9 !! width="5%" | 10 !! width="5%" | 11 !! width="5%" | 12 !! width="5%" | 13 !! width="5%" | 14 !! width="5%" | 15
+|-
+! [[M134 Minigun (7.62 mm)|7.62 mm M134 Minigun]] machine guns (1,500 rpg)
+| || 1 || || 1 || || 1 || 1 || || 1 || 1 || || 1 || || 1 ||
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || 1 || 1 || 1 || || 1 || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| || 1 || 1 || 1 || || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || || 1 || 1 || ||
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| || 1 || 1 || 1 || || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || || 1 || 1 || 1 ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || || || || || || 1 || 1 || 1 || || || || || ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || || || || || || 1 || 1 || 1 || || || || || ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || || || || || 1 || 1 || 1 || || || || || ||
+|-
+! [[BLU-1 incendiary]] bombs
+| || || || || || || 1 || || 1 || || || || || ||
+|-
+! [[Mk 77 mod 2 incendiary]] bombs
+| || 1 || 1 || 1 || || 1 || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 7, 19 || 7, 19 || 7, 19 || 7, 19 || 7 || 7, 19 || 7, 19 || || 7, 19 || 7, 19 || 7 || 7, 19 || 7, 19 || 7, 19 || 7, 19
+|-
+! [[HVAR]] rockets
+| 1 || 1 || 1 || 1 || 1 || 1 || || || || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| || 4 || 4 || 4 || || 4 || 4 || || 4 || 4 || || 4 || 4 || 4 ||
+|-
+! "Special weapon"
+| 1 || || || || || || || || || || || || || ||
+|-
+| colspan="16" | Maximum permissible loadout weight: 4,575 kg<br>Maximum permissible wing load: 2,200 kg<br>Maximum permissible weight imbalance: 1,300 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 12 x HVAR rockets
 * 98 x FFAR Mighty Mouse rockets
 * 228 x FFAR Mighty Mouse rockets
 * 40 x Zuni Mk32 Mod 0 ATAP rockets
 * 30 x 250 lb LDGP Mk 81 bombs (7,500 lb total)
+* 30 x 250 lb Mk 81 Snakeye bombs (7,500 lb total)
 * 11 x 500 lb AN-M64A1 bombs (5,500 lb total)
 * 18 x 500 lb LDGP Mk 82 bombs (9,000 lb total)
+* 18 x 500 lb Mk 82 Snakeye bombs (9,000 lb total)
 * 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
 * 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
 * 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
 * 11 x Mk 77 mod 2 incendiary bombs
 * 2 x BLU-1 incendiary bombs
 * 8 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 12,000 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9 !! width="5%" | 10 !! width="5%" | 11 !! width="5%" | 12 !! width="5%" | 13 !! width="5%" | 14 !! width="5%" | 15
-|-
-! 7.62 mm M134 Minigun machine guns (1,500 rpg)
-| || 1 || || 1 || || 1 || 1 || || 1 || 1 || || 1 || || 1 ||
-|-
-! 250 lb AN-M57 bombs
-| 1 || 1 || 1 || 1 || 1 || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || 1 || 1 || 1 || 1 || 1
-|-
-! 250 lb LDGP Mk 81 bombs
-| 1 || 1 || 1 || 1 || 1 || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || 1 || 1 || 1 || 1 || 1
-|-
-! 500 lb AN-M64A1 bombs
-| || 1 || 1 || 1 || || 1 || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
-|-
-! 500 lb LDGP Mk 82 bombs
-| || 1 || 1 || 1 || || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || || 1 || 1 || 1 ||
-|-
-! 750 lb M117 cone 45 bombs
-| || || || || || || 1 || 1 || 1 || || || || || ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || || || || || || 1 || 1 || 1 || || || || || ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || || || || || 1 || 1 || 1 || || || || || ||
-|-
-! BLU-1 incendiary bombs
-| || || || || || || 1 || || 1 || || || || || ||
-|-
-! Mk 77 mod 2 incendiary bombs
-| || 1 || 1 || 1 || || 1 || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
-|-
-! FFAR Mighty Mouse rockets
-| 7, 19 || 7, 19 || 7, 19 || 7, 19 || 7 || 7, 19 || 7, 19 || || 7, 19 || 7, 19 || 7 || 7, 19 || 7, 19 || 7, 19 || 7, 19
-|-
-! HVAR rockets
-| 1 || 1 || 1 || 1 || 1 || 1 || || || || 1 || 1 || 1 || 1 || 1 || 1
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| || 4 || 4 || 4 || || 4 || 4 || || 4 || 4 || || 4 || 4 || 4 ||
-|-
-! "Special weapon"
-| 1 || || || || || || || || || || || || || ||
-|-
-| colspan="16" | Maximum permissible loadout weight: 4,337 kg<br>Maximum permissible wing load: 2,000 kg<br>Maximum permissible weight imbalance: 600 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 250 lb bomb capacity, 228 x FFAR rockets and 11 x Mk 77 mod 2 incendiary bombs. Once the ordnance is expended, it can also perform decently as a fighter since it has flares, which allows for it to be used in higher tier battles. 
+The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 250 lb bomb capacity, 228 x FFAR rockets and 11 x Mk 77 mod 2 incendiary bombs. Once the ordnance is expended, it can also perform decently as a fighter since it has flares, which allows for it to be used in higher tier battles.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"

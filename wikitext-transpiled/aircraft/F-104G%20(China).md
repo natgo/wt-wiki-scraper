@@ -144,11 +144,52 @@ The M61 Vulcan is a powerful gatling cannon. A quick and accurate burst can send
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|BLU-1 incendiary}}
-{{main|AGM-12B Bullpup|AIM-9B Sidewinder|AIM-9E Sidewinder|AIM-9J Sidewinder|Hydra-70 M247}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-104G_(Germany).png]]</div>
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[BLU-1 incendiary]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[Hydra-70 M247]] rockets
+| || 7 || || || || 7 ||
+|-
+! [[AGM-12B Bullpup]] missiles
+| || 1 || || || || 1 ||
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || || 1* || || 1* || || 1
+|-
+! [[AIM-9E Sidewinder]] missiles
+| 1 || || || || || || 1
+|-
+! [[AIM-9J Sidewinder]] missiles
+| 1 || || 1* || || 1* || || 1
+|-
+| colspan="8" | Maximum permissible weight imbalance: 500 kg
+|-
+| colspan="9" | * Ordnance on hardpoint 4 cannot be carried in conjunction with missiles on hardpoints 3/5
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 4 x AIM-9B Sidewinder missiles
@@ -156,51 +197,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 14 x Hydra-70 M247 rockets
 * 2 x AGM-12B Bullpup missiles
 * 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
+* 3 x 500 lb Mk 82 Snakeye bombs (1,500 lb total)
 * 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
 * 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
 * 3 x BLU-1 incendiary bombs
+{{Navigation-End}}
 
 As a fighter bomber variant of the F-104, the F-104G has vastly improved ordnance compared to the F-104A's measly pair of AIM-9Bs. For air-to-air combat, the best loadout consists of four AIM-9J Sidewinder missiles. The AIM-9Js have good range, target acquisition, and manoeuvrability. They can be fired from a fairly safe distance and score kills reliably, which is definitely helpful since the F-104G does not fare well in close-quarters dogfights.
 
-For ground attack, the F-104G can carry bombs, rockets, and missiles. The largest bombload consists of three 1000 lb bombs. The only rockets it has access to are Hydra-70s with decent penetration but low explosive mass and ammo count. The real stars of the show for tank busting are the pair of AGM-12B Bullpup air-to-ground missiles. These have a warhead twice as large as the AS-20 Nords carried by the German F-104G and require less precision to score a kill. However they fly significantly slower, which can either be a good or bad quality depending on one's skill with manual guidance. Two AIM-9J Sidewinders can be carried in addition to the Bullups to round out the loadout.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-104G.png]]</div>
-|-
-! 500 lb LDGP Mk 82 bombs
-| || 1 || || 1* || || 1 ||
-|-
-! 750 lb M117 cone 45 bombs
-| || 1 || || 1* || || 1 ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || 1 || || 1* || || 1 ||
-|-
-! BLU-1 incendiary bombs
-| || 1 || || 1* || || 1 ||
-|-
-! Hydra-70 M247 rockets
-| || 7 || || || || 7 ||
-|-
-! AGM-12B Bullpup missiles
-| || 1 || || || || 1 ||
-|-
-! AIM-9B Sidewinder missiles
-| 1 || || 1* || || 1* || || 1
-|-
-! AIM-9E Sidewinder missiles
-| 1 || || || || || || 1
-|-
-! AIM-9J Sidewinder missiles
-| 1 || || 1* || || 1* || || 1
-|-
-| colspan="8" | Maximum permissible weight imbalance: 500 kg
-|-
-| colspan="9" | * Ordnance on hardpoint 4 cannot be carried in conjunction with missiles on hardpoints 3/5
-|}
+For ground attack, the F-104G can carry bombs, rockets, and missiles. The largest bombload consists of three 1000 lb bombs. The only rockets it has access to are Hydra-70s with decent penetration but low explosive mass and ammo count. The real stars of the show for tank busting are the pair of AGM-12B Bullpup air-to-ground missiles. These have a warhead twice as large as the AS-20 Nords carried by the German F-104G and require less precision to score a kill. However they fly significantly slower, which can either be a good or bad quality depending on one's skill with manual guidance. Two AIM-9J Sidewinders can be carried in addition to the Bullpups to round out the loadout.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

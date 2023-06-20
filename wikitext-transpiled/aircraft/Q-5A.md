@@ -156,35 +156,41 @@ The Q-5A's ballistic computer grants CCIP for the cannons, which makes them slig
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Type 250-2 (250 kg)|250-3 (250 kg)|Type 90-1|Type 130-2}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 4 x 250 kg Type 250-2 bombs (1,000 kg total)
-* 4 x 250 kg 250-3 bombs (1,000 kg total)
-* 14 x Type 90-1 rockets
-* 8 x Type 130-2 rockets
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 250 kg Type 250-2 bombs
+! [[Type 250-2 (250 kg)|250 kg Type 250-2]] bombs
 | || || 4 || ||
 |-
-! 250 kg 250-3 bombs
+! [[250-3 (250 kg)|250 kg 250-3]] bombs
 | || || 4 || ||
 |-
-! Type 90-1 rockets
+! [[250-4 (250 kg)|250 kg 250-4]] bombs
+| || || 4 || ||
+|-
+! [[Type 90-1]] rockets
 | || 7 || || 7 ||
 |-
-! Type 130-2 rockets
+! [[Type 130-2]] rockets
 | 4 || || || || 4
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 4 x 250 kg Type 250-2 bombs (1,000 kg total)
+* 4 x 250 kg 250-3 bombs (1,000 kg total)
+* 4 x 250 kg 250-4 bombs (1,000 kg total)
+* 14 x Type 90-1 rockets
+* 8 x Type 130-2 rockets
+{{Navigation-End}}
+
 The Q-5A has access to all of the loadouts of the Q-5 early, the difference being that it can equip two rocket pods with four 130 mm Type 130-2 rockets in addition to the 90 mm Type 90-1 rockets. The 130 mm rockets pack HE warheads with 7.68 kg of TNT equivalent each, roughly comparable to the US [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket. A direct hit to the turret and hull roof armour of a MBT can cause catastrophic or fatal damage through overpressure. Side aspect shots can also work provided the target does not have thick side armour. Lightly armoured targets should be annihilated if hit anywhere. The capacity of 8 is very limited but the ballistic computer greatly helps in aiming them.
 
 The Type 90-1 rockets are better than the anaemic S-5 rockets used by typical Soviet jets and can penetrate 280 mm of armour with 1.03 kg of TNT equivalent, but typically several hits are required to destroy an armoured target due to the lower post-penetration effect.

@@ -131,38 +131,43 @@ Much like the Buccaneer S.2 the Buccaneer S.1 uses drooping ailerons (the ailero
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|L.D H.E. M.C. Mk.1 (1,000 lb)|H.E. M.C. Mk.13 (1,000 lb)|AGM-12B Bullpup|RP|RP-3}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_Buccaneer_S.2.png]]</div>
+|-
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
+| || || 4 || ||
+|-
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| 1 || 1 || 4 || 1 || 1
+|-
+! [[L.D H.E. M.C. Mk.1 (1,000 lb)|1,000 lb L.D H.E. M.C. Mk.1]] bombs
+| 1 || 1 || || 1 || 1
+|-
+! [[RP]] rockets
+| 36 || 36 || || 36 || 36
+|-
+! [[RP-3]] rockets
+| 4 || 4 || || 4 || 4
+|-
+! [[AGM-12B Bullpup]] missiles
+| 1 || 1 || || 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 4 x 1,000 lb L.D H.E. M.C. Mk.1 bombs (4,000 lb total)
+* 8 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (8,000 lb total)
 * 144 x RP rockets
 * 16 x RP-3 rockets
 * 4 x AGM-12B Bullpup missiles
 * 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_Buccaneer_S.2.png]]</div>
-|-
-! 1,000 lb H.E. M.C. Mk.13 bombs
-| || || 4 || ||
-|-
-! 1,000 lb L.D H.E. M.C. Mk.1 bombs
-| 1 || 1 || || 1 || 1
-|-
-! RP rockets
-| 36 || 36 || || 36 || 36
-|-
-! RP-3 rockets
-| 4 || 4 || || 4 || 4
-|-
-! AGM-12B Bullpup missiles
-| 1 || 1 || || 1 || 1
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

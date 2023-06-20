@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Swedish light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''{{Specs|name}}''' (shortened '''{{Specs|pseudonym}}''') was a Swedish light tank developed by AB Landsverk on the basis of the L-60. It was the first variant of the L-60 adopted by the Swedish army. Production name was L-60 S-I, which meant it was the first series used by Sweden. The {{PAGENAME}} was later phased out when the later series were produced from 1939.
+
+It was introduced along with the initial Swedish ground forces tree in [[Update 1.97 "Viking Fury"]]. Strv m/38 is a light tank with a good mobility and comes with an APDS round which is uncommon for early vehicles; this significantly increases its firepower and makes it more capable of engaging with heavier armoured vehicles.
 
 == General info ==
 === Survivability and armour ===

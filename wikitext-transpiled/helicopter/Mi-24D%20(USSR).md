@@ -221,7 +221,7 @@ The Hungarian Air Force have a fleet of 30 Mi-24Ds received by the former Soviet
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mi_24d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|unNDor5o2-8|'''Premium Vehicles - Mi-24D''' - ''War Thunder Wiki''|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 3:18 - ''War Thunder Official Channel''|AThOHUXhcsI|'''The Shooting Range #114''' - ''War Machines'' section at 00:24 discusses the {{PAGENAME}}.|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 10:26 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|unNDor5o2-8|'''Premium Vehicles - Mi-24D''' - ''War Thunder Wiki''|lTR8bhL4BUc|'''The Mi-24 Family''' discusses the {{PAGENAME}} at 3:18 - ''War Thunder Official Channel''|AThOHUXhcsI|'''The Shooting Range #114''' - ''War Machines'' section at 00:24 discusses the {{PAGENAME}}.|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 10:26 discusses the {{PAGENAME}}.|o90jz82NemI|'''Mi-24 Ultimate Review''' - ''Bob Dickinson''|}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

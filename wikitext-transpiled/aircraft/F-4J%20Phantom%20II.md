@@ -148,14 +148,70 @@ Like all naval Phantom models, the F-4J lacks an internal gun and is forced to r
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|Mk 79 Mod 1 incendiary}}
-{{main|AIM-7E-2 Sparrow|AIM-7F Sparrow|AIM-9D Sidewinder|AIM-9G Sidewinder}}
-{{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
+|-
+! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
+| || || || || || 1 || || || || ||
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 2 || 2 || || || || 3 || || || || 2 || 2
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 3 || 3 || || || || 3 || || || || 3 || 3
+|-
+! [[Mk 79 Mod 1 incendiary]] bombs
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 38 || 57 || || || || 57 || || || || 57 || 38
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 12 || 12 || || || || 12 || || || || 12 || 12
+|-
+! [[AIM-7E-2 Sparrow]] missiles
+| || 1<sup>*†</sup> || || 1<sup>†</sup> || 1<sup>†</sup> || || 1<sup>†</sup> || 1<sup>†</sup> || || 1<sup>*†</sup> ||
+|-
+! [[AIM-7F Sparrow]] missiles
+| || 1<sup>*†</sup> || || 1<sup>†</sup> || 1<sup>†</sup> || || 1<sup>†</sup> || 1<sup>†</sup> || || 1<sup>*†</sup> ||
+|-
+! [[AIM-9D Sidewinder]] missiles
+| || || 1, 2* || || || || || || 1, 2* || ||
+|-
+! [[AIM-9G Sidewinder]] missiles
+| || || 2* || || || || || || 2* || ||
+|-
+! 600 gal drop tanks
+| || || || || || 1 || || || || ||
+|-
+| colspan="12" | Maximum permissible loadout weight: 7,400 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
+|-
+| colspan="13" | * Sparrows on hardpoints 2/10 cannot be carried in conjunction with Sidewinders on hardpoints 3/9 respectively <br> <sup>†</sup> AIM-7E-2 and AIM-7F Sparrow missiles cannot be mixed, only one type may be equipped across hardpoints
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 20 mm Mk 11 mod 5 cannon (750 rpg)
-* 1 x 20 mm Mk 11 mod 5 cannon + 2 x AIM-9D Sidewinder missiles
+* 1 x 600 gal drop tank
+* 2 x AIM-9D Sidewinder missiles + 1 x 20 mm Mk 11 mod 5 cannon
 * 4 x AIM-9D Sidewinder missiles
 * 4 x AIM-9G Sidewinder missiles
 * 6 x AIM-7E-2 Sparrow missiles
@@ -163,10 +219,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 60 x Zuni Mk32 Mod 0 ATAP rockets
 * 247 x FFAR Mighty Mouse rockets
 * 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
+* 24 x 250 lb Mk 81 Snakeye bombs (6,000 lb total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 15 x 750 lb M117 cone 45 bombs (11,250 lb total)
 * 11 x 1,000 lb LDGP Mk 83 bombs (11,000 lb total)
 * 3 x Mk 79 Mod 1 incendiary bombs
+{{Navigation-End}}
 
 The F-4J's arsenal does not look as impressive as its air force counterparts. While it does have the large bomb and rocket capacity that the fighter-bomber Phantoms are known for, the F-4J cannot use any guided air-to-ground munitions, not even the basic MCLOS [[AGM-12C Bullpup]] available to the F-4C. Thus, it is not very suitable for CAS in Ground RB at a battle rating where it faces long-range radar SAMs and the closest things it has to a standoff capability are firing swarms of Zuni rockets with ballistic computer assistance.
 
@@ -177,54 +236,6 @@ The AAM arsenal is better and where the F-4J's technology really shines. The sto
 The real capstone of the F-4J's armament are its radar-guided Sparrow missiles, which greatly enjoy the look-down/shoot-down capabilities offered by its pulse-Doppler radar. The AIM-7E-2 dogfight Sparrows are nice options for medium range engagements because they have a good overload of 25 G, accelerate quickly, and start tracking almost immediately after launch. The new AIM-7F Sparrows are the F-4J's most dangerous weapon. They are heavier Sparrows with an improved rocket motor that burns for a long duration, offering twice the launch range of the AIM-7E-2. The new seeker enjoys a 40 km lock range as well. The AIM-7Fs are excellent for BVR combat and can potentially skewer enemies from across the map if they do not take serious defensive measures. Even at medium ranges, the rocket motor lets the AIM-7F continuously pull quite hard and hit manoeuvring targets. One downside of the AIM-7F is that the long burn duration makes it easy for enemies to spot it, either through the in-game missile warning icon or from seeing the exhaust trail. That said, most targets will notice the RWR warning from the lock first.
 
 Up to four Sparrows can be carried on the fuselage pylons, but what is unique among Phantoms is that the F-4J can carry Sparrows on the inboard wing pylons too (at the cost of the Sidewinders mounted on those pylons), for a grand total of 6.
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
-|-
-! 20 mm Mk 11 mod 5 cannons (750 rpg)
-| || || || || || 1 || || || || ||
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 750 lb M117 cone 45 bombs
-| 3 || 3 || || || || 3 || || || || 3 || 3
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 2 || 2 || || || || 3 || || || || 2 || 2
-|-
-! Mk 79 Mod 1 incendiary bombs
-| || 1 || || || || 1 || || || || 1 ||
-|-
-! FFAR Mighty Mouse rockets
-| 38 || 57 || || || || 57 || || || || 57 || 38
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 12 || 12 || || || || 12 || || || || 12 || 12
-|-
-! AIM-7E-2 Sparrow missiles
-| || 1<sup>*†</sup> || || 1<sup>†</sup> || 1<sup>†</sup> || || 1<sup>†</sup> || 1<sup>†</sup> || || 1<sup>*†</sup> ||
-|-
-! AIM-7F Sparrow missiles
-| || 1<sup>*†</sup> || || 1<sup>†</sup> || 1<sup>†</sup> || || 1<sup>†</sup> || 1<sup>†</sup> || || 1<sup>*†</sup> ||
-|-
-! AIM-9D Sidewinder missiles
-| || || 1, 2* || || || || || || 1, 2* || ||
-|-
-! AIM-9G Sidewinder missiles
-| || || 2* || || || || || || 2* || ||
-|-
-| colspan="12" | Maximum permissible weight imbalance: 1,500 kg
-|-
-| colspan="13" | * Sparrows on hardpoints 2/10 cannot be carried in conjunction with Sidewinders on hardpoints 3/9 respectively <br> <sup>†</sup> AIM-7E-2 and AIM-7F Sparrow missiles cannot be mixed, only one type may be equipped across hardpoints
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

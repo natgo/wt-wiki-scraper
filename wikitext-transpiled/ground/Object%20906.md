@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]]. Combining a gun similar gun those who have played the [[ASU-85]] on a turret, and the mobility from the [[PT-76B]], Object 906 is the perfect flanker.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]]. Combining a gun similar to that of the [[ASU-85]] on a turret, and the mobility from the [[PT-76B]], Object 906 is the perfect weapon system to flank with.
 
 == General info ==
 === Survivability and armour ===
@@ -125,7 +125,7 @@ If an aircraft is aware of your presence search cover or hide in a treeline, '''
 
 '''Rush'''
 
-One may be tempted to charge and capture the point for the team at the beginning of a game. When capturing the point, turn the engine deck towards the enemy. This tactic can actually save the 906 from hasty shots to the hull without hindering the gun arc, though this will cause engine fires which can lead to a burning end if not handled quickly. In this case, take a shot at the now vulnerable foe and then use the FPE item to extinguish the fire. However, higher powered APFSDS will be able to go straight through the engine, killing your crew. If the point gets swarmed by enemies, you have two options. The first is falling back. Using the good reverse gear, and enabling ESS, one can easily retreat back to friendly lines. However, if there are swarms of unaware enemies, the Object 906 can be an absolute menace. Using the 4.3 second reload, you can easily eliminate half the enemy team, if they are unaware. 
+One may be tempted to charge and capture the point for the team at the beginning of a game. When capturing the point, turn the engine deck towards the enemy. This tactic can actually save the 906 from hasty shots to the hull without hindering the gun arc, though this will cause engine fires which can lead to a burning end if not handled quickly. In this case, take a shot at the now vulnerable foe and then use the FPE item to extinguish the fire. However, higher powered APFSDS will be able to go straight through the engine, knocking out the crew and the Object 906 with ease. If the captured point gets swarmed by enemies, you have two options. The first is to fall back using the good reverse gear and ESS to retreat safely to friendly lines. The second is to fight back, especially if the enemies are approaching without care. With the right position, the Object 906 can utilize its 4.3 second reload time to decimate, if not outright eliminate, the approaching enemy before they are able to respond.
 
 '''Decoy'''
 
@@ -141,7 +141,7 @@ Generally, your role should be taken as the set-up/clean-up tank. You will often
 
 Any tank is a threat that should be avoided, flanked, and destroyed. However, some tanks are impervious to these tactics:
 
-The [[Maus]] has thick flanks at nearly 200 mm that can absorb any shots if angled properly. Only fire if the Maus is unaware and showing it's flat, unangled side, and at close range. The APHE on the Object 906 has just enough penetration to punch through the side armor. If one is facing it head on, beware the secondary cannon; it is advised to use ESS and retreat. However, if one is defending a critical location and cannot retreat, one can use the HEAT-FS shell. It has over 400 millimeters of penetration. Shoot the Maus on the right side of it's turret face, as that will kill the gunner. You will have to kill each crew member separately. Watch out for other enemy vehicles. 
+The [[Maus]] has thick flanks at nearly 200 mm that can absorb any shots if angled properly. Only fire at the Maus if it is unaware and showing its flat, unangled side, and at close range. The APHE on the Object 906 has just enough penetration to punch through the side armour. If facing the Maus head-on, the Object 906 has to worry about both the 128 mm and 75 mm cannon. If the Maus is keeping its turret faced at the Object 906, it is advised to use ESS and retreat. However, if one is defending a critical location and cannot retreat, one can use the HEAT-FS shell to penetrate the Maus at its weaker areas. Shoot the Maus on the right side of its turret face, as that will incapacitate the gunner. You will have to knock out each crew member separately. Watch out for other enemy vehicles that may be supporting the Maus. 
 
 [[T95]] (otherwise known as "Doom turtle") should not be engaged. Its good all-around bouncy armour will defeat most shots even from the Object 906 will take on the move. To defeat it, take some height at its flank and aim carefully, otherwise, it will just drag its attention. This worthy opponent has a very fast hull turning rate, turning it into an impervious wall even towards any adversary, including the 906 if it notices it. Engage only if necessary.
 

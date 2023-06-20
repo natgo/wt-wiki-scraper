@@ -128,7 +128,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * 4 x 20 mm M50 cannons, chin-mounted (125 rpg = 500 total)
 
-The four machine guns are clustered on the underside of the fuselage, directly below the pilot. Each is armed with the same amount of ammunition, which means that all guns will fire with each other until empty.
+The four 20mm cannons are clustered on the underside of the fuselage, directly below the pilot. Each is armed with the same amount of ammunition, which means that all guns will fire with each other until empty. An advantage of this chin mounted arrangement is that gun convergence does not play a factor unlike wing-mounted guns.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -166,6 +166,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=md_450b_barougan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

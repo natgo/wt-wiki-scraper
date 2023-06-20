@@ -1,7 +1,10 @@
 {{About
 | about = Japanese light tank '''{{PAGENAME}}'''
-| usage = the Japanese SPAA
-| link = Type 87
+| other
+| usage-1 = the other version
+| link-1 = Type 87 RCV (P)
+| usage-2 = other uses
+| link-2 = Type 87 (Disambiguation)
 }}
 {{Specs-Card
 |code=jp_type_87_rcv
@@ -10,7 +13,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' The text within these arrows are not to be deleted -->
-The '''Type 87 {{Annotation|RCV|Reconnaissance Combat Vehicle}}''' ({{Annotation|87式偵察警戒車|87-Shiki Teisatsu Keikaisha}}) is a 6x6 armoured vehicle designed by Komatsu for the JGSDF and introduced in 1987. It was developed to provide better firepower and protection than jeeps and motorcycles for reconnaissance missions, after the feasibility of wheeled vehicles was confirmed by the improvement of Japanese infrastructure.
+The '''Type 87 {{Annotation|RCV|Reconnaissance Combat Vehicle}}''' ({{Annotation|87式偵察警戒車|87-Shiki Teisatsu Keikaisha}}) is a 6x6 armoured vehicle designed by Komatsu for the JGSDF and introduced in 1987. It was developed to provide better firepower and protection than jeeps and motorcycles for reconnaissance missions after improvements in Japanese road infrastructure made operating heavy wheeled vehicles in the islands more feasible.
 
 The Type 87 RCV was introduced in [[Update "Direct Hit"]]. It has high mobility and a rapid-firing 25 mm Oerlikon autocannon with a full belt of APFSDS ammunition. The cannon can penetrate most targets from the side or rear, and some from the front, but it has low post-penetration damage. The vehicle lacks a stabiliser and has a bouncy suspension, which affects its accuracy. The commander should be aware of these limitations before engaging in combat.
 

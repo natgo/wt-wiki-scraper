@@ -129,7 +129,7 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 
 '''Overview:'''
 
-The Cromwell I is a fast tank with a good cannon and acceptable armour protection. Commanders should play it like a light tank, but be careful of the slow reverse gear. It excels in close quarters combat due to the excellent gun and hull handling characteristics, as well as the fast reload rate. Commanders should avoid long range fights due to the slow reverse gear. This lack of a reverse gear makes it difficult to return to cover after exposing your tank to fire on the enemy. The best strategy in the Cromwell I is to hug the map corners and try to flank, outmanoeuvring enemy forces. The tank is very rewarding to players who have experience with the map that is being played, and are able to predict enemy movements. It is a true Cruiser tank, able to exploit gaps in the enemy defenses by disrupting the enemy back line.
+The Cromwell I is a fast tank with a good cannon and acceptable armour protection. Commanders should play it like a light tank, but be careful of the extremely slow reverse gear. It excels in close quarters combat due to the excellent gun and hull handling characteristics, as well as the fast reload rate. Commanders should avoid long range fights due to the slow reverse gear. This lack of a reverse gear makes it difficult to return to cover after exposing your tank to fire on the enemy. The best strategy in the Cromwell I is to hug the map corners and try to flank, outmanoeuvring enemy forces. The tank is very rewarding to players who have experience with the map that is being played, and are able to predict enemy movements. It is a true Cruiser tank, able to exploit gaps in the enemy defenses by disrupting the enemy back line.
 
 '''Firepower:'''
 
@@ -154,7 +154,7 @@ One somewhat unconventional tool that the Cromwell has access to is an abundance
 
 '''Cons:'''
 
-* Terrible reverse speed, makes overtextending difficult
+* Terrible reverse speed, makes overextending difficult
 * Neutral turning performs poorly on sloped terrain
 * Sensitive steering in forward travelling gears
 * Boxy, vertical armour on hull and turret makes angling essential

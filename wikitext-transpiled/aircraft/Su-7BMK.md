@@ -12,6 +12,8 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
+It was removed from the Gaijin store after the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]] and is currently unobtainable in-game.
+
 It bears Egyptian air force insignia and roundels.
 
 == General info ==

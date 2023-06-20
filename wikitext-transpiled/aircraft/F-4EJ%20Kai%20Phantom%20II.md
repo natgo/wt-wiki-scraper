@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+The '''{{Specs|name}}''' (known as F-4EJ改) was one of the cornerstone of the JASDF based on previous F-4EJs manufactured in Japan; as the airframe and avionics started to become obsolete by early 1980s, MHI and JASDF planned for the upgrades for the fleet of Phantoms with new controls, navigation systems and pulse-doppler radar. After the budget was passed, 90 of these jets were then converted into F-4EJ Kai standards and served JASDF for the next 3 decades until their ultimate decommission in 2021 from ADTW of JASDF.
 
-The Japanese retrofit of F-4EJ in the early 1980s to enhance its combat capabilities, the EJ Kai introduces a pulse-Doppler radar and revised avionics, as well as boasting new varieties of air-to-air weaponry, making it a formidable interceptor to deal with.
+Introduced in [[Update "Direct Hit"]] as one of the earliest jets to receive PD radar in future updates, F-4EJ Kai introduced enhanced avionics for the already obsolete airframe of F-4EJ while retaining its combat capabilities against future jets or bombarding enemy ground target with high bomb payload. But be sure plan ahead for any assaults and avoid dogfights with other jets since hit-and-run greatly enhance the survivability of the jet.
 
 == General info ==
 === Flight performance ===
@@ -121,11 +121,11 @@ The Japanese retrofit of F-4EJ in the early 1980s to enhance its combat capabili
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -142,12 +142,56 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
-{{main|AIM-7E Sparrow|AIM-7F Sparrow|AIM-9L Sidewinder|AIM-9P Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 3 || 3 || || || || 5 || || || || 3 || 3
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 57 || 57 || || || || 57 || || || || 57 || 57
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 12 || 12 || || || || 12 || || || || 12 || 12
+|-
+! [[AIM-7E Sparrow]] missiles
+| || || || 1* || 1* || || 1* || 1* || || ||
+|-
+! [[AIM-7F Sparrow]] missiles
+| || || || 1* || 1* || || 1* || 1* || || ||
+|-
+! [[AIM-9L Sidewinder]] missiles
+| || || 2 || || || || || || 2 || ||
+|-
+! [[AIM-9P Sidewinder]] missiles
+| || || 1, 2 || || || || || || 1, 2 || ||
+|-
+! 600 gal drop tanks
+| || || || || || 1 || || || || ||
+|-
+| colspan="12" | Maximum permissible loadout weight: 7,400 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
+|-
+| colspan="13" | * AIM-7E and AIM-7F Sparrow missiles cannot be mixed, only one type may be equipped across hardpoints
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 600 gal drop tank
 * 2 x AIM-9P Sidewinder missiles
 * 4 x AIM-9P Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles
@@ -155,48 +199,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x AIM-7F Sparrow missiles
 * 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
 * 285 x FFAR Mighty Mouse rockets
 * 60 x Zuni Mk32 Mod 0 ATAP rockets
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1,200 rpg)
-| 1 || || || || || 1 || || || || || 1
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 750 lb M117 cone 45 bombs
-| 3 || 3 || || || || 5 || || || || 3 || 3
-|-
-! FFAR Mighty Mouse rockets
-| 57 || 57 || || || || 57 || || || || 57 || 57
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 12 || 12 || || || || 12 || || || || 12 || 12
-|-
-! AIM-7E Sparrow missiles
-| || || || 1* || 1* || || 1* || 1* || || ||
-|-
-! AIM-7F Sparrow missiles
-| || || || 1* || 1* || || 1* || 1* || || ||
-|-
-! AIM-9L Sidewinder missiles
-| || || 2 || || || || || || 2 || ||
-|-
-! AIM-9P Sidewinder missiles
-| || || 1, 2 || || || || || || 1, 2 || ||
-|-
-| colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible weight imbalance: 1,500 kg
-|-
-| colspan="13" | * AIM-7E and AIM-7F Sparrow missiles cannot be mixed, only one type may be equipped across hardpoints
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -278,3 +285,4 @@ By the time F-15J/DJs and F-2s joined the JASDF in larger quantities, F-4EJs (in
 
 {{Manufacturer MHI}}
 {{Japan jet aircraft}}
+<references />

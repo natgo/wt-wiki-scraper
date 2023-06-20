@@ -140,15 +140,62 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Type 25 (250 kg)|SAMP Type 21 (400 kg)|BGL-400 (400 kg)|BGL-1000 (970 kg)}}
-{{main|Matra R550 Magic 1|AS-30L Nord|SNEB type 23|TBA ECC|TBA Multi-Dart 100 AB}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_Jaguar_GR.1.png]]</div>
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| 1 || 3 || 3 || 3 || 1
+|-
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
+| 1 || 3 || 3 || 3 || 1
+|-
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| 1 || 2 || 2 || 2 || 1
+|-
+! [[SAMP Type 21 200 (400 kg)|400 kg SAMP Type 21 200]] bombs
+| 1 || 2 || 2 || 2 || 1
+|-
+! [[BGL-400 (400 kg)|400 kg BGL-400]] bombs
+| || 1* || || 1* ||
+|-
+! [[BGL-1000 (970 kg)|970 kg BGL-1000]] bombs
+| || 1* || || 1* ||
+|-
+! [[SNEB type 23]] rockets
+| 18, 36 || 36, 36 || || 36, 36 || 18, 36
+|-
+! [[TBA ECC]] rockets
+| 4 || 4 || || 4 || 4
+|-
+! [[TBA Multi-Dart 100 AB]] rockets
+| 4 || 4 || || 4 || 4
+|-
+! [[AS-30L Nord]] missiles
+| || 1* || || 1* ||
+|-
+! [[Matra R550 Magic 1]] missiles
+| 1 || || || || 1
+|-
+! ATLIS II targeting pod
+| || || 1* || ||
+|-
+| colspan="7" | * The ATLIS II pod must be carried when equipping guided air-to-ground ordnance
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x Matra R550 Magic 1 missiles
-* 8 x 400 kg SAMP Type 21 bombs (3,200 kg total)
 * 11 x 250 kg SAMP Type 25 bombs (2,750 kg total)
+* 11 x 250 kg SAMP Type 25 200 bombs (2,750 kg total)
+* 8 x 400 kg SAMP Type 21 bombs (3,200 kg total)
+* 8 x 400 kg SAMP Type 21 200 bombs (3,200 kg total)
 * 2 x 400 kg BGL-400 bombs (800 kg total)
 * 2 x 970 kg BGL-1000 bombs (1,940 kg total)
 * 2 x AS-30L Nord missiles
@@ -156,45 +203,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 16 x TBA Multi-Dart 100 AB rockets
 * 108 x SNEB type 23 rockets
 * 144 x SNEB type 23 rockets
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_Jaguar_GR.1.png]]</div>
-|-
-! 250 kg SAMP Type 25 bombs
-| 1 || 3 || 3 || 3 || 1
-|-
-! 400 kg SAMP Type 21 bombs
-| 1 || 2 || 2 || 2 || 1
-|-
-! 400 kg BGL-400 bombs
-| || 1* || || 1* ||
-|-
-! 970 kg BGL-1000 bombs
-| || 1* || || 1* ||
-|-
-! SNEB type 23 rockets
-| 18, 36 || 36 || || 36 || 18, 36
-|-
-! TBA ECC rockets
-| 4 || 4 || || 4 || 4
-|-
-! TBA Multi-Dart 100 AB rockets
-| 4 || 4 || || 4 || 4
-|-
-! AS-30L Nord missiles
-| || 1* || || 1* ||
-|-
-! Matra R550 Magic 1 missiles
-| 1 || || || || 1
-|-
-! ATLIS II
-| || || 1* || ||
-|-
-| colspan="7" | * The ATLIS II pod must be carried when equipping guided ordnance on hardpoint 2/4
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

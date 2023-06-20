@@ -109,7 +109,7 @@ The '''{{Specs|name}}''' (NATO Code: Fishbed-F) is a premium gift rank {{Specs|r
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-The aircraft gets 60 mm bulletproof glass in front of the pilot and 10 mm of steel behind the pilot. At top-tier, this will not save you from much damage. The plane gets self-sealing fuel tanks in the wings and over the engine.
+The aircraft gets 60 mm bulletproof glass in front of the pilot and 10 mm of steel behind the pilot, making it more survivable in head-on attacks. Even with the bulletproof glass, the pilot isn't immune to any enemy fire. The plane gets self-sealing fuel tanks in the wings and over the engine.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -122,7 +122,7 @@ The aircraft gets 60 mm bulletproof glass in front of the pilot and 10 mm of ste
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
 |-
-| {{Cross}} || {{Tick}} || {{Cross}} || {{Cross}}
+| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
 |-
 |}
 === Suspended armament ===
@@ -193,19 +193,19 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* Has access to R-3R, R-3S, R-13M1, and R-60 anti-air missiles
-* Decent radar to slave R-60s
-* In a downtier, it can dominate hard with its gun and flight characteristics
-* Fast plane
+* Has access to R-3R, R-3S, R-13M1, and R-60 air-to-air missiles
+* Decent radar to slave R-60s for easier target locking
+* In a downtier, it can dominate with its gun and flight characteristics
+* Quick plane with good speed for its br
 * Decent manoeuvrability at high speed
-* Ballistic computer for rockets
+* Ballistic computer for rockets, making it good for quick attack runs on ground targets
 
 '''Cons:'''
 
-* Bad energy retention
-* Poor acceleration
+* Bad energy retention in turns
+* Poor acceleration making to plane hard to fly in turnfights
 * Has to give up the gun for flare/chaff pod
-* Suffers in uptiers
+* Hard to make use out of in uptier matches
 * RWR is only working in the rear, not all around
 * Gun runs out of ammo quickly due to high rate of fire and low ammunition storage
 

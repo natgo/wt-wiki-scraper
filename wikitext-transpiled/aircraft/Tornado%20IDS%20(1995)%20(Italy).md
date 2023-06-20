@@ -123,11 +123,11 @@ The Tornado has no armour to speak of and is relatively large, making it an easy
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -142,48 +142,55 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 83 (1,000 lb)|GBU-16 Paveway II (1,092 lb)|GBU-24 Paveway III (2,000 lb)|AIM-9L Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 2 x 1,500 l drop tanks
-* 56 x large calibre countermeasures
-* 2 x AIM-9L Sidewinder missiles
-* 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
-* 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
-* 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
-* 4 x 1,092 lb GBU-16 Paveway II bombs (4,368 lb total)
-* 1 x 2,000 lb GBU-24 Paveway III bomb (2,000 lb total)
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4.8%" | 1 !! width="4.8%" | 2 !! width="4.8%" | 3 !! width="4.8%" | 4 !! width="4.8%" | 5 !! width="4.8%" | 6 !! width="4.8%" | 7 !! width="4.8%" | 8 !! width="4.8%" | 9 !! width="4.8%" | 10 !! width="4.8%" | 11
-| rowspan="8" width="25%" | <div class="ttx-image">[[File:Hardpoints_Tornado_GR.1.png]]</div>
+| rowspan="9" width="25%" | <div class="ttx-image">[[File:Hardpoints_Tornado_GR.1.png]]</div>
 |-
-! 1,000 lb LDGP Mk 83 bombs
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
 | || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1*<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2 || ||
 |-
-! 1,092 lb GBU-16 Paveway II bombs
+! [[Mk 83 AIR (1,000 lb)|1,000 lb Mk 83 AIR]] bombs
+| || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1*<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2 || ||
+|-
+! [[GBU-16 Paveway II (1,092 lb)|1,092 lb GBU-16 Paveway II]] bombs
 | || || 1<sup>†</sup> || 1*<sup>†</sup> || || 1<sup>†</sup><sup>‡</sup> || || || 1<sup>†</sup> || ||
 |-
-! 2,000 lb GBU-24 Paveway III bombs
+! [[GBU-24 Paveway III (2,000 lb)|2,000 lb GBU-24 Paveway III]] bombs
 | || || || 1*<sup>†</sup><sup>‡</sup> || || || || || || ||
 |-
-! AIM-9L Sidewinder missiles
+! [[AIM-9L Sidewinder]] missiles
 | || 1 || || || || || || || || 1 ||
 |-
 ! Large calibre countermeasures
 | 28 || || || || || || || || || || 28
 |-
-! CLDP
+! CLDP targeting pod
 | || || || || || || || 1<sup>†</sup> || || ||
 |-
 ! 1,500 l drop tanks
 | || || 1 || || || || || || 1 || ||
 |-
 | colspan="13" | * Guided bombs on hardpoint 4 cannot be equipped with 1,000 lb bombs on hardpoints 5-6 <br> <sup>†</sup> CLDP targeting pod must be equipped when using guided bombs <br> <sup>‡</sup> Bombs on hardpoint 6 cannot be equipped with dual bomb mounts on hardpoints 4-8 or GBU-24 on hardpoint 4
+|-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 2 x 1,500 l drop tanks
+* 56 x large calibre countermeasures
+* 2 x AIM-9L Sidewinder missiles
+* 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
+* 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
+* 7 x 1,000 lb Mk 83 AIR bombs (7,000 lb total)
+* 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
+* 12 x 1,000 lb Mk 83 AIR bombs (12,000 lb total)
+* 4 x 1,092 lb GBU-16 Paveway II bombs (4,368 lb total)
+* 1 x 2,000 lb GBU-24 Paveway III bomb (2,000 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

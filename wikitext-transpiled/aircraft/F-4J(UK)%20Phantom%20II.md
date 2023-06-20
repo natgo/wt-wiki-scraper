@@ -47,7 +47,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British jet fight
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -62,7 +62,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British jet fight
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 1,458 || 618 || 463 || ~11 || ~4
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || 618 || 463 || ~11 || ~4
 |-
 |}
 
@@ -143,54 +143,62 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|SNEB type 23|GAU-4 (20 mm)}}
-{{main|AIM-7E Sparrow|AIM-9G Sidewinder|Skyflash}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| || || || || || 1 || || || || ||
+|-
+! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
+| 2 || 3 || || || || 3 || || || || 3 || 2
+|-
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
+| 2 || 2 || || || || 3 || || || || 2 || 2
+|-
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| 2 || 2 || || || || 3 || || || || 2 || 2
+|-
+! [[SNEB type 23]] rockets
+| 36 || 54 || || || || 54 || || || || 54 || 36
+|-
+! [[AIM-7E Sparrow]] missiles
+| || || || 1 || 1 || || 1 || 1 || || ||
+|-
+! [[AIM-9G Sidewinder]] missiles
+| || || 2 || || || || || || 2 || ||
+|-
+! [[Skyflash]] missiles
+| || || || 1 || 1 || || 1 || 1 || || ||
+|-
+! 600 gal drop tanks
+| || || || || || 1 || || || || ||
+|-
+| colspan="12" | Maximum permissible weight imbalance: 1,500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 20 mm GAU-4 cannon (1,200 rpg)
+* 1 x 600 gal drop tank
 * 4 x AIM-9G Sidewinder missiles
 * 4 x AIM-7E Sparrow missiles
 * 4 x Skyflash missiles
 * 234 x SNEB type 23 rockets
 * 11 x 1,000 lb H.E. M.C. Mk.13 bombs (11,000 lb total)
+* 11 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (11,000 lb total)
 * 13 x 540 lb Mk.M2 bombs (7,020 lb total)
 * 1 x 20 mm GAU-4 cannon + 4 x AIM-9G Sidewinder missiles + 4 x AIM-7E Sparrow missiles
 * 1 x 20 mm GAU-4 cannon + 4 x AIM-9G Sidewinder missiles + 4 x Skyflash missiles
 * 1 x 20 mm GAU-4 cannon + 4 x AIM-9G Sidewinder missiles + 4 x AIM-7E Sparrow missiles + 10 x 540 lb Mk.M2 bombs (5,400 lb total)
 * 1 x 20 mm GAU-4 cannon + 4 x AIM-9G Sidewinder missiles + 4 x Skyflash missiles + 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
 * 1 x 20 mm GAU-4 cannon + 4 x AIM-9G Sidewinder missiles + 4 x Skyflash missiles + 180 x SNEB type 23 rockets
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1,200 rpg)
-| || || || || || 1 || || || || ||
-|-
-! 540 lb Mk.M2 bombs
-| 2 || 3 || || || || 3 || || || || 3 || 2
-|-
-! 1,000 lb H.E. M.C. Mk.13 bombs
-| 2 || 2 || || || || 3 || || || || 2 || 2
-|-
-! SNEB type 23 rockets
-| 36 || 54 || || || || 54 || || || || 54 || 36
-|-
-! AIM-7E Sparrow missiles
-| || || || 1 || 1 || || 1 || 1 || || ||
-|-
-! AIM-9G Sidewinder missiles
-| || || 2 || || || || || || 2 || ||
-|-
-! Skyflash missiles
-| || || || 1 || 1 || || 1 || 1 || || ||
-|-
-| colspan="12" | Maximum permissible weight imbalance: 1,500 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

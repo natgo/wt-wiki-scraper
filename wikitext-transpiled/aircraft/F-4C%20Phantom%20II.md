@@ -150,18 +150,77 @@ For those aircraft attacking the {{PAGENAME}}, when using machine guns and canno
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-[[File:F 4 phantom news001.jpg|350px|thumb|right|Three-quarter view of an {{PAGENAME}} displaying the variance of suspended armament]]
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|AGM-12B Bullpup|AGM-12C Bullpup|AIM-7D Sparrow|AIM-9B Sidewinder|AIM-9E Sidewinder}}
-{{main|BLU-27/B incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 3 || 3 || || || || 5 || || || || 3 || 3
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 2 || 3 || || || || 3 || || || || 3 || 2
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[BLU-27/B incendiary]] bombs
+| 1 || || || || || 2 || || || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 57 || 57 || || || || 57 || || || || 57 || 57
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 12 || 12 || || || || 12 || || || || 12 || 12
+|-
+! [[AGM-12B Bullpup]] missiles
+| 1 || 1* || || || || || || || || 1* || 1
+|-
+! [[AGM-12C Bullpup]] missiles
+| || 1 || || || || || || || || 1 ||
+|-
+! [[AIM-7D Sparrow]] missiles
+| || || || 1 || 1 || || 1 || 1 || || ||
+|-
+! [[AIM-9B Sidewinder]] missiles
+| || || 1, 2* || || || || || || 1, 2* || ||
+|-
+! [[AIM-9E Sidewinder]] missiles
+| || || 2* || || || || || || 2* || ||
+|-
+! 600 gal drop tanks
+| || || || || || 1 || || || || ||
+|-
+| colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
+|-
+| colspan="13" | * The AGM-12C Bullpup missile on hardpoints 2/10 cannot be carried in conjunction with air-to-air missiles on hardpoints 3/9 respectively.
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 20 mm GAU-4 cannon (1,200 rpg)
+* 1 x 600 gal drop tank
 * 1 x 20 mm GAU-4 cannon + 2 x AIM-9B Sidewinder missiles
 * 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
 * 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
 * 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
 * 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
@@ -172,59 +231,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 60 x Zuni Mk32 Mod 0 ATAP rockets
 * 4 x AIM-7D Sparrow missiles
 * 4 x AIM-9E Sidewinder missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1,200 rpg)
-| 1 || || || || || 1 || || || || || 1
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 750 lb M117 cone 45 bombs
-| 3 || 3 || || || || 5 || || || || 3 || 3
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 2 || 3 || || || || 3 || || || || 3 || 2
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| 1 || || || || || 1 || || || || || 1
-|-
-! BLU-27/B incendiary bombs
-| 1 || || || || || 2 || || || || || 1
-|-
-! FFAR Mighty Mouse rockets
-| 57 || 57 || || || || 57 || || || || 57 || 57
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 12 || 12 || || || || 12 || || || || 12 || 12
-|-
-! AGM-12B Bullpup missiles
-| 1 || 1* || || || || || || || || 1* || 1
-|-
-! AGM-12C Bullpup missiles
-| || 1 || || || || || || || || 1 ||
-|-
-! AIM-7D Sparrow missiles
-| || || || 1 || 1 || || 1 || 1 || || ||
-|-
-! AIM-9B Sidewinder missiles
-| || || 1, 2* || || || || || || 1, 2* || ||
-|-
-! AIM-9E Sidewinder missiles
-| || || 2* || || || || || || 2* || ||
-|-
-| colspan="12" | Maximum permissible weight imbalance: 1,500 kg
-|-
-| colspan="13" | * The AGM-12C Bullpup missile on hardpoints 2/10 cannot be carried in conjunction with air-to-air missiles on hardpoints 3/9 respectively.
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -238,7 +245,7 @@ In Ground Realistic Battles this aircraft has next to no utility while stock due
 ==== Air-to-air ====
 Due to its size and weight, it is heavily recommended not to turn-fight in the F-4C. As stated earlier, speed and its weapons systems will be the F-4C's best friend. The two best weapons for air combat on the F-4C are its AIM-9E Sidewinder missiles and M61 Vulcan cannons (in a configuration of one or three). The Vulcan cannons can spray the area in front of the Phantom II with an insane amount of 20 mm rounds, with the three gun pods creating a shotgun scatter effect by the time it gets to where the enemy fighter is (often critically damaging or outright destroying the enemy aircraft). The AIM-9Bs meanwhile are relatively poor performing rear-aspect missiles that are easily evaded by even the most modest manoeuvres. If it is mandatory to use them: take rear-aspect only shots, while the target is not in a turn, and while they aren't deploying countermeasures (as the missiles can be easily decoyed). The AIM-9Es on the other hand are a moderate improvement all around, but top out as average at this BR due to their small seeker cone and rear-aspect only lock angle. Regardless, the AIM-9Es can make for a reliable backup anti-air missile and both Sidewinders will be your primary air combat missile that can at the very least force an enemy into a disadvantageous position.
 [[File:F-4C A-5 kill.jpg|350px|thumb|A F-4C eliminating a enemy A-5 with a AIM-7D Sparrow missile]]
-While the F-4C's speciality is its AIM-7D Sparrow SARH (Semi-Active Radar Homing) missiles, in game they are quite ineffective (as they were in real life), especially at this BR or above where many enemies will have an RWR to alert them the moment you lock them and/or chaff countermeasures which easily defeats the missile.  
+While the F-4C's speciality is its AIM-7D Sparrow SARH (Semi-Active Radar Homing) missiles, in game they are quite ineffective (as they were in real life), especially at this BR or above where many enemies will have an RWR to alert them the moment you lock them and/or chaff countermeasures which easily defeats the missile.
 
 Furthermore, three major factors significantly reduce the effectiveness of this missile, and one may find it simply constantly missing. First, perhaps the AIM-7D's biggest downside is that it has a 1 km warmup range before it starts tracking. What this means it that, once fired, it will always travel in a straight line for one kilometre (around 2-3 seconds) before it starts manoeuvring itself towards the target. While at longer ranges (7 km+) this generally isn't a problem, it is most problematic when the missile is launched at close ranges (with usual speed and at around 4 km or less); in these cases, the missile won't start manoeuvring until it's very close to the enemy (less than 1.5 km), which usually isn't enough time for the missile to turn into the now very close enemy. Additionally, this initial straight line travel means that there is a chance the enemy can move out of the missile's field of view before it can track, in which case the missile will simply self-destruct. Second, the F-4C's own unreliable radar. Despite it having a maximum listed range of over 150 km, in-game, you typically will only see the radar start picking up targets at less than 20 km. Commonly, the radar fails to see a target directly in front of it until it gets closer (less than 9 km). This is a significant downside, as oftentimes the radar will pick up a target too late to reliably launch an AIM-7D (due to its 1 km initial straight line travel). Additionally, the radar can easily lose lock on a target (often due to enemy manoeuvres reducing their radar signature or diving below you, hiding among ground clutter), which instantly ruins your missile attack. The latter is especially common when engaging aircraft with RWR and/or countermeasures, as the moment they are radar locked they can instantly begin dumping chaff and manoeuvring to avoid the missile. Overall, the radar generally struggles to do its job, even under ideal conditions. As a result, the majority of your air kills with missiles will be from the Sidewinders as they are far more reliable and give no warning to the enemy.
 

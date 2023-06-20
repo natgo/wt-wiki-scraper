@@ -139,54 +139,42 @@ The Buccaneer uses drooping ailerons (the ailerons deflect downwards with the fl
 | {{Cross}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
-
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Mk.M2 (540 lb)|H.E. M.C. Mk.II (500 lb)|L.D H.E. M.C. Mk.1 (1,000 lb)|H.E. M.C. Mk.13 (1,000 lb)}}
-{{main|AGM-12B Bullpup|AIM-9B Sidewinder|RP|RP-3}}
-[[File:Buccaneer S.2.3.jpg|thumb|Buccaneer dropping a series of 500 lb bombs]]
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
-* 24 x 500 lb H.E. M.C. Mk.II bombs (12,000 lb total)
-* 28 x 500 lb H.E. M.C. Mk.II bombs (14,000 lb total)
-* 28 x 540 lb Mk.M2 bombs (15,120 lb total)
-* 12 x 1,000 lb H.E. M.C. Mk.13 bombs (12,000 lb total)
-* 4 x 1,000 lb H.E. M.C. Mk.13 bombs + 8 x 1,000 lb L.D H.E. M.C. Mk.1 bombs (12,000 lb total)
-* 2 x AIM-9B Sidewinder missiles
-* 16 x RP-3 rockets
-* 144 x RP rockets
-* 4 x AGM-12B Bullpup missiles
-* 104 x large calibre countermeasures
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 500 lb H.E. M.C. Mk.II bombs
+! [[H.E. M.C. Mk.II (500 lb)|500 lb H.E. M.C. Mk.II]] bombs
 | 6 || 6 || 4 || 6 || 6
 |-
-! 540 lb Mk.M2 bombs
+! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
 | 6 || 6 || 4 || 6 || 6
 |-
-! 1,000 lb H.E. M.C. Mk.13 bombs
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
 | 2, 3 || 2, 3 || 4 || 2, 3 || 2, 3
 |-
-! 1,000 lb L.D H.E. M.C. Mk.1 bombs
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| 3 || 3 || 4 || 3 || 3
+|-
+! [[L.D H.E. M.C. Mk.1 (1,000 lb)|1,000 lb L.D H.E. M.C. Mk.1]] bombs
 | 2, 3 || 2, 3 || || 2, 3 || 2, 3
 |-
-! RP rockets
+! [[RP]] rockets
 | 36 || 36 || || 36 || 36
 |-
-! RP-3 rockets
+! [[RP-3]] rockets
 | 4 || 4 || || 4 || 4
 |-
-! AGM-12B Bullpup missiles
+! [[AGM-12B Bullpup]] missiles
 | 1 || 1 || || 1 || 1
 |-
-! AIM-9B Sidewinder missiles
+! [[AIM-9B Sidewinder]] missiles
 | 1 || || || || 1
 |-
 ! Large calibre countermeasures
@@ -195,6 +183,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | colspan="6" | Maximum permissible weight imbalance: 1,500 kg
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 24 x 500 lb H.E. M.C. Mk.II bombs (12,000 lb total)
+* 28 x 500 lb H.E. M.C. Mk.II bombs (14,000 lb total)
+* 28 x 540 lb Mk.M2 bombs (15,120 lb total)
+* 12 x 1,000 lb H.E. M.C. Mk.13 bombs (12,000 lb total)
+* 4 x 1,000 lb H.E. M.C. Mk.13 bombs + 8 x 1,000 lb L.D H.E. M.C. Mk.1 bombs (12,000 lb total)
+* 16 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (16,000 lb total)
+* 2 x AIM-9B Sidewinder missiles
+* 16 x RP-3 rockets
+* 144 x RP rockets
+* 4 x AGM-12B Bullpup missiles
+* 104 x large calibre countermeasures
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -257,6 +260,7 @@ This event is highly unlike to happen due to the SRAAM being a British missile w
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+[[File:Buccaneer S.2.3.jpg|thumb|Buccaneer dropping a series of 500 lb bombs]]
 
 '''Pros:'''
 

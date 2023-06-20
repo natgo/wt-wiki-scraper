@@ -54,6 +54,8 @@
 |
 {{Tree-Unit|late_298d}}
 {{Tree-Skip}}
+{{Tree-Unit|pby-5a_late_france}}
+{{Tree-Skip}}
 
 {{Tree-Line|II Rank}}
 |
@@ -145,7 +147,9 @@
 {{Tree-Arrow}}
 |
 {{Tree-Unit|pb4y-2_france}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
+{{Tree-Unit|lancaster_mr7_france}}
+{{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|so_8000_narval}}
 {{Tree-Skip}}
@@ -207,12 +211,12 @@
 {{Tree-Unit|jaguar_a}}
 {{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|jaguar_e}}
+{{Tree-Skip}}
+|
 {{Tree-Unit|md_460_yt_cup_2019}}
 {{Tree-Skip}}
 {{Tree-Unit|mirage_milan}}
-{{Tree-Skip}}
-|
-{{Tree-Unit|jaguar_e}}
 
 {{Tree-Line|VII Rank}}
 |
@@ -237,6 +241,8 @@
 {{Tree-Line|VIII Rank}}
 |
 {{Tree-Unit|mirage_2000c_s5}}
+{{Tree-Arrow}}
+{{Tree-Unit|mirage_2000_5f}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

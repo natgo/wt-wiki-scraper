@@ -65,7 +65,7 @@ The 20 mm Polsten cannons have a decent rate of fire, as well as a good muzzle v
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 1,920 (30) || rowspan="2" | 450 || rowspan="2" | -4°/+77° || rowspan="2" | ±180° || rowspan="2" | N/A || 55.5 || 76.8 || 93.2 || 103.1 || 109.7 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
+| rowspan="2" | 1,920 (30) || rowspan="2" | 450 || rowspan="2" | -5°/+80° || rowspan="2" | ±180° || rowspan="2" | N/A || 55.5 || 76.8 || 93.2 || 103.1 || 109.7 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
 |-
 ! ''Realistic''
 | 37.5 || 44.1 || 53.6 || 59.2 || 63.0

@@ -109,6 +109,10 @@ The other 3 unlockable ammo types - Shot Mk.5 HV, Shot Mk.8, and Shell Mk.10 - a
 | '''65''' || 46&nbsp;''(+19)'' || 31&nbsp;''(+34)'' || 16&nbsp;''(+49)'' || 1&nbsp;''(+64)'' || No
 |-
 |}
+'''Notes''':
+
+* Turret empty: 46&nbsp;''(+19)'' shells
+{{Clear}}
 
 ==== [[Optics]] ====
 {| class="wikitable" style="text-align:center"

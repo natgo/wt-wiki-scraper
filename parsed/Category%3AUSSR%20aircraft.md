@@ -406,6 +406,7 @@
 {{Tree-Arrow|1}}
 |
 {{Tree-Unit|su_25}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|yak-28b}}
 {{Tree-Arrow|2}}
@@ -423,7 +424,7 @@
 
 {{Tree-Line|VII Rank}}
 |
-{{Tree-Arrow-Full|2}}
+{{Tree-Arrow-Full|3}}
 |
 {{Tree-Group|mig-21_group|MiG-21|
   {{Tree-Unit|mig-21_smt}}
@@ -432,19 +433,22 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|mig_23m}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|su_17m2}}
 {{Tree-Arrow}}
 {{Tree-Unit|su_17m4}}
 |
+{{Tree-Unit|su_25t}}
 |
 {{Tree-Unit|mig_27m}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|su_22m3}}
 {{Tree-Skip}}
 {{Tree-Unit|mig_23ml}}
+{{Tree-Skip}}
+{{Tree-Unit|su_25tm}}
 |
 
 {{Tree-Line|VIII Rank}}

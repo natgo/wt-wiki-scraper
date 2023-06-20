@@ -143,11 +143,61 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|CRV7 M247|SNEB type 23|ADEN 25 (25 mm)}}
-{{main|Mk.13 (546 kg)|GBU-12 Paveway II (277 kg)|GBU-24 Paveway III (2,000 lb)|AGM-65D|AIM-9L Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[ADEN 25 (25 mm)|25 mm ADEN 25]] cannons (100 rpg)
+| || || || || 1 || || 1 || || || ||
+|-
+! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
+| 1 || || || || || || || || || || 1
+|-
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
+| || 1 || || 1 || || 1 || || 1 || || 1 ||
+|-
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| || 1 || || 1 || || 1 || || 1 || || 1 ||
+|-
+! [[GBU-12 Paveway II (277 kg)|277 kg GBU-12 Paveway II]] bombs
+| 1* || 1* || || 1* || || || || 1* || || 1* || 1*
+|-
+! [[Mk.13 (546 kg)|546 kg Mk.13]] bombs
+| || 1* || || 1* || || || || 1* || || 1* ||
+|-
+! [[GBU-24 Paveway III (2,000 lb)|2,000 lb GBU-24 Paveway III]] bombs
+| || || || 1* || || || || 1* || || ||
+|-
+! [[CRV7 M247]] rockets
+| 19 || 19 || || 19 || || || || 19 || || 19 || 19
+|-
+! [[SNEB type 23]] rockets
+| 18 || 18 || || 18 || || || || 18 || || 18 || 18
+|-
+! [[AGM-65D]] missiles
+| || 1 || || 1 || || || || 1 || || 1 ||
+|-
+! [[AIM-9L Sidewinder]] missiles
+| 1<sup>†</sup> || || 1<sup>†</sup> || || || || || || 1<sup>†</sup> || || 1<sup>†</sup>
+|-
+! Countermeasures
+| 160<sup>†</sup> || || 160<sup>†</sup> || || || || || || 160<sup>†</sup> || || 160<sup>†</sup>
+|-
+! TIALD targeting pod
+| || || || || || || 1* || || || ||
+|-
+| colspan="12" | Maximum permissible weight imbalance: 1,400 kg
+|-
+| colspan="13" | * The TIALD targeting pod must be carried when equipping guided bombs <br> <sup>†</sup>AIM-9L Sidewinder missiles can be carried in conjunction with countermeasure pods on the same hardpoint
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 2 x 25 mm ADEN 25 cannons (100 rpg = 200 total)
 * 2 x AIM-9L Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles
@@ -156,57 +206,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 114 x CRV7 M247 rockets
 * 2 x 540 lb Mk.M2 bombs (1,080 lb total)
 * 5 x 1,000 lb H.E. M.C. Mk.13 bombs (5,000 lb total)
+* 5 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (5,000 lb total)
 * 6 x 277 kg GBU-12 Paveway II bombs (1,662 kg total)
 * 4 x 546 kg Mk.13 bombs (2,184 kg total)
 * 2 x 2,000 lb GBU-24 Paveway III bombs (4,000 lb total)
 * 4 x AGM-65D missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 25 mm ADEN 25 cannons (100 rpg)
-| || || || || 1 || || 1 || || || ||
-|-
-! 540 lb Mk.M2 bombs
-| 1 || || || || || || || || || || 1
-|-
-! 1,000 lb H.E. M.C. Mk.13 bombs
-| || 1 || || 1 || || 1 || || 1 || || 1 ||
-|-
-! 277 kg GBU-12 Paveway II bombs
-| 1* || 1* || || 1* || || || || 1* || || 1* || 1
-|-
-! 546 kg Mk.13 bombs
-| || 1* || || 1* || || || || 1* || || 1* ||
-|-
-! 2,000 lb GBU-24 Paveway III bombs
-| || || || 1* || || || || 1* || || ||
-|-
-! CRV7 M247 rockets
-| 19 || 19 || || 19 || || || || 19 || || 19 || 19
-|-
-! SNEB type 23 rockets
-| 18 || 18 || || 18 || || || || 18 || || 18 || 18
-|-
-! AGM-65D missiles
-| || 1 || || 1 || || || || 1 || || 1 ||
-|-
-! AIM-9L Sidewinder missiles
-| 1<sup>†</sup> || || 1<sup>†</sup> || || || || || || 1<sup>†</sup> || || 1<sup>†</sup>
-|-
-! Countermeasures
-| 160<sup>†</sup> || || 160<sup>†</sup> || || || || || || 160<sup>†</sup> || || 160<sup>†</sup>
-|-
-! TIALD
-| || || || || || || 1* || || || ||
-|-
-| colspan="12" | Maximum permissible wing load: 1,900 kg<br>Maximum permissible weight imbalance: 1,400 kg
-|-
-| colspan="13" | * The TIALD targeting pod must be carried when equipping guided bombs <br> <sup>†</sup>AIM-9L Sidewinder missiles can be carried in conjunction with countermeasure pods on the same hardpoint
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

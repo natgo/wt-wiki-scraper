@@ -57,7 +57,11 @@
 
 {{Tree-Line|VI Rank}}
 |
-{{Tree-Unit|il_magach_6r}}
+{{Tree-Group|il_magach_6_group|Magach 6R/Hydra|
+  {{Tree-Unit|il_magach_6r}}
+{{Tree-Arrow}}
+{{Tree-Unit|il_magach_6_rocket}}
+}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_magach_6b}}
 {{Tree-Arrow}}
@@ -85,6 +89,8 @@
 {{Tree-Unit|il_machbet}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|il_centurion_shot_kal_d}}
+{{Tree-Skip}}
+{{Tree-Unit|il_magach_6b_gal}}
 {{Tree-Skip}}
 {{Tree-Unit|il_merkava_mk_2d}}
 |

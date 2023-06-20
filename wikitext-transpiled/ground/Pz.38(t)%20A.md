@@ -1,7 +1,9 @@
 {{About
 | about = German light tank '''{{PAGENAME}}'''
-| usage = other uses
-| link = LT-38 (Family)
+| and
+| usage = other versions
+| link-1 = Pz.38(t) F
+| link-2 = Pz.38(t) n.A.
 }}
 {{Specs-Card
 |code=germ_pzkpfw_38t_ausf_A

@@ -143,11 +143,47 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|250-3 (250 kg)|500-3 (500 kg)|Type 90-1|Type 130-2}}
-{{main|PL-2|PL-5B|PL-7}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
+|-
+! [[250-3 (250 kg)|250 kg 250-3]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[250-4 (250 kg)|250 kg 250-4]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[500-3 (500 kg)|500 kg 500-3]] bombs
+| || 1 || 1 ||
+|-
+! [[500-4 (500 kg)|500 kg 500-4]] bombs
+| || 1 || 1 ||
+|-
+! [[Type 90-1]] rockets
+| 7 || 7 || 7 || 7
+|-
+! [[Type 130-2]] rockets
+| 4 || 4 || 4 || 4
+|-
+! [[PL-2]] missiles
+| 1 || 1 || 1 || 1
+|-
+! [[PL-5B]] missiles
+| 1 || 1 || 1 || 1
+|-
+! [[PL-7]] missiles
+| 1 || 1 || 1 || 1
+|-
+| colspan="5" | Maximum permissible weight imbalance: 570 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 4 x PL-2 missiles
 * 4 x PL-5B missiles
@@ -155,42 +191,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 28 x Type 90-1 rockets
 * 16 x Type 130-2 rockets
 * 4 x 250 kg 250-3 bombs (1,000 kg total)
+* 4 x 250 kg 250-4 bombs (1,000 kg total)
 * 2 x 500 kg 500-3 bombs (1,000 kg total)
+* 2 x 500 kg 500-4 bombs (1,000 kg total)
 * 2 x 250 kg 250-3 bombs + 14 x Type 90-1 rockets (500 kg total)
 * 2 x 250 kg 250-3 bombs + 2 x PL-5B missiles (500 kg total)
 * 2 x 500 kg 500-3 bombs + 2 x 250 kg 250-3 bombs (1,500 kg total)
 * 2 x 500 kg 500-3 bombs + 14 x Type 90-1 rockets (1,000 kg total)
 * 2 x 500 kg 500-3 bombs + 8 x Type 130-2 rockets (1,000 kg total)
 * 2 x 500 kg 500-3 bombs + 2 x PL-7 missiles (1,000 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="12%" | 1 !! width="12%" | 2 !! width="12%" | 3 !! width="12%" | 4
-| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
-|-
-! 250 kg 250-3 bombs
-| 1 || 1 || 1 || 1
-|-
-! 500 kg 500-3 bombs
-| || 1 || 1 ||
-|-
-! Type 90-1 rockets
-| 7 || 7 || 7 || 7
-|-
-! Type 130-2 rockets
-| 4 || 4 || 4 || 4
-|-
-! PL-2 missiles
-| 1 || 1 || 1 || 1
-|-
-! PL-5B missiles
-| 1 || 1 || 1 || 1
-|-
-! PL-7 missiles
-| 1 || 1 || 1 || 1
-|-
-|}
+{{Navigation-End}}
 
 To say the least, the loadout of the J-7D is very similar to its (technological) successor J-7E, as they share 5 out of the 6 loadouts. The only difference is the missiles it carries: instead of having already obsolete PL-2, it has PL-7 (reverse-engineered R.550 Magic 1 from Pakistan) at your disposal which players of French aircraft are very familiar with. In terms of A2A capabilities, J-7D does lack SARH missiles of any sort (R-3R, for example), but both IR-guided AAMs are among the best of their counterparts. For those who are familiar with the PL-5B's immersive thrust and overload even at distance, they can take down enemies from some distance as a safer approach to confronting masses of jets. Alternatively take PL-7 if players prefer hitting targets within 2.5 km, it might not be as powerful in higher tier where flares are abundant, it can still make short work of careless targets.
 

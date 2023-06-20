@@ -14,6 +14,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Japanese bomber {{Battle-
 <!-- * [[IJN Tone]] -->
 * {{Specs-Link|jp_battlecruiser_kongo}}
 * {{Specs-Link|jp_battlecruiser_haruna}}
+* {{Specs-Link|jp_battleship_ise}}
 
 == General info ==
 === Flight performance ===

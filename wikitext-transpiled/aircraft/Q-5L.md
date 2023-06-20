@@ -152,48 +152,57 @@ The Q-5L does not have the countermeasures seen on the previous Q-5A. A lack of 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|250-3 (250 kg)|500-3 (500 kg)|TS250 (260 kg)|LS-500J (570 kg)}}
-{{main|Type 90-1|Type 130-2}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[250-3 (250 kg)|250 kg 250-3]] bombs
+| 1 || 1 || || 4 || || 1 || 1
+|-
+! [[250-4 (250 kg)|250 kg 250-4]] bombs
+| 1 || 1 || || 4 || || 1 || 1
+|-
+! [[500-3 (500 kg)|500 kg 500-3]] bombs
+| || 1 || || || || 1 ||
+|-
+! [[500-4 (500 kg)|500 kg 500-4]] bombs
+| || 1 || || || || 1 ||
+|-
+! [[TS250 (260 kg)|260 kg TS250]] bombs
+| || 1* || || || || 1* ||
+|-
+! [[LS-500J (570 kg)|570 kg LS-500J]] bombs
+| || 1* || || || || 1* ||
+|-
+! [[Type 90-1]] rockets
+| || 7 || 7 || || 7 || 7 ||
+|-
+! [[Type 130-2]] rockets
+| || 4 || 4 || || 4 || 4 ||
+|-
+! K/PSZ-01 targeting pod
+| || || || 1* || || ||
+|-
+| colspan="9" | * The K/PSZ-01 targeting pod must be carried when equipping laser-guided bombs
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 28 x Type 90-1 rockets
 * 16 x Type 130-2 rockets
 * 2 x 260 kg TS250 bombs (520 kg total)
 * 2 x 570 kg LS-500J bombs (1,140 kg total)
 * 8 x 250 kg 250-3 bombs (2,000 kg total)
+* 8 x 250 kg 250-4 bombs (2,000 kg total)
 * 2 x 500 kg 500-3 bombs (1,000 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 250 kg 250-3 bombs
-| 1 || 1 || || 4 || || 1 || 1
-|-
-! 500 kg 500-3 bombs
-| || 1 || || || || 1 ||
-|-
-! 260 kg TS250 bombs
-| || 1* || || || || 1* ||
-|-
-! 570 kg LS-500J bombs
-| || 1* || || || || 1* ||
-|-
-! Type 90-1 rockets
-| || 7 || 7 || || 7 || 7 ||
-|-
-! Type 130-2 rockets
-| || 4 || 4 || || 4 || 4 ||
-|-
-! K/PSZ-01
-| || || || 1* || || ||
-|-
-| colspan="9" | * The K/PSZ-01 targeting pod must be carried when equipping laser-guided bombs
-|}
+* 2 x 500 kg 500-4 bombs (1,000 kg total)
+{{Navigation-End}}
 
 The good news for players of the Q-5L is that the PLAAF have finally ditched the -2 series bombs for the streamlined -3 series low-drag bombs, in addition to the ability to carry greater payloads. Players can take eight 250-3 bombs which, combined with the ballistic computer, could do extensive damage to multiple targets. While the option for a pair of 500-3 bombs on the wings also exists, in most cases the 250 kg bombs are more than enough to take down tanks of the rank. Both payloads are also now finally sufficient to (barely) destroy a base in Air RB.
 

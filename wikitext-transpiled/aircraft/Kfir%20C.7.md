@@ -14,7 +14,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 
 The IAI Kfir is a Israeli development of the [[Nesher]], itself a variant of the French [[Mirage 5 (Family)|Mirage 5]]. The delta-winged Mirages are known for their low wing loading and sleek aerodynamics, but their engines tend to be underwhelming. The Kfir rectifies this with an American J79 engine as seen on the [[F-4 Phantom II (Family)|F-4 Phantom]] and [[F-104 (Family)|F-104 Starfighter]], which offers vastly more thrust, and fixed canard foreplanes mounted on the air intakes to compensate for the weight changes. The end result is an aircraft with incredible acceleration and high agility, a dangerous opponent in dogfights.
 
-The Kfir's weapons leave something to be desired, reflecting its real-life usage as a basic fighter-bomber. It can carry an impressive payload of bombs and rockets but lacks radar-guided missiles for BVR combat. Its best dogfight missile is the [[AIM-9G Sidewinder]], which is less manoeuvrable than the contemporary [[R-60]] and [[R.550|Matra Magic]] for example. It also does not have guided air-to-ground weapons used by the [[F-4E Phantom II (Israel)|Israeli F-4E]]. Thus, the Kfir requires a skilled pilot to take advantage of its excellent performance to win engagements.
+The Kfir's weapons leave something to be desired, reflecting its real-life usage as a basic fighter-bomber. It can carry an impressive payload of bombs and rockets but lacks radar-guided missiles for BVR combat. Its best dogfight missile is the [[Python 3]], which is currently the most agile missile in game. However the Kfir C.7 doesn't have access to any SARH missiles, limiting its BVR capability. It also does not have guided air-to-ground weapons used by the [[Kurnass 2000]] Thus, the Kfir requires a skilled pilot to take advantage of its excellent performance and IR missiles to win engagements.
 
 == General info ==
 === Flight performance ===
@@ -146,19 +146,63 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|AIM-9D Sidewinder|AIM-9G Sidewinder|Shafrir 2}}
-{{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_Kfir_C.2.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| || 1 || || || || 1 ||
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| || 2, 3 || 2 || 5 || 2 || 2, 3 ||
+|-
+! [[SAMP Mk 82 250 Snakeye (500 lb)|500 lb SAMP Mk 82 250 Snakeye]] bombs
+| || 3 || 2 || 5 || 2 || 3 ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || 2, 2 || 2 || || 2 || 2, 2 ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || 2 || 2 || || 2 || 2 ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || 1 || || || || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| || 38 || || || || 38 ||
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| || 8 || || || || 8 ||
+|-
+! [[Shafrir 2]] missiles
+| 1 || 1 || || || || 1 || 1
+|-
+! [[AIM-9D Sidewinder]] missiles
+| 1 || 1 || || || || 1 || 1
+|-
+! [[AIM-9G Sidewinder]] missiles
+| 1 || 1 || || || || 1 || 1
+|-
+! [[Python 3]] missiles
+| 1 || 1 || || || || 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9D Sidewinder missiles
 * 2 x Shafrir 2 missiles
 * 4 x Shafrir 2 missiles
 * 4 x AIM-9D Sidewinder missiles
 * 4 x AIM-9G Sidewinder missiles
+* 4 x Python 3 missiles
 * 13 x 500 lb LDGP Mk 82 bombs (6,500 lb total)
+* 15 x 500 lb SAMP Mk 82 250 Snakeye bombs (7,500 lb total)
 * 8 x 1,000 lb LDGP Mk 83 bombs (8,000 lb total)
 * 4 x 1,000 lb LDGP Mk 83 bombs + 11 x 500 lb LDGP Mk 82 bombs (9,500 lb total)
 * 8 x 750 lb M117 cone 45 bombs (6,000 lb total)
@@ -166,61 +210,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
 * 16 x Zuni Mk32 Mod 0 ATAP rockets
 * 76 x FFAR Mighty Mouse rockets
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_Kfir_C.2.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1,200 rpg)
-| || 1 || || || || 1 ||
-|-
-! 500 lb LDGP Mk 82 bombs
-| || 2, 3 || 2 || 5 || 2 || 2, 3 ||
-|-
-! 750 lb M117 cone 45 bombs
-| || 2 || 2 || || 2 || 2 ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || 2 || 2 || || 2 || 2 ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || 1 || || || || 1 ||
-|-
-! FFAR Mighty Mouse rockets
-| || 38 || || || || 38 ||
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| || 8 || || || || 8 ||
-|-
-! AIM-9D Sidewinder missiles
-| 1 || 1 || || || || 1 || 1
-|-
-! AIM-9G Sidewinder missiles
-| 1 || 1 || || || || 1 || 1
-|-
-! Shafrir 2 missiles
-| 1 || 1 || || || || 1 || 1
-|-
-| colspan="8" | Maximum permissible weight imbalance: 1,500 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
-;RB:
+==== RB ====
 
 The Kfir C.7 is one of the fastest accelerating and best climbing planes in the game, its performance at >1,234 km/h and high altitude is particularly exceptional, on top of being highly manoeuvrable, though the plane will compress when going above Mach 1. This does help the Kfir maintain energy, but once it falls out of that compressed state it will pull, and pull hard. With the speed and acceleration advantage the Kfir offers, it suffers from its own success as the wings will rip at 1,460 km/h which can easily be exceeded with the Kfir if speed isn't being kept in check.
 
 The Kfir suffers from the same issue as other delta wing designs such as the [[J35 (Family)]] and [[MiG-21 (Family)]], and [[Mirage 5 (Family)|Mirage (Family)]] (which it's derived from), in that it bleeds quite a bit of speed while performing manoeuvres, and therefore sustained dogfights are not recommended in the Kfir. It will perform exceptionally well for the first few turns, so attempt to shoot down the target within that window. If unable to dispatch the enemy and the fight is being prolonged, then it's recommended to use the Kfir's exceptional acceleration and top speed to egress from the situation, and perhaps re-enter when the situation is more favourable to the Kfir.
 
-One way of playing the Kfir C.7 is to fly around the center of the map and launch missiles at distracted enemies from behind. This will require you to stay low after takeoff and fly near the edge of the map to avoid being seen or being detected by enemy radar. Once the furball has formed, climb above the enemy, then look for enemies that are slow, distracted, un-aware of their surroundings then launch an AIM-9G missile at 3 km or closer. The main challenge to this play style is to find distracted enemy and be unnoticed when launching your missile. 
+One way of playing the Kfir C.7 is to fly around the center of the map and launch missiles at distracted enemies from behind. This will require you to stay low after takeoff and fly near the edge of the map to avoid being seen or being detected by enemy radar. Once the furball has formed, climb above the enemy, then look for enemies that are slow, distracted, un-aware of their surroundings then launch a Python 3 missile at 4 km or closer. The main challenge to this play style is to find distracted enemy and be unnoticed when launching your missile.
 
-Another way of playing the Kfir C.7 is to accelerate past Mach after takeoff, and then proceed to zoom up to high altitude at roughly 6-8 km where missiles are capable of flying much further, where the Kfir can truly stretch its exceptional speed and performance. Its primary weapon, the [[AIM-9G Sidewinder]], will have an exceptional range at these altitudes and it is not uncommon to achieve kills at ranges over 5-6 km. Be mindful that the radar will slave the seeker head of the [[AIM-9G Sidewinder]], and can be used to help achieve locks even if the plane is not directly off the nose of the aircraft. However, this play style is not recommended unless down tiered due to SARH and ARH missiles being very common at battle rating 11.3 and higher
+Another way of playing the Kfir C.7 is to accelerate past Mach after takeoff, and then proceed to zoom up to high altitude at roughly 6-8 km where missiles are capable of flying much further, where the Kfir can truly stretch its exceptional speed and performance. Its primary weapon, the [[Python 3]], will have an exceptional range at these altitudes and it is not uncommon to achieve kills at ranges over 5-6 km. Be mindful that the radar will slave the seeker head of the [[Python 3]], and can be used to help achieve locks even if the plane is not directly off the nose of the aircraft. However, this play style is not recommended unless down tiered due to SARH and ARH missiles being very common at battle rating 11.3 and higher
 
-;SB:
+==== SB ====
 
 The Kfir is a phenomenal support fighter.
 
@@ -230,7 +234,10 @@ The Kfir's top speed will grant you the ability to close distances on targets an
 
 The Kfir will begin to wing rip at 750 knots IAS. This is displayed on the left of your HUD allowing you to easily manage your speed without excessive head movement or taking your eyes off your target.
 
-The AIM-9G locking is at the bottom of your HUD, this can be difficult to learn, but once you do, it is not a big issue.
+The [[Python 3]] locking is at the bottom of your HUD, this can be difficult to learn, but once you do, it is not a big issue.
+
+==== The Python 3 ====
+The Kfir C.7 is one of the few aircraft with access to the very powerful [[Python 3]] missiles, it has an all aspect seeker, long range, high rate of acceleration, good flare resistance and 40Gs of overload, and can be used at both long and short range. However due to the very high rate of acceleration, it may not be able to make sharp turns at very close range (>1 km). It is close to impossible to evade a [[Python 3]] without the use of flares, so firing at distracted enemies are very likely to result in a kill.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -241,9 +248,10 @@ The AIM-9G locking is at the bottom of your HUD, this can be difficult to learn,
 * Amazing control authority at any speed
 * Above average acceleration below Mach 1, and one of the fastest acceleration in the game above Mach 1
 * Extremely fast, especially at high altitudes
-* Has long range AIM-9Gs
+* Has long range Python IIIs with exceptional manoeuvrability
 * Able to take out 1 base if loaded with bombs
-* Ballistic computer for guns, bombs, and rockets 
+* Ballistic computer for guns, bombs, and rockets
+* Extremely powerful Python 3 missiles
 
 '''Cons:'''
 
@@ -252,7 +260,7 @@ The AIM-9G locking is at the bottom of your HUD, this can be difficult to learn,
 * 36 x countermeasures can be quickly used up, especially if split 50/50 between chaff and flares
 * Missiles are pointed down requiring you to pull alpha or be above the target to get a lock
 * No radar or radar-guided armament
-* No all-aspect missiles
+*
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

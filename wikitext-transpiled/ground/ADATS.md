@@ -18,7 +18,7 @@ While designations for this tank go all over the place, the ADATS can be simply 
 The ADATS boasts the same protection as the regular [[M3 Bradley]] hull-wise, with one key difference being that the side armour is thinner by 19 mm. High-calibre machine guns such as the 20 mm on French MBTs will easily penetrate the sides and at times even the front part of the hull. It's not advisable to use the ADATS as a front-line vehicle but rather as a second-line support vehicle by setting up in key-points around maps.
 
 [[File:Bradley ADATS Side-view.jpg|thumb|300x300px|The gap between the Loader/Gunner and the Driver visualized with a green square. Also, you can see the unmanned turret.]]
-The ADATS has a completely unmanned turret, meaning that any armour-piercing shells will over-penetrate with no injuries to the crew at all (be aware that explosive shells can cause the rockets to explode and instantly destroy the vehicle). However, two volatile autocannon ammo racks are on the top of the unmanned turret and few fragments are sufficient to detonate them and blow your whole crew up. The three crew members are situated in the hull with a massive empty space between the loader/gunner and the driver when approached from the side. Every enemy you face will most likely over-penetrate that section and do minimal damage to the vehicle itself.
+The ADATS has a completely unmanned turret, meaning that any armour-piercing shells will over-penetrate with no injuries to the crew at all (be aware that explosive shells can cause the missiles to explode and instantly destroy the vehicle). However, two autocannon ammo racks are in the top of the unmanned turret and a few fragments are sufficient to detonate them and blow your whole crew up. The three crew members are situated in the hull with a massive empty space between the loader/gunner and the driver when approached from the side. Every enemy you face will most likely over-penetrate that section and do minimal damage to the vehicle itself.
 
 Overall, the ADATS can be quite a 'meme' vehicle as it can sometimes sustain 5-7 direct hits even centre-hull, seeing as most rounds just pierce and exit the armour without generating shrapnel, over-penetrating and forcing enemies to snipe for crew members.
 
@@ -124,7 +124,7 @@ The high velocity, brilliant 10 km of effective range, and decent 20 G of maximu
 ==== Ammunition ====
 {{:MIM146/Ammunition|MIM146}}
 
-=== Radar ===
+=== Radars ===
 As an ATGM carrier, the ADATS is equipped with an ADATS Search Radar and an electro-optical targeting system with TV and Forward Looking Infrared. The search radar is mounted on top of the turret at the rear and the barrel-like tracking optics is located at the front of the turret. The search radar has a brilliant 25 km of maximum detection range and can switch to 10 km, which is exactly the effective range of the MIM146. However, its scanning degrees of elevation is quite limited, making trouble to detect those jets that chose to opt for a very high entrance altitude. The lock from the electro-optical tracker shows the distance and the relative velocity of the target, not triggering the LWS of the locked hostile aircraft which gives it the advantage to fight modern jets compared to other top-tier SPAAs. However, you will heavily rely on thermal sight to find the hostile aircraft because the electro-optical tracker can't automatically lock the target in your plan position indicator.
 
 {| class="wikitable" style="text-align:center"
@@ -179,7 +179,7 @@ The ADATS is an excellent support vehicle, able to defend teammates from both en
 '''Pros:'''
 
 * Has access to 8 x fast multi-purpose missiles, can efficiently and swiftly eliminate both aircraft and tanks without reloading
-* Missiles can penetrate up to 900 mm of armour and can cause overpressure with 7.9 kg TNT equivalent 
+* Missiles can penetrate up to 900 mm of armour and can cause overpressure with 7.9 kg TNT equivalent
 * High rate of fire 25 mm cannon with good APDS for ground targets and HE ammunition for use against air targets
 ** Can fire 131 rounds before overheating
 * Gunner operates the turret and weapons from behind protective hull instead of being in the turret itself

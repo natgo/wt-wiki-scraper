@@ -142,29 +142,21 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AIM-9L Sidewinder|Skyflash|Skyflash SuperTEMP}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 2 x 330 gal drop tanks
-* 2 x [[AIM-9L Sidewinder|AIM-9L]] Sidewinder missiles
-* 4 x [[AIM-9L Sidewinder|AIM-9L]] Sidewinder missiles + 320 x countermeasures
-* 4 x [[Skyflash]] missiles
-* 4 x [[Skyflash SuperTEMP]] missiles
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="9.0%" | 1 !! width="9.0%" | 2 !! width="9.0%" | 3 !! width="9.0%" | 4 !! width="9.0%" | 5
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
 | rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! AIM-9L Sidewinder missiles
+! [[AIM-9L Sidewinder]] missiles
 | 1, 2 *|| || || || 1, 2 *
 |-
-! Skyflash missiles
+! [[Skyflash]] missiles
 | || || 4 || ||
 |-
-! Skyflash SuperTEMP missiles
+! [[Skyflash SuperTEMP]] missiles
 | || || 4 || ||
 |-
 ! Countermeasures
@@ -174,7 +166,18 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | || 1 || || 1 ||
 |-
 | colspan="7" | * Countermeasures can be carried with Sidewinder missiles on the same hardpoint
+|-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+
+* 2 x 330 gal drop tanks
+* 2 x AIM-9L Sidewinder missiles
+* 4 x AIM-9L Sidewinder missiles + 320 x countermeasures
+* 4 x Skyflash missiles
+* 4 x Skyflash SuperTEMP missiles
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -213,6 +216,7 @@ Never pull negative Gs in the Tornado F.3. As with many top tier planes the nega
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
+* High top speed at low altitudes
 * Has a lot of countermeasures, including large-calibre ones
 * Can carry 8 air-to-air missiles at once
 ** [[Skyflash SuperTEMP]]<nowiki/>s are effective SARH missiles in a BVR role
@@ -220,17 +224,17 @@ Never pull negative Gs in the Tornado F.3. As with many top tier planes the nega
 * Has radar gunsight
 * Advanced radar for its BR
 ** Includes TWS that indicates direction of enemy
-** PD has IFF
+** PD radar has IFF mode
 * Can carry drop tanks to extend range
 * Has reverse thrust to reduce landing distance
 
 '''Cons:'''
 
 * Poor turning performance
-* Lacklustre acceleration
+* Mediocre acceleration
 * Other BVR missiles have a longer range in an uptier
 * Very difficult to kinetically dodge SARH missiles due to aforementioned poor turn rate
-* Short ACM range
+* Limited 19 km ACM range
 * The 27 mm cannon has a low rate of fire, low ammunition count, and mediocre damage
 * Absence of drogue chute requires a long distance to land
 

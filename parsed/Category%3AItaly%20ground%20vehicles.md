@@ -208,6 +208,8 @@
 {{Tree-Skip}}
 |
 {{Tree-Unit|it_vcc_80_hitfist_30}}
+{{Tree-Arrow}}
+{{Tree-Unit|it_freccia}}
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Skip}}

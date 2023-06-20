@@ -154,18 +154,88 @@ Due to this cannon's high rate of fire, trigger discipline is a must.
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|AGM-62A Walleye I (505 kg)|GBU-8 (2,000 lb)|GBU-15(V)1/B (2,000 lb)|AGM-12C Bullpup|AGM-65B}}
-{{main|AIM-7E Sparrow|AIM-7E-2 Sparrow|AIM-9E Sidewinder|AIM-9J Sidewinder}}
-{{main|BLU-27/B incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
+| rowspan="22" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 3 || 3 || || || || 5 || || || || 3 || 3
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 2 || 3 || || || || 3 || || || || 3 || 2
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[AGM-62A Walleye I (505 kg)|505 kg AGM-62A Walleye I]] bombs
+| 1 || 1* || || || || || || || || 1* || 1
+|-
+! [[GBU-8 (2,000 lb)|2,000 lb GBU-8]] bombs
+| 1 || 1* || || || || || || || || 1* || 1
+|-
+! [[GBU-15(V)1/B (2,000 lb)|2,000 lb GBU-15(V)1/B]] bombs
+| || 1* || || || || || || || || 1* ||
+|-
+! [[BLU-27/B incendiary]] bombs
+| 1 || || || || || 2 || || || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 57 || 57 || || || || 57 || || || || 57 || 57
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 12 || 12 || || || || 12 || || || || 12 || 12
+|-
+! [[AGM-12C Bullpup]] missiles
+| || 1* || || || || || || || || 1* ||
+|-
+! [[AGM-65B]] missiles
+| || 3* || || || || || || || || 3* ||
+|-
+! [[AIM-7E Sparrow]] missiles
+| || || || 1 || 1 || || 1 || 1 || || ||
+|-
+! [[AIM-7E-2 Sparrow]] missiles
+| || || || 1 || 1 || || 1 || 1 || || ||
+|-
+! [[AIM-9E Sidewinder]] missiles
+| || || 1, 2* || || || || || || 1, 2* || ||
+|-
+! [[AIM-9J Sidewinder]] missiles
+| || || 2* || || || || || || 2* || ||
+|-
+! 600 gal drop tanks
+| || || || || || 1 || || || || ||
+|-
+| colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
+|-
+| colspan="13" | * Marked options for hardpoints 2/10 cannot be used in conjunction with air-to-air missiles on hardpoints 3/9 respectively
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 600 gal drop tank
 * 2 x AIM-9E Sidewinder missiles
 * 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
 * 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
 * 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
 * 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
@@ -181,71 +251,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 505 kg AGM-62A Walleye I bombs (2,020 kg total)
 * 4 x 2,000 lb GBU-8 bombs (8,000 lb total)
 * 2 x 2,000 lb GBU-15(V)1/B bombs (4,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="20" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1,200 rpg)
-| 1 || || || || || 1 || || || || || 1
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 3 || || || || 6 || || || || 3 || 6
-|-
-! 750 lb M117 cone 45 bombs
-| 3 || 3 || || || || 5 || || || || 3 || 3
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 2 || 3 || || || || 3 || || || || 3 || 2
-|-
-! 505 kg AGM-62A Walleye I bombs
-| 1 || 1* || || || || || || || || 1* || 1
-|-
-! 2,000 lb GBU-8 bombs
-| 1 || 1* || || || || || || || || 1* || 1
-|-
-! 2,000 lb GBU-15(V)1/B bombs
-| || 1* || || || || || || || || 1* ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| 1 || || || || || 1 || || || || || 1
-|-
-! BLU-27/B incendiary bombs
-| 1 || || || || || 2 || || || || || 1
-|-
-! FFAR Mighty Mouse rockets
-| 57 || 57 || || || || 57 || || || || 57 || 57
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 12 || 12 || || || || 12 || || || || 12 || 12
-|-
-! AGM-12C Bullpup missiles
-| || 1* || || || || || || || || 1* ||
-|-
-! AGM-65B missiles
-| || 3* || || || || || || || || 3* ||
-|-
-! AIM-7E Sparrow missiles
-| || || || 1 || 1 || || 1 || 1 || || ||
-|-
-! AIM-7E-2 Sparrow missiles
-| || || || 1 || 1 || || 1 || 1 || || ||
-|-
-! AIM-9E Sidewinder missiles
-| || || 1, 2* || || || || || || 1, 2* || ||
-|-
-! AIM-9J Sidewinder missiles
-| || || 2* || || || || || || 2* || ||
-|-
-| colspan="12" | Maximum permissible weight imbalance: 1,500 kg
-|-
-| colspan="13" | * Marked options for hardpoints 2/10 cannot be used in conjunction with air-to-air missiles on hardpoints 3/9 respectively
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -263,31 +269,31 @@ To reiterate, dogfighting should be avoided as much as possible. The Phantom was
 
 * [[MiG-21bis]]: the most advanced Soviet MiG-21, with amazing acceleration that can catch up to the F-4E quite easily, a good turn rate than can easily out-dogfight the F-4E, and flares to evade missiles. The German [[MiG-21bis-SAU]] has access to all-aspect R-60MK missiles as well. Neither has competitive radar-guided missiles however.
 * [[JA37C|JA37C Viggen]]: a Swedish powerhouse that boasts high low-altitude speed, good turning performance, similar weapons to the F-4E, and a Pulse-Doppler radar.
-* [[Mirage IIIC]]/[[Mirage IIIE|IIIE]]: armed with two of the best infrared missiles in the game, the R.550 Magic, and a long-range radar-guided missile with similar performance to the AIM-7. Strong short-term turning capabilities make them dangerous in snapshots. However, the former does not have countermeasures, and both have rather sluggish flight performance that is easily outran by the F-4E. 
-* [[Phantom FGR.2]]/[[Phantom FG.1|FG.1]]: British Phantoms with more powerful engines, can out accelerate and outrun the F-4E. They also have pulse-Doppler radars and are superior in BVR. However, the F-4E beats these phantoms in a dogfight as they lack the F-4E’s agile eagle slats.
-* [[F-4EJ Kai Phantom II|F-4EJ Kai]]: Japanese Phantom with an excellent pulse-Doppler radar and dangerous AIM-9L and AIM-7F missiles. However, similar to the British Phantoms. it lacks the F-4E’s agile eagle slats and thus is beaten by the F-4E in a dogfight.
+* [[Mirage IIIC]]/[[Mirage IIIE|IIIE]]: armed with two of the best infrared missiles in the game, the R.550 Magic, and a long-range radar-guided missile with similar performance to the AIM-7. Strong short-term turning capabilities make them dangerous in snapshots. However, the former does not have countermeasures, and both have rather sluggish flight performance that is easily outran by the F-4E.
+* [[Phantom FGR.2]]/[[Phantom FG.1|FG.1]]: British Phantoms with more powerful engines, can out accelerate and outrun the F-4E. They also have pulse-Doppler radars and are superior in BVR. However, the F-4E beats these phantoms in a dogfight as they lack the F-4E's agile eagle slats.
+* [[F-4EJ Kai Phantom II|F-4EJ Kai]]: Japanese Phantom with an excellent pulse-Doppler radar and dangerous AIM-9L and AIM-7F missiles. However, similar to the British Phantoms. it lacks the F-4E's agile eagle slats and thus is beaten by the F-4E in a dogfight.
 * F-4E Phantom II: This very aircraft, as a result you simply play around its weaknesses as described in the "[[#Pros and cons|Pros and cons]]" section.
-* [[F-4J Phantom II]]: Equivalent naval American Phantom variant, sacrifices ATGM/GBU capability for superior AIM-7F SARH missiles and a PD radar, but lack of "agile eagle" wing slats means it is beaten by the F-4E in a dogfight. 
+* [[F-4J Phantom II]]: Equivalent naval American Phantom variant, sacrifices ATGM/GBU capability for superior AIM-7F SARH missiles and a PD radar, but lack of "agile eagle" wing slats means it is beaten by the F-4E in a dogfight.
 * [[MiG-23M]]/[[MiG-23MF (Germany)|MF]]/[[MiG-23MLD|MLD]]: swing-wing fighters with potent missiles, good avionics, and superior agility to the F-4E on lower sweep settings. Avoid dogfighting and keep an eye out for sneak attacks with the R-23T/24T missiles. The MiG-23M and MiG-23MF have very limited countermeasures, which the F-4E can exploit with its large missile capacity. The MiG-23MLD has excellent speed and climb performance that can match or exceed the F-4E.
 * [[J-7E]]: a light and nimble Chinese fighter with exceptional agility but no radar-guided missiles. Avoid dogfighting whenever possible.
-* [[F-14A Early]]: Fourth generation fighter and American successor to the F-4, with the ultra-long range and fire-and-forget Phoenix missiles, superior radar and missiles, and vastly superior dogfighting performance. Acceleration and top speed is mediocre, however, and the F-4E can keep up with its speed. 
-* [[Mirage 2000C-S5|Mirage 2000C]]: French fourth generation fighter with vastly superior turn rate, acceleration, and missiles. It only has four missiles, however, as opposed to the F-4E’s eight. 
-* [[F-16 (Family)|F-16A]]: American fourth generation fighter with superior AIM-9L (and, in most cases, AIM-7F/Ms), superior PD radar, vastly superior turn rate and acceleration. Its top speed can be matched by the F-4E. Avoid dogfighting whenever possible. 
-* [[MiG-29]]: Russia fourth generation fighter with R-60Ms, extremely dangerous R-27ER radar guided missiles, look-down radar, and vastly superior turn rate, acceleration and top speed. Generally should be avoided. 
+* [[F-14A Early]]: Fourth generation fighter and American successor to the F-4, with the ultra-long range and fire-and-forget Phoenix missiles, superior radar and missiles, and vastly superior dogfighting performance. Acceleration and top speed is mediocre, however, and the F-4E can keep up with its speed.
+* [[Mirage 2000C-S5|Mirage 2000C]]: French fourth generation fighter with vastly superior turn rate, acceleration, and missiles. It only has four missiles, however, as opposed to the F-4E's eight.
+* [[F-16 (Family)|F-16A]]: American fourth generation fighter with superior AIM-9L (and, in most cases, AIM-7F/Ms), superior PD radar, vastly superior turn rate and acceleration. Its top speed can be matched by the F-4E. Avoid dogfighting whenever possible.
+* [[MiG-29]]: Russia fourth generation fighter with R-60Ms, extremely dangerous R-27ER radar guided missiles, look-down radar, and vastly superior turn rate, acceleration and top speed. Generally should be avoided.
 
 === Ground Realistic ===
-While the AA threat at this BR is significant, this aircraft can still find great utility if used properly and is among the top aircraft for CAS in the American tech tree when the appropriate modifications are unlocked. However, like most aircraft at this BR it has little utility in ground RB when stock/without countermeasures unlocked and even when spaded is still heavily pressured by SAMs, which on some maps can even immediately engage the aircraft as it spawns. In the ground attack role, while its 20 mm cannon can do significant damage against the thinly armoured topsides of most vehicles at this BR, the strafing runs required to do so put you at immense risk of being shot down by radar-guided AAA, any SAM, or even some tanks with proximity fused ammunition/ATGMs/autocannons. Due to this, CAS should be completely avoided in a stock F-4E. 
+While the AA threat at this BR is significant, this aircraft can still find great utility if used properly and is among the top aircraft for CAS in the American tech tree when the appropriate modifications are unlocked. However, like most aircraft at this BR it has little utility in ground RB when stock/without countermeasures unlocked and even when spaded is still heavily pressured by SAMs, which on some maps can even immediately engage the aircraft as it spawns. In the ground attack role, while its 20 mm cannon can do significant damage against the thinly armoured topsides of most vehicles at this BR, the strafing runs required to do so put you at immense risk of being shot down by radar-guided AAA, any SAM, or even some tanks with proximity fused ammunition/ATGMs/autocannons. Due to this, CAS should be completely avoided in a stock F-4E.
 
 As a result, you want to rely on quick strikes that put you in the line of fire for as little time as possible or long range attacks that eliminate the need to enter enemy AA range at all. The latter is most prominently done with its TV-guided munitions, the best of which are the AGM-62 Walleyes, GBU-8s and AGM-65 Mavericks. To significantly make use of these guided weapons, you often need to put several kilometers worth of distance between you and the target so you can properly aim, fire, and pull away (and optimally against a stationary target). All these weapons have two lock modes: point lock and track lock (you can tell what kind of lock you have by looking at the selected weapon name). Point lock means that the weapon has locked on to a point of the ground, and upon optimal conditions will hit that point. Track lock means that the weapon has locked on to an enemy vehicle, and under optimal conditions will follow its movement and hit it. Track locks are usually much more difficult to achieve, needing a much closer range, but is the more reliable option when attempting to destroy vehicles (oftentimes an unaware enemy will accidentally move outside the point lock of your weapon and dodge it).
 
-* The AGM-62A Walleye is a guided bomb, meaning it has no power and glides to a target via gravity and launch speed of the aircraft. It is a smaller, lighter weapon than the heavier GBU-8. 
-* The GBU-8 HOBOS is also a guided bomb similar to the Walleye. Compared to the Walleye, it has a vastly heavier 2,000lb warhead, but is also heavier in weight. 
-* The GBU-15(V)1/B is another guided bomb that the F-4E has. It is very similar to the GBU-8, but cannot be launched at supersonic speeds, and so taking these over GBU-8s or AGM-65s are generally not recommended. 
-* The AGM-65B Maverick is an air-to-ground missile. This means it has a rocket motor that propels it for a short amount of time, making it more suitable for lower altitude launches where the guided bombs would not have enough altitude to glide to the target. The Maverick is also generally better than the guided bombs at obtaining and holding a track lock on enemy vehicles. In addition, more can be taken (3 can be taken in the place of one bomb). However, the AGM-65 can sometimes be unreliable, such as exploding randomly or losing lock, especially in the case of long range launches (<8 km). Compared to the guided bombs, the Maverick has an anti-tank HEAT warhead, which theoretically should destroy any vehicle it hits but sometimes can fail to kill heavily-armoured MBTs. In addition, being a HEAT warhead and not a bomb, the Maverick doesn't have the blast radius to score critical hits from near misses. 
+* The AGM-62A Walleye is a guided bomb, meaning it has no power and glides to a target via gravity and launch speed of the aircraft. It is a smaller, lighter weapon than the heavier GBU-8.
+* The GBU-8 HOBOS is also a guided bomb similar to the Walleye. Compared to the Walleye, it has a vastly heavier 2,000lb warhead, but is also heavier in weight.
+* The GBU-15(V)1/B is another guided bomb that the F-4E has. It is very similar to the GBU-8, but cannot be launched at supersonic speeds, and so taking these over GBU-8s or AGM-65s are generally not recommended.
+* The AGM-65B Maverick is an air-to-ground missile. This means it has a rocket motor that propels it for a short amount of time, making it more suitable for lower altitude launches where the guided bombs would not have enough altitude to glide to the target. The Maverick is also generally better than the guided bombs at obtaining and holding a track lock on enemy vehicles. In addition, more can be taken (3 can be taken in the place of one bomb). However, the AGM-65 can sometimes be unreliable, such as exploding randomly or losing lock, especially in the case of long range launches (<8 km). Compared to the guided bombs, the Maverick has an anti-tank HEAT warhead, which theoretically should destroy any vehicle it hits but sometimes can fail to kill heavily-armoured MBTs. In addition, being a HEAT warhead and not a bomb, the Maverick doesn't have the blast radius to score critical hits from near misses.
 
-Obtaining a lock can be difficult as the launch parameters for a reliable track lock with the TV-guided weapons put you in the range of most radar-guided SAMs due to the limited zoom of its seeker head. This is especially true with the advent of the highly advanced Pantsir-S1, with SAMs that vastly outrange your weapons. Therefore, in order to properly perform CAS, the SAM vehicles must first be destroyed. For the Pantsir, the most reliable strategy is quick pop-up strikes with the guided weapons. Upon spawning, immediately dive for treetop level as your airspawn is in range of the Pantsir's SAMs. Attempt to use terrain to stay hidden from the SAMs, which are likely located in the enemy's spawn area, while flanking left, right or behind the enemy's spawn. Once around 10 km away from the spawn, turn in and accelerate directly towards the enemy's spawn while staying low. Get as close as you can without being detected; at around 4-5 km, start rapidly climbing to around 500 m, and use the TV sight to attempt to locate any SAMs in the enemy's spawn. At 3-4 km, your TV-guided munitions have a better chance of tracking the enemy, and if you've located a SAM vehicle, launch your weapon. Quickly go defensive by turning away from the spawn while releasing chaff (also turn away if you haven't located any SAMs by 3 km). By any luck, your TV-guided weapon will destroy the SAM. You can circle around and rinse and repeat to attempt to destroy additional SAMs. Once you are sure there are no more SAMs, you can climb to a higher altitude to launch your ordnance against enemy tanks. 
+Obtaining a lock can be difficult as the launch parameters for a reliable track lock with the TV-guided weapons put you in the range of most radar-guided SAMs due to the limited zoom of its seeker head. This is especially true with the advent of the highly advanced Pantsir-S1, with SAMs that vastly outrange your weapons. Therefore, in order to properly perform CAS, the SAM vehicles must first be destroyed. For the Pantsir, the most reliable strategy is quick pop-up strikes with the guided weapons. Upon spawning, immediately dive for treetop level as your airspawn is in range of the Pantsir's SAMs. Attempt to use terrain to stay hidden from the SAMs, which are likely located in the enemy's spawn area, while flanking left, right or behind the enemy's spawn. Once around 10 km away from the spawn, turn in and accelerate directly towards the enemy's spawn while staying low. Get as close as you can without being detected; at around 4-5 km, start rapidly climbing to around 500 m, and use the TV sight to attempt to locate any SAMs in the enemy's spawn. At 3-4 km, your TV-guided munitions have a better chance of tracking the enemy, and if you've located a SAM vehicle, launch your weapon. Quickly go defensive by turning away from the spawn while releasing chaff (also turn away if you haven't located any SAMs by 3 km). By any luck, your TV-guided weapon will destroy the SAM. You can circle around and rinse and repeat to attempt to destroy additional SAMs. Once you are sure there are no more SAMs, you can climb to a higher altitude to launch your ordnance against enemy tanks.
 
-AGM-12C Bullpup missiles must be guided with your keyboard, thus highly reducing your situational awareness and aircraft movement while you attempt to guide the missile. Though Bullpups were powerful at lower BRs, at top tier and in a SAM prevalent environment, it is not recommended to use them. 
+AGM-12C Bullpup missiles must be guided with your keyboard, thus highly reducing your situational awareness and aircraft movement while you attempt to guide the missile. Though Bullpups were powerful at lower BRs, at top tier and in a SAM prevalent environment, it is not recommended to use them.
 
 Air-to-air ordnance can be taken, but in a limited amount. Sidewinders can generally be omitted for additional ordnance due to the prevalence of countermeasures at this BR. Additionally, they are of little use against many helicopters such as the Ka-50/52 which have IRCM and countermeasure dispensers that automatically activate upon a missile launch. What does work against helicopters is the radar-guided AIM-7E/E-2 Sparrow. Though the F-4E's radar unfortunately cannot lock on to low-flying aircraft, at top tier, oftentimes helicopters will be flying high enough to be locked onto. Due to the to helicopter's slow speed, the radar will still not lock on to the helicopter until at most <3 km, and sometimes will only lock as close as 1.5 km. At this close range, chaff launches and evasive manoeuvres from the helicopter will not be enough to fool the radar-guided missile. While the M61 cannon can be used to shoot down helicopters, they have tracking-assisted cannons which will likely destroy you if you are spotted. Thus Sparrows are the safer weapon choice against helicopters. Sparrows can also be used against strike drones, which are not hot and difficult to get a Sidewinder lock on. This air-to-air ordnance adds to the SP costs of air to ground loadouts, it's generally worth it to entirely omit or take a reduced loadout of said weapons.
 
@@ -302,14 +308,14 @@ Air-to-air ordnance can be taken, but in a limited amount. Sidewinders can gener
 * Deadly frontal armament with high burst mass and high damage
 * Has a ballistic computer for assisting in the aim of cannons, rockets, and bombs
 * Better manoeuvrability than most other Phantoms due to slats
-* Best CAS payload out of all US Phantoms 
+* Best CAS payload out of all US Phantoms
 
 '''Cons:'''
 
 * Susceptible to wing rip, especially when doing negative G manoeuvres or rolls
 * Limited ammunition in the frontally-mounted cannon
 * Large target for aircraft and AA alike
-* Despite having slats, it is still a heavy aircraft which bleeds speed quickly and will struggle in dogfights versus more manoeuvrable opponents 
+* Despite having slats, it is still a heavy aircraft which bleeds speed quickly and will struggle in dogfights versus more manoeuvrable opponents
 * Two engines make for a strong heat signature, making it harder to dodge missiles
 * Flight performance suffers immensely when carrying large amounts of ordnance
 * Radar lacks pulse-Doppler or look-down capabilities, meaning it is difficult to lock and engage enemies below the horizon and/or at low altitudes with Sparrows

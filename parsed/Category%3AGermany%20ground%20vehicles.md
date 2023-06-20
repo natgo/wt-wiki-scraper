@@ -71,6 +71,8 @@
 
 {{Tree-Line|II Rank}}
 |
+{{Tree-Unit|germ_pzkpfw_38t_na}}
+{{Tree-Arrow}}
 {{Tree-Unit|germ_sdkfz_234_2}}
 {{Tree-Arrow}}
 {{Tree-Group|germ_marder_iii_group|Marder III/III H|
@@ -80,7 +82,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|germ_pzsfl_IVa_dickermax}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|germ_pzkpfw_III_ausf_J}}
 {{Tree-Arrow}}
@@ -248,20 +250,22 @@
 {{Tree-Unit|germ_bmp_1_ddr}}
 {{Tree-Arrow}}
 {{Tree-Unit|germ_marder_1a3}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|germ_mkpz_m48a2c}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|3}}
 |
 {{Tree-Unit|germ_leopard_I}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|3}}
 |
 {{Tree-Unit|germ_flakpanzer_IV_Kugelblitz}}
 {{Tree-Arrow}}
 {{Tree-Unit|germ_wiesel_1_mk20}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|germ_panzerjager_tiger}}
+{{Tree-Arrow}}
+{{Tree-Unit|germ_spz_oerlikon_raketenautomat}}
 {{Tree-Arrow}}
 {{Tree-Unit|germ_marder_df_105}}
 {{Tree-Arrow}}

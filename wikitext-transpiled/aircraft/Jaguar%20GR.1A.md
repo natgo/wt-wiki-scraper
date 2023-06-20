@@ -150,50 +150,53 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)|CRV7 M247|SNEB type 23}}
-{{main|Mk.13 (546 kg)|AIM-9G Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x AIM-9G Sidewinder missiles
-* 8 x 540 lb Mk.M2 bombs (4,320 lb total)
-* 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
-
-* 76 x CRV7 M247 rockets
-* 72 x SNEB type 23 rockets
-* 2 x 546 kg Mk.13 bombs (1,092 kg total)
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 540 lb Mk.M2 bombs
+! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
 | 1 || 2 || || 2 || || 2 || 1
 |-
-! 1,000 lb H.E. M.C. Mk.13 bombs
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
 | 1 || 2 || || 2 || || 2 || 1
 |-
-! 546 kg Mk.13 bombs
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| 1 || 2 || || 2 || || 2 || 1
+|-
+! [[Mk.13 (546 kg)|546 kg Mk.13]] bombs
 | || 1* || || || || 1* ||
 |-
-! CRV7 M247 rockets
+! [[CRV7 M247]] rockets
 | 19 || 19 || || || || 19 || 19
 |-
-! SNEB type 23 rockets
+! [[SNEB type 23]] rockets
 | 18 || 18 || || || || 18 || 18
 |-
-! AIM-9G Sidewinder missiles
+! [[AIM-9G Sidewinder]] missiles
 | || || 1 || || 1 || ||
 |-
-! TIALD
+! TIALD targeting pod
 | || || || 1* || || ||
 |-
 | colspan="9" | * The TIALD pod must be carried when equipping Mk.13 bombs
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 2 x AIM-9G Sidewinder missiles
+* 8 x 540 lb Mk.M2 bombs (4,320 lb total)
+* 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
+* 8 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (8,000 lb total)
+* 76 x CRV7 M247 rockets
+* 72 x SNEB type 23 rockets
+* 2 x 546 kg Mk.13 bombs (1,092 kg total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

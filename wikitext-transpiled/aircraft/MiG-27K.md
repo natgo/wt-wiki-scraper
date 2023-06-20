@@ -141,19 +141,90 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary|GSh-23L (23 mm)}}
-{{main|KAB-500Kr (500 kg)|KAB-500L (500 kg)}}
-{{main|Kh-23M|Kh-25ML|Kh-29L|Kh-29T}}
-{{main|R-13M1|R-60M|S-5K|S-8KO|S-24B}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="22" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-27M.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| 1 || || || || || || 1
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| 4 || 1 || 4 || 4 || 4 || 1 || 4
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[OFAB-250Sh (250 kg)|250 kg OFAB-250Sh]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[FAB-500Sh (500 kg)|500 kg FAB-500Sh]] bombs
+| 1 || || 1 || 1 || 1 || || 1
+|-
+! [[KAB-500Kr (500 kg)|500 kg KAB-500Kr]] bombs
+| 1* || || 1* || || 1* || || 1*
+|-
+! [[KAB-500L (500 kg)|500 kg KAB-500L]] bombs
+| 1* || || 1* || || 1* || || 1*
+|-
+! [[ZB-500 incendiary]] bombs
+| 1 || || 1 || || 1 || || 1
+|-
+! [[S-5K]] rockets
+| 32 || || 32 || || 32 || || 32
+|-
+! [[S-8KO]] rockets
+| 20 || || 20 || || 20 || || 20
+|-
+! [[S-24B]] rockets
+| 1 || || 1 || || 1 || || 1
+|-
+! [[Kh-23M]] missiles
+| 1<sup>†</sup> || || || || || || 1<sup>†</sup>
+|-
+! [[Kh-25ML]] missiles
+| 1* || || 1* || || 1* || || 1*
+|-
+! [[Kh-29L]] missiles
+| 1* || || || || || || 1*
+|-
+! [[Kh-29T]] missiles
+| 1* || || || || || || 1*
+|-
+! [[R-13M1]] missiles
+| 1 || || || || || || 1
+|-
+! [[R-60M]] missiles
+| 2 || || || || || || 2
+|-
+! Delta-NG targeting pod
+| || || 1<sup>†</sup> || || || ||
+|-
+! 800 l drop tanks
+| || || || 1 || || ||
+|-
+| colspan="8" | Maximum permissible weight imbalance: 700 kg
+|-
+| colspan="9" | * KAB-500Kr and KAB-500L bombs, Kh-25ML, Kh-29L, and Kh-29T missiles cannot be mixed, only one type may be carried across hardpoints <br> <sup>†</sup> It is required to equip the Delta-NG targeting pod with the Kh-23M missiles
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 800 l drop tank
 * 2 x R-13M1 missiles
 * 4 x R-60M missiles
 * 22 x 100 kg OFAB-100 bombs (2,200 kg total)
 * 7 x 250 kg FAB-250M-62 bombs (1,750 kg total)
+* 7 x 250 kg OFAB-250Sh bombs (1,750 kg total)
 * 7 x 500 kg FAB-500M-62 bombs (3,500 kg total)
+* 5 x 500 kg FAB-500Sh bombs (2,500 kg total)
 * 4 x ZB-500 incendiary bombs
 * 4 x 500 kg KAB-500Kr bombs (2,000 kg total)
 * 4 x 500 kg KAB-500L bombs (2,000 kg total)
@@ -165,71 +236,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x Kh-29L missiles
 * 2 x Kh-29T missiles
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
+{{Navigation-End}}
 
 As mentioned before, the MiG-27K's arsenal is largely the same as the MiG-27M's. Unguided options include bombs, rockets, and gun pods and the TV guided weapons are still the Kh-29T missile and KAB-500Kr bomb. These two weapon categories function more or less the same as the MiG-27M. The real stars of the show are now the laser-guided weapons: the familiar Kh-25ML and Kh-29L missiles are far easier to use with the MiG-27K's optics, which have high zoom and a wide field of view akin to an attack helicopter. It is now possible to designate and track targets from long distances and indirect angles, which makes flying the aircraft in attack approaches much easier. The new KAB-500L laser-guided bombs are an extra option for those who want precise and powerful explosions that can take out clustered targets, but they are slower than the air-to-ground missiles and may be trickier to guide due to their unpowered nature.
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="19" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-27M.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| 1 || || || || || || 1
-|-
-! 100 kg OFAB-100 bombs
-| 4 || 1 || 4 || 4 || 4 || 1 || 4
-|-
-! 250 kg FAB-250M-62 bombs
-| 1 || 1 || 1 || 1 || 1 || 1 || 1
-|-
-! 500 kg FAB-500M-62 bombs
-| 1 || 1 || 1 || 1 || 1 || 1 || 1
-|-
-! 500 kg KAB-500Kr bombs
-| 1* || || 1* || || 1* || || 1*
-|-
-! 500 kg KAB-500L bombs
-| 1* || || 1* || || 1* || || 1*
-|-
-! ZB-500 incendiary bombs
-| 1 || || 1 || || 1 || || 1
-|-
-! S-5K rockets
-| 32 || || 32 || || 32 || || 32
-|-
-! S-8KO rockets
-| 20 || || 20 || || 20 || || 20
-|-
-! S-24B rockets
-| 1 || || 1 || || 1 || || 1
-|-
-! Kh-23M missiles
-| 1<sup>†</sup> || || || || || || 1<sup>†</sup>
-|-
-! Kh-25ML missiles
-| 1* || || 1* || || 1* || || 1*
-|-
-! Kh-29L missiles
-| 1* || || || || || || 1*
-|-
-! Kh-29T missiles
-| 1* || || || || || || 1*
-|-
-! R-13M1 missiles
-| 1 || || || || || || 1
-|-
-! R-60M missiles
-| 2 || || || || || || 2
-|-
-! Delta-NG
-| || || 1<sup>†</sup> || || || ||
-|-
-| colspan="8" | Maximum permissible weight imbalance: 700 kg
-|-
-| colspan="9" | * KAB-500Kr and KAB-500L bombs, Kh-25ML, Kh-29L, and Kh-29T missiles cannot be mixed, only one type may be carried across hardpoints <br> <sup>†</sup> It is required to equip the Delta-NG targeting pod with the Kh-23M missiles
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

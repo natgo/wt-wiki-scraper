@@ -182,7 +182,7 @@ After you climbed at 3,000 m, chase enemy bombers: attack them frontally or from
 
 '''Pros:'''
 
-* Potent offensive armament, MG 151 cannons have access to Air Targets belts with Minengeschoß rounds
+* Potent offensive armament with huge ammo count
 * Great for Head-on and Boom and zoom attacks
 * Can be used as interceptor
 * Gets an attacker spawn (AB/RB)
@@ -191,6 +191,7 @@ After you climbed at 3,000 m, chase enemy bombers: attack them frontally or from
 
 '''Cons:'''
 
+* Poor gun convergence due to gun placements resulting into poor accuracy while turning
 * Defensive turret is almost fixed (only ±2° in each direction); the target has to be at exactly 6 o'clock to be engaged
 * Poor acceleration even when diving
 * Big target for AA and fighters

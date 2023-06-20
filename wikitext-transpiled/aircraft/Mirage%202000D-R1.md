@@ -1,3 +1,8 @@
+{{About
+| about = French jet fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Mirage 2000 (Family)
+}}
 {{Specs-Card
 |code=mirage_2000d_r1
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -26,7 +31,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 | 2,226 || 2,159 || rowspan="2" | {{Specs|ceiling}} || 26.7 || 27.0 || 155.1 || 144.4 || rowspan="2" | 750
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2.474 || 2,351 || 23.9 || 25.0 || 236.5 || 195.0
 |-
 |}
 
@@ -114,11 +119,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -134,68 +139,77 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|SAMP Type 25 (250 kg)|SNEB type 23|AS-30L Nord|Matra R550 Magic 2}}
-{{main|GBU-12 Paveway II (277 kg)|GBU-16 Paveway II (1,092 lb)|GBU-24 Paveway III (2,000 lb)|BGL-1000 (970 kg)|DEFA 554 (30 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 1 x 1,300 l drop tank
-* 1 x 30 mm DEFA 554 cannon (600 rpg)
-* 5 x 250 kg SAMP Type 25 bombs (1,250 kg total)
-* 2 x Matra R550 Magic 2 missiles
-* 72 x SNEB type 23 rockets
-* 9 x 250 kg SAMP Type 25 bombs (2,250 kg total)
-* 10 x 500 lb LDGP Mk 82 bombs (5,000 lb total)
-* 2 x 277 kg GBU-12 Paveway II bombs (554 kg total)
-* 1 x 1,092 lb GBU-16 Paveway II bomb (1,092 lb total)
-* 1 x 2,000 lb GBU-24 Paveway III bomb (2,000 lb total)
-* 1 x 970 kg BGL-1000 bomb (970 kg total)
-* 2 x AS-30L Nord missiles
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
-| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_2000C-S5.png]]</div>
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_2000C-S5.png]]</div>
 |-
-! 30 mm DEFA 554 cannons (300 rpg)
+! [[DEFA 554 (30 mm)|30 mm DEFA 554]] cannons (300 rpg)
 | || || || || 2 || || || ||
 |-
-! 250 kg SAMP Type 25 bombs
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
 | 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
 |-
-! 500 lb LDGP Mk 82 bombs
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
 | 1 || 1 || 1 || 1 || 1, 2 || 1 || 1 || 1 || 1
 |-
-! 277 kg GBU-12 Paveway II bombs
+! [[SAMP Mk 82 250 Snakeye (500 lb)|500 lb SAMP Mk 82 250 Snakeye]] bombs
+| 1 || 1 || 1 || 1 || 1, 2 || 1 || 1 || 1 || 1
+|-
+! [[BGL-1000 (970 kg)|970 kg BGL-1000]] bombs
+| || || || || 1* || || || ||
+|-
+! [[GBU-12 Paveway II (277 kg)|277 kg GBU-12 Paveway II]] bombs
 | || || || || 2* || || || ||
 |-
-! 970 kg BGL-1000 bombs
+! [[GBU-16 Paveway II (1,092 lb)|1,092 lb GBU-16 Paveway II]] bombs
 | || || || || 1* || || || ||
 |-
-! 1,092 lb GBU-16 Paveway II bombs
+! [[GBU-24 Paveway III (2,000 lb)|2,000 lb GBU-24 Paveway III]] bombs
 | || || || || 1* || || || ||
 |-
-! 2,000 lb GBU-24 Paveway III bombs
-| || || || || 1* || || || ||
-|-
-! SNEB type 23 rockets
+! [[SNEB type 23]] rockets
 | 18 || 18 || || || || || || 18 || 18
 |-
-! AS-30L Nord missiles
+! [[AS-30L Nord]] missiles
 | || 1* || || || || || || 1* ||
 |-
-! Matra R550 Magic 2 missiles
+! [[Matra R550 Magic 2]] missiles
 | 1 || || || || || || || || 1
 |-
-! CLDP
+! CLDP targeting pod
 | || || || 1* || || || || ||
 |-
 ! 1,300 l drop tanks
 | || || || || 1 || || || ||
 |-
 | colspan="11" | * CLDP targeting pod must be carried when equipping guided bombs or AGMs
+|-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 1,300 l drop tank
+* 1 x 30 mm DEFA 554 cannon (600 rpg)
+* 5 x 250 kg SAMP Type 25 bombs (1,250 kg total)
+* 2 x Matra R550 Magic 2 missiles
+* 72 x SNEB type 23 rockets
+* 9 x 250 kg SAMP Type 25 bombs (2,250 kg total)
+* 9 x 250 kg SAMP Type 25 200 bombs (2,250 kg total)
+* 10 x 500 lb LDGP Mk 82 bombs (5,000 lb total)
+* 10 x 500 lb SAMP Mk 82 250 Snakeye bombs (5,000 lb total)
+* 2 x 277 kg GBU-12 Paveway II bombs (554 kg total)
+* 1 x 1,092 lb GBU-16 Paveway II bomb (1,092 lb total)
+* 1 x 2,000 lb GBU-24 Paveway III bomb (2,000 lb total)
+* 1 x 970 kg BGL-1000 bomb (970 kg total)
+* 2 x AS-30L Nord missiles
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -230,6 +244,7 @@ The 2000D was involved with many different conflicts, primarily in Africa and th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_2000d_r1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

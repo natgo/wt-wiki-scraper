@@ -1,7 +1,7 @@
 {{About
-| about = British heavy bomber '''{{PAGENAME}}'''
-| usage = the other version
-| link = Lancaster B Mk III
+|about = British bomber '''{{PAGENAME}}'''
+|usage = other versions
+|link = Lancaster (Family)
 }}
 {{Specs-Card
 |code=lancaster_mk1
@@ -90,17 +90,17 @@ Unlike the other heavy bombers, the Lancaster is surprisingly responsive and eas
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|M.C. Mk.I (1,000 lb)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. Mk.I (250 lb)|M.C. Mk.I (500 lb)|M.C. Mk.I (1,000 lb)}}
 {{main|H.C. Mk.II (4,000 lb)|H.C. Mk.II (8,000 lb)|H.C Mk.I (12,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 14 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
-* 14 x 500 lb G.P. Mk.IV bombs (7,000 lb total)
-* 6 x 500 lb G.P. Mk.IV bombs + 8 x 250 lb G.P. Mk.IV bombs (5,000 lb total)
+* 14 x 250 lb M.C. Mk.I bombs (3,500 lb total)
+* 14 x 500 lb M.C. Mk.I bombs (7,000 lb total)
+* 6 x 500 lb M.C. Mk.I bombs + 8 x 250 lb M.C. Mk.I bombs (5,000 lb total)
 * 14 x 1,000 lb M.C. Mk.I bombs (14,000 lb total)
-* 1 x 1,000 lb G.P. Mk.I bomb + 6 x 500 lb G.P. Mk.IV bombs + 2 x 250 lb G.P. Mk.IV bombs (4,500 lb total)
-* 6 x 1,000 lb G.P. Mk.I bombs + 3 x 250 lb G.P. Mk.IV bombs (6,750 lb total)
+* 1 x 1,000 lb M.C. Mk.I bomb + 6 x 500 lb M.C. Mk.I bombs + 2 x 250 lb M.C. Mk.I bombs (4,500 lb total)
+* 6 x 1,000 lb M.C. Mk.I bombs + 3 x 250 lb M.C. Mk.I bombs (6,750 lb total)
 * 1 x 4,000 lb H.C. Mk.II bomb (4,000 lb total)
 * 1 x 4,000 lb H.C. Mk.II bomb + 6 x 1,000 lb M.C. Mk.I bombs + 2 x 250 lb G.P. Mk.IV bombs (10,500 lb total)
 * 1 x 8,000 lb H.C. Mk.II bomb (8,000 lb total)
@@ -171,7 +171,7 @@ The safest way to use this bomber is to attack bases from around the map. Do a b
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The Avro Lancasters is a long-range heavy bomber built and designed by A.V. Roe and Company (or Avro). It was developed as an "upgrade" from the Avro Manchester which was disliked by crews for its difficulty to fly and underpowered engines.
+The Avro Lancaster is a long-range heavy bomber built and designed by A.V. Roe and Company (or Avro). It was developed as an "upgrade" from the Avro Manchester which was disliked by crews for its difficulty to fly and underpowered engines.
 
 The Lancaster was designed by Roy Chadwick and first flew on 9th January 1941; entering service in 1942. It was produced by Avro, Armstrong Whitworth, Austin Motors, Metropolitan-Vickers, Vickers Armstrong and Victory Aircraft (for the RCAF)
 

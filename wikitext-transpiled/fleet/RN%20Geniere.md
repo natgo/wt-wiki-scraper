@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced as a [[wt:en/news/6690-development-italian-fleet-early-access-packs-en|premium pack]] in [[Update "Starfighters"]] and was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]]. It was made available for purchase with Golden Eagles {{ge}} briefly during the [[wt:en/news/7733-special-italian-navy-day-en|2022 "Italian Navy Day"]] mini-event.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced as a [[wt:en/news/6690-development-italian-fleet-early-access-packs-en|premium pack]] in [[Update "Starfighters"]] and was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]]. It has been made available for purchase with Golden Eagles {{ge}} briefly during the [[wt:en/news/7733-special-italian-navy-day-en|2022]] and [[wt:en/news/7733-special-italian-navy-day-en|2023 "Italian Navy Day"]] mini-events.
 
 == General info ==
 === Survivability and armour ===

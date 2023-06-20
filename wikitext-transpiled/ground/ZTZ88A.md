@@ -1,3 +1,8 @@
+{{About
+| about = Chinese medium tank '''{{PAGENAME}}'''
+| usage = the other version
+| link = ZTZ88B
+}}
 {{Specs-Card
 |code=cn_ztz_88a
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

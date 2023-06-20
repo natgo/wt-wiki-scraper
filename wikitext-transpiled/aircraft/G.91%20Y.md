@@ -146,43 +146,60 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|Aerea 559G1 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[Aerea 559G1 incendiary]] bombs
+| || 1 || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 19 || 19 || 19
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 4 || 4 || 4 || 4
+|-
+! [[AA-20 Nord]] missiles
+| || 1 || 1 ||
+|-
+! [[AS-20 Nord]] missiles
+| || 1 || 1 ||
+|-
+! [[AS-30 Nord]] missiles
+| || 1 || 1 ||
+|-
+| colspan="5" | Maximum permissible loadout weight: 1,815 kg<br>Maximum permissible weight imbalance: 800 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 76 x FFAR Mighty Mouse rockets
 * 16 x Zuni Mk32 Mod 0 ATAP rockets
+* 2 x AS-20 Nord missiles
+* 2 x AS-30 Nord missiles
+* 2 x AA-20 Nord missiles
 * 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)
+* 4 x 500 lb Mk 82 Snakeye bombs (2,000 lb total)
 * 2 x 500 lb LDGP Mk 82 bombs (1,000 lb total)
 * 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 2 x Aerea 559G1 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 500 lb LDGP Mk 82 bombs
-| 1 || 1 || 1 || 1
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 1 || 1 || 1 || 1
-|-
-! Aerea 559G1 incendiary bombs
-| || 1 || 1 ||
-|-
-! FFAR Mighty Mouse rockets
-| 19 || 19 || 19 || 19
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 4 || 4 || 4 || 4
-|-
-| colspan="5" | Maximum permissible weight imbalance: 800 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

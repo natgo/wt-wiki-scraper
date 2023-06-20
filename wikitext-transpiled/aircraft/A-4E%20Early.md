@@ -147,9 +147,10 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
+{{main|LDGP Mk 81 (250 lb)|Mk 81 Snakeye (250 lb)|LDGP Mk 82 (500 lb)|Mk 82 Snakeye (500 lb)}}
+{{main|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|Mk 77 mod 4 incendiary}}
 {{main|AGM-62A Walleye I (505 kg)|AGM-12B Bullpup|AGM-12C Bullpup|AIM-9B Sidewinder}}
-{{main|Mk 77 mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
+{{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
@@ -161,6 +162,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x AGM-12C Bullpup missiles
 * 20 x 250 lb LDGP Mk 81 bombs (5,000 lb total)
 * 14 x 500 lb LDGP Mk 82 bombs (7,000 lb total)
+* 20 x 250 lb Mk 81 Snakeye bombs (5,000 lb total)
+* 14 x 500 lb Mk 82 Snakeye bombs (7,000 lb total)
 * 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
 * 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
@@ -171,8 +174,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="8%" | 1 !! width="8%" | 2 !! width="8%" | 3 !! width="8%" | 4 !! width="8%" | 5
-| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! 20 mm Mk 11 mod 5 cannons (750 rpg)
 | || 1 || 1 || 1 ||
@@ -180,7 +183,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! 250 lb LDGP Mk 81 bombs
 | 1 || 6 || 6 || 6 || 1
 |-
+! 250 lb Mk 81 Snakeye bombs
+| 1 || 6 || 6 || 6 || 1
+|-
 ! 500 lb LDGP Mk 82 bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! 500 lb Mk 82 Snakeye bombs
 | 1 || 3 || 6 || 3 || 1
 |-
 ! 505 kg AGM-62A Walleye I bombs
@@ -213,8 +222,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! AIM-9B Sidewinder missiles
 | || 1 || || 1 ||
 |-
-| colspan="6" | Maximum permissible weight: 2,710 kg<br>Maximum permissible weight imbalance: 900 kg
-|-
 |}
 
 == Usage in battles ==
@@ -227,11 +234,11 @@ General tactics with the A-4E is to keep altitude until one finds a target to po
 
 Your best defense is to not engage in fights where you are clearly outnumbered. However, if you are chased, there are little options for evasive manoeuvring. The plane's high roll rate will make it incredibly easy to dodge bullets, and the flares will help the plane dodge missiles. However, the low energy retention will make it extremely hard to escape the fight altogether, especially if perused by multiple aircraft. In such situations, your best bet is to have a friendly plane to pounce the chasing enemy fighters, which can give you a window to escape or fight back or to hide behind any hills or terrain that might cover you lower towards the ground.
 
-If using this plane as a ground attacker, equip either [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, [[AGM-12B Bullpup|AGM-12]] Bullpups, or the 20 mm gunpod, and attack ground targets. 
+If using this plane as a ground attacker, equip either [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, [[AGM-12B Bullpup|AGM-12]] Bullpups, or the 20 mm gunpod, and attack ground targets.
 
 Another option is to use the wide array of bombs, preferably the 14 x 500 lb loadout, and destroy enemy bases (typically you can only destroy one, sometimes two) with them. Do this by flying low and fast, to the base hitting one or two and then turn around away from the enemy fighters. When flying back to the base, if the jet has [[AIM-9B Sidewinder|AIM-9's]]  equipped, try to support the team by hitting or scaring off enemy fighters who may be attacking a helpless ally. Then, when you return to base, you could rearm with bombs, or rearm with [[AIM-9B Sidewinder|AIM-9's]] and fly as a late-game fighter to finish off remaining players.
 
-In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, or the 5 x [[AGM-12B Bullpup|AGM-12B]] missiles. These missiles, with enough practice, function like a precision 250 lb bomb that is guided to the target, most of the time destroying it. The 2 x AGM-62A Walleye bombs can also be used very effectively with practice, however with only two bombs, it is better to use the five [[AGM-12B Bullpup|AGM-12B]] missiles instead. When using the Walleyes, climb high and dive down onto enemy tanks to get a lock onto them, which takes away most cover they might be using. As well as strike Roll, the A-4E can use it's gun pods or it's AIM-9s to take down other strike Aircraft or Helicopters. The A-4E can be well paired with the [[XM-803]], [[MBT-70]], or the [[XM-1 (GM)|XM-1]] to form a good lineup.
+In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFAR]] or [[Zuni Mk32 Mod 0 ATAP|Zuni]] rocket pods, or the 5 x [[AGM-12B Bullpup|AGM-12B]] missiles. These missiles, with enough practice, function like a precision 250 lb bomb that is guided to the target, most of the time destroying it. The 2 x AGM-62A Walleye bombs can also be used very effectively with practice, however with only two bombs, it is better to use the five [[AGM-12B Bullpup|AGM-12B]] missiles instead. When using the Walleyes, climb high and dive down onto enemy tanks to get a lock onto them, which takes away most cover they might be using. As well as strike Roll, the A-4E can use its gun pods or its AIM-9s to take down other strike Aircraft or Helicopters. The A-4E can be well paired with the [[XM-803]], [[MBT-70]], or the [[XM-1 (GM)|XM-1]] to form a good lineup.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -257,8 +264,8 @@ In Ground RB, the preferable secondary armaments are the [[FFAR Mighty Mouse|FFA
 * High speed manoeuvres can cause wings to rip
 * Fragile
 * Atrocious energy retention
-* Mediocre top speed 
-* Mediocre climb rate 
+* Mediocre top speed
+* Mediocre climb rate
 * Carrying any kind of ordnance diminishes the plane's flight performance significantly
 
 == History ==

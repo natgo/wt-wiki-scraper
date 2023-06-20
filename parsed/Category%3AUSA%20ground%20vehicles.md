@@ -135,10 +135,12 @@
 |
 {{Tree-Unit|us_m4a3e8_76w_sherman}}
 {{Tree-Arrow}}
+{{Tree-Unit|us_m4_t26}}
+{{Tree-Arrow}}
 {{Tree-Unit|us_t25}}
 {{Tree-Arrow}}
 {{Tree-Unit|us_m26_pershing}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|us_m4a3e2_76w_sherman_jumbo}}
 {{Tree-Arrow}}
@@ -258,6 +260,8 @@
 {{Tree-Unit|us_m901_itv}}
 {{Tree-Skip}}
 {{Tree-Unit|us_m1128_wolfpack}}
+{{Tree-Skip}}
+{{Tree-Unit|us_m1_abrams_kvt}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|us_merkava_mk_1}}

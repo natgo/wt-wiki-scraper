@@ -78,7 +78,6 @@
 {{Tree-Unit|pyorremyrsky}}
 {{Tree-Skip}}
 |
-{{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}
 |
@@ -157,6 +156,8 @@
 {{Tree-Arrow}}
 |
 {{Tree-Unit|saab_aj37}}
+{{Tree-Arrow}}
+{{Tree-Unit|saab_ajs37}}
 |
 |
 {{Tree-Unit|mig_21_bis_finland}}

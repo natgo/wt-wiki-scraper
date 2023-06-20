@@ -127,61 +127,51 @@ Overall, if damaged, a pilot should seek to land as soon as possible while attem
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Type 25 (250 kg)|SAMP Type 21 (400 kg)|SNEB type 23|AS-30 Nord|DEFA 552A (30 mm)}}
-{{main|AIM-9B Sidewinder|Matra R511|Matra R530|Matra R530E|Matra R550 Magic 1}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 1 x 30 mm DEFA 552A cannon (250 rpg)
-
-* 2 x AIM-9B Sidewinder missiles
-* 2 x Matra R550 Magic 1 missiles
-* 1 x Matra R530 missile
-* 1 x Matra R511 missile
-* 1 x Matra R530E missile
-* 2 x 250 kg SAMP Type 25 bombs (500 kg total)
-* 2 x 400 kg SAMP Type 21 bombs (800 kg total)
-* 14 x FZ49 rockets
-* 36 x SNEB type 23 rockets
-* 1 x AS-30 Nord missile
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_IIIE.png]]</div>
+| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_IIIE.png]]</div>
 |-
-! 30 mm DEFA 552A cannons (125 rpg)
+! [[DEFA 552A (30 mm)|30 mm DEFA 552A]] cannons (125 rpg)
 | || || || || 2 || ||
 |-
-! 250 kg SAMP Type 25 bombs
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
 | || || || 2 || || ||
 |-
-! 400 kg SAMP Type 21 bombs
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
 | || || || 2 || || ||
 |-
-! FZ49 rockets
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| || || || 2 || || ||
+|-
+! [[SAMP Type 21 200 (400 kg)|400 kg SAMP Type 21 200]] bombs
+| || || || 2 || || ||
+|-
+! [[FZ49]] rockets
 | 7 || || || || || || 7
 |-
-! SNEB type 23 rockets
+! [[SNEB type 23]] rockets
 | || 18 || || || || 18 ||
 |-
-! AIM-9B Sidewinder missiles
+! [[AIM-9B Sidewinder]] missiles
 | 1 || || || || || || 1
 |-
-! AS-30 Nord missiles
+! [[AS-30 Nord]] missiles
 | || || || 1 || || ||
 |-
-! Matra R511 missiles
+! [[Matra R511]] missiles
 | || || || 1 || || ||
 |-
-! Matra R530 missiles
+! [[Matra R530]] missiles
 | || || || 1 || || ||
 |-
-! Matra R530E missiles
+! [[Matra R530E]] missiles
 | || || || 1 || || ||
 |-
-! Matra R550 Magic 1 missiles
+! [[Matra R550 Magic 1]] missiles
 | 1 || || || || || || 1
 |-
 ! SEPR 841 rocket booster
@@ -191,7 +181,25 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | || || || || 1* || ||
 |-
 | colspan="10" | * The SEPR 841 oxidiser tank must be carried when equipping the SEPR 841 rocket booster
+|-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 30 mm DEFA 552A cannon (250 rpg)
+* 2 x AIM-9B Sidewinder missiles
+* 2 x Matra R550 Magic 1 missiles
+* 1 x Matra R530 missile
+* 1 x Matra R511 missile
+* 1 x Matra R530E missile
+* 2 x 250 kg SAMP Type 25 bombs (500 kg total)
+* 2 x 250 kg SAMP Type 25 200 bombs (500 kg total)
+* 2 x 400 kg SAMP Type 21 bombs (800 kg total)
+* 2 x 400 kg SAMP Type 21 200 bombs (800 kg total)
+* 14 x FZ49 rockets
+* 36 x SNEB type 23 rockets
+* 1 x AS-30 Nord missile
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -213,7 +221,7 @@ This is an IR AAM unique to France which is hard to evade without the use of fla
 
 ''Matra R530E:''
 
-This IR AAM has a tremendous explosive power, speed, and firing range. Despite not being the most agile AAM in the game, they are the best IR long range AAM. This comes with a cost, the Mirage only has access to 1 carried on the belly pylon. This missile should only be used when chasing enemy planes in a run, not while turning. 
+This IR AAM has a tremendous explosive power, speed, and firing range. Despite not being the most agile AAM in the game, they are the best IR long range AAM. This comes with a cost, the Mirage only has access to 1 carried on the belly pylon. This missile should only be used when chasing enemy planes in a run, not while turning.
 
 ''Matra R530:''
 

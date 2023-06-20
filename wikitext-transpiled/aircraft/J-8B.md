@@ -1,9 +1,7 @@
 {{About
 | about = Chinese jet fighter '''{{PAGENAME}}'''
-| and
-| usage = the Swedish biplanes
-| link-1 = J8A
-| link-2 = Iacobi's J8A
+| usage = the other version
+| link = J-8F
 }}
 {{Specs-Card
 |code=j_8b
@@ -153,49 +151,60 @@ The J-8B is the first Chinese aircraft in War Thunder to be equipped with the Ty
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|Aspide-1A|PL-5B|Type 90-1}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[250-3 (250 kg)|250 kg 250-3]] bombs
+| || 1 || || 6 || || 1 ||
+|-
+! [[250-4 (250 kg)|250 kg 250-4]] bombs
+| || 1 || || 6 || || 1 ||
+|-
+! [[500-3 (500 kg)|500 kg 500-3]] bombs
+| || 1 || || || || 1 ||
+|-
+! [[500-4 (500 kg)|500 kg 500-4]] bombs
+| || 1 || || || || 1 ||
+|-
+! [[Type 90-1]] rockets
+| 7 || 7 || || || || 7 || 7
+|-
+! [[Aspide-1A]] missiles
+| || 1 || || || || 1 ||
+|-
+! [[PL-5B]] missiles
+| || 1 || 1 || || 1 || 1 ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x PL-5B missiles
 * 4 x PL-5B missiles
 * 2 x Aspide-1A missiles
-* 8 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
+* 8 x 250 kg 250-3 bombs (2,000 kg total)
+* 8 x 250 kg 250-4 bombs (2,000 kg total)
+* 2 x 500 kg 500-3 bombs (1,000 kg total)
+* 2 x 500 kg 500-4 bombs (1,000 kg total)
 * 28 x Type 90-1 rockets
 * 2 x PL-5B missiles + 2 x Aspide-1A missiles
-* 2 x PL-5B missiles + 8 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
-* 4 x PL-5B missiles + 6 x 500 lb LDGP Mk 82 bombs (3,000 lb total)
-* 2 x PL-5B missiles + 6 x 500 lb LDGP Mk 82 bombs + 2 x Aspide-1A missiles (3,000 lb total)
+* 2 x PL-5B missiles + 8 x 250 kg 250-3 bombs (2,000 kg total)
+* 4 x PL-5B missiles + 6 x 250 kg 250-3 bombs (1,500 kg total)
+* 2 x PL-5B missiles + 6 x 250 kg 250-3 bombs + 2 x Aspide-1A missiles (1,500 kg total)
 * 2 x PL-5B missiles + 28 x Type 90-1 rockets
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7
-| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! Type 90-1 rockets
-| 7 || 7 || || || || 7 || 7
-|-
-! Aspide-1A missiles
-| || 1 || || || || 1 ||
-|-
-! 500 lb LDGP Mk 82 bombs
-| || 1 || || 6 || || 1 ||
-|-
-! PL-5B missiles
-| || 1 || 1 || || 1 || 1 ||
-|-
-| colspan="8" | Maximum permissible weight imbalance: 1,000 kg
-|-
-|}
+{{Navigation-End}}
 
 The J-8B's primary weapon is the PL-5B infrared homing missile that users of the previous J-7E will be very familiar with. It is still an excellent weapon with high manoeuvrability and acceleration, but it does not have an all-aspect seeker and cannot be used in head-ons. 
 
 A new asset is the Italian Aspide-1A semi-active radar homing missile, the first of its class available to any Chinese fighter. A derivative of the AIM-7 Sparrow, the Aspide looks about the same but has an improved rocket motor: its 25 G overload matches the [[Skyflash]] and its Mach 5.0 max speed is the best of any Sparrow model in the game. The Aspide offers a fast and deadly punch in head-ons or longer distances. However, it is held back by the J-8B's primitive radar, which lacks look-down/shoot-down capability and has limited range. In addition, only two can be carried.
 
-For ground attack, the J-8B has access to Type 90-1 HEAT rockets and 500 lb bombs. It might not have the best payload among competitors, but having both missiles and bombs/rocket pods for multirole purpose is now possible thanks to the addition of ballistic computer; be extra careful on the speed and altitude- such a huge jet need more altitude to break-off from assaults. 
+For ground attack, the J-8B has access to Type 90-1 HEAT rockets and domestic 250/500 kg low-drag/retard bombs. It might not have the best payload among competitors, but having both missiles and bombs/rocket pods for multirole purpose is now possible thanks to the addition of ballistic computer; be extra careful on the speed and altitude- such a huge jet need more altitude to break-off from assaults. In case for a relatively safer approach, bring the Type 4 retard bombs with drag-chute when flying low.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -203,7 +212,7 @@ The basic design of the J-8 series is aimed for high-altitude interception of su
 
 The overall air-to-air weaponry and avionics are sufficient, though somewhat inferior to competitors. Neither the PL-5B IR AAM nor the Aspide-1A SARH AAM are limited by launch overload, which really helps when shooting down targets further than 1.5 km (both missiles need some distance before they can manoeuvre).  The large calibre countermeasures help in mitigating the flaws in weaponry systems, but it is still advised not to rush into the battlefield.
 
-Pilots of the J-8B should be extra cautious to any enemies that might appear. Although flying high can mitigate the affects of radar ground clutter if you choose to bring the '''Aspide-1A''' missiles ''(aka '''A弹 [A-missile]''' in PLAAF)'', it means the same for enemies' SARH missiles. If only bringing '''PL-5Bs''' into the fight, stay away from the heated battlefield, then fly in and pick up targets who has already used up their energy or unaware of your existence, a solid hit from a PL-5B can take down enemies with relative ease; do keep in mind that the missile is best used at distance over 1.5 km due to its immersive acceleration, the pylons without overload limitations really helps during interception of targets at lower altitude or revenge on foes who overtakes J-8B and didn't pull away from the player. If the player decides to bring the Aspide-1A missiles in case of a head-on, a special note for J-8B is that due to the overall inferior performance of the SL-5A (208A) radar, tune the radar to 60 km acquisition range and under short scan width (with a very narrow channel of scanning) for best performance against enemy jets; it is suggested to assault targets within 10 km radius and at higher altitude for better radar acquisition - the performance of Aspide-1A is likely to blow the enemies into pieces with ease; try to keep enemy on track as much as possible before Aspide hits the target. While bringing bombs and rocket pods are viable thanks to the addition of ballistic computer, players has to be extra careful on where they should appear as jets at this size need more room for any manoeuvre; but once the jet is in a good position out of enemy detection, the payload can still make short work of enemies while still leaving some chances to take down high-altitude targets.
+Pilots of the J-8B should be extra cautious to any enemies that might appear. Although flying high can mitigate the affects of radar ground clutter if you choose to bring the '''Aspide-1A''' missiles ''(aka '''A弹 [A-missile]''' in PLAAF)'', it means the same for enemies' SARH missiles. If only bringing '''PL-5Bs''' into the fight, stay away from the heated battlefield, then fly in and pick up targets who has already used up their energy or unaware of your existence, a solid hit from a PL-5B can take down enemies with relative ease; do keep in mind that the missile is best used at distance over 1.5 km due to its immersive acceleration, the pylons without overload limitations really helps during interception of targets at lower altitude or revenge on foes who overtakes J-8B and didn't pull away from the player. If the player decides to bring the Aspide-1A missiles in case of a head-on, a special note for J-8B is that due to the overall inferior performance of the SL-5A (208A) radar, tune the radar to 60 km acquisition range and under short scan width (with a very narrow channel of scanning) for best performance against enemy jets; it is suggested to assault targets within 10 km radius and at higher altitude for better radar acquisition - the performance of Aspide-1A is likely to blow the enemies into pieces with ease; try to keep enemy on track as much as possible before Aspide hits the target. While bringing bombs and rocket pods are viable thanks to the addition of ballistic computer, players has to be extra careful on where they should appear as jets at this size need more room for any manoeuvre; but once the jet is in a good position out of enemy detection, the payload can still make short work of enemies while still leaving some chances to take down high-altitude targets; choose low-drag or retard bombs depending how would players like to approach enemy ground targets.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

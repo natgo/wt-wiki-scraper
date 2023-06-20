@@ -137,58 +137,62 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|BLU-1 incendiary}}
-{{main|AIM-9B Sidewinder|AIM-9J Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-104C.png]]</div>
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || 1 || ||
+|-
+! [[BLU-1 incendiary]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| || 19 || || 19 ||
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| || 4 || || 4 ||
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || || || || 1
+|-
+! [[AIM-9J Sidewinder]] missiles
+| 1 || || || || 1
+|-
+| colspan="6" | Maximum permissible weight imbalance: 500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 2 x AIM-9J Sidewinder missiles
 * 38 x FFAR Mighty Mouse rockets
 * 8 x Zuni Mk32 Mod 0 ATAP rockets
 * 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
+* 3 x 500 lb Mk 82 Snakeye bombs (1,500 lb total)
 * 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
 * 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
 * 3 x BLU-1 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-104C.png]]</div>
-|-
-! 500 lb LDGP Mk 82 bombs
-| || 1 || 1 || 1 ||
-|-
-! 750 lb M117 cone 45 bombs
-| || 1 || 1 || 1 ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || 1 || 1 || 1 ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || 1 || ||
-|-
-! BLU-1 incendiary bombs
-| || 1 || 1 || 1 ||
-|-
-! FFAR Mighty Mouse rockets
-| || 19 || || 19 ||
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| || 4 || || 4 ||
-|-
-! AIM-9B Sidewinder missiles
-| 1 || || || || 1
-|-
-! AIM-9J Sidewinder missiles
-| 1 || || || || 1
-|-
-| colspan="6" | Maximum permissible weight imbalance: 500 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -226,8 +230,8 @@ When using the F-104G, remember to stay at lower altitude to avoid enemy anti-ai
 
 '''Cons:'''
 
-* Insanely poor maneuverability in almost any speed, it´s a F-104
-* Compared to other F-104G variants, it´s only capable of equipping only 2x air-to-air missiles
+* Insanely poor maneuverability in almost any speed, it's a F-104
+* Compared to other F-104G variants, it's only capable of equipping only 2x air-to-air missiles
 * Large turning radius due to small wing surface and high speed
 * High takeoff and landing speeds
 * Only has 3 pylons for air-to-ground ordnance

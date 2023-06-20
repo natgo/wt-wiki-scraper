@@ -10,16 +10,9 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]] as a pre-order [[wt:en/news/4671-italian-aircraft-in-war-thunder-update-1-69-regia-aeronautica-en|premium pack]] prior to the update that also allowed access into the Italian Closed Beta Test. The G.55S was discontinued from the store after the [[wt:en/news/6263-shop-war-thunder-summer-sale-en|2019 Summer Sale]], but was later reintroduced for [[wt:en/news/6442-special-war-thunder-reaches-its-7th-year-en|War Thunder's 7th Anniversary]] as a premium purchasable in-game for Golden Eagles {{ge}}.
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->During the end of World War II, in order not to consume too many resources to produce a new airplane some engineers began to try to make small modifications to specialize such an airplane, there were several new variants, in particular we saw the development of the G.55 which was modified to create the G.56 variant and also the G.55S variant, the G.55S is a variant specifically for attack against enemy ships, in fact the S stands for Silurante, it could mount a torpedo in comparison to the standard G.55, only a few examples were built then used in battle but without having any success against ships but more used as an air superiority plane.
 
-A model of the [[G.55 serie 1|G.55 Centauro]] converted for a torpedo-bombing role, the G.55S has the ability to engage naval targets while keeping the air attack characteristics of the G.55 model.
-
-The historical purpose of the G.55S was to fulfil the role of a torpedo fighter. In game, the G.55S can easily play this role on maps such as Norway. This is simply a matter of flying to the enemy ships, dropping its payload, and then proceeding to jump in on any nearby fight to engage enemy aircraft.
-
-When the G.55S is not being used as a torpedo fighter, it is best used as a low to medium altitude (2-5 km) fighter. With three MG 151/20 autocannons, it will make short work of all fighters and with careful aiming, can be used to effectively destroy heavy fighters and even the heaviest of bombers.
-
-When attacking heavily defended targets (ex. [[B-17 (Family)|B-17]] bombers), approaching from the rear, where the enemy has most defensive turret coverage, is not recommended. Fiat G.55 series aircraft (in general) do not have much armour. The armour is only comprised of a 50 mm bullet proof windshield and an 8 mm armoured steel seat. There are no armoured headrests or floor plates to offer increased pilot protection from bullets coming from underneath or behind the plane.
+It was introduced in [[Update 1.69 "Regia Aeronautica"]] as a pre-order [[wt:en/news/4671-italian-aircraft-in-war-thunder-update-1-69-regia-aeronautica-en|premium pack]] prior to the update that also allowed access into the Italian Closed Beta Test. The G.55S was discontinued from the store after the [[wt:en/news/6263-shop-war-thunder-summer-sale-en|2019 Summer Sale]], but was later reintroduced for [[wt:en/news/6442-special-war-thunder-reaches-its-7th-year-en|War Thunder's 7th Anniversary]] as a premium purchasable in-game for Golden Eagles {{ge}}, the G.55S is a torpedo fighter, it is a very good plane because of its manoeuvrability and endurance which allows it to perform turn fight and energy fight manoeuvres, the plane can have a torpedo or a set of two 50kg or 100kg bombs useful for CAS in realistic battle, the plane is quite resistant to damage caused by enemy aircraft and anti-aircraft, when the G.55S is not being used as a torpedo fighter, it is best used as a low to medium altitude (2-5 km) fighter. With three MG 151/20 autocannons, it will make short work of all fighters and with careful aiming, can be used to effectively destroy heavy fighters and even the heaviest of bombers, when attacking heavily defended targets (ex. [[B-17 (Family)|B-17]] bombers), approaching from the rear, where the enemy has most defensive turret coverage, is not recommended. Fiat G.55 series aircraft (in general) do not have much armour. The armour is only comprised of a 50 mm bullet proof windshield and an 8 mm armoured steel seat. There are no armoured headrests or floor plates to offer increased pilot protection from bullets coming from underneath or behind the plane.
 
 == General info ==
 === Flight performance ===
@@ -202,10 +195,11 @@ Although an order was placed for ten initial aircraft and 100 production aircraf
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=g_55s Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 File:G.55S WTWallpaper001.jpg|
 File:G.55S WTWallpaper002.jpg|
 File:G.55S WTWallpaper003.jpg|
@@ -216,6 +210,7 @@ File:G.55S WTWallpaper003.jpg|
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

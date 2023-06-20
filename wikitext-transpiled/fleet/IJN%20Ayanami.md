@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (綾波, [[Abbreviations#.28JP.29_Naval|namesake]]: Twilled Waves) is a rank {{Specs|rank}} Japanese destroyer {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The '''{{Specs|name}}''' (綾波, [[Abbreviations#.28JP.29_Naval|namesake]]: Twilled Waves) was the 11th of the 24 Fubuki-class destroyers, which were considered the world's first modern destroyers. She was the first destroyer in the world to have a dual-purpose main battery that could elevate to 75 degrees and fire at both surface and air targets. She was also one of the most powerful destroyers in the world when she was commissioned in 1930. Ayanami participated in many battles and operations in the Pacific War, such as the Battle of Malaya, the Indian Ocean raid, the Battle of Midway and the Solomon Islands campaign. She earned the nickname "The Demon of Solomon" for her fierce fighting spirit and skill. She was sunk by gunfire from the USS Washington on 15 November 1942 during the Naval Battle of Guadalcanal and was later scuttled by another Japanese destroyer, Uranami.
 
-Overall a generally capable and well-rounded destroyer, it trades the secondary/anti-aircraft armament of most other destroyers for a powerful and long-range torpedo armament, meaning it is exceptionally vulnerable to aircraft.
+It was introduced in [[Update 1.89 "Imperial Navy"]]. Overall a generally capable and well-rounded destroyer, it trades the secondary/anti-aircraft armament of most other destroyers for a powerful and long-range torpedo armament, meaning it is exceptionally vulnerable to aircraft.
 
 == General info ==
 === Survivability and armour ===

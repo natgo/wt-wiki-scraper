@@ -152,18 +152,73 @@ The 20 mm shells are powerful for the ground-attack roles, with 53 mm of point-b
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|FFAR Mighty Mouse|GBU-8 (2,000 lb)|BLU-27/B incendiary|GAU-13/A (30 mm)|GAU-4 (20 mm)}}
-{{main|AGM-65A|AIM-9E Sidewinder|AIM-9J Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| || || 1 || || || 1 || ||
+|-
+! [[GAU-13/A (30 mm)|30 mm GAU-13/A]] cannons (353 rpg)
+| || || 1 || || || 1 || ||
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 6 || || || || || 6 || 6
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 6 || 6 || || || || || 6 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 6 || || || || || 6 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 6 || || || || || 6 || 6
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 1 || 4 || 2 || || || 2 || 4 || 1
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 3 || 3 || || || || || 3 || 3
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || 1 || 1 || || || 1 || 1 || 1
+|-
+! [[GBU-8 (2,000 lb)|2,000 lb GBU-8]] bombs
+| || 1 || 1 || || || 1 || 1 ||
+|-
+! [[BLU-27/B incendiary]] bombs
+| 1 || 1 || 1 || || || 1 || 1 || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 19 || 19 || || || 19 || 19 || 19
+|-
+! [[AGM-65A]] missiles
+| || 3 || || || || || 3 ||
+|-
+! [[AIM-9E Sidewinder]] missiles
+| || || || 1 || 1 || || ||
+|-
+! [[AIM-9J Sidewinder]] missiles
+| || || || 1 || 1 || || ||
+|-
+| colspan="9" | Maximum permissible loadout weight: 7,260 kg<br>Maximum permissible wing load: 3,630 kg<br>Maximum permissible weight imbalance: 2,900 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 2 x AIM-9J Sidewinder missiles
 * 114 x FFAR Mighty Mouse rockets
 * 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
+* 24 x 250 lb Mk 81 Snakeye bombs (6,000 lb total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 14 x 750 lb M117 cone 45 bombs (10,500 lb total)
 * 6 x BLU-27/B incendiary bombs
 * 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
@@ -172,59 +227,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 2,000 lb GBU-8 bombs (8,000 lb total)
 * 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
 * 2 x 30 mm GAU-13/A cannons (353 rpg = 706 total)
+{{Navigation-End}}
 
 The A-7D can carry an assortment of bombs and unguided/guided rockets that are familiar to players of the American attacker line, with the primary differences to preceding attackers being that the A-7D have a staggering 6 hardpoints on its wing which can mount suspended weaponry, including the ability to carry dual 20 mm [[M61A1 (20 mm)|M61A1]] gunpods or dual 30 mm [[GAU-13/A (30 mm)|GAU-13/A]] gunpods, a scaled down yet still equally deadly variant of the GAU-8/A belonging to the infamous Fairchild Republic A-10 Thunderbolt 2, that can shred anything staring down its barrel. Finally the inclusion of [[Ballistic Computer|CCIP]] that assists in the usage of the aforementioned weaponry completes the A-7D as a deadly CAS package.
 
 Besides ground targets, the AGM-65A Maverick missiles can also be great for taking helicopters down in mixed ground battles.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1,200 rpg)
-| || || 1 || || || 1 || ||
-|-
-! 30 mm GAU-13/A cannons (353 rpg)
-| || || 1 || || || 1 || ||
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 6 || || || || || 6 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 6 || || || || || 6 || 6
-|-
-! 750 lb M117 cone 45 bombs
-| 1 || 4 || 2 || || || 2 || 4 || 1
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 3 || 3 || || || || || 3 || 3
-|-
-! 2,000 lb GBU-8 bombs
-| || 1 || 1 || || || 1 || 1 ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| 1 || 1 || 1 || || || 1 || 1 || 1
-|-
-! BLU-27/B incendiary bombs
-| 1 || 1 || 1 || || || 1 || 1 || 1
-|-
-! FFAR Mighty Mouse rockets
-| 19 || 19 || 19 || || || 19 || 19 || 19
-|-
-! AGM-65A missiles
-| || 3 || || || || || 3 ||
-|-
-! AIM-9E Sidewinder missiles
-| || || || 1 || 1 || || ||
-|-
-! AIM-9J Sidewinder missiles
-| || || || 1 || 1 || || ||
-|-
-| colspan="9" | Maximum permissible total weight: 7,257 kg<br>Maximum permissible wing load: 2,900 kg<br>Maximum permissible weight imbalance: 2,000 kg
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -210,7 +210,7 @@ But there are some good news for the jet though: it is a very fast attacker in-g
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* Extremely fast top speed
+* Great top speed
 * Great acceleration
 * Great energy retention
 * Sufficient payload for ground-attack
@@ -223,6 +223,10 @@ But there are some good news for the jet though: it is a very fast attacker in-g
 * Lacks AAMs
 * Relatively small ammo pool for the fixed 23 mm cannon
 * Rather large size makes it easier to hit
+* RWR only shows radar pings and locks from 4 sides
+* Due to swept wing design it is hard to aim at high speeds
+* The plane can only reach up to mach 1 below 5000 meters
+* At high altitudes the engine's performance drops significantly
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

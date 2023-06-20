@@ -1,3 +1,8 @@
+{{About
+| about = British light tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Marmon-Herrington Armoured Car (Family)
+}}
 {{Specs-Card
 |code=uk_marmon_herrington_mk_6_6pdr
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}

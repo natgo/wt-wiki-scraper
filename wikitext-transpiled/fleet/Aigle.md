@@ -56,7 +56,9 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French destroyer 
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|Model 1923DT (550 mm)}}
 
-''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.''
+The torpedoes of the Aigle are rather slow compared to the ones the German or American ships can carry. In trade for the slow speed, they have an above-average travel distance of 9km with a decent amount of explosive filler of 308g of TNT, for inflicting great damage to enemy ships. Further, the Aigle is rather limited by only having 6 of those torpedoes, disallowing unthought use of the 1923DT torpedoes. 
+
+The torpedo launchers of the Aigle are located at two positions, 3 in the centre and 3 in the back of the ship. This allows the ship to have good torpedo launch angles over the sides which allows the ship to launch torpedoes while retreating from a position or turning away from enemy fire.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
@@ -64,13 +66,22 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French destroyer 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* Decent HE and SAPBC ammunition, great for fighting other destroyers and coastal fleet targets
+* Turrets have antifragmentation armour to offer, reducing the chance of the turret being knocked out
+* Ammunition is stored further down in the ship, making it harder to cause an explosion
+* Very fast ship, making it harder to hit and improving survivability
+* Torpedoes have a long travel distance 
 
 '''Cons:'''
-*
+
+* Main guns lack solid AP for more armoured targets
+* Slow turret traverse of the main guns, making it harder to quickly react
+* Can only carry 6 torpedoes, requiring the player to carefully consider when to use them
+* Hull lacks any armour protection
+* Torpedoes are rather slow and hard to effectively use over long distances
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

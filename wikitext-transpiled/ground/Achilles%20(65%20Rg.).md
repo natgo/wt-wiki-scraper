@@ -10,11 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened to '''{{specs|pseudonym}}''', full name '''17 pounder, Self-Propelled M10 Achilles (65th Anti-Tank Regiment)''') is a premium gift rank {{Specs|rank}} British tank destroyer {{Battle-rating}}. It was introduced as a [[wt:en/news/3472--en|premium pack]] in [[Update 1.53 "Firestorm"]] and removed from the store after the [[wt:en/news/4684-vday-victory-day-discounts-en/|2017 Victory Day sale]]. It has also been obtainable in the [[Warbonds|Warbond]] shop in [[wt:en/news/5243--en|January 2018]], [[wt:en/news/5858-news-how-can-you-get-premium-vehicles-warbonds-en|November 2018]] and [[wt:en/news/6463-news-how-can-you-get-premium-vehicles-warbonds-en|November 2019]]. It was also made available briefly in the store during the [[wt:en/news/6759/current|2020 D-Day sale]].
+The '''{{Specs|name}}''' (shortened to '''{{specs|pseudonym}}''', full name '''17 pounder, Self-Propelled M10 Achilles (65th Anti-Tank Regiment)''') is a premium gift rank {{Specs|rank}} British tank destroyer {{Battle-rating}}. It was introduced as a [[wt:en/news/3472--en|premium pack]] in [[Update 1.53 "Firestorm"]] and removed from the store after the [[wt:en/news/4684-vday-victory-day-discounts-en/|2017 Victory Day sale]]. It has also been obtainable in the [[Warbonds|Warbond]] shop in [[wt:en/news/5243--en|January 2018]], [[wt:en/news/5858-news-how-can-you-get-premium-vehicles-warbonds-en|November 2018]] and [[wt:en/news/6463-news-how-can-you-get-premium-vehicles-warbonds-en|November 2019]]. It was also made available briefly in the store during the [[wt:en/news/6759/current|2020 D-Day sale]] and [[wt:en/news/8306-special-vehicles-of-d-day-for-golden-eagles-en|2023 D-Day sale]].
 
 It was one of the first British tanks introduced in the game as an Achilles tank destroyer with the insignia of 7th Armored Division, 65th Anti-Tank Regiment "Norfolk Yeomanry".
 
-The [[Achilles]] is based on the American [[M10 GMC]], but carries a [[Ordnance QF 17-pounder (76 mm)|17-pounder]] cannon as the main armament, making it an effective tank destroyer. Thanks to a well assigned BR, the Achilles won't feel in the wrong game even when facing higher rank tanks. The Achilles has plenty of firepower, especially once the Mk.8 APCBC shot is unlocked, which is more effective against the [[T-34 (1942)|T-34]]'s sloped armour. The 17-pdr cuts through enemy [[Pz.III M|Panzer III]] and [[Pz.IV H|IV]] (the shots enter the front and exit from the rear) so try to aim vital points to cause the maximum damage (first shot to the turret to disable enemy firepower). The T-34 is a bigger problem due to its sloped armour. When facing Soviet tanks, the first shot should always be to the gunner. The Mk.8 APCBC is quite able to penetrate the T-34 glacis even from a distance but keep in mind that the damage caused is unreliable (sometimes two or more shots are required to destroy a T-34, sometimes one shot is enough). The M10 mobility is not outstanding, but the Achilles is pretty capable to carry the player, the gun, and the team to where it needs to go.
+The [[Achilles]] is based on the American [[M10 GMC]], but carries a [[Ordnance QF 17-pounder (76 mm)|17-pounder]] cannon as the main armament, making it an effective tank destroyer. Thanks to a well assigned BR, the Achilles won't feel in the wrong game even when facing higher rank tanks. The Achilles has plenty of firepower, as the Mk.8 APCBC shot is more effective against the [[T-34 (1942)|T-34]]'s sloped armour. The 17-pdr cuts through enemy [[Pz.III M|Panzer III]] and [[Pz.IV H|IV]] (the shots enter the front and exit from the rear) so try to aim vital points to cause the maximum damage (first shot to the turret to disable enemy firepower). The T-34 is a bigger problem due to its sloped armour. When facing Soviet tanks, the first shot should always be to the gunner. The Mk.8 APCBC is quite able to penetrate the T-34 glacis even from a distance but keep in mind that the damage caused is unreliable (sometimes two or more shots are required to destroy a T-34). The M10 mobility is not outstanding, but the Achilles is pretty capable to carry the player, the gun, and the team to where it needs to go.
 
 Protection is not good. The sloped armour and the track links added to the front will protect the Achilles from some low calibre shots, but the vast majority of the enemies will be able to destroy the Achilles easily. Side armour is paper thin. The high profile and the very slow turret traverse (man-powered) are not suitable for close range combat so avoid deep flanking tactics.
 
@@ -133,7 +133,7 @@ Turret empty: 45&nbsp;''(+5)''
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Achilles is best used for sniping and shoot and scoot tactics. Find a good spot where to shoot at enemies, aim carefully (RB need a good use of mils range estimation) and enjoy the fireworks! To make full use of its decent sniping capacity, find a spot that:
+The Achilles is best used for sniping and shoot and scoot tactics. Find a good spot to shoot at enemies, aim carefully (RB need a good use of mils range estimation) and enjoy the fireworks! To make full use of its decent sniping capacity, find a spot that:
 
 * overlooks key passageway / street / battle area
 * is not too close to the frontline
@@ -200,10 +200,12 @@ The Achilles were deployed on D-Day onward in artillery forces in anti-tank regi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_17_pdr_m10_achilles_norfolk_yeomanry Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

@@ -150,11 +150,42 @@ Belt selection is largely up to personal taste but the "Armoured Targets" belt i
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|250-3 (250 kg)|500-3 (500 kg)|Type 90-1|Type 130-2}}
-{{main|PL-2|PL-5B}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[250-3 (250 kg)|250 kg 250-3]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[250-4 (250 kg)|250 kg 250-4]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[500-3 (500 kg)|500 kg 500-3]] bombs
+| || 1 || 1 ||
+|-
+! [[500-4 (500 kg)|500 kg 500-4]] bombs
+| || 1 || 1 ||
+|-
+! [[Type 90-1]] rockets
+| 7 || 7 || 7 || 7
+|-
+! [[Type 130-2]] rockets
+| 4 || 4 || 4 || 4
+|-
+! [[PL-2]] missiles
+| 1 || 1 || 1 || 1
+|-
+! [[PL-5B]] missiles
+| 1 || 1 || 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x PL-5B missiles
 * 4 x PL-2 missiles
@@ -162,33 +193,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 16 x Type 130-2 rockets
 * 28 x Type 90-1 rockets
 * 4 x 250 kg 250-3 bombs (1,000 kg total)
+* 4 x 250 kg 250-4 bombs (1,000 kg total)
 * 2 x 500 kg 500-3 bombs (1,000 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="12%" | 1 !! width="12%" | 2 !! width="12%" | 3 !! width="12%" | 4
-| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 250 kg 250-3 bombs
-| 1 || 1 || 1 || 1
-|-
-! 500 kg 500-3 bombs
-| || 1 || 1 ||
-|-
-! Type 90-1 rockets
-| 7 || 7 || 7 || 7
-|-
-! Type 130-2 rockets
-| 4 || 4 || 4 || 4
-|-
-! PL-2 missiles
-| 1 || 1 || 1 || 1
-|-
-! PL-5B missiles
-| 1 || 1 || 1 || 1
-|-
-|}
+* 2 x 500 kg 500-4 bombs (1,000 kg total)
+{{Navigation-End}}
 
 The J-7E has a lot of ordnance options to choose from. The PL-5B is the first competitive missile available to any PLAAF fighter in War Thunder and is a strong selling point of the J-7E compared to its predecessors. It has a 30 G overload, a wide acquisition radius, and strong acceleration, making it one of the most effective rear-aspect missiles in War Thunder. The absence of launch limiter on the PL-5B means that you can fire as soon as the target is within the acquisition radius. The J-7E lacks any radar-guided or all-aspect missiles and cannot surprise targets in head-on engagements.
 
@@ -226,7 +234,7 @@ Countermeasures and a radar warning receiver allow the J-7E to have good defensi
 ** In short to medium ranges, the AIM-9L would be used, but can be easily fooled by flares, with the low heat emission of the J-7E helping as well. However, the AIM-9L can reach long ranges, and so your situational awareness has to be redoubled if an F-16 is near to make sure they don't catch you unaware.
 ** In dogfight scenarios, it can be very tricky to win against one decent pilot, always try to pull a F-16 to high speeds to make their controls "compress" by their fly-by-wire system and limiting the turning/rolling capacity, and always forcing a scissors in this short period of time, but never trying to do an extended rate fight in a considerable time, because that's the true advantage the F-16 has over you, and try to leave this scissors in case of disadvantage and repeating that same tactic with enough speed
 ** The F-16 has a radar leading computer for its M61 Vulcan cannon. As the Vulcan is already well known for a high accuracy, muzzle velocity, fire rate and damage, the leading computer turns the canon into a deadly point-and-click weapon. Try to fly more unpredictably to make it hard for the enemy to get a good aim, as well as avoid being radar-locked for the leading computer to get an aiming solution.
-** The {{PAGENAME}} also has a radar gunsight, giving it the ability to lock the missile automatically at the enemy even in short ranges, and thanks to the extreme acceleration, G-tolerance and wide seeker of the PL-5B, it´s possible to catch people by surprise even less than 1 km and with their reaction time being almost null.
+** The {{PAGENAME}} also has a radar gunsight, giving it the ability to lock the missile automatically at the enemy even in short ranges, and thanks to the extreme acceleration, G-tolerance and wide seeker of the PL-5B, it's possible to catch people by surprise even less than 1 km and with their reaction time being almost null.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

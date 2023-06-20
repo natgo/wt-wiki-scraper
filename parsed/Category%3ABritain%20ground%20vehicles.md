@@ -22,7 +22,8 @@
 {{Tree-Unit|uk_t17e2}}
 {{Tree-Arrow}}
 |
-{{Tree-Skip}}
+{{Tree-Unit|uk_sarc_mk4_a}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|uk_a_13_mk1_3rd_rtr}}
 {{Tree-Skip}}
@@ -175,6 +176,7 @@
 {{Tree-Unit|uk_centurion_action_x}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|uk_centurion_mk_2}}
 {{Tree-Skip}}
 
 {{Tree-Line|V Rank}}
@@ -200,6 +202,8 @@
 {{Tree-Unit|uk_ratel_20}}
 {{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|uk_vijayanta}}
+{{Tree-Skip}}
 {{Tree-Unit|uk_centurion_mk_5_avre_era}}
 {{Tree-Skip}}
 |
@@ -243,14 +247,14 @@
 {{Tree-Unit|uk_olifant_mk_2}}
 {{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
-{{Tree-Unit|uk_centurion_shot_kal_d}}
+{{Tree-Unit|uk_khalid}}
 {{Tree-Skip}}
 {{Tree-Unit|uk_challenger_1_mk_3_gulf}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|uk_rooikat_105_td}}
 {{Tree-Skip}}
-{{Tree-Unit|uk_khalid}}
+{{Tree-Unit|uk_centurion_shot_kal_d}}
 
 {{Tree-Line|VII Rank}}
 |

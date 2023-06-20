@@ -85,6 +85,7 @@ This way of fighting requires a bit of map knowledge and spatial awareness as en
 * Large missile payload
 * Small profile
 * Great stock performance - comes with all eight missiles from the start
+* Radar Warning Receiver (RWR)
 
 '''Cons:'''
 
@@ -92,7 +93,6 @@ This way of fighting requires a bit of map knowledge and spatial awareness as en
 * Poor survivability
 * Lacklustre air-to-air protection - only has access to optional 12.7mm machine guns
 * No Night Vision Devices (NVD)
-* No Radar Warning Receiver (RWR)
 * Missiles have to be guided manually
 * Small firing window - helicopter must be pointed at target to guide effectively
 
@@ -104,6 +104,7 @@ This way of fighting requires a bit of map knowledge and spatial awareness as en
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=hkp9a_cb2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

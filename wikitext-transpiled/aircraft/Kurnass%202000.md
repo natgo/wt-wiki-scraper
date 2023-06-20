@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
 
-The Kurnass 2000 is an Israeli upgrade of the venerable F-4E Phantom II. It looks and flies almost identically to the original 1970s variant, but inside the nose is an advanced AN/APG-76 pulse Doppler radar that drastically improves its ability to engage in BVR combat using Sparrow missiles, now available in the long-range AIM-7F variant. Air-to-air armament is rounded out by the all-aspect AIM-9L Sidewinder for closer engagements and fans of precision ground striking will enjoy the new laser-guided Paveway bombs and AGM-65D Mavericks with IR seekers. The Kurnass 2000 is a multirole aircraft with impressive systems and weapons, only held back by the performance of its old airframe compared to 4th generation opponents like the [[MiG-29]] and [[F-16A]].
+The Kurnass 2000 is an Israeli upgrade of the venerable F-4E Phantom II. It looks and flies almost identically to the original 1970s variant, however its air-to-air armament is now drastically improved and rounded out by the all-aspect AIM-9L Sidewinder and Python 3 for closer engagements. Fans of precision ground striking will enjoy the new laser-guided Paveway bombs and AGM-65D Mavericks with IR seekers. The Kurnass 2000 is a multirole aircraft with impressive systems and weapons, only held back by the performance of its old airframe compared to 4th generation opponents like the [[MiG-29]] and [[F-16A]].
 
 == General info ==
 === Flight performance ===
@@ -141,86 +141,61 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|GBU-12 Paveway II (277 kg)|GBU-10 Paveway II (957 kg)|AGM-65D}}
-{{main|AIM-7E-2 Sparrow|AIM-7F Sparrow|AIM-9G Sidewinder|AIM-9L Sidewinder}}
-{{main|BLU-27/B incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x AIM-9G Sidewinder missiles
-* 6 x AIM-9G Sidewinder missiles
-* 6 x AIM-9L Sidewinder missiles
-* 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
-* 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
-* 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
-* 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
-* 4 x BLU-27/B incendiary bombs
-* 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
-* 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
-* 285 x FFAR Mighty Mouse rockets
-* 60 x Zuni Mk32 Mod 0 ATAP rockets
-* 4 x AIM-7E-2 Sparrow missiles
-* 4 x AIM-7F Sparrow missiles
-* 144 x countermeasures
-* 6 x AGM-65D missiles
-* 4 x 277 kg GBU-12 Paveway II bombs (1,108 kg total)
-* 4 x 957 kg GBU-10 Paveway II bombs (3,828 kg total)
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="20" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
+| rowspan="21" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
 |-
-! 20 mm GAU-4 cannons (1,200 rpg)
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
 | 1 || || || || || 1 || || || || || 1
 |-
-! 250 lb LDGP Mk 81 bombs
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
 | 6 || 3 || || || || 6 || || || || 3 || 6
 |-
-! 500 lb LDGP Mk 82 bombs
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
 | 6 || 3 || || || || 6 || || || || 3 || 6
 |-
-! 750 lb M117 cone 45 bombs
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 3 || || || || 6 || || || || 3 || 6
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
 | 3 || 3 || || || || 5 || || || || 3 || 3
 |-
-! 1,000 lb LDGP Mk 83 bombs
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
 | 2 || 3 || || || || 3 || || || || 3 || 2
 |-
-! 2,000 lb LDGP Mk 84 bombs
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
 | 1 || || || || || 1 || || || || || 1
 |-
-! BLU-27/B incendiary bombs
-| 1 || || || || || 2 || || || || || 1
-|-
-! 277 kg GBU-12 Paveway II bombs
+! [[GBU-12 Paveway II (277 kg)|277 kg GBU-12 Paveway II]] bombs
 | || 2*<sup>†</sup> || || || || || || || || 2*<sup>†</sup> ||
 |-
-! 957 kg GBU-10 Paveway II bombs
+! [[GBU-10 Paveway II (957 kg)|957 kg GBU-10 Paveway II]] bombs
 | 1*<sup>†</sup> || 1*<sup>†</sup> || || || || || || || || 1*<sup>†</sup> || 1*<sup>†</sup>
 |-
-! FFAR Mighty Mouse rockets
+! [[BLU-27/B incendiary]] bombs
+| 1 || || || || || 2 || || || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
 | 57 || 57 || || || || 57 || || || || 57 || 57
 |-
-! Zuni Mk32 Mod 0 ATAP rockets
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
 | 12 || 12 || || || || 12 || || || || 12 || 12
 |-
-! AGM-65D missiles
+! [[AGM-65D]] missiles
 | || 3<sup>†</sup> || || || || || || || || 3<sup>†</sup> ||
 |-
-! AIM-7E-2 Sparrow missiles
-| || || || 1<sup>‡</sup> || 1 || || 1 || 1<sup>‡</sup> || || ||
+! [[AIM-9G Sidewinder]] missiles
+| || || 2<sup>†</sup> || || 1 || || 1 || || 2<sup>†</sup> || ||
 |-
-! AIM-7F Sparrow missiles
-| || || || 1<sup>‡</sup> || 1 || || 1 || 1<sup>‡</sup> || || ||
+! [[AIM-9L Sidewinder]] missiles
+| || || 2<sup>†</sup> || || 1 || || 1 || || 2<sup>†</sup> || ||
 |-
-! AIM-9G Sidewinder missiles
-| || || 2<sup>†</sup> || || 1<sup>‡</sup> || || 1<sup>‡</sup> || || 2<sup>†</sup> || ||
-|-
-! AIM-9L Sidewinder missiles
-| || || 2<sup>†</sup> || || 1<sup>‡</sup> || || 1<sup>‡</sup> || || 2<sup>†</sup> || ||
+! [[Python 3]] missiles
+| || || 2<sup>†</sup> || || 1 || || 1 || || 2<sup>†</sup> || ||
 |-
 ! Countermeasures
 | || || || 72 || || || || 72 || || ||
@@ -228,10 +203,36 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 ! Pave Spike targeting pod
 | || || || || || || 1* || || || ||
 |-
+! 600 gal drop tanks
+| || || || || || 1 || || || || ||
+|-
 | colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible weight imbalance: 1,500 kg
 |-
-| colspan="13" | * Pave Spike targeting pod must be equipped when carrying guided bombs <br> <sup>†</sup> AGM-65D missiles on hardpoints 2/10 cannot be equipped in conjunction with guided bombs, or Sidewinders on hardpoints 3/9 respectively <br> <sup>‡</sup> Sparrows on hardpoints 4/8 cannot be carried in conjunction with Sidewinders on hardpoints 5/7 respectively
+| colspan="13" | * Pave Spike targeting pod must be equipped when carrying guided bombs <br> <sup>†</sup> AGM-65D missiles on hardpoints 2/10 cannot be equipped in conjunction with guided bombs, or AAMs on hardpoints 3/9 respectively
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 600 gal drop tank
+* 2 x AIM-9G Sidewinder missiles
+* 6 x AIM-9G Sidewinder missiles
+* 6 x AIM-9L Sidewinder missiles
+* 6 x Python 3 missiles
+* 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
+* 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
+* 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
+* 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
+* 4 x BLU-27/B incendiary bombs
+* 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
+* 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
+* 285 x FFAR Mighty Mouse rockets
+* 60 x Zuni Mk32 Mod 0 ATAP rockets
+* 144 x countermeasures
+* 6 x AGM-65D missiles
+* 4 x 277 kg GBU-12 Paveway II bombs (1,108 kg total)
+* 4 x 957 kg GBU-10 Paveway II bombs (3,828 kg total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -247,7 +248,7 @@ A major difference between the Kurnass 2000 and the F-4EJ Kai is the slats on th
 
 '''Pros:'''
 
-* One of the most effective air-to-air armament sets in-game with AN/APG-76, AIM-7Fs, and AIM-9Ls
+* One of the most effective air-to-air armament sets in-game with AN/APG-76, Python 3s, and AIM-9Ls
 * Wing slats for increased manoeuvrability and versatility
 * High level of manoeuvrability at high speed as with any other Phantoms
 * Guided bombs and missile with targeting pod for engaging ground targets
@@ -258,8 +259,9 @@ A major difference between the Kurnass 2000 and the F-4EJ Kai is the slats on th
 * Thrust to weight ratio less than 4th generation jets
 
 == History ==
-<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->[[File:McDonnell Douglas F-4E Kurnass 2000 ErezS.jpg|alt=F-4E Kurnass 2000 of the IAF, on Ground display in Tel Nof air base during the 66th Independence day of Israel.|thumb|F-4E Kurnass 2000 of the IAF, on Ground display in Tel Nof air base during the 66th Independence day of Israel.]]
-The Kurnass 2000 was an Israeli program intended to extend the service life of the existing F-4s in the IDF Air Force. A major part of the program was to improve the avionics and the aging airframes. New displays, cameras, and computers were implemented during the program, greatly enhancing its capabilities over a standard F-4E. In addition, fuel tank leaks were fixed and parts of the airframe were reinforced. F-4Es were also to be upgraded with the APG-76 radar over the standard APQ-120 radar. The Kurnass 2000 also received the ASX-1 TISEO targeting system which allowed Raphael Popeye ASMs to be launched. 
+<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+[[File:McDonnell Douglas F-4E Kurnass 2000 ErezS.jpg|alt=F-4E Kurnass 2000 of the IAF, on Ground display in Tel Nof air base during the 66th Independence day of Israel.|thumb|F-4E Kurnass 2000 of the IAF, on Ground display in Tel Nof air base during the 66th Independence day of Israel.]]
+The Kurnass 2000 was an Israeli program intended to extend the service life of the existing F-4s in the IDF Air Force. A major part of the program was to improve the avionics and the aging airframes. New displays, cameras, and computers were implemented during the program, greatly enhancing its capabilities over a standard F-4E. In addition, fuel tank leaks were fixed and parts of the airframe were reinforced. F-4Es were also to be upgraded with the APG-76 radar over the standard APQ-120 radar. The Kurnass 2000 also received the ASX-1 TISEO targeting system which allowed Raphael Popeye ASMs to be launched.
 
 The Kurnass 2000 was also intended to receive an engine upgrade. Pratt & Whitney PW1120 engines were proposed by the IDF/AF to be fitted to the F-4s and a test bed was built to examine the performance. The test bed was originally meant for the IAI Lavi project, but it also proved the enormous performance increase over Phantoms with the J79 engines. The P&W-powered F-4 was able to pass Mach 1 without afterburner, increase climb rate by over 35 percent, and had a 15% increase in sustained turn rate. Although ambitious, the upgraded F-4Es never received this engine upgrade largely due to costs. Thus, the main differences between the Kurnass 2000 modernized Phantoms and the regular F-4E were almost exclusively avionics and some airframe changes.
 
@@ -291,4 +293,5 @@ The Kurnass 2000 was also intended to receive an engine upgrade. Pratt & Whitney
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer McDonnell}}
 {{Israel jet aircraft}}

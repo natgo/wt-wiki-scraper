@@ -141,46 +141,36 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 82 (500 lb)|LDGP Mk 84 (2,000 lb)|FFAR Mighty Mouse}}
-{{main|AGM-65B|AIM-7F Sparrow|AIM-9L Sidewinder|AIM-9P Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 1 x 300 gal drop tank
-* 2 x AIM-9P Sidewinder missiles
-* 6 x AIM-9P Sidewinder missiles
-* 6 x AIM-9L Sidewinder missiles
-* 2 x AIM-7F Sparrow missiles
-* 19 x 500 lb LDGP Mk 82 bombs (9,500 lb total)
-* 4 x 2,000 lb LDGP Mk 84 bombs (8,000 lb total)
-* 114 x FFAR Mighty Mouse rockets
-* 6 x AGM-65B missiles
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
-| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-16A.png]]</div>
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-16A.png]]</div>
 |-
-! 500 lb LDGP Mk 82 bombs
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
 | || || 3 || 3, 6 || 1 || 3, 6 || 3 || ||
 |-
-! 2,000 lb LDGP Mk 84 bombs
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| || || 3 || 3, 6 || 1 || 3, 6 || 3 || ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
 | || || 1 || 1 || || 1 || 1 || ||
 |-
-! FFAR Mighty Mouse rockets
+! [[FFAR Mighty Mouse]] rockets
 | || || 57 || || || || 57 || ||
 |-
-! AGM-65B missiles
+! [[AGM-65B]] missiles
 | || || 1, 3 || || || || 1, 3 || ||
 |-
-! AIM-7F Sparrow missiles
+! [[AIM-7F Sparrow]] missiles
 | || || 1 || || || || 1 || ||
 |-
-! AIM-9L Sidewinder missiles
+! [[AIM-9L Sidewinder]] missiles
 | 1 || 1 || 1 || || || || 1 || 1 || 1
 |-
-! AIM-9P Sidewinder missiles
+! [[AIM-9P Sidewinder]] missiles
 | 1 || 1 || 1 || || || || 1 || 1 || 1
 |-
 ! 300 gal drop tanks
@@ -189,6 +179,20 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | colspan="10" | Maximum permissible weight imbalance: 2,000 kg
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 300 gal drop tank
+* 2 x AIM-9P Sidewinder missiles
+* 6 x AIM-9P Sidewinder missiles
+* 6 x AIM-9L Sidewinder missiles
+* 2 x AIM-7F Sparrow missiles
+* 19 x 500 lb LDGP Mk 82 bombs (9,500 lb total)
+* 19 x 500 lb Mk 82 Snakeye bombs (9,500 lb total)
+* 4 x 2,000 lb LDGP Mk 84 bombs (8,000 lb total)
+* 114 x FFAR Mighty Mouse rockets
+* 6 x AGM-65B missiles
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

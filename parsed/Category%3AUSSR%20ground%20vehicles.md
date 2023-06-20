@@ -256,13 +256,15 @@
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_54_1951}}
 }}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|ussr_is_3}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_is_4m}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
+{{Tree-Unit|ussr_btr_80a}}
+{{Tree-Arrow}}
 {{Tree-Unit|ussr_bmp_1}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_object_906}}
@@ -271,10 +273,10 @@
 {{Tree-Unit|ussr_su_122_54}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_object_268}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|ussr_zsu_57_2}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|ussr_object_120}}
 {{Tree-Skip}}
@@ -307,12 +309,14 @@
 |
 {{Tree-Unit|ussr_t_10m}}
 {{Tree-Arrow}}
+{{Tree-Unit|ussr_object_435}}
+{{Tree-Arrow}}
 {{Tree-Unit|ussr_t_64a_1971}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_64_b_1984}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_80b}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|ussr_bmp_2}}
 {{Tree-Arrow}}

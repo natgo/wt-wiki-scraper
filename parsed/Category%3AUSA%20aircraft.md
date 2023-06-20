@@ -18,8 +18,10 @@
 {{Tree-Unit|p-36c}}
 {{Tree-Arrow}}
 {{Tree-Unit|p-36g}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
+{{Tree-Unit|bf2c_1}}
+{{Tree-Arrow}}
 {{Tree-Unit|f3f-2}}
 {{Tree-Arrow}}
 {{Tree-Unit|f2a-1}}
@@ -39,7 +41,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|sbd-3}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|tbd-1_1938}}
 {{Tree-Arrow}}
@@ -50,7 +52,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|b_18a}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|f3f-2_galer}}
 {{Tree-Skip}}
@@ -441,6 +443,8 @@
 {{Tree-Skip}}
 |
 {{Tree-Unit|f_14a_early}}
+{{Tree-Arrow}}
+{{Tree-Unit|f_14b}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

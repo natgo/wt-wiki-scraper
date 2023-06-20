@@ -56,7 +56,7 @@ The two .50 cal machine guns are almost no use on their own, but combined with t
 {{Specs-Fleet-Special}}
 <!-- ''Mortars, mines, rocket launchers and missiles are also effective in skilled hands and can take an off-guard opponent by surprise. Evaluate the ammunition of this type of armament and rate its performance in combat. If there are no special armaments, remove this section.'' -->
 {{main|Ordnance ML 4.2-inch mortar}}
-The 4.2-inch mortar is practically useless, stuck to a 1 km firing range, taking forever to reach its target, and doing minimal damage when it arrives.
+The 4.2-inch mortar is practically useless, stuck to a 1 km firing range, taking 15s to reach its target and an extra 1s to explode, and doing minimal damage when it arrives.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
@@ -87,6 +87,7 @@ Against Soviet armoured boats, the [[Pr.191]], [[Pr.191M]], and [[Pr.1124 early]
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_fairmile_lcs_l_h_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

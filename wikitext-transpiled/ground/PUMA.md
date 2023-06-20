@@ -31,37 +31,10 @@ The turret itself can take a lot of beating and has no crew in it, but its optic
 If the turret ammo rack is shot, PUMA might survive, but it will lose all of the ammo and will have to return to an allied capture point to reload.
 
 ;MUSS Active Protection System
-
+{{main|Active protection systems#Electro-optical APS}}
 The Puma has access to an infra-red jammer, the MUSS APS. It is a constant active APS which provides protection against a wide variety of threats. The jamming device (commander's optics like system on the highest mount of the turret's roof) is mounted on the roof of the tank to cover the vulnerable frontal arc. It is called "Infrared Countermeasure" for the following reason: SACLOS guidance utilizes a beam-riding guidance which is connected to the GPS (gunner main sight in some cases, on others it is a different sight like on [[T-55AM-1]] and [[T-62M-1]]) which uses a flare as reference point for the guidance system in the ATGM. The missile moves with the gunner's sight and the flare tries to stay on the crosshairs. IRCM confuses the GPS with a brighter IR light decoy acting as the flare (the flare is also IR) which signals the ATGM to move to a different position nowhere near from the gunner's target. The system works in a similar fashion to the Shtora system found on the Soviet T-90A and the EIREL system found on the French AMX-30B2 BRENUS.
 
-MUSS will jam SACLOS missiles including wire-guidance: <div style="column-count:3;-moz-column-count:3;-webkit-column-count:3">
-
-* [[3M7]] ([[IT-1]])
-* [[9M17M Falanga]] ([[Mi-4AV]]/[[Mi-24A]])
-* [[9M17P Falanga-PV]] ([[Mi-24D (USSR)|Mi-24D]])
-* 9M112 ([[T-64B]] / [[T-80B]])
-* [[9M113 Konkurs]] ([[BMP-1]]/[[SPz BMP-1]]/[[BMP-2]])
-* [[9M114 Shturm]] ([[Shturm-S]]/Russian Helicopters)
-* [[9M120 Ataka]] ([[Mi-35M]]/[[Mi-28N]]/[[Mi-28A]])
-* [[9M311]] ([[ZPRK 2S6]])
-* [[BGM-71A TOW]]
-* [[BGM-71B TOW]]
-* [[BGM-71C I-TOW]]
-* [[AS.11]]
-* [[HOT-1]]
-* [[HOT-2 TOW]]
-* [[HOT-3]] ([[EC-665 Tiger HAD]]/[[EC-665 Tiger HAP]]/[[EC-665 Tiger UHT]])
-* MGM-51B ([[M551 Sheridan|M551]]/[[M60A2]])
-* MGM-51C ([[XM-803]]/[[MBT-70]]/[[KPz-70]])
-* [[BAe Swingfire]] ([[Swingfire]]/[[Striker]])
-* [[MILAN]] ([[Marder A1-]]/[[Ratel 20]]/[[Warrior]])
-* [[HJ-73E]] ([[ZBD86]])
-* [[Roland]] ([[FlaRakPz 1]]/[[Roland 1]]/[[FlaRakRad]])
-* [[VT1]] ([[FlaRakRad]]/[[ItO 90M]])
-* [[ACRA (142 mm)|MP ACRA]] ([[AMX-30 ACRA]])
-* [[Rbs 55]] ([[UDES 33]]/[[Pvrbv 551]])</div>
-
-Laser-guided missiles (AGM-114 Hellfire, MIM146 ADATS, ZT3, etc) will not be jammed by MUSS. In order to let the APS work, it must be turned on with a key in the control section. The APS module can be destroyed.
+MUSS will jam SACLOS missiles that are not equipped with ECCM systems. Laser-guided missiles (AGM-114 Hellfire, MIM146 ADATS, ZT3, etc) will not be jammed by MUSS. In order to let the APS work, it must be turned on with a key in the control section. The APS module can be destroyed.
 
 MUSS can be used while on the move. While on the move (specially horizontally), the jammed ATGM will move in an uncontrolled direction like normal jamming but riskier, keep this in mind as it can hit a track, engine deck or close enough to create fragmentation and spot the Puma and/or friendlies. When moving forward to an enemy who fired an ATGM, it will be affected by the APS but due to the momentum, the ATGM can hit the Puma if the ATGM is redirected towards the ground. MUSS creates a thermal signature which can be seen with thermal sights. It also can also be used as an IR spotlight. It should be noted that this can be a disadvantage when in night maps as tanks with NVD (except when tanks are using thermal view) will be able to see the light beam. The APS should be turned on and off at commander's discretion. When on day maps, this will not be an issue. MUSS must have a clear line-of-sight with the enemy launcher (at least enemy sights must be able to see the tank). Tanks firing behind cover like the Swingfire can also be affected by the APS. As long as the enemy is within the jamming arc, the Puma will be protected against SACLOS ATGMs. It should be noted that the Puma has access to Laser Warning Receiver (LWR), so the player does not need to rely on visual contact with the ATGM and the launcher. Thankfully, the thermal sights will be capable of detecting the fireball created by the ATGMs at certain distances.
 

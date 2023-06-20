@@ -156,22 +156,55 @@ The ballistic computer grants CCIP functionality for the guns, which can be usef
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Type 250-2 (250 kg)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)}}
-{{main|AIM-9P Sidewinder|Matra R550 Magic 1|Type 90-1|Type 130-2}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[Type 250-2 (250 kg)|250 kg Type 250-2]] bombs
+| || || || 4 || || ||
+|-
+! [[250-3 (250 kg)|250 kg 250-3]] bombs
+| || || || 4 || || ||
+|-
+! [[250-4 (250 kg)|250 kg 250-4]] bombs
+| || || || 4 || || ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || || || 4 || || ||
+|-
+! [[Type 90-1]] rockets
+| || 7 || 7 || || 7 || 7 ||
+|-
+! [[Type 130-2]] rockets
+| || 4 || 4 || || 4 || 4 ||
+|-
+! [[AIM-9P Sidewinder]] missiles
+| 1 || || || || || || 1
+|-
+! [[Matra R550 Magic 1]] missiles
+| 1 || || || || || || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9P Sidewinder missiles
 * 2 x Matra R550 Magic 1 missiles
 * 28 x Type 90-1 rockets
 * 16 x Type 130-2 rockets
-* 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)
+* 4 x 250 kg 250-3 bombs (1,000 kg total)
+* 4 x 250 kg 250-4 bombs (1,000 kg total)
 * 4 x 750 lb M117 cone 45 bombs (3,000 lb total)
-* 2 x Matra R550 Magic 1 missiles + 28 x Type 90-1 rockets + 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)
+* 2 x Matra R550 Magic 1 missiles + 28 x Type 90-1 rockets + 4 x 250 kg 250-3 bombs (1,000 kg total)
 * 2 x Matra R550 Magic 1 missiles + 16 x Type 130-2 rockets + 4 x 750 lb M117 cone 45 bombs (3,000 lb total)
+* 16 x Type 130-2 rockets + 2 x AIM-9P Sidewinder missiles + 4 x 250 kg Type 250-2 bombs (1,000 kg total)
 * 2 x AIM-9P Sidewinder missiles + 28 x Type 90-1 rockets + 4 x 750 lb M117 cone 45 bombs (3,000 lb total)
-* 2 x AIM-9P Sidewinder missiles + 16 x Type 130-2 rockets + 4 x 250 kg Type 250-2 bombs (1,000 kg total)
+{{Navigation-End}}
 
 As an export model operated by Pakistan, the A-5C has different toys to play with than the PLAAF's Q-5A. It has a new pair of outboard wing hardpoints exclusively reserved for air-to-air missiles, and very potent missiles at that. The French Matra Magic 1, made famous by the [[Mirage IIIC]], is one of the most manoeuvrable missiles in War Thunder with a 35 G overload. Launching them within 2 km will generally seal the fate of non-flaring targets. The American AIM-9P, identical in performance to the AIM-9J used by the [[F-4E]] and [[F-5E]], is less manoeuvrable with a 20 G overload but tends to have a longer effective range and is thus more effective for sneak attacks. To summarize, the AIM-9P is best used at longer ranges with its longer burn time, whereas the Magic 1s should only really be used at close range.
 
@@ -180,35 +213,6 @@ The unguided rockets are still the Type 90-1 HEAT rockets and Type 130-2 HE rock
 The A-5C now has access to American bombs. The 500 lb Mk 82 bombs are not much different from the Chinese 250 kg bombs, but the 750 lb M117 bombs are significantly heavier. They have a better explosive content for base bombing and require less precision when bombing ground targets.
 
 A nice feature of the A-5C is the AAMs, rockets, and bombs all have reserved hardpoints and do not interfere with each other. A fully loaded A-5C can drop a full bombload and go on rocket runs while having a pair of AAMs for air combat at all times.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 250 kg Type 250-2 bombs
-| || || || 4 || || ||
-|-
-! 500 lb LDGP Mk 82 bombs
-| || || || 4 || || ||
-|-
-! 750 lb M117 cone 45 bombs
-| || || || 4 || || ||
-|-
-! Type 90-1 rockets
-| || 7 || 7 || || 7 || 7 ||
-|-
-! Type 130-2 rockets
-| || 4 || 4 || || 4 || 4 ||
-|-
-! AIM-9P Sidewinder missiles
-| 1 || || || || || || 1
-|-
-! Matra R550 Magic 1 missiles
-| 1 || || || || || || 1
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

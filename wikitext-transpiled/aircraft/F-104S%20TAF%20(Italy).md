@@ -142,12 +142,61 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|BLU-1 incendiary|M117 cone 45 (750 lb)|M61A1 (20 mm)}}
-{{main|AIM-7E Sparrow|AIM-9B Sidewinder|AIM-9P Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-104S.ASA.png]]</div>
+|-
+! [[M61A1 (20 mm)|20 mm M61A1]] cannons (750 rpg)
+| || || || || || 1* || || || ||
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| || 1 || 1 || 1 || || || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || || 1 || || 1 || || || 1 || ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || || || 1 || || || || ||
+|-
+! [[BLU-1 incendiary]] bombs
+| || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| || 19 || 19 || || || || || 19 || 19 ||
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| || 4 || || || || || || || 4 ||
+|-
+! [[AIM-7E Sparrow]] missiles
+| || 1* || || || || || || || 1* ||
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || 1 || || 1 || || || 1 || || 1 || 1
+|-
+! [[AIM-9P Sidewinder]] missiles
+| 1 || 1 || || 1 || || || 1 || || 1 || 1
+|-
+| colspan="11" | Maximum permissible loadout weight: 3,400 kg<br>Maximum permissible weight imbalance: 500 kg
+|-
+| colspan="12" | * AIM-7E Sparrow missiles cannot be equipped in conjunction with the 20 mm M61A1 cannon.
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 1 x 20 mm M61A1 cannon (750 rpg) + 2 x AIM-9B Sidewinder missiles
 * 1 x 20 mm M61A1 cannon + 2 x AIM-9P Sidewinder missiles
@@ -158,57 +207,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 1 x 20 mm M61A1 cannon + 8 x Zuni Mk32 Mod 0 ATAP rockets
 * 1 x 20 mm M61A1 cannon + 6 x 250 lb LDGP Mk 81 bombs (1,500 lb total)
 * 1 x 20 mm M61A1 cannon + 7 x 500 lb LDGP Mk 82 bombs (3,500 lb total)
+* 1 x 20 mm M61A1 cannon + 7 x 500 lb Mk 82 Snakeye bombs (3,500 lb total)
 * 1 x 20 mm M61A1 cannon + 7 x 750 lb M117 cone 45 bombs (5,250 lb total)
 * 1 x 20 mm M61A1 cannon + 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
 * 1 x 20 mm M61A1 cannon + 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
 * 1 x 20 mm M61A1 cannon + 7 x BLU-1 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
-| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-104S.ASA.png]]</div>
-|-
-! 20 mm M61A1 cannons (750 rpg)
-| || || || || || 1 || || || ||
-|-
-! 250 lb LDGP Mk 81 bombs
-| || 1 || 1 || 1 || || || 1 || 1 || 1 ||
-|-
-! 500 lb LDGP Mk 82 bombs
-| || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
-|-
-! 750 lb M117 cone 45 bombs
-| || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || || 1 || || 1 || || || 1 || ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || || || 1 || || || || ||
-|-
-! BLU-1 incendiary bombs
-| || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
-|-
-! FFAR Mighty Mouse rockets
-| || 19 || 19 || || || || || 19 || 19 ||
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| || 4 || || || || || || || 4 ||
-|-
-! AIM-7E Sparrow missiles
-| || 1 || || || || || || || 1 ||
-|-
-! AIM-9B Sidewinder missiles
-| 1 || 1 || || 1 || || || 1 || || 1 || 1
-|-
-! AIM-9P Sidewinder missiles
-| 1 || 1 || || 1 || || || 1 || || 1 || 1
-|-
-| colspan="11" | Maximum permissible loadout weight: 3,400 kg<br>Maximum permissible weight imbalance: 500 kg
-|-
-| colspan="12" | * AIM-7E Sparrow missiles cannot be equipped in conjunction with the 20 mm M61A1 cannon.
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

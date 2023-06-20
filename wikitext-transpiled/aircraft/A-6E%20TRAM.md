@@ -134,14 +134,68 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|GBU-12 Paveway II (277 kg)|GBU-16 Paveway II (1,092 lb)|GBU-10 Paveway II (957 kg)|Mk 77 mod 4 incendiary}}
-{{main|AIM-9G Sidewinder|AIM-9L Sidewinder|Zuni Mk32 Mod 0 ATAP|FFAR Mighty Mouse|Mk 11 mod 5 (20 mm)}}
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 6 x 500 lb LDGP Mk 82 bombs + 2 x AIM-9L Sidewinder missiles + 2 x 957 kg GBU-10 Paveway II guided bombs
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
+| 1 || 1 || || 1 || 1
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 5 || 6 || 5 || 6
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 6 || 5 || 6 || 5 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 5 || 6 || 5 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 5 || 6 || 5 || 6
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 3 || 2 || 3 || 2 || 3
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || 1 || 1 || 1 || 1
+|-
+! [[Mk 77 mod 4 incendiary]] bombs
+| 2 || 2 || 2 || 2 || 2
+|-
+! [[GBU-12 Paveway II (277 kg)|277 kg GBU-12 Paveway II]] bombs
+| 2 || 2 || 1 || 2 || 2
+|-
+! [[GBU-10 Paveway II (957 kg)|957 kg GBU-10 Paveway II]] bombs
+| 1 || 1 || 1 || 1 || 1
+|-
+! [[GBU-16 Paveway II (1,092 lb)|1,092 lb GBU-16 Paveway II]] bombs
+| 1 || 1 || 1 || 1 || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 57 || 38 || || 38 || 57
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 12 || 8 || || 8 || 12
+|-
+! [[AIM-9G Sidewinder]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[AIM-9L Sidewinder]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! Countermeasures
+| 240 || 240 || || 240 || 240
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 6 x 500 lb LDGP Mk 82 bombs + 2 x AIM-9L Sidewinder missiles + 2 x 957 kg GBU-10 Paveway II guided bombs (7,220 lb total)
 * 960 x countermeasures
 * 4 x 20 mm Mk 11 mod 5 cannons (750 rpg = 3,000 total)
 * 4 x AIM-9G Sidewinder missiles
@@ -149,63 +203,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 40 x Zuni Mk32 Mod 0 ATAP rockets
 * 190 x FFAR Mighty Mouse rockets
 * 28 x 250 lb LDGP Mk 81 bombs (7,000 lb total)
+* 28 x 250 lb Mk 81 Snakeye bombs (7,000 lb total)
 * 28 x 500 lb LDGP Mk 82 bombs (14,000 lb total)
+* 28 x 500 lb Mk 82 Snakeye bombs (14,000 lb total)
 * 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
 * 5 x 2,000 lb LDGP Mk 84 bombs (10,000 lb total)
 * 5 x 957 kg GBU-10 Paveway II guided bombs (4,785 kg total)
 * 9 x 277 kg GBU-12 Paveway II guided bombs (2,493 kg total)
 * 5 x 1,092 lb GBU-16 Paveway II guided bombs (5,460 lb total)
 * 10 x Mk 77 mod 4 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 20 mm Mk 11 mod 5 cannons (750 rpg)
-| 1 || 1 || || 1 || 1
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 5 || 6 || 5 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 5 || 6 || 5 || 6
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 3 || 2 || 3 || 2 || 3
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| 1 || 1 || 1 || 1 || 1
-|-
-! Mk 77 mod 4 incendiary bombs
-| 2 || 2 || 2 || 2 || 2
-|-
-! 277 kg GBU-12 Paveway II bombs
-| 2 || 2 || 1 || 2 || 2
-|-
-! 957 kg GBU-10 Paveway II bombs
-| 1 || 1 || 1 || 1 || 1
-|-
-! 1,092 lb GBU-16 Paveway II bombs
-| 1 || 1 || 1 || 1 || 1
-|-
-! FFAR Mighty Mouse rockets
-| 57 || 38 || || 38 || 57
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 12 || 8 || || 8 || 12
-|-
-! AIM-9G Sidewinder missiles
-| 1 || 1 || || 1 || 1
-|-
-! AIM-9L Sidewinder missiles
-| 1 || 1 || || 1 || 1
-|-
-! Countermeasures
-| 240 || 240 || || 240 || 240
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

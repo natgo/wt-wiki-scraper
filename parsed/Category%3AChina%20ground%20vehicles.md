@@ -59,8 +59,10 @@
 
 {{Tree-Line|III Rank}}
 |
+{{Tree-Unit|cn_object_211}}
+{{Tree-Arrow}}
 {{Tree-Unit|cn_pt_76}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|cn_m4a1_76w_sherman}}
 {{Tree-Arrow}}
@@ -152,6 +154,8 @@
 |
 {{Tree-Unit|cn_type_59d}}
 {{Tree-Arrow}}
+{{Tree-Unit|cn_ztz_88b}}
+{{Tree-Arrow}}
 {{Tree-Unit|cn_ztz_88a}}
 {{Tree-Arrow}}
 {{Tree-Unit|cn_ztz_96}}
@@ -160,14 +164,14 @@
 {{Tree-Arrow}}
 |
 {{Tree-Unit|cn_pgz_09}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|4}}
 |
 {{Tree-Unit|cn_cm_25}}
 {{Tree-Arrow}}
 {{Tree-Unit|cn_hj_9}}
 {{Tree-Arrow}}
 {{Tree-Unit|cn_ptz_89}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|cn_object_122tm}}
 {{Tree-Skip}}

@@ -154,18 +154,87 @@ The MiG-27M has a good supply of large-calibre countermeasures, launched from di
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary|GSh-23L (23 mm)}}
-{{main|KAB-500Kr (500 kg)|Kh-23M|Kh-25ML|Kh-29L|Kh-29T}}
-{{main|R-13M1|R-60M|S-5K|S-8KO|S-24B}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="21" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| 1 || || || || || || 1
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| 4 || 1 || 4 || 4 || 4 || 1 || 4
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[OFAB-250Sh (250 kg)|250 kg OFAB-250Sh]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[FAB-500Sh (500 kg)|500 kg FAB-500Sh]] bombs
+| 1 || || 1 || 1 || 1 || || 1
+|-
+! [[KAB-500Kr (500 kg)|500 kg KAB-500Kr]] bombs
+| 1* || || 1* || || 1* || || 1*
+|-
+! [[ZB-500 incendiary]] bombs
+| 1 || || 1 || || 1 || || 1
+|-
+! [[S-5K]] rockets
+| 32 || || 32 || || 32 || || 32
+|-
+! [[S-8KO]] rockets
+| 20 || || 20 || || 20 || || 20
+|-
+! [[S-24B]] rockets
+| 1 || || 1 || || 1 || || 1
+|-
+! [[Kh-23M]] missiles
+| 1<sup>†</sup> || || || || || || 1<sup>†</sup>
+|-
+! [[Kh-25ML]] missiles
+| 1* || || 1* || || 1* || || 1*
+|-
+! [[Kh-29L]] missiles
+| 1* || || || || || || 1*
+|-
+! [[Kh-29T]] missiles
+| 1* || || || || || || 1*
+|-
+! [[R-13M1]] missiles
+| 1 || || || || || || 1
+|-
+! [[R-60M]] missiles
+| 2 || || || || || || 2
+|-
+! Delta-NG targeting pod
+| || || 1<sup>†</sup> || || || ||
+|-
+! 800 l drop tanks
+| || || || 1 || || ||
+|-
+| colspan="8" | Maximum permissible weight imbalance: 700 kg
+|-
+| colspan="9" | * KAB-500Kr bombs, Kh-25ML, Kh-29L, and Kh-29T missiles cannot be mixed, only one type may be carried across hardpoints <br> <sup>†</sup> It is required to equip the Delta-NG targeting pod with the Kh-23M missiles
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 800 l drop tank
 * 2 x R-13M1 missiles
 * 4 x R-60M missiles
 * 22 x 100 kg OFAB-100 bombs (2,200 kg total)
 * 7 x 250 kg FAB-250M-62 bombs (1,750 kg total)
+* 7 x 250 kg OFAB-250Sh bombs (1,750 kg total)
 * 7 x 500 kg FAB-500M-62 bombs (3,500 kg total)
+* 5 x 500 kg FAB-500Sh bombs (2,500 kg total)
 * 4 x 500 kg KAB-500Kr bombs (2,000 kg total)
 * 4 x ZB-500 incendiary bombs
 * 128 x S-5K rockets
@@ -176,70 +245,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x Kh-29L missiles
 * 2 x Kh-29T missiles
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
+{{Navigation-End}}
 
 As an attacker, the MiG-27M's air-to-air armament has been downgraded compared to the [[MiG-23M]]. It lost the ability to carry the medium range [[R-23R]]/[[R-23T]] missiles and thus has no BVR capabilities. It can still carry the all-aspect [[R-60M]] IR missile, which are suitable for dogfights, but only four can be carried at once.
 
 The ground attack armaments are understandably much improved over the original Flogger. New offerings here include laser-guided Kh-25ML and Kh-29L missiles, TV-guided Kh-29T missiles, TV-guided KAB-500Kr bombs, S-8KO rockets, ZB-500 incendiary bombs, and 23 mm gun pods. The guided weapons are the MiG-27M's most important tools in Ground RB because they can engage and destroy targets from relatively safe distances. However there are a couple of limiting factors: the MiG-27M has a primitive laser designation system with a narrow field of view, low zoom, and no actual targeting pod. Thus it can be difficult to identify, track, and hit targets with the laser-guided weapons, especially when flying at high speeds. The Kh-29T and KAB-500Kr are easier to use because of their onboard TV cameras and fire-and-forget nature, but be aware of the drawbacks of TV-guided weapons: poor performance at night and the inability to redirect them if a target is destroyed or breaks line of sight.
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| 1 || || || || || || 1
-|-
-! 100 kg OFAB-100 bombs
-| 4 || 1 || 4 || 4 || 4 || 1 || 4
-|-
-! 250 kg FAB-250M-62 bombs
-| 1 || 1 || 1 || 1 || 1 || 1 || 1
-|-
-! 500 kg FAB-500M-62 bombs
-| 1 || 1 || 1 || 1 || 1 || 1 || 1
-|-
-! 500 kg KAB-500Kr bombs
-| 1* || || 1* || || 1* || || 1*
-|-
-! ZB-500 incendiary bombs
-| 1 || || 1 || || 1 || || 1
-|-
-! S-5K rockets
-| 32 || || 32 || || 32 || || 32
-|-
-! S-8KO rockets
-| 20 || || 20 || || 20 || || 20
-|-
-! S-24B rockets
-| 1 || || 1 || || 1 || || 1
-|-
-! Kh-23M missiles
-| 1<sup>†</sup> || || || || || || 1<sup>†</sup>
-|-
-! Kh-25ML missiles
-| 1* || || 1* || || 1* || || 1*
-|-
-! Kh-29L missiles
-| 1* || || || || || || 1*
-|-
-! Kh-29T missiles
-| 1* || || || || || || 1*
-|-
-! R-13M1 missiles
-| 1 || || || || || || 1
-|-
-! R-60M missiles
-| 2 || || || || || || 2
-|-
-! Delta-NG
-| || || 1<sup>†</sup> || || || ||
-|-
-| colspan="8" | Maximum permissible weight imbalance: 700 kg
-|-
-| colspan="9" | * KAB-500Kr bombs, Kh-25ML, Kh-29L, and Kh-29T missiles cannot be mixed, only one type may be carried across hardpoints <br> <sup>†</sup> It is required to equip the Delta-NG targeting pod with the Kh-23M missiles
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -1,7 +1,7 @@
 {{About
 | about = French jet fighter '''{{PAGENAME}}'''
-| usage = other uses
-| link = Mirage (Disambiguation)
+| usage = other versions
+| link = Mirage 2000 (Family)
 }}
 {{Specs-Card
 |code=mirage_2000c_s5
@@ -122,11 +122,11 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -143,11 +143,39 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Type 25 (250 kg)|SNEB type 23}}
-{{main|Matra R550 Magic 1|Matra R550 Magic 2|Matra Super 530D|Matra Super 530F}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
+| rowspan="8" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| || 1 || 1 || 1 || 1 || 1 || 1 || 1 ||
+|-
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
+| || 1 || 1 || 1 || 1 || 1 || 1 || 1 ||
+|-
+! [[SNEB type 23]] rockets
+| 18 || 18 || || || || || || 18 || 18
+|-
+! [[Matra R550 Magic 1]] missiles
+| 1 || || || || || || || || 1
+|-
+! [[Matra R550 Magic 2]] missiles
+| 1 || || || || || || || || 1
+|-
+! [[Matra Super 530D]] missiles
+| || 1 || || || || || || 1 ||
+|-
+! [[Matra Super 530F]] missiles
+| || 1 || || || || || || 1 ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x Matra R550 Magic 1 missiles
 * 2 x Matra R550 Magic 2 missiles
@@ -155,32 +183,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x Matra Super 530F missiles
 * 2 x Matra Super 530D missiles
 * 7 x 250 kg SAMP Type 25 bombs (1,750 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
-| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 250 kg SAMP Type 25 bombs
-| || 1 || 1 || 1 || 1 || 1 || 1 || 1 ||
-|-
-! SNEB type 23 rockets
-| 18 || 18 || || || || || || 18 || 18
-|-
-! Matra R550 Magic 1 missiles
-| 1 || || || || || || || || 1
-|-
-! Matra R550 Magic 2 missiles
-| 1 || || || || || || || || 1
-|-
-! Matra Super 530D missiles
-| || 1 || || || || || || 1 ||
-|-
-! Matra Super 530F missiles
-| || 1 || || || || || || 1 ||
-|-
-|}
+* 7 x 250 kg SAMP Type 25 200 bombs (1,750 kg total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

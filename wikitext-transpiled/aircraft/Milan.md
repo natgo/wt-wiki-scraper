@@ -1,7 +1,7 @@
 {{About
 | about = premium French jet fighter '''{{PAGENAME}}'''
-| usage = the ATGM
-| link = MILAN
+| usage = other uses
+| link = Milan (Disambiguation)
 }}
 {{Specs-Card
 |code=mirage_milan
@@ -138,51 +138,61 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Type 25 (250 kg)|SAMP Mk 82 (500 lb)|SAMP Type 21 (400 kg)|SAMP Mk 83 (1,000 lb)}}
-{{main|AIM-9B Sidewinder|AS-30 Nord|SNEB type 23}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[SAMP Mk 82 (500 lb)|500 lb SAMP Mk 82]] bombs
+| || 4 || 2 || 4 ||
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| || 4 || 2 || 4 ||
+|-
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
+| || 4 || 2 || 4 ||
+|-
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| || 2 || 2 || 2 ||
+|-
+! [[SAMP Type 21 200 (400 kg)|400 kg SAMP Type 21 200]] bombs
+| || 2 || 2 || 2 ||
+|-
+! [[SAMP Mk 83 (1,000 lb)|1,000 lb SAMP Mk 83]] bombs
+| || 2 || 1 || 2 ||
+|-
+! [[SNEB type 23]] rockets
+| || 18, 36 || || 18, 36 ||
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || || || || 1
+|-
+! [[AS-30 Nord]] missiles
+| || || 1 || ||
+|-
+| colspan="6" | Maximum permissible weight imbalance: 1,000 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 36 x SNEB type 23 rockets
 * 72 x SNEB type 23 rockets
 * 10 x 500 lb SAMP Mk 82 bombs (5,000 lb total)
 * 10 x 250 kg SAMP Type 25 bombs (2,500 kg total)
+* 10 x 250 kg SAMP Type 25 200 bombs (2,500 kg total)
 * 6 x 400 kg SAMP Type 21 bombs (2,400 kg total)
+* 6 x 400 kg SAMP Type 21 200 bombs (2,400 kg total)
 * 5 x 1,000 lb SAMP Mk 83 bombs (5,000 lb total)
 * 1 x AS-30 Nord missile
 * 1 x AS-30 Nord missile + 2 x AIM-9B Sidewinder missiles + 4 x 1,000 lb SAMP Mk 83 bombs (4,000 lb total)
 * 2 x AIM-9B Sidewinder missiles + 72 x SNEB type 23 rockets + 2 x 250 kg SAMP Type 25 bombs (500 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 500 lb SAMP Mk 82 bombs
-| || 4 || 2 || 4 ||
-|-
-! 250 kg SAMP Type 25 bombs
-| || 4 || 2 || 4 ||
-|-
-! 400 kg SAMP Type 21 bombs
-| || 2 || 2 || 2 ||
-|-
-! 1,000 lb SAMP Mk 83 bombs
-| || 2 || 1 || 2 ||
-|-
-! SNEB type 23 rockets
-| || 18, 36 || || 18, 36 ||
-|-
-! AIM-9B Sidewinder missiles
-| 1 || || || || 1
-|-
-! AS-30 Nord missiles
-| || || 1 || ||
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

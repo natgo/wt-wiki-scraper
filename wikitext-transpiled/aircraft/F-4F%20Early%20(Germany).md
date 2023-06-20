@@ -130,19 +130,73 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|M118 (3,000 lb)|BLU-27/B incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|GAU-4 (20 mm)}}
-{{main|AIM-9B FGW.2 Sidewinder|AIM-9E Sidewinder|AIM-9J Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4F.png]]</div>
+|-
+! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
+| 1 || || || || || || 1
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 3 || || 6 || || 3 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 6 || 3 || || 6 || || 3 || 6
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 6 || 3 || || 6 || || 3 || 6
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 3 || 3 || || 5 || || 3 || 3
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 2 || 3 || || 3 || || 3 || 2
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || || || 1 || || || 1
+|-
+! [[M118 (3,000 lb)|3,000 lb M118]] bombs
+| || || || 1 || || ||
+|-
+! [[BLU-27/B incendiary]] bombs
+| 1 || || || 2 || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 57 || 57 || || 57 || || 57 || 57
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 12 || 12 || || 12 || || 12 || 12
+|-
+! [[AIM-9B FGW.2 Sidewinder]] missiles
+| || || 2 || || 2 || ||
+|-
+! [[AIM-9E Sidewinder]] missiles
+| || || 1, 2 || || 1, 2 || ||
+|-
+! [[AIM-9J Sidewinder]] missiles
+| || || 2 || || 2 || ||
+|-
+! 600 gal drop tanks
+| || || || 1 || || ||
+|-
+| colspan="8" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 600 gal drop tank
 * 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
 * 2 x AIM-9E Sidewinder missiles
 * 4 x AIM-9B FGW.2 Sidewinder missiles
 * 4 x AIM-9E Sidewinder missiles
 * 4 x AIM-9J Sidewinder missiles
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
+* 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
 * 4 x BLU-27/B incendiary bombs
 * 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
@@ -150,55 +204,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 1 x 3,000 lb M118 bomb (3,000 lb total)
 * 285 x FFAR Mighty Mouse rockets
 * 60 x Zuni Mk32 Mod 0 ATAP rockets
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4F.png]]</div>
-|-
-! 20 mm GAU-4 cannons (1200 rpg)
-| 1 || || || || || || 1
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 3 || || 6 || || 3 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 6 || 3 || || 6 || || 3 || 6
-|-
-! 750 lb M117 cone 45 bombs
-| 3 || 3 || || 5 || || 3 || 3
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 2 || 3 || || 3 || || 3 || 2
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| 1 || || || 1 || || || 1
-|-
-! 3,000 lb M118 bombs
-| || || || 1 || || ||
-|-
-! BLU-27/B incendiary bombs
-| 1 || || || 2 || || || 1
-|-
-! FFAR Mighty Mouse rockets
-| 57 || 57 || || 57 || || 57 || 57
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 12 || 12 || || 12 || || 12 || 12
-|-
-! AIM-9B FGW.2 Sidewinder missiles
-| || || 2 || || 2 || ||
-|-
-! AIM-9E Sidewinder missiles
-| || || 1, 2 || || 1, 2 || ||
-|-
-! AIM-9J Sidewinder missiles
-| || || 2 || || 2 || ||
-|-
-| colspan="8" | Maximum permissible weight imbalance: 1,500 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

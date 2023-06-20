@@ -55,7 +55,7 @@ Having just two 75 mm secondary guns per side, equipped with an HE shells with c
 
 Mounts have an ability to engage targets up to 85° vertical guidance, what would make them perfect against high altitude bombers, but this is severely limited by the lack of {{Annotation|HE-TF|High-explosive with time fuse}} or {{Annotation|HE-VT|High-explosive variable time fuse}} shells. In effect the gunfire has primarily have a psychological effect against enemy airplanes, as the probability of directly hitting at ranges where 75 mm would provide an additional protection is negligible.
 
-{{:75 mm/50 model 1922 (75 mm)/Ammunition|75 mm OEA Mle 1925}}
+{{:75 mm/50 model 1922 (75 mm)/Ammunition|75 mm OEA Mle 1925, 75 mm HE-TF OEA Mle 1925}}
 
 === Anti-aircraft armament ===
 {{Specs-Fleet-AA}}

@@ -158,12 +158,61 @@ Last thing to note is that trigger discipline is a must.
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Matra 25E (250 kg)|LDGP Mk 82 (500 lb)|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|BLU-1 incendiary}}
-{{main|AIM-9B Sidewinder|AIM-9B FGW.2 Sidewinder|AIM-9E Sidewinder|AIM-9J Sidewinder}}
-{{main|Hydra-70 M247|AS-20 Nord|AS-30 Nord}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[Matra 25E (250 kg)|250 kg Matra 25E]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[BLU-1 incendiary]] bombs
+| || 1 || || 1* || || 1 ||
+|-
+! [[Hydra-70 M247]] rockets
+| || 7 || || || || 7 ||
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || || 1* || || 1* || || 1
+|-
+! [[AIM-9B FGW.2 Sidewinder]] missiles
+| 1 || || 1* || || 1* || || 1
+|-
+! [[AIM-9E Sidewinder]] missiles
+| 1 || || || || || || 1
+|-
+! [[AIM-9J Sidewinder]] missiles
+| 1 || || 1* || || 1* || || 1
+|-
+! [[AS-20 Nord]] missiles
+| || 1 || || || || 1 ||
+|-
+! [[AS-30 Nord]] missiles
+| || 1 || || || || 1 ||
+|-
+| colspan="8" | Maximum permissible weight imbalance: 500 kg
+|-
+| colspan="9" | * Ordnance on hardpoint 4 cannot by carried in conjunction with missiles on hardpoints 3/5
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 4 x AIM-9B Sidewinder missiles
@@ -173,10 +222,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x AS-20 Nord missiles
 * 2 x AS-30 Nord missiles
 * 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
+* 3 x 500 lb Mk 82 Snakeye bombs (1,500 lb total)
 * 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
 * 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
 * 3 x 250 kg Matra 25E bombs (750 kg total)
 * 3 x BLU-1 incendiary bombs
+{{Navigation-End}}
 
 For Air RB, F-104G is quite limited in its options of armaments. With only two air-to-air missiles, they should not be wasted in turnfights, against agile planes, or planes that have a lot of energy. Instead, focus on enemy planes going after your teammates or planes in low energy state. Planes that lock up at higher speeds are also viable targets. The closer you get behind the enemy plane before launching, the higher your chances of hitting them are.
 
@@ -187,53 +238,6 @@ Popular AS-20 Nords are practically flat trajectory 30 kg bombs that can be guid
 Another option are M247 Hydra 70 rockets. While offering 290 mm of penetration, they only contain 0.9 kg of explosives and plane gets 14 x of them. Direct hits are must in order to achieve kill, and even with the help of ballistic computer, they are quite impractical at speeds in which F-104G usually operates.
 
 With the ballistic computer, bombs become much more viable option. Turning on the ballistic computer allows the player to use arcade style crosshairs, so any pilot is capable of hitting ground targets with laser-like accuracy. F-104G is capable of carrying 3 x bombs (1 x mounted under fuselage and 2 x on wing pylons) and these are dropped individually, allowing the player in theory to achieve at least 3 kills per payload. All bombs carried by F-104G are viable, so it is up to personal preference.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 250 kg Matra 25E bombs
-| || 1 || || 1* || || 1 ||
-|-
-! 500 lb LDGP Mk 82 bombs
-| || 1 || || 1* || || 1 ||
-|-
-! 750 lb M117 cone 45 bombs
-| || 1 || || 1* || || 1 ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || 1 || || 1* || || 1 ||
-|-
-! BLU-1 incendiary bombs
-| || 1 || || 1* || || 1 ||
-|-
-! Hydra-70 M247 rockets
-| || 7 || || || || 7 ||
-|-
-! AIM-9B Sidewinder missiles
-| 1 || || 1* || || 1* || || 1
-|-
-! AIM-9B FGW.2 Sidewinder missiles
-| 1 || || 1* || || 1* || || 1
-|-
-! AIM-9E Sidewinder missiles
-| 1 || || || || || || 1
-|-
-! AIM-9J Sidewinder missiles
-| 1 || || 1* || || 1* || || 1
-|-
-! AS-20 Nord missiles
-| || 1 || || || || 1 ||
-|-
-! AS-30 Nord missiles
-| || 1 || || || || 1 ||
-|-
-| colspan="8" | Maximum permissible weight imbalance: 500 kg
-|-
-| colspan="9" | * Ordnance on hardpoint 4 cannot by carried in conjunction with missiles on hardpoints 3/5
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

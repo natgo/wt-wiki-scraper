@@ -78,7 +78,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rati
 
 Unlike most of the Japanese airplanes around this BR, the {{PAGENAME}} features an armour plate. It's 12 mm steel at 12° angle, protecting an entire body, legs and part of the head from rear firing angles. It's far from perfect protection, but significantly increases survival chances of the pilot. This is further improved by a large, 14-cylinder radial engine at the front, soaking up most of the incoming damage.
 
-That said though, one of the biggest issues with survivability of the fighter are its not self-sealing fuel tanks, which once ignited will happily burn the entire fighter to the ground, not different from most of the Japanese fighters in the game.
+That said though, one of the biggest issues with the survivability of the fighter are its lack of self-sealing fuel tanks, which once ignited will happily burn the entire fighter to the ground, like most of the Japanese fighters in the game.
 {{Clear|left}}
 === Modifications and economy ===
 {{Specs-Economy}}

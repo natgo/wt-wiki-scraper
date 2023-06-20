@@ -40,11 +40,11 @@ The JA37D is a modernized version of the [[JA37C]], introduced in the early 1990
 ==== Details ====
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="6" | Features
+! colspan="7" | Features
 |-
-! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
+! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute !! Thrust reversal
 |-
-| X || X || ✓ || ✓ || X || X     <!-- ✓ -->
+| X || X || ✓ || ✓ || X || X || {{Annotation|✓*|Only when landed}}     <!-- ✓ -->
 |-
 |}
 
@@ -193,6 +193,7 @@ If an enemy positions themselves directly behind you, do not hesitate to use you
 * Can carry a drop tank extending the plane's range
 * Good acceleration
 * Can carry highly manoeuvrable missiles, such as the all-aspect RB74 (Swedish license-built AIM-9L) with a 30G maximum overload
+* Equipped with a ballistic lead indicator to assist with gun aiming
 
 '''Cons:'''
 

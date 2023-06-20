@@ -152,21 +152,74 @@ At this battle rating, proper usage of countermeasures is next to mandatory. The
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Type 25 (250 kg)|SAMP Type 21 (400 kg)|SNEB type 23|FZ49|DEFA 552A (30 mm)}}
-{{main|AIM-9B Sidewinder|AS-30 Nord|Matra R530|Matra R530E|Matra R550 Magic 1}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[DEFA 552A (30 mm)|30 mm DEFA 552A]] cannons (125 rpg)
+| || || || || 2 || ||
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| || || || 2 || || ||
+|-
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
+| || || || 2 || || ||
+|-
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| || || || 2 || || ||
+|-
+! [[SAMP Type 21 200 (400 kg)|400 kg SAMP Type 21 200]] bombs
+| || || || 2 || || ||
+|-
+! [[FZ49]] rockets
+| 7 || || || || || || 7
+|-
+! [[SNEB type 23]] rockets
+| || 18 || || || || 18 ||
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || || || || || || 1
+|-
+! [[AS-30 Nord]] missiles
+| || || || 1 || || ||
+|-
+! [[Matra R530]] missiles
+| || || || 1 || || ||
+|-
+! [[Matra R530E]] missiles
+| || || || 1 || || ||
+|-
+! [[Matra R550 Magic 1]] missiles
+| 1 || || || || || || 1
+|-
+! SEPR 844 rocket booster
+| || || 1* || || || ||
+|-
+! SEPR 844 tank
+| || || || || 1* || ||
+|-
+| colspan="10" | * The SEPR 844 oxidiser tank must be carried when equipping the SEPR 844 rocket booster
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 30 mm DEFA 552A cannon (250 rpg)
 * 2 x AIM-9B Sidewinder missiles
 * 2 x Matra R550 Magic 1 missiles
 * 1 x Matra R530 missile
 * 1 x Matra R530E missile
 * 2 x 250 kg SAMP Type 25 bombs (500 kg total)
+* 2 x 250 kg SAMP Type 25 200 bombs (500 kg total)
 * 2 x 400 kg SAMP Type 21 bombs (800 kg total)
+* 2 x 400 kg SAMP Type 21 200 bombs (800 kg total)
 * 14 x FZ49 rockets
 * 36 x SNEB type 23 rockets
 * 1 x AS-30 Nord missile
+{{Navigation-End}}
 
 The Mirage IIIE comes with a pair of DEFA 552A cannons, with 125 round per gun, for 250 rounds total. These guns output a moderate shell velocity (but high rate of fire), but the DEFA shells are extremely destructive, and can blow a wing off of even the sturdiest aircrafts, such as the [[F-4E Phantom II]]. The Air targets belt is composed only of HE, incendiary, tracers. Overall, the best pick of shells one could want for air-to-air combat. The Ground targets belt can pierce moderate armour, and are nothing to write home about. They will shred APCs and IFVs, but not MBTs.
 
@@ -183,51 +236,6 @@ As for ground attack, the Mirage III E carries the usual load of post-war French
 The AS-30 Nord missile is a MCLOS, AS-20 derived, heavy warhead HE missile. Only one can be carried, and it is quite hard to use, but the damage output on ground targets in mixed battles is enormous. It is not uncommon to score two kills with one missile.
 
 With the introduction of laser-guided weaponry, French nation players usually prefer the Jaguar A for the ground attack role.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 30 mm DEFA 552A cannons (125 rpg)
-| || || || || 2 || ||
-|-
-! 250 kg SAMP Type 25 bombs
-| || || || 2 || || ||
-|-
-! 400 kg SAMP Type 21 bombs
-| || || || 2 || || ||
-|-
-! FZ49 rockets
-| 7 || || || || || || 7
-|-
-! SNEB type 23 rockets
-| || 18 || || || || 18 ||
-|-
-! AIM-9B Sidewinder missiles
-| 1 || || || || || || 1
-|-
-! AS-30 Nord missiles
-| || || || 1 || || ||
-|-
-! Matra R530 missiles
-| || || || 1 || || ||
-|-
-! Matra R530E missiles
-| || || || 1 || || ||
-|-
-! Matra R550 Magic 1 missiles
-| 1 || || || || || || 1
-|-
-! SEPR 844 rocket booster
-| || || 1* || || || ||
-|-
-! SEPR 844 tank
-| || || || || 1* || ||
-|-
-| colspan="10" | * The SEPR 844 oxidiser tank must be carried when equipping the SEPR 844 rocket booster
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

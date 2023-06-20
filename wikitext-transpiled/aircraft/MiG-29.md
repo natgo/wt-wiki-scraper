@@ -141,12 +141,68 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|FAB-250M-54 (250 kg)|FAB-250M-62 (250 kg)|FAB-500M-54 (500 kg)|FAB-500M-62 (500 kg)}}
-{{main|ZB-500 incendiary|S-8KO|S-24B}}
-{{main|R-27ER|R-27R|R-27T|R-60|R-60M}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| || 4 || 4 || || 4 || 4 ||
+|-
+! [[FAB-250M-54 (250 kg)|250 kg FAB-250M-54]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[OFAB-250Sh (250 kg)|250 kg OFAB-250Sh]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[FAB-500Sh (500 kg)|500 kg FAB-500Sh]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[ZB-500 incendiary]] bombs
+| || 1 || 1 || || 1 || 1 ||
+|-
+! [[S-8KO]] rockets
+| || 20 || 20 || || 20 || 20 ||
+|-
+! [[S-24B]] rockets
+| || 1 || 1 || || 1 || 1 ||
+|-
+! [[R-27ER]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-27R]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-27T]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-60]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
+! [[R-60M]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
+! 1,500 l drop tanks
+| || || || 1 || || ||
+|-
+| colspan="8" | Maximum permissible loadout weight: 3,050 kg<br>Maximum permissible wing load: 1,525 kg<br>Maximum permissible weight imbalance: 1,200 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 1,500 l drop tank
 * 2 x R-60M missiles
 * 6 x R-60M missiles
@@ -165,59 +221,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 500 kg FAB-500M-62 bombs (2,000 kg total) <small>across 4 pylons</small>
 * 4 x 500 kg FAB-500M-54 bombs (2,000 kg total) <small>across 2 pylons</small>
 * 4 x 500 kg FAB-500M-54 bombs (2,000 kg total) <small>across 4 pylons</small>
+* 8 x 250 kg OFAB-250Sh bombs (2,000 kg total)
+* 6 x 500 kg FAB-500Sh bombs (3,000 kg total)
 * 4 x ZB-500 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 100 kg OFAB-100 bombs
-| || 4 || 4 || || 4 || 4 ||
-|-
-! 250 kg FAB-250M-54 bombs
-| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
-|-
-! 250 kg FAB-250M-62 bombs
-| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
-|-
-! 500 kg FAB-500M-54 bombs
-| || 1 || 1, 2 || || 1, 2 || 1 ||
-|-
-! 500 kg FAB-500M-62 bombs
-| || 1 || 1, 2 || || 1, 2 || 1 ||
-|-
-! ZB-500 incendiary bombs
-| || 1 || 1 || || 1 || 1 ||
-|-
-! S-8KO rockets
-| || 20 || 20 || || 20 || 20 ||
-|-
-! S-24B rockets
-| || 1 || 1 || || 1 || 1 ||
-|-
-! R-27ER missiles
-| || || 1 || || 1 || ||
-|-
-! R-27R missiles
-| || || 1 || || 1 || ||
-|-
-! R-27T missiles
-| || || 1 || || 1 || ||
-|-
-! R-60 missiles
-| 1 || 1 || 1 || || 1 || 1 || 1
-|-
-! R-60M missiles
-| 1 || 1 || 1 || || 1 || 1 || 1
-|-
-! 1,500 l drop tanks
-| || || || 1 || || ||
-|-
-| colspan="8" | Maximum permissible loadout weight: 3,050 kg<br>Maximum permissible wing load: 1,525 kg<br>Maximum permissible weight imbalance: 1,200 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -233,7 +240,7 @@ To use the radar variants of the R-27 to the fullest make sure to firstly enable
 
 '''CAS'''
 
-The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realistic. Equip your MiG-29 with 6 x FAB-500M-54 or FAB-500M-62 (the -54 version is lighter with almost the same explosive mass), add 2 R-60Ms optionally. Start heading to the battle area and go for a behind approach of the enemy spawn, this will allow you to take care of SPAAs or any other targets with a surprise. Once you found yourself a target, prepare to slow down to near Mach 1 and align your CCIP with the target, drop all or half of all the bombs on a 0.5 second fuse. Once bombs have been dropped, either start speeding off back to the airfield for more bombs, or make use of your R-60Ms to take care of any enemy air targets. Furthermore, make sure to swap your radar into IRST mode, as you do not carry any radar missiles and it will make you more stealthy to face off enemy jets. It is suggested to also take a mixed countermeasures loadout, it can help you dodge surface-to-air missiles and break their lock on.
+The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realistic. Equip your MiG-29 with 6 x FAB-500SH, add 2 R-60Ms optionally. Start heading to the battle area and go for a behind approach of the enemy spawn, this will allow you to take care of SPAAs or any other targets with a surprise. Once you found yourself a target, prepare to slow down to near Mach 1 and align your CCIP with the target, drop all or half of all the retarded bombs with a 0 second fuse (the bombs slowly fall on the target, allowing you to escape the blast while also instantly eliminating the target). Once the bombs have been dropped, either start speeding off back to the airfield for more bombs, or make use of your R-60Ms to take care of any enemy air targets. Furthermore, make sure to swap your radar into IRST mode, as you do not carry any radar missiles and it will make you more stealthy to face off enemy jets. It is suggested to also take a mixed countermeasures loadout, it can help you dodge surface-to-air missiles and break their lock on.
 
 '''Enemies worth noting'''
 

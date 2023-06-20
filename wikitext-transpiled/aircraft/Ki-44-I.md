@@ -153,7 +153,7 @@ When intercepting planes, it is crucial to know what the target is. If it is a b
 
 '''Pros:'''
 
-* Incredibly fast, leaves virtually any plane it faces in the dust at any altitude
+* Reasonably fast
 * Climb rate is better than most equivalent aircraft, at more than 25 m/s spaded
 * Excellent acceleration
 * Superior agility against other aircraft like F4U
@@ -187,6 +187,7 @@ When intercepting planes, it is crucial to know what the target is. If it is a b
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Ki-44 (Family)]]
 
 == External links ==

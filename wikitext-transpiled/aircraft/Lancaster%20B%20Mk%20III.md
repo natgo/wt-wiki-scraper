@@ -1,7 +1,7 @@
 {{About
-| about = British heavy bomber '''{{PAGENAME}}'''
-| usage = the other version
-| link = Lancaster B Mk I
+|about = British bomber '''{{PAGENAME}}'''
+|usage = other versions
+|link = Lancaster (Family)
 }}
 {{Specs-Card
 |code=lancaster_mk3
@@ -89,17 +89,17 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British heavy bomber {{Battle-
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|M.C. Mk.I (1,000 lb)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. Mk.I (250 lb)|M.C. Mk.I (500 lb)|M.C. Mk.I (1,000 lb)}}
 {{main|H.C. Mk.II (4,000 lb)|H.C. Mk.II (8,000 lb)|H.C Mk.I (12,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 14 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
-* 14 x 500 lb G.P. Mk.IV bombs (7,000 lb total)
-* 6 x 500 lb G.P. Mk.IV bombs + 8 x 250 lb G.P. Mk.IV bombs (5,000 lb total)
+* 14 x 250 lb M.C. Mk.I bombs (3,500 lb total)
+* 14 x 500 lb M.C. Mk.I bombs (7,000 lb total)
+* 6 x 500 lb M.C. Mk.I bombs + 8 x 250 lb M.C. Mk.I bombs (5,000 lb total)
 * 14 x 1,000 lb M.C. Mk.I bombs (14,000 lb total)
-* 1 x 1,000 lb G.P. Mk.I bomb + 6 x 500 lb G.P. Mk.IV bombs + 2 x 250 lb G.P. Mk.IV bombs (4,500 lb total)
-* 6 x 1,000 lb G.P. Mk.I bombs + 3 x 250 lb G.P. Mk.IV bombs (6,750 lb total)
+* 1 x 1,000 lb M.C. Mk.I bomb + 6 x 500 lb M.C. Mk.I bombs + 2 x 250 lb M.C. Mk.I bombs (4,500 lb total)
+* 6 x 1,000 lb M.C. Mk.I bombs + 3 x 250 lb M.C. Mk.I bombs (6,750 lb total)
 * 1 x 4,000 lb H.C. Mk.II bomb (4,000 lb total)
 * 1 x 4,000 lb H.C. Mk.II bomb + 6 x 1,000 lb M.C. Mk.I bombs + 2 x 250 lb G.P. Mk.IV bombs (10,500 lb total)
 * 1 x 8,000 lb H.C. Mk.II bomb (8,000 lb total)

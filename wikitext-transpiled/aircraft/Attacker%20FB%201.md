@@ -159,11 +159,11 @@ The attacker has multiple roles in air battles: fighter, interceptor, bomber and
 
 '''As fighter'''
 
-Despite its heavy-weight and lack of manoeuvrability, the attacker excels in boom and zoom attacks, no plane will be able to catch you when doing boom and zoom. Do not engage in turn fights as you will lose a tremendous amount of energy and the acceleration is not great to regain said lost energy, be aware when fighting a target.
+Do not engage in turnfights as you will lose a tremendous amount of energy and the acceleration is not great to regain said lost energy, be aware when fighting a target. Also, be aware that most enemies will have both better speed and acceleration and climb rate than you so you will need to adapt your playstyle accordingly.
 
 '''As interceptor/bomber hunter'''
 
-This should be the main role of the Attacker when there is no need for dogfighting. Its high speed, decent climb rate, superb firepower and superiority at high altitudes make the Attacker an excellent bomber hunter. Be aware of jet bombers you may encounter ([[Ar 234 B-2]], [[Ar 234 C-3]], [[IL-28]], etc) as they are able to outrun you most of the time. Some jet bombers, like the IL-28, will have superb defensive firepower which will do significant damage for whoever does not know how to engage them. When facing an IL-28, attack from the sides or from the bottom, do not try to tail him. Your armament is more than enough to cause fatal damage to any bomber you may encounter ([[He 177 A-5]] for example)
+This should be the main role of the Attacker when there is no need for dogfighting. Its high speed, decent climb rate, superb firepower and superiority at high altitudes make the Attacker an excellent bomber hunter. Be aware of jet bombers you may encounter ([[Ar 234 B-2]], [[Ar 234 C-3]], [[IL-28]], etc.) as they are able to outrun you most of the time. Some jet bombers, like the IL-28, will have superb defensive firepower which will do significant damage for whoever does not know how to engage them. When facing an IL-28, attack from the sides or from the bottom, do not try to tail him. Your armament is more than enough to cause fatal damage to any bomber you may encounter ([[He 177 A-5]] for example)
 
 '''As a strike aircraft'''
 
@@ -234,6 +234,7 @@ It continued in second-line service with the Royal Naval Volunteer Reserve until
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=attaker_fb1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

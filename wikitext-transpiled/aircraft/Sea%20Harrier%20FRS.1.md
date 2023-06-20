@@ -161,21 +161,47 @@ The 30 mm ADEN cannons are identical to those found on the GR.1/3 and the AV-8A/
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|H.E. M.C. Mk.13 (1,000 lb)|AIM-9G Sidewinder|AIM-9L Sidewinder|RP}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_Harrier_GR.3.png]]</div>
+|-
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
+| || 1, 2 || 1 || 1, 2 ||
+|-
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| || 1, 2 || 1 || 1, 2 ||
+|-
+! [[RP]] rockets
+| || 36 || || 36 ||
+|-
+! [[AIM-9G Sidewinder]] missiles
+| 1 || || || || 1
+|-
+! [[AIM-9L Sidewinder]] missiles
+| 1, 2 || || || || 1, 2
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9G Sidewinder missiles
 * 2 x AIM-9L Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles
 * 72 x RP rockets
 * 3 x 1,000 lb H.E. M.C. Mk.13 bombs (3,000 lb total)
+* 3 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (3,000 lb total)
 * 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
-* 5 x 1,000 lb H.E. M.C. Mk.13 bombs + 2 x AIM-9G Sidewinder missiles (5,000 lb total)
-* 5 x 1,000 lb H.E. M.C. Mk.13 bombs + 4 x AIM-9L Sidewinder missiles (5,000 lb total)
+* 4 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (4,000 lb total)
+* 2 x AIM-9G Sidewinder missiles + 5 x 1,000 lb H.E. M.C. Mk.13 bombs (5,000 lb total)
 * 2 x AIM-9G Sidewinder missiles + 72 x RP rockets
+* 4 x AIM-9L Sidewinder missiles + 5 x 1,000 lb H.E. M.C. Mk.13 bombs (5,000 lb total)
 * 4 x AIM-9L Sidewinder missiles + 72 x RP rockets
+{{Navigation-End}}
 
 '''AIM-9G Sidewinder missile:'''
 
@@ -193,29 +219,12 @@ A common bomb found on British aircraft, the Mk.13 can be employed with the onbo
 
 The Harrier can carry up to 72 RP rockets, these rockets are simple and can be aimed using the onboard CCIP. Each rocket is equivalent to 691.2 g of TNT and will require multiple hits to damage light vehicles to the point of destruction. However with only 10 mm of penetration these rockets will see little to no effect on MBTs or more thoroughly armoured vehicles.
 
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_Harrier_GR.3.png]]</div>
-|-
-! 1,000 lb H.E. M.C. Mk.13 bombs
-| || 1, 2 || 1 || 1, 2 ||
-|-
-! RP rockets
-| || 36 || || 36 ||
-|-
-! AIM-9G Sidewinder missiles
-| 1 || || || || 1
-|-
-! AIM-9L Sidewinder missiles
-| 1, 2 || || || || 1, 2
-|-
-|}
-
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+Use the Sea Harrier's quick takeoff and climb to ascend high above the normal altitude for battle, somewhere around 5-8 km depending on the map and approaching enemies. Due to the lacklustre turn capabilities and muzzle velocity of the cannons, it's not recommended to engage in dogfights. Instead, use your AIM-9Ls to your advantage and target enemies already engaged or simply oblivious to your presence above them. When done correctly and carefully, this can quietly get you 2-3 kills in a single flyout.
+
+Your cannons are also effective at destroying ground targets which can provide extra RP and SL once your missiles are expended. The Sea Harrier may also carry unguided rockets or bombs for additional ground pounding at the further expense of performance. However, it's important to note that you are at a disadvantage at lower altitude since you cannot climb as fast as other jets at the BR, and it's hard to shake off and outrun an opponent once they're on your tail. MiG-21s, F-5s, and J35s will easily outmanoeuvre you, and A-10s, Su-25s and Su-22s, while slower, can still outturn you and easily put you in their sights.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -231,6 +240,7 @@ The Harrier can carry up to 72 RP rockets, these rockets are simple and can be a
 * Subsonic in a bracket mostly populated with supersonic aircraft
 * Sluggish in its turn radius
 * Engines will overheat if run for too long at 100% throttle, management is required
+* Limited WEP
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -240,6 +250,7 @@ The Harrier can carry up to 72 RP rockets, these rockets are simple and can be a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=harrier_frs1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

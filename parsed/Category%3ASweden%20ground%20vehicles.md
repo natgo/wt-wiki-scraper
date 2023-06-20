@@ -92,6 +92,7 @@
 {{Tree-Unit|sw_pt_76b}}
 {{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|sw_sherman_3_4}}
 {{Tree-Skip}}
 |
 
@@ -151,10 +152,12 @@
 |
 {{Tree-Unit|sw_ikv_91_105}}
 {{Tree-Arrow}}
+{{Tree-Unit|sw_cv_9030_fin}}
+{{Tree-Arrow}}
 {{Tree-Unit|sw_strf_90b}}
 {{Tree-Arrow}}
 {{Tree-Unit|sw_strf_90c}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|sw_strv_103c}}
 {{Tree-Arrow}}

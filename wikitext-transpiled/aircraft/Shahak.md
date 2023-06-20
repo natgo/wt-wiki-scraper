@@ -130,44 +130,52 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Type 25 (250 kg)|SAMP Type 21 (400 kg)}}
-{{main|AIM-9D Sidewinder|Matra R530|Matra R530E|Shafrir 2}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| || 2 ||
+|-
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
+| || 2 ||
+|-
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| || 2 ||
+|-
+! [[SAMP Type 21 200 (400 kg)|400 kg SAMP Type 21 200]] bombs
+| || 2 ||
+|-
+! [[AIM-9D Sidewinder]] missiles
+| 1 || || 1
+|-
+! [[Matra R530]] missiles
+| || 1 ||
+|-
+! [[Matra R530E]] missiles
+| || 1 ||
+|-
+! [[Shafrir 2]] missiles
+| 1 || || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x Shafrir 2 missiles
 * 2 x AIM-9D Sidewinder missiles
 * 1 x Matra R530 missile
 * 1 x Matra R530E missile
 * 2 x 250 kg SAMP Type 25 bombs (500 kg total)
+* 2 x 250 kg SAMP Type 25 200 bombs (500 kg total)
 * 2 x 400 kg SAMP Type 21 bombs (800 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 250 kg SAMP Type 25 bombs
-| || 2 ||
-|-
-! 400 kg SAMP Type 21 bombs
-| || 2 ||
-|-
-! AIM-9D Sidewinder missiles
-| 1 || || 1
-|-
-! Matra R530 missiles
-| || 1 ||
-|-
-! Matra R530E missiles
-| || 1 ||
-|-
-! Shafrir 2 missiles
-| 1 || || 1
-|-
-|}
+* 2 x 400 kg SAMP Type 21 200 bombs (800 kg total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
