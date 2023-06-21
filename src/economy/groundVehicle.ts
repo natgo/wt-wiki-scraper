@@ -182,53 +182,50 @@ export function groundVehicle(
 }
 
 export function drive(vehicleData: GroundVehicle) {
-  if (vehicleData.VehiclePhys) {
-    const phys = vehicleData.VehiclePhys;
+  const phys = vehicleData.VehiclePhys;
 
-    let gearsF = 0;
-    let gearsB = 0;
-    if (phys.mechanics.gearRatios.ratio) {
-      phys.mechanics.gearRatios.ratio.forEach((element) => {
-        if (element > 0) {
-          gearsF++;
-        } else if (element < 0) {
-          gearsB++;
-        }
-      });
-    }
-
-    let synchro = 0;
-    let has_synchro = false;
-    if (gearsB === gearsF) {
-      phys.mechanics.gearRatios.ratio.forEach((element, i, array) => {
-        if (element + array[array.length - i - 1] === 0) {
-          synchro++;
-        }
-      });
-      if ((synchro - 1) / 2 === gearsB) {
-        has_synchro = true;
+  let gearsF = 0;
+  let gearsB = 0;
+  if (phys.mechanics.gearRatios.ratio) {
+    phys.mechanics.gearRatios.ratio.forEach((element) => {
+      if (element > 0) {
+        gearsF++;
+      } else if (element < 0) {
+        gearsB++;
       }
-    }
-
-    const speedAB = [
-      maxSpeed(phys, phys.mechanics.gearRatios.ratio.length - 1) * 1.1,
-      maxSpeed(phys, 0) * 1.1,
-    ];
-    const speedRB = [maxSpeed(phys, phys.mechanics.gearRatios.ratio.length - 1), maxSpeed(phys, 0)];
-
-    return {
-      mass: phys.Mass.Empty + phys.Mass.Fuel,
-      horsepower: phys.engine.horsePowers,
-      gears_forward: gearsF,
-      gears_backward: gearsB,
-      maxSpeedAB: speedAB,
-      maxSpeedRB: speedRB,
-      hydro_suspension: phys.movableSuspension ? true : undefined,
-      can_float: phys.floats ? true : undefined,
-      has_synchro: has_synchro ? true : undefined,
-      has_neutral: phys.mechanics.neutralGearRatio ? true : undefined,
-      has_dozer: vehicleData.modifications.tank_bulldozer_blade ? true : undefined,
-    };
+    });
   }
-  return undefined;
+
+  let synchro = 0;
+  let has_synchro = false;
+  if (gearsB === gearsF) {
+    phys.mechanics.gearRatios.ratio.forEach((element, i, array) => {
+      if (element + array[array.length - i - 1] === 0) {
+        synchro++;
+      }
+    });
+    if ((synchro - 1) / 2 === gearsB) {
+      has_synchro = true;
+    }
+  }
+
+  const speedAB = [
+    maxSpeed(phys, phys.mechanics.gearRatios.ratio.length - 1) * 1.1,
+    maxSpeed(phys, 0) * 1.1,
+  ];
+  const speedRB = [maxSpeed(phys, phys.mechanics.gearRatios.ratio.length - 1), maxSpeed(phys, 0)];
+
+  return {
+    mass: phys.Mass.Empty + phys.Mass.Fuel,
+    horsepower: phys.engine.horsePowers,
+    gears_forward: gearsF,
+    gears_backward: gearsB,
+    maxSpeedAB: speedAB,
+    maxSpeedRB: speedRB,
+    hydro_suspension: phys.movableSuspension ? true : undefined,
+    can_float: phys.floats ? true : undefined,
+    has_synchro: has_synchro ? true : undefined,
+    has_neutral: phys.mechanics.neutralGearRatio ? true : undefined,
+    has_dozer: vehicleData.modifications.tank_bulldozer_blade ? true : undefined,
+  };
 }
