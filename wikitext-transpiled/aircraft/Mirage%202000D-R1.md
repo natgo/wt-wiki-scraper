@@ -28,10 +28,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 2,226 || 2,159 || rowspan="2" | {{Specs|ceiling}} || 26.7 || 27.0 || 155.1 || 144.4 || rowspan="2" | 750
+| 2,238 || 2,162 || rowspan="2" | {{Specs|ceiling}} || 26.7 || 27.2 || 154.4 || 143.8 || rowspan="2" | 750
 |-
 ! Upgraded
-| 2.474 || 2,351 || 23.9 || 25.0 || 236.5 || 195.0
+| 2,444 || 2,340 || 24.4 || 25.5 || 233.3 || 192.0
 |-
 |}
 
@@ -58,7 +58,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,512<!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~13 || ~7
+| 1,512 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~13 || ~7
 |-
 |}
 
@@ -68,7 +68,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 910 || < 770 || < 650 || N/A
+| < 910 || < 770 || < 650 || -
 |-
 |}
 
@@ -90,7 +90,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 ! Weight (each) || colspan="2" | Type
 ! 10m fuel || 20m fuel || 30m fuel || 34m fuel
 |-
-| 1,450 kg || colspan="2" | Afterburning low-bypass turbofan
+| 1,515 kg || colspan="2" | Afterburning low-bypass turbofan
 | 8,782 kg || 9,743 kg || 10,724 kg || 11,119 kg || 14,236 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
@@ -133,7 +133,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
-** Without offensive armament
+** 16 x large calibre countermeasures
 ** 88 x large calibre countermeasures
 
 === Suspended armament ===
@@ -220,19 +220,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''Pros:'''
 
-* Has just about the same excellent flight characteristics as the 2000C-S5; very responsive engine and flight control surfaces.
-* Access to tier 1 countermeasures that give a total of 88 CMs; selection of flare/chaff to your choosing.
-* Stock R.550 Magic II all-aspect heat-seekers leaves you with plenty defensive firepower.
-* All-round great ground-pounding ordnance, including 4 types of laser guided bombs, 2 types of unguided bombs, and the vastly powerful AS-30L laser guided missiles!
-* Thermal camera pod lets you find ground targets with ease in combined battles.
-*External gunpod has access to 600 rounds, providing plenty of trigger time
+* Has excellent flight characteristics; very responsive engine and flight control surfaces
+* Access to tier 1 countermeasures that give a total of 88 CMs; selection of flare/chaff to your choosing
+* Stock R.550 Magic II all-aspect heat-seekers leaves you with plenty defensive firepower
+* All-round great ground-pounding ordnance, including 4 types of laser guided bombs, 2 types of unguided bombs, and the vastly powerful AS-30L laser guided missiles
+* Thermal camera pod lets you find ground targets with ease in combined battles
+* External gunpod has access to 600 rounds, providing plenty of trigger time
+* Being a strike aircraft does not increase the necessary spawn point in Ground RB
 
 '''Cons:'''
 
-* Relatively heavy when fully loaded with ordnance.
+* Relatively heavy when fully loaded with ordnance
 * Gunpod adds weight and drag, hindering the flight performance
-* Carrying countermeasures blocks the drogue chute, meaning landings take more time, especially if landing with ordnance.
-* LGB choice is limited to only one of 2x GBU-12, 1x GBU-16, 1x BGL-1000, or 1x GBU-24.
+* Carrying countermeasures blocks the drogue chute, meaning landings take more time, especially if landing with ordnance
+* Laser-guided bomb choice is limited to only one of 2 x GBU-12, 1 x GBU-16, 1 x BGL-1000, or 1 x GBU-24
+* Only 2 short-range missiles and 5 x 250 kg dumb bombs as armament when stock
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

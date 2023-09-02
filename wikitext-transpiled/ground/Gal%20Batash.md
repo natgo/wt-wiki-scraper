@@ -103,7 +103,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,000 (200) || 577 || N/A || N/A
+| Coaxial || 1,000 (200) || 575 || - || -
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -116,35 +116,41 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 | Pintle (commander) || 1,800 (200) || 600 || -10°/+60° || ±180°
 |-
-| Coaxial || 6,000 (200) || 600 || N/A || N/A
+| Coaxial || 6,000 (200) || 600 || - || -
 |-
 |}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Magach 6B Gal Batash is rather unique compared to other M60 variants, in the sense that it is one of the few versions to have composite armour protecting any part of the tank. With this said, it's still an M60, so brawling will not be especially effective, as most enemies will penetrate your armour without issue. The best "safe" use of the Gal Batash will be to utilize the good gunner sight to snipe enemies at range. The M426 round has very respectable stats for this BR, and since it's an M60, your height will make it slightly easier to look over hills and terrain. Alternatively, one can flank the enemy, taking enemy light vehicles by surprise and protecting your teammates from enemy flanking manoeuvres, whilst simultaneously holding the ability to attack enemy MBTs from the side. This tactic is generally reliable on maps with lots of foliage on the flanks, especially in up-tiers, where the effectiveness of your APFSDS round will be immensely diminished by the improved armour of your foes.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
 * Has access to the potent M426 APFSDS round
 * Good power-to-weight ratio because of the more powerful engine
+* LWS provides advance warning for enemy range finding, as well as laser guided ATGMs, bombs, etc.
 
 '''Cons:'''
 
-*
+* Poor survivability due to cramped interior and ammo storage layout
+* Composite does not stop most APFSDS rounds effectively
+* Poor gun handling
+* Track and diesel engine noise will often telegraph your position to nearby enemies
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Gal Batash was a limited-production upgrade for the Magach 6B Gal. It featured 4th Generation composite screens on the turret and side skirts, in addition to ERA blocks on the front of the hull for protection. In the fire control system department, the Magach 6B Gal Batash featured the Gal fire control system, a laser warning receiver, and tracks from the Merkava Mk.1.
+
+Translated from Hebrew, the word "Batash" translates roughly "to be secure".
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_6b_gal_batash Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -160,10 +166,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wikipedia:Magach|[Wikipedia] Magach]]
 
 {{TankManufacturer Israeli Ordnance Corps}}
 {{Israel medium tanks}}

@@ -11,18 +11,18 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 182''') is a premium gift rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was introduced in [[Update 1.57 "Battle March"]]. 
+The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 182''') is a premium gift rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was introduced in [[Update 1.57 "Battle March"]].
 
-As a purchasable bundle vehicle, this variant comes with premium bonuses and the experimental installation of a diesel power engine, increasing its mobility vastly. Besides this, the Sla.16 functions near identically to the in-tree regular variant. It fits into the 6.7 line-up very well and can be utilised greatly in battle because of its enhanced combat capabilities.
+As part of a purchasable bundle, this variant comes with premium bonuses and the experimental installation of a diesel engine, vastly increasing its mobility. But besides that, the Sla.16 works almost exactly like the regular tech-tree version. It fits very well into the 6.7 line-up and because of its enhanced combat capabilities, can be utilised in battle to great effect.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-The frontal armour of the Tiger II is average with its 150 mm sloped armor, and the turret armour, which is 185 mm flat armour, can be penetrated by a most of the tanks at its battle rating and a bit less when fighting in a down-tier, but still 90% of the tanks will penetrate your turret from the front. Angling this tank can save your driver and radio operator behind the thick front armour, but only them. You cannot angle the turret so it's a gamble if you end the game with the original gunner or your radio operator sitting in the gunner seat. 
+The frontal protection of the Tiger II is average with 150 mm sloped armour, while the 185 mm strong flat turret armour can be penetrated by most tanks at its BR and slightly fewer in a down-tier. Still, a large percentage of the tanks encountered in a typical battle will be able to penetrate the turret frontally. Angling this tank can save both driver and radio operator behind the comparatively thick frontal armour, but only them. Since it would be unwise to angle the turret, it's a matter of luck if the battle ends with the original gunner or the radio operator sitting in the gunner seat.
 
-The side and back armour are pitiful with only 100 mm at its thickest, some SPAA at the rank can penetrate the sides so it is advised to never show your back or sides to an enemy lest you want to go back to the hangar/garage. It is slightly more armoured then its non-premium counterpart with added tracks on the sides on the turret, adding an extra 30 mm of armour to the very weak sides.
+The side and back armour is weak, only 100 mm at its thickest. Some SPAA at rank IV can penetrate back and sides, so it is advised to always face the enemy to not be forced to go back to the hangar. The Sla.16 is slightly more armoured than its non-premium counterpart, with additional 30 mm thick tracks on the sides on the turret.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -30,7 +30,7 @@ The side and back armour are pitiful with only 100 mm at its thickest, some SPAA
 
 {{tankMobility|abMinHp=968|rbMinHp=663}}
 
-The top speed on-road forwards is around 42-44 km/h, and the reverse speed is surprisingly good at -11 km/h (RB). These speeds combined with neutral steering mean the {{PAGENAME}} is quite agile despite its heavy tank status. The engine has a lot of horsepower and climbing hills is surprisingly easy with this variant of the famed King Tiger.
+The top speed on-road is around 42-44 km/h, and the reverse speed is surprisingly good at -11 km/h (RB). These speeds combined with neutral steering mean the {{PAGENAME}} is quite agile despite its heavy tank status. The engine has a lot of horsepower, and climbing hills is surprisingly easy with this variant of the famed King Tiger.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -42,7 +42,7 @@ The top speed on-road forwards is around 42-44 km/h, and the reverse speed is su
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|KwK43 (88 mm)}}
 
-The main gun this Panzer beholds is the long-barreled 88 mm KwK43 gun. This gun performs astoundingly well for this BR, offering high muzzle velocity with more than enough post-penetration damage. The muzzle velocity of this gun sits at around 1,000 m/s for APCBC and 1,400 m/s for the APCR round, and also has HEAT shells, making it an exceptional sniper and brawler alike. The APCBC stock shell gets a fair amount of explosive filler with a wide knock-out capability upon penetration. This shell exceeds in ammo-racking enemy tanks, so aim for ammo stowage on the enemy vehicle. The APCR should only really be used for engagements on enemies you cannot punch through with APCBC alone, since it offers significantly higher penetration at the expense of post-penetration damage, making it a very situational round. The same can be applied to the HEAT shell for long-range, as penetration dropoff does not matter on angled armour layouts, but instead offers poorer penetration values.
+The main gun of this tank is the long-barreled 88 mm KwK43 cannon, which performs astoundingly well for this BR, offering high muzzle velocity with more than enough post-penetration damage. The muzzle velocity of this gun sits at around 1,000 m/s for APCBC and 1,400 m/s for the APCR round, and also has HEAT shells, making it an exceptional sniper and brawler alike. The APCBC stock shell gets a fair amount of explosive filler with a wide knock-out capability upon penetration. This shell excels in ammo-racking enemy tanks, so aim for ammo stowage on the enemy vehicle. The APCR should only really be used for engagements on enemies you cannot punch through with APCBC alone, since it offers significantly higher penetration at the expense of post-penetration damage, making it a very situational round. The same can be applied to the HEAT shell for long-range, as penetration drop-off does not matter on angled armour layouts, but instead offers poorer penetration values.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -152,7 +152,7 @@ If you somehow manage to see an enemy Tiger II from the side, try to land a shot
 * Front armour excels against most kinetic shells, though is lacking against APDS or HEAT shells that may be encountered
 * Enemy shells that penetrate the lower plate will likely have all of its damage absorbed by the transmission
 * Same small turret as the Tiger II H, but has 30 mm of track armour covering the entire exterior of the turret sides
-* Turret front is a small target, and the gun mantlet is large, offers ~340 mm of protection, and angled to an extent that can bounce most rounds
+* Turret front is a small target, and the gun mantlet is large, offering ~340 mm of protection, and angled to an extent that can bounce most rounds
 * Armed with 12-rounds, semi-automatic smoke grenade launcher
 * Thanks to its diesel engine, this tank has better acceleration and hill-climbing speed than the standard Tiger II (H)
 * Though a heavy tank, it is a very fast and highly manoeuvrable when running at full power
@@ -161,10 +161,10 @@ If you somehow manage to see an enemy Tiger II from the side, try to land a shot
 '''Cons:'''
 
 * While being a small target, most enemy tanks can penetrate the weakly armoured turret front
-* All 22 rounds in the first stage ammo rack are located in the back of the turret. Shells entering the back of the turret will likely lead to an ammo explosion
+* All 22 rounds in the first stage ammo rack are located in the back of the turret. Shells entering the back of the turret will likely lead to an ammo rack explosion
 * Both of the upper hull sides are lined with ammo. Any shells penetrating these areas almost always mean certain death
 * The APCR shells are lacklustre and inferior to most of the contemporary US APCR rounds
-* Terrible HEAT and HE shells. Load only a handful of HE shells for really soft targets.
+* Terrible HEAT and HE shells. Load only a handful of HE shells for really soft targets
 * Though the transmission will routinely eat enemy shells, that doesn't change the fact that the tank can still be immobilized from both front and rear shots
 * Still a heavy tank, most mediums will have no problems catching up/flanking the tank if the player is not paying attention
 * The roof mounted MG34 has a high rate of fire, but still only fires 8 mm bullets. Critically damaging enemy planes is unlikely
@@ -172,15 +172,17 @@ If you somehow manage to see an enemy Tiger II from the side, try to land a shot
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Sla.16 diesel engine developed by Simmering-Graz-Pauker from Vienna. With a power output of around 750 hp, it was considerably more powerful than Maybach engine used by the [[Tiger E|Tiger I]], [[Tiger II (H)|Tiger II]], and [[Panther A|Panther]] tanks that had 690 hp. The Sla.16 was also proposed as the power unit for the infamous super-heavy [[Maus|Maus]] tank. According to various of sources such as ''Military Engineer'' and ''Amazing Porsche and Volkswagen Story'', the engines were tested with positive results. The recommendation was that these diesel engines were to be attached to the heavy tanks and tank destroyers currently in production for increased efficiency of the vehicles. A diesel engine was mounted onto a Tiger II as a prototype built by Nibelungen Werke and went through testings, though results have not been found from this test. Further proposals also wanted the engine to be mounted in the Panther and Jagdtiger vehicles for increased power, but the war's constraint on supplies and Nazi Germany's capitulation resulted in the cancellation of these programs.
+The Sla.16 diesel engine developed by Simmering-Graz-Pauker from Vienna. With a power output of around 750 hp, it was considerably more powerful than Maybach engine used by the [[Tiger E|Tiger I]], [[Tiger II (H)|Tiger II]], and [[Panther A|Panther]] tanks that had 690 hp. The Sla.16 was also proposed as the power unit for the infamous super-heavy [[Maus|Maus]] tank. According to various of sources such as ''Military Engineer'' and ''Amazing Porsche and Volkswagen Story'', the engines were tested with positive results. The recommendation was that these diesel engines were to be attached to the heavy tanks and tank destroyers currently in production for increased efficiency of the vehicles. A diesel engine was mounted onto a Tiger II as a prototype built by Nibelungen Werke and went through testing, though results have not been found from this test. Further proposals also wanted the engine to be mounted in the Panther and Jagdtiger vehicles for increased power, but the war's constraint on supplies and Nazi Germany's capitulation resulted in the cancellation of these programs.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_VI_ausf_b_tiger_IIh_sla Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos

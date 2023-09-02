@@ -70,7 +70,7 @@ Being a near perfect copy of the [[T-54 (1951)]], the Tiran 4S offers very good 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | N/A || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 11.05 || rowspan="2" | 9.78 || rowspan="2" | 9.01 || rowspan="2" | 8.50
+| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | - || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
 | 5.9 || 7.0 || 8.5 || 9.4 || 10.0
@@ -94,7 +94,7 @@ Being a near perfect copy of the [[T-54 (1951)]], the Tiran 4S offers very good 
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''34'''  || 33&nbsp;''(+1)'' || 28&nbsp;''(+6)'' || 24&nbsp;''(+10)'' || 23&nbsp;''(+11)'' || 21&nbsp;''(+13)'' || 1&nbsp;''(+33)'' || No
+| '''34''' || 33&nbsp;''(+1)'' || 28&nbsp;''(+6)'' || 24&nbsp;''(+10)'' || 23&nbsp;''(+11)'' || 21&nbsp;''(+13)'' || 1&nbsp;''(+33)'' || No
 |-
 |}
 
@@ -112,7 +112,7 @@ Being a near perfect copy of the [[T-54 (1951)]], the Tiran 4S offers very good 
 |-
 | Pintle || 1,000 (250) || 500 || -10°/+60° || ±180°
 |-
-| Coaxial || 3,000 (250) || 500 || N/A || N/A
+| Coaxial || 3,000 (250) || 500 || - || -
 |-
 |}
 

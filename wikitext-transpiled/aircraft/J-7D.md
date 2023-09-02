@@ -61,7 +61,7 @@ Taking a look at J-7D, other than its default grey-tone camo and the PLAAF round
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || 500 || 450 || ~12 || ~6
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || 500 || 450 || ~17 || ~7
 |-
 |}
 

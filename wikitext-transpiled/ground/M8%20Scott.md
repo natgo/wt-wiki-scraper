@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened to '''{{specs|pseudonym}}''') is a rank {{Specs|rank}} American tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]].
+The '''75 mm Howitzer Motor Carriage M8 (M8 HMC)''' is a self-propelled howitzer vehicle used by the U.S. Army during World War II. It was built on the chassis of the Light Tank M5 and was armed with an M116 howitzer mounted on an M7 mount. Similarly to how the [[LVT(A)(4)]] evolved from the [[LVT(A)(1)]] as the 37 mm M6 tank gun proved insufficient for the fire support role, trials with a close-support version of installing the same 75 mm M2 howitzer began first with the Light Tank M3 chassis. However, such a design is inherently problematic as the tank is nose-heavy and can tilt forward during driving. They also deemed the fighting compartment to be extremely cramped. This design was immediately revised by transferring the same 75 mm M2 howitzer to the new Light Tank M5 chassis, which included a new engine and a new fighting compartment design with a well-sloped front that gave greater room and significantly improved protection. Following that, additional modifications were made, including replacing the fixed combat compartment with a new manually rotated turret mounting the same tank gun to allow greater space for the crew. The prototype was eventually designated the 75 mm Howitzer Motor Carriage M8.
 
-An infantry support variant of the [[M5A1]] light tank produced in World War II, the main difference in the {{PAGENAME}} is the open-top turret housing the 75 mm M2 howitzer. The 75 mm howitzer features large explosive shells, however it suffers from a relatively low muzzle velocity that hinders the long-range fighting performance of the {{PAGENAME}}.
+Introduced in [[Update 1.67 "Assault"]], the M8 HMC has a similar playstyle to the LVT(A)(4), but with a smaller profile and greater mobility. Since the primary 75 mm M2 howitzer fires low-velocity projectiles, long-range engagement is undesirable. However, given the low velocity of the shells, it is possible to engage opponents who are not in the line of sight, such as by moving behind low obstacles and firing shells in a short arc to target enemies behind the cover. Nonetheless, it is a unique vehicle with a different playstyle than the typical light tanks used by the U.S. Army ground forces in the early ranks.
 
 == General info ==
 === Survivability and armour ===
@@ -58,7 +58,7 @@ An infantry support variant of the [[M5A1]] light tank produced in World War II,
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|M2 Howitzer (75 mm)}}
 
-Thanks to its HEAT shell, the M8 Scott's firepower can handle everything with ease, from destroying soft targets with overpressure like the LVT(A) to knocking out common foes like the [[Chi-Ha (Family)|Chi-Ha]] with a single shot to piercing tough adversaries like the [[B1 bis|B1]] and [[Matilda III|Matilda]]. The extremely slow turret traverse makes close quarter combat super challenging. Its short gun is also bad for long range engagements: it requires the player to be crystal clear of what they are doing, and have great situational awareness to predict the enemies' location in order to make up for the slow turret traverse and slow muzzle velocity.
+Thanks to its HEAT shell, the M8 Scott's firepower can handle everything with ease, from destroying soft targets with overpressure like the LVT(A) to knocking out common foes like the [[Chi-Ha (Family)|Chi-Ha]] with a single shot to piercing tough adversaries like the [[B1 bis|B1]] and [[Matilda III|Matilda]]. The extremely slow turret traverse makes close quarter combat super challenging. Its short gun is also bad for long range engagements: it requires the player to be crystal clear of what they are doing, and have great situational awareness to predict the enemies' location in order to make up for the slow turret traverse and slow muzzle velocity.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -122,13 +122,13 @@ Tanks like the [[Pz.IV F2|Panzer IV F2]] and it's line of tanks can be a serious
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* When hull-down its double layer turret front can bounce some low-calibre or low-penetrating shells like the [[Pz.II (Disambiguation)|Pz.II]]s' 20 mm
-* Speed and mobility akin to the [[M5A1]] light tanks, allowing it to manoeuvre and flank with ease
+* When hull-down its double layer turret front can bounce some low-calibre or low-penetrating shells like the [[Pz.II (Disambiguation)|Pz.II]]s' 20 mm
+* Speed and mobility akin to the [[M5A1]] light tanks, allowing it to manoeuvre and flank with ease
 * Great firepower: thanks to its HEAT shell, the M8 can handle every vehicle it faces
 * Extremely rare gun depression of -20 degrees making it able to peek above almost every slope and launch surprise attacks
 * Short reload time for the calibre allows quick follow-up shots
 * Low muzzle velocity shell's parabolic path can allow for shooting over hills which can be surprisingly useful
-* 12.7 mm heavy machine gun is very lethal at the battle rating as most tanks have thin armour, for example the [[BT-7]], [[Marder III|Marder]]
+* 12.7 mm heavy machine gun is very lethal at the battle rating as most tanks have thin armour, for example the [[BT-7]], [[Marder III|Marder]]
 
 '''Cons:'''
 
@@ -172,6 +172,7 @@ File:M8 HMC pilot at Aberdeen Proving Ground.jpg|<small>An M8 Howitzer Motor Car
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+
 * [[wikipedia:Howitzer_Motor_Carriage_M8|[Wikipedia] Howitzer Motor Carriage M8]]
 * [https://www.tanks-encyclopedia.com/ww2/US/M8_Scott.php <nowiki>[Tank Encyclopedia]</nowiki> H.M.C. M8 "Scott"]
 * [https://www.militaryfactory.com/armor/detail.php?armor_id=496 <nowiki>[Military Factory]</nowiki> M8 Scott (Howitzer Motor Carriage M8)]

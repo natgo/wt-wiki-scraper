@@ -234,20 +234,22 @@ The MiG-21MF is equipped with a Sapphire-21 search and tracking radar. The radar
 
 '''Pros:'''
 
-* Access to four R-60 missiles with great tracking and G-tolerance
-* High AoA
-* Good ground attack loadouts
-* Light and agile
+* Access to four [[R-60]] missiles with great tracking and G-tolerance
+* High AoA, very agile and light
+* Middling ground attack loadouts
 * A small profile which is harder to hit
-* Decent fuel load allows for reheating for the whole match
-* Equipped with flares
+* Equipped with flares, chaff is available
+* One of the many MiG-21 variants capable of using a radar missile, being the [[R-3R]]
 
 '''Cons:'''
 
-* Terrible cannon armament
-* Terrible energy retention
+* Unsatisfactory cannon armament
+* Atrocious energy retention
 * No combat flaps
-* Insane fuel burn when using afterburners
+* Excessive fuel burn when using afterburner
+* Does not get [[R-13M1]] missiles
+* [[R-60]]s chase flares constantly
+* Using afterburner on the deck can overspeed the aircraft even in a slight climb
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

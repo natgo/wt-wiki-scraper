@@ -138,17 +138,44 @@ A focus should be done on the engine modules, as the G.91 lives by its T/W ratio
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|Aerea 559G1 incendiary}}
-{{main|AA-20 Nord|AS-20 Nord|FFAR Mighty Mouse|M3 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_G.91_pre-serie.png]]</div>
+|-
+! [[M3 Browning (12.7 mm)|12.7 mm M3 Browning]] machine guns (300 rpg)
+| || 2 || 2* ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1 || || || 1
+|-
+! [[Aerea 559G1 incendiary]] bombs
+| 1 || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || || || 19
+|-
+! [[AA-20 Nord]] missiles
+| 1* || || || 1*
+|-
+! [[AS-20 Nord]] missiles
+| 1* || || || 1*
+|-
+| colspan="6" | * Missiles cannot be equipped in conjunction with machine guns on hardpoint 3
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 4 x 12.7 mm M3 Browning machine guns (300 rpg = 1,200 total)
-* 4 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 4 x 12.7 mm M3 Browning machine guns + 38 x FFAR Mighty Mouse rockets
-* 2 x 12.7 mm M3 Browning machine guns + 2 x AS-20 Nord missiles
-* 2 x 12.7 mm M3 Browning machine guns + 2 x AA-20 Nord missiles
+* 2 x 12.7 mm M3 Browning machine gun + 2 x AS-20 Nord missiles
+* 2 x 12.7 mm M3 Browning machine gun + 2 x AA-20 Nord missiles
+* 4 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 4 x 12.7 mm M3 Browning machine guns + 2 x Aerea 559G1 incendiary bombs
+{{Navigation-End}}
 
 The M3 Browning is a new weapon in the Italian arsenal at this 5th tier and compared to the previous experiences a letdown. The rate of fire is phenomenal, but the small calibre and ammo size put a serious damper to the mood, that is in comparison of course. In practice and with good aim, it can easily shred four fighters. The high bullet velocity and fire rate is quite the advantage in the fast-paced world of jet combat, ensuring hits in deflection shots where the lower rate of fire found in the [[:Category:Fifth_rank_aircraft|Soviet jet fighters]] might have failed the pilot.
 

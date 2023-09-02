@@ -18,7 +18,7 @@ Overall the armour on the Tashkent leaves much to be desired. Ships at its battl
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-The Tashkent is one of the fastest destroyers in-game, faster than even the Cold war era ships like the [[Spokoinyy]] or the other destroyer leaders like [[Moskva]] or [[RN Attilio Regolo|Attilio Regolo]]. Compared to the previous destroyers, the Tashkent is like a bullet to an arrow. Taking into consideration the acceleration and mid-combat interferences, the speed can be dropped dramatically. However, this ship will have no problems with catching up that speed again. Manoeuvrability-wise, the Tashkent has much better capabilities compared to previous destroyers, especially rudder performance.
+The Tashkent is one of the fastest destroyers in-game, faster than even Cold War era ships like the [[Spokoinyy]]. Compared to the previous destroyers, the Tashkent is like a bullet to an arrow. Taking into consideration the acceleration and mid-combat interferences, the speed can be dropped dramatically. However, this ship will have no problems with catching up that speed again. Manoeuvrability-wise, the Tashkent has much better capabilities compared to previous destroyers, especially rudder performance.
 
 {{NavalMobility
 |SpeedForwardStockAB = 71
@@ -105,16 +105,20 @@ Assigned to the Black Sea Fleet, it was originally armed with 3 single gun mount
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_destroyer_pr20_tashkent Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer OTO}}
 {{USSR destroyers}}

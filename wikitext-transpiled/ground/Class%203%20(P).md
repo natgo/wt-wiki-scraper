@@ -35,7 +35,7 @@ When a round is fired at the centre of mass frontally, the double plate armour w
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 30 mm glacis (76°) <br> 29 mm lower frontal plate (20°) || 20 mm ''Top'' <br> 20 mm ''Bottom'' || 20 mm || 10 mm
+| Hull || 30 mm (76°) ''Glacis'' <br> 29 mm (20°) ''Lower frontal plate'' || 20 mm ''Top'' <br> 20 mm ''Bottom'' || 20 mm || 10 mm
 |-
 | Turret || 38 mm ''Turret front'' <br> 80 mm ''Gun mantlet'' || 16 mm || 20 mm || 10 mm
 |-
@@ -53,9 +53,10 @@ When a round is fired at the centre of mass frontally, the double plate armour w
 |-
 ! Internal armour !! Front (Slope angle) !! Sides !! Rear
 |-
-| Hull || 200 mm air <br> 38 mm second lower frontal plate (20°) || 10 mm air <br> 30 mm upper half plate || 5 mm
+| Hull || 200 mm (20°) ''Air'' <br> 38 mm (20°) ''Second lower frontal plate'' || 10 mm ''Air'' <br> 30 mm ''Upper half plate'' || 5 mm
 |-
-| Turret || 84 mm turret front first plate <br> 80 mm air  38 mm turret front second plate<br>80 mm ''Gun mantlet'' || 30 mm turret side first plate <br> 120 mm air 16 mm turret side second plate || N/A
+| Turret || 84 mm ''Turret front first plate'' <br> 80 mm ''Air'' <br> 38 mm ''Turret front second plat''e <br> 80 mm ''Gun mantlet'' || 30 mm ''Turret side first plate'' <br> 120 mm ''Air'' <br> 16 mm ''Turret side second plate''
+!
 |-
 |}
 
@@ -164,7 +165,7 @@ It may also be used in a playstyle of a fast MBT. While the hull of the Class 3 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Henschel Wehrtechnik TH200, TH600 and TH800 were a series of armoured vehicles developed in Germany in the early '80s as test vehicles that could undertake a wide variety of combat roles. These vehicles have a hull of welded steel armour that provides guaranteed protection to low and high calibre machinegun fire but lacks protection against anti-tank weaponry. A series of 3 versions were done: The TH200 4x4, the TH600 6x6 and TH800 8x8. Each one of the variants had their own combat roles.
+The Henschel Wehrtechnik TH200, TH600 and TH800 were a series of armoured vehicles developed in Germany in the early '80s as test vehicles that could undertake a wide variety of combat roles. These vehicles have a hull of welded steel armour that provides guaranteed protection to low and high-calibre machine gun fire but lacks protection against anti-tank weaponry. A series of 3 versions were done: The TH200 4x4, the TH600 6x6 and TH800 8x8. Each one of the variants had their own combat roles.
 
 '''TH200'''
 

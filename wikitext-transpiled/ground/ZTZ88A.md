@@ -18,9 +18,9 @@ An attempt of the PLAGF to modernize from the previous masses of [[ZTZ59 (Family
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-At first glance, the ZTZ88A still resembles a T-54 or its Chinese domestic counterpart, ZTZ59, but with a closer look at its hull, players will find that it is a new design. The UFP is more angled than the T-54's (67° vs 60°), so the base protection is slightly better than that of the T-54/T-62. Furthermore, thanks to the advancement in composite armour in China, it is also the first Chinese vehicle to be equipped with composite armour as an applique on UFP. Compared to similar hull armour seen on the Soviet [[T-55AM-1]] and [[T-62M-1]], the ZTZ88A has less chemical protection (around 380-420 mm) and 105 mm HEATFS may sometimes be able to damage the driver and fuel tanks towards the lower portion of the UFP. Angling the hull slightly can help mitigate this. Surprisingly, it has better kinetic protection than its Soviet contemporaries: the UFP can resist APFSDS rounds with less than around 180 mm of 60° penetration, so some US and Soviet offerings like 100 mm 3BM25, 105 mm M735, and even 125 mm 3BM15 are blocked. Unfortunately the ubiquitous 105 mm DM23/M111 round used by the [[Leopard A1A1]] for example will penetrate with few issues, but still, the ZTZ88A has one of the most protected hulls at its tier. 
+At first glance, the ZTZ88A still resembles a T-54 or its Chinese domestic counterpart, ZTZ59, but with a closer look at its hull, players will find that it is a new design. The UFP is more angled than the T-54's (67° vs 60°), so the base protection is slightly better than that of the T-54/T-62. Furthermore, thanks to the advancement in composite armour in China, it is also the first Chinese vehicle to be equipped with composite armour as an applique on UFP. Compared to similar hull armour seen on the Soviet [[T-55AM-1]] and [[T-62M-1]], the ZTZ88A has less chemical protection (around 380-420 mm) and 105 mm HEATFS may sometimes be able to damage the driver and fuel tanks towards the lower portion of the UFP. Angling the hull slightly can help mitigate this. Surprisingly, it has better kinetic protection than its Soviet contemporaries: the UFP can resist APFSDS rounds with less than around 180 mm of 60° penetration, so some US and Soviet offerings like 100 mm 3BM25, 105 mm M735, and even 125 mm 3BM15 are blocked. Unfortunately the ubiquitous 105 mm DM23/M111 round used by the [[Leopard A1A1]] for example will penetrate with few issues, but still, the ZTZ88A has one of the most protected hulls at its tier.
 
-The side armour was reduced to 60 mm, so do be aware of any vehicles with autocannons - at the tier, most autocannons have APDS or APFSDS at their disposal. The side skirts can help somewhat at angles. 
+The side armour was reduced to 60 mm, so do be aware of any vehicles with autocannons - at the tier, most autocannons have APDS or APFSDS at their disposal. The side skirts can help somewhat at angles.
 
 The turret, on the other hand, is poorly protected comparing to the hull. It is very similar to previous Soviet/Chinese dome-shaped turret designs with only slightly greater thickness. Unlike the [[ZTZ59D1]] and [[T-69 II G]], the ZTZ88A's turret does not have any ERA coverage, leaving it extremely vulnerable to stock HEATFS rounds as well as ATGMs, which are all commonly found at this tier. Thus the uncovered steel armour cannot provide much protection, if any, against ammunitions like APFSDS or HEATFS. Tanks that mainly use chemical rounds are especially more threatening, such as [[M551]] and [[BMP-1 (Family)|BMP-1]].
 
@@ -59,9 +59,9 @@ Like the previous Soviet/Chinese designs, the crew of 4 tankers is packed in a s
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-Thanks to improvements during the early 1980s, the ZTZ88A is equipped with a NORINCO 12150ZL engine with 730 hp, the same as the succeeding [[ZTZ96]], and the chassis has a new suspension offering a smoother ride. The 10% increase in weight compared to the [[ZTZ59D1]] is more than compensated by the 40% increase in engine power. This gives the ZTZ88A a vast improvement in power-weight ratio to about 19.0 hp/ton and thus better a top speed at 57 km/h compared to its predecessors. Although it is not quite as fast as NATO counterparts at similar tier, it is certainly a very welcome improvement. For comparison, the [[Leopard A1A1]] has about 19.6 hp/ton, the [[T-62M-1]] has about 16.4 hp/ton, and the [[M60A1 RISE (P)]] only has 14.1 hp/ton. Thanks to the improved horsepower, the ZTZ88A has a considerably faster hull traverse comparing to older tanks like the ZTZ59D1, which is helpful to angle the hull quickly or to wiggle through tight spaces. 
+Thanks to improvements during the early 1980s, the ZTZ88A is equipped with a NORINCO 12150ZL engine with 730 hp, the same as the succeeding [[ZTZ96]], and the chassis has a new suspension offering a smoother ride. The 10% increase in weight compared to the [[ZTZ59D1]] is more than compensated by the 40% increase in engine power. This gives the ZTZ88A a vast improvement in power-weight ratio to about 19.0 hp/ton and thus better a top speed at 57 km/h compared to its predecessors. Although it is not quite as fast as NATO counterparts at similar tier, it is certainly a very welcome improvement. For comparison, the [[Leopard A1A1]] has about 19.6 hp/ton, the [[T-62M-1]] has about 16.4 hp/ton, and the [[M60A1 RISE (P)]] only has 14.1 hp/ton. Thanks to the improved horsepower, the ZTZ88A has a considerably faster hull traverse comparing to older tanks like the ZTZ59D1, which is helpful to angle the hull quickly or to wiggle through tight spaces.
 
-The reverse speed however is slightly better at a -9 km/h, it might sound nowhere fast enough like its more agile foes (e.g. [[Leopard 1 (Family)|Leopard 1]], [[AMX-30 (Family)|AMX-30]], etc.), but it's at least some improvement over the T-54 family. This can be quite risky, meaning that the player must think carefully before peeking out of a cover/hill. 
+The reverse speed however is slightly better at a -9 km/h, it might sound nowhere fast enough like its more agile foes (e.g. [[Leopard 1 (Family)|Leopard 1]], [[AMX-30 (Family)|AMX-30]], etc.), but it's at least some improvement over the T-54 family. This can be quite risky, meaning that the player must think carefully before peeking out of a cover/hill.
 
 {{tankMobility|abMinHp=1131|rbMinHp=646}}
 
@@ -127,17 +127,17 @@ Although there are 23 shells in the ready rack, only 19 of them are protected by
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|DShK (12.7 mm)|SGMT (7.62 mm)}}
+{{main|Type 54 (12.7 mm)|SGMT (7.62 mm)}}
 
-The ZTZ88A still uses the same machine guns from the obsolete T-54s despite its introduction date in the early 1990s. The DShK is still sufficient to gun down strafing aircraft/helicopters or lighter vehicles but suffers from a small 50 round belt capacity, while the SGMT is only good for harassing enemies or sometimes targeting exposed crews.
+The ZTZ88A still uses the same machine guns from the obsolete T-54s despite its introduction date in the early 1990s. The Type 54 (DShK) is still sufficient to gun down strafing aircraft/helicopters or lighter vehicles but suffers from a small 50 round belt capacity, while the SGMT is only good for harassing enemies or sometimes targeting exposed crews.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[DShK (12.7 mm)|12.7 mm DShK]]
+! colspan="5" | [[Type 54 (12.7 mm)|12.7 mm Type 54]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 500 (50) || 600 || -5°/+60° || ±180°
+| Pintle || 500 (50) || 600 || -4°/+82° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -146,7 +146,7 @@ The ZTZ88A still uses the same machine guns from the obsolete T-54s despite its 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,500 (250) || 600 || N/A || N/A
+| Coaxial || 2,500 (250) || 600 || - || -
 |-
 |}
 

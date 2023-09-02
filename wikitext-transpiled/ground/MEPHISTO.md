@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The Véhicule de Combat Anti-Char, or MEPHISTO ({{Annotation|Module Élévateur Panoramique Hot Installé Sur Tourelle Orientable|elevated panoramic HOT launch module on rotating turret}}) was a pivotal chapter in the French military's anti-tank capabilities. Developed and introduced in the 1970s, with the first prototypes emerging around 1978, the MEPHISTO represents a significant leap forward in anti-armour warfare. Armed with the formidable HOT (Haut Subsonique Optiquement Téléguidé Tiré d'un Tube) anti-tank missile, the MEPHISTO serves as a versatile and potent anti-tank armoured platform. The integration of the HOT missile system onto the turret provides precise and long-range engagement capabilities against armoured threats, ensuring the protection of the platform. This historical timeline showcases France's commitment to arming its military with cutting-edge technologies, enabling it to effectively counter armoured adversaries and adapt to evolving battlefield dynamics.
+
+It was introduced in [[Update "Danger Zone"]]. The MEPHISTO is a powerful combat asset with advanced capabilities tailored for anti-armour warfare. Armed with the potent HOT anti-tank missile system, it possesses a long-range precision-strike capability against armoured targets, neutralizing threats from a safe distance. The platform's elevated panoramic observation system grants unmatched situational awareness through advanced targeting equipment, facilitating precise target identification even in challenging conditions. With a fully rotatable turret, the MEPHISTO adapts to dynamic combat scenarios by engaging threats from various angles. The synergy of the HOT missile system and panoramic observation ensures accurate engagement. Its modular design allows integration onto diverse armoured vehicles (such as the [[SANTAL]]), this version enhancing anti-armour capabilities while prioritizing crew safety with unmanned weapon systems. In combat, the MEPHISTO empowers the commander to confidently engage enemy armour, maintaining a tactical edge through its combined range, flexibility, and precision. This comprehensive system embodies France's dedication to sophisticated anti-armour platforms, bolstering the success of modern warfare operations.
 
 == General info ==
 === Survivability and armour ===
@@ -131,6 +133,7 @@ However, there are a couple of issues. The missile can only be fired when statio
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_vcac_mephisto Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

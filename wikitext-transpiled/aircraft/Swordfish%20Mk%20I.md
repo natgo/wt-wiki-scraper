@@ -178,6 +178,7 @@ If intercepted by an enemy aircraft, the best option is to call for help. The Sw
 * One rear-facing machine gun that may prove itself useful
 * Like in real life, unlike most aircraft, it is easy to control at low speeds
 * Engine cooling is great (does not overheat for a while even when on WEP)
+* Bombsight when using bombs allows for precise dropping of bombs
 
 '''Cons:'''
 

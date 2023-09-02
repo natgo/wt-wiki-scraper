@@ -5,14 +5,14 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German destroyer {{Battle-rating}}. It was introduced as a [[wt:en/news/5545-shop-fleet-cbt-announcement-pre-order-for-destroyers-and-discounts-for-existing-boat-pack-owners-en|premium pack]] in [[Update 1.79 "Project X"]] as part of the fleet closed beta test. It was removed from the store after the [[wt:en/news/6542-shop-the-new-year-sale-en|2019 Winter sale]], but was shortly reintroduced for the [[wt:en/news/6694-shop-may-sale-in-war-thunder-en|2020 May Sale]] purchasable in-game for 6,090 Golden Eagles {{ge}}. It was once again made unavailable for purchase after the naval tech tree split in [[Update "New Power"]].
+The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German destroyer {{Battle-rating}}. It was introduced as a [[wt:en/news/5545-shop-fleet-cbt-announcement-pre-order-for-destroyers-and-discounts-for-existing-boat-pack-owners-en|premium pack]] in [[Update 1.79 "Project X"]] as part of the fleet closed beta test. It was removed from the store after the [[wt:en/news/6542-shop-the-new-year-sale-en|2019 Winter sale]], but was shortly reintroduced for the [[wt:en/news/6694-shop-may-sale-in-war-thunder-en|2020 May Sale]] purchasable in-game for 6,090 Golden Eagles {{ge}}. It was once again made unavailable for purchase after the naval tech tree split in [[Update "New Power"]]. It was made available for purchase with Golden Eagles {{ge}} in-game briefly during the [[wt:en/news/8323--en|2023 "German Navy Day"]] mini-event.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
 
-The Z20 Karl Galster is not a very well protected destroyer. Unlike for example the [[Cowell (DD-547)]] (which possesses some armour) the Z20 has nothing to protect herself from enemy fire. The gun turrets are not fully shut (they are open at the back) which means that enemy HE fire will very easily knock out these turrets. However, armour doesn't really matter too much for a DD because they are too small to have effective armour anyway, but the Z20 feels very weak in terms of armour overall. If you play a [[Tashkent (leader)]] you will experience far more survivability because the crew members are better protected.
+The Z20 Karl Galster is not a very well protected destroyer. Unlike for example the [[USS Cowell]] (which possesses some armour) the Z20 has nothing to protect herself from enemy fire. The gun turrets are not fully shut (they are open at the back) which means that enemy HE fire will very easily knock out these turrets. However, armour doesn't really matter too much for a DD because they are too small to have effective armour anyway, but the Z20 feels very weak in terms of armour overall. If you play a [[Tashkent]] you will experience far more survivability because the crew members are better protected.
 
 The bridge of the Z20 is poorly protected. You will often get hit because it's a tempting target for the enemy, and it will prevent you from steering the ship. Your ammo magazines have no armour at all but is under the waterline. This will prevent HE shells from detonating these magazines which gives the Z20 more survivability. Cruisers with their 155/203 mm AP shells are able to travel to these magazines and will result in a citadel detonation.
 
@@ -36,17 +36,17 @@ The powerplant of the Z20 consists of Six Wagner boilers to produce steam. This 
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
-{{main|SK C/34 (127 mm)}}
+{{main|12.8 cm/45 SK C/34 (128 mm)}}
 
-The Z20 has 5 x 12.7 cm (5.0 in) SK C/34 guns, two each superimposed, fore and aft of the superstructure. The fifth mount is positioned on top of the rear deckhouse, so there are 2 guns facing forward and 3 facing backward. This is a disadvantage in comparison to other destroyers. The [[Haida (G63)]] and [[Tashkent (leader)]] have two dual-mounted gun turrets at the front of the ship. This gives them the ability to go nose in and fire 4 shells in one salvo, so they don't suffer too much when they protect their broadside. The Z20 has to give some broadside to fire all 5 guns. You can compensate this problem by using the tactic of "kiting". Fire a salvo and go nose in. When your guns are almost done reloading, turn the ship again to fire all 5 guns and repeat. The rudder allows you to do this but it only works when you are actively sailing your ship.
+The Z20 has 5 x 12.8 cm/45 SK C/34 guns, two each superimposed, fore and aft of the superstructure. The fifth mount is positioned on top of the rear deckhouse, so there are 2 guns facing forward and 3 facing backward. This is a disadvantage in comparison to other destroyers. The [[HMCS Haida]] and [[Tashkent]] have two dual-mounted gun turrets at the front of the ship. This gives them the ability to go nose in and fire 4 shells in one salvo, so they don't suffer too much when they protect their broadside. The Z20 has to give some broadside to fire all 5 guns. You can compensate this problem by using the tactic of "kiting". Fire a salvo and go nose in. When your guns are almost done reloading, turn the ship again to fire all 5 guns and repeat. The rudder allows you to do this but it only works when you are actively sailing your ship.
 
-Another disadvantage is that you only have 5 guns. The [[Haida (G63)]], [[Tashkent (leader)]], [[IJN Akizuki]], [[Sumner (DD-692)]] and others all have 6 or 8 guns. You only have 5 guns which puts you in a difficult position when knife fighting these destroyers. So the best thing you can do is to make sure you pick the fight, not the enemy. This is quite hard but use the terrain and your teammates to fight the enemies. Do not ever try to destroy a cruiser with your guns. There is no hope you can take a cruiser on your own with your guns. You will do minimal damage and the cruiser will destroy you quite easily. Only when you can perform a torpedo strike, go for the cruisers. But make sure it will have success. If you are sailing with another cruiser, you can support him by shooting at the enemy cruiser but make sure you are second or third in line.
+Another disadvantage is that you only have 5 guns. The [[HMCS Haida]], [[Tashkent]], [[IJN Akizuki]], [[USS Sumner]] and others all have 6 or 8 guns. You only have 5 guns which puts you in a difficult position when knife fighting these destroyers. So the best thing you can do is to make sure you pick the fight, not the enemy. This is quite hard but use the terrain and your teammates to fight the enemies. Do not ever try to destroy a cruiser with your guns. There is no hope you can take a cruiser on your own with your guns. You will do minimal damage and the cruiser will destroy you quite easily. Only when you can perform a torpedo strike, go for the cruisers. But make sure it will have success. If you are sailing with another cruiser, you can support him by shooting at the enemy cruiser but make sure you are second or third in line.
 
 The guns don't have the best firing arcs. You can only hit targets effectively under the range of 8 km. If the distance becomes greater than 8 km the shell will take 16 seconds to reach the target. You will have a minimal chance of getting a hit and you will waste ammo.
 
 As for ammo, you can take 600 pieces maximum. The Z20 comes with 3 types of ammo: Sprgr. L/4.4 Kpf.Z, Sprgr. L/4.4 Bd.Z and the Sprgr. L/4.4 Zt.Z. So the Kpf.Z shell is the high-explosive shell and will do the most damage to most of the ships. It is recommended to take about 400 shells of the Kpf.Z because this is the shell you will be firing most of the time, and about 200 shells of the Bd.Z because these can penetrate cruisers more effectively if needed. The Zt.Z shell is only useful against planes but the main guns of the Z20 don't allow you to fire effectively against planes, and it is almost completely useless against ships.
 
-{{:SK C/34 (127 mm)/Ammunition|12.7 cm Sprgr. L/4.4 Kpf.Z, 12.7 cm Sprgr. L/4.4 Bd.Z, 12.7 cm Sprgr. L/4.4 Zt.Z}}
+{{:12.8 cm/45 SK C/34 (128 mm)/Ammunition|12.8 cm Sprgr. L/4.4 Kpf.Z, 12.8 cm Sprgr. L/4.4 Bd.Z, 12.8 cm Sprgr. L/4.4 Zt.Z}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
@@ -117,9 +117,12 @@ After the German surrender on 8 May 1945, Z20 returned to her homeport of Kiel a
 {{Youtube-gallery|neFsLnNSatw|'''Premium Vehicles: Z20 Karl Galster''' - ''War Thunder Wiki''|zCiYZGT9Ipc|'''The Shooting Range #102''' - ''Metal Beasts'' section at 00:48 discusses the Type 1936 destroyer Z20 Karl Galster.}}
 
 == See also ==
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;[[Type 1936 (Family)|Related development]]
+* [[Z22 Anton Schmitt]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

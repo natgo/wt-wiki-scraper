@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' (ZBD86式步兵战车; industry code: WZ501) is the Chinese reverse-engineered version of the Soviet [[BMP-1]] which was acquired from military equipment exchanges with Egypt in the late 1970s. In the 1980s, during military modernization, the PLAGF faced a pressing need for a new IFV for its mechanized troops. As a result, one of the stored BMP-1s from Egypt was transported to Mainland China for evaluation. In order to expedite the development of a new IFV, the Central Military Commission approved plans to reverse-engineer the BMP-1, despite its underperforming gun systems. The WZ501 was subsequently built in December 1980, incorporating some domestic subsystems. However, due to testing and manufacturing flaws, engineers took nearly 8 years to finalize the design, making additional changes that happened to align with the improvements made to the later BMP-1 variants. The ZBD86 successfully passed state certification in 1986 and began production in April 1987, initially with placeholder gun systems. After failed attempts to introduce American and British turrets, the ZBD86 eventually received new 25/30 mm autocannon turrets in the late 1990s, becoming the ZBD86-I and ZBD86A respectively. These versions are still in service and recently competed with their ideological counterpart, the BMP-2, in the Army Games jointly held by Russia and Mainland China, where the ZBD86A demonstrated superior performance.
 
-A Chinese variant of the BMP-1, the ZBD86 is almost identical to the original Soviet version when stock, aside from the lack of rolled up canvas on the turret sides. But this vehicle has a secret weapon up its sleeve: the "ZBD86 Late" modification. This equips it with the HJ-73E ATGM, a very powerful derivative of the original "Malyutka" with SACLOS control and a tandem warhead. When used correctly, the HJ-73E annihilates anything the ZBD86 can meet regardless of protection from ERA or composite armour, making the ZBD86 useful in uptiers and a versatile vehicle.
+Introduced in [[Update 1.91 "Night Vision"]], the ZBD86 can be considered a Chinese variant of the BMP-1, being nearly identical to the original Soviet version when stock, with the exception of the absence of rolled-up canvas on the turret sides. However, this vehicle possesses a hidden advantage: the "ZBD86 Late" modification. This equips it with the HJ-73E ATGM, a highly potent derivative of the original "Malyutka" SACLOS control and a tandem warhead. When employed effectively, the HJ-73E can neutralize any target the ZBD86 encounters, irrespective of ERA or composite armour protection. This makes the ZBD86 a valuable asset in uptiers and a versatile vehicle overall.
 
 == General info ==
 === Survivability and armour ===
@@ -61,30 +61,30 @@ The modules and stock grind of the ZBD86 are very similar to the BMP-1. The main
 === Main armament ===
 {{Specs-Tank-Weapon|3}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|2A28 (73 mm)}}
+{{main|Type 85 (73 mm)}}
 
-The 2A28 main cannon is a somewhat finicky weapon. The penetration of the PG-9 HEAT round is no higher than the [[Type 62]]'s HEATFS but the muzzle velocity of 665 m/s is lower, making it difficult to use at long range. Still, the gun reloads in only 6 seconds and has an autoloader. It can be quite lethal at close quarters with careful aim and knowledge of enemy modules, these factors being important due to the limited post-penetration damage. For targets with larger volumes, it is best to aim for ammo racks. If that is difficult or risky, disable their gun and mobility first. PG-9 has a TNT equivalent of about 1.13 kg and might cause overpressure damage to light targets on occasion. Keep in mind that the {{PAGENAME}} does not feature any sort of stabilisation at all, and due to its light weight the gun is near impossible to get on target at speed.
+The Type 85 main cannon is a somewhat finicky weapon. The penetration of the PG-9 HEAT round is no higher than the [[Type 62]]'s HEATFS but the muzzle velocity of 665 m/s is lower, making it difficult to use at long range. Still, the gun reloads in only 6 seconds and has an autoloader. It can be quite lethal at close quarters with careful aim and knowledge of enemy modules, these factors being important due to the limited post-penetration damage. For targets with larger volumes, it is best to aim for ammo racks. If that is difficult or risky, disable their gun and mobility first. PG-9 has a TNT equivalent of about 1.13 kg and might cause overpressure damage to light targets on occasion. Keep in mind that the {{PAGENAME}} does not feature any sort of stabilisation at all, and due to its light weight the gun is near impossible to get on target at speed.
 
 There is almost no reason to use the HE round. Its muzzle velocity is an abysmal 290 m/s and it actually has less explosive content than the HEAT round, making it useless against armoured targets, it can only be used against open-topped ATGM carriers similar to the [[M113A1 (TOW) (China)|M113]] or super light ATGM carriers of BR 9.0+, like the [[Wiesel 1A2]] (but these will probably know better and just dodge).
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A28 (73 mm)|73 mm 2A28]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[Type 85 (73 mm)|73 mm Type 85]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -4°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || 19.04 || 26.35 || 32.00 || 35.39 || 37.65 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -4°/+30° || rowspan="2" | ±180° || rowspan="2" | - || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| 11.90 || 14.00 || 17.00 || 18.80 || 20.00
+| 11.9 || 14.0 || 17.0 || 18.8 || 20.0
 |-
 |}
 
 ==== Ammunition ====
-{{:2A28 (73 mm)/Ammunition|PG-9, OG-9}}
+{{:Type 85 (73 mm)/Ammunition|PG-9, OG-9}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BMP-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -106,6 +106,7 @@ The single ammunition rack consists of a shell barillet located around the turre
 {{Specs-Tank-Weapon|1}}
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
 {{main|HJ-73|HJ-73E}}
+
 '''HJ-73'''
 
 The {{PAGENAME}} comes with a rail-mounted manually-guided ATGM as stock, initially aimed manually and with somewhat mediocre penetration and explosive mass values. While occasionally useful, generally the main gun is easier and more reliable. Use it at long range against enemies who are not paying attention or to finish off a crippled target while the main gun is reloading. It does not have enough penetration to bypass ERA.
@@ -160,7 +161,7 @@ The {{PAGENAME}} comes equipped with a coaxial 7.62 mm PKT machine gun. This is 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,000 (1,000) || 700 || N/A || N/A
+| Coaxial || 2,000 (1,000) || 700 || - || -
 |-
 |}
 
@@ -173,7 +174,7 @@ The ZBD86 is a shoot-and-scoot type of vehicle as an exposed ZBD86 is a dead ZBD
 
 The ZBD86's HEAT shell can be formidable against light tanks and SPAAs since these vehicles tend to have smaller volumes and more tightly clustered crew. It is generally the best to aim for crew compartments so that the HEAT jet can do as much work as possible; the explosive content may or may not be able to trigger overpressure damage depending on the target and impact zone, so count it as a nice surprise if it happens. Vehicles equipped with stabilized autocannons like the [[Falcon]], [[Gepard]], or [[M3 Bradley]] can easily maul the thinly-protected ZBD86, so do not pop out in plain sight and do your best to disable them in one shot. ATGMs are typically better saved for armoured targets but it usually only takes one of them to blow a light target to smithereens.
 
-The HJ-73E is an enticing weapon since its tandem warhead and extremely high penetration (just come behind [[ADATS]], at 800 mm@ 0°) will maul any vehicle it meets. ERA-equiped tanks like the [[Magach 3 (USA)|Magach 3]], [[Sho't Kal Dalet (Great Britain)|Sho't Kal Dalet]], and [[Centurion Mk.5 AVRE]], which the original BMP-1 might struggle with, can be given a very rude surprise. Tough heavy tanks with steel armour can also be dispatched easily, making the ZBD86 a giant-slayer of sorts. Unfortunately, the HJ-73E travels slowly and is mounted on an upward-tilted launch rail like the basic HJ-73, which make it inconvenient to use at both close quarters and long range. Keep a healthy distance of at least 200 m from your target before launching the ATGM. For long distance engagements, try to use the HJ-73E against targets that are either immobile and not paying attention or exposed in the open without much cover. It is also important to stay close to cover yourself while launching the ATGM, as attentive enemies can deduce your location and guiding the missile requires staying in the line-of-sight and thus being at least partially exposed for the entire flight duration.
+The HJ-73E is an enticing weapon since its tandem warhead and extremely high penetration will maul any vehicle it meets. ERA-equiped tanks like the [[Magach 3 (USA)|Magach 3]], [[Sho't Kal Dalet (Great Britain)|Sho't Kal Dalet]], and [[Centurion Mk.5 AVRE]], which the original BMP-1 might struggle with, can be given a very rude surprise. Tough heavy tanks with steel armour can also be dispatched easily, making the ZBD86 a giant-slayer of sorts. Unfortunately, the HJ-73E travels slowly and is mounted on an upward-tilted launch rail like the basic HJ-73, which make it inconvenient to use at both close quarters and long range. Keep a healthy distance of at least 200 m from your target before launching the ATGM. For long distance engagements, try to use the HJ-73E against targets that are either immobile and not paying attention or exposed in the open without much cover. It is also important to stay close to cover yourself while launching the ATGM, as attentive enemies can deduce your location and guiding the missile requires staying in the line-of-sight and thus being at least partially exposed for the entire flight duration.
 
 A lucky opponent (and/or one with a lot of machine guns) may be able to shoot the HJ-73E out of the air due to its slow flight speed. If they attempt this, the counter is to guide the missile on a less predictable path while it makes its way to the target, only aiming directly when it gets close. A similar tactic can be helpful against enemies that are not immediately focusing on the ZBD86 but may react to a missile heading straight towards them; for example, launching and guiding the HJ-73E in a different direction while keeping them in view might fool them into thinking that you are aiming at another target, which does not arouse the same panic factor, but snapping your aim to them at the last second as a bootleg form of terminal guidance will leave them very little time to duck into cover or deploy smoke grenades. Remember that these kinds of fancy missile manoeuvres take longer, leaving the ZBD86 more exposed, so it is still best to prioritize unaware targets and use direct aim.
 
@@ -192,7 +193,7 @@ The ZBD86 can research NVD, which can help during night battles to increase visi
 * Remains competitive in uptiers with its autoloader, HEAT shells, and ATGMs
 * All ammunition types are default and as such have no cost
 * HJ-73E ATGM has extremely high penetration for its rank, counters ERA equipped tanks
-* Equipped with a night vision device 
+* Equipped with a night vision device
 
 '''Cons:'''
 
@@ -210,20 +211,7 @@ The ZBD86 can research NVD, which can help during night battles to increase visi
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-
-'''Development'''
-
-In the 1950s, Soviet armoured personnel carrier (APC) tactics consisted of lightly armoured vehicles that would transport soldiers to combat zones, and then head back behind the lines to safety. During this time, the West German Bundeswehr was using the Schützenpanzer Lang and infantry fighting vehicle (IFV) tactics, where the vehicles would work with the infantry and tanks in order to support them, especially against lightly armoured targets. The BMP was a Soviet IFV design created in the late 1950's. Some of the requirements were the ability for all of the infantry carried to be able to fire from within the vehicle, which was unseen before in IFV designs. It was intended to support the infantry and combat enemy light vehicles. The design placed emphasis on speed and manoeuvrability, potent armament, and sufficient armament to protect against 23 mm autocannons over the frontal arc. There was a debate over how the vehicle should be wheeled or tracked, and a number of options were explored including hybrid designs with both. The design that was chosen was a tracked vehicle with the engine in the front and the crew compartment in the rear; it was designated the Object 764. A prototype was created in 1964, and the final design was chosen in 1965 - an improved model called the Object 765. In service the production model was called the BMP-1.
-
-'''Design'''
-
-The BMP-1 features a fully tracked hull, with a sharply angled glacis at the front, a centrally mounted turret, and a crew compartment in the rear of the hull, with doors for the infantry to mount and dismount the vehicle. The hull layout is as follows: the engine was in the front right section of the hull. The driver sat to the front left of the vehicle, the commander sat right behind the driver, and the gunner sat in the right side of the turret. The troop compartment located at the rear of the vehicle could seat 8 infantry soldiers. The ability to fire from inside the vehicle was provided by four firing ports on each side of the hull and one in the left door. There are also four hatches in the roof. The infantry sit on two benches with padding, back to back, facing the outer sides of the vehicle. The armour of the frontal arc is enough to generally protect against 20 mm autocannon fire, the side armour generally protects against 12.7 mm machine gun fire, and the roof and rear armour protects against small arms fire and shell fragments. In addition, the sloped glacis on the front of the hull also increased the chances of shells bouncing, because of the extreme angles. The protection level depended somewhat on the version of the BMP-1 in question, as different nations had differing levels of armour quality. The main armament consisted of a 73 mm 2A28 Grom smoothbore semi-automatic cannon, along with a 9M14 Malyutka anti-tank guided missile (ATGM). Secondary armament consisted of a 7.62 mm PKT machine gun. The engine provides 300 hp, and is a six-cylinder four-stroke diesel engine. The suspension system used was a torsion bar suspension system. The BMP-1 is fully amphibious with little preparation. Before entering the water a trim vane has to be raised, which provides additional frontal armour when in the lowered position. It can achieve 65 km/h (40 mph) on road and 8 km/h (5 mph) in water.
-
-'''Production and Service'''
-
-Over 20,000 BMP-1s were produced in the Soviet Union alone, with many more produced in China and Czechoslovakia. The BMP-1 was widely exported and saw significant combat worldwide. BMP-1s participated in the Yom Kippur War, the Angolan Civil War, the Iran-Iraq War, the Gulf War, and many other conflicts. It was well liked for its manoeuvrability, but it was found that the cannon lacked effective range and the 9M14 ATGMs were hard to control. During the Gulf War it was found that the 25 mm Bushmaster cannon found on the M2/M3 Bradley could consistently penetrate the frontal armour of the BMP-1, even at range.
-
-'''Chinese Service'''
+{{main|BMP-1#History|l1=History of the BMP-1}}
 
 The People's Republic of China produced many Soviet vehicles such as the [[Type 59]]/[[T-54 (1951)|T-54]] and [[J-6A|J-6]]/[[MiG-19PT|MiG-19]] under license during its early years, when relations with the Soviet Union were cordial. However, the Sino-Soviet split starting from the early 1960s significantly toned down the cooperation between the two countries. When the BMP-1 first entered service around 1968, the Soviet Union was unwilling to share this new and novel vehicle with China. The BMP-1 was exported to numerous Soviet client states however, and some of these countries like Egypt were on good terms with China. A BMP-1 example was delivered to China from Egypt in the early 1980s and the design was subsequently reverse engineered into the '''ZBD86''', also known as "Type 86", entering service with the PLA in 1986.  The original ZBD 86 model was mostly identical to the BMP-1, featuring a copy of the 9M14 Malyutka ATGM called the "[[HJ-73]]", but since almost two decades had passed since the BMP-1's original introduction, the design was in need of improvements. The "NFV-1" variant was designed for export in collaboration with the American FMC company, featuring a [[M242 (25 mm)|25 mm M242 Bushmaster cannon]] in a redesigned turret. The NFV-1 did not enter service, but Chinese designers learned from the project that for IFVs, autocannons were significantly more practical than the original 73 mm low-velocity cannon. Subsequent models were all armed with autocannons. The ZBD 86-I was the first updated variant to enter mass production and was equipped with the same M242 cannon in an unusual overhead turret, apparently lacking ATGM capability, along with a more powerful engine. The modernized "ZBD86A" variant used ZPT99 30 mm autocannon (domestic version of [[2A72 (30 mm)|2A72]], imported in parallel to the BMP-3 turret brought from Russia) in an angular and more traditional turret that could once more mount an upgraded version coded [[HJ-73E]] which enhances its odds to fight back heavier vehicles .  Over 3,000 ZBD 86s have been produced and over 1,000 are still in service today. However, they have been supplanted in recent years by more advanced Chinese IFVs such as the ZBD04 series, which boast much better protection and armament.
 

@@ -16,7 +16,7 @@ The prototype of the T-34, known as the A-34, was the end result of almost five 
 
 The T-34 prototype presents some similarities and differences from its successor, the T-34 (1940). The front hull are identical, including the rather flat step for the driver right above his hatch's periscope. This spot only has a slope of 22° that gives only 48 mm effective armour. There are also two headlights in the front hull on both sides. Another significant detail on the hull is on the left hull on top of the track fender, which has a large rolled up canvas that is absent on the T-34 1940. Turret shape between the two tanks are about identical, with the exception of an extra light on top of the gun and a protruding antenna from the turret top's antenna mount.
 
-Otherwise, the T-34 prototype follows the trend of a heavily sloped hull on all sides with 45 mm on the front and 40 on all other sides. The T-34 prototype shares the same gun, same weight, and same armour as the T-34 mod. 1940 counterpart. However, the prototype has a higher engine power compared to the mass-produced T-34/76. This allows the prototype to gain speed and retain a higher max speed.
+Otherwise, the T-34 prototype follows the trend of a heavily sloped hull on all sides with 45 mm on the front and 40 on all other sides. The T-34 prototype shares the same gun, same weight, and same armour as the T-34 mod. 1940 counterpart.
 
 Several noticeable weak points on the T-34 prototype are the turret cheeks, which on the vertex areas are only 45.1 mm thick, allowing even 37 mm guns to penetrate from a reasonable range. Two weak points on the front hull are the step above the driver's hatch and the machine gun port, both of which have points of minimum sloping that degrades the full slope capability of the front hull. More precise shooters can also aim for the turret ring, which is only sloped enough to provide ~60 mm effective armour from all direction.
 
@@ -189,10 +189,12 @@ Tests of the vehicle in its first tactical deployment exposed a range of flaws, 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_t_34_1940_l_11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

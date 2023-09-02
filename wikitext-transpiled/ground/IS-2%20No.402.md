@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Chinese heavy tank {{Battle-rating}}. It was introduced during [[Update 1.95 "Northern Wind"]] in the [[wt:en/news/6562-shop-the-lunar-new-year-2020-en|2020 Lunar New Year Sale]].
+The '''IS-2 No.402''' is a special [[IS-2 (China)|IS-2]] heavy tank of historical significance during the Chinese People's Volunteer Army's participation in the Korean War. In November 1951, the IS-2 No.402 took part in the Battle of Ma Liangshan against enemy fortifications. Given the battlefield's rough terrain, the Chinese heavy artillery could not effectively engage the enemy fortifications. The IS-2 No.402 was used as an assault gun, engaging and destroying enemy fortifications with high-explosive shells. In that battle, the IS-2 No.402 destroyed 6 enemy fortifications (British), boosting the morale of the19th Infantry Division it was supporting. The second-class medal of merit was awarded to all crew members.
+
+Introduced in [[Update 1.95 "Northern Wind"]] during the [[wt:en/news/6562-shop-the-lunar-new-year-2020-en|Lunar New Year Sale 2020]], this premium vehicle, which is identical to the IS-2, has thick frontal armour and a large-calibre anti-tank gun. It is capable of engaging and eliminating any enemy tanks at its rank in a single shot. One thing to keep in mind when playing the IS-2 No.402 is to avoid angling the tank towards the opponent, as the hull side cheek armour is substantially weaker.
 
 == General info ==
 === Survivability and armour ===
@@ -198,22 +200,24 @@ When firing at extremely light-armoured targets such as the [[M19]], aim for whe
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 {{main|IS-2_(China)#History|l1=History of the IS-2 (China)}}
 
-=== IS-2 No.402 ===
-Little information about the No.402 IS-2 can be found. It is believed that this IS-2 tank belongs to the 1st Division of Volunteer Tank Division, and participated in the Ma Liangshan defensive counterattack in November 1951. In the battle, the No.402 IS-2 won awards for continuously destroying many (believed to be around 6) United Nation fortifications. The crew members were awarded the collective second-class merit, while the driver Wang Fengchi won the first-class merit. It is speculated that it may be the 1st Battalion and 2nd Company of the 3rd Regiment of Tanks of the Division ("Tanshan Model Company for Fortification Fighting"), which was assigned to the 191st Division of the 64th Army to participate in the counterattack.
+Little information about the No.402 IS-2 can be found. It is believed that this IS-2 tank belongs to the 1st Division of Volunteer Tank Division, and participated in the Ma Liangshan defensive counterattack in November 1951. In the battle, the No.402 IS-2 won awards for continuously destroying many (believed to be around 6) United Nation fortifications. The crew members were awarded the collective second-class merit. It is speculated that it may be the 1st Battalion and 2nd Company of the 3rd Regiment of Tanks of the Division ("Tanshan Model Company for Fortification Fighting"), which was assigned to the 191st Division of the 64th Army to participate in the counterattack.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_is_2_1943_no402 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

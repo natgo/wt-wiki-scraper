@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American tank destroyer {{Battle-rating}}. It was introduced during [[Update 1.65 "Way of the Samurai"]] as a reward vehicle for the [[wt:en/news/4416-special-war-thunder-winter-holiday-en|2016 "Winter Holiday"]] event. It was later reintroduced in [[wt:en/news/6120-news-how-can-you-get-premium-vehicles-warbonds-en|April 2019]] as a battle trophy vehicle in the [[Warbonds]] shop.
+The '''Amphibious Vehicle, Tracked, Armoured, Mark 4, 57 mm ZiS-2 - LVT(A)(4)(ZiS-2)''' is a special modification of the fourth armoured, infantry support variant of the [[LVT (Family)|Amphibious Vehicle, Tracked - LVT]]. The LVT(A)(4)(ZiS-2) was modified by the Chinese People's Liberation Army, which was based on the [[LVT(A)(4)]]. During the Chinese Civil War, the Chinese Nationalist Army deployed a large number of LVT(4)s and LVT(A)(4)s. Following the defeat of the Chinese Nationalist Army in 1949, the Chinese People's Liberation Army captured many of the LVT(4)s and LVT(A)(4)s. The Chinese People's Liberation Army removed the original turret mounting the 75 mm M2 howitzer and replaced it with the high-velocity 57 mm ZIS-2 anti-tank gun for dual anti-tank and infantry support purposes after the US stopped supplying ammunition for the original LVT(A)(4) to China after the Chinese Civil War ended.
 
-Being based off the LVT(A)(1) with the difference of a new turret that hosts a Soviet ZIS gun, offering much more firepower compared to its counterpart.
+Introduced in [[Update 1.65 "Way of the Samurai"]] as a reward vehicle for the [[wt:en/news/4416-special-war-thunder-winter-holiday-en|2016 "Winter Holiday"]] event, as well as in [[wt:en/news/6120-news-how-can-you-get-premium-vehicles-warbonds-en|April 2019]] as a battle trophy vehicle in the [[Warbonds]] shop, the LVT(A)(4) (ZiS-2) provides U.S. Army ground forces players with a very unusual tank that combines U.S. and Soviet philosophies. Despite its light armour, the LVT(A)(4) (ZiS-2) proves to be a formidable opponent when matched against opponents of similar ranks. The high-velocity 57 mm ZiS-2 anti-tank gun allows players to engage opponents from a significantly greater range than the original LVT(A)(4). The tank, however, is extremely vulnerable to aircraft strafing and artillery hits because of its high profile and open-top turret.
 
 == General info ==
 === Survivability and armour ===
@@ -126,7 +126,7 @@ You should memorise certain spots on different maps to make the most out of your
 * Are mostly flat (as your gun depression is bad and gun is mounted very high)
 * Have some vegetation, if possible
 
-This way you can sit at a comfortable spot, stay away from most dangers and target opponents that appear. The rather flat trajectory of your gun does not require as much elevation when shooting at distant targets which is beginner friendly, however the shell velocity is not fast, so you have to lead more than you think for moving targets. Because this is a sniper's tactic, if you are to bush up for better concealment, it is recommended to stack all bushes onto the upper front of the LVT. This is because you will mostly face targets from one direction only (your front) so you just have to cover up the front. The lower glacis does not need as much bush as it will usually get blocked by vegetations on the ground, acting as natural camouflage. 
+This way you can sit at a comfortable spot, stay away from most dangers and target opponents that appear. The rather flat trajectory of your gun does not require as much elevation when shooting at distant targets which is beginner friendly, however the shell velocity is not fast, so you have to lead more than you think for moving targets. Because this is a sniper's tactic, if you are to bush up for better concealment, it is recommended to stack all bushes onto the upper front of the LVT. This is because you will mostly face targets from one direction only (your front) so you just have to cover up the front. The lower glacis does not need as much bush as it will usually get blocked by vegetations on the ground, acting as natural camouflage.
 
 '''Enemies worth noting:'''
 
@@ -171,6 +171,7 @@ The haphazard way in which these conversions took place, as well as the lack of 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_lvt_4_zis_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -182,6 +183,7 @@ The haphazard way in which these conversions took place, as well as the lack of 
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

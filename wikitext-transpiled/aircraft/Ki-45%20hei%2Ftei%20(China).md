@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' , known to the Chinese forces by the name 重战 (Heavy fighter), is a premium rank {{Specs|rank}} Chinese twin-engine fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
+The '''{{Specs|name}}''' , known to the Chinese forces by the name 重战 (Heavy fighter), was the captured Ki-45 series in Northeastern China by the Communist forces by the end of WWII. IJAAF deployed some quantities of Ki-45 to Northeastern China to defend their assets in the area, most notably their steel mill; as well as the last-ditch weapon against Soviet forces near the Chinese borders. 3 of these Ki-45 in different variants were eventually rebuilt into a single aircraft for evaluation and teaching, leaving them practically useless during the later Civil War.
 
-Being a classed as a heavy fighter, the Ki-45 isn't the best in the manoeuvrability category. However, for a heavy fighter, it manoeuvres very well. It is even capable of out-turning aircraft such as the [[P-47D-25]]. Unlike heavy fighters of other nations, the Ki-45 series does not feature aircraft with large amounts of heavy weaponry. This is a major downside, considering how heavy fighters traditionally give up manoeuvrability and speed for armament. Instead, the Ki-45s utilize more of an equilibrium between manoeuvrability, speed, and armament. These are what makes the Ki-45 both a capable dogfighter, and bomber hunter.
+Introduced in [[Update 1.93 "Shark Attack"]] as one of the GE aircraft available, the Ki-45 was classified as a  heavy fighter. The Ki-45 isn't the best in the manoeuvrability category. However, for a heavy fighter, it manoeuvres very well. It is even capable of out-turning aircraft such as the [[P-47D-25]]. Unlike heavy fighters of other nations, the Ki-45 series does not feature aircraft with large amounts of heavy weaponry. This is a major downside, considering how heavy fighters traditionally give up manoeuvrability and speed for armament. Instead, the Ki-45s utilize more of an equilibrium between manoeuvrability, speed, and armament. These are what makes the Ki-45 both a capable dogfighter, and bomber hunter.
 
 This variant is a unusual hybrid between the [[Ki-45 hei|hei]] and [[Ki-45 tei|tei]] variants of the Ki-45. It has the fuselage mounted 20 mm Ho-3 cannon and lack of ordnance options of the former and the twin 20 mm Ho-5 cannons mounted behind the pilot in the "Schrage Musik" style of the latter. This makes it the most heavily armed Ki-45 currently available in the game, though it pays for this with a significantly higher battle rating. A great choice for bomber hunting, the low ammunition supplies make it unforgiving against fighters.
 
@@ -199,3 +199,4 @@ There were records suggesting that the Chinese Red Army Air Force (before the of
 {{AirManufacturer Kawasaki}}
 {{China twin-engine fighters and attackers}}
 {{China premium aircraft}}
+<references />

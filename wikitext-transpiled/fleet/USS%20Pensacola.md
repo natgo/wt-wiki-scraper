@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American heavy cruiser {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
+Laid down in 1926, the '''{{Specs|name}}''' (also called "Grey Ghost", a nickname given to her by Tokyo Rose) was the lead ship of the Pensacola class of heavy cruisers. She would be completed in February 1930, and notably was one of the first 6 ships to receive radar in 1940. She would see action in the Battle of the Santa Cruz Islands and the Battle of Tassafaronga, and also provided extensive fire support throughout the war in the Pacific, including at Wake and Okinawa. After the war, she would help to transport veterans before being subjected to two atomic blasts as a part of Operation Crossroads. After being studied, she was later sunk as a target ship in 1948.
+
+Introduced in [[Update 1.93 "Shark Attack"]], Pensacola is very similar to other American heavy cruisers, with a slightly lighter main battery than the [[USS New Orleans]] and a lower battle rating to compensate. Although the {{Annotation|HE|High-Explosive}} and {{Annotation|SAP|Semi-Armour Piercing}} shells are lacklustre, the ship does stand out with great penetration for the rank. With relatively weak armour, she does however have adequate secondaries, notably gaining access to proximity fused rounds for her {{Annotation|5-inch|127 mm}} guns; with a fast fire rate, these are excellent for shooting down aircraft and destroying lightly armoured ships.
 
 == General info ==
 === Survivability and armour ===

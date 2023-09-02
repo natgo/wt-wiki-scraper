@@ -124,4 +124,5 @@ As an upgraded Ognevoy, the Bezuprechny is able to dominate the littoral waters 
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer 61 Communards}}
 {{USSR destroyers}}

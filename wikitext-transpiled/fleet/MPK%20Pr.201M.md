@@ -90,4 +90,5 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet sub-chaser {{Battle-rat
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Krasny Metallist}}
 {{USSR sub-chasers}}

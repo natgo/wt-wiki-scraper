@@ -178,5 +178,6 @@ One 2C, No. 99 "Champagne", was given a new two-man cast turret with a 155 mm ho
 * [[wt:en/news/8033-development-char-2bis-the-beast-of-champagne-en|[Devblog] Char 2bis: the Beast of Champagne]]
 * [https://tanks-encyclopedia.com/ww2/france/fcm-2c.php <nowiki>[Tank Encyclopedia]</nowiki> Char 2C]
 
+{{Manufacturer FCM}}
 {{France heavy tanks}}
 {{France premium ground vehicles}}

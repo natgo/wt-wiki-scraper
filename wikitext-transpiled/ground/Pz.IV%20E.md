@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.45 "Steel Generals"]].
+The '''Panzerkampfwagen IV Ausführung E (Panzer IV E)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161''') is the fifth variant of the [[Pz.IV (Family)|Panzerkampfwagen IV medium tank family]]. Following the victory in Poland, the German Army ordered additional Panzer IV vehicles. This resulted in the Panzer IV E, which was essentially a slightly modified Panzer IV D variant. The structural framework of the Panzer IV E was identical to that of the earlier Panzer IV D. One of the few alterations was the addition of a new driver's visor. Another change was the replacement of the hatch door hinge design, which improved protection. The Panzer IV E's turret design was mostly unchanged from the preceding Panzer IV D variant. The commander's cupola was modified and reinforced. It had five vision ports, each of which was shielded by two sliding armoured coverings. In addition, the command cupola bulge that protruded from the rear armour plate was removed from the rear half of the turret. A fume ventilator and a modification of the signal port's protective cap shape were also added. From March 1941, all Panzer IV E vehicles would be equipped with a storage bin on the rear of the turret. By the end of the production phase in April 1941, approximately 200 complete tanks had been constructed.
+
+Introduced in [[Update 1.45 "Steel Generals"]], the Panzer IV E was a continuation of the Panzer IV medium tank family. While the Panzer IV E is capable of fighting more advanced adversaries thanks to increased protection and new HEAT ammunition, it is still largely similar to the previous Panzer IV C, and thus has similar gameplay.
 
 == General info ==
 === Survivability and armour ===
@@ -172,18 +174,22 @@ The tanks of this series were released between September, 1940 and April, 1941. 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_E Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

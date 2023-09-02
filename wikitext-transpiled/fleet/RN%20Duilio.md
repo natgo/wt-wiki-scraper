@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The RN Duilio, also known as the RN Caio Duilio, is the sister ship of the previous battleship, RN Andrea Doria, laid down on 24 February 1912, launched on 24 April 1913, and completed and entered into service on 10 May 1915. The ship took part only in exercises, the ship did not see any operations or missions because naval supremacy in the Mediterranean was in favour of the Axis. It was later refitted in the Ansaldo Shipyard in Genoa from 1937 until her return to service on 15 July 1940. The RN Duilio got one of the most extensive modernisations that was ever given to a dreadnought, including changes to the hull, powerplant, and armaments, resulting in a vessel that was almost unrecognisable as compared to before. The RN Duilio took part in several activities during WW2, though the ship never got a chance to engage another surface target and arguably the most interesting part of its service life was when it was torpedoed in Taranto by the Royal Navy. The ship continued serving in the Italian Navy after the war and was decommissioned in late 1956, being sold for scrap the next year.
+The RN Duilio, also known as the RN Caio Duilio, is the sister ship of the previous battleship, RN Andrea Doria, laid down on 24 February 1912, launched on 24 April 1913, and completed and entered into service on 10 May 1915. The ship took part only in exercises, the ship did not see any operations or missions because naval supremacy in the Mediterranean was in favour of the Allied Powers. It was later refitted in the Ansaldo Shipyard in Genoa from 1937 until her return to service on 15 July 1940. The RN Duilio got one of the most extensive modernisations that was ever given to a dreadnought, including changes to the hull, powerplant, and armaments, resulting in a vessel that was almost unrecognisable as compared to before. The RN Duilio took part in several activities during WW2, though the ship never got a chance to engage another surface target and arguably the most interesting part of its service life was when it was torpedoed in Taranto by the Royal Navy. The ship continued serving in the Italian Navy after the war and was decommissioned in late 1956, being sold for scrap the next year.
 
-Introduced in [[Update "Sky Guardians"]], RN Duilio is in its 1942 configuration. The ship's armament is very strong, the main armament consisting of two 320 mm twin turrets that can damage any ship you encounter without any problems, a secondary armament of four 135 mm twin turrets, very useful for destroying smaller targets such as destroyers and cruisers, and finally the anti-aircraft armament that in comparison to the [[RN Andrea Doria]] has been greatly enhanced, consisting of ten 90 mm cannons, nineteen 37 mm cannons and finally eight twin 20 mm cannons, provides decent protection from enemy aircraft. Its manoeuvrability and speed is also not bad for a battleship.
+Introduced in [[Update "Sky Guardians"]], RN Duilio is in its 1942 configuration. The ship's armament is strong, the main armament consisting of ten 320 mm guns with high penetration AP shells, a secondary armament of four 135 mm twin turrets, useful for destroying smaller targets such as destroyers and cruisers, and finally the anti-aircraft armament that in comparison to the [[RN Andrea Doria]] has been greatly enhanced, consisting of ten 90 mm cannons, nineteen 37 mm cannons and finally eight twin 20 mm cannons, provides decent protection from enemy aircraft. Its manoeuvrability and speed is also not bad for a battleship.
 
 == General info ==
 === Survivability and armour ===
@@ -39,11 +39,11 @@ Introduced in [[Update "Sky Guardians"]], RN Duilio is in its 1942 configuration
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
-{{main|135 mm/45 O.T.O. Mod. 1938 (135 mm)}}
+{{main|135 mm/45 O.T.O. Mod. 1937 (135 mm)}}
 
 ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
 
-{{:135 mm/45 O.T.O. Mod. 1938 (135 mm)/Ammunition|135 mm HE Dirompente, 135 mm APHEBC Perforante, 135 mm HE-TF Contro-aerea}}
+{{:135 mm/45 O.T.O. Mod. 1937 (135 mm)/Ammunition|135 mm HE Dirompente, 135 mm APHEBC Perforante, 135 mm HE-TF Contro-aerea}}
 
 === Anti-aircraft armament ===
 {{Specs-Fleet-AA}}
@@ -94,6 +94,10 @@ The RN Duilio took part in several activities during WW2, though the ship never 
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_battleship_caio_duilio Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+
+{{Youtube-gallery|d2u4SDVIf0M|'''RN Duilio - Andrea Doria-Class Battleship''' - ''Cmdr. Tyrael''}}
+
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
@@ -112,4 +116,5 @@ The RN Duilio took part in several activities during WW2, though the ship never 
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Regio Cantiere di Castellammare di Stabia}}
 {{Italy battleships}}

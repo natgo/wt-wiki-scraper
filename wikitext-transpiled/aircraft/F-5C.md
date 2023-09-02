@@ -17,7 +17,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American jet figh
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The F-5C is generally an all-round good fighter. It's not the fastest plane and not the most manoeuvrable, but the combination of its decent speed, acceleration, and manoeuvrability make it a joy to fly and fight in.
+The F-5C is generally an all-round good fighter. It's not the fastest plane and not the most manoeuvrable, but the combination of its decent speed, acceleration, and manoeuvrability make it a joy to fly and fight in. The F-5C has excellent turn rate and energy retention while maintaining a speed above Mach 0.85.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -178,6 +178,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
@@ -195,7 +196,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-In air RB, the F-5C can be played as both a support and offensive plane. In medium range engagements, it plays well as a support fighter, either baiting enemies to use up missiles with the large amount of flares/chaff or launching missiles at enemies who are chasing friendly aircraft to give a chance to let your teammate get in a better position. In close range engagements, with some effort you can stay on the tail of the enemy, if possible making the enemy pull as many manoeuvres as possible to slow them down so you can get a short burst from the respectable 20 mm cannons mounted in the nose. Due to the plane's characteristics, overshooting an enemy won't be the end of a dogfight, the F-5C is able bleed enough speed in a quick turn to get right back on the enemy if they don't take advantage of the overshoot or if they are going too slow to be able to make any quick counterattack. Being slow and at a disadvantage, which is bad for any other jet at this tier, is especially terrible for this plane. The weak engines compared to its adversaries and the wing shape combine to give you great AoA but poor energy retention. At speeds above Mach 0.9, this is not an issue, but any lower than 850 km/h you will start to lose speed rapidly in a sharp turn. It is therefore recommended to pick 1v1 fights against weaker aircraft or enlist the help of teammates to take down the enemy.
+In air RB, the F-5C can be played as both a support and offensive plane. In medium range engagements, it plays well as a support fighter, either baiting enemies to use up missiles with the large amount of flares/chaff or launching missiles at enemies who are chasing friendly aircraft to give a chance to let your teammate get in a better position. In close range engagements, with some effort you can stay on the tail of the enemy, if possible making the enemy pull as many manoeuvres as possible to slow them down so you can get a short burst from the respectable 20 mm cannons mounted in the nose. Due to the plane's characteristics, overshooting an enemy won't be the end of a dogfight, the F-5C is able bleed enough speed in a quick turn to get right back on the enemy if they don't take advantage of the overshoot or if they are going too slow to be able to make any quick counterattack. Being slow and at a disadvantage, which is bad for any other jet at this tier, is especially terrible for this plane. The weak engines compared to its adversaries and the wing shape combine to give you great AoA but poor energy retention. At speeds above Mach 0.9, this is not an issue, but any lower than 850 km/h you will start to lose speed rapidly in a sharp turn. It is therefore recommended to pick 1v1 fights against weaker aircraft or enlist the help of teammates to take down the enemy. Another useful tip when grinding with the F-5C is to take an 2000 lb bomb and 2 BLU-1 incendiary bombs to drop on one base before turning around and going back for air targets on the way back to the base. 
 
 In mixed ground  battles (RB), the F-5C is able to function as a light strike aircraft, while also being able to maintain air supremacy. The F-5C's versatile loadout of air-to-ground ordnance allows the player to choose what range they want to do air support, for example the 4 x AGM-12B loadout is great for medium range engagements against enemy ground units.
 
@@ -208,6 +209,7 @@ In mixed ground  battles (RB), the F-5C is able to function as a light strike ai
 * Has countermeasures
 * Guns are effective
 * Good turn rate
+* Great energy retention above Mach 0.85
 * Wide variety of weapon loadouts
 * Engine does not tend to overheat even in afterburners
 

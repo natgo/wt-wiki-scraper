@@ -88,13 +88,13 @@ With only a vertical 50 mm armour plate at the front, even some rank I guns can 
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''99''' || 73&nbsp;''(+26)'' || 47&nbsp;''(+52)'' || 32&nbsp;''(+67)'' || 0&nbsp;''(+99)'' || No
+| '''99''' || 74&nbsp;''(+25)'' || 48&nbsp;''(+51)'' || 33&nbsp;''(+66)'' || 1&nbsp;''(+98)'' || No
 |-
 |}
 '''Notes''':
 
 * Racks disappear when all shells in the rack have been loaded/shot.
-* Racks 1 to 3 emptied: 32&nbsp;''(+67)''
+* Racks 1 to 3 emptied: 33&nbsp;''(+66)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -164,6 +164,7 @@ The designation used for the captured Pz.Kpfw.lll German medium tank in the Red 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Panzer III (Family)|Related development]]
+
 * [[Pz.III J]]
 
 == External links ==

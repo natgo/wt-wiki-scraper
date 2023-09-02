@@ -1,10 +1,7 @@
 {{About
 | about = German destroyer '''{{PAGENAME}}'''
-| other
-| usage-1 = the British frigate
-| link-1 = HMS Leopard
-| usage-2 = other uses
-| link-2 = Leopard (Disambiguation)
+| usage = other uses
+| link = Leopard (Disambiguation)
 }}
 {{Specs-Card
 |code=germ_destroyer_class1924_leopard1932
@@ -56,11 +53,11 @@ Among the reserve bluewater ships Leopard is one of the slowest vessels, but it'
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
-{{main|12.7 cm SK C/34 (127 mm)}}
+{{main|12.8 cm/45 SK C/34 (128 mm)}}
 
-The main armament of the Type 1924 Leopard consists in three 127 mm naval cannons, one at the front of the ship and the other two at the back. These cannons can shoot three types of ammunition. First, the Sprgr. Kpf.Z HE shell with 2 kg of TNT equivalent and a muzzle velocity of 830 m/s. This is the standard ammo for this destroyer. Next is the Sprgr. Bd.z, a base-fused HE shell with more penetration in most cases but with less explosive mass, only 1.4 kg of TNT equivalent and the same muzzle velocity. Finally, the Sprgr. Zt.Z comes with the same amount of TNT and muzzle velocity as the Sprgr. Bd.Z but with a time fuse, which can be useful when engaging enemy aircraft.
+The main armament of the Type 1924 Leopard consists in three 128 mm naval cannons, one at the front of the ship and the other two at the back. These cannons can shoot three types of ammunition. First, the Sprgr. Kpf.Z HE shell with 2 kg of TNT equivalent and a muzzle velocity of 830 m/s. This is the standard ammo for this destroyer. Next is the Sprgr. Bd.z, a base-fused HE shell with more penetration in most cases but with less explosive mass, only 1.4 kg of TNT equivalent and the same muzzle velocity. Finally, the Sprgr. Zt.Z comes with the same amount of TNT and muzzle velocity as the Sprgr. Bd.Z but with a time fuse, which can be useful when engaging enemy aircraft.
 
-{{:SK C/34 (127 mm)/Ammunition|12.7 cm Sprgr. L/4.4 Kpf.Z, 12.7 cm Sprgr. L/4.4 Bd.Z, 12.7 cm Sprgr. L/4.4 Zt.Z}}
+{{:12.8 cm/45 SK C/34 (128 mm)/Ammunition|12.8 cm Sprgr. L/4.4 Kpf.Z, 12.8 cm Sprgr. L/4.4 Bd.Z, 12.8 cm Sprgr. L/4.4 Zt.Z}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}

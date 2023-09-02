@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
-It was removed from the Gaijin store after the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]] and is currently unobtainable in-game.
+It was removed from the Gaijin store after the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]] and is currently unobtainable in-game.
 
 It bears Egyptian air force insignia and roundels.
 
@@ -141,19 +141,44 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|ZB-360 incendiary}}
-{{main|S-3K|S-5K|S-24}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_Su-7BKL.png]]</div>
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[ZB-360 incendiary]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[S-3K]] rockets
+| 7 || 7 || 7 || 7 || 7 || 7
+|-
+! [[S-5K]] rockets
+| 16 || 16 || 16 || 16 || 16 || 16
+|-
+! [[S-24]] rockets
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 96 x S-5K rockets
 * 42 x S-3K rockets
+* 96 x S-5K rockets
+* 6 x S-24 rockets
 * 6 x 250 kg OFAB-250sv bombs (1,500 kg total)
 * 4 x 500 kg FAB-500M-54 bombs (2,000 kg total)
-* 4 x 500 kg FAB-500M-54 bombs + 2 x 250 kg OFAB-250sv bombs (2,500 kg total)
 * 4 x ZB-360 incendiary bombs
-* 6 x S-24 rockets
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

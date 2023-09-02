@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light cruiser {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+RN Attilio Regolo was a light cruiser of the Capitani Romani class, laid down on September 28, 1939, and completed and commissioned on May 14, 1942. Attilio Regolo had no opportunity to participate in actual wartime missions, on November 7, 1942 she was hit by a torpedo launched from the submarine HMS Unruffled, whose torpedo striking destroyed almost the entire bow, and she only returned to activity on September 8, 1943 in Genoa. According to armistice provisions, on September 9 she arrived at the height of the Gulf of Asinara, and was sent to assist the shipwrecked battleship Roma. Attilio Regolo carried out a total of 3 missions covering 1,962 miles for 113 hours of motion during Co-Belligerent service. After the war, she was transferred to La Spezia where she remained inactive pending the execution of the naval clauses of the Peace Treaty. She was decommissioned on July 26, 1948 and ceded to France, renamed Chateaurenault, and remained in service until October 1, 1962.
 
-The Attilio Regolo is a Capitani Romani-class scout cruiser that blurs the line between cruisers and destroyers. She is very large and heavily armed compared to destroyers, and at the same time is significantly faster than but lacks the armour protection of most cruisers.
+The Attilio Regolo, introduced with the initial Italian naval tree in [[Update "Starfighters"]], is a cruiser with good firepower, mobility, and manoeuvrability characteristics. Its 135 mm guns are perfect for battering destroyers and light cruisers, however, for more armoured targets it has a much harder time causing serious damage. The anti-aircraft armament gives you good cover from air attacks, and its manoeuvrability and speed allow it to dodge enemy shells and torpedoes. However, its survivability is not the best, as it is very lightly armoured.
 
 == General info ==
 === Survivability and armour ===
@@ -52,11 +52,11 @@ Thanks to its four Thornycroft boilers and four Parsons turbines which together 
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
-{{main|135 mm/45 O.T.O. Mod. 1938 (135 mm)}}
+{{main|135 mm/45 O.T.O. Mod. 1937 (135 mm)}}
 
-The 8 x 135 mm/45 O.T.O Mod. 1938 are divided into 4 turrets allowing the ship to use at least half of its armament at any angle. The HE Dirompente is underwhelming with only 23 mm of penetration at any angle, and an explosive mass of 1.8 kg. This shell is unreliable and should be avoided after the APHEBC Perforante and the HE-TF Contro-aerea shells are unlocked. The APHEBC Perforante is the most reliable shell used on the Attilio Regolo with a penetration of 174 mm at 1,000 m, and an explosive mass of 1.47 kg. The HE-TF Contro-aerea shell shares almost all of its characteristics with the HE Dirompente, but has a time fuse added to it for use as an AA shell; with its versatility as an anti-air shell and as a normal HE shell, this is the second most reliable shell to have.
+The 8 x 135 mm/45 O.T.O Mod. 1937 are divided into 4 turrets allowing the ship to use at least half of its armament at any angle. The HE Dirompente is underwhelming with only 23 mm of penetration at any angle, and an explosive mass of 1.8 kg. This shell is unreliable and should be avoided after the APHEBC Perforante and the HE-TF Contro-aerea shells are unlocked. The APHEBC Perforante is the most reliable shell used on the Attilio Regolo with a penetration of 174 mm at 1,000 m, and an explosive mass of 1.47 kg. The HE-TF Contro-aerea shell shares almost all of its characteristics with the HE Dirompente, but has a time fuse added to it for use as an AA shell; with its versatility as an anti-air shell and as a normal HE shell, this is the second most reliable shell to have.
 
-{{:135 mm/45 O.T.O. Mod. 1938 (135 mm)/Ammunition|135 mm HE Dirompente, 135 mm APHEBC Perforante, 135 mm HE-TF Contro-aerea}}
+{{:135 mm/45 O.T.O. Mod. 1937 (135 mm)/Ammunition|135 mm HE Dirompente, 135 mm APHEBC Perforante, 135 mm HE-TF Contro-aerea}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
@@ -101,7 +101,9 @@ Basically, the RN Attilio Regolo is an excellent light support cruiser. It can p
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 [[File:RN Attilio Regolo History 1.png|thumb|400px]]
-The Attilio Regolo was a Capitani Romani class light cruiser designed to counter and catch the Mogador, and Le Fantasque class French destroyers in 1939. On November 7th 1942 the ship was torpedoed by the British sub HMS Unruffled, which caused the ship to be dry docked until the armistice with a shattered bow. After the war the Regolo was transferred to the French navy and renamed the Chateaurenault (D 606) as a war reparation, before finally being decommissioned in 1961.
+The Attilio Regolo is a light cruiser of the Capitani Romani class, laid down on Sept. 28, 1939, completed and commissioned on May 14, 1942, Attilio Regolo had no opportunity to participate in actual wartime missions, on Nov. 7, 1942 she departed the Port of Palermo to carry out the laying of a mine barrage, while she was laying mines at 10: 24 of Nov. 8 he was hit by a torpedo launched from the Submarine HMS Unruffled, whose torpedo striking destroyed almost the entire bow, was towed to the port of Palermo for repairs, however returned to activity only on Sept. 8, 1943 in Genoa, according to armistice provisions, was attached to the Eighth Division, on Sept. 9 arrived at the Gulf of Asinara, was sent to assist the survivors of the battleship Roma, whose was sunk after the second Fritz X headed on the main ammunition hold, the following day the Attilio Regolo arrived at Port Mahon in the Balearic Islands, where it remained until January 15, 1945, where on the same day it began repatriation to Taranto, where it arrived on January 23, after stopping 4 days in Algiers, Aggregated to the Seventh Division.
+
+Since her return to Italy the Attilio Regolo carried out a total of 3 missions covering 1,962 Miles for 113 hours of motion, After the war she was transferred to La Spezia where she remained inactive pending the execution of the naval clauses of the Peace Treaty, She was Disbarred from the Naval Cadre on July 26, 1948 by Presidential Decree of December 3, 1948. She assumed the recognition mark R.4 and was Ceded to France, in the Port of Toulon, on August 1, 1948, Renamed Chateaurenault and remained in service until October 1, 1962, the date of her disbarment from the French Navy.
 
 === [[wt:en/news/6732-development-attilio-regolo-the-upsized-destroyer-en|Devblog]] ===
 During the 1930's, the Regia Marina was looking into building a type of 'ocean scout' vessel. Initially, the design work took inspiration from the Condottieri-class cruisers, but was soon abandoned in favor of a more compact and modern design. By the end of the decade however, the need for 'scout' vessels became somewhat redundant thanks to the advances in aviation and radar technology. As a result, the design was reclassified as a light cruiser and would serve as a flotilla leader.
@@ -116,6 +118,7 @@ Postwar, Attilio Regolo was handed over to France in 1948 as war reparations and
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_cruiser_capitani_romani_class_attilio_regolo Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''M3A3 Stuart''' is the third variant of the [[M3 Stuart (Family)|Light Tank M3 (Stuart) family]]. It features hull improvements inspired by the new [[M5 Stuart (Family)|Light Tank M5 (Stuart) family]], which was developed from the Light Tank M3 (Stuart) family (the M3A2 Stuart was never produced). Other enhancements to the original M3 light tank included a turret with a rear overhang to accommodate the SCR-508 radio and a welded hull with sloping armour 20° from the vertical on the front and sides. During World War II, the Chinese Kuomintang government equipped 48 such tanks through the lend-lease program and established the first tank battalion under the "China-U.S. First Temporary Tank Group" stationed in India. It is still painted in the typical olive green of the U.S. military. Since the troops stationed in India were fighting abroad and their equipment was leased from the U.S. and Britain, the heavy weaponry stationed in India was not imprinted with the Kuomintang's blue sky and white sun emblem. After World War II, the Chinese Nationalist Army deployed them all in the Chinese Civil War (primarily the Huai Hai campaign, specifically the Xubeng area), and many of them were captured by the Chinese People's Liberation Army. They became one of the primary armoured forces of the Chinese People's Liberation Army and served until they were decommissioned by the end of the 1950s.
+
+Introduced in [[Update 1.91 "Night Vision"]], the M3A3 light tank is a continuation of the M3 Stuart family that shares many similarities with other U.S. Army light tanks of rank I. Given the presence of sloping armour, the M3A3 provides significantly better protection than other light tanks in its rank. It improves survivability by preventing some small calibre shells from penetrating its frontal armour. However, since it is still a light tank, players should not rely heavily on its armour to exchange shots with adversaries.
 
 == General info ==
 === Survivability and armour ===
@@ -202,10 +204,12 @@ In the South Shandong campaign in January 1947, the Shandong and Central China F
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[M5 Stuart (Family)]]
 * [[M8 General Scott (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[A13 Mk II 1939]]
 
 == External links ==

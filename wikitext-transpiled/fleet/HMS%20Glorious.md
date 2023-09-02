@@ -122,4 +122,5 @@ During WW2, Glorious served in the Mediterranean, Indian Ocean, and in the Norwe
 
 * [[wt:en/news/7920-development-hms-glorious-an-outrageous-warship-design-en|[Devblog] HMS Glorious: An Outrageous Warship Design]]
 
+{{ShipManufacturer Harland and Wolff}}
 {{Britain battlecruisers}}

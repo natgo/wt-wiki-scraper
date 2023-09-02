@@ -248,36 +248,37 @@ The Kfir C.7 is one of the few aircraft with access to the very powerful [[Pytho
 * Amazing control authority at any speed
 * Above average acceleration below Mach 1, and one of the fastest acceleration in the game above Mach 1
 * Extremely fast, especially at high altitudes
-* Has long range Python IIIs with exceptional manoeuvrability
-* Able to take out 1 base if loaded with bombs
+* Has extremely powerful, long range Python 3 missiles with exceptional manoeuvrability
 * Ballistic computer for guns, bombs, and rockets
-* Extremely powerful Python 3 missiles
+* 10 km rangefinding radar can be helpful for locating targets in Simulator battles
+* Python 3 and AIM-9G missiles can be slaved to radar locks
 
 '''Cons:'''
 
 * Limited gun ranging radar which does not track or lock enemies
 * Delta wing configuration bleeds airspeed quickly while in a high G turn
-* 36 x countermeasures can be quickly used up, especially if split 50/50 between chaff and flares
-* Missiles are pointed down requiring you to pull alpha or be above the target to get a lock
-* No radar or radar-guided armament
-*
+* Only 36 countermeasures, which can be quickly used up, especially if split 50/50 between chaff and flares
+* Missiles are pointed down, requiring you to pull alpha or be above the target to get a lock
+* Rangefinder radar only
+* Although the Pythons and the AIM-9G have radar slaving, which target is locked by the radar cannot be controlled
+* No radar-guided armament
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-In the 1960s, French and Israeli engineers worked together to develop the [[Mirage 5F|Dassault Mirage 5]], successor to the [[Mirage IIICJ|Mirage III]], tailored specifically to the requirements of the Israeli Air Force (IAF). Israel funded a large part of the project by purchasing a total of 50 aircraft in advance of their production. The deal eventually fell through when France enacted an arms embargo on Israel following its preemptive strike at the start of the 1967 Six-Day War - an action that the French had explicitly warned Israel not to take. Though Israel was eventually reimbursed for its payments, the Mirage 5 was never supplied.
+In the 1960s, French and Israeli engineers worked together to develop the [[Mirage 5F|Dassault Mirage 5]], successor to the [[Shahak|Mirage III]], tailored specifically to the requirements of the Israeli Air Force (IAF). Israel funded a large part of the project by purchasing a total of 50 aircraft in advance of their production. The deal eventually fell through when France enacted an arms embargo on Israel following its preemptive strike at the start of the 1967 Six-Day War - an action that the French had explicitly warned Israel not to take. Though Israel was eventually reimbursed for its payments, the Mirage 5 was never supplied.
 
 To circumvent the embargo, Israel collaborated with the Dassault Aviation company to smuggle blueprints and materials out of France to construct their own copy of the Mirage 5 - the [[Nesher|IAI Nesher]]. One of the most successful air superiority fighters of all time, the Nesher scored a staggering 111:3 kill ratio during the Yom Kippur War of 1973. This not only proved the merits of the Mirage 5's design, but also proved that Israel was now capable of manufacturing warplanes locally. This fact was of utmost importance to the Israelis: up until that point they had been completely dependent on the French to supply their aircraft, and were now left orphaned due to the embargo.
 
-Thanks to a gradual warming of relations with the United States, the IAF could begin arming itself with [[A-4H (Israel)|A-4H]] and [[F-4E Phantom II (Israel)|F-4E Phantom II]] jets, which served mostly as ground attackers; but neither could replace the Nesher as an air superiority fighter. With the looming threat of more advanced Soviet fighters entering service in the Arab air forces, Israel was keenly aware that the Nesher could not remain the top dog for long. Israel's response to this threat was to begin development of an advanced fighter jet based on the Mirage 5 design - one that could be manufactured ''from scratch'' in Israel.
+Thanks to a gradual warming of relations with the United States, the IAF could begin arming itself with [[A-4H (Israel)|A-4H]] and [[Kurnass|F-4E Phantom II]] jets, which served mostly as ground attackers; but neither could replace the Nesher as an air superiority fighter. With the looming threat of more advanced Soviet fighters entering service in the Arab air forces, Israel was keenly aware that the Nesher could not remain the top dog for long. Israel's response to this threat was to begin development of an advanced fighter jet based on the Mirage 5 design - one that could be manufactured from scratch in Israel.
 
 A major factor in the design of the new plane was its engine. Israel had already acquired a license to produce the powerful General Electric J79 turbojet - the engine used in the F-4E. Thus, it was decided that the new Mirage 5 variant would be built entirely around this engine. This required several major changes to the airframe, primarily a redesign of the fuselage and enlargement of the air intakes (even adding a small cooling intake in the tail). As per their usual doctrine, the Israelis also installed a completely new advanced avionics package into the cockpit, altering it significantly. Another, more noticeable feature was the addition of two small canards on either side of the intakes.
 
-The resulting aircraft, the ''IAI Kfir'' ("Lion Cub"), entered service in 1975. However, its primacy in the IAF was supplanted almost immediately by the arrival of the first F-15s in late 1976, and later by the [[F-16A Netz (Israel)|F-16s]]. The Kfir was therefore relegated to a fighter-bomber role during the 1982 Lebanon War.
+The resulting aircraft, the ''IAI Kfir'' ("Lion Cub"), entered service in 1975. However, its primacy in the IAF was supplanted almost immediately by the arrival of the first F-15s in late 1976, and later by the [[Netz|F-16s]]. The Kfir was therefore relegated to a fighter-bomber role during the 1982 Lebanon War.
 
 The Kfir C.7, being the third and most advanced variant of the Kfir in IAF service, was designed to fit the aircraft's new role "underneath" the F-15 and F-16. It was built more robustly, and carried a stronger version of the J79 engine that could help it take off with a heavier payload. It had additional hardpoints for carrying extra munitions, and much larger canards than the original design. All Kfir C.7s were in fact upgraded Kfir C.2s, rather than brand new planes.
 
-Despite being originally designed as an air superiority jet, the Kfir only scored a single aerial kill throughout its service in the IAF. Its last action in the IAF occurred during the 1993 Operation Accountability, after which it was gradually removed from service. An export version of the plane, however, was sold to Colombia, Ecuador and Sri Lanka, and still serves in their air forces in 2021, with constant upgrades. The plane took part in combat once again during the (1983-2009) Sri Lankan Civil War from 1996 after introducing the Kfir to it's Air Force.
+Despite being originally designed as an air superiority jet, the Kfir only scored a single aerial kill throughout its service in the IAF. Its last action in the IAF occurred during the 1993 Operation Accountability, after which it was gradually removed from service. An export version of the plane, however, was sold to Colombia, Ecuador and Sri Lanka, and still serves in their air forces in 2021, with constant upgrades. The plane took part in combat once again during the (1983-2009) Sri Lankan Civil War from 1996 after introducing the Kfir to their Air Force.
 
 === [[wt:en/news/7466-development-kfir-c-7-the-sharp-clawed-lion-cub-en|Devblog]] ===
 Immediately after the Six-Day-War, France imposed an arms export embargo on Israel, acutely highlighting the nation's dependence on foreign suppliers of military equipment. Despite the embargo, Israel managed to obtain documentation for the Mirage 5J version, which was developed specifically for the Israeli Air Force before the ban. These aircraft were produced commercially under the name IAI Nesher. But due to the end of supplies from France, Israel turned to the U.S. for assistance, procuring a number of new F-4 Phantom II and A-4 Skyhawk aircraft for its air force. However, when the air force compared the Nesher with the new F-4 Phantom, it realized that the Mirage was falling behind in several aspects. Therefore, plans to outfit Neshers with licence-built Phantom II engines - the General Electric J79 - were drawn up and soon afterward realized with the Kfir (Hebrew for "Lion Cub").

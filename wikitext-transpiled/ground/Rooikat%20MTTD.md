@@ -125,7 +125,7 @@ It used a regular production Rooikat hull with a completely new two-man turret. 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_rooikat_mttd Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|chjZ6Hra--c|'''Best wheeled tanks''' discusses the {{PAGENAME}} at 03:25 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|y2Ph0rmD5sU|'''Unmanned Turret Tanks: Showcasing New Tech''' discusses the {{PAGENAME}} at 04:35 - ''War Thunder Official Channel''|chjZ6Hra--c|'''Best wheeled tanks''' discusses the {{PAGENAME}} at 03:25 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

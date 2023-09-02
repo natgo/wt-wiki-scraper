@@ -93,7 +93,7 @@
 
 {{Tree-Line|II Rank}}
 |
-{{Tree-Group|yak-9_group|Yak-1|
+{{Tree-Group|yak-1_group|Yak-1|
   {{Tree-Unit|yak-1_early}}
 {{Tree-Arrow}}
 {{Tree-Unit|yak-1b}}
@@ -421,6 +421,7 @@
 {{Tree-Unit|mig-21_pfm}}
 {{Tree-Skip}}
 {{Tree-Unit|mig-21_s}}
+{{Tree-Skip}}
 
 {{Tree-Line|VII Rank}}
 |
@@ -450,6 +451,7 @@
 {{Tree-Skip}}
 {{Tree-Unit|su_25tm}}
 |
+{{Tree-Unit|su_25_558arz}}
 
 {{Tree-Line|VIII Rank}}
 |
@@ -478,6 +480,6 @@
 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|fKrdTWqmgAY|'''Yakovlev Aircraft''' - ''War Thunder Official Channel''|a3V1Ss-sIOs|'''USSR Air Forces Rank V - Tutorial and Guide''' - ''Jengar''|NRis-UEnGjI|'''USSR Air Forces Rank IV - Tutorial and Guide''' - ''Jengar''|BxECg8eQaQY|'''USSR Air Forces Rank III - Tutorial and Guide''' - ''Jengar''|IFPHS0Ak4wU|'''USSR Air Forces Rank II - Tutorial and Guide''' - ''Jengar''|p1PmpdL6XWU|'''USSR Air Forces Rank I - Tutorial and Guide''' - ''Jengar''|9-X9YgVk1G4|'''MiG Alert''' - ''War Thunder Official Channel''|i_s87Tc_Ycs|'''Climbing the ranks with USSR aircraft'''  - ''War Thunder Official Channel''}}
+{{Youtube-gallery|lYhmvF3E5PY|'''Soviet Fighters: Polikarpov’s Way''' - ''War Thunder Official Channel''|fKrdTWqmgAY|'''Yakovlev Aircraft''' - ''War Thunder Official Channel''|a3V1Ss-sIOs|'''USSR Air Forces Rank V - Tutorial and Guide''' - ''Jengar''|NRis-UEnGjI|'''USSR Air Forces Rank IV - Tutorial and Guide''' - ''Jengar''|BxECg8eQaQY|'''USSR Air Forces Rank III - Tutorial and Guide''' - ''Jengar''|IFPHS0Ak4wU|'''USSR Air Forces Rank II - Tutorial and Guide''' - ''Jengar''|p1PmpdL6XWU|'''USSR Air Forces Rank I - Tutorial and Guide''' - ''Jengar''|9-X9YgVk1G4|'''MiG Alert''' - ''War Thunder Official Channel''|i_s87Tc_Ycs|'''Climbing the ranks with USSR aircraft'''  - ''War Thunder Official Channel''}}
 
 [[Category:Aircraft by country]]

@@ -108,5 +108,6 @@ The torpedo launchers of the Aigle are located at two positions, 3 in the centre
 
 * [[wt:en/news/8115-development-french-navy-destroyer-aigle-en|[Devblog] French Navy: destroyer Aigle]]
 
+{{ShipManufacturer Ateliers et Chantiers de France}}
 {{France destroyers}}
 {{France premium ships}}

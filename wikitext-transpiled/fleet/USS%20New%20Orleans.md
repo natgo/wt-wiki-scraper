@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American heavy cruiser {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The '''{{Specs|name}}''' was the lead ship of the New Orleans class of heavy cruisers, the last of the American heavy cruisers to be built under the regulations of the Washington naval treaty, limiting her to 10,000 tons displacement. Laid down in 1931, she would enter service in 1934 and serve through World War Two, notably being at Pearl Harbour during the infamous attack. She would also take part in the Battle of the Coral Sea, Midway, and Tassafaronga, along with many others. After assisting with bringing troops home postwar, she was decommissioned in 1947.
+
+New Orleans was introduced in [[Update "New Power"]], and has similar firepower to other American pre-war heavy cruisers with her main battery of 3 triple {{Annotation|8-inch|203 mm}}. As she is a treaty-era cruiser, she had to make some sacrifices to maintain the 10,000 ton limit, and thus has rather thin armour for a heavy cruiser, lacking even in comparison to WW2-era light cruisers. In exchange she has good main battery firepower for the rank and a healthy secondary and anti-aircraft battery.
 
 == General info ==
 === Survivability and armour ===

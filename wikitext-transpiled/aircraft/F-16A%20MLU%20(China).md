@@ -70,7 +70,7 @@ Instead of [[F-16A|Block 10]] or [[F-16A ADF|Block 15 ADF]], in ROCAF's case, th
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < 680 || < 750 || < 700 || N/A
 |-
 |}
 
@@ -84,7 +84,7 @@ Instead of [[F-16A|Block 10]] or [[F-16A ADF|Block 15 ADF]], in ROCAF's case, th
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | Pratt & Whitney F100-PW-220 || 1
-| colspan="2" | 7,990 kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | 7,990 kg || colspan="2" | 403 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}

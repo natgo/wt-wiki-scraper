@@ -31,11 +31,15 @@ ZSU-57-2s were captured by Israel from Egypt and Syria during the Six-Day War in
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 13.5 mm (61°) ''Front glacis''
+15 mm (53°) ''Lower glacis''
+| 15 mm || 10 mm (17-49°) ''Top''
+6 mm (73°) ''Bottom''
+| 15 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 15 mm (14-57°) ''Turret front''
+15 mm (25-64°) ''Gun mantlet''
+| 13.5 mm (9-61°) || 13.5 mm (4-59°) || N/A
 |-
 |}
 
@@ -88,6 +92,7 @@ The BR-281U belt does not offer any extra penetration and thus should not be use
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|HE*|High-explosive fragmentation (self-destroying)}}{{-}}{{Annotation|APCBC|Armour-piercing capped ballistic capped}}
 * '''BR-281SP:''' {{Annotation|APCBC|Armour-piercing capped ballistic capped}}
 * '''OR-281U:''' {{Annotation|HE*|High-explosive fragmentation (self-destroying)}}
@@ -152,6 +157,7 @@ After being captured by Israel from Egypt and Syria during the 1967 war, they we
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_zsu_57_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

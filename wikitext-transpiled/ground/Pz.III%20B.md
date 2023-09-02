@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]].
+The '''Panzerkampfwagen III Ausführung B (Panzer III B)''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is the second variant of the [[Pz.III (Family)|Panzerkampfwagen III medium tank family]]. The Panzer III A variant's arrival into service provided the Germans with a foundation for the construction of an excellent medium tank. While the Germans were largely pleased with the overall concept and design, there was still plenty of space for enhancements and changes. The most serious flaw with the Panzer III A version was its unstable suspension. As a result, the Germans introduced a new variant, the Panzer III B, with the intention of improving the vehicle's suspension and other minor components. The commander's cupola was additionally enhanced by the addition of a new two-part hatch opening. The 37 mm Kampfwagenkanone (KwK) 36 L/46.5 tank gun with 121 rounds of ammo was the main armament of the Panzer III B variant. The secondary armament consisted of three 7.92 mm MG 34 light machine guns, two of which were mounted coaxially with the main gun and one in the hull. Despite being produced in small numbers, the Panzer III B variant saw service during the beginning of World War II. The Germans had no choice but to utilize the Panzer III B during the invasion of Poland in 1939 due to a lack of more advanced tanks.
+
+Introduced in [[Update 1.59 "Flaming Arrows"]], the Panzer III B is a basic medium tank that will eventually evolve into more advanced Panzer III variants later in World War II. It is significantly weaker than many other tanks of its rank, being armed with a 37 mm KwK36 L/46.5 tank gun. The tank is made of light armour plates and will struggle to protect the tank crew even from close-range heavy machine guns fire. As a result, this tank is practically weak to almost all vehicles in its rank from any angle. Nonetheless, it is a fairly ordinary medium tank with very few advantages and should be used with caution in battle.
 
 == General info ==
 === Survivability and armour ===
@@ -166,10 +168,12 @@ The suspension of the Pz.III A turned out to be too weak. The same year, a serie
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_III_ausf_B Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

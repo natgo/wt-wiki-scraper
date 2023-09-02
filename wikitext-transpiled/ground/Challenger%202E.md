@@ -173,7 +173,7 @@ The Challenger 2E has an advantage over most enemies at long range. While the ta
 '''Pros:'''
 
 * Very survivable armour profile
-* Advanced fire-control system
+* Advanced fire control system
 ** Modern night vision devices
 * Adequate firepower
 ** Overwhelming rate of fire
@@ -183,6 +183,7 @@ The Challenger 2E has an advantage over most enemies at long range. While the ta
 
 * Large and vulnerable weak spots
 * Minimal anti-air capabilities
+* Reload rate slows down significantly once ready rack is emptied
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -204,6 +205,7 @@ By 2005, the Challenger 2E project was entirely abandoned by BAE systems.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_2e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -215,9 +217,11 @@ By 2005, the Challenger 2E project was entirely abandoned by BAE systems.
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Challenger 2 (Family)]]
 
 ;Analogues in other nations
+
 * [[M1 Abrams (Family)]]
 * [[Leopard 2 (Family)]]
 * [[Leclerc (Family)]]

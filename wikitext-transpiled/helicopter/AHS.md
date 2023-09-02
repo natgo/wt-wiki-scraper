@@ -84,7 +84,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * Without load
 * 2 x RB 74 missiles
-* 8 x ATAS (AIM-92) missiles
+* 4 x ATAS (AIM-92) missiles
 * 76 x Hydra-70 M247 rockets
 * 8 x AGM-114B Hellfire missiles
 * 16 x AGM-114B Hellfire missiles
@@ -102,7 +102,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
 |-
 ! ATAS (AIM-92) missiles
-| 4 || || || || || 4
+|2|| || || || ||2
 |-
 ! RB 74 missiles
 | || 1 || || || 1 ||
@@ -133,6 +133,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ahs Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -144,6 +145,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[AH-64 (Family)]]
 
 == External links ==

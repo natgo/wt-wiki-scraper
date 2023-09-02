@@ -42,6 +42,7 @@ This vehicle is not to be confused with the Soviet uparmoured [[T-26E]]. The T-2
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 
 * Tracks and suspension wheels are 15 mm thick
+* Belly armour is 5 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -71,15 +72,17 @@ Unlike the [[Vickers Mk.E]] the T-26E uses the Soviet 45 mm 20-K cannon. This gu
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 50 || rowspan="2" | -6°/+22° || rowspan="2" | ±180° || rowspan="2" | N/A || 13.3 || 18.8 || __._ || __._ || 26.4 || rowspan="2" | 3.8 || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | 2.9
+| rowspan="2" | 50 || rowspan="2" | -6°/+22° || rowspan="2" | ±180° || rowspan="2" | - || 13.3 || 18.4 || 22.4 || 24.8 || 26.4 || rowspan="2" | 3.77 || rowspan="2" | 3.33 || rowspan="2" | 3.07 || rowspan="2" | 2.90
 |-
 ! ''Realistic''
-| 8.3 || 10.0 || __._ || __._ || 14.0
+| 8.3 || 9.8 || 11.9 || 13.2 || 14.0
 |-
 |}
 
 ==== Ammunition ====
-{{:20-K (45 mm)/Ammunition|BR-240, BR-240SP}}The APHEBC round has a good amount of HE filler, meaning penetrating shells will do good damage, sometimes even knocking out enemies with a single shot. At much longer ranges, shells begin to lose penetration and accuracy but on most common low tier maps this is not a problem due to the smaller map sizes. 
+{{:20-K (45 mm)/Ammunition|BR-240, BR-240SP}}
+
+The APHEBC round has a good amount of HE filler, meaning penetrating shells will do good damage, sometimes even knocking out enemies with a single shot. At much longer ranges, shells begin to lose penetration and accuracy but on most common low tier maps this is not a problem due to the smaller map sizes.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -112,13 +115,13 @@ The small calibre of the DT machine gun makes it largely ineffective against all
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial
-| 1890 (63) || 600 || N/A || N/A
+| Coaxial || 1,890 (63) || 600 || - || -
 |-
 |}
 
 == Usage in battles ==
-<!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->It is recommended to play the T-26E in a support role, flanking the battlefield and finding a good position to support your teammates from. The 45 mm cannon has quite good characteristics with its rounds (APHEBC, APBC) being able to deal a fair amount of damage to enemy vehicles from short and long ranges. The fast reload allows for quick adjustment of aim between shots, meaning the T-26E can be a highly effective flanking vehicle if a good camping spot is found. The limited gun depression, however, will affect which positions are usable. Keeping back at long-range is certainly an effective way to avoid taking damage.
+<!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+It is recommended to play the T-26E in a support role, flanking the battlefield and finding a good position to support your teammates from. The 45 mm cannon has quite good characteristics with its rounds (APHEBC, APBC) being able to deal a fair amount of damage to enemy vehicles from short and long ranges. The fast reload allows for quick adjustment of aim between shots, meaning the T-26E can be a highly effective flanking vehicle if a good camping spot is found. The limited gun depression, however, will affect which positions are usable. Keeping back at long-range is certainly an effective way to avoid taking damage.
 
 The lack of armour is something to be kept in mind, because heavy-calibre machine guns like the 12.7 mm M2HB and 13.2 mm Breda Model 31 will be able to go through your thickest plates of armour. Because of this, it is recommended to try your best to avoid enemy vehicles getting the first shot. Driving under cover is advisable to avoid being spotted.
 
@@ -128,25 +131,23 @@ Be aware that enemy aircraft with bombs or powerful guns can easily take out the
 
 '''Enemies worth noting:'''
 
-* [[Pz.II (Family)|Pz.II]] and other tanks with autocannons can shred your armour and the modules behind it. Generally, it is advised not to engage head on but if you are forced to, then make sure you get off the first shot before they start spraying. 
-* [[:Category:Anti-aircraft vehicles|SPAAs]] - Nearly every anti-aircraft vehicle at the tier will be able to penetrate and destroy the T-26E with ease. Not to mention that SPAAs guns have high rates of fire. As with any other vehicles, it is advised to shoot first. Certain SPAAs which are commonly underestimated like the French [[P.7.T AA]], and [[CCKW 353 AA]] and the American [[M15 CGMC]], and should be especially noted, as despite not having 20 mm autocannons like their Axis counterparts, they all have weapons capable of efficiently knocking out a T-26E.
+* [[Pz.II (Family)|Pz.II]] and other tanks with autocannons can shred your armour and the modules behind it. Generally, it is advised not to engage head on but if you are forced to, then make sure you get off the first shot before they start spraying.
+* [[:Category:Anti-aircraft vehicles|SPAAs]] - Nearly every anti-aircraft vehicle at the tier will be able to penetrate and destroy the T-26E with ease. Not to mention that SPAAs guns have high rates of fire. As with any other vehicles, it is advised to shoot first. Certain SPAAs which are commonly underestimated like the French [[P.7.T AA]], and [[CCKW 353 AA]] and the American [[M15 CGMC]], and should be especially noted, as despite not having 20 mm autocannons like their Axis counterparts, they all have weapons capable of efficiently knocking out a T-26E.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
 
 * Great firepower; the APHEBC shell can frontally penetrate and take out almost any tank with a single shot
 * Very short reload time
 * Fairly accurate gun at short to medium ranges
-
-*
 
 '''Cons:'''
 
 * Poor protection, side armour can be penetrated even by light machine guns
 * Slow reverse speed
 * Average -6° gun depression limits its potential in hilly terrains
-
-*
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

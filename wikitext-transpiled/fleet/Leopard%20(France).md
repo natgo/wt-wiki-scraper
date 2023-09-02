@@ -1,3 +1,8 @@
+{{About
+| about = destroyer '''{{PAGENAME}}'''
+| usage = other uses
+| link = Leopard (Disambiguation)
+}}
 {{Specs-Card
 |code=fr_destroyer_jaguar_class_leopard
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,9 +10,11 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The Chacal-class vessels were the first large destroyers made for the modern French Navy after the First World War. They featured a larger displacement than all of the preceding destroyers, and mounted more firepower to contend with the contemporary navies of the time. The Léopard was the third ship to be launched, out of the 6 ships that were built. She was commissioned into service on the same day as the Lynx, one of her sister ships, and participated in one of the most famous events of the war, Operation Dynamo, the Dunkirk evacuation.
+The Chacal-class vessels were the first large destroyers made for the modern French Navy after the First World War. They featured a larger displacement than all of the preceding destroyers, and mounted more firepower to contend with the contemporary navies of the time. The Léopard was the third ship to be launched, out of the 6 ships that were built. She was commissioned into service on the same day as the Lynx, one of her sister ships, and participated in one of the most famous events of the war, Operation Dynamo, the Dunkirk evacuation. She is depicted in-game after she was converted into an escort destroyer, removing her forward boiler room for increased fuel stores - thus she is visually identifiably by her only having two funnels, compared to the three her sisters have.
 
-Introduced in [[Update "La Royale"]], the Léopard can fulfill multiple roles, such as providing both anti-aircraft cover and heavy fire support for friendly ships. Her deadly 130 mm guns outclass many other weapons of her tier. These guns have a shorter effective range than some other guns due to their lower velocity, however, they make up for this with their powerful ammunition. The greatest drawback of the Léopard is her very low top speed of 58 km/h (31.3 kn), making her one of the slowest destroyers in the game. To make room for the improved AA battery, the rear 550 mm torpedo launcher had to be removed, giving her a salvo of only 3 torpedoes. The torpedoes should be saved for close range fights against more dangerous opponents, as the low number of torpedoes make them very inefficient to launch at large distances.
+Thanks to this change, the greatest drawback of the Léopard is her very low top speed of 58 km/h (31.3 kn), making her one of the slowest destroyers in the game. In addition, to make room for the improved AA battery, the rear 550 mm torpedo launcher had to be removed, giving her a salvo of only 3 torpedoes. The torpedoes should be saved for close range fights against more dangerous opponents, as the low number of torpedoes make them very inefficient to launch at large distances.
+
+Introduced in [[Update "La Royale"]], the Léopard can fulfill multiple roles, such as providing both anti-aircraft cover and heavy fire support for friendly ships. Despite her slow speed, her deadly 130 mm guns outclass many other weapons of her tier. These guns have a shorter effective range than some other guns due to their lower velocity, however, they make up for this with their powerful ammunition. 
 
 == General info ==
 === Survivability and armour ===
@@ -21,11 +28,14 @@ Getting hit in the Léopard usually results in a fire, as her internal modules, 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-[[File:Léopard (France) X-Ray.png|right|thumb|An X-Ray view of the modules on the Léopard]]
+The Léopard reaches a top speed of 58 km/h (31.3 kn), making her one of the slowest destroyers in the game; this is the greatest drawback and main limiting factor for the Léopard. This is further worsened by a very slow turn rate, slower than even the [[Besposhchadny]], notorious for being a sluggish destroyer. An exceptional are should be taken to avoid torpedoes and bombs as early as possible, especially until Rudder Replacement modification is unlocked.
 
-{{NavalMobility}}
-
-The Léopard reaches a top speed of 58 km/h (31.3 kn), making her one of the slowest destroyers in the game; this is the greatest drawback and main limiting factor for the Léopard. The one strength she has in the category of mobility is a tight turning circle, which is a common strength shared with all French destroyers, and allows her to more easily dodge torpedoes and change directions.
+{{NavalMobility
+|SpeedForwardStockAB = 52
+|SpeedBackStockAB = 23
+|TurnTimeStockAB = 151.883
+|TurnSpeedStockAB = 37
+}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -76,15 +86,16 @@ The primary armament of the Léopard consists of 4 x 130 mm Mle.19 naval guns, t
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-
-*
+* Very high calibre ammunition with a large explosive filler in both HE and SAP
+* Low profile makes it more difficult to hit
+* Decent anti-air/anti-coastal armament
 
 '''Cons:'''
-
-*
+* Very low muzzle velocity of the main guns
+* Exceptionally poor mobility compared to the counterparts
+* Very large fuel tanks make it prone to fires
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -112,4 +123,5 @@ The primary armament of the Léopard consists of 4 x 130 mm Mle.19 naval guns, t
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Ateliers et Chantiers de la Loire}}
 {{France destroyers}}

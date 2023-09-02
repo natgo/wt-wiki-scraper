@@ -13,11 +13,15 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
+Though under the Swedish line, it is a Finnish aircraft, as the XS stands for Export Suomi.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 The Saab J35XS turns very fast, however turning too fast at lower speeds can also lead to a "superstall", which may cause a crash. Tight turns also lead to a significant loss of energy/speed.
+
+Being that the Saab J35XS is also a double-delta wing, it's sustained turn rate is fantastic, but leaves the aircraft in a much-to-be-desired energy and speed state. An issue most pilots may run into in a dogfight is an issue with only one ''sidemounted'' Akan m/55 30mm, making getting good shots in a dogfight difficult.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -111,7 +115,9 @@ The Saab J35XS turns very fast, however turning too fast at lower speeds can als
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+As with all delta or double-delta wing configurations, your silhouette is significantly larger than other contemporary aircraft you'll face from 9.7-11.7. The fuel tanks are located close to the center of the fuselage, meaning that most rounds that connect with your aircraft will likely cause you to burn up. The engine is also massive and fragile, meaning that even a glancing blow from an enemy's gun can critically damage your engine.
+
+Flight characteristics are also heavily damaged with even minor damage to the wings, particularly if the damage is uneven, greatly increasing the chances of getting into a irrecoverable flatspin. As with most aircraft of the BR, you will not be able to survive a missile if it comes into contact with your aircraft.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -210,9 +216,9 @@ The SAAB J-35XS (Xerxes Sigurd/Export Suomi) is a Finnish export of the Swedish 
 
 ;Images
 <gallery mode="packed-hover" heights="200">
-File:J35FS Countermeasures.jpg|<small>J35FS flares, 6 x RB24Js</small>
-File:J35FS RM6C AB Off.jpg|<small>J35FS afterburner off</small>
-File:J35FS RM6C AB On.jpg|<small>J35FS afterburner on</small>
+File:J35XS Countermeasures.jpg|<small>J35XS flares, 6 x RB24Js</small>
+File:J35XS RM6C AB Off.jpg|<small>J35XS afterburner off</small>
+File:J35XS RM6C AB On.jpg|<small>J35XS afterburner on</small>
 </gallery>
 
 ;Videos

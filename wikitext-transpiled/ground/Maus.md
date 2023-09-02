@@ -83,7 +83,8 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 {{:KwK44 (128 mm)/Ammunition|Sprgr. L/5, PzGr, PzGr 43, 12.8/8.8 Pzgr.TS}}
 
 ==== [[Ammo racks]] ====
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.47''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -94,18 +95,15 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
-! 7th<br>rack empty
-! 8th<br>rack empty
-! 9th<br>rack empty
-! 10th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''68''' || style="text-align:right" | ''Projectiles'' <br> ''Propellants''|| 62&nbsp;''(+6)'' <br> 62&nbsp;''(+6)'' || 55&nbsp;''(+13)'' <br> 55&nbsp;''(+13)'' || 50&nbsp;''(+18)'' <br> 50&nbsp;''(+18)'' || 45&nbsp;''(+23)'' <br> 45&nbsp;''(+23)'' || 39&nbsp;''(+29)'' <br> 39&nbsp;''(+29)'' || 33&nbsp;''(+35)'' <br> 33&nbsp;''(+35)'' || 25&nbsp;''(+43)'' <br> 25&nbsp;''(+43)'' || 17&nbsp;''(+51)'' <br> 17&nbsp;''(+51)'' || 9&nbsp;''(+59)'' <br> 9&nbsp;''(+59)'' || 1&nbsp;''(+67)'' <br> 1&nbsp;''(+67)'' || No
+| '''68''' || ''Projectiles'' <br> ''Propellants''|| 55&nbsp;''(+13)'' <br> 57&nbsp;''(+11)'' || 33&nbsp;''(+35)'' <br> 45&nbsp;''(+23)'' || 25&nbsp;''(+43)'' <br> 37&nbsp;''(+31)'' || 17&nbsp;''(+51)'' <br> 23&nbsp;''(+45)'' || 9&nbsp;''(+59)'' <br> 15&nbsp;''(+53)'' || 1&nbsp;''(+67)'' <br> 1&nbsp;''(+67)'' || No
 |-
 |}
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-'''Note''':
+'''Notes''':
 
+* The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant charges (orange). Both have separate racks.
+* Projectiles and propellants are modeled by sets of 2 which disappear once both in the set have been fired.
 * Turret empty: 45&nbsp;''(+23)'' shells.
 
 === Additional armament ===
@@ -128,8 +126,8 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 {{:KwK44 L/36.5 (75 mm)/Ammunition|Sprgr. 34, Hl.Gr 38B, K.Gr.Rot Nb., Hl.Gr 38C}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|center|framed|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.47''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -142,9 +140,11 @@ Coaxial MG? That's for normal tanks (but it is there anyway). On the Maus, every
 | '''100''' || 76&nbsp;''(+24)'' || 51&nbsp;''(+49)'' || 26&nbsp;''(+74)'' || 1&nbsp;''(+99)'' || No
 |-
 |}
-'''Note''':
+'''Notes''':
 
+* Racks are modelled by sets of 5 shells. The sets disappear from the rack once all shells in the set have been loaded/fired.
 * Turret empty: 76&nbsp;''(+24)'' shells.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}

@@ -132,14 +132,34 @@ Overall, the .50 cal machine guns are effective at taking out air targets, but d
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M65A1 (1,000 lb)|HVAR|M8}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
+| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_P-51D-5.png]]</div>
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || 1 || || || 1 || || ||
+|-
+! [[HVAR]] rockets
+| 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[M8]] rockets
+| || 3 || || || || || || || 3 ||
+|-
+| colspan="11" | Maximum permissible loadout weight: 1,500 kg<br>Maximum permissible wing load: 750 kg<br>Maximum permissible weight imbalance: 550 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-* 6 x HVAR rockets
 * 6 x M8 rockets
+* 10 x HVAR rockets
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+{{Navigation-End}}
 
 The P-51D has access to one air-to-air loadout (of no suspended armament, for increased performance) and three loadouts for ground attack missions, composed of either unguided rockets or bombs. Rockets or bombs can be carried at the pilot's discretion. Rockets are better for precision attacks if the pilot has a good aim, while bombs allow less precision but with less opportunity for destuction.
 

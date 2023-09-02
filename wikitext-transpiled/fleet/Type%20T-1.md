@@ -99,4 +99,5 @@ Boats of this type were developed in 1939 as part of the fourth construction pro
 
 * [[wt:en/news/6217-development-the-t1-type-motor-torpedo-boat-the-early-stages-en|[Development] The T1 Type Motor Torpedo Boat: The Early Stages]]
 
+{{ShipManufacturer Yokohama Yacht Co.}}
 {{Japan boats}}

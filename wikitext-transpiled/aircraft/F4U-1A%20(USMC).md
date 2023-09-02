@@ -20,7 +20,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American naval fighter {{Battl
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 5,486 m)
+! colspan="2" | Max speed<br>(km/h at 7,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -29,10 +29,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American naval fighter {{Battl
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 627 || 602 || rowspan="2" | {{Specs|ceiling}} || 22.1 || 22.8 || 8.8 || 8.8 || rowspan="2" | 250
+| 663 || 638 || rowspan="2" | {{Specs|ceiling}} || 22.1 || 22.8 || 8.7 || 8.7 || rowspan="2" | 250
 |-
 ! Upgraded
-| 687 || 653 || 20.0 || 21.0 || 16.8 || 12.3
+| 724 || 689 || 20.0 || 21.0 || 16.8 || 12.3
 |-
 |}
 
@@ -69,36 +69,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American naval fighter {{Battl
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 450 || < 450 || < 500 || > 450
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 300 m || 2,000 hp || 2,270 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 4,785 m || 1,800 hp || 2,096 hp
-|-
-! colspan="3" | Setting 3
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 6,400 m || 1,650 hp || 1,921 hp
 |-
 |}
 

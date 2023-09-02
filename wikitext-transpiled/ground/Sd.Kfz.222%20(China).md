@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese SPAA {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''Sonderkraftfahrzeug 222 (Sd.Kfz.222)''' was the second variant in the series of light four-wheel-drive armoured reconnaissance vehicles (Leichter Panzerspähwagen) manufactured in Germany between 1935 and 1944. A substantial quantity of German-made equipment was transported to China in 1933, marking the start of the Kuomintang government's army reorganizing program. When these tanks were shipped, they were still painted in the dark grey of the German army. The Chinese Nationalist Army emblem was painted on the right rear side of the armoured car body and under the turret after it arrived in China, but the original German emblem was retained. The Sd.Kfz.222 was deployed by the Chinese Nationalist Army's special motorized unit. Its mission is to protect Chongqing and defend against Japanese paratroopers that may attack the city. The Chinese Sd.Kfz.222 is the early model; thus, it differs slightly from that of the German army's Sd.Kfz.222.
+
+Introduced in [[Update "Sky Guardians"]], the Chinese Sd.Kfz.222 offers the Chinese Army's early-rank ground units swift attack autocannon armoured cars, which are extremely rare in Chinese tanks. As the autocannon lacks the penetrative capacity to penetrate the many light tanks prevalent in the early ranks, players should always try to flank the enemy whenever possible. However, since the main autocannon has a high elevation angle of attack, this light tank can also be deployed for anti-aircraft tasks. Without a doubt, this light armoured car will provide Chinese Army ground forces players with valuable insights into other nations' doctrine during World War II.
 
 == General info ==
 === Survivability and armour ===
@@ -79,15 +81,14 @@ The Sd.Kfz.222 is armed with a single 20 mm KwK30 autocannon paired with a coaxi
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 180 (20) || rowspan="2" | 280 || rowspan="2" | -7°/+80° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 180 (20) || rowspan="2" | 280 || rowspan="2" | -7°/+80° || rowspan="2" | ±180° || rowspan="2" | - || 35.2 || 48.8 || 59.2 || 65.5 || 69.6 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 23.8 || 28.0 || 34.0 || 37.6 || 40.0
 |-
 |}
 
 ==== Ammunition ====
-
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''PzGr.:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
@@ -161,6 +162,7 @@ The Sd.Kfz.222 is a fast vehicle capable of keeping up with the fastest of Rank 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_sdkfz_222_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -172,9 +174,11 @@ The Sd.Kfz.222 is a fast vehicle capable of keeping up with the fastest of Rank 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Sd.Kfz.222]]
 
 ;Other vehicles of similar configuration and role
+
 * [[Sd.Kfz.234/1]]
 
 == External links ==

@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=ussr_t_55_amd_1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -66,7 +66,7 @@ Drozd can be used while on the move (although the turret must be facing the targ
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=1069|rbMinHp=610}}
+{{tankMobility|abMinHp=1,069|rbMinHp=610}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -87,7 +87,7 @@ Drozd can be used while on the move (although the turret must be facing the targ
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 42 || rowspan="2" | -5°/+16° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 11.05 || rowspan="2" | 9.78 || rowspan="2" | 9.01 || rowspan="2" | 8.50
+| rowspan="2" | 42 || rowspan="2" | -5°/+16° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
 | 8.9 || 10.5 || 12.8 || 14.1 || 15.0
@@ -143,7 +143,7 @@ Drozd can be used while on the move (although the turret must be facing the targ
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 3,000 (250) || 700 || N/A || N/A
+| Coaxial || 3,000 (250) || 700 || - || -
 |-
 |}
 

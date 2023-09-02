@@ -110,4 +110,5 @@ After the Italian Armistice in 1943, both vessels fought side by side with the A
 
 * [[wt:en/news/8020-development-duca-degli-abruzzi-ultimate-freelancer-en|[Devblog] Duca degli Abruzzi: Ultimate Freelancer]]
 
+{{ShipManufacturer OTO}}
 {{Italy light cruisers}}

@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light cruiser {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
+Originally commissioned for the Royal Thai Navy in 1938 as the lead ship of the two Taksin-class light cruisers, HTMS Taksin unfortunately never made it to Thailand due to Italy's urgent need for raw materials and thus were confiscated in 1942. Under her new ownership, Taksin was renamed Etna and reclassified as an anti-air cruiser. While being outfitted together with RN Vesuvio in the Trieste shipyards, Etna was captured by German forces on September 10 1943, after the proclamation of the Armistice, and was found half sunk at the liberation of Trieste in April 1945. It was struck off the Military Naval Register by decree of the Provisional Head of State on March 27 1947.
 
-Originally commissioned for the Royal Thai Navy in 1938 as the leading ship of the two Taksin-class light cruisers, HTMS Taksin unfortunately never made it to Thailand due to Italy's urgent need for raw materials and thus were confiscated in 1942. Under her new ownership, Taksin was renamed Etna. Unfortunately, Etna and her sister ship were never completed due to Italy's surrender in 1943 and were subsequently scuttled by the Germans.
-
-Due to Italy's increasingly dire situation in the Mediterranean, the ex-Taksin's original planned armaments, which primarily consisted of six 150 mm Bofors cannons and six Japanese 450 mm Type 4 torpedoes, were scrapped in favour of turning the ship into an anti-air cruiser to be equipped with several smaller rapid-firing cannons. The Etna featured in the game is thus depicted in the Regia Marina's planned configuration.
+RN Etna was introduced in [[Update "Ixwa Strike"]]. It performs reasonably well as a light cruiser, but due to being designed specifically against aircraft, it may have difficulties when facing multiple targets such as destroyers and enemy cruisers. Naturally, the strongest part of the ship is the anti-aircraft armament, in fact, you will very rarely be destroyed by enemy planes thanks to your dense anti-aircraft defences. The manoeuvrability and speed are not bad, and the armour is also quite good, able to withstand several salvoes of enemy ships, though still weak to torpedoes, bombs and rockets.
 
 == General info ==
 === Survivability and armour ===
@@ -44,7 +42,7 @@ The maximum forward speed of the ship is {{Annotation|28 knots|52 km/h, 32 mph}}
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
-{{main|135 mm/45 O.T.O. Mod. 1938 (135 mm)}}
+{{main|135 mm/45 O.T.O. Mod. 1937 (135 mm)}}
 
 These weapons were designed to give about the same range as the [[120 mm/50 O.T.O. Mod.1936 (120 mm)|12 cm/50 (4.7")]] guns but with a lower muzzle velocity and less dispersion. In fact, partly due to the wider barrel spacing used on the mountings, these guns had only a quarter of the dispersion of the 12 cm guns.
 
@@ -56,7 +54,7 @@ The shell choice is not the best, but they are respectable: the HE has 1.8 kg (3
 
 For this ship, it is recommended to use the APHE shells as they are much more effective than the common HE, although using the APHE for all targets is not really indicated, for example, against destroyers or ships with thin armour HE is perfect. Due to the low speed of the shells, fighting beyond 10 km (6.2 miles) is not recommended as the guns will be less effective.
 
-{{:135 mm/45 O.T.O. Mod. 1938 (135 mm)/Ammunition|135 mm HE Dirompente, 135 mm APHEBC Perforante, 135 mm HE-TF Contro-aerea}}
+{{:135 mm/45 O.T.O. Mod. 1937 (135 mm)/Ammunition|135 mm HE Dirompente, 135 mm APHEBC Perforante, 135 mm HE-TF Contro-aerea}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}

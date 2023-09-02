@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO Code: Fishbed-F) is a gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced during [[Update "Hot Tracks"]] as a reward for the [[wt:en/news/6981-special-operation-w-i-n-t-e-r-en|2020 Operation W.I.N.T.E.R.]] event.
+The MiG-21 (NATO Code: Fishbed) was a Soviet jet designed with the intent of replacing the older generation of subsonic fighters, which were becoming outdated and outperformed by their Western counterparts. It was developed in the 1950s and quickly became the most produced supersonic aircraft in history, with over 11,000 units built. The MiG-21 played a significant role in various conflicts around the world and was widely exported to many countries due to its affordability and effectiveness. The MiG-21PF series of aircraft was specialized for all-weather interception. It featured improved radar and avionics systems, allowing it to operate effectively in adverse weather conditions and at night. The aim of this series of aircraft was to mitigate potential dangers posed by enemy bombers and other high-altitude aircraft. Among these was the '''{{Specs|name}}''' variant, which further enhanced the capabilities of the MiG-21PF series. It underwent various improvements and reductions, including the elimination of an internally mounted gun and an inflated fuselage section. As a result, the aircraft relied on a GP-9 gun pod mounted on the belly as well as external armaments like missiles and rockets.
+
+The {{Specs|name}} was introduced in [[Update "Hot Tracks"]] as a reward for the [[wt:en/news/6981-special-operation-w-i-n-t-e-r-en|2020 Operation W.I.N.T.E.R.]] event. Despite being equipped with a new RP-21M radar and 23mm GSh-23L cannons, the gameplay is very similar to that of the [[MiG-21F-13]]. One of the key strengths of the {{Specs|name}} lies in its performance at high altitudes. Its powerful engine and aerodynamic design allow for swift acceleration and excellent manoeuvrability in the skies. This also makes the aircraft ideal for boom-and-zoom tactics. Furthermore, it should be mentioned that the aircraft can perform light CAS from greater distances thanks to the addition of [[Kh-66]] missiles.
 
 == General info ==
 === Flight performance ===
@@ -135,7 +137,7 @@ Damages to the engine are also not sustainable, as there will be significant los
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
 |-
-| {{Cross}} || {{Tick}} || {{Cross}} || {{Cross}}
+| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -154,11 +156,36 @@ Despite the odd configuration, the armament firepower is not any lacking compare
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)}}
-{{main|Kh-66|R-3S|S-5K|S-24}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="23%" | 1 !! width="23%" | 2
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21F-13.png]]</div>
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || 1
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| 1 || 1
+|-
+! [[S-5K]] rockets
+| 16, 32 || 16, 32
+|-
+! [[S-24]] rockets
+| 1 || 1
+|-
+! [[Kh-66]] missiles
+| 1 || 1
+|-
+! [[R-3S]] missiles
+| 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x R-3S missiles
 * 32 x S-5K rockets
@@ -167,32 +194,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x Kh-66 missiles
 * 2 x 250 kg OFAB-250sv bombs (500 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="23%" | 1 !! width="23%" | 2
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21F-13.png]]</div>
-|-
-! 250 kg OFAB-250sv bombs
-| 1 || 1
-|-
-! 500 kg FAB-500M-54 bombs
-| 1 || 1
-|-
-! S-5K rockets
-| 16, 32 || 16, 32
-|-
-! S-24 rockets
-| 1 || 1
-|-
-! Kh-66 missiles
-| 1 || 1
-|-
-! R-3S missiles
-| 1 || 1
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

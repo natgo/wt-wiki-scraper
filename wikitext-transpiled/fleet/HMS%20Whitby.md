@@ -25,11 +25,12 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British frigate {{Batt
 
 == Armament ==
 {{Specs-Fleet-Armaments}}
+
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|4.5 inch/45 QF Mark IV (114 mm)}}
-
+[[File:Whitby Firing Arcs.png|thumb|Firing angles and minimum gun elevation of HMS Whitby]]
 ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
 
 {{:4.5 inch/45 QF Mark IV (114 mm)/Ammunition|4.5 inch HE, 4.5 inch SAP, 4.5 inch HE-TF, 4.5 inch HE-VT}}
@@ -63,9 +64,11 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British frigate {{Batt
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -74,13 +77,16 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British frigate {{Batt
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Videos
+{{Youtube-gallery|pAu3NgrW12Q|'''HMS Whitby - Type 12 ASW Frigate - One of the Navy's Most Beloved Frigates''' - ''Cmdr. Tyrael''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -89,8 +95,10 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British frigate {{Batt
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Cammell Laird}}
 {{Britain frigates}}
 {{Britain premium ships}}

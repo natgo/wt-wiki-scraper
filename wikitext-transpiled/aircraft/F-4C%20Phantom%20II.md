@@ -217,6 +217,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 1 x 20 mm GAU-4 cannon (1,200 rpg)
 * 1 x 600 gal drop tank
 * 1 x 20 mm GAU-4 cannon + 2 x AIM-9B Sidewinder missiles
+* 1 x 20 mm GAU-4 cannon + 4 x AIM-9B Sidewinder missiles
 * 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
 * 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)

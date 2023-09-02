@@ -24,7 +24,7 @@ This boat has no armour, and relies upon small size and fast speed for survival.
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-The Pr 123K (A-11) is the fastest boat in the game - getting to 135/136kph in Arcade Battles. This makes it very useful for capturing zones that are some distance from the main battle area.
+The Pr.123K (A-11) is one of the fastest boats in the game - reaching up to 135 km/h in arcade battles. This makes it very useful for capturing zones that are some distance from the main battle area.
 
 The vessel loses a lot of speed when making anything more than minimal turns, like all hydrofoils. However, it has very good acceleration, allowing sharp turns to be a normal part of your tactics.
 
@@ -96,15 +96,18 @@ The Pr.123K (A-11) was built by the Krasnoye Sormovo plant (chief designer RE Al
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_pr_123k_hydrofoils Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

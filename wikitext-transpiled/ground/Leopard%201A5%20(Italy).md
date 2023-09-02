@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The Leopard 1A5 was used by Italy during the last stages of the Cold War. It was actually a hybrid, consisting of a hull from the Leopard 1A2 family that Italy also used and licence-produced by OTO Melara, and the turret of the Leopard 1A5. Italy initially looked to upgrade their own Leopard 1A2s and 1A1s with an advanced Italian-made FCS, but ultimately opted to go with the Leopard 1A5 turret. These new tanks would be delivered between 1971 and 1972 followed by two batches built by OTO Melara under licence, which became one of the bulkheads of the Italian army alongside the American M60, which Italy also licence-produced. The Leopard 1A5 would mainly serve in the Italian army as part of the KFOR taskforce.
+
+Introduced in [[Update "New Power"]], the Leopard 1A5 is the final evolution of the [[Leopard 1 (Family)|Leopard 1 family]], and thus offers some very competitive tools at the players' disposal. It plays very similarly to the OF-40s, the weakspots for the most part being the same. What the Leopard 1A5 is great at is being a sniper, the zoom levels together with the thermal imager allows the 1A5 to easily pick off enemies from afar. The mobility when stock sadly is not the greatest but as soon as you unlock the modules you can get to places around the battlefield at around the same speed as the rest of your team. In terms of armament the Leopard 1A5 is equipped with a NATO standard [[L7A3 (105 mm)|105 mm L7A3]] cannon. This cannon is able to fire a multitude of munitions which includes APFSDS rounds. This allows the tank to be able to destroy pretty much any tank it will face at its battle rating. Survivability-wise, the Italian 1A5 features a surprisingly useful laser warning receiver, unlike its German counterpart. However, the tank has relatively poor armour. Even IFVs will easily go through the armour, meaning you need to be a bit more strategic with what enemies you decide to engage. It has a huge ammo rack at the front of the hull, so any shot there will usually take the crew out of the battle.
 
 == General info ==
 === Survivability and armour ===
@@ -136,16 +138,17 @@ In order to modernize the tanks already in service, the Italian Army acquired so
 
 The turret of the Leopard 1A5 is immediately distinguished by the application of the additional passive armour designed by Blohm und Voss, adopted for the first time in Germany in 1975 on the A1A1 subversion; the protection extends over 360° from the 1st shield of the gun to the rear rack for the turret equipment consists of eleven armoured panels with rubber coatings spaced about 10 cm from the main armour by the use of bolts, mounted on elastic supports. Thanks to a zip opening on the additional armour, it was still possible to use the crewman's circular hatch to load ammunition and eject shells that have already been fired.
 [[File:Leopard 1A5 ready to be demolished.png|thumb|Leopard 1A5 ready to be demolished]]
-What made the Leopard 1A5 more potent and distinct from the previous versions was the additions of a night imaging and thermal imaging camera, laser rangefinder, laser warning system (only present on the Italian 1A5) and a electro-hydraulic stabilization system for its armament. Due to all these new additions, such as the installation of new firing systems and stabilization systems, it would cause a reduction to 55 transportable shells for the 105 mm cannon. Typically on board the Italian army would bring 27 APDS or APFSDS, 16 HEAT, 6 HESH, and 6 WP. The Leopard 1A5's service in the Italian army would mainly be during the war in the Balkans, in which Italy took part in the various peacekeeping missions, but ultimately they never saw action. Most of the Leopard 1A5s would quickly be put out of service during the late 1990s as from 1995, the new Italian-made C1 Ariete MBT would be delivered. All the Leopard 1A5s would then either be turned into static displays or sent to the Italian military graveyard at Lenta, later to be brought back to life and majority sold to Brazil.
+What made the Leopard 1A5 more potent and distinct from the previous versions was the additions of a night imaging and thermal imaging camera, laser rangefinder, laser warning system (only present on the Italian 1A5) and a electro-hydraulic stabilization system for its armament. Due to all these new additions, such as the installation of new firing systems and stabilization systems, it would cause a reduction to 55 transportable shells for the 105 mm cannon. Typically on board the Italian army would bring 27 APDS or APFSDS, 16 HEAT, 6 HESH, and 6 WP. The Leopard 1A5's service in the Italian army would mainly be during the war in the Balkans, in which Italy took part in the various peacekeeping missions, but ultimately they never saw action. Most of the Leopard 1A5s would quickly be put out of service during the late 1990s as from 1995, the new Italian-made C1 Ariete MBT would be delivered. All the Leopard 1A5s would then either be turned into static displays or sent to the Italian military graveyard at Lenta. There were plans to sell them to an undisclosed South American country however that never went anywhere.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_leopard_1a5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="150">
 File:Leopard 1A5 (Italy) Fire (1).png|
 File:Leopard 1A5 (Italy) Fire (2).png|
 File:Leopard 1A5 (Italy) Fire (3).png|
@@ -157,18 +160,17 @@ File:Leopard 1A5 (Italy) while moving up a hill.png|
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;[[Leopard 1 (Family)|Related development]]
+* [[Leopard 1A5]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+
+* [http://www.ferreamole.it/images/leopard1a5/leopard1a5_01.htm <nowiki>[FERREA MOLE]</nowiki> Leopard 1A5] (in Italian)
+* [http://www.army-guide.com/eng/product234.html <nowiki>[Army Guide]</nowiki> Leopard 1A5]
 
 {{TankManufacturer KMW}}
 {{Italy medium tanks}}

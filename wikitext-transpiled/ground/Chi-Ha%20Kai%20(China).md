@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''Type 97 Chi-Ha Kai''' ({{Annotation|九七式中戦車 改「チハ」|Kyūnana-Shiki Chū-Sensha Kai [Chi-Ha]}}) is a World War II Japanese medium tank that was an upgrade to the original [[Chi-Ha|Type 97 Chi-Ha]]. The [[Chi-Ha Kai|Type 97 Chi-Ha Kai]] ("improved") or {{Annotation|Shinhōtō|新砲塔}} Chi-Ha ("new turret" Chi-Ha) was equipped with a Type 1 47 mm anti-tank gun and was often regarded as the best Japanese tank to have seen combat service during the Pacific War. Many Soviet-captured Japanese tanks were delivered to the Chinese People's Liberation Army. By 1949, the People's Liberation Army had 349 tanks, including Type 97 Chi-Ha Kai tanks. The Type 97 Chi-Ha Kai tanks were also instrumental in the official formation of the Chinese People's Liberation Army's first tank brigade. On December 1, 1945, Gao Ke of the Northeast People's Autonomous Army (later renamed the Northeast Democratic Alliance Army) captured two Japanese Type 97 modified (Chi-Ha Kai) medium tanks from the Japanese "918" repair factory in Shenyang. They were designated as No. 101 and No. 102, respectively. With these two tanks, the People's Army officially formed the first tank brigade, the Northeast Tank Brigade.
+
+Introduced in [[Update 1.91 "Night Vision"]], the Chi-Ha Kai medium tank offers significant enhancements over the preceding Chi-Ha medium tank, particularly in anti-tank capabilities. Concerned by the conflicts taking place in Europe during late World War II, the Japanese were concerned that greater anti-tank capabilities on their current tanks would be required to resist the expected intervention of the Allies in Asia. The Chi-Ha Kai, armed with a high-velocity 47 mm gun, was the first Japanese medium tank designed with tank-to-tank combat in mind. This captured Japanese medium tank, as a versatile and fast medium tank, will undoubtedly strengthen the Chinese Army's ground forces capabilities in the early ranks.
 
 == General info ==
 === Survivability and armour ===
@@ -175,6 +177,7 @@ After the battle, the "102" Chi-ha was renamed "Gongchen tank" (功臣號, meani
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_97_kai Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -188,6 +191,7 @@ Image:PLA Gongchen Chi-Ha Kais on Parade, Tiennamen Square, 1949.jpg|<small>Two 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

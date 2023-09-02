@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese bomber {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' (known as 杜/图-2轰炸机 in PLAAF) represented the Tu-2S-44 delivered to PLAAF in 1950. These aircraft were delivered during the Korean War to boost PLAAF's capability for bombing runs as they were in dire for more bombers against future operations against Nationalist forces by coastal China; these bombers was first used in bombing runs against the United Nations Command in Korean War, destroying surveillance infrastructures of US Army in North Korea, then they served as the major contributor to the victories against Nationalist-occupied islands in Zhejiang and later used during riot-suppression operations in Southwestern China with some loses against insurgent's M2HB. These aircraft were eventually replaced by new aircraft in 1977.
+
+Introduced in [[Update 1.91 "Night Vision"]]. along with the Chinese air tech-tree, sharing most of the performance and payload to its Soviet counterpart; not only it has devastating payload for a frontline bomber, it also has sufficient forward-facing 20 mm autocannon and 12.7 mm self-defense HMG in case of incoming enemy aircraft. Although it is not designed to have dogfights with enemy aircraft, if used carefully against careless targets or unprotected ground targets, Tu-2 will still shine at its tier and possibly turning the table for teammates.
 
 == General info ==
 === Flight performance ===
@@ -238,6 +240,7 @@ These Tu-2 were eventually decommissioned in 1982 and marked the end of propelle
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tu-2_postwar_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -252,7 +255,7 @@ These Tu-2 were eventually decommissioned in 1982 and marked the end of propelle
 * ''other literature.'' -->
 
 === References ===
-<references/>
+<references />
 
 {{AirManufacturer Tupolev}}
 {{China bombers}}

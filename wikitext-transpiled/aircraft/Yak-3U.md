@@ -116,10 +116,10 @@ The '''''{{PAGENAME}}''''' is armed with:
 * 2 x 20 mm B-20S cannons, nose-mounted (120 rpg = 240 total)
 
 == Usage in battles ==
-<!-- ''Describe the tactics of playing in an aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Being an improvement on the [[Yak-3P]], one can expect a similar playstyle to the feared Red Soviet Menace, but with more versatility thanks to the improved engine providing a large increase in speed. The -3U provides quite a unique experience, as it can out-turn the enemies it can't out-run, and it can outrun the enemies it can't out-turn, so a smart pilot will use this versatility to their advantage. One should stick with energy fighting for the most part, but can certainly turn-fight with less manoeuvrable opponents, which include the P51 line.
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+Being an improvement on the [[Yak-3P]], one can expect a similar playstyle to the feared Red Soviet Menace, but with more versatility thanks to the improved engine providing a large increase in speed. The Yak-3U provides quite a unique experience, as it can out-turn the enemies it can't out-run, and it can outrun the enemies it can't out-turn, so a smart pilot will use this versatility to their advantage. One should stick with energy fighting for the most part, but can certainly turn-fight with less manoeuvrable opponents, which include the P-51 line.
 
-The main drawbacks of the 3U are its poor armament and poor performance above 2,000 m. The two B-20S cannons provide lacklustre stopping power at this tier and have a nasty habit of sparking, and to top it off, they have a low ammunition count of 120 rounds per gun. Due to the lack of a supercharger, the engine's output greatly decreases above 2,000 m; it is recommended to entice opponents (mainly Germans & Americans) down to altitude in order to engage them. The solid performance combined with the weak armament makes the -3U a very volatile plane. A newer or inexperienced player may find the performance enticing, but will struggle to do well if they're too trigger happy and have not used to the Soviet 20 mm very much. However, a good pilot will be able to use the upsides to these cannons (accuracy, high rate of fire and ability to start fires) to their advantage. Also worth noting is that "Armoured Targets" belts from these cannon tend to set fuel tanks on fire quite easily, so aiming at them and at the engines of enemy aircraft will likely yield bright, warm results. The Tracers belt is also a noteworthy option, as it is only IAI ammunition, and will easily take off control surfaces with one hit, as well as help someone who is not so confident with the ballistics of the cannons aim.
+The main drawbacks of the 3U are its poor armament and poor performance above 2,000 m. The two B-20S cannons provide lacklustre stopping power at this tier and have a nasty habit of sparking, and to top it off, they have a low ammunition count of 120 rounds per gun. Due to the lack of a supercharger, the engine's output greatly decreases above 2,000 m; it is recommended to entice opponents (mainly Germans & Americans) down to altitude in order to engage them. The solid performance combined with the weak armament makes the Yak-3U a very volatile plane. A newer or inexperienced player may find the performance enticing, but will struggle to do well if they're too trigger happy and have not used to the Soviet 20 mm very much. However, a good pilot will be able to use the upsides to these cannons (accuracy, high rate of fire and ability to start fires) to their advantage. Also worth noting is that "Armoured Targets" belts from these cannon tend to set fuel tanks on fire quite easily, so aiming at them and at the engines of enemy aircraft will likely yield bright, warm results. The Tracers belt is also a noteworthy option, as it only contains FI-T, and will easily take off control surfaces with one hit, as well as help someone who is not so confident with the ballistics of the cannons aim.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -145,7 +145,7 @@ The main drawbacks of the 3U are its poor armament and poor performance above 2,
 
 '''Pros:'''
 
-* Very fast for a propeller-driven aircraft, able to out-run the P51 D-5 at low altitude
+* Very fast for a propeller-driven aircraft, able to out-run the P-51D-5 at low altitude
 * Amazing manoeuvrability that can compete with almost every aircraft at the rank
 * Solid climb rate
 * Immense energy retention
@@ -178,7 +178,7 @@ The Ash-82FN allowed the Yak-3U, to hit 5 km in 3 minutes.
 
 This plane would not enter mass production as the war was nearing the end and jet technology would become the priority for Union of Soviet Socialist Republics. This plane would become the foundation, for the legendary Yak U trainer aircraft, later to become the Yak 11.
 
-The main differences of this modification are major modifications of the air frame over the Yak-3 VK-105PF 2 variant with:
+The main differences of this modification are major modifications of the airframe over the Yak-3 VK-105PF 2 variant with:
 
 * Installation of the Ash-82FN engine, Design Bureau No. 19 with up-to 1,850 BHP, direct fuel and afterburner injection systems gave it a top speed of 705 km/h (438 mph).
 * Twin B-20S cannons, with 120 rounds per gun, total of 240 rounds with burst of 2.40 kg/s.
@@ -186,9 +186,7 @@ The main differences of this modification are major modifications of the air fra
 * Cockpit placed 84 mm higher.
 * Plywood fuselage skin.
 * Metal tail and metal ailerons.
-
- *Weight and drag reduction.
-
+* Weight and drag reduction.
 * All metal wing upgrade.
 * Longer landing legs increased by 80 mm, allowed for better control.
 
@@ -207,6 +205,7 @@ The main differences of this modification are major modifications of the air fra
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+* [[Yak-3 (Family)]]
 * [[La-5 (Family)]]
 * [[La-7 (Family)]]
 

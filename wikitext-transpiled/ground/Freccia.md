@@ -13,7 +13,7 @@ Introduced in [[Update "La Royale"]], the main defining feature of the Freccia i
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The Freccia is protected against low to medium calibre munitions, frontally is where it's most effective. Enemy artillery can be a danger but if hit close to the vehicle the armour is good enough to protect the crew without issue.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -39,7 +39,7 @@ Introduced in [[Update "La Royale"]], the main defining feature of the Freccia i
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=852|rbMinHp=486}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -86,11 +86,9 @@ Introduced in [[Update "La Royale"]], the main defining feature of the Freccia i
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''4''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''4''' || 3&nbsp;''(+1)'' || 2&nbsp;''(+2)'' || 1&nbsp;''(+3)'' || 0&nbsp;''(+4)'' || No
 |-
 |}
 
@@ -108,7 +106,7 @@ Introduced in [[Update "La Royale"]], the main defining feature of the Freccia i
 ! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Full !! Expert !! Aced
 |-
-| 8 (2) || -3°/+20° || - || - || _.__ || _.__ || _.__ || _.__
+| 8 (2) || -3°/+20° || - || - || 13.0 || 11.5 || 10.6 || 10.0
 |-
 |}
 
@@ -125,11 +123,9 @@ Introduced in [[Update "La Royale"]], the main defining feature of the Freccia i
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''4''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''4''' || 3&nbsp;''(+1)'' || 2&nbsp;''(+2)'' || 1&nbsp;''(+3)'' || 0&nbsp;''(+4)'' || No
 |-
 |}
 
@@ -153,7 +149,11 @@ Introduced in [[Update "La Royale"]], the main defining feature of the Freccia i
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Freccia IFV can be a very effective stand-off platform that you can use against the enemy team. Unlike other similar IFVs at or above its battle rating, the Freccia is not super effective at closer distances. The best way to play with the Freccia is flanking the enemy team or getting to spots where enemies won't expect to be be engaged from. The armament of the Freccia consists of a singular 25 mm Oerlikon autocannon, able to fire APDS and APFSDS when you research and buy the modification for it. It also has access to 2 x 7.62 mm machine guns, but these aren't really something which sets the Freccia apart from its peers. The main defining weapon system on the Freccia is the Spike-MR fire-and-forget anti-tank guided missiles. This Israeli-made ATGM allows the Freccia to easily dominate in open maps where hard cover is not easily accessible. At the start of matches, you can quickly make your way to spots where incoming enemies are spotted and freely fire your ATGMs even while moving. This strategy allows you to engage and drive away usually before an enemy has enough time to react and engage you. The Spike missile allows the Freccia to be best played as a sniper, for example on the Fields of Poland map the Freccia can set up near the woods on both sides of the map and fire at enemies across the map without much issue. The Spike is not effective at close range due to how the missile is set up to fully function. It requires at least 1-3 seconds of flight time to adjust itself to hit an enemy. At close ranges, the Spike will often not do enough damage and the missile was made to hit enemies at the top of their turrets, where the armour is usually at its weakest.
+
+In terms of armour and survivability, the Freccia is very protected against small to medium calibre munitions: enemy anti-air cannons or IFVs will struggle to penetrate you frontally. If penetration happens you still have some internal modules which can sustain the damage before reaching your crew or munitions. That said, it is advised that you do not play at close range with the Freccia or on maps which aren't open - although you are somewhat protected, an experienced player can easily find weakspots. The Freccia's weakspots include the turret, which due to crew configuration leads to a swift death if one well placed shot hits you. The other weakspot of the Freccia is at the back, where extra Spike ATGMs are stored, if you haven't used up the Spikes it means that if an enemy fires there the missiles will explode and you will be knocked out. However, when missiles aren't present, low calibre won't actually damage you as there's a lot of empty space on the vehicle. This means that rounds will likely just go through the platform and not hinder you in any way.
+
+Mobility-wise, the Freccia is great on road and on maps with sand and snow. Not so good off-road especially without engine modules researched and installed, it's quite slow compared to its peers. It doesn't help that the platform is big which usually makes it harder to hide, so again avoid being at close range. Lastly one big issue with the Freccia is the fact that the Spike's lock-on is very hard to get to work. You cannot get a lock when enemies are behind a rock even if their turret or behind are exposed. In conclusion, the Freccia is a great platform, it has everything classic IFVs would need such as thermal and NV optics, a laser rangefinder, a drone and also a stabilized main cannon.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -183,13 +183,18 @@ This didn't stop OTO Melara or Iveco from continuing to work on a new design, ho
 
 They were ordered in 2006, first introduced in 2009, and primarily used by the Mechanized Brigade "Pinerolo". The Freccia IFV was the first digitized vehicle to enter service in the Italian army, the Italian government ordered a first batch of 249 Freccia, which would all be delivered by 6 June 2017. The Freccia would also be modified, and would spawn new variants such as Mortar carrier,command post, APC, and scout. In terms of mobility, the Freccia IFV is wheeled, and uses the IVECO Diesel 5HP-1500 V6 engine, which produces 550hp, this allows the vehicle to reach speeds of 110 km/h with an overall range of up to 800 km. Armament-wise, as previously mentioned it is equipped with a 25mm auto cannon, and in its anti-tank variant, it installs the Israeli-made Spike, 2 which would be ready to fire, while another 8 missiles are stowed inside the hull. The scout version of this vehicle removed the ATGMs in favour of launchers for the Italian-made 'Horus' drone mounted on the turret. This drone has primarily been used for scouting, and has also previously been seen on Italian army vehicles, such as the C1 Ariete and B1 Centauro da 120. OTO Melara has also shown off a variant of the Freccia IFV mounting the Hitfist 30 mm OWS, which replaces the old 25 mm turret with an unmanned turret mounting a 30 mm autocannon, and an ATGM launcher which can use Kornet, Spike, and Ingwe ATGMs. This variant has mainly been an option for export, this was further proved when Russia showed an interest in acquiring a multitude of the Centauro family variants, which included the Freccia. When Italy sent over the vehicles, one of the Freccias there mounted the 30 mm. The Italian army at one point showed interest in this version, but ultimately did not pick it. Lastly, in terms of upgrade programs, the Freccia IFV is currently undergoing a mid-life update to its FCS and other electronic equipment. It is also planned in the future for it to install some sort of active protection system to further increase the survival of the crew and vehicle. Overall the vehicle has proved to be very effective and continues to serve in the Italian army, and likely will for many years to come.
 
-'''Devblog'''
+=== [[wt:en/news/8287-development-freccia-vbm-the-spike-thrower-en|Devblog]] ===
 
-The Freccia VBM (Veicolo Blindato Medio - “medium armored vehicle”) Infantry fighting vehicle was built on the chassis of the Centauro B1 tank destroyer and designed to support these vehicles on the battlefield. The Freccia VBM has a modified Hifist Plus turret, a further development of the Dardo IFV turret. The turret is equipped with a 25-mm Oerlikon cannon, on the sides of the turret are launchers for Israeli-made Spike missiles. The vehicle has been in service with the Italian army since 2009.
+The Freccia VBM (Veicolo Blindato Medio - "medium armored vehicle") Infantry fighting vehicle was built on the chassis of the Centauro B1 tank destroyer and designed to support these vehicles on the battlefield. The Freccia VBM has a modified Hifist Plus turret, a further development of the Dardo IFV turret. The turret is equipped with a 25-mm Oerlikon cannon, on the sides of the turret are launchers for Israeli-made Spike missiles. The vehicle has been in service with the Italian army since 2009.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_freccia Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|cfM5LamuwWY|'''The Shooting Range #359''' - ''Metal Beasts'' section at 00:22 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

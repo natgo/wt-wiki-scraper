@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]] as a reward for [[Battle Pass: Season IX, "Smell of Victory"]].
+By the Vietnam War, the AD Skyraiders had an extensive combat record with the USA since the Korean War. Seven major variants of the aircraft was produced, numbered AD-1 to AD-7. As part of the 1962 Tri-service designation system, the Skyraider was redesigned into "A-1", with letters A-J to represent each variant. The AD-6, now known as the A-1H, would be the most numerous produced at 712 units and would serve as an essential ground support aircraft for the US throughout the Vietnam War. The A-1H's had one of its most memorable moment come in October 1965 when Commander Clarence J. Stoddard of the US Navy, to commemorate the 6 millionth pound of ordnance dropped, included a mounted toilet in his munitions load and dropped it in combat operations.
+
+The '''{{Specs|name}}''', introduced in [[Update "Fire and Ice"]] as a reward for [[Battle Pass: Season IX, "Smell of Victory"]], has a familiar feel to the preceding Skyraider variants present in the game. However, the amount of ordnance the A-1H can carry compared to its predecessor is on another level. This can allow the A-1H to lay havoc to any target it finds in the field. The large number of hard points on the aircraft and the ordnance variety means the aircraft can be suited up with ordnance that is best suited to the battlefield conditions. If up to it, players can reenact Commander Stoddard's claim to fame in 1965 and equip the "Special Weapon" to the aircraft and drop that into the battlefield.
 
 == General info ==
 === Flight performance ===
@@ -16,7 +18,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 5,822 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -25,10 +27,10 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 561 || 542 || rowspan="2" | {{Specs|ceiling}} || 24.1 || 24.8 || 11.7 || 11.7 || rowspan="2" | 600
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 618 || 587 || 22.0 || 23.0 || 20.6 || 15.5
 |-
 |}
 
@@ -54,7 +56,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 797 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 364 || 346 || 252 || ~__ || ~__
+| 797 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 364 || 346 || 252 || ~12 || ~6
 |-
 |}
 
@@ -64,7 +66,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike a
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 460 || < 480 || < 410 || > 350
 |-
 |}
 
@@ -154,6 +156,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 12 x HVAR rockets
 * 98 x FFAR Mighty Mouse rockets
@@ -198,7 +201,7 @@ The A-1H can perform well in battles at its BR, either in a CAS role with 30 x 2
 
 '''Pros:'''
 
-* Huge and varied payload options, including napalms and rockets
+* Huge and varied payload options, including napalms and rockets, as well as retarded bombs
 * Access to custom loadout options
 * Can mount up to 8 miniguns with plenty of ammunition, capable of destroying any planes with a short burst
 * Access to countermeasures, making it an ideal CAS in ground battles

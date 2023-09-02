@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
+The '''{{Specs|name}}''' (Chinese: [ZTZ]59A式中型坦克 or 59-I式中型坦克; industry code WZ120A) was the first major revision for the Type 59 in PLAGF service. The plans for this revision was based on the suggestions gathered from the armored corps during the Sino-Vietnamese War to upgrading the existing fleet with new FCS and suspensions before the later 59-II (59B) with 105 mm gun could enter service; the upgrades included IR searchlight, LRF and new FCS with automatic ballistic solutions for faster acquisition, side fences and smoke grenade launchers by the turret, as well as new APFSDS for better penetration. The upgraded tank was certified in 1984 and became the placeholder upgrades during the modernization of PLA.
 
-The ZTZ59A is based on the long-existing [[Type 59]] and upgraded with some technologies from [[Type 69]]. Although the Type 59 chassis is rather outdated compared to later MBTs, or indeed many of its contemporaries in War Thunder, the ZTZ59A has some improvements that extend its lease on life somewhat. A laser rangefinder allows it to stay away from the heated battlefield and strike enemies from further away and a pair of barrel-type smoke grenades are available, enhancing its survivability and offering a straight upgrade to the tech tree Type 59.
+Introduced in [[Update "Ground Breaking"]] as a GE premium for PLAGF, the ZTZ59A is based on the long-existing [[Type 59]] and upgraded with some technologies from [[Type 69]]. Although the Type 59 chassis is rather outdated compared to later MBTs, or indeed many of its contemporaries in War Thunder, the ZTZ59A has some improvements that extend its lease on life somewhat. A laser rangefinder allows it to stay away from the heated battlefield and strike enemies from further away and a pair of barrel-type smoke grenades are available, enhancing its survivability and offering a straight upgrade to the tech tree Type 59.
 
 == General info ==
 === Survivability and armour ===
@@ -71,7 +71,7 @@ The ZTZ59A has exactly the same mobility characteristics as the Type 59, with th
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 34 || rowspan="2" | -5°/+18° || rowspan="2" | ±180° || rowspan="2" | {{Annotation|Vertical|up to 40 km/h}} || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 11.18 || rowspan="2" | 9.89 || rowspan="2" | 9.12 || rowspan="2" | 8.60
+| rowspan="2" | 34 || rowspan="2" | -5°/+18° || rowspan="2" | ±180° || rowspan="2" | {{Annotation|Vertical|up to 40 km/h}} || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 9.75 || rowspan="2" | 8.62 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
 | 5.9 || 7.0 || 8.5 || 9.4 || 10.0

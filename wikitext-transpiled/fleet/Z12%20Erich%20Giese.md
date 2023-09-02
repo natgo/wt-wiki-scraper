@@ -30,11 +30,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German destroyer {{Battle-rati
 {{Specs-Fleet-Armaments}}
 === Primary armament ===
 {{Specs-Fleet-Primary}}
-{{main|SK C/34 (127 mm)}}
+{{main|12.8 cm/45 SK C/34 (128 mm)}}
 
 ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
 
-{{:SK C/34 (127 mm)/Ammunition|12.7 cm Sprgr. L/4.4 Kpf.Z, 12.7 cm Sprgr. L/4.4 Bd.Z, 12.7 cm Sprgr. L/4.4 Zt.Z}}
+{{:12.8 cm/45 SK C/34 (128 mm)/Ammunition|12.8 cm Sprgr. L/4.4 Kpf.Z, 12.8 cm Sprgr. L/4.4 Bd.Z, 12.8 cm Sprgr. L/4.4 Zt.Z}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}

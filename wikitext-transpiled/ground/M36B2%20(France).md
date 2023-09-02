@@ -68,10 +68,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 47 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 47 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 21.1 || 29.2 || 35.5 || 39.2 || 41.8 || rowspan="2" | 9.75 || rowspan="2" | 8.62 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 14.3 || 16.8 || 20.4 || 22.6 || 24.0
 |-
 |}
 
@@ -120,7 +120,7 @@ In the hull, the radio operator gunner has the ability to use a M1919A4 light ma
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle (bustle) || 1,000 (200) || 577 || -10°/+70° || ±60°
+| Pintle (bustle) || 1,000 (200) || 575 || -10°/+70° || ±60°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -129,7 +129,7 @@ In the hull, the radio operator gunner has the ability to use a M1919A4 light ma
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle (commander) || 1,000 (250) || 500 || -10°/+80° || -30°/+120°
+| Pintle (commander) || 1,000 (250) || 500 || -10°/+70° || -60°/+150°
 |-
 |}
 
@@ -138,12 +138,12 @@ In the hull, the radio operator gunner has the ability to use a M1919A4 light ma
 ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-	
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
 '''Pros:'''
 
 * Powerful HEATFS shell
-* Fast turret traverse speed 
+* Fast turret traverse speed
 * Two mounted top machine-guns prevent effective protection against enemy aircraft
 
 '''Cons:'''

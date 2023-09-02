@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Re.2001 gruppo 22 is the Re.2001 belonging to the 22nd Autonomous Land Fighter Group. Founded on 5 July 1918 with the 181st Squadron and 182nd Squadron of Caproni Ca.40s, the 22nd Group participated in World War I, and after the outbreak of World War II participated on the Eastern Front, in the Naval Air War in the Mediterranean where it received the first Re.2001s, and after the end of World War II was renamed the Interceptor Group and integrated into the 51st Squadron.
-
-The Re.2001 gruppo 22 is the premium version of the [[Re.2001 serie 1]] introduced with the [[Update "Starfighters"]]. The vehicle has good manoeuvrability even when it is not very fast, using the combat flaps you can increase the manoeuvrability but losing a lot of speed; in fact you have to keep the engine on WEP but not for too long because it is not well-cooled, so the engine will tend to overheat and break. Finally, the armament composed of two 12.7 mm and two 7.7 mm machine guns can cause good damage to the enemy.
+The Reggiane Re.2001 gruppo 22 is one of Re.2001s belonging to the '''22º Gruppo autonomo caccia terrestre'''. Founded on 5 July 1918 with 181° Squadriglia and 182° Squadriglia equipped with Caproni Ca.40s, the 22° Gruppo took part in World War I. In the Second World War, it fought on the Eastern Front and in the naval air war in the Mediterranean where it received the first Re.2001s, and after the end of World War II was renamed the Gruppo Intercettori and integrated into the 51° Stormo.
+	
+The Re.2001 gruppo 22 is the premium version of the [[Re.2001 serie 1]] introduced with the [[Update "Starfighters"]]. The aircraft is very nimble, though it lacks exceptional speed. However, the combat flaps can enhance its manoeuvrability further, albeit at a significant cost in terms of speed. For sufficient power generation, WEP must be used, but not for too long, as insufficient cooling tends to overheat the engine and can damage it. The armament, consisting of two 12.7 mm and two 7.7 mm machine guns, can inflict great damage on the enemy if used skilfully.
 
 == General info ==
 === Flight performance ===
@@ -158,7 +158,7 @@ the '''Re.2001''' was used by Italy and Germany.
 
 === 22°Gruppo ===
 [[File:Re.2001 22°Gruppo 2.png|thumb|Re.2001 22°Gruppo during air surveillance]]
-From its full name "22°Gruppo Autonomo caccia terrestre", 22nd autonomous group, the 22° Gruppo was born in July 1918 and fought during WW2 on the Eastern front from 29 July 1941 until March 1942, then returned on 4 May 1942 where at the end of June the Group received the first Re.2001 (at the beginning Re.2001 CB and some Re.2001 Serie I). After receiving these aircraft, the 22° Gruppo participated in the aeronaval war in the Mediterranean. After this, the 22°Gruppo fought during the Air Defence of Italy and at the end of the Second World War was renamed Gruppo Intercettori and integrated to the 51° Stormo.
+From its full name "22°Gruppo Autonomo caccia terrestre", the 22° Gruppo was born in July 1918 and fought during WW2 on the Eastern front from 29 July 1941 until March 1942, then returned on 4 May 1942 where at the end of June the Group received the first Re.2001 (at the beginning Re.2001 CB and some Re.2001 Serie I). After receiving these aircraft, the 22° Gruppo participated in the aeronaval war in the Mediterranean. After this, the 22°Gruppo fought during the Air Defence of Italy and at the end of the Second World War was renamed Gruppo Intercettori and integrated to the 51° Stormo.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

@@ -22,7 +22,7 @@ The {{PAGENAME}} was introduced in [[Update "La Royale"]] as a fighter-bomber fo
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 11,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -31,7 +31,7 @@ The {{PAGENAME}} was introduced in [[Update "La Royale"]] as a fighter-bomber fo
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | 500
+| 1,873 || 1,827 || rowspan="2" | {{Specs|ceiling}} || 26.1 || 26.4 || 158.4 || 147.8 || rowspan="2" | 500
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -78,34 +78,34 @@ The {{PAGENAME}} was introduced in [[Update "La Royale"]] as a fighter-bomber fo
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="6" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Svenska Flygmotor RM8A || 1
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="3" | 12,315 kg || colspan="3" | 334 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 14m fuel || 20m fuel || 30m fuel || 45m fuel || 48m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 2,350 kg || colspan="2" | Afterburning low-bypass turbofan
+| 13,635 kg || 14,119 kg || 15,021 kg || 16,374 kg || 16,715 kg || 19,849 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="6" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 14m fuel || 20m fuel || 30m fuel || 45m fuel || 48m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 6,795 kgf || 11,375 kgf
+| 0.83 || 0.81 || 0.76 || 0.69 || 0.68 || 0.60
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 6,795 kgf<br>(0 km/h) || 16,498 kgf<br>(1,250 km/h)
+| 1.21 || 1.17 || 1.10 || 1.01 || 0.99 || 0.87
 |-
 |}
 
@@ -170,6 +170,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x RB24J missiles + 2 x 30 mm Akan m/55 cannons (150 rpg = 300 total) + 1 x 1,250 l drop tank
 * 6 x RB24J missiles
 * 4 x RB 74 missiles
@@ -191,18 +192,19 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * High top speed at sea level
 * Responsive flight controls with great turning rate
-* Excellent loadout options of air-to-air and air-to-ground armament, including unguided and guided weaponry
 * Can be equipped with a drop tank
 * Reverse Thrust for fast braking after touching down
-* Access to strong RB74 and RB24J IR missiles
+* Access to strong RB74 IR missiles
 
 '''Cons:'''
 
 * Substandard energy retention during turns, made worse by the mediocre acceleration at low speeds
 * Afterburner consumes a lot of fuel
 * Mediocre airbrakes
-* No internal mounted cannon, only external 30mm cannons without tracers
+* No internal mounted cannon, only external 30 mm cannons without tracers
 * Flaps only useful during landings
+* Very limited loadout options as guns, countermeasures, air-to-air and air-to-ground missiles all compete for the same slots
+* AGM-65A as only guided air-to-ground ordnance, with a lock-on-range on moving targets of only 4km or less
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -210,13 +212,17 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=saab_ajs37 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -226,7 +232,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''other literature.'' -->
 
 === References ===
-<references/>
+<references />
 
 {{AirManufacturer Saab}}
 {{Sweden jet aircraft}}

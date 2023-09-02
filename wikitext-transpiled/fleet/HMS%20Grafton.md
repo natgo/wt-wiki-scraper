@@ -50,13 +50,18 @@ The numerous torpedoes inside the torpedo tubes are actually well protected agai
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-HMS Grafton offers an increase in mobility to British captains. The speed is actually on par or superior to other destroyers in the rank. This allows the Grafton to perform bold and dynamic manoeuvres as a light and nimble combat destroyer. This is particularly pleasant in arcade mode, in which the Grafton can achieve a very respectable speed of 75 km/h.
-
-{{NavalMobility}}
+HMS Grafton offers a very low top speed compared to the other destroyers of its rank, but an excellent turn rate, allowing it to easily avoid torpedoes even without Rudder Replacement modification.
 
 Mobility plays an important role in the playstyle of the Grafton. Because of the poor targeting speed of the main cannons, the H89 will need to often steer to help the turrets get on target. Captains must be clever to fire first using the mobility in their odds. With the torpedoes, something similar happens. The H89 needs to steer quite a lot to allow the release of torpedoes.
 
 Performing evasive manoeuvres against planes or torpedoes shouldn't be much trouble for the agile Grafton.
+
+{{NavalMobility
+|SpeedForwardStockAB = 55
+|SpeedBackStockAB = 16
+|TurnTimeStockAB = 89.983
+|TurnSpeedStockAB = 38.5
+}}
 
 === Modifications and economy ===
 {{Specs-Economy}}

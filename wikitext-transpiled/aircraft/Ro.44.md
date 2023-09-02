@@ -27,7 +27,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-ratin
 | 287 || 277 || rowspan="2" | {{Specs|ceiling}} || 14.8 || 15.4 || 8.1 || 8.1 || rowspan="2" | 200
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 318 || 303 || 13.3 || 14.0 || 14.7 || 11.0
 |-
 |}
 
@@ -53,7 +53,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-ratin
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 400 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~__ || ~__
+| 400 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~10 || ~10
 |-
 |}
 
@@ -63,7 +63,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-ratin
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 180 || < 300 || < 250 || > 420
 |-
 |}
 

@@ -105,13 +105,13 @@ Structural Steel Side plating - 10mm  <!-- Any additional notes which the user n
 * Unlike the Starstreak of the [[Stormer HVM]], the MIM146 can maintain most of its speed while pulling off extreme turns. It also has proximity fuse in the case it misses, making it far more effective and easier to use in the AA role against jets
 * Missiles can penetrate about 800 mm of composite armour at 30° angle and have nearly 8 kg of explosive mass which allows them to overpressure nearly anything through the weak spots, extremely lethal against NATO tank hull roof
 * Missiles have a range of 10 km and are very fast from the start, with maximum speed of 1,000 m/s, which make them suitable for long range sniping
-* Lower profile than the American [[ADATS]], especially with the radar folded down and missile launchers can elevate higher than the ones on the American ADATS due to a lack of autocannon
+* Lower profile than the American [[XM1069]], especially with the radar folded down and missile launchers can elevate higher than the ones on the American XM1069 due to a lack of autocannon
 
 '''Cons:'''
 
 * Really fragile, can be blown up by hitting the ammo rack, hull can be penetrated by autocannons and high-calibre machine guns
 * Only 8 missiles and tank cannot rearm until used all of them. In AB, the {{PAGENAME}} will automatically rearm anywhere after using all of the missiles and it takes approximately 120 seconds, in RB {{PAGENAME}} can rearm on a capture point which takes about 50 seconds. Even after rearming, missiles must also be reloaded which takes another 20-15 seconds. All in all, it is almost guaranteed that you will be found and destroyed during that time 
-* Due to a lack of the 25 mm gun found on the American ADATS, the Canadian ADATS is also incapable of self-defense during rearm and is less flexible overall
+* Due to a lack of the 25 mm gun found on the American XM1069, the Canadian ADATS is also incapable of self-defense during rearm and is less flexible overall
 * Missiles are not as effective against ERA tanks, which ADATS will have to constantly face, so if the operator does not aim perfectly, they will only realistically take out 4 tanks instead of 8
 * Long antennas might give out your position in RB/SB
 * Just -4 degrees of launcher depression
@@ -148,7 +148,7 @@ The ADATS entered service with the Canadian Armed Forces in 1989, and was built 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-* [[ADATS]]
+* [[XM1069]]
 
 ;Other Canadian ground vehicles present in the game
 

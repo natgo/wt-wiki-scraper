@@ -91,7 +91,6 @@ The TBD-1 Devastator is a very slow but useful aircraft. It has a max speed of 3
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-[[File:TBD-1 an trn 26 004.png|400px|thumb|right|A {{PAGENAME}} blitzing ground artillery with a mix of 100 and 500 lb bombs.]]
 {{main|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
@@ -101,14 +100,41 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11 !! width="4%" | 12 !! width="4%" | 13
+| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || || || || 3 || || || || || ||
+|-
+! [[GP Mk9 (1,000 lb)|1,000 lb GP Mk9]] bombs
+| || || || || || || 1 || || || || || ||
+|-
+! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
+| || || || || || || 1 || || || || || ||
+|-
+! [[Mk.13-6 (2,216 lb)|2,216 lb Mk.13-6]] torpedoes
+| || || || || || || 1 || || || || || ||
+|-
+| colspan="14" | Maximum permissible loadout weight: 1,050 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 12 x 100 lb AN-M30A1 bombs (1,200 lb total)
+* 3 x 500 lb AN-M64A1 bombs (1,500 lb total)
+* 1 x 1,000 lb GP Mk9 bomb (1,000 lb total)
 * 1 x 2,216 lb Mk.13-6 torpedo
 * 1 x 2,216 lb Mk.13-6 Case torpedo
-* 2 x 500 lb AN-M64A1 bombs + 6 x 100 lb AN-M30A1 bombs (1,600 lb total)
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -125,7 +151,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 The first thing a pilot will notice about the TBD in gameplay is its "rubber-banding" tendency to return to a stable speed of about 250 km/h. The aircraft has mediocre energy retention, especially in a turn or when coming out of a dive. However, it is a stable and easy plane to fly, even in Realistic Battles. Strangely enough, the TBD has awesome acceleration from a standing start. The acceleration peters off after about 140 km/h (just above its stall speed) but makes it a nice plane to take-off, especially from carriers. The armament on this plane is very bad and will get shot down if engaged with a fighter. The TBD is a very attractive target for fighters so climb to an altitude of 5,000 m. When dropping bombs, decrease your throttle to 50% as the bombs are more accurate when flying slow.
 
-This aircraft is best used in a ground strike role, carpet bombing ground targets with a large quantity of smaller bombs available out of the box, and in this role, it performs respectably. It features a single 12.7 mm MG attached to the starboard side of the engine, with a generous ammo load, but although the TBD has a good turning radius it is not recommended to engage as a fighter. A rear gunner also wields a 7.62 mm MG with a good coverage angle but no coverage under the tail. The 7.62 mm MG is a welcome addition to keep enemies off the TBD's tail but its rate of fire and damage potential are quite mediocre. Aim precisely if you want to hit and spare your ammo. Of special mention is the pilot's telescopic sight, which is at best a novelty in air battles but is immensely useful in realistic tank battles, where one can easily scan and nitpick otherwise hard to discern enemy tanks. Be careful not to get too stuck in tunnel vision and forget to pull up or evade enemy fire. 
+This aircraft is best used in a ground strike role, carpet bombing ground targets with a large quantity of smaller bombs available out of the box, and in this role, it performs respectably. It features a single 12.7 mm MG attached to the starboard side of the engine, with a generous ammo load, but although the TBD has a good turning radius it is not recommended to engage as a fighter. A rear gunner also wields a 7.62 mm MG with a good coverage angle but no coverage under the tail. The 7.62 mm MG is a welcome addition to keep enemies off the TBD's tail but its rate of fire and damage potential are quite mediocre. Aim precisely if you want to hit and spare your ammo. Of special mention is the pilot's telescopic sight, which is at best a novelty in air battles but is immensely useful in realistic tank battles, where one can easily scan and nitpick otherwise hard to discern enemy tanks. Be careful not to get too stuck in tunnel vision and forget to pull up or evade enemy fire.
 
 It is important to note that the TBD suffers from extremely fragile flaps and gear, at least in Realistic and Simulator Battles; even combat flaps will break off at any speed above about 210 km/h, while the gear rips at about 180.
 
@@ -148,6 +174,7 @@ It is important to note that the TBD suffers from extremely fragile flaps and ge
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+[[File:TBD-1 an trn 26 004.png|400px|thumb|right|A {{PAGENAME}} blitzing ground artillery with a mix of 100 and 500 lb bombs.]]
 
 '''Pros:'''
 

@@ -312,10 +312,16 @@ File:A-4E Early WTWallpaper 006.jpg|
 {{Youtube-gallery|KdpicoF_WJI|'''The Scary Scooter: A-4E Early Skyhawk Review''' - ''Sako Sniper''|1Zaxu0b_Yvo|'''Wing Snapper KING! A-4E_Early - USA - Review!'''  - ''Jengar''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+'''Related Development'''
+
+* [[A-4 (Family)|Douglas A-4 ''Skyhawk (Family)'']]
+* [[A-4B|A-4B Skyhawk]]
+* [[A-4E Early (M) (Israel)|A-4E Early (M) Skyhawk]]
+* [[A-4H (Israel)|A-4H Skyhawk]]
+* [[Ayit|A-4N Skyhawk II (Ayit)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -6,7 +6,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light cruiser {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light cruiser {{Battle-rating}}, a lead ship of her [[Duguay-Trouin (Family)|class]]. She was introduced in [[Update "Sky Guardians"]].
 
 == General info ==
 === Survivability and armour ===
@@ -106,9 +106,9 @@ The ship's namesake is [[wikipedia:René Duguay-Trouin|René Duguay-Trouin]] (16
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[Primauguet]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -122,5 +122,6 @@ The ship's namesake is [[wikipedia:René Duguay-Trouin|René Duguay-Trouin]] (16
 * [http://navypedia.org/ships/france/fr_cr_duguay_trouin.htm <nowiki>[Navypedia]</nowiki> DUGUAY TROUIN light cruisers (1926)]
 * Jordan John and Jean Moulin. 2013. French Cruisers 1922-1956. Annapolis Maryland: Naval Institute Press.
 
+{{ShipManufacturer Arsenal de Brest}}
 {{France light cruisers}}
 {{France premium ships}}

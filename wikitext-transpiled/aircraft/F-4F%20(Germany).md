@@ -10,7 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]]. A dreaded sight for aircraft and ground vehicles alike, the F-4F Phantom II provides a strong air superiority fighter and supremely potent ground attacker to German pilots.
+
+In the early 1980s, around ten years after Germany received their Phantoms, Germany decided to retrofit their F-4Fs in an attempt to modernize them. The F-4Fs at the beginning of their lifecycle were stripped down F-4Es in an attempt to reduce the cost and lost many abilities that the F-4E had. For example, the F-4E could launch AIM-7 Sparrow radar missiles and use guided weapons like Mavericks or Walleyes. Between 1980 and 1983, the F-4Fs regained the ability to fire AIM-7s and use guided weaponry. In addition, it could launch AIM-9L Sidewinders and the electronics were improved. 
+
+Introduced in [[Update "Red Skies"]], the '''{{Specs|name}}''' is a researchable rank {{Specs|rank}} jet. It is a strong fighter due to its high top speed, access to countermeasures, and good missiles like the AIM-9J. The M61 Vulcan is also extremely potent due to its high fire rate and velocity. It's also an excellent ground attacker since it has access to CCIP for cannons, bombs, and rockets and also the ability to use Mavericks. Players who wish to use the F-4F for ground attack or as a fighter will not be disappointed. 
+
 
 == General info ==
 === Flight performance ===

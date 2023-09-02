@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141/1''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''Panzerkampfwagen III Ausführung L (Panzer III L)''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141/1''') is the tenth variant of the [[Pz.III (Family)|Panzerkampfwagen III medium tank family]] (the "I" variant was skipped). It is essentially a newly manufactured Panzer III based on [[Pz.III J1|Panzer III J1]] standards, which was modified from existing Panzer III Js. Both the turret and the frontal hull were outfitted with spaced armour. It was also outfitted with a new system for transferring heated engine coolant to another vehicle. However, distinguishing the different variations based on the look of spaced armour on Panzer IIIs is not a viable method. The front of the turret and the hull of the latest production Panzer IV J tanks were fitted with 20 mm spaced armour plates. Some older Panzer III variants also had it fitted in the field.
 
-The Ausf. L modification is intended to improve the protection of the [[Pz.III J1|J1 variant]] by mounting an additional 20 mm thick armour plates on the front of the hull and turret. While this certainly improve its resistance against HEAT and HE projectiles(which explode on impact, and damage only the first layer of armour), as well as classic AP, more than a single layer 70 mm would do, there are small "holes" in these armour plates - around the driver's viewport and machine gun port. Turret front armour itself also got increased from 50 to 57 mm.
-
-There are also attached tracks to lower plate of the vehicle, adding extra protection. All this extra armour adds about 1.5 tons, slightly slowing down the machine. Other properties of the vehicle remain unchanged.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer III L is armed with the same long-barrelled 50 Kampfwagenkanone (KwK) 39 mm L/60 tank gun as the preceding [[Pz.III J1|Panzer III J1]], but it also has 20 mm spaced armour on the front of the turret and hull. The Panzer III L's playstyle is essentially the same, however, players may appreciate the small upgrades in frontal protection. Frontal engagement with tanks that fire HEAT ammunition, such as the [[M4A3 (105)]] is easier because the 20 mm spaced armour limits the efficacy of the HEAT projectiles when attacked from the tank front. Nonetheless, the armour upgrade is insufficient for aggressive battle, and caution is still required, particularly against Soviet early T-34 medium tanks and early KV-1 heavy tanks.
 
 == General info ==
 === Survivability and armour ===
@@ -190,9 +188,11 @@ These tanks were used to replace the losses which had been incurred by the army.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_III_ausf_L Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==

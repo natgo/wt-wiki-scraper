@@ -1,7 +1,7 @@
 {{About
 | about = premium French light tank '''{{PAGENAME}}'''
-| usage = the regular version
-| link = AMD.35
+| usage = other versions
+| link = AMD.35 (Family)
 }}
 {{Specs-Card
 |code=fr_amd_35_sa35
@@ -17,11 +17,12 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+Being an armoured car, the AMD.35 (SA35) has poor protection, as the vehicle is only protected against rifle-calibre MG fire. The sides are easily penetrated by heavy MG fire, but unlike most armoured cars the AMD.35 (SA35) has enough frontal armour to survive most heavy MG fire from a distance above 500 m and practically all heavy MG fire to the front of the turret.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+
 * Rolled homogeneous armour (hull, turret)
 * Wheel (tires)
 
@@ -29,28 +30,23 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 20 mm (22°) ''Upper plate'' <br> 15 mm (66°) ''Upper glacis'' <br> 26 mm ''Lower plate'' <br> 15 mm (38°) ''Lower glacis'' || 15 mm ''Hull side'' <br> 20 mm ''Driver viewport'' || 15 mm (23°) ''Crew compartment'' <br> 15 mm (2°) ''Rear plate'' <br> 15 mm (44°) ''Lower glacis'' || 15 mm (24°) ''Front glacis'' <br> 7 mm ''Crew compartment'' <br> 7 mm (8°) ''Engine compartment''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 26 mm (47°) ''Turret front'' <br> 45+20 mm ''Gun mantlet'' || 15 mm (12-21°) || 15 mm (11°) || 7 mm (7°)
 |-
 |}
+'''Notes:'''
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 * Wheels are 10 mm thick.
 * Storage boxes and mudguards are 5 mm thick
 * Belly armour is 7 mm thick.
 * The cupola is just a ventilation cupola and 7 mm thick.
 * Internal plates (7 mm thick) separate the crew compartment from the engine compartment, as well as the engine compartment in half and cover the commander from the top and the rear.
 
-The AMD.35's armour thickness is similar to other French rank I armoured cars.
-
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+The AMD.35 (SA35) can reach really good high speeds on road, but has poor cross-country performance. Notably, its wheeled configuration means the car will not get accurate fire when on the move and it will turn in an arc. Meanwhile, its good reverse speed can possibly save the car from an unfortunate encounter.
 
 {{tankMobility|abMinHp=163|rbMinHp=93}}
 
@@ -73,15 +69,15 @@ The AMD.35's armour thickness is similar to other French rank I armoured cars.
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 30 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | 3.90 || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | 3.00
+| rowspan="2" | 30 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 23.8 || 32.9 || 40.0 || 44.2 || 47.1 || rowspan="2" | 3.90 || rowspan="2" | 3.45 || rowspan="2" | 3.18 || rowspan="2" | 3.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 14.9 || 17.5 || 21.3 || 23.5 || 25.0
 |-
 |}
 
 ==== Ammunition ====
-The D2 has a limited choice of ammunition:
+The AMD.35 (SA35) has a limited choice of ammunition:
 
 * '''Mle1935''': APC; a solid shot with average penetration and no explosive filler. Make sure to target modules and crew positions to maximise the damage. Knowledge of enemy vehicle layouts is essential with this type of ammunition.
 * '''Mle1935 HE''': HE; useful for destroying open and very lightly armoured vehicles, pack 3-2 HE shells due to a lack of a coaxial machine gun.
@@ -127,7 +123,7 @@ The D2 has a limited choice of ammunition:
 
 * Poor cross-country performance
 * Weak brakes
-* Slow turret rotation an gun elevation
+* Slow turret rotation and gun elevation
 * Below-average gun depression
 * Lightly armoured flanks and rear
 

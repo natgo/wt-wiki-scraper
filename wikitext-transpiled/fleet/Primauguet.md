@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light cruiser {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light cruiser {{Battle-rating}}. It was introduced in [[Update "La Royale"]]. Historically, she was a third and final ship of the [[Duguay-Trouin (Family)|Duguay-Trouin-class]].
 
 == General info ==
 === Survivability and armour ===
@@ -86,9 +86,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light cruiser {{Battle-
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[Duguay-Trouin]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -98,4 +98,5 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light cruiser {{Battle-
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Arsenal de Brest}}
 {{France light cruisers}}

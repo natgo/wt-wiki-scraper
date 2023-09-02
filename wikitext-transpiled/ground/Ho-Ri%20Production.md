@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The '''Type 5 Ho-Ri''' ({{Annotation|五式砲戦車 「ホリ」|Go Shiki Hō-Sensha [Ho-Ri]}}) is a hypothetical production design of the [[Ho-Ri Prototype]] boasting more armour and a longer gun, making for a far more fearsome tank on the battlefield.
 
-The Ho-Ri has a distinctive sloped UFP, small gun mantlet, and long casemate hull. Note the large lower plate - it is quite vulnerable and shots there can get its transmission destroyed.
+The {{PAGENAME}} was introduced in [[Update 1.73 "Vive la France"]]. While far stronger than its earlier iteration, it also faces much stronger opponents and may have the same drawbacks. Its armour has been increased from an effectively ~200 mm front plate to ~320 mm (120 mm construction) and a casemate boasting 200 - 225 mm armour protecting it decently well. The best course of action is to stay hull down and peek over ridges while using the -10° depression to increase its armour effectiveness and play it in a safe sniping position. The trade-off of superstructure armour is rewarded by forward mobility, accelerating to up to 40 km/h relatively quickly. A special feature of the Ho-Ri is its elevating roof armour: to reduce its vertical silhouette, the cannon breech can push the roof of the casemate up, to allow for the -10° depression it offers. This will expose the crew members, but won't be much of a threat as it's a very narrow angle for planes to strafe through and it doesn't cause the crew to be affected by explosive overpressure.
 
 == General info ==
 === Survivability and armour ===

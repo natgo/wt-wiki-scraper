@@ -83,6 +83,9 @@ The destroyer HMS Cadiz (D79) was laid down at the Scottish shipyard of the Fair
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_destroyer_battle_cadiz Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|IfxpIFoBLoc|'''Battle Pass: Armoured Elephant''' discusses the {{PAGENAME}} at 00:58 - ''War Thunder Official Channel''}}
 

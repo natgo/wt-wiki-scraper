@@ -180,6 +180,7 @@ After taking part in a number of military operations and missions in Southeast A
 * ''other literature.'' -->
 
 * [[wt:en/news/6461-development-belfast-the-guardian-of-the-thames-en|[Devblog] Belfast: The Guardian of the Thames]]
+* [https://www.iwm.org.uk/visits/hms-belfast Official Imperial War Museums HMS Belfast Page]
 
 === References ===
 

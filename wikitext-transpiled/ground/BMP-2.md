@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
+The '''{{Specs|name}}''' is a Soviet IFV designed with the intent of overcoming the shortcomings of its predecessor, the [[BMP-1]]. The {{Specs|name}} was developed in the late 1970s and quickly became one of the most widely used infantry fighting vehicles in the world. It featured improved firepower, enhanced protection, and an improved fire control system compared to the BMP-1. As one of the most versatile IFVs of its time, the {{Specs|name}} was equipped with a 30 mm automatic cannon and anti-tank guided missiles, making it highly effective against both armoured and infantry targets. Its amphibious capabilities further increased its tactical advantage on the battlefield. Several nations adopted the {{Specs|name}} as a result of its success, and subsequent variants like the [[BMP-2M]] allowed for a multi-decade service life extension.
+
+The {{Specs|name}} was introduced in [[Update 1.81 "The Valkyries"]]. Its primary armament is the 30 mm 2A42 autocannon, which can effectively deal with light vehicles, tanks, and even helicopters. Additionally, the {{Specs|name}} is equipped with a launcher capable of firing [[9M113 Konkurs]] ATGMs, making it a potent threat against enemy tanks at range. It is best used as a support vehicle due to its versatility and ability to engage multiple types of targets. However, it does have some limitations, as its armour protection may prove insufficient against calibres larger than 12.7 mm, while its mobility may fall short compared to some peers in its class, which can limit its effectiveness in certain situations. Nonetheless, with proper positioning and teamwork, the BMP-2 can be a valuable asset on the battlefield.
 
 == General info ==
 === Survivability and armour ===
@@ -41,7 +43,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 
 '''BMP-2:'''
 
-The BMP-2 armour layout consists of mostly High Hardness Rolled Armour. The front plate and turret armour is sufficient to stop anything short of a small auto cannon. The sides are generally resistant to machine gun fire, although larger calibre rounds such as those fired from the 12.7 mm .50 calibre machine guns on many American tanks can penetrate the side and rear of the BMP-2. Depending on where it is hit, the BMP-2 is generally not very survivable due to the low crew count. Having only 3 crew means that if any penetrating round kills 2 of them, you are dead. Some shots might hit empty space, but you should not rely on it. Generally it is best practice to be very careful when driving the BMP-2. Even if you have disabled the enemy vehicle's main cannon, they may still be able to damage you with their heavy machine gun. The BMP-2 is also vulnerable to overpressure, it will be destroyed by large-calibre HE shells and by ATGMs.
+The BMP-2 armour layout consists of mostly High Hardness Rolled Armour. The front plate and turret armour is sufficient to stop anything short of a small autocannon. The sides are generally resistant to machine gun fire, although larger calibre rounds such as those fired from the 12.7 mm .50 calibre machine guns on many American tanks can penetrate the side and rear of the BMP-2. Depending on where it is hit, the BMP-2 is generally not very survivable due to the low crew count. Having only 3 crew means that if any penetrating round kills 2 of them, you are dead. Some shots might hit empty space, but you should not rely on it. Generally it is best practice to be very careful when driving the BMP-2. Even if you have disabled the enemy vehicle's main cannon, they may still be able to damage you with their heavy machine gun. The BMP-2 is also vulnerable to overpressure, it will be destroyed by large-calibre HE shells and by ATGMs.
 
 '''BMP-2D:'''
 
@@ -73,7 +75,7 @@ The main concern with this powerful main weapon is the ammo capacity. The gun ha
 
 Its reload rate for the belts is quite fast at 1 second and it gets a choice of HEF-T, AP-T, and HVAP in belts. Every belt is universal and has at least 1 AP and 1 HE in them, HE belt carrying 2 of HEF-T for 1 AP-T per cycle.
 
-The HVAP belts have enough penetration to obliterate lighter tanks such as [[Leopard A1A1|Leopard A1A1s]], [[AMX-30B2 BRENUS]]  and [[Warrior]] frontally, however, when engaging other larger targets it's only possible to completely defeat them from the side, though you can still cripple enemy tanks frontally by shooting cannon barrels and tracks.
+The HVAP belts have enough penetration to obliterate lighter tanks such as [[Leopard A1A1|Leopard A1A1s]], [[AMX-30B2 BRENUS]] and [[Warrior]] frontally, however, when engaging other larger targets it's only possible to completely defeat them from the side, though you can still cripple enemy tanks frontally by shooting cannon barrels and tracks.
 
 The main difference of the HVAP compared to the APDS of other autocannon-equipped vehicles is that it is '''very''' bad against angled tanks and when attacking tanks on high ground (Refer to the table, to see how bad it can get). Because of that, targets usually easily dealt with such as the [[Striker]] may deflect fire from your main gun when heavily angled. When facing something the main gun cannot deal with, you'll need to use the secondary weapon:
 
@@ -164,7 +166,7 @@ The ATGM is able to penetrate most tanks BMP-2 will face at its BR and often abo
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|PKT (7.62 mm)}}
 
-7.62 mm PKT is only useful for destroying light obstacles to avoid losing momentum. Alternatively, it can be used to mark the enemy in Realistic battle. Using it for anything else is pointless, as your 30mm is far more effective otherwise, and the 7.62mm won't cause damage to anything but early aircraft or open-top vehicles with exposed crew.
+7.62 mm PKT is only useful for destroying light obstacles to avoid losing momentum. Alternatively, it can be used to mark the enemy in Realistic battle. Using it for anything else is pointless, as your 30 mm is far more effective otherwise, and the 7.62 mm won't cause damage to anything but early aircraft or open-top vehicles with exposed crew.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -186,6 +188,10 @@ Before the armour modification has been researched, the players can take advanta
 
 As an advance from the BMP-1, the BMP-2 offers a great improvement in combat usage, as there's no need to research the better ATGM armament. Another upgrade in the playstyle is the possibility of close range anti-air duties thanks to the 30 mm Shipunov cannon, particularly to the omnipresent helicopters at this rank, such as the American [[AH-1G]]. The cannon is also useful for light and medium ground targets with slightly sloped armour, however, the stock HE performance against armour is poor and the need for the APDS belt will be evident. Therefore the anti-air duties are an essential part of the early playstyle and module research.
 
+'''ATGM guide'''
+
+The 9M113 Konkurs ATGM steers rather unpredictably. When fired, the 9M113 drops below your aim reticle in the first 15 metres (due to being at low speed right after launch). After surpassing 15 metres, the ATGM will have accelerated enough to fly up and stabilize itself with your aim reticle. Due to this launch drop, it is suggested to aim slightly up when firing the ATGM: this will avoid having your ATGM hit the ground or any fences as sometimes that tends to happen. When the ATGM is flying, steer it gently and carefully. Instantly snapping at another target can cause it to oscillate from side-to-side and hit something on the way or miss the target entirely.
+
 '''Anti-air role'''
 
 The BMP is somewhat vulnerable to aircraft fire, particularly larger cannons will make quick work of the vehicle through its near non-existent top armour. Where possible, find positions with a good overhead cover or minimal visibility for overhead aircraft (beneath over-arching rocks, near or in buildings, under dense tree cover). If for any reason you do become the target of a strafing run, don't be afraid to fire back - the 30 mm will make quick work of most aircraft, and in head-on engagements is particularly easy to get on target.
@@ -196,13 +202,13 @@ It is recommended to improve the turret targeting speed with the modifications, 
 
 '''Close support'''
 
-The BMP-2 is a light combat vehicle with good offensive power, as such, a recommended combat tactic is to remain near the tougher tank comrades assaulting and capturing points in the core of the action. Not only because of the proficient anti-air capabilities of the BMP-2 or the mighty Konkurs' ability to deal with any heavily armoured targets like the [[Maus]]. But also because '''the BMP-2 can act as a field mechanic''' for allied tanks along the frontline.
+The BMP-2 is a light combat vehicle with good offensive power, as such, a recommended combat tactic is to remain near the tougher tank comrades assaulting and capturing points in the core of the action. Not only because of the proficient anti-air capabilities of the BMP-2 or the mighty Konkurs' ability to deal with any heavily armoured targets like the [[Maus]]. But also because the BMP-2 can act as a field mechanic for allied tanks along the frontline.
 
 Acting as a team-player also entails using every mean of protection to ensure the teammates' safety, this will be usually achievable thanks to the various smoke discharges available.
 
 '''Scouting'''
 
-The BMP-2 is not only capable of fiercely defending itself but is also '''capable of providing scouted targets for the whole allied team'''. Becoming the force of change in any assault or defence and a decisive piece in the road for victory.
+The BMP-2 is not only capable of fiercely defending itself but is also capable of providing scouted targets for the whole allied team. Becoming the force of change in any assault or defence and a decisive piece in the road for victory.
 
 A single BMP-2 can find a suitable covered position on a hill or a ditch deep enough (like on the [[Kursk (Ground Forces)|Kursk]] map) and proceed to scout any enemy in the binoculars sight. It doesn't matter if the BMP does not have a gun solution, the purpose is to relay the enemy's position to the team while remaining in secret. This not only helps the teammates on anticipating any threats, but once the airstrike modification has been researched, it also enables the player to jump into any suited aircraft and continue supporting the team.
 
@@ -258,7 +264,7 @@ The arrival of the BMP-1 infantry combat vehicle in the Soviet Army greatly incr
 ;Videos
 
 ;Videos
-{{Youtube-gallery|25_5geR39Zw|'''BMP Family''' discusses the {{PAGENAME}} at 04:14 - ''War Thunder Official Channel''|SJoW-2_6J6o|'''Amphibious tanks'''  discusses the {{PAGENAME}} at 5:15  - ''War Thunder Official Channel''|2h5kFyznXKU|'''Best IFVs''' discusses the {{PAGENAME}} at 3:00 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|25_5geR39Zw|'''BMP Family''' discusses the {{PAGENAME}} at 04:14 - ''War Thunder Official Channel''|SJoW-2_6J6o|'''Amphibious tanks''' discusses the {{PAGENAME}} at 5:15 - ''War Thunder Official Channel''|2h5kFyznXKU|'''Best IFVs''' discusses the {{PAGENAME}} at 3:00 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

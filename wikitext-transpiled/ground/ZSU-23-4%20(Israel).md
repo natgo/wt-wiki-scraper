@@ -27,18 +27,21 @@ ZSU-23-4s were captured from Egypt and Syria by Israel during the Yom Kippur War
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 9.4 mm (57°) || 9.4 mm || 9.4 mm (46°) ''Upper''
+9.4 mm (22°) ''Lower''
+| 9.4 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 8.9 mm (23°) || 8.9 mm (8-10°) || 8.9 mm (1°) || 8.9 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 8.9 mm || 8.9 mm || 8.9 mm || 8.9 mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+
 * Suspension wheels are 20 mm thick while tracks are 15 mm thick.
-* Belly armour is 9.4 mm thick.
+* Belly armour is only 9.4 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -73,6 +76,7 @@ ZSU-23-4s were captured from Egypt and Syria by Israel during the Yom Kippur War
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
 * '''HEFI-T:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
 * '''APIT:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
@@ -134,6 +138,7 @@ Missile-equipped aircraft are the greatest threat to your existence. They are ca
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_zsu_23_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

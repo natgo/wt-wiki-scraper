@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet bomber {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]]. The main difference with the IL-28 is the additional suspended armament.
+The  '''{{Specs|name}}''' was a modified version of the [[IL-28]] that featured 12 additional underwing rocket pylons. This was an attempt to expand the IL-28's capabilities to engage ground targets more effectively, addressing the need for a dedicated attack aircraft. Testing began in the autumn of 1967, and engineers quickly realized that the aircraft would have to operate at elevated levels of risk due to its insufficient armour protection, large profile, and lack of low-level ejection seats. Although it had some advantages, such as crew visibility, the drawbacks were deemed too great to move forward with the project, and a shift was made toward developing a distinctive attack platform. A total of 300 IL-28s were planned to be converted, but only a small number had actually been modified before the project was ultimately abandoned.
+
+The {{Specs|name}} was introduced in [[Update 1.79 "Project X"]]. The main difference with the IL-28 is the additional suspended armament featuring extra cannons, rockets, and even incendiary bombs. This makes it a positively lethal aircraft in combined battles, assuming that it can survive long enough to unleash its firepower.
 
 == General info ==
 === Flight performance ===
@@ -18,11 +20,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet bomber {{Battle-rat
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 The IL-28Sh 'Beagle', being a attacker modification of the previous [[IL-28]], retains its predecessor's characteristics. The aircraft has lacklustre acceleration and top speed for its BR, which is to be expected as it was derived from a bomber. In fact, the aircraft has a set of takeoff boosters to help get it off the runway! Typically, these are not absolutely necessary to get the plane off the ground, but are a helpful addition as they can boost the IL-28's acceleration significantly for a short duration of time. The aircraft's top speed of 933 km/h spaded allows it to outrun most aircraft it faces in downtiers, but this advantage is lost in higher-tier battles.
 
-The 'Beagle' has relatively mediocre flight characteristics given its size and weight. When flying it, it is to be expected that the aircraft feels rather sluggish. That said, the control surfaces are large, and remain responsive up to the airframe's critical speed. The plane's roll rate and turn rate are both unimpressive, though it is able to turn relatively quickly at the expense of speed. As well, beware the the airframe has a critical speed of just 850 km/h IAS - this means that the IL-28Sh will frequently break its wings in dives.
+The 'Beagle' has relatively mediocre flight characteristics given its size and weight. When flying it, it is to be expected that the aircraft feels rather sluggish. That said, the control surfaces are large, and remain responsive up to the airframe's critical speed. The plane's roll rate and turn rate are both unimpressive, though it is able to turn relatively quickly at the expense of speed. As well, be aware that the airframe has a critical speed of just 850 km/h IAS - this means that the IL-28Sh will frequently break its wings in dives.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 4,500 m)
+! colspan="2" | Max speed<br>(km/h at 4,500 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -31,10 +33,10 @@ The 'Beagle' has relatively mediocre flight characteristics given its size and w
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 860 || 834 || rowspan="2" | {{Specs|ceiling}} || 49.4 || 50.3 || 16.4 || 15.5 || rowspan="2" | 1,480
+| 866 || 842 || rowspan="2" | {{Specs|ceiling}} || 49.3 || 50.1 || 16.3 || 15.4 || rowspan="2" | 1,480
 |-
 ! Upgraded
-| 953 || 905 || 46.7 || 48.0 || 24.0 || 20.0
+| 945 || 905 || 46.9 || 48.0 || 24.1 || 20.0
 |-
 |}
 
@@ -243,7 +245,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The IL-28Sh is an extremely versatile aircraft, thanks to its extensive suspended ordnance options. The aircraft can be used as a bomber, or as a CAS aircraft with its rockets. As well, the IL-28Sh gets access to a powerful forward-firing and defensive set of 23 mm cannons, which can be further augmented by a pair of UPK-23-250 gunpods each carrying a GSh-23L cannon - combined, these can provide a forward firing burst mass of over 25 kilograms, which is the highest burst mass of any aircraft at its BR.
 
-As with its predecessor, the IL-28Sh can be used as a base-bomber in RB. This is initially difficult due to its small stock load of twelve 100 kg bombs, but becomes much easier once the 3,000 kg bomb is unlocked. This monster of a bomb is the second-largest bomb in the game, after the [[Pe-8]]'s [[FAB-5000 (5,000 kg)|FAB-5000]] bomb. This bomb can one-shot bases very easily. When used in this manner, proceed to the nearest base as fast as possible (possibly in a slight dive), drop ordnance, and run. This ensures that the IL-28Sh won't be intercepted by any fighters, which will take more time to get there. Attempting to climb may not be the best option, as many enemy fighters can get to bomber altitude very quickly.
+As with its predecessor, the IL-28Sh can be used as a base-bomber in RB. This is initially difficult due to its small stock load of twelve 100 kg bombs, but becomes much easier once the 3,000 kg bomb is unlocked. This bomb can one-shot bases very easily when used in this manner. Proceed to the nearest base as fast as possible (possibly in a slight dive), drop ordnance, and run. This ensures that the IL-28Sh won't be intercepted by any fighters, which will take more time to get there. Attempting to climb may not be the best option, as many enemy fighters can get to bomber altitude very quickly.
 
 The second, and more interesting option for the IL-28Sh is ground attack. The aircraft can carry a variety of powerful ground-attack ordnance (namely the aforementioned 3,000 kg bomb and the six S-24 rockets), which make the aircraft extremely effective in mixed battles. When used in this manner, it is worth noting that the aircraft is much more vulnerable, especially in air battles where enemy fighters will arrive extremely quickly. The first effective load for ground attack is the aforementioned 3,000 kg bomb; despite only having a single drop, the bomb is effective enough to take out every enemy tank at a base. This option also ensures the safety of the aircraft, as you will be able to escape quickly after dropping the bomb.
 
@@ -283,7 +285,7 @@ Testing of the modified machine began in autumn 1967, showing positive results. 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_28sh Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|80ajQCMfdto|'''The Shooting Range #112''' - ''War Machines'' section at 04:32 discusses the {{PAGENAME}}.|Fjh-tTr6TPs|'''Best Combo #2'''  discusses the {{PAGENAME}} at 4:27  - ''War Thunder Official Channel''|vhTZXYk6eao|'''Tank busters''' discusses the {{PAGENAME}} at 2:40 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|80ajQCMfdto|'''The Shooting Range #112''' - ''War Machines'' section at 04:32 discusses the {{PAGENAME}}.|Fjh-tTr6TPs|'''Best Combo #2''' discusses the {{PAGENAME}} at 4:27 - ''War Thunder Official Channel''|vhTZXYk6eao|'''Tank busters''' discusses the {{PAGENAME}} at 2:40 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

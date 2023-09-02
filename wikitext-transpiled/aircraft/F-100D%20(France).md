@@ -27,7 +27,7 @@ Typically aircraft which pound ground targets fly slow to ensure they hit their 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 10,668 m)
+! colspan="2" | Max speed<br>(km/h at 10,668 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -36,10 +36,10 @@ Typically aircraft which pound ground targets fly slow to ensure they hit their 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1,446 || 1,439 || rowspan="2" | {{Specs|ceiling}} || 40.6 || 41.5 || 61.2 || 54.4 || rowspan="2" | 1,400
+| 1,419 || 1,412 || rowspan="2" | {{Specs|ceiling}} || 40.5 || 41.2 || 88.1 || 78.8 || rowspan="2" | 1,400
 |-
 ! Upgraded
-| 1,478 || 1,458 || 39.5 || 40.0 || 94.6 || 79.2
+| 1,448 || 1,433 || 39.5 || 40.0 || 123.6 || 105.0
 |-
 |}
 
@@ -75,7 +75,7 @@ Typically aircraft which pound ground targets fly slow to ensure they hit their 
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 640 || < 540 || < 610 || N/A
+| < 640 || < 540 || < 610 || -
 |-
 |}
 
@@ -92,25 +92,25 @@ Typically aircraft which pound ground targets fly slow to ensure they hit their 
 | colspan="2" | 9,658 kg || colspan="3" | 354 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br>Weight
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
 ! 14m fuel || 20m fuel || 30m fuel || 46m fuel
 |-
-| 900 kg || colspan="2" | Afterburning axial-flow turbojet
-| 10,708 kg || 11,156 kg || 11,905 kg || 13,159 kg || 16,689 kg
+| 2,361 kg || colspan="2" | Afterburning axial-flow turbojet
+| 10,708 kg || 11,156 kg || 11,905 kg || 13,159 kg || 15,802 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
 ! colspan="5" | Thrust to weight ratio @ 0 m (WEP)
 |-
 ! Condition || 100% || WEP
-! 14m fuel || 20m fuel || 30m fuel || 46m fuel || MTOW
+! 14m fuel || 20m fuel || 30m fuel || 46m fuel || MGW
 |-
-| ''Stationary'' || 3,786 kgf || 5,868 kgf
-| 0.55 || 0.53 || 0.49 || 0.45 || 0.35
+| ''Stationary'' || 4,424 kgf || 5,823 kgf
+| 0.54 || 0.52 || 0.49 || 0.44 || 0.37
 |-
-| ''Optimal'' || 4,254 kgf<br>(1,200 km/h) || 8,058 kgf<br>(1,200 km/h)
-| 0.75 || 0.72 || 0.68 || 0.61 || 0.48
+| ''Optimal'' || 4,424 kgf<br>(0 km/h) || 8,364 kgf<br>(1,200 km/h)
+| 0.78 || 0.75 || 0.70 || 0.64 || 0.53
 |-
 |}
 
@@ -152,19 +152,45 @@ The cannons are air-cooled and rarely overheat, typically with the 200 round lim
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|M117 cone 45 (750 lb)|SAMP Mk 83 (1,000 lb)|BLU-27/B incendiary}}
-{{main|AIM-9B Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-100D.png]]</div>
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[BLU-27/B incendiary]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 19 || || || 19 || 19
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| || 4 || || || 4 ||
+|-
+! [[AIM-9B Sidewinder]] missiles
+| || || 1, 2 || 1, 2 || ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9B Sidewinder missiles
-* 76 x FFAR Mighty Mouse rockets
 * 4 x AIM-9B Sidewinder missiles
-* 4 x 1,000 lb SAMP Mk 83 bombs (4,000 lb total)
-* 6 x 750 lb M117 cone 45 bombs (4,500 lb total)
+* 76 x FFAR Mighty Mouse rockets
 * 8 x Zuni Mk32 Mod 0 ATAP rockets
+* 6 x 750 lb M117 cone 45 bombs (4,500 lb total)
+* 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 6 x BLU-27/B incendiary bombs
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"|Update 1.49 (1.70.1945) "Weapons of Victory"]]. An up-armoured version of the [[T-34 (1941)]] tank, the T-34E STZ utilizes much improved frontal hull armour in comparison to the standard T-34 tank.
+The '''T-34E STZ''' is the heavily modified second variant of the [[T-34 (Family)|T-34 medium tank family]]. When the Germans were confronted with the significantly better-protected T-34 medium tanks during Operation Barbarossa, they promptly began improving their current designs to combat it. In response, many early T-34 variations, such as the T-34E STZ ("ehkranami" - screened), had additional armour plates welded to the front in an attempt to improve the tank's protection. The frontal hull protection was significantly increased over the original [[T-34 (1941)|T-34 (1941) variant]]. This modification was principally performed in the STZ factory in Stalingrad in January 1942.
 
-This tank has great front protection and while not invulnerable, many enemy tanks will have difficulty knocking it out. The rest of the armour of the tank is decent, but nothing that is too difficult to penetrate. While the extra armour of the T-34E STZ greatly increases frontal protection, it does slow the tank down. This combined with a great gun and a large selection of ammunition types makes this tank a jack of all trades.
+Introduced in [[Update 1.49 "Weapons of Victory"]], the T-34E STZ is essentially an armoured derivative of the T-34 (1941) variant. It is not a distinct variant in and of itself since nothing was modified from the T-34 (1941) variant, except the addition of a thin armour plate to the frontal hull. The gameplay is nearly identical to those of the other early T-34 variants ([[T-34 (1941)|1941]] and [[T-34 (1942)|1942]]). With the same long-barrelled 76.2 mm F-34 tank gun and an extensive selection of ammunition, players will be glad to discover that the T-34E STZ is significantly better protected against adversaries from the front. While the T-34E STZ's increased armour substantially improves frontal protection, it does slow the tank down.
 
 == General info ==
 === Survivability and armour ===
@@ -142,6 +142,7 @@ In this type of environment, tank destroyers will always reign supreme. Their co
 This is the type of environment where T-34 STZ can really shine. The reason for this is that unlike in urban environments flaking can be a little more difficult. The average distance of engagement is longer, meaning the enhanced armour can do more than in urban environments. The more open nature allows the T-34E to make full use of the tank's mobility. When in this environment, there is a range of options and tactics to take on the enemy.
 
 Some enemies to be concerned about:
+
 * [[M4A3 (105)]] - Treat like a Sherman Firefly, an up-gunned Sherman. Avoid getting hit, as its 105 mm shells can cause major damage and perhaps send the player back to the garage. Try hitting the side or the gun mantlet to OHK or disable the gun respectively.
 * [[M10 GMC]] - This tank destroyer will comfortably destroy the T-34E with the 3-inch gun if it gets a chance to. Treat it like the Pz. IV F2, fragile but powerful. Make sure it isn't looking towards the T-34E's way, then shoot it in the main hull and it will, at the very least, fatally incapacitate it.
 * [[M18 GMC]] - Fight similarly to the M10 or Pz. IV F2. Be wary of close quarters engagements due to their outstanding mobility. Vulnerable to overpressure, consider using HE or HEAT rounds.
@@ -184,6 +185,7 @@ However, one armour applique model produced in STZ did see more widespread use i
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_t_34E_STZ Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -197,11 +199,13 @@ File:Leningrad T34E STZ.jpg|<small>Historical photo of the T-34E STZ on the Leni
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other uparmoured vehicles of the same family
+
 * [[T-34E]]
 * [[T 34 747 (r) (Germany)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

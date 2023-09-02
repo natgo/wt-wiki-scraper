@@ -70,11 +70,11 @@ The mobility and speed of the IS-3 is decent, and is somewhere between other hea
 
 The IS-3 carries a heavy 122 mm D-25T cannon, the same weapon mounted on the IS-2 and IS-4M, as well as other variants of the IS-3. This cannon, based on a heavy howitzer, is a highly-effective weapon capable of hitting extremely hard. However, it has an extremely slow reload speed, and rather poor gun depression.
 
-The D-25T cannon fires large 122 mm shells, which are relatively effective against most targets at the IS-3's BR. However, the cannon's effectiveness is hampered by two main drawbacks - relatively bad gun handling (particularly the gun depression and turret rotation speed), and the ridiculously long reload rate. Firstly, the turret has a weak gun depression of just 3 degrees as well as a slow rotation speed, which can hamper the IS-3's ability to get its gun on target quickly and efficiently. Secondly, and more importantly, the IS-3 has a massive gun reload of 20+ seconds. This means that the IS-3 is more suited for a longer-ranged, "heavy fire support" role, as it makes use of the gun's massive punching power without running into situations where the IS-3's gun cannot reload quickly enough to return fire. However, these two drawbacks are compensated for by the IS-3's powerful ammunition, capable of dealing with most targets at its BR. While it retains the 3 shell types found on the previous IS-2, the IS-3's gun also gets access to the BR-471D APCBC shell. This shell gets less TNT filler than the other shells, but gains improved penetration of 230 mm at point-blank range. This shell is capable of frontally-penetrating most tanks at the IS-3's BR.
+The D-25T cannon fires large 122 mm shells, which are relatively effective against most targets at the IS-3's BR. However, the cannon's effectiveness is hampered by two main drawbacks - relatively bad gun handling (particularly the gun depression and turret rotation speed), and the ridiculously long reload rate. Firstly, the turret has a weak gun depression of just 3 degrees as well as a slow rotation speed, which can hamper the IS-3's ability to get its gun on target quickly and efficiently. Secondly, and more importantly, the IS-3 has a massive gun reload of 20+ seconds. This means that the IS-3 is more suited for a longer-ranged, "heavy fire support" role, as it makes use of the gun's massive punching power without running into situations where the IS-3's gun cannot reload quickly enough to return fire. However, these two drawbacks are compensated for by the IS-3's powerful ammunition, capable of dealing with most targets at its BR. While it retains the 3 shell types found on the previous IS-2, the IS-3's gun also gets access to the BR-471D APCBC shell. This shell gets less TNT filler than the other shells, but gains improved penetration of 230 mm at point-blank range. This shell is capable of frontally-penetrating most tanks at the IS-3's BR. However you should not underestimate the BR417B APHEBC shell either, since it actually has higher angled penetration than the BR-417D.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[D-25T (122 mm)|122 mm D-25T]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" |  [[D-25T (122 mm)|122 mm D-25T]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
@@ -255,6 +255,7 @@ They were not deployed in combat in the Great Patriotic War. There are some indi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -262,6 +263,7 @@ They were not deployed in combat in the Great Patriotic War. There are some indi
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

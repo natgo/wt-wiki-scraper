@@ -138,6 +138,10 @@ In 1936, the Royal Italian Navy initialized development of a new class of destro
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_destroyer_soldati_serie1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+
+{{Youtube-gallery|pAFc-ywj9zc|'''RN Aviere: Soldati-Class Destroyer''' - ''Cmdr. Tyrael''}}
+
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''

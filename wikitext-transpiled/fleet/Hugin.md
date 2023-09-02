@@ -81,4 +81,5 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German motor torpedo boat {{Ba
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Westermoen}}
 {{Germany boats}}

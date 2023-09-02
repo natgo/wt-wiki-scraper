@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Swedish attack helicopter {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+In March of 1995, the Swedish Chief of Army Command, Åke Sagrén, announced the need for a dedicated attack helicopter platform, citing the changing nature of modern warfare and the HPK9A helicopter's inability to satisfy the Army's requirements. Two helicopters, the Boeing AH-64 Apache (referred to as the [[AHS]] by Sweden) and the Mil {{Specs|name}} Havoc, were chosen as the final candidates after the field of potential helicopters was reduced to two. These helicopters were tested by foreign pilots while the Swedish crew served as operators/gunners. The former was regarded as a complex but effective platform, while the latter was viewed as reliable, easy to control, and not as much of a burden for maintenance crews. Both passed initial trials with success, but the procurement was cancelled due to budget cuts and a shift in national defense priorities.
 
-Based on the early production Mi-28A that was trialed by the Swedish army during the 1990s, its loadouts and gunnery equipment are somewhat limited in comparison to the later [[Mi-28N]] and [[Mi-28NM]], but remains very potent in the right hands.
+The {{Specs|name}} was introduced in [[Update "Wind of Change"]]. Based on the early production Mi-28A that was trialed by the Swedish army during the 1990s, its loadouts and gunnery equipment are somewhat limited in comparison to the later [[Mi-28N]] and [[Mi-28NM]], but it remains very potent in the right hands. Due to its effective rocket loadouts and 30mm gun, it works best as an early-spawn helicopter, but thanks to its [[9M120 Ataka|Ataka]] missiles, it is still capable of long-range combat in the middle to late stages of the game.
 
 == General info ==
 === Flight performance ===

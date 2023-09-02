@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-After World War II Italy's navy had been cut in half but not only was it also restricted in many cases in matters of armaments but only from the 1950s onward was it allowed the complete reconstruction of the navy because it entered into NATO, during the years several ships were built but at the same time tensions between NATO and the Warsaw Pact increased and so it asked the United States for destroyers that would be delivered in the 1970s to replace the old Benson-class destroyers, three [[Fletcher (Family)|Fletcher-class]] ships were delivered, later renamed Fante (D 561), Geniere (D 555) and Lanciere (D 560), the Geniere (D 555) in Italian service did not do much participated in training missions, coastal control and more, but never saw combat after 5 years the ship will be replaced with other more modern units and will eventually be scrapped.
+After World War II, Italy's navy had been cut in half, and heavily restricted in terms of armaments. Only from the 1950s onward was it allowed to begin reconstruction, due to Italy's entry into NATO. Over the years, several ships were built, but at the same time tensions between NATO and the Warsaw Pact increased and so in the 1970s Italy asked the United States for destroyers to replace the old Benson-class destroyers. Three [[Fletcher (Family)|Fletcher-class]] ships were delivered, later renamed Fante (D 561), Geniere (D 555), and Lanciere (D 560). The Geniere (D 555) in Italian service participated in training missions, coastal control, and other minor missiosn, but never saw combat. After 5 years, the ship was replaced by more modern units and was eventually scrapped in 1975.
 
-Introduced with the [[Update "Danger Zone"|"Danger Zone" update]], it is a fairly good Rank II premium ship thanks to its armament composed of four single 127mm guns with autoloader so with a good reload and thanks to SAP shots you will be able to make ammo rack to enemy ships very easily, besides that they are equipped with HE-VT so perfect to shoot down even aircraft, then three twin 76mm emplacements very useful to shoot down aircraft with HE-VTs and cause damage quickly to the enemy, the manoeuvrability and speed are quite good, and finally we can talk about the 6 anti-submarine torpedo launchers that cause little damage to large ships but I can disable them for a while so I can run away or destroy easily with the main guns, this ship is perfect for those who want to have a different style of play from the Italian WWII destroyers.
+Introduced in [[Update "Danger Zone"]], Geniere is a fairly good premium ship thanks to its armament composed of four single 127 mm guns with good reload thanks to the autoloader. Thanks to the powerful SAP shells, you will be able to ammo rack enemy ships very easily, and their HE-VT shells are perfect to shoot down other targets, including aircraft. In conjunction with the three twin 76 mm emplacements, also able to be equipped with HE-VT shells, Geniere can quickly cause damage enemy aircraft and boats alike. The 6 anti-submarine torpedoes cause little damage to large ships, but they may disable important modules, allowing you to take the opportunity to finish them off with the main guns. The manoeuvrability and speed are quite good. This ship is perfect for those who want to have a different play style from the Italian WWII destroyers.
 
 == General info ==
 === Survivability and armour ===
@@ -156,6 +156,10 @@ Due to the ship's worn-out condition, the Italian Navy only intended to operate 
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_destroyer_fletcher_geniere Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+
+{{Youtube-gallery|GLdachyN8Aw|'''RN Geniere - D555 Fante-class Destroyer''' - ''Cmdr. Tyrael''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

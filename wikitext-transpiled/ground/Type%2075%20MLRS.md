@@ -49,7 +49,7 @@ While the armour is light, it provides enough frontal protection against MGs up 
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=426|rbMinHp=265}}
+{{tankMobility|abMinHp=497|rbMinHp=310}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -111,7 +111,7 @@ Notes:
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 600 (200) || 577 || -10°/+65° || ±180°
+| Pintle || 600 (200) || 575 || -9°/+65° || ±180°
 |-
 |}
 

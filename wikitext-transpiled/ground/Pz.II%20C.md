@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 121''') is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''Panzerkampfwagen II Ausführung C (Panzer II C)''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 121''') is the third variant of the [[Pz.II (Family)|Panzer II light tank family]]. Both the Panzer I and II light tank families were seen as interim solutions until the introduction of advanced tanks, particularly the [[Pz.III (Family)|Panzer III]] and [[Pz.IV (Family)|IV]] medium tank families. Despite this, Panzer IIs remained in duty throughout World War II, serving as the principal light tank in German service and as a scout, despite the fact that many wheeled vehicles performed this specialized task significantly better. The Panzer II light tank family's origins may be traced back to 1934 when the Waffenamt (military ordnance agency) realized that difficulties in the manufacturing of the Panzer III and IV medium tanks necessitated the development of a new design that could rapidly replace the outdated Panzer I light tanks. The accepted design was essentially an expanded Panzer I with a turret mounting the new Rheinmetall Kampfwagenkanone (KwK) 30 L/55 20 mm autocannon. The armament was based on a 20 mm Flugabwehrkanone (Flak) 30 anti-aircraft autocannon with a fire rate of 600 rpm. As the Spanish Civil War demonstrated, a significant increase in armour was required, and the early variants of Panzer II had integral 14 mm (0.55 in) homogeneous steel armour (10 mm/0.39 in top and bottom), which was adequate against shrapnel and small bullets. It was, however, vulnerable to several high-velocity anti-tank guns at the period. The Panzer II C variant was ordered to keep the factories working until the Panzer III and Panzer IV medium tanks could be mass-produced. The only noticeable difference between Panzer II variants A, B and C is a new enhanced vision port and slight improvements in crew protection. To keep the 50 mm bulletproof glass in place, it had two conical beaded bolts on the face plate and two huge bolts above and below it. It retained a 20 mm KwK30 L/55 autocannon capable of firing armour piercing (AP) and high explosive (HE) ammunition. In 1940, more armour was added to the tank's hull and turret. In 1941, the commander's cupola was installed. The addition of armour to the front hull glacis plates transformed the hull's appearance from a curved frontal armoured hull to an angular shape.
 
-The Pz.II C is a vehicle that fits well in any line-up using low-rank German tanks. The first of its column in the German tech tree, the Pz.II C can be distinguished from the later [[Pz.II F|Ausf. F]] model by its heavier frontal armour. A distinguishing feature for this series of Panzer II is the trademark 20 mm automatic cannon, which can be a curse to new users or a gift to players who know how to use the vehicle well. This autocannon can give several misconceptions on the Pz.II's utilities that can lure players into assuming it is a close quarters vehicle. The reality is much different - at close ranges, the 20 mm autocannon with its 280 round per minute (RPM) rate of fire and PzGr.40 APCR ammo can have a great effect on a single target, but the reload time and 10 round-capacity per magazine can backfire hard if the Pz.II C faces against more tanks than a single magazine can deal with.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer II C is one of the few light tanks available to the German Army during World War II. The German Army's ground forces are mostly made up of medium tanks, heavy tanks, and tank destroyers. Later in the conflict, light tanks were rarely constructed because armoured-wheeled vehicles performed similar duties but considerably more efficiently. In general, in the hands of a skilled player, the Panzer II C is a dangerous light tank. Since most enemy tanks in the early ranks are fairly poorly armoured, the Panzer II C may unleash a wave of armour-piercing shells down the adversary path with the KwK30 L/55 20 mm autocannon, crippling most opponent tanks with a single ammunition clip.
 
 == General info ==
 === Survivability and armour ===
@@ -120,7 +120,7 @@ The biggest problem with the 20 mm autocannon is the 10 round magazines combined
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|MG34 (7.92 mm)}}
 
-Mounted opposite to the 20 mm autocannon is the MG 34, which is loaded with a 50-round belt with an AP-I/AP-I/AP-T ammo pattern. With 13 mm of maximum penetration at point blank range, this gun's 800 RPM rate of fire will make short work of unarmoured vehicles like truck-based SPAA, as well as exposed enemy crew members.
+Mounted opposite to the 20 mm autocannon is the MG34, which is loaded with a 50-round belt with an AP-I/AP-I/AP-T ammo pattern. With 13 mm of maximum penetration at point blank range, this gun's 800 RPM rate of fire will make short work of unarmoured vehicles like truck-based SPAA, as well as exposed enemy crew members.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -203,9 +203,11 @@ Despite its outdated design and weak armament, the Pz.Kpfw. II Ausf. C was used 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_II_ausf_C Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==
@@ -214,9 +216,11 @@ Despite its outdated design and weak armament, the Pz.Kpfw. II Ausf. C was used 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[Pz.II]]
 
 ;Other vehicles of similar configuration and role
+
 * [[T-60]]
 
 == External links ==

@@ -167,7 +167,7 @@ Most lightly-armoured vehicles and tanks with less than 30 mm of armour will be 
 === Development ===
 The {{PAGENAME}}, designated the ''Short 12 cm Self-propelled artillery'' ({{Annotation|短十 二糎 自走砲|Tan Jū ni-senchimētoru Jisōhō}}) was a navy refit of the [[Chi-Ha Kai|Type 97 Chi-Ha Kai]] to make a similar gun tank as the Army's [[Ho-I|Type 2 Ho-I]] with greater firepower to support the Special Naval Landing Forces (SNLF).
 
-To get greater firepower than the Type 2 Ho-I, a naval short barrel 120 mm was chosen with an additional bespoke muzzle brake, the official designation of this 120 mm gun is unclear but may greatly be the [[wikipedia:12_cm/12_short_naval_gun?|12cm/12 short naval gun]]. Additionally, there was a small storage compartment added onto the back of the ShinHoTo Chi-Ha turret.
+To get greater firepower than the Type 2 Ho-I, a naval short barrel 120 mm was chosen with an additional bespoke muzzle brake, the official designation of this 120 mm gun is unclear but may greatly be the [[wikipedia:12_cm/12_short_naval_gun|12cm/12 short naval gun]]. Additionally, there was a small storage compartment added onto the back of the ShinHoTo Chi-Ha turret.
 
 === Combat usage ===
 The only certain information on this variant is that only a dozen or so vehicles were built and all were assigned to the Yokosuka No. 16 Special Land Battle Corps. The Chi-Ha's weren't the only vehicles assigned to this squadron and saw service next to the Type 2 [[Ka-Mi]] and Type 3 [[Ka-Chi]] amphibious tanks.

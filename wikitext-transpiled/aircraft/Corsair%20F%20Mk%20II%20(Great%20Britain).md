@@ -20,7 +20,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Batt
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 6,888 m)
+! colspan="2" | Max speed<br>(km/h at 9,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -29,10 +29,10 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Batt
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 585 || 564 || rowspan="2" | {{Specs|ceiling}} || 25.4 || 25.9 || 8.6 || 8.6 || rowspan="2" | 251
+| 684 || 660 || rowspan="2" | {{Specs|ceiling}} || 21.1 || 21.9 || 14.8 || 14.8 || rowspan="2" | 200
 |-
 ! Upgraded
-| 650 || 615 || 23.0 || 24.0 || 17.0 || 12.3
+| 745 || 711 || 18.9 || 20.0 || 23.2 || 18.5
 |-
 |}
 
@@ -172,9 +172,9 @@ The F4U-1A Corsair was based on the F4U-1. In fact, F4U-1A was not an official d
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-<!--''Paste links to sources and external resources, such as:''
+<!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
-* ''other literature.''-->
+* ''other literature.'' -->
 
 * [https://forum.warthunder.com/index.php?/topic/325083-f4u-1ausmccd/ Official data sheet - more details about the performance]
 

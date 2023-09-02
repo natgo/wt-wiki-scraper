@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.45 "Steel Generals"]].
+The '''Panzerkampfwagen III Ausführung J (Panzer III J)''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is the ninth variant of the [[Pz.III (Family)|Panzerkampfwagen III medium tank family]] (the "I" variant was skipped). The Panzer III J looked much like the Panzer III G. It was designed with a turret housing a 50 mm Kampfwagenkanone (KwK) 38 L/42 tank gun. It used the same Maybach HL 120 TRM petrol/gasoline 285 horsepower engine and had identical armour thickness. The hull frontal armour's basic armour thickness had increased to 50 mm. An additional armour plate was installed internally to the front of the turret in the spring of 1941, increasing it to a maximum thickness of 57 mm in places. To improve engine compartment ventilation, the structure of the chassis was extended. The armoured front brake vents were redesigned. On the roof of the turret was an armoured extractor fan. The 50 mm KwK38 L/42 tank gun was capable of firing up to 20 rounds per minute, through the use of a semi-automatic breech that opened before the end of the recoil, ejected the used casing, and allowed for fast loading of the next shell.
+
+Introduced in [[Update 1.45 "Steel Generals"]], the Panzer III J is the next addition to the Panzer III medium tank family. The Panzer III J, armed with the already familiar 50 mm KwK38 L/42 tank gun, can readily deal with adversaries in its ranks. Increased hull frontal armour thickness allows players to take greater risks during combat. The turret traverse, on the other hand, is sluggish, owing to the lack of an electric power traverse system. This is arguably one of the most significant disadvantages of any Panzer IIIs, especially when fighting in towns or areas with a lot of cover. Players must use caution when playing in maps where enemy tanks might quickly set up ambush.
 
 == General info ==
 === Survivability and armour ===
@@ -98,7 +100,7 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[MG34 (7.92 mm)|7.92 mm MG 34]]
+! colspan="5" | [[MG34 (7.92 mm)|7.92 mm MG34]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
@@ -160,9 +162,11 @@ The armour plating installed on tanks of the Ausf.H modification was a temporary
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_III_ausf_J_L42 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
@@ -170,6 +174,7 @@ The armour plating installed on tanks of the Ausf.H modification was a temporary
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

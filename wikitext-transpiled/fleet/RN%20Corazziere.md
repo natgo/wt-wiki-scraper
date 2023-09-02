@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The RN Corazziere was laid down on 7 October 1937, launched on 22 May 1938, completed and commissioned on 4 March 1939, and was placed in the 12°Squadriglia cacciatorpediniere, then later in the 2°Squadra Navale, 3°Divisione Navale and C.C.FF.NN. ; before the Second World War, she mainly carried out training missions, with the Second World War she carried out an intense war activity in which she took part in most of the operations in the Mediterranean, the RN Corazziere carried out 135 war missions, 24 of which were escort and traffic protection, covering no less than 53,000 miles (85. 295 km), on 15 February the RN Corazziere was severely damaged by an enemy air attack and was stranded in the harbour basin in Naples, between 1 and 3 April she was towed to Genoa for major works, on 9 September 1943, she self-sank in Genoa then later captured by the Germans only to be sunk completely on 4 September 1944.
 
-The Corazziere is a Soldati-class destroyer, the last and most modern class of destroyer to enter service with the Regia Marina before the Italian armistice in 1943. Like most Italian destroyers, they were designed with high speed as the primary emphasis.
+The RN Corazziere was introduced in [[Update "Starfighters"]] , the RN Corazziere as the other [[Soldati (Family)|Soldati-class]] is an excellent destroyer for its speed, manoeuvrability and torpedoes while, the armament is much less good, consisting of only 5 120mm cannons equipped only with AP and HE when used do not cause much damage, and for this reason, you have to learn to play very well with the AP to destroy enemy ships because they have , the anti-aircraft armament is mediocre and allows you to destroy enemies coastal boats and planes at medium and short range.
 
 == General info ==
 === Survivability and armour ===
@@ -106,6 +106,7 @@ With all this in mind, the Corazziere tends to fare very poorly in close-range b
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_destroyer_soldati_serie1_camicianera Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -114,6 +115,7 @@ With all this in mind, the Corazziere tends to fare very poorly in close-range b
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Soldati (Family)|Related development]]
+
 * [[RN Aviere]]
 * [[RN Geniere]]
 

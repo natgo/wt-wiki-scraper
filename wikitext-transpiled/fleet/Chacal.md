@@ -24,7 +24,12 @@ File:Chacal Armour.png|<small>10 mm gunshields on the Chacal</small>
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
 The Chacal has a high top speed for its tier, reaching 66 km/h (35.6 kn) when maxed out, allowing it to outrun most ships. The Chacal also has a tight turning circle due to its relatively low tonnage and large rudder, which is further improved with the Rudder Replacement modification.
 
-{{NavalMobility}}
+{{NavalMobility
+|SpeedForwardStockAB = 59
+|SpeedBackStockAB = 23
+|TurnTimeStockAB = 130.067
+|TurnSpeedStockAB = 41
+}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -120,4 +125,5 @@ The Chacal-class ships were born out of a 1922 requirement for a large destroyer
 * [[wikipedia:French_destroyer_Chacal|[Wikipedia] French destroyer Chacal]]
 * [http://www.navypedia.org/ships/france/fr_dd_chacal.htm <nowiki>[Navypedia]</nowiki> Chacal destroyers (1925 - 1927)]
 
+{{ShipManufacturer Ateliers et Chantiers de Penhoët}}
 {{France destroyers}}

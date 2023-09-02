@@ -10,13 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
+The Centurion Action X is a nickname of the official "Centurion Mantletless Turret" design. The Centurion Mantletless Turret was a project to create a new, heavily sloped turret design for the Centurion as a form of upgrade, taking inspiration from the Chieftain's turret design that also features no gun mantlet. The Centurion Mantletless Turret did not end up seeing widespread usage, with only one surviving example existing at the Bovington Tank Museum.
 
-The imponent-looking prototype, the Centurion X, is a tank with a unique personality. The vehicle will be appreciatively friendly to the aspiring tankers and veterans of the British tanks, while also setting a small peak of what the latter ranks got to offer.
-
-With a fair share of mobility and firepower, the Centurion X is a good premium vehicle in the British Post-war lineup. The novelty is about the now, more sloped turret armour features. Despite the evidence of some inadequate armour angles, the tank can surely stand on its own, if played appropriately, with a playstyle pretty much comparable to its tech tree development cousin, the [[FV4202]].
-
-Overall a good way to research higher ranks, learn more about the game style and earn some nifty Silver Lions rewards!
+The '''{{Specs|name}}''' was introduced in [[Update 1.93 "Shark Attack"]] and looks similar to the [[FV4202]], which also has new gun mantlet-less turret. There are some marked differences though, such as the thicker frontal glacis (although less sloped than FV4202), some different contours in the turret slopes, and slightly better mobility due to the stronger engine. Otherwise, the Action X plays similarly to other 20-pdr equipped Centurion types, with balanced mobility and firepower and a new, more sloped turret that can help the tank hold its own in a British Post-war line-up. In the right hands can prove to be a menace on the battlefield. It will be appreciated by aspiring tankers and veterans of the British tanks both, while also giving a little preview of what the later ranks have got to offer.
 
 == General info ==
 === Survivability and armour ===
@@ -26,7 +22,7 @@ Overall a good way to research higher ranks, learn more about the game style and
 '''Armour type:'''
 
 * Rolled homogeneous armour (Hull, turret roof, cupola roof)
-* Cast homogeneous armour (Turret, cupola sides and center)
+* Cast homogeneous armour (Turret, cupola sides and centre)
 
 {| class="wikitable"
 |-
@@ -41,7 +37,7 @@ Overall a good way to research higher ranks, learn more about the game style and
 |}
 '''Notes:'''
 
-* Suspension wheels, tracks and bogies are 20 mm thick.
+* Suspension wheels, tracks, and bogies are 20 mm thick.
 * The belly is 17 mm thick.
 * An internal structural plate of 17 mm thickness separates the forward ammo rack from the driver as seen in X-ray mode.
 * Another internal 17 mm structural plate with large openings separates the driver compartment from the crew compartment.
@@ -118,7 +114,7 @@ The ammunition available to the {{PAGENAME}} offers a wide range of projectiles 
 |}
 '''Notes''':
 
-* Shells are modeled individually and disappear from the rack after having been loaded in the breech.
+* Shells are modelled individually and disappear from the rack after having been loaded in the breech.
 * Racks 10 and 11 are first stage ammo racks. They total 12 shells and get filled first when loading up the tank.
 * These 2 racks are also emptied first when firing: the rack depletion order at full capacity is: 10 - 11 - 1 - 2 - etc. until 9.
 * Simply not firing when the gun is loaded will move ammo from racks 1-9 into racks 11 then 10. Firing will interrupt the restocking of the ready racks.
@@ -160,15 +156,15 @@ The small calibre of the L3A1 machine gun makes it largely ineffective against a
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 At first glance, the Centurion Action X does not bring a significant change in playstyle. Compared to equivalent-rank vehicles, battle usage can be straightforward. But there are some meaningful lessons for future medium tanks that excel at support roles down the rank, namely the [[Chieftain (Family)|Chieftains]].
 
-One way to master this tank's capabilities is to minimize its weaknesses. Knowing the limited maximum speed, the commanders often should resort to long-distance gunnery. This long-range shooting is, in fact, very healthy for the Centurion X. The firepower is more than sufficient to cause damage in most ranges; thus, sniping is where most mainstream British medium tanks will excel. 
+One way to master this tank's capabilities is to minimize its weaknesses. Knowing the limited maximum speed, the commanders often should resort to long‑distance gunnery. This long-range shooting is, in fact, very healthy for the Centurion X. The firepower is more than sufficient to cause damage in most ranges; thus, sniping is where most mainstream British medium tanks will excel. 
 
-The shoot-and-scoot tactic benefits the Centurion Action X. It will protect the vehicle from prolonged exposure as the lower turret is poorly armoured to withstand serious firepower. One way to stay alive is never to expose your lower half of the turret.
+The shoot-and-scoot tactic benefits the Centurion Action X. It will protect the vehicle from prolonged exposure, as the lower turret is poorly armoured to withstand serious firepower. One way to stay alive is never to expose your lower half of the turret.
 
-An early game planning of the map positioning will allow the Centurion Action X to strike lethally without being immediately obliterated. However, players should keep in mind another forte of most British MBTs down the line; this is the flexibility of the gun elevation. Therefore slopes, cliffs and trenches on maps such as [[Ash River]], [[Carpathians (Ground Forces)|Carpathians]] or [[Fulda (Ground Forces)|Fulda]], should be used to multiply the damage the Centurion can cause. 
+An early game planning of the map positioning allows the Centurion Action X to strike lethally without being immediately obliterated. However, players should keep in mind another forte of most British MBTs down the line; this is the flexibility of the gun elevation. Therefore, slopes, cliffs, and trenches on maps such as [[Ash River]], [[Carpathians (Ground Forces)|Carpathians]] or [[Fulda (Ground Forces)|Fulda]], should be used to multiply the damage the Centurion can cause. 
 
-The sniper or support role can provide the best results in the long run, as most tanks at its rank will often struggle to fire effectively when on the move or at long ranges. Meanwhile, the Centurion Action X will quickly get in and out of cover thanks to the gun stabilizer, firing whenever enemy targets are spotted.
+The sniper or support role can provide the best results eventually, as most tanks at its rank will often struggle to fire effectively when on the move or at long ranges. Meanwhile, the Centurion Action X will quickly get in and out of cover thanks to the gun stabilizer, firing whenever enemy targets are spotted.
 
-New players may learn the best way to help your team win the game is by being in the rear supporting the offensive of the most aggressive tanks. Not only covering the fronts but also on the lookout for light flankers.
+New players may learn the best way to help your team win the game is by being in the rear, supporting the offensive of the most aggressive tanks; not only covering the fronts but also on the lookout for light flankers.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -176,17 +172,17 @@ New players may learn the best way to help your team win the game is by being in
 '''Pros:'''
 
 * Powerful high penetrating 20 pdr gun, available with an APDS choice
-* Very quick reload time, down to 6.3 seconds per round when in full crew and ace experience
-* Has good gun depression and with gun stabilizer like other Centurion
-* Slopped upper turret armour, up to 240+ mm thick in some areas
+* Rapid reload time, down to 6.3 seconds per round when in full crew and ace experience
+* Has good gun depression and with a gun stabilizer like other Centurions
+* Sloped upper turret armour, up to 240+ mm thick in some areas
 
 '''Cons:'''
 
 * With only 39 (AB), 35 (RB and SB) km/h top speed, its mobility is mediocre when compared to some contemporary mediums
 * Ammo rack in the front like other Centurions
 * Small internal compartment (only 4 crew members), easy to knock out with one hit
-* Although APDS provides high penetration even in long distances, it provides little post-penetration damage
-* Lower turret armour is not reliable sometimes, very thin armour
+* Although APDS provides high penetration even at long ranges, post-penetration damage is low
+* Lower turret armour is sometimes not reliable, very thin armour
 * No explosive filler on any AP shells
 
 == History ==

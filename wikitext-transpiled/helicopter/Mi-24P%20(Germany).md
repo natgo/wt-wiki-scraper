@@ -22,9 +22,9 @@ With its large size and heavy armour for a helicopter, Hind can at times feel sl
 
 The ▀Mi-24P can achieve a whooping speed of 335 km/h when flying at 50 m altitude, without any problems. Be aware that at this speed, Hind behaves more like a plane rather than helicopter; sharp turns using only mouse control can take ages and helping yourself with keyboard controls can cause loss of lift, leading to crash.
 
-Be aware that while you can exceed the ▀Mi-24P's listed maximal speed by as much as 30 km/h without problems, once you hit 370 km/h and above, your helicopter '''WILL''' flop to the right side. This is especially dangerous during low altitude flight as you won't have time to recover, even with experienced crew.
+Be aware that while you can exceed the ▀Mi-24P's listed maximal speed by as much as 30 km/h without problems, once you hit 370 km/h and above, your helicopter will flop to the right side. This is especially dangerous during low altitude flight as you won't have time to recover, even with experienced crew.
 
-Also be aware that when hovering, the ▀Mi-24P is prone to '''vortex ring state''', a dangerous condition leading to loss of lift and eventually, crash. It is of utmost importance to start moving in any direction, thus gaining lift, as soon as a warning pops up on your screen, otherwise you risk severely damaging if not losing your helicopter.
+Also be aware that when hovering, the ▀Mi-24P is prone to vortex ring state, a dangerous condition leading to loss of lift and eventually, crash. It is of utmost importance to start moving in any direction, thus gaining lift, as soon as a warning pops up on your screen, otherwise you risk severely damaging if not losing your helicopter.
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -57,7 +57,7 @@ Critical components such as engines and transmission are protected by 4 mm steel
 
 Crew sits in an armoured tub consisting of 4 mm steel plates on sides. Gunner position is upgraded to 8 mm plates while pilot gets 4 mm steel plates in his seat. Both crew members get access to 55 mm armoured glass in front of their position.
 
-Armour layout can protect you comfortably from low calibre machine guns and at distance, from [[M2HB (12.7 mm)|.50 cals]] as those commonly used by NATO tanks.
+Armour layout can protect you comfortably from low-calibre machine guns and at distance, from [[M2HB (12.7 mm)|.50 cal]] MGs as those commonly used by NATO tanks.
 
 Larger calibres, such as those found on IFVs, can chew right through your armour, especially at close range.
 
@@ -69,13 +69,13 @@ SAMs will almost always destroy most of your critical components in one hit, tho
 
 The ▀Mi-24P is equipped with a plethora of technologies which increase your survivability dramatically.
 
-First, you have the option to install '''HIRSS''', Hover Infrared Suppressor System that allows your helicopter to reduce or almost eliminate all infrared radiation emitted by exhaust gases of its engines to the surroundings.
+First, you have the option to install HIRSS, Hover Infrared Suppressor System that allows your helicopter to reduce or almost eliminate all infrared radiation emitted by exhaust gases of its engines to the surroundings.
 
-Second, you can install '''IRCM''', non-coherent flashlamps and infrared signal emitters that direct its energy towards incoming missiles in an attempt to blind the missile's infrared sensors and confuse its tracking. In-game, it also causes radar lock to "wiggle" all around your helicopter when viewed through enemy scope, increasing probability of miss.
+Second, you can install IRCM, non-coherent flashlamps and infrared signal emitters that direct its energy towards incoming missiles in an attempt to blind the missile's infrared sensors and confuse its tracking. In-game, it also causes radar lock to "wiggle" all around your helicopter when viewed through enemy scope, increasing probability of miss.
 
-Third, you are equipped with '''RWR''', a radar warning receiver, from the get go. This piece of tech alerts you of active radars on the battlefield, be it ground or air based, and gives you warning when you get radar locked. It also lets you know the position of active radars relative to your helicopter and highlights which radar has locked you.
+Third, you are equipped with RWR, a radar warning receiver, from the get go. This piece of tech alerts you of active radars on the battlefield, be it ground or air based, and gives you warning when you get radar locked. It also lets you know the position of active radars relative to your helicopter and highlights which radar has locked you.
 
-Lastly, you can equip a '''countermeasure launcher''' with a capacity of 192 of either flares, chaff or combination of both. Those are mounted right behind your wing pylons on the side of Hind. Flares work against IR tracking missiles, chaff works against both searching and tracking radar. Since there are currently only two AA vehicles in game equipped with IR SAMs (Japanese [[Type 93]] and Chinese [[PGZ04A]]), it is preferable to prioritize chaff over flares. This becomes more important with growing distance, since IR SAMs can't reach your maximum engagement range when you are using Shturms.
+Lastly, you can equip a countermeasure launcher with a capacity of 192 of either flares, chaff or combination of both. Those are mounted right behind your wing pylons on the side of Hind. Flares work against IR tracking missiles, chaff works against both searching and tracking radar. Since there are currently only two AA vehicles in game equipped with IR SAMs (Japanese [[Type 93]] and Chinese [[PGZ04A]]), it is preferable to prioritize chaff over flares. This becomes more important with growing distance, since IR SAMs can't reach your maximum engagement range when you are using Shturms.
 
 There is not one downside to having all of the above mentioned countermeasures, so keep all of them equipped, always.
 
@@ -83,7 +83,7 @@ Sadly, the ▀Mi-24P is not equipped with MAW, missile approach warning, so you 
 
 '''Staying alive'''
 
-Depending on the situation and payload, your approach to survival is radically different. Rule of thumb is that it is almost always better to stay low to the ground in order to break line of sight and to stay below altitude where proximity fuze on SAMs activates ( usually 25m above ground), but this will be covered more in '''Usage in battles''' section.
+Depending on the situation and payload, your approach to survival is radically different. Rule of thumb is that it is almost always better to stay low to the ground in order to break line of sight and to stay below altitude where proximity fuse on SAMs activates (usually 25 m above ground).
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -209,9 +209,9 @@ Since your rockets are launched in pairs, aim for the roof armour on the back of
 
 '''Tactics:'''
 
-Let's get this out of the way first - helicopter rush tactic '''is a gamble''', since it can lead to either great success (destroying several tanks from the enemy team for the price of one helicopter) or catastrophic failure (getting slapped by [[ADATS]] halfway to the combat zone), depending on whenever the enemy team has active AA at the start of the match.
+Let's get this out of the way first - helicopter rush tactic is a gamble, since it can lead to either great success (destroying several tanks from the enemy team for the price of one helicopter) or catastrophic failure (getting slapped by an [[XM1069]] halfway to the combat zone), depending on whenever the enemy team has active AA at the start of the match.
 
-Thankfully, the ▀Mi-24P, thanks to its ballistic computer, speed, and armour can helicopter rush at the start of the round well. Be aware that it is more often than not a one way trip, since opponents will likely spawn dedicated AA after getting killed by rushing helicopter and '''will''' delete you from sky. Sometimes, you won't even get a chance to do that - some players anticipate helicopter rushes and start a game in AA vehicles, thus probably shutting down your helicopter even before it can do any damage.
+Thankfully, the ▀Mi-24P, thanks to its ballistic computer, speed, and armour can helicopter rush at the start of the round well. Be aware that it is more often than not a one way trip, since opponents will likely spawn dedicated AA after getting killed by rushing helicopter and will delete you from sky. Sometimes, you won't even get a chance to do that - some players anticipate helicopter rushes and start a game in AA vehicles, thus probably shutting down your helicopter even before it can do any damage.
 
 That being said, when helicopter rushing at the start of the round, you need to approach the battlefield as low as possible, in order to avoid enemy radar and break line of sight by putting terrain, trees and structures between you and the enemy. Select heliport spawn closer to the battlefield, and start approaching either spawn or capture point; those have the highest chance of enemies being concentrated there.
 
@@ -221,15 +221,15 @@ Once nearing 1 km distance from your objective, pull up and convert speed into a
 
 As you climb, use your RWR to determine whenever the enemy team has AA or not - if you get pings from RWR, try to find and dispatch enemy AA before it can fire at you - this will allow you to stay alive for a little longer. Only then should you switch your attention to enemy tanks.
 
-One last thing to note is that you '''will be heard before seen''', as helicopters are usually very loud, and some skilled players can anticipate your direction from sound alone and can counter you as soon as you appear above horizon - tanks like [[M1A2 Abrams|M1A2]] are equipped with proximity fuze HEAT-FS shells designed to take down low-flying helicopters, and most IFVs can elevate their guns high enough to engage you when you first emerge from behind the horizon. Thus gaining altitude is vital to success when helicopter rushing.
+One last thing to note is that you will be heard before seen, as helicopters are usually very loud, and some skilled players can anticipate your direction from sound alone and can counter you as soon as you appear above horizon - tanks like [[M1A2 Abrams|M1A2]] are equipped with proximity fuze HEAT-FS shells designed to take down low-flying helicopters, and most IFVs can elevate their guns high enough to engage you when you first emerge from behind the horizon. Thus gaining altitude is vital to success when helicopter rushing.
 
 '''If you decided to go with sniping with Shturms:'''
 
 '''Recommended loadout:'''
 
-If there are '''no enemy planes active''' on the battlefield, pick loadout with the maximum number of Shturms ATGMs possible - these are your best choice at dispatching armoured targets.
+If there are no enemy planes active on the battlefield, pick loadout with the maximum number of Shturms ATGMs possible - these are your best choice at dispatching armoured targets.
 
-If there '''are enemy planes active''', pick loadout with R-60M missiles, those help you with clearing the airspace of any threats to your helicopter.
+If there are enemy planes active, pick loadout with R-60M missiles, those help you with clearing the airspace of any threats to your helicopter.
 
 You can also pick secondary armament to go with your Shturms - either GSh-23L gun pods or S-8KO rocket pods.
 

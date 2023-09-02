@@ -184,10 +184,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Type 130-2]] rockets
 | || 4 || 4 || || 4 || 4 ||
 |-
-! K/PSZ-01 targeting pod
+! K/PZS-01 targeting pod
 | || || || 1* || || ||
 |-
-| colspan="9" | * The K/PSZ-01 targeting pod must be carried when equipping laser-guided bombs
+| colspan="9" | * The K/PZS-01 targeting pod must be carried when equipping laser-guided bombs
 |-
 |}
 
@@ -206,7 +206,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 The good news for players of the Q-5L is that the PLAAF have finally ditched the -2 series bombs for the streamlined -3 series low-drag bombs, in addition to the ability to carry greater payloads. Players can take eight 250-3 bombs which, combined with the ballistic computer, could do extensive damage to multiple targets. While the option for a pair of 500-3 bombs on the wings also exists, in most cases the 250 kg bombs are more than enough to take down tanks of the rank. Both payloads are also now finally sufficient to (barely) destroy a base in Air RB.
 
-Thanks to the technological advances of the early 2000s, the Q-5L also receives "smart bombs" in the 260 kg TS250 and 500 kg LS-500J laser-guided bombs. Combined with the K/PSZ-01 targeting pod with excellent thermal sights, both of these bombs can make sure the enemies will have a really bad day while you can keep yourself out of trouble by dropping the bombs from higher altitude. The TS250 is unlocked first and contains an underwhelming 91 kg of TNT equivalent. The LS-500J is much better with 220 kg of TNT and can quite consistently destroy clustered enemy tanks. Note that the targeting pod blocks the underbelly pylons from being used to carry unguided bombs.
+Thanks to the technological advances of the early 2000s, the Q-5L also receives "smart bombs" in the 260 kg TS250 and 500 kg LS-500J laser-guided bombs. Combined with the K/PZS-01 targeting pod with excellent thermal sights, both of these bombs can make sure the enemies will have a really bad day while you can keep yourself out of trouble by dropping the bombs from higher altitude. The TS250 is unlocked first and contains an underwhelming 91 kg of TNT equivalent. The LS-500J is much better with 220 kg of TNT and can quite consistently destroy clustered enemy tanks. Note that the targeting pod blocks the underbelly pylons from being used to carry unguided bombs.
 
 For players that feel that bombs are not their cup of tea, there are still options for 90 mm and 130 mm rockets at their disposal; while both of them can be guided by ballistic computer as well, do note that they don't have as many salvoes as their NATO/Warsaw Pact counterparts, so aim carefully before firing upon light targets or careless MBTs, taking them out using the high penetration HEAT warheads of the 90-1 or the explosive mass of the 130-2 rockets.
 

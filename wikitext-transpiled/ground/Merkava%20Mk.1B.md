@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''Merkava Mark 1B''' is the first and only subvariant of [[Merkava Mk.1 (USA)|Merkava Mark 1]], which is the first variant of the [[Merkava (Family)|Merkava main battle tank family]]. Israel deployed the Merkava Mark 1 during the Lebanon War in 1982. By removing the palletized ammunition racks from storage during the war, some Merkava Mark 1s were transformed into improvised APCs or armoured ambulances. Through the back entrance, ten troops or walking wounded could enter and leave. Numerous modifications were made and implemented following the battle. Under the back of the turret bustle, there was a shot trap where a well-placed shot might totally jam the turret. Chain netting was added to pre-maturely detonate rocket-propelled grenades (RPGs) before they hit the main armour, increasing survivability. The Merkava Mark 1B and Merkava Mark 1 are essentially distinguished by the addition of a new firing control system, additional side armour for the suspension, and chains with balls on the back of the turret (not implemented in-game). In 1983, manufacturing was stopped in favour of the upgraded Merkava Mark 2 variant.
+
+Introduced in [[Update "Wind of Change"]], the Merkava Mark 1B is the first indigenous ground force vehicle used by the Israel Army. The Israel Army formerly had to rely on importing foreign weapons to maintain its armoured units since its industry was inadequate to develop domestic vehicles. The first armoured tanks and vehicles in Israel were imported or based on designs from other countries, like many others. However, as the British decided not to sell the Chieftain to the Israelis because they were already supplying them to Arab countries, the Israelis eventually developed their own tank development program. The positioning of the engine on the front rather than the back, which is the conventional tank configuration, is one of the Merkava main combat tank's extremely distinctive features. The objective of such a design is to increase crew survivability since Israel is a small country with limited resources and manpower, making it essential for them to survive battles. With its much-improved survivability compared to conventional main battle tanks, players will enjoy playing one of the Middle East's most ironic main battle tanks.
 
 == General info ==
 === Survivability and armour ===
@@ -126,9 +128,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -139,6 +143,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_merkava_mk_1b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -147,6 +152,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Merkava (Family)]]
 ** {{Specs-Link|us_merkava_mk_1}}
 
@@ -155,6 +161,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

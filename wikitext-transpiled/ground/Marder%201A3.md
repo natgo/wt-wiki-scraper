@@ -166,7 +166,7 @@ The Marder 1A3 is best used carefully, since everything can penetrate your armou
 * Respectable ATGM for defeating most tanks
 * Equipped with thermal sights and laser rangefinder
 * 20 mm autocannon is effective against aircraft
-* Removal of the machine gun from the [[Marder A1-]] provides better view of the back
+* Removal of the rear unmanned machine gun from the [[Marder A1-]] provides better view of the back
 * Addition of the DM63 APDS belts increases the effectiveness of the 20 mm
 
 '''Cons:'''

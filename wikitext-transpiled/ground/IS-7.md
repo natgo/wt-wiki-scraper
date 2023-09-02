@@ -6,13 +6,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift Rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. This tank was introduced in [[Update 1.79 "Project X"]] as the main reward of the 2018 [[Operation S.U.M.M.E.R.]] event.
+The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. This tank was introduced in [[Update 1.79 "Project X"]] as the main reward of the 2018 [[Operation S.U.M.M.E.R.]] event.
 
 The IS-7 is the culmination of decades of heavy tank development by the USSR, combining distinctive features of previous iterations of the IS series with more modern technology like an assisted loader. The IS-7 is the ultimate "super-heavy tank", rivalling the Maus and E-100 in pure survivability, with a massive 130 mm naval gun. Nigh impenetrable from the front, even with all but the highest penetration HEAT rounds and ATGMs, this behemoth is more than capable of standing its ground at its BR when played correctly.
 
 The IS-7 looks quite similar to the [[IS-3]] and [[T-10M]], however due to the assisted loader and much heavier armour, the turret is significantly longer. It has machine guns strewn all over the hull and turret, and a distinctive gun with a perforated cylinder type muzzle brake. Its top-mounted 14.5 mm KPVT machine gun is on an extremely tall spindle mount.
 
-As with previous IS tanks, the IS-7 should be played at close to medium ranges, as the monstrous short-range power of the gun falls off with range. Unlike previous models, the IS-7 has far fewer issues with flankers, as the majority of its side armour is leagues ahead of what the earlier machines had. The frontal armour is impossible for almost any kinetic round to penetrate, and with very few weak spots it can be frustrating to deal with. The weapon has a fantastic assisted loader, allowing the 130 mm rounds to be loaded in as little as 10 seconds. This newly upsized C-70 cannon (exclusive to the IS-7) only has APCBC and HE rounds, but with an additional penetration on the BR-482B over the top-tier ammunition from the previous D-25T gun, an experienced IS driver will be able to deal with the vast majority of enemy vehicles they come up against.
+As with previous IS tanks, the IS-7 should be played at close to medium ranges, as the monstrous short-range power of the gun falls off with range. Unlike previous models, the IS-7 has far fewer issues with flankers, as the majority of its side armour is leagues ahead of what the earlier machines had. The frontal armour is impossible for almost any kinetic round to penetrate, and with very few weak spots it can be frustrating to deal with. The weapon has a fantastic assisted loader, allowing the 130 mm rounds to be loaded in as little as 10 seconds. This newly upsized S-70 cannon (exclusive to the IS-7) only has APCBC and HE rounds, but with an additional penetration on the BR-482B over the top-tier ammunition from the previous D-25T gun, an experienced IS driver will be able to deal with the vast majority of enemy vehicles they come up against.
 
 In addition to the formidable armour, the IS-7 has no less than 8 machine guns, a powerful deterrent for any light vehicles that may stray into the path of this machine. To top this off, the IS-7 has a significantly more powerful engine than previous models, relieving the acceleration and manoeuvrability issues encountered prior without costing at all in reverse speed or top forward speed. IS-7 drivers should not be deterred by any terrain, as the wide tracks and powerful engine will make quick work of any surface.
 
@@ -67,11 +67,11 @@ The {{PAGENAME}} sports excellent mobility characteristics, despite its weight; 
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|C-70 (130 mm)}}
+{{main|S-70 (130 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[C-70 (130 mm)|130 mm C-70]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[S-70 (130 mm)|130 mm S-70]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
@@ -84,7 +84,7 @@ The {{PAGENAME}} sports excellent mobility characteristics, despite its weight; 
 | 11.9 || 14.0 || 17.0 || 18.8 || 20.0
 |-
 |}
-The 130 mm C-70 gun stays reliably accurate until 1,500 m distance. Beyond 2,000 m the loss of accuracy becomes a real handicap. The high muzzle velocity of your shells grants you pretty flat firing trajectories and thus helps fire at moving targets from a distance. In that regard, using the "sight distance control" feature can increase your chances of successfully hitting enemy tanks.
+The 130 mm S-70 gun stays reliably accurate until 1,500 m distance. Beyond 2,000 m the loss of accuracy becomes a real handicap. The high muzzle velocity of your shells grants you pretty flat firing trajectories and thus helps fire at moving targets from a distance. In that regard, using the "sight distance control" feature can increase your chances of successfully hitting enemy tanks.
 
 The turret rotation speed is average compared to other tanks at the same rank or battle rating. This makes tracking a target from a distance an easy task to perform. Lacking a stabilizer, the tank absolutely can't fire on the move.
 
@@ -98,7 +98,7 @@ The ammunition choice is limited but effective:
 * '''BR-482B''': APCBC; a capped armour-piercing shell with a ballistic cap that has a high penetration power and an explosive filler. It will destroy any armoured target it penetrates.
 * '''OF-482M''': HE; useful for destroying open and lightly armoured vehicles.
 
-{{:C-70 (130 mm)/Ammunition|BR-482B, OF-482M}}
+{{:S-70 (130 mm)/Ammunition|BR-482B, OF-482M}}
 
 ==== [[Ammo racks]] ====
 <!-- '''Last updated:''' -->

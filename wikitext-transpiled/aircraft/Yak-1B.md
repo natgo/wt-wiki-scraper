@@ -27,7 +27,7 @@ Like other Yakovlev fighters, the Yak-1B is a jack-of-all-trades, having good sp
 
 While the climb rate is good, the engine was designed for low altitudes and the performance drops off drastically at higher altitudes. Power loss is noticeable above 3,000 meters and the aircraft will really start to struggle above 4,000 meters. Another issue is its poor high-speed characteristics. Like many other contemporary Soviet aircraft, the wings are made largely of wood and will rip at relatively low speeds compared to US or German fighters. Even before the rip speed is reached, it suffers from some compression issues. The roll compression starts to become noticeable above ~450 km/h IAS and the elevator suffers significantly above ~600 km/h IAS. While it does not compress as badly as the [[La-5]], combat manoeuvring becomes difficult at these speeds. Even if the wings do not snap, the pilot will easily black out.
 
-The engine tends to run hot and without MEC it will overheat at 100% throttle. Dialling down the throttle to about 96% will alleviate the issue with minimal performance impact. Alternatively, using MEC and opening the radiators slightly is enough to run it at 100% indefinitely. Note that the Yak-1B does not have a WEP setting in realistic battles.
+The engine tends to run hot and without MEC it will, after quite a while, overheat at 100% throttle. Dialling down the throttle to about 96% will alleviate the issue with minimal performance impact. Alternatively, using MEC and opening the radiators slightly is enough to run it at 100% indefinitely. Note that the Yak-1B does not have a WEP setting in realistic battles.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -115,7 +115,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 The Yak-1B is equipped with standard armament for most Yakovlev aircraft: one machine gun and one ShVAK cannon. With 200 and 120 rounds respectively, this is nothing out of the ordinary for this series. It's good against enemy light fighters, but larger aircraft like bombers or twin engine fighters will not go down too easily due to the relatively low burst mass. If forced to engage these tougher targets, try to knock out defensive gunners first and then set the engines on fire with a few accurate bursts.
 
-The ShVAK cannon is an inconsistent weapon in terms of damage, and its main positive attributes are high accuracy and rate of fire. The best belts for it are Default or Armoured targets, though some players use Tracers. Avoid belts containing HEF rounds, as they tend to spark and deal little damage. The Berezin UB heavy machine gun is ironically often more deadly than the ShVAK. The cermet core rounds in the Ground targets belt can rip through enemy aircraft effectively and the Air targets belt is spectacular at starting fires. Air targets is usually the way to go, but feel free to experiment with the others. The ShVAK and Berezin have similar enough ballistics that they can be used together at close to medium range. For harassing targets at somewhat longer distances, use the Berezin in short bursts since it has slightly better ballistics, more ammo to spare, and might start a lucky fire.
+The ShVAK cannon is an inconsistent weapon in terms of damage, and its main positive attributes are high accuracy and rate of fire. The best belts for it are Default or Armoured targets, though some players use Ground, and some Tracers. As of mid 2023, the HEF rounds implementation has been fixed, so it is no longer necessary to avoid belts containing HEF rounds, which used to spark. The Berezin UB heavy machine gun's Cermet-core rounds in the Ground targets belt can rip through enemy aircraft effectively and the Air targets belt is spectacular at starting fires. Air targets is usually the way to go, but feel free to experiment with the others. The ShVAK and Berezin have similar enough ballistics that they can be used together at close to medium range. For harassing targets at somewhat longer distances, use the Berezin in short bursts since it has slightly better ballistics, more ammo to spare, and might start a lucky fire.
 
 If both weapons are fired together, the ShVAK will run out first and the Berezin will be left with around 50 rounds, which is rather insufficient for typical engagements and should indicate that it is time to return to base.
 
@@ -136,34 +136,33 @@ The Yak-1B cannot use the 100 kg bombs available to the Yak-1. The two 50 kg bom
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 === Arcade Battles ===
-The Yak-1B is simply an upgraded Yak-1. The main features that the Yak-1B has over its counterpart is much-improved cockpit visibility, slightly better durability, and a slightly more resilient engine that, unfortunately, still overheats quickly. However, the beauty of the Yakovlev line of fighters lies in two things:
+The Yak-1B is simply an upgraded Yak-1. The main features that the Yak-1B has over its counterpart is much-improved cockpit visibility, slightly better durability, and a slightly more resilient engine that still overheats, but it has been changed since the eraly days and you can climb at 100% throttle to 4000m and it will only be yellow. The beauty of the Yakovlev line of fighters lies in two things:
 
-*Their biggest problem is engine overheating, but this is easily fixed by simply flying between 80%-90% throttle.
+*Overheating can be fixed by flying at or slighly below 97% throttle.
 *The Yak's performance is not hindered in the slightest by flying at this engine power.
 
-Due to the above two facts, in AB: fly at 90% power. The Yaks can dogfight just fine at 90%, and will rarely overheat. Even though in Arcade battles all planes get WEP, the WEP on this plane adds almost nothing to its performance while rapidly overheating the engine, thus using WEP is practically unnecessary. If you find yourself in a situation where your aircraft needs more power, throttle up from 90% to 100% power, however, remember to throttle back down to 90% once you can.
+Due to the above two facts, in AB: fly at 95% to 97% power. The Yaks can dogfight just fine at 97%, and will rarely overheat. Even though in Arcade battles all planes get WEP, the WEP on this plane adds almost nothing to its performance while rapidly overheating the engine, thus using WEP is practically unnecessary. If you find yourself in a situation where your aircraft needs more power, throttle up to 100% power, however, remember to throttle back down once you can.
 
 Wait for the dogfight to start, then fly in behind a distracted enemy. Shoot in bursts unless tailing a bomber, in which case you will not last very long against their rear gunners unless you are incredibly accurate with the cannon. If your engine begins to overheat, start flying back to your airfield. Otherwise, your engine will give out after the temperature gauge turns red.
 
 To sum up, this is merely a better version of the Yak-1, with similar tactics and strategy. Just remember that Soviet fighter aircraft in general count heavily on its pilot's accuracy, in this case only have two guns!
 
 === Realistic Battles ===
-If not using MEC, take off at 100% throttle, then go to 90% after getting above the trees. Upon reaching around 500 m, go to 80-85% throttle. If using MEC, open the radiators somewhat (~20-30%) and turn up the prop pitch (~90%). This will keep the engine cool, allow you to run the throttle at 100%, and also bring out extra propeller thrust for better climb and acceleration. '''Stay low at all costs!''' If you climb too high, four things will happen:
+Overheating has been much decreased sonce the early implementation. If not using MEC, take off at 100% throttle, then go to 97% after getting to 3000m to 4000m. If using MEC, open the radiators somewhat (~20-30%) and turn up the prop pitch (~90%). This will keep the engine cool, allow you to run the throttle at 100%, and also bring out extra propeller thrust for better climb and acceleration. '''Stay low at all costs!''' If you climb too high, four things will happen:
 
-# You will have run your engine out trying to climb, so your engine has less time before it overheats than usual. (You also don't climb as fast as most other planes, in fact, there are better Soviet aircraft for climbing, such as the MiG-3 and the La-5).
+# You will have run your engine out trying to climb, so your engine has less time before it overheats than usual.  Note: Overheating is much less prevalent now (mid 2023) than it used to be. (You also don't climb as fast as most other planes, in fact, there are better Soviet aircraft for climbing, such as the MiG-3 and the La-5).
 # You will be highly visible.
 # You will have reduced manoeuvrability.
 # You will easily rip your wings upon trying to dive (The Yak's wings, is made of wood, disappear at about 600 km/h).
 
 If you stay below 3,000 m, then you will have more advantages than the enemy, such as:
 
-# Better camouflage... harder to spot.
-# There is almost no chance of ripping wings.
+# There is less chance of ripping wings.
 # You are already at optimal altitude and speed for manoeuvring.
 # Enemies easily overshoot you or rip wings attempting to dive on you.
 # You can trick enemies into flying into the ground (make sure you don't do so yourself!).
 
-If not using MEC, right before entering a dogfight, bring your throttle to 90%. Flying at this reduced throttle setting in Realistic Battles is enough to fight at below 1,000 m (some experienced Yak pilots will even dogfight at 80% throttle!). Immediately after battling it out, bring the throttle back down to 80% (if you don't already have it there). Only in extreme cases use 100% power; however, maintaining that speed tends to overheat the engine quickly.
+Flying at 95% to7% throttle setting in Realistic Battles is enough to fight at below 1,000 m (some experienced Yak pilots will even dogfight at 80% throttle!). 
 
 While the Yak-1B has stellar performance at very low altitudes, it is still a good idea to climb a bit, perhaps to at least 2,000 meters. This gives you more options when an enemy dives in from above. Dodging them with a hard break is a reliable option, and when performed correctly this will sometimes lead to manoeuvre kills, but the enemy can also escape by zoom climbing up, where you will be unable to follow. Essentially, you will be at their mercy unless they become impatient and attempt to dogfight you. Enemies like Spitfires that combine manoeuvrability and altitude advantage will be difficult opponents even if they engage in a dogfight! If you start with some altitude, you can enter a dive to gain speed once they start to get close, then level out and take advantage of the Yak-1B's excellent low-altitude top speed. If the opponent continues to chase you, they will likely run out of bonus speed from the dive and fall behind, neutralizing their energy advantage. If they wisely break off, you can nose up and return to cruising altitude with little energy lost, waiting for another opportunity. Successfully executing this can take a lot of practice, but it is a very useful skill, and not just for Yaks.
 
@@ -171,13 +170,13 @@ The Yak-1B manoeuvres best at around 400 km/h IAS, where its roll and turn rate 
 
 It is recommended to avoid firing at ground targets due to the limited ammunition available for use against other planes. Remember that you do not reload in mid-air in Realistic Battle, so ammunition conservation is critical while closing the distance with the enemy before firing. Remember, fire only in short bursts to conserve ammunition and avoid jamming the guns. The great thing about the Yak's guns is that they are centre-line mounted. Guns mounted in the propeller shaft mean that you do not have to worry about convergence points, instead lead the target and snipe. The drawback is that you cannot spray the mark with a hail of bullets like most players tend to do. This plane and all the Yaks afterwards are about accuracy and skill necessary to handle this agile plane. Do not commit to head-ons, as the Yak-1B is rather fragile and the burst mass is not enough to reliably win these engagements.
 
-When landing, slow the aircraft to BELOW 300 km/h before lowering the landing gear! Many Yak pilots have ripped their fragile landing gear when descending too fast with them extended. The last thing all Yak pilots should know in Realistic Battles is never to climb higher than 3,000 m (at or below 1,000 m is preferred). The Yak line of fighters was not built to fight at the higher altitudes, and the game is filled with much more capable aircraft in this respect. If you like B&Z or you prefer to climb high, but don't want to use the US or German planes, then use the MiG line or the LaGG/La line of fighters, as they have much better engines. The Yak is a dog-fighter.
+When landing, slow the aircraft to BELOW 300 km/h before lowering the landing gear! Many Yak pilots have ripped their landing gear when descending too fast with them extended. The last thing all Yak pilots should know in Realistic Battles is preferably not to climb higher than 3,000m to 4000m (at or below 2,000 m is preferred). The Yak line of fighters was not built to fight at the higher altitudes, and the game is filled with much more capable aircraft in this respect. If you like B&Z or you prefer to climb high, but don't want to use the US or German planes, then use the MiG line or the LaGG/La line of fighters, as they have better high altitude engines. The Yak is a dog-fighter.
 
 ===Tips from the Aces===
 
-* A Yak pilot can nullify all but the last "[[Yak-1B#Pros_and_Cons|Cons]]" below by staying below 2000 m, and keeping the throttle at 90% for AB, and 85% for RB/SB, or using MEC.
+* A Yak pilot can nullify all but the last "[[Yak-1B#Pros_and_Cons|Cons]]" below by staying below 2000 m, and keeping the throttle at 90% for AB, and 95% for RB/SB, or using MEC.
 * ''If the situation allows'', using in-cockpit view can often help with accuracy due to no parallax effect... meaning (hopefully) less of your precious shots wasted.
-* Flaps help with hard turns, but against most opponents, flaps will not be utilized much. Use flaps wisely, since flying at ~90% means a tiny bit less engine power to get back to speed after slowing down due to using flaps. However, don't hesitate to use flaps if the fight depends on it, it is easier to regain speed than to pay for a new plane!
+* Flaps help with hard turns, but against most opponents, flaps will not be utilized much. Use flaps wisely, since flying at ~95% means a tiny bit less engine power to get back to speed after slowing down due to using flaps. However, don't hesitate to use flaps if the fight depends on it, it is easier to regain speed than to pay for a new plane!
 * Everything learned from the Yak-1B applies to all of the later Yaks. Mastering this plane will repay itself in gold later.
 
 ===Specific enemies worth noting===
@@ -220,7 +219,7 @@ When landing, slow the aircraft to BELOW 300 km/h before lowering the landing ge
 '''Cons:'''
 
 * No WEP in RB/SB
-* Water and oil overheat quickly
+* Water and oil overheat gradually at 100%
 * Low dive speed limit
 * Poor performance above 5,000 m altitude
 * Low ammo count makes this plane reliant on trigger control by the pilot

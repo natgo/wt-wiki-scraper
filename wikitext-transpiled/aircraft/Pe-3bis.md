@@ -136,16 +136,38 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100 (100 kg)|FAB-250M43 (250 kg)|RS-132|RBS-132}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_Pe-3.png]]</div>
+|-
+! [[FAB-100sv (100 kg)|100 kg FAB-100sv]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[FAB-250sv (250 kg)|250 kg FAB-250sv]] bombs
+| || || 1 || 1 || ||
+|-
+! [[M-13UK]] rockets
+| 3 || || || || || 3
+|-
+! [[RBS-132]] rockets
+| 3 || || || || || 3
+|-
+| colspan="7" | Maximum permissible loadout weight: 720 kg<br>Maximum permissible wing load: 360 kg<br>Maximum permissible weight imbalance: 280 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 2 x 100 kg FAB-100 bombs (200 kg total)
-* 4 x 100 kg FAB-100 bombs (400 kg total)
-* 2 x 250 kg FAB-250M43 bombs + 2 x 100 kg FAB-100 bombs (700 kg total)
-* 6 x RS-132 rockets
+* 4 x 100 kg FAB-100sv bombs (400 kg total)
+* 2 x 250 kg FAB-250sv bombs (500 kg total)
+* 6 x M-13UK rockets
 * 6 x RBS-132 rockets
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

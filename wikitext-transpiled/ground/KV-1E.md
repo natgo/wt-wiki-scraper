@@ -158,33 +158,30 @@ This tank does not excel here due to bad mobility, and the greatest strength of 
 === Enemies worth noting ===
 Generally, it is a good idea to avoid engaging the enemy armoured vehicles mentioned below frontally if possible, as they can reliably harm you and vice versa.
 
-* - '''[[Pz.IV F2]] / [[Pz.IV G|G]] / [[Pz.IV H|H]] / [[Pz.IV J|J]]''' - Lethal at short ranges, shoot first.
+* - '''[[Pz.IV F2]] / [[Pz.IV G|G]] / [[Pz.IV H|H]] / [[Pz.IV J|J]]''' - Their long cannons have lethal penetrations at short ranges. Shoot their turret or hull side. Frontal hull is not recommended since they can equip add-on armour and/or spare tracks, increasing the thickness up to 100 mm. 
 * - '''[[M4A3E2]] Jumbo / [[M4A3E2 (France)]]''' - Shoot at sides/rear or the armour weak spot above the gun-mantlet or Hull MG.
-* - '''[[T14]]''' - Shoot at the hull MG port + sides/rear.
-* - '''[[Churchill III]] / [[Churchill VII]]''' - Hull at the MG port + sides/rear.
-* - '''[[ARL-44 (ACL-1)]]''' - Difficult to engage frontally, shoot sides/rear.
+* - '''[[T14]]''' - Shoot at the hull MG port, turret ring, or lower side hull. Its 75 mm gun has great depression angles, is vertically stabilised, and has around 100 mm penetration at close range, giving it a fair chance to shoot first and even penetrate the KV-1E's weakspots.
+* - '''[[Churchill III]] / [[Churchill VII]]''' - Target their hull at the MG port, hull sides when facing vertically, or rear. Or you can take your time and destroy their gun barrels and tracks, their cannons can only fire solid shots with relativlely poor pentration, thus they will have a hard time disabling your crew.
+* - '''[[ARL-44 (ACL-1)]]''' - Target their front sprocket wheels when their hull are facing straight at you. The shot will go through the sprocket and penetrate a weakly protected "box" behind it which is connected to the hull, sending its shrapnels to the crew inside the hull. Or, shoot its sides/rear whenver possible. Do not shoot at its upper front plate.
+* - '''Tanks destroyers''' in general - Vehicles like the [[Dicker Max]], [[Sturer Emil]], [[Breda 501]], [[8,8 cm Flak 37 Sfl.|8,8 cm Flak 37 sfl]]., etc all have high penetration and large explosive fillers, allowing them to critically damage the KV-1E at a distance/angle where other tanks cannot. Morever they tend to have other qualities such as great gun depression, high-zoom gunsight, high speed, allowing them to ambush the KV-1E from far away or in an unexpected flank. Thus, if you know the presence of a tank destroyer near by, target them first. If not, be careful and watch out for suspecious bushes and corners.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Heavily armoured for its battle rating: great armour protection on all sides
-* Angling your hull makes the frontal armour immune to most guns it faces
-* Sides are well protected
+* Heavily armoured for its battle rating, can easily bounce off shells from common foes like [[M4A1]]
 * Acceleration is good on flat terrain
-* Crew of five allows for higher survivability
-* Gun does a lot of post penetration damage
+* Crew of five brings high survivability, especially against British solid shells
+* Gun does a lot of post penetration damage. Can one shot compact tanks like [[T-34 (Family)|T-34]]
 
 '''Cons:'''
 
-* Can encounter other armoured fighting vehicles that are able to easily penetrate its armour, such as the [[Pz.IV F2]]
+* Some other tank (destroyer)s are able to easily penetrate its armour, such as [[Dicker Max]]
+* Lacklusture mobility: poor top speed, decreases speed dramatically in a turn or climbing hills
 * Large exposed gun breech, very vulnerable to damage
 * Large fuel tanks lined up on the side
-* Additional weight hampers the tank's already poor top speed
-* Making turns will decrease your speed dramatically
-* Climbing hills almost brings the tank to a halt
-* The 76 mm F-32 gun is a bit underpowered at its BR and will struggle against some tanks such as the M4A2's front plate
+* The 76 mm F-32 gun struggles against some tanks like the [[M4A2]], [[T-34 (Family)|T-34]]
 * Slow turret traverse: if you need to face another direction quickly you must rotate both the turret and the hull
 
 == History ==

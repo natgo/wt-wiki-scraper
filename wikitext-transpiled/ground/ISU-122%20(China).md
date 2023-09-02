@@ -12,7 +12,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''ISU-122 (Самоходная установка на базе танка ИС с орудием калибра 152мм, ИСУ-152)''' is a Soviet assault gun used primarily in anti-tank tasks during World War II. Unlike the [[ISU-152 (China)|ISU-152]], the ISU-122 was primarily utilized for anti-armour missions, whereas the ISU-152 was used more for indirect fire support and anti-fortification operations. Following the beginning of the Korean War, the Soviet Union committed to providing military assistance to China. China received 10 infantry division tank regiments from the Soviet Union in September 1950, with 300 T-34-85 medium tanks, 60 IS-2 heavy tanks, and 40 ISU-122 self-propelled artillery, as well as trucks and other support vehicles. More than 2,000 military vehicles were sent to China, along with three large and medium-sized repair factories and various ammunition.
+
+Introduced in [[Update 1.91 "Night Vision"]], the ISU-122 is well-armoured and mounted with a 122 mm A-19 field gun. It has greater shell penetration and a slightly faster reload speed than the earlier ISU-152. On the right roof corner, a DShK heavy machine gun provides adequate deterrence against incoming planes and lightly armoured vehicles. Since both the 152 mm and 122 mm guns are installed on the same chassis, which was also utilized for the heavy tank IS-2, the other characteristics remain the same.
 
 == General info ==
 === Survivability and armour ===
@@ -228,6 +230,7 @@ When the [[ISU-152]] began production in 1943 with the large 152 mm ML-20S gun, 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_isu_122 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -236,15 +239,18 @@ When the [[ISU-152]] began production in 1943 with the large 152 mm ML-20S gun, 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[ISU-122]]
 * [[ISU-122S]]
 
 ;Other vehicles of similar configuration and role
+
 * [[ISU-152]]{{-}}[[ISU-152 (China)]]
 * [[SU-122P]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

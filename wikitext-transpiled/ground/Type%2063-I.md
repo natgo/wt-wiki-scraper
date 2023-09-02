@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''Type 63-I amphibious tank (63式水陆坦克)''', the first variant of the Type 63 amphibious tank family, was China's first generation of amphibious tanks, based on the Soviet [[PT-76 (China)|PT-76]] and developed and built by China North Industries Corporation. In 1950, China purchased some PT-76 amphibious tanks from the Soviet Union. Using the PT-76 as a guide, China began the development of its own amphibious tank. In 1959, factories code-named 201 and 617 developed initial prototypes that replicated the PT-76, and a small number of prototypes were delivered to the Chinese People's Liberation Army for trial in 1960. Improvements were made in response to problems discovered during trial production and testing, and the design was finalized in March 1963. It was given the designation Type 63 amphibious tank and went into full production. The Type 63-I amphibious tank first saw service in 1964 and was sent to North Vietnam for deployment throughout the Vietnam War. It also saw limited action in the 1979 Sino-Vietnamese War.
 
-The Type 63 can be considered a domestic Chinese counterpart to the Soviet-produced [[PT-76 (China)|PT-76]] amphibious light tank, its predecessor in the tech tree. It is far from a copy, however. It features a similar cast turret to the [[Type 62]] equipped with the same 85 mm gun, and the hull has larger dimensions and a different position for the driver. This 63-I variant has a more powerful engine as well. While the protection and gun handling are poor, the firepower and speed much improved from the PT-76. Few tanks at its battle rating can boast a HEAT-FS round with 300 mm of penetration, a nasty surprise for enemy heavy tanks. The Type 63 offers a taste of what's to come in the succeeding Type 62, which has similar firepower while improving in practically every aspect aside from the ability to swim.
+Introduced in [[Update 1.91 "Night Vision"]], the Type 63-I is the first domestic Chinese amphibious tank based on the Soviet-produced PT-76 amphibious light tank. The Type 63-I, which uses the same turret as the [[Type 62]], possesses significantly greater firepower than its Soviet counterpart. Despite its lack of armour, the Type 63-I amphibious tank is equipped with HEAT-FS, which can penetrate 300 mm of armour. However, it lacks the two-plane stabilizer featured in later PT-76 variants, making accurate fire while moving difficult.
 
 == General info ==
 === Survivability and armour ===
@@ -185,6 +185,7 @@ The Type 63 was exported to several countries, including Myanmar, Albania, and V
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_63_I Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -197,6 +198,7 @@ The Type 63 was exported to several countries, including Myanmar, Albania, and V
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

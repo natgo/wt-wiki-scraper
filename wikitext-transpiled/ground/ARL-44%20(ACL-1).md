@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French heavy tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. The ARL-44 (ACL-1) is the second heavy tank in the French tree. It is a well-rounded foe more suited for a medium tank role than an heavy one due to lacking armour (which is still very good). It distinguishes from previous French heavy tanks for having a potent gun. The ARL-44 (ACL-1) is a prototype design that would be finalized as the [[ARL-44]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} French heavy tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. The ARL-44 (ACL-1) is the second heavy tank in the French tree. It is a well-rounded foe more suited for a medium tank role than an heavy one due to lacking armour (which is still decent). It distinguishes from previous French heavy tanks for having a potent gun. The ARL-44 (ACL-1) is a prototype design that would be finalized as the [[ARL-44]].
 
 The ARL-44 (ACL-1) bears very distinctive characteristics, with a WWI-style track system (similar to the Churchill) which runs across the whole side of its chassis. This tank is a mix of different inspirations, mainly late war German tank technology such as the [[Panther D|Panther series]] or the [[Tiger II (H)|Tiger II]], from which it takes its slope frontal armour and tall profile. As France was reviving from WW2, its engineers were hard at work to catch up with tank technology, the ARL-44 series was a training ground for them. This is why this tank has rather weird design choices, coming from both experience and experimentation.
 
@@ -141,7 +141,9 @@ Your mobility is rather poor, with a rigid suspension, outdated tracks and a lon
 [[File:ARL-44 weakspot picture.png|thumb|This piece of armour will detonate the shell, leading to the knock out of at least 1 crew member]]
 
 * One might assume that the ARL's side armour is also very thick, complex, and hard to penetrate at an angle but the ARL can actually get penetrated frontally even with 3.7 tanks despite the fact that the tracks and hull sides somewhat resemble the structure of a Churchill heavy tank. Behind the track and front sprocket wheel lays an unangled armour of only 50 mm thickness. The effective thickness of all these components combined are no more than 100 mm when aiming from the front. Therefore even a 3.7 tank can shoot at the track and the shell will most certainly go through the frontmost wheel, then penetrate the 50 mm armour, sending shrapnel into the crew compartment with its explosion. Of course, solid shots will not work as good since you are shooting at the very edge of the tank after all, you need explosive filler to knock out the crew who are beside the point of penetration. This weak spot remains small and requires close proximity.
+
 [[File:ARL-44 (ACL-1) weakspot picture.png|thumb|As seen through protection analysis, this weak spot only has an effective thickness of less than 100 mm, meaning almost any tank can reliably penetrate there]]
+
 * Do not attack the {{PAGENAME}} frontally unless you have enough armour to afford it.
 * Sneak around it and target the turret from the back or the side. The {{PAGENAME}} has a slow turret traverse and flat side and rear armour, making it especially vulnerable to flanking.
 * If you have no other option than to attack it frontally, blind it with smoke before closing the gap. Target either the turret cupola or the lower part of the front glacis when the {{PAGENAME}} is not angling as they are weak spots.
@@ -188,6 +190,7 @@ The  {{PAGENAME}} saw no service or combat action.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_arl_44_acl1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

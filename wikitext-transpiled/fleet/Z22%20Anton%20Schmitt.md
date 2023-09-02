@@ -39,11 +39,11 @@ The Z22 is quite an agile ship, but it suffers from poor acceleration past 40 km
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
-{{main|SK C/34 (127 mm)}}
+{{main|12.8 cm/45 SK C/34 (128 mm)}}
 
-The Z22 Anton Schmitt is armed with a five 12.7 cm SK C/34 cannons in single mounts, with two located at beam, and three at stern. All the turrets have ready-use ammo consisting of 10 rounds with a rate of fire of 18 rounds per minute, decreasing to 15 rounds per minute after depleting the ready-use ammo. Three different rounds are available, HE, HE with base fuse and HE-TF against aerial threat. It is advised to use the HE shell with base fuse to cause some serious damage to your opponents by aiming at their weak spots such as magazines above waterline or turrets. The HE-TF shell can be used against incoming aircraft at long ranges as the guns have good elevation.
+The Z22 Anton Schmitt is armed with a five 12.8 cm SK C/34 cannons in single mounts, with two located at beam, and three at stern. All the turrets have ready-use ammo consisting of 10 rounds with a rate of fire of 18 rounds per minute, decreasing to 15 rounds per minute after depleting the ready-use ammo. Three different rounds are available, HE, HE with base fuse and HE-TF against aerial threat. It is advised to use the HE shell with base fuse to cause some serious damage to your opponents by aiming at their weak spots such as magazines above waterline or turrets. The HE-TF shell can be used against incoming aircraft at long ranges as the guns have good elevation.
 
-{{:SK C/34 (127 mm)/Ammunition|12.7 cm Sprgr. L/4.4 Kpf.Z, 12.7 cm Sprgr. L/4.4 Bd.Z, 12.7 cm Sprgr. L/4.4 Zt.Z}}
+{{:12.8 cm/45 SK C/34 (128 mm)/Ammunition|12.8 cm Sprgr. L/4.4 Kpf.Z, 12.8 cm Sprgr. L/4.4 Bd.Z, 12.8 cm Sprgr. L/4.4 Zt.Z}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
@@ -116,8 +116,7 @@ On the dawn of 10 April, five destroyers of the British 2nd Destroyer Flotilla m
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Related development
-
+;[[Type 1936 (Family)|Related development]]
 * [[Z20 Karl Galster]]
 
 == External links ==

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Israeli strike aircraft {{Battle-rating}}. It was introduced as a [[wt:en/news/7383-development-israel-a-new-gaming-nation-coming-to-war-thunder-en|premium pack]] in [[Update "Ground Breaking"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Israeli strike aircraft {{Battle-rating}}. It was introduced as a [[wt:en/news/7383-development-israel-a-new-gaming-nation-coming-to-war-thunder-en|premium pack]] in [[Update "Ground Breaking"]], however it was removed from the Gaijin store at the end of the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]]. It was briefly made available for purchase with Golden Eagles {{GE}} for the [[wt:en/news/8354-special-the-israeli-a-4e-is-back-for-the-anniversary-of-its-maiden-flight-en|2023 "A-4E Maiden Flight Anniversary"]].
 
 == General info ==
 === Flight performance ===

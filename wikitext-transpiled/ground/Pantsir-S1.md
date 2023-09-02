@@ -5,7 +5,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''{{Specs|name}}''' is a Russian SPAA designed with the intent of complementing and enhancing the existing air defence capabilities for military, industrial, and administrative installations. The development of the Pantsir-S1 can be traced back to the early 1990s, when the Russian military realised it needed an adaptable short-to-medium-range air defence system. The Instrument Design Bureau (KPB Tula) and the Ulyanovsk Mechanical Plant worked together to develop the Pantsir-S1. The main objective was to develop a highly adaptable and powerful anti-aircraft system that could take on a variety of aerial threats, such as helicopters, fighter jets, and drones. It features advanced radar systems and a combination of missiles and guns for effective air defence. Additionally, the system is equipped with a high degree of automation, allowing for quick reaction times and efficient target engagement.
+
+The {{Specs|name}} was introduced in [[Update "Sky Guardians"]] as a top-tier SPAA vehicle. In terms of gameplay, the Pantsir-S1 excels at engaging aircraft and helicopters at medium to close range. Its combination of missiles and autocannons allows it to deal with various aerial threats effectively. However, its armour is relatively thin, so players need to be cautious about enemy ground units. Nonetheless, the Pantsir-S1's mobility and versatility ensure that it can provide effective air defence support to friendly forces.
+
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
@@ -40,7 +43,7 @@ The Pantsir-S1 is a wheeled vehicle, making any crossing on mud, snow or ice dif
 
 This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 RPM. The maximum speed forwards is 70 km/h, while the reverse speed is limited to -10 km/h, making retreats difficult.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=568|rbMinHp=354}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -52,8 +55,6 @@ This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|2A38M (30 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="6" | [[2A38M (30 mm)|30 mm 2A38M]] (x4) || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -63,17 +64,16 @@ This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 1,404 (351) || rowspan="2" | 1,250 || rowspan="2" | -1°/+85° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 1,404 (351) || rowspan="2" | 1,250 || rowspan="2" | -1°/+85° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 59.0 || 81.7 || 99.2 || 109.7 || 116.7 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 39.9 || 46.9 || 57.0 || 63.0 || 67.0
 |-
 |}
 
 ==== Ammunition ====
-
 * '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}
-* '''30 mm HE:''' {{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
+* '''30 mm HEI:''' {{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
 * '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}
 
 {{:2A38M (30 mm)/Ammunition|HEF-I*, AP-T, HEF-T*}}

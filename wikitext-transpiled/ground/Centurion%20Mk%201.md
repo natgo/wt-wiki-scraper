@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]]. It is equipped with the well-known British [[Ordnance QF 17-pounder (76 mm)|QF 17-pounder]] mounted on a new hull that definitively makes the Cromwell chassis outdated.
+The '''Centurion Mk 1''' was the first variant of the [[Centurion (Family)|Centurion medium tank family]]. Despite being classified as a medium tank by World War II standards, it can also be regarded as an early precursor to the Main Battle Tank, a designation established after the Second World War. The Centurion family is largely regarded as one of the most successful post-war tank designs, with manufacture continuing into the 1960s and combat continuing into the 1980s. The chassis was altered for a variety of various functions, and some of these modifications are still in use. It was a widespread tank with good armour, good mobility, and a powerful main tank gun. The Centurion was designed to fulfil a request for a 45-tonne tank with a 650-horsepower engine, strongly sloped frontal armour, and the new and powerful 76 mm QF 17-pounder tank gun in October 1943. This would effectively result in a vehicle comparable to the German Panther tank. When the first production variant, the Centurion Mk 1 had been built, World War II in Europe was almost over. With some fighting still going on there, there was a hurry to bring this brand-new tank to Germany, possibly in the hopes of seeing some action. Even if it was unable to, the tank would be operational, and the experience acquired in a conflict zone would be invaluable in furthering its development. The Centurion Mk 1 swiftly grew into a wide tank family with as many as 13 distinct variants, each featuring multiple major modifications that may be considered a sub-family in and of themselves.
 
-This tank does not play like any of the preceding British vehicles: while its mobility is below average for a rank IV medium, it compensates with armour, meaning that you will actually be able to withstand frontal combat and return fire, even if you get hit. It is the first medium to feature the late-game British armour pattern: a strong turret, thick and well-angled upper-glacis, weak lower glacis and thin sides. British tankers must get used to this configuration since it is found on every following medium tank.
-
-The Centurion Mk 1 moves away from the familiar Cromwell chassis. While not being as fast or manoeuvrable, It does have sloped frontal armour, a strongly armoured turret, and a good QF 17-pounder gun with access to APDS.
+Introduced in [[Update 1.67 "Assault"]], the Centurion Mk 1 is a ground-breaking design that combines strong armour, superb mobility, and a potent main tank gun. It is also one of the first British Army ground forces vehicles to have its transmission overhauled, resulting in much enhanced reverse speed. Players will undoubtedly value the new ability to effectively retreat back to cover after firing in order to avoid enemy retaliation. The renowned 76 mm QF 17-pounder tank gun should be familiar to players of British Army ground forces.
 
 == General info ==
 === Survivability and armour ===
@@ -45,7 +43,7 @@ The Centurion Mk 1 moves away from the familiar Cromwell chassis. While not bein
 *Another internal 17 mm structural plate with large openings separates the driving compartment from the fighting compartment.
 *Angle for maximum effectiveness, even though most guns at the battle rating have trouble penetrating the Upper Frontal Plate even at close range. Namely the Tiger, Panther, T-34-85, and M4A2 (76).
 
-The {{PAGENAME}} is the first tank players will encounter in the British tech tree that sports a sloped hull front similar to the Panther and Soviet tanks, which with a thickness of 76.2 mm provides decent protection for its battle rating, especially when the hull is angled slightly. 
+The {{PAGENAME}} is the first tank players will encounter in the British tech tree that sports a sloped hull front similar to the Panther and Soviet tanks, which with a thickness of 76.2 mm provides decent protection for its battle rating, especially when the hull is angled slightly.
 
 Turret armour features 127 mm thickness throughout the front but features many flat areas that cannons of sufficient power will exploit to destroy the tank, especially since 3 out of the 4 crew members are located in the turret. Side armour can withstand autocannon fire with exceptions for HVAP rounds, so don't rely on it outside of that. If the situation becomes sticky and a tactical retreat is required, a single wide volley of smoke grenades launched from the turret can cover you from the line of sight.
 
@@ -53,7 +51,7 @@ The roof armour is mostly around 25 mm thick, which will protect from poorly aim
 
 All in all, its thick and sloped hull armour is the biggest upgrade from previous British medium tanks. Reaching 152 mm on the turret and a good 76 mm angled at 58° on the front hull, this tank can actually deflect shots from a lot of cannons it will face like the Soviet [[D-5T (85 mm)|D-5T]], the Japanese [[Type II Model II (75 mm)|Type II 75 mm]] and even some older German guns (if aimed poorly). This only gets better when the tank is further angled to the side.
 
-This means, that at 500 m range the tank can actually cut into corners or simply expose its upper glacis because it will just bounce inaccurate shots from medium tanks or even weak short SPGs. This tank still has weak spots though: gun and MG mantlet, which are "only" 127 mm thick and barely angled, and lower glacis, which are 76 mm thick at 44°, meaning close-range shots will eventually penetrate, even in full down-tier. It also has thin side armour, meaning that the tank is vulnerable to flank attacks and compound angling cannot be done effectively without exposing the sides. 
+This means, that at 500 m range the tank can actually cut into corners or simply expose its upper glacis because it will just bounce inaccurate shots from medium tanks or even weak short SPGs. This tank still has weak spots though: gun and MG mantlet, which are "only" 127 mm thick and barely angled, and lower glacis, which are 76 mm thick at 44°, meaning close-range shots will eventually penetrate, even in full down-tier. It also has thin side armour, meaning that the tank is vulnerable to flank attacks and compound angling cannot be done effectively without exposing the sides.
 
 These traits mean that with some care the {{PAGENAME}} can happily stand on the front against most nations (with major exception being Germany).
 
@@ -211,6 +209,7 @@ The first Centurions to see combat were British and Canadian Centurions Mk 3 in 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_mk_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

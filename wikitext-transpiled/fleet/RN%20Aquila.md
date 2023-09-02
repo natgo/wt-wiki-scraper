@@ -95,4 +95,5 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rat
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Cantieri Navali Pattison}}
 {{Italy destroyers}}

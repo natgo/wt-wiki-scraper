@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American light cruiser {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
+'''{{Specs|name}}''' is the lead ship of the [[Brooklyn (Family)|Brooklyn class]] of light cruisers. Laid down in 1933, she would enter service in 1937 and serve throughout World War Two, notably taking part in the Battle of Casablanca and providing fire support for the Invasion of Sicily and the Anzio-Nettuna landings before providing naval gunfire for the Allied troops landing in southern France. Postwar, she was put into reserve in 1947, before being transferred to the Chilean Navy in 1951, being renamed to "O'Higgins" and serving for another 40 years. She finally sunk under tow in 1992.
+
+Introduced in [[Update 1.87 "Locked On"]], USS Brooklyn is in her 1941 refit, and as this was completed, her anti-aircraft battery is quite small. With only 8 heavy machine guns, this will do almost nothing to protect the ship against enemy air. This does however leave the ship less vulnerable to splash from high explosive shells, as far fewer crew are in exposed or unarmoured positions when compared to her sister ship, [[USS Helena]], which is in a later configuration. With 15 {{Annotation|6-inch|152 mm}} guns with an exceptional fire rate of 6 seconds with a good crew, Brooklyn is lethal to other cruisers, and of course destroyers, being able to easily dispatch any lightly armoured ship, and more heavily armoured ships once the range closes.
 
 == General info ==
 === Survivability and armour ===

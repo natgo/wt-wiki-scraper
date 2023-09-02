@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese SPAA {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
+The '''{{Specs|name}}'''(known as the M42防空砲車 in ROCA service) is the SPAA of ROCA and ROCMC since 1958 as the replacement of M19 GMC. Due to its inferior performance by the 1960s where supersonic jet were commonplace, these vehicles were usually used as a fire-support vehicle instead thanks to its devastating dual 40 mm autocannon; although domestic 20 mm autocannon and imported SAMs have replace them by 1980s, they are still sometimes used during exercises as fire-support vehicle by ROCMC in recent years.  
 
-The Chinese M42 Duster is identical to the US version. Compared to other SPAA vehicles (like the [[Phòng không T-34]], [[Wirbelwind]], [[M16 MGMC|Multiple Gun Motor Carriage M16]], etc.), the M42 is typically regarded as one of the less effective SPAAs, due to its very exposed crew and mediocre rate of fire of 120 rounds per minute.
+Introduced in [[Update 1.95 "Northern Wind"]] alongside with the Chinese ground tech-tree.The Chinese M42 Duster is identical to the US version. Compared to other SPAA vehicles (like the [[Phòng không T-34]], [[Wirbelwind]], [[M16 MGMC|Multiple Gun Motor Carriage M16]], etc.), the M42 is typically regarded as one of the less effective SPAAs, due to its very exposed crew and mediocre rate of fire of 120 rounds per minute.
 
 If used as a light tank, the M42 does not have the armour to stand up directly to many of the other vehicles which it will face on the battlefield, especially against tanks which may fire high-explosive shells. The Duster will fare better against machine gun fire and potentially against some of the lighter autocannon fire which it may encounter, though not for long. Due to the M42's lightweight nature, it is best to stay around cover to help shield the Duster. It is also essential to only expose the vehicle when necessary to get a shot. If discovered, it is best to have a contingency location to which to fall back and regroup.
 
@@ -145,7 +145,7 @@ The M42 "Duster" self-propelled anti-aircraft gun began its service in the ROC a
 === ...Perish in soft living ===
 In 1998, the 205 arsenal of the ROC Joint Logistics Command developed the T82 twin 20 mm Air Defense Cannon. At the same time, the Army purchased the Avengers Air Defense Missile System from the United States to construct a new air defense system. Thus, the outdated M42 SPAAGs started to retire from service. However, due to the insufficient number of the Army's field air defense missiles, some of the M42 SPAAGs in the air defense battalion of the Army's Artillery Group were still in service along the "Jaeger" anti-aircraft missile system until around 2012. By 2012, all M42 SPAAGs in the Army were replaced by T82T towed Air Defense Cannons. However, the Marine Corps units stationed on the outer islands such as Matsu kept using M42 SPAAG as infantry support vehicle until at least 2017.
 
-''(Thrive in calamity and perish in soft living is a Chinese saying.)''
+''(Thrive in calamity and perish in soft living 生於憂患，死於安樂 is a Chinese saying.)''
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

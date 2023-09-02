@@ -135,29 +135,51 @@ The guns, while deadly if they hit, have slow velocity, so it is important to ge
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|SAMP Type 21 (400 kg)|AN-M65A1 Fin M129 (1,000 lb)}}
-{{main|AA-20 Nord|SNEB type 23|T10 151}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| 1 || || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1 || || 1
+|-
+! [[AN-M65A1 Fin M129 (1,000 lb)|1,000 lb AN-M65A1 Fin M129]] bombs
+| 1 || || 1
+|-
+! [[SNEB type 23]] rockets
+| 19 || 55 || 19
+|-
+! [[T10 151]] rockets
+| 6 || || 6
+|-
+! [[AA-20 Nord]] missiles
+| 1 || || 1
+|-
+| colspan="4" | Maximum permissible loadout weight: 1,100 kg<br>Maximum permissible weight imbalance: 450 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 2 x 400 kg SAMP Type 21 bombs (800 kg total)
-* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-* 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
-* 38 x SNEB type 23 rockets
-* 12 x T10 151 rockets
-* 55 x SNEB type 23 rockets
-* 93 x SNEB type 23 rockets
-* 55 x SNEB type 23 rockets + 12 x T10 151 rockets
-* 55 x SNEB type 23 rockets + 2 x 400 kg SAMP Type 21 bombs (800 kg total)
-* 55 x SNEB type 23 rockets + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-* 55 x SNEB type 23 rockets + 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
 * 2 x AA-20 Nord missiles
-* 2 x AA-20 Nord missiles + 55 x SNEB type 23 rockets
+* 12 x T10 151 rockets
+* 38 x SNEB type 23 rockets
+* 55 x SNEB type 23 rockets
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 2 x 400 kg SAMP Type 21 bombs (800 kg total)
+* 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
+{{Navigation-End}}
 
 The Mystere has access to incredibly powerful rocket armaments. The heavy duty T10 151 rockets perform similarly to US HVARs, being rather slow, but deadly upon direct hit. They are very effective when attacking heavy tanks, as well as pillboxes, displaying 390 mm of penetration at a 30 degree angle. The other option is the high velocity SNEB type 23, which is effective for attacking medium tanks and MBT's, as well as light pillboxes. There is an option to have the SNEBs be mounted inside the fuselage, which will cause them to be launched 5 at a time just under the nose of the plane, for increased accuracy.
 
-The AA.20 Nord air-to-air missiles are manually guided and not very agile, so they are best used against slow moving targets with a steady heading like Tu-4s. They are also very effective in head-on engagements with practice from the user.
+The AA-20 Nord air-to-air missiles are manually guided and not very agile, so they are best used against slow moving targets with a steady heading like Tu-4s. They are also very effective in head-on engagements with practice from the user.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

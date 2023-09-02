@@ -35,7 +35,7 @@ It is advisable to focus on shooting down aircraft when you first unlock the OTO
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=1,179|rbMinHp=734}}
+{{tankMobility|abMinHp=1,562|rbMinHp=973}}
 
 === Modifications and economy ===
 {{Specs-Economy}}

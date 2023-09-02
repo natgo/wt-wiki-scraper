@@ -156,7 +156,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|a7m2}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|ki_43_3_otsu}}
 {{Tree-Arrow}}
@@ -167,15 +167,15 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|ki_61_2_early}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|ki_102_otsu}}
 {{Tree-Arrow}}
 {{Tree-Unit|ki_108}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|b7a2}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|3}}
 |
 {{Tree-Unit|ki-49_2b}}
 {{Tree-Arrow}}
@@ -186,13 +186,15 @@
 {{Tree-Arrow}}
 {{Tree-Unit|ki_67_1_otsu}}
 }}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|ki-96}}
 {{Tree-Skip}}
 {{Tree-Unit|ki_61_1a_hei_ep}}
 {{Tree-Skip}}
 {{Tree-Unit|a7m1}}
+{{Tree-Skip}}
+{{Tree-Unit|b7a2_homare_23}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|p-51c-11-nt_japan}}

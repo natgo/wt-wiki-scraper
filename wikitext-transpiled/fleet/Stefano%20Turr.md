@@ -115,4 +115,5 @@ File:Stefano Turr III.png
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer CMASA}}
 {{Italy boats}}

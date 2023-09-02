@@ -123,4 +123,5 @@ In 1969, HMS Diana was sold to the Peruvian navy, renamed BAP Palacios, and refi
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Yarrow Shipbuilders}}
 {{Britain destroyers}}

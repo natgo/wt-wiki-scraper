@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light bomber {{Battle-rating}}. It was introduced in [[Update 1.63 "Desert Hunters"]].
 
-This plane is a pure bomber hunter and ground attack aircraft. If there are no bombers for you to hunt, switch to heading on fighters. Should you survive to late match and find that the tickets will decide the match then you may load up air-to-ground weapons, but not before that.
+This plane is an effective bomber hunter and ground attack aircraft. If there are no bombers for you to hunt, switch to attacking fighters using the altitude advantage given by the bomber spawn. Should you survive to late match and find that the tickets will decide the match then you may load up air-to-ground weapons, but not before that.
 
 == General info ==
 === Flight performance ===
@@ -176,13 +176,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-In AB and RB, you should immediately bomber hunt, as those will be your easiest kills, combined with your bomber altitude, you should stay high until you run out of targets to engage then you should go for injured fighters and ground targets. When diving, use your airbrakes to be sure not to exceed your maximum speed in a dive.
+In AB and RB, you should immediately bomber hunt, as those will be your easiest kills, combined with your bomber altitude, you should stay high until you run out of targets to engage then you should go for fighters, before ground targets when it is safe to do so. When diving, use your airbrakes to be sure not to exceed your maximum speed of 680kph in a dive. Exceeding 550kph, sustaining a flick roll and other sharp acrobatics may break your wings.
 
 '''How to offensively engage an enemy aircraft:'''<br>
-The first thing you should do is head on. Your four Hispano guns will completely obliterate any aircraft from the front with a 3-second burst. In your head on you should open fire as far out as you feel comfortable, then turn out immediately after you hit him, as you don't want him to change direction until after your volley hits home.
+While it is tempting because of the Brigand's strong armament, avoid fully committing to head ons where possible, as the Brigand has a sluggish control response which will impede your ability to dodge and you will almost certainly receive some damage if you do not break off quickly after firing. When engaging bomber targets, avoid sitting on their tail as the Brigand is a large target for their tail gunners - make a high speed pass, disengage, and assess the enemy bomber for another attack if necessary. Be wary dogfighting fighters, as while the Brigand is quite capable at turning, its ability to retain and generate energy is below most fighters, and firing solutions can be difficult to capitalise on due to its unwieldy controls. In a long fight or at a numerical disadvantage this can easily become your downfall.
 
 '''How to perform defensive fighting:'''<br>
-Should an enemy get on your six, your best bet is to bolt towards allied fighters/airfield and give the enemy a hard time aiming at you. While moving in the same general direction, dart your nose around and play with the roll, rudder and rise, if you are lucky he'll either overshoot, run out of ammo, or get shot down. Under no circumstance should you ever turn fight anything smaller than a medium bomber, otherwise you will bleed off your speed or the attacker will out turn you and acquire a firing solution.
+Should an enemy get on your six, your best bet is to bolt towards allied fighters/airfield and give the enemy a hard time aiming at you. While moving in the same general direction, dart your nose around and play with the roll and rudder. Flick rolls are a near-necessity in the Brigand to quickly rotate the aircraft and will be a crucial asset to dodge guns. Avoid going up when defensive, as you will quickly find yourself low on energy and vulnerable. The Brigand is a large target, so you must maintain situational awareness to be able to dodge incoming shots, else you will almost certainly be hit.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -208,12 +208,11 @@ Should an enemy get on your six, your best bet is to bolt towards allied fighter
 
 * Great armament of four nose-mounted Hispano V cannons
 * Bomber spawn (AB and RB)
-* Decently manoeuvrable for an aircraft of its size, especially with combat flaps
+* Decently manoeuvrable for an aircraft of its size, especially with combat flaps, capable of out-turning fighters like the Bf 109 and P-51 at some speeds
 * Plenty of ammo
 * Good attack payloads of 2,000 lbs or 16 RP-3 Rockets, even mixed
 * Very good cockpit visibility
 * Heavy armour on the nose of aircraft for head-ons
-* Good diver
 * Air brakes that provide lift upon usage
 
 '''Cons:'''
@@ -237,6 +236,7 @@ The Brigand B.1 as seen in-game would first see service with No. 84 and No. 8 Sq
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=brigand_b1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -244,6 +244,7 @@ The Brigand B.1 as seen in-game would first see service with No. 84 and No. 8 Sq
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

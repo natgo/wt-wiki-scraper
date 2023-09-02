@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Battle-rating}}. It was introduced during [[Update "Drone Age"]] as a reward for the 2022 [[wt:en/news/7882-event-project-overpowered-en|Project "Overpowered"]] event.
+The '''Close Combat Vehicle Light (CCVL)''' is developed as part of the United States Army's Armored Gun System (AGS) competition in the 1990s to design a light tank to replace the M551 Sheridan and the TOW-equipped High Mobility Multipurpose Wheeled Vehicle (HMMWV; colloquially: Humvee) to equip new light divisions. It was the culmination of various development initiatives conducted in the 1970s to provide air-mobile light infantry squads with the firepower required for success on the battlefield. The three companies that were designed for the demand were Cadillac Gage Company, Teledyne Continental, and FMC Corporation. Cadillac Gage Company designed the Stingray light tank in the standard four-man configuration. The FMC Corporation designed the CCVL in a three-man configuration due to the installation of an autoloader. Teledyne Continental designed the Expeditionary Tank in an unusual two-man configuration, featuring an unmanned turret and autoloader. In 1992, the FMC design was chosen, readjusted, and renamed the M8 Armored Gun System. However, the entire AGS project was ultimately cancelled in the mid-1980s due to funds being withdrawn due to the Gramm-Rudman Act, and procurement of the M8 Armored Gun System terminated in 1997.
+
+Introduced in [[Update "Drone Age"]] as a reward for the 2022 [[wt:en/news/7882-event-project-overpowered-en|Project "Overpowered"]] Event, the CCVL is equipped with a Rheinmetall modified 105 mm cannon M68A1 in a soft-recoil, autoloading main gun turret-mount, as well as a co-axial 7.62 mm M240 machine gun. The three-man crew configuration included the commander and gunner in the turret, as well as the driver in the front centre of the hull. The armour provides limited protection against heavy machine gun (HMG) fire and small artillery shrapnel. The CCVL, which is two-plane stabilized and equipped with a laser rangefinder (LR) and thermal imaging equipment for the gunner, provides outstanding firepower as well as exceptional mobility, fulfilling its historic intended duty as a light mobile gun that can be easily airdropped and deployed.
 
 == General info ==
 === Survivability and armour ===
@@ -84,7 +86,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Bat
 |}
 '''Notes''':
 
-* Shells are modeled individually and disappear after having been shot or loaded.
+* Shells are modelled individually and disappear after having been shot or loaded.
 * Rack 3 is a first stage ammo rack. It totals 19 shells and gets filled first when loading up the tank.
 * If you pack 20&nbsp;''(+23)'' shells or fewer, it will keep the front hull empty of ammo.
 * Simply not firing when the gun is loaded will move ammo from racks 1-2 into rack 3. Firing will interrupt the restocking of the ready racks.
@@ -111,21 +113,17 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Bat
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
-* Fairly quick - useful as a scout vehicle at higher BRs
+* Fairly quick, useful as a scout vehicle at higher BRs
 * Can deploy a personal UAV
 * Ammunition combined with a powerful main armament creates a deadly combination
 * Much easier to aim due to two-plane stabilization
 
-*
-
 '''Cons:'''
 
-* Lacking in armour protection - lightweight vehicle means less protection
+* Lacking in armour protection, lightweight vehicle means less protection
 * Can be picked off by sustained arms fire
 * Transmission and engine can easily be knocked out
 * Ammunition cooking is painfully common, especially when trying to rush a point
-
-*
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

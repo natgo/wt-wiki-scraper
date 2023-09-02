@@ -5,35 +5,35 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British heavy tank {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the initial British ground tree. Designed to combat the Soviet [[IS-3]], the Conqueror gives the British line a much-needed vehicle with an emphasis on armour and firepower, with a [[M58 (120 mm)|120 mm L1A2 cannon]] capable of defeating all of the Rank V competition it will face.
+Following the reveal of the [[IS-3]] during the 1945 Victory Parade through Berlin, the British realised the need for a new heavily armed and heavily armoured tank. Plans were drawn to create a "Universal Tank" hull, which would then be able to mount a variety of different armaments to suit a range of roles. The heaviest of this set of planned vehicles was the '''Conqueror''', armed with a 120 mm gun inspired by and developed alongside that of the American [[M103]], designed to be able to face down any Soviet threats and provide long-range anti-tank support for the existing [[Centurion (Family)|Centurion]]. 
 
-The Conqueror was the tank the [[Caernarvon]] hull was designed for. The Caernarvon itself only being a stop-gap measure, with most models being upgraded to Conquerors once the type was approved for production. The Conqueror augments this hull with a significantly upgraded turret design housing the 120 mm L1A2 cannon.
+By 1950, the new hull and chassis were nearing completion, while the gun and turret were still under development. Thus, a project to mount the turret of the [[Centurion Mk 3]] was spawned, in order to ease the development process and train crews on the new hull, resulting in the [[Caernarvon]]. 1951 saw completion of the new gun and its acceptance into service, while the turret was still being finalised; plans for a stop-gap carriage for the new gun resulted in the Centurion hull-based [[Conway]]. Prototypes were complete by 1952, and the tank itself finally entered service in 1955, being sent immediately to armoured regiments stationed in West Germany. Both the Conqueror and Centurion were ultimately replaced by the [[Chieftain (Family)|Chieftain]] in 1966.
 
-The Conqueror deviates from most earlier British designs, favouring firepower and armour. This, combined with its somewhat limited mobility, results in the Conqueror proving to be one of, if not the single most effective sniper and support tank at its rank. Despite this, it can be put to good use in close-range engagements.
+Introduced in [[Update 1.55 "Royal Armour"]] along with the initial British ground tree, the Conqueror deviates from most earlier British designs, favouring firepower and armour. With an extremely powerful main cannon, solid armour protection, and surprising (but still rather lacking) manoeuvrability for such a heavy vehicle, the Conqueror proves to be a highly effective sniper and support tank, able to crack open heavily armoured targets from long ranges. Making use of its strong armour and gun stabiliser allows it to also be put to good use in close-range brawls, although the subpar mobility and long reload can limit the vehicle in this aspect.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-[[File:Conqueror trapshot mantlet .png|thumb|400x400px|A basic weak spot of the Conqueror; the gun mantlet. The area is hit because of Conqueror's poor depression. It can be targeted by large-calibre HE, APDS and Sabot shells. -''The shown camouflage is known as 'Phalanx', part of the 'Night vision' trophy.'']]
+[[File:Conqueror trapshot mantlet .png|thumb|400x400px|A basic weak spot of the Conqueror; the gun mantlet. The area is hit because of Conqueror's poor depression. It can be targeted by large-calibre HE, APDS and Sabot shells. - The shown camouflage is known as 'Phalanx', part of the "Night Vision" chest.]]
 The Conqueror utilises the same hull as the Caernarvon does, with respectable frontal armour capable of shrugging off rounds from many adversaries. Unfortunately, this hull suffers from similarly weak side and rear armour - and as such angling, the vehicle can prove extremely dangerous if it exposes the side too much. The Conqueror replaces the Caernarvon's Centurion-based turret with a fresh design, providing much better crew spacing and protection. The turret is not without its weaknesses, however; the commander's cupola protrudes quite significantly and APHE or HESH shells may disable internal turret components or crew members. There is also a weak section directly behind the mantlet at the top of the turret, penetration of which will disable crew or the breech/horizontal turret drive.
-Trap shots are possible, it is likely to get shot with a high calibre HE, capable of damaging the tank by hitting the base of the turret and exploding into the driver and/or ammo rack just below it. Unlike with similar tank [[M103]] though, for most heavy tanks HE can only penetrate the driver hatch, taking them out, and damage the gun breech on a good hit. SPG calibre HE (like 152 mm of [[Object 268]]) will definitely destroy the roof armour and ammo rack, resulting in a knock-out, unless only a few shells are being carried (which is highly impractical). Non-HE shells are less likely to ricochet and do significant internal damage like this, but it is still possible to push them into the tank.
+Trap shots are possible, it is likely to get shot with a high-calibre HE, capable of damaging the tank by hitting the base of the turret and exploding into the driver and/or ammo rack just below it. Unlike with similar tank [[M103]] though, for most heavy tanks HE can only penetrate the driver hatch, taking them out, and damage the gun breech on a good hit. SPG calibre HE (like 152 mm of [[Object 268]]) will definitely destroy the roof armour and ammo rack, resulting in a knock-out, unless only a few shells are being carried (which is highly impractical). Non-HE shells are less likely to ricochet and do significant internal damage like this, but it is still possible to push them into the tank.
 
-The frontal track guards are also very vulnerable at particular angles and can be exploited even when sides are not exposed to instantly destroy the tank using nearly any gun, like with [[Churchill Mk VII]]. The more realistic scenario, however, is high calibre HESH hitting the ground next to them and setting the tank on fire or outright destroying it. Fortunately, most tanks which are capable of this and are going out of their way to use HESH instead of HEAT are British and can only be your opponent in AB, in RB the likelihood of receiving such hit is greatly reduced.
+The frontal track guards are also very vulnerable at particular angles and can be exploited even when sides are not exposed to instantly destroy the tank using nearly any gun, like with [[Churchill Mk VII]]. The more realistic scenario, however, is high-calibre HESH hitting the ground next to them and setting the tank on fire or outright destroying it. Fortunately, most tanks which are capable of this and are going out of their way to use HESH instead of HEAT are British and can only be your opponent in AB, in RB the likelihood of receiving such hit is greatly reduced.
 
-The Conqueror has a researchable add-on armour package which improves the vehicle's survivability to HEAT rounds and by a small amount to kinetic rounds.<ref name="dtic" />
+The Conqueror has a researchable add-on armour package which improves the vehicle's survivability to HEAT rounds and by a small amount to kinetic rounds.<ref name="dtic" /> The Conqueror is relatively resistant to HEAT ammunition, smaller HEAT ammunition may have issue harming the Conqueror when hull-down.
 
 '''Armour type:'''
 
 * Rolled homogeneous armour
-* Cast homogeneous armour (Turret)
+* Cast homogeneous armour (turret)
 * Structural steel (Side skirts)
 
 {| class="wikitable" style="text-align:center"
 |-
 ! Armour !! Front !! Sides !! Rear !! Roof
 |-
-| Hull || 130 + 20 mm (59°) ''Front glacis'' <br> 76 mm (44°) ''Lower glacis'' || 51 + 6 mm || 38 mm ''Top'' <br> 20 mm (60°) ''Bottom'' || 44 mm ''Front'' <br> 17 mm ''Crew hatch'' <br /> 17 mm ''Rear''
+| Hull || 130 + 20 mm (59°) ''Front glacis'' <br> 76 mm (44°) ''Lower glacis'' || 51 + 6 mm || 38 mm ''Top'' <br> 20 mm (60°) ''Bottom'' || 44 mm ''Front'' <br> 17 mm ''Crew hatch'' <br> 17 mm ''Rear''
 |-
 | Turret || 152-313 mm (0-68°) ''Turret front'' <br> 89-200 mm (0-78°) ''Gun mantlet'' || 89-233 mm (1-48°) || 50 mm (1-34°) || 51 mm <br> 31 mm ''Square area near gun'' <br> 17 mm ''Crew hatches''
 |-
@@ -166,21 +166,24 @@ As usual, keep in mind that the vehicle's sides and lower front plate are partic
 * HESH ammo may have surprising results, and can prove particularly effective against light or side armour
 * The L1A2 cannon is fully two-plane stabilised, allowing it to be fired accurately on the move
 * Coaxial machine gun has ballistic performance similar to the HESH round and may be used for ranging
-* Turret and upper front plate are very sloped and armoured, with very few weak points
+* Turret and upper front plate are very sloped and armoured, with few weak points
 * Add-on armour offers more protection in the form of spaced armour to the turret cheeks and upper plate
 * Well-spaced crew make the vehicle unlikely to be affected by crew knock-out in a single hit
 * Reasonably good mobility despite weight and huge gun
-* Rangefinder allows for accurate distance measuring up to 1,300 m
+* Optical rangefinder allows for accurate distance measuring
+* Reasonable reverse speed allows the Conqueror to peek shots effectively
+* Conqueror has commander override: a knocked out gunner will not prevent the player from firing
 
 '''Cons:'''
 
 * HESH is not reliable against any vehicle with semi-decent armour; requires high skills and knowledge of the enemy
-* Long reload time (19.4 second base) for British standards, although relatively standard for calibre
-* Only 7.62 mm machine guns
+* The APDS penetration at angles above 45 degrees is significantly reduced 
+* Long reload time (19.4 second base) for British standards, although relatively standard for the calibre
+* Only rifle-calibre machine guns
 * Particularly weak side armour and lower front plate; will be commonly targeted areas
 * Only 17 mm of protection on the wide engine deck will be targeted by planes
 * Top speed is limited at only 34 km/h; it faces really mobile enemies such as the [[Leopard (Family)|Leopards]]
-* Penetrations in the turret ring area often results in ammunition detonation; ammo racks are strewn all-around
+* Large cupola can be exploited by APHE ammunition
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

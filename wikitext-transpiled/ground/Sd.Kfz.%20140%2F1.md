@@ -63,10 +63,10 @@ The speed and power-to-weight ratio of the {{PAGENAME}} are both superior to the
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 300 (10) || rowspan="2" | 450 || rowspan="2" | -4°/+70° || rowspan="2" | ±180° || rowspan="2" | N/A || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
+| rowspan="2" | 300 (10) || rowspan="2" | 450 || rowspan="2" | -4°/+70° || rowspan="2" | ±180° || rowspan="2" | - || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| 8.9 || 10.5 || 12.8 || 14.1 || 15.0
+| 23.8 || 28.0 || 34.0 || 37.6 || 40.0
 |-
 |}
 
@@ -114,14 +114,14 @@ This tank has a coaxial 7.92 mm MG 42 machine gun that is a sufficient fallback 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,800 (150) || 1,200 || N/A || N/A
+| Coaxial || 1,800 (150) || 1,200 || - || -
 |-
 |}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Sd.Kfz. 140/1 is a multirole armored vehicle which mainly focuses on light/medium armor and air targets. It can be considered a combination between the Pz.II and the Flakpanzer 1.
+The Sd.Kfz. 140/1 is a multirole armoured vehicle which mainly focuses on light/medium armour and air targets. It can be considered a combination between the Pz.II and the Flakpanzer 1.
 
 ''As a scout:''
 
@@ -129,7 +129,7 @@ The Sd.Kfz. 140/1 has a decent speed, low profile and scouting abilities. It is 
 
 ''As a support vehicle:''
 
-Due to its high rate of fire, the 20 mm gun is able to not only damage tracks but all tank modules at its BR. This is particularly helpful when engaging heavier targets which cannot be penetrated by the HVAP belts. The gun barrel, tracks, engine deck or any other module that can disable the tank are the main targets the player must aim to in order to disable the tank and make it an easier prey for friendlies who can take down the heavy armor. It is also able to repair assist, meaning it is able to reduce the repair time of a friendly vehicle in helped. This is not only an RP incomer but also can save your life in a tense situation in which 2 guns are better than a single 20 mm.
+Due to its high rate of fire, the 20 mm gun is able to not only damage tracks but all tank modules at its BR. This is particularly helpful when engaging heavier targets which cannot be penetrated by the HVAP belts. The gun barrel, tracks, engine deck or any other module that can disable the tank are the main targets the player must aim to in order to disable the tank and make it an easier prey for friendlies who can take down the heavy armour. It is also able to repair assist, meaning it is able to reduce the repair time of a friendly vehicle in helped. This is not only an RP incomer but also can save your life in a tense situation in which 2 guns are better than a single 20 mm.
 
 ''As an anti-air:''
 
@@ -168,7 +168,7 @@ In 1934, the Czechoslovak tank manufacturer ČKD developed an alternative design
 In March 1937, the Czechoslovakian Ministry of Defense asked both country's tank producers to propose a new type to supplement the LT-35, which could be mass-produced as soon as possible. They indicated that they would purchase at least 400 vehicles and guaranteed an initial order of 260. Naturally, ČKD offered the TNH, which was already fully developed. In tests from January 25, 1938, the type proved superior to all counterparts. On July 22, 1938, Czechoslovakia ordered 150 vehicles of the Type Lt Vz.38, for 620,146 crowns each. The intention was to achieve a monthly production of 20. However, when the first tank left the factory in February, the land was already divided; shortly afterwards, the Czech hull state was also occupied: none of the tanks could eventually serve the army before the German occupation began.
 
 === In German service ===
-As early as March, the factory management had contacted the Germans to continue production after the occupation. Germany had a great shortage of medium tanks and although the now LTM 38 tank was officially called a light tank, with its 37 mm gun it was no worse armed than the German medium Panzerkampfwagen III and much better than the light Panzerkampfwagen I and Panzerkampfwagen II; it was not only more reliable than the LT-35, but also than the light German tanks. Czech production capacity in the early years allowed Germany to form about a third more armored divisions and was thus critical to success during that time of the war. The production of the tank continued as Panzerkampfwagen 38 (t) (the name from January 16, 1940) until June 1942 and 1411 were built; monthly production peaked in September 1941 with 76 vehicles. There was also exported to the countries on the German side: Hungary took 102, Slovakia 69, Romania 50 and Bulgaria 10. Due to the rapid technical developments during the war, the type soon became obsolete. She was too small to carry a bigger cannon in a tower; several plans to do so were rejected. From 1942, the LT-38s were replaced or assigned less important tasks.
+As early as March, the factory management had contacted the Germans to continue production after the occupation. Germany had a great shortage of medium tanks and although the now LTM 38 tank was officially called a light tank, with its 37 mm gun it was no worse armed than the German medium Panzerkampfwagen III and much better than the light Panzerkampfwagen I and Panzerkampfwagen II; it was not only more reliable than the LT-35, but also than the light German tanks. Czech production capacity in the early years allowed Germany to form about a third more armoured divisions and was thus critical to success during that time of the war. The production of the tank continued as Panzerkampfwagen 38 (t) (the name from January 16, 1940) until June 1942 and 1411 were built; monthly production peaked in September 1941 with 76 vehicles. There was also exported to the countries on the German side: Hungary took 102, Slovakia 69, Romania 50 and Bulgaria 10. Due to the rapid technical developments during the war, the type soon became obsolete. She was too small to carry a bigger cannon in a tower; several plans to do so were rejected. From 1942, the LT-38s were replaced or assigned less important tasks.
 
 However, Germany could not afford to leave production capacity idle; the chassis was extremely useful due to its reliability. A modified chassis of the PzKpfw 38 (t) therefore became the basis for various types of mechanized artillery, mechanized artillery and tank hunters, including the successful German Jagdpanzer 38, better known today as the "Hetzer".
 
@@ -177,17 +177,17 @@ However, Germany could not afford to leave production capacity idle; the chassis
 {{Navigation-First-Simple-Line}}
 The Aufklärungspanzer 38(t) reconnaissance tank was based on the Pz.38(t) towards the end of 1943, by the BMM construction office in Prague. The order specifications required a 20 mm automatic cannon and a 75 mm regular cannon.
 
-A Praga AE engine with 160 hp at 2,600 rpm replaced the Praga AC. This required a change in the exhaust system and the introduction of a longer exhaust pipe, which, together with a muffler, was put on the tank's roof. The tank's hull received a new superstructure, with modified inclination and with riveted joints for its armor plates.
+A Praga AE engine with 160 hp at 2,600 rpm replaced the Praga AC. This required a change in the exhaust system and the introduction of a longer exhaust pipe, which, together with a muffler, was put on the tank's roof. The tank's hull received a new superstructure, with modified inclination and with riveted joints for its armour plates.
 
 The tank's armament consisted of a 20 mm automatic KwK38 L/55 cannon paired with a 7.92 mm MG42 machine gun. The guns could be pointed anywhere between -4 and 70 degrees and so could fire at air targets. The tank's ammunition included 300 shells and 1,500 machine gun rounds.
 
-The open-top hexahedral turret, manufactured by the company Appelt, was equipped with a metal mesh to protect against hand grenades. The tank's armor thickness ranged from 8 to 50 mm. Its operational weight reached 9,750 kg. At this weight, its maximum highway speed was 52 km/h, and its maximum highway range was 240 km.
+The open-top hexahedral turret, manufactured by the company Appelt, was equipped with a metal mesh to protect against hand grenades. The tank's armour thickness ranged from 8 to 50 mm. Its operational weight reached 9,750 kg. At this weight, its maximum highway speed was 52 km/h, and its maximum highway range was 240 km.
 
 The Aufklärungpanzer 38(t) tank was accepted into the Wehrmacht in 1944, but large-scale production of the machine was never successfully introduced. A total of 70 tanks were produced.
 
 The tanks were used on both the West and the Eastern Fronts.
 
-Its design was successful, reliable, and advanced. However, the rivet joints in its armor plating were a detriment to its survivability.
+Its design was successful, reliable, and advanced. However, the rivet joints in its armour plating were a detriment to its survivability.
 {{Navigation-End}}
 
 == Media ==

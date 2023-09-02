@@ -13,11 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.77 "Advancing Storm"]].
+Following the Italian Armistice on 3rd September 1943, Allied command decided to reinforce the friendly Co-Belligerent forces with British and American aircraft, including the Spitfire Mk V. These were assigned to the 20th Gruppo of 51st Stormo at Leverano. In 1945, the 20th Gruppo was moved to Lecce-Galatina, where they operated reconnaissance missions and fighter escort for allied bombers along with the rest of the 51st Stormo, equipped with C.202s and C.205s. They were also involved in the strafing of a German convoy near the Balkans, during which one of the 3 attacking Spitfires was downed by anti-air fire. The Italian Spitfire Mk Vs were replaced by [[Spitfire F Mk IX|Mk IX]]s between 1946-1948.
 
-This Spitfire, part of the 51°Stormo, represents the Italian side known as the Italian Co-belligerent Air Force (Aeronautica Cobelligerante Italiana), which fought along the allies in the last years of the war.
-
-The capabilities of this British Spitfire provide a fresh air in performance, plus an excellent premium boost useful for the aspiring Italian pilots looking to master the powerful planes down the ranks.
+Introduced in [[Update 1.77 "Advancing Storm"]], the capabilities of the Spitfire provide a fresh playstyle from the established mainstays of the Italian tech tree. The Spitfire Mk Vb/trop sports powerful Rolls-Royce Merlin 45 engine, producing 1,440 hp; coupled with its light and sleek design, the Spitfire has good speed and climb rate, but its main strength is its tight turn radius. The basic strategy that many Spitfire pilots use is a tactic whereby they bait head-ons from enemy aircraft, before evading and turning around to put shots into the target at close range while the enemy is pulling out. When the Spitfire has the initiative in the engagement and has successfully manoeuvred onto a six-o-clock aspect, it is nearly impossible for the opponent to regain the advantage. Using clever management of the throttle and manoeuvres to gain or bleed energy, an experienced pilot can maintain the initiative in the engagement and stay on an opponent's six o'clock.
 
 == General info ==
 === Flight performance ===

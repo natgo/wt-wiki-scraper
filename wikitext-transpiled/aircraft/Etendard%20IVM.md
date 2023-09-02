@@ -130,21 +130,59 @@ The Etendard has good acceleration up to 1050 km/h, after which the aircraft ten
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|LDGP Mk 83 (1,000 lb)|DEFA 552 (30 mm)}}
-{{main|AIM-9B Sidewinder|AS-20 Nord|AS-30 Nord|SNEB type 23}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[DEFA 552 (30 mm)|30 mm DEFA 552]] cannons (120 rpg)
+| || || 1* || 1* || ||
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| 1 || 1 || || || 1 || 1
+|-
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| || 1 || || || 1 ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1 || 1 || || || 1 || 1
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || 1 || || || 1 ||
+|-
+! [[SNEB type 23]] rockets
+| 18 || 18 || || || 18 || 18
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || || || || || 1
+|-
+! [[AS-20 Nord]] missiles
+| || 1* || || || 1* ||
+|-
+! [[AS-30 Nord]] missiles
+| || 1* || || || 1* ||
+|-
+| colspan="7" | Maximum permissible loadout weight: 1,610 kg<br>Maximum permissible weight imbalance: 620 kg
+|-
+| colspan="8" | * Cannons cannot be equipped in conjunction with air-to-ground missiles
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 2 x 30 mm DEFA 552 cannons (120 rpg = 240 total)
-* 2 x 30 mm DEFA 552 cannons + 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
-* 2 x 30 mm DEFA 552 cannons + 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
+* 2 x 30 mm DEFA 552 cannons + 2 x AIM-9B Sidewinder missiles
+* 2 x 30 mm DEFA 552 cannons + 72 x SNEB type 23 rockets
 * 2 x AS-20 Nord missiles
 * 2 x AS-30 Nord missiles
-* 2 x 30 mm DEFA 552 cannons + 72 x SNEB type 23 rockets
-* 2 x 30 mm DEFA 552 cannons + 2 x AIM-9B Sidewinder missiles
-* 2 x 30 mm DEFA 552 cannons + 2 x 500 lb AN-M64A1 bombs + 36 x SNEB type 23 rockets (1,000 lb total)
-* 2 x 30 mm DEFA 552 cannons + 2 x 500 lb AN-M64A1 bombs + 2 x AIM-9B Sidewinder missiles (1,000 lb total)
-* 2 x 30 mm DEFA 552 cannons + 2 x AIM-9B Sidewinder missiles + 36 x SNEB type 23 rockets
+* 2 x 30 mm DEFA 552 cannons + 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* 2 x 30 mm DEFA 552 cannons + 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
+* 2 x 30 mm DEFA 552 cannons + 4 x 250 kg SAMP Type 25 bombs (1,000 kg total)
+* 2 x 30 mm DEFA 552 cannons + 2 x 400 kg SAMP Type 21 bombs (800 kg total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

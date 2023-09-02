@@ -120,9 +120,9 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The LeO 451 can operate as a low-level attacker with relatively decent chances of survival thanks to the 20 mm dorsal gun and its relatively high performance. Flying at low altitudes also prevents enemies from attacking it from the rear and below, which is only covered by the 7.5 mm ventral gondola machine gun.
+The LeO 451 can operate as a low-level attacker with relatively decent chances of survival thanks to the 20 mm dorsal gun and its relatively high performance. The LeO 451 is very fast, which is both to its benefit and detriment: it can outrun many enemies, but its wing rip speed is very close to its top speed. A prolonged dive of only 15 degrees, even with 0% throttle, can result in your wings ripping. This wing ripping problem is exacerbated by its good energy retention at high speed, making it harder to lose speed by turning even if combined with dropping throttle.
 
-If pursued, it is best to manoeuvre in such a way that the enemy is forced to attack from the rear, which is covered by the 20 mm cannon. The LeO 451 is otherwise very vulnerable to attacks from any other angle.
+If pursued, it is best to manoeuvre in such a way that the enemy is forced to attack from the rear, which is covered by the 20 mm cannon. Flying at low altitudes also prevents enemies from attacking it from the rear and below, which is only covered by the 7.5 mm ventral gondola machine gun. The LeO 451 is otherwise very vulnerable to attacks from any other angle.
 
 Defensive armament is concentrated against rear attackers, featuring a powerful Hispano HS.404 cannon in the dorsal gunner position, with a relatively ineffective 7.5 mm machine gun in the ventral gondola. The historical LeO 451 could retract this gondola to reduce drag; a feature that is sadly not represented in the game, as the lower drag would probably be more useful than the machine gun. The LeO 451 otherwise has no other defensive armament besides a fixed forward-firing 7.5 mm machine gun in the nose. This machine gun is useful for strafing soft targets like vehicles and artillery or taking potshots at aircraft but is generally not very useful otherwise.
 
@@ -159,6 +159,7 @@ Defensive armament is concentrated against rear attackers, featuring a powerful 
 * Can only rely on the fixed 7.5 mm machine gun to defend against frontal attacks
 * Ventral gunner is not protected by armour and easily knocked out
 * Ventral turret armed with only one 7.5 mm machine gun
+* Can be too fast, wings rip easily in slight dives even with 0% throttle.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -173,6 +174,7 @@ However, due to various production issues associated with the Gnome-Rhone engine
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=leo_451_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

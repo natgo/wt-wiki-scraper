@@ -102,7 +102,7 @@ The Saetta, designated MC591 when it was built, was a Motoconvertible gun boat, 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_p494_saetta Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|-XtgK9-DNCQ|'''{{PAGENAME}} - Missiles To End Gun Superiority?''' - ''Napalmratte''|a7CRHmjXTBo|'''{{PAGENAME}} Missile Boat - Review & Gameplay''' - ''BaconGaming''|R49DdNEH0WM|'''{{PAGENAME}} - Flipped Review''' - ''Flipped StuG''}}
+{{Youtube-gallery|YWpuLgAKm_g|'''P-494 Saetta - Freccia-Class Motoconvertibili - Naval''' - ''Cmdr. Tyrael''|-XtgK9-DNCQ|'''Saetta P-494 - Missiles To End Gun Superiority?''' - ''Napalmratte''|a7CRHmjXTBo|'''Saetta P-494 Missile Boat - Review & Gameplay''' - ''BaconGaming''|R49DdNEH0WM|'''Saetta P-494 - Flipped Review''' - ''Flipped StuG''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

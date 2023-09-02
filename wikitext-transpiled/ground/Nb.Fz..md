@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]].
+The '''Panzerkampfwagen Neubaufahrzeug''' is a unique multi-turreted medium tank concept developed by Germany prior to World War II, which led to the introduction of a small series of experimental prototypes. These vehicles were designed in the early days of German tank development to deal with two key threats: enemy tanks and fortified positions. These two duties would eventually be performed by the [[Pz.III (Family)|Panzer III medium tank family]] and the [[Pz.IV (Family)|Panzer IV medium tank family]]. The German Army believed that integrating these two concepts into a single vehicle would provide a far simpler solution, reduce construction time and increase production output. During the mid-1930s, a limited series of five experimental multi-turret tanks would be developed and tested for this purpose. This vehicle was given several distinct names during its brief service. In October 1933, WaPrüf 6 standardized the designation as Neubaufahrzeug (Eng. New Construction Vehicle or, abbreviated, Nb.Fz). The naming of "construction vehicle" for these tanks was an attempt to fool the Western countries and avoid the Treaty of Versailles' restrictions by claiming the vehicles were construction or utility vehicles.
+
+Introduced in [[Update 1.51 "Cold Steel"]], the Nb.Fz is a prototype medium tank in the early ranks of the German Army's ground forces. It was one of the most unusual designs, having two guns - a 37 mm Kampfwagenkanone (KwK) 36 L/46.5 tank gun and a 75 mm KwK37 L/24 tank gun on a single turret. Players may struggle to engage enemy tanks with this configuration as the ammunition from both tank guns has significantly different ballistic characteristics. Furthermore, despite its massive size and frightening appearance, the Nb.Fz is really quite lightly armoured, with practically any opponent tank easily piercing its armour. However, the vast number of tank crews compensates for this limitation. Overall, it's an intriguing vehicle with unique gameplay that will undoubtedly reward players for mastering it.
 
 == General info ==
 === Survivability and armour ===
@@ -241,6 +243,7 @@ The official name of this subdivision in battalion documentation was Zug "Plutos
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_nbfz_VI Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

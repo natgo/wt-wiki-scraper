@@ -13,7 +13,7 @@ It was introduced in [[Update "Apex Predators"]]. The SUB-I-II provides an excel
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The SUB-I-II has no notable armour. It is dangerous to stand in the open without cover, as the SPAA can be penetrated by any tank or plane. The survivability of this SPAA is very low if any enemy has a direct line of sight on it. 
+The SUB-I-II has no notable armour. It is dangerous to stand in the open without cover, as the SPAA can be penetrated by any tank or plane. The survivability of this SPAA is very low if any enemy has a direct line of sight on it.
 
 '''Armour type:'''
 
@@ -29,7 +29,7 @@ The SUB-I-II has no notable armour. It is dangerous to stand in the open without
 | Turret || 20 mm (conical) || 20 mm (conical) || 20 mm
 !
 |-
-| Cupola || 10 mm (spherical) ''Base'' <br> 15 mm (spherical) ''Dome'' || 10 mm (spherical) ''Base'' <br> 15 mm (spherical) ''Dome'' || 10 mm (spherical) ''Base'' <br> 15 mm (spherical) ''Dome'' || 15 mm 
+| Cupola || 10 mm (spherical) ''Base'' <br> 15 mm (spherical) ''Dome'' || 10 mm (spherical) ''Base'' <br> 15 mm (spherical) ''Dome'' || 10 mm (spherical) ''Base'' <br> 15 mm (spherical) ''Dome'' || 15 mm
 |-
 |}
 '''Notes:'''
@@ -42,7 +42,7 @@ The SUB-I-II has no notable armour. It is dangerous to stand in the open without
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The SUB-I-II has a modest top reverse speed in RB of -12 km/h so bear that in mind when choosing a good spot to shoot from.
 
-{{tankMobility|abMinHp=426|rbMinHp=265}}
+{{tankMobility|abMinHp=497|rbMinHp=310}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -54,8 +54,6 @@ The SUB-I-II has a modest top reverse speed in RB of -12 km/h so bear that in mi
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Rh202 (20 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="6" | [[Rh202 (20 mm)|20 mm Rh202]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -65,15 +63,14 @@ The SUB-I-II has a modest top reverse speed in RB of -12 km/h so bear that in mi
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 800 (100) || rowspan="2" | 800 || rowspan="2" | -10°/+80° || rowspan="2" | ±180° || rowspan="2" | N/A || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 800 (100) || rowspan="2" | 800 || rowspan="2" | -10°/+80° || rowspan="2" | ±180° || rowspan="2" | - || 52.8 || 73.1 || 88.8 || 98.2 || 104.5 || rowspan="2" | 10.40 || rowspan="2" | 9.20 || rowspan="2" | 8.48 || rowspan="2" | 8.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 35.7 || 42.0 || 51.0 || 56.4 || 60.0
 |-
 |}
 
 ==== Ammunition ====
-
 * '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 * '''DM51A1:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
 * '''DM43:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
@@ -104,21 +101,19 @@ The SUB-I-II has a modest top reverse speed in RB of -12 km/h so bear that in mi
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M1919A4 (7.62 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[M1919A4 (7.62 mm)|7.62 mm M1919A4]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Hull || 1,000 (250) || 500 || ±10° || ±10°
 |-
 |}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-When hunting for planes, the SUB-I-II should always have some sort of cover to hide behind in case a plane retaliates. When shooting, you should also be mindful of the gun overheating and use all of the rounds in the belt as the SUB-I-II has only 800 rounds at most. If possible, try to remain near a friendly capture point to restock on ammo belts when they run out because the main canon can shoot at 800 rpm.
+When hunting for planes, the SUB-I-II should always have some sort of cover to hide behind in case a plane retaliates. When shooting, you should also be mindful of the gun overheating and use all of the rounds in the belt as the SUB-I-II has only 800 rounds at most. If possible, try to remain near a friendly capture point to restock on ammo belts when they run out because the main cannon can shoot at 800 rpm.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -129,7 +124,7 @@ When hunting for planes, the SUB-I-II should always have some sort of cover to h
 * Amphibious
 * Can penetrate some medium tanks from the side
 
-'''Cons:''' 
+'''Cons:'''
 
 * Low survivability
 * Slow speed in water

@@ -34,11 +34,11 @@ The Type 1934A (1944) is fast and manoeuvrable, which can help the ship to survi
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
-{{main|SK C/34 (127 mm)}}
+{{main|12.8 cm/45 SK C/34 (128 mm)}}
 
-Similar to most German destroyers prior to rank III, the Type 1934A (1944) is equipped with basic 127 mm naval cannons, two at the front of the ship and the other two at the back. These cannons' damage per shot is not bad against targets at its BR range, but not that good either, requiring you to hit the enemy several times (usually 20 - 30 hits for destroyers) to sink them (thus somewhat inadequate at long ranges due to lack of stopping power). Fortunately, the gun has a very good reload time of just 4 seconds with ace crew, coupled with good shell velocity and accuracy. This makes the Type 1934A (1944) capable of continuously lobbing its shells into its target within a mid-to-close range (within 7 kilometres) into submission.
+Similar to most German destroyers prior to rank III, the Type 1934A (1944) is equipped with basic 128 mm naval cannons, two at the front of the ship and the other two at the back. These cannons' damage per shot is not bad against targets at its BR range, but not that good either, requiring you to hit the enemy several times (usually 20 - 30 hits for destroyers) to sink them (thus somewhat inadequate at long ranges due to lack of stopping power). Fortunately, the gun has a very good reload time of just 4 seconds with ace crew, coupled with good shell velocity and accuracy. This makes the Type 1934A (1944) capable of continuously lobbing its shells into its target within a mid-to-close range (within 7 km) into submission.
 
-{{:SK C/34 (127 mm)/Ammunition|12.7 cm Sprgr. L/4.4 Kpf.Z, 12.7 cm Sprgr. L/4.4 Bd.Z, 12.7 cm Sprgr. L/4.4 Zt.Z}}
+{{:12.8 cm/45 SK C/34 (128 mm)/Ammunition|12.8 cm Sprgr. L/4.4 Kpf.Z, 12.8 cm Sprgr. L/4.4 Bd.Z, 12.8 cm Sprgr. L/4.4 Zt.Z}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
@@ -69,7 +69,7 @@ As with other German destroyers, the Type 1934A (1944) comes equipped with G7a t
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-The Type 1934A (1944) is a potent support and brawling ship that excels at mid-to-close range combat. Although its 127 mm guns is somewhat inadequate against long-range targets, it is quite deadly at closer range thanks to its rapid rate of fire and good accuracy. This allows the ship to pick off important modules on the enemy ships (turrets, engines, bridge) and slowly killing them.
+The Type 1934A (1944) is a potent support and brawling ship that excels at mid-to-close range combat. Although its 128 mm guns is somewhat inadequate against long-range targets, it is quite deadly at closer range thanks to its rapid rate of fire and good accuracy. This allows the ship to pick off important modules on the enemy ships (turrets, engines, bridge) and slowly killing them.
 
 To complement its primary armament, the Type 1934A (1944) is also equipped with fourteen 37 mm guns as secondary armaments. These guns are very useful for occasionally setting enemy ships on fire, depleting the crew, and finishing them off. This gun is also useful for anti-air purposes, although it's advised to man the guns yourself when an enemy plane is getting close.
 
@@ -117,5 +117,5 @@ Due to its gun placement, the Type 1934A is able to aim and shoot two main guns 
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-
+{{ShipManufacturer Blohm and Voss}}
 {{Germany destroyers}}

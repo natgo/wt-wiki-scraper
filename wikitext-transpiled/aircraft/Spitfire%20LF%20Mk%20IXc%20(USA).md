@@ -138,6 +138,7 @@ All Spitfire versions served primarily as fighter aircraft. Due to its high mano
 * Excellent rate of climb which will rival later Griffon Spitfires and most late war props
 * Excellent acceleration from a standing start due to the boost configuration
 * Good manoeuvrability, albeit lower than other Spitfires (I-V Marks)
+* Extremely strong for its BR, similar or better flight performance to that of 6.7 super props
 
 '''Cons:'''
 
@@ -172,6 +173,7 @@ The Americans used Spitfires (Mk.VIII and Mk.IX variants) in the skies over Ital
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_ix_usa Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -183,6 +185,7 @@ The Americans used Spitfires (Mk.VIII and Mk.IX variants) in the skies over Ital
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other late Merlin-engine LF variant Spitfires
+
 * [[Spitfire LF Mk IX]]
 * [[Plagis' Spitfire LF Mk IXc]]
 * [[Spitfire LF Mk.IX Weizman's (Israel)]]

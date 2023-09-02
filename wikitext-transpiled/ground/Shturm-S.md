@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]]. This particular ATGM carrier relies purely on stealth, unlike the [[IT-1]].
+The '''{{Specs|name}}''' was a Soviet Self-Propelled Anti-Tank Guided Missile System designed with the intent of being able to effectively destroy heavily armoured western tanks on the battlefield. It was first introduced in the late 1970s and saw widespread use by the Soviet Union and its allies during the Cold War. One of its key features was its ability to engage targets at long ranges, up to 5 kilometres, with high accuracy and precision, which was a significant advantage over other anti-tank systems of its time. The {{Specs|name}} also had the capability to fire missiles from a concealed position, making it difficult for enemy forces to detect and counter. This made it a highly effective weapon in mostly defensive operations. The modernised 9P149M version incorporated thermal vision systems, as well as adding the capability to fire the new and improved 9M120 Ataka missile in addition to the 9M114 Shturm (though this ability is added in separate modifications in-game).
+
+The {{Specs|name}} was introduced in [[Update 1.89 "Imperial Navy"]]. This particular ATGM carrier relies purely on stealth, unlike the [[IT-1]]. It can engage targets, both aerial and ground, from insane ranges of up to 7 kilometres and deliver devastating blows. It should also be noted that it outranges every helicopter at its battle rating, meaning it can engage them with ease.
 
 == General info ==
 === Survivability and armour ===

@@ -103,6 +103,10 @@ The Albatros-class was the first series of warships constructed by Italian shipy
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_albatros_class_f543 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+
+{{Youtube-gallery|tSRMq0z2XdI|'''F543 Albatros - Albatros-Class Corvette - Italian Top Tier Corvette Review''' - ''Cmdr. Tyrael''}}
+
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
@@ -118,4 +122,5 @@ The Albatros-class was the first series of warships constructed by Italian shipy
 
 * [[wt:en/news/7572-development-albatros-sub-chaser-f-543-sea-shredder-en|[Devblog] Albatros sub-chaser (F 543): Sea Shredder]]
 
+{{ShipManufacturer Regio Cantiere di Castellammare di Stabia}}
 {{Italy boats}}

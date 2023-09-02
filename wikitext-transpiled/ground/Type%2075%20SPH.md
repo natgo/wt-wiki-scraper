@@ -51,7 +51,7 @@ The right front side of the hull houses the driver. They are sealed away from tu
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp= 639|rbMinHp= 398}}
+{{tankMobility|abMinHp=738|rbMinHp=460}}
 
 The {{PAGENAME}} can move surprisingly fast and can challenge the [[T-54 (1947)]] when driving on flat terrain.
 
@@ -76,14 +76,14 @@ When compared to the clearly similar artillery tanks, the {{PAGENAME}}'s weapon 
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[NSJ L/30 (155 mm)|155 mm NSJ L/30]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[NSJ L/30 (155 mm)|155 mm NSJ L/30]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 28 || rowspan="2" | -5°/+65° || rowspan="2" | ±180° || rowspan="2" | N/A || 10.6 || 14.6 || 17.8 || 19.6 || 20.9 || rowspan="2" | 10.00 || rowspan="2" | 10.00 || rowspan="2" | 10.00 || rowspan="2" | 10.00
+| rowspan="2" | 28 || rowspan="2" | -5°/+65° || rowspan="2" | ±180° || rowspan="2" | - || 10.6 || 14.6 || 17.8 || 19.6 || 20.9 || rowspan="2" | 10.00
 |-
 ! ''Realistic''
 | 7.1 || 8.4 || 10.2 || 11.3 || 12.0
@@ -175,7 +175,7 @@ Use Rangefinder and zero-in the gun distance manually wherever necessary to make
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 600 (200) || 577 || -8°/+45° || ±180°
+| Pintle || 600 (200) || 575 || -8°/+45° || ±180°
 |-
 |}
 

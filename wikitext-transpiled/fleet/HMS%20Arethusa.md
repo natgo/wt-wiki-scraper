@@ -42,7 +42,7 @@ The Arethusa is fairly slow for a light cruiser, especially without upgrades and
 
 The Arethusa's main armament consists of six BL 6-inch Mark XXIII guns mounted in three twin turrets. These have a relatively fast rate of fire, at a maximum of 8 rounds/minute, and good accuracy for a heavy cruiser. Unlike the preceding Enterprise, her turrets do not have a first stage ammunition rack, and are thus able to sustain their high rate of fire.
 
-The stock HE shell comes with just under 4 kg of TNT equivalent, which is highly effective against destroyers. While this shell will not do too much to cruisers, it can be helpful in starting fires or knocking out crew in exposed weapon positions.
+The stock HE shell comes with just under 4 kg of TNT equivalent, which is great for use against coastal vessels, is marginally effective against destroyers, and fairly useless against any cruiser. Though, it can be helpful in starting fires or knocking out crew in exposed weapon positions.
 
 The CPBC semi-armour piercing shell has a powerful explosive filler (1.78 kg of TNT equivalent) and sufficient penetration to get through most light cruisers' belt armour at medium range. These shells are also highly effective against destroyers as the fuse sensitivity is just 7 mm with a delay of 8 m. This means that the shell will fuse on a destroyer's thin plating before exploding inside the ship, inflicting substantial damage damage.
 
@@ -128,6 +128,7 @@ Later in the war, in 1942, HMS Arethusa suffered heavy damages as a result of an
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_cruiser_arethusa Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''', or just '''{{Specs|pseudonym}}''', is a rank {{Specs|rank}} American medium tank {{Battle-rating}}. It was introduced in [[Update 1.77 "Advancing Storm"]].
+Following the cancellation of the [[MBT-70]] and [[XM-803]], the US Army continued their search for the next main battle tank to replace their [[M60 (Family)|M60s]]. With a goal of producing a top-rate main battle tank under a fixed price limit, both [[XM-1 (GM)|General Motors]] and [[XM-1 (Chrysler)|Chrysler]] competed for the optimal design the US Army will choose. In November 1976, the Chrysler model was chosen for the XM-1 contract, and was accepted for service in 1981 as the M1 Abrams tank. The basis of the new main battle tank for the US Army, 2,374 units of the M1 Abrams would be produced. Accepted under constrained budgets, the now standardized M1 Abrams would go on to feature multiple improvement programs, such as the [[M1A1 Abrams|introduction of a 120 mm gun]], as well as constant [[IPM1|refurbishments]] to keep the tank up to date.
+
+The '''{{Specs|name}}''', or just '''{{Specs|pseudonym}}''', was introduced in [[Update 1.77 "Advancing Storm"]]. The start of a new common vehicle for the rest of the American tech tree, the first M1 Abrams gives players a good taste of the gameplay expected from the platform. The turbine engine gives the vehicle great speed and acceleration that players could use to get to position or perform hit-and-run on their targets. The armour, an improvement over its predecessors, can provide substantial kinetic energy protection, but excels in chemical energy protection against HEAT tank shells. The one area that the M1 Abrams is not too different is the firepower, using the same 105 mm gun and its shells from the [[M60A3_TTS|latest M60 variants]]. However, the improved armour and mobility can allow players to better use the 105 mm gun by getting around to where enemies least expect the Abrams to be for the 105 mm to do the most damages against their weak points.
 
 == General info ==
 === Survivability and armour ===
@@ -99,8 +101,8 @@ The gun performance is adequate. While the shells are good against angles, they 
 {{:M68A1 (105 mm)/Ammunition|M456A2, M393A2, M735, M416, M774}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.17.0.126''' -->
+[[File:Ammoracks_M1_KVT.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.19''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -110,7 +112,7 @@ The gun performance is adequate. While the shells are good against angles, they 
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''55''' || 53&nbsp;''(+2)'' || 45&nbsp;''(+10)'' || 23&nbsp;''(+32)'' || 1&nbsp;''(+54)'' || No
+| '''55''' || 48&nbsp;''(+7)'' || 45&nbsp;''(+10)'' || 23&nbsp;''(+32)'' || 1&nbsp;''(+54)'' || No
 |-
 |}
 '''Notes''':
@@ -151,7 +153,7 @@ With three machine guns (two light 7.62 mm and one heavy 12.7 mm), the Abrams is
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 Its armour, whilst reliable in downtiers and when facing tanks of the same BR, should not be relied on when uptiered. Many tanks will destroy you. But when downtiered, your armour will protect you 70-75% of the time. Many rounds at this BR and below have a hard time facing you and even penetrating you in the LFP even.
 
-It is suggested to use the M735, since at distance many rounds will not hit the target and the M774 costs 600 SL to fire and has only got a better angle penetration. Although it has a low penetration, the M735 and the M774 are still APFSDS, and as such, you can get a penetrating hit on an enemy's side even with a very low impact angle.
+M774 is the preferred round in the M1 Abrams; it has significantly better angled penetration, an improved ballistic coefficient and reduced chance to bounce at high angle impacts. The HESH round is still useful for engaging light vehicles and helicopters; the smoke round is not very valuable thanks to the Abrams having a built-in smoke generator and smoke grenades, but it might be helpful to take one or two.
 
 The Abrams' main strength is its extreme mobility, even by MBT standards, and the very good ballistics of the APFSDS rounds. The armour is not sufficient and will only really stop ATGMs and HEATFS rounds. But when facing tanks at this BR and below, enemies have a hard time penetrating your frontal arc.
 

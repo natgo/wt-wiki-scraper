@@ -63,13 +63,21 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French destroyer {{Bat
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+* Four 130 mm guns can deal great damage against other destroyers
+* Good top speed and acceleration
+* Decent torpedoes for its BR
+* Large crew for its BR, able to tank some damage
 
 '''Cons:'''
-*
+* Large in size and displacement for a destroyer, results into mediocre agility
+* Virtually unarmoured, relies only on its large crew size to survive
+* Aside from large damage, the 130 mm guns have overall terrible characteristic
+** Long reload time, especially when all the ready ammo have been spent
+** Awful turret traverse speed, cannot reactively fire back at an enemy while turning
+** Very poor dispersion, especially at medium-to-long ranges
+* Poor secondary and anti-air armaments, highly vulnerable against PT boats and aircraft
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -77,7 +85,9 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French destroyer {{Bat
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_destroyer_jaguar_class_panthere Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -95,5 +105,6 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French destroyer {{Bat
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Arsenal de Lorient}}
 {{France destroyers}}
 {{France premium ships}}

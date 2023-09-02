@@ -115,4 +115,5 @@ A third design, "Se-Ha Kai" was completed in July 1945. In a trial cruise during
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Hitachi Shipbuilding Corporation}}
 {{Japan boats}}

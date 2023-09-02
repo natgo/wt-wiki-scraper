@@ -5,12 +5,14 @@
 }}
 {{Specs-Card
 |code=ussr_t_80uk
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a squadron rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The '''{{Specs|name}}''' was the evaluation prototype of a commander tank version of the T-80U tested in the 1980s. The design of T-80UK was mostly similar to the T-80U, but upgraded with TVD, Shtora-1 soft-kill APS, new FCS, and communication equipment. The vehicle was evaluated and passed state certification in the 1990s, but the certified T-80UK in Russian Army service did not install Shtora-1 APS, likely a result of funding problems during production and saving equipment for more advanced tanks like the T-90. The only prototype is mostly used during army exhibitions or army open days.
+
+The T-80UK was introduced in [[Update "Drone Age"]] as the tier VII squadron vehicle of Soviet ground tech-tree. Aside from the sensors and IR jammers for the Shtora-1 soft-kill APS, as well as the HE-TF version of the infamous 3OF26, the overall performance of the T-80UK is identical to its tech-tree predecessor, giving players sufficient protection at its tier while boasting a wide variety of ammunition to take down enemy vehicles. However, players will need to make every shot count, as the tank doesn't have the best APFSDS at its tier (particularly against tough foes with protected UFPs like the ZTZ99), as well as the inferior gun handling on Soviet tanks (pre-2016 Russian MBTs).
 
 == General info ==
 === Survivability and armour ===
@@ -42,9 +44,9 @@ The hull armour on the T-80UK is a 5-layer armour, which is comprised of 50 mm h
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
-
 {{tankMobility|abMinHp=1,937|rbMinHp=1,106}}
+
+T-80UK didn't include any changes on mobility and the overall upgrades for the prototype have negligible impact on the weight of vehicle, therefore the good old Klimov GTD-1250 gas turbine can still push the tank to up to 70 km/h. However, caution is advised when pushing, as the tank doesn't have the best reverse speed; while -12 km/h is one of the best among Soviet/Russian MBTs, this is not comparable to the abilities of NATO vehicles.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -56,18 +58,18 @@ The hull armour on the T-80UK is a 5-layer armour, which is comprised of 50 mm h
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|2A46M-1 (125 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
+Aside from having TVD sights and FCS for time-fuzed HE shells, the 2A46M-1 on T-80UK performs identically to its base model. It has a larger calibre than NATO tanks and access to a variety of ammunition ranging from APFSDS to ATGMs which are good for taking down enemies from distance with devastating firepower. However, the slow overall turret traverse rate still haunts the tank, so it is recommended pre-aim the gun towards directions from which the enemy might suddenly appear for minimal reaction time - the T-80UK doesn't have much to spare.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A46M-1 (125 mm)|125 mm 2A46M-1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[2A46M-1 (125 mm)|125 mm 2A46M-1]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 30 || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" colspan="4" | 6.50
+| rowspan="2" | 30 || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 6.50
 |-
 ! ''Realistic''
 | 14.3 || 16.8 || 20.4 || 22.6 || 24.0
@@ -107,7 +109,7 @@ The hull armour on the T-80UK is a 5-layer armour, which is comprised of 50 mm h
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 500 (100) || 700 || -5/+60° || ±180°
+| Pintle || 500 (100) || 700 || -5°/+60° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -116,7 +118,7 @@ The hull armour on the T-80UK is a 5-layer armour, which is comprised of 50 mm h
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 750 (250) || 700 || N/A || N/A
+| Coaxial || 750 (250) || 700 || - || -
 |-
 |}
 
@@ -145,7 +147,7 @@ While the armour is reasonably good, it will fail to stop some APFSDS rounds, so
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+Under the Soviet armoured doctrine, tank companies would receive a commander tank just like many major powers during the Cold War. In the Soviet case, the tank would also receive FCS upgrades aside from new communication equipment. The T-80UK was a result of such doctrine, featuring Shtora-1 soft-kill APS, Agava-2 TVD imager, atmospheric sensors, R-163U and R-163K radio, TNA-4 navigation systems, time-fuze controls and AB-1-P28 APU. The tank was likely being tested during the final days of the Soviet Union, and passed state certification during the 1990s. Likely due to insufficient funds and saving Shtora-1 APS for future tanks such as the T-72BU, the current model of the T-80UK looks extremely like an original T-80U with longer antenna for the radio.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

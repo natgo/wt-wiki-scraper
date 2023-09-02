@@ -123,9 +123,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Magach 1 will feel familiar to tankers from the American and German tank trees, as it is essentially a copy paste [[M48A1]]/[[M48A2 C]] from those trees. Being the first true MBT that the Israelis have access to (alongside the [[Sho't]]) it will bring a new playstyle to those who have been using the M-51s and French light tanks before it.
+The Magach 1 will feel familiar to tankers from the American and German tank trees, as it is essentially a copy-paste [[M48A1]]/[[M48A2 C]] from those trees. Being the first true MBT that the Israelis have access to (alongside the [[Sho't]]) it will bring a new playstyle to those who have been using the M-51s and French light tanks before it.
 
-This vehicle is a first-generation MBT and an American one at that, so its mobility is still average compared to other early MBTs such as the [[Leopard I]] and [[T-54 (1949)]]. The gun has access to decent ammunition in the form of the final HEATFS shell but is still limited in that it's a 90mm cannon when many contemporaries are sporting 105mm weapons that sport APDS along with their own HEATFS shells. Staying out of close-range engagements is a must due to the limited damage potential of the gun and balky turret/suspension handling.
+This vehicle is a first-generation MBT and an American one at that, so its mobility is still average compared to other early MBTs such as the [[Leopard I]] and [[T-54 (1949)]]. The gun has access to decent ammunition in the form of the final HEATFS shell but is still limited in that it's a 90 mm cannon when many contemporaries are sporting 105 mm weapons that sport APDS along with their own HEATFS shells. Staying out of close-range engagements is a must due to the limited damage potential of the gun and balky turret/suspension handling.
 
 The Magach 1 will feel right at home staying close behind the more heavily armoured vehicles in the front line and taking well-aimed, surgical shots with its smaller weapon and either killing the target or crippling it so that its teammates can go in and finish the job safely. If caught in close-quarters combat, take advantage of the neutral steering and somewhat trolly armour angles to try and get the gun back on target.
 
@@ -150,17 +150,18 @@ The Magach 1 will feel right at home staying close behind the more heavily armou
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === Development ===
-In February 1951, the US Army opted for a new design to replace their [[M46]]/[[M47]] tanks. Designated the 90mm Gun Tank T-48, it featured a novel (for American Cold War tanks) hemispherical turret, hull, and suspension design. The crew was reduced to four, and it began production in 1952 after being named for the famous General George S. Patton. During initial production, several protection defects were identified and a program to refit them began, resulting in the M48A1 with a slightly different driver's hatch and commander's cupola, now equipped with a .50 [[M2HB (12.7 mm)|M2HB]].
+In February 1951, the US Army opted for a new design to replace their [[M46]]/[[M47]] tanks. Designated the 90 mm Gun Tank T-48, it featured a novel (for American Cold War tanks) hemispherical turret, hull, and suspension design. The crew was reduced to four, and it began production in 1952 after being named for the famous General George S. Patton. During initial production, several protection defects were identified and a program to refit them began, resulting in the M48A1 with a slightly different driver's hatch and commander's cupola, now equipped with a .50 [[M2HB (12.7 mm)|M2HB]].
 
 === Israeli Service ===
 Israel's first M48s were acquired from West Germany in the early 1960s in a secret arms deal, with the United States providing further vehicles after the deal was exposed. The M48A1 variants came from the United States transfers.
 
-During the Six Day War in 1967, the M48A1s served in their stock US configuration and acquitted themselves well. However, by the Yom Kippur War their 90mm cannons had been recognized as obsolete for Israeli purposes and the only remaining M48 tanks in the IDF were later versions equipped with 105mm cannons or conversions of the M48A1/A2/A3s to the 105mm cannon.
+During the Six Day War in 1967, the M48A1s served in their stock US configuration and acquitted themselves well. However, by the Yom Kippur War their 90 mm cannons had been recognized as obsolete for Israeli purposes and the only remaining M48 tanks in the IDF were later versions equipped with 105 mm cannons or conversions of the M48A1/A2/A3s to the 105 mm cannon.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_m48a1_patton_III Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -169,6 +170,7 @@ During the Six Day War in 1967, the M48A1s served in their stock US configuratio
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Magach (Family)]]
 
 == External links ==

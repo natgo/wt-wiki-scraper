@@ -121,6 +121,7 @@ The RakJPz 2 (HOT) is a very deadly vehicle if played correctly. The vehicle is 
 
 '''Cons:'''
 
+* Almost non-existent armour
 * Poor vertical control of the ATGM
 * If flanked, cannot return fire easily
 * Fires up initially, preventing the tank from firing directly in front of it

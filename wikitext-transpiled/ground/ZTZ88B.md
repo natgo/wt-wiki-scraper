@@ -32,9 +32,7 @@ Another weakness lies in the turret, which features full CHA armour. Despite ret
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 100 + 20 mm (68°) ''Upper'' 
-80 m (51°) ''Lower'' 
-| 60 mm ''Top'' <br> 50 mm ''Bottom'' || 45 mm (4°) || 30 mm
+| Hull || 100 + 20 mm (68°) ''Upper'' <br> 80 m (51°) ''Lower'' || 60 mm ''Top'' <br> 50 mm ''Bottom'' || 45 mm (4°) || 30 mm
 |-
 | Turret || 200 - 300 mm ''Turret front'' (Volumetric)<br> 70 - 400 mm ''Gun mantlet'' (Volumetric) || 100 - 200 mm (Volumetric) || 60 - 70 mm (Volumetric) || 30 mm
 |-
@@ -43,11 +41,10 @@ Another weakness lies in the turret, which features full CHA armour. Despite ret
 |}
 
 {| class="wikitable"
-!Composite Armor
-!Frontal Effective Protection
+! Composite Armour !! Frontal Effective Protection
 |-
-|Hull
-|100 mm ''Kinetic'' / 100 mm ''Chemical''
+| Hull || 100 mm ''Kinetic'' / 100 mm ''Chemical''
+|-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
@@ -58,7 +55,7 @@ Another weakness lies in the turret, which features full CHA armour. Despite ret
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The ZTZ88 series shares the same NORINCO 12V150ZLC engine with 730 hp output. Although it is not comparable to NATO counterparts, it is a vast improvement over Soviet tanks at its BR, giving the tank more flexibility on assaults as it can push the tank to up to 57 km/h while having faster acceleration. While the transmission has been upgraded to a planetary gear system, the gear ratio for reverse/first gear is not very satisfactory and only gives around 9 km/h reverse speed. In the event of a retreat, this limitation could pose a major problem, as enemy tanks will have no trouble pursuing the ZTZ88B.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=1,131|rbMinHp=646}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -81,10 +78,10 @@ The ZTZ88B retains the same calibre gun as the previous ZTZ59D1, although it is 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 45 || rowspan="2" | -4°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 45 || rowspan="2" | -4°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 11.9 || 14.0 || 17.0 || 18.8 || 20.0
 |-
 |}
 
@@ -142,6 +139,7 @@ Like most Chinese tanks before the late 1990s, the ZTZ88B equips the Type 54 (DS
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
 '''Pros:'''
 
 * Improved gun handling and reload rate to previous tanks
@@ -164,7 +162,9 @@ Like most Chinese tanks before the late 1990s, the ZTZ88B equips the Type 54 (DS
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_ztz_88b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -182,4 +182,5 @@ Like most Chinese tanks before the late 1990s, the ZTZ88B equips the Type 54 (DS
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{TankManufacturer Norinco}}
 {{China medium tanks}}

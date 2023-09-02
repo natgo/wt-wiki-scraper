@@ -141,5 +141,6 @@ File:MPK_Pr.122bis_WTWallpaper006.jpg
 
 * [[wt:en/news/6137-development-the-big-submarine-chasers-of-project-122bis-bombs-away-en|[Devblog] The big submarine chasers of Project 122bis: bombs away!]]
 
+{{ShipManufacturer Krasny Metallist}}
 {{USSR sub-chasers}}
 {{USSR premium ships}}

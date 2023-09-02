@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American jet fighter {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The F-4 Phantom II served its most notable service period in the Vietnam War for both the US Air Force (USAF) and US Navy (USN). The USN had the [[F-4J Phantom II|F-4J]] as their latest aircraft, and it began to show its age in the post Vietnam War period. A modernization program began to keep the F-4J up to date with latest upgrades. Improvements were done in avionics, weapon systems, airframe, and undercarriage, but the two most notable improvements were wing leading-edge slats, for improved manoeuvrability, and new smokeless engines. The F-4S flew for USN up until the Phantom's retirement in the late 1980s, replaced by more modern aircraft like the [[F-14A Early|F-14 Tomcat]] and the F-18 Hornet.
+
+The '''{{Specs|name}}''', introduced in [[Update "Sky Guardians"]], is one of the top versions of the F-4 Phantom II in the game. While the overall play style is not very different from the F-4J, the performance improvements in manoeuvrability should allow the F-4S to occasionally get the upper hand over even more modern fighter designs that it can encounter. Outside the dogfighting range, the usual complement of BVR weaponry like the Sparrows alongside the PD radar should allow the F-4S to shoot down careless enemy fighters who can't evade in time.
 
 == General info ==
 === Flight performance ===
@@ -110,7 +112,11 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American jet figh
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+While the F-4S completely lacks any armour plating or ballistic glass, meaning that the pilot and internal systems are exposed to damage from even small arms fire, the airframe itself is relatively sturdy thanks to the upgrades it got to better handle high-G sustained turns, and can take a few hits from opposing aircraft using 20 x 102 mm Vulcan or 20 x 110 mm USN rounds and remain airborne. Higher calibre guns however such as the BK-27 found on the Tornados, and the GSh-30-1 on the MiG-29 have a higher chance of severely crippling your performance or outright destroying the aircraft. As with the F-4J, the RIO (Radar Intercept Officer) in the back of the cockpit cannot take control of the aircraft if the pilot is knocked out, as it lacks the dual controls found on the USAF variants of the Phantom (C & E.) 
+
+The fuel tanks are self-sealing, but generally won't be able to stop a fire from igniting due to every aircraft at the F-4S' BR using guns that are at least 20 mm in calibre. They also take up a lot of space in the midsection and rear of the Phantom, making shots to the fuselage potentially fatal. There are additional fuel tanks located in the upper-front of the wings and in the bottom of the fuselage, but they are a much smaller and thinner target, so the chances that they get hit are much lower in comparison. You have an extinguisher to put out engine fires, but effectiveness may vary depending on the severity of damage to the rest of the airframe, along with your airspeed.
+
+With only 60 countermeasures available to use, the F-4S is rather limited in its defense against missiles compared to its peers and opponents, and bringing chaff with the mixed loadout halves your effective amount to just 30.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -189,11 +195,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
 |-
 | colspan="13" | * Sparrows on hardpoints 2/10 cannot be carried in conjunction with Sidewinders on hardpoints 3/9 respectively
+<nowiki>*</nowiki>20 mm Mk 11 Mod 5 gun pod and 600 gal drop tank cannot be carried at the same time due to sharing hardpoint 1
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 20 mm Mk 11 mod 5 cannon (750 rpg)
 * 1 x 600 gal drop tank
 * 4 x AIM-9H Sidewinder missiles
@@ -214,27 +222,36 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 Being a slightly upgraded F-4J, the F-4S retains many of its predecessor's defining characteristics.
 
-The main difference between the two is the F-4S' leading edge wing slats. These greatly increase manoeuvrability, but as a side affect decrease energy retention. Even with improved manoeuvrability, the F-4S still does not pull hard enough to competitively dogfight.
+The main difference between the two is the F-4S' leading edge wing slats. These greatly increase manoeuvrability, but as a side effect decrease energy retention. Even with improved manoeuvrability, the F-4S still does not pull hard enough to competitively dogfight most opponents, but it's good enough that you can potentially last in an extended engagement with a single enemy until an ally comes to your rescue. The sturdy construction of the F-4S' airframe even allows you to take a few hits from 20 mm rounds and remain in a flyable state.
 
-The most powerful aspect of the F-4S is its weaponry. For IR-guided missiles, it carries AIM-9Hs. Even though they have mediocre performance (max overload 18G), their respectable range and long guidance time makes them ideal for picking off inattentive players or AI planes. The crowning glory of the F-4S' arsenal is the AIM-7F.
+The most powerful aspect of the F-4S is its weaponry. For IR-guided missiles, it carries AIM-9Hs. Even though they have mediocre turn performance (max overload 18G), their respectable range and long guidance time makes them ideal for picking off inattentive players or AI planes. The crown jewel of the F-4S' arsenal however is the AIM-7F. With effective usage of the Pulse Doppler and ACM modes, the F-4S can confidently go into battle with an all-Sparrow loadout and not feel limited at closer engagement ranges. The AIM-7F is able to reliably hit targets from a minimum of 3 km in head ons, all the way out to a maximum of 25-30 km in good conditions with Pulse Doppler active (any further than that will require some luck.) Head on snapshots from less than 3 km can be done, but you'll be pushing the limits of both your radar's lock speed and the Sparrow's 25G pull limit.
 
-=== Pros and cons ===
+Your biggest threats will be the F-14A / B, the MiG-29, and the Yak-141. All three gravely outclass you in BVR combat; the F-14s due to their massive, highly advanced radar and long-range Phoenix missiles, while the MiG-29 and Yak-141 carry the R-27ER, arguably the best SARH missile currently in War Thunder. The F-14s and MiG-29 also have you massively beat in a dogfight; both being able to comfortably sit inside your turning circle and either shoot at you with their guns or fire off a missile, so catching these opponents off guard or while they're distracted will aid in you(r) (and your team's) survival. The Yak-141 on the other hand, while boasting phenomenal acceleration, has a very low top speed for its BR; it can barely break the sound barrier, and suffers from atrocious energy retention. You will have no issue beating the 141 in a 1 on 1 dogfight thanks to your upgraded manoeuvrability, just as long as you remember that the 141 is a VTOL aircraft, and may get creative with their manoeuvres out of desperation.
+
+Base bombing is, as expected for the Phantoms, and no exception to the F-4S, a completely viable strategy thanks to its impressive bomb load. It also has some merit in attacking ground targets, as it can carry a ludicrous amount of Mighty Mouse rockets (Up to a maximum of 247 if you wish to forgo the gun pod) that are very easy to aim thanks to having a CCIP for them, and you can still carry 4 Sparrows to have a strong weapon against enemy aircraft. Avoid SPAA vehicles in the convoys like the plague, as getting too close may spell an untimely return to the hangar, and the lack of guided munitions means you have to get close to or within their range to deal with them, either with bombs or rockets.
+
+===  Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
 * Powerful pulse-Doppler radar
-* Can carry 8 air-to-air missiles
-** One of the best SARH missiles at 11.3
+* HMD allows significant off-boresight tracking for both the AIM-7F and AIM-9H
+* Can carry up to 8 air-to-air missiles
+* One of the best SARH missiles at 11.3
 * Can take off and land on aircraft carrier
 * A wide range of suspended armaments, suitable for any playstyle
-** Can carry enough bombs to destroy a base without significantly affecting its flight performance
+* Can carry enough bombs to destroy a base without significantly affecting its flight performance
 
 '''Cons:'''
 
 * Doesn't have an internal gun
 * The external gun pod negatively affects flight performance
+* Can't carry a gun pod and drop tank at the same time as they share the same hardpoint
 * Quite large and heavy compared to other fighters at its rank
+* Fires will very rapidly destroy the airframe, and effectiveness of the extinguishers is questionable
+* Lack of guided munitions limits its potential in Ground Battles
+* 60 countermeasures is mediocre in uptiers, which this aircraft sees extremely often
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -257,7 +274,7 @@ Despite its success in combat, the F-4S was eventually phased out of service in 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-4s Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|IdPkE_xhUw0|'''Finally A Worthy Premium? - F-4S Phantom II''' - ''DEFYN''}}
+{{Youtube-gallery|m-dyqOq5Xlo|'''F-4S Beginner's Tutorial in 10 Minutes''' - ''Jaek_''|IdPkE_xhUw0|'''Finally A Worthy Premium? - F-4S Phantom II''' - ''DEFYN''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

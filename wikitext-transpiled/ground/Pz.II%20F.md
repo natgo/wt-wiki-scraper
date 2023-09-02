@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 121''') is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces prior to Update 1.41.
+The '''Panzerkampfwagen II Ausführung F (Panzer II F)''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 121''') is the sixth variant of the [[Pz.II (Family)|Panzer II light tank family]]. The Panzer II F variant was designed with thicker 30 mm armour on the tank hull's front and 30 mm armour on the turret's front. Instead of a split hatch, the commander cupola is fitted with a periscope on top of the turret. The side vision ports were protected by vertical bullet splash shields and two conical bolts above and below the visor to hold the 50 mm bulletproof glass in position. A triangle-shaped guard welded to the top of the superstructure at the front and back shielded the turret ring from small bullets and shrapnel. To the right of the driver's vision port, a fake armoured visor constructed of aluminium alloy was mounted onto the front of the hull. This was done in order to draw hostile fire away from the driver. The majority of the other components needed to construct the tank were carried over from earlier variants. It was armed with an improved Kampfwagenkanone (KwK) 38 20 mm L/55 autocannon and a 7.92 mm MG34 machine gun. In March 1941, the first seven Panzer II F light tanks were completed. Production ceased in late July 1942. A total of 1,004 were assigned chassis numbers and went into service. They were mostly utilized as reconnaissance tanks on the Eastern Front, but some Panzer II F light tanks were transferred to Libya as replacements.
 
-The performance is similar to other low-rank German tanks, but the gun makes it stand out. With careful use, it is easily one of the best low-rank German tanks, but due to slow turret traverse and long reload between belts, it is just as easy to fail in.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer II F variant is the successor to the [[Pz.II C|Panzer II C variant]] in the Panzer II light tank family. The gameplay is generally similar to the Panzer II C variant, with the exception that players may notice a significant increase in the firing rate of the primary 20 mm KwK38 L/55 autocannon. Armour protection is slightly improved, allowing the player to deflect shells from hostile tanks occasionally. However, since the tank is poorly armoured, players should not rely too heavily on the armour to exchange shots with the opponent. Players should be aware that the reload time of an ammo clip is substantially greater than that of most opponents and should not empty all cannon shells at once when confronted with an enemy tank in close combat.
 
 == General info ==
 === Survivability and armour ===
@@ -106,7 +106,7 @@ The chief difference between the Panzer II F and its predecessor is the main gun
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|MG34 (7.92 mm)}}
 
-Just like its predecessor, this tank has one coaxial 7.92 mm MG 34. Due to the slow turret traverse common to most lower-rank German tanks, this is not a very practical weapon.
+Just like its predecessor, this tank has one coaxial 7.92 mm MG34. Due to the slow turret traverse common to most lower-rank German tanks, this is not a very practical weapon.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -180,9 +180,11 @@ The tank was used extensively until the end of 1942. Self-propelled anti-aircraf
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_II_ausf_F Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==

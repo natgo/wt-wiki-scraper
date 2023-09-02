@@ -141,4 +141,5 @@ The '''''{{PAGENAME}}''''' is defended by:
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer Supermarine}}
 {{Ship-launched reconnaissance aircraft}}

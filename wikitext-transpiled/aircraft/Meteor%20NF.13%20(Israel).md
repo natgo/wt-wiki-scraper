@@ -10,13 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The Meteor NF.13 reached Israel when Britain offered the sale of Gloster Meteors to all nations in the Middle East with the intentions of gaining sales while remaining neutral. The IAF, needing to improve their night-fighting capabilities, applied for an offer of Meteor NF.13s made by Britain to Syria and Egypt. As such, 6 aircraft were ordered in 1956. The 119th squadron would be formed with the intentions of using these new meteors. Three would be delivered in the same year, however the other 3 aircraft would only be delivered in 1958.
+
+The Meteor NF.13 was introduced in [[Update "Winged Lions"]]. It features a powerful night-fighting radar capable of detecting aircraft at high and medium altitudes, something that may be very useful when fighting undetected bombers. It also has very good engines, being one of the fastest to accelerate and takeoff at its battle rating, which also comes with good energy retention and overall very good cruising speed. However it lacks roll rate and the wing mounted guns can be tricky to aim at short ranges. The plane also lacks any kind of ground ordnance, and thus, is limited to only air-to-air combat since Hispanos can only penetrate the most lightly armoured of ground targets at its BR.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+The Meteor NF.13 has very powerful engines, the best from the Meteor family. These engines offer great overall acceleration but especially at low speeds, a very good cruise speed at around 930 km/h and good energy retention in turn fights. However the roll rate is very bad, this can make aiming very hard especially at high speed when the aircraft compresses.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -32,7 +34,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 | 917 || 889 || rowspan="2" | {{Specs|ceiling}} || 23.2 || 24.5 || 31.7 || 30.1 || rowspan="2" | 325
 |-
 ! Upgraded
-| 989 || 962 || 22.8 || 23.0 || 44.8 || 38.0
+|988|| 962 || 22.8 || 23.0 ||45.1|| 38.0
 |-
 |}
 
@@ -110,10 +112,23 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The engines of the Meteor NF.13 are prone to catch fire, since they are mounted in the wings and the aircraft is a very large target that becomes very sluggish at low speeds. However its two fuel tanks are self-sealing and feature FPE if one of the engines catches fire. Even with only one engine the Meteor has enough power to return back to base with careful manoeuvres.
+
+* 38 mm bulletproof windshield in front of the cockpit
+* 12.7 mm steel plate in lower front of the cockpit
+* 12.7 mm steel plate behind the pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
+
+Number one priority should be the performance modifications and the weaponry modifications. Small list of most important upgrades
+
+* Ammo belts and upgraded guns
+* Compressor
+* Engine
+* G-Suit
+* EFS
+* Airframe
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -126,26 +141,38 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * 4 x 20 mm Hispano Mk.V cannons, wing-mounted (195 rpg = 780 total)
 
+Hispanos are known for their lack of damage, they are however quite fast, having good muzzle velocity and fast firing rate, that alongside their good ammo pool makes them very easy to aim and use by beginners.
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+As a very fast aircraft, the Meteor NF.13 can be used in two very different playstyles in all gamemodes with little differences:
+
+'''Interceptor/Boom & Zoom'''
+
+The Meteor NF.13 has enough engine power to climb early to very high altitudes (~6,000 m). While engine performance is lacking at this altitudes, most bombers become easy targets, however these attacks require good aiming since the Hispanos lack damage against targets like strategic bombers common at the BR. If not used against bombers, climbing to similar altitudes and picking enemies apart with boom and zoom tactics is also good idea. Many fighters at its BR like the Me 262s, the M.D 450B Ouragan, and the F-80 become very slow during turn-fights, offering great opportunity targets for aware pilots.
+
+'''Frontline Fighter'''
+
+The Meteor NF.13 also has a place as a frontline fighter, rushing straight into action. In this case, the Meteor will be able to out-run, out-accelerate and out-turn most fighters or attack aircraft. The most common threats are the F-80, F9F, and early F-86 Sabres. When used in this role, the poor roll rate would be a big issue, and thus good aiming is required to eliminate distracted pilots focused on teammates.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-'''Pros:''' 
-* Wing-mounted cannons require less precision in order to hit opponents' vehicles than the nose-mounted cannons on the Meteor F.8
-* The cannons are especially powerful considering the Meteor NF.13's high chance of fighting slower propeller aircraft
-* It turns well and has a moderate roll rate, this combined with the wing cannons makes shot placement easier
+'''Pros:'''
+
+* Spread of wing-mounted cannons can make it easier to connect hits
+* Good ammo pool and fire rate for the cannons
+* Very good turn rate and energy retention
 * High thrust-to-weight ratio allows for very good climb rate, acceleration and top speed
-* It has a night-fighting radar, useful for detecting opponents' planes through clouds and at night
+* Powerful night-fighting radar for detection of bombers and enemies trough clouds and smoke
 
 '''Cons:'''
-* It loses a lot of its flight performance at higher altitudes
-* Wing-mounted cannons are ineffective in head-on attacks at over 2 km distance
-* High rate of fire of the cannons can drain ammunition quickly if fired in prolonged bursts
-* Some opponents such as the F-series sabre can easily out-speed it both in a straight line and a dive
-* Its jet engines make for poor instruments for sustained turn fights with propeller-driven opponents - use speed to outrun them instead of manoeuvring with them
+
+* Bad flight and engine performance at high altitudes
+* Wing-mounted guns are hard to aim against enemies directly in front of the plane
+* Cannons can jam quickly if used without care
+* Very big target, easier to shot down compared to similar BR planes
+* Lack of ground ordnance for use in ground battles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -155,6 +182,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=meteor_nfmk13 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -163,6 +191,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Meteor (Family)]]
 
 == External links ==

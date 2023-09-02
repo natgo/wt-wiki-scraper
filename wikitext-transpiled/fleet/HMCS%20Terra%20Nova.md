@@ -70,7 +70,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British frigate {{Battle-ratin
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Videos
+{{Youtube-gallery|CrYG51sd02c|'''HMCS Terra Nova - Restigouche-Class DDE: Is it as Good as it Seems?''' - ''Cmdr. Tyrael''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -91,4 +93,5 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British frigate {{Battle-ratin
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Victoria Machinery Depot}}
 {{Britain frigates}}

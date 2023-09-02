@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''PT-76 (плавающий танк, plavayushchiy tank, or ПТ-76)''' is a Soviet amphibious light tank that went into service in the early 1950s and quickly became the standard reconnaissance tank of the Soviet Army and other Warsaw Pact armed forces. It was widely exported to other allies all over the world. As China's southeast coastal area was unrestful in late 1957, and the terrain was harsh with massive water networks and rivers, China was committed to developing an indigenous amphibious tank that would be deployed along the southeast coastal area in the event of future conflict. The development code "Project 211 ([[Object 211]])" was assigned in July 1958, and China purchased the Soviet Union's PT-76 amphibious light tank to acquire the technology. The project underwent numerous revisions before entering production as the [[Type 63-I|Type 63 amphibious light tank]]. Since an early variant of the PT-76 was imported to China, it lacks the two-plane stabilizer that subsequent variants feature.
 
-It is an early version of the Soviet PT-76B, with no stabilizer and a worse turret traverse speed.
+Introduced in [[Update 1.91 "Night Vision"]], the PT-76, as one of the first tanks to be armed with HEAT-FS, has little issue dealing with heavily armoured adversaries at any range. However, due to the restrictions of the main gun's calibre, post-penetration damage can be insufficient, necessitating additional shots. Nonetheless, it is a great asset to the Chinese Army's ground forces, which contributed to the development of the Type 63 amphibious light tank.
 
 == General info ==
 === Survivability and armour ===

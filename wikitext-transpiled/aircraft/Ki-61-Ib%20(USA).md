@@ -19,7 +19,7 @@ Armed with four 12.7 mm Ho-103 machine guns and plenty of ammunition, the Ki-61-
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-Unlike its more manoeuvrable and agile counterpart, the A6M Reisen, the Ki-61 is more of what one would call an "energy fighter". Compared to the "Zero" it is faster, has a higher climb rate and handles better at higher speeds.
+Unlike its more manoeuvrable and agile counterpart, the A6M Reisen, the Ki-61 is more of what one would call an "energy fighter". Compared to the "Zero" it is faster, has a higher climb rate and handles better at higher speeds. This allows the Ki-61 to force the enemy into long fights where it can maintain its energy more easily.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -77,7 +77,13 @@ Unlike its more manoeuvrable and agile counterpart, the A6M Reisen, the Ki-61 is
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+<!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+
+* 16 mm (12°) steel plate - Pilot's headrest
+* 12 mm (12°) steel plate - Pilot's seat
+* 8 mm (48°) steel plate - Above the liquid cooling system
+
+The lack of armour over the engine/fuel tanks makes fires and leaks more likely to happen.
 
 === Modifications and economy ===
 {{Specs-Economy}}

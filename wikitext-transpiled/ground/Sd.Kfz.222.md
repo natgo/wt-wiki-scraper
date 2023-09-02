@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-Armour protection is, mediocre, to say the least. Almost the entire car is comprised of 8 mm sloped steel plates, which is barely enough to stop normal 7.62 mm AP bullets. HMGs and autocannons will be your biggest pain as they will easily shred your car up from any angle. In fact, if aimed at precisely from certain angles the 8 mm of armour can be pierced by the larger coaxial MGs, such as British BESAs, Swedish 8 mm MGs and even your own 7.92 MG34s (this can be a rare occurence, but don't discount it). Only the front of the car, with a 30 mm radiator housing and 14.5 mm front plate, can offer protection against rifle-calibre fire, but anything bigger than that will basically fling you back to the garage. The open turret also means that chemical shells (i.e. HE, HEAT and the HESH round from the Lancia 3ro) are an instant death even if they miss; avoid them at all times.
+Armour protection is, mediocre, to say the least. Almost the entire car is comprised of 8 mm sloped steel plates, which is barely enough to stop normal 7.62 mm AP bullets. HMGs and autocannons will be your biggest pain as they will easily shred your car up from any angle. In fact, if aimed at precisely from certain angles the 8 mm of armour can be pierced by the larger coaxial MGs, such as British BESAs, Swedish 8 mm MGs and even your own 7.92 MG34s (this can be a rare occurrence, but don't discount it). Only the front of the car, with a 30 mm radiator housing and 14.5 mm front plate, can offer protection against rifle-calibre fire, but anything bigger than that will basically fling you back to the garage. The open turret also means that chemical shells (i.e. HE, HEAT and the HESH round from the Lancia 3ro) are an instant death even if they miss; avoid them at all times.
 
 '''Armour type:'''
 
@@ -42,7 +42,7 @@ Armour protection is, mediocre, to say the least. Almost the entire car is compr
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The Sd.Kfz.222 moves rapidly on roads, less so on regular ground and will get bogged down in soft terrain. It is easy to control at speed and can engage enemies quickly since it needs little time to come to a full stop. 
 
-{{tankMobility}}
+{{tankMobility|abMinHp=128|rbMinHp=80}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -54,8 +54,6 @@ The Sd.Kfz.222 moves rapidly on roads, less so on regular ground and will get bo
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|KwK38 (20 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="6" | [[KwK38 (20 mm)|20 mm KwK38]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -65,15 +63,14 @@ The Sd.Kfz.222 moves rapidly on roads, less so on regular ground and will get bo
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 180 (10) || rowspan="2" | 450 || rowspan="2" | -7°/+85° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 180 (10) || rowspan="2" | 450 || rowspan="2" | -7°/+85° || rowspan="2" | ±180° || rowspan="2" | - || 35.2 || 48.8 || 59.2 || 65.5 || 69.6 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 23.8 || 28.0 || 34.0 || 37.6 || 40.0
 |-
 |}
 
 ==== Ammunition ====
-
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''PzGr.:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
@@ -104,15 +101,13 @@ The Sd.Kfz.222 moves rapidly on roads, less so on regular ground and will get bo
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|MG34 (7.92 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[MG34 (7.92 mm)|7.92 mm MG34]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 2,700 (150) || 900 || - || -
 |-
 |}
 
@@ -133,9 +128,9 @@ The Sd.Kfz.222 moves rapidly on roads, less so on regular ground and will get bo
 '''Cons:'''
 
 * The 20 mm cannon belt consists of only 10 rounds and it gets exhausted very quickly, so reloads are very frequent
-* Weak armour from the sides and rear can be penetrated by lighter weapons like autocannons and heavy machine guns (e.g. [[M13 MGMC]], [[GAZ-AAA (DShK)]])
+* Weak armour from the sides and rear can be penetrated by lighter weapons like autocannons and heavy machine guns (e.g. [[M13 MGMC]], [[GAZ-AAA (DShK)]])
 * Can be destroyed with overpressure by chemical rounds and artillery strikes
-* Poor post-penetration damage of 20 mm shells means that it can be difficult to destroy spacious tanks like the [[LVT(A)(1)]]
+* Poor post-penetration damage of 20 mm shells means that it can be difficult to destroy spacious tanks like the [[LVT(A)(1)]]
 * Tall wire mesh fencing on the turret sides can give it away if attempting to hide or play stealthily while providing no armour benefits
 * Prone to strafing from aircraft
 * Has trouble turning in tight and narrow streets

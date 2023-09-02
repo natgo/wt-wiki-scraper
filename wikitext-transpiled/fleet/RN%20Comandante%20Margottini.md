@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
-
 The Comandante Margottini is one of the Comandanti Medaglie d'Oro class of destroyers, the most modern Italian World War II destroyer design incorporating lessons learned by the Regia Marina during the war. She and the rest of her class were laid down but never completed, thus the Margottini is present in the game in her planned configuration. She features heavier main guns than previous Italian destroyers, much improved anti-aircraft armament, and even an air-search radar.
+
+Introduced in [[Update "Raining Fire"]], RN Comandate Margottini is a destroyer with good speed and manoeuvrability perfect to dodge enemy salvos and torpedoes. For armament, the Margottini has a standard armament of four main cannons and one of the best AA armaments to use against enemy boats and planes. As additional armament, she can carry six torpedoes divided between 2 torpedo launchers. However, she has a poor survivability due to the relatively unprotected ammoracks, so avoid being hit in these areas by enemy ships.
 
 == General info ==
 === Survivability and armour ===
@@ -40,15 +40,15 @@ The Margottini has a respectable top speed of 65 km/h, driven by two turbines wi
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
-{{main|135 mm/45 O.T.O. Mod. 1938 (135 mm)}}
+{{main|135 mm/45 O.T.O. Mod. 1937 (135 mm)}}
 
-The Margottini is armed with four 135/45 OTO Mod. 1938 main guns distributed in four single mounts, two in the bow and two in the stern. They fire heavier projectiles than the previous standard Italian destroyer weapon, the 120/50, but at a lower muzzle velocity. They also have a fairly low rate of fire of only 7.5 rounds/minute maximum with an aced crew. They do have greater elevation than previous Italian destroyer gun mounts, thus allowing some limited utility against aircraft.
+The Margottini is armed with four 135/45 OTO Mod. 1937 main guns distributed in four single mounts, two in the bow and two in the stern. They fire heavier projectiles than the previous standard Italian destroyer weapon, the 120/50, but at a lower muzzle velocity. They also have a fairly low rate of fire of only 7.5 rounds/minute maximum with an aced crew. They do have greater elevation than previous Italian destroyer gun mounts, thus allowing some limited utility against aircraft.
 
 The main guns can fire HE, HE-TF, and APHE. The HE has 1.8 kg of TNT, while the APHE has 1.4 kg of TNT. The HE-TF shell has the same amount of explosive as the HE but will detonate at the rangefinder's set range, thus allowing it to burst on air targets. In terms of ballistics, the HE, APHE, and HE-TF have a muzzle velocity of 825 m/s, which is slower than the shells of the 120/50 on the [[RN Dardo|Dardo]] and [[RN Corazziere|Corazziere]].
 
 It is important to note that the stern-most turret (Y turret) has very poor traverse arcs because of the superstructure blocking it, requiring a large amount of broadside to be given in order to unmask the gun. The X turret ahead of it, in contrast, has full 360-degree traverse, and it can be brought into action very quickly.
 
-{{:135 mm/45 O.T.O. Mod. 1938 (135 mm)/Ammunition|135 mm HE Dirompente, 135 mm APHEBC Perforante, 135 mm HE-TF Contro-aerea}}
+{{:135 mm/45 O.T.O. Mod. 1937 (135 mm)/Ammunition|135 mm HE Dirompente, 135 mm APHEBC Perforante, 135 mm HE-TF Contro-aerea}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}

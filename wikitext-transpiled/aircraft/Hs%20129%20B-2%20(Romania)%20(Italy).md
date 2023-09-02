@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian strike aircraft {{Battle-rating}}. It was introduced as a premium pack vehicle in [[Update 1.83 "Masters of the Sea"]] for War Thunder's [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|6th Anniversary]] as a replacement for the [[Hs 129 B-2 (Romania)|German Tech Tree version of the vehicle]]..
+The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian strike aircraft {{Battle-rating}}. It was introduced as a premium pack vehicle in [[Update 1.83 "Masters of the Sea"]] for War Thunder's [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|6th Anniversary]] as a replacement for the [[Hs 129 B-2 (Romania)|version of the vehicle in the German tech tree]].
 
 == General info ==
 === Flight performance ===
@@ -160,6 +160,7 @@ The Hs 129 B-2, however, does have major drawbacks. Its engines are weak which r
 * Centrally mounted armament, need for gun harmonisation minimalized
 
 '''Cons:'''
+
 * Extremely underpowered engines plagued the overall flight performances
 ** Poor acceleration and energy retention
 ** Poor climb rate, bad manoeuvrability at lower speed
@@ -176,7 +177,7 @@ The Hs 129 B-2, however, does have major drawbacks. Its engines are weak which r
 
 At the start of WW2 Romania had adopted a position of neutrality. However following the Soviet Annexation of Bessarabia and Northern Bukovina in June - July 1940, the loss of Northern Transylvania to Hungary on 30 August 1940, and the loss of Southern Dobruja to Bulgaria on 7 September 1940 the popularity of the Romanian government plummeted. This led to a series of government changes, followed by a Coup and the instalment of Ion Antonescu as the country's leader. Antonescu promptly got Romania to join the Tripartite Pact on 23 November, becoming allied with Nazi Germany.<ref name="Williamson1">Williamson 2017 I</ref>
 
-Becoming allies with Nazi Germany gave Romania access to German aircraft. It is reported that Romania received Hs 129 A series aircraft.<ref name="Kretaner">Kretaner n.d.</ref> The Hs 129 A was known for being extremely underpowered with its Argus As 410 engines, and B series aircraft were soon produced with more powerful Gnome-Rhône 14M radial engines. Romania received the latest Hs 129 B-2 version in June 1943; and they were put to use against Soviet forces on the Eastern Front<ref name="Joseph">Joseph 2012</ref>. The Romanian Hs 129 B-2s typically carried a 30 mm cannon under the fuselage, and proved to be very effective in the ground attack role, reportedly "bringing Soviet tank and infantry attacks to a halt time and again".<ref name="Joseph"/> On 23 August 1944 after Romania had been suffering heavy losses against the advancing Soviet forces King Michael I of Romania ordered Antonescu to surrender. When Antonescu refused the king had him arrested and declared war on Nazi Germany, joining the Soviet advance.<ref name="Williamson2">Williamson 2017 II</ref> It is unclear if the Hs 129s were used against Germany.
+Becoming allies with Nazi Germany gave Romania access to German aircraft. It is reported that Romania received Hs 129 A series aircraft.<ref name="Kretaner">Kretaner n.d.</ref> The Hs 129 A was known for being extremely underpowered with its Argus As 410 engines, and B series aircraft were soon produced with more powerful Gnome-Rhône 14M radial engines. Romania received the latest Hs 129 B-2 version in June 1943; and they were put to use against Soviet forces on the Eastern Front<ref name="Joseph">Joseph 2012</ref>. The Romanian Hs 129 B-2s typically carried a 30 mm cannon under the fuselage, and proved to be very effective in the ground attack role, reportedly "bringing Soviet tank and infantry attacks to a halt time and again".<ref name="Joseph" /> On 23 August 1944 after Romania had been suffering heavy losses against the advancing Soviet forces King Michael I of Romania ordered Antonescu to surrender. When Antonescu refused the king had him arrested and declared war on Nazi Germany, joining the Soviet advance.<ref name="Williamson2">Williamson 2017 II</ref> It is unclear if the Hs 129s were used against Germany.
 
 One Romanian ace to fly the Hs 129 was Teodor Zăbavă, who achieved four air-to-air kills in his Hs 129 (and more in his IAR 80). One kill occurred on 25 October 1943 against a Soviet Yak fighter.<ref name="Bernad">Bernad 2012</ref>
 
@@ -184,6 +185,7 @@ One Romanian ace to fly the Hs 129 was Teodor Zăbavă, who achieved four air-to
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=hs-129b-2_romania_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -203,10 +205,12 @@ One Romanian ace to fly the Hs 129 was Teodor Zăbavă, who achieved four air-to
 * [https://forum.warthunder.com/index.php?/topic/80788-henschel-hs-129-b-2/ Official data sheet - more details about the performance]
 
 ===References===
+
 ;Citations
 <references />
 
 ;Bibliography
+
 * Bernad, D. (2012). Rumanian Aces of World War 2. United Kingdom: Bloomsbury Publishing.
 * Joseph, F. (2012). The Axis Air Forces Flying in Support of the German Luftwaffe. Santa Barbara, California: ABC-CLIO.
 * Kretaner, N. (n.d.). Hs 129. Retrieved from [https://www.ww2-weapons.com/hs-129/ WW2 Weapons]

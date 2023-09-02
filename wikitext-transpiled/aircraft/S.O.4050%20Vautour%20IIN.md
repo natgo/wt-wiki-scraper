@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet bomber {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]] as a premium pack but was removed from the Gaijin store after the [[wt:en/news/8046-shop-war-thunder-winter-sale-en|2022 "Winter sale"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet bomber {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]] as a premium pack but was removed from the Gaijin store after the [[wt:en/news/8046-shop-war-thunder-winter-sale-en|2022 "Winter sale"]]. It was briefly made available for purchase with Golden Eagles {{GE}} for the [[wt:en/news/8356-special-a-decal-and-two-aircraft-for-bastille-day-en|2023 "Bastille Day"]] mini-event.
 
 == General info ==
 === Flight performance ===
@@ -183,11 +183,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The S.O.4050 Vautour IIN should be used with a careful mindset, makee sure to pick your targets wisely. You should always load a minimum of 8 minutes of fuel, and take advantage of your jet bomber spawn. Depending on your loadout, there are 2 ways to go for bases. You can either dive bomb from an altitude, allowing you to stay safe from enemy jet fighters who are likely still climbing to altitude. However, as you will be diving from a high altitude, you can potentially risk compressing your own aircraft. To counter this, use your airbrakes and manage your throttle when necessary. Once the base is bombed, you can return straight to the base. The second option is to convert your energy at spawn straight into speed, going as fast as possible to the nearest base, dropping ordnance, and pulling out. This allows you to bomb faster, but leaves you much exposed to the enemy fighters who would be coming out of spawn.
+The S.O.4050 Vautour IIN should be used with a careful mindset, make sure to pick your targets wisely. You should always load a minimum of 8 minutes of fuel, and take advantage of your jet bomber spawn. Depending on your loadout, there are 2 ways to go for bases. You can either dive bomb from an altitude, allowing you to stay safe from enemy jet fighters who are likely still climbing to altitude. However, as you will be diving from a high altitude, you can potentially risk compressing your own aircraft. To counter this, use your airbrakes and manage your throttle when necessary. Once the base is bombed, you can return straight to the base. The second option is to convert your energy at spawn straight into speed, going as fast as possible to the nearest base, dropping ordnance, and pulling out. This allows you to bomb faster, but leaves you much exposed to the enemy fighters who would be coming out of spawn.
 
 If you are using the Vautour IIN as an air-to-air engagement plane, use your fast acceleration and engine power to your advantage. Many sub-sonic planes will be much slower than you in terms of raw engine power, and you can easily catch up to them, and take them out using your AA-20 NORD air-to-air manually-guided Missiles, or use your 4 x 30 mm cannons mounted on your nose. You will often rely on your teammates to back you up, in case of somebody being on your rear, or being engaged with multiple enemies at the same time. If there are no teammates to help you during any of these situations, you are most likely a sitting duck for many jet fighters. When fighting in air-to-air combat in a Vautour IIN, avoid turning or rolling as much as possible. The Vautour series is well known to have a terrible turn rate. Never engage in a dogfight. Your Vautour IIN cannot handle turning fast enough. Combined with the terrible turn and roll rates, and the risk of ripping your wings with a sustained 7-8G pull, dogfighting is not a job for this plane and should be avoided at all costs.
 
-While the Vautour IIN does not excel in any way during dogfights, during a head-on engagement, or chasing a low-speed plane, the Vautour IIN can shine in many ways. During head-os, using your 30 mm cannons mounted in the nose of your plane makes it very easy to hit an enemy plane risking a head-on with you. You will just need to remember to turn away from enemy fire earlier than you would with other jets, as the turn rate in the Vautour IIN makes it harder to avoid head-on fire. If your loadout consists of AA-20 NORDs, you can try and fire them during a head-on engagement, as the NORD missiles have a proximity fuse, allowing it to explode, even if it doesn't directly hit the enemy target. Enemies will also be caught off-guard with this, as many people do not expect the Vautour IIN to have such weapons.
+While the Vautour IIN does not excel in any way during dogfights, during a head-on engagement, or chasing a low-speed plane, the Vautour IIN can shine in many ways. During head-ons, using your 30 mm cannons mounted in the nose of your plane makes it very easy to hit an enemy plane risking a head-on with you. You will just need to remember to turn away from enemy fire earlier than you would with other jets, as the turn rate in the Vautour IIN makes it harder to avoid head-on fire. If your loadout consists of AA-20 NORDs, you can try and fire them during a head-on engagement, as the NORD missiles have a proximity fuse, allowing it to explode, even if it doesn't directly hit the enemy target. Enemies will also be caught off-guard with this, as many people do not expect the Vautour IIN to have such weapons.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -195,16 +195,17 @@ While the Vautour IIN does not excel in any way during dogfights, during a head-
 '''Pros:'''
 
 * Good acceleration, even fully loaded
-* Very good choice of suspended armament (including 2 AS30 Nord ATGMs)
+* Very good choice of suspended armament (including 2 AS-30 Nord AGMs)
 * Have access to a radar
 * Powerful 30 mm cannons
 * The bomb bay can be used to carry a large number of additional unguided rockets
+* The 30 mm DEFA cannons and AA-20 Nord missiles combo excels in head-on attacks
 
 '''Cons:'''
 
 * Doesn't have access to IR-guided missiles, it relies on AA20 Nords manually-guided missiles instead
 * The suspended armament is very difficult to aim due to the poor manoeuvrability of the plane (even the guided missiles)
-* At 9.0, it is very frequently uptiered against much faster, more manoeuvrable and better armed opponents (Harriers, Jaguars, etc.)
+* At its BR, it frequently faces much faster, more manoeuvrable and better armed opponents (Harriers, Jaguars, etc.)
 * No ballistic computer nor bomb sight, makes the bombs hard to drop in mixed ground battles
 * Due to its poor manoeuvrability, it is very vulnerable to radar AA in mixed ground battles and to IR-guided missiles in air battles
 * The wings tend to rip quite easily when turning, if exposed to a constant load of over 7 to 8G
@@ -218,6 +219,7 @@ While the Vautour IIN does not excel in any way during dogfights, during a head-
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=so_4050_vautour_2n Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

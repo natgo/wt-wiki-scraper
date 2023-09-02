@@ -10,7 +10,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese bomber {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+
+The '''{{Specs|name}}'''(known as 德勃-3轟炸機 in Chinese) represented the 24/30 DB-3 bombers aided to China in June 1939 alongside with other Soviet bombers like [[SB 2M-103U (China)|SB]]; the aircraft was perhaps more well-known to Chinese during major bombing runs on Japanese-occupied Wuhan Wangjiadun (王家墩) airfield which the bombers scored more than 100 aircrafts and hundreds of Japanese aircrews in September and October 1939. The aircrafts were likely been used by the Nationalist forces or Soviet volunteers until the aircrafts were eventually replaced by newer, larger bombers like B-24 from USAAF.
+
+Introduced in [[Update 1.91 "Night Vision"]] as one of the bombers of the newly-introduced Chinese air tech-tree, not only it has rather generous payload at its tier (up to 2.1 ton), the coverage of front self-defense machine gun is also quite large, making enemies have to think twice before heading for DB-3A. Do be careful of aircrafts with autocannons as they can tear down DB-3A with ease.
 
 == General info ==
 === Flight performance ===
@@ -177,16 +180,24 @@ Landing is easy and similar to the style of the SB 2M. Line up with the airstrip
 * Negative deflection of the elevator will not pitch the plane down at 390+ km/h
 
 == History ==
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+<!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+
+Due to the rather sparse information on DB-3 bombers, these aircrafts were very likely the result of the Sino-Soviet Non-Aggression Pact (中蘇互不侵犯條約); 24 or 30 of these aircrafts were then aided to China and has been stationed in Chengdu Taipingshi ''(太平寺; now a PLAGF Aviation Corps and PLAAF airbase)'', Sichuan with the 8th Wing.
+
+One of these aircrafts were commanded by Soviet pilot Grigory Arimovich Kurishenko (Григорий Aримович Kуришенко). The most famous battle for these bombers was on 3rd October, 1939 where the squadron consisted of 9 DB-3s bombed Wuhan Wangjiadun (王家墩) airfield with some 60 Japanese aircrafts destroyed and 600 casualties for the aircrews, including the base commander Nishizō Tsukahara (塚原二四三) who lost his left arm during the bombing run<ref>https://m.163.com/v/video/VQ0IO09RA.html A clip of documentary on Sino-Japanese War mentioning the Bombing of Japanese in Wuhan</ref>; on the bombing run on 14th October, after destroying another hundreds of equipment and crews of Japanese forces, the returning bomber squadron was intercepted by Japanese fighters over the skies of Hubei; while his aircraft barely survived the assault, he controlled the now-single-engine bomber into Wan County, Sichuan (Wan County was renamed as Wanzhou District in 1998)<ref>Note: Chongqing split-off from Sichuan in 1997 as a direct-administrated municipality (直辖市), where Wan County was rearranged into Wanxian City in 1994.</ref> until he has to ditch on the section of Yangtze River near Hongshaqi (红砂碛; now in Chongqing City). Although his crews managed to escape from the sinking aircraft, Kurishenko sacrificed due to exhaustion and drowning at only 36 years old, leaving his name on Chinese history books and listed as heroes against invaders; his corpse was recovered in November and now buried in Xishan Park with a memorial stele stating his good deeds.<ref>[https://baike.baidu.com/item/%E6%A0%BC%E9%87%8C%E6%88%88%E9%87%8C%C2%B7%E9%98%BF%E9%87%8C%E8%8E%AB%E7%BB%B4%E5%A5%87%C2%B7%E5%BA%93%E9%87%8C%E7%94%B3%E7%A7%91 格里戈里·阿里莫维奇·库里申科]</ref>
+
+The records of the operations of the remaining DB-3 were sparse, but they were very likely been replaced by US-built heavy bombers by 1943.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=db_3a_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -196,6 +207,8 @@ Landing is easy and similar to the style of the SB 2M. Line up with the airstrip
 * ''other literature.''-->
 
 * [https://forum.warthunder.com/index.php?/topic/355500-db-3/ Official data sheet - more details about the performance]
+===References===
+<references />
 
 {{AirManufacturer Ilyushin}}
 {{China bombers}}

@@ -90,17 +90,17 @@ The 90 mm D915 cannon is unsuited for long range due to the poor ballistics of t
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|MAC 31 (7.5 mm)}}
+{{main|AAT-52 (7.5 mm)}}
 
 The machine gun can only clear light obstacles, its primary use is to clear fences or other elements that would otherwise make your HEATFS shells detonate before reaching the target. Vehicles with exposed crew aren't particularly common at the ELC's battle rating, the main vehicles the ELC encounters where the machine gun can prove useful against are the American [[M42 Duster (Family)|M42]] and [[M56]].
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[MAC 31 (7.5 mm)|7.5 mm MAC 31]]
+! colspan="5" | [[AAT-52 (7.5 mm)|7.5 mm AAT-52]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,800 (150) || 551 || N/A || N/A
+| Coaxial || 4,800 (200) || 900 || - || -
 |-
 |}
 

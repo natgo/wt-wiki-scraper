@@ -149,6 +149,8 @@ The rear-facing dorsal gunner does not deter much, don't rely on him to clear yo
 
 The SB2U is a slow aircraft, however it is manoeuvrable. Due to the large surface area of the wings and rudder, it can make quick reversals through wing-overs causing faster fighters to overshoot. The rear-gunner does not pack much of a punch, however coming at this aircraft from the underside will avoid any offensive/defensive weapons allowing for time to line up a shot. Aim for critical areas of the aircraft (engine, pilot, fuel…) as the body of the aircraft can soak up a good amount of damage.
 
+An interesting fighting technique against enemy bombers, if altitude, airspeed and lack of nearby enemy fighters permits, is to engage in a "Turret fighting" mode. Start with a 700m+ altitude advantage and 300km/h and look for isolated medium/heavy bombers. (If the bomber in question has significant forward firepower, such as the British DB-3(Quad 7.7mm MG) or the BV 138 B-1(20mm MG151), this technique is best avoided as these will make short work of your vulnerable tail. Do your homework and find which bombers are vulnerable in the nose) Dive on the bomber at a shallow angle (about 20 degrees will do) and fire with your forward MGs if you can. Bank under the target bomber and match his airspeed and climb angle and switch to gunner view. If you successfully followed the instructions your gunner should have an easy view of the front of the enemy bomber, and with sufficient aim and trigger discipline, you should be able to put enough gunfire into his engines or even pilot snipe him to take him down.
+
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
 |-

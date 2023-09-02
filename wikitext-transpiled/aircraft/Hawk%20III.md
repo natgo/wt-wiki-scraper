@@ -200,8 +200,10 @@ The last surviving Hawk III aircraft resides in Thailand at the Royal Thai Air F
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Aircraft of comparable role, configuration and era
+;[[BF2C Goshawk (Family)|Related development]]
+* [[BF2C-1]]
 
+;Aircraft of comparable role, configuration and era
 * [[Hs 123 A-1]]{{-}}[[Hs 123 A-1 (China)]]
 
 == External links ==

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]], however it was removed from the Gaijin store at the end of the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]]. It was briefly made available for purchase with Golden Eagles {{GE}} for the [[wt:en/news/8356-special-a-decal-and-two-aircraft-for-bastille-day-en|2023 "Bastille Day"]] mini-event.
 
 == General info ==
 === Flight performance ===
@@ -208,8 +208,9 @@ Your only chance to get kills in the Milan is to always stay on top of the battl
 * CCIP/CCRP for bombs, rockets, and guns
 * Decent medium speed handling
 * DEFA cannons will shred whatever they hit
-* Decent cockpit for sim
+* Decent cockpit for simulator battles
 * Drop tanks (which must be equipped in order to carry bombs or rockets) can be dropped to increase performance in dogfights
+* Fast plane, especially for its BR where most planes are subsonic, with bombs which can be dropped above Mach 1
 
 '''Cons:'''
 

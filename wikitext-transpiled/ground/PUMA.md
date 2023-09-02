@@ -246,7 +246,7 @@ Another point of criticism is the 5.56x45 machine gun mounted in the turret. The
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_schutzenpanzer_puma Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|2AF4ZDe6M2g|'''The Shooting Range #299''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|y2Ph0rmD5sU|'''Unmanned Turret Tanks: Showcasing New Tech''' discusses the {{PAGENAME}} at 00:48 - ''War Thunder Official Channel''|2AF4ZDe6M2g|'''The Shooting Range #299''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -137,17 +137,52 @@ Compressor > Boosters (don't equip them yet) > Engine > Both cannon upgrades > G
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|Aerea 559G1 incendiary}}
-{{main|AS-20 Nord|SNEB type 23|DEFA 552 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_G.91_R-4.png]]</div>
+|-
+! [[DEFA 552 (30 mm)|30 mm DEFA 552]] cannons (125 rpg)
+| || || 1 || 1* || ||
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| 1 || 1 || || || 1 || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || 1 || || || 1 ||
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| || 1 || || || 1 ||
+|-
+! [[Aerea 559G1 incendiary]] bombs
+| || 1 || || || 1 ||
+|-
+! [[SNEB type 23]] rockets
+| 19 || || || || || 19
+|-
+! [[AS-20 Nord]] missiles
+| 1* || 1* || || || 1* || 1*
+|-
+| colspan="7" | Maximum permissible weight imbalance: 270 kg
+|-
+| colspan="8" | * MCLOS missiles cannot be carried in conjunction with cannons on hardpoint 4
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+
 * 2 x 30 mm DEFA 552 cannons (125 rpg = 250 total)
+* 2 x 30 mm DEFA 552 cannons + 38 x SNEB type 23 rockets
+* 1 x 30 mm DEFA 552 cannon + 4 x AS-20 Nord missiles
 * 2 x 30 mm DEFA 552 cannons + 4 x 250 lb AN-M57 bombs (1,000 lb total)
 * 2 x 30 mm DEFA 552 cannons + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-* 1 x 30 mm DEFA 552 cannon + 4 x AS-20 Nord missiles
-* 2 x 30 mm DEFA 552 cannons + 38 x SNEB type 23 rockets
+* 2 x 30 mm DEFA 552 cannons + 2 x 500 lb Mk 82 Snakeye bombs (1,000 lb total)
 * 2 x 30 mm DEFA 552 cannons + 2 x Aerea 559G1 incendiary bombs
+{{Navigation-End}}
 
 Featuring a wide range of ordnance, the G.91 R/3 can be equipped for any role from ground to air combat, though it prefers air superiority.
 
@@ -192,6 +227,7 @@ Ground attack should be done only in Ground RB, since G.91 is a typical fighter.
 * Poor energy retention
 * Fairly low ammo count for the guns means that you need to be conservative with your ammo
 * Wings can snap off when trying to pull very hard at high speeds and when pushing elevator + ailerons at the same time, especially with 20min of fuel
+* No counter measures
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -201,10 +237,11 @@ The G.91 ''Small Sabre'' entered service with the Luftwaffe in 1962 after winnin
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fiat_g91_r3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="150">
+<gallery mode="packed-hover" heights="150">
 Image:G91R-3.png|G-91 R/3 sitting on a runway
 </gallery>
 

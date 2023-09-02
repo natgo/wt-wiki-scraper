@@ -134,7 +134,7 @@ The Avenger lacks much significant offensive armament, but in a pinch it can ser
 
 Fly low and fast, head towards your target, drop your ordnance and bug out. However, if there are no hostile fighters in the area, you can destroy some enemy ground installations, e.g. AA, light vehicles, landing crafts and anti-tank positions after this.
 
-Despite being a light bomber/torpedo bomber, the Avenger comes with a bombsight, just like the old TBD Dauntless, albeit without the telescopic sight in the pilot's cockpit. This makes precision bombing in Realistic battles possible, as even novice pilots will be able to drop the 500 kg bombs with excellent accuracy. Once you spot a target, fly out about 1.5 km horizontally from the target (remember to keep focus on said target and its general location while being aware of any obstacles in your way), then begin to slowly fly over said target. Open the bomb bay and switch to the bombsight view, then drop your ordnance.
+Despite being a light bomber/torpedo bomber, the Avenger comes with a bombsight, just like the old TBD Devastator, albeit without the telescopic sight in the pilot's cockpit. This makes precision bombing in Realistic battles possible, as even novice pilots will be able to drop the 500 kg bombs with excellent accuracy. Once you spot a target, fly out about 1.5 km horizontally from the target (remember to keep focus on said target and its general location while being aware of any obstacles in your way), then begin to slowly fly over said target. Open the bomb bay and switch to the bombsight view, then drop your ordnance.
 
 '''Simulator mode'''
 
@@ -176,7 +176,8 @@ Level-type carrier landing final approach (Auto engine control): Drop any second
 * Limited bomb selection for a bomber
 * Wing mounted 12.7 mm machine guns factoring in convergence
 * Poor low altitude performance, especially when turning
-* Relatively slow
+* Heavy and fairly slow
+* Big target at low altitude
 * Ventral gunner has little protection, easily knocked out
 * Only has landing flaps
 * Touchy controls, tends to over-respond to small control inputs (SB)

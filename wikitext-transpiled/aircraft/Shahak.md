@@ -1,8 +1,3 @@
-{{About
-| about = Israeli jet fighter '''{{PAGENAME}}'''
-| usage = other versions
-| link = Mirage III (Family)
-}}
 {{Specs-Card
 |code=mirage_3cj
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -109,7 +104,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-Due to the size of the Mirage IIICJ, its survivability is rather low. The large engine that covers almost half the length of your fuselage is very vulnerable to enemy fire. Any damage which will significantly decrease your power output and the massive wings will lose a large amount of lift when damaged.
+Due to the size of the Shahak, its survivability is rather low. The large engine that covers almost half the length of your fuselage is very vulnerable to enemy fire. Any damage which will significantly decrease your power output and the massive wings will lose a large amount of lift when damaged.
 
 The plane includes an RWR (radar warning receiver), which can be rather helpful.
 
@@ -166,6 +161,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x Shafrir 2 missiles
 * 2 x AIM-9D Sidewinder missiles
@@ -183,7 +179,7 @@ In Air RB, it is recommended to climb and use your decent radar and Matra R530 S
 
 The aircraft also comes with the Matra R530E which is the infrared variant of the R530. It can be used at medium range at high altitude (preferable side-on) but it will be a missile that you rarely use since you have access to two AIM-9D missiles that are superior to the 530E. The R530E could then be traded for bombs or the regular R530 which also has all-aspect capabilities.
 
-There is also the Shafrir 2 IR missile which, despite featuring a caged seeker head, has great manoeuvrability as well as a long motor burn time. However, the missile has a relatively short range, and has difficulty hitting targets going the same speed as you at low altitude.
+There is also the Shafrir 2 IR missile which has great manoeuvrability, as well as a long motor burn time. However, the missile has a relatively short range, and can have difficulty hitting targets going the same speed as you at low altitude. the uncaged seeker helps this missile alot with turning targets by allowing you to lead the missile.
 
 The AIM-9D is one of the longest-range missiles of the AIM-9 family, featuring a motor and aerodynamics almost identical to the AIM-9G/9H with an inferior seeker head and gimbal limits. It can effectively destroy aircraft 5-6 km rear aspect at ~5 km, ~3 mi altitude or more with the only drawback being that it is angled downwards with a caged seeker before launch making it slightly harder to use.
 
@@ -213,6 +209,7 @@ In summary, a valid tactic is to start climbing at 20-25 degrees once you take o
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_3cj Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -224,6 +221,7 @@ In summary, a valid tactic is to start climbing at 20-25 degrees once you take o
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Mirage III (Family)]]
 
 == External links ==

@@ -5,18 +5,18 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]]. The last aircraft ever produced by the famous Supermarine company, the Scimitar is a heavy but very powerful carrier-borne fighter. Its two immensely powerful engines make it just about the fastest subsonic aircraft in the game, however its interesting handling characteristics can make it an interesting challenge to fly. As well as being a powerful fighter, the Scimitar has excellent ground attack capability, and is the first British aircraft (second being the Buccaneer} capable of carrying air-to-ground missiles.
+The last aircraft ever produced by the famous Supermarine company, the Scimitar was developed to meet the Royal Navy's requirements for an aircraft with good low-altitude manoeuvrability and wide choice of strike ordnance. Featuring two large Rolls Royce Avon Mk.202 engines, the Scimitar was the heaviest and most powerful aircraft to have been in service with the Fleet Air Arm at its entry in 1958. While the plane was generally praised for its low-level and low-speed flight characteristics, helped in part by a special flap-blowing system that allowed some of the excess thrust to be redirected across the flaps to reduce its stall speed, over half of the 76 Scimitars produced were lost to accidents, and the plane had generally poor reliability and serviceability. The aircraft was quickly relegated to second line duties with the introduction of the [[Buccaneer S.1|Blackburn Buccaneer]] in 1962, and was finally retired completely in 1970.
+
+Introduced in [[Update "Starfighters"]], the Scimitar is a heavy but very powerful carrier-borne fighter. Its two immensely powerful engines make it one of the fastest subsonic aircraft in the game and afford it great acceleration and climb rate, however its interesting handling characteristics can make it an particular challenge to fly. Notably, while the pitch and roll capabilities are generally sufficient, especially for such a large aircraft, the poor rudder response at high speed can make the four powerful ADEN cannons (difficult to handle at the best of times) extremely impractical to aim. However, this limitation can be mitigated by sensible approach planning, and by making proper use of the four AIM-9B Sidewinder missiles also able to be equipped. As well as being a powerful fighter, the Scimitar has excellent ground attack capability, and is the first British aircraft (second being the Buccaneer) capable of carrying air-to-ground missiles.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 [[File:Rudder Demonstration .png|thumb|''Full left yaw at 1,000 km/h'']]
-The Scimitar F.1 is a relatively large and heavy aircraft, but it is still extremely capable because of its impressive engines. The Scimitar's two Rolls-Royce Avon 202 engines put out 4,650 kgf of thrust each, giving the Scimitar its fantastic climb rate of over 100 m/s. This outclasses similarly placed jets known for their climb rate (such as the [[MiG-15]]) by almost 2 times, and it's capable of gaining speed in a 45° climb. The impressive amount of power means that, assuming you aren't uptiered to 9.7, you will always be the first off the airfield and into combat. The Scimitar has a max speed of just over 1,160 km/h or mach 0.95 on the deck, enough to outrun anything at its BR, and even some missiles too.
+The Scimitar F.1 is a relatively large and heavy aircraft, but it is still extremely capable because of its impressive engines. The Scimitar's two Rolls-Royce Avon 202 engines put out 4,650 kgf of thrust each, giving the Scimitar its fantastic climb rate of over 100 m/s. This outclasses similarly placed jets known for their climb rate (such as the [[MiG-15]]) by almost 2 times, and it's capable of gaining speed in a 45° climb. The impressive amount of power means that, assuming you aren't uptiered to 9.7, you will always be the first off the airfield and into combat. The Scimitar has a max speed of just over 1,160 km/h or mach 0.95 on the deck, enough to outrun anything at its BR, and even some missiles too. In an uptier, there are many planes faster than you so be extra cautious: don't engage first and look for an opportunity. 
 
-The Scimitar turns surprisingly well for its size and weight, thanks to its all-flying tail, and large control surfaces. It will be able to hold its own in a turnfight with most, and can quickly accelerate out of trouble if needed. You should not be turning for too long, as the Scimitar still loses its energy quite quickly in a full turn.
-
-However, we now come to the biggest con of the Scimitar: its rudder. The rudder will lock up gradually until about 700 km/h where it will lose 99% of its effect, making it unusable, and trying to turn or aim conventionally is impossible, often leading to the plane wobbling itself into an uncontrollable flatspin that you can't escape, because you have no rudder control. It is recommended because of this that you only engage low energy targets and use the element of surprise so they cannot evade. The Scimitar does get 4 x AIM-9B missiles, and these can be used on targets that use your lack of a rudder against you.
+The Scimitar has very poor manoeuvrability due to its large weight and size, the yaw controls are particularly bad. It is therefore recommended that you only engage low energy targets and use the element of surprise so they cannot evade. If the target is aware of your presence, they will easily evade you. Unlike other jets at its BR, the Scimitar also struggles to dodge missiles. You should make sure that no one is in a position to be on your six since once an enemy is behind you and gaining on you, there is nothing you can do. The Scimitar does get 4 x AIM-9B missiles, and these can be used on targets that use your lack of a rudder against you, however you should keep in mind that they are only 2G missiles and can easily be dodged by the enemy. Overall this aircraft seems good on paper, however its poor handling plays hugely against it.  
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -133,19 +133,40 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|M.C. 1,000 lb Mk.I (1,000 lb)|AGM-12B Bullpup|AIM-9B Sidewinder|AP Mk II}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[M.C. Mk.I (1,000 lb)|1,000 lb M.C. Mk.I]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[AP Mk II]] rockets
+| 6 || 6 || 6 || 6
+|-
+! [[AGM-12B Bullpup]] missiles
+| 1 || 1 || 1 || 1
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || 1 || 1 || 1
+|-
+| colspan="5" | Maximum permissible weight imbalance: 850 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9B Sidewinder missiles
-* 4 x 1,000 lb M.C. 1,000 lb Mk.I bombs (4,000 lb total)
-* 24 x AP Mk II rockets
-* 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs + 12 x AP Mk II rockets (2,000 lb total)
 * 4 x AIM-9B Sidewinder missiles
+* 24 x AP Mk II rockets
 * 4 x AGM-12B Bullpup missiles
-* 2 x AGM-12B Bullpup missiles + 2 x AIM-9B Sidewinder missiles
-* 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs + 2 x AIM-9B Sidewinder missiles (2,000 lb total)
+* 4 x 1,000 lb M.C. Mk.I bombs (4,000 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

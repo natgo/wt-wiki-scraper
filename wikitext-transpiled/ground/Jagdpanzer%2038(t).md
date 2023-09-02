@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|pseudonym}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] Sd.Kfz. 138/2) (also known by misnomer '''"Hetzer"''' ''([[#Media|Endurance Hunter]])'') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was one of the first vehicles introduced in the opening of "Ground Forces" in [[Update 1.41]] after the Closed Beta Test. 
+The '''{{Specs|pseudonym}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] Sd.Kfz. 138/2) (also known by the misnomer '''"Hetzer"''' ''([[#Media|Endurance Hunter]]) in this case'') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was one of the first vehicles introduced in the opening of "Ground Forces" in [[Update 1.41]] after the Closed Beta Test. 
 
-The Jagdpanzer 38(t) presents itself as a low profile tank destroyer with a powerful main gun that could keep itself hidden and annihilate the enemy as they come, yet with impressive front armour that could withstand an average amount of incoming enemy fire.
+The Jagdpanzer 38(t) is a low-profile tank destroyer capable of concealing itself and annihilating adversaries as they come, equipped with a powerful main gun, yet with impressive front armour capable of withstanding a moderate amount of enemy fire.
 
 == General info ==
 === Survivability and armour ===
@@ -155,9 +155,9 @@ It is strongly advised against using the Jagdpanzer 38(t) in city maps. Without 
 
 '''Cons:'''
 
-* As with all tank destroyers, side and rear armour is thin and any shots can often be fatal
+* As with all tank destroyers, side and rear armour is thin, and any shots can often be fatal
 * Not great in close-quarters, this vehicle is more suited for long-range engagements
-* With the gun being placed to the right of the vehicle it has a limited traverse range to the left
+* With the gun being placed to the right of the vehicle, it has a limited traverse range to the left
 * The roof armour is fairly thin, which makes the Hetzer vulnerable to artillery barrages and aircraft
 * Lower front glacis plate is thin in comparison to the entire front, cover this if possible
 * As with turretless vehicles, the Hetzer is more vulnerable to being flanked
@@ -211,6 +211,7 @@ A total of 2,827 Jagdpanzer 38 SPGs were produced, as well as 318 tank destroyer
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles mounted on the same chassis
+
 * [[LT-38 (Family)]]
 
 == External links ==

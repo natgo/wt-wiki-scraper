@@ -173,4 +173,5 @@ During the Invasion of France in 1940, the 100 FCM 36s in service with the Frenc
 * [[wikipedia:FCM_36|[Wikipedia] FCM 36]]
 * [https://www.tanks-encyclopedia.com/ww2/france/FCM-36.php <nowiki>[Tanks Encyclopedia]</nowiki> Char FCM 36]
 
+{{Manufacturer FCM}}
 {{France light tanks}}

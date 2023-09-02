@@ -250,10 +250,9 @@ A-4Hs saw action very quickly after procurement in Jordan during the War of Attr
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[A-4 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

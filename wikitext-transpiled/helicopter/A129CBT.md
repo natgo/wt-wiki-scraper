@@ -177,11 +177,13 @@ When playing helicopter battles, your best shot at staying alive and being effec
 * Can carry AIM-92 Stinger or Mistral air-to-air missiles
 * Very effective anti-tank capabilities
 * Has access to countermeasures and a ballistic computer
+* Access to IRST auto tracker which is very effective against planes
+* Has IRCM which prevents the stable lock of IR missiles without ECCM
+* Has more secondary armaments than its counterparts
 
 '''Cons:'''
 
 * Fragile, cannot tank as many hits as its counterparts
-* Armament is lacklustre compared to other helicopters
 * Air-to-air missiles launch downwards
 
 == History ==

@@ -10,12 +10,16 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The '''{{Specs|name}}''' was given to France under the MDA (Mutual Defense Assistance Act) which was signed in 1949. A few years later, France would receive 22 PB4Ys and would use them in Vietnam during the first Indochina War as bombers. They served in the theater until the Battle of Dien Bien Phu which was a decisive loss for France. Six of these PB4Ys were sent back to America while the rest were shipped to North Africa to fight in Algeria and then during the Suez Crisis. In the early 1960s, the PB4Ys were scrapped.
+
+Introduced in [[Update 1.73 "Vive la France"]], the '''{{Specs|name}}''' is essentially the same as the PB4Ys in the American and Chinese trees. Players should expect the PB4Y to be very slow in level flight compared to other bombers but well-defended with one turret in the nose, two dorsal turrets, two beam turrets, and one turret in the tail.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+
+The '''{{Specs|name}}''' is virtually the same as the other PB4Ys in-game. It suffers at high altitudes due to its engines being tuned for low-altitude flying, so many enemy fighters will be able to intercept you. Even at low altitudes, the PB4Y is incredibly slow and struggles to hit speeds of 400 km/h (250 mph) at level flight. Furthermore, it accelerates very slowly so it takes a long time to reach its top speed. Like many other 4-engine bombers, the PB4Y has lacklustre manoeuvrability. However, the PB4Y has a structural rip speed of 599 km/h (375.4 mph)  which is much higher than the [[B-17]] and extremely similar to the [[B-24]]'s structural limit. Many other 4-engine bombers at this BR share a similar rip speed of around 600 km/h (375 mph).
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -216,3 +220,4 @@ Later in the mid-1950s, 6 of these aircraft were returned to the US and the 12 r
 
 {{AirManufacturer Consolidated}}
 {{France bombers}}
+<references />

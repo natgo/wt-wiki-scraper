@@ -88,6 +88,10 @@ The USS Cyclone is a quick vessel fitted with guns that can do short work of mos
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_cyclone_class_cyclone Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+
+{{Youtube-gallery|-2wgyj4gE5E|'''USS Cyclone: A Rare Look Inside USN's Smallest Warship''' - ''Cmdr. Tyrael''}}
+
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''

@@ -74,7 +74,7 @@ With only 36 mm of penetration, poor post-penetration damage and a long reload t
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.1.0.91''' -->
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -84,19 +84,26 @@ With only 36 mm of penetration, poor post-penetration damage and a long reload t
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
+|-
+| '''76''' || 75&nbsp;''(+1)'' || 68&nbsp;''(+8)'' || 62&nbsp;''(+14)'' || 55&nbsp;''(+21)'' || 49&nbsp;''(+27)'' || 42&nbsp;''(+34)''
+|-
 ! 7th<br>rack empty
+! 8th<br>rack empty
+! 9th<br>rack empty
+! 10th<br>rack empty
+! 11th<br>rack empty
+! 12th<br>rack empty
 ! Visual<br>discrepancy
 |-
-|| '''76''' || 75&nbsp;''(+1)'' || 62&nbsp;''(+14)'' || 49&nbsp;''(+27)'' || 36&nbsp;''(+40)'' || 23&nbsp;''(+53)'' || 10&nbsp;''(+66)'' || 1&nbsp;''(+75)'' || Yes
+| 36&nbsp;''(+40)'' || 29&nbsp;''(+47)'' || 23&nbsp;''(+53)'' || 16&nbsp;''(+60)'' || 10&nbsp;''(+66)'' || 1&nbsp;''(+75)'' || Yes
 |-
 |}
 '''Notes''':
 
-* The visual discrepancy concerns the total number of shells as well as the number of shells per rack:
-** 100 shells are modeled but you can only pack 76 shells, meaning some racks always empty (crossed out in the picture).
+* The visual discrepancy concerns the total number of shells as well as the number of shells in rack 1:
+** 80 shells are modelled but you can only pack 76 shells, meaning some rounds are never present (crossed out in the picture).
 ** Rack 1 is modeled as 6 shells but contains only 2 shells.
-* As they are modeled by sets of 6 or 7, shells disappear from racks 2 to 6 only after you fire all shells in the set.
-* Rack 7 disappears after you've fired all shells in the rack.
+* As they are modelled by sets of 6, 7, or 9, shells disappear from racks only after you've fire all shells in the set.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

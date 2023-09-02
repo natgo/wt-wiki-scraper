@@ -10,16 +10,20 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese dive bomber {{Battle-rating}}. It was introduced in [[Update 1.63 "Desert Hunters"]].
+The '''P1Y1 Ginga''' was a land-based long-range (dive-)bomber that was requested by the Japanese Navy after learning of the successes in the European theatres and out of their own experience with their own Type 96 G3Ms (and later Type 1 [[G4M1|G4M]]s) attack bombers lacking the ability to commit dive bombing actions. Initial development began by examining a purchased [[Ju 88 (Family)|Ju 88 A]] with little real valuable lessons being drawn from the Ju 88 and development continued, with the last prototypes being rushed to be used in service production due to the lengthy development time and deterioration of the war situation. This resulted in a late-war multirole high-speed bomber that was troubled with maintenance and overall production numbers.
 
-[[File:P1Y1 (1).png|thumb|left|350px|{{PAGENAME}} dropping a torpedo as it speeds towards the target]]
-The P1Y1 ''Ginga'' as named by the Japanese navy, otherwise reported as the ''Frances'' by the Allies. The Ginga is known for being one of the fastest bombers and is played similarly to the German Ju 288 and Arado 234. The overall tactic - dive, drop payload, retreat, repeat. The P1Y1 can go a little over 675 km/h (400 mph) in a dive, which is very fast for the battle rating.
-Unfortunately, the P1Y1 is a rather fragile aircraft, specifically to its detriment it has poor defensive guns and sadly has no turret coverage for the underside of the aircraft. This typically results in a situation where the P1Y1 is easy prey to enemy fighters attacking from underneath without fear of reprisal. The P1Y1 becomes extremely vulnerable after the loss of both speed and altitude. Since the P1Y1 can outrun most fighters (with the exception of the [[P-61C-1|P-61s]], [[P-51 (Family)|P-51s]], and [[P-47 (Family)|P-47s]]), you can speed away to fighter cover or the home airfield if caught in a sticky situation. For the planes you can't outrun, there are one of two strategies. If the plane chasing you is heavier than the P1Y1, you can generally outmanoeuvre it, which will make them lose energy and retreat. Another strategy is making them follow behind your rear gunner, so long as your gunner is firing, the enemy aircraft will need to manoeuvre to avoid being hit, effectively messing up their attempts to line you up in their gun-sights.
+The Ginga was introduced in [[Update 1.63 "Desert Hunters"]]. This bomber is one of the fastest at its battle rating and plays like the German [[Ju 288 C]] and [[Ar 234 B-2]]. The main strategy is to dive, release bombs, escape, and repeat. The P1Y1 can reach over 675 km/h (400 mph) in a dive, which outruns most fighters. However, the P1Y1 is also very fragile, with weak defensive guns and no turrets on the underside. This makes it vulnerable to attacks from below and to fighters that can catch up with it. The P1Y1 needs to rely on its speed and agility to evade enemies or seek friendly cover or the home base. If a heavier plane is chasing it, the P1Y1 can usually outturn it and make it lose energy and retreat. If a plane is behind its rear gunner, the gunner can fire and force the enemy to dodge and lose aim.
+
+;Nicknames
+* [[Abbreviations#.28IJN.29_Official_name_designation|Official Designation]]: ''銀河 (Ginga, "Galaxy")''
+* Allied reporting name: ''Frances''.
+** Initially incorrectly reported as a fighter: ''Francis''
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+[[File:P1Y1 (1).png|thumb|left|350px|{{PAGENAME}} dropping a torpedo as it speeds towards the target]]
 The P1Y1 is a highly agile and fast aircraft. It can make sharp turns and can pull out of a dive quickly with the use of airbrakes. The airbrakes on this plane are extremely effective, but they take five seconds to deploy, so keep that in mind. The P1Y1 can also turn extremely well, although its roll rate is rather poor. The plane has good elevator authority, meaning it will be able to pull up very quickly. This is good for ground battles or naval battles. The performance of the P1Y1 is excellent. There is only one small flaw, and that is the P1Y1 locks up at redline speeds, so make sure to use those airbrakes!
 
 {| class="wikitable" style="text-align:center" width="70%"

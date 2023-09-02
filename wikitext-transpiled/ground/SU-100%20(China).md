@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''SU-100 (Samokhodnaya Ustanovka 100)''' is a Soviet tank destroyer with a casemate superstructure and a 100 mm D-10S tank gun. It saw widespread action in the final year of World War II and was utilized for many years afterwards by Soviet allies' forces all over the world. After December 1, 1950, when Soviet forces left Dalian, formally concluding a ten-year military occupation, 99 SU-100s in Dalian were sold to China, and they were all assigned to the Chinese People's Liberation Army's newly formed 1st Mechanized Division. During the Korean War, the SU-100s were extensively deployed, particularly to ambush enemy armoured vehicles.
+
+Introduced in [[Update 1.91 "Night Vision"]], the SU-100 was the last casemate tank destroyer for the Chinese Army ground forces. With a high-velocity 100 mm D-10S tank gun and a substantially faster reload rate than the [[ISU-152 (China)|ISU-152]] and [[ISU-122 (China)|ISU-122]] in the Chinese People's Liberation Army inventory, it offers much better offensive capabilities when fighting enemy armoured vehicles. With its low profile and heavily sloped frontal armour, it can hide behind tall vegetation and wait for enemies to come closer. This ultimate tank destroyer draws the Chinese Army's ground forces World War II-era equipment to a close, combining excellent firepower, speed, and adequate protection.
 
 == General info ==
 === Survivability and armour ===
@@ -75,7 +77,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battl
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_SU-100.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -85,9 +87,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battl
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''33''' || 25&nbsp;''(+8)'' || 17&nbsp;''(+16)'' || 9&nbsp;''(+24)'' || 1&nbsp;''(+32)'' || No
+| '''33''' || 28&nbsp;''(+5)'' || 20&nbsp;''(+13)'' || 11&nbsp;''(+22)'' || 1&nbsp;''(+32)'' || No
 |-
 |}
+'''Note''':
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+{{Clear}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -127,15 +133,18 @@ The People's Republic of China (PRC) acquired 99 SU-100 self-propelled guns and 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_su_100_1945 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

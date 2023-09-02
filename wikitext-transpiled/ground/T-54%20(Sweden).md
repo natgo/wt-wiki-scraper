@@ -40,7 +40,7 @@ The armour of the T-54 leaves nothing to be desired except for the hull armour. 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 As a relatively heavily armoured tank and part of the Soviet doctrine, the mobility of the T-54 leaves much to be desired. Not only is top speed the lacklustre, but turn rate is not great and reverse speed is mediocre. Overall, the mobility is not the best and should not be relied on to be used to play as a fast paced vehicle. However, the power-to-weight ratio on the T-54 is impressive and is able to climb and move through rough territory with ease as well as push and pull tanks.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=806|rbMinHp=460}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -63,7 +63,7 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | - || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 11.05 || rowspan="2" | 9.78 || rowspan="2" | 9.01 || rowspan="2" | 8.50
+| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | - || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
 | 5.9 || 7.0 || 8.5 || 9.4 || 10.0

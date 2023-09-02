@@ -155,7 +155,7 @@ The Attacker FB 1 is a versatile platform for multiple tasks both in ground and 
 
 '''When in air battles'''
 
-The attacker has multiple roles in air battles: fighter, interceptor, bomber and attacker (unironically). It should be noted that, at 7.0, you will face many prop planes. This is a pro and a con. The Attacker has superb speed, climb rate and flying ceiling than any prop plane you will encounter but it also lacks acceleration, turn speed and it is not a really manoeuvrable plane when dogfighting.
+The Attacker has multiple roles in air battles: fighter, interceptor, bomber and attacker (unironically). It should be noted that, at 7.0, you will face many prop planes. This is a pro and a con. The Attacker has superb speed, climb rate and flying ceiling than any prop plane you will encounter but it also lacks acceleration, turn speed and it is not a really manoeuvrable plane when dogfighting.
 
 '''As fighter'''
 

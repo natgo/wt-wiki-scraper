@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] '''Sd.Kfz. 142/1''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
+The '''Sturmgeschütz III Ausführung F (StuG III F)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 142/1''') is the early version of the sixth variant of the [[StuG III (Family)|Sturmgeschütz III assault gun family]]. The German Army was in disarray as it faced an increasing number of well-armed and protected Soviet tanks. In 1941, German tanks and anti-tank guns were barely able to defend against enemy tanks. Due to a shortage of manufacturing capacity, the Germans had only two alternatives for a speedy response: create temporary anti-tank vehicles or upgrade the firepower of existing designs. Following the second option, future StuG III assault guns would be deployed for anti-armour roles, an entirely different task that they were not originally planned for. Its short-barrelled 75 mm Sturmkanone (StuK) 37 L/24 tank gun would be replaced with a long-barrelled 75 mm StuK40 L/43 tank gun, increasing its overall firepower significantly. This led to the development of the StuG III F variant, an extremely lethal vehicle due to its low cost, compact silhouette, fully protected superstructure, and powerful gun. 
 
-An improvement over the [[StuG III A]] with the installation of the longer [[StuK 40 (75 mm)|75 mm StuK 40 L/43]] gun allowing it to be used as very deadly tank destroyer instead of support gun.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the StuG III F marked a turning point in the entire StuG III assault gun family's intended roles, much to how the [[Pz.IV (Family)|Panzer IV medium tank family]] changed responsibilities from infantry support (A to F1) to anti-armour (F2 to J). Due to the increasing stress from the Soviet Union's invasion, known as Operation Barbarossa, in 1941, the StuG III F served as an interim substitute against the Soviet [[T-34 (Family)|T-34 medium tanks]] and [[KV-1 (Family)|KV-1 heavy tanks]]. The significantly increased armour penetration performance and ballistic characteristics will undoubtedly be appreciated by players. With a single well-aimed successful penetrating hit, the StuG III F can knock out the majority of enemy tanks in its ranks. However, the frontal hull protection is inadequate as most opponent tanks received significant upgrades to their weaponry as well.
 
 == General info ==
 === Survivability and armour ===
@@ -179,6 +179,7 @@ An important advantage of all of this SPG variants was its minimal profile, grea
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_stug_III_ausf_F Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

@@ -100,4 +100,5 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German battleship {{Battl
 
 * [[wt:en/news/7872-development-project-o-battleship-ostfriesland-en|[Devblog] Project "Overpowered": battleship Ostfriesland]]
 
+{{ShipManufacturer Kaiserliche Werft Wilhelmshaven}}
 {{Germany battleships}}

@@ -40,6 +40,8 @@ The chassis of the Tor-M1 (GM-5955) is based on the GM-335 universal chassis, th
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 Thanks to the V12 V-46-1 diesel engine developing at most 840 hp and the 569A transmission with the same gear ratios on both directions, the Tor-M1 is one of the fastest tracked SPAAs, particularly in reversing (almost twice faster than the wheeled [[Type 93]]!). This allows the Tor-M1 to keep up with the team for field air-defense, while having more than enough speed to retreat into cover when necessary.
 
+The Tor-M1 also has a controlled suspension, which allows it to adjust the vehicle's ground clearance. It can be useful for reducing the tall profile of the Tor-M1 or peeking above terrain features when necessary.
+
 {{tankMobility|abMinHp=1,193|rbMinHp=743}}
 
 === Modifications and economy ===

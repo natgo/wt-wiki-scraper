@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French heavy tank {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]] as a [[wt:en/news/6852-news-meet-major-update-raining-fire-en|premium pack]] in the Gaijin store.
+The '''{{Specs|name}}''' was originally developed as part of a competition between AMX and SOMUA to produce a heavily armoured tank that shared similar components and parts, due to the French army forcing both companies to work under identical specifications. The order to build a prototype was given in 1946, but the vehicle was only delivered in October 1951, weighing 56 tonnes but still lacking an engine. In contrast, the [[AMX-50 (Family)|AMX-50]], the SOMUA SM's direct competitor, had already been tested, and a variant of the AMX-50 with a 120 mm cannon was already being designed. Ultimately, the SOMUA SM was not tested until 1953, by which point the [[AMX-50 Surbaissé]] had already been delivered for testing, and the [[AMX-50 (TOA100)]] had been deemed insufficient due to its armament. These delays would doom the project, leading to eventual cancellation of the project and scrapping of the only constructed prototype.
+
+Introduced in [[Update "Raining Fire"]] as a [[wt:en/news/6852-news-meet-major-update-raining-fire-en|premium pack]] in the Gaijin store, the '''{{Specs|name}}''' will be a familiar tank to French players; it possesses the excellent [[SA47 L/58 (100 mm)|100 mm SA47 L/58]] autoloaded cannon that is equipped on both the [[Lorraine 40t]] and [[AMX-50 (TOA100)]], while featuring similar mobility. Unlike the tanks previously mentioned, however, the Somua SM possesses decent armour, capable of bouncing almost all APCBC and even some APDS rounds aimed to its hull and upper turret front. The armour on the Souma SM, combined with the slightly larger ready rack for the gun compared to the Lorraine and AMX-50, allows the player to use the tank more aggressively.
 
 == General info ==
 === Survivability and armour ===
@@ -169,7 +171,7 @@ Due to both companies being issued identical technical requirements by the Frenc
 
 The SOMUA SM, as it became known, was presented for the first time to army officials in October 1951, albeit without its engine installed. At the same time, prototypes of the AMX-50 had already been tested. By 1953, SOMUA had completed the construction of its SM tank, subsequently conducting trials.
 
-During testing however, several design issues were revealed. Because of this and the fact that the upgunned version of the AMX-50 with a 120mm gun was already available, the decision was made to cancel further work on the project. As a result, the SOMUA SM never left the prototype stage and the only constructed vehicle was  scrapped shortly after the project's cancellation.
+During testing however, several design issues were revealed. Because of this and the fact that the upgunned version of the AMX-50 with a 120mm gun was already available, the decision was made to cancel further work on the project. As a result, the SOMUA SM never left the prototype stage and the only constructed vehicle was scrapped shortly after the project's cancellation.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

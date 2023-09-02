@@ -80,7 +80,7 @@ While the Egyptian Navy maintained a fairly large fleet of Project 183s, 12 boat
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Videos
-{{Youtube-gallery|usqFRurvro4|'''Battle Pass: Royal Guard''' discusses the {{PAGENAME}} at 00:50 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|coA8xjGnlSs|'''Pr. 183 - BM-21 GRAD MLRS - It's Better Than You Think''' - ''Cmdr. Tyrael''|usqFRurvro4|'''Battle Pass: Royal Guard''' discusses the {{PAGENAME}} at 00:50 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

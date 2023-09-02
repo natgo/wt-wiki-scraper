@@ -101,8 +101,8 @@ Then in Tier III, ''Crew Replenishment'' should be obtained for crew survival im
 {{:M3 (75 mm)/Ammunition|M72 shot, M48 shell, M61 shot, T45 shot, M89}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_M4A3E2.png|right|thumb|x250px|[[Ammo racks]] of the M4A3E2 (identical).]]
-<!-- '''Last updated: 2.1.0.113''' -->
+[[File:Ammoracks_M4A3E2.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -116,8 +116,9 @@ Then in Tier III, ''Crew Replenishment'' should be obtained for crew survival im
 |}
 '''Notes''':
 
-* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
-* Turret empty: 100&nbsp;''(+4)'' shells.
+* As they are modelled by sets of 2, shells disappear from the rack only after you've fired both shells in the set.
+* Floor left rack only: 50&nbsp;''(+54)'' shells.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

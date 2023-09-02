@@ -104,7 +104,7 @@ The '''sgr m/38''' is not to be ignored, as there are a lot of open-topped SPG a
 ! 5th<br>rack empty
 ! 6th<br>rack empty
 |-
-| '''42''' || 37&nbsp;''(+5)'' || 31&nbsp;''(+11)'' || 25&nbsp;''(+17)'' || 22&nbsp;''(+20)'' || 19&nbsp;''(+23)'' || 15&nbsp;''(+27)''
+| '''42''' || 40&nbsp;''(+2)'' || 37&nbsp;''(+5)'' || 31&nbsp;''(+11)'' || 25&nbsp;''(+17)'' || 19&nbsp;''(+23)'' || 16&nbsp;''(+26)''
 |-
 ! 7th<br>rack empty
 ! 8th<br>rack empty
@@ -113,13 +113,13 @@ The '''sgr m/38''' is not to be ignored, as there are a lot of open-topped SPG a
 ! 11th*<br>rack empty
 ! Visual<br>discrepancy
 |-
-|| 11&nbsp;''(+31)'' || 8&nbsp;''(+34)'' || 5&nbsp;''(+37)'' || 4&nbsp;''(+38)'' || 1&nbsp;''(+41)'' || No
+|| 13&nbsp;''(+29)'' || 9&nbsp;''(+33)'' || 5&nbsp;''(+37)'' || 4&nbsp;''(+38)'' || 1&nbsp;''(+41)'' || No
 |-
 |}
 '''Notes''':
 
 * The first-stage ammo racks provide the vehicle with a faster reload but has a small capacity (4 rounds), however the vehicle is also capable of reloading the main gun directly from the other ammo racks.
-* In order to empty the hull's ammo racks, one must carry 11&nbsp;''(+31)'' rounds.
+* The turret can never be fully empty without depleting the first-stage racks, and the hull can only be empty if you take 5 or less shells
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -143,7 +143,7 @@ The {{PAGENAME}} has a standard 8 mm coaxial machine gun. While it is slightly b
 
 The Strv m/42 DT's standout feature is an excellent reload rate, which can be as low as 3 seconds. To complement this gun, the Strv m/42 DT is equipped with a stock AP round, and an APCBC shell which has reasonable penetration and explosive filler values compared to similarly-sized rounds at this tier. At its best, the gun will easily blast most medium and light tanks, but will struggle with the heavy tanks, so choose your fights accordingly.
 
-This vehicle is not especially well-armoured. It can often withstand one or two hits, but any more and it will usually be destroyed. Taking high ammunition loads further hampers the tank's survivability, as it makes the chance of an ammunition detonation significant. From the side, a weak armour setup means that autocannons on many anti-air vehicles can penetrate and deal massive damage to internal components. This means, that tank commanders might want to rely on teamwork, much like with the [[Pvkv II]], as either teammates take the hit and leave the enemy exposed to at least two counter shots, or finish the job while the {{PAGENAME}} repairs or disables something else. Either way, with armour this thin, it is necessary to pay attention to enemy flankers.
+This vehicle is not especially well-armoured. It can often withstand one or two hits, but any more and it will usually be destroyed. Taking high ammunition loads further hampers the tank's survivability, as it makes the chance of an ammunition detonation significant. Additionally, the ammo racks in the front of the hull will almost always have ammo in them, and while they're in a position unlikely to be shot from the front, a shot to the front of the hull from the side can result in an ammo detonation. From the side, a weak armour setup means that autocannons on many anti-air vehicles can penetrate and deal massive damage to internal components. This means, that tank commanders might want to rely on teamwork, much like with the [[Pvkv II]], as either teammates take the hit and leave the enemy exposed to at least two counter shots, or finish the job while the {{PAGENAME}} repairs or disables something else. Either way, with armour this thin, it is necessary to pay attention to enemy flankers.
 
 The Strv m/42 DT's hull is taken from the earlier [[Strv m/42 EH]], and thanks to an improved engine, is above-average in terms of mobility. When stock, mobility can be sub-par, but once mobility modules have been researched, the tank becomes quite capable in this department. With this level of mobility, it can acquire ambush positions or act as a viable flanker. (In such situations, the gun's quick reload makes itself very useful; the Strv m/42 DT is able to destroy multiple unsuspecting enemies in quick succession.) One thing to note is that this tank has a poor reverse speed, which can make peeking and firing from behind ridgelines dangerous.
 
@@ -155,6 +155,7 @@ In hull-down positions, this vehicle can use its great gun depression to effecti
 '''Pros:'''
 
 * Excellent reload rate allows to fire twice per normal enemy reload
+** Ammunition reload on a capture point loads into the ready-rack almost as fast as the firerate, allowing for consistent rapid fire
 * Decent gun depression
 * Mobile enough to flank when spaded
 * Still has a reasonable fire rate when first-stage rack runs out
@@ -166,6 +167,7 @@ In hull-down positions, this vehicle can use its great gun depression to effecti
 * Narrow tracks reduce off-road mobility
 * Poor reverse speed will let most tanks to fire back before it can retreat
 * Lightly armoured
+* Poor ammo rack configuration
 * Large and visible profile
 * Gun loader and breech can be easily destroyed by an airstrike
 
@@ -178,6 +180,7 @@ In 1944, the Swedish military considered upgunning the [[Strv m/42 EH|Strv m/42]
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_strv_m42_delat_torn Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -195,11 +198,13 @@ File:Strv m42 DT Unicolor Winter.jpg|Strv m/42 DT with Unicolor Winter Camouflag
 * ''links to approximate analogues of other nations and research trees.''-->
 
 ;Related development
+
 * [[Lago I]]
 * [[Strv m/42 EH]]
 * [[Ikv 73]]
 
 ;Similar Role:
+
 * [[Pz.IV (Family)]]
 * [[Chi-Ri II]]
 * [[Avenger]]
@@ -212,6 +217,7 @@ File:Strv m42 DT Unicolor Winter.jpg|Strv m/42 DT with Unicolor Winter Camouflag
 === References ===
 
 ;Bibliography
+
 * David B. (2016, June 2). Stridsvagn m/42. Tank Encyclopedia. https://tanks-encyclopedia.com/ww2/sweden/stridsvagn-m42.php
 
 {{TankManufacturer AB Landsverk}}

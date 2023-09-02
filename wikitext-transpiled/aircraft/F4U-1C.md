@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''{{Specs|name}}''' was among one of the rarest variants of the F4U Corsair, with only ~200 made, and was the first Corsair to be armed with cannons. The 1C was essentially an F4U-1D with 4 x 20 mm Hispano guns and gave the aircraft a more potent armament against ground targets and aircraft. As good as the guns seemed on paper, in practice it was very different. American pilots found the guns unreliable and excessive against the already lightly armoured Japanese aircraft. Many pilots preferred the M2 Browning machine guns due to their large ammo pool and reliability. Although the new guns made the F4U-1C more deadly, they came at the price of hampering performance with added weight.
+
+The F4U-1C, which has been in War Thunder since the start of the Open Beta Test, is like many of the other Corsairs in-game when it comes to performance. It's incredibly fast and allows the Corsair to excel at Boom and Zoom tactics. With the addition of Hispano cannons, the F4U-1C will easily destroy enemy aircraft with a slight burst and is incredibly effective against ground targets. However, much like in real life, the Hispanos are prone to jamming when stock. Nonetheless, it is the lowest battle rating Corsair with cannons and sets it apart from every Corsair near its battle rating.
 
 == General info ==
 === Flight performance ===
@@ -20,7 +22,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American fighter {{Battle-rati
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 6,096 m)
+! colspan="2" | Max speed<br>(km/h at 7,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -29,10 +31,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American fighter {{Battle-rati
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 643 || 622 || rowspan="2" | {{Specs|ceiling}} || 23.1 || 24.0 || 12.9 || 12.9 || rowspan="2" | 250
+| 639 || 618 || rowspan="2" | {{Specs|ceiling}} || 23.1 || 24.0 || 12.9 || 12.9 || rowspan="2" | 250
 |-
 ! Upgraded
-| 700 || 671 || 20.9 || 22.0 || 20.7 || 16.4
+| 697 || 667 || 20.9 || 22.0 || 20.7 || 16.4
 |-
 |}
 
@@ -69,36 +71,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American fighter {{Battle-rati
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 450 || < 450 || < 500 || > 450
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 300 m || 2,000 hp || 2,270 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 4,785 m || 1,800 hp || 2,096 hp
-|-
-! colspan="3" | Setting 3
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 6,400 m || 1,650 hp || 1,921 hp
 |-
 |}
 

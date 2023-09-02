@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American light tank {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]]. Featuring a crew of six people with a 37 mm gun, it has a rather competitive armament for the size and battle rating. It is also the second amphibious ground vehicle to be added into the game.
+The '''Amphibious Vehicle, Tracked, Amoured, Mark 1 - LVT(A)(1)''' is the first armoured, infantry support variant of the [[LVT (Family)|Amphibious Vehicle, Tracked - LVT]], a vast family of amphibious warfare and landing craft developed by the U.S. Navy and U.S. Marines (the U.S. Navy and U.S. Marines use "L" to designate amphibious vehicles). Originally designed and used as cargo ship carriers for ship-to-shore operations to transport personnel and materials, they gradually evolved into amphibious fire support vehicles, as well as other amphibious assault landing variants. The first armoured, infantry support version of the LVT was the LVT(A) Mark 1. With the first combat experience of Pacific amphibious operations for the U.S. Navy and U.S. Marines, it was evident that more firepower than the M2HB Browning heavy machine gun commonly utilized by the U.S. Marines was required. It had a turret similar to the Light Tank M3 ([[M3 Stuart]]) – a 37 mm Gun M6 on an M44 mount and a coaxial M1919A4 light machine gun, with two extra M1919A4 light machine guns mounted on ring mounts on the aft deck behind the turret. A vertical stabilizer was integrated into the main gun mount to allow the LVT(A)s to engage enemy positions while still moving in the water. Throughout the war, a total of 509 units were produced. These vehicles were intended to provide direct fire support to attacking Marines as they established a beachhead against their adversaries' defences.
 
-The LVT is unique among the Rank I vehicles, given its ability to float across deep water. It has extremely thin armour that can easily be penetrated by heavy machine guns. In some areas even a light machine gun can penetrate it. It mounts a lightened Stuart turret, giving it a decently fast firing 37 mm cannon. Additionally, despite its rather large size (relative to its peers) it is quite mobile due to its light weight, able to keep pace with the M3 Lee.
+Introduced in [[Update 1.59 "Flaming Arrows"]], The LVT(A)(1) is a beginner light tank under the U.S. Army ground forces. It has similar firepower to the [[M3 Stuart]] but has the unique ability to traverse across water, which most other tanks do not have. To keep afloat in the water, the tank is made of relatively thin steel plates and provides little protection against anything heavier than light machine gun fire. Nonetheless, it provides a completely different experience and viable techniques in the accumulation of light tanks in the U.S. Army ground forces that inexperienced players can easily explore.
 
 == General info ==
 === Survivability and armour ===
@@ -153,13 +153,13 @@ At the same time, keep in mind that the LVT(A)(1) is an easy target for aircraft
 * Barely any armour to speak about
 * Exposed lower glacis
 * Weak armour and huge size makes it vulnerable to artillery
-* Can easily be destroyed by HE shells (overpressure).
+* Can easily be destroyed by HE shells (overpressure)
 * Very slow reverse speed can prevent it from retreating back to cover in time
 * Unstable aim while moving
 * Bad suspension makes it unstable at humps
 * Very slow speed when traveling in water
 * Water rocks the tank when moving, making it unstable during and a while after movement in the water
-* Poor Gun Depression in the rear in combination with it´s size makes it hard to hit smaller tanks who attack from the rear
+* Poor gun depression in the rear in combination with its size makes it hard to hit smaller tanks who attack from the rear
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -189,7 +189,7 @@ After World War II, the LVTs continued to see action in the multiple conflicts i
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_lvt_a_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|Ms-q-FoVYo4|'''Survival Guide - The LVT (A)(1) - A Thin Skinned Behemoth''' - ''IllusiveThunder''|SJoW-2_6J6o|'''Amphibious tanks'''  discusses the {{PAGENAME}} at 3:16  - ''War Thunder Official Channel''|p9_XD0TgdiA|'''TOP 5 Reserve Tanks'''  discusses the {{PAGENAME}} at 1:00  - ''War Thunder Official Channel''}}
+{{Youtube-gallery|Ms-q-FoVYo4|'''Survival Guide - The LVT (A)(1) - A Thin Skinned Behemoth''' - ''IllusiveThunder''|SJoW-2_6J6o|'''Amphibious tanks''' discusses the {{PAGENAME}} at 3:16 - ''War Thunder Official Channel''|p9_XD0TgdiA|'''TOP 5 Reserve Tanks''' discusses the {{PAGENAME}} at 1:00 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

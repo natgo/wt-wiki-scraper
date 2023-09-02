@@ -101,7 +101,7 @@ In addition to its 40 mm secondary turrets, the River class also has a pair of s
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|Mk.VII depth charge|Mk.10 Hedgehog mortar|Y-gun Mk.VII depth charge}}
 
-The River class can carry a truly staggering assortment of depth charges, of three different types. The first component consists of 34 Mk.VII depth charges, which are dropped into the water from two dispensers on the stern of the ship (in the same manner as on the [[Flower class (K-218)|Flower class]]). The next component of the River class's depth charge armament consists of 48 Mk.VII depth charges, distributed evenly between 8 depth charge mortars (6 chargers per mortar). There are four mortars on each side located at the rear of the ship, two mortars on each side launch depth charges directly out the side of the ship, with the other two are angled, pointing rearwards at approximately 45°. The final component is a 24 shot Mk.10 Hedgehog mortar (with another 24 depth charges in stock to reload it). This mortar is mounted on the bow of the ship and is capable of rapidly shooting 24 depth charges covering an area between about 200 m and 400 m directly in front of the ship.
+The River class can carry a truly staggering assortment of depth charges, of three different types. The first component consists of 34 Mk.VII depth charges, which are dropped into the water from two dispensers on the stern of the ship (in the same manner as on the [[HMCS Brantford|Flower class]]). The next component of the River class's depth charge armament consists of 48 Mk.VII depth charges, distributed evenly between 8 depth charge mortars (6 chargers per mortar). There are four mortars on each side located at the rear of the ship, two mortars on each side launch depth charges directly out the side of the ship, with the other two are angled, pointing rearwards at approximately 45°. The final component is a 24 shot Mk.10 Hedgehog mortar (with another 24 depth charges in stock to reload it). This mortar is mounted on the bow of the ship and is capable of rapidly shooting 24 depth charges covering an area between about 200 m and 400 m directly in front of the ship.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
@@ -160,7 +160,7 @@ A River-class frigate, HMAS Diamantina is currently a museum ship in Brisbane, A
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[Flower class (K-218)]]
+* [[HMCS Brantford]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

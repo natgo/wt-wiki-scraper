@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet destroyer {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. Originally a GE {{ge}} premium, it was removed from sale due to the [[wt:en/news/6915-development-fleet-research-changes-and-the-first-battleships|fleet research changes]] in [[Update "New Power"]]. It was briefly made available for purchase with Golden Eagles {{ge}} during the [[wt:ru/news/15831-akciya-den-vmf-rossii-ru|2022 "Russian Navy Day"]] mini-event.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet destroyer {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. Originally a GE {{ge}} premium, it was removed from sale due to the [[wt:en/news/6915-development-fleet-research-changes-and-the-first-battleships|fleet research changes]] in [[Update "New Power"]]. It was briefly made available for purchase with Golden Eagles {{ge}} for the [[wt:ru/news/15831-akciya-den-vmf-rossii-ru|2022]] and [[wt:en/news/8377-special-stroyny-and-neustrashimy-for-golden-eagles-en|2023]] "Russian Navy Day" mini-events.
 
 == General info ==
 === Survivability and armour ===

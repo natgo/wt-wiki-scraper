@@ -51,7 +51,7 @@ The M1128 Wolfpack's narrow profile turret provides a significant advantage in c
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The M1128 Wolfpack, with its advanced suspension and powerful engine, has high forward mobility and can effortlessly manoeuvre through rough terrain. The decent reverse speed also gives M1128 Wolfpack wonderful flexibility in ambush and hull-down battles.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=542|rbMinHp=310}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -82,13 +82,11 @@ Target identification is effortless thanks to third-generation thermal imaging t
 |}
 
 ==== Ammunition ====
-{{:M68A1E8 (105 mm)/Ammunition|M456A2, M774, M833}}
-
-While the M833 is still a capable shell, it performs significantly worse than the M900 featured in the tech tree counterpart.
+{{:M68A1E8 (105 mm)/Ammunition|M456A2, M774, M900}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_M1128.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.27''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -99,6 +97,14 @@ While the M833 is still a capable shell, it performs significantly worse than th
 | '''18''' || 9&nbsp;''(+9)'' || 1&nbsp;''(+17)'' || No
 |-
 |}
+'''Notes''':
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Rack 2 (autoloader magazine) is a first stage ammo rack and totals 8 shells.
+* As the {{PAGENAME}} is equipped with an autoloader, manual reloading of the gun is not possible.
+* Once the autoloader magazine has been depleted, you can't shoot until the loader has restocked the autoloader with at least one shell.
+* The restocking time is longer than the normal reload time of the gun. Take this into account when playing.
+* Simply not firing when the gun is loaded will move ammo from rack 1 into rack 2. Firing will interrupt the restocking of the ready racks.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

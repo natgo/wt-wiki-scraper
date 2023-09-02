@@ -150,4 +150,5 @@ The '''''{{PAGENAME}}''''' is defended by:
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer Curtiss}}
 {{Ship-launched reconnaissance aircraft}}

@@ -90,6 +90,7 @@ Though the F-32 gun is at the weaker end of the Soviet 76 mm guns, it is still q
 
 ==== Ammunition ====
 The {{PAGENAME}} has the following ammunition available:
+
 * BR-350A: The typical APBC with HE filler. This is the standard round most players will take as the default type. It is able to cause massive post-penetration damage if it does penetrate.
 * BR-350B: The new APHEBC with HE filler, sacrificing some explosive post-penetration damages for raw penetrating power and solid-shot spalling post-penetration damage. Recommended taking this shot as the primary weapon to use the extra penetration values.
 * OF-350M: High-explosive shell. Though it should never be used for the purpose of penetrating an enemy tank, it can be useful for destroying lightly-armoured vehicles with overpressure, such as trucks and the like.
@@ -113,6 +114,7 @@ The {{PAGENAME}} has the following ammunition available:
 |-
 |}
 Notes:
+
 * Racks are modeled by sets of 5 shells (+ 1 set of 3 & 2 sets of 4) and sets disappear from the rack once all shells in the set have been loaded/fired.
 * Turret empty: 102&nbsp;''(+9)'' shells.
 
@@ -182,28 +184,20 @@ This tank does not excel here due to bad mobility, and the greatest strength of 
 
 '''Pros:'''
 
-* Has extra 25 mm armour on the hull front and sides, and 30 mm on the turret sides
+* Amazing protection and survivability thanks to the add-on armour all around it
 * Features a unique Finnish camouflage
-* Good reload time
-* Very good brawler
-* Very good at absorbing damage
+* Good reload time of around 7 seconds
 * Gun does a lot of damage upon penetration
-* Very good top armour
-* Crew of five
-* Bouncy turret cheeks
-* Located on the German lineup, you wont face dangerous guns like the KwK 40 in RB or SB.
+* Thick roof armour (30-40 mm) effectively protects it against strafing planes
+* Located on the German lineup, wont face dangerous guns like the KwK 40 in RB or SB.
 
 '''Cons:'''
 
-* Some of the spots are not covered by the additional armour
-* Gun is basically the same as the L-11 cannon, therefore it's weak compared to other guns
-* Slow repair times
-* No access to APCR shells
-* Driver's port can easily be penetrated
-* Sluggish turn when not in motion, and turning while in motion will make the KV-1B lose a lot of speed
-* Does not like obstacle and hills
-* Reverse speed is below average
-* Finnish KV-1B looks like a Soviet KV-1 so you may be mistakenly team killed often in SB, however regularly updating teammates using the request location feature can negate this somewhat
+* Gun has weak penetration, even medium tanks (e.g. [[T-34 (Family)|T-34]]) require you to target weakspots
+* Sluggish mobility: bleeds lots of speed when turning, below-average acceleration, and slow reverse speed
+* No access to APCR shells, heavy tanks like the [[Churchill I]] can be tough to destroy
+* Still has weakspots: driver's port (75 mm) and the frontmost area of the hull sides (75 mm)
+* Appears like a Soviet KV-1 so you may be mistakenly team killed in SB
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -224,6 +218,7 @@ Several KV-1s survived the war, most as monuments, but also in museums, along wi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kv_1B_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -235,9 +230,11 @@ Several KV-1s survived the war, most as monuments, but also in museums, along wi
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[KV-1 (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[Churchill III]]
 * [[ARL-44 (ACL-1)]]
 

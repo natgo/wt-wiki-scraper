@@ -10,13 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 181'''), is a rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
+The '''Panzerkampfwagen VI Ausfuehrung H1 (Tiger H1)''' is the first (early-production) variant of the [[Tiger I (Family)|Tiger I heavy tank family]], designed and built by Henschel and used by the German Army during World War II. It offered the German Army its first armoured fighting vehicle equipped with the 88 mm Kampfwagenkanone (KwK) 36 tank gun, developed from the 88 mm Flugabwehrkanone (FlaK) 36 anti-aircraft gun. It was expensive to maintain but mechanically reliable, contrary to what most online sources suggest. Henschel and Ferdinand Porsche were ordered on May 26, 1941, to submit proposals for a 45-ton heavy tank that would be available by June 1942. Porsche developed an improved version of its VK 3001 (P) prototype (which was originally intended to compete for the Panther contract), while Henschel developed two prototypes: a VK 4501 (H) H1 with an 88 mm KwK36 L/56 tank gun and a VK 4501 (H) H2 with a 7.5 cm KwK42 L/70 tank gun. The Henschel VK 4501 (H) H1 prototype was accepted after evaluation, primarily because the Porsche [[VK 45.01 (P)|VK 4501 (P)]] prototype design used a petrol-electric transmission system that required large amounts of copper for the manufacture of its electrical drivetrain components, a strategic war material of which Germany had limited supplies. Early Tiger H1s with the Krupp-designed turret featured a high commander cupola. Later in the war, the design was modified, resulting in the [[Tiger E]], which had a new dome-shaped cast-armour commander's cupola and a ring installed on the commander's cupola to accommodate the mounting of an anti-aircraft light machine gun. There are additionally five S-Mine dischargers on the hull-roof, three on the left side and two on the right. Two Feifel air cleaner units designed for dusty environments are located on the hull's back. Between August 1942 and August 1944, a total of 1,347 units were constructed. The Tiger I was phased out of production after August 1944 in favour of the [[Tiger II (Family)|Tiger II]].
 
-The {{PAGENAME}} carries its reputation from real-life to its in-game performances, armed with the infamous 88 mm KwK36 gun that can easily destroy most tanks it meets. The armour of the {{PAGENAME}} is strong at 102 mm and can be easily increased by angling the tank approximately 30° to the side, with the side armour thick enough for glancing side fire as well. Mobility is also decent for a heavy tank due to its 650 hp engine and suspension, making the {{PAGENAME}} a near jack-of-all-trades at its level.
-
-The Tiger H1 is an early production variant of the Tiger I tanks. However, it is the basis of the Tiger I tanks with the three features: the long 88 mm KwK36 gun, the Schachtellaufwerk interleaving torsion suspension system, and a box armour shape of the hull with a circular turret housing the 88 mm gun. The tank is painted in a flat Dunkelgelb yellow coat, though there are large swatches bare metal from scratched off paint.
-
-The Tiger H1 tank is most distinctive from its later production models is its drum-shaped, cylindrical cupola protruding from the top left of the turret. Turret-mounted smoke dischargers known as the Wurfbecher are mounted to the turret sides slightly behind the gun mantlet. On the hull-roof, there are also five S-Mine dischargers, with three on the left side and two on the right side. On the hull rear, there are two Feifel air cleaner units that were intended for dusty environments.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Tiger H1 was the German Army's first truly heavy tank during World War II, due mostly to combat experience against the French and British Matilda heavy tanks, which demonstrated that the German Army needed better armed and armoured tanks. Within 2,500 metres, Tiger H1 had higher penetration than the 75 mm KwK40 L/43 on the [[StuG III (Family)|Sturmgeschütz IIIs]] and [[Pz.IV (Family)|Panzer IVs]] but poorer penetration than the 75 mm KwK42 L/70 on the [[Panther tank (Family)|Panthers]]. At longer ranges, the 88 mm KwK36 L/56 performed better in terms of penetration and accuracy. The Tiger H1, capable of fighting any adversary at any range, is a true marvel of German engineering during World War II and will undoubtedly reward players well.
 
 == General info ==
 === Survivability and armour ===
@@ -25,7 +21,7 @@ The Tiger H1 tank is most distinctive from its later production models is its dr
 [[File:TigerIHTank Armour Angling.png|right|thumbnail|The ideal angling of hull armour on {{PAGENAME}} for maximum effective armour all-around|300px]]
 One may feel the need to charge head-on into battle, blaring that 88 mm gun as shells bounce off the front armour while the Schachtellaufwerk suspension system runs over the ground; this is a short-lived strategy.
 
-The Tiger H1 should be played more like a bulky medium tank rather than a heavy tank despite its status, supporting allies from the sideline or from a distance rather than leading directly from the front. This is due to the poor armour arrangement, most of the thickness of the tank is concentrated on the front face of the tank and leaves the sides exposed, espeically since this model of tiger has a 'boxier' design. This is even more important to remember as ammunition is stowed along the sides the tank, protected by the inferior side armor. One must remain a distance, exploit the 88 mm long-distance power, and maintain a diamond-shape compound angling to maximize armour thickness against the trailing enemy shells that will inevitably come towards the Tiger's way.
+The Tiger H1 should be played more like a bulky medium tank rather than a heavy tank despite its status, supporting allies from the sideline or from a distance rather than leading directly from the front. This is due to the poor armour arrangement, most of the thickness of the tank is concentrated on the front face of the tank and leaves the sides exposed, especially since this model of tiger has a 'boxier' design. This is even more important to remember as ammunition is stowed along the sides the tank, protected by the inferior side armor. One must remain a distance, exploit the 88 mm long-distance power, and maintain a diamond-shape compound angling to maximize armour thickness against the trailing enemy shells that will inevitably come towards the Tiger's way.
 
 The Tiger H1 is equipped with 12 smoke grenades that can help cover the vehicle while it escapes or repairs. Smoke grenades discharge in 2 salvos of 6 (3 to each side of the turret) covering a 120° sector 10 m in front of the vehicle. The grenades deploy smoke in 4 seconds and last 25 seconds. Both salvos are separated by a 1-minute reload time.
 
@@ -155,7 +151,7 @@ When driving the Tiger, plan ahead on where it will drive. Even with engine and 
 
 The {{PAGENAME}} is also best used on the flanks of the current maps, as these are usually more open and allow good use of its armour and excellent gun. The centre of the map would seem more logical as there are a lot of enemies, but as has already been established a Tiger taking fire from multiple directions won't last long. Going in a flank and taking down light and medium tanks is an easy task for this beast, and thus a flank can be easily secured if the {{PAGENAME}} is driven carefully. Then, work the {{PAGENAME}} into the enemy sides and rear of the main force in the centre, doing much more damage than if the Tiger faced the force head-on because a shot to the side and rear will set most enemies alight if not outright exploding the ammunition. Able to destroy vehicles in one hit, the Tiger can quickly jump from target to target and eliminate a good number of enemies in its lifespan.
 
-The Tiger H1 is very effective at long range, and should be used accordingly.  Players should try to avoid point blank fights with other tanks, since this will often result in the vulnerable sides being exposed.  As a sniper or flanker, the tank is wonderful and as long as its sides are not exposed, it will last a long time.
+The Tiger H1 is very effective at long range, and should be used accordingly. Players should try to avoid point blank fights with other tanks, since this will often result in the vulnerable sides being exposed. As a sniper or flanker, the tank is wonderful and as long as its sides are not exposed, it will last a long time.
 
 There will be many hard eggs to crack such as the IS- Series, T-34 Series, American Jumbos, and several other tanks that will give the {{PAGENAME}} trouble.
 
@@ -178,28 +174,28 @@ There will be many hard eggs to crack such as the IS- Series, T-34 Series, Ameri
 
 '''Pros:'''
 
-* The gun mantlet, MG port and driver's port are particularly hard to penetrate due to their complex, varying shape and thickness.
-* Decent cannon with adequate accuracy and a range of shells to choose. Stock shell has great penetration and damage, and can knock out common opponents easily with a single shot (e.g. [[T-34-85]], [[M4A2 (76) W]], [[IS-1]], [[M6A1]]). Has another AP that sacrifices a bit penetration for more TNT.
+* The gun mantlet, MG port and driver's port are particularly hard to penetrate due to their complex, varying shape and thickness
+* Decent cannon with adequate accuracy and a range of shells to choose. Stock shell has great penetration and damage, and can knock out common opponents easily with a single shot (e.g. [[T-34-85]], [[M4A2 (76) W]], [[IS-1]], [[M6A1]]). Has another AP that sacrifices a bit penetration for more TNT
 * One of the fastest heavy tanks with its top speed of 45 km/h, meaning it can get to some positions quickly alongside friendly medium tanks.
-* The box-like hull shape gives the ability to angle. When angling the hull at around 40° and placing yourself far from the enemies (at least 500 m away) the Tiger H1 can resist common tanks like the 76 mm Shermans, T-34-85s and [[M36 Jackson (Family)|M36]].
-* Good reverse speed and hull traverse allows it to quickly angle for deflecting shells.
-* -8° gun depression works well in most hilly terrain.
-* The rear is surprisingly hard to penetrate, partially due to the slightly-angled armour and partly due to the large exhaust pipes which seem to deflect shells.
-* The strong gun makes it easy to destroy most opponents at the its battle rating with a single shot, even M4A3E2 Jumbo, as long as you carefully aim for the machine gun port.
-* The tank is equipped with smoke grenades, which can help escape an undesirable situation alive.
+* The box-like hull shape gives the ability to angle. When angling the hull at around 40° and placing yourself far from the enemies (at least 500 m away) the Tiger H1 can resist common tanks like the 76 mm Shermans, T-34-85s and [[M36 Jackson (Family)|M36]]
+* Good reverse speed and hull traverse allows it to quickly angle for deflecting shells
+* -8° gun depression works well in most hilly terrain
+* The rear is surprisingly hard to penetrate, partially due to the slightly-angled armour and partly due to the large exhaust pipes which seem to deflect shells
+* The strong gun makes it easy to destroy most opponents at the its battle rating with a single shot, even M4A3E2 Jumbo, as long as you carefully aim for the machine gun port
+* The tank is equipped with smoke grenades, which can help escape an undesirable situation alive
 
 '''Cons:'''
 
-* Weak and vertical armour protection. If not angling the Tiger H1 can get destroyed easily by the T-34-85 or 76 mm Sherman. Even if the {{PAGENAME}} is angling, the [[IS-2 (Family)|IS-2]] can still knock it out with a single shot easily.
-* The upper front plate is extremely vulnerable if it is not angled. It will be penetrated by any vehicle at its BR.
-* Struggles to penetrate heavy targets frontally like the [[M4A3E2]], [[M26 (Family)|M26]] and [[IS-2 (1944)]].
-* Rather slow acceleration limits its short range manoeuvrability.
+* Weak and vertical armour protection. If not angling the Tiger H1 can get destroyed easily by the T-34-85 or 76 mm Sherman. Even if the {{PAGENAME}} is angling, the [[IS-2 (Family)|IS-2]] can still knock it out with a single shot easily
+* The upper front plate is extremely vulnerable if it is not angled. It will be penetrated by any vehicle at its BR
+* Struggles to penetrate heavy targets frontally like the [[M4A3E2]], [[M26 (Family)|M26]] and [[IS-2 (1944)]]
+* Rather slow acceleration limits its short range manoeuvrability
 * Slow turret traverse makes it hard to respond to flankers quickly. The [[M18 GMC]] is very common at this BR
-* Ammo storage at the hull sides are very easy to explode when hit.
+* Ammo storage at the hull sides are very easy to explode when hit
 * Commander's cupola is tall and easy to penetrate
-* Is a big and tall target, easy to get spotted and shot at.
+* Is a big and tall target, easy to get spotted and shot at
 * S-Mine dischargers on the hull limits gun depression in certain areas
-* Tracks are rather loud so enemies will most times hear you and will be alert, so surprise attacks will be difficult.
+* Tracks are rather loud so enemies will most times hear you and will be alert, so surprise attacks will be difficult
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -220,7 +216,7 @@ The Tiger I, as innovative as it is to tank warfare, was a strain on German war 
 ===Variants===
 There are three main production Tiger I variants known today, the "early-production", "mid-production", and "late-production" models. The Early-production model, designated as the Panzerkampfwagen VI Ausf. H, were the first few batches and are distinguished by their drum-style cupola with an over-swinging hatch. The model also had two vehicle lights on the front side of the tank and dished steel wheels with rubber tyres. The Mid-production featured Zimmerit paste and a side-swinging cupola with accommodation for a machine gun mounted on the cupola. The vehicle light was also changed to just one placed right in the front of the hull armour. The mid-production was also redesignated in May 1943 as the [[Tiger E|Panzerkampfwagen VI Ausf. E]]. Late-production models featured the removal of the Zimmerit paste as there was an assumed flaw with it, and the overlapping wheels were instead made into interleaving with full-steel road wheels as well, in a manner similar to the [[Tiger II (H)|Tiger II]].
 
-Other specialized variants of the Tiger I was produced as well. A small number of demolition carrier models were field-made in Italy, where it had its main gun replaced by a crane to carry demolition to clear minefields or destroy obstacles. The demolition carrier version was interpreted by Allied intelligence as a BergeTiger, an armoured recovery vehicle, though it is not known if it ever saw service in this role. Another specialized variant produced in 1944 in some numbers was the Sturmtiger, an heavy assault gun with a 38 cm rocket launcher made from a depth charge. 19 of these were made and saw use in all fronts, though its most noteworthy combat action was in the Warsaw Uprising.
+Other specialized variants of the Tiger I was produced as well. A small number of demolition carrier models were field-made in Italy, where it had its main gun replaced by a crane to carry demolition to clear minefields or destroy obstacles. The demolition carrier version was interpreted by Allied intelligence as a BergeTiger, an armoured recovery vehicle, though it is not known if it ever saw service in this role. Another specialized variant produced in 1944 in some numbers was the [[Sturmtiger]], an heavy assault gun with a 38 cm rocket launcher made from a depth charge. 19 of these were made and saw use in all fronts, though its most noteworthy combat action was in the Warsaw Uprising.
 
 ===Combat usage===
 In its introduction, Hitler ordered the new Tigers to be used in the Leningrad siege in September 1942. However, as the faults of the tank were still not yet fully ironed out at this stage, the mechanical unreliability and the unsuitable terrain caused one of the Tiger Is to be stuck in the swamps and abandoned by its users. This example was then captured by the Red Army and tipped off the Allies of the development of the new Tiger tanks and so developments in countermeasures began. In North Africa, the Tigers saw the first action against the Western Allies in Tunisia in December 1942. Its impact there left an impression on the Allied armour forces, but its myth as an invulnerable tank was shattered when two Tigers were taken out by the British [[Ordnance QF 6-pounder Mk.III (57 mm)|6-pounder anti-tank guns]]. The total loss in that campaign was seven Tigers by February 1943.
@@ -260,13 +256,16 @@ The first tanks which arrived often broke, owing to the haste with which they we
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Videos
-{{Youtube-gallery|ryx7Uxo_3X0|'''The Shooting Range #250''' - ''Pages of History'' section at 03:40 discusses the {{PAGENAME}}.|tcIeR_s6fp8|'''The Shooting Range #204''' - ''Pages of History'' section at 04:50 discusses the Tiger I and the VK 45.01 (P).|9_txEPailKc|'''The Shooting Range #92''' - ''Tactics & Strategy'' section at 10:50 discusses the Tiger I.|QEz1MgTjUAw|'''War Thunder: Pz.Kpfw. VI Tiger Ausf. H1''' - ''War Thunder Official Channel''|kFQd8TYt6Ew|'''Tank Chats #17 Tiger I''' - ''The Tank Museum''}}
+{{Youtube-gallery|ryx7Uxo_3X0|'''The Shooting Range #250''' - ''Pages of History'' section at 03:40 discusses the {{PAGENAME}}.|tcIeR_s6fp8|'''The Shooting Range #204''' - ''Pages of History'' section at 04:50 discusses the Tiger I and the VK 45.01 (P).|9_txEPailKc|'''The Shooting Range #92''' - ''Tactics & Strategy'' section at 10:50 discusses the Tiger I.|QEz1MgTjUAw|'''Pz.Kpfw. VI Tiger Ausf. H1''' - ''War Thunder Official Channel''|kFQd8TYt6Ew|'''Tank Chats #17 Tiger I''' - ''The Tank Museum''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+
+* [[Tiger E]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -274,7 +273,7 @@ The first tanks which arrived often broke, owing to the haste with which they we
 * ''other literature.'' -->
 
 * [[wt:en/news/4528-profile-pz-kpfw-vi-tiger-ausf-h1-en|[Vehicle Profile] Pz.Kpfw. VI Tiger Ausf. H1]]
-* [[wt:en/news/2641/current|[Vehicle Profile] Pzkpfw VI "Tiger" Ausf. H1]]
+* [[wt:en/news/2641--en|[Vehicle Profile] Pzkpfw VI "Tiger" Ausf. H1]]
 * [[wikipedia:Tiger_I|[Wikipedia] Tiger I]]
 * [https://tanks-encyclopedia.com/ww2/nazi_germany/Panzer-VI_Tiger.php <nowiki>[Tanks Encyclopedia]</nowiki> Panzerkampfwagen VI Tiger Ausf.E (Sd.Kfz.181) Tiger I]
 * [https://www.militaryfactory.com/armor/detail.asp?armor_id=72 <nowiki>[Military Factory]</nowiki> SdKfz 181 Panzer VI / Tiger I]

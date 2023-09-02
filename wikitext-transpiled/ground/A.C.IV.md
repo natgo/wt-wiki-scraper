@@ -189,7 +189,7 @@ After the war, the Australian government disposed most of the tanks in 1945, mos
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_ac4_thunderbolt Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|4yihmbBzke8|'''AC IV Thunderbolt''' - ''Ash''}}
+{{Youtube-gallery|HR57u5I3V58|'''Australian Cruiser Tanks - AC I "Sentinel" - AC IV "Woomera" (review starts at 5:20)''' - ''Cmdr. Tyrael''|4yihmbBzke8|'''AC IV Thunderbolt''' - ''Ash''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

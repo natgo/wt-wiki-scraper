@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]]. It was removed from the Gaijin store after the [[wt:en/news/7674-shop-may-sale-en|2022 May sale]] and is currently unobtainable in-game.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]]. It was removed from the Gaijin store after the [[wt:en/news/7674-shop-may-sale-en|2022 May sale]]. The {{PAGENAME}} has since been made temporarily available for purchase in-game using Golden Eagles ({{GE}}) during the [[wt:en/news/8396-special-the-cuban-mig-17as-is-back-for-ge-and-a-russian-air-force-decal-en|2023 "Russian Air Force Day"]] mini-event.
 
 As a {{PAGENAME}} flying in Cuban colors, the plane represents a fighter-bomber version of the [[MiG-17]] series that was exported to Cuba in 1964.
 

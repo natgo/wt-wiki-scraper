@@ -1,7 +1,7 @@
 {{About
 | about = French light tank '''{{PAGENAME}}'''
-| usage = the premium version
-| link = AMD.35 (SA35)
+| usage = other versions
+| link = AMD.35 (Family)
 }}
 {{Specs-Card
 |code=fr_amd_35

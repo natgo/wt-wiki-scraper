@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}'''(Lit. Arrow; NATO codename: '''SA-13 Gopher''') is one of the missile system that composed the extensive air-defense layers of Soviet and Warsaw Pact ground forces. As the direct upgrade upgrade of the previous 9K31 Strela-1 systems, the Strela-10M2 systems were developed as placeholder before the new [[ZPRK 2S6|9K22 Tungska]] (2S6) system could be developed by 1970s; however, the system was not very reliable against jets of its era during field tests and was delayed to mid-1970s for deployment. The systems, which could be said as the close-layer of air-defense network for army corps, are still being used by many ex-Soviet republics with upgrades introduced to the missile seeker for better counter-ECCM capabilities.
+
+Introduced in [[Update "Apex Predators"]] as Soviet's first SAM battery in-game, although the 9A35M2 launcher vehicle doesn't have divisional search vehicles (especially MT-LBU with 9S80 search radar) nor commander vehicles to search aerial targets; but hiding the vehicle and seek for opportunities to take down enemy jets or helicopters that gets too close is achievable. Be sure not to rush to the front as the vehicle have nothing but only a PKM light machine gun to harass enemies or gunning down exposed crews in very rare occasions.
 
 == General info ==
 === Survivability and armour ===
@@ -113,9 +115,9 @@ The 7.62 mm MG on the 10M2 is pretty much an afterthought, given that open-top v
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The best way to use the 10M2 is as a short-range surprise weapon against enemy aircraft and sometimes helicopters. The missiles cannot reach as far as many of the radar missile-equipped SPAA vehicles you will often be playing alongside, but they have very good overload and do not give the enemy a radar warning. Engaging aircraft that are busy with other targets or just starting to exit the battlefield is the best way to engage, as distracted enemies are less likely to see the missile and dump flares.
+Due to the lack of the supporting vehicles of a common Soviet AA batteries especially a radar vehicle, players will have to rely on the voicelines from the crew, the sound of rotor/jet or visual acquisition of enemy aircrafts; the other flaw that hinders the overall combat capabilities is the short all-aspect lock-on range (at only 3 km), although this is some  improvement from previous ZSU-23-4 with barely 2.5 km effective range, it can still make sure enemy aircrafts would think twice before entering the battlefield for CAS operations. At such, the best way to use the 10M2 is as a short-range surprise weapon against enemy aircraft and sometimes helicopters. The missiles cannot reach as far as many of the radar missile-equipped SPAA vehicles you will often be playing alongside, but they have very good overload and do not give the enemy a radar warning. Engaging aircraft that are busy with other targets or just starting to exit the battlefield is the best way to engage, as distracted enemies are less likely to see the missile and dump flares.
 
-The worst enemy of this vehicle is helicopters, at any range. At long range, they are outside the lock range of the 10M2's missile while being well within the range of their own ATGMs. At closer range (below about 1 mile), the missile is often unable to track enemy helicopters due to its launch characteristics. Helicopters around the 10M2's BR also start to get IRCM equipment, making IR lock even more difficult. High-altitude aircraft are more of the same thing, being able to loft missiles and bombs at ground targets from outside the missile's lock-on distance.
+The worst enemy of this vehicle is helicopters, at any range. At long range, they are outside the lock range of the 10M2's missile while being well within the range of their own ATGMs. At closer range (below about 1 mile/1.6 km), the missile is often unable to track enemy helicopters due to its launch characteristics. Helicopters around the 10M2's BR also start to get IRCM equipment, making IR lock even more difficult. High-altitude aircraft are more of the same thing, being able to loft missiles and bombs at ground targets from outside the missile's lock-on distance.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -130,8 +132,8 @@ The worst enemy of this vehicle is helicopters, at any range. At long range, the
 
 '''Cons:'''
 
-* Can't engage helicopters equipped with ATGMs because of the [[9M37M|9M37]]'s short range
-* No search radar. A 3-mile range tracking radar is all you get
+* Can't engage most helicopters equipped with ATGMs due to the short all-aspect lock-on range
+* No search radar. A 3-mile (10 km) range 9S86 tracking radar is all you get
 * Engine suffers on inclines, hills are not your friend
 
 == History ==
@@ -148,6 +150,7 @@ The vehicle was first introduced in 1976 and has been in service ever since. Com
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_9a35_m2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -156,6 +159,7 @@ The vehicle was first introduced in 1976 and has been in service ever since. Com
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Western counterparts
+
 * [[LAV-AD]]
 * [[Ozelot]]
 * [[Type 93]]

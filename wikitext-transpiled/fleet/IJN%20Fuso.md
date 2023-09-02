@@ -97,4 +97,5 @@ The '''{{Specs|name}}''' (扶桑, [[Abbreviations#.28JP.29_Naval|namesake]]: cla
 
 * [[wt:en/news/7899-development-fusō-a-broadside-to-remember-en|[Devblog] Fusō: A Broadside to Remember]]
 
+{{ShipManufacturer Kure Naval Arsenal}}
 {{Japan battleships}}

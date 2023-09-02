@@ -26,6 +26,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet sub-chaser {{Battle-rat
 == Armament ==
 {{Specs-Fleet-Armaments}}
 === Primary armament ===
+[[File:MPK Pr.204 Firing Arcs.png|thumb|Firing angles and minimum gun elevation of MPK Pr.204's primary armament.]]
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|AK-725 (57 mm)}}
@@ -47,13 +48,21 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet sub-chaser {{Battle-rat
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* Powerful primary armament with high fire rate, good turret traverse speed, and high elevation angle
+* Strong AP shells with decent penetration, muzzle velocity, and explosive mass
+* Has access to RBU-6000 mortars and four torpedoes
+* Has both search and tracking radars
 
 '''Cons:'''
-*
+
+* Poor firing angles for the primary armament, especially to the starboard side
+* Mediocre anti-aircraft abilities due to lack of auxiliary/anti-aircraft guns and no HE-VT shells
+* Slow torpedoes with very low explosive mass in fixed torpedo tubes that are unable to traverse
+* Relatively poor survivability, despite displacing over 500 tons
+* Exposed ammo racks for both primary armament and rockets
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -61,13 +70,19 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet sub-chaser {{Battle-rat
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_mpk_204 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|2GOggarC5MU|'''MPK Pr. 204 - Unlock the Secrets of the Soviet POTI-Class ASW Corvette''' - ''Cmdr. Tyrael''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -76,6 +91,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet sub-chaser {{Battle-rat
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -18,7 +18,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
 ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
 
-{{NavalMobility}}
+{{NavalMobility
+|SpeedForwardStockAB = 70
+|SpeedBackStockAB = 23
+|TurnTimeStockAB = 122.55
+|TurnSpeedStockAB = 49
+}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -95,8 +100,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
 
+* [[wt:en/news/8232-development-le-malin-the-malign-destroyer-en|[Devblog] Le Malin: the malign destroyer]]
+
+{{Manufacturer FCM}}
 {{France destroyers}}

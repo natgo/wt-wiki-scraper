@@ -83,6 +83,8 @@
 {{Tree-Skip}}
 {{Tree-Unit|us_t18_e2}}
 {{Tree-Skip}}
+{{Tree-Unit|us_m4_sherman_promo}}
+{{Tree-Skip}}
 
 {{Tree-Line|III Rank}}
 |
@@ -317,6 +319,6 @@
 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|VPhzn19gKiY|'''The Shooting Range #325''' - ''Pages of History'' section at 03:39 discusses American SPGs.|RhT6euoewSk|'''American Airborne/Amphibious Assault Vehicles'''  - ''War Thunder Official Channel''|eiMde1jVPkM|'''American ground forces Rank V''' - ''Oxy''|rXZ0G3sAKQc|'''American ground forces Rank IV''' - ''Oxy''|_QaAt6D52Kg|'''American ground forces Rank III - Review and Analysis''' - ''Oxy''|QzkUxYDTt1U|'''American ground forces Rank II - Review and Analysis''' - ''Oxy''|3G6fGMDbdgE|'''American ground forces Rank I - Review and Analysis''' - ''Oxy''|aSP1Bps2w0w|'''Climbing the ranks with American vehicles'''  - ''War Thunder Official Channel''}}
+{{Youtube-gallery|VPhzn19gKiY|'''The Shooting Range #325''' - ''Pages of History'' section at 03:39 discusses American SPGs.|RhT6euoewSk|'''American Airborne/Amphibious Assault Vehicles'''  - ''War Thunder Official Channel''|svN5d4a8HrM|'''American Ground Forces Rank VI/VII''' - ''Oxy''|eiMde1jVPkM|'''American ground forces Rank V''' - ''Oxy''|rXZ0G3sAKQc|'''American ground forces Rank IV''' - ''Oxy''|_QaAt6D52Kg|'''American ground forces Rank III - Review and Analysis''' - ''Oxy''|QzkUxYDTt1U|'''American ground forces Rank II - Review and Analysis''' - ''Oxy''|3G6fGMDbdgE|'''American ground forces Rank I - Review and Analysis''' - ''Oxy''|aSP1Bps2w0w|'''Climbing the ranks with American vehicles'''  - ''War Thunder Official Channel''}}
 
 [[Category:Ground vehicles by country]]

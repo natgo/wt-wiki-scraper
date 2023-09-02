@@ -35,7 +35,7 @@ The protection of the [[ammo racks]] on this ship is somewhat better at the rear
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|152/53 mm Ansaldo mod.1926 (152 mm)}}
 
-RN Bartolomeo Colleoni has 4 turrets with 2 x 152 mm cannons each. They can load normal HE, APHEBC, or HE-TF shells. The turrets all have good horizontal traverse range, and only a small angle is required for a full broadside salvo. The fire rate is slow, but with good ballistics and explosive filler, the HE shells should still be able to quickly dispatch any unfortunate destroyers. The APHEBC shells are well suited for use against better-armoured targets, such as other cruisers. The HE-TF shell can be useful against aircraft, but are difficult to use efficiently due to their fixed timed fuse.
+RN Bartolomeo Colleoni has 4 turrets with 2 x 152 mm cannons each. They can load normal HE, APHEBC, or HE-TF shells. The turrets all have good horizontal traverse range, and only a small angle is required for a full broadside salvo. The fire rate is very poor for its calibre, at 15 seconds reload with ace crew compared to other 6-inch guns with 10-second reload, but with good ballistics and explosive filler, the HE shells should still be able to quickly dispatch any unfortunate destroyers. The APHEBC shells are well suited for use against better-armoured targets, such as other cruisers. The HE-TF shell can be useful against aircraft, but are difficult to use efficiently due to their fixed timed fuse.
 
 {{:152/53 mm Ansaldo mod.1926 (152 mm)/Ammunition|152 mm HE Dirompente, 152 mm APHEBC Palla, 152 mm HE-TF Contro-aerea}}
 
@@ -76,13 +76,15 @@ Located amidships is a catapult with one Ro.43 scout plane which provides unique
 
 '''Pros:'''
 
-* High top speed
+* High top speed and manoeuvrability
+* Very good gun firing angles, allowing the ship to fire at a steep angles and reduce the frontal profile
 * One scout seaplane
 
 '''Cons:'''
 
-* Low rate of fire for the main battery
-* Almost zero armour protection
+* Average anti-air defense
+* Main guns has very poor rate of fire
+* Very weak armour protection, the ship's barbettes in particular are completely exposed to enemy fire
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

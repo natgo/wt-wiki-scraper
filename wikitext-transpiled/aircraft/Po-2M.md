@@ -14,7 +14,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet bomber {{Battle-rating}}. It was introduced during [[Update "Drone Age"]] as a reward for the 2022 [[wt:en/news/7882-event-project-overpowered-en|Project "Overpowered"]] event.
+The '''{{Specs|name}}''' (or Po-2P) was a proposed Soviet biplane intended to be used as a floatplane version of the [[Po-2]]. It was developed in the 1940s and was successfully tested at the Khimki water reservoir near Moscow. Due to the requirement to mount a bomb load beneath the lower wings, it was created using a single-float scheme. Apart from that, there were only a few minor differences between it and the land-based version, such as the addition of a spinner to the propeller, hiding the rudder control cables in the fuselage, and a trimming glacis to the elevator. Despite positive test results, it was never put into production. It's very likely that biplane designs were simply considered out of favour at the time, and thus the aircraft never stood a chance.
+
+The {{Specs|name}} was introduced during [[Update "Drone Age"]] as a reward for the 2022 [[wt:en/news/7882-event-project-overpowered-en|Project "Overpowered"]] event. It essentially plays the same as the Po-2, but with some minor improvements. Unfortunately, its status as the slowest plane in the game remains unchanged, but its payload options remain impressive. In comparison to the Po-2, it trades two 50 kg bombs for the ability to carry four more rockets of each type, and even incendiary bombs. The defensive machine gun was also changed to a [[DA (7.62 mm)|7.62 mm DA]].
 
 == General info ==
 === Flight performance ===
@@ -109,13 +111,13 @@ The '''''{{PAGENAME}}''''' is defended by:
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-'''Pros:''' 
+'''Pros:'''
 
 * Various payload options
 ** Access to incendiary bombs at reserve BR
 ** Rockets are effective against ground targets
 
-'''Cons:''' 
+'''Cons:'''
 
 * Slow flight speed
 * You slow speed makes you an easy target for fighters

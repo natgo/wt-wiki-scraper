@@ -5,12 +5,15 @@
 }}
 {{Specs-Card
 |code=uk_centurion_mk_2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|market=id50223_centurion_mk_2_great_britain
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced during [[Update "Sky Guardians"]] as a reward for [[Battle Pass: Season XI, "Her Majesty's Hussar"]].
+The '''Centurion Mk 2''' was the second variant of the [[Centurion (Family)|Centurion medium tank family]]. The [[Centurion Mk 1]] was widely regarded as a success, but the Soviet tank threat necessitated the development of a more heavily armoured version, known as the Centurion Mk 2. It also possessed a brand-new, completely cast turret. The Centurion Mk 1 was swiftly replaced on the production line, with 800 Centurion Mk 2 ordered in November 1945 from Leyland Motors and Vickers (Elswick), the Royal Ordnance Factories in Leeds and Woolwich. A newly developed two-plane fully automatic stabilization system for the 76 mm QF 17-pounder tank gun is also included in the Centurion Mk 2. The Centurion Mk 2 entered service with the 5th Royal Tank Regiment in December 1946. All Centurion Mk 1s and 2s were converted to recovery vehicles or modified to the [[Centurion Mk 3]] standards after production was replaced by the Centurion Mk 3.
+
+Introduced in [[Update 1.55 "Royal Armour"]] as a reward for [[Battle Pass: Season XI, "Her Majesty's Hussar"]], the premium Centurion Mk 2 is one of the first tanks to include a two-plane fully automatic stabilization system. Players no longer have to worry about opponents appearing around corners and stopping to take aim, making it easier to fire on the move than ever before. Despite aggressive manoeuvring, the gun sights are efficiently stabilized, ensuring that the player always fires first upon spotting an enemy. Other than that, playstyles are comparable to Centurion Mk 1, but players can be significantly more aggressive with Centurion Mk 2, allowing new tactics during combat.
 
 == General info ==
 === Survivability and armour ===
@@ -54,8 +57,6 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium ta
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|QF 17-pounder (76 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[QF 17-pounder (76 mm)|76 mm QF 17-pounder]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -65,10 +66,10 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium ta
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 77 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 77 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 7.67 || rowspan="2" | 6.79 || rowspan="2" | 6.25 || rowspan="2" | 5.90
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 11.9 || 14.0 || 17.0 || 18.8 || 20.0
 |-
 |}
 
@@ -117,9 +118,11 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium ta
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -130,6 +133,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium ta
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -140,6 +144,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium ta
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

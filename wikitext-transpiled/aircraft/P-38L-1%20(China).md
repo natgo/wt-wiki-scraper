@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese twin-engine fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''', dubbed by Chinese soldiers or locals as the 雙身機 (Double-body aircraft), represented the P-38L used by 14th Air Force albeit painted in Nationalist delivery (which in fact flew the recon version, F-5E instead of the combat variants; most of the resources suggested that Lightnings were first painted in Nationalist delivery, then modified to unarmed  F-4 and F-5E recon planes). The P-38 series have already been the nightmare of Imperial Japanese forces since their introduction thanks its unique design, large combat-radius and devastating firepower; it was also the very aircraft that got Isoroku Yamamoto alongside with his officers in 1943. Some P-38s from USAAF were then transferred to bases in China to escort bombers for bombing runs to the Japanese-occupied Taiwan, as well as credited as the recon which helped the delivery of the only two A-bombs ever deployed in combat history. By the time near the Korean war, a Nationalist pilot hinted the existence of Soviet and Chinese [[MiG-15 (Family)|MiG-15]] by 1950 at the cost of his life; after the shot-down, ROCAF soon phrased-out the P-38 series with US-aid jet aircrafts by 1953.
+
+It was introduced in [[Update 1.91 "Night Vision"]] as one of the Chinese aviation tech-tree aircraft sitting on the NRAAF/ROCAF line, the later series P-38 still offer excellent climb rate for such a huge aircraft and devastating firepower ; although cases are enemy aircrafts are at the same altitude as players do, if plan ahead according to the movement of enemies, energy fights with those which lost their altitude advantages or taking down heavy fighters in dogfights are viable options for the plane. Use the speed advantage to escape from chaos before enemy has the chance to land shots upon players - its size can make sure enemy shots will land on P-38L with relative ease
 
 == General info ==
 === Flight performance ===
@@ -95,6 +97,11 @@ The '''''{{PAGENAME}}''''' is armed with:
 * 1 x 20 mm AN/M2 cannon, nose-mounted (150 rpg)
 * 4 x 12.7 mm M2 Browning machine guns, nose-mounted (500 rpg = 2,000 total)
 
+The '''{{Specs|name}}''' has access to late-war M2 Browning belts which can be extremely deadly with the tracer belt. Every round in this belt is armor-piercing incendiary tracer rounds which can quickly set enemy aircraft on fire due to the dense volley of fire from the 4 nose-mounted .50 calls. This belt is also excellent for ground attack. In addition to the machine guns, there is also a 20-millimeter cannon mounted in the nose which serves as a nice complement against enemy aircraft and ground targets but should be more utilized against air targets. 
+
+The M2 Brownings are very versatile for both air targets and ground targets. For air targets, the best belts are the universal, tracer, or stealth belts. All of these belts have a full incendiary round composition which is incredibly effective for setting enemy aircraft on fire. Stealth belts are a good choice for pilots who are already accustomed to aiming M2 Brownings. As for ground targets, the best belts will be either the ground target belt or the tracer belt. These 2 belts have a very high composition of AP rounds however the ground target belt does have incendiary-only (I) rounds (83% AP, 17% Incendiary only). Meanwhile, the tracer belt is fully composed of API-T rounds which will be effective for setting aircraft on fire or attacking ground targets. 
+
+The AN/M2 cannon is also extremely effective against air and ground targets. However, the P-38L only has 150 rounds of cannon ammo and should be used sparsely and mainly on air targets. However, that does not mean they are ineffective against ground targets if one chooses to use the cannon against them. The ground target belt is the best belt for ground attack as the AP rounds can, at max, penetrate through 39 millimeters of armor which is very good against lightly armored vehicles. It also has the highest composition of AP rounds compared to any belt (75% AP/25% HEF-I). For air targets, the best belts will be either the air target or stealth belt. For players who are familiar with the AN/M2 cannon, the stealth belt will be the best option as every round is HEF-I. Meanwhile, the belt composition for the air target belt is 75% HEF-I and 25% AP but does have access to tracers for those who are unfamiliar. As for players who wish to attack both air and ground targets, the best belt would be the default or universal belt as they have the same belt composition of 50% AP, and 50% HEF-I.
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
@@ -106,6 +113,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 10 x HVAR rockets
 * 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
+The '''{{Specs|name}}''' currently does not have any custom loadouts. Loadouts are restricted to no suspended armament, rockets only, bombs only, or gunpods only.
+
+For optimal performance, one should use the no suspended armament loadout to keep the weight and extra drag to a minimum. Some players can choose the extra gunpod for enemy air or ground targets. However, the pods are mounted near the wingtips, and it can be hard to get guns on target. A convergence will be needed if one equips the gunpods.
+
+The 2x 500 lb bomb loadout is quite effective against lightly to medium armored targets but can be a struggle against very armored targets. The 162.81 kg (357 lb) TNT equivalent will be sufficient to destroy tanks and other targets within a 9-meter (29 feet) radius. These bombs are also mounted very close to the centerline of the aircraft which makes aiming very simple. In addition, the bombs drop one at a time which allows for more than 1 target to be engaged. 
+
+The 10x HVAR loadout is decently effective against ground targets.  With 39 millimeters of penetration at any distance and 4.52 kg (~10 lb) TNT equivalent, players can be assured of destroying or critically damaging lightly armored targets with direct or nearby hits. However, these rockets will struggle against medium to heavy-sized tanks even with direct hits, so it is advised to use them against open-tops or light tanks. These rockets are also mounted near the wingtips, much like the gunpods, so aiming can be much more difficult compared to the bomb loadout.  
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -205,12 +219,13 @@ Thanks to the extended range of P-38, they could reach over the skies of the Kor
 === Myth of P-38 Series in ROCAF ===
 Due to the lack of information on the usage of P-38 interceptors by the ROCAF, there isn't too much information on whether they fought with the Japanese or later PLAAF during the Civil War; but the recon variant, F-5E, was used rather extensively by ROCAF before the end of WWII and some 43 of them were delivered to ROCAF after the war.<ref>jpfu0313(平心鏡氣軒主人). "國軍使用過P-38? 答案可能是這樣." 隨意窩 Xuite日誌. Xuite, May 27, 2017. https://blog.xuite.net/jpfu0313/blog/509109195.</ref>
 
-Current historic research with the built number and accounting records from the USAAF shows that there isn't any direct evidence of P-38L interceptors being delivered to ROCAF, but instead P-38 based reconnaissance aircraft designated F-4 and F-5E. The only known loss of an F-5E over PLAAF (albeit piloted by Soviet pilots) was by '''Keleynikov Yuriy Yakovlevich (Келейников Юрий Яковлевич)''' of 29th GIAP, 106th IAD.<ref>Gkjlai. "蘇聯MiG-15擊落國軍P-38/F-5E偵察機" gkjlai的部落格, March 3, 2015. https://gkjlai.pixnet.net/blog/post/360266459.</ref><ref>"Келейников Юрий Яковлевич." Accessed February 12, 2022. http://soviet-aces-1936-53.ru/abc/k/keleinikov.htm.</ref> While F-5Es successfully hinted at the existence of PLAAF jet fighters from recon photos during a flight to Shanghai, forcing ROCA to retreat from Zhejiang costal islands, in just a few years (1953) at the advent of the jet age, F-5Es were first replaced by F-6s (F-51D or K Mustangs reconfigured for reconnaissance), then newer jets like RF-84F or RB-57D.<ref>rexkuang326. "洛克希德 F-5E-4 閃電式照相偵察機(1945.5.14-1953)," May 2, 2021. https://rexkuang326.pixnet.net/blog/post/65496076.</ref>
+Current historic research with the built number and accounting records from the USAAF shows that there isn't any direct evidence of P-38L interceptors being delivered to ROCAF, but instead P-38 based reconnaissance aircraft designated F-4 and F-5E. The only known loss of an F-5E over PLAAF (albeit piloted by Soviet pilots) was by '''Keleynikov Yuriy Yakovlevich (Келейников Юрий Яковлевич)''' of 29th GIAP, 106th IAD.<ref>Gkjlai. "蘇聯MiG-15擊落國軍P-38/F-5E偵察機" gkjlai的部落格, March 3, 2015. https://gkjlai.pixnet.net/blog/post/360266459.</ref><ref>"Келейников Юрий Яковлевич." Accessed February 12, 2022. http://soviet-aces-1936-53.ru/abc/k/keleinikov.htm.</ref> While F-5Es successfully hinted at the existence of PLAAF jet fighters from recon photos during a flight to Shanghai, forcing ROCA to retreat from Zhejiang coastal islands, in just a few years (1953) at the advent of the jet age, F-5Es were first replaced by F-6s (F-51D or K Mustangs reconfigured for reconnaissance), then newer jets like RF-84F or RB-57D.<ref>rexkuang326. "洛克希德 F-5E-4 閃電式照相偵察機(1945.5.14-1953)," May 2, 2021. https://rexkuang326.pixnet.net/blog/post/65496076.</ref>
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p-38l_1_china_rocaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -219,6 +234,7 @@ Current historic research with the built number and accounting records from the 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
+
 * Northrop [[P-61C-1|P-61]] Black Widow
 * Savoia-Marchetti [[SM.92]]
 

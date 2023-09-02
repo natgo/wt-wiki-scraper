@@ -7,13 +7,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American battlecruiser {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
 
-The Alaska-class were major warships envisioned as a counter to the rumours of super-/battlecruisers under construction by the Imperial Japanese Navy, and so the Alaska-class was designed to be able to eliminate any possible cruiser and the rumoured small battlecruisers in a gunfight whilst having the speed to evade all but the fastest of battleships. As it turned out, the speculated Japanese warships were never even built and the Alaska-class never saw surface action against other warships, only taking part in escort and shore bombardment missions.
-
-There has long been debate over whether the vessels should be classed as large cruisers or battlecruisers. People in favour of calling them large cruisers point to the fact that the ship is essentially an upscaled Baltimore class cruiser, that the ship has always been officially classed by the USN as large cruisers and that, typically, battlecruisers have the same calibre main armament as on contemporary battleships, which the Alaska-class does not.
-
-People in favour of calling them battlecruisers argue that the origin of the design as a cruiser has no relevance on its combat capability, which far exceeds any conventional cruiser and is more in line with other capital ships. They argue that the large cruiser classification was invented purely for the Alaska-class and no other navy has used it because there is no need for it when the battlecruiser classification already exists, and that warships can often have misleading official classifications, such as the modern Japanese Izumo-class destroyers. They postulate that the theme of battlecruisers having contemporary battleship guns is just a trend, not a rule, as displayed by the in-game Kronshtadt, an extremely similar vessel to Alaska and yet everyone agrees that the Kronshtadt-class were battlecruisers.
-
-Post war, and like the battlecruiser concept in general, they were viewed as obsolete due to being too combat ineffective compared to and against modern battleships while being seen as too resource and cost inefficient compared to cruisers. There was some thought given to converting them to missile ships but these plans fell through and, by the early 1960s, they were broken up for scrap.
+The Alaska-class were major warships envisioned as a counter to the rumours of super-/battlecruisers under construction by the Imperial Japanese Navy, and so the Alaska-class was designed to be able to eliminate any possible cruiser and the rumoured small battlecruisers in a gunfight whilst having the speed to evade all but the fastest of battleships. As it turned out, the speculated Japanese warships were never even built and the Alaska-class never saw surface action against other warships, only taking part in escort and shore bombardment missions. Post-war, they, like the battlecruiser concept in general, were viewed as obsolete due to being too combat ineffective compared to and against modern battleships while being seen as too resource and cost inefficient compared to cruisers. There was some thought given to converting them to missile ships but these plans fell through and, by the early 1960s, they were broken up for scrap.
 
 == General info ==
 === Survivability and armour ===
@@ -33,7 +27,7 @@ Post war, and like the battlecruiser concept in general, they were viewed as obs
 |-
 | Citadel || {{Annotation|0.62 inches|15.87 mm}} (upper) <br> {{Annotation|10.25 inches|260.35 mm}} (middle) <br> {{Annotation|2 inches|50.8 mm}} (lower) || {{Annotation|1.125 inches|28.56 mm}} (upper) <br> {{Annotation|9 inches|228.6 mm}} (middle) <br> {{Annotation|5-7 inches|127-177.8 mm}} (lower) <br> {{Annotation|0.75 inches|19.05 mm}} (inner) || {{Annotation|0.62 inches|15.87 mm}} (upper) <br> {{Annotation|10.25 inches|260.35 mm}} (middle) <br> {{Annotation|2 inches|50.8 mm}} (lower) || {{Annotation|1.425 inches|36.195 mm}} (upper) <br> {{Annotation|4.25 inches|107.95 mm}} (middle, magazine) <br> {{Annotation|3.8 inches|96.52 mm}} (middle, machinery) <br> {{Annotation|0.75 inches|19.05 mm}} (lower, magazines only)
 |-
-| Bridge || style="text-align:center" colspan="3" | {{Annotation|10.63 inches|269.99 mm}} || {{Annotation|5 inches|127 mm}}
+| Bridge || colspan="3" style="text-align:center" | {{Annotation|10.63 inches|269.99 mm}} || {{Annotation|5 inches|127 mm}}
 |-
 |}
 '''Notes:'''
@@ -43,7 +37,7 @@ Post war, and like the battlecruiser concept in general, they were viewed as obs
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
+USS Alaska has an average mobility for a WW2 battlecruiser. Being a heavy ship, captains of Alaska should not expect to stop from flank speed fastly, a process that can take about half a minute. Being a long ship, changing direction will also take some time and captains of Alaska should expect a large turn radius.
 
 {{NavalMobility}}
 
@@ -63,7 +57,7 @@ The Alaska has access to two shell types for the main guns.
 
 The armour-piercing shell is the main one you'll use for opposing capital ships and occasionally on cruisers that may have a lot of armour or are angled. The AP shell of the Alaska was designed as a so called 'super-heavy' shell, which means that it has a lot bit more mass than a normal AP shell. This means the shell has less muzzle velocity, intended to give the shells a sharper descent angle when coming down on an opposing vessel, a little like a mortar, with the hopes of going through deck armour, which tends to be relatively thin.
 
-The problem with this is that the US didn't realise that the range needed to have the shells drop at a flat enough angle on the deck to effectively penetrate most deck armour was quite a bit further than you could physically aim with any real accuracy. Even ignoring that, warships in naval battles tend to always want to close the range anyway in order to be able to aim accurately and/or use torpedoes, which would rapidly diminish the possibility of penetrating deck armour. What this means is that you simply cannot use the shells for their intended purpose of hitting deck armour, meanwhile the lower muzzle velocity makes aiming your AP shells more difficult and shells hitting the side of an enemy vessel are at a sharper angle than they would otherwise have been, which makes it unnecessarily harder to penetrate enemy side armour. Not only that but, as is typical for US warships, the AP shell has a relatively poor bursting charge of less than 8kg. The only thing that saves the shell from being completely useless is the relatively high penetration statistics with it retaining a more than moderate level of penetration at range due to the heavy shells momentum.
+The problem with this is that the US didn't realise that the range needed to have the shells drop at a flat enough angle on the deck to effectively penetrate most deck armour was quite a bit further than you could physically aim with any real accuracy. Even ignoring that, warships in naval battles tend to always want to close the range anyway in order to be able to aim accurately and/or use torpedoes, which would rapidly diminish the possibility of penetrating deck armour. What this means is that you simply cannot use the shells for their intended purpose of hitting deck armour, meanwhile the lower muzzle velocity makes aiming your AP shells more difficult and shells hitting the side of an enemy vessel are at a sharper angle than they would otherwise have been, which makes it unnecessarily harder to penetrate enemy side armour. Not only that but, as is typical for US warships, the AP shell has a relatively poor bursting charge of less than 8kg. However, the shells retain relatively high penetration statistics and so that still remain a threat to other capital ships, if aimed at the right places. 
 
 The HE shell of the Alaska is a more normal naval shell and the 35kg of explosive power is fairly decent for its calibre. Although it's not too competitive compared to the real hard hitting HE shells at top tier naval, this shell will still enable you effectively dispatch lightly armoured vessels such as destroyers and small cruisers without difficulty, as well as being able to harass anything on the deck of opposing capital ships.
 
@@ -120,6 +114,7 @@ After securing the early game, you may spawn Alaska as your second ship and purs
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_battlecruiser_alaska_class Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

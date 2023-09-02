@@ -10,12 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese bomber {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The ROCAF received PB4Y-2s to replace the diminishing amount of B-24s in service. They saw active service well into the '50s over Mainland China, and multiple Liberators were shot down. One ROCAF Liberator was lost to a Burmese Hawker Sea Fury, and the aircraft was later phased out in the early '60s as they became obsolete.
+
+Introduced in [[Update 1.91 "Night Vision"]], the '''{{Specs|name}}''', like many 4-engined bombers, is no exception to lacking any manoeuvrability and is incredibly slow. In level flight, the PB4Y struggles to hit 400 km/h (250 mph) so almost every fighter will be able to intercept you.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+The '''{{Specs|name}}''' has the same performance as the other Liberators. It is very slow and the engines suffer at high altitudes due to the PB4Y's inherent design of being a maritime patrol aircraft. At any altitude, the PB4Y will struggle to reach speeds of 400 km/h. The acceleration is also very weak, so it will take a long time to reach that speed in level flight. To make up for the low speed, the PB4Y does have an excellent structural rip speed of almost 600 km/h (375 mph) which can be utilized in a pinch, especially with the long-range bomber air spawn (4,500 m / 14,763 ft). However, the controls will stiffen up at high speeds so players should be wary of attempting aggressive dive angles.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -76,7 +79,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese bomber {{Battle-rating
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 [[File:PB4Y Armour.png|thumb|400px|Bluish Green - 6.35 mm Steel<br>Green - 9.5 mm Steel<br>Yellowish Green - 12.7 mm steel<br>Yellow - 38 mm Bulletproof glass<br>Red - 55 mm Bulletproof glass]]
 
-The PB4Y has a lot of armour and also has self-sealing fuel tanks. The self-sealing tanks are located where the wings and fuselage meet.
+The PB4Y has a lot of armour and also has self-sealing fuel tanks. The self-sealing tanks are located where the wings and fuselage meet. It also has extinguishers to help aid against fires.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -97,6 +100,20 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x 2,000 lb AN-M66A2 bombs (8,000 lb total)
 * 4 x Type A Mark I mines
 * 8 x Type A Mark I mines
+
+The PB4Y has access to a multitude of bomb loadouts including mines. However, it does not get access to any custom loadouts.
+
+The first bomb loadout is the 20 x 100lb. Against bombing bases, players will need to drop a significant amount of bombs to fully destroy a base. The same also goes for ground targets as these bombs only have 24.5 kg TNT equivalent and a dull 2-metre destruction radius against armoured targets. This loadout is relatively weak and mainly serves as a gateway to the other more effective bomb loadouts.
+
+The second loadout is the 8 x 500 lb loadout. The AN-M64A1 has a 162.81 kg TNT equivalent which is a big improvement over the AN-M30A1. This loadout is much more effective compared to the previous loadout with an additional 2,000 lbs of bombs. Also, these bombs will be more potent against ground targets with a 9-metre armoured vehicle destruction radius.
+
+The next bombs will be the 1,000 lb AN-M65A1 bombs which come in 2 loadouts. There is a 4 x 1,000 lb loadout and an 8 x 1,000 lb loadout. The 4 x 1,000 lb loadout has the same mass as the 8 x 500 lb loadout but the former loadout will do more damage per bomb against targets. Ultimately, the 8 x 1,000 lb loadout is superior due to being able to carry more bombs since 5 bombs will be needed to destroy a single base. With a 12-metre destruction radius, this loadout will also be very effective against ground targets.
+
+The final set of researchable bombs will be the whopping 2,000 lb AN-M66A2 bombs with a TNT equivalent of 632 kg. There is one loadout with these bombs and the PB4Y is only able to carry four of them. These have the same mass as the 8 x 1,000 lb bomb but each bomb dropped will do far more damage. However, 2 bombs will be needed to destroy a base. That is half of the total capacity and reduces the number of bases that can be damaged or destroyed. Against armoured targets, these bombs will be able to destroy any vehicle within an 18-metre radius so this bomb can be used effectively on ground targets.
+
+The PB4Y also has access to the Type A Mark I mine. These mines have 2 loadouts, one with 4 mines and the other with 8 mines. They have a very similar destruction radius (16 m) to the 2,000 lb bombs and can be used against ground targets as well as naval targets. The 8 x Mine loadout is excellent for base bombing as only 3 will be needed to destroy a base. This allows for two bases to be destroyed and for a third base to be significantly damaged.
+
+In the end, the best loadout for base bombing will be the 8 x Type A mines as players will be able to do far more damage. The 4 x 2,000 lb and 8 x 1,000 lb loadouts are simply inferior to this loadout especially since the mine modification is only tier two.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -124,6 +141,10 @@ The {{PAGENAME}} is defended by six turrets each equipped with dual-mounted M2 B
 | Tail || 400 || ±70° || -41°/+70°
 |-
 |}
+
+The turrets on the PB4Y have access to 3 belts, default, armoured, and universal. The worst belt will be the armoured target belt as it lacks any sort of incendiary round (75% AP / 25% tracer). The default belt is composed of a tracer round, AP round, AP-I round, and an incendiary round. Half of the belt is incendiary which will be effective in lighting enemy aircraft on fire. The best belt will be the universal belt which is 75% AP-I and 25% tracer. This belt has the highest composition of incendiary rounds and has the best chance of lighting aircraft on fire. Although pure AP rounds will be able to go through more armour, it is only marginally better (30 mm) than the AP-I rounds which are able to penetrate 28 millimetres of armour.
+
+The 6 turrets on the PB4Y provide an excellent amount of coverage. There are no blindspots, even directly below the aircraft as the dorsal turrets are able to traverse vertically down. The worst firing angle will be targets that come from the low 3 o'clock or 9 o'clock position as the front, rear, and beam turrets will be unable to engage. Another bad firing angle for the PB4Y will be enemy aircraft that approach from directly centerline from either the front or behind and below as the dorsal turrets and beam turrets are unable to engage in that angle. However, it's an incredibly tiny window and in most cases, the dorsal turrets will also be able to engage. The best firing angle will be targets that approach above you and in any position that isn't close to 90/270 degrees and 0/180 degrees.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -199,7 +220,7 @@ Amid the ongoing Sino-Japanese War (抗日戰爭), USAAF had deployed dozens of 
 
 These 37 B-24Ms then became part of the lend-lease program and strategic forces of ROCAF. During the upcoming Civil War in late 1940s and retreat of the Nationalist Forces to Taiwan, B-24s was the centerpiece of any bombing operation against PLA and the later Socialist China; due to the lack of replacement aircrafts from USAF and severe losses in Mainland China, these were soon phrased out by PB4Y-2s.
 
-The arrival of PB4Y-2s were nowhere enough for any counter-attack operations to Mainland China with fleets of the latest jets and usually used for recon operations, including 34th “Black Bat” Squadron ''黑蝙蝠中隊'' ; while the Black Bats didn't lost any of them before changing for newer RB-57 and P-2V, there were records of shot downs over Mainland China from other squadrons (No. 012, during bombing operations; all crews KIA)<ref>http://www.mnd.gov.tw/NewUpload/201406/13-19.pdf</ref> and one was lost to Burmese Air Force in 1961 as it was carrying supplies to the Northern Burma Guerilla (緬北孤軍) of the Nationalist forces near Chinese borders. 
+The arrival of PB4Y-2s were nowhere enough for any counter-attack operations to Mainland China with fleets of the latest jets and usually used for recon operations, including 34th "Black Bat" Squadron ''黑蝙蝠中隊'' ; while the Black Bats didn't lost any of them before changing for newer RB-57 and P-2V, there were records of shot downs over Mainland China from other squadrons (No. 012, during bombing operations; all crews KIA)<ref>http://www.mnd.gov.tw/NewUpload/201406/13-19.pdf</ref> and one was lost to Burmese Air Force in 1961 as it was carrying supplies to the Northern Burma Guerilla (緬北孤軍) of the Nationalist forces near Chinese borders.
 
 PB4Y-2 ended its frontline services in 1960 while some might have been transferred into transports, but very few records can prove so.
 
@@ -207,10 +228,12 @@ PB4Y-2 ended its frontline services in 1960 while some might have been transferr
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=pb4y-2_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -223,3 +246,4 @@ PB4Y-2 ended its frontline services in 1960 while some might have been transferr
 
 {{AirManufacturer Consolidated}}
 {{China bombers}}
+<references />

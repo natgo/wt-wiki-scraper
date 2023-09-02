@@ -104,7 +104,9 @@ It is also viable to utilize the speed of the Myoko to capture points and take a
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Videos
+{{Youtube-gallery|w9aNy0MJ914|'''IJN Myoko - The Ultimate Guide to Myoko-Class Cruisers''' - ''Cmdr. Tyrael''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -124,5 +126,7 @@ It is also viable to utilize the speed of the Myoko to capture points and take a
 * ''topic on the official game forum;''
 * ''other literature.''
 
+
+{{ShipManufacturer Yokosuka Naval Arsenal}}
 {{Japan heavy cruisers}}
 {{Japan premium ships}}

@@ -101,6 +101,10 @@ If an aircraft manages to get past the {{Annotation|5-inch|127 mm}} {{Annotation
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_battleship_nevada Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+
+{{Youtube-gallery|iue3T_dXiaE|'''USS Nevada (BB-36) - Setting the Standard''' - ''Cmdr. Tyrael''}}
+
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''

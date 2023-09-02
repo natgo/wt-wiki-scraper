@@ -1,11 +1,13 @@
 {{Specs-Card
 |code=ussr_btr_80a
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+In the post-World War II environment, the Soviet sought to provide their infantry with a method to remain mobile on the battlefield. While armoured units received [[BMP-1|BMPs]] to keep the armoured infantry mobile with the tanks, motorizing rifle divisions required a cheaper, more numerous transport to house all the infantry. The BTR series of armoured cars would first be modernized with the 8x8 wheeled BTR-60 in the 1960s, with updates into the BTR-70 and BTR-80 in their respective decades. The BTR-80 was distinguished from the preceding two variants with the usage of a diesel engine and turret modifications that allowed it to elevate the main armament to a high degree to engage in mountainous terrain or urban areas. The BTR-80 would receive an update in the 1990s that added the 30 mm 2A72 autocannon as its main armament in a new turret designated BPPU.
+
+The '''{{Specs|name}}''', introduced in [[Update "La Royale"]], follows the trend of a light tank with an autocannon armament that can shred apart medium tanks in ambushes. Unlike its contemporaries like the [[Wiesel 1A4]], the BTR-80A is a rather large vehicle, quite similar to the BMPs. Not to mention the wheeled design can interfere with cross-country mobility so that finding a good place to hide outside of urban terrain can be difficult. As such, finding a suitable hiding place to ambush the enemies with the autocannon can be complicated by the BTR-80A's size and wheeled performance. That said, the 30 mm 2A72 autocannon that is found on the [[BMP-3]] packs a much higher punch with its APDS rounds. This allows the BTR-80A the ability to attack more enemies from a farther away distance with the 30 mm and should be exploited by watching common enemy travel routes from a distance to riddle their side armour to shreds.
 
 == General info ==
 === Survivability and armour ===
@@ -35,9 +37,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+While quite large and somewhat heavier than most other light IFVs such as the Wiesel, the BTR-80A boasts a very high top speed of 87 km/h which can be reached quite quickly on roads and trails. The downside of the 8 wheel design is its poor off-road mobility, however it is still quite nimble even on rough ground. It is very common to see BTR-80s rushing caps due to their high speed; they can capture points quite safely and then reposition to either scout or ambush enemy light/medium armour.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=403|rbMinHp=230}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,8 +51,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|2A72 (30 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="6" | [[2A72 (30 mm)|30 mm 2A72]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -60,10 +60,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 300 (250) || rowspan="2" | 330 || rowspan="2" | -5°/+70° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 300 (150) || rowspan="2" | 330 || rowspan="2" | -5°/+70° || rowspan="2" | ±180° || rowspan="2" | - || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 1.30 || rowspan="2" | 1.15 || rowspan="2" | 1.06 || rowspan="2" | 1.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
 |-
 |}
 
@@ -99,15 +99,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|PKT (7.62 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[PKT (7.62 mm)|7.62 mm PKT]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 2,000 (250) || 700 || - || -
 |-
 |}
 
@@ -120,17 +118,18 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 
 '''Pros:'''
 
-* 30 mm autocannon
+* Effective 2A72 30 mm autocannon, the same one used on the BMP-3 and BMD-4
+** APDS is great for fighting against light vehicles and MBTs' sides
 * Fairly mobile and thus very good at flanking
 * Amphibious
-* APDS is great for fighting against light vehicles and MBTs' sides
 
 '''Cons:'''
 
 * Huge profile
 * Poor survivability due to thin armour, minimal crew number and large size
-* -5° gun depression and slower gun handling
+* -5° gun depression and slow gun handling
 * Has no stabiliser
+* Relatively low power-to-weight ratio
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -140,7 +139,10 @@ The BTR-80 armored personnel carrier was developed with experience from using th
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_btr_80a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -155,10 +157,8 @@ The BTR-80 armored personnel carrier was developed with experience from using th
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8268-development-btr-80a-post-soviet-vibe-en|[Devblog] BTR-80A: Post-Soviet Vibe]]
 
 {{USSR light tanks}}
 [[Category:Wheeled ground vehicles]]

@@ -28,11 +28,11 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German destroyer {{Bat
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
-{{main|SK C/34 (127 mm)}}
+{{main|12.8 cm/45 SK C/34 (128 mm)}}
 
-The main armament of the Luchs consists of three 127 mm naval cannons, one at the front of the ship and the other two at the back. These cannons can shoot three types of ammunition. First, the Sprgr. Kpf.Z HE shell with 2 kg of TNT equivalent and a muzzle velocity of 830 m/s. This is the standard ammo for this destroyer. Next is the Sprgr. Bd.Z, a base-fused HE shell with more penetration in most cases but less explosive mass, only 1.4 kg of TNT equivalent and the same muzzle velocity. Finally, the Sprgr. Zt.Z comes with the same amount of TNT and muzzle velocity as the Sprgr. Bd.Z but with a time fuse, which can be useful when engaging enemy aircraft.
+The main armament of the Luchs consists of three 128 mm naval cannons, one at the front of the ship and the other two at the back. These cannons can shoot three types of ammunition. First, the Sprgr. Kpf.Z HE shell with 2 kg of TNT equivalent and a muzzle velocity of 830 m/s. This is the standard ammo for this destroyer. Next is the Sprgr. Bd.Z, a base-fused HE shell with more penetration in most cases but less explosive mass, only 1.4 kg of TNT equivalent and the same muzzle velocity. Finally, the Sprgr. Zt.Z comes with the same amount of TNT and muzzle velocity as the Sprgr. Bd.Z but with a time fuse, which can be useful when engaging enemy aircraft.
 
-{{:SK C/34 (127 mm)/Ammunition|12.7 cm Sprgr. L/4.4 Kpf.Z, 12.7 cm Sprgr. L/4.4 Bd.Z, 12.7 cm Sprgr. L/4.4 Zt.Z}}
+{{:12.8 cm/45 SK C/34 (128 mm)/Ammunition|12.8 cm Sprgr. L/4.4 Kpf.Z, 12.8 cm Sprgr. L/4.4 Bd.Z, 12.8 cm Sprgr. L/4.4 Zt.Z}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}

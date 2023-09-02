@@ -171,10 +171,7 @@ The AMX-30 Super is armed with a coaxial 12.7 mm (.50 cal) inside its turret rig
 
 * Great mobility
 * Has stabilizer so it can shoot on the move unlike other AMX-30s
-* Good armour
-* Armour can sometimes bounce shots
 * Good survivability due to crew placement, as such it is difficult to knock it out with a single shot
-* Fuel tanks may absorb the HEATFS shells and sometimes the APFSDS shells too
 * Has access to a variety of ammunition rounds
 
 '''Cons:'''

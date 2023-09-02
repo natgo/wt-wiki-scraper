@@ -144,37 +144,64 @@ The Su-7B comes equipped with 2 x 30 mm NR-30 cannons; these will be familiar to
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|ZB-360 incendiary}}
-{{main|S-3K|S-5K|S-24}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[ZB-360 incendiary]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[S-3K]] rockets
+| 7 || 7 || 7 || 7
+|-
+! [[S-5K]] rockets
+| 16 || 16 || 16 || 16
+|-
+! [[S-24]] rockets
+| 1 || 1 || 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+
 * Without load
+* 28 x S-3K rockets
 * 64 x S-5K rockets
 * 4 x S-24 rockets
-* 28 x S-3K rockets
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 4 x 500 kg FAB-500M-54 bombs (2,000 kg total)
 * 4 x ZB-360 incendiary bombs
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Su-7B has a very good acceleration and can outspeed most jets, it can easily doge incoming missiles by turning as it can turn and still maintain most of its speed (mind the G forces as it can easily break your plane apart and make the pilot lose conscience). The Su-7B sports 30 mm NR-30 cannons and can also be equipped with both bombs and rockets for various types of playstyle. The Su-7B also comes with a rangefinding radar and the S-24 can be put on a distance fuse to be used in air combat.
+The Su-7B has a very good acceleration and can outspeed most jets, it can easily doge incoming missiles by turning as it can turn and still maintain most of its speed (mind the G forces as it can easily break your plane apart and make the pilot lose consciousness). The Su-7B sports 30 mm NR-30 cannons and can also be equipped with both bombs and rockets for various types of playstyle. The Su-7B also comes with a rangefinding radar and the S-24 can be put on a distance fuse to be used in air combat.
 
-'''Air combat''' 
+'''Air combat'''
 
-At the start of a match, take 27 minutes of fuel and equip Air targets belt. Start ascending on a 20-30° angle to an altitude of 7-9 km, your goal is to get behind the enemies in order to easily take care of them without their knowledge of your presence. Keep flying at this altitude and overfly enemy fighters. If there is an enemy at this altitude, feel free to engage into a head-on or dodge them. Keep flying above the enemies until there are none underneath you, turn around and start descending while keeping an eye on your speed. Go for the nearest enemy or slowest (A-10s for example). Get behind them and approach as fast as possible as speed is your greatest advantage. Start firing when you're close enough. If the enemy is eliminated, go for the next one, but if you missed do not engage into a dogfight: maintain your speed and go after the next target. If there are any AI planes, you can safely go after them and make use of your gyro linked gunsight to auto adjust your guns' distance. Align your plane behind the AI plane, put your gunsight's dot on the plane, and shoot a short burst of rounds (it is more precise in the first person view). After having expended your ammunition, you can return back to the base to continue fighting or swap tactics. 
+At the start of a match, take 27 minutes of fuel and equip Air targets belt. Start ascending on a 20-30° angle to an altitude of 7-9 km, your goal is to get behind the enemies in order to easily take care of them without their knowledge of your presence. Keep flying at this altitude and overfly enemy fighters. If there is an enemy at this altitude, feel free to engage into a head-on or dodge them. Keep flying above the enemies until there are none underneath you, turn around and start descending while keeping an eye on your speed. Go for the nearest enemy or slowest (A-10s for example). Get behind them and approach as fast as possible as speed is your greatest advantage. Start firing when you're close enough. If the enemy is eliminated, go for the next one, but if you missed do not engage into a dogfight: maintain your speed and go after the next target. If there are any AI planes, you can safely go after them and make use of your gyro linked gunsight to auto adjust your guns' distance. Align your plane behind the AI plane, put your gunsight's dot on the plane, and shoot a short burst of rounds (it is more precise in the first person view). After having expended your ammunition, you can return back to the base to continue fighting or swap tactics.
 
-'''Attacking ground targets''' 
+'''Attacking ground targets'''
 
 At the start of a match, equip the 28 x S-3K rockets or the 64 x S-5K rockets (which will be helpful to take care of light and medium tanks). Start ascending on a 5° angle until above 1 km altitude, you will need the speed to quickly evade enemies and enemy missiles. It's best to flank and fly to the far sides of the map, so you can easily fly in a straight line and take care of ground targets one after the other. When firing at a ground target: any tank except for medium and heavy tanks requires a single hit by both rockets, while medium and heavy tanks would require 2 or more rockets. Always keep a eye on your surroundings as you're flying fast at a low altitude, which can catch the attention of enemy jets who will then try to engage you. Maintaining a high speed is important, in case a missile is fired at you. After depleting all of your rockets, you can head back to base to resupply rockets or start going after enemy players or AI planes.
 
 '''Bombing bases'''
 
-At the start of a match, equip the 4 x ZB-360 bombs (as that is enough to take care of a base). And start ascending on a 10° angle to 1-2 km, you might be behind everyone a little bit but the higher top speed and acceleration you will get on this altitude will make up for it. Start heading for any enemy base and keep this altitude. Avoid any head-on and beware of enemies below and above you with missiles that might eliminate you. When you're near the base, start diving, enable your airbrakes, and get into position to drop your payload. Once bombs have been dropped, you can head back to base for another bombing run or start going after enemy players, AI planes or ground targets. The choice is yours. 
+At the start of a match, equip the 4 x ZB-360 bombs (as that is enough to take care of a base). And start ascending on a 10° angle to 1-2 km, you might be behind everyone a little bit but the higher top speed and acceleration you will get on this altitude will make up for it. Start heading for any enemy base and keep this altitude. Avoid any head-on and beware of enemies below and above you with missiles that might eliminate you. When you're near the base, start diving, enable your airbrakes, and get into position to drop your payload. Once bombs have been dropped, you can head back to base for another bombing run or start going after enemy players, AI planes or ground targets. The choice is yours.
 
-'''CAS ground''' 
+'''CAS ground'''
 
 When flying the Su-7B, equip the 4 x S-24 rockets (as a single hit from these is enough to take care of any ground target). Start heading to the battle area and keep a high altitude to avoid SPAAs and enemy planes. Once close enough, start diving and search for targets to fire at. If there is a SPAA that starts shooting at you, prioritize it above everything else. If there are no SPAAs, fire a single rocket at a target and go after the next one (even if it misses the target, the rocket will overpressurize them). Once too low, start pulling up and gain altitude again, then repeat this process until you're out of rockets. You can then go to base to resupply or go after enemy planes, soft ground targets or helicopters.
 
@@ -256,6 +283,7 @@ File:Su-7B WTWallpaper 06.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Su-7 (Family)]]
 
 == External links ==

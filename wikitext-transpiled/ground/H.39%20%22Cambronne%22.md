@@ -91,8 +91,8 @@ The {{PAGENAME}} has a very limited choice of ammunition:
 {{:SA38 L/33 (37 mm)/Ammunition|Mle1938}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_H.35.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -102,29 +102,26 @@ The {{PAGENAME}} has a very limited choice of ammunition:
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
+|-
+| '''76''' || 75&nbsp;''(+1)'' || 68&nbsp;''(+8)'' || 62&nbsp;''(+14)'' || 55&nbsp;''(+21)'' || 49&nbsp;''(+27)'' || 42&nbsp;''(+34)''
+|-
 ! 7th<br>rack empty
 ! 8th<br>rack empty
-|-
-| '''76''' || colspan="3" | 76&nbsp;''(+0)'' || 75&nbsp;''(+1)'' || 68&nbsp;''(+8)'' || 62&nbsp;''(+14)'' || 55&nbsp;''(+21)'' || 49&nbsp;''(+27)''
-|-
 ! 9th<br>rack empty
 ! 10th<br>rack empty
 ! 11th<br>rack empty
 ! 12th<br>rack empty
-! 13th<br>rack empty
-! 14th<br>rack empty
-! 15th<br>rack empty
 ! Visual<br>discrepancy
-!
 |-
-| 42&nbsp;''(+34)'' || 36&nbsp;''(+40)'' || 29&nbsp;''(+47)'' || 23&nbsp;''(+53)'' || 16&nbsp;''(+60)'' || 10&nbsp;''(+66)'' || 1&nbsp;''(+75)'' || Yes
-!
+| 36&nbsp;''(+40)'' || 29&nbsp;''(+47)'' || 23&nbsp;''(+53)'' || 16&nbsp;''(+60)'' || 10&nbsp;''(+66)'' || 1&nbsp;''(+75)'' || Yes
 |-
 |}
 '''Notes''':
 
-* The visual discrepancy concerns racks 1 to 4. Racks 1 and 2 are modeled but never filled. Racks 3 and 4 are modeled but empty after only 1 shell is removed from either of them.
-* The racks 5 to 15 disappear when all shells in the racks have been shot/loaded.
+* The visual discrepancy concerns the total number of shells as well as the number of shells in rack 1:
+** 80 shells are modelled but you can only pack 76 shells, meaning some rounds are never present (crossed out in the picture).
+** Rack 1 is modeled as 6 shells but contains only 2 shells.
+* As they are modelled by sets of 6, 7, or 9, shells disappear from racks only after you've fire all shells in the set.
 * Packing 23 ''(+53)'' shells is a good compromise to have enough shells at your disposal while reducing drastically the risk of ammo rack detonation.
 
 === Machine guns ===

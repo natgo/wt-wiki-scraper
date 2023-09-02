@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is the Japanese license production of a step 3 AH-1 (comparable to the [[AH-1F]]) built under Fuji Heavy Industries.
+The '''{{Specs|name}}''' is the Japanese license production of a step 3 AH-1 (comparable to the [[AH-1F]]) built by Fuji Heavy Industries.
 
-It was introduced in [[Update "Starfighters"]]. Being the same late step 3 model AH-1 as the [[AH-1S Kisarazu]], it packs the same capabilities in ordnance of 8 x TOW-2s with thermal NVD sights.
+It was introduced in [[Update "Starfighters"]]. Being the same late step 3 model AH-1 as the [[AH-1S Kisarazu]], it packs the same capabilities in ordnance of 8 x TOW-2s with thermal NVD sights. It is more like a flying ATGM carrier than an independent helicopter that can snipe from afar. The TOW missiles are powerful, but they can only reach 3.75 km, which is shorter than the range of the AA systems that the Cobra will encounter. The best way to play the AH-1 is to support the ground team and jet aircraft, and let them handle the SPAA/SAM, planes, and other helicopters.
+* If the team fails to claim aerial supremacy, the helicopter crew should fly low and hide behind buildings or terrain, fire a missile at a target and then move away, and repeat this tactic.
+* If the skies are clear, the helicopter crew can fly higher and see more of the battlefield, fire missiles at ground targets, and provide information to the team before returning to the helipad for more missiles.
 
 == General info ==
 === Flight performance ===

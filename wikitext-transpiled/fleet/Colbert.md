@@ -94,8 +94,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French heavy cruiser {{Battle-
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
 
+* [[wt:en/news/8241-development-colbert-heavy-cruiser-the-contender-en|[Devblog] Colbert heavy cruiser: The Contender]]
+
+{{ShipManufacturer Arsenal de Brest}}
 {{France heavy cruisers}}

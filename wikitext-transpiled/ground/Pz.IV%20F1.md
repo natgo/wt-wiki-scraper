@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''Panzerkampfwagen IV Ausführung F1 (Panzer IV F1)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161''') is the early version of the sixth variant of the [[Pz.IV (Family)|Panzerkampfwagen IV medium tank family]]. Several shortcomings in the [[Pz.IV E|Panzer IV E]] and prior variants were discovered by the time it went into production. The inadequate armour protection was the most apparent. While 50 mm thick frontal armour was planned for the Panzer IV E, it was not implemented by the start of production. When the Panzer IV F went into production in April 1941, it was achievable to install thicker, single-piece armour plates instead of the previous version's two weaker armour plates welded together. On the new Panzer IV F, minor structural improvements to the superstructure and chassis were also planned. Aside from this, the Panzer IV F would function as a support tank. It would be assigned to Panzer divisions to replace vehicles lost in earlier battles. Later, when the purpose of the Panzer III vs. Panzer IV was significantly revised, it was re-designated as the Panzer IV F1. The Panzer III was gradually phased out, and a new variant, the [[Pz.IV F2|Panzer IV F2]], was assigned to anti-tank and infantry support roles.
+
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer IV F1 was almost identical to the Panzer IV E. The sole difference was that the hull frontal armour plate was a single 50 mm plate rather than two separate 30 mm plates welded together. The protection and ammo selections are the same as the previous Panzer IV E variant. It was outfitted with the same short-barrelled 75 mm Kampfwagenkanone (KwK) 37 L/24 tank gun as the previous Panzer IV C, thus gameplay should be identical. However, this concept was modified and significantly changed when the Panzer IV F began to serve as an tank platform as well, resulting in the revised Panzer IV F2 variant.
 
 == General info ==
 === Survivability and armour ===
@@ -175,18 +177,22 @@ This variant was supplied to Germany's allies: Hungary, Croatia, Turkey, and Spa
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_F Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

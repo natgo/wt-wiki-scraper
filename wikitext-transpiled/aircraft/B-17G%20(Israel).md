@@ -10,12 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli bomber {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+By 1948, B-17s were no longer in service with the USAF as bombers. And since the IAF was desperate to acquire any combat-worthy aircraft, they got their hands on 3 privately owned, unarmed units that were flown to Czechoslovakia and armed with 7.62 mm MGs, makeshift bomb sights and German bomb racks. The planes bombed several targets during their journey to Israel, and during the entire Arab-Israeli War of 1948, the 3 planes flew 200 sorties. After being used as radio transceivers during the Sinai War of 1956, they were finally fully decommissioned in 1958.
+
+The B-17 was introduced along with the initial Israeli air tree in [[Update "Winged Lions"]]. At its BR, it's vulnerable to almost any plane, but especially those with air spawns or good climb rates. Planes like the Ta 152H, F8F-1B, and Bf 109s are common threats thanks to their good armament and climb capabilities. Like all strategic bombers, the B-17 is capable of destroying an entire base, however once spawned pilots should try to climb to more than 6000 m to be safe at least until the base is destroyed. When facing enemy planes, the weakest position is the front. Thus, when a dangerous enemy plane is detected, pilots should give the rear of the plane to the enemy to make shots harder.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+As a strategic bomber, the B-17G is slow, and can't manoeuvre at all. 2G turns may cause the wings to rip off the fuselage. The acceleration is also lacking, alongside the climb rate, compared to similar Soviet or German bombers. Engines tend to overheat when WEP is used for too long, but they can be ran in WEP for most of the time with the right throttle control.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -74,10 +77,20 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli bomber {{Battle-rating
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+
+* 6.35 mm Steel - Lower nose armour plate
+* 6.35 mm Steel - Back of pilot and co-pilot's seats
+* 6.35 mm Steel - Dorsal turret gunner protective plate
+* 6.35 mm Steel - Radio operator protective plate
+* 6.35 mm Steel - Beam gunner protective armour x 2
+* 6.35 mm Steel - Tail gunner protective plate
+* 38 mm Bulletproof glass - Ball turret
+* 38 mm Bulletproof glass - Tail gunner rear window
 
 === Modifications and economy ===
 {{Specs-Economy}}
+
+This slow and lumbering heavy bomber relies entirely on its turrets for defence. Without it, the plane is target practice. Thus "Protective vests" should be the first unlock. Further survivability upgrades will make the fight easier, but do not think it will successfully face-off against enemy fighters. Upgrading the bomb payloads should be second priority. Performance modules can be considered the least necessary.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -93,11 +106,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 12 x 250/50 kg G.P. bombs (3,000 kg total)
 * 6 x 500/50 kg G.P. bombs (3,000 kg total)
 
+The best loadout of the B-17G for use against bases in ground RB and Sim is the '''12 x 250/50 kg G.P. bombs'''. Since this offers enough bombs to destroy several bases that may already be damaged without having to commit too many bombs in a single base like may happen with the '''6 x 500/50 kg G.P. bombs'''. However in ground RB this last loadout may be the best, since the bigger bombs offer less margin of error and compensate the lack of precision with more explosive range.
+
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
 {{main|M2 Browning (12.7 mm)}}
-
 The '''''{{PAGENAME}}''''' is defended by:
 
 * 2 x 12.7 mm M2 Browning machine guns, chin turret (400 rpg = 800 total)
@@ -108,9 +122,22 @@ The '''''{{PAGENAME}}''''' is defended by:
 * 1 x 12.7 mm M2 Browning machine gun, 2 x beam turrets (600 rpg)
 * 1 x 12.7 mm M2 Browning machine gun, 2 x nose turrets (300 rpg)
 
+The .50 cals on the B-17G may not be as effective as the 20 mm or 13 mm guns used in other bombers, but these guns can also be very good, since they have better range and most of the time better rate of fire. The best belt to use is the Universal belts, since this has the most amount of Armour Piercing Incendiary (AP-I) shots, that are very good at causing engine failure and have enough penetration to kill pilots with some lucky shots.
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+When facing fighters and interceptors in Realistic Battles, it is best to use Omni-purpose or Armour-piercing/Ground Target ammunition belts for the 12.7 mm M2 Browning machine guns. These ammunition belts are effective at tearing through the engine block and hopefully resulting in an internal engine fire. You may be also able to knock out a pilot.
+
+'''Specific enemies worth noting'''
+
+B-17s are notoriously hard to kill when compared to similar Soviet and German bombers. However, with the B-17 the best defence is to evade your opponent altogether. Your worst enemies will be almost all fighters due to the high BR (Fw 190 D, Ta-152, BF-109 G-10/K-4, F8F-1B, Tempest, etc.). Most fighters will have 2 to 4 cannons which can still make short work of the B-17.
+
+The weakest area of approach with the B-17G is the front. Only 1-2 MGs can be focused directly forward if a fighter head-ons you. The crew is also focused at the nose. If there is a fighter at your level, try to turn and expose the tail "barb". Diving may work as well. However, diving can put you into more danger as more fighters may swarm you.
+
+'''Counter-tactics'''
+
+When climbing to fight the B-17, you will most likely have a lower energy level depending on the plane you use. The F8F-1B, for example, has extremely good acceleration with WEP and can climb ridiculously quickly as well. If in a plane such as an F8F-1B, attempt to head on the B-17 as this is the weakest point. If the B-17 turns away, climb and chase the Flying Fortress at a higher altitude and then dive on it from an angle. Always avoid tailing a B-17, regardless of model. This just warrants a knocked-out pilot or fire.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -135,7 +162,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 '''Pros:'''
 
 * Strong .50 cal gun placement to shoot down incoming fighters
-* Can be equipped with more than enough bombs to take out a base even in full uptiers 
+* Can be equipped with more than enough bombs to take out a base even in full uptiers
 
 '''Cons:'''
 

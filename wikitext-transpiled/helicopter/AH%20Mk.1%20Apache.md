@@ -75,7 +75,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * Without load
-* 8 x Starstreak missiles
+* 4 x Starstreak missiles
 * 76 x CRV7 M247 rockets
 * 4 x AGM-114K Hellfire II missiles
 * 8 x AGM-114K Hellfire II missiles
@@ -95,7 +95,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
 |-
 ! Starstreak missiles
-| 4 || || || || || 4
+| 2 || || || || || 2
 |-
 ! Countermeasures
 | 60* || || || || || 60*

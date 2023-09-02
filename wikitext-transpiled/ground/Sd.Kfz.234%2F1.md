@@ -68,14 +68,15 @@ The Sd.Kfz.234/1 has the same manoeuvrability as the rest of its Puma brethren. 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 250 (10) || rowspan="2" | 450 || rowspan="2" | -4°/+70° || rowspan="2" | ±180° || rowspan="2" | N/A || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
+| rowspan="2" | 250 (10) || rowspan="2" | 450 || rowspan="2" | -4°/+70° || rowspan="2" | ±180° || rowspan="2" | N/A || 38.1 || 52.7 || 64 || 70.8 || 75.3 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| 8.9 || 10.5 || 12.8 || 14.1 || 15.0
+| 23.8 || 28 || 34 || 37.6 || 40
 |-
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
@@ -171,6 +172,7 @@ To conclude, this armoured car is very useful when used in a harasser role, and 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_sdkfz_234_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -182,16 +184,19 @@ To conclude, this armoured car is very useful when used in a harasser role, and 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[Sd.Kfz.234/2]], equipped with a turreted [[KwK39 (50 mm)|50 mm KwK39]] gun.
 * [[Sd.Kfz.234/3]], tank destroyer version of the Sd.Kfz.234, with a [[K51 L/24 (75 mm)|75 mm K51]] howitzer.
 * [[Sd.Kfz.234/4]], tank destroyer version equipped with the longer [[PaK40/3 L46 (75 mm)|75 mm PaK40/3]] gun.
 
 ;Other vehicles of similar configuration and role
+
 * [[Sd.Kfz.222]]
 * [[Sd.Kfz.222 (China)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -11,7 +11,7 @@ The Striker is basically a direct upgrade to the [[Swingfire]] and is better tha
 
 Striker has a much better fire rate and a bigger room for error compared to its predecessor, due to having five launchers at once, thermal imaging and great mobility, so its push-preventing powers can be godlike in skilled hands. 
 
-Nevertheless, its guidance camera placement is far from ideal - it creates aiming problems when firing and controlling the ATGMs over uneven ground or from behind cover, requiring user to directly aim with the scope which involves also exposing the vehicle to the enemy kinetic shells - unlike with the Swingfire's raised camera podium.
+Nevertheless, its guidance camera placement is far from ideal - it creates aiming problems when firing and controlling the ATGMs over uneven ground or from behind cover, requiring user to directly aim with the scope to make corrections, which involves also exposing the vehicle to the enemy kinetic shells - unlike with the Swingfire's raised camera podium.
 
 Due to this main disadvantage, it takes a lot more dedication and patience from its users to command the vehicle expertly.
 
@@ -33,7 +33,7 @@ The first thing to notice about the {{PAGENAME}} is a giant missile panel on its
 
 The {{PAGENAME}}'s racks are a tall target and its guiding devices are located way below its weapon system and on level with its hull. While the hull itself is mostly hidden from enemy fire, it is practically impossible to fire at long range without exposing the weapon and commander cupola or using third-person view, making it an easy target for HE and patient APFSDS users. In some cases, HEAT can also ricochet off the launcher and damage the hull, resulting in crew knockout.
 
-Hence, players must try not to get hit in the missile launch area. In case the {{PAGENAME}} gets shot at an empty tube, there is a chance the entire rack won't break in one hit and the vehicle will still be able to fire while having the option to repair it back to 100%. In case all of the ATGMs are spent, the launcher and the rear are actually the safest places to be hit as fuel is stored there and will now be empty space.
+Hence, players must try not to get hit in the missile launch area. In case the {{PAGENAME}} gets shot at an empty tube, there is a chance the entire rack won't break in one hit and the vehicle will still be able to fire while having the option to repair it back to 100%. The rack can be fixed much quicker than generally expected, only taking about 3-5 seconds for minor repairs, so it is possible to do even during intense close range combat. In case all of the ATGMs are spent, the launcher and the rear are actually the safest places to be hit as fuel is stored there and will now be empty space.
 
 The missile launcher itself can sometimes absorb artillery shots, helicopter ATGM or fire from the [[BMP-1]] cannon, protecting the Striker hull, but only if shell did not have opportunity to hit the hull. The missile rack also covers the reserve ammo rack from planes strafing from the sky, so as long as they can't fire inside of the vehicle, the {{PAGENAME}} should be fine.
 
@@ -72,9 +72,9 @@ Missile launcher is also often rendered completely broken if hit by such shells.
 
 * Suspension wheels and tracks are 15 mm thick
 * Belly and hull undersides over the tracks are 12.7 mm thick
-* Outdoor ammo rack is 50 mm thick everywhere, except hinges that are 10 mm thick.
-* It possible to fire HE inside of the launcher tubes, setting missile inside of it and Striker on fire, but the missile rack will not break.
-* A strafing plane can fire inside of the launcher or just fire at the ammo racks and crew inside of Striker instead.
+* Outdoor ammo rack is 50 mm thick everywhere, except hinges that are 10 mm thick
+* It possible to fire HE inside of the launcher tubes, setting missile inside of it and Striker on fire, but the missile rack will not break
+* A strafing plane can fire inside of the launcher or just fire at the ammo racks and crew inside of Striker instead
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -92,7 +92,7 @@ One of weaknesses of {{PAGENAME}} is its suspension, because the tank will often
 
 It is important to have a high level of "driving" in crew skills. The non-aced driver will get confused if you try to drive forward or backwards and turn at the same time, especially at gear 1. Until your crew is fully trained, use neutral steering first, only then start moving, or get to gear 4-5 and then turn around. It's also worth noting that even if your driver is maxed out, at ~50 km/h you can only turn a little bit before you start losing your speed, so try to keep moving in a certain direction if trying to reach maximum speed.
 
-Even under ideal circumstances the {{PAGENAME}} is slower than most light tanks (speeds above 100 km per hour), so unless a group of fast allies are rushing a point with the {{PAGENAME}}, there's no expectation to capture points solo, or get there first.
+Even under ideal circumstances the {{PAGENAME}} is slower than most light tanks (speeds above 100 km per hour), so unless a group of fast allies are rushing a point with the {{PAGENAME}}, there's no expectation to capture points solo, or to get there first. On certain maps with lots of turning involved, {{PAGENAME}} can outpace wheeled tanks and arrive on a capture point at the same time or slightly before them. It also moves faster than some of them in river banks, with 20 km/h being its limit.
 
 Improving acceleration with modifications and maintaining map awareness do play a part despite the inability to ''fire'' on move. Besides, the {{PAGENAME}} can still desperately fire a missile and begin moving again while guiding the missile towards an enemy. Using this last resort method allows missiles to be fired while maintaining the best possible 'combat mobility'.
 
@@ -114,23 +114,28 @@ Thermal imaging devices also help with target acquisition on large maps, but the
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|BAe Swingfire}}
 
-Slightly to the right of commander cupola, there is the main ATGM camera optic. Because of how the camera is placed, the Striker cannot fire to the left past the cupola or depress the camera to fire downwards as easily as the Swingfire, which may at times result in the Striker being unable to find suitable hull-down positions; even suitable positions will partially reveal the vehicle or result in 'blind spots' where the optics simply do not have the ability to aim.
+Slightly to the right of commander cupola, there is the main ATGM camera optic. The missiles will never ever go beyond angles at which this camera can look. Because of how the camera is placed, the Striker cannot fire to the left past the cupola or depress the camera to fire downwards as easily as the Swingfire, which may at times result in the Striker being unable to find suitable hull-down positions; even suitable positions will often partially reveal the vehicle or result in 'blind spots' where the optics simply do not have the ability to aim.
 
-Nevertheless, some of this depression and placing issues can be compensated when using the third-person view to manually pick launch angle and to guide shots at close to medium ranges. Reverse gearbox and stabiliser allows the Striker to respond to enemy waves coming from one side by presenting it's right side and attacking while driving along the cover to avoid enemy shots at the same time, but it will only work at medium to long ranges.
+The missiles are controlled by the cable and the camera cannot guide multiple missiles even though the launcher has 5 missiles readily available without any internal reload. Rapid fire without waiting for the missile to at least get on target is not recommended.
 
-The launcher has a dead zone of 95 m over even terrain, therefore it is necessary to pay attention not only to hills themselves, but rocks and backward inclines next to them. The only way to fight at close range is to angle striker downwards, as otherwise the missiles will be unable to correct themselves in time. For ease of understanding, refer to these screenshots: 
+When firing the missiles at medium ranges, it's important to keep in mind the same 'swing' in the missile as the Swingfire - since when they're fired at an upwards angle, the missile will later correct its trajectory downwards and fly wherever the sniper scope was pointed, regardless of Line Of Sight. Due to this, some of the depression and camera placing issues can be compensated by artillery style indirect fire and by manually picked launch angles at close to medium ranges. 
 
+By simply pointing the circle directly on enemy tank in third person view, firing, and patiently waiting until missile leaves LOS of the carrier, Striker operator can launch missile effectively anywhere within 45 degrees in front of the hull, even if the target is behind a wall and is not visible, as long as the missile does not hit the ground during the launch itself and sniper scope can be pointed there (through the obstacle). This means, that the Striker does not have to even reveal itself at all as long as the cover allows for this method of attack. As a side effect, until LOS to the missile is restored it will remain uncontrollable and will just fly where it was told to, so enemy should not be able to find good cover, and preferrably should not be able to leave, or attack will become pointless. Additionally, dead tanks produce perfect cover against "blind" Swingfire, so even a good trap spot can become unusable after a certain amount of people fall for it, especially if enemy is capable of pushing dead tanks and understands what is going on.
+
+Sometimes the missiles glitch and instead of going towards the target they suddenly spike upwards at about 95 m mark upon losing control. The reason for this is not known, but it is more likely to happen if carrier's current cover is extremely tall, or the ingame ping is unstable.
+
+If direct combat is unavoidable, reverse gearbox and stabiliser allows the Striker to respond to enemy waves coming from one side by presenting it's right side and attacking while driving along the cover to avoid enemy shots at the same time, but it will only work at medium to long ranges as the missiles start to fly in less than optimal ways when their carrier is not stationary (despite having a stabilizer) and may hit the ground. 
+
+In one on one combat at close range the launcher can overwhelm most tanks by firing at them every few seconds. The advantage decreases with more and more tanks entering the fight. The launcher has a hard dead zone of 50 m over even terrain and soft dead zone of around 70 m, therefore it is necessary to pay attention not only to hills themselves, but rocks and backward inclines next to them. if the enemy is closer than 70 m, it's suggested to aim not at the tanks themselves, but rather at the ground between {{PAGENAME}} and them, or to angle the hull downwards on a slope beforehand (so that target is "above" the carrier), as otherwise the missiles will be unable to correct themselves in time. 40 m shot on even elevation is only possible if the missile is fired sideways and even then the hit is not guaranteed.
+
+Detailed examples of {{PAGENAME}} attacking what is generally considered a difficult target and still doing well:
 <gallery mode="packed-overlay" heights="200">
-File:Striker deadzone control bad.jpg| Striker stands on flat ground, missile cannot correct itself in time
-File:Striker deadzone control okay.jpg| Striker angled itself downward on a slope nearby, the launcher is exposed, but the shot is now possible and the hull is still hidden
-File:Striker deadzone - close range emergency shot.jpg| Striker got caught off guard, but crashed into tower foundation and the shot is now possible
+File:Striker 50 m shot.jpg| If enemy is too close, aim in between of the carrier and the target. Works even if there is a giant wall between the two.
+File:Striker 450 m indirect shot.jpg| There is no need to expose the carrier at medium range - stay out of sight and fire at any sniper that doesn't pay attention, move closer when it's safe.
+File:Striker 250 m indirect shot.jpg| Missiles lose control when Striker is hidden, but as long as you park properly, the only thing that matters is that you have cover and the enemy doesn't.
 </gallery>
 
-When firing these at medium ranges, it's important to keep in mind the same 'swing' in the missile as the Swingfire - since when they're fired at an upwards angle, the missile will later correct its trajectory downwards.
-
-The missiles will generally fail to turn horizontally until 150 m mark. The more the missile speeds up, the higher is the likelihood of overshooting in a sharp turn. Where necessary, turn the carrier around or smooth the missile's trajectory by gently guiding it from its initial firing angle to ensure it doesn't hit any obstacles on the way to its target.
-
-Since missiles are launched upwards, the semi-automatic guidance system expects targets to be at least 160 m away, so if the enemy is closer than that, it's suggested to aim not at the tanks themselves, but at the ground between {{PAGENAME}} and them. Missiles will still tend to overshoot the target until 300 m range.
+The missiles will generally turn well on launch within the default 45 degree launch zone. Outside that zone, they will require about 150 m or more before they can get on target. The more the missile speeds up, the higher is the likelihood of overshooting in a sharp turn. Where necessary, turn the carrier around to ensure that the Swingfire doesn't hit any obstacles on the way to its target.
 
 '''Reloading the Swingfires'''
 
@@ -169,8 +174,8 @@ In short: Learn to be careful with your missiles and be mindful of your surround
 '''Notes''':
 
 * Turret, in the case of Striker, is represented by cameras (optics). The faster they move, the more responsive missiles become.
-* Launcher has a dead zone of about 95 m in front of the vehicle. If Striker is angled upwards, then the dead-zone is extended further below vehicle.
-* Automatic guidance system has a soft dead-zone of about 300 m and missile tends to initially go above designated target, which results in an inability to hit the enemy if the reticle is simply pointed at them. Point reticle into the ground close to an enemy to hit or use indirect attack technique.
+* Launcher has a dead zone of about 50 m in front of the vehicle. If Striker is angled upwards, then the dead-zone is extended further below vehicle due to the camera depression angles.
+* Automatic guidance system has a soft dead-zone of about 70 m and missile tends to initially go above designated target, which results in an inability to hit the enemy if the reticle is simply pointed at them. Point reticle into the ground close to an enemy to hit or use indirect attack technique.
 * Reloading only happens for one tube at a time. If the weapon is broken, then reloading is stopped to prevent potential ignition on follow-up shots. If out of ammo, when fully rearmed all racks are also reloaded and ready to fire again.
 
 ==== Ammunition ====
@@ -231,9 +236,9 @@ The Striker should be seen as an extremely mobile support platform. It can pose 
 
 Find buildings, teammates, hills, or rocks that are as tall as the hull of Striker, then proceed to snipe with the ATGMs - Use the machine gun only for destroying fences and against planes. In other words "Be sneaky and shoot at the range".
 
-In realistic battles, if you have the Thermal vision modification installed, you can use your thermal scope to "scan" the surroundings for hostile snipers and "bush campers", the advantage of this system; it is possible to even use it during the day. Driving out in the open will not end well for the Striker unless the enemy has someone else to shoot. Use the smokescreen to cover the Striker (or allies) from enemy snipers while they opening fire on someone else.
+In realistic battles, if you have the Thermal vision modification installed, you can use your thermal scope to "scan" the surroundings for hostile snipers and "bush campers", the advantage of this system is that it is possible to even use it during the day. Driving out in the open will not end well for the Striker unless the enemy has someone else to shoot. Use the smokescreen to cover the Striker (or allies) from enemy snipers while they opening fire on someone else.
 
-In ''extreme'' situations, the Striker can be put into risk in a flanking tactic by driving straight to cover inside of enemy territory (preferably at the start of the match in RB), hoping that nobody expects missiles launching within "their" part of the map and ruining their plans.
+In ''extreme'' situations, the Striker can be put into risk in a flanking tactic by driving straight to cover inside of enemy territory (preferably at the start of the match in RB), hoping that nobody expects missiles suddenly launching within "their" part of the map and ruining their plans.
 
 It is possible to make fast emergency stop by crashing into obstacles or other tanks when necessary. Make sure to not crash with just one track, since it will break it, especially if driving above 40 km/h.
 
@@ -260,26 +265,25 @@ File:Striker firing over a ridge setup good.jpg| Striker positioned and angled i
 
 '''Teamwork'''
 
-Striker excels at holding chokepoints, so just give the enemy something to think about by firing 1-2 missiles at the corner of their cover, then use their confusion or doubt to get closer and think of a way to launch missiles straight into them, then blow them up.
+Striker excels at holding chokepoints, so just give the enemy something to think about by firing 1-2 missiles at the corner of their cover, then use their confusion or doubt to get closer and think of a way to launch missiles straight into them, as they are now potentially defenceless, then blow them up.
 
 If they try something as rushing without a smokescreen, show no mercy and fire all launchers at will, until they are disabled or destroyed.
 
-Having a scouting light tank working with the team to actually mark the enemy through walls and smokes is great, as you don't need to guess where your opponents are. Having someone to draw attention from the Striker, like a [[Chieftain (Family)|Chieftain]] tank, is even better, as nobody normally prioritizes the bland Striker, especially if next to a bunch of scarier, fearsome teammates. Avoid using them as a shield at 9.3+, as APFSDS which can go through multiple tanks is used there very often; if not always.
+Having a scouting light tank working with the team to actually mark the enemy through walls and smokes is great, as you don't need to guess where your opponents are and can just fire at them by using sniper mode. Having someone to draw attention from the Striker, like a [[Chieftain (Family)|Chieftain]] tank, is even better, as nobody normally prioritizes the bland Striker, especially if next to a bunch of scarier, fearsome teammates. Avoid using them as a shield at 9.3+, as APFSDS which can go through multiple tanks is used there very often; if not always.
 
-In case the situation is such that the Striker must hurriedly capture the point or protect allies immediately, the Striker can try to crash into something with its back to negate the dead zone. If there are no suitable objects, use a hill or retreat far enough for missiles to hit.
+In case the situation is such that the Striker must protect itself or allies against a tank rush, the carrier can be crashed into something with its back to negate the dead zone almost entirely. If there are no suitable objects, use a hill or retreat far enough for missiles to hit before targets can get into ramming range.
 
 When choosing a sniping point, aim for certain criteria to be flexible if trying to make a difference:
 
 * Can this help at holding control point from here? Can the Striker destroy the enemy before they can run away?
-* Is it fortified to a point it's impossible to take out the Striker without heavy enemy losses or air support?
+* Is it fortified to a point it's impossible to take out the Striker without heavy enemy losses or air support? Can it fire without exposing itself to avoid being hit by normal explosives?
 * Can the Striker control more than one direction from here? If not, is this the only really important capture point on the map?
-* Is there any kind of backward incline or climbable rock, that you can use to fight back at close range?
 * (In RB) Can the Striker rearm fast there?
 * (In AB) Is retreat possible, or enemy snipers will lock down the position completely soon after your arrival?
 
 <br>
 <gallery mode="packed-hover" heights="200">
-File:Striker ChokePoint Mozdok.jpg|A Mozdok defensive point. Note that the Striker can control the entire front-line and can decimate anyone on B point. There is not much enemy team can do about it, but attempt to flank the Striker. The Striker can also pop smoke and escape to B, in case it is flanked, air support incoming, or in the need to rearm.
+File:Striker ChokePoint Mozdok.jpg|A Mozdok defensive point. Note that the Striker can observe the popular sniping point and can decimate anyone on B point. There is not much enemy team can do about it, but attempt to flank the Striker, which will be obvious. The Striker can also pop smoke and escape to B, in case it is flanked, air support incoming, or in the need to rearm.
 </gallery>
 '''Positioning'''
 
@@ -287,16 +291,16 @@ Sometimes, a well-chosen cover can be a difference between complete defeat and v
 
 In the case of American Desert, the ruins are often high enough to protect even the missile launcher entirely.
 
-The automatic guidance system in Arcade can often aim through ruins and any tank behind them can be aimed at directly, including tanks behind other houses, as almost every cover around you is often completely destructible or does not protect well against repeated ATGM attacks from top. Even to reach the Striker at some positions, the enemy has to go through 1 to 3 alleyways while being under heavy missile barrage. If necessary, in Arcade Battles an entire city block can be levelled down over time to increase Striker's control zone.
+The Striker can often aim through ruins and any tank behind them can be aimed at directly, including tanks behind other houses, as almost every cover around you is often completely destructible or does not protect well against repeated ATGM attacks from the top. Even to reach the Striker at some positions, the enemy has to go through 1 to 3 alleyways while being under heavy missile barrage. If necessary, in Arcade Battles an entire city block can be levelled down over time to increase Striker's control zone, as ammunition limit is not a pressing issue there.
 
-However, do not get too impudent, as it is still possible to snipe the Striker through street openings, and it is very difficult to fight once enemy tanks get into 100 m zone around it, so the positioning and map awareness is the key.
+However, do not get too impudent, as it is still possible to snipe the Striker through street openings, and it is very difficult to fight once enemy tanks get into 50 m zone around it, so the positioning and map awareness is the key.
 
 '''Surviving counterattacks'''
 [[File:Striker LastStandStrike.jpg|220x220px|thumb|right|Typical day of Striker driver in Arcade battles.]]The Striker's noisy actions will draw attention, so expect to be bombarded by artillery almost constantly. Standing under artillery fire is a bad idea, but at some point it will be required to tough it out, hoping the blasts or shrapnel won't end the Striker and then focus at stopping whatever called the artillery, as enemy tanks probably will come after the bombarded area. Keep in mind that it has fewer chances of hitting the Striker on mountain rocks and other unorthodox types of cover, especially if close to several covers at once.
 
 If someone is rushing towards the Striker's position, keep calm and turn as much attention as possible to the direction of assault. Remember about the launcher dead zone and retreat to position that allows to fire back at the incoming tanks. Machine guns have problems disabling the Striker's weapon system from the front, so you should first aim at the tanks which are likely to have APHE or carry ATGM. 
 
-In case the enemy breaks the Striker's weapon, remember that neutral steering turn on flat terrain does not prevent field repair of weapons, so simply keep turning towards enemy and hope for the best. 
+In case the enemy breaks the Striker's weapon, remember that neutral steering turn on flat terrain does not prevent field repair of weapons, so simply keep turning towards enemy and hope for the best when under suppressing fire. 
 
 Even when an enemy destroyed Striker, you still have indirect control over the missile for a few seconds. Ignore the "you were destroyed" screen and keep guiding it into them, or don't move the mouse, if you are sure it's onto them, or it will flinch.
 
@@ -306,22 +310,18 @@ File:Striker LastStand (Success).jpg|Despite being severely damaged, Striker man
 
 '''Overcoming dead zones and other weaknesses of a vehicle:'''
 
-Since Striker is unable to fire in sniper mode without exposing itself, most enemies will have to be attacked indirectly regardless of range. This may seem extremely harsh at longer ranges, however, when the turret loses direct sight on the target, but not the missile, the missiles are then controlled by movements of the turret (therefore, directly guided by the mouse, not by the targeting reticle.). While the window of opportunity is very small, BAe Swingfire missiles are very slow and reasonably mobile, they can be directed wherever necessary, as long as your camera can see it, negating sniper aim disadvantage by some extent. Regaining full control over missile will send it into a crazy spiral and/or towards the targeting reticle, so try to avoid it, unless the Striker's position is suddenly compromised.
+Since Striker is unable to fight at long range without exposing itself, most enemies will have to be attacked indirectly regardless of range. Mostly this kind of attack is done in third-person view, as using sniper mode is way too dangerous. Sniper mode still can be used to aim over objects or terrain by sending missile into the sky and then very quickly aiming at the enemy tank behind a hill with your crosshairs when missile gets close to them (as to minimize exposure to enemy fire), or by just pointing it at the enemy location if you are sure of it (for example, when enemy is scouted below the carrier at about 100 m range).
 
-Mostly this kind of attack is done in third-person view, as using sniper mode is way too dangerous. Sniper mode is used to aim over objects or terrain by sending missile into the sky and then very quickly aiming at the enemy tank behind a hill with your crosshairs. Success relies purely on user's ability to aim at targets they can barely see. The minimum of 800 m range is also preferable to ensure that missile will arrive at the enemy, so it works best on plains or in AB.
+[[File:CameraAdjustments ATGM (Striker).gif|330x330px|thumb|.Gif picture with exxagarated examples - click on it to see more. Note how reticle is initially aimed in most of these fights - normally operator would be unable to see anything. This kind of performance is rarely ever expected, and is absolutely impossible otherwise. It will still take a lot of work or ammunition to land these kinds of shots if you want to avoid exposing the carrier at all costs.]]
+By memorizing launch angles and setups the Striker can attack the enemy from extremely advantageous angles, while use of third person view pointer will ensure that missile goes exactly at the enemy and not somewhere else. However, there is a limit to what one can do. For example, indirect fire allows Striker to attack enemy behind steep hills, but adds another problem - there are still dead zones, because missiles can crash during launch and gunner camera is unable to look down. When trying to push third person aim to its limits to compensate for this, you will also find out that it becomes difficult to see due to sight obstructions. To overcome this and become even stronger, activate "relative camera control" in the "control-tank-view in battle - Ground (y/x axis)".
 
-[[File:CameraAdjustments ATGM (Striker).gif|330x330px|thumb|.Gif picture with examples - click on it to see more. Note how reticle is initially aimed in most of these fights. This kind of performance is rarely ever expected, and is absolutely impossible otherwise. It will still take a lot of work or ammunition to land these shots if you want to avoid exposing the tank at all costs.]]
-By memorizing launch angles and setups the Striker can attack the enemy from extremely advantageous angles, however there is a limit to what one can do. For example, blindfiring allows Striker to attack enemy behind steep hills, but adds another problem - there are still dead zones (because of launcher's placement and turret's camera's inability to look down) and also literal blind spots, because it is hard to see what the missiles are heading towards (due to how camera works and the angle of missile's launch), and "directing" missile still moves the camera, usually into the ground, obscuring direct vision. To overcome this and become even stronger, activate "relative camera control" in the "control-tank-view in battle - Ground (y/x axis)".
-[[File:Striker deadzone - medium range emergency shot.jpg|300px|thumb|right|No tank will survive dozens of missiles being launched straight into their face, so it might be worth spending time for such a setup.]]
 For specific settings and control explanations relate to the [[Media:CameraAdjustment_Settings_for_ATGM.jpg|screenshot]] in media section below.
 
-Basically, this will temporarily detach the camera from the centre reticle by a certain degree as mouse viewing does. Be extremely careful when using this option because it makes the Striker specifically designed for close or ultra-long-range combat or battles at certain heights, and the camera must have a quick reset in case anything unexpected happens. In case everything goes wrong, the Striker still can swap to use sniper mode, as it's unaffected by camera modifiers and will still guide missiles straight into the crosshairs.
-
-Lastly, as a last resort, a spaded {{PAGENAME}} can attempt to crash into solid object (or ask cooperative squadmates to push it) to try and "hang" on it. This results in tank either breaking tracks, flipping over and becoming useless or effectively converting all of its vertical depression issues into horizontal plane, which allows it to fire straight at the incoming enemy. There is no consistent method of doing this, especially without a friend.
+Basically, this will temporarily detach the camera from the centre reticle by a certain degree as mouse viewing does. Be extremely careful when using this option because it makes the Striker specifically designed for close or ultra-long-range combat or battles at certain heights, and the camera must have a quick reset button in case anything unexpected happens. In case everything goes wrong, the Striker still can swap to use sniper mode, as it's unaffected by camera modifiers and will still guide missiles straight into the crosshairs.
 
 {{Break}}
 ;Specific enemies worth noting
-* Other ATGM launchers: Don't fight them directly at close range, it will be foolish. Instead, bait enemy closer to cover, then just destroy them by firing over it. Another way is to set them on fire and let them burn just to be safe. Be triple careful with [[IT-1]], as even a close miss of their missile can obliterate {{PAGENAME}}.
+* Other ATGM launchers: Don't fight them directly at close range, it will be foolish. Instead, bait enemy closer to your cover, then just destroy them by firing over it. Another way is to set them on fire by any means necessary at a distance and let them burn just to be safe. Be triple careful with [[IT-1]], as even a close miss of their missile can obliterate {{PAGENAME}}. Avoid being spotted by ATGM tanks with vertical attack missiles like the [[CM-25]] - you may parry their missile with yours, but its unlikely and they don't need to go through any special procedures to fire into your cover.
 
 * Light tanks and SPAA: As fun as it may be to trigger them by firing all over their cover, they still can destroy the Striker easily and have enough speed and mobility to actually do that. Let them ignore the Striker and do their business, though keep an eye on them. If they try something sneaky - destroy them. If it's possible to hit them in a weak spot within the first two shots to trigger overpressure damage - do it.
 
@@ -339,20 +339,20 @@ Lastly, as a last resort, a spaded {{PAGENAME}} can attempt to crash into solid 
 
 The {{PAGENAME}} can be extremely dangerous if it is entrenched in a suitable firing position. If you know for sure that it is ready to unload onto you the moment you leave the cover (or even already thinks of firing into your cover), use artillery strike on it and deploy smokes before going in, otherwise you will just be annihilated by a missile salvo. One of the signs that it is ready to desperately fight back is that the carrier is being angled down and launchers are pointed at you, rather than upwards.
 
-It has problems firing at the opposite side of the same hill if it's too steep. This will not help destroy a Striker, but at least the location is somewhat safe until they found a proper firing angle. It is incapable of firing to the left at all. It is preferable to stay closer than 500 m in case if they do switch scopes, as otherwise Swingfires definitely will turn around and hit you.
+It has problems firing at the opposite side of the same hill if it's too steep. This will not help destroy a Striker, but at least the location is somewhat safe until they found a proper firing angle. It can fire over cover in 45 degree sector in front of it. It is incapable of fast-firing to the left at all and has issues with firing behind itself. It is preferable to stay closer than 500 m in case if Striker decides to turn and counterattack with the right side, as otherwise the Swingfires definitely will have no issue with turning around and hitting you.
 
-The Striker must stop before firing and has an extensive dead zone, so if surprising one while it fights someone else - destroy it before it hit the brakes, make them panic and try to push the vehicle around, ultimately dragging them into a wall. One can even use disabled Striker as a shield against their own teammates, as it can't really do anything about it.
+The Striker must stop before firing and has a dead zone, so if surprising one while it fights someone else - destroy it before it hit the brakes, or at least make them panic and try to push the vehicle around, ultimately dragging them into a wall. One can even use disabled Striker as a shield against their own teammates, as it can't really do anything about it.
 
 [[File:Striker used as shield by enemy.jpg|200px|thumb|right|Enemy used buildings to sneak behind Striker, who couldn't see him, broke its track and weapon, and pushes it around as a shield, denying repairs. ]]
-In case if you absolutely have to attack it directly, you can at least try to stop its ATGM with MG suppressive fire, but a good enough bullet screen will take at least 4 x 7.62 mm MG at once, there are no guarantees it will work, and, if it has high ground, it still can launch them at such angle, that you will be unable to do anything.
+In case if you absolutely have to attack it directly, you can at least try to destroy its ATGM with MG suppressive fire, because it can't really control missiles without the line of sight. If it has the LOS on you, a good enough bullet screen will take at least 4 x 7.62 mm MG at once, there are no guarantees it will work, and, if it has high ground, it still can launch them at such angle, that you will be unable to do anything.
 
-It's best to attack from many directions at the same time, preferably from behind or the left. Even better if the operator didn't see it coming. Sniping and terrain-based flank are working better in arcade battle, since there they only have vision in front of their driver and in direction they point camera at, but at great range, while sneak attacks from any direction are more reliable in realistic battle, though they themselves are much harder to notice in time. Use of thermal scope is recommended in order to find it or its missiles. If you just have numbers on your side, and your team is more or less cooperative, even the Striker can be overwhelmed. A coordinated simultaneous push of 6 tanks can destroy it, albeit at a high cost. Do not attack it one by one - that is exactly what they want, as it gives them time to reload in between shots.
+It's best to attack from many directions at the same time, preferably from behind or the left. Even better if the operator didn't see it coming. Sniping and terrain-based flank are working better in arcade battle, since there they only have vision in front of their driver and in direction they point camera at, but at great range, while sneak attacks from any direction are more reliable in realistic battle, though they themselves are much harder to notice in time. Use of thermal scope is recommended in order to find it or its missiles. If you just have numbers on your side, and your team is more or less cooperative, even the Striker can be overwhelmed. A coordinated simultaneous push of 6 tanks can destroy even the best Striker users, albeit at a high cost. If you must attack entrenched invisible Striker, do not scoff away from idea of using dead tanks as a portable shield. Do not attack it one by one - that is exactly what they want, as it gives them time to reload in between shots.
 
-If it only exposes its missile racks, fire at it, preferably with explosives (HE or ATGM might destroy it outright, HESH and HEAT might hit a weak spot and cause overpressure damage), APFSDS, or 30 mm autocannons with at least 80 mm of penetration. It's also possible to fire into the tubes with all kinds of weapons to damage the missiles directly. Usually, the tubes on your left (their right) fire first and are already empty, so initially aim for the right (their left) to set them on fire. After breaking the weapons, destroy the hull. Keep attacking missile launcher if unable to hit the hull or commander cupola to force it to retreat.
+If it only exposes its missile racks, fire at it, preferably with explosives (HE or ATGM might destroy it outright, HESH and HEAT might hit a weak spot and cause overpressure damage), APFSDS, or 30 mm autocannons with at least 80 mm of penetration. It's also possible to fire into the tubes with all kinds of weapons to damage the missiles directly. Usually, the tubes on your left (their right) fire first and are already empty, so initially aim for the right (their left) to set them on fire. After setting the weapons on fire, destroy the hull. Keep attacking missile launcher if unable to hit the hull or commander cupola to prevent it from properly reloading and to force it to retreat.
 
 The front of Striker may be surprisingly resistant to machine gun fire, however, if in possession of high calibre machine guns, move around Striker and penetrate its back or sides with them. If you have autocannons as a coaxial weapon (which are ~23 mm and insufficient to damage launchers), attempt to damage commander's cupola, which has much worse protection. 7.62 mm machine gun does nothing to it even point-blank, so do not use those on it. Fire it at its missiles instead.
 
-If attacks didn't set Striker on fire, it will be at least 9 seconds before the Striker repaired the launcher back. Firing at launcher again will reset the "field repair" timer, so some time can be taken after a successive hit. However, remember, that Striker normally doesn't suffer critical damage when hit in a missile launcher and its crew might be able to complete "manual repair" if not prevented, allowing launcher to repair completely even under fire. Try firing at different tubes, as it may set the vehicle on fire if actual ammo is hit and prevent it from retaliating. 
+If attacks didn't set Striker on fire, but broke it's weapons, it will be at least 4 seconds of manual "full repair" before the Striker repaired the launcher properly. Firing at launchers again will reset the "field repair" timer, which takes about 9 seconds and is generally used when Striker is forced to spin around by machine gun fire, so sometimes time can be taken after a successive hit. However, remember, that Striker normally doesn't suffer critical damage when hit in a missile launcher and it may still be able to fire if hit wasn't strong enough. Regardless, its crew will be able to complete repairs extremely fast if not prevented by fires, allowing the launcher to fire even under seemingly impossible conditions. Always fire at different tubes, as it may set the vehicle on fire if actual ammo is hit and prevent it from retaliating at all. 
 
 [[File:Striker_BlindZone_Exploited.jpg|x200px|thumb|right|This is why striker must always fire at Soviet tank's hulls: T-54 used terrain to get into melee range with the Striker. Despite being hit several times in turret, it managed to push striker into a wall, then smoked the entire area to make teammates unable to save him. The Striker cannot save itself anymore.]]
 
@@ -367,21 +367,23 @@ The SPAAs with absurdly high fire rate, like [[M163|Vulcan]] and [[ZSU-23-4|Shil
 * 5 powerful ATGMs ready for quick succession firing when necessary
 * When defending a capture zone, ammunition is constantly reloaded; allowing to fire ATGMs almost indefinitely, unlike ATGM carriers which require manual reload or have longer rearms, like [[Shturm-S]] or [[ZT3A2]]
 * Double hull mounted smokescreens provide adequate visual protection; specially during retreats
+* Can be used as artillery, but such playstyle requires a lot of practice and not every map allows it
 * Often underestimated, unseen or left unattended, giving the Striker a chance to repair and strike back; all because of the small and vulnerable size
 * Availability of thermal imaging; packed with the great optics allows for a proper target acquisition
 * Frontal armour can actually withstand HMG and even some 20 mm cannons; modules placing also improve frontal protection
 * Technically fastest ATGM reload, tied with the [[BMD-4]], but can't reload while attacking, unless on a friendly capture point
-* Technically, can be used as artillery, but such playstyle requires a lot of practice and not every map allows it
+
 
 '''Cons:'''
 
 * Highly vulnerable to autocannons, ATGM, air attacks, artillery, ramming, and HE/HESH shells
-* Optics location is a worse aiming set up when compared to [[Swingfire]] ; the top and ammo racks of the Striker must be exposed to fire the ATGMs precisely; Optics can be targeted with any explosives to instantly destroy the Striker
-* Has a hard dead zone of 100 m in AB, and even further in RB, unless angled downwards somehow, difficult to guide missiles at ranges of 100-220 m due to a guidance dead zone
-* ATGM rack is impossible to lower; an impact to the ATGM rack leaves the Striker with little to no ammo left
+* Optics location is a worse aiming set up when compared to [[Swingfire]] ; the top and ammo racks of the Striker must be exposed to correct the ATGMs trajectory; Optics can be targeted with any explosives to instantly destroy the Striker
+* Has a hard dead zone of 50 m in AB and further in RB, can be difficult to guide missiles at ranges below 70 m due to a guidance dead zone
+* ATGM rack is impossible to lower; an impact to the ATGM rack can leave the Striker with no active ammo left
 * Modest ATGMs count can be quickly depleted without trigger discipline; in Arcade battles automatic rearm is available anywhere, but more ATGMs per tank are also often required
+* Although Swingfire can be launched over full cover without any further input, it often crashes on launch if cover is too tall or wide.
 * Despite a quick reload, the ATGMs are loaded into the rack one by one; making the Striker vulnerable to multiple enemies after depletion of the rack
-* Swingfire ATGMs are noisy and will give away the Striker's position in close quarters
+* Swingfire ATGMs are noisy and will give away the Striker's position in close quarters even when it is perfectly hidden
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

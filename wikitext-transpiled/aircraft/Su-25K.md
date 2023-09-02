@@ -13,12 +13,12 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' (NATO: Frogfoot; unified for all variants) is a premium gift rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
 
-The export version of the base model Su-25 for Warsaw-Pact countries and overseas customers with minor differences in terms of certain equipment in Czechoslovakian delivery ; with the extensive options for ground attack ranging from bombs, rockets and AGMs, as well as self-defense AAMs, the Frogfoot will prove extremely deadly to ground units without anti-air support and sometimes rotorcrafts of its tier.
+The Su-25K is an export version of the base Su-25 model intended for Warsaw-Pact countries and overseas customers with minor internal differences in terms of certain equipment. With extensive external ordnance options including bombs, rockets, AGMs, and self-defense AAMs, the Frogfoot will prove extremely deadly to ground units without anti-air support and to less capable enemy aircraft.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->Same as the base model in Soviet service, Su-25K is equipped with a pair of Tumansky R-195 turbofan engines on the sides of the airframe and being one of the last jets of Sukhoi with a straight wing. Since Su-25K is designated as an attacker and low-altitude maneuverability is one of the key of the jet, therefore it will have a better time at such altitudes and the power output of the engines will make sure it could retain its energy; another feature of Su-25s are the extensive protection all-around for the pilot and critical components of the jet, although this means it could survive gun strafes or even sometimes near-miss missiles, this also means the jet is heavier and therefore affects its maneuverability when facing certain jets.
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->Same as the base model in Soviet service, Su-25K is equipped with a pair of UMPO R-95SH non-afterburning turbofan engines on the sides of the airframe and is one of the last jets designed by Sukhoi with a straight wing. Since the Su-25K was designed as an attacker, it performs best at low altitude and taking it into high altitude engagements is not recommended. Another iconic feature of Su-25s are the extensive protection all-around for the pilot and critical components of the jet.  Although this adds to the survivability of the aircraft against smaller weapons, it also reduces the overall manoeuverability of the aircraft as a result of the added weight.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -34,7 +34,7 @@ The export version of the base model Su-25 for Warsaw-Pact countries and oversea
 | 968 || 961 || rowspan="2" | {{Specs|ceiling}} || 27.4 || 28.0 || 66.8 || 62.4 || rowspan="2" | 850
 |-
 ! Upgraded
-| 989 || 978 || 26.6 || 27.0 || 94.2 || 79.4
+| 989 || 979 || 26.6 || 27.0 || 94.2 || 79.4
 |-
 |}
 
@@ -114,7 +114,7 @@ The export version of the base model Su-25 for Warsaw-Pact countries and oversea
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 The Su-25K is known for its survivability, anecdotally being able to take a few missile hits without suffering any damage compromising its airworthiness, though this ability is inconsistent and should not be relied upon. The airframe is able to sustain rear hits from missiles with a small warhead, especially the FIM-92 Stinger. Occasionally the Su-25K is able to sustain continued hits from Stingers and Roland 1s.
 
-128 flares/chaff launched two of each at a time provide the Su-25K with the chance to evade missiles, which should be the primary form of defense. A lack of afterburner increases flare effectiveness, only very modern missiles such as aim-9L are able to track the aircraft from behind. Chaff only defends against radar locks from behind the aircraft.
+128 flares/chaff launched two of each at a time provide the Su-25K with the chance to evade missiles, which should be the primary form of defense. A lack of afterburner increases flare effectiveness and only more advanced missiles such as the AIM-9L at very short ranges are able to track the aircraft from behind through flares. Chaff will be able to decoy less advanced radar missiles but in order to defeat more advanced versions, chaff has to be deployed while notching.
 
 The aircraft remains decently controllable upon loss of tail control, wingtips, or an engine. The aircraft remains near-fully controllable upon loss of the rudder and occasionally can fly without the vertical stabilizer.
 
@@ -143,9 +143,7 @@ The cockpit is very well armoured. The pilot is protected on the front and sides
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm GSh-30-2 cannon, chin-mounted (250 rpg)
-** 1 x 30 mm GSh-30-2 cannon + 128 x countermeasures
+* 1 x 30 mm GSh-30-2 cannon, chin-mounted (250 rpg) + 128 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -224,6 +222,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 800 l drop tanks
 * 2 x R-60MK missiles + 32 x 100 kg OFAB-100 bombs (3,200 kg total)
 * 2 x R-60MK missiles + 8 x 250 kg OFAB-250sv bombs (2,000 kg total)
@@ -263,6 +262,7 @@ The Su-25K is a support plane. It is a slow plane compared to most other planes,
 * Relatively low top speed
 * Rather poor manoeuvrability at low-medium speeds
 * Limited ammo for the cannon
+* Basic sight with very low zoom for laser guided weapons
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

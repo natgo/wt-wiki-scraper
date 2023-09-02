@@ -76,34 +76,34 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battl
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="5" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | Saturn AL-21F-3 || 1
+| colspan="2" | 11,245 kg || colspan="3" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 12m fuel || 20m fuel || 30m fuel || 40m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 1,800 kg || colspan="2" | Afterburning axial-flow turbojet
+| 12,385 kg || 13,102 kg || 14,031 kg || 15,045 kg || 19,302 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="5" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 12m fuel || 20m fuel || 30m fuel || 40m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 6,400 kgf || 9,039 kgf
+| 0.73 || 0.69 || 0.64 || 0.60 || 0.47
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 7,232 kgf<br>(1,200 km/h) || 13,188 kgf<br>(1,417 km/h)
+| 1.06 || 1.01 || 0.94 || 0.88 || 0.68
 |-
 |}
 

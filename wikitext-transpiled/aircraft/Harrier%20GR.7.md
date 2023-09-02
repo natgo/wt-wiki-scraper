@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The Harrier GR.7 indelibly shaped the Royal Air Force from its inception in the late 1980s through its operational tenure until the mid-2000s. This iconic aircraft played a pivotal role during historic events such as the Gulf War in the early 1990s, where its unique vertical and short takeoff and landing (V/STOL) capability enabled rapid deployment from makeshift airfields in the desert theatre. The GR.7's versatile armament, including precision-guided munitions, showcased its adaptability during NATO's intervention in the Kosovo conflict in the late 1990s, as it executed surgical strikes and ground attack missions with exceptional accuracy. Its service extended into the early 2000s, proving crucial in coalition operations in Afghanistan, where its sophisticated targeting systems facilitated precise close air support in challenging terrain. The Harrier GR.7's historical significance stems not only from its operational versatility from previous platforms but also from its embodiment of the RAF's commitment to innovative tactics and strategic air power projection.
+
+The Harrier GR.7 was introduced in [[Update "Drone Age"]]. This versatile aircraft assumes the role of a multi-role fighter, effortlessly engaging ground and air targets across a spectrum of scenarios. Its versatile armament offers a pragmatic solution to an array of targets, from fortified ground positions to swift-moving airborne adversaries. Unseen and underestimated, the Harrier GR.7 becomes a potent ground adversary, launching precision strikes from a safe distance, particularly disquieting for unsuspecting SPAA units. Designed to appeal to pilots who appreciate multifunctional capabilities and diverse weapon options, the Harrier GR.7 thrives on the patient and the skillful, revealing a landscape where challenge and accomplishment intermingle, ultimately rewarding adept aviators with impactful results.
 
 == General info ==
 === Flight performance ===
@@ -81,7 +83,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 ! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Rolls-Royce Pegasus Mk.105 || 1
-| colspan="3" | 6,057 kg || colspan="3" | ___ kg/m<sup>2</sup>
+| colspan="3" | 6,057 kg || colspan="3" | 424 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -109,15 +111,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-The Harrier GR.7 has no armour plates. Additionally, all critical components such as the engine, fuel tanks and pilot are located along the longitudinal axis of the fuselage. A hit in this location will be incredibly damaging, potentially starting multiple fires.
-
-The fuel tanks are self-sealing, and the Harrier has access to an Engine Fire System (EFS) which can be used in the event of a fire to increase survivability.
-
-Any substantial damage to the wings will cause the aircraft to potentially lose control, and the GR.7 is particularly susceptible to drag induced by structural damage.
+With its agile and adaptable nature, this aircraft excels in evasive manoeuvres, allowing it to swiftly navigate through volatile airspaces and evade incoming threats. Its advanced glass MFD/HUD cockpit and access to RWR enhance situational awareness, enabling pilots to make informed decisions in the heat of battle. The Harrier GR.7 stands fortified with an arsenal of defensive measures. Its automatic Engine Fire Suppression (EFS), coupled with the 700 countermeasures constitutes a formidable shield against hostile missiles. While the Harrier GR.7 may lack armour plating, the GR.7's low-profile silhouette further augments its safety measures, reducing its radar cross-section and making it a more elusive target in the chaotic theater of aerial combat, where agility becomes its most potent form of defense. The Harrier GR.7's open cockpit design offers pilots an exceptional vantage point, granting unobstructed visibility that enhances situational awareness during flight. This clear line of sight empowers pilots to quickly scan the surrounding airspace and terrain, allowing them to detect potential threats and opportunities with ease. Complementing this inherent advantage, the aircraft's HUD further amplifies situational awareness by seamlessly integrating critical flight data and targeting information directly into the pilot's field of view. This real-time data projection eliminates the need to divert attention to cockpit instruments, enabling pilots to maintain focus on the external environment. The combination of the open cockpit layout and the HUD's intuitive display contributes to the Harrier GR.7's heightened safety and operational effectiveness, enabling pilots to respond swiftly and decisively to changing circumstances.
 
 === Modifications and economy ===
 {{Specs-Economy}}
-Generally, it is best to try and gain access to additional countermeasures and air-to-air missiles as soon as possible. This is particularly the case as 4 x AIM-9L missiles and an astonishing 700 potential countermeasures can allow for practically infinite survivability against missiles and a sufficiently lethal offensive armament to deal with most enemy aircraft with a reasonable degree of lethality.
+
+A prudent approach would be to focus on obtaining additional countermeasures and air-to-air missiles as promptly as possible. This strategic choice gains even more significance considering the Harrier GR.7's provision of 4 x AIM-9L missiles and an impressive stockpile of 700 countermeasures. This advantageous combination not only offers a heightened capacity to effectively neutralize incoming missile hazards but also affords the aircraft a formidable offensive potential. With this array of resources at your disposal, the Harrier GR.7 can seamlessly navigate the complex dynamics of aerial combat, ensuring a robust defense against missile threats while equipping you with a sufficiently potent arsenal to engage and dispatch enemy aircraft with a commendable level of efficiency.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -136,9 +135,7 @@ Generally, it is best to try and gain access to additional countermeasures and a
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 60 x countermeasures
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -198,6 +195,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 25 mm ADEN 25 cannons (100 rpg = 200 total)
 * 2 x AIM-9L Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles

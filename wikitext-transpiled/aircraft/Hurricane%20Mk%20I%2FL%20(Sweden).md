@@ -14,7 +14,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-ratin
 
 It is an imported version of the British [[Hurricane Mk I/L]] flown by the Finnish Air Force.
 
-Whilst not quite as manoeuvrable or as fast as its [[Spitfire (Family)|Spitfire]] brethren, the Hurricane Mk I/L is still very agile for its rank and can hold its own very effectively in dogfights. One of the Hurricane's true strengths is in its durability and sheer robust nature which makes it a favourite among the virtual pilots of War Thunder as it was during the Battle of Britain over 80 years ago. You will find your Hurricane able to withstand a very high amount of damage before it will give in as it is a largely fabric covered aircraft.
+Whilst not quite as manoeuvrable or as fast as its [[Spitfire (Family)|Spitfire]] brethren, the Hurricane Mk I/L is still very agile for its rank and can hold its own very effectively in dogfights. One of the Hurricane's true strengths is in its durability and sheer robust nature which makes it a favourite among the virtual pilots of War Thunder as it was during the Battle of Britain over 80 years ago. You will find your Hurricane able to withstand a very high amount of damage before it will give in as it is a largely fabric-covered aircraft.
 
 It is also a very stable gun platform which makes aiming and shooting a very easy task to do. In general the Hurricane is a joy to fly in all modes. A great and forgiving fighter aircraft for beginners to fly!
 
@@ -100,7 +100,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+Due to your mediocre armament and poor flight characteristics, the Hurricane Mk I/L can be utilized as a support fighter. Due to the aircraft's decent speed at it's battle rating, you may use boom and zoom tactics or simple rate fights to gain an upper hand against your enemy. Do not engage in prolonged dog fights as you will quickly bleed your energy and your lack of aileron input is unable to keep up in a fight.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
@@ -113,11 +113,13 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 '''Cons:'''
 
-* rifle-calibre machine gun has low damage against robust targets like [[F4U (Family)|F4U]], [[Ju 88 (Family)|Ju-88]]
+* Rifle-calibre machine gun has low damage against robust targets like [[F4U (Family)|F4U]], [[Ju 88 (Family)|Ju-88]]
 * Only has 2,800 bullets, so careful shot placement is crucial in realistic and simulator battles
 * Combat flaps will rip at relatively low speeds (>270 km/h)
 * Slow level flight speed compared to other aircraft like [[Bf 109 F-1|Bf 109 F]], [[Ki-61-I ko|Ki-61]]
-* Lacklusture roll rate against planes like [[Fw 190 (Family)|Fw-190A]]
+* Extremely poor roll rate
+* Rather irresponsive rudder input
+* Aircraft instruments use the imperial system, rendering them useless to non-Americans if the game hud disappears
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

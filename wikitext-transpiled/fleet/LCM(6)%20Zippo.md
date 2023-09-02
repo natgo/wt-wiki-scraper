@@ -80,6 +80,7 @@ Though the system is bound to the anti-aircraft suite, the flamethrowers unfortu
 * Abysmal top speed and mobility
 * Rather poor survivability due to low crew count
 * Shallow draught cause the boat to be constantly rocking around even in calm sea, hampering the accuracy
+* Careless discharge of napalm fuel on the water surface may cause damage to the friendly vessels and even your own boat
 * The 40 mm Bofors is housed in a turret with poor elevation, leaving the boat vulnerable to aircraft attacks
 
 == History ==

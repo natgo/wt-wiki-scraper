@@ -86,6 +86,7 @@ The Type 8s aren't the top-of-the-line [[Type 93 Model 3 (610 mm)|Type 93 ''Long
 * Average top speed and mobility
 * Rear ammo racks sit above the waterline and are thus prone to detonation
 * Outclassed by almost every cruiser she will face
+* Extremely short SAP fuse delay makes damaging enemy ships' internal modules difficult
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -95,6 +96,7 @@ The Imperial Japanese Navy authorized the construction of the Yubari class durin
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_cruiser_yubari Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -114,7 +116,7 @@ The Imperial Japanese Navy authorized the construction of the Yubari class durin
 * [[wt:en/news/7287-development-ijn-yubari-the-sensei-en|[Devblog] IJN Yubari: The Sensei]]
 
 === References ===
-<references/>
+<references />
 
 {{ShipManufacturer Sasebo Naval Arsenal}}
 {{Japan light cruisers}}

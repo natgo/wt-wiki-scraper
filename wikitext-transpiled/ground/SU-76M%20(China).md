@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''SU-76M''' is a variant of the SU-76 (Samokhodnaya Ustanovka 76), a Soviet light self-propelled gun used during and after World War II. The SU-76 was based on a lengthened version of the [[T-70]] light tank chassis and armed with the ZIS-3 mod. 1942 divisional field gun. Its simple construction and multipurpose combat role made it the second-most produced Soviet armoured fighting vehicle of World War II, after the [[T-34 (Family)|T-34 medium tank]]. From 1951 to 1954, the Chinese People's Liberation Army restructured itself based on the Soviet Army and purchased 912 [[SU-76M]] self-propelled artillery, predominantly to equip its self-propelled artillery regiments of the infantry division. It was once the backbone of the Chinese People's Liberation Army's armoured equipment, mainly employed to give direct fire support to infantry or to destroy enemy armoured vehicles.
+
+Introduced in [[Update 1.91 "Night Vision"]], the SU-76M gives Chinese Army ground forces players significantly enhanced firepower compared to other captured/lend-lease tanks in the early ranks. It is mounted with the 76 mm ZIS-3 field gun, a flexible artillery gun capable of piercing the frontal armour of most enemies in its ranks. However, because of its open-top design, it is extremely vulnerable to aircraft strafing. It also lacks secondary armament, such as turret-mounted machine guns, to protect against oncoming planes.
 
 == General info ==
 === Survivability and armour ===
@@ -168,10 +170,12 @@ China seized a Soviet T-62 medium tank after the Incident of Damansky Island in 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[SU-76M (Family)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

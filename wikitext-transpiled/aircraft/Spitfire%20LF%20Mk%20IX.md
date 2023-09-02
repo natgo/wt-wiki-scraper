@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update 1.35]].
+By March 1943, a new version of the Merlin engine had been developed. Designated the Merlin 66, it was even more powerful than the preceding 61 and 63 versions, was tuned for low-altitude operation, and featured a new injection-based carburettor instead of the float carburettor of previous models, completely resolving the fuel-flow issues during zero-G manoeuvres and inverted flight. 
 
-The Spitfire LF Mk IX is very much a short range, point interceptor fighter and the stand out fighter in the mid Spitfire line-up. It features an exceptional rate of climb, whilst still retaining the manoeuvrability of its early lineage. The LF Mk IX is considered by most to be the perfect Spitfire due to its balanced all round performance and impressive statistics. The last of the Merlin-engined Spitfires before progressing on to the Griffon powered variants, it has the perfect balance of turning performance (second only to its Japanese counterparts) as well as its "Boom and Zoom" capability that becomes more possible with later model Spitfires.
+Introduced in [[Update 1.35]], the Spitfire LF Mk IX is very much a short range, point interceptor fighter and the stand out fighter in the mid Spitfire line-up. It features an exceptional rate of climb, whilst still retaining the manoeuvrability of its early lineage. The LF Mk IX is considered by many to be the perfect Spitfire due to its balanced all-round performance and impressive statistics. The last of the Merlin-engined Spitfires before progressing on to the Griffon-powered variants, it has the perfect balance of turning performance (second only to its Japanese counterparts) as well as its "Boom and Zoom" capability that becomes more possible with later model Spitfires. However, the LF Mk IX also reverts to the rather outmoded twin cannon and quad machine gun layout of its predecessors, which can result in rather meagre damage output compared to its contemporaries and opponents.
 
 == General info ==
 === Flight performance ===
@@ -165,10 +165,10 @@ Supercharger: Switching this at 2,000 m (6,561 ft) will give you quite a boost i
 
 '''Pros:'''
 
-* Supreme rate of climb that will rival that of the later Griffon Spitfires and most late war props (46.7 m/s in AB, 31.8m/s in RB/SB when maxed out, beating the F8F-1B at altitudes below 7 km)
-* Excellent acceleration from a standing start due to the boost configuration
+* Supreme rate of climb that will rival that of the later Griffon Spitfires and most late war props (46.7 m/s in AB, 31.8 m/s in RB/SB when maxed out, beating the F8F-1B at altitudes below 7 km)
+* Excellent low speed acceleration and climb
 * Exceptional manoeuvrability at all altitudes
-* Decent energy retention.
+* Decent energy retention
 * M2 Browning .50 cal machine guns are more powerful than the old .303 Brownings
 * Has access to 150 Octane Fuel will increase your engine power by a large margin
 
@@ -177,10 +177,10 @@ Supercharger: Switching this at 2,000 m (6,561 ft) will give you quite a boost i
 * Sub average roll rate can make the plane suffer in tight scissors
 * Limited dive rate, moderate parasitic drag
 * Limited ammo capacity
-* Due to high wing loading, even slight damage to the wings can impact performance negatively
+* Even slight damage to the wings can greatly impact performance negatively
 * Poor top speed due to high parasitic drag compared to engine power
-* Since it is an 'LF (low-altitude fighter)' Spitfire, this Spitfire's performance suffers at high altitude
-* Poor ground attack capatibility
+* Since it is an LF (low-altitude fighter) Spitfire, this Spitfire's performance suffers at high altitude
+* Poor ground attack capability
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

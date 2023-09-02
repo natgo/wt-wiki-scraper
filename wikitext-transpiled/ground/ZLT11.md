@@ -5,11 +5,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''', or its more well-known but erroneous name "ZTL11"* (Simplified Chinese: ZLT11轮式突击炮; lit. wheeled assault gun), is a rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
+The '''{{Specs|name}}''', or by its more well-known pre-2012 codename "ZTL11"* (Simplified Chinese: ZLT11式105毫米轮式突击炮; lit. wheeled assault gun), is the Chinese equivalent to MGS units in US Army service and now being used as the quick response vehicle of PLAGF heavy composite mechanized brigades or PLANMC's amphibious brigades. As Mainland China was developing wheeled chassis for mechanization of PLAGF, NORINCO brought up their BK1970 and 1990 prototypes as a wheeled assault gun with varieties of drivetrains (6x6; 8x8); although the prototypes did not make into service, the concept of more advanced wheeled APC/IFV was approved and was first used on export "VN" series APCs with the VN1 as the 8x8 solution from NORINCO. After the development of ZTD05 (now ZLT05) and its turret systems, the turret was likely been reused on the project to produce new 8x8 assault guns for PLAGF troops after the certification of ZBL08 family; the new assault gun was certified in 2011 and made its first public appearance in 2015, where later batches received AMT transmissions. All ZLT11 is currently in service with PLAGF and been exported to different African countries under the name ST1 until the new 8x8 IFV family which was discovered in late-2010s gets certification by the 2020s. 
 
-A member of the ZBL08 wheeled IFV chassis family from the late 2000s, the new 8x8 assault gun is the first and main component of modern PLAGF's heavy composite mechanized brigades since 2011, since the first public appearance in 2015, it has been among the most iconic PLAGF vehicles in the 2010s. It comes with a more powerful engine that pushes it to speeds on par with NATO vehicles (up to 100 km/h) and armed with a powerful 105 mm gun with a variety of ammunitions including high penetration APFSDS and gun-launched ATGMs, as well as boasting a gunner 2nd generation thermal sights, and the ability to travel up to 9 km/h in water. With quite some improvements in terms of protection over its predecessor the [[PTL02]], the arrival of this assault gun finally marks a Chinese wheeled vehicle comparable to its NATO counterparts.
+Introduced in [[Update "Ground Breaking"]] and becoming one of the new wheeled assault guns for PLAGF, ZLT11 is a member of the ZBL08 wheeled IFV chassis. It comes with a more powerful engine that pushes it to speeds on par with NATO vehicles (up to 100 km/h) and armed with a powerful 105 mm gun with a variety of ammunitions including high penetration APFSDS and gun-launched ATGMs, as well as boasting a gunner 2nd generation thermal sights, and the ability to travel up to 9 km/h in water. With quite some improvements in terms of protection over its predecessor the [[PTL02]], the arrival of this assault gun finally marks a Chinese wheeled vehicle comparable to its NATO counterparts.
 
-<small><nowiki>*</nowiki>ZLT11 was the earliest "known" vehicle to use 2012 version of PLA equipment nomenclature, where {{Annotation|ZLT|Zhuāngjiǎ-Lúnshì-Tújí}} means ''Armoured vehicle - Wheeled - Assault gun''</small>
+<small><nowiki>*</nowiki>ZLT11 was the earliest "known" vehicle to use 2012 version of PLA equipment nomenclature, where {{Annotation|ZLT|Zhuāngjiǎ-Liǎng qī-Tújí}} means ''Armoured vehicle - Amphilibious- Assault gun''</small>
 
 == General info ==
 === Survivability and armour ===
@@ -79,7 +79,7 @@ The new and stabilized ZPT98A gun mounted on ZLT11 is a low-recoil gun based on 
 ==== Ammunition ====
 For players who are used to [[WMA301]] or [[ZTZ59D1]], the gun has most of its shells interchangeable and performs the same on ZLT11.
 
-During the late 1990s, Mainland China acquired 100 mm gun-launched ATGM technologies from Russia, so the ZLT11 also comes with a powerful GP105 tandem ATGM. The statistics are identical to the 9M117M1 Bastion: good travel speed, high TNT equivalent, and a tandem warhead for bypassing ERA. Thankfully, the ZLT11 does not suffer from the BMP-3's massive reload penalty for ATGMs. The GP105's whopping 750 mm of penetration it can take down practically anything it will ever meet at its BR. This is less than the [[ZBD86]]'s HJ-73E ATGM, but still more than generous. As a beam-riding missile, the GP105 is immune to IRCM and can be guided on the move if necessary.
+During the late 1990s, Mainland China acquired 100 mm gun-launched ATGM technologies from Russia, so the ZLT11 also comes with a powerful GP105 tandem ATGM. The statistics are very similar to the 9M117M1 Bastion: good travel speed, high TNT equivalent, and a tandem warhead for bypassing ERA. Thankfully, the ZLT11 does not suffer from the BMP-3's massive reload penalty for ATGMs. The GP105's whopping 750 mm of penetration it can take down practically anything it will ever meet at its BR. This is less than the [[ZBD86]]'s HJ-73E ATGM, but still more than generous. As a beam-riding missile, the GP105 is immune to IRCM and can be guided on the move if necessary.
 
 The Type 83 HEAT-FS round is nothing special. At its tier, the HEATFS is generally obsolete and it is the stock ammo for this vehicle, the only advantages over the APFSDS is the ability to cause overpressure damage through its explosive content, but the GP105 can perform the same role as well; in fact, the GP105 ATGM has a higher TNT equivalent than the HEATFS round.
 
@@ -187,6 +187,7 @@ The main armament of the ZLT-11 is a 105 mm rifled cannon, created on the basis 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_ztl_11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

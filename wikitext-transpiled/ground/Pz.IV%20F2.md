@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161/1''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
+The '''Panzerkampfwagen IV Ausführung F2 (Panzer IV F2)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 161/1''') is the late version of the sixth variant of the [[Pz.IV (Family)|Panzerkampfwagen IV medium tank family]]. In order to combat the Soviet [[T-34 (Family)|T-34 medium tanks]] and [[KV-1 (Family)|KV-1]] heavy tanks, the Germans began upgrading their [[Pz.IV F1|Panzer IV F1]] with the long-barrelled 75 mm Kampfwagenkanone (KwK) 40 L/43 tank gun in early 1942. The new long-barrelled 75 mm KwK40 L/43 tank gun provided significantly increased projectile velocity and armour penetration. The Panzer IV F1 served as the foundation for this upgrade. These were initially designated as Panzer IV F2 to distinguish them from the short barrel Panzer IV F1 variant. These were all renamed [[Pz.IV G|Panzer IV G]] after July 1942. According to certain accounts, around 25 manufactured Panzer IV F1 tanks were rearmed with the larger gun, which replaced the short-barrelled 75 mm KwK37 L/24 tank gun previously used for infantry support.
 
-It is essentially the earlier [[Pz.IV F1|Panzer IV Ausf. F1]] rearmed with a long-barreled 75 mm gun for much greater anti-tank capabilities.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer IV F2 was identical to the Panzer IV F1 except for the long-barrelled 75 mm KwK40 L/43 tank gun. Players will be surprised by this new revised Panzer IV F2, as the long-barrelled 75 mm tank gun provides much-increased projectile velocity and armour penetration. Due to the increase in calibre from 50 mm on Panzer IIIs to 75 mm on Panzer IV F2, destruction of enemy vehicles is generally immediate upon successful penetration.
 
 == General info ==
 === Survivability and armour ===
@@ -204,9 +204,11 @@ Pz.Kpfw. IV Ausf. F2 tanks in use in 1942 and 1943 sported a huge variety of col
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_IV_ausf_F2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 ;Images
@@ -219,11 +221,13 @@ File:PZ-4 F2 alongside 15 cm Pz.W.42.jpg|<small>Panzer IV with winter camo along
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

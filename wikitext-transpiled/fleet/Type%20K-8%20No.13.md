@@ -266,6 +266,7 @@ Ships of comparable role, configuration and era
 * [[wt:en/news/7002-development-type-k-8-class-no-13-kusentei-1942-en|[Devblog] Type K-8/Class No.13 Kusentei (1942)]]
 * [[wikipedia:No.13-class_submarine_chaser|[Wikipedia] No.13-class submarine chaser]]
 
+{{ShipManufacturer Nippon Kokan Co.}}
 {{Japan sub-chasers}}
 {{Japan premium ships}}
 {{Winter Event}}

@@ -68,10 +68,10 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 65 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 34.27 || 47.43 || 57.60 || 63.69 || 67.76 || rowspan="2" | 7.67 || rowspan="2" | 6.79 || rowspan="2" | 6.25 || rowspan="2" | 5.90
+| rowspan="2" | 65 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 7.67 || rowspan="2" | 6.79 || rowspan="2" | 6.25 || rowspan="2" | 5.90
 |-
 ! ''Realistic''
-| 21.42 || 25.20 || 30.60 || 33.84 || 36.00
+| 14.3 || 16.8 || 20.4 || 22.6 || 24.0
 |-
 |}
 
@@ -80,7 +80,7 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M41A1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.5.0.23''' -->
+<!-- '''Last updated: 2.27.1.50''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -89,9 +89,17 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''65''' || 33&nbsp;''(+32)'' || 12&nbsp;''(+53)'' || 1&nbsp;''(+64)'' || No
+| '''65''' || 45&nbsp;''(+20)'' || 12&nbsp;''(+53)'' || 1&nbsp;''(+64)'' || No
 |-
 |}
+'''Notes''':
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Rack 3 is a first stage ammo rack. It totals 11 shells and gets filled first when loading up the tank.
+* This rack is also emptied early: the rack depletion order at full capacity is: 3 - 1 - 2.
+* If you pack 15&nbsp;''(+40)'' shells, it will keep most of the hull empty of ammo.
+* Full reload speed will be realized as long as shells are available in the ready rack 3. If the ready rack is empty, a penalty to reload speed will occur.
+* Simply not firing when the gun is loaded will move ammo from racks 1-3 into rack 3. Firing will interrupt the restocking of the ready rack.
 
 ==== Optics ====
 
@@ -122,7 +130,7 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 2,200 (200) || 577 || -10°/+70° || ±60°
+| Pintle || 2,200 (200) || 575 || -10°/+70° || ±60°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -131,7 +139,7 @@ If at all possible, try only to expose the turret. If using the terrain to the M
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 5,000 (250) || 500 || N/A || N/A
+| Coaxial || 5,000 (250) || 500 || - || -
 |-
 |}
 

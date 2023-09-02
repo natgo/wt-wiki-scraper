@@ -19,7 +19,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet bomber {{Battle-rat
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 4,500 m)
+! colspan="2" | Max speed<br>(km/h at 4,500 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -28,10 +28,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet bomber {{Battle-rat
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 860 || 834 || rowspan="2" | {{Specs|ceiling}} || 49.4 || 50.3 || 16.4 || 15.5 || rowspan="2" | 1,480
+| 866 || 842 || rowspan="2" | {{Specs|ceiling}} || 49.3 || 50.1 || 16.3 || 15.4 || rowspan="2" | 1,480
 |-
 ! Upgraded
-| 947 || 933 || 46.7 || 48.0 || 24.0 || 20.0
+| 945 || 905 || 46.9 || 48.0 || 24.1 || 20.0
 |-
 |}
 

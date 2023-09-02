@@ -5,22 +5,25 @@
 }}
 {{Specs-Card
 |code=lancaster_mk1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating}}. It was introduced in [[Update 1.43]].
 
-Developed from the troublesome Avro Manchester, the Avro Lancaster is a long-range heavy bomber optimised for delivering huge payload over long distances. Compared to its contemporary like the American [[B-17 (Family)|B-17]] or the German [[Fw 200 C-1|Fw 200]], the Lancaster carries twice the payload while being generally easier to handle. Because of this, the "Lanc" is an ideal bomber for destroying bases and airfields with bombs from high altitude.
+Developed from the troublesome Avro Manchester, the Avro Lancaster is a long-range heavy bomber optimised for delivering huge payload over long distances. Compared to its contemporaries like the American [[B-17 (Family)|B-17]] or the German [[Fw 200 C-1|Fw 200]], the Lancaster carries twice the payload while being generally easier to handle. Because of this, the "Lanc" is an ideal bomber for destroying bases and airfields with bombs from high altitude.
 
-Because of the optimization for large payload and good manoeuvrability, the early Lancaster have a very poor set of defensive armaments consists of a small .30 machine guns. This will not help to ward off any pursuing enemy fighters and thus leaving the plane vulnerable to any other planes save for another heavy bomber. On the other hand, the Lancaster's ease of control and overall good flight performance allows the plane to reach the destination relatively quickly and get the job done.
+Because of the optimization for large payload and good manoeuvrability, the early Lancaster have a very poor set of defensive armaments consists of a small .30 cal machine guns. This will not help to ward off any pursuing enemy fighters and thus leaves the plane vulnerable to any other planes save for another heavy bomber. On the other hand, the Lancaster's ease of control and overall good flight performance allows the plane to reach the destination relatively quickly and get the job done.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-Unlike the other heavy bombers, the Lancaster is surprisingly responsive and easy to handle. While it is not going to win any dogfights, the plane can steer and bank around well enough to adjust the bomb sight for accurate drop. The plane can also maintain its admittedly slow speed quite well, owning to four powerful Merlin engines. This allows the Lancaster to do a shallow descent and reach the base just in time before enemy fighter arrives.
+Unlike other heavy bombers, the Lancaster is surprisingly responsive and easy to handle. While it is not going to win any dogfights, the plane can steer and bank around well enough to adjust the bomb sight for accurate drop. The plane can also maintain its admittedly slow speed quite well, owning to four powerful Merlin engines. This allows the Lancaster to do a shallow descent and reach the base just in time before enemy fighter arrives.
+
+One peculiar characteristic of the Lancaster is its unusually high wing structural limit speed for a heavy bomber, at 600 km/h IAS. This unusual trait allows the Lanc to "dive" towards enemy bases at speed, thus allowing it to be played in high risk, high reward "fast bomber" roles.
+
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
 ! colspan="2" | Max Speed<br>(km/h at 3,048 m)
@@ -122,6 +125,12 @@ The '''''{{PAGENAME}}''''' is defended by:
 * 2 x 7.7 mm Browning machine guns, dorsal turret (1,000 rpg = 2,000 total)
 * 4 x 7.7 mm Browning machine guns, tail turret (2,500 rpg = 10,000 total)
 
+Despite its size and payload, the Lancaster has a disproportionally small defensive armaments consists of eight .30 Browing machine guns distributed in one quadruple turret at the tail and two double turrets at the dorsal and nose position. These armaments has very poor damage output against any targets and is practically useless beyond 800 metres range.
+
+However, against some enemies (such as radial engine fighters), these small machine guns can be surprisingly deadly against those who underestimate it, as the guns has good accuracy at close range and relatively good rate of fire, along with the fact that six out of eight guns can be aimed towards the chasing enemy at the rear. With careful aiming at their engine, the guns were capable of knocking it out or setting them on fire providing that enough shots were hit, potentially netting some kill.
+
+On the other hand, the Lanc's limited defensive armaments and coverage can be easily bypassed by simply attacking from anywhere but the tail, leaving the plane with little to no way to fight back. In addition, the gunners and ammo feeding mechanisms of the Lancaster is practically exposed to enemy fire, meaning that it has significant chance of getting knocked out.
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The Lancaster carries the heaviest bomb load of any bomber before the American [[B-29A-BN|Boeing B-29 Superfortress]], at a fantastic 14,000 lb (6,363 kg), and the heaviest of any British bomber in the game. It can quickly end games if left to go about its business. The Lancaster also has relatively good performance and agility for a four-engined heavy bomber, significantly better than both the American B-17 and B-24 bombers.
@@ -129,6 +138,8 @@ The Lancaster carries the heaviest bomb load of any bomber before the American [
 Unfortunately, the Lancaster is extremely vulnerable if intercepted by enemy fighters. Its defensive armament consists only of .303 in Browning machine guns; while they have a high rate of fire, they are not very lethal to enemy fighters outside of a lucky fire set by the incendiary bullets. In addition, the Lancaster has no ventral turret covering attacks from below due to H2S radar unit (a useless feature in the game). The aircraft itself is not very durable as well and is extremely vulnerable to cannons of 20 mm calibre and larger.
 
 The safest way to use this bomber is to attack bases from around the map. Do a big circle-around, go to the corner, and aim the nose to the remaining enemy bases. Side climbing is not recommended because of the Lancaster's terrible climb rate; not to mention the ease that enemy fighters like German and American ones can easily reach the bomber even at 7,000 m altitude. Instead stay between 2,500 and 4,000 m and build up speed. Use the Lancaster's amazing payload and drop three of the 1,000 lb bombs onto each base. In the airfield bombing scenario, get altitude not less than 3,000 m and drop all the bombs onto the main runway for better accuracy. Try to stay near friendly fighters for air cover.
+
+On the other hand, the Lancaster can be played as an ad-hoc fast bomber by exploiting its relatively high wing rip speed to quickly dive into the enemy base. As the Lanc has high altitude spawn, one can use this to dive towards the enemy bases and destroy them before the enemy arrives. Though this will also leave you vulnerable to any attackers and interceptors should they spot you earlier, this high risk, high reward tactic will almost guarantee at least one base and potentially two if the enemy does not arrive in time. While in a dive, be sure to watch your IAS to not exceed the wing rip speed of 600 km/h, and throttle down your engine and pull your nose up while near the base to adjust the bomb aim.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -155,15 +166,16 @@ The safest way to use this bomber is to attack bases from around the map. Do a b
 * Massive bombload of up to 6 tons, including the Blockbuster bomb
 * Powerful Merlin engines providing good performance
 * Excellent handling and manoeuvrability
-* Has a total of 4 x 7.7 mm MG facing upper rear area which can be lethal to some targets with careful aiming
+* 6 x 7.7 mm MG facing upper rear area which can be lethal to some targets with careful aiming
 * 4 engines means that it can maintain flying ability despite damage to some engines
 * H-tail means that if one rudder is shot off, the other one still works
+* Relatively high wing rip speed allows the plane to be played as an improvised fast bomber
 
 '''Cons:'''
 
 * Very low durability
 * Is a big and slow target
-* No armour plates protecting gunners
+* No armour plates protecting gunners and ammo feeding mechanisms
 * Pathetic defensive armament due to their small calibre and bad damage. Cannot effectively hurt heavily armoured interceptors such as Me 410.
 * No turret coverage for the belly
 * Easily damaged elevators and tail controls
@@ -195,10 +207,12 @@ Over 3,400 Lancaster B.Is were manufactured between November 1941 and March 1946
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=lancaster_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

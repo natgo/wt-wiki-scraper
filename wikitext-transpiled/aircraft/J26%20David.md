@@ -6,6 +6,7 @@
 {{Specs-Card
 |code=p-51b_7_sweden
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|market=id50221_j26_david_sweden
 }}
 
 == Description ==

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' (Chinese: ZTZ59D1式中型坦克; industry code WZ120C) is the proof-of-concept of what would later become the ZTZ59D in PLAGF service. Although PLAGF has already upgraded some of their fleet of Type 59s with now-domestic 105 mm cannons, there were still plans to further upgrade its protection against enemies and its FCS at a more economic price, including FY-1/2 ERA for different types of threats and new digitalized FCS. The modified tanks, now under the designation of WZ120C passed for certifications in April 1995 with the technologies used on ZTZ59D aside from the main cannon. These tanks have been part of the PLAGF armored corps until they are eventually replaced by wheeled assault guns or ZTQ15 with overall superior performance.
 
-The ZTZ59D1 is a comprehensive upgrade of the venerable [[Type 59]]. It includes a large number of modern features on a old chassis, rather like an AK-47 decked out with modern furniture and accessories. The most noticeable difference at a first glance are the ERA arrays on the hull and turret cheeks. The original 100 mm Type 59 cannon has been replaced with a licensed copy of the ubiquitous Royal Ordnance L7 105 mm cannon, and the installation of thermal sights and a laser rangefinder give the tank impressive firepower. Unfortunately it still suffers from many of the Type 59's weaknesses, namely subpar mobility and gun handling. While it is not very suited to the high-speed combat common at its rank, a skilled and careful tanker can still enjoy it as a formidable sniper.
+It was introduced in [[Update 1.91 "Night Vision"]] alongside with the Chinese tech-tree, the ZTZ59D1 is a comprehensive upgrade of the venerable [[Type 59]]. It includes a large number of modern features on a old chassis, rather like an AK-47 decked out with modern furniture and accessories. The most noticeable difference at a first glance are the ERA arrays on the hull and turret cheeks. The original 100 mm Type 59 cannon has been replaced with a licensed copy of the ubiquitous Royal Ordnance 105 mm L7 cannon, and the installation of thermal sights and a laser rangefinder give the tank impressive firepower. Unfortunately it still suffers from many of the Type 59's weaknesses, namely subpar mobility and gun handling. While it is not very suited to the high-speed combat common at its rank, a skilled and careful tanker can still enjoy it as a formidable sniper.
 
 The ZTZ59D1 is succeeded by the [[ZTZ96]], a significantly more modern design with better firepower, mobility, and protection.
 
@@ -79,7 +79,7 @@ The -4° gun depression might look too poor, but due to the low height of the ve
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 37 || rowspan="2" | -4°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 11.18 || rowspan="2" | 9.89 || rowspan="2" | 9.12 || rowspan="2" | 8.60
+| rowspan="2" | 37 || rowspan="2" | -4°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
 | 5.9 || 7.0 || 8.5 || 9.4 || 10.0
@@ -115,6 +115,7 @@ The Type-83 APDS is, despite its name, an APFSDS round with identical performanc
 |}
 
 Notes:
+
 * The 7th rack serves as first-stage ammo stowage.
 * It is recommended to carry at most 31&nbsp;''(+6)'' rounds as to empty the turret's ammo racks.
 
@@ -195,6 +196,7 @@ The designation/acronym "ZTZ" is used at times by the Chinese military for its m
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_59d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -202,11 +204,13 @@ The designation/acronym "ZTZ" is used at times by the Chinese military for its m
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

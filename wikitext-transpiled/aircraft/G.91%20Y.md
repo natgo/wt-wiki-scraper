@@ -187,6 +187,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 76 x FFAR Mighty Mouse rockets
 * 16 x Zuni Mk32 Mod 0 ATAP rockets
@@ -216,6 +217,8 @@ The G.91Y plays exactly like the G.91YS, the only main differences is the lack o
 *High rate of climb
 *Deadly main armament
 *Drag chute helps slow you down very quickly during landings
+*Can pull hard Gs on maneuvers without ripping
+*Due to 9.3 BR, avoids more advanced enemy missiles unlike the G.91 YS upgrade
 
 '''Cons:'''
 
@@ -224,6 +227,7 @@ The G.91Y plays exactly like the G.91YS, the only main differences is the lack o
 * Flaps and landing gear are prone to ripping off
 * New booster module is a must to research in order to avoid crashing during a very fast and low-level dive
 * Limited ammo
+* Slow muzzle velocity on cannons compared to many counterparts
 * No ballistic computer
 * Does not have access to air-to-air missiles
 

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American light cruiser {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+The '''{{Specs|name}}''' was the lead ship of the Fargo-class light cruisers, a sub class of the [[USS Cleveland|Cleveland class]]. Laid down in 1943, she wouldn't enter service until December 1945, missing action in World War 2. She served in the Mediterranean fleet after the war, notably serving as flagship for one month of her stint. She was placed in reserve in February 1950, with less than 5 years of service to her name.
 
-The Fargo-class light cruisers were the final class of light cruisers built for the US Navy in WW2. USS Fargo is the latest light cruiser in the American tree, both in launch date and refit, and is very similar to the preceding [[USS Cleveland]], with similar armour, mobility and firepower. The major difference between the two classes is a simplified funnel and superstructure structure on the Fargo, providing better lines of fire for the secondary and anti-aircraft battery.
+Introduced in [[Update "Fire and Ice"]], Fargo is a slight upgrade to the earlier Cleveland. The main advantage is a rearranged superstructure, which gives better coverage for the secondary and anti-aircraft battery. As she was designed late in the war, her anti-aircraft battery is prodigious, with both 40 mm and 20 mm guns covering all angles of the ship. This stronger secondary and anti-aircraft battery comes at the cost of one fewer main calibre turret compared to the [[Brooklyn (Family)|Brooklyn class]]. With a fire rate of 10 rounds per minute (6 seconds), she performs well against cruisers and destroyers.
 
 == General info ==
 === Survivability and armour ===
@@ -111,4 +111,5 @@ The AAC Mk.34 serves as the stock shell, a basic HE shell with 3.22 kg TNTe. Thi
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer New York Shipbuilding Corp.}}
 {{USA light cruisers}}

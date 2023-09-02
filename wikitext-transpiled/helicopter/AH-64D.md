@@ -80,7 +80,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * Without load
-* 8 x ATAS (AIM-92) missiles
+* 4 x ATAS (AIM-92) missiles
 * 76 x Hydra-70 M247 rockets
 * 28 x APKWS II (M151) missiles
 * 28 x APKWS II (M282) missiles
@@ -108,7 +108,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | || 7 || 7 || 7 || 7 ||
 |-
 ! ATAS (AIM-92) missiles
-| 4 || || || || || 4
+|2|| || || || ||2
 |-
 ! Countermeasures
 | 60 || || || || || 60
@@ -209,6 +209,7 @@ Following this, work on refining the YAH-64's design continued throughout the la
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -230,9 +231,11 @@ File:AH-64D (6).jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[AH-64 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
+
 * [[EC-665 Tiger UHT]]
 * [[EC-665 Tiger HAD]]
 * [[Mi-28N]] and [[Ka-52]]

@@ -1,10 +1,7 @@
 {{About
 | about = British frigate '''{{PAGENAME}}'''
-| other
-| usage-1 = the German destroyer
-| link-1 = Leopard
-| usage-2 = other uses
-| link-2 = Leopard (Disambiguation)
+| usage = other uses
+| link = Leopard (Disambiguation)
 }}
 {{Specs-Card
 |code=uk_frigate_leopard

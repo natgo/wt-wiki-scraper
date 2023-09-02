@@ -238,7 +238,7 @@ With such design problems and over budget, MBT/KPz-70 project was officially can
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kpz_70 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|ly9JS6errQQ|'''Best secondary armaments''' discusses the {{PAGENAME}} at 6:03 - ''War Thunder Official Channel''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 5:27 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|uQCn8UpVtDc|'''MBT-70: Tank from the Future''' - ''War Thunder Official Channel''|ly9JS6errQQ|'''Best secondary armaments''' discusses the {{PAGENAME}} at 6:03 - ''War Thunder Official Channel''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 5:27 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

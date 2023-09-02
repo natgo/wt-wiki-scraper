@@ -68,6 +68,8 @@
 {{Tree-Skip}}
 {{Tree-Unit|germ_sdkfz_234_3}}
 {{Tree-Skip}}
+{{Tree-Unit|germ_amd_35_kwk}}
+{{Tree-Skip}}
 
 {{Tree-Line|II Rank}}
 |
@@ -241,6 +243,8 @@
 {{Tree-Unit|germ_ru251}}
 {{Tree-Skip}}
 {{Tree-Unit|germ_flakpanzer_V_Coelian}}
+{{Tree-Skip}}
+{{Tree-Unit|germ_spz_12_3}}
 {{Tree-Skip}}
 
 {{Tree-Line|V Rank}}

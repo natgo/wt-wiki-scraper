@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (夕立, [[Abbreviations#.28JP.29_Naval|namesake]]: Evening Squall) is a premium gift rank {{Specs|rank}} Japanese destroyer {{Battle-rating}}. It was introduced during [[Update 1.89 "Imperial Navy"]] as a reward for the [[wt:en/news/6293/current|2019 Operation H.E.A.T event]].
+The '''{{Specs|name}}''' (夕立, [[Abbreviations#.28JP.29_Naval|namesake]]: Evening Squall) was the fourth of ten Shiratsuyu-class destroyers. She was launched in 1936, and participated in many battles and invasions in the Pacific and Indian Oceans. She was referred to by the Allied soldiers as "the Nightmare of Solomon" because of her reputation for taking bold and aggressive measures. Bearing white sails to boost crew morale, these signs were mistaken for white surrender flags, which greatly outraged Allied sailors as Yuudachi was in active combat. She was caught between US ships after a fierce final night battle that left many Allied ships damaged. She mistook them for friendly Japanese ships and flashed the wrong signals at enemy ships, which caused her to be salvoed on with shells and torpedoes, leaving her disabled in the water. The Japanese destroyer Samidare picked up 206 remaining crew, but it was unable to scuttle. The unmanned Yuudachi was sunk by the [[USS Portland]] on 13 November 1942 while drifting in the water with actual white surrender flags, with the US crew ignoring the surrender owing to her earlier actions.
+
+She was introduced during [[Update 1.89 "Imperial Navy"]] as a reward for the [[wt:en/news/6293/current|2019 Operation H.E.A.T event]].
 
 == General info ==
 === Survivability and armour ===

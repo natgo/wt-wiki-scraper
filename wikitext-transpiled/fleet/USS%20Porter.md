@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American destroyer {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
+The '''{{Specs|name}}''' is the lead ship of her class of 8 destroyers, and the only one to be lost in combat. Laid down in 1933, she would enter service in 1936. She would get underway from Pearl Harbour on the 5th of December 1941, missing the attack by two days. She would only see combat in one major battle, receiving critical damage from a torpedo strike in the Battle of the Santa Cruz Islands. After the crew had abandoned ship, Porter was scuttled by fire from the USS Shaw. Sources vary on the source of the torpedo, and it was either sunk by the Japanese submarine I-21 or a ditching Grumman TBF Avenger's torpedo, although this seems unlikely due to the state of American torpedoes at this point in the war.
+
+USS Porter was introduced in [[Update 1.95 "Northern Wind"]]. With a main battery of 4 double-mount {{Annotation|5-inch|127 mm}}/38 guns, captains can expect to be able to deal with most destroyers and some light cruisers with relative ease. The primary battery has a  {{Annotation|22 rounds-per-minute|2.72 second}} reload when on ace crew, and although the guns begin to struggle against more heavily armoured light cruisers and heavy cruisers, the blistering rate of fire makes up for it. Compared to her sister ships such as the [[USS Moffett]], she is in an earlier 1941 refit, and therefore has a much more paltry anti-aircraft armament, down to only 2 double heavy machine gun mounts, though the proximity shells of the main battery can help deal with any major threats.
 
 == General info ==
 === Survivability and armour ===

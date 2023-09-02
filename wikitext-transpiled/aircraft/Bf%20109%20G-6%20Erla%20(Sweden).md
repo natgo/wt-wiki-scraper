@@ -75,7 +75,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-ratin
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+
+* 60 mm Bulletproof glass in front and rear of the cockpit.
+* 4-8 mm Steel plates on pilot seat.
+* 10 mm Steel plates around pilot's head.
+* 21 mm Steel plate on the rear of the fuel tank, with 4 mm plates surrounding it on other sides.
 
 === Modifications and economy ===
 {{Specs-Economy}}

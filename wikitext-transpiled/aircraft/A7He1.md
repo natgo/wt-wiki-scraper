@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.37]]. The {{PAGENAME}} is an exact copy of the German [[He 112 B-0]], which were sent to Japan by the Luftwaffe.
+The '''{{Specs|name}}''' was the Japanese Navy's purchase of the German [[He 112 (Family)|He 112 B-0]] to strengthen the {{Annotation|IJNAS|Imperial Japanese Navy Air Service}} in China. The Germans had stopped using the He 112 for their own purposes after it lost to the [[Bf 109 (Family)|Bf 109]] and sold them to other countries. The Japanese tested the A7He1 against their own [[A5M4|A5M]] fighter, which was the best they had at the time. The [[A6M]], a more advanced fighter, was not ready yet. The A7He1 had more powerful guns and could fly faster than the A5M4, but it was not very agile and could not climb as well. It also did not fit the Navy's flying doctrine. The Japanese decided to cancel the order for more A7He1s and only kept them for studying their features, engine and equipment.
+
+It was introduced in [[Update 1.37]]. It provides an interesting yet different playstyle to the Japanese tree. The name of the game is speed and firepower for the A7He1 / [[He 112 B-0]]. It can reach a maximum speed of 690 km/h, which is very fast for its rank. However, it does not have a stellar climb rate, and it is not very agile or responsive. The best feature of this plane is its armament, which consists of two 20 mm cannons and two 7.92 mm machine guns. 
 
 == General info ==
 === Flight performance ===

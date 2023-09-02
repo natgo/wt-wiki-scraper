@@ -19,7 +19,7 @@ Furthermore, the Goshawk is also capable of providing close air support, making 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 3,500 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -28,10 +28,10 @@ Furthermore, the Goshawk is also capable of providing close air support, making 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 397 || 384 || rowspan="2" | {{Specs|ceiling}} || 13.9 || 14.5 || 12.1 || 11.9 || rowspan="2" | 274
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 423 || 411 || 12.7 || 13.3 || 16.6 || 14.2
 |-
 |}
 
@@ -42,7 +42,7 @@ Furthermore, the Goshawk is also capable of providing close air support, making 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| _ || _ || _ || _ || _     <!-- ✓ -->
+| X || X || X || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -57,7 +57,7 @@ Furthermore, the Goshawk is also capable of providing close air support, making 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 600 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| 600 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~12 || ~6
 |-
 |}
 
@@ -67,7 +67,7 @@ Furthermore, the Goshawk is also capable of providing close air support, making 
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || > ___
+| < 240 || < 220 || < 350 || > 190
 |-
 |}
 
@@ -93,7 +93,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.''
+The BF2C-1 has 4 x 100 lb bombs, which makes it good in combined battles as CAS, but it's not recommended to take these bombs in air battles as the BF2C-1 is a very slow plane, making it even weaker in turnfights.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -131,24 +131,26 @@ Just remember that equipping the bombs will make your plane heavier, so if you f
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=bf2c_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;[[BF2C Goshawk (Family)|Related development]]
+
+* [[Hawk III]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8224-development-bf2c-1-goshawk-new-reserve-aircraft-of-the-usa-en|[Devblog] BF2C-1 Goshawk: new reserve aircraft of the USA]]
 
+{{AirManufacturer Curtiss}}
 {{USA fighters}}

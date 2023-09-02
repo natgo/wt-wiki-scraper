@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian utility helicopter {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+The Agusta A109 is a multi-role utility helicopter made by Italy. The company known as Agusta, which were known for making motorbikes and various different helicopters such as the Agusta-Bell AB-205 and the Agusta A-129 Mangusta would create this helicopter mainly because they were looking to break into the export market. Mainly intended for commercial use and a civilian market, when designing this helicopter Agusta quickly realised that the specifications could be slightly altered and also allow the platform to be marketed for military roles. By 1973, the first ever military prototype of the Agusta A109 was presented, and various armaments would begin to be integrated in the following years, such as TOW ATGMs.
+
+Introduced in [[Update "Hot Tracks"]], the A109 can pose a serious threat against the enemy team. You have the ability to mount up to 4 missiles at once, with the option of being able to also mount gunpods or extra rocket pods. The flight performance for this helicopter is one of the best for its battle rating, and due to all the empty space it is also able to withstand a number of hits before being rendered unable to keep on fighting. Keep in mind that you don't have access to countermeasures, so any missile AA will make short work of you if you are not paying attention. One of the main issues players might face with this helicopter is unlocking the TOW missiles; although the A109 gets rockets stock, they are very limited and very hard to aim at enemy vehicles. For best results, prioritize taking out light tanks and enemy aircraft which are not alerted by you.
 
 == General info ==
 === Flight performance ===
@@ -44,19 +46,36 @@ The A.109 is not very survivable. Like many helicopters above and below its batt
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|BGM-71C Improved TOW|FFAR Mighty Mouse|FN M3P (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FN M3P (12.7 mm)|12.7 mm FN M3P]] machine guns (400 rpg)
+| || 1 || 1 ||
+|-
+! [[FN M3P (12.7 mm)|12.7 mm FN M3P]] machine guns (250 rpg)
+| || 1* || 1* ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 7 || 3*, 7 || 3*, 7 || 7
+|-
+! [[BGM-71C Improved TOW]] missiles
+| 2 || || || 2
+|-
+| colspan="6" | * Triple FFAR rockets and 250-round machine guns can only be equipped together
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 28 x FFAR Mighty Mouse rockets
+* 4 x BGM-71C Improved TOW missiles
 * 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
 * 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 6 x FFAR Mighty Mouse rockets
-* 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 14 x FFAR Mighty Mouse rockets
-* 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 20 x FFAR Mighty Mouse rockets
-* 4 x BGM-71C Improved TOW missiles
-* 4 x BGM-71C Improved TOW missiles + 14 x FFAR Mighty Mouse rockets
-* 4 x BGM-71C Improved TOW missiles + 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
-* 4 x BGM-71C Improved TOW missiles + 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 6 x FFAR Mighty Mouse rockets
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

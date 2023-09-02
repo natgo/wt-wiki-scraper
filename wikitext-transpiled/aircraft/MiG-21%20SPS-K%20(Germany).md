@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO Code: Fishbed-F) is a premium gift rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced as a premium pack in [[Update "Ground Breaking"]].
+The '''{{Specs|name}}''' (NATO Code: Fishbed-F) is a premium gift rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced as a premium pack in [[Update "Ground Breaking"]], and was removed from the Gaijin store at the end of the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]]. It was made available briefly to purchase with Golden Eagles {{GE}} during the [[wt:en/news/8324-special-the-mig-21-sps-k-returns-to-celebrate-the-mig-21-s-first-flight-en|2023 "MiG-21's First Flight" celebration]].
 
 == General info ==
 === Flight performance ===

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' represents the proposed introduction of the F-16C Block 40 into JASDF service, as suggested by General Dynamics on multiple occasions, including Japanese airshows and their executive summary. The JASDF had plans to import third-generation jet fighters from NATO or allied countries to replace their existing fleet of F-86 and F-104J aircraft as part of a parallel program to develop the successor to the Mitsubishi F-1 by the 1980s. However, due to various complications within and outside Japan, the introduction plans were ultimately abandoned, and Mitsubishi chose to develop the F-2 with the support of General Dynamics instead.
+The '''{{Specs|name}}''' represents the proposed introduction of an F-16 closely resembling a YF-16 into JASDF service, as suggested by General Dynamics. The JASDF had plans to select a winner from 13 candidates proposed by different aircraft companies as part of a program to replace its ageing fleet of F-104Js and to serve alongside their F-4EJ aircraft. Ultimately, the program came down to a choice between the F-14, F-15, and F-16 where the F-15 emerged as the victor, becoming the F-15J.
 
-Introduced in [[Update "Sky Guardians"]], the F-16AJ is currently one of only two truly multirole F-16s in the game, alongside the ROCAF's [[F-16A MLU (China)|F-16A MLU]]. The F-16AJ also marks the introduction of the AGM-65 series into JASDF service, providing much-anticipated precision air-to-ground weaponry for the JGSDF. With one of the latest airborne radars in the game and weapon systems mostly identical to other F-16 variants, the F-16AJ now presents a good option for players who require both air interception and ground attack capabilities. Its available payloads will not disappoint players.
+Introduced in [[Update "Sky Guardians"]], the F-16AJ is currently one of only two truly multirole F-16s in the game, alongside the ROCAF's [[F-16A MLU (China)|F-16A MLU]]. The F-16AJ also marks the introduction of the AGM-65 series into JASDF service, providing much-anticipated precision air-to-ground weaponry for Japanese pilots. With one of the latest airborne radars in the game and weapon systems mostly identical to other F-16 variants, the F-16AJ now presents a good option for players who require both air interception and ground attack capabilities. Its available payloads will not disappoint players.
 
 == General info ==
 === Flight performance ===
@@ -111,7 +111,7 @@ Introduced in [[Update "Sky Guardians"]], the F-16AJ is currently one of only tw
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+As a result of its role as a light fighter aircraft, the F-16AJ lacks any armour protection at all. In addition to this, a significant portion of the F-16AJ's internal volume is occupied by self-sealing fuel tanks, making the aircraft prone to being set on fire when hit. Generally, the F-16AJ will suffer a significant hit to its performance when critically damaged to the point where the aircraft can irrecoverably spin out of control if turning too hard with asymmetrical damage. Finally, the F-16AJ only has one engine, meaning that engine damage is critical. The F-16AJ's smaller overall size and superb mid speed manoeuvrability lends well to it being able to get out of the way of enemy gunfire in close range dogfights.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -134,9 +134,8 @@ Introduced in [[Update "Sky Guardians"]], the F-16AJ is currently one of only tw
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm JM61A1 cannon, wing root-mounted (512 rpg)
-** 1 x 20 mm JM61A1 cannon + 60 x countermeasures
+* 1 x 20 mm JM61A1 cannon, port wing root-mounted (512 rpg)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -182,6 +181,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 300 gal drop tank
 * 2 x AIM-9P Sidewinder missiles
 * 6 x AIM-9P Sidewinder missiles
@@ -199,29 +199,29 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
 
 * Excellent acceleration and climb rate at any speed and highly manoeuvrable at low to medium speeds
-* Excellent 20 mm Vulcan cannon, with a high precision, fire rate and damage
+* Excellent 20 mm Vulcan cannon, with high precision, fire rate, and damage
 * Able to carry a drop tank to increase flight time
-* Capable of carry 6 powerful air-to-air missiles, such as 6 x [[AIM-9L Sidewinder]] or mixed with 2 x [[AIM-7F Sparrow|AIM-7F]]
+* Can carry 6 powerful air-to-air missiles, such as 6 x [[AIM-9L Sidewinder]] or 4 x [[AIM-9L Sidewinder]] with 2 x [[AIM-7F Sparrow|AIM-7F]]
 * 360° unobstructed bubble canopy perfect for simulator battles
 * Capable of carrying an extremely diverse wide range of bombs, rockets and AGM-65Bs
 
 '''Cons:'''
 
-* As the airframe is based on the earlier F-16A models, the elevator is significantly smaller than the late variants of the F-16A and has a worse manoeuvrability compared to a ADF or MLU models
 * Internal M61 cannon has a low ammo pool and trigger time
-* Control surfaces compression above 850 km/h, greatly decreasing the manoeuvrability above this speed
+* No thermal imaging pod for ground attack purposes
+* Control surfaces compress above 850 km/h, greatly decreasing the manoeuvrability above this speed
 * Very high fuel consumption with afterburner on, and high engine temperature
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-Historically, JASDF is not an user of F-16 series (while USINDOPACOM operates F-16C in Japan airbases); as JASDF was seeking for a new domestic jet fighter to replace the fleet of earlier jets (F-86F, F-104J), as well as pre-development for Mitsubishi F-1 replacement jet. The ambitious plan for a domestic 3rd generation jet fighter came into plan as the Mitsubishi-led enterprises tried to "make Hinomaru flies into the skies again" and further enhancing the Japan's defense industry by mobilizing the whole industry for a new jet. While this plan was given the green light, there were plans for importing foreign jets from the NATO systems; one of these plan was introducing F-16AJ to JASDF service as shown in a twitter post where General Dynamics advertised their jet in 5th Japan International Aerospace Exhibition in 1976<ref>https://twitter.com/Fighterman_FFRC/status/1633781167546859520?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1633786947650072577%7Ctwgr%5Ecd07cbf618c6ac31bc6c1de1ca7e6fcc4e0c9014%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Fforum.warthunder.com%2Findex.php%3Fapp%3Dcoremodule%3Dsystemcontroller%3Dembedurl%3Dhttps%3A%2F%2Ftwitter.com%2FStormovikForeve%2Fstatus%2F1633786947650072577</ref> and from an executive summary from GD (numbered F16-120-1)<ref>As shown in the jet's suggestion page at the forum
+Historically, the JASDF was not a user of the F-16 series (though USINDOPACOM operates the F-16C in Japanese airbases). In the 1970s, the Japanese government was seeking to replace its outdated fleet of F-104J Starfighters in response to advances in the aircraft technology of neighbouring countries. As such, they launched a program and eventually got 13 proposals from different aircraft companies, including the Grumman F-14, McDonnell Douglas F-15, and General Dynamics F-16. After much consideration and testing, the program was narrowed down to just the F-14, F-15, and F-16. Discussion and flight tests continued and the F-15 prevailed as the winner of the competition, shattering any hopes for the F-16AJ, and ultimately any F-16 to see service with the JASDF.
 
-https://forum.warthunder.com/index.php?/topic/545474-f-16ajbj-a-possible-solution/</ref>.
-
-Japan eventually opted for co-development between Japan and US based on the airframe of F-16 and some revisions for better anti-ship payload known as F-2 in the future; marking the attempted sales of F-16AJ failed.
+Even though the F-16 proposal failed, a derivative of the F-16 was chosen by Japan in order to serve as a multirole aircraft for the FS-X program. This aircraft ultimately became known as the Mitsubishi F-2, which is still in service with the JASDF today.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -249,4 +249,3 @@ Japan eventually opted for co-development between Japan and US based on the airf
 
 {{AirManufacturer General Dynamics}}
 {{Japan jet aircraft}}
-<references />

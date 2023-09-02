@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+RN Aquilone, laid down on 18 May 1925, launched on 3 August 1927, completed and commissioned on 3 December 1927 was a destroyer of the Regia Marina of the Turbine class, was assigned in 1929 to the 1°Divisione Navale, in 1936-1937 participated in the Spanish Civil War, participated in the Second World War despite the state of the ship already very worn, participated in particular in fighting in the seas of Libya and several battles in Tobruk, while sailing to Tripoli on 17 September 1930, took naval mines that due to the fog were not visible, the RN Aquilone sank quickly.
+
+RN Aquilone was introduced in the [[Update "New Power"|"New Power" update]], is a premium destroyer, that has the same armament as the RN Turbine, the ship has a very good manoeuvrability and speed, but the armament is not one of the best but can do its job, the two dual 120mm turrets with the HEs can cause a good amount of damage, meanwhile if you find armoured target use the AP shots, the AA armament is composed by three 40mm Vickers-Terni that has HE-FT is very ineffective for medium and long-range but for short range can do some quite of punch to enemy boats and can kill very well the enemy planes incoming
 
 == General info ==
 === Survivability and armour ===

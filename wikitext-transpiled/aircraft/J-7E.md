@@ -25,7 +25,7 @@ Thanks to the new engine and the slat-equipped double-delta wings, the J-7E has 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 12,000 m)
+! colspan="2" | Max speed<br>(km/h at 12,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -34,10 +34,10 @@ Thanks to the new engine and the slat-equipped double-delta wings, the J-7E has 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 2,187 || 2,156 || rowspan="2" | {{Specs|ceiling}} || 28.5 || 29.0 || 153.3 || 144.6 || rowspan="2" | 750
+| 2,313 || 2,284 || rowspan="2" | {{Specs|ceiling}} || 24.5 || 25.0 || 153.3 || 144.7 || rowspan="2" | 750
 |-
 ! Upgraded
-| 2,255 || 2,230 || 27.3 || 28.2 || 187.2 || 178.5
+| 2,458 || 2,387 || 23.5 || 24.0 || 209.1 || 180.0
 |-
 |}
 
@@ -63,7 +63,7 @@ Thanks to the new engine and the slat-equipped double-delta wings, the J-7E has 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 525 || 450 || ~11 || ~5
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || 525 || 450 || ~11 || ~5
 |-
 |}
 
@@ -73,7 +73,7 @@ Thanks to the new engine and the slat-equipped double-delta wings, the J-7E has 
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 650 || < 600 || < 790 || N/A
+| < 650 || < 600 || < 790 || -
 |-
 |}
 
@@ -139,9 +139,8 @@ The J-7E comes with a 10 mm plate behind pilot's head and a 16 mm plate behind t
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm Type 30-1 cannon, belly-mounted (60 rpg)
-** 1 x 30 mm Type 30-1 cannon + 72 x countermeasures
+* 1 x 30 mm Type 30-1 cannon, belly-mounted (60 rpg)
+* 72 x countermeasures
 
 Because the addition of a new fuel tank to the lower left side of the aircraft and compensation for the weight of newer missiles, unlike its predecessor, the J-7E has only a single Type 30-1 cannon on the starboard side. It does have good ballistics and firepower (a few hits will rip apart most aircraft), but for pilots without good aiming skills the stingy 60-round ammo capacity will be very painful. Experienced pilots may prefer it over the 23 mm cannon used by most Soviet Fishbeds due to its accuracy and stopping power. In SB, the J-7E comes with a HUD and the ranging radar is linked to it, making it somewhat useful to track down enemies and gun them down with a bit more precision. However, pilots do need to compensate the offset of the starboard gun and aim a bit towards the left when shooting at closer ranges.
 
@@ -186,6 +185,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x PL-5B missiles
 * 4 x PL-2 missiles
@@ -255,6 +255,7 @@ Countermeasures and a radar warning receiver allow the J-7E to have good defensi
 * No all-aspect IR missiles
 * Missile capacity of 4 is below average
 * RWR only displays 4 quadrants and does not display the exact position of a radar lock in respective to the aircraft, notching PD radar missiles can prove more difficult.
+* Engine can be prone to overheat occasionally with extended use
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

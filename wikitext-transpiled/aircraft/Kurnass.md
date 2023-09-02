@@ -211,6 +211,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 600 gal drop tank
 * 2 x AIM-9D Sidewinder missiles
 * 6 x AIM-9D Sidewinder missiles
@@ -252,7 +253,7 @@ The F-4E has a high rate of climb. This is however where most of its performance
 * Vast variety of air and ground ordnance
 * Good top speed
 * Equipped with RWR and countermeasures
-* Can carry up to 8 potent AAMs
+* Can carry up to 8 potent air-to-air missiles, or six IR-guided AAMs, a rare payload for Phantoms
 * 20 mm M61 cannon has great ballistics, high damage and high rate of fire
 * Good acceleration
 
@@ -285,6 +286,7 @@ In total, Israeli Phantoms scored ~116 aerial kills against Arab aircraft betwee
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-4 Phantom II (Family)]]
 
 == External links ==

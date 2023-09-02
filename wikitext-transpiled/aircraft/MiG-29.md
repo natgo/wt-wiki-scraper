@@ -203,6 +203,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 1,500 l drop tank
 * 2 x R-60M missiles
 * 6 x R-60M missiles
@@ -232,7 +233,7 @@ The MiG-29 has a unique flight character, its engines consume a lot of fuel thus
 
 '''Air combat'''
 
-At the start of a match, take all the fuel you can and make sure your custom loadout has drop tank equipped in it. Equip air target belts, 4 R-60M's and 2 R-27ER/R or 2 R-27T (depending on what you prefer). Take off and start going into a flank position, your goal here is to pick off alone flying jets. The MiG-29 excels at solo fighting and performs the best when engaging single targets. Make sure to stick near the ground until you have found yourself a target. Once you got yourself a target, start engaging it and keep your speed up. If the target is high altitude or long distance, make use of your R-27 missiles to take care of it from a distance. when in close range make use of your R-60M, but beware of enemy targets that might join the fight. It should be noted to stay away from flock of enemies, the MiG-29 performs poor when under pressure from multiple targets and will become a easy elimination to the enemy. The suggested radar modes for basic users to use are: SRC PD and HMD PD (for close range). During close range dog fighting the MiG-29 can make use of both the radar and IRST to get a lead indicator when locked on target, which is extremely useful and makes eliminating by gun easier. Lastly: keep a eye on your fuel, because this Jet consumes it so fast that in important dog fights you might run out of fuel mid-battle.
+At the start of a match, take all the fuel you can and make sure your custom loadout has drop tank equipped in it. Equip air target belts, 4 R-60M's and 2 R-27ER/R or 2 R-27T (depending on what you prefer). Take off and start going into a flank position, your goal here is to pick off alone flying jets. The MiG-29 excels at solo fighting and performs the best when engaging single targets. Make sure to stick near the ground until you have found yourself a target. Once you got yourself a target, start engaging it and keep your speed up. If the target is high altitude or long distance, make use of your R-27 missiles to take care of it from a distance. But when players decided to hunt down enemy jets with SARH missiles, the enemies will do the same and here comes a flaw to the electronics of the jet: the SPO-15 RWR; although claimed to be all-aspect, the system is in fact divided into 8 smaller sectors at the front-aspect while having only 2 sectors at the rear-aspect, this can be a major problem when multiple targets have a lock on MiG-29 - the pilots have to make a guess on where exactly the source comes from, especially when enemy jets is chasing MiG-29. This can be a major problem in SB battles with only cockpit view. When in close range make use of your R-60M, but beware of enemy targets that might join the fight. It should be noted to stay away from flock of enemies, the MiG-29 performs poor when under pressure from multiple targets and will become a easy elimination to the enemy. The suggested radar modes for basic users to use are: SRC PD and HMD PD (for close range). During close range dog fighting the MiG-29 can make use of both the radar and IRST to get a lead indicator when locked on target, which is extremely useful and makes eliminating by gun easier. Lastly: keep a eye on your fuel,  because this Jet consumes it so fast that in important dog fights you might run out of fuel mid-battle.
 
 '''Guide on R-27R/ER'''
 
@@ -262,8 +263,10 @@ The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realisti
 '''Cons:'''
 
 * Manoeuvrability drops at higher speed due to pilot pulling more G's, which can make it difficult to turn quickly without G-LOCing the pilot, such as evading a radar missile fired at close range
+* The SPO-15 RWR is pseudo-all-aspect where the detections are divided into different sectors instead of showing the exact direction
 * Underperforming IR missiles
 * Radar mechanics may have larger margin of error against very long-range (greater than 30 km) and very low altitude planes, even if enemy are within radar missile's weapon envelope
+* Very limited supply of ammo (150 rounds)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American heavy cruiser {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''{{Specs|name}}''' is the lead ship of her class of three heavy cruisers, laid down in late May 1945 shortly before the end of World War 2. Derived from the earlier [[Baltimore (Family)|Baltimore-class]] heavy cruisers, she was the first ship in the US Navy to utilize autoloading {{Annotation|8-inch|203 mm}} guns. She would not see combat, only being commissioned in 1948, with a short service life of only 13 years, being decommissioned in 1961. Notably, she did serve as the flagship of the Mediterranean fleet for 7 of those years, and as the control center for American armed forces in the Lebanon crisis of 1958.
+
+Introduced in [[Update "Sky Guardians"]], USS Des Moines is in an earlier refit compared to her sister ship [[USS Newport News]], and actually has a much stronger anti-aircraft battery: increased from two double {{Annotation|3-inch|76 mm}} autocannon mounts on the Newport News, to a whopping 12 double mounts, plus an additional twelve double 20 mm mounts. This means that in addition to her impressive anti-ship capabilities with a 6-second reload for her main battery, she can also serve as a protective screen for battleships and less protected cruisers against air attack.
 
 == General info ==
 === Survivability and armour ===

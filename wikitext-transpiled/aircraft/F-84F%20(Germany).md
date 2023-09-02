@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+After an 11-year hiatus, the West German Air Force was revived after Germany was brought into NATO to counter the Soviet threat. As part of the initiative to further arm countries in NATO, multiple countries like West Germany and Italy received hundreds of F-84F Thunderstreaks. The Luftwaffe received over 400 F-84Fs in the late 1950s and early 1960s. JagdBomberGeschwader 31 (JBG31) would be the first air wing with the F-84Fs. As more air wings received the Thunderstreaks, the accident rate went up as well. Germany had a 25+% loss rate with the new Thunderstreaks and the public complained about it. This trend would continue with the F-104, the next plane the Luftwaffe ordered to replace the F-84F in 1966.
+
+Introduced in [[Update "Hot Tracks"]], the '''{{Specs|name}}''' is a decent strike aircraft that can carry 250 lb bombs up to 2,000 lb bombs along with rockets. The six centre-mounted M3 Browning machine guns are incredibly effective in taking out light pillboxes and other soft ground targets like anti-air or howitzers. However, the F-84F struggles with fighting other aircraft. The speed of the earlier F-84Gs is largely insignificant when it comes to the F-84F as many other planes in its BR bracket are much better in terms of performance. Ultimately, it's a good strike aircraft that suffers when it comes to defending itself or attacking other enemy players.
 
 == General info ==
 === Flight performance ===
@@ -19,7 +21,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battl
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 0 m - sea level)
+! colspan="2" | Max speed<br>(km/h at 0 m - sea level)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -28,10 +30,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battl
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1,089 || 1,066 || rowspan="2" | {{Specs|ceiling}} || 29.9 || 31.2 || 31.1 || 29.2 || rowspan="2" | 3,000
+| 1,090 || 1,067 || rowspan="2" | {{Specs|ceiling}} || 29.7 || 30.9 || 30.7 || 28.8 || rowspan="2" | 2,000
 |-
 ! Upgraded
-| 1,111 || 1,102 || 26.3 || 28.0 || 45.5 || 38.0
+| 1,111 || 1,102 || 26.5 || 28.0 || 45.9 || 38.0
 |-
 |}
 
@@ -109,11 +111,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battl
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The F-84F has three armoured pieces protecting the pilot. There is a 38 mm pane of bulletproof glass angled at 61° directly in front of the pilot. An 8 mm steel plate angled at 15° sits directly behind the pilot's seat and almost entirely covers the pilot directly from the rear. Lastly, there is a 12.7 mm steel plate angled at 56° right above and behind the pilot's head. The F-84F has six self-sealing fuel tanks. Two of the tanks sit near the wingtips, and another two are placed at the wing roots. Lastly, one fuel tank sits directly beneath the pilot and the final tank is behind the pilot. Although the F-84F does have armour and self-sealing fuel tanks, it's ultimately futile when many of its opponents have high-powered cannons like DEFAs or NR-23s.
 
 === Modifications and economy ===
 {{Specs-Economy}}
-For modifications, as with almost all jets in the German tree, performance and survivability mods should be priority, except for the booster which really is not all that necessary and lends itself to more wing rips. G-Suit is a must. The six .50 caliber guns are accurate enough baselines as is the ammo, so go for the bombs and/or rockets next.
+
+For modifications, as with almost all jets in the German tree, performance and survivability mods should be priority, except for the booster which really is not all that necessary and lends itself to more wing rips. G-Suit is a must. The six .50 calibre guns are accurate enough baselines as is the ammo, so go for the bombs and/or rockets next.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -123,7 +126,7 @@ For modifications, as with almost all jets in the German tree, performance and s
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
 |-
-| {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
+| {{Tick}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -139,11 +142,41 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|BLU-1 incendiary}}
-{{main|FFAR Mighty Mouse|HVAR}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84F.png]]</div>
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[BLU-1 incendiary]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 7 || 7 || 7 || || || 7 || 7 || 7
+|-
+! [[HVAR]] rockets
+| 2 || 2 || 2 || 6 || 6 || 2 || 2 || 2
+|-
+| colspan="9" | Maximum permissible loadout weight: 2,700 kg<br>Maximum permissible wing load: 1,350 kg<br>Maximum permissible weight imbalance: 700 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 24 x HVAR rockets
 * 42 x FFAR Mighty Mouse rockets
@@ -152,37 +185,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
 * 4 x BLU-1 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84F.png]]</div>
-|-
-! 250 lb LDGP Mk 81 bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! 500 lb LDGP Mk 82 bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! BLU-1 incendiary bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! FFAR Mighty Mouse rockets
-| 7 || 7 || 7 || || || 7 || 7 || 7
-|-
-! HVAR rockets
-| 2 || 2 || 2 || 6 || 6 || 2 || 2 || 2
-|-
-| colspan="9" | Maximum permissible loadout weight: 2,700 kg<br>Maximum permissible wing load: 1,350 kg<br>Maximum permissible weight imbalance: 700 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -211,6 +214,7 @@ It will automatically detect other planes within the scanning area and display t
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
 '''Pros:'''
 
 * 4 nose-mounted .50 cals plus 2 near the side of the airframe making accurate shots possible

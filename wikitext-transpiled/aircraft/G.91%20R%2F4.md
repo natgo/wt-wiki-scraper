@@ -139,24 +139,56 @@ Though the G.91 R/4 does have a decent amount of armour spaced out between the c
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|Aerea 559G1 incendiary|FFAR Mighty Mouse|M3 Browning (12.7 mm)}}
-{{main|AA-20 Nord|AIM-9B Sidewinder|AS-20 Nord}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 4 x 12.7 mm M3 Browning machine guns, nose-mounted (300 rpg = 1,200 total)
-* 4 x 12.7 mm M3 Browning machine guns + 38 x FFAR Mighty Mouse rockets
-* 2 x 12.7 mm M3 Browning machine guns + 2 x AA-20 Nord missiles
-* 2 x 12.7 mm M3 Browning machine guns + 2 x AS-20 Nord missiles
-* 2 x 12.7 mm M3 Browning machine guns + 4 x AS-20 Nord missiles
-* 2 x 12.7 mm M3 Browning machine guns + 4 x AA-20 Nord missiles
-* 2 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs + 2 x AS-20 Nord missiles (1,000 lb total)
-* 2 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs + 2 x AA-20 Nord missiles (1,000 lb total)
-* 4 x 12.7 mm M3 Browning machine guns + 4 x AIM-9B Sidewinder missiles
-* 4 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-* 4 x 12.7 mm M3 Browning machine guns + 2 x Aerea 559G1 incendiary bombs
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_G.91_R-4.png]]</div>
+|-
+! [[M3 Browning (12.7 mm)|12.7 mm M3 Browning]] machine guns (300 rpg)
+| || || 2 || 2* || ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || 1 || || || 1 ||
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| || 1 || || || 1 ||
+|-
+! [[Aerea 559G1 incendiary]] bombs
+| || 1 || || || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| || 19 || || || 19 ||
+|-
+! [[AA-20 Nord]] missiles
+| 1* || 1* || || || 1* || 1*
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || 1 || || || 1 || 1
+|-
+! [[AS-20 Nord]] missiles
+| 1* || 1* || || || 1* || 1*
+|-
+| colspan="7" | Maximum permissible weight imbalance: 390 kg
+|-
+| colspan="8" | * MCLOS missiles cannot be carried in conjunction with machine guns on hardpoint 4
+|}
 
-Featuring a wide range of ordnance, the G.91 R/3 can be equipped for any role from ground to air combat, though it prefers air superiority.
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 4 x 12.7 mm M3 Browning machine guns (300 rpg = 1,200 total)
+* 2 x 12.7 mm M3 Browning machine gun + 4 x AA-20 Nord missiles
+* 4 x 12.7 mm M3 Browning machine guns + 4 x AIM-9B Sidewinder missiles
+* 4 x 12.7 mm M3 Browning machine guns + 38 x FFAR Mighty Mouse rockets
+* 2 x 12.7 mm M3 Browning machine gun + 4 x AS-20 Nord missiles
+* 4 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 4 x 12.7 mm M3 Browning machine guns + 2 x 500 lb Mk 82 Snakeye bombs (1,000 lb total)
+* 4 x 12.7 mm M3 Browning machine guns + 2 x Aerea 559G1 incendiary bombs
+{{Navigation-End}}
+
+Featuring a wide range of ordnance, the G.91 R/4 can be equipped for any role from ground to air combat, though it prefers air superiority.
 
 The M3 Browning is a new weapon in the Italian arsenal at rank V and, compared to the previous experiences, a let down. The rate of fire is phenomenal, but the small calibre and ammo size put a serious damper to the mood, that is in comparison of course. In practise and with good aim, it can easily shred four fighters. The high bullet velocity and fire rate is quite the advantage in the fast pace world of jet combat, ensuring hits in deflection shots where the lower rate of fire found in the [[:Category:Fifth_rank_aircraft|Soviet jet fighters]] might have failed the pilot.
 

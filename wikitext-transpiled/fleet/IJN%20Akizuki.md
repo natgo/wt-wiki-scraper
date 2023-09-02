@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (秋月, [[Abbreviations#.28JP.29_Naval|namesake]]: Autumn Moon) is a rank {{Specs|rank}} Japanese destroyer {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]]. The Akizuki is the pinnacle of the Japanese destroyer line, and in-game captains will notice that this ship's playstyle is radically different from other Japanese destroyers, especially thanks to the 100 mm guns.
+The '''{{Specs|name}}''' (秋月, [[Abbreviations#.28JP.29_Naval|namesake]]: Autumn Moon) was the lead ship of the Imperial Japanese Navy's new Type B destroyer category. They were originally designed as anti-air, carrier-screening destroyers, but the Imperial Japanese Navy General Staff Office intervened to make them more general purpose by adding a quadruple torpedo launcher and depth charges. During the war, the class proved to be a very capable multipurpose platform and was well-regarded in the IJN.
+
+Introduced in [[Update 1.89 "Imperial Navy"]], the Akizuki is the pinnacle of the Japanese destroyer line, and captains will notice that this ship's playstyle is radically different from other Japanese destroyers, especially thanks to the [[100/65 mm Type 98 mod A (100 mm)|100/65 mm Type 98A]] guns offering a high fire rate.
 
 == General info ==
 === Survivability and armour ===

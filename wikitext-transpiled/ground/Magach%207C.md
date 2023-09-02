@@ -117,7 +117,7 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 900 (200) || 577 || N/A || N/A
+| Coaxial || 900 (200) || 575 || - || -
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -130,7 +130,7 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 |-
 | Pintle (commander) || 1,800 (200) || 600 || -10°/+60° || ±180°
 |-
-| Coaxial || 2,400 (200) || 600 || N/A || N/A
+| Coaxial || 2,400 (200) || 600 || - || -
 |-
 |}
 
@@ -156,15 +156,26 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 * Rather slow gun traverse speed to competitors
 * Huge in size, can be easily identified by enemies
 * Fixed 8x gunsight that hinders its gun flexibility
+* Loud tracks and engine will telegraph your position to nearby enemies
+* Composite screens offer little to no protection from APFSDS rounds
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Magach 7C, or "Battering-Ram 7 Gimel" as translated from Hebrew, is the third development of the Magach 7 series. The Magach 7 first entered service with the Israeli Defense Forces in the mid 1980s. It was a radical new design from previous Magachs, featuring an uparmored hull and turret. Rather than the addition of ERA which Israel had used on previous Magachs, the Magach 7 series was given composite screens on the turret, side-skirts, and hull. These upgrades resulted in the Magach 7 sharing few visual characteristics with the M60 Patton tank upon which it is based.
+
+The Magach 7A was the first rendition of the Magach 7 to serve in the IDF Armored Corps. One might compare it visually to the M48 Super, as the layout of composite screens added to the turret, if loosely, visually resembles that of the German counterpart. Upgrades from the base M60 included the addition of composite screens, an upgraded fire control system, including a laser rangefinder and thermal sight, and the addition of the same tracks as the Merkava Mk.1. Many of the components used to upgrade the Magach 7 were shared with the Merkava designs of the time.
+
+The Magach 7B was an interim design, featuring a similar armour layout to the Magach 7C, however this design was experimental at the time of its development.
+
+By the 1990s, the Magach 7C design had all but replaced the Magach 7A. The primary difference between the Magach 7A and 7C was the armour layout. Composite screens remained on the hull and side skirts, but the layout on the turret had been entirely redesigned. The turret armour now featured wedge-shaped composite screens with a fixed mantlet. These screens featured slots for the 105 mm cannon, as well as the 7.62 mm coaxial machine gun.
+
+Magach 7s were eventually phased out of frontline service with the IDF upon the debut of the Merkava Mk.4, when they were given to IDF reserve units to replace older Magach variants.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_7c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -182,5 +193,6 @@ The Magach 7C shares the same ammunition as its tech-tree predecessor Magach 6B 
 * ''other literature.'' -->
 
 * [[wt:en/news/7988-development-magach-7-the-ram-hits-again-en|[Devblog] Magach 7: The ram hits again!]]
+* https://tanks-encyclopedia.com/coldwar/Israel/Magach-7.php
 
 {{Israel medium tanks}}

@@ -9,6 +9,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} French fighter {{Battle-r
 
 '''Ships that carry the {{PAGENAME}}:'''
 * {{Specs-Link|fr_cruiser_suffren_class_colbert}}
+* {{Specs-Link|fr_cruiser_suffren_class_dupleix}}
 * {{Specs-Link|fr_cruiser_emile_bertin}}
 * {{Specs-Link|fr_cruiser_dugauy_class_primaguet}}
 
@@ -129,4 +130,5 @@ The '''''{{PAGENAME}}''''' is defended by:
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer GL}}
 {{Ship-launched reconnaissance aircraft}}

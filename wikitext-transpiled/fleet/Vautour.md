@@ -18,7 +18,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
 ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
 
-{{NavalMobility}}
+{{NavalMobility
+|SpeedForwardStockAB = 65
+|SpeedBackStockAB = 23
+|TurnTimeStockAB = 127.084
+|TurnSpeedStockAB = 46
+}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -37,11 +42,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
-{{main|75 mm/35 model 1927 (75 mm)}}
+{{main|75 mm/35 model 1925 (75 mm)}}
 
 ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
 
-{{:75 mm/35 model 1927 (75 mm)/Ammunition|75 mm OEA Mle 1917 HE, 75 mm OPF Mle 1917 SAP, 75 mm OEA Mle 1917 HE-TF}}
+{{:75 mm/35 model 1925 (75 mm)/Ammunition|75 mm OEA Mle 1917 HE, 75 mm OPF Mle 1917 SAP, 75 mm OEA Mle 1917 HE-TF}}
 
 === Anti-aircraft armament ===
 {{Specs-Fleet-AA}}
@@ -95,4 +100,5 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{Manufacturer FCM}}
 {{France destroyers}}

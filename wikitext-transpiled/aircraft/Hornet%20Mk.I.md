@@ -115,22 +115,42 @@ All the guns are mounted beneath the chin of the Hornet Mk.I allowing for accura
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (500 lb)|M.C. Mk.I (1,000 lb)|AP Mk I|AP Mk II|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[G.P. Mk.IV (500 lb)|500 lb G.P. Mk.IV]] bombs
+| || || 1* || 1* || ||
+|-
+! [[M.C. Mk.I (1,000 lb)|1,000 lb M.C. Mk.I]] bombs
+| || || 1* || 1* || ||
+|-
+! [[AP Mk I]] rockets
+| 2 || 2* || || || 2* || 2
+|-
+! [[AP Mk II]] rockets
+| 2 || 2* || || || 2* || 2
+|-
+! [[RP-3]] rockets
+| 2 || 2* || || || 2* || 2
+|-
+| colspan="8" | * Bombs on hardpoints 3/4 cannot be equipped in conjunction with rockets on adjacent hardpoints
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
 * 8 x AP Mk I rockets
 * 8 x AP Mk II rockets
 * 8 x RP-3 rockets
-* 2 x 500 lb G.P. Mk.IV bombs + 4 x AP Mk I rockets (1,000 lb total)
-* 2 x 500 lb G.P. Mk.IV bombs + 4 x AP Mk II rockets (1,000 lb total)
-* 2 x 500 lb G.P. Mk.IV bombs + 4 x RP-3 rockets (1,000 lb total)
-* 2 x 1,000 lb M.C. Mk.I bombs + 4 x AP Mk I rockets (2,000 lb total)
-* 2 x 1,000 lb M.C. Mk.I bombs + 4 x AP Mk II rockets (2,000 lb total)
-* 2 x 1,000 lb M.C. Mk.I bombs + 4 x RP-3 rockets (2,000 lb total)
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
+{{Navigation-End}}
 
 The secondary loadout is very standard fare for the British aviation tree, a mid of 500 and 1000 lb 'dumb' bombs made available with AP and RP-3 rockets which experienced British pilots will have had many encounters with at this point. A mixture can be taken as the pilot wishes; owing to the role of the Hornet Mk.I it is not advisable to carry such in an air battle setting due to the performance impact and the presence of dedicated bomber craft. However, in ground RB the Hornet can strike at errant ground vehicles to assist its team before turn to maintain air superiority once its payload is spent.
 

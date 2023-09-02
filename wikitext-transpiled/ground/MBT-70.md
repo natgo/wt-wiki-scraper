@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened as '''{{PAGENAME}}''') is a rank {{Specs|rank}} American medium tank {{Battle-rating}}. It was introduced in [[Update 1.71 "New E.R.A."]].
+The '''152-mm Gun-Launcher Main Battle Tank 70''' (MBT-70), also known as the [[KPz-70]] in Germany, was a collaborative U.S. and West German initiative to develop a new main battle tank to replace the existing [[M60 (Family)|M60 family of MBT]] during the 1960s. This was intended to combat the new generation of tanks designed by the Soviet Union for the Warsaw Pact. The new tank was planned to have sophisticated features like newly designed hydropneumatic suspension, dual-layer spaced armour, and a 152 mm XM150E5 gun/launcher that could fire both conventional ammunition and the Shillelagh missile for long-range engagement. The tank additionally featured a remotely controlled 20 mm weapon station on the turret roof. Overall, the tank provided nuclear, biological, and chemical protection for the tank crews (NBC protection capability). The tank was anticipated to remain in service into the 1990s, however the program experienced significant challenges from the start, with the United States Army and the German Bundeswehr having diverging doctrines that were not coordinated and were not resolved before the project was too far along to be modified. The Germans were sceptical of the combined gun and missile launcher, and the U.S. Congress was frustrated by the program's increasing budget without results. By the late 1960s, the MBT-70's development had gone far over the allocated funds, prompting West Germany to abandon the project in 1969. The U.S. continued development of the MBT-70 with the [[XM-803]], a project intended to cut down on the costs of the MBT-70 by only utilising American components; however, this was also finally abandoned in 1971. Data and technology from the MBT-70/XM-803 project transferred to the development of the [[M1 Abrams]], while West Germany built the [[Leopard 2 (Family)|Leopard 2]] as its main battle tank.
+
+Introduced in [[Update 1.71 "New E.R.A."]], the MBT-70 offers players unique insights into the collaboration of tank development efforts by both the U.S. and West Germany. Despite the program's eventual demise, the MBT-70 gives several unique capabilities for Cold War U.S. Army ground forces players, particularly the capacity to launch anti-tank guided missiles from the gun barrel, which is unusual in Western MBTs but prevalent in Soviet MBTs. Overall, the MBT strikes a good balance between protection, speed, and firepower, allowing players to easily engage most threats.
 
 == General info ==
 === Survivability and armour ===
@@ -86,7 +88,7 @@ The first modification you should research is Parts, as only one module is neede
 
 '''Tier 2'''
 
-The first Tier 2 modifications you should research are FPE and the XM578A1 APFSDS shell. The MBT-70 catches fire often when hit, and even though teammates can assist you in extingushing it, playing without FPE is still painful. The other important module is the XM578E1 APFSDS shell. While the stock HEAT round may have more penetration, the APFSDS is more consistent damage-wise and doesn't catch on bushes, trees, and fences. 
+The first Tier 2 modifications you should research are FPE and the XM578A1 APFSDS shell. The MBT-70 catches fire often when hit, and even though teammates can assist you in extingushing it, playing without FPE is still painful. The other important module is the XM578E1 APFSDS shell. While the stock HEAT round may have more penetration, the APFSDS is more consistent damage-wise and doesn't catch on bushes, trees, and fences.
 
 '''Tier 3'''
 
@@ -248,7 +250,7 @@ However, whilst the MBT/KPz-70 did come equipped with some of the most high-tech
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_mbt_70 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|POgsyKommVk|'''T-64A versus MBT-70''' - ''War Thunder Official Channel''|ly9JS6errQQ|'''Best secondary armaments''' discusses the {{PAGENAME}} at 6:03 - ''War Thunder Official Channel''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 5:27 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|uQCn8UpVtDc|'''MBT-70: Tank from the Future''' - ''War Thunder Official Channel''|POgsyKommVk|'''T-64A versus MBT-70''' - ''War Thunder Official Channel''|ly9JS6errQQ|'''Best secondary armaments''' discusses the {{PAGENAME}} at 6:03 - ''War Thunder Official Channel''|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 5:27 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

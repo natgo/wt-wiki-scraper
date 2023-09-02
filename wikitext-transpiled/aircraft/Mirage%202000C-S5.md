@@ -31,10 +31,10 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 2,262 || 2,204 || rowspan="2" | {{Specs|ceiling}} || 26.1 || 26.5 || 157.0 || 146.1 || rowspan="2" | 750
+| 2,246 || 2,174 || rowspan="2" | {{Specs|ceiling}} || 26.2 || 26.6 || 155.9 || 145.0 || rowspan="2" | 750
 |-
 ! Upgraded
-| 2,346 || 2,346 || 24.2 || 25.0 || 235.4 || 194.0
+| 2,453 || 2,351 || 23.9 || 25.0 || 237.9 || 195.0
 |-
 |}
 
@@ -61,7 +61,7 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,512<!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~__ || ~__
+| 1,512<!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~13 || ~5
 |-
 |}
 
@@ -71,7 +71,7 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 920 || < 750 || < 650 || N/A
+| < 920 || < 750 || < 650 || -
 |-
 |}
 
@@ -93,7 +93,7 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 ! Weight (each) || colspan="2" | Type
 ! 10m fuel || 20m fuel || 30m fuel || 34m fuel
 |-
-| 1,450 kg || colspan="2" | Afterburning low-bypass turbofan
+| 1,515 kg || colspan="2" | Afterburning low-bypass turbofan
 | 8,572 kg || 9,533 kg || 10,515 kg || 10,910 kg || 12,936 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}

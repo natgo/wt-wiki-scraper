@@ -66,6 +66,7 @@
 {{Tree-Skip}}
 |
 {{Tree-Unit|sw_ikv_73}}
+{{Tree-Skip}}
 
 {{Tree-Line|III Rank}}
 |
@@ -95,6 +96,7 @@
 {{Tree-Unit|sw_sherman_3_4}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}
 |
@@ -122,6 +124,7 @@
 {{Tree-Unit|sw_strv_81_rb52}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|V Rank}}
 |
@@ -147,6 +150,7 @@
 {{Tree-Unit|sw_strv_103_0}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|VI Rank}}
 |
@@ -193,6 +197,7 @@
 {{Tree-Unit|sw_cv_90105_tml}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|sw_patria_amv_ctcv_105}}
 
 {{Tree-Line|VII Rank}}
 |

@@ -24,7 +24,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 * High hardness rolled armour (hull front, turret front, gun mantlet)
 * Cast homogeneous armour (gun mantlet frame)
 * Composite screen (front side skirts)
-* Structural stell (rear side skirts)
+* Structural steel (rear side skirts)
 
 {| class="wikitable"
 |-
@@ -42,7 +42,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+The mobility of this vehicle is very good. It can usually travel 30-40 MPH (48-64 KPH) on level, flat ground and the down-slopes of hills. Otherwise, its mobility can range from 20-35 MPH (32-56 KPH) on rough terrain and the up-slopes of hills. It can go approximately 20 MPH backwards. It is very manoeuvrable and can make sharp turns easily.
 
 {{tankMobility|abMinHp=2,032|rbMinHp=1,327}}
 
@@ -94,7 +94,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 * Rack 2 is a first stage ammo rack located within a blow-out containment
 * It totals 15 shells and gets filled first when loading up the tank and emptied first when firing.
 * If you pack 16&nbsp;''(+26)'' shells, it will keep the hull empty of ammo.
-* Full reload speed will be realized as long as shells are available in the ready rack 2. If the ready rack is empty, a penalty to reload speed will occur.
+* Full reload speed will occur as long as shells are available in the ready rack 2. If the ready rack is empty, a penalty to reload speed will occur.
 * Simply not firing when the gun is loaded will move ammo from rack 1 into rack 2. Firing will interrupt the restocking of the ready rack.
 
 === Machine guns ===
@@ -117,7 +117,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+Because the PzBtl 123 is fast, it is good for flanking attacks. If you can manage to get around the enemy undetected, then you can destroy them with your superior armament. Heavy tanks and any vehicle carryng APSDFS shells are a huge menace to the survivability of the vehicle. If you choose to go into frontal combat instead of flanking, you should pop out of cover, fire an APSDFS (DM23 is better than DM13) at an enemy tank's lower armour in the front, and then retreat to cover '''''as quickly as possible'''''. If you do not, a heavy tank may one shot you or a light tank could take out your driver, gunner and commander, and the loader. Be especially wary of other medium tanks that are also trying to flank your team, because chances are, they also have a 120mm gun and can one shot you with a well placed round.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -134,8 +134,9 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 
 '''Cons:'''
 
-* Hull armour is mediocre and proves vulnerable against most enemy shells
+* Hull armour is weak and proves vulnerable against most enemy shells
 * Weak points in turret (gun mantlet and gunner's optics) can cripple tank or entire crew quickly if enemy exploits them
+* If an APSDFS or HEATFS shell hits the inside of the track tread, the entire crew can be put out of comission very quickly.
 * Turret's strong points are still vulnerable to most top-ranking APFSDS shells available to the enemies
 * Blow out panel-enabled ammo racks are small, carrying only 16 rounds
 * Machine guns, both coaxial and pintle-mount, are small calibre with restricted gun elevation that makes engaging and threatening air targets difficult

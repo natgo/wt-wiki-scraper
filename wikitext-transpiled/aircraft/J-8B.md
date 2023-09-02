@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The J-8B (Chinese: 歼-8B型歼击机) and known by its nickname "Beauty in Air" (空中美男子) or NATO codename of "Finback", was one of the cornerstones of PLAAF before the 2000s that was developed from a revised design of the previous J-8I series with nose intake and inferior avionics. The jet was developed in early 1980s to compete with its intended foe: MiG-23 Floggers with overall superior performance to the first series J-8. However, the results of war in the Middle East proved J-8II should be aimed for even tougher enemies like F-16A, thus the prototype was planned for upgrades that could only be achieved by early 1990s with 1960s-equivalent avionics. These were the Block 2 of J-8II with a slightly upgraded radar for serial production and have served PLAAF for a decade until they were upgraded to later variants with new avionics, one of these jets also played a major part in the ongoing Sino-American conflicts and left its name in the pages of history.
+The J-8B (Chinese: 歼-8B型歼击机) and known by its nickname "Mr. Handsome in Air" (空中美男子) or NATO codename of "Finback", was one of the cornerstones of PLAAF before the 2000s that was developed from a revised design of the previous J-8I series with nose intake and inferior avionics. The jet was developed in early 1980s to compete with its intended foe: MiG-23 Floggers with overall superior performance to the first series J-8. However, the results of war in the Middle East proved J-8II should be aimed for even tougher enemies like F-16A, thus the prototype was planned for upgrades that could only be achieved by early 1990s with 1960s-equivalent avionics. These were the Block 2 of J-8II with a slightly upgraded radar for serial production and have served PLAAF for a decade until they were upgraded to later variants with new avionics, one of these jets also played a major part in the ongoing Sino-American conflicts and left its name in the pages of history.
 
 Introduced in [[Update "Wind of Change"|Update "Wind of Change]] and being the first jet at the time of introduction to have SARH and search radar for the PLAAF, it retains a good top-speed and sufficient manoeuvrability for such a huge jet. The J-8B is more than 20 m in length and 5.4 m in height, making it the largest of the Rank VII fighters in all dimensions except wingspan, but it has a lower empty weight than the [[F-4 Phantom II (Family)|F-4 Phantom]] or even the [[MiG-23 (Family)|MiG-23]]. With two WP-13 engines and very clean aerodynamics, the J-8B has excellent acceleration and climb to fit its role as a high-altitude interceptor and can still turn well enough to dogfight in a pinch - quite apropos to its NATO reporting name of a long yet sleek whale.
 
@@ -184,6 +184,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x PL-5B missiles
 * 4 x PL-5B missiles

@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced late in [[Update 1.71 "New E.R.A."]].
+In the 1960s, Soviet concern over the effectiveness of the [[T-54/55 (Family)|T-54/55]] and [[T-10M|T-10]] tanks against the newest enemy tanks caused them to put more research into tank armament and shells for better firepower. Object 120 was one such result, considered one of the most powerful self-propelled gun (SPG) with the usage of a 152 mm cannon capable of firing APFSDS and HEAT-FS. While promising, recent development in smoothbore guns and infantry-portable missiles showed that they were able to keep up with the 152 mm cannon's penetration capabilities, and so the Object 120 dedicated SPG was not adopted.
+
+The Object 120 is a very prolific tank destroyer since its introduction in [[Update 1.71 "New E.R.A."]]. With the extremely long gun hanging past the hull front, players will very quickly get the impression that the Object 120's firepower has no equal at its place, and enemies will learn to fear that long gun. Despite that, enemies will not fear as much of the Object 120's construction, as the thin armour all-around mean even the smallest autocannon from a tank or aircraft has the potential to wreck the Object 120. In short, the Object 120 embodies the ultimate "glass cannon" form factor in the game, a tank destroyer with a very long and lethal gun, but with very little capability to take the same punishment in return.
 
 == General info ==
 === Survivability and armour ===

@@ -7,7 +7,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test.
 
-HMS Nepal, pennant number firstly G25, later changed to D14, was a destroyer of the Royal Navy, later transferred to the Royal Australian Navy in 1942, and served mostly in the British Eastern Fleet. The N-Class destroyers were a return to smaller ships with a heavier emphasis on torpedo armament and AA than the Tribal-Class destroyers, but were primarily based on, and utilised most systems and armament from the Tribals.
+HMAS Nepal, pennant number firstly G25, later changed to D14, was a destroyer of the Royal Navy, later transferred to the Royal Australian Navy in 1942, and served mostly in the British Eastern Fleet. The N-Class destroyers were a return to smaller ships with a heavier emphasis on torpedo armament and AA than the Tribal-Class destroyers, but were primarily based on, and utilised most systems and armament from the Tribals.
 
 The Nepal offers a slightly higher rate of fire than HMS Eskimo, and has six similar 4.7" guns in three twin mountings. Overall, the Nepal offers fast and hard-hitting firepower, however with somewhat less survivability than the Eskimo due to a smaller crew complement. Much like the Tribal-Class destroyers, this vessel best engages opponents at range and should avoid close combat.
 
@@ -113,7 +113,7 @@ After her two-month long refit, HMAS Nepal resumed operations in June 1943, taki
 
 HMAS Nepal remained active in the Pacific theatre until the end of WW2, until being decommissioned from RNA service in October 1945. The ship was commissioned once more into the Royal Navy shortly after, being ordered to return to Britain.
 
-In the postwar years, HMS Nepal underwent repairs and modifications, briefly serving as a minesweeper and training ship. In the early 1950s, HMS Nepal was part of the reserve and awaiting some proposed upgrades. However, those upgrades were eventually cancelled and the decision was made to scrap the ship. January 1956 marked the end of HMS Nepal's 14-year service life as she was sold off for scraps to the British Iron & Steel Corporation.
+In the postwar years, HMAS Nepal underwent repairs and modifications, briefly serving as a minesweeper and training ship. In the early 1950s, HMAS Nepal was part of the reserve and awaiting some proposed upgrades. However, those upgrades were eventually cancelled and the decision was made to scrap the ship. January 1956 marked the end of HMAS Nepal's 14-year service life as she was sold off for scraps to the British Iron & Steel Corporation.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

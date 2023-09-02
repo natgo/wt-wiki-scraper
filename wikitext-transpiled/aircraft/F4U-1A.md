@@ -23,7 +23,7 @@ The Corsair should be used as a medium-to-high altitude Boom & Zoomer as flying 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 6,888 m)
+! colspan="2" | Max speed<br>(km/h at 7,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -32,10 +32,10 @@ The Corsair should be used as a medium-to-high altitude Boom & Zoomer as flying 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 587 || 565 || rowspan="2" | {{Specs|ceiling}} || 25.1 || 25.9 || colspan="2" | 8.8 || rowspan="2" | 251
+| 656 || 633 || rowspan="2" | {{Specs|ceiling}} || 25.1 || 25.9 || 8.8 || 8.8 || rowspan="2" | 251
 |-
 ! Upgraded
-| 646 || 616 || 23.0 || 24.0 || 16.8 || 12.3
+| 715 || 683 || 23.0 || 24.0 || 16.8 || 12.3
 |-
 |}
 
@@ -75,24 +75,6 @@ The Corsair should be used as a medium-to-high altitude Boom & Zoomer as flying 
 |-
 |}
 
-{| class="wikitable" style="text-align:center"
-|-
-! Compressor
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-! Setting 1
-| 300 m || 2,000 hp || 2,270 hp
-|-
-! Setting 2
-| 4,785 m || 1,800 hp || 2,096 hp
-|-
-! Setting 3
-| 6,400 m || 1,650 hp || 1,921 hp
-|-
-|}
-
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
@@ -129,7 +111,7 @@ While having these might be useful for Ground RB, its actual utility in Air RB c
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (391 rpg = 2,350 total)
+* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (375 rpg outer + 400 rpg centre + 400 rpg inner = 2,350 total)
 
 The F4U-1A is the first aircraft in the US Tech Tree armed with M2 Brownings that possess Armour-Piercing Incendiary rounds. These potent rounds are able to set fire to enemy aircraft as well as causing fatal pilot snipes and engine damage. However, they are not explosive rounds and rely on luck and/or good aim on the part of the pilot to cause damage to critical modules and cause enough damage to destroy the plane or knock out the pilot.
 

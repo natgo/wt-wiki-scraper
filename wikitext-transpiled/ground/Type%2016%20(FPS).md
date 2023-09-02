@@ -125,7 +125,18 @@ Introduced in [[Update "Sky Guardians"]] as a pack premium, it comes with the sa
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+<!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+'''General Playstyle'''
+
+Like most light tanks at top tier, you are extremely mobile and capable of pulling off some early flanking attacks on the enemy, weakening them and possibly slowing them down while your MBT allies crawl to your position and mop up any remaining enemy armour. Additionally, the Type 16 possesses an extremely good combination of optics: you have access to both thermals and night vision as well as a nice zoom of 4.0x all the way to 13.3x which makes it an excellent sniper. The Type 16 also provides you with a laser warning system/range finder combo package which makes it easier to tell if you have gained the attention of any enemy tanks during your expedition into the wilderness.
+
+'''Realistic Battles'''
+
+In RB, it is best to use your speed either to flank the enemy in order to snipe and scout them or reach a nice camping spot in hopes of delaying their advance, ideally near a choke point in the map where they will be bunched up and find it hard to manoeuvre once they notice you, slowing them down just a little bit more. You serve a vital role in matches as any amount of time the enemy team spends dealing with you they also spend ignoring your allies and the capture points, delaying actions should be a priority even above killing as a dead tank can respawn and head elsewhere whereas you need to waste as much of their time as possible, knocking out engines and damaging tracks as well as scaring them via destroying their barrel (which almost always leads to the enemy running back behind friendly lines so they waste time prior to repairing) is all fair game, the more annoying you are the more likely your team will have the time needed to gain the upper hand and win. A final note, this vehicle can if needed brawl for a little while due to its lack of armour and the decently spaced crew layout but it should be your last resort both due to overpressure being an extreme danger and the fact that other light tanks like the BMP family will chew through the sides of the Type 16 with ease and quickly knock out the crew in close quarters. If at all possible, avoid brawling and use your speed to reposition and continue the fight at a distance. On city maps, try to run and get behind the enemy for quick ammo racks and engine fires.
+
+'''Arcade Battles'''
+
+In AB, your ability to flank is hampered by the different visibility mechanics, so it may be best to put lots of obstacles such as buildings or terrain between you and any enemy tanks while driving around the map in order to avoid this issue until your ready to strike. If the map lacks such terrain features, then you can also resort to acting as a support vehicle and stay with your teammates, using them as armour and providing fire support in addition to providing help with repairing all the breaches that are often damaged during top tier battles. Finally, being a scout tank makes you rather ideal for air support so whenever possible (and when it's safe) use it to help out allies in other parts of the map, your tank is fast but it can't be in two places at once, the air units you bring in can fix that little problem and can provide the much needed assistance your allies were lacking leading to a higher chance of winning the match.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -134,7 +145,7 @@ Introduced in [[Update "Sky Guardians"]] as a pack premium, it comes with the sa
 
 * Fast, with a great acceleration
 * Quick turret traverse speed  
-* 3rd thermals for gunner and commander sights 
+* 3rd generation thermal sights for gunner and commander 
 * Immune to .50 cals from the front 
 * Decent APFSDS 
 * Good zoom of 13.3x 
@@ -142,7 +153,7 @@ Introduced in [[Update "Sky Guardians"]] as a pack premium, it comes with the sa
 '''Cons:'''
 
 * Weak armour and little survivability  
-* Stabiliser disables at high speed
+* Stabilizer disables at a speed beyond 75 km/h / 47 mph
 * APFSDS has little spall
 
 == History ==

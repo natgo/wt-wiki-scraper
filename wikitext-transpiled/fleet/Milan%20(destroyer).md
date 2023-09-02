@@ -23,7 +23,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
 ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
 
-{{NavalMobility}}
+{{NavalMobility
+|SpeedForwardStockAB = 70
+|SpeedBackStockAB = 23
+|TurnTimeStockAB = 116.3
+|TurnSpeedStockAB = 49
+}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -58,7 +63,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 === Additional armament ===
 {{Specs-Fleet-Additional}}
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
-{{main|Model 1923DT (550 mm)}}
+{{main|Model 1923DT (550 mm)|B4M mine}}
 
 ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.''
 
@@ -100,4 +105,5 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Arsenal de Lorient}}
 {{France destroyers}}

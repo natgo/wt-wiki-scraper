@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''Merkava Mark 2B''' is the first subvariant of the Merkava Mark 2, which is the second variant of the [[Merkava (Family)|Merkava main battle tank family]]. The Merkava Mark 2 variant has significant enhancements over the [[Merkava Mk.1B|Merkava Mark 1B variant]]. In comparison to its predecessor, the Merkava Mark 2 variant has enhanced armour protection, a new transmission, and more fuel capacity. The Merkava Mark 2 was first manufactured in 1983, and it was last produced in 1989. There were 580 units constructed in total. The Merkava Mark 2 saw service in several local battles, where it performed well. Even though it is outdated, this tank is still in limited use. In 2016, the final Merkava Mark 2 tank was moved to reserve units. Most of the remaining tanks are currently in storage. These might potentially be modified to become armoured personnel carriers. Outside of Israel, the Merkava Mark 2 was never exported. It was one of the most protected tanks in the world at the time of its introduction. It employs spaced armour and provides better armour protection than its predecessor. The tank has an unusual layout, with the engine located in front for enhanced crew protection. The Merkava's turret is also distinctive in shape. Chains with metal balls were added to the Merkava Mark 2's turret rear to provide additional protection against rocket-propelled grenades (RPGs) and anti-tank guided missiles (ATGMs). This basic method proved to be effective during testing. The tank comes standard with NBC protection and automatic fire extinguishing equipment. Compared to the standard Merkava Mark 2, the Merkava Mark 2B includes thermal imaging equipment for the gunner. Minor changes were also made to the fire-control system.
+
+Introduced in [[Update "Wind of Change"]], the Merkava Mark 2B retains the unique tank design created in Israel. During battles, locating targets is much easier now with thermal imaging equipment for the gunner. To improve crew protection, some composite armour screens are installed throughout the tank, primarily in the turret. In general, the Merkava Mark 2B resembles the Merkava Mark 1B, with good frontal turret armour that can survive a wide range of ammunition. The hull, on the other hand, is not as impressive as the turret. Most tank ammunition will easily penetrate the frontal hull.
 
 == General info ==
 === Survivability and armour ===
@@ -145,6 +147,7 @@ Enemies that you must be most worried about are the Soviet T-72s and T-64B, as t
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_merkava_mk_2b_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -153,6 +156,7 @@ Enemies that you must be most worried about are the Soviet T-72s and T-64B, as t
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Merkava (Family)]]
 ** [[Merkava Mk.2B (USA)]]
 

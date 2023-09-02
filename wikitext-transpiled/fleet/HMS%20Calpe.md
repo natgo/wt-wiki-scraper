@@ -237,4 +237,5 @@ File:Hunt L71 Top View.png|<small>Deck view of HMS Calpe</small>
 * [http://www.naval-history.net/xGM-Chrono-10DE-Calpe.htm Service History record, HMS Calpe - Naval History.net]
 * [https://uboat.net/allies/warships/ship/4643.html Notable History moments, HMS Calpe - Uboat.net]
 
+{{ShipManufacturer Swan Hunter and Wigham Richardson}}
 {{Britain destroyers}}

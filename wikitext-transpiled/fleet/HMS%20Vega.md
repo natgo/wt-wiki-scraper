@@ -16,9 +16,14 @@ The Vega lacks survivability, but not necessarily to a crippling degree. There i
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-Both the top speed and manoeuvrability are good on the Vega; the small size of the ship allows for very tight turning circles and effective evasive manoeuvres. Mobility is a significant advantage of the Vega and should be used to both obtain and hold strategic positions and outmanoeuvre enemy fire.
+While suffering from a very low speed, Vega can showcase a decent manoeuvrability, enabling it to evade incoming fire where other destroyers would struggle. Mobility is a significant advantage of the Vega and should be used to both obtain and hold strategic positions and outmanoeuvre enemy fire.
 
-{{NavalMobility}}
+{{NavalMobility
+|SpeedForwardStockAB = 57
+|SpeedBackStockAB = 17
+|TurnTimeStockAB = 108.117
+|TurnSpeedStockAB = 40
+}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -32,7 +37,7 @@ Both the top speed and manoeuvrability are good on the Vega; the small size of t
 
 Two twin 4"/45 Mark XVI turrets provide the primary armament of the Vega, and they are powerful compared to other destroyers at a similar BR range. The rate of fire on these turrets is unparalleled among the starter destroyers of any nation, with 20 rounds per minute nearly doubling the other nation's rates of fire. The ammunition fired is also competitive among the starter destroyers, with the 4" shells of the Vega being more powerful than both the American and Soviet 4" shells. The German 12.7 cm, the Japanese 120 mm, and the Italian 120 mm are more destructive shell-for-shell than the smaller 4"/45 Mark XVI, but the Vega still maintains the significant rate of fire advantage over those guns.
 
-Also notable is the very good front firing angles of the guns. Both turrets are fully traversable around 360°, and the rear turret has no obstructions near it, so it only has a very small blind area at the very front of the ship. Even a slight angling of the Vega will allow 100% of the ship's main armament to be brought upon a target. In addition to this, the turrets have a very good maximum elevation of 80°, allowing for potential combating of air targets. However, the turrets on the Vega do suffer from some significant weaknesses; the rotation speed is painfully slow, even with the appropriate Primary Armament Targeting modification researched. Moreover, the guns are elevated so close range combat with costal vessels can potentially be impaired by a lack of gun depression. These issues are particularly impactful at the BR of the Vega due to the prevalence of fast and nimble vessels.
+Also notable is the very good front firing angles of the guns. Both turrets are fully traversable around 360°, and the rear turret has no obstructions near it, so it only has a very small blind area at the very front of the ship. Even a slight angling of the Vega will allow 100% of the ship's main armament to be brought upon a target. In addition to this, the turrets have a very good maximum elevation of 80°, allowing for potential combating of air targets. However, the turrets on the Vega do suffer from some significant weaknesses; the rotation speed is painfully slow, even with the appropriate Primary Armament Targeting modification researched. Moreover, the guns are elevated so close range combat with coastal vessels can potentially be impaired by a lack of gun depression. These issues are particularly impactful at the BR of the Vega due to the prevalence of fast and nimble vessels.
 
 The twin 4"/45 Mark XVI turrets on the Vega have access to HE, SAP, HE-TF, and HE-VT shells. The HE shells can be used to target coastal vessels and destroyers to an extent, but internal damage and turret damage is limited by a relatively small explosive mass of 1.55 kg of TNT. More recommendable in destroyer-to-destroyer combat is the SAP shell, capable of penetrating enemy armour and exploding internally to disable engines, detonate ammo racks, and more quickly reduce enemy crew counts. SAP, in conjunction with the high rate of fire, is competent against coastal vessels as well, although the hull-break provided by HE ammunition is more reliable. HE-TF and HE-VT are valid choices for combating air targets, with the high elevation of the guns, and HE-VT is more reliable than the HE-TF if given a choice between the two.
 
@@ -43,7 +48,7 @@ The twin 4"/45 Mark XVI turrets on the Vega have access to HE, SAP, HE-TF, and H
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|20 mm/70 Oerlikon Mk.II (20 mm)}}
 
-Four single-mount 20 mm/70 Oerlikon Mk.II autocannons make up the secondary armament of the Vega. These are good at combating air targets and costal vessels due to their high rate of fire and adequate overall damage output. These guns are only limited by the rather small number of them available on the Vega, and thus can't be completely relied upon as a complete defence against fast targets.
+Four single-mount 20 mm/70 Oerlikon Mk.II autocannons make up the secondary armament of the Vega. These are good at combating air targets and coastal vessels due to their high rate of fire and adequate overall damage output. These guns are only limited by the rather small number of them available on the Vega, and thus can't be completely relied upon as a complete defence against fast targets.
 
 * '''Universal:''' {{Annotation|HEF-T|High-explosive fragmentation tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
 * '''20 mm HE:''' {{Annotation|HEF-T|High-explosive fragmentation tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}

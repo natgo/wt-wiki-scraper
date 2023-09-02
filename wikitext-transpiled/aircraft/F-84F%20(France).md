@@ -19,7 +19,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 0 m - sea level)
+! colspan="2" | Max speed<br>(km/h at 0 m - sea level)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -28,10 +28,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1,089 || 1,066 || rowspan="2" | {{Specs|ceiling}} || 29.9 || 31.2 || 31.1 || 29.2 || rowspan="2" | 3,000
+| 1,090 || 1,067 || rowspan="2" | {{Specs|ceiling}} || 29.7 || 30.9 || 30.7 || 28.8 || rowspan="2" | 2,000
 |-
 ! Upgraded
-| 1,111 || 1,102 || 26.3 || 28.0 || 45.5 || 38.0
+| 1,111 || 1,102 || 26.5 || 28.0 || 45.9 || 38.0
 |-
 |}
 
@@ -121,7 +121,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
 |-
-| {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
+| {{Tick}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -137,11 +137,41 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|BLU-1 incendiary}}
-{{main|FFAR Mighty Mouse|HVAR}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84F.png]]</div>
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[BLU-1 incendiary]] bombs
+| || || 1 || 1 || 1 || 1 || ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 7 || 7 || 7 || || || 7 || 7 || 7
+|-
+! [[HVAR]] rockets
+| 2 || 2 || 2 || 6 || 6 || 2 || 2 || 2
+|-
+| colspan="9" | Maximum permissible loadout weight: 2,700 kg<br>Maximum permissible wing load: 1,350 kg<br>Maximum permissible weight imbalance: 700 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 24 x HVAR rockets
 * 42 x FFAR Mighty Mouse rockets
@@ -150,43 +180,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
 * 4 x BLU-1 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84F.png]]</div>
-|-
-! 250 lb LDGP Mk 81 bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! 500 lb LDGP Mk 82 bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! BLU-1 incendiary bombs
-| || || 1 || 1 || 1 || 1 || ||
-|-
-! FFAR Mighty Mouse rockets
-| 7 || 7 || 7 || || || 7 || 7 || 7
-|-
-! HVAR rockets
-| 2 || 2 || 2 || 6 || 6 || 2 || 2 || 2
-|-
-| colspan="9" | Maximum permissible loadout weight: 2,700 kg<br>Maximum permissible wing load: 1,350 kg<br>Maximum permissible weight imbalance: 700 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
-===Radars===
+=== Radars ===
 <!--{{main|AN/APG-30}}-->
 The F-84F is equipped with an AN/APG-30 rangefinding radar, located in the nose of the aircraft.
 It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
@@ -208,14 +208,14 @@ It will automatically detect other planes within the scanning area and display t
 
 '''Pros:'''
 
-* Can carry a decent amount of bombs and rockets, being able to destroy a base and after light targets or tanks with the rockets 
+* Can carry a decent amount of bombs and rockets, being able to destroy a base and after light targets or tanks with the rockets
 * Gets an airspawn and being extremely useful for a F84F at the start of the match
 * Somewhat fast and with a good top speed
 * Has an analog ballistic computer (CCRP) with its use being very helpful for bombing at higher altitudes safely and with precision
 
 '''Cons:'''
 
-* While fast as long as it has enough energy, it can still be reached or outrun by some planes, mainly by any variant of the F-86 sabre 
+* While fast as long as it has enough energy, it can still be reached or outrun by some planes, mainly by any variant of the F-86 sabre
 * Slow acceleration, and even bad fully loaded with bombs
 * 12.7 mm armament does not do enough damage in the short engagement windows of jet dogfights
 * Fragile, any 20+ mm calibre cannons will shred the aircraft if they hit

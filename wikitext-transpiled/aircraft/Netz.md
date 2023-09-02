@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}''' is a supersonic, 4th generation fighter aircraft, produced by General Dynamics. The F-16 was produced for the USAF as a part of the Lightweight Fighter Program, and notably the early blocks such as the Block 10 did not carry the [[AIM-7 Sparrow (Family)|AIM-7 Sparrow]]; this is carried over to the Netz in Israeli service. Israel is notably the second largest user of the F-16 after the USAF, and also achieved the first air to air kills with it.
+
+It was introduced in [[Update "Apex Predators"]]. Compared to the [[F-16A ADF|Block 15]] and [[F-16A MLU (China)|Block 20]], the Netz is lighter and is able to pull an extra 1-2 Gs, making it one of the best dogfighters in the game. Compared to the [[F-16A|Block 10]] in the US tree it has a massive advantage, as it possesses the extremely potent [[Python 3]], one of if not the most potent heat-seeking missiles in-game. In exchange it loses the [[GBU-8 (2,000 lb)|GBU-8 "Hobo"]] for ground support. This leaves it as one of the best dogfighters in high tier battles, with reasonable multirole capability for CAS as well.
 
 == General info ==
 === Flight performance ===
@@ -185,6 +187,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 300 gal drop tank
 * 2 x AIM-9P Sidewinder missiles
 * 6 x AIM-9P Sidewinder missiles
@@ -209,27 +212,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Highly manoeuvrable at lower speeds
 * 20 mm Vulcan cannon has high velocity and rate of fire
 * Able to carry a drop tank to extend flight time
-
 * Has access to a wide range to air-to-ground loadouts
-
-* Access to 6 x AIM-9L Sidewinder missiles
+* Access to 6 x AIM-9L Sidewinder  or 6 x Python 3 missiles 
+* Python 3 missiles are very potent IR-guided missiles 
 * Bubble canopy with excellent unobstructed 360° visibility gives great situational awareness in simulator mode
-
-*
 
 '''Cons:'''
 
 * Consumes fuel quickly
 * G limit
-
 * Cannot pull tight turns at high speed
-* No radar guided AAMs
-
-*
+* No radar-guided AAMs
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-By the end of the 1970s, Israel had established itself as the dominant air force in the Levant, having achieved technological superiority over the Soviet-equipped Syrian army - the only adjacent threat remaining after the signing of the peace deal with Egypt. This was mainly thanks to the purchase of F-15s into the Israeli Air Force (IAF) in 1976, which provided both a defensive and offensive umbrella that could not be challenged effectively by the Syrians. Nevertheless, the IAF still had two critical issues with the F-15: its prohibitive cost, and its relative unsuitability for low-altitude bombing, interdiction, and dogfighting. As the pressure mounted to replace the ageing [[F-4E_Phantom_II_(Israel)|F-4E Phantom II]], [[Nesher]] and [[Kfir C.7]], the IAF finally decided to purchase General Dynamics's new F-16 multi-role jet.
+By the end of the 1970s, Israel had established itself as the dominant air force in the Levant, having achieved technological superiority over the Soviet-equipped Syrian army - the only adjacent threat remaining after the signing of the peace deal with Egypt. This was mainly thanks to the purchase of F-15s into the Israeli Air Force (IAF) in 1976, which provided both a defensive and offensive umbrella that could not be challenged effectively by the Syrians. Nevertheless, the IAF still had two critical issues with the F-15: its prohibitive cost, and its relative unsuitability for low-altitude bombing, interdiction, and dogfighting. As the pressure mounted to replace the ageing [[Kurnass|F-4E Phantom II]], [[Nesher]] and [[Kfir C.7]], the IAF finally decided to purchase General Dynamics's new F-16 multi-role jet.
 
 Israel received its first four F-16s on July 2nd, 1980 - a mix of F-16A and F-16B fighters (single-seat and two-seat, respectively) - with a total of 75 arriving by the end of 1981. These planes, mostly F-16As from production Block 10, were originally sold to Iran's Shah regime, a US ally since the 1950s; however in 1979 the Islamic Revolution deposed the Shah, marking a significant change in the balance of power in the region and solidifying Israel's status as one of the only remaining trustworthy US allies in the Middle East. Since the planes could no longer be delivered to Iran, they were instead sold to Israel.
 

@@ -149,24 +149,51 @@ For the pilot in the heat of battle, the less they have to remember and do allow
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|LDGP Mk 82 (500 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|AIM-9B Sidewinder|FFAR Mighty Mouse}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || 1 || || || 1 ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || 1 || || || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 19 || 19 || 19 || 19 || 19
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 4 || 4 || 4 || 4 || 4 || 4
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || 1 || || || 1 || 1
+|-
+| colspan="7" | Maximum permissible loadout weight: 2,675 kg<br>Maximum permissible wing load: 1,337 kg<br>Maximum permissible weight imbalance: 1,000 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9B Sidewinder missiles
+* 4 x AIM-9B Sidewinder missiles
+* 114 x FFAR Mighty Mouse rockets
+* 24 x Zuni Mk32 Mod 0 ATAP rockets
 * 6 x 250 lb LDGP Mk 81 bombs (1,500 lb total)
 * 6 x 500 lb LDGP Mk 82 bombs (3,000 lb total)
 * 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
-* 2 x 1,000 lb LDGP Mk 83 bombs + 4 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
 * 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
-* 114 x FFAR Mighty Mouse rockets
-* 4 x AIM-9B Sidewinder missiles
-* 2 x AIM-9B Sidewinder missiles + 76 x FFAR Mighty Mouse rockets
-* 2 x AIM-9B Sidewinder missiles + 4 x 250 lb LDGP Mk 81 bombs (1,000 lb total)
-* 2 x AIM-9B Sidewinder missiles + 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)
-* 2 x AIM-9B Sidewinder missiles + 2 x 1,000 lb LDGP Mk 83 bombs + 2 x 500 lb LDGP Mk 82 bombs (3,000 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

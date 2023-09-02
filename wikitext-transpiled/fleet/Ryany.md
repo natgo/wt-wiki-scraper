@@ -100,5 +100,6 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet destroyer {{Bat
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Dalzavod}}
 {{USSR destroyers}}
 {{USSR premium ships}}

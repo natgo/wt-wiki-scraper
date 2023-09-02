@@ -159,12 +159,15 @@ In Naval Battles, the Wyvern can be used as a fighter-bomber. The 3 x 1,000 lb b
 * Excellent dive performance
 * Surprisingly high climb rate
 * Reasonably capable of Boom & Zoom, which will allow this premium plane to make even more money
+* In addition to carrying 3 x 1,000 lb bombs, you can release them separately from one another
+* It has an airbrake, a rare item at its BR
+* Highly versatile, serving as both an attack aircraft, or fighter capable of opportunistic kills and a bomber with its bomb capability
 
 '''Cons:'''
 
 * Exceedingly heavy (7 t unloaded, 9+ t with a payload)
 * Large fuel tanks located in front of the wings
-* Turboprop engine is more fragile than traditional piston-engines planes
+* Turboprop engine is more fragile than traditional piston-engines planes: any engine damage represents a significant impact on performance
 * Very bad roll rate
 * Below average high-altitude engine performance
 * Poor engine response to throttle adjustment
@@ -193,7 +196,7 @@ Image:Westland Wyvern on the runway.jpg|<small>Westland Wyvern on the runway</sm
 </gallery>
 
 ;Videos
-{{Youtube-gallery|nMwQCST13GM|'''Should You Buy The Wyvern''' - ''Sako Sniper''|Hryh-SLXmU4|'''Premium Vehicles: Wyvern S4''' - ''War Thunder Wiki''|95zYKZDSVjQ|''' Premium Review: Westland Wyvern S4''' - ''Jengar''}}
+{{Youtube-gallery|0k4QRAI_ILw|'''The Shooting Range #369''' - ''Pages of History'' section at 03:01 discusses the {{PAGENAME}}.|nMwQCST13GM|'''Should You Buy The Wyvern''' - ''Sako Sniper''|Hryh-SLXmU4|'''Premium Vehicles: Wyvern S4''' - ''War Thunder Wiki''|95zYKZDSVjQ|''' Premium Review: Westland Wyvern S4''' - ''Jengar''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

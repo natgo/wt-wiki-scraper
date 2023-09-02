@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
+The '''Panzerkampfwagen III Ausführung F (Panzer III F)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is the sixth variant of the [[Pz.III (Family)|Panzerkampfwagen III medium tank family]]. The Panzer III F, which succeeded the [[Pz.III E|Panzer III E]] as the next medium tank in the Panzer III medium tank family, was largely an improved variant with a few crucial upgrades and adjustments. Notably, in addition to the Panzer III E's new torsion bar suspension system, making it easier and cheaper to build and repair in combat, it also mounted a new 50 mm Kampfwagenkanone (KwK) 38 L/42 tank gun which significantly increased its firepower. The Panzer III F saw a greater quantity of production than the Panzer III E, with over 400 units produced between 1939 and 1941. As a result, it was one of the most numerous Panzer IIIs, and it played an important part in the early phases of World War II, beginning with the invasion of the West in May 1940.
 
-In the game, Ausf. F modification differs from its predecessor - Pz.III E - mostly by its new 5 cm KwK38 L/42 gun. While it doesn't offer that much more penetration than the previous gun and has a bit longer reload, it definitely causes more damage upon successful penetration. Other than that, only the turret armour has been enhanced a bit - most of the turret front armour is now 37 mm thick (instead of 30 mm on previous vehicles). These changes make the tank only slightly heavier, but the effect on mobility is negligible.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer III F variant is a completely novel design that replaces the earlier Panzer III E variant. First, it was outfitted with the new 50 mm KwK38 L/42 tank gun, which considerably increased its firepower and put it on pace with other nations at the time. Second, with the addition of torsion bar suspension, the Panzer III F became far more reliable. The tank is made up of armour plates ranging in thickness from 20 to 30 mm. Despite their vulnerability, higher firepower allows players to take more risks and engage foes with more dependability and ease. However, since almost no Panzer IIIs had their turret traverse upgraded to an electric power drive system, it is advised not to be too aggressive on the battlefield.
 
 == General info ==
 === Survivability and armour ===
@@ -121,7 +121,7 @@ This tank should be played as second-line support or area denial vehicle, due to
 
 The Pz.III F's most challenging opposition will be B1 bis and the B1 ter. These will demand heavy use of APCR to deal with in frontal confrontations, and might demand APCR for even side shots.
 
-For a more aggressive playstyle, this tank can be an advantageous point capturer. Immediately spawning into the map and charging to a point to capture, you will likely surprise enemy light tanks with your thicker armour and more potent weapon.  Watch your flanks, but proper angling should mitigate the risk. 
+For a more aggressive playstyle, this tank can be an advantageous point capturer. Immediately spawning into the map and charging to a point to capture, you will likely surprise enemy light tanks with your thicker armour and more potent weapon.  Watch your flanks, but proper angling should mitigate the risk.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -173,9 +173,11 @@ Captured Pz.Kpfw. III Ausf. F tanks were actively used by the Red Army. Test res
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_III_ausf_F Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==

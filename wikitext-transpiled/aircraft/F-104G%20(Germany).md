@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]]. It is often referred to as the "missile with a man in it" or the "widow maker", the latter nickname highlighting its questionable safety record in Luftwaffe use.
+The F-104G was the most common variants of the Starfighter family, with over 1,000 built by various companies like Lockheed, Fokker, Fiat, etc. Germany was also one of the biggest users of the Starfighter with over 900 purchased. However, Germany struggled with the F-104 and would later earn the nickname ''Witwenmacher'' ("Widowmaker") from the German public due to its high accident rate. Over 250 planes were lost in accidents and 100+ Luftwaffe pilots died as a result. Fortunately, as Germany addressed the problems with the F-104 program the accident rate decreased to a rate similar to other countries operating the Starfighter.
+
+Introduced in [[Update "Starfighters"]], the F-104G is extremely fast and will be able to outrun many of its contemporaries. However, it severely lacks in manoeuvrability. With the addition of bombs and missiles, the F-104G can be used as a ground attacker mainly due to the CCIP for the cannon, rockets, and bombs. As a fighter, the F-104G will be potent as it has 4 x [[AIM-9J]]s, a 20 mm M61A1 Vulcan cannon with 750 rounds, and countermeasures which are incredibly important at its battle rating. Players should be careful when using the cannon as it only has 7.5 seconds of trigger time. The F-104G will be unable to dogfight many fighters at its BR, so players should stick to staying fast and making passes on enemy planes.
 
 == General info ==
 === Flight performance ===

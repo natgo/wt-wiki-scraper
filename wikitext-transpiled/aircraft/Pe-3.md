@@ -12,7 +12,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''Petlyakov Pe-3''' was a modification of the already-existing Pe-2 dive bomber. It was an attempt to turn the widely available airframe into a heavy/night fighter in response to the rise in night bombings during the early months of Operation Barbarossa. Despite its initial intentions, the Pe-3 was unable to effectively fulfill its role as a night fighter. This was due to the challenges pilots faced when trying to target enemy aircraft: dazzling searchlights and blinding gunfire. Before a solution to this could be found, it was repurposed as a daytime attack aircraft. However, even in this role, it struggled. One notable weakness was its insufficient frontal protection, rendering it susceptible to enemy attacks, which resulted in the significant loss of around 25% of the initial production aircraft. Attempts to bolster the aircraft's armour were initiated, though the ticking clock of World War II posed a problem, preventing the timely completion of this upgrade. Ultimately, a decision materialized to reassign the Pe-3 to reconnaissance divisions, relegating it to a rarity in subsequent ground attack missions.
+
+The Pe-3 has been in the game since the start of the Open Beta Test prior to Update 1.27. As one of the earliest Soviet dedicated strike fighter platforms in the game, it doesn't disappoint with its loadouts, consisting of lightweight rockets and bombs. Unfortunately, the same cannot be said for its flight performance, which is disappointing when compared to other aircraft in its class due to a lack of manoeuvrability and relatively low engine power. Even so, it is very forgiving in mixed battles and serves as a good introduction to later aircraft in the line.
 
 == General info ==
 === Flight performance ===
@@ -118,16 +120,38 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|RS-132|RBS-132}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FAB-100sv (100 kg)|100 kg FAB-100sv]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[FAB-250sv (250 kg)|250 kg FAB-250sv]] bombs
+| || || 1 || 1 || ||
+|-
+! [[M-13UK]] rockets
+| 3 || || || || || 3
+|-
+! [[RBS-132]] rockets
+| 3 || || || || || 3
+|-
+| colspan="7" | Maximum permissible loadout weight: 720 kg<br>Maximum permissible wing load: 360 kg<br>Maximum permissible weight imbalance: 280 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 2 x 100 kg FAB-100sv bombs (200 kg total)
 * 4 x 100 kg FAB-100sv bombs (400 kg total)
-* 2 x 250 kg FAB-250sv bombs + 2 x 100 kg FAB-100sv bombs (700 kg total)
-* 6 x RS-132 rockets
+* 2 x 250 kg FAB-250sv bombs (500 kg total)
+* 6 x M-13UK rockets
 * 6 x RBS-132 rockets
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American destroyer {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+The '''{{Specs|name}}''' was laid down in May of 1944, and commissioned in December 1944. She would see limited service in WW2, acting as a radar picket destroyer in the Battle for Okinawa. She would also be present for the Surrender in Tokyo Bay in 1945. She would be reclassified as a radar picket destroyer (DDR-742) in March of 1946, and would go on to serve in the Korean war in this role, notably taking part in the Inchon invasion. She would also see action in Vietnam providing gunfire support. She would be transferred to the Greek navy in 1971, and would see service until the early 1990s before being sunk as a torpedo target by the Greek submarine Nireus on the 12th of September 2001.
+
+USS Frank Knox was introduced in [[Update "Fire and Ice"]], and compared to the other US Bluewater rank III premium [[USS Moffett]], has both benefits and downsides. It does have a weaker main battery, with only 6 {{Annotation|5-inch|127 mm}} guns in the main battery. In exchange, it has a larger crew count and better anti-fragmentation armour, a much better anti-aircraft suite and 2 extra torpedoes as well (10 instead of 8). It can easily deal with most destroyers of the rank with its rapid fire guns, and is also excellent for anti-air duties, even having radar for engaging air targets. Additionally, Frank Knox has an exceptionally high Silver Lion multiplier of 5.85, giving a multiplier of 1755% with premium time.
 
 == General info ==
 === Survivability and armour ===
@@ -122,5 +124,6 @@ USS Frank Knox plays similarly to other American destroyers of this rank: fast, 
 
 * [[wt:en/news/7927-development-premium-destroyer-uss-frank-knox-and-economic-changes-to-the-uss-moffett-en|[Devblog] Premium destroyer USS Frank Knox and economic changes to the USS Moffett]]
 
+{{ShipManufacturer Bath Iron Works}}
 {{USA destroyers}}
 {{USA premium ships}}

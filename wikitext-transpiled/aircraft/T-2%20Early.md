@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]], however it was removed from the Gaijin store at the end of the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]]. It was briefly made available for purchase with Golden Eagles {{GE}} for the [[wt:en/news/8365/current/|2023 "T-2 First Flight Anniversary"]].
 
 The T-2 Early is a prototype model of the tech-tree [[T-2]] supersonic fighter trainer, and is identical to it in all performance aspects.
 
@@ -211,6 +211,7 @@ Offensively, the damage caused by the JM61A1 gun is seriously insufficient. The 
 * Variety of air-to-ground and multirole payloads
 * Decent PD radar that can detect up to 60 km away, useful in large maps to find targets
 * The high Angle-of-Attack in certain maneuvers can be very useful defensively and offensively
+* Very fast for its BR
 
 '''Cons:'''
 
@@ -221,6 +222,8 @@ Offensively, the damage caused by the JM61A1 gun is seriously insufficient. The 
 * Burns through fuel at an astronomical rate
 * Mediocre AIM-9E missile
 * Both engines overheat at constant use with the afterburner
+* Lacks RWR
+* Relatively low thrust-to-weight ratio
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

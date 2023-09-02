@@ -53,10 +53,10 @@ Do not race against Japanese [[Type 90]] and Italian scout tank [[Centauro ROMOR
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 16 || rowspan="2" | -10°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 72.5 || 72.5 || 88.1 || 97.4 || 103.6 || rowspan="2" | 1.30 || rowspan="2" | 1.15 || rowspan="2" | 1.06 || rowspan="2" | 1.00
+| rowspan="2" | 16 || rowspan="2" | -10°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 61.6 || 85.3 || 103.6 || 114.6 || 121.9 || rowspan="2" | 1.30 || rowspan="2" | 1.15 || rowspan="2" | 1.06 || rowspan="2" | 1.00
 |-
 ! ''Realistic''
-| 49.0 || 49.0 || 59.5 || 65.8 || 70.0
+| 41.6 || 49.0 || 59.5 || 65.8 || 70.0
 |-
 |}
 
@@ -186,7 +186,7 @@ The Stormer HVM has huge gaps in optics: 10-40X optics, which can be manually ad
 * Invisible to anti-radar - helicopters do not receive radar alert from it, greatly reducing the chances of it being detected and targeted with rockets or missiles
 * Unique anti-air missiles - triple missile with one of the highest speeds in a straight line in-game
 * Has far more agreeable rearm sequence and timings than the latter [[ADATS (M113)]]
-* While triple missiles only explode on contact, they still can manoeuvre at maximum speed and always spiral, which allows them to bypass rocket walls, Vulcan gun fire and other countermeasures. Proximity missile attack from [[ADATS]], [[ZPRK 2S6]] and other such SAM SPAA in same circumstances would fail due to their missiles getting a false positive and exploding without reaching the target (which subsequently results in their user being hit by a rocket rain), which makes the Stormer in some ways better against helicopters
+* While triple missiles only explode on contact, they still can manoeuvre at maximum speed and always spiral, which allows them to bypass rocket walls, Vulcan gun fire and other countermeasures. Proximity missile attack from [[XM1069]], [[ZPRK 2S6]] and other such SAM SPAA in same circumstances would fail due to their missiles getting a false positive and exploding without reaching the target (which subsequently results in their user being hit by a rocket rain), which makes the Stormer in some ways better against helicopters
 ** Missiles are also immune to flares, IRCM and chaff; If the Stormer HVM is locked on it is nearly impossible to just block them
 * Good speed of chassis
 * X10-40 optics and powerful thermal scope allow it to track enemy until the very end of the map
@@ -196,7 +196,7 @@ The Stormer HVM has huge gaps in optics: 10-40X optics, which can be manually ad
 '''Cons:'''
 
 * High profile of ammo rack, which is also a weak spot, which can be ignited even by 7.62 mm machine guns or close artillery miss. Any damage to the missiles causes entire vehicle to explode, unlike with [[Striker]]
-* On top of high profile, ammo racks visually remind players of [[ADATS]] and will likely make ground forces drop everything and immediately attack it - stealth approach is required at all times
+* On top of high profile, ammo racks visually remind players of [[XM1069]] and will likely make ground forces drop everything and immediately attack it - stealth approach is required at all times
 * Two-stage launch, lack of proximity fuse, questionable lock-on accuracy and speed bleed on turns make it difficult for missiles to hit jets, at least at ranges below 3,000 m
 * Hull defences are inadequate against tanks and aircraft with weapons bigger than 20 mm autocannon, even if your ammo rack happened to be empty
 * While technically invisible, the Stormer HVM will still trigger laser Warning Systems on launch, potentially spooking away targets which have LWS (though usually they only have a second to react before missiles hit them)

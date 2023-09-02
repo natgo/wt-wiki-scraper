@@ -108,7 +108,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | || 7 || 7 || 7 || 7 ||
 |-
 ! ATAS (AIM-92) missiles
-| 4 || || || || || 4
+|2|| || || || ||2
 |-
 |}
 
@@ -154,6 +154,7 @@ The Stinger (AIM-92) missile is best used from a distance against unaware enemie
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64a_greece_usa Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -177,4 +178,5 @@ The Stinger (AIM-92) missile is best used from a distance against unaware enemie
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer Boeing}}
 {{USA helicopters}}

@@ -118,10 +118,19 @@ Thankfully, the main armament of the ship allows for medium-to-long range combat
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 The Besposhchadny was a destroyer of the Project 7, Gnevny-class, commissioned on the 2nd of October 1939. The Project 7 destroyers were intended to function as cheaper and more numerous traditional destroyers that were led by the larger and more expensive Project 1, Leningrad-class destroyer leaders. This plan was inhibited by the lack of experience that the Soviet Navy had with designing and building modern (for the time) destroyers. Cognizant of this limitation, the Soviet Navy consulted more experienced Italian shipbuilders in order to overcome their inexperience. The Soviets purchased plans for the Italian Folgore-class destroyers as a base for what would become the Gnevny-class.
 
+The design for the Gnevny-class had a length of 112.8 metres, a beam of 10.2 metres, and draft of 4.8 metres. They had a crew of 197 to 236, during peacetime and wartime, respectively. The ships were powered by two geared steam turbines with a rating of 48,000 shaft horsepower and a speed of 37 knots. The Gnevny-class had four single-mounted 130 mm guns, two 76.2 mm AA guns, two 45 mm AA guns, two 12.7 mm machine guns, six 533 mm torpedo tubes, and a capacity for 60 to 95 mines and 25 depth charges. The ships were also equipped with anti-submarine equipment including Mars hydrophones, K-1 paravanes, and depth-charge throwers.
+
+Built at Nikolayev's Shipyard No. 198, Besposhchadny was laid down on 15 May 1936 and completed on 22 August 1939. She was commissioned into the Black Sea Fleet on 2 October 1939. When Germany invaded the Soviet Union on 22 June 1941, Besposhchadny was part of the 2nd Destroyer Division of the Black Sea Fleet. It laid defensive mines off Sevastopol, attempted to interdict Axis shipping near Fidonisi, and provided escort and support duties. The ship received the Order of the Red Banner for her contribution to the defense of the Ukrainian Soviet Socialist Republic. It participated in fire support and amphibious operations until she was sunk by German air attacks on 6 October 1943.
+
+In July 1941, Besposhchadny ran aground and sustained propeller damage, but it was repaired and continued escorting cargo ships, providing gunfire support, and evacuating ships from shipyards. During an amphibious landing at Grigorievka in September 1941, the destroyer was attacked by Junkers Ju 87 Stuka dive bombers, severely damaging it. After emergency repairs, it was towed to Sevastopol and further repaired using parts from a sunken sister ship. While the Besposhchadny was being repaired, she was awarded the Order of the Red Banner for her contribution to the defense of the Ukrainian Soviet Socialist Republic.
+
+On the night of 5/6 October 1943, Besposhchadny, along with other destroyers, attempted to intercept German evacuation convoys off the Crimean coast. Attacked by German reconnaissance aircraft and Junkers Ju 87 Stukas, Besposhchadny was damaged and eventually sunk.
+
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_destroyer_7_besposhchadny Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -142,4 +151,5 @@ The Besposhchadny was a destroyer of the Project 7, Gnevny-class, commissioned o
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Sevastopol Shipyard}}
 {{USSR destroyers}}

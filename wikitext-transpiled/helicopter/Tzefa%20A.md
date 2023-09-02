@@ -91,28 +91,25 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- "Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB)." -->
 The Tzefa A is a quite low profile helicopter. This means you can easily "sneak" around the battlefield almost unseen. Your best element in this helicopter is the element of surprise. Try not to linger too long in any specific area, or you'll most definitely be shot down. Another tactic is to simply run straight into the battlefield at a low altitude, high speed, and "boom n zoom". Using this tactic is much riskier as you are most prone to being fired upon, but it also offers a quicker disengagement. The most dangerous enemies you'll encounter are the Gepard, Strela, and most AA at this BR. The best way to kill these targets is to fly low to the ground, and flank around to their side and shoot them.
-=== Pros and cons ===
-<!-- "Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective"" -->
+
 In summary, the Tzefa A should be played cautiously. With correct usage, it can wreak havoc on the enemy team. Be careful when you come into contact with enemy AA, as you are very vulnerable in certain spots. Try to avoid getting shot in the engine and tail as those are vital to the flight of your helicopter. As you engage targets, make sure you always have a plan to disengage quickly in case things go wrong. Use the low profile of the helicopter to your advantage to "sneak" around and only pop up when you're about to strike.
 
+=== Pros and cons ===
+<!-- "Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective"" -->
 
 '''Pros:'''
 
-* High maneuverability
+* High manoeuvrability
 * Lots of rockets
 * Low profile makes it a small target to hit
-* Airframe of the helicopter is very resilient
+* The airframe is very resilient
 * High speed
-
-*
 
 '''Cons:'''
 
-* Being shot in the engine/tail is almost guaranteed to kill you
+* Being shot in the engine/tail is almost guaranteed to knock the helicopter out
 * Low climb rate
 * Cannot stop quickly if needed
-
-*
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

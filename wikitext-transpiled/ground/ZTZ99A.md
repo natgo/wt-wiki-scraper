@@ -22,29 +22,57 @@ Though it shares the number 99 in its name, the ZTZ99A in fact has very little t
 
 Another major difference is that the driver is moved to the right side of the hull (from the enemy's perspective), if opponents aren't able differentiate between the 99A and other 99s, it is very likely that shots hitting the UFP will prove fruitless. To say at least, aside from the headlights on the UFP, LFP and the mantlet, the ZTZ99A will have a better protection at its frontal arc than its predecessors.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+
+* Rolled homogeneous armour (hull, turret, engine vents, optics shield)
+* Cast homogeneous armour (gun mantlet, driver hatch)
+* Rubber-fabric screens (side skirts)
+* Structural steel (slat armour)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 20 mm (70°) ''Upper glacis'' <br> 60 + 20 mm (54°) ''Lower glacis'' <br> 30 mm (12°) ''Driver hatch'' || 80 mm ''Top'' <br> 20 mm (28°) ''Bottom'' || 45 mm (0°-47°) <br> 10 mm (0°-65°) ''Engine vent'' || 30 mm (88°) <br> 20 mm ''Rear''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 20 mm (23°-68°) ''Turret cheeks'' <br> 40-310 mm (26°-70°) ''Gun mantlet'' || 50-60 + 10 mm <br> 130 mm ''Turret ring'' || 35 mm || 30 mm <br> 50 mm ''Rear'' <br> 20 mm ''Optics shield''
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || colspan="4" style="text-align: center;" | 30 mm (89°)
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+{| class="wikitable"
+! Composite armour !! Frontal effective protection
+|-
+| Hull
+| '''Upper glacis (ERA counted):''' <br> 550-900 mm ''Kinetic'' / 750-1,600 mm ''Chemical''
+|-
+| Turret
+| '''Turret cheeks (ERA counted):''' <br> 750-1,000 mm ''Kinetic'' / 1,200-1,700 mm ''Chemical'' <br> '''Upper gun mantlet (ERA counted):''' <br> 500-650 mm ''Kinetic'' / 600-1,200 mm ''Chemical'' <br> '''Lower Gun mantlet:''' <br> 200-550 mm ''Kinetic'' / 300-600 mm ''Chemical''
+|}
+
+{| class="wikitable"
+! Explosive reactive armour !! Front (Slope angle) !! Sides !! Roof
+|-
+| Hull || '''Upper glacis:''' <br> '''FY-4 (67°, 70°, 81°):''' <br> 140 mm ''Kinetic''/ 450 mm ''Chemical''
+!
+!
+|-
+| Turret || '''Upper turret cheeks, gun mantlet:''' <br> '''FY-5 (67°, 70°, 81°):''' <br> 250 mm ''Kinetic'' / 600 mm ''Chemical'' <br> '''Lower turret cheeks:''' <br> '''FY-5 (22-26°):''' <br> 250 mm ''Kinetic'' / 600 mm ''Chemical'' || '''Front:''' <br> '''FY-5 (3°):''' <br> 250 mm ''Kinetic'' / 600 mm ''Chemical'' <br> '''Slat armour:''' <br> '''FY-4:''' <br> 50 mm ''Kinetic'' / 350 mm ''Chemical'' || '''FY-1D1:''' <br> 30 mm ''Kinetic'' / 300 mm ''Chemical''
+|-
+|}
+
+'''Notes:'''
+
+* Suspension wheels, tracks, and underbody are 20 mm thick.
+* Side skirts are 8 mm thick, and slat armour on the turret sides and rear is 10 mm thick.
+* There is a 5 mm thick internal RHA screen separating the crew compartment from the engine compartment.
+* A log placed at the rear of the hull is 100 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The efforts of Chinese armoured vehicle designers in the first decade of 21st century have finally ripened - ZTZ99A sports a new powerpack consists of the NORINCO Shaanxi 12V150HB-1 diesel engine and CH1000 transmission. With 1500 hp power output when spaded and having a DCT transmission, it is the fastest MBT in the game at 75 km/h and has a -34 km/h reverse; unprecedented for any Warsaw Pact or Chinese tank. The new transmission also makes ZTZ99A a huge but nimble tank in terms of its turning radius, and vastly improves its reaction time to enemies or in case of a quick retreat.
+The efforts of Chinese armoured vehicle designers in the first decade of 21st century have finally ripened - ZTZ99A sports a new powerpack consists of the NORINCO Shaanxi 12V150HB-1 diesel engine and CH1000 transmission. With 1,500 hp power output when spaded and having a DCT transmission, it is the fastest MBT in the game at 75 km/h and has a -34 km/h reverse; unprecedented for any Warsaw Pact or Chinese tank. The new transmission also makes ZTZ99A a huge but nimble tank in terms of its turning radius, and vastly improves its reaction time to enemies or in case of a quick retreat.
 
 {{tankMobility|abMinHp=2,325|rbMinHp=1,327}}
 
@@ -172,7 +200,7 @@ As the previous WZ123/ZTZ99 program had been certified, the Central Military Com
 
 The earliest known prototypes consisted of 3 WZ1001s which had different designs: the first was based on a ZTZ99, installing a brand new turret and reworking the rear side of the chassis to fit a new power pack; the second one looked similar to what the certified WZ1001 would be; while the third installed an experimental 125 mm L/54 gun based on the former. These prototypes were first spotted in 2006 and their efforts for a new tank were then certified in 2010, thus named ZTZ10 then ZTZ99A due to unknown reasons.
 
-The earliest batches of the pre-production run ZTZ99As were spotted in the early 2010s equipping an experimental millimeter-wave IFF radar, known simply as New MBT (新型主战坦克) or by the erroneous name ZTZ99A2 (or 99大改) to observers. The debate of the name settled down when it was first shown during the 70th V-J Day Parade in Beijing as the TJ1XX column during the parade; as later batches started to be manufactured in 2016, those in 90th PLA Day Parade at Zhurihe Base (朱日和基地; a Fort Owen-like exercise ground for PLA troops) and during the 70th National Day Parade had slightly different designs with the removal of the aforementioned MMW radar.
+The earliest batches of the pre-production run ZTZ99As were spotted in the early 2010s equipping an experimental millimeter-wave IFF radar, known simply as New MBT (新型主战坦克) or by the erroneous name ZTZ99A2 (or 99大改) to observers. The debate of the name settled down when it was first shown during the 70th V-J Day Parade in Beijing as the TJ1XX column during the parade; as later batches started to be manufactured in 2016, those in 90th PLA Day Parade at Zhurihe Base (朱日和基地; a Fort Owen-like exercise ground for PLA troops) and during the 70th National Day Parade had slightly different designs with the removal of the MMW radar.
 
 === [[wt:en/news/7722-development-ztz99a-roaring-tiger-en|Devblog]] ===
 The ZTZ99A is a further development of the ZTZ99 MBT, already familiar to seasoned War Thunder tankers and fans of Chinese ground vehicles in the game. However, despite sharing a common chassis, the ZTZ99A can be considered a completely new vehicle thanks to a near complete overhaul of its design, particularly concerning its turret. Unlike previous variants, the ZTZ99A features a new arrow-shaped turret, fitted with state-of-the-art ERA and composite armour, capable of defeating even tandem charge chemical rounds.

@@ -13,7 +13,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 During the Cuban Missile Crisis era, the Turkish Air Force bought the F-104S from Italy to increase the combat capabilities of their air force already equipped with 2 squadrons of F-4E. Turkey bought 40 new F-104S interceptors from FIAT in 1974-1975.
 
-Introduced in [[Update "Apex Predators"]], the F-104S (TAF) is rather complicated to use because of its lack of manoeuvrability. The aircraft can be used both as a CAS and an air superiority platform due to its excellent acceleration and climb rate, as well as a ballistic computer to aid in use of ordnance. You can rely on both the AIM-9J and AIM-7E SARH air-to-air missiles to shoot down enemy planes and helicopters during battles, or use a payload of bombs or rockets to act as CAS for your allies in Ground Battles, while the available flare/chaff can be used to ward off enemy threats. In comparison to the tech tree F-104S, the TAF carries the 20 mm minigun under the fuselage instead of in the nose.
+Introduced in [[Update "Apex Predators"]], the F-104S (TAF) is rather complicated to use because of its lack of manoeuvrability. The aircraft can be used both as a CAS and an air superiority platform due to its excellent acceleration and climb rate, as well as a ballistic computer to aid in use of ordnance. You can rely on both the AIM-9P and AIM-7E SARH air-to-air missiles to shoot down enemy planes and helicopters during battles, or use a payload of bombs or rockets to act as CAS for your allies in Ground Battles, while the available flare/chaff can be used to ward off enemy threats. In comparison to the tech tree F-104S, the TAF carries the 20 mm minigun under the fuselage instead of in the nose.
 
 == General info ==
 === Flight performance ===
@@ -197,6 +197,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 1 x 20 mm M61A1 cannon (750 rpg) + 2 x AIM-9B Sidewinder missiles
 * 1 x 20 mm M61A1 cannon + 2 x AIM-9P Sidewinder missiles

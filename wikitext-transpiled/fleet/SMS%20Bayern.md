@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German battleship {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]]. Bayern was the lead ship of the Bayern-class dreadnoughts and the first German battleship equipped with 380 mm guns.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} German battleship {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]]. The Bayern was the first ship of the Bayern class, the Kaiserliche Marine's equivalent of the British Queen Elizabeth class. As the first German battleships armed with 380 mm cannons, they represent a huge leap from the 283 mm and 305 mm-armed battleships previously built for the High Seas Fleet. The Bayern and its sister, Baden, are also the last battleships fully built by Imperial Germany before their collapse, though their design would be revived as the foundation for the later Bismarck class of Nazi Germany. Following the 1918 armistice, Bayern and Baden were escorted to Scapa Flow, where they were eventually scuttled by their German crews. However, Baden was rescued by the British, who ran tests on the ship. Among other discoveries, they found that the main guns could be reloaded in 23 seconds, which was 13 seconds faster than the 381 mm cannons on the Queen Elizabeth class.
 
 == General info ==
 === Survivability and armour ===

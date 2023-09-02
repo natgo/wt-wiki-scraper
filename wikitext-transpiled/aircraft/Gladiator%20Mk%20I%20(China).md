@@ -202,11 +202,14 @@ File:Gladiator-China an trn 26 007.png
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
+* [[Gladiator (Family)]]
+
 ;Aircraft of comparable role, configuration and era
 * Grumman [[F3F-2|F3F]]
-* Polikarpov [[I-15 (Family)|I-15 & I-153]]
-* Fiat [[CR.32]]
-* Fiat [[CR.42]]
+* Polikarpov [[I-15 (Family)|I-15]] & [[I-153 (Family)|I-153]]
+* Fiat [[CR.32 (Family)|CR.32]]
+* Fiat [[C.R.42 (Family)|CR.42]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

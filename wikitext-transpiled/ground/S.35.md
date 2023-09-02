@@ -87,7 +87,7 @@ The {{PAGENAME}} has a limited choice of ammunition:
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -102,7 +102,9 @@ The {{PAGENAME}} has a limited choice of ammunition:
 |}
 '''Note''':
 
-* As they are modeled by sets of 3, shells disappear from the rack only after you fire all shells in the set.
+* As they are modeled by sets of 3, shells disappear from the rack only after you've fire all shells in the set.
+* Bring 25&nbsp;''(+59)'' shells into battle to carry enough rounds while keeping most racks empty.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

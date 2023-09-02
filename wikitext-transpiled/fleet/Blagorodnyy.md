@@ -91,7 +91,11 @@ The other weaponry on-board are its quintuple 533 mm 53-57 torpedo launchers loc
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+
+;Videos
+
+{{Youtube-gallery|Xn9pLDaKqmw|'''Blagorodnyy - Spokoinny-Class Destroyer - Naval''' - ''Cmdr. Tyrael''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

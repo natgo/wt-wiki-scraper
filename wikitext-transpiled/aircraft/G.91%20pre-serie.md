@@ -138,14 +138,35 @@ A focus should be made on the engine modules, as the G.91 lives by its T/W ratio
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|Aerea 559G1 incendiary|FFAR Mighty Mouse|M3 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="5" width="20%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[M3 Browning (12.7 mm)|12.7 mm M3 Browning]] machine guns (300 rpg)
+| || 2 || 2 ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1 || || || 1
+|-
+! [[Aerea 559G1 incendiary]] bombs
+| 1 || || || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || || || 19
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 4 x 12.7 mm M3 Browning machine guns (300 rpg = 1,200 total)
-* 4 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 4 x 12.7 mm M3 Browning machine guns + 38 x FFAR Mighty Mouse rockets
+* 4 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 4 x 12.7 mm M3 Browning machine guns + 2 x Aerea 559G1 incendiary bombs
+{{Navigation-End}}
 
 The M3 Browning is a new weapon in the Italian arsenal at this 5th tier and compared to the previous experiences a let down. The rate of fire is phenomenal, but the small calibre and ammo size put a serious damper to the mood, that is in comparison of course. In practise and with good aim, it can easily shred four fighters. The high bullet velocity and fire rate is quite the advantage in the fast pace world of jet combat, ensuring hits in deflection shots where the lower rate of fire found in the [[:Category:Fifth rank aircraft|Soviet jet fighters]] might have failed the pilot.
 Yet one will always look onto greener pastures, especially as the Gina only has four guns unlike all other Browning armed jets.

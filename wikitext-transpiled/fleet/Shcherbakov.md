@@ -88,4 +88,5 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet light cruiser {{Ba
 
 * [[wt:en/news/8181-development-repair-factory-shcherbakov-light-cruiser-en|[Devblog] Repair Factory: Shcherbakov light cruiser]]
 
+{{ShipManufacturer Admiralty Shipyards}}
 {{USSR light cruisers}}

@@ -49,6 +49,7 @@ The Valentine is not a fast tank to say the least. It reaches its max speed pret
 {{Specs-Economy}}
 
 Suggested research order:
+
 # Parts can be researched first as the Valentine will often get shot and damaged without dying too soon, so it is important to repair damaged components and rejoin the fight;
 # Tracks improve the Valentine I's terrible stock hull traverse speed;
 # Mobility modifications can be researched to further increase the subpar manoeuvrability;
@@ -140,7 +141,7 @@ The Valentine I is equipped with a coaxial 7.92 mm BESA machine gun. It has larg
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Valentine Mk.1 is a bit of a hit or miss due to its relatively high BR: when uptiered, it plays like a British heavy tank, using its raw armour value to soak up shots. Having that much armour when matched against low-ranked tanks also means that the Valentine can take its time to aim at the weak spots/vital modules of the enemy. Otherwise, it plays like a pretty slow medium tank and should avoid the front lines since its cannon do so little damage.
+The Valentine Mk.1 is a bit of a hit or miss due to its relatively high BR: when downtiered, it plays like a British heavy tank, using its raw armour value to soak up shots. Having that much armour when matched against low-ranked tanks also means that the Valentine can take its time to aim at the weak spots/vital modules of the enemy. Otherwise, it plays like a pretty slow medium tank and should avoid the front lines since its cannon do so little damage.
 
 The Valentine I is a team player, relying on its allies to provide damage while dragging attention from the enemy. It is a situational vehicle, its gameplay depends much on what it faces.
 
@@ -236,6 +237,7 @@ About forty Valentines and vehicles based off the Valentine chassis exist in var
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_valentine_mk_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

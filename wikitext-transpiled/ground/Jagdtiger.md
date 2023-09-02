@@ -72,24 +72,26 @@ At mid-long range is invincible versus APHE & the majority of HESH ammunition, o
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.27.2.36''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
+! Ammo part
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
-! 7th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''40''' ||33&nbsp;''(+7)'' || 28&nbsp;''(+12)'' || 23&nbsp;''(+17)'' || 17&nbsp;''(+23)'' || 11&nbsp;''(+29)'' || 6&nbsp;''(+34)'' || 1&nbsp;''(+39)'' || No
+| '''40''' || Projectiles <br> Propellants || 29&nbsp;''(+11)'' <br> 33&nbsp;''(+7)''  || 15&nbsp;''(+25)'' <br> 27&nbsp;''(+13)'' || 1&nbsp;''(+1)'' <br> 19&nbsp;''(+21)''  || N/A <br> 15&nbsp;''(+25)'' || N/A <br> 11&nbsp;''(+29)'' || N/A <br> 1&nbsp;''(+39)'' || No
 |}
-'''Note''':
+'''Notes''':
 
 * The {{PAGENAME}} uses two-piece ammunition, composed of propellant bags (orange) and projectiles (yellow). Both have separate racks.
+* Projectiles and propellant bags are modeled individually and disappear after having been shot or loaded.
+* Sides empty: 11&nbsp;''(+29)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

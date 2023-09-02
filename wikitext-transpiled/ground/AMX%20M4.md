@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=fr_amx_m4
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -62,7 +62,7 @@ As for flanking onto a single AMX M4, it must be dealt with quick: its fast turr
 
 {{tankMobility|abMinHp=1,550|rbMinHp=884}}
 
-Post-war French designs are all very good at moving around: they have good engines, wide tracks and can easily achieve ~40 km/h on most terrains. The {{PAGENAME}} may be the worst of them all, on par with the [[AMX-50 (TOA100)]] as they share a ''very similar'' hull, they still have ''above average'' mobility, when compared to other medium tanks at the same BR. This observation is based on the fact that this tank's reverse speed only reaches -5 km/h and it does not have the ability to do neutral steering, anything else is comparable to its contemporaries.
+Post-war French designs are all very good at moving around: they have good engines, wide tracks and can easily achieve ~40 km/h on most terrains. The {{PAGENAME}} may be the worst of them all, on par with the [[AMX-50 (TOA100)]] as they share a ''very similar'' hull, they still have ''above average'' mobility, when compared to other medium tanks at the same BR.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -208,6 +208,7 @@ The AMX M4 was the first prototype of what would be the AMX-50 and never saw eit
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_m4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -18,7 +18,7 @@ Designed from the N-156 prototype of Northrop Corporation (now Northrop Grumman)
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-Being a lightweight supersonic jet fighter, the F-5A is a really manoeuvrable aircraft: the aerodynamic design and the structure of this fighter can sustain high-G manoeuvres even around 1,000 km/h at around 11 G of overloading without losing much energy. Try to stay above 800 km/h, if you go below that your speed starts dropping rapidly. You don't really have to care about ripping your wings. At lower speeds, the F-5A stand amongst the best jets in terms of manoeuvrability. The angle of attack in a turn stays really low, as it does not have delta wings and is really light. However, the aircraft does not have a high top speed and the acceleration is subpar compared to same-tier jets due to the limitations on the J85 engines.
+Being a lightweight supersonic jet fighter, the F-5A is a really manoeuvrable aircraft: the aerodynamic design and the structure of this fighter can sustain high-G manoeuvres even around 1,000 km/h at around 11 G of overloading almost no losing energy, either with a very good energy retention and acceleration at high speeds. Try to stay above 800 km/h, if you go below that your speed starts dropping rapidly. You don't really have to care about ripping your wings. At lower speeds, the F-5A stand amongst the best jets in terms of manoeuvrability. The angle of attack in a turn stays really low, as it does not have delta wings and is really light. However, the aircraft does not have a high top speed and is subpar compared to same-tier jets due to the limitations on the J85 engines.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -191,6 +191,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9P Sidewinder missiles
 * 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
@@ -212,9 +213,9 @@ For a pure air-to-air role, the 2x AIM-9P loadout is the best, as the F-5A canno
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-F-5A was designed to be a lightweight fighter at the first place, so one thing players may find is the better manoeuvrability over most jets at the same tier, also another traits of this aircraft is its directional controllability (that is, the nose points to whether your mouse pointed at without much corrections); but you will also suffer from a major drawback of it- the subpar thrust of the pair of J85 on the it, which provides lower-than-average acceleration to fighters of the same tier, unless necessary or 1-on-1 battles, DO NOT have the airspeed lower than 800kph which the speed drops even significantly.
+F-5A was designed to be a lightweight fighter at the first place, so one thing players may find is the better manoeuvrability over most jets at the same tier, also another traits of this aircraft is its directional controllability (that is, the nose points to whether your mouse pointed at without much corrections); but you will also suffer from a major drawback of it- the subpar thrust of the pair of J85 on the it from lower to medium speeds, which provides lower-than-average acceleration to fighters of the same tier at such speeds, unless necessary or 1-on-1 battles, DO NOT have the airspeed lower than 800kph which the speed drops even significantly.
 
-One way to cope with the lack of acceleration is to use the directional controllability to bait enemies during head-on, being one of the smallest size jet at 11.0, players can dodge devastating cannons with relatively ease and use that manoeuvrability to turn back on the enemy; or trick their shots then immediately point the nose back onto the enemy during head-on albeit risky.  Another safer option is pick those fighters with lower energy and make quick and short work of them with those pair of M39A2 cannons; until players unlock AIM-9P with exceptional accuracy and long range; with missiles, try to keep the target at around 2km where the missiles can track with more accuracy but keep in mind that you only have 2 chances as F-5A has no underwing pylon for AAMs. Do remember to check six for any surprise attacks from the enemies, RWR and countermeasures certainly improved its survivability at top tier.
+One way to cope with the lack of acceleration in lower speeds is to use the directional controllability to bait enemies during head-on and a excellent energy retention at high speeds , being one of the smallest size jet at 11.0, players can dodge devastating cannons with relatively ease and use that manoeuvrability and energy/position advantage to turn back on the enemy; or trick their shots then immediately point the nose back onto the enemy during head-on albeit risky.  Another safer option is pick those fighters with lower energy and make quick and short work of them with those pair of M39A2 cannons; until players unlock AIM-9P with exceptional accuracy and long range; with missiles, try to keep the target at around 2km where the missiles can track with more accuracy but keep in mind that you only have 2 chances as F-5A has no underwing pylon for AAMs. Do remember to check six for any surprise attacks from the enemies, RWR and countermeasures certainly improves its survivability at top tier.
 
 For Ground (RB):
 
@@ -230,17 +231,18 @@ The key to ground attack in a F-5A is keep on track of SPAAGs or other multirole
 * Many payload options
 * AIM-9P missiles are quite effective
 * Highly manoeuvrable
-* Amazing energy retention, even in high-G manoeuvres
+* Amazing energy retention, even in high-G manoeuvres and high speeds
 * Hard to rip the wings
 * Can be used in many roles, such as fighter, attacker and base bomber
-* Competitive speed at sea level, on par with MiG-21s
 * Reasonable ammo pool for the cannons
+* Almost unbeatable in duels even against other comparable light fighters from other nations
 
 '''Cons:'''
 
 * No radar or rangefinder
 * No extra protection on the aircraft
-* Low top speed, acceleration, and climb rate compared to its counterparts
+* Low top speed, and low speed acceleration and climb rate compared to its counterparts
+* Doesn't have a ballistic computer for cannons and air to ground ordnance
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

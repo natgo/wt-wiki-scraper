@@ -83,7 +83,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 The 9M133M-2 Kornet-М is a supersonic tandem charged missile, good for destroying MBTs that players at this battle rating use. It has a good flight speed and decent maneuverability, so you can always hit those sneaky light tanks and SPAAs running around the battlefield.
 
-The 9M113FM3 Kornet-М is a supersonic missile with a high explosive warhead. It penetrates as much as 61 mm of armour. The blast is enough to knock out most MBTs. You can give most [[ADATS]] and [[PUMA]] users an extremely bad day.
+The 9M113FM3 Kornet-М is a supersonic missile with a high explosive warhead. It penetrates as much as 61 mm of armour. The blast is enough to knock out most MBTs. You can give most [[XM1069]] and [[PUMA]] users an extremely bad day.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

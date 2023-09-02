@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''{{Specs|name}}''' was a Soviet twin-engined bomber designed with the intent of being deployed as a medium bomber. It was developed in the 1930s by the Ilyushin Design Bureau and entered service in 1941. It was operated by both the Soviet Air Force, which mostly utilized it for frontline bombing, and the Navy, which made extensive use of it for torpedo bombing missions throughout World War II, incorporating 45-36AN torpedoes into their variant. With a top speed of 400 km/h and a range of over 2,000 kilometres, the {{Specs|name}} was also sporadically used as a strategic bomber. It had a crew of four and could carry a remarkable payload of up to 2,000 kg of bombs. Subsequent efforts to enhance its capabilities led to the development of the IL-6. Despite the promising advances, the project was eventually canceled, leaving the {{Specs|name}} as the final bomber in its [[DB-3 (Family)|family]]. By 1949, it had been entirely phased out.
+
+The {{Specs|name}} has been in the game since the start of the Open Beta Test prior to Update 1.27. It mostly plays like its predecessor, the [[DB-3B]], with differences in engines and defensive armament. Due to its flexible payload options, it can be used in ground, air, and even naval battles. It should be noted, however, that compared to dedicated fighters or light bombers, its top speed and manoeuvrability are constrained.
 
 == General info ==
 === Flight performance ===
@@ -73,8 +75,8 @@ The aircraft's manoeuvrability on a whole is rather undesirable. The control sur
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-* 6mm steel behind pilot
-* 6mm Steel plate in the tail
+* 6 mm steel behind pilot
+* 6 mm Steel plate in the tail
 * Self-sealing fuel tanks, with neutral gas pressurization system (3 in each wing)
 
 === Modifications and economy ===
@@ -107,7 +109,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 The '''''{{PAGENAME}}''''' is defended by:
 
 * 1 x 12.7 mm Berezin UB machine gun, dorsal turret (230 rpg)
-* 1 x 7.62 mm ShKAS machine gun, nose turret (1,000 rpg)
+* 1 x 7.62 mm ShKAS machine gun, nose turret (550 rpg)
 * 1 x 7.62 mm ShKAS machine gun, ventral turret (500 rpg)
 
 == Usage in battles ==
@@ -116,7 +118,7 @@ The IL-4 should be played similarly to its predecessor, the [[DB-3B]]. The aircr
 
 The IL-4 can be used as an effective bomber in Air battles. In this role, the most effective load is the 1,000 kg + 2 x 500 kg bomb load. This load will allow you to take out at least one base, and potentially damage another. At the start of each battle, simply fly straight towards the enemy bases - you could side climb too, but it isn't advised as the bomb load will make the IL-4's climb rate almost completely nonexistent. After dropping bombs, immediately fly back towards friendly airspace, potentially in a slight dive. This ensures that the IL-4 won't be intercepted by pursuing fighters, most of which can tear its airframe to bits.
 
-The IL-4 is unique in that it is the only USSR tech-tree aircraft that is capable of carrying a torpedo - that is, the Soviet 450 mm [[45-36AN (450 mm)|45-36AN]] torpedo. However useful the load may be, the Torpedo's effectiveness is severely limited by its slow drop speed. In naval battles, this torpedo is best used against early destroyers, which are large, bulky and (for the most part) lack effective anti-aircraft armament. Make sure to slow to the torpedo drop speed of 248 km/h, lead the target and drop the torpedo. Keep in mind that the IL-4 is a large bulky target; it may be wise to drop the torpedo early, to ensure survival.
+The IL-4 is unique in that it is one of very few USSR tech-tree aircraft that is capable of carrying a torpedo - that is, the Soviet 450 mm [[45-36AN (450 mm)|45-36AN]] torpedo. However useful the load may be, the Torpedo's effectiveness is severely limited by its slow drop speed. In naval battles, this torpedo is best used against early destroyers, which are large, bulky and (for the most part) lack effective anti-aircraft armament. Make sure to slow to the torpedo drop speed of 248 km/h, lead the target and drop the torpedo. Keep in mind that the IL-4 is a large bulky target; it may be wise to drop the torpedo early, to ensure survival.
 
 If being pursued by enemy fighters, the best strategy is to simply run towards friendly airspace. The IL-4 lacks an effective defensive armament suite, and also cannot outspeed most fighters at its BR. If an engagement cannot be avoided, bait the fighters to your tail, and slightly above; this is where the aircraft's only 12.7 mm Berezin UB machine gun is located. Despite being of a lower calibre, the machine gun is accurate and highly effective, capable of setting enemy aircraft's engines on fire. You may even get some pilot-snipes, with enough accuracy.
 

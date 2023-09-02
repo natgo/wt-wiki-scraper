@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a reserve rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]]. It is identical to the Soviet [[T-26]].
+The '''{{Specs|name}}''' represented the T-26 Model 1933 ''(Note: the in-game model is Model 1939 which were never supplied to NRA, distinguished by the lack of rounded antenna around the turret of Model 1938)'' in NRA service by the time of the 2nd Sino-Japanese War; Soviet Union was still one of the weapon supplier to NRA where they were in dire need for tanks against invaders. 88 of these tanks were supplied alongside with some BT tanks via Northwestern China supply routes; these tanks served NRA from Shanghai to Burma where most of them seemed to have lost during the war, while very few of them somehow survived until the downfall of Nationalist forces in Mainland China where photos suggested these tanks were relocated to Taiwan Island but no further records marked the fate of these obsolete tanks; likely been scraped and replaced by US-aid tanks like M24 and M41 in near future.
+
+Introduced in [[Update 1.91 "Night Vision"]] as the reserve tank of Chinese ground tech-tree, it is identical to the Soviet [[T-26]]. Although the overall protection is rather disappointing due to the flat surfaces from the design and the nature of a light tank, if taking the flanks and wait for preys, the 45 mm gun will make sure enemy targets will have a bad day; while being daredevil and hit the frontline is also possible thanks to the sufficient penetration from both shells. It will be a good starter tank to learn how to get advance for future combat vehicles.
 
 == General info ==
 === Survivability and armour ===

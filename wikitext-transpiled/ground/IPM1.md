@@ -70,8 +70,8 @@ Like its predecessor, the IPM1 is equipped with a reliable 105 mm M68A1 cannon, 
 {{:M68A1 (105 mm)/Ammunition|M456A2, M393A2, M833, M416, M900}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_M1_Abrams.png|right|thumb|x250px|[[Ammo racks]] of the M1 Abrams]]
-<!-- '''Last updated: 2.17.0.126''' -->
+[[File:Ammoracks_M1_KVT.png|right|thumb|x250px|[[Ammo racks]] of the M1 Abrams]]
+<!-- '''Last updated: 2.27.2.19''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -81,7 +81,7 @@ Like its predecessor, the IPM1 is equipped with a reliable 105 mm M68A1 cannon, 
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''55''' || 53&nbsp;''(+2)'' || 45&nbsp;''(+10)'' || 23&nbsp;''(+32)'' || 1&nbsp;''(+54)'' || No
+| '''55''' || 48&nbsp;''(+7)'' || 45&nbsp;''(+10)'' || 23&nbsp;''(+32)'' || 1&nbsp;''(+54)'' || No
 |-
 |}
 '''Notes''':

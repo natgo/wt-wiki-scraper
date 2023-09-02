@@ -13,22 +13,17 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American heavy tank {{Battle-rating}}. It was one of the first American tanks to be released with the American ground tree in [[Update 1.45 "Steel Generals"]]. A premium version of the [[M4A3E2|M4A3E2 Jumbo]]. As a side note, the nickname "Jumbo" was likely never used during WWII, as there is no record of it. However, its use both on the Wiki and in-game is still prevalent.
+The '''Cobra King''' is a unique version of the [[M4A3E2|M4A3E2 Sherman]], which was a special modification of the fourth variant of the early-generation [[M4 Sherman (Family)|Medium Tank M4 (Sherman) family]]. During the Battle of the Bulge in December 1944, the Germans assaulted and cornered U.S. soldiers in the town of Bastogne. The Cobra King was the first tank to enter the perimeter of Bastogne, bringing relief to the besieged American 101st Airborne Division. Cobra King saw combat for the first time in 1944. It was destroyed during a battle in France in November 1944, but it was later restored and reassigned. In late 1944, the tank was deployed to Company C of the American 4th Armored Division's 37th Tank Battalion, which was the spearhead of General Patton's Third Army moving into Bastogne. The 37th Tank Battalion was then commanded by Creighton Abrams, subsequently commander of U.S. forces in the Vietnam War, Chief of Staff of the United States Army, and namesake of the [[M1 Abrams]] tank. Lieutenant Charles Boggess led a crew that included Hubert S. Smith (driver), Harold Hafner (co-driver), Milton Jafet (gunner), and James G. Murphy (loader). Boggess had taken over for the tank's former commander, Charles Trover, who was killed by a sniper on December 23rd while standing in the turret.
 
-The "Cobra King" is in many aspects the same vehicle as the regular M4A3E2. There are however a few notable cosmetic differences:
-* a shade of green on the vehicle's stock livery different from the standard US olive-drab green, with a more pronounced green colour than the subdued mix with brown,
-* the large white marking "First in Bastogne" present on the hull's left side, boasting about the tank's actual achievement in the US Third Army in World War II, and a bit lower on the hull sides will a decal with the name "Cobra King",
-* and finally, the presence on the rear of the vehicle of kit, canvas, gear, tracks, and fuel tanks, which are absent on the regular M4A3E2.
-
-The Jumbo's armour is nothing to underestimate. It can bounce most shells at point blank range when angled more than 30 degrees. And the turret is well armoured from all sides, too. This tank is used as a breakthrough tank to attack fortified enemy positions due to its thick armour. As such it allows players to get close to most enemy tanks and attack them from the sides, or force them to retreat. On the downside, the gun is wimpy without M61 shot and even then it still bounces more often than not. Best to take a bit more ammo than normal to compensate for all the shots that will bounce.
+Introduced in [[Update 1.45 "Steel Generals"]], the Cobra King is a unique premium version of the M4A3E2, which is a makeshift heavy tank based on the original M4A3 Sherman variant. Playstyles are very much similar to the standard M4A3E2. Though it may look similar to an ordinary M4A3 Sherman medium tank, it can sustain substantially more damage than any M4 Sherman variants and can attack enemy positions effectively. The majority of Cobra King adversaries will struggle to penetrate this vehicle from the front. When you utilize the M4A3E2 to lead an aggressive charge, your opponents will usually direct their fire at you, allowing others in your team to attack enemy targets with less pressure. Despite its superb armour, the Cobra King's 75 mm M3 tank gun is underwhelming. It lacks the armour penetration to engage most opponents within its ranks from the front. Players will usually have to destroy critical components such as the barrel and tracks, and flank enemies for the weaker side armour in order to properly destroy hostile vehicles.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The "Cobra King" still features the double layered front armour giving the vehicle its distinctive 101.6 mm total front armour. The transmission housing is also considerably beefier too from the addition of armour at the area as well. The front of the T23-style turret is also distinctive with the very blocky gun mantlet and circular barrel shroud around the rather underwhelming 75 mm gun barrel.
+The "Cobra King" still features the double layered front armour, giving the vehicle its distinctive 101.6 mm total front armour. The transmission housing is also considerably beefier too from the addition of armour in the area as well. The front of the T23-style turret is also distinctive, with the very blocky gun mantlet and circular barrel shroud around the rather underwhelming 75 mm gun barrel.
 
-The sides and suspension look like the usual game with the M4 Sherman series, but with minor differences. The flat side armour of the hull, instead of 38.1 mm thick is now 76.2 mm thick for much stronger side protection. However, the lower side hull around the bogie suspension area is still only 38.1 mm thick, vulnerable to most regular anti-tank weapons. Another minor difference is the tracks, the T48 rubber chevron tracks are equipped with extended end connectors in an effort to improve ground pressure performance for the additional weight of the armour.
+The sides and suspension look like the usual game with the M4 Sherman series, but with minor differences. The flat side armour of the hull, instead of 38.1 mm thick, is now 76.2 mm thick for much stronger side protection. However, the lower side hull around the bogie suspension area is still only 38.1 mm thick, vulnerable to most regular anti-tank weapons. Another minor difference is the tracks, the T48 rubber chevron tracks are equipped with extended end connectors in an effort to improve ground pressure performance for the additional weight of the armour.
 
 '''Armour type:'''
 
@@ -48,14 +43,14 @@ The sides and suspension look like the usual game with the M4 Sherman series, bu
 |}
 '''Notes:'''
 
-* Suspension wheels are 15 mm thick, the bogies are 10 mm thick, and tracks are 17 mm thick.
+* Suspension wheels are 15 mm, bogies 10 mm, and tracks are 17 mm thick.
 * Belly armour is 25.4 mm thick.
-* Hull underside right above the tracks are 9.5 mm thick.
+* Hull underside right above the tracks is 9.5 mm thick.
 * Gun breech is 300 mm thick in structural steel.
 
-The M4A3E2 Jumbo presents very little frontal weak spots in an engagement. It is best to try and force the Jumbo to try and angle his vehicle towards the player or his allies. An angle more than 30 degrees can expose the much weaker lower side hull armour in the suspension that is only 38.1 mm thick. With a powerful enough gun, a round can penetrate this area and damage the crew, or even set off the ammunition all cluttered up on the bottom of the tank.
+The M4A3E2 Jumbo presents very little frontal weak spots in an engagement. It is best to try to force the Jumbo towards the player or allies. An angle more than 30 degrees can expose the much weaker lower side hull armour in the suspension that is only 38.1 mm thick. With a powerful enough gun, a round can penetrate this area and damage the crew, or even set off the ammunition all cluttered up on the bottom of the tank.
 
-If a frontal engagement is unavoidable and is unfortunately armed with guns unable to penetrate through the front glacis, there are only two areas that are viable. First is the machine gun port, which is one of the areas that is not layered with the extra 38.1 mm added on top of the base armour. Guns like the Panzer IV 75 mm KwK 40 guns that are unable to cleave through the front glacis can push their luck in this area, with small "sweet spots" the round can pass through. Another way to attack the M4A3E2 in this scenario is exploiting a shot-trap in the gun mantlet. The small corner flaps on the bottom corners of the gun mantlet have a tendency to deflect rounds downwards onto the 19.5 mm hull roof armour. While this will be left to the ricochet chances, it is still possible and can be used if no other scenarios are favourable.
+If a frontal engagement is unavoidable and is unfortunately armed with guns unable to penetrate the front glacis, there are only two areas that are viable. First is the machine gun port, which is one of the areas that is not layered with the extra 38.1 mm added on top of the base armour. Guns like the Panzer IV 75 mm KwK40 guns that are unable to cleave through the front glacis can push their luck in this area, with small "sweet spots" the round can pass through. Another way to attack the M4A3E2 in this scenario is exploiting a shot-trap in the gun mantlet. The small corner flaps on the bottom corners of the gun mantlet have a tendency to deflect rounds downwards onto the 19.5 mm hull roof armour. While this will be left to the ricochet chances, it is still possible and can be used if no other scenarios are favourable.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -93,8 +88,8 @@ If a frontal engagement is unavoidable and is unfortunately armed with guns unab
 {{:M3 (75 mm)/Ammunition|M72 shot, M48 shell, M61 shot, T45 shot, M89}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_M4A3E2.png|right|thumb|x250px|[[Ammo racks]] of the M4A3E2 (identical).]]
-<!-- '''Last updated: 2.3.0.83''' -->
+[[File:Ammoracks_M4A3E2.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -108,8 +103,9 @@ If a frontal engagement is unavoidable and is unfortunately armed with guns unab
 |}
 '''Notes''':
 
-* As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set.
-* Turret empty: 100&nbsp;''(+4)'' shells.
+* As they are modelled by sets of 2, shells disappear from the rack only after you've fired both shells in the set.
+* Floor left rack only: 50&nbsp;''(+54)'' shells.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -139,13 +135,13 @@ If a frontal engagement is unavoidable and is unfortunately armed with guns unab
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Cobra King is best in assaulting enemy positions with allies. Its great mobility for a heavy tank, especially with its armour, makes it a vehicle able to charge into battle with confidence. It can act as a bullet magnet against enemy tanks more worried about the Cobra King, diverting fire that would have been directed more vulnerable teammates. Though the 75 mm gun's AP performance is not suited to the type of enemies expected at the BR, it can still harass enemies and the gun is lethal enough that enemies will be forced to show their front armour towards the Jumbo else a 75 mm penetrates their side armour. Their focus on the Jumbo can allow allies to move around and eliminate them. During all this, take care not to over-angle and show the lower side armour too much as this will allow vehicles to penetrate through down there and damage modules, even the ammunition storage if they are lucky.
+The Cobra King is best in assaulting enemy positions with allies. Its great mobility for a heavy tank, especially with its armour, makes it a vehicle able to charge into battle with confidence. It can act as a bullet magnet against enemy tanks more worried about the Cobra King, diverting fire that would have been directed more vulnerable teammates. Though the 75 mm gun's AP performance is not suited to the types of enemies expected at the BR, it can still harass enemies and the gun is lethal enough that enemies will be forced to show their front armour towards the Jumbo else a 75 mm penetrates their side armour. Their focus on the Jumbo can allow allies to move around and eliminate them. During all this, take care not to over-angle and show the lower side armour too much as this allows vehicles to penetrate down there and damage modules, even the ammunition storage if they are lucky.
 
-Another role the Cobra King is good at is as a flanker. Due to its great mobility as a heavy tank, the Cobra King can manoeuvre like a medium tank around the battlefield. This is also beneficial to the 75 mm gun as it would permit the Cobra King a chance to attack the weaker side armours of enemy vehicles. Once flanking around and finding a prime position in a firing angle right into an enemy chokepoint, minimize exposure to anything but the front armour and the Cobra King can remain a formidable obstacle to all opponents. Take care not to be outflanked by enemy players aware of the Cobra King's position.
+Another role the Cobra King is good at is as a flanker. Due to its great mobility as a heavy tank, the Cobra King can manoeuvre like a medium tank around the battlefield. This is also beneficial to the 75 mm gun as it would permit the Cobra King a chance to attack the weaker side armours of enemy vehicles. Once flanking around and finding a prime position in a firing angle right into an enemy choke point, minimize exposure to anything but the front armour and the Cobra King can remain a formidable obstacle to all opponents. Take care not to be outflanked by enemy players aware of the Cobra King's position.
 
 As the Cobra King has a slightly higher battle rating than the other M4 Shermans, it can be up-tiered against tanks such as the [[Tiger H1]] and the [[Panther D]], meaning its M61 round will be almost harmless. For this reason, it is advisable to take the T45 APCR ammo into battle, at least enough to take on the armoured targets the Cobra King will face.
 
-The Soviet 85 mm can be a threat, so caution is advised when going up against tanks armed with the 85 mm, such as the [[T-34-85]], [[SU-85]], and [[IS-1]]. The [[Jagdpanzer 38(t)]] and [[Jagdpanzer IV]] can be tricky when facing off against them. Their frontal armour is too thick and sloped for the 75 mm M3 gun to have any effect on it. For these two targets, it is advised to target their tracks and transmission and then flank for a side shot, where the armour is much weaker. Finally, the Sturer Emil wields a 128 mm that can penetrate the front plate of the Cobra King, so caution is advised against those as well.
+The Soviet 85 mm gun can be a threat, so caution is advised when going up against tanks armed with the 85 mm, such as the [[T-34-85]], [[SU-85]], and [[IS-1]]. The [[Jagdpanzer 38(t)]] and [[Jagdpanzer IV]] can be tricky when facing off against them. Their frontal armour is too thick and sloped for the 75 mm M3 gun to have any effect on it. For these two targets, it is advised to target their tracks and transmission and then flank for a side shot, where the armour is much weaker. Finally, the Sturer Emil wields a 128 mm that can penetrate the front plate of the Cobra King, so caution is advised against those as well.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -153,11 +149,10 @@ The Soviet 85 mm can be a threat, so caution is advised when going up against ta
 '''Pros:'''
 
 * Excellent frontal armour
-* Very strong turret armour from all sides, very good at hull down position
-* Good mobility for a heavy tank
-* Good acceleration
-* APCR shot has a high penetration power
-* High rate of fire for the 75 mm gun
+* Very strong turret armour from all sides, excellent at hull down position
+* Nimble for a heavy tank, able to accelerate quickly
+* APCR shot has high penetration power
+* High rate of fire for the 75 mm M3 gun
 * Excellent gun depression
 * Equipped with gun stabilizer, making it more accurate at moving and when preparing a shot after moving
 
@@ -203,6 +198,7 @@ The tanks were very popular as column leads, given the fact that German antitank
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_m4a3e2_sherman_jumbo_cobra_king Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -220,6 +216,7 @@ Image:Cobra King Bastogne.jpg|<small>Historical photo of the "Cobra King" at the
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other M4A3E2 vehicles in the game
+
 * [[M4A3E2]] / [[M4A3E2 (France)]]
 * [[M4A3E2 (76) W]]
 
@@ -229,13 +226,14 @@ Image:Cobra King Bastogne.jpg|<small>Historical photo of the "Cobra King" at the
 * ''other literature.'' -->
 
 '''News article about the tank'''
+
 * [http://www.stripes.com/news/vilseck-tank-confirmed-as-cobra-king-1.86612 <nowiki>[Stars and Stripes]</nowiki> Vilseck Tank confirmed as 'Cobra King']
 * [http://www.americainwwii.com/articles/cobra-king-today/ <nowiki>[American WWII]</nowiki> Cobra King: where is she today?]
 * [http://www.army.mil/article/17393/ <nowiki>[US Army]</nowiki> 'Cobra King' led 4th Armored Division column that relieved Bastogne during Battle of the Bulge]
 * [https://www.washingtonpost.com/news/retropolis/wp/2017/08/03/a-battered-world-war-ii-hero-of-bastogne-gets-a-new-home-and-museum-built-around-it/ <nowiki>[Washington Post]</nowiki> A battered World War II hero of Bastogne gets a new home, and a museum built around it]
 
 === References ===
-<references/>
+<references />
 
 {{TankManufacturer Ordnance Department}}
 {{USA heavy tanks}}

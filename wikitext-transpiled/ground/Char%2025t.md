@@ -59,7 +59,7 @@ The {{PAGENAME}} is very fast, both in top speed (even in reverse) and accelerat
 
 The gun is decent for its BR and role. Although it lacks a HEATFS shell like another vehicle near its BR, the AMX-13-90, the Char 25t carries the M82 APCBC and T33 APBC rounds.
 
-The reload time is short, 6.7 seconds between shots (even with a knocked out loader). It carries 7 shots in the drum, like the AMX M4, allowing for a sustained fire at multiple enemies. Although great at post-penetration damage, the M82 round used by the Char 25t has mediocre penetration for its BR, especially when taking into account the presence of HEATFS and APDS rounds.
+The reload time is short, 6.7 seconds between shots (even with a knocked out loader). It carries 12 shots in the drum, like the AMX M4, allowing for a sustained fire at multiple enemies. Although great at post-penetration damage, the M82 round used by the Char 25t has mediocre penetration for its BR, especially when taking into account the presence of HEATFS and APDS rounds.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-

@@ -83,6 +83,10 @@ As a side note, despite being specifically designed to take out missiles, the mo
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_cruiser_mikhail_kutuzov Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+
+{{Youtube-gallery|93YSAPUrmaY|'''Sverdlov-Class Light Cruiser, Mikhail Kutuzov''' - ''Cmdr. Tyrael''}}
+
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''

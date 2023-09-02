@@ -10,12 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The P-51D was acquired by Israel in 1948 by secret agents trying to smuggle aircraft into Israel bypassing the US embargo. Some units managed to be sent to Israel and were crucial in the Independence War. These P-51s were the backbone of the IAF, thanks to its long range and multirole capabilities. They were used in escort, reconnaissance, patrol, and close air support missions, finally being retired from duty in 1961.
+
+Introduced in [[Update "Winged Lions"]], the P-51D-20 excels at being fast and high. Even when stock, it has excellent cruise speed and acceleration. It lacks the agility of other dogfighters, but it's decent in defensive manoeuvres, while also carrying a very large ammo pool with good ammunition to set enemy planes on fire. It also features good ground attack capabilities making it an amazing multirole fighter.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+Mustangs are known for being fast aircraft. This is its most important characteristic. While it has decent agility, it is outclassed by many other planes, and it may be hard to control the nose of the plane when going at speeds over 650 km/h. Acceleration is also great and the engine is not prone to overheating like in other props of its BR.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -74,6 +77,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli fighter {{Battle-ratin
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+While not the biggest target in the battlefield, the P-51D-20 is quite large for a fighter, and it also has a big engine. This makes going in head-ons highly deadly, since a few shots in the engine will make it unusable. However, it is still a robust plane that will hold decently against smaller calibre guns.
+
+Armour distribution:
 
 * 38 mm Bulletproof glass
 * 19.05 mm Steel behind the propeller hub
@@ -83,6 +89,17 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli fighter {{Battle-ratin
 
 === Modifications and economy ===
 {{Specs-Economy}}
+
+Players should prioritize the next modifications for air combat:
+
+# Belts to get the full API-T ammo belts, known for setting planes on fire with ease
+# Compressor and Airframe for better performance
+# Engine and G-Suit for better speed and more G tolerance for the pilot
+# Engine Injection and Radiator
+
+Then, players should finish the rest of the Flight Performance modifications; these upgrades expand the strengths of the P-51, speed and firepower, and other upgrades usually make the plane more agile.
+
+Alternatively, players can go for the ground loadout upgrades, to get bombs and rockets and provide Close Air Support in ground and naval battles
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -98,21 +115,53 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AR}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_P-51D-5.png]]</div>
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| || || || || 1 || 1 || || || ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || || 1 || 1 || || || ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || || 1 || 1 || || || ||
+|-
+! [[AR]] rockets
+| 1 || 1 || 1 || 1 || || || 1 || 1 || 1 || 1
+|-
+| colspan="11" | Maximum permissible weight imbalance: 550 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+
 * Without load
-* 6 x AR rockets
-* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-* 2 x 500 lb AN-M64A1 bombs + 6 x AR rockets (1,000 lb total)
+* 8 x AR rockets
 * 2 x 250 lb AN-M57 bombs (500 lb total)
-* 2 x 250 lb AN-M57 bombs + 6 x AR rockets (500 lb total)
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+'''Offense'''
+
+Probably the best asset P-51D has is its speed and its ability to accelerate and maintain it. Like with all energy fighters, higher attitude should be achieved. Although its climb rate is nice, there are enough planes with better and therefore pilots of P-51D should plan ahead and not wait for the last second to climb. Best way to climb at the start is to climb towards the corner of the map, so the enemy will be encountered later when the P-51D is already high enough. When an enemy is spotted, heading in another direction than the P-51D, this aircraft can enter a mild dive and go for a strafe run. After that, it is important to continue heading in the same direction, so the speed is maintained. Even the most agile fighters won't be able to turn quickly enough to fire at you. If feeling confident or sure about the kill, P-51D should get at least 2+ km away from the enemy and then start to turn towards them, depending on its speed. If the P-51D's speed is under 500 km/h, a bigger distance should be achieved before attempting a turn. This ensures that turn will be completed before the enemy gets to 1 km distance, so you won't give your enemy opportunity for the first shot. However, head on attacks should be done only against weaker opponents, since .50 cal MGs do not have the punch of 20 and 30 mm cannons that same-tier planes carry. A salvo of .50 cal API-T rounds can easily ignite enemy engines upon impact, but a few hits from 30 mm will tear wings of the P-51D apart, while a fire can be taken out.
+
+When engaging enemy bombers, aim for their engines. When the targeted engine catches on fire, focus on another engine until it also burns and so on. It is likely that fire will be taken out, but the damage done by 2 to 4 burning engines will be so severe that the enemy bomber will either crash within the next minute even without one more hit or it will lose altitude so much that it will be an easy target for lower flying teammates. Bigger bombers like the B-17 should not be followed for more than a few seconds, as the engine of a P-51D is too fragile and often will turn red after taking a few hits, which gives you about 1 to 2 minutes before the engine dies completely. It is especially important to engage a B-17 from relative higher altitude, gain a little more speed and aim for the engines. A well-aimed burst of tracer belt rounds should be enough to ignite 1 or 2 engines during this. Keep in mind that the B-17 can fly even with just a single engine and maintain its attitude and speed. Do not attempt to cut off the wings of bomber like with bigger guns, as it is quite hard to do so with .50 cal rounds. When engaging a bomber with huge glass cockpit like the He 111, a frontal assault with a salvo of .50 cal rounds has high chance to knock out its pilot with the sheer number of rounds fired.
+
+'''Defense'''
+
+It may seem that the agility of a P-51D is lacking at first sight, but it is not that bad when used correctly. The P-51D has a good turn rate at higher speeds and its pilots should try to keep well above 400 km/h. When at a speed around 500 km/h, even Spitfires will have trouble getting behind you. However, a P-51D should avoid these encounters as this will bleed its speed to the point that it will be no longer able to turn with the enemy. If a window of opportunity arises, for example when an opponent starts their turn into the wrong direction after attempting to outmanoeuvre P-51D, the Mustang can enter a mild dive and go for a run. The P-51D can get to its top speed quite fast, especially when in a mild dive. The top speed of a P-51D is one of the best on its tier. These three-speed factors will help you run away from many opponents, giving you a chance to set your own rules of engagement with them. When running away with the enemy closing in, try to avoid climbing at all. If a climb is desired, it is best to wait until the enemy is a at safe distance. If the climb cannot wait, try to climb below 10 degrees. When an enemy with much higher speed is catching up with you at higher attitude, a mild dive may not get you fast enough to your top speed. In these situations, a deep dive can be performed. During this dive, the enemy will get even closer to the P-51D. As the top speed of P-51D is quite high, after the enemy loses their initial speed advantage, the P-51D will probably already start to get away. After this deep dive runaway, start to climb at around 10 degrees. The P-51D is good at maintaining its speed, so it is likely that while the P-51D will continue to fly at around 800-850 km/h after a deep dive for a couple of seconds, many opponents will quickly slow down to their listed top speed. This should be enough to provide a safe escape. If running away is not an option, a high-speed turnfight can be sustained for a short while. The P-51D shouldn't prolong these encounters and should as soon as possible try to get away from turnfights.
+
+When an enemy is engaging the P-51D head-on, it is best to avoid the engagement. .50 cal rounds do match 20 mm and bigger calibre guns in a head-on. Additionally, such an encounter will probably damage the engine, which will at the start take away the most important asset of P-51D and, after a few minutes, will lead to its failure. The vitality of the pilot is average, so they may survive and so is the durability of its wings. However, control surfaces of the P-51D are quite fragile. A head on should be done only with a weaker opponent, who has either a much weaker armament or is already critically damaged. If the engine turns red, an airfield should be sought as fast as possible. With a red engine, try to climb as much as possible in a way that your speed will be at least slowly increasing. When the engine dies, glide towards the airfield in a way little to none speed is lost to avoid a stall. If your speed reaches 200 km/h, and a dive is not possible for the airfield to be reached, use flaps as they will keep you in the air for a little longer even at a lower speed. If combat flaps are not enough and even then the P-51D starts to stall, raise flaps, open gear, use landing flaps and retract gear. Landing flaps will keep you in the air for even longer than combat flaps, but if they are deployed too soon, they will serve as an airbrake, which is not desired during a glide.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"

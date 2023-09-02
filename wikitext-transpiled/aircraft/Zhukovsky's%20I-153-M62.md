@@ -1,7 +1,7 @@
 {{About
 | about = Soviet fighter '''{{PAGENAME}}'''
 | usage = other versions
-| link = I-15 (Family)
+| link = I-153 (Family)
 }}
 {{Specs-Card
 |code=i-153_m62_zhukovskiy
@@ -215,7 +215,7 @@ Sergey Yakovlevich Zhukovsky was awarded with the Order of Lenin, six Orders of 
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;[[I-15 (Family)|Related development]]
+;[[I-153 (Family)|Related development]]
 
 * [[I-153 M-62]]
 * [[I-153 M-62 (China)]]

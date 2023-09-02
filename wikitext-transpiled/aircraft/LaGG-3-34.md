@@ -101,7 +101,7 @@ The LaGG-3-34 is very powerful against attacker/bomber aircraft, and though the 
 
 The Berezin 12.7 mm machine should really always have Air target rounds since it's not very useful when attacking ground targets. Even then it's best used to line up shots for the NS-37: fire a few bursts with just the 12.7 mm until you hit the target, then shoot one or two rounds of 37 mm. This should be all you need to bring down an aircraft at your battle rating.
 
-One interesting effect of this plane is that many enemies will try to head-on you since they will not recognize the aircraft tag and confuse it with a LaGG-3-35. These battles are easily winnable with the 37 mm cannon, as it has the ability to knock out enemy fighters with a singe shot.
+One interesting effect of this plane is that many enemies will try to head-on you since they will not recognize the aircraft tag and confuse it with a LaGG-3-35. These battles are easily winnable with the 37 mm cannon, as it has the ability to knock out enemy fighters with a single shot.
 
 ;Specific enemies worth noting
 Due to the added weight of the large cannon, this plane has excellent energy retention in the vertical but quickly bleeds it while turn fighting. It struggles to keep pace after it loses speed, so players must be wary of any engagements that take place in the horizontal. Many American aircraft at this tier have the ability to out-turn you with flaps, so remain vigilant and do not be lulled into lower altitudes. German and Italian fighters will outperform you at altitude, so it is best to engage them at some distance with the 37 mm.

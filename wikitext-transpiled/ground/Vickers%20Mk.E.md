@@ -35,6 +35,7 @@ The armour on the Vickers Mk.E will only stop rifle-calibre munitions reliably, 
 '''Notes:'''
 
 * Tracks and suspension wheels are 15 mm thick
+* Belly armour is 5 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

@@ -32,8 +32,10 @@ Mobility is a very strong suit of the ship. Starting at 57 km/h stock, the ship 
 
 == Armament ==
 {{Specs-Fleet-Armaments}}
+
 === Primary armament ===
 {{Specs-Fleet-Primary}}
+[[File:SKR-7 Firing Arcs.gif|thumb|x250px|Minimum firing elevations of SKR-7's 76 mm turrets]]
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|AK-726 (76 mm)}}
 

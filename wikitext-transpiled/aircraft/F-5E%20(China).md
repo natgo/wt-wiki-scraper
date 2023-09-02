@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The '''{{Specs|name}}'''(commonly referred as the  F-5E老虎II式戰機) represented the few remaining F-5E in ROCAF service since 1980s as part of their plan to enhance the combat capabilities against the growing PLAAF. Before the plans to introduce the F-4 series failed as the result of a better Sino (Mainland China)- US relationship, the Nationalist government signed contracts with Northrop to assemble the F-5E/F on Taiwan Island in 1973 to replace the some of the previous F-86F/F-100 fleet under their Project Tiger Peace (虎安計劃). After 6 batches of these aircraft were assembled and the plans to upgrade them perished by early 2000s, they have been one of the cornerstone of ROCAF until 2020s when 2 fatal incidents accelerated their decommission from the remaining fighter wing of ROCAF where their performance is hopeless against the now-modernized PLAAF, as well as the inferior ejection systems that costed 4 lives in these 2 incidents; the remaining (R)F-5E are waiting for the new T-BE-5A Brave Eagle AJT to replace them by mid-2020s.
 
-A licensed CKD built of Northrop's F-5E series by the AIDC (aka 漢翔) as the alternative for ROCAF's perished dream of a fleet of F-4Es and strengthening their military force: this variant of F-5E has the same capabilities of the original US built-ones, with hard hitting AAMs/AGMs as well as varieties of payload from rocket pods up to 2,000 lb bombs, making F-5E the saviour of the ground forces as a retaliation against both ground and aerial targets who pose a threat to the team. Although it is not as dominant in air combat as the PLAAF [[J-7E]], the F-5E's ability to carry four AGM-65 Maverick missiles makes it a uniquely valuable aircraft in the Chinese tech tree for precision standoff CAS.
+Introduced in [[Update "Danger Zone"]] alongside with its [[F-5E|American counterpart]], the F-5E series in ROCAF service were mostly assembled by the local institute/company of AIDC (aka 漢翔) as the alternative for ROCAF's perished dream of a fleet of F-4Es and strengthening their military force: this variant of F-5E has the same capabilities of the original US built-ones, with hard hitting AAMs/AGMs as well as a variety of loadouts from rocket pods up to 2,000 lb bombs, making the F-5E the saviour of the ground forces as a retaliation against both ground and aerial targets who pose a threat to the team. Although it is not as dominant in air combat as the PLAAF [[J-7E]], the F-5E's ability to carry four AGM-65 Maverick missiles makes it a uniquely valuable aircraft in the Chinese tech tree for precision standoff CAS.
 
 == General info ==
 === Flight performance ===
@@ -180,6 +180,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9P Sidewinder missiles
 * 1 x 30 mm GAU-13/A cannon (353 rpg)
@@ -248,6 +249,7 @@ Since the heat of the first Strait Crisis has passed, the "Tigers" didn't have t
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+
 * [https://archive.org/details/T.O.1F5E11984OCR/mode/2up/ Technical Order 1F-5E-1 - Flight Manual for F-5E/F-5F Aircraft]
 
 === References ===

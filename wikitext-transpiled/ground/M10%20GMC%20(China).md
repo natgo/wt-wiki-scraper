@@ -86,10 +86,10 @@ Take warning that the gun's excellent penetration is too much for lower rank tan
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 54 || rowspan="2" | -10°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || 3.96 || 5.48 || 6.66 || 7.37 || 7.84 || rowspan="2" | 8.19 || rowspan="2" | 7.25 || rowspan="2" | 6.68 || rowspan="2" | 6.30
+| rowspan="2" | 54 || rowspan="2" | -10°/+30° || rowspan="2" | ±180° || rowspan="2" | - || 4.0 || 5.5 || 6.7 || 7.4 || 7.8 || rowspan="2" | 7.15 || rowspan="2" | 6.32 || rowspan="2" | 5.83 || rowspan="2" | 5.50
 |-
 ! ''Realistic''
-| 2.68 || 3.15 || 3.83 || 4.23 || 4.50
+| 2.7 || 3.2 || 3.8 || 4.2 || 4.5
 |-
 |}
 
@@ -127,7 +127,7 @@ Note:
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 400 (200) || 577 || -10°/+28° || ±60°
+| Pintle || 400 (200) || 575 || -10°/+28° || ±60°
 |-
 |}
 

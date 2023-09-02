@@ -78,7 +78,7 @@ Much like the armour, the {{PAGENAME}} leaves something to be desired in the mob
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.7.0.182''' -->
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -96,6 +96,7 @@ Much like the armour, the {{PAGENAME}} leaves something to be desired in the mob
 
 * Racks disappear after you've fired all shells in the rack.
 * To minimize rack detonation, it is recommended to empty all the way to the 3rd rack with 49&nbsp;''(+51)'' shells.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

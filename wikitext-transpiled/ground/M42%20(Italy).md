@@ -118,11 +118,11 @@ In Realistic battles, the Quadruplo is best used in the support role when tank h
 
 '''Cons:'''
 
-* PzGr 40 is tier IV modification
+* Low reverse speed
+* HVAP-T PzGr 40 belt is a tier IV modification
 * Performance is inadequate when stock
 * Gap in the gunner's position of the turret armour
 * Turret can be penetrated by .50 cals heavy machine guns
-* High rate of fire makes it more difficult to adjust fire against planes
 * 2 of 3 crew members crammed inside the turret
 * Hull rocks back and forth when firing causing some rounds to miss
 * Low ammunition count compared to its high rate of fire

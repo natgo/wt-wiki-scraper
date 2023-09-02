@@ -75,7 +75,8 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 {{:6pdr OQF Mk.III (57 mm)/Ammunition|Shot Mk.5, Shot Mk.5 HV, Shot Mk.8, Shot Mk.9, Shell Mk.10}}
 
 ==== [[Ammo racks]] ====
-<!-- '''Last updated: 2.3.0.83''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}.]]
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -89,10 +90,16 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 ! 8th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''75''' || 66&nbsp;''(+9)'' || 56&nbsp;''(+19)'' || 46&nbsp;''(+29)'' || 37&nbsp;''(+38)'' || 28&nbsp;''(+47)'' || 19&nbsp;''(+56)'' || 10&nbsp;''(+65)'' || 1&nbsp;''(+74)'' || No
+| '''75''' || 66&nbsp;''(+9)'' || 56&nbsp;''(+19)'' || 46&nbsp;''(+29)'' || 37&nbsp;''(+38)'' || 28&nbsp;''(+47)'' || 19&nbsp;''(+56)'' || 10&nbsp;''(+65)'' || 1&nbsp;''(+74)'' || Yes
 |-
 |}
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}.]]
+'''Notes''':
+
+* Racks disappear after you've fired all shells in the rack.
+* The visual discrepancy concerns the total number of shells as well as the number of shells per rack:
+** 86 shells are visually modelled but you can only pack 75 shells.
+** For each rack, the number of shells modelled does not correspond to the number of shells available to be fired.
+
 ==== Optics ====
 {| class="wikitable" style="text-align:center" width="50%"
 ! colspan="3" | {{PAGENAME}} [[Optics]]

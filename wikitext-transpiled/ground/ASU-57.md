@@ -75,7 +75,7 @@ The ASU-57 is armed with the 57 mm Ch-51M, a derivative of the 57 mm ZiS-2 anti-
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -87,9 +87,11 @@ The ASU-57 is armed with the 57 mm Ch-51M, a derivative of the 57 mm ZiS-2 anti-
 | '''30''' || 25&nbsp;''(+5)'' || 19&nbsp;''(+11)'' || 1&nbsp;''(+29)'' || No
 |-
 |}
-'''Note''':
+'''Notes''':
 
+* Racks disappear after you've fired all shells in the rack.
 * Right side empty: 19&nbsp;''(+11)'' shells.
+{{Clear}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

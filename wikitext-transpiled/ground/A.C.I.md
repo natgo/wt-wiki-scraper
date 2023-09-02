@@ -141,6 +141,10 @@ Notable enemies include the Panzer III, the Marder III H and the early T-34s.
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_ac1_sentinel Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+
+{{Youtube-gallery|HR57u5I3V58|'''Australian Cruiser Tanks - AC I "Sentinel" - AC IV "Woomera" (review starts at 1:49)''' - ''Cmdr. Tyrael''}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''

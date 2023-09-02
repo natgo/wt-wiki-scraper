@@ -138,7 +138,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 The standard armament found on the {{PAGENAME}} are two powerful Akan m/55 gunpods. These cannons are identical to platforms like the [[J35D]], giving the {{PAGENAME}} a formidable burst-mass of 12.15 kg/s! These guns are incredibly reliable and fast in velocity, as they're replicas of the [[ADEN (30 mm)|ADEN]] platform. This is one of the main advantages of the {{PAGENAME}} outside of manoeuvrability. Since the {{PAGENAME}} isn't particularly swift, having armament capable of reaching most opponents is a welcome addition. This can catch many people off-guard, and thus it's recommended to practice aiming these guns, along with finding a comfortable convergence setting for maximum efficiency.
 
-These gunpods are also good against ground-based targets, especially in Air Realistic battles, where light pillboxes are common. The Akan m/55 is capable of destroying these in a short burst, allowing for some effective ticket bleed when there are no enemy fighters around. They can also be used in Ground Realistic to a certain extent, as they disintegrate any open-top vehicle. They also aid in air-support, as most fighters at this BR are propeller powered, unable to defend themselves against high-velocity 30 mm revolver cannons.
+These gunpods are also good against ground-based targets, especially in Air Realistic battles, where light pillboxes are common. The Akan m/55 is capable of destroying these in a short burst of bullets, allowing for some effective ticket bleed when there are no enemy fighters around. They can also be used in Ground Realistic to a certain extent, as they disintegrate any open-top vehicle. They also aid in air-support, as most fighters at this BR are propeller powered, unable to defend themselves against high-velocity 30 mm revolver cannons.
 
 * 2 x Rb05A missiles
 
@@ -215,11 +215,11 @@ Because the SK60B has reverse thrusters it makes it possible to land and capture
 
 '''Pros:'''
 
-* Incredible manoeuvrability - Responds quickly to inputs and turns better than most opponents
-* Devastating firepower - Access to ADEN gunpods and AGM missiles at a low battle-rating
+* Incredible manoeuvrability - Responds quickly to inputs and turns better than most of your opponent's vehicles
+* Devastating firepower - Access to ADEN gunpods and AGM missiles
 * Access to attacker spawn
 * Long endurance - High fuel and ammo count makes returning to base less frequent
-* Decent survivability - It has 2 pilots, can fly without a wing, or without one of the engines
+* Decent survivability - It has 2 pilots, can fly without a wing, or without one of the engines 
 * Easy to land - Low stall speed and strong landing gear aids in critical touchdowns
 * Has reverse thrusters - Allows very short landings and can taxi in reverse
 

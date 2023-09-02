@@ -166,6 +166,7 @@ Be cautious while aiming at [[IS-3]], [[IS-4M]] and [[T-10M]] since their sides 
 * Amphibious capability lets you move around maps with bodies of water more easily - rivers can also be easily crossed
 * Very fast reverse speed, about -45 km/h, with fast acceleration towards -70 km/h 
 * Has neutral steering
+* Immune to 50 .cal HMGs frontally
 
 '''Cons:'''
 

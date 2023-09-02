@@ -15,7 +15,7 @@ The BTD-1 is a single engine dive bomber and torpedo bomber and can carry a very
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
-A torpedo-bomber easily recognized by its square-shaped fuselage, the BTD-1 "Destroyer" is a heavily armed single-seat propeller-driven aircraft designed to destroy naval and ground targets. The BTD-1 can, however, be stretched to various different playstyles, even being capable of destroying aerial targets thanks to a pair of 20 mm AN/M2 cannons. With carrier capabilities and a bomber spawn, the BTD-1 can effectively work on most maps and conditions. Although sluggish at higher speeds, the plane performs favourably at higher altitudes. This altitude advantage is quickly lost, however, due to a great loss of energy while turning. When used in ground and air battles, the BTD-1 excels at delivering a large payload to a target with pinpoint accuracy. Along with great survivability and premium-boosters, it's a great vehicle for new players looking to learn how to use both bombs and torpedoes on a single-engine bomber.
+A torpedo-bomber easily recognized by its square-shaped fuselage, the BTD-1 "Destroyer" is a heavily armed single-seat propeller-driven aircraft designed to destroy naval and ground targets. The BTD-1 can, however, be stretched to various different playstyles, even being capable of destroying aerial targets thanks to a pair of 20 mm AN/M2 cannons. With carrier capabilities and a bomber spawn, the BTD-1 can effectively work on most maps and conditions. Although sluggish at higher speeds, the plane performs favourably at higher altitudes. This altitude advantage is quickly lost, however, due to a great loss of energy while turning. When used in ground and air battles, the BTD-1 excels at delivering a large payload to a target with pinpoint accuracy. Along with great survivability and premium-boosters, it's a great vehicle for new players looking to learn how to use both bombs and torpedoes on a single-engine bomber. The flight performance in a dive becomes unstable at higher speeds, resulting in excessive oscillations that make it difficult to maintain a steady dive line.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -191,10 +191,11 @@ The prototype first flew on 8 April, 1943. The performance was significantly bet
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=btd-1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="150">
+<gallery mode="packed-hover" heights="150">
 Image:BTD1aboveclouds.jpg
 </gallery>
 
@@ -212,6 +213,7 @@ Image:BTD1aboveclouds.jpg
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

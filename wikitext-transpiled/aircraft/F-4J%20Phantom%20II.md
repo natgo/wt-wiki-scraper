@@ -49,7 +49,7 @@ The F-4J's flight performance is underwhelming for its battle rating. It has abo
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -64,7 +64,7 @@ The F-4J's flight performance is underwhelming for its battle rating. It has abo
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 614 || 588 || 473 || ~11 || ~4
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || 618 || 463 || ~11 || ~4
 |-
 |}
 
@@ -74,7 +74,7 @@ The F-4J's flight performance is underwhelming for its battle rating. It has abo
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || N/A
+| < 810 || < 750 || < 700 || -
 |-
 |}
 
@@ -171,11 +171,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
 | 6 || 3 || || || || 6 || || || || 3 || 6
 |-
-! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
-| 2 || 2 || || || || 3 || || || || 2 || 2
-|-
 ! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
 | 3 || 3 || || || || 3 || || || || 3 || 3
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 2 || 2 || || || || 3 || || || || 2 || 2
 |-
 ! [[Mk 79 Mod 1 incendiary]] bombs
 | 1 || || || || || 1 || || || || || 1

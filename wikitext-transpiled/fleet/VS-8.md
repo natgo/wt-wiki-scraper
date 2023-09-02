@@ -13,8 +13,8 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German minelayer {{Bat
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
 [[File:VS-8 Armour.jpg|thumb|right|400px|]]
 The VS-8 has a steel hull which is 4 mm thick, with a wooden superstructure 10 mm thick. The only protection comes from its speed, firepower and having the ship spaced out. It features 22 sailors with the ship split into three sections. 
-* The bow houses only the forward turret & front turret ammunition storage.  
-* The midship contains the two midship turrets, the aft turret, ammunition storage for aft & midship, both fuel tanks, both engines, water pumps, radio station and the bridge.  
+* The bow houses only the forward turret & front turret ammunition storage.
+* The midship contains the two midship turrets, the aft turret, ammunition storage for aft & midship, both fuel tanks, both engines, water pumps, radio station and the bridge.
 * The stern only contains the 16 EMC mines & both ships rudders. 
 
 [[File:VS-8 Armour2.jpg|thumb|right|400px|]]
@@ -27,7 +27,7 @@ Survivability increases when the mines are not carried on the stern: a single hi
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
 [[File:VS-8 Mobility.jpg|thumb|right|400px|]]
-The VS-8 is a large but fast ship, with top speeds up to 101 km/h in arcade and 76 km/h in realistic battles.  It displaces 98 tons whereas the US. Patrol Torpedo boats displace 38 tons and the Soviet Project 187 class boats displace 157 tons. 
+The VS-8 is a large but fast ship, with top speeds up to 101 km/h in arcade and 76 km/h in realistic battles. It displaces 98 tons whereas the US. Patrol Torpedo boats displace 38 tons and the Soviet Project 187 class boats displace 157 tons. 
 When turning sharp the VS-8 can wobble, when this happens allow it to do it. Compensating for the wobble will just increase it. The only issue with the wobble is that it prevents the ship from firing accurately on the target.
 
 {{NavalMobility}}
@@ -44,9 +44,9 @@ When turning sharp the VS-8 can wobble, when this happens allow it to do it. Com
 [[File:VS-8 Main armament.jpg|thumb|right|400px|]]
 Its four 15 mm MG 151 make quick work of any enemy ships and aircraft, when the ship is broadside to the enemy vessel only three of her four turrets can be aimed on the target. When sailing towards the enemy ships at high speeds due to the hydrofoil design, only the front turret will be able to be used the other the other two turrets placed mid ships are unable to depress low enough. The hydrofoil causes the front of the ship to raise above the water, like a kite flying in the sky.
  
-Even when the ship is at a full stop and has settled on the ocean waves, only two of her turrets can be used when firing flat on the horizon, this is due to the location of the ship's captain. The two cannons are placed midship, they cannot fire forward together since their crosshairs would shoot the captain.  The two midship turrets are placed behind the captain, with the captain standing on the bridge just in front of them. Thus, the captain is blocking the gun sights. 
+Even when the ship is at a full stop and has settled on the ocean waves, only two of her turrets can be used when firing flat on the horizon, this is due to the location of the ship's captain. The two cannons are placed midship, they cannot fire forward together since their crosshairs would shoot the captain. The two midship turrets are placed behind the captain, with the captain standing on the bridge just in front of them. Thus, the captain is blocking the gun sights. 
 If the ship is a large ship such like a destroyer or a minesweeper the three cannons can cause mayhem on the unsuspecting ship. However, the cannons alone won't normally be enough to sink a destroyer. 
-Her four turrets can only be used together when an aircraft flies over. Due to the design of the VS-8, her four turrets cannot be used together to engage a surface target.  
+Her four turrets can only be used together when an aircraft flies over. Due to the design of the VS-8, her four turrets cannot be used together to engage a surface target.
 
 The VS-8 offers a reload of up to 10 seconds, they are equipped with three different belts, these belts are: 
 
@@ -79,29 +79,29 @@ Mines provide two gameplay options:
 
 Using the VS-8 as a minelayer can cause the enemy team to play defensively and cautiously. To do this, when spawned into the match head full speed to either capture point and cover the zone with mines. The biggest issue with the VS-8 is, when she carries her mines, a single shot from a destroyer cannon on one of the mines on the ramp will cause it to explode and sink the minelayer.
 
-If getting close to the capture points feels too risky, head towards the enemy spawn zones, and in between their spawn and the capture points lay the mines. The enemy ships will be focused on rushing to the capture points, they will not be paying much attention to the water and thus will run into the mines then only realise when it's too late that they have entered a minefield.   
+If getting close to the capture points feels too risky, head towards the enemy spawn zones, and in between their spawn and the capture points lay the mines. The enemy ships will be focused on rushing to the capture points, they will not be paying much attention to the water and thus will run into the mines then only realise when it's too late that they have entered a minefield. 
 In case the enemy ships do notice, start to turn, but are very close to the mine, you can fire at the mine, the VS-8 MG 151's will cause the mine to explode and thus destroy the ships.
 
-If engaging an enemy destroyer which has not noticed the VS-8, come along side the side the guns are not facing then overtake it and drop a single mine or two in its path. As soon as her bow runs over the mine, boom she goes. Another option is to lay some mines beside the enemy ship and then withdraw but shoot the mines as the VS-8 is withdrawing and watch her explode. Once the mines have all been used, the VS-8 can be used as a lightning fast gun ship to reap havoc onto the enemy team.    
+If engaging an enemy destroyer which has not noticed the VS-8, come along side the side the guns are not facing then overtake it and drop a single mine or two in its path. As soon as her bow runs over the mine, boom she goes. Another option is to lay some mines beside the enemy ship and then withdraw but shoot the mines as the VS-8 is withdrawing and watch her explode. Once the mines have all been used, the VS-8 can be used as a lightning fast gun ship to reap havoc onto the enemy team.
 
 '''Without Mines'''
 
-Without mines installed, the VS-8 becomes an gunship, its lighting fast speed, its four MG 151 cannons, and its good manoeuvrability at high speed allow for it to sneak up to the capture points and take them before the enemy. It also allows for the ship to set up ambushes by heading full speed into places that conceal the ship i.e. caves, buildings, behind walls or rocks.    
+Without mines installed, the VS-8 becomes an gunship, its lighting fast speed, its four MG 151 cannons, and its good manoeuvrability at high speed allow for it to sneak up to the capture points and take them before the enemy. It also allows for the ship to set up ambushes by heading full speed into places that conceal the ship i.e. caves, buildings, behind walls or rocks.
 One of the competitive advantages of the VS-8 is its size, since the ship is long most enemy players will shoot its aft section. When the mines have not been equipped, most of the bullets will pass though the ship since this section is empty and contains no critical elements. The only rounds that will cause a major issue are HE rounds since they explode on or just after contact with a surface. Even a few shots could penetrate the rear ammunition storage room, which is located in the mid-section and set it off. 
-The VS-8 is a great costal ship hunter in this configuration, the lack of mines allows for it to get close without the fear of denotating without warning in combat. 
+The VS-8 is a great coastal ship hunter in this configuration, the lack of mines allows for it to get close without the fear of denotating without warning in combat. 
 
 '''How to defeat another VS-8 in combat'''
 
 The major weakness of the VS-8 is its midship section that contains all the vital elements: bridge, crew, radio, engine and ammunition rooms. A few well placed shots here will knock out the ship with even a single HE round from a large- or medium-size calibre cannon will destroy the ship. 
 The VS-8 has its ammunition rooms split into two: one at the back of the midship and one located just in the front in the bow section. A single powerful HE round, or a focused salvo of API or a time-fused HE round entering the ammunition rooms will cause the ship to explode.
 The majority of the crew is located in the midship section, along with all the midship turrets, aft turret, ammunition storage for all turrets, fuel tanks, both engines, water pumps, radio station and the bridge. Spraying machine gun bullets or autocannon rounds in this one section will knock out the ship. 
-If the VS-8 has her mines installed, load a HE round and fire at the aft section of the ship. If the ship doesn't have a large or medium cannon with a HE round, focus fire on the midship and before the VS-8 can react the ship will be knocked out of action.     
+If the VS-8 has her mines installed, load a HE round and fire at the aft section of the ship. If the ship doesn't have a large or medium cannon with a HE round, focus fire on the midship and before the VS-8 can react the ship will be knocked out of action.
 
 '''Major threats'''
 
 * [[PG 02]], [[Sparviero]], any Fairmile D ([[Fairmile D (601)|601]], [[Fairmile D (617)|617]], [[Fairmile D (697)|697]], [[Fairmile D (5001)|5001]]), SGB boats ([[SGB Grey Fox|S304]], [[SGB Grey Goose|S309]]) & [[GIS 811]] : these ships sport quick firing autocannons, high-speed low-profile engagements, which make detecting these ships almost impossible until it's too late. Their armaments are able to shred the VS-8 apart and any hit in midships will cause the VS-8 to be knocked out.
 * Destroyers: the VS-8 can be a menace to any destroy but it will only take a single hit with one of their main guns to the midship to destroy the VS-8. 
-* Fighter aircraft: any fighter is able to strafe and knock out the crew which are located in mid and bow sections. If the VS-8 has mines on the stern a single rocket or bomb hit will detonate them all sending the VS-8 by the bottom.  
+* Fighter aircraft: any fighter is able to strafe and knock out the crew which are located in mid and bow sections. If the VS-8 has mines on the stern a single rocket or bomb hit will detonate them all sending the VS-8 by the bottom.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -118,7 +118,6 @@ If the VS-8 has her mines installed, load a HE round and fire at the aft section
 * Has no armour plates
 * All the critical components are placed in the midship, a few well-placed shots with HE or AP will see the VS-8 get knocked out fast
 * An EMC mine exploding on the ramp will cause the VS-8 to explode
-* Not as fast the VS-10
 * Only has 4 x 15 mm MG 151 cannons whereas the VS-10 has 6 
 * Turrets cannot depress low enough to defend herself, when underway any enemy ship that get very close cannot be engaged and will leave this ship exposed to be being destroyed 
 
@@ -147,7 +146,7 @@ File:VS-8 Schell I rear view.jpg
 </gallery>
 
 ;Videos
-{{Youtube-gallery|shC9_qsL1hg|'''Quickie - Mines and the {{PAGENAME}}"'''  - ''Oxy''|sL225L4PLRI|'''{{PAGENAME}}'''  - ''TheEuropeanCanadian''}}
+{{Youtube-gallery|shC9_qsL1hg|'''Quickie - Mines and the VS-8"''' - ''Oxy''|sL225L4PLRI|'''VS-8 "Schell I"''' - ''TheEuropeanCanadian''}}
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

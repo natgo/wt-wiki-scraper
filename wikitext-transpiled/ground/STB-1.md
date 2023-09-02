@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is the prototype of the [[Type 74]], which was developed shortly after the introduction of the [[Type 61]]. Due to Japan’s late entry into post-war tank development, they were behind by one tank generation and had to compare their Type 61s to more advanced tanks such as the [[T-62]]s, [[M60]]s and [[Leopard 1]]s. To keep up with these advancements, Japan sought to upgrade their tanks with the primary goal of incorporating the new standard [[L7 (105 mm) (Family)|L7 rifled cannon]]. 
+The '''{{Specs|name}}''' is the prototype of the [[Type 74]], which was developed shortly after the introduction of the [[Type 61]]. Due to Japan's late entry into post-war tank development, they were behind by one tank generation and had to compare their Type 61s to more advanced tanks such as the [[T-62]]s, [[M60]]s and [[Leopard 1]]s. To keep up with these advancements, Japan sought to upgrade their tanks with the primary goal of incorporating the new standard [[L7 (105 mm) (Family)|L7 rifled cannon]].
 
-It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial Japanese Ground Forces tree. Although the STB-1 has considerably more armor than its counterparts, such as the [[Leopard 1]] and [[AMX-30 (Family)|early AMX-30s]], and has comparable mobility, it is not recommended for use as a front-line tank. Instead, it is best to employ a cautious hit-and-run tactic similar to that used with Leopards. Proper use of the tank’s [[hydropneumatic suspension]] can improve its depression and, in some cases, aid in survivability. Additionally, the STB-1 is equipped with a laser rangefinder, giving it superior long-range capabilities over other tanks of its rank. This allows it to be highly accurate with low-velocity HESH or quickly acquire target range with APDS.
+It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial Japanese Ground Forces tree. Although the STB-1 has considerably more armour than its counterparts, such as the [[Leopard 1]] and [[AMX-30 (Family)|early AMX-30s]], and has comparable mobility, it is not recommended for use as a front-line tank. Instead, it is best to employ a cautious hit-and-run tactic similar to that used with Leopards. Proper use of the tank's [[hydropneumatic suspension]] can improve its depression and, in some cases, aid in survivability. Additionally, the STB-1 is equipped with a laser rangefinder, giving it superior long-range capabilities over other tanks of its rank. This allows it to be highly accurate with low-velocity HESH or quickly acquire target range with APDS.
 
 == General info ==
 === Survivability and armour ===
@@ -34,7 +34,7 @@ It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=1,162|rbMinHp=663}}
+{{tankMobility|abMinHp=1,348|rbMinHp=769}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -109,7 +109,7 @@ It was introduced in [[Update 1.65 "Way of the Samurai"]] along with the initial
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,500 (250) || 500 || N/A || N/A
+| Coaxial || 4,500 (250) || 500 || - || -
 |-
 |}
 
@@ -166,7 +166,7 @@ The prototype for the Type 74. Known in Japanese as 74式戦車の試作車STB-1
 * [[Type 74 (C)]] - <small>(Early Production version)</small>
 * [[Type 74 (E)]] - <small>(Variant with improved FCS & thermal sleeve)</small>
 * [[Type 74 (F)]] - <small>(Variant with mounting plates for a Type 92 mine-roller)</small>
-* [[Type 74 (G)]] - <small>(Improved ({{Annotation|改|Kai}}) variant with thermal and armor skirts)</small>
+* [[Type 74 (G)]] - <small>(Improved ({{Annotation|改|Kai}}) variant with thermal and armour skirts)</small>
 
 ;Other vehicles of similar configuration and role
 

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet bomber {{Battle-rating}}. It was introduced as a [[wt:en/news/4976-shop-the-new-e-r-a-bundles-en|premium pack]] in [[Update 1.71 "New E.R.A"]] and was discontinued from the store after the [[wt:en/news/5488-shop-victory-day-allied-bundles-and-discounts-en|2018 Victory Day]] sales, but returned during [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|War Thunder's 6th Anniversary]] as a premium purchasable with Golden Eagles {{GE}}.
+The '''{{Specs|name}}''' was a Soviet multi-purpose flying boat designed with the intent of carrying out various maritime missions. The primary purposes for which it was designed were anti-submarine warfare, transport operations, and reconnaissance missions. It was developed in the late 1940s by Beriev OKB and first flew in 1949.  The {{Specs|name}} was equipped with powerful ASH-73 engines and a large fuel capacity, allowing it to fly for an extended period of time and possibly cover more than 4,000 kilometres without refuelling. It was remarkably well protected for its time, with five powerful NR-23 cannons mounted in the nose and tail turrets, providing effective defense against possible aerial threats. The aircraft served for quite a long time, considering the rapid technological advancement during that era, and wasn't retired until the late 1960s.
+
+The {{Specs|name}} was introduced as a [[wt:en/news/4976-shop-the-new-e-r-a-bundles-en|premium pack]] in [[Update 1.71 "New E.R.A"]] and was discontinued from the store after the [[wt:en/news/5488-shop-victory-day-allied-bundles-and-discounts-en|2018 Victory Day]] sales, but returned during [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|War Thunder's 6th Anniversary]] as a premium purchasable with Golden Eagles {{GE}}. One of its most notable features is its defensive armament, which consists of five NR-23s, making it one of the most heavily armed bombers in the game. Furthermore, its maximum payload can take out two bases in air realistic battles, which is quite impressive given its other capabilities.
 
 == General info ==
 === Flight performance ===
@@ -83,16 +85,37 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet bomber {{Battle
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-250M-46 (250 kg)|FAB-500M-46 (500 kg)|FAB-1500M-46 (1,500 kg)|45-36MAN (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 8 x 250 kg FAB-250M-46 bombs (2,000 kg total)
-* 2 x 450 mm 45-36MAN torpedoes
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FAB-250M-46 (250 kg)|250 kg FAB-250M-46]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[FAB-500M-46 (500 kg)|500 kg FAB-500M-46]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[FAB-1500M-46 (1,500 kg)|1,500 kg FAB-1500M-46]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[45-36MAN (450 mm)|450 mm 45-36MAN]] torpedoes
+| || || || 1 || 1 || || ||
+|-
+| colspan="9" | Maximum permissible loadout weight: 4,400 kg<br>Maximum permissible wing load: 2,200 kg<br>Maximum permissible weight imbalance: 1,800 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 8 x 500 kg FAB-500M-46 bombs (4,000 kg total)
+* 8 x 250 kg FAB-250M-46 bombs (2,000 kg total)
 * 2 x 1,500 kg FAB-1500M-46 bombs (3,000 kg total)
-* 2 x 450 mm 45-36MAN torpedoes + 6 x 250 kg FAB-250M-46 bombs (1,500 kg total)
-* 2 x 450 mm 45-36MAN torpedoes + 4 x 500 kg FAB-500M-46 bombs (2,000 kg total)
+* 2 x 450 mm 45-36MAN torpedoes
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

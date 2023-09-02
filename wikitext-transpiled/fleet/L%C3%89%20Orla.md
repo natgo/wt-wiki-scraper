@@ -67,7 +67,7 @@ Due to the scarcity of ammo for all types of threats, the HE-VT ammo should repl
 === Anti-aircraft armament ===
 {{Specs-Fleet-AA}}
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
-{{main|FN MAG (7.92 mm)}}
+{{main|FN MAG (7.62 mm)}}
 
 ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.''
 

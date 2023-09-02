@@ -13,11 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update 1.71 "New E.R.A."]].
+The '''{{Specs|name}}''' (Object 764) and its upgraded variant, the '''BMP-1P''' (Object 765Sp4), were the first IFV to be mass-produced and the first major modernization of this type of vehicle respectively. They were designed by the Soviet Union in the 1960s and 1970s to give mechanized infantry better mobility, firepower, and protection on the battlefield. The BMP-1 was widely exported and participated in various conflicts around the world, such as the Arab-Israeli wars, the Iran-Iraq war, the Afghan war, and the Chechen wars. The BMP-1P was introduced in the late 1970s and featured enhanced anti-tank capabilities, smoke grenade launchers and additional armour. The BMP-1P was also extensively used by Soviet and Warsaw Pact forces, as well as by some of their allies and adversaries.
 
-The {{PAGENAME}} is more of a shoot-and-scoot type of vehicle as an exposed {{PAGENAME}} is a dead {{PAGENAME}}, so it avoids being a target at all costs. It can also use its mobility to find reasonable sniping spots (for ATGM) and generally only use the cannon if an enemy is close and unaware of its presence, unless it's in arcade mode, where it can land artillery-like shots easily.
-
-Remember that if anything sees the BMP, it can and should destroy it immediately, as it is extremely dangerous if left unattended - even a .50 cal might make quick work of the {{PAGENAME}} from the left side or the back.
+It was introduced in [[Update 1.71 "New E.R.A."]]. The {{PAGENAME}} is more of a shoot-and-scoot type of vehicle as an exposed BMP is a dead BMP, so it avoids being a target at all costs. It can also use its mobility to find reasonable sniping spots (for ATGM) and generally only use the cannon if an enemy is close and unaware of its presence unless it's in arcade mode, where it can land artillery-like shots easily. With the BMP-1 being one of the more affected vehicles after getting a vehicle modification (BMP-1P) it comes with a trade-off: While the BMP-1 has a manual guided missile using WASD, it does come with a 6-second autoloader for its cannon which isn't affected by crew skill/damage/losses, while the BMP-1P comes with a far more sophisticated mouse-guided missile and smoke grenades, but loses its autoloading capability, leading to a potentially slower reload of the cannon, next to reload speed loss on crew skill/damage/losses.
 
 == General info ==
 === Survivability and armour ===
@@ -122,9 +120,11 @@ The BMP-1 can use two different ATGMs which are mounted differently and have ent
 
 '''9M14'''
 [[File:Unupgraded bmp1 kills it1 camp squad.jpg|thumb|right|An extreme example of 9M14 use in AB against technically superior ATGM tank. May or may not work in RB.]]
-The {{PAGENAME}} comes with a rail-mounted manually-guided ATGM as stock, initially aimed manually, disabling tank movements, and has somewhat mediocre penetration and explosive mass values. While occasionally useful, generally the main gun is easier and more reliable to use. It also has very low starting speed of about 70 m/s.
+The {{PAGENAME}} comes with a rail-mounted manually-guided ATGM as stock. This must be guided using the keyboard, disabling tank movement, and has somewhat mediocre penetration and explosive mass values. While occasionally useful, generally the main gun is easier and more reliable to use. It also has very low starting speed of about 70 m/s.
 
-In AB, it can pointed with a mouse and will not disable tank's movement. It also can be semi-reliably launched over cover, since it is launched upwards. By pointing a targeting reticle at a tank 200 m away behind a wall or a hill before launch, you are likely to hit them directly, however, sometimes it flinches.
+The 9M14 Malyutka ATGM steers very controllably. When fired, the 9M14 drops just slightly above your aim reticle and is not usable in the first 5 metres. After surpassing 5 metres, the ATGM will fly in a straight line without any oscillation or deviation. When using the hand aiming guidance of the ATGM, it is very accurate and flies with minimal error compared to the SACLOS (aim reticle guided) 9M113 Konkurs, that tends to be unpredictable and quite unstable in-flight. You can easily swap from target-to-target with the hand aiming guidance, as it remains steady and doesn't oscillate. If a target is too close to you, aim slightly below the point you wish to hit. The ATGM will align itself slightly above the aim reticle almost right away, allowing you to hit or eliminate the target at closer range.
+
+In AB, the missile can be directed with the mouse and will not disable the tank's movement. It also can be semi-reliably launched over cover, since it is launched upwards. By pointing a targeting reticle at a tank 200 m away behind a wall or a hill before launch, you are likely to hit them directly, however, sometimes it flinches.
 
 4 x 9M14 ATGM
 
@@ -133,13 +133,11 @@ In AB, it can pointed with a mouse and will not disable tank's movement. It also
 
 '''9M113'''
 
-Once the BMP-1P upgrade is researched, the rail-mounted 9M14 ATGM is replaced with a spindle-mounted 9M113 ATGM. This ATGM is significantly more powerful and easier to use due to its semi-automatic guiding system. It is launched straight and has maximum velocity from the get go.
+Once the BMP-1P upgrade is researched, the rail-mounted 9M14 ATGM is replaced with a spindle-mounted 9M113 ATGM. This ATGM is significantly more powerful and can be easier to use due to its semi-automatic guiding system.
 
-Another reason to give up the first-gen missile is the smoke grenades which come with 9M113 and are extremely useful with directly launched ATGMs.
+The 9M113 Konkurs ATGM steers rather unpredictably. When fired, the 9M113 drops below your aim reticle in the first 15 metres (due to being at low speed right after launch). After surpassing 15 metres, the ATGM will have accelerated enough to fly up and stabilize itself with your aim reticle. Due to this launch drop, it is suggested to aim slightly up when firing the ATGM: this will avoid having your ATGM hit the ground or any fences as sometimes that tends to happen. When the ATGM is flying, steer it gently and carefully. Instantly snapping to another target can cause it to oscillate from side-to-side and hit something on the way or miss the target entirely.
 
-Improved penetration values and significantly increased explosive mass will result in far more reliable destructive power. Keep in mind that the ATGM still can only be fired when stopped or at extremely low speeds.
-
-Be aware, that the new missile launcher is put above the top of a turret and is a liability, since it is very visible even when the tank hides behind a wall and is a valid target for hostiles. A single ATGM hit to the launcher will obliterate the BMP, and so will HE.
+Improved penetration values and significantly increased explosive mass will also result in far more reliable destructive power. Keep in mind that the ATGM still can only be fired when stopped or at extremely low speeds. Be aware that the new missile launcher is put above the top of a turret and can be a liability, since it is very visible even when the tank hides behind a wall and is a valid target for hostiles. A single ATGM hit to the launcher will obliterate the BMP, and so will HE.
 
 4 x 9M113 ATGM (BMP-1P)
 

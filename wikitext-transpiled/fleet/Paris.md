@@ -88,4 +88,5 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French battleship {{Battle-rat
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{Manufacturer FCM}}
 {{France battleships}}

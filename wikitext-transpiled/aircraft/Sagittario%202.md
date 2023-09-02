@@ -144,6 +144,7 @@ The Sagittario 2 does not have access to any countermeasures so keep that in min
 * 2 x hard hitting 30 mm cannons are excellent at taking down other aircraft
 * The HS 825 cannons have a very high muzzle velocity (1,050 m/s) and are very accurate
 * Your stock ammunition easily tears down every aircraft it faces
+* Dog fighter's dream, second only to the Ariete premium version of this plane
 
 '''Cons:'''
 

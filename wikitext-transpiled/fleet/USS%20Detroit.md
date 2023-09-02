@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American light cruiser {{Battle-rating}}. It was introduced during [[Update "Red Skies"]] as a reward for [[Battle Pass: Season IV, "Fearless Voltigeur"]].
+The '''{{Specs|name}}''' was laid down in November 1920, and commissioned in July of 1923 as the 5th of 10 [[Omaha (Family)|Omaha-class]] light cruisers. Her original design as a "Scout Cruiser" gave her class a unique armament with forward-facing casemate guns as part of her main battery. She would go on to serve in WW2, the only theater she saw action in being in the Aleutians, bombarding Attu and assisting in the landings. She did however, notably, bring 8 metric tons of gold and 12 metric tons of silver from the submarine USS Trout (which had evacuated it from Corredigor in the Philippines) to the US Treasury in San Francisco. She would serve uneventfully through the rest of WW2, and be sold for scrap in 1946.
+
+Introduced during [[Update "Red Skies"]], USS Detroit was a reward for [[Battle Pass: Season IV, "Fearless Voltigeur"]]. Compared to her sister ship [[USS Trenton]], Detroit is in her 1942 refit, notably gaining access to an anti-aircraft battery of 20 mm Oerlikons in addition to the {{Annotation|1.1-inch|28 mm}}, giving a large boost to the anti-aircraft capabilities. The Omaha-class has a distinct advantage when approaching the enemy bow in: the unique casemate design allows for 4-6 of the {{Annotation|6-inch|152 mm}} guns to be brought to bear whilst also lowering the silhouette of the ship.
 
 == General info ==
 === Survivability and armour ===

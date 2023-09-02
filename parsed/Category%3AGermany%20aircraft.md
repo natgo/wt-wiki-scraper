@@ -468,6 +468,6 @@
 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|XvFOc76GX04|'''Heinkel Aircraft''' - ''War Thunder Official Channel''|CnMiNFYAHx8|'''Climbing the ranks with German aircraft'''  - ''War Thunder Official Channel''}}
+{{Youtube-gallery|vp4zsummGN4|'''Book of Records: German Aircraft''' - ''War Thunder Official Channel''|XvFOc76GX04|'''Heinkel Aircraft''' - ''War Thunder Official Channel''|CnMiNFYAHx8|'''Climbing the ranks with German aircraft'''  - ''War Thunder Official Channel''}}
 
 [[Category:Aircraft by country]]

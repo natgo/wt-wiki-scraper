@@ -5,14 +5,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]]. It is a copy of the [[Super Mystere B2|Super Mystère B2]] found in the French tree, Israel having purchased them in 1958. It was both the Israeli Air Force's first supersonic fighter and afterburning jet.
+During the 1956 Suez Crisis, Israel realised a need for a new, long-range, high-endurance jet fighter. Thus, with close ties to France, they placed an order for 24 Super Mystere B2s (called Sambad in Israel) in 1958. These planes were involved in the Six-Day War in which it saw extensive use. The aircraft were also involved in the USS Liberty incident where 2 Sambads released their napalm bombs on the USS Liberty. The Sambad also saw use in the Yom Kippur War in 1973, during which 6 were shot down. It served well as the first supersonic fighter in IAF service.
+
+The Sambad was introduced in [[Update "Winged Lions"]]. It plays similarly to a delta wing fighter, capable of pulling extreme manoeuvres while it has enough speed. The acceleration and cruise speed of the plane at low and medium altitudes is mediocre compared to similar BR fighters. This, alongside the awful low-speed manoeuvrability and bad energy retention makes this plane best used as a support fighter. It can use the afterburner to climb to high altitudes or stay fast in the outskirts of the fight, picking slow moving enemies with its excellent guns or the Shafrir missiles. Pilots should stay fast, do wide turns to avoid losing energy and help the team in different ways, picking up enemies that are closing in allies and destroying damaged targets that are fleeing the battlefield.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 The Sambad flies in a similar manner to the preceding [[Mystere IVA (Israel)|Mystere IVA]], with excellent {{Annotation|AOA|Angle-of-attack}} at low airspeeds, behaving similarly to later delta-winged designs. This allows it to shed off energy and allow pilots to force aircraft that are on their tail to overshoot; however, this can allow the Sambad to be easily trapped in a low energy state, and the poor acceleration will not be able to save the pilot. Unlike the Mystere, the Sambad compresses at higher airspeeds (usually above {{Annotation|900 km/h|560 mph, 486 knots}}), restricting it to around 8-10 Gs of pull. This allows the Sambad to maintain energy and maintain higher airspeeds, and pilots are advised to use this to their advantage. This can make up for the lacklustre acceleration at the lower end of performance, allowing pilots to bleed the speed of opposing aircraft whilst keeping their own speed high. The roll rate is average, better than the [[MiG-17|MiG-17]] but below that of the [[F-86 Sabre (Family)|Sabres]], and pilots should be able to evade shots easily in most cases.
-
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -125,6 +126,7 @@ As the Sambad is an Air Supremacy fighter, performance and air-to-air missiles s
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 30 mm DEFA 552 cannons, chin-mounted (150 rpg = 300 total)
+
 [[File:Sambad guns.PNG|thumb|300px|Arrangement of 30 mm  DEFAs on Sambad]]
 
 The Sambad is equipped with 2 x DEFA 552 30 mm cannons mounted on the underside of the nose; 150 rounds per gun giving a trigger time of 7.5 seconds. The DEFAs will be familiar to Israeli pilots, as every rank 6 Israeli jet uses the 30 mm DEFA. The cannons have good fire rate, great damage but a relatively low muzzle velocity at 810 m/s. Pilots should expect to require plenty of lead, but the good damage and great ammo capacity for a cannon will serve well once well practiced.
@@ -172,12 +174,20 @@ The Sambad is best used as a support fighter, using its high speed energy retent
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+[[File:Super Mystere B2.jpg|thumb|457x457px|Sambad in public display at the Israeli Air Force museum in Hatzerim]]
+The Super Mystere B2 Sambad was operated by the IAF after an order for 24 aircraft was placed in 1958. Operated mainly as a single seat bomber, it was the IAF's first supersonic afterburning fighter and was used as its first-line plane from 1958-1962. The plane first entered service with the 105 Squadron at Hazor AFB. Some encounters during small border skirmishes between the MiG-17 and the Sambad occurred in the late 1950s to early 1960s with no clear superior fighter at the end.
+
+At the start of the Six-Day War, Israel operated even more Mysteres thanks to an extra batch of ex-Armee de l'Air units joining the 105 squadron, that had 39 total aircraft at the start of the war. During the first day, Israeli Sambads were tasked with different missions. They were used to attack enemy airfields and also participated in interception missions against enemy bombers. During the first day of the war, 105 squadron flew 128 sorties, encountered and shot down a pair of Syrian MiG-21s for a total of 5 air kills and several aircraft destroyed on the ground during raids against enemy airfields.
+
+After these operations, the focus of the Sambads was placed to help Israeli ground forces in the attack. The Sambads were used to attack enemy armour, destroying tanks, artillery pieces and fortifications and disrupting enemy logistics in different fronts and also helping to provide air cover and ground support during airborne operations. A pair of Super Mysteres were part of the USS Liberty Incident, in which 2 Super Mysteres armed with napalm bombs released their ordnance on an American ship mistaken by Israeli intelligence as an Egyptian ship. 105 squadron flew a total of 507 sorties during the war and lost 9 aircraft with 6 pilots killed and another taken captive.
+
+After the French arms embargo against Israel, and the identification of lacking engine performance in the aircraft, 26 Sambads were converted to the [[Sa'ar]] in 1973, a version of the Super Mystere B2 fitted with the same engine used in the IAF's A-4 Skyhawks, the Pratt & Whitney J52-P-8A. The Sambad would be taken out of service in 1976.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=md_460_sambad Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -186,6 +196,7 @@ The Sambad is best used as a support fighter, using its high speed energy retent
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Mystere (Family)]]
 
 == External links ==
@@ -194,8 +205,8 @@ The Sambad is best used as a support fighter, using its high speed energy retent
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [https://www.jewishvirtuallibrary.org/dassault-super-mystere IAF Aircraft Inventory: Dassault Super Mystere]
+* [https://www.iaf.org.il/183-16712-en/IAF.aspx?indx=3 IAF - Dassault Super-Mystere B2 (Hebrew nickname: 'Sambad')]
 
 {{AirManufacturer Dassault}}
 {{Israel jet aircraft}}

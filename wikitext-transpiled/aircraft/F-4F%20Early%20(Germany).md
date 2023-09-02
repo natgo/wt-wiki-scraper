@@ -12,7 +12,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced during [[Update "Ixwa Strike"]] as a reward for the [[wt:en/news/7107-event-future-technology-en|Future Technology]] event.
+Developed exclusively for the German Luftwaffe, the '''{{Specs|name}}''' was intended to be a cheaper and lighter version of the [[F-4E]]. At the time, Germany considered alternative fighters like a single-seat version of the F-4 and the Mirage F1 but ultimately chose the regular 2-seater Phantom for budget reasons. To keep the cost down, the ability to utilize the Sparrow missile was removed, the number 7 fuel tank was removed (most aft position), and more modifications were done to reduce weight and cost. Ultimately, the F-4F Early was around 3,300 pounds (1,496 kg) lighter than a normal F-4E and deliveries began in late 1973.
+
+Introduced during the [[Update "Ixwa Strike"]] as a high-tier reward for the [[wt:en/news/7107-event-future-technology-en|Future Technology]] event, the F-4F Early is one of the lowest BR Phantoms in-game, second only to the [[F-4C|F-4C Phantom]]. The F-4F Early has significant improvements over the F-4C such as an internal gun, and access to AIM-9Js. However, it also lacks any ability to use guided weapons like Bullpups or Mavericks due to the removal of those systems in real life.
 
 == General info ==
 === Flight performance ===
@@ -189,6 +191,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 600 gal drop tank
 * 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
 * 2 x AIM-9E Sidewinder missiles
@@ -242,12 +245,15 @@ The missiles on the F-4F, apart from the AIM-9J, aren't very good. the AIM-9B FG
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+In the early 1970s, West Germany was searching for a new aircraft. Multiple aircraft were considered, such as a single-seat version of the F-4, but that version of the F-4 was succeeded by the F-5 and the project lost steam in the 60s. It became active again in the early '70s when the West German government was planning to acquire single-seat Phantoms designated the F-4E(F). However, this procurement fell through and the government eventually finalized its decision with the 2-seater F-4E. The project was focused on making it lighter and inexpensive compared to the normal F-4E. As such, the AN/APQ-120 was simplified by removing functions for radar missiles, the rear-most fuel tank was removed, the tailplane was unslotted, and it also lacked any capability to use guided weaponry. These modifications meant the F-4F was more than 3,000 pounds (1,360 kg) lighter than a normal F-4E and significantly cheaper.
+
+175 F-4Fs were ordered by the West German government and many parts were manufactured within Germany such as the J-79 engines. Deliveries began in September of 1973 and ended 7 months later in April. Some of the Phantoms were sent to squadrons that fulfilled the interceptor role while other Phantoms were sent to ground-attack-focused squadrons like JBG-35. In the early 1980s, many of the F-4Fs were upgraded to fire Sparrows and guided weaponry like Mavericks. These Phantoms would later undergo the ICE program which further increased the capability of the F-4Fs.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-4f Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

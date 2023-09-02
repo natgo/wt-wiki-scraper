@@ -5,12 +5,16 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The S-199 "Sakeen" is a modified Bf 109 produced by the Czech firm Avia as the S-199 model. Avia used to produce Bf 109s for Germany, but after the war the lack of fighter engines forced them to produce their own Bf 109 variant using the Junkers Jumo 211F engine, an engine made for use in the Heinkel He 111 heavy bomber. Israel bought 25 S-199s in 1947, which arrived at the start of the 1948 Arab-Israeli War. The aircraft was known to lack reliability, with engine problems, constant jamming of the guns, and even instances where the guns destroyed the propeller of the plane. However despite its problems, it proved successful in the early days of the war, shooting down several Egyptian aircraft over Israeli territory.
+
+The Sakeen was added in [[Update "Winged Lions"]] alongside the initial Israeli air tree. The plane suffers from poor manoeuvrability and lacking engine power. As a result it has very bad flight performance, but excels with amazing armament. It should be used as a support fighter in boom and zoom attacks, climbing to 4,000-5,000 m and diving on unsuspected victims. The upgraded guns in the Sakeen are capable of destroying almost any plane at its BR with a few bursts. Alternatively, pilots can also go to the sides of a match and wait until most planes are at low altitudes, then do attack runs, trying to keep the most amount of speed possible since the Sakeen has very bad acceleration.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+
+The Sakeen has very mediocre flight performance, with average climb speed and turn time, it loses a lot of speed in turns, and the acceleration and overheating during WEP are constant issues. However it performs better at high altitudes and has a decent top speed, thus, climbing to 4000 m or more is highly recommended.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -69,11 +73,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli fighter {{Battle-ratin
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-60mm armored glass in front of and behind the pilot's head. Pilot's seat is 8mm steel from the back and 4mm steel from the bottom.
+There is a 60 mm armoured glass pane in front of and behind the pilot's head. The pilot's seat is a steel plate 8 mm thick from the back and 4 mm thick from the bottom.
 
-The fuel tank placed under/behind the pilot is protected by 21mm steel from the back and 4mm steel from top and sides. The back plate also somewhat covers the pilot.
+The fuel tank placed under/behind the pilot is protected by 21 mm of steel from the back and 4 mm of steel from top and sides. The back plate also somewhat covers the pilot.
 
-8mm steel under the radiator at the very front of the plane.
+An 8 mm steel plate covers the radiator from under at the very front of the plane.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -105,11 +109,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The S-199 has awful energy retention meaning that the aircraft is not effective at turnfighting. It also lacks manoeuvrability and has a poor climb rate. In Realistic Battles, the fighter should be used as a support role. The S-199 is effective at boom-and-zooming and is able to knock out an enemy aircraft quickly with a few bursts.
+The Sakeen has awful energy retention meaning that the aircraft is not effective at turnfighting. It also lacks manoeuvrability and has a poor climb rate. In Realistic Battles, the fighter should be used as a support role. The Sakeen is effective at boom-and-zooming and is able to knock out an enemy aircraft quickly with a few bursts.
 
-First, you level out on the runway after taking off and hit 300 km/h IAS, then you climb to the side opposite to the one facing the enemy airfield and lower your climb angle once you hit 250-270 km/h IAS. Continue climbing until you reach 4,500 m, despite the stats, the S-199 has a pretty average climb and if you utilise your climb speed well, you can find yourself at comparable altitude. It's a good option to let your teammates engage first, and drive the enemy to a lower altitude than you, after that you can Boom-n-Zoom them.
+First, you level out on the runway after taking off and hit 300 km/h IAS, then you climb to the side opposite to the one facing the enemy airfield and lower your climb angle once you hit 250-270 km/h IAS. Continue climbing until you reach 4,500 m, despite the stats, the Sakeen has a pretty average climb and if you utilise your climb speed well, you can find yourself at comparable altitude. It's a good option to let your teammates engage first, and drive the enemy to a lower altitude than you, after that you can Boom-n-Zoom them.
 
-The S-199 gets one decent turn before it loses its energy, that one turn is useful against Yak-9, La-5, and MiG-3s. If you miss this shot, dive to get a little speed before thinking about manoeuvring, a good defensive move will be to cut throttle to 50% and roll out of the guns of the plane chasing you, if you keep your wing perpendicular to the enemies you should be ok for a while, force an overshoot, then either spiral away to the opposite side and run to a teammate, or if you have enough speed, you can try to go for the shot. It may be a little tough to fly, but with the correct attitude and spirit, it can do wonders. Remember: superior tactics can beat superior machinery, applying a bit of forward thinking can save you your repair costs, and it's always best to fly with a teammate, maybe even a fellow S-199.
+The Sakeen gets one decent turn before it loses its energy, that one turn is useful against Yak-9, La-5, and MiG-3s. If you miss this shot, dive to get a little speed before thinking about manoeuvring, a good defensive move will be to cut throttle to 50% and roll out of the guns of the plane chasing you, if you keep your wing perpendicular to the enemies you should be ok for a while, force an overshoot, then either spiral away to the opposite side and run to a teammate, or if you have enough speed, you can try to go for the shot. It may be a little tough to fly, but with the correct attitude and spirit, it can do wonders. Remember: superior tactics can beat superior machinery, applying a bit of forward thinking can save you your repair costs, and it's always best to fly with a teammate, maybe even a fellow Sakeen.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -147,7 +151,7 @@ The S-199 gets one decent turn before it loses its energy, that one turn is usef
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-At its inception, the Israeli Air Force sought any fighter aircraft it could acquire to supplement its fledgeling military. Unfortunately for the IAF, there were strict arms embargoes put in place on Israel which made it challenging. The IAF's purchasing agents then set out and  approached aircraft manufacturers across Europe to find one who might be able to provide fighters.
+At its inception, the Israeli Air Force sought any fighter aircraft it could acquire to supplement its fledgeling military. Unfortunately for the IAF, there were strict arms embargoes put in place on Israel which made it challenging. The IAF's purchasing agents then set out and approached aircraft manufacturers across Europe to find one who might be able to provide fighters.
 
 The Czech manufacturer Avia had been building Messerschmitt Bf 109s for the Germans during WW2, and continued to do so even after the war. Initially in the postwar era, Avia produced the [[Bf 109 G-10]] with the DB 605 engine, a variant they designated the S-99. When the limited stocks of DB 605s ran out after only 21 S-99s constructed, subsequent Bf 109 G airframes were modified to use the Junkers Jumo 211F engines.
 
@@ -162,17 +166,17 @@ The S-199, despite its poor mechanical performance, gained the distinction of be
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=s_199 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Images
 <gallery mode="packed-hover" heights="x250px">
 File:ArtImage Sakeen.png
 </gallery>
 
-;Skins
-
-* [https://live.warthunder.com/feed/camouflages/?vehicle=s_199 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
-
 ;Videos
-{{Youtube-gallery|Szjj7F1iHL4|'''The Shooting Range #291''' - ''Pages of History'' section at 03:52 discusses the {{PAGENAME}}.|0uI33fRlznc|'''The Shooting Range #288''' - ''Metal Beasts'' section at 00:29 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|Szjj7F1iHL4|'''The Shooting Range #291''' - ''Pages of History'' section at 03:52 discusses the S-199.|0uI33fRlznc|'''The Shooting Range #288''' - ''Metal Beasts'' section at 00:29 discusses the S-199.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

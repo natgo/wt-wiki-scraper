@@ -187,4 +187,5 @@ At 09:00 AM, Scharnhorst contacted the British cruisers [[HMS Norfolk|Norfolk]],
 * Potts, J. R. (2019, May 2). ''KMS Scharnhorst. Military Factory - Global Defense Reference''. Retrieved December 26, 2021, from <nowiki>https://www.militaryfactory.com/ships/detail.php?ship_id=KMS-Scharnhorst</nowiki>
 * Roblin, S. (2021, December 19). ''Scharnhorst: How hitler's pocket battleship was destroyed''. 19FortyFive. Retrieved December 26, 2021, from <nowiki>https://www.19fortyfive.com/2021/12/scharnhorst-how-hitlers-pocket-battleship-was-destroyed/</nowiki>
 
+{{ShipManufacturer Kriegsmarinewerft Wilhelmshaven}}
 {{Germany battlecruisers}}

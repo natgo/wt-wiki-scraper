@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] Sd.Kfz. 142/1) is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.43]].
+The '''Sturmgeschütz III Ausführung G (StuG III G)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 142/1''') is the seventh variant of the [[StuG III (Family)|Sturmgeschütz III assault gun family]]. The StuG III G made a distinction apart from the rest of the production variants. It was, in essence, the most produced variant, with around 8400 units built between December 1942 and April 1945, which was equal to the entire production of all Panzer IV medium tank variants combined. This enormous effort was the result of a full reorganization of manufacturing, which was divided among other factories such as MIAG (in 1943) and many suppliers. This was done to avoid disturbances from the growing success of Allied bombing attacks. It was, of course, reinforced further by the progressive substitution of Panzer III medium tanks on the same production lines with StuG III assault guns.
 
-Compared with previous models, the G variant of the StuG III tank destroyer comes with thicker armour of up to 80 mm on the front glacis and a 75 mm StuK 40 L/48 gun that gives the vehicle characteristics on par with a Panzer IV. With this cannon on a low-profile construction due to its casemate design, the StuG III G can prove to be a formidable vehicle in the ambush role.
+Introduced in [[Update 1.43]], the StuG III G was the ultimate variant of the StuG III assault gun family, combining outstanding frontal protection with firepower. The StuG III G, which is armed with a modified long-barrelled 75 mm Sturmkanone (StuK) 40 L/48 tank gun, has the same armour-penetrating power as the [[Pz.IV H|Panzer IV H]], the best variant of the [[Pz.IV (Family)|Panzer IV medium tank family]]. The StuG III G, with its low profile and compact silhouette, is ideal for laying up ambushes for enemy armoured columns while remaining stealthy.
 
 == General info ==
 === Survivability and armour ===
@@ -199,6 +199,7 @@ The overall quality of the armament and armour of this assault gun made it a fre
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_stug_III_ausf_G Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -207,9 +208,11 @@ The overall quality of the armament and armour of this assault gun made it a fre
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[StuG III (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[SU-85]]
 * [[75/46 M43]]
 * [[Pvkv m/43 (1946)]]

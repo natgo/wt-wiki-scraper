@@ -159,7 +159,7 @@ File:HMS Tiger WTWallpaper008.jpg
 </gallery>
 
 ;Videos
-{{Youtube-gallery|yWWFv8qY5rQ|'''Battlefield Engineer: all new vehicles''' discusses the {{PAGENAME}} at 7:46 - ''War Thunder Official Channel''|Lw9HPGCdSYA|'''{{PAGENAME}} - Ship Review - Not a S(t)inker!''' - ''Napalmratte''|JUizHkj9gl4|'''The {{PAGENAME}} In Game''' - ''TheEuropeanCanadian''}}
+{{Youtube-gallery|CHMGFBVu078|'''HMS Tiger (C20): Exploring the Royal Navy's Last Gun Cruiser''' (review starts at 1:11) - ''Cmdr. Tyrael''|yWWFv8qY5rQ|'''Battlefield Engineer: all new vehicles''' discusses the {{PAGENAME}} at 7:46 - ''War Thunder Official Channel''|Lw9HPGCdSYA|'''HMS Tiger - Ship Review - Not a S(t)inker!''' - ''Napalmratte''|JUizHkj9gl4|'''The HMS Tiger In Game''' - ''TheEuropeanCanadian''}}
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

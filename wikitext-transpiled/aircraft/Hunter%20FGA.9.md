@@ -134,19 +134,50 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|H.E. M.C. Mk.II (500 lb)|M.C. Mk.I (1,000 lb)|AIM-9E Sidewinder|SNEB type 23}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11 !! width="4%" | 12
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_Hunter_F.58_(Germany).png]]</div>
+|-
+! [[H.E. M.C. Mk.II (500 lb)|500 lb H.E. M.C. Mk.II]] bombs
+| || 1* || || || || 1 || 1 || || || || 1* ||
+|-
+! [[M.C. Mk.I (1,000 lb)|1,000 lb M.C. Mk.I]] bombs
+| || 1* || || || || 1 || 1 || || || || 1* ||
+|-
+! [[AP Mk II]] rockets
+| 3* || || 3* || 3 || 3 || || || 3 || 3 || 3* || || 3*
+|-
+! [[HVAR]] rockets
+| 1* || || 1* || || 1 || || || 1 || || 1* || || 1*
+|-
+! [[RP-3]] rockets
+| 1* || || 1* || 1 || 1 || || || 1 || 1 || 1* || || 1*
+|-
+! [[SNEB type 23]] rockets
+| || 18* || || || || || || || || || 18* ||
+|-
+! [[AIM-9E Sidewinder]] missiles
+| || || || || || 1 || 1 || || || || ||
+|-
+| colspan="14" | * Ordnance on hardpoints 2/11 cannot be equipped in conjunction with ordnance on adjacent hardpoints
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 2 x 500 lb H.E. M.C. Mk.II bombs (1,000 lb total)
-* 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
-* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
-* 4 x 1,000 lb M.C. Mk.I bombs (4,000 lb total)
-* 2 x 1,000 lb M.C. Mk.I bombs + 2 x 500 lb H.E. M.C. Mk.II bombs (3,000 lb total)
-* 36 x SNEB type 23 rockets + 2 x 500 lb H.E. M.C. Mk.II bombs (1,000 lb total)
-* 36 x SNEB type 23 rockets + 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
 * 2 x AIM-9E Sidewinder missiles
+* 36 x SNEB type 23 rockets
+* 24 x AP Mk II rockets
+* 8 x RP-3 rockets
+* 6 x HVAR rockets
+* 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
+* 4 x 1,000 lb M.C. Mk.I bombs (4,000 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

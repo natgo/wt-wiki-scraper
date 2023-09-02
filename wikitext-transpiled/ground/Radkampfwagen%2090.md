@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''Radkampfwagen 90''', also known as the Radpanzer 90, is an eight-wheeled combat vehicle prototype created by Daimler-Benz at the request of the German Federal Ministry of Defence. In the early 1980s, the German Federal Ministry of Defence tasked Daimler-Benz with building an armoured wheeled combat vehicle in response to the success of other countries' wheeled armoured vehicles, such as the French [[AMX-10RC]]. The combat weight was to be around 30 tonnes. In late 1983, Daimler-Benz began developing and manufacturing what was formerly known as the "Wheeled Demonstration Vehicle" and then the "Wheeled Experimental Vehicle (88)". The vehicle was ultimately designated "Radkampfwagen 90". The prototype was finished in 1986. Due to budget cuts and a deteriorating defense market, the Radkampfwagen 90 was never developed beyond the prototype stage. However, the test results were incorporated into the investigations conducted as part of the experimental program "Test Carrier Armored Transport Vehicle with Integrated Overall Protection," which later developed into the GTK Boxer armoured fighting vehicle. The prototype is now displayed in Germany's Wehrtechnische Studiensammlung (Defense Technology Study Collection) in Koblenz. The turret is a prototype version of the [[Leopard 2 (Family)|Leopard 2 main battle tank]]'s.
+
+Introduced in [[Update 1.97 "Viking Fury"]], the Radkampfwagen 90 is a lightning-fast, heavy-hitting armoured wheeled vehicle for German Army ground forces. The Radkampfwagen 90 is armed with the well-known 105 mm Royal Ordnance L7A3 tank gun and has access to an assortment of ammunition for various situations. The Radkampfwagen 90, with a top speed of more than 100 km/h, is a dangerous flanking vehicle in the right hands. However, it lacks thermal imaging equipment, which is featured in several other tanks of its rank. It is most likely given that the Radkampfwagen 90 is still in the prototype stage. Nonetheless, with a two-plane fully automatic stabilization system and a laser rangefinder, the Radkampfwagen 90 can undoubtedly deliver devastating blows to the adversary if used to its full potential.
 
 == General info ==
 === Survivability and armour ===
@@ -182,6 +184,7 @@ The first, and what would end up being the only prototype was constructed in 198
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_radpanzer_90 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -203,6 +206,7 @@ File:Radpanzer 90 WTWallpaper 06.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Class 3 (P)]]
 * [[Rooikat 105]]
 * [[Type 16]]
@@ -220,6 +224,7 @@ File:Radpanzer 90 WTWallpaper 06.jpg|
 === References ===
 
 ;Biblbiography
+
 * Radpanzer 90. (2020, February 22). In ''Wikipedia''. https://de.wikipedia.org/w/index.php?title=Radpanzer_90&oldid=197067150
 
 {{Germany light tanks}}

@@ -143,9 +143,8 @@ There are a few quirks to watch out for. First, the MiG-23MLD's excellent engine
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
-** 1 x 23 mm GSh-23L cannon + 72 x large calibre countermeasures
+* 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
+* 60 x large calibre countermeasures
 
 The MiG-23MLD still retains the 23 mm GSh-23L cannon with 200 rounds from the MiG-23M. It has an excellent rate of fire and will likely do significant damage if it hits a target, but the muzzle velocity is unimpressive and it can be a challenge to aim it properly in high speed engagements. It's generally best to reserve the gun for extended dogfights where the MLD can use its manoeuvrability to pull lead on a slower target. The limited ammunition supply means that the average pilot can only expect a kill or two with the gun before needing to go back to base.
 
@@ -154,15 +153,77 @@ The MLD has a far healthier supply of countermeasures than the MiG-23M. It retai
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary}}
-{{main|S-5K|S-8KO|S-24B|GSh-23L (23 mm)}}
-{{main|R-23R|R-23T|R-24R|R-24T}}
-{{main|Kh-23M|R-13M1|R-60M}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="19" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-23MLA_(Germany).png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| 1 || || || || 1
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| 4 || 4<sup>†</sup> || || 4<sup>†</sup> || 4
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| 1 || 1 || || 1 || 1
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| 1 || || || || 1
+|-
+! [[ZB-500 incendiary]] bombs
+| 1 || || || || 1
+|-
+! [[S-5K]] rockets
+| 16, 32 || 16 || || 16 || 16, 32
+|-
+! [[S-8KO]] rockets
+| 20 || || || || 20
+|-
+! [[S-24B]] rockets
+| 1 || 1 || || 1 || 1
+|-
+! [[Kh-23M]] missiles
+| 1* || || || || 1*
+|-
+! [[R-13M1]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-23R]] missiles
+| 1 || || || || 1
+|-
+! [[R-23T]] missiles
+| 1 || || || || 1
+|-
+! [[R-24R]] missiles
+| 1 || || || || 1
+|-
+! [[R-24T]] missiles
+| 1 || || || || 1
+|-
+! [[R-60M]] missiles
+| 1 || 2 || || 2 || 1
+|-
+! Large calibre countermeasures
+| || || 12 || ||
+|-
+! Delta-NG targeting pod
+| || 1* || || ||
+|-
+! 800 l drop tanks
+| || || 1<sup>†</sup> || ||
+|-
+| colspan="7" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles <br> <sup>†</sup> The drop tank cannot be equipped in conjunction with quad bombs on adjacent hardpoints
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 800 l drop tank
 * 2 x R-13M1 missiles
+* 12 x large calibre countermeasures
 * 4 x R-13M1 missiles
 * 6 x R-60M missiles
 * 2 x R-23R missiles
@@ -179,64 +240,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
 * 2 x ZB-500 incendiary bombs
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="12%" | 1 !! width="12%" | 2 !! width="12%" | 3 !! width="12%" | 4
-| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-23MLA_(Germany).png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| 1 || || || 1
-|-
-! 100 kg OFAB-100 bombs
-| 4 || 4 || 4 || 4
-|-
-! 250 kg FAB-250M-62 bombs
-| 1 || 1 || 1 || 1
-|-
-! 500 kg FAB-500M-62 bombs
-| 1 || || || 1
-|-
-! ZB-500 incendiary bombs
-| 1 || || || 1
-|-
-! S-5K rockets
-| 16, 32 || 16 || 16 || 16, 32
-|-
-! S-8KO rockets
-| 20 || || || 20
-|-
-! S-24B rockets
-| 1 || 1 || 1 || 1
-|-
-! Kh-23M missiles
-| 1* || || || 1*
-|-
-! R-13M1 missiles
-| 1 || 1 || 1 || 1
-|-
-! R-23R missiles
-| 1 || || || 1
-|-
-! R-23T missiles
-| 1 || || || 1
-|-
-! R-24R missiles
-| 1 || || || 1
-|-
-! R-24T missiles
-| 1 || || || 1
-|-
-! R-60M missiles
-| 1 || 2 || 2 || 1
-|-
-! Delta-NG
-| || 1* || ||
-|-
-| colspan="6" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles
-|-
-|}
+{{Navigation-End}}
 
 The MiG-23MLD has similar loadouts to the MiG-23M. The main difference is that it has access to R-24R and R-24T missiles, which are straight upgrades to the R-23R and R-23T missiles. The R-24s are deadly missiles, but the MLD is still limited to carrying only two of them. The R-23s should only be used as stopgaps before the R-24s are unlocked.
 

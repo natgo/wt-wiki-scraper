@@ -89,7 +89,7 @@ The '''Shell Mk.1 AP/T''' is one of the only shells with armour-piercing and exp
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.7.0.208''' -->
+<!-- '''Last updated: 2.27.2.40''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -105,6 +105,7 @@ The '''Shell Mk.1 AP/T''' is one of the only shells with armour-piercing and exp
 '''Note''':
 
 * Shells are modelled individually and disappear after having been shot or loaded.
+{{Clear}}
 
 ==== Optics ====
 {| class="wikitable" style="text-align:center" width="50%"

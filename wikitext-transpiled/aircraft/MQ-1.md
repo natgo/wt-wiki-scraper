@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is an American strike UCAV (Unmanned Combat Aerial Vehicle). It was introduced in [[Update "Drone Age"]]. It is available to all nations besides Russia and China. Unlike other aircraft, this is not researchable and can only be used once enough spawn points have been gained.
+The '''{{Specs|name}}''' is an American strike UCAV (Unmanned Combat Aerial Vehicle), developed by General Atomics Aeronautical Systems. Developed from the General Atomics Gnat 750, the "Predator", as the MQ-1 was named, would go on to serve in many conflicts around the world, including in Bosnia, Yugoslavia, Afghanistan, Iraq, and Libya, to name a few. It served extensively from 1995 until 2018, after which it was replaced by the MQ-9 "Reaper".
+
+The Predator was introduced in [[Update "Drone Age"]]. All nations besides Russia and China gain access to this vehicle to spawn for 750 spawn points; this is not a researchable vehicle. This vehicle is useful in cases where other CAS is unavailable or unable to be used, for example in night battles. With 2 Hellfires, the arsenal is limited, though the drone can be useful to locate enemy vehicles once dry of missiles, with the excellent optical zoom and thermals.
 
 == General info ==
 === Flight performance ===

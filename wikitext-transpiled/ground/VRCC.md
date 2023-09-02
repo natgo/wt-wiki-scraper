@@ -6,14 +6,18 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+Introduced into the service of the Spanish Army in the late 1990s, the VRCC (Cavalry Reconnaissance and Combat Vehicle) has proven to be an invaluable asset over the years. Since its introduction, the VRCC has been an essential component in various military operations and exercises, making significant contributions to Spain's defense capability. Belonging to prestigious Cavalry regiments such as the 10th "Alcántara" Cavalry Regiment and the 12th "Farnesio" Cavalry Regiment, the VRCC has established a legacy of excellence in military service throughout the 2000s and 2010s. The VRCC has taken part in various operational missions over the years, including deployments in regions such as the Balkans, the Middle East, and Africa. From peacekeeping and security missions in the Balkans to support operations in conflict zones in the Middle East and Africa, the VRCC has proven its capability to adapt to different environments and situations.
+
+The VRCC was introduced in [[Update "Drone Age"]]. It stands as a formidable force. Armed with a potent 105 mm cannon, it possesses the ability to engage and neutralize a wide spectrum of targets with accuracy and efficiency. Its swift mobility across diverse landscapes empowers rapid deployment and tactical manoeuvrability, ensuring a potent presence on the battlefield. Enhanced by advanced electronic systems, the VRCC offers heightened situational awareness, enabling effective command and control. Whether conducting reconnaissance or providing support in offensive operations, the VRCC's combat capabilities underscore its crucial role on the battlefield.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-The VRCC-105 has enough armour to withstand attacks from machine-guns but enough to trigger the fuse in APHE type projectiles. The lack of armour however has its benefits as it makes this vehicle very agile.
+The survival strategy of the VRCC resonates with the hit-and-run doctrine, which mirrors the mobility-driven defense tactic observed in the [[Centauro (Family)|B1 Centauro]]. This approach capitalizes on exploiting the vehicle's exceptional mobility to limit exposure to adversaries, swiftly execute precise attacks, and promptly reposition before effective retaliation is possible. In parallel to this doctrine, the VRCC optimizes its survival potential by minimizing prolonged engagements, sustaining continuous movement. Its remarkable mobility across diverse terrains permits rapid transitions, rendering enemy identification and tracking arduous. By adhering to this philosophy, the VRCC orchestrates surprise offensives, leveraging its potent armament to inflict damage before tactically withdrawing to thwart the adversary's responsive measures.
+
+This mobility paradigm not only bolsters offensive efficacy but also serves as a linchpin in defensive manoeuvres. By evading predictable stances, the VRCC markedly diminishes vulnerability to enemy hazards like direct fire or anti-tank weaponry. This stratagem empowers the VRCC to sidestep threats, ensuring crew safety. Crucially, the union of hit-and-run doctrine with mobility-centric defense underscores the VRCC's capacity to excel on the battlefields. The vehicle adeptly deploys firepower with precision, strategically retreating to assure self-preservation. The additional armour kits fortify its defensive potential against high-calibre machine guns and limited protection against autocannons.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -108,7 +112,7 @@ The VRCC-105 is equipped with two 7.62 mm Beretta MG42/59 machine guns with a hi
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-<!--''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).-->''
+<!--''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).-->
 
 The VRCC-105 is a great tank destroyer than can be truly difficult to take out when used by a player that knows both its pros and cons. The VRCC's wheeled configuration offers the player a vehicle which not only is highly mobile, but a vehicle which can support its team in several ways. As a support vehicle the VRCC has access to the binoculars which are able to scout enemy players. Make sure to remain hidden whilst doing this, allowing your team to know where enemies are will ultimately mean that their situational awareness will rise and keep you and the rest of the team safe. Another way the VRCC 105 can scout is with the scout drone mechanic that all players who have bought the vehicle get access to from the get-go. With the scouting drone you are able to bring out a small drone to spot enemies and do battlefield survailance. There is some cons to doing this however, when using the scouting drone you remain defenceless, at the mercy of the enemy team and the protection of your own teamates. Make sure when using it you are hidden or somewhere safe. The pros of using this support drone are quite a lot, for starters it heavily complements your anti-tank gameplay. When using the VRCC 105 you should base your playstyle on speedy stealth flanking strikes or reconnaissance (scouting) with a sharp emphasis on sniping. You have access to a more than capable 105 mm cannon with the ability to fire APFSDS and HEAT rounds. The cannon can pretty much deal with anything your will encounter, as long as you know your enemies weakspots. When it comes to armor, you don't have much to work with sadly. The VRCC is only able to withstand machine-gun fire and at times take hits from low level auto-cannon fire. You do have access to a thermal imaging device, this will be one of the more useful items in your arsenal and will allow you to better spot enemies from behind cover, as well as quickly engage and disengage without exposing yourself long enough for the enemy to see you coming. Though this movement flexibility comes with the loss of armour protection as previously mentioned, you can play well with this vehicle if you are able to master its playstyle.
 
@@ -141,13 +145,14 @@ Since 2000, the Italian B1 Centauro wheeled armoured vehicle has been supplied t
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_vrcc_centauro Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:-->''
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:-->
 
 * [[Centauro I 105]]
 * [[Centauro I 105 R]]

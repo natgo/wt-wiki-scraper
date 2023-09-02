@@ -192,6 +192,8 @@ File:P420 Sparviero WTWallpaper 07.jpg|
 * ''other literature.'' -->
 
 * [[wt:en/news/6690-development-italian-fleet-early-access-packs-en|[Devblog] Italian Fleet Early Access Packs: Geniere & Sparviero]]
+* [https://www.usni.org/magazines/proceedings/1971/june/notebook Italian Navy Awards Contract For Prototype Hydrofoil Boat — USNI Notebook | Proceedings - June 1971 Vol. 97/6/820]
 
+{{Manufacturer OTO Melara}}
 {{Italy boats}}
 {{Italy premium ships}}

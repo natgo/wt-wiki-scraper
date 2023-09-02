@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}'''(commonly known as 小羚羊 by the name Gazelle) is a rank {{Specs|rank}} Chinese utility helicopter {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The '''{{Specs|name}}''' (commonly known as 小羚羊; Gazelle) was one of the PLA purchases from France during the improving relationships to western countries in the 1980s. While the PLAGF planned for an Army Aviation Corps, there were no reliable attack helicopters available from either domestic or import means, thus to introduce some "attack helicopters" for evaluation and persuade officials to establish the Aviation Corps, Aérospatiale approached PLAGF for the sales of the Gazelle and its HOT ATGM as the first armed helicopter for PLAGF (Z-5 and imported Mi-6 were not planned to be weaponized). Eight Gazelles made it to Mainland China by the late 1980s as armed scout helicopters and the testbed for heliborne ATGMs. They were mostly used as OPFOR attack helicopters during exercises, and are now likely used by aviation academies of the PLA as training helicopters thanks to its good flight characteristics.
 
-One of the earliest European purchases of Mainland China during the 1980s and their earliest "attack" helicopter that installed ATGMs, the name "gazelle" might not sound threatening, but it can still fight back with its limited payload including ATGMs and pair of rocket pods, as well as machine gun pods.
+Introduced in [[Update "Drone Age"]] alongside the initial Chinese helicopter tech tree, the SA.342L Gazelle was one of the earliest European purchases of Mainland China during the 1980s and their earliest "attack" helicopter that installed ATGMs. While the name "gazelle" might not sound threatening, it can still fight back with its limited payload including ATGMs and a pair of rocket pods, as well as machine gun pods, while evading enemy threats with its swift mobility.
 
 == General info ==
 === Flight performance ===
@@ -100,7 +100,7 @@ Since its armaments have quite short range compared to other helicopters of the 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-SA.340/341/342 Gazelle has been a very successful helicopter from France and already been export to multiple customers; while the new PLAGF Aviation Corps (陆军航空兵) established in October of 1986 with only Harbin Z-5 and earlier SA.311 at their disposal, they have already proposed for new helicopters to meet their urge demand for helicopters. The deal for SA.341L was set in late-1980s for 8 helicopters at $800k USD per unit where they were first seen as a part of the scouting operations of the 1989 Crackdown; while they were later served as a converted attack helicopter of PLAGF during military exercises, especially during the heat of 2nd Taiwan Strait Crisis as the only "dedicated" attack helicopter for PLAGF with 4 missiles onboard.
+SA.340/341/342 Gazelle has been a very successful helicopter from France and already been export to multiple customers; while the new PLAGF Aviation Corps (陆军航空兵) established in October of 1986 with only Harbin Z-5 and earlier SA.311 at their disposal, they have already proposed for new helicopters to meet their urge demand for helicopters. The deal for SA.341L was set in late-1980s for 8 helicopters at $800k USD per unit where they were first seen as a part of the scouting operations of the 1989 Crackdown; while they were later served as a converted attack helicopter of PLAGF during military exercises for OPFOR, especially during the heat of 2nd Taiwan Strait Crisis as the only "dedicated" attack helicopter for PLAGF with 4 missiles onboard.
 
 As newer Z-9 and later helicopters with better payload and performance came into service, the Gazelles are very likely been withdrawn from frontline service and serve as trainer for new pilots of PLAGF Aviation Corps.
 
@@ -108,6 +108,7 @@ As newer Z-9 and later helicopters with better payload and performance came into
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sa_342l_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -116,6 +117,7 @@ As newer Z-9 and later helicopters with better payload and performance came into
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Gazelle (Family)]]
 
 == External links ==

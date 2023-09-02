@@ -23,9 +23,9 @@ Though never seeing combat during its short career, the {{PAGENAME}} has an oppo
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The {{PAGENAME}} is a good fighter which excels in playing the interceptor role, however like the three bears from Goldilocks' story; this jet has a sweet spot in speed where it does well. Like many jets, this one does not do so well when slow and it becomes an easy target for others to attack. On the other hand, flying too fast causes the controls to lock up, preventing plane from pulling up fast. If playing in realistic or simulator battles, breaking the sound barrier will instantly obliterate the plane, but it's extremely difficult to reach unless intentionally done. Doing "extreme overload" manoeuvre at 700+ km/h while having a weight displacement might also damage the wing and force the pilot to return to the airfield.
+The {{PAGENAME}} is a good fighter which excels in playing the interceptor role; however, like the three bears from Goldilocks' story, this jet has a sweet spot in speed where the controls give maximum performance. Like many jets, this one does not do so well when slow and it becomes an easy target for others to attack. On the other hand, flying too fast causes the controls to lock up, preventing plane from pulling up fast. If playing in realistic or simulator battles, breaking the sound barrier will instantly obliterate the plane, but it's extremely difficult to reach unless intentionally done. Doing "extreme overload" manoeuvre at 700+ km/h while having a weight displacement might also damage the wing and force the pilot to return to the airfield.
 
-The sweet spot or "just right" speed zone for the {{PAGENAME}} is between 700 km/h and 810 km/h. Here the jet will have enough speed to bleed and will be able to snap onto incoming plane quicker, although flying at 900+ km/h will allow it to climb harder or change directions multiple times. Diving either to shoot down another aircraft or to get away from someone on your tail can be a challenge as doing so can result in the aircraft superseding the 810 km/h threshold (easily going into the mid 900s). This aircraft does not have an air brake, instead the take-off flaps have been reinforced and should not rip when used to slow the aircraft down and can be deployed and retracted as needed.
+The sweet spot or "just right" speed zone for the {{PAGENAME}} is between 700 km/h and 810 km/h. Here the jet will have enough speed to bleed and will be able to snap onto incoming plane quicker, although flying at 900+ km/h will allow it to climb harder or change directions multiple times. Maintaining a speed close to 1,000 km/h can be a viable strategy, as most aircraft on the enemy team will struggle to keep up with you, while the lockup of the controls will be within a manageable level. Diving either to shoot down another aircraft or to get away from someone on your tail can be a challenge as doing so can result in the aircraft superseding the 810 km/h threshold (easily going into the mid 900s). This aircraft does not have an air brake, instead the take-off flaps have been reinforced and should not rip when used to slow the aircraft down and can be deployed and retracted as needed.
 
 The plane does not lose much speed in a straight line due to being a delta-wing (kind of like [[Javelin F.(A.W.) Mk.9]], but less extreme), just reducing the throttle will not affect it very much either. As soon as plane hits 450 km/h speed it keeps itself afloat and can glide around. When taking off from airfield, lifting off at about 320 km/h and keeping plane low at ground level until 450 km/h will ensure its stability and better climb rate later on. Stable nature of plane helps to conserve fuel after going into 900+ km/h in WEP mode, as at 100% the speed will not reduce at level flight. The aircraft also will not care as much if engine was put to 0% to evade IR missiles or for other reasons. The implication is also that even if the pilot foolishly spent all of the fuel, the plane still can glide across entire map back to airfield, if it had enough speed or height left, easily gliding 40 km from 3 km height or even more depending on remaining speed.
 
@@ -240,7 +240,7 @@ The radar is rather vulnerable to the ground clutter and might refuse to lock on
 * No dedicated airbrake, must use take-off flaps as an airbrake at high speeds
 * Both autocannons are on the right side of the aircraft fuselage, requires slight adjustment when aiming
 * Fireflash missiles have to be manually guided when there is no radar lock; 2 Gs overload limits the performance
-* Poor manoeuvrability at high speeds (> 950 km/h) and high risk of ripping wings while pulling extreme Gs 
+* Poor manoeuvrability at high speeds (> 950 km/h) and high risk of ripping wings while pulling extreme Gs
 * Less ammunition for 30 mm ADEN than the F.1 variant; requires trigger discipline
 
 == History ==
@@ -263,6 +263,7 @@ Newer modifications were developed, which addressed most of the known issues. Ho
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=swift_f7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -280,6 +281,7 @@ Image:Swift F7 WTWallpaper 002.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * Supermarine [[Attacker FB 1]]
 * Supermarine [[Attacker FB.2]]
 

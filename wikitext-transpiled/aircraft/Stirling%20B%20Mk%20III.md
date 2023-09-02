@@ -22,7 +22,7 @@ Being a large bomber, the Stirling has a very slow roll rate and a huge turn rad
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 4,537 m)
+! colspan="2" | Max speed<br>(km/h at 4,537 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -31,10 +31,10 @@ Being a large bomber, the Stirling has a very slow roll rate and a huge turn rad
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 391 || 376 || rowspan="2" | {{Specs|ceiling}} || 48.7 || 50.6 || 1.8 || 1.7 || rowspan="2" | 1,060
+| 392 || 375 || rowspan="2" | {{Specs|ceiling}} || 48.6 || 50.6 || 5.8 || 5.7 || rowspan="2" | 1,060
 |-
 ! Upgraded
-| 432 || 410 || 45.4 || 47.0 || 6.7 || 4.0
+| 435 || 410 || 45.4 || 47.0 || 10.7 || 8.0
 |-
 |}
 
@@ -103,7 +103,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 27 x 500 lb G.P. Mk.IV bombs (13,500 lb total)
 * 9 x 1,000 lb M.C. Mk.I bombs (9,000 lb total)
 
-The stock payload of twenty-seven 250lbs, while large, is poor for base bombing. The loadout of twenty-seven 500 lb bombs is excellent for hitting multiple bases that could be damaged, and allows the Stirling to attack a colossal number of ground units in a single flight. The maximum payload of nine 1,000 lb bombs is a loadout that can kill 3 bases in a single flight at rank III. A group of Stirlings can decimate an enemy team's ticket count. 
+The stock payload of twenty-seven 250lbs, while large, is poor for base bombing. The loadout of twenty-seven 500 lb bombs is excellent for hitting multiple bases that could be damaged, and allows the Stirling to attack a colossal number of ground units in a single flight. The maximum payload of nine 1,000 lb bombs is a loadout that can kill 3 bases in a single flight at rank III. A group of Stirlings can decimate an enemy team's ticket count.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

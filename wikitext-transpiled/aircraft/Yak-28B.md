@@ -5,13 +5,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet bomber {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
+The '''{{Specs|name}}'''(NATO Codename: Brewer-A) was perhaps the last combat jet developed by '''Yakovlev '''that joined the VVS, was also the first supersonic frontline bomber of VVS. The design of Yak-28 was based on the Yak-26 (Yak-123) where VSS called for a new supersonic bomber with better payload and speed; these jets were produced from 1960 to 1971 in Irkutsk; although designated as a supersonic frontline bomber, one of its variant which was an interceptor (Yak-28P, codename Firebar) were the most produced variant of Yak-28 family. The Yak-28B was the tactical bomber variant with Lotos radar and was produced as one of the earliest mass-produced variants of the family.
+
+Introduced in [[Update "Red Skies"]] as one of the jet bombers of Soviet air tech-tree, although the honor of being the first Soviet supersonic bomber might sound pleasing; the overall payload is only barely better than some of its NATO subsonic attacker counterparts. Due to its size and overall maneuverability of a bomber, as well as having only 50 round of 23 mm ammunitions for last-ditch options with 64 countermeasures onboard; baiting IR AAMs of its tier is possible thanks to its speed and countermeasures, do not take the jet as an interceptor as fighters of its era will have no problem gunning down the Brewer with ease. 
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-This bomber is relatively fast, it can break the sound barrier above 4,000 metres. It also has a very high acceleration, high energy retention and a very good climb rate. However, it has a very poor turn rate and experiences moderate compression above 1,000 km/h.
+This bomber is relatively fast, it can break the sound barrier above 4,000 m. It also has a very high acceleration, high energy retention and a very good climb rate. However, it has a very poor turn rate and experiences moderate compression above 1,000 km/h.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -105,7 +107,7 @@ This bomber is relatively fast, it can break the sound barrier above 4,000 metre
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+As a bomber, Yak-28B also featured protections around the cockpit including armor plates for pilots and bulletproof windshield; although the average thickness of these protections are nowhere enough for autocannons, any spare protections will enhance the survivability of the crew to at least shrapnel or .50 caliber guns.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -148,15 +150,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-This plane is rather fast, has an immense acceleration, but turns also very poorly. This feature however gives it a good energy retention that allows it to juggle enemies if they get behind. The Yak-28B is also infamous for its very inaccurate bombsight in level flight, so to counter this con, you should consider diving at -20° or lower as it makes your bombs more likely to hit their target. The CCIP function is available, however, as it was installed in the bombardier nose, the function is only available in 3rd person view. Once your bombs are dropped, you can either bait enemies (if you have countermeasures) or quickly return to the airfield to get ready for another bomb run.
+The Yak-28B has 2 very powerful engines that give it a immense acceleration. Even at extreme high altitudes the jet bomber is capable of retaining a very high speed above Mach 1, where others will start to lose speed. It has a poor turn rate, but it is paired with a high thrust ratio: allowing you to retain your speed when turning. Your best chances at surviving is to stay high at all times and keep going above Mach 1 (your bombs still drop beyond Mach 1). You are untouchable when going high altitude paired with sound breaking speed, even able to outfly some early air-to-air missiles. Your only weakness being when landing and taking off, being able to get intercepted by enemy jets. It comes with CCIP that gives you the gimmick to allow to bomb from third perspective accurately. Lastly it also has countermeasures that can help you to defend yourself from missiles if they were to get too close to you.
 
-The Yak-28B can also find some success in the ground attack role in air battles. Carrying 6 x 250 kg bombs provides the best "bang" for your buck, as each bomb will destroy tough targets like medium tanks or light pillboxes in one shot. Your cannon can also be used to easily dispatch medium tank targets with a short burst. Both the cannon and bombs have a ballistic computer which is accurate enough at low level to allow precision strikes. Ground strike is the riskier role as you will be at low altitude, where your plane's structural speed limit may render you easy prey to enemy aircraft. However, provided you can destroy targets uncontested, both you and your team will profit more than if you focus on attacking base targets.
+'''Air battles'''
+
+At the start of a match, take 20 minutes of fuel, equip Air targets belt and get yourself 6 x 250 kg bombs or 1 x 3,000 kg bomb (6 x 250 kg allows you to precisely eliminate bases while the 3,000 kg bomb gives the most explosive damage and is best used for bombing and quick resupplying). Start ascending on a 30-45° angle to an altitude of 6-12 km to any of the bomb targets (best to go for the furthest one as many bombers and strike aircraft will go for the first one). Once on a high altitude make sure you are certain that your bomb target will not get bombed by any teammates, if they all get bombed: simply remain high altitude on 100% thrust (not WEP) and wait for additional bomb targets to spawn. Once you have released your bombs start heading back to base, when coming close to base fully turn off your engine to bleed speed the most and land and repeat. If you are among the last players left of your team, take max fuel and ascend to the max altitude and remain there on 100% thrust, if someone starts coming close start the afterburners and fly away from the enemy. Tho this tactic is seen as a annoying and unfair, also known as "space climbing".
+
+'''CAS'''
+
+Equip your Yak-28B with the FAB-3000M-46 and take the minimal fuel. When spawned in start ascending to 3-4 km where your jet won't break due to going too fast, Try to spot a enemy target or receive information from your teammates on where there are targets. Once you have decided and dropped your bomb, return back to base and repeat.
 
 '''Enemies worth noting:'''
 
 * [[Harrier (Family)]]: Harriers are very common and can pose you a significant threat, especially the ones that are loaded with the AIM-9G (AV-8A, AV-8C, Harrier GR.3) that has a very long range and a good 18 G overload. Harriers can also very commonly be seen flying very high, so they're very likely to spot you and dive on you. But you have a higher speed and a slightly better climb rate, so when you see a Harrier, make sure you're the farthest away from him and try to keep that distance. But if it fires a missile less than 3 km away from you and you don't happen to have countermeasures, you're very likely to lose your aircraft.
 
-* [[Lightning F.6]] / : another common enemy packed with some dangerous armement ([[Red Top]] missiles) and high performance that can easily sneak behind you. But you have an ace up your sleeve: Vertical manoeuvres. Since the Lightning has a high angle of attack, it will bleed a lot of speed when turning, and even more when manoeuvring vertically. So to avoid it, start a vertical manoeuvre and once the Lightning bled enough speed, dive back, and you'll easily leave him behind. Do remember however that having flares is recommended when attempting this kind of manoeuvre.
+* [[Lightning F.6]] / : another common enemy packed with some dangerous armament ([[Red Top]] missiles) and high performance that can easily sneak behind you. But you have an ace up your sleeve: Vertical manoeuvres. Since the Lightning has a high angle of attack, it will bleed a lot of speed when turning, and even more when manoeuvring vertically. So to avoid it, start a vertical manoeuvre and once the Lightning bled enough speed, dive back, and you'll easily leave him behind. Do remember however that having flares is recommended when attempting this kind of manoeuvre.
 
 * [[F8U-2]] / [[T-2]]: The same applies to the F8U-2 and the T-2, except the T-2 has less dangerous missiles and slightly more speed.
 
@@ -164,21 +172,21 @@ The Yak-28B can also find some success in the ground attack role in air battles.
 
 * [[MiG-21 SPS-K (Germany)|MiG-21 SPS-K]]: Unlike other MiG-21s, there is a decent chance that the premium SPS-K model will be on the enemy team. The MiG-21 is a powerful interceptor, and can easily climb to altitudes that the Yak-28B might otherwise feel safe at. Armed with R-60 missiles and able to sneak up from behind, this MiG-21 poses a significant threat. Matches can and will end abruptly if an enemy SPS-K player spots you and is able to fire off a missile even up to 3 km behind you.
 
+* [[F-104A]] / [[F-104C]] / [[F-104A (China)|Chinese F-104A]]: The early F-104 series of jets are one of the only jets capable of keeping up with you no matter how high or fast you're going, they come packed with [[AIM-9B Sidewinder|AIM-9B]]'s and a fast-firing [[M61A1 (20 mm)|20 mm Gatling gun]]. It's best to remain away from them as much as possible, as once they are chasing you there is a high chance they will catch up with you and eliminate you. Only way to truly run away from it is to either have your teammates engage it or fly back to base where the base SPAA will protect you.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Immense acceleration
-* High top speed
-* Very good climb rate
+* Immense acceleration and good climb rate
+* High top speed and energy retention
 * Has access to flares and chaff for self-defense against missiles (64 units in total)
-* High energy retention
 * Above 1,000 km/h, your plane compresses very slightly. This allows you to pull hard in a turn without any significant overload
 * Very resistant flaps and gear that acts like an airbrake
-* Very easy stock grind (if you do not count the amount of RP needed)
 * The 3,000 kg bomb is very useful for bombing runs in ground RB (in air RB too, as it can destroy every kind of land targets)
-* Has a primary weapon that can help you destroy some light ground targets at the end of the match
+* Can outrun most early air-to-air Missiles at high altitude
+* Very strong parachute that can quickly help you come to a full stop when landing
 
 '''Cons:'''
 
@@ -188,8 +196,6 @@ The Yak-28B can also find some success in the ground attack role in air battles.
 * Fuel starvation happens in negative-G manoeuvres
 * Horrible turn rate that makes you vulnerable to even AIM-9Bs if you do not have countermeasures
 * Low roll rate
-* Extremely inaccurate bomb sight
-* The drogue chute opens at 280 km/h and drops at 200 km/h
 * Absolutely pitiful ammo capacity for NR-23 cannon renders it useless for nearly everything
 
 == History ==

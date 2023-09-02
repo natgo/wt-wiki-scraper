@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The La-11 was among the last propeller fighters ever built, as a result of requirements of the VSS (Soviet Air Force) for long-range escort fighters. They were introduced into the PLAAF as supplementary forces alongside the [[La-9 (China)|La-9]] before the introduction of new jet fighters. Although the La-11 achieved the first propeller-versus-jet kill for the PLAAF (as the PVAF), they were also part of the infamy where they shot down a civil flight in mid-1950s. The remaining aircraft served for another 2 decades before lack of spare parts brought them to their ultimate end of service.
+
+Introduced in [[Update "Winged Lions"]], the La-11 proves itself as a fearsome interceptor with sufficient firepower and speed to chase-off American or British fighters, despite lacking one 23 mm cannon compared to the preceding La-9.
 
 == General info ==
 === Flight performance ===
@@ -183,6 +185,7 @@ The rise of jet fighters during Korean War also marked the end of propeller figh
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=la-11_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -191,6 +194,7 @@ The rise of jet fighters during Korean War also marked the end of propeller figh
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[La-11]]
 
 == External links ==
@@ -198,6 +202,7 @@ The rise of jet fighters during Korean War also marked the end of propeller figh
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

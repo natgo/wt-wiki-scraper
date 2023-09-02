@@ -84,8 +84,8 @@ The only APHE shell available is the unlockable "Type 56 AP", a renamed BR-367 A
 The top round is the DJW85 APFSDS, something completely new to the 85 mm caliber. Although Chinese tankers may be apprehensive about early domestic APFSDS rounds, DJW85 actually has better performance than the [[Type 69]]'s Type 71 AFPSDS despite being a significantly smaller round. Although it has a a lower muzzle velocity, it does not lose as much penetration over distances. The 2.1 kg projectile mass is not able to create much spalling, but the ZTS63's decent reload speed makes follow-up shots much faster than on the Type 69. It is a useful tool for disabling shots and targeting ammo racks in long range combat.
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.47''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -97,9 +97,15 @@ The top round is the DJW85 APFSDS, something completely new to the 85 mm caliber
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''47''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''47''' || 42&nbsp;''(+5)'' || 33&nbsp;''(+14)'' || 24&nbsp;''(+23)'' || 18&nbsp;''(+29)'' || 10&nbsp;''(+37)'' || 1&nbsp;''(+46)'' || No
 |-
 |}
+'''Notes''':
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+* It is recommended to take 42&nbsp;''(+5)'' shells to clear the turret of ammunition.
+* Taking 18&nbsp;''(+29)'' shells clears the right hull of ammunition.
+* Taking 10&nbsp;''(+37)'' shells clears both hull sides of ammunition.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

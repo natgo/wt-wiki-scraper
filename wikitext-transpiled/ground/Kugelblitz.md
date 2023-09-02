@@ -116,7 +116,7 @@ The Kugelblitz is best used as a second or third spawn, because aircraft will no
 
 '''Cons:'''
 
-* Although having thick armour for an SPAA, it's still only a Panzer IV hull and not enough to stop any kind of tank shell at its rank, or even fire from other SPAA vehicles.
+* Although having thick armour for an SPAA, it's still only a Panzer IV hull and not enough to stop any kind of tank shell at its rank, or fire from .50 cal HMGs
 * Long reload time
 * HVAP belt is 2/3 HE rounds, reducing effectiveness
 

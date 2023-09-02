@@ -261,4 +261,5 @@ Ships of comparable role, configuration and era
 
 * [[wikipedia:No.13-class_submarine_chaser|[Wikipedia] No.13-class submarine chaser]]
 
+{{ShipManufacturer Nippon Kokan Co.}}
 {{Japan sub-chasers}}

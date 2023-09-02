@@ -13,9 +13,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced as a [[wt:en/news/6377-news-chinese-air-and-ground-forces-become-a-tester-en|premium pack]] in [[Update 1.91 "Night Vision"]] and was removed from the store after the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]]. The M4A4 was made available for purchase in-game ({{GE}}) for specific Chinese events like the [[wt:en/news/7359-special-national-day-of-the-people-s-republic-of-china-en|2021 "National Day of the People's Republic of China"]] mini-event and with [[Update "Sky Guardians"]] it became available as a regular in-game premium for ({{GE}}).
- 
-The vehicle is identical to the tech tree [[M4A4 (China)|M4A4]] except for a unique skin and a pintle-mounted heavy machine gun.
+The '''M4A4 Sherman 1st Provisional Tank Group''' (中國遠征軍) is a special [[M4A4 (China)|M4A4]] Sherman, the fifth variant of the early generation [[M4 Sherman (Family)|Medium Tank M4 (Sherman) family]]. During World War II, the M4A4 was part of the Chinese-American 1st Provisional Tank Group (1st PTG) of the Chinese Expeditionary Forces (中國遠征軍), where the Chinese Kuomintang government equipped 32 such tanks under the lend-lease program and established the 1st PTG to be stationed in India. The Chinese Expeditionary Forces (中國遠征軍) were primarily equipped with the M4A4 Sherman and [[M3A3 Stuart (China)|M3A3 Stuart]] during World War II. They fought primarily in the China-Burma-India theatre (CBI) and helped the Allies reopen the land route through Japanese-occupied Burma by securing and repairing the Ledo-Burma Road.
+
+Introduced in [[Update 1.91 "Night Vision"]], the premium M4A4 (1st PTG) is a unique historical unit of the M4A4 that performs similarly to other M4 Sherman variants armed with the 75 mm M3 tank gun. Players can engage opponents with more accuracy while moving thanks to a vertical stabilizer included in the gun mount. The vehicle is identical to the tech tree M4A4 except for a unique camouflage and a turret-mounted M2HB Browning heavy machine gun.
+
+Introduced as a premium pack, it was later withdrawn from the store after the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]]. During the [[wt:en/news/7359-special-national-day-of-the-people-s-republic-of-china-en|2021 "National Day of the People's Republic of China"]], the M4A4 Sherman was temporarily made available for purchase again in-game. It returned in [[Update "Sky Guardians"]] as a premium vehicle available for purchase for Golden Eagles.
 
 == General info ==
 === Survivability and armour ===
@@ -199,6 +201,7 @@ This tank had a "Tiger face" painted on its mantlet and "claws" painted on the a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m4a4_sherman_1st_ptg Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -210,6 +213,7 @@ This tank had a "Tiger face" painted on its mantlet and "claws" painted on the a
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other M4A4s
+
 * [[M4A4 (China)]]
 * [[M4A4 (France)]]
 * [[M4A4 (Italy)]]

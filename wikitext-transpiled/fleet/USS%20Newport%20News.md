@@ -6,11 +6,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American heavy cruiser {{Battle-rating}}. It was introduced during [[Update "Apex Predators"]] as a reward for the [[wt:en/news/8021-event-winter-quest-en|2022 Winter Quest]] event.
+The {{PAGENAME}} was the final [[Des Moines (Family)|Des Moines class]] to be completed. Laid down in November 1945 and commissioned in January 1949, she would go on to be the only ship of her class to continue in service past the early '60s. This would notably include serving as the flagship of the Atlantic fleet during the Cuban Missile Crisis, where she would also assist with counting the missiles once the crisis abated. She would go on to serve extensively during the Vietnam War and was eventually decommissioned in 1975.
 
-The Des Moines-class heavy cruiser is the final evolution of the "all-gun" American cruiser. Being largely based on the [[Baltimore (Family)|Baltimore-class]] heavy cruiser, the Des Moines-class retains the same layout with several optimization and improvement, most notably the introduction of an autoloading mechanism for her {{Annotation|8-inch|203 mm}} guns, doubling its rate of fire. However, as they were completed during the dawn of the jet and missile age, they were largely reduced to a fleet carrier escort. By the year 1961, two out of three ship of the class were already decommissioned.
-
-The {{PAGENAME}}, the third and final Des Moines-class, is the sole active ship of the class during the outbreak of the Vietnam War. After being converted into a flagship cruiser in 1962, she was deployed in a bombardment roles off the coast of Vietnam. In 1972, she suffered a gun breech explosion and deemed too expensive to repair, resulting into her decommission three years later.
+'''{{Specs|name}}''' was introduced during [[Update "Apex Predators"]] as a reward for the [[wt:en/news/8021-event-winter-quest-en|2022 Winter Quest]] event. Compared to her sister ship [[USS Des Moines]], she's in her 1962 refit, which stripped out much of her anti-aircraft firepower. While this does mean that she isn't nearly as capable against aircraft with her two double {{Annotation|3-inch|76 mm}} autocannon mounts, she also has the same crew count, so she is much more capable of taking sustained fire from smaller vessels, as there's less crew exposed on deck for small calibre shells to knock out. With her quick fire rate of 6 seconds for the main battery, Newport News is capable of brawling with any ship smaller than a battlecruiser, and can even punch above her weight class provided the range is close enough.
 
 == General info ==
 === Survivability and armour ===
@@ -105,6 +103,10 @@ USS Newport News is in her 1962 state, after modifications to be a fleet flagshi
 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_cruiser_des_moines_class_newport_news Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+
+{{Youtube-gallery|9ktYK1n93L4|'''USS Newport News (CA-148) - Des Moines-class Heavy Cruiser - History & Guide''' - ''Cmdr. Tyrael''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

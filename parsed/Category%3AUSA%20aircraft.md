@@ -461,6 +461,6 @@
 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|bwQldakCLM8|'''Grumman Aircraft''' - ''War Thunder Official Channel''|HEMjPJAqxmU|'''American Air Forces Rank II - Tutorial and Guide''' - ''Jengar''|KQKzDGXlbtY|'''Book of Records: American Aircraft''' - ''War Thunder Official Channel''|k6xxIkP80xM|'''American Air Forces Rank I - Tutorial and Guide''' - ''Jengar''|nio77hOta5k|'''Climbing the ranks with US aircraft'''  - ''War Thunder Official Channel''}}
+{{Youtube-gallery|EeVOANRmFaA|'''American Air Forces Rank III - Tutorial and Guide''' - ''Jengar''|bwQldakCLM8|'''Grumman Aircraft''' - ''War Thunder Official Channel''|HEMjPJAqxmU|'''American Air Forces Rank II - Tutorial and Guide''' - ''Jengar''|KQKzDGXlbtY|'''Book of Records: American Aircraft''' - ''War Thunder Official Channel''|k6xxIkP80xM|'''American Air Forces Rank I - Tutorial and Guide''' - ''Jengar''|nio77hOta5k|'''Climbing the ranks with US aircraft'''  - ''War Thunder Official Channel''}}
 
 [[Category:Aircraft by country]]

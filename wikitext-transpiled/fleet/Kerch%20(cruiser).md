@@ -106,5 +106,6 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet light cruiser {
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer OTO}}
 {{USSR light cruisers}}
 {{USSR premium ships}}

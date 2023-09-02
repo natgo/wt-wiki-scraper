@@ -117,21 +117,46 @@ It was introduced in [[Update "Fire and Ice"]]. Providing the same great firepow
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Type 10 series of tanks are a sidegrade of the [[Type 90 (Family)|Type 90]] supposed to supplement the latter by being lighter on Japanese infrastructure and improving on their electronic capabilities. With the main focus of the Type 10 being lighter than the Type 90, it swaps out the engine and transmission to a lighter model contributing the most to its weight re-distribution next to its smaller overall profile. Next to that the armour on the Type 10 is modular with the overall armour package being more efficient but still slightly heavier than on the Type 90, the {{PAGENAME}} comes in standard configuration at totalling 44 tons offering roughly the same armour equivalence to the Type 90. The improved FCS also includes the ability to fire the new Type 10 APFSDS shell through Gen 3 thermals.
+
+The {{PAGENAME}} is a highly mobile and fast-firing MBT that excels in flanking and sniping roles. However, its armour is not reliable and it is vulnerable to enemy fire, so it requires constant situational awareness and effective use of its hydropneumatic suspension, LWS, Laser Rangefinder and smoke grenades. The Type 10 should not engage in frontal assaults or close combat, but rather support allied MBTs from a safe distance and exploit its mobility and firepower to deal damage and relocate as needed. Getting early warnings of potential incoming fire thanks to its LWS, providing enough time and knowledge to retreat or dodge incoming shells.
+
+;Notable Opponents
+
+* '''[[T-80 (Family)|T-80]]/[[T-72 (Family)|T-72]]''' - The Russian top-rank MBTs pose a dangerous opponent for the Type 10. They possess good firepower and frontal protection. Frontally, the player wants to aim at the lower plate or driver's port. If facing from the sides, be aware that the Russian ERA blocks may stop the shell (even one as powerful as the Type 10 APFSDS) and always note that it may take a follow-up shot to knock it out.
+
+* '''[[M1 Abrams (Family)|M1 Abrams]]''' - The M1A2 possesses good straight-line mobility that rivals the Type 10 with superior protection and survivability. The player wants to aim at the massive turret ring, this will usually knock out or cripple the tank. Take a follow up shot if needed. If turret ring is not visible, the player wants to aim at the gun breech or mantlet to knock out the gun and kill
+
+* '''[[Challenger 2 (Family)|Challenger 2]]''' - The Challenger 2 is a slow, large target with subpar protection against top battle-rating kinetic munitions. Though players should still beware of its 5-second (with ace crew) reload that is almost as fast as the Type 10's (within its ready rack range). The player can aim at its lower plate, drivers port or breech area.
+
+* '''[[Leopard 2 (Family)|Leopard 2]]''' - Superior firepower and turret protection, these tanks have vulnerable hulls that are rather easy to penetrate with the Type 10 round. The player can aim lower plate. If the Leopard 2 is hull down - player can aim at the barrel or try to knock out the gun breech through a turret ring shot (Warning: Turret ring shots tend to be unreliable so be careful of the angle!)
+
+* '''[[Leclerc (Family)|Leclerc]]''' - Mobile autoloaded tanks with decent protection, the Leclerc(s) have a large weak spot in the breech area that can disable the gun or possibly knock out the tank.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Small profile
-* Autoloaded 120 mm cannon
-* Great mobility
+* Autoloaded 120 mm cannon, 4-second reload unaffected by crew or fire
+* Has access to 3rd generation thermal sights for the gunner and commander
+* Type 10 APFSDS round is competitive (Comparable to DM53, the 'improved' round on the Leopard 2A5)
+* Quite mobile, high power-to-weight ratio and high reverse speed
+* Fitted with hydropneumatic suspension, although this can only be operated when stationary
+** Can lower the tank significantly, allowing you to hide behind relatively low hills and ridges
+* Primary ammunition storage protected within blow-out containment in the rear of the turret
+* Relatively small profile
 
 '''Cons:'''
 
-* Poor armour
-* Slow elevation/depression speed
+* Only three crew, a well-placed shot can easily cause a full crew knock-out
+* Can only carry 15 rounds before additional ammo is stored in the unsafe hull racks
+* Hydropneumatic suspension ceases to work when the engine is hit
+* Relatively poor gun depression, unless the suspension is used
+* Armour is very spread out in the front with the only well-defended places being the upper front plate, turret cheeks, and breech
+* While fast in top speed, this tank is a bit slow to accelerate
+* Slow elevation/depression speed for the main gun
+* Slower turret traverse than most other MBTs
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

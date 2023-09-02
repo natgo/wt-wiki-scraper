@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] '''Sd.Kfz. 142''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
+The '''Sturmgeschütz III Ausführung A (StuG III A)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 142''') is the first variant of the [[StuG III (Family)|Sturmgeschütz III assault gun family]]. It was the most-produced fully tracked armoured fighting vehicle, as well as the second-most-produced German armoured combat vehicle of any type, following the Sd.Kfz. 251 half-track. It was designed on a [[Pz.III F|Panzer III F]] chassis that had been slightly modified, with the turret removed to be replaced by an armoured, fixed superstructure holding a more powerful gun. Originally designed as a mobile assault gun for direct-fire infantry support, the overall StuG III designs were continually upgraded and, like the subsequent Jagdpanzer vehicles, were used as a tank destroyer later during World War II. While the StuG III did not see action during the battle in Poland in September 1939, the experience acquired there highlighted the importance of a self-propelled mobile artillery vehicle. 
 
-The StuG III A is the beginning of the StuG III line and the first enclosed tank destroyer for the German tree. It presents the same 75 mm gun as on the early Panzer IVs. 
-
-This tank destroyer was originally built as an assault gun, designed to fling low-velocity high explosive shells in the assistance of attacking infantry. Against armoured vehicles, however, the StuG III A should be used for frontal assaults on objectives or ambushes, due to poor accuracy at range and the high shell arc. In both roles, its low profile and excellent short-range firepower provide a distinct advantage. You should get into cover when reloading. Due to the sloped armour on the top, shots will bounce more if you are on the same elevation as the tank you are fighting or if your gun is facing the tank at 0° elevation. If you are raising your gun to shoot at an enemy, they can pierce your armour easily below the gun.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the StuG III A serves as an infantry support vehicle, similar to the early [[Pz.IV (Family)|Panzer IV variants]] (A to F1). Its main objective was to fire high explosive (HE) shells in an arc at enemy fortifications and defence positions with its short-barrelled 75 mm Sturmkanone (StuK) 37 L/24 tank gun. In the game, the player can hide behind low obstacles and fight enemies while in the hull-down position. This greatly improves the StuG III A's survivability to resist opposing fire. Players new to the casemate tank destroyers in the German Army ground forces may struggle to adapt to the playstyle of such vehicles, particularly the frequent requirement to shift the direction of the hull when engaging the enemy from different directions. Nonetheless, gaining skill in playing such vehicles would undoubtedly benefit the players, as most German Army casemate tank destroyers are well-armoured compared to other vehicles of their rank, while also being armed with extremely powerful guns.
 
 == General info ==
 === Survivability and armour ===
@@ -174,6 +172,7 @@ The vehicle's major drawback was its lack of a machine gun and the low muzzle ve
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_stug_III_ausf_A Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

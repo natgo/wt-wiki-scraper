@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American heavy cruiser {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''{{Specs|name}}''', also known as "Sweet Pea', was the lead ship of her class. Being laid down in February 1930, she would be commissioned in February 1933, going on to serve through the entirety of WW2. Crucially, she would play a vital role in the opening of the war in the Pacific, screening the carriers at the Battle of the Coral Sea, Midway, and Guadalcanal. She would also play a role in the Aleutian Campaign before returning for the Battle of Leyte Gulf. With the cessation of hostilities, she would help with transporting troops back to the US before reporting for decommissioning in 1946. Notably, Pensacola was one of the few ships that served through the whole war without missing any major battles, and also received 16 battle stars; one of the most decorated USN ships of WW2.
+
+USS Portland was introduced in [[Update 1.97 "Viking Fury"]]. Compared to other heavy cruisers of the rank like the [[USS Pensacola]] that it precedes, it has a smaller battery of 9 x {{Annotation|8-inch|203 mm}} guns. In exchange, it gains extra {{Annotation|1.1-inch|28 mm}} and 20 mm guns, granting a much stronger anti-aircraft battery than measly heavy machine guns. The main weakness however is the weak armour, less than that of many light cruisers, as it had to be sacrificed to gain an {{Annotation|8-inch|203 mm}} battery on treaty-era heavy cruisers.
 
 == General info ==
 === Survivability and armour ===

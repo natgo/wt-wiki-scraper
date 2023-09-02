@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''M24 Chaffee (formally Light Tank, M24)''' is a U.S. light tank that served during World War II; it was also used in post-war wars such as the Korean War and by the French in the War in Algeria and the First Indochina War. Under World War II's lend-lease program, a small number of [[M24]] light tanks were shipped to China for the Chinese Nationalist Army. When the Korean War broke out in 1950, U.S. President Truman declared military aid to Taiwan. The United States exported 295 M18 tank destroyers in 1952, followed by 289 M24 light tanks. This late World War II tank gradually became obsolete during the Cold War era; therefore, different modifications were performed to make it combat-ready in Taiwan. During the late 1900s, Taiwan had a maximum of roughly 325 tanks in service.
+
+Introduced in [[Update 1.91 "Night Vision"]], the M24 represented a substantial improvement in light tank design philosophy, bringing its firepower up to par with medium tanks. During World War II, it was widely regarded as the best and most successful light tank design. The M24 provides a comfortable experience in-game, striking an ideal balance between strong firepower, good speed, and appropriate protection. Since it is a light tank by nature, it is not expected to engage and exchange shots with enemy tanks directly, but rather to use its swift mobility to quickly secure flanks at the outset of the engagement. This is a good light tank that will provide Chinese Army ground forces with respectable firepower entering rank II.
 
 == General info ==
 === Survivability and armour ===
@@ -179,6 +181,7 @@ In December 1950, the Chinese People's Volunteer Army seized an intact US M24 "C
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m24_chaffee Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -187,6 +190,7 @@ In December 1950, the Chinese People's Volunteer Army seized an intact US M24 "C
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[AMX-13 (FL11)]]
 
 == External links ==
@@ -194,6 +198,7 @@ In December 1950, the Chinese People's Volunteer Army seized an intact US M24 "C
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

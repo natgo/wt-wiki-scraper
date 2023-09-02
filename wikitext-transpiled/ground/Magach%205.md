@@ -35,6 +35,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+
 * Suspension wheels, tracks and torsion bars are 20 mm thick.
 * The turret ring is 70 mm thick.
 * "Blazer" ERA is 5 mm effectively thick.
@@ -128,7 +129,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Magach 5 is a fairly manoeuvrable MBT but its larger profile makes it easy to spot. The 105 mm Sharir cannon does well at long range shooting, as many tanks in the same BR can be destroyed with a single hit. The Magach 5 fares well in an urban setting with a fairly quick turret traverse and powerful ammo, however it is not the fastest and should have teammates nearby to cover the flanks. The front ammo stowage is the biggest detriment to the tanks survival in a frontal hit, so the ammo count should kept as low as possible. Overall, this tank is just right for most environments with it being most vulnerable to comparable ammo from other Western nations.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

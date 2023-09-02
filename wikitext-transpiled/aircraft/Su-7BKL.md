@@ -149,22 +149,47 @@ The Su-7BKL comes equipped with 2 x 30 mm NR-30 cannons; these will be familiar 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|ZB-360 incendiary}}
-{{main|S-3K|S-5K|S-24}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[ZB-360 incendiary]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[S-3K]] rockets
+| 7 || 7 || 7 || 7 || 7 || 7
+|-
+! [[S-5K]] rockets
+| 16, 32 || 16 || 16, 32 || 16, 32 || 16 || 16, 32
+|-
+! [[S-24]] rockets
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 96 x S-5K rockets
-* 160 x S-5K rockets
-* 6 x S-24 rockets
 * 42 x S-3K rockets
+* 96 x S-5K rockets
+* 128 x S-5K rockets
+* 6 x S-24 rockets
 * 6 x 250 kg OFAB-250sv bombs (1,500 kg total)
 * 4 x 500 kg FAB-500M-54 bombs (2,000 kg total)
-* 4 x 500 kg FAB-500M-54 bombs + 2 x 250 kg OFAB-250sv bombs (2,500 kg total)
 * 4 x ZB-360 incendiary bombs
+{{Navigation-End}}
 
-As a strike aircraft, the SU-7BKL has access to an array of ground-focused armaments, notably lacking air-to-air missiles.
+As a strike aircraft, the Su-7BKL has access to an array of ground-focused armaments, notably lacking air-to-air missiles.
 
 The Su-7BKL gains access to S-5K, S-3K, and S-24 rockets in various quantities. The S-5K is the first rocket pilots will unlock; these are in a rocket pod, and pilots will gain access to pods of 16 or 32 rockets, with loadouts including either 96 or 160 rockets. These rockets are very small with a mass of only 3 kg, and only 150 mm penetration from the charge. Pilots are recommended to use the large quantities of rockets to fire salvos of rockets instead of attempting to destroy targets with a single pair, as these very small rockets are unlikely to reliably do so. The next rocket is the S-3K, these are larger rockets not found in pods, instead being mounted on rails attached to the pylons. These are much more substantial rockets, with a mass of 23 kg and 300 mm penetration. Volley fire may still be preferred as 42 rockets can be mounted, but single hits are more likely to destroy enemy armour than the smaller S-5K. The S-24 is the final rocket the Su-7BKL gains access to, a large rocket weighing 235 kg and with more explosive mass than a 50 kg bomb. This is very effective against enemy armour and is rather accurate as well, allowing pilots to use the rocket {{Annotation|CCIP|Computer-Calculated Impact Point}} to hit targets from 2-3 km away; enabling pilots to keep their distance from enemy air defense. These rockets can also be used with a distance fuse, allowing it to detonate at a specific distance. This can either be used above the ground to hit soft targets behind cover, or in the air against aircraft, giving the Su-7BKL additional firepower against enemy aircraft. 6 of these rockets are mounted directly on the weapons pylons. 
 
@@ -192,7 +217,7 @@ When flying the Su-7BKL, equip the 6 x S-24 rockets (as a single hit from these 
 
 ; '''Enemies worth noting'''
 
-[[A-10A]] / [[A-10A Late]]: these American strike aircraft might seem slow but they have access to the mid-range and fast [[AIM-9L Sidewinder]] air-to-air missiles which are very accurate. It's almost impossible to dodge them even when flying above Mach 1.1. It's best to keep a distance from the A-10s, as the missiles have an all-aspect tracking and dodging them in a head-on is close to impossible. The best way to defeat the A-10 is from behind, as even from the sides the A-10 can quickly turn around and fire a missile. When coming at it from behind, approach as fast as possible as the A-10 is slow. Speed is your advantage to quickly win the fight if it doesn't respond fast enough. If you miss the attack, quickly turn back around and hope that the A-10 won't fire its missile at you. After a missed interception it's best to leave the A-10 and go after other targets as now the A-10 is aware of your presence, and going for a second interception would be taking an unnecessary risk.
+[[A-10A]] / [[A-10A Late]]: these American strike aircraft might seem slow but they have access to the mid-range and fast [[AIM-9L Sidewinder]] air-to-air missiles which are very accurate. It's almost impossible to dodge them even when flying above Mach 1.1. It's best to keep a distance from the A-10s, as the missiles have an all-aspect tracking and dodging them in a head-on is close to impossible. The best way to defeat the A-10 is from behind, as even from the sides the A-10 can quickly turn around and fire a missile. When coming at it from behind, approach as fast as possible as the A-10 is slow. Speed is your advantage to quickly win the fight if it doesn't respond fast enough. If you miss the attack, quickly turn back around and hope that the A-10 won't fire its missile at you. After a missed interception it's best to leave the A-10 and go after other targets as now the A-10 is aware of your presence, and going for a second interception would be taking an unnecessary risk.
 
 === Radars ===
 <!--{{main|SRD-5}}-->

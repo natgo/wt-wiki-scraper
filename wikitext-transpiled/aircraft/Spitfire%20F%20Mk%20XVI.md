@@ -5,22 +5,14 @@
 }}
 {{Specs-Card
 |code=spitfire_xvi
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The final Merlin-powered variant of the Spitfire, the Spitfire F Mk XVI was a [[Spitfire LF Mk IX]] equipped with the Packard Merlin 266 engine, a Rolls-Royce Merlin 66 licence-built by the American Packard Motor Company. Notably, the model represented in-game features the new "E-type" wings, which allowed either an all-cannon arrangement like the C-type or installation of M2 Browning heavy machine guns. These could also be "clipped", removing the wingtips to improve low-altitude characteristics at the cost of high-altitude manoeuvrability.
 
-The Spitfire F Mk XVI is a very unique plane with an awkwardly unique role and design. Virtually identical to the [[Spitfire LF Mk IX]], aside from the clipped wings and bubble cockpit, the Mk XVI combines the low-altitude capabilities of the aforementioned fighter with the fantastic roll, dive, and speed capabilities of the German [[Fw 190 (Family)|Focke-Wulfe 190 series]].
-
-The Mk XVI possesses all the characteristics of the LF Mk IX regarding armament and performance at low-altitude. Low-altitude climb acceleration is fantastic, the climb rate is very good, and armament is extremely effective. The main distinguishing feature of the Mk XVI is its clipped wings. These wings give the Mk XVI some distinct advantages- a great roll rate and amazing dive and level speed and acceleration. The roll rate makes evasion a very easy task- rolling manoeuvres can easily evade most tail-end attacks by any fighter in its BR range. Even more, the clipped wings of the XVI provide for very good low-altitude speed and acceleration performance- this fighter climbs like a rocket and dives like a hornet below 1,500 m.
-
-However, the clipped wings can provide some significant disadvantages to flying, as well. Compared to similar Merlin Spitfires the turn rate is far worse, higher-altitude performance is abysmal, and climb performance is worse, though marginally.
-
-Weaponry is standard, except for the 2 x Browning M2 12.7 mm HMGs that replace the standard 4 x Browning .303 machine guns. As a matter of fact, the two M2s provide a significant increase in firepower. When equipped with Universal or Stealth belts they provide excellent "soft" ground target dispatching performance while proving effective at setting fires due to their high incendiary content. As with most of the Spitfire line, the Mk XVI possesses 2 x Hispano-Suiza Mk.II 20 mm cannons which are highly effective against most fighters, especially when utilising the "Air Targets" or "Stealth" belts.
-
-Thus, the Spitfire F Mk XVI is not a suitable Boom & Zoom nor high-altitude fighter; it works best as a low-altitude fighter-bomber that can effectively take out ground targets while providing good fighter cover. Boom and Run is by far the best-recommended tactic.
+In the game since the start of the Open Beta Test, the Spitfire F Mk XVI is a very unique plane with an awkwardly unique role and design. Virtually identical to the [[Spitfire LF Mk IX]], aside from the clipped wings and bubble cockpit, the Mk XVI combines the low-altitude capabilities of the aforementioned fighter with the fantastic roll, dive, and speed capabilities of the German [[Fw 190 (Family)|Focke-Wulfe 190 series]]. The clipped wings give the Mk XVI a great roll rate and amazing dive and level speed and acceleration. However, compared to similar Merlin Spitfires, the turn rate is far worse, higher-altitude performance is abysmal, and climb performance is worse, though marginally. In terms of armament, the two M2 Brownings also provide a significant increase in firepower compared to the previous quad .303 Browning setup.
 
 == General info ==
 === Flight performance ===

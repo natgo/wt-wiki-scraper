@@ -14,9 +14,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Chinese light tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''M3A3 Stuart 1st Provisional Tank Group (1<sup>st</sup> PTG)''' is the premium third variant of the [[M3 Stuart (Family)|Light Tank M3 (Stuart) family]]. It features hull improvements inspired by the new [[M5 Stuart (Family)|Light Tank M5 (Stuart) family]], which was developed from the Light Tank M3 (Stuart) family (the M3A2 Stuart was never produced). Other enhancements to the original M3 light tank included a turret with a rear overhang to accommodate the SCR-508 radio and a welded hull with sloping armour 20°from the vertical on the front and sides. During World War II, it was part of the Chinese-American 1st Provisional Tank Group of the Chinese Expeditionary Forces (中國遠征軍), where the Chinese Kuomintang government equipped 48 such tanks under the lend-lease program and established the first tank battalion under the "China-U.S. First Temporary Tank Group" stationed in India. This lesser-known battalion received little coverage while fighting in the China-Burma-India theatre (CBI).  While the U.S. Army Air Corps flew crucial supplies from India to China over the Himalayas, the 1st Provisional Tank Group helped the Allies reopen the land route through Japanese-occupied Burma by securing and repairing the Ledo-Burma Road.
 
-A premium variant of the M3A3 in the tech tree with the markings of the Chinese Expeditionary Forces (中國遠征軍)'s 1st Provisional Tank Group, it serves as a small and agile vehicle to harass enemies' flanks and a good scout vehicle for the main forces of your team.
+Introduced in [[Update "Wind of Change"]], the M3A3 light tank is a continuation of the M3 Stuart family that shares many similarities with other U.S. Army light tanks of rank I. It is essentially identical to the Chinese Army ground forces tech tree M3A3 Stuart. Given the presence of sloping armour, the M3A3 provides significantly better protection than other light tanks in its rank. It improves survivability by preventing some small calibre shells from penetrating its frontal armour. However, since it is still a light tank, players should not rely heavily on its armour to exchange shots with adversaries.
 
 == General info ==
 === Survivability and armour ===
@@ -167,6 +167,7 @@ This M3A3 delivery was the from the 2th tank of 3rd Company, 3rd Battalion, numb
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * Skins and camouflages for the [[M3A3 Stuart (China)#Media|M3A3 Stuart (China)]] can be used for the {{PAGENAME}}.
 
 == See also ==

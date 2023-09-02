@@ -23,7 +23,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Bat
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 5,486 m)
+! colspan="2" | Max speed<br>(km/h at 7,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -32,10 +32,10 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Bat
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 626 || 604 || rowspan="2" | {{Specs|ceiling}} || 22.1 || 22.9 || 8.8 || 8.8 || rowspan="2" | 250
+| 656 || 633 || rowspan="2" | {{Specs|ceiling}} || 25.1 || 25.9 || 8.8 || 8.8 || rowspan="2" | 251
 |-
 ! Upgraded
-| 685 || 653 || 20.0 || 21.0 || 16.8 || 12.3
+| 715 || 683 || 23.0 || 24.0 || 16.8 || 12.3
 |-
 |}
 

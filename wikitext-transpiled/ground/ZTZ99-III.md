@@ -35,39 +35,45 @@ As a last note, the GL-7 laser dazzler is physically modeled on the left side of
 '''Armour type:'''
 
 * Rolled homogeneous armour (hull, turret cheeks, turret roof, cupolas)
-* Cast homogeneous armour (turret, gun mantlet)
+* Cast homogeneous armour (turret, gun mantlet, driver hatch)
+* Rubber-fabric screens (side skirts)
+* Structural steel (slat armour)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 20+80 mm (70°) ''Upper front'' <br> 80 mm (60°) ''Lower front'' || 80 mm ''Top'' <br> 20 mm (21°) ''Bottom'' || 45 mm (10°) ''Upper plate'' <br> 45 mm (45°) ''Lower glacis'' <br> 20 mm ''Engine vent'' || 20+80 (20°) ''Front glacis'' <br> 30 mm ''Driving compartment'' <br> 20 mm ''Engine compartment'' <br> 5 mm ''Engine vents''
+| Hull || 20 mm (70°) ''Upper front'' <br> 80 mm (60°) ''Lower front'' || 80 mm ''Top'' <br> 20 mm (21°) ''Bottom'' || 45 mm (10°) ''Upper plate'' <br> 45 mm (45°) ''Lower glacis'' <br> 20 mm ''Engine vent'' || 20+80 (20°) ''Front glacis'' <br> 30 mm ''Driving compartment'' <br> 20 mm ''Engine compartment'' <br> 5 mm ''Engine vents''
 |-
 | Turret || 220 mm ''Turret front'' <br> 310 mm ''Gun mantlet'' || 80 mm (volumetric) || 35 mm || 30-50 mm
 |-
 | Cupola || colspan="3" | 45 mm (cylindrical) || 35 mm
 |-
 |}
+
 {| class="wikitable"
 ! Composite armour !! Frontal effective protection
 |-
-| Hull || '''Upper glacis:''' <br> mm ''Kinetic'' / mm ''Chemical''
+| Hull ||'''Upper glacis (ERA counted):''' <br> 500-850 mm ''Kinetic'' / 700-1300 mm ''Chemical''
 |-
-| Turret || '''Turret front:''' <br> mm ''Kinetic'' / mm ''Chemical''
+| Turret ||'''Turret front (ERA counted):''' <br> 400-700 mm ''Kinetic'' / 400-1200 mm ''Chemical'' <br> '''Gun mantlet:''' <br> 30-400 mm ''Kinetic'' / 60-400 mm ''Chemical''
 |}
+
 {| class="wikitable"
 ! FY-4 Explosive reactive armour !! Front (Slope angle) !! Sides
 |-
 | Hull ||'''Upper glacis:''' <br> 140 mm ''Kinetic''/ 450 mm ''Chemical''
 !
 |-
-| Turret || 140 mm ''Kinetic''/ 450 mm ''Chemical'' || 50 mm ''Kinetic'' / 350 mm ''Chemical''
+| Turret ||'''Turret front:''' <br> 140 mm ''Kinetic''/ 450 mm ''Chemical'' || '''Rear side:''' <br> 50 mm ''Kinetic'' / 350 mm ''Chemical''
 |-
 |}
+
 '''Notes:'''
 
 * Suspension wheels, tracks, and torsion bars are 20 mm thick.
-* Side skirts are 8 mm thick.
+* Side skirts are 8 mm thick, and slat armour on the turret sides and rear is 10 mm thick.
+* A log placed at the rear of the hull is 100 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

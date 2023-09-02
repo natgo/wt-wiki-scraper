@@ -142,21 +142,82 @@ As a premium vehicle, the MiG-23ML comes with all modifications unlocked. All pr
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
-** 1 x 23 mm GSh-23L cannon + 72 x large calibre countermeasures
+* 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
+* 60 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
-{{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary}}
-{{main|S-5K|S-8KO|S-24B|GSh-23L (23 mm)}}
-{{main|R-23R|R-23T|R-24R|R-24T}}
-{{main|Kh-23M|R-13M1|R-60M}}
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="19" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-23MLA (Germany).png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| 1 || || || || 1
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| 4 || 4<sup>¶</sup> || || 4<sup>¶</sup> || 4
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| 1 || 1 || || 1 || 1
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| 1 || || || || 1
+|-
+! [[ZB-500 incendiary]] bombs
+| 1 || || || || 1
+|-
+! [[S-5K]] rockets
+| 16, 32 || 16 || || 16 || 16, 32
+|-
+! [[S-8KO]] rockets
+| 20 || || || || 20
+|-
+! [[S-24B]] rockets
+| 1 || 1 || || 1 || 1
+|-
+! [[Kh-23M]] missiles
+| 1* || || || || 1*
+|-
+! [[R-13M1]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-23R]] missiles
+| 1<sup>‡</sup> || || || || 1<sup>‡</sup>
+|-
+! [[R-23T]] missiles
+| 1<sup>†</sup> || || || || 1<sup>†</sup>
+|-
+! [[R-24R]] missiles
+| 1<sup>†</sup><sup>‡</sup> || || || || 1<sup>†</sup><sup>‡</sup>
+|-
+! [[R-24T]] missiles
+| 1<sup>†</sup><sup>‡</sup> || || || || 1<sup>†</sup><sup>‡</sup>
+|-
+! [[R-60M]] missiles
+| 1 || 2 || || 2 || 1
+|-
+! Large calibre countermeasures
+| || || 12 || ||
+|-
+! Delta-NG targeting pod
+| || 1* || || ||
+|-
+! 800 l drop tanks
+| || || 1<sup>¶</sup> || ||
+|-
+| colspan="7" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles <br> <sup>†</sup> R-24R missiles cannot be equipped together with R-23T or R-24T missiles <br> <sup>‡</sup> R-24T missiles cannot be equipped together with R-23R or R-24R missiles  <br> <sup>¶</sup> The drop tank cannot be equipped in conjunction with quad bombs on adjacent hardpoints
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 800 l drop tank
+* 12 x large calibre countermeasures
 * 4 x R-13M1 missiles
 * 6 x R-60M missiles
 * 4 x R-60M missiles + 2 x R-23T missiles
@@ -175,63 +236,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x S-24B rockets
 * 2 x Kh-23M missiles
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-23MLA (Germany).png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| 1 || || || 1
-|-
-! 100 kg OFAB-100 bombs
-| 4 || 4 || 4 || 4
-|-
-! 250 kg FAB-250M-62 bombs
-| 1 || 1 || 1 || 1
-|-
-! 500 kg FAB-500M-62 bombs
-| 1 || || || 1
-|-
-! ZB-500 incendiary bombs
-| 1 || || || 1
-|-
-! S-5K rockets
-| 16, 32 || 16 || 16 || 16, 32
-|-
-! S-8KO rockets
-| 20 || || || 20
-|-
-! S-24B rockets
-| 1 || 1 || 1 || 1
-|-
-! Kh-23M missiles
-| 1* || || || 1*
-|-
-! R-13M1 missiles
-| 1 || 1 || 1 || 1
-|-
-! R-23R missiles
-| 1<sup>‡</sup> || || || 1<sup>‡</sup>
-|-
-! R-23T missiles
-| 1<sup>†</sup> || || || 1<sup>†</sup>
-|-
-! R-24R missiles
-| 1<sup>†</sup><sup>‡</sup> || || || 1<sup>†</sup><sup>‡</sup>
-|-
-! R-24T missiles
-| 1<sup>†</sup><sup>‡</sup> || || || 1<sup>†</sup><sup>‡</sup>
-|-
-! R-60M missiles
-| 1 || 2 || 2 || 1
-|-
-! Delta-NG targeting pod
-| || 1* || ||
-|-
-| colspan="6" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles <br> <sup>†</sup> R-24R missiles cannot be equipped together with R-23T or R-24T missiles <br> <sup>‡</sup> R-24T missiles cannot be equipped together with R-23R or R-24R missiles
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

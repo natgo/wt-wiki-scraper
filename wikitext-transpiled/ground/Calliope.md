@@ -5,15 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American medium tank {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]]. Though using the base model of a [[M4|M4 Sherman]], it has a 60 round rocket rack sitting above the turret that fires 114 mm rockets at a general location. While giving the team a good edge in firepower, the rocket rack also presents a large weak point that can be targeted with a high-explosive round for an ammo-rack detonation.
+The '''Rocket Launcher T34 (Calliope)''' was a special modification of the second variant of the early-generation [[M4 Sherman (Family)|Medium Tank M4 (Sherman) family]]. The U.S. Ordnance Department initiated a series of projects experimenting with the attachment of rocket launchers to the [[M4|M4 Sherman]], in order to provide enhanced firepower to its infantry. Despite the fact that its 75 mm M3 tank gun was capable of firing very efficient ammunition, it was unable to handle massive waves of assaulting enemies. Furthermore, it was also insufficient against the Germans' heavily entrenched strongholds. Although not as precise as traditional artillery, rockets can cover a bigger area in less time with explosives and shrapnel, saturating a target in seconds. Rockets also have a negative psychological impact on enemies under rocket attack because of the howling sounds they make as they fly through the air. The most renowned of these tank-mounted rocket launchers was the Rocket Launcher T34, which was called "Calliope" after the Steam Organ due to the deafening roar that burst from the tubes when the rockets were fired.
 
-This vehicle has guide rails for 114 mm M8 rockets mounted on an M4 tank turret. The main cannon is still usable at any time.
-
-The rocket armaments greatest disadvantage is the inaccuracy, despite its fin-stabilized tail. There is no guidance system, thus every barrage needs to be fired in an arc, greatly increasing the warhead dispersion. Furthermore, the stabilizing fins showed little impact in lateral guidance when fired from the ground, in comparison with their aerial version.
-
-Another drawback is the small warhead with only a 1.9 kg of high explosive filler. Adequate against barricades and entrenchments, but lacking in stopping power against heavy armoured vehicles such as tanks and pillboxes. It is recommended to use multiple rockets on even medium tanks. Additionally, as with any other ground vehicle firing unguided rockets, the weapon will present a very loud but distinct firing signature, allowing enemies to identify the type of vehicle as well as its location on the map. The distinct smoke trail from fired rockets can also reveal the position of the vehicle. However, the higher fire rate of the M8 rockets allows for multiple volleys of rockets to be fired quickly at a target. The ensuing flash, fire and smoke effects from constant barrage against a target can temporarily blind targets and thus can be used as an emergency smoke screen. This rocket launcher system allowed fire not only from a defilade position but also from point-blank range.
-
-Drawbacks are the inaccuracy of the volleys due to arc fire and the lack of anti-tank damage. The warheads are pure HE, thus they need to hit thinly armoured areas, like rooftops and armour hulls above the tracks to be able to deal with any sort of damage. You may wish to get close to a target before firing a volley to have the best chance of your barrage hitting the target.
+Introduced in [[Update 1.49 "Weapons of Victory"]], the Calliope is a unique modified M4 Sherman capable of firing rockets (60 rockets in total) at adversaries as a secondary weapon. Originally designed for anti-infantry use, the 114 mm M8 rockets with high-explosive (HE) warhead rockets carry high explosive warheads that can effectively destroy light enemy vehicles and damage heavier armoured targets sufficiently to make the enemy's repair time extremely long and miserable. It is advised to use many rockets on enemies since a single rocket is frequently insufficient to damage them. Furthermore, the weapon, like any other ground vehicle firing unguided rockets, would emit an extremely loud but distinct firing signature, allowing opponents to identify the type of vehicle as well as its location on the map. The unique smoke trail left by fired rockets might potentially reveal the player's location. However, the M8 rockets' faster fire rate enables many volleys of rockets to be fired at a target in rapid succession. The resulting flash, fire, and smoke effects of continuous bombardment on a target can temporarily blind targets and can thus be employed as an emergency smoke cover. However, the rocket should not be used as a primary anti-tank weapon because it lacks the explosive strength and penetration to successfully destroy tanks. The Calliope's primary weapon is the 75 mm M3 tank cannon, which is more than capable of engaging most opponents in its ranks.
 
 == General info ==
 === Survivability and armour ===
@@ -205,6 +199,7 @@ A jet-powered volley-fire system on the base of regular Sherman tank, it receive
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_m4_sherman_calliope Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -216,9 +211,11 @@ A jet-powered volley-fire system on the base of regular Sherman tank, it receive
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[M4 Sherman (Family)|Related development]]
+
 * [[M4]]
 
 ;Other vehicles of similar configuration and role
+
 * [[15 cm Pz.W.42]]
 * [[BM-13N]]
 * [[Cromwell V (RP-3)]]

@@ -37,7 +37,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=942|rbMinHp=538}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,8 +49,6 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Royal Ordnance L7A1 (105 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[Royal Ordnance L7A1 (105 mm)|105 mm Royal Ordnance L7A1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -60,10 +58,10 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 44 || rowspan="2" | -7°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 44 || rowspan="2" | -7°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 26.4 || 36.5 || 44.3 || 49.0 || 52.2 || rowspan="2" | 6.50 || rowspan="2" | 5.75 || rowspan="2" | 5.30 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 16.5 || 19.4 || 23.5 || 26.0 || 27.7
 |-
 |}
 
@@ -93,15 +91,13 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
 {{main|L21A1 (12.7 mm)}}
 
-''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.''
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[L21A1 (12.7 mm)|12.7 mm L21A1]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 600 (3) || 300 || - || -
 |-
 |}
 
@@ -111,15 +107,13 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|L3A1 (7.62 mm)|L37A1 (7.62 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[L3A1 (7.62 mm)|7.62 mm L3A1]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 3,000 (250) || 500 || - || -
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -128,7 +122,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 1,000 (100) || 650 || -10°/+30° || ±60°
 |-
 |}
 
@@ -166,9 +160,8 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+
+* [[wt:en/news/8301-development-vijayanta-armour-from-india-en|[Devblog] Vijayanta: Armour from India]]
 
 {{Britain medium tanks}}
 {{Britain premium ground vehicles}}

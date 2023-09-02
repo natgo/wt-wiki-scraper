@@ -24,7 +24,7 @@ The probability of being hit is proportional to the plane's overall size: this i
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 12,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -33,7 +33,7 @@ The probability of being hit is proportional to the plane's overall size: this i
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | 750
+| 2,227 || 2,192 || rowspan="2" | {{Specs|ceiling}} || 27.6 || 28.3 || 181.9 || 173.2 || rowspan="2" | 750
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -86,35 +86,35 @@ The probability of being hit is proportional to the plane's overall size: this i
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | Shenyang Liming WP-13B-II || 2
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | 9,977 kg || colspan="2" | 340 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 8m fuel || 20m fuel || 28m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 1,170 kg || colspan="2" | Afterburning axial-flow turbojet
+| 11,273 kg || 12,972 kg || 14,297 kg || 16,745 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="4" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 8m fuel || 20m fuel || 28m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 4,743 kgf || 6,967 kgf
+| 1.24 || 1.07 || 0.97 || 0.80
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 4,812 kgf<br>(1,365 km/h) || 8,003 kgf<br>(1,200 km/h)
+| 1.42 || 1.23 || 1.12 || 0.92
 |-
 |}
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-Like most jets of its era, the J-8F still retained certain degree of extra protection due to its late introduction in the early 2000s on a rather obsolete airframe. Meanwhile, some standard equipment like self-sealing tanks are still present.
+Like most jets of its era, the J-8F still retained certain degree of extra protection due to its late introduction in the early 2000s on a rather obsolete airframe. Meanwhile, some standard equipment like self-sealing tanks and bulletproof glass are still present.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -221,13 +221,15 @@ A little fact to the J-8II series: there were competitions for the new PLAAF str
 * Sufficient payload for occasional ground-attack operations
 * Retained the same, if not better manoeuvrability from J-8B
 * High top speed
+* First-stage afterburner is surprisingly efficient, providing relatively high thrust for minimal fuel consumption
 
 '''Cons:'''
 
-* Lacks any form of radar-guided weaponries
+* Lacks any form of radar-guided weaponry
 * Rather large target due to its long airframe
 * Relatively small ammo pool
-* Delta wing design and its size bleeds speed severely in manoeuvres
+* Delta wing design and its size cause severe speed bleeding in manoeuvres
+* Any damage to the tail or rear of the airframe, especially the elevators, can result in the aircraft being very difficult to control or completely disabled
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -243,22 +245,26 @@ As the production of new 4th generation fighters are in steady pace, all the fro
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=j_8f Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|p_25MEJkZQc|'''The Shooting Range #364''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[J-8B]] - J-8II Block 2 with monopulse radar and lesser missile payload
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8271-development-j-8f-jet-fighter-and-future-plans-on-the-bvraams-en|[Devblog] J-8F jet fighter and future plans on the BVRAAMs]]
 
 {{AirManufacturer Shenyang}}
 {{China jet aircraft}}

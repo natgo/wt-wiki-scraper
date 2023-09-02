@@ -78,7 +78,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * Without load
 * 2 x AIM-9L Sidewinder missiles
-* 8 x ATAS (AIM-92) missiles
+* 4 x ATAS (AIM-92) missiles
 * 76 x Hydra-70 M247 rockets
 * 28 x APKWS II (M151) missiles
 * 28 x APKWS II (M282) missiles
@@ -107,7 +107,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 | || 7 || 7 || 7 || 7 ||
 |-
 ! ATAS (AIM-92) missiles
-| 4 || || || || || 4
+|2|| || || || ||2
 |-
 |}
 
@@ -199,7 +199,9 @@ Following this, work on refining the YAH-64's design continued throughout the la
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 
 
 ;Videos
@@ -211,6 +213,7 @@ Following this, work on refining the YAH-64's design continued throughout the la
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[AH-64 (Family)]]
 
 == External links ==
@@ -221,10 +224,12 @@ Following this, work on refining the YAH-64's design continued throughout the la
 * [[wt:en/news/6638-development-ah-64-apache-the-rotary-chieftain-en|[Devblog] AH-64 Apache: The Rotary Chieftain]]
 
 === References ===
+
 ;Citations
-<references/>
+<references />
 
 ;Bibliography
+
 * Editors of Vertipedia. (2020). Vertipedia - Boeing AH-64A Apache. Retrieved November 20, 2020, from <nowiki>https://vertipedia.vtol.org/aircraft/getAircraft/aircraftID/31</nowiki>
 * Pike, J. (2000, May 29). AH-64 Apache. Retrieved November 20, 2020, from <nowiki>https://fas.org/man/dod-101/sys/ac/ah-64.htm</nowiki>
 

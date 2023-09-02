@@ -202,8 +202,8 @@ The Italian F-104G, unlike other F-104, carries chaff and flares so players also
 
 Recommended payloads:
 
-* 2x AIM-9J for air battles
-* 1x 2000 lb, 2x 1000 lb, AIM-9J for mixed battles to shoot down planes and destroy tanks with the bombs tanks
+* 2 x AIM-9J for air battles
+* 1 x 2,000 lb, 2 x 1,000 lb, AIM-9J for mixed battles to shoot down planes and destroy tanks with the bombs tanks
 
 '''Air RB:'''
 
@@ -222,7 +222,7 @@ When using the F-104G, remember to stay at lower altitude to avoid enemy anti-ai
 * Great rate of climb
 * Good roll rate
 * Powerful M61 Vulcan cannon with a very high fire rate, great ballistics and high damage
-* Wide selection of secondary ordnance; much better than earlier F-104s and excelent for a bombing or ground-attack role
+* Wide selection of secondary ordnance; much better than earlier F-104s and excellent for a bombing or ground-attack role
 * Has a ballistic computer for every weapon
 * Access to two potent AIM-9J sidewinder air-to-air missiles
 * Access to 60 chaff/flare countermeasures
@@ -230,8 +230,8 @@ When using the F-104G, remember to stay at lower altitude to avoid enemy anti-ai
 
 '''Cons:'''
 
-* Insanely poor maneuverability in almost any speed, it's a F-104
-* Compared to other F-104G variants, it's only capable of equipping only 2x air-to-air missiles
+* Insanely poor manoeuvrability at almost any speed
+* Compared to other F-104G variants, it's only capable of equipping 2 air-to-air missiles
 * Large turning radius due to small wing surface and high speed
 * High takeoff and landing speeds
 * Only has 3 pylons for air-to-ground ordnance
@@ -240,9 +240,9 @@ When using the F-104G, remember to stay at lower altitude to avoid enemy anti-ai
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 The story of the Italian F-104G originally began in America. In February of 1954 at the Lockheed facilities in America, the first 2 prototypes of the F-104 would take flight for the first time. America was looking to develop a new aircraft to combat the Soviet's new age of supersonic jet fighters. The aircraft would incorporate the smallest possible airframe with the most technologically advanced turbojet at the time, to create the base of what would become the F-104. Although the program would have some minor setbacks, such as the intended engine not being available during the beginning, development would continue and would lead to the first variant of the F-104, the F-104A. From the base variant of the F-104 many variants would begin to be developed, such as the F-104C, the F-104S and in this case, the F-104G.
-[[File:F-104G MM.6546 Ferrari .png|thumb|'''''F-104G (MM.6546) for the Ferrari competition''''']]
+[[File:F-104G MM.6546 Ferrari .png|thumb|F-104G (MM.6546) for the Ferrari competition]]
 The main differences of the G variant compared to the others would be a reinforced airframe, larger vertical stabilizer, updated turbofans, and improved electronics. Due to these changes, the F-104G would be known as the "definitive" variant of the Starfighter. The G would first take flight on October of 1960, it would initially be built for the German Luftwaffe as at the time they were looking for a fast aircraft which would be able to deliver nuclear payloads, however that didn't stop it from generating enough interest to be exported and licence-produced in many countries, such as in Italy. The aircraft's licensing was handled by multiple manufacturers, notably Messerschmitt-Bölkow-Blohm (MBB), FIAT Aviazione, Fokker, and Sociétés Anonyme Belge de Constructions Aéronautiques (SABCA).
-[[File:F-104G 4°Stormo.png|thumb|'''''F-104G of the 4°Stormo''''']]
+[[File:F-104G 4°Stormo.png|thumb|F-104G of the 4°Stormo]]
 The first aircraft (MM 6501) was delivered to Italy on March 3rd of 1961. It was built by Lockheed, however after being transferred to Italy it was dismantled and used as a model for the construction under license of the 105 units ordered by the Italian Air Force. Aeritalia ended up producing a total of 230 Starfighters in different versions, of which 124 would be made for the Italian Air Force. The F-104G in Italian service was mainly used as an all-weather interceptor armed with AIM-9B Sidewinder infrared guided air-to-air missiles. Other departments instead used the F-104G as a conventional or strike fighter-bomber. The F-104G would eventually be replaced in these roles by the "Tornado IDS", the F-104Gs were concentrated at the 3rd Aerobrigata (later 3rd Stormo) which already used the RF-104G reconnaissance variant. A unit of F/RF-104G of the 3rd Wing took part in the 1991 Gulf War, operating from the Turkish base of Incirlik. Most of the F-104G's would be turned into static displays or kept in museums, for example one resides in Vigna di Valle Airforce museum, this one was the first entirely Italian-built F-104G which first flew on the 5th October of 1962.
 
 == Media ==

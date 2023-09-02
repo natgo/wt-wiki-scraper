@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was released along with the entire British tree line in [[Update 1.55 "Royal Armour"]]. An upgrade over the previous [[Centurion Mk 3]], the Mk 10 boasts slightly better frontal armour and a more powerful [[L7A1 (105 mm)|105 mm L7A1 gun]], but remains a vulnerable target in the Rank V battles.
+The '''Centurion Mk 10''' was the tenth variant of the [[Centurion (Family)|Centurion medium tank family]]. Every new Centurion manufactured starting from the Centurion Mk 5/2 variant was equipped with the 105 mm Royal Ordnance L7A1 tank gun. The 105 mm Royal Ordnance L7A1 tank gun, officially known as Gun, 105 mm, Tank, L7, was the most successful British tank gun. It was designed for use in armoured fighting vehicles and replaced the earlier 84 mm QF 20-pounder tank cannon fitted in British Centurion tank variants from the [[Centurion Mk 3|Mk 3]] to [[Centurion Mk.5/1|Mk 5/1]]. This successful tank gun was installed on a variety of armoured vehicles, notably the Centurion (beginning with the Mk 5/2 variant), the German Army [[Leopard 1 (Family)|Leopard 1]], and, in a modified form, the M68 cannon in numerous types of the U.S. Army's [[M48 Patton (Family)|M48 Patton]] and [[M60|M60 main battle tanks]]. Vickers created the Centurion Mk 10 in 1959. It was serially produced from 1960 to 1972. It is used by armies in the United Kingdom, South Africa, Egypt, Australia, Denmark, Israel, Canada, Iraq, India, Jordan, Kuwait, Lebanon, the Netherlands, Switzerland, and Sweden. It was used in battles in the Vietnam War in 1965, the Middle East in 1970, and the Iran-Iraq war in 1980.
+
+Introduced in [[Update 1.55 "Royal Armour"]], the Centurion Mk 10 has increased firepower over earlier Centurion variants. As one of the first tanks to be equipped with the 105 mm Royal Ordnance L7A1 tank gun, it equips players with devastating firepower that will undoubtedly destroy any opponent's tanks. Ammunition options are limited to armour-piercing discarding sabot (APDS) or high explosive squash head (HESH) rounds. Nonetheless, with a staggering 350 mm of armour penetration for the primary anti-tank ammunition, the Centurion Mk 10 is capable of dealing with any foe on the battlefield. However, the mobility of all Centurions is below average, owing to the tank's enormous weight combined with a low horsepower engine. The playstyles are quite similar to the Centurion Mk 3, with nearly identical armour arrangement.
 
 == General info ==
 === Survivability and armour ===
@@ -200,6 +202,7 @@ The Centurion was also well known for being used in a nuclear test in 1953. A [[
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_mk_10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -211,6 +214,7 @@ The Centurion was also well known for being used in a nuclear test in 1953. A [[
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[Centurion (Family)]]
 
 == External links ==

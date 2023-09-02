@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''Amphibious Vehicle, Tracked, Armoured, Mark 4, 57 mm ZiS-2 - LVT(A)(4)(ZiS-2)''' is a special modification of the fourth armoured, infantry support variant of the [[LVT (Family)|Amphibious Vehicle, Tracked - LVT]]. The LVT(A)(4)(ZiS-2) was modified by the Chinese People's Liberation Army, which was based on the [[LVT(A)(4)]]. During the Chinese Civil War, the Chinese Nationalist Army deployed a large number of LVT(4)s and LVT(A)(4)s. Following the defeat of the Chinese Nationalist Army in 1949, the Chinese People's Liberation Army captured many of the LVT(4)s and LVT(A)(4)s. The Chinese People's Liberation Army removed the original turret mounting the 75 mm M2 howitzer and replaced it with the high-velocity 57 mm ZIS-2 anti-tank gun for dual anti-tank and infantry support purposes after the US stopped supplying ammunition for the original LVT(A)(4) to China after the Chinese Civil War ended.
 
-An [[LVT(A)(4)]] captured by the Chinese PLA and refitted with a Soviet ZiS-2 anti tank gun, the LVT(A)(4) (ZiS-2) carries strong firepower, albeit with a huge silhouette and poor armour. The ZiS-2 can penetrate and even knock out most opponents with a single shot, though it is slower to reload than its Soviet counterparts, the [[ZiS-30]] and [[SU-57B]]. As such, the LVT(A)(4) (ZiS-2) works well as a medium-range sniper, where it can take advantage of its high-velocity gun, while minimizing its weaknesses.
+Introduced in [[Update 1.91 "Night Vision"]], the LVT(A)(4) (ZiS-2) will provide Chinese Army ground forces players with a very unusual tank that combines U.S. and Soviet philosophies. Despite its light armour, the LVT(A)(4) (ZiS-2) proved to be a formidable opponent when matched against opponents of similar ranks. The high-velocity 57 mm ZiS-2 anti-tank gun allows players to engage opponents from a significantly greater range than the original LVT(A)(4). The tank, however, is extremely vulnerable to aircraft strafing and artillery hits because of its high profile and open-top turret.
 
 == General info ==
 === Survivability and armour ===
@@ -102,6 +102,7 @@ The gun rotation speed is around ~8°/s which is adequate when using this tank a
 |}
 
 ==== Ammunition ====
+
 * The stock BR-271 APHEBC shell performs excellently with its great penetration of ~143 mm and 21.5 g explosive filler. As such it can easily penetrate all tanks around this BR from the front, and cripple or destroy them with a single shot. The shell will follow a straight trajectory at a high velocity meaning it is a great long range weapon.
 * The researchable BR-271K APHE shell has similar close-range penetration, velocity, and trajectory. It has a tiny bit more explosive filler (27.7 g) with a trade-off of a little worse ricochet angle and poorer long-range penetration. Thus the stock round will be effective for the great majority of the time.
 * The O-271 HE shell is ineffective against conventional tanks due to its small explosive filler of only 220 g. Its blast and shrapnel are only useful when landing next to unarmoured vehicles like [[GAZ-AAA (DShK)|GAZ-AAA (DshK)]], [[Sd.Kfz. 6/2|Sd.Kfz 6/2]], [[Chi-Ha LG]], [[15cm sIG 33 B Sfl]], etc. It is not recommended to bring more than 4 of these rounds, as your hull MG can also finish the exposed crews on these vehicles.
@@ -186,7 +187,7 @@ This way you can sit at a comfortable spot, stay away from most dangers and targ
 '''Cons:'''
 
 * Poor Survivability
-** Massive hull means a huge silhouette, rather easy to spot and hit 
+** Massive hull means a huge silhouette, rather easy to spot and hit
 ** Very thin armour, can be penetrated by any cannon/heavy MG
 ** Easily destroyed with overpressure by large-calibre HE and HEAT rounds
 ** The crew in the open-topped turret are very close together, meaning they can be taken out in a single shot or by aircraft
@@ -203,7 +204,7 @@ Even before the first prototype had been tested, Roebling had started designing 
 
 Combat experience with the LVT(A)(1) soon showed that the 37 mm gun was insufficient for fire support purposes, so the original M3 Stuart turret was replaced by that of a 75 mm Howitzer Motor Carriage M8, creating the LVT(A)(4) variant, of which 1890 were built. Of these, several dozen were delivered to Nationalist China under the Lend-Lease Agreement.
 
-In KMT service, the LVT(A)(4) ended up being used both against the Japanese forces during World War II, as well as against the PLA during the ensuing civil war. Most of them eventually fell into PLA hands. The lack of western supplies meant that ammo soon became sparse for the 75 mm M3 Howitzer gun mounted by the LVT(A)(4); to keep them useful as well as to bolster the number of available armoured vehicles in the PLA inventory, the LVT(A)(4)s were locally converted to either accept the 37 mm M6 tank gun - essentially retrofitting them to LVT(A)(1) status - or the 57 mm ZiS-2 anti tank gun - identical to the gun used on the [[ZiS-30]] tank destroyer, and technically similar to the ZiS-4 gun used on both the [[T-34-57]] and the [[SU-57B]]. 
+In KMT service, the LVT(A)(4) ended up being used both against the Japanese forces during World War II, as well as against the PLA during the ensuing civil war. Most of them eventually fell into PLA hands. The lack of western supplies meant that ammo soon became sparse for the 75 mm M3 Howitzer gun mounted by the LVT(A)(4); to keep them useful as well as to bolster the number of available armoured vehicles in the PLA inventory, the LVT(A)(4)s were locally converted to either accept the 37 mm M6 tank gun - essentially retrofitting them to LVT(A)(1) status - or the 57 mm ZiS-2 anti tank gun - identical to the gun used on the [[ZiS-30]] tank destroyer, and technically similar to the ZiS-4 gun used on both the [[T-34-57]] and the [[SU-57B]].
 
 The haphazard way in which these conversions took place, as well as the lack of official documents on them, make it unclear how many LVT(A)(4)s were converted. The lack of available spares for their automotive components makes it unlikely that they were used for long, and it is likely they were withdrawn from frontline use as soon as Soviet deliveries of tanks and armoured vehicles started in the early 1950s.
 
@@ -211,6 +212,7 @@ The haphazard way in which these conversions took place, as well as the lack of 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_lvt_4_zis_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -219,6 +221,7 @@ The haphazard way in which these conversions took place, as well as the lack of 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[LVT (Family)|Related development]]
+
 * [[LVT(A)(4) ZIS-2 (USA)]] - Identical gift vehicle in the US tree
 
 == External links ==

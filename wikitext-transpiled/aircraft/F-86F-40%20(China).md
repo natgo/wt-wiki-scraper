@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''{{Specs|name}}'''(known as 軍刀機 in Taiwan and ROCAF) represented the later "blocks" of F-86F delivered to ROCAF since mid-1950s under the MAP military aids to upgrade their obsolete fleet into jet era. Although these jets had scored a few victories against PLAAF jets, the most notable victory was on 1958/9/24 when a ROCAF pilot used the freshly-arrived AIM-9B during the battle, shooting down a MiG-17/J-5 and claimed the very first AAM kill in combat history. These jets served ROCAF for another 2 decade until F-100A, F-104 and F-5 eventually replaced all subsonic fighters in ROCAF in 1977, marking the end of subsonic era of ROCAF. 
+
+Introduced in [[Update "Starfighters"]] alongside with other F-86F with missile capabilities. Most of the performance is identical to its F-86F-30 cousin, but the installation of AIM-9B turned the table by giving it at least a 2 km upper hand against subsonic jets if used at the correct moment. Only firing them at careless targets or at enemies who depleted their energy to evade is a must for a successful kill. In case both missiles have already been launched, the remaining guns can still make sure enemy jets will be bothered by the high energy retention of F-86F-40.
 
 == General info ==
 === Flight performance ===
@@ -250,6 +252,7 @@ The F-86F Sabre remained in ROCAF service until 1977, and was retired when its f
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-86f-40_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -258,12 +261,14 @@ The F-86F Sabre remained in ROCAF service until 1977, and was retired when its f
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * Canadair [[F-86 (Family)|Sabre]] (those Sabres manufactured with the designator "CL")
 * North American [[F-86K (France)|F-86D]] Sabre
 * North American [[F-100D|F-100]] Super Sabre
 * North American [[FJ-4B|FJ-4]] Fury
 
 ;Aircraft of comparable role, configuration and era
+
 * Grumman [[F9F-8|F9F]] Cougar
 * Lavochkin [[La-15]]
 * Mikoyan-Gurevich [[MiG-15]]

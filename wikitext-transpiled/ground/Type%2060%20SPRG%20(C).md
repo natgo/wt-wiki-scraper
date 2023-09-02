@@ -102,16 +102,25 @@ It is worth noting, that hull-down is very difficult to accomplish with this veh
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.27.1.33''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
 ! 1st<br>rack empty
+! 2nd<br>rack empty
+! 3rd<br>rack empty
+! 4th<br>rack empty
+! 5th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''10''' || 2&nbsp;''(+8)'' || No
+| '''10''' || 8&nbsp;''(+2)'' || 6&nbsp;''(+4)'' || 4&nbsp;''(+6)'' || 2&nbsp;''(+8)'' || 0&nbsp;''(+10)'' || No
 |-
 |}
+'''Notes''':
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Shells are separated into shells for the primary gun (right) and the secondary gun (left).
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}

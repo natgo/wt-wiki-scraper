@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (also known as the '''1A1A1''') is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.63 "Desert Hunters"]]. The Leopard A1A1 represents a significant improvement over the original [[Leopard I]] design, most notably the inclusion of a two-plane stabiliser system and the availability of the DM23 APFSDS round.
+The '''Leopard 1A1A1''' is the first subvariant of the Leopard 1A1, which is the second variant of the [[Leopard 1 (Family)|Leopard 1 main battle tank family]]. Following the delivery of the first batch of the [[Leopard 1|Leopard 1 variant]], the next three batches were the Leopard 1A1 variant, which had a new tank gun two-plane fully automatic stabilization system from Cadillac Gage, allowing the tank to fire effectively while moving. The Leopard 1A1 received the now-famous "skirts" along the sides to protect the upper tracks, as well as a new thermal jacket on the gun barrel to regulate temperature. A less significant modification was the use of rectangular rubber blocks secured to the treads with a single pin rather than the previous two-pin "shaped" ones. For winter movement on ice and snow, the rubber blocks may be readily replaced with metal X-shaped crampons. All of the tanks in the first four batches received upgrades between 1974 and 1977 to the improved Leopard 1A1 first subvariant standard, the Leopard 1A1A1, which included extra turret armour produced by Blohm & Voss. In the 1980s, the Leopard 1A1A1 received an upgrade with leftover image-intensifier night sights from the Leopard 2 main battle tank family. The Leopard 1A1A2 subvariant was created by mounting the PZB 200 image intensification equipment in a big box on the upper right of the cannon. The Leopard 1A1A3 subvariant was established after an upgrade with SEM80/90 all-digital radios. The Leopard 1A1A4 subvariant was manufactured later as the picture intensifier was improved.
+
+Introduced in [[Update 1.63 "Desert Hunters"]], the Leopard 1A1A1 is a refinement of the Leopard 1 design, with marginally enhanced turret protection and, most importantly, a two-plane fully automatic stabilization system. The Leopard 1A1A1 is a swift, powerful, and feral predator that combines agility and lethality on the battlefield. The amour piercing fin stabilised discarding sabot (APFSDS) is a new ammunition type that ensures the player always has a firepower advantage over its foes. The Leopard 1A1A1 remains a mobility-focused main battle tank that prioritizes mobility to ensure crew survival on the battlefield. Overall, the Leopard 1A1A1 prioritizes ambush attacks over exchanging shots with adversaries, a trait that will be maintained throughout the Leopard 1 main battle tank family.
 
 == General info ==
 === Survivability and armour ===
@@ -187,10 +189,11 @@ The Leopard 1 versatility and widespread use compared to other tanks in the NATO
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_I_a1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="150">
+<gallery mode="packed-hover" heights="150">
 File:LeopardA1A1 BundeswehrNATOcamo.jpg|<small>The Leopard A1A1 with NATO woodland camouflage and Bundeswehr emblem</small>
 </gallery>
 
@@ -203,6 +206,7 @@ File:LeopardA1A1 BundeswehrNATOcamo.jpg|<small>The Leopard A1A1 with NATO woodla
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Leopard 1 (Family)|Related development]]
+
 * [[Leopard A1A1 (L/44)]] - premium version of the vehicle
 
 == External links ==

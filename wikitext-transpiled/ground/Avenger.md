@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the initial British Ground Forces tree. It is armed with the 17-pounder, with no secondary armament. It was based on a lengthened Cromwell hull from the [[Challenger|A30 Challenger]] from World War II.
+The '''A30 SP Avenger''' was a further development of the A30 [[Challenger]], intended to resolve some of the design issues including the tall turret and limited mobility. No longer having the need for a fourth crewmember in the turret, the turret was able to be significantly shortened, and was also mounted on a lower superstructure. The turret was made open-top, but could be screened with armoured covers when necessary, providing the commander and loader with a full range of visibility. Additionally, return rollers were added to alleviate the track-throwing tendencies of the Challenger. However, by the time a prototype was completed, development of the vehicle had been deprioritised with the introduction of the [[Achilles|17-pdr-equipped M10]] in favour of the [[Comet I]], and it suffered in trials against the [[Archer]] and [[Alecto I|Alecto]]. The Avenger project was eventually dropped in 1950.
+
+Introduced in [[Update 1.55 "Royal Armour"]] along with the initial British ground tree, the Avenger performs well in sniping and flanking roles. The powerful gun, along with good gun depression capabilities, allows it to make good use of ridgelines and unexpected locations, allowing easy shots on unsuspecting opponents. It also has great mobility (though not quite as capable as the Cromwell that it is based on), allowing it to be an effective flanker. However, note that Avenger's poor reverse speed and slow turret traverse, as well as weak armour, mean that attempting to battle opponents head-on will often end poorly.
 
 == General info ==
 === Survivability and armour ===
@@ -168,6 +170,7 @@ An attempt to improve on the Challenger was the [[Avenger|A30 SP Avenger]], whic
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a30_sp_avenger Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

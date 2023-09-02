@@ -213,5 +213,4 @@ Even with all of its power and mobility, the P-36 is a relatively fragile aircra
 * Baugher, Joe. [http://www.joebaugher.com/usaf_fighters/p36_1.html Curtiss P-36A Curtiss P-36A]. ''Joebauer.com website", On-line 12 June 1999. Retrieved 24 August 2019.''
 * Militaryfactory.com website (2019) [https://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=155 Curtiss P-36 Hawk (Hawk 75 / Mohawk).] ''Militaryfactory.com website'', On-line 10 May 2019. Retrieved 24 August 2019.
 
-{{AirManufacturer Curtiss}}
 {{USA fighters}}

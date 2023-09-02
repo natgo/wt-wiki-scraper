@@ -138,6 +138,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 ** 1 x 30 mm Akan m/75 cannon, belly-mounted (150 rpg)
 ** 1 x 30 mm Akan m/75 cannon + 48 x large calibre countermeasures
 
+The 30 mm cannon has a low ammo count, and also completely lacks tracers in any of its belts. This can be partially mitigated by using the radar-lock lead indicator.
+
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->

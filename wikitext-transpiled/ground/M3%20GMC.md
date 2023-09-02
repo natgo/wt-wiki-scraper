@@ -13,7 +13,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} American tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]]. An M3 half-track with a 75 mm gun on its rear, the M3 GMC packs a punch against its rivals.
+
+When the German Wehrmacht overrun France in 1940, the US Army began to re-evaluate their anti-tank strategy and inventory to face the Panzer Divisions. The result was the Tank Destroyer Branch in 1941 with its own dedicated tank destroyer vehicles to destroy German tanks. The urgency of setting up the branch caused the first vehicles to be more akin of an improvised weapon, resulting in the M3 Gun Motor Carriage (GMC), which consisted of a M3 half-track with a French 75 mm cannon installed on top. Despite the slapdash construction, the vehicle was approved for service and up to 2,200 were produced between 1941 to 1943, seeing combat in both the Pacific, North Africa, and Italian theaters. The M3 GMC would be slowly be replaced by the more powerful [[M10 GMC]], equipped with the larger 3-inch M7 gun.
+
+The '''{{Specs|pseudonym}}''' was introduced in [[Update 1.49 "Weapons of Victory"]] as an American tank destroyer. The half-track construction does not inspire confidence in the vehicle's survivability, but the 75 mm gun packs a punch at its rank placement. However, the 75 mm gun suffers from a prolonged reload time, requiring users to make careful shot placements and make sure they have tactics to stay safe during the reload time. The M3 GMC can be a complicated tank destroyer to play with its vulnerabilities, but can enable players to bring to battle a large gun capable of decimating the opponent it hits, a good weapon to bring against the occasional medium or heavy tanks that could be seen in Rank I battles.
 
 == General info ==
 === Survivability and armour ===

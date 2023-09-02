@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American heavy cruiser {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
+Laid down in 1928, '''{{Specs|name}}''' would be commissioned in 1930 as the lead ship of her class. Notably, these were originally classed as light cruisers due to their poor protection, but were reclassified after the signing of the Washington Naval Treaty. Northampton was actually at sea near Pearl Harbour when the Japanese launched their surprise attack. She would later see battle in the Battle of the Santa Cruz islands, coming to the aid of Hornet before she sank, and would go on to be lost in the Battle of Tassafaronga. She would be struck by two torpedoes and began to take a list, but managed to stay afloat for 3 hours, long enough for an orderly evacuation.
+
+It was introduced in [[Update "Raining Fire"]], and sits alongside the [[USS Portland]] as the lowest ranking heavy cruisers in the USN bluewater tree. Unlike the Portland however, she is in her 1941 refit, and therefore lacks the 20 mm anti-aircraft battery; this hampers her performance against aircraft. She has the same main battery of 9 x {{Annotation|8-inch|203 mm}} guns, but has the same issue of weak armour in exchange. All light cruisers and even many destroyers will be able to penetrate the armour at battle ranges.
 
 == General info ==
 === Survivability and armour ===

@@ -70,7 +70,7 @@ With a top speed of 33 km/h and a power-to-weight ratio of 11.43 hp/ton in Reali
 | 8.3 || 9.8 || 11.9 || 13.2 || 14.0
 |-
 |}
-The {{PAGENAME}} is armed with the 37 mm KwK 34(t), which has an APC shell with 55 mm pen and a Tier I unlockable APC shell with 52 mm pen. It also possesses an 85 mm penetration APCR shell for more heavily armoured targets such as [[B1 bis]].
+The {{PAGENAME}} is armed with the 37 mm KwK 34(t), which has an APC shell with 55 mm pen and a Tier I unlockable APC shell with 53 mm pen, which is essentially worse in every aspect. It also possesses an 85 mm penetration APCR shell for more heavily armoured targets such as [[B1 bis]].
 
 ==== Ammunition ====
 {{:KwK34(t) (37 mm)/Ammunition|Pzgr. 34(t), PzGr. 40, Pzgr.(t) umg.}}

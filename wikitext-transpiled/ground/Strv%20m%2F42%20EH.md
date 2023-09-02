@@ -82,8 +82,8 @@ Like on the Ikv 72, the gun starts off with the '''slpprj m/40''' uncapped AP sh
 {{:kan m/41 (75 mm)/Ammunition|slpprj m/40, sgr m/40, rökgr m/22, slpprj m/40B, slpgr m/39}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_Strv_m-42_EH.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.47''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -95,9 +95,13 @@ Like on the Ikv 72, the gun starts off with the '''slpprj m/40''' uncapped AP sh
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''59''' || 50&nbsp;''(+9)'' || 48&nbsp;''(+11)'' || 28&nbsp;''(+31)'' || 16&nbsp;''(+43)'' || 4&nbsp;''(+55)'' || 1&nbsp;''(+58)'' || None
+| '''59''' || 50&nbsp;''(+9)'' || 48&nbsp;''(+11)'' || 28&nbsp;''(+31)'' || 16&nbsp;''(+43)'' || 4&nbsp;''(+55)'' || 1&nbsp;''(+58)'' || No
 |-
 |}
+'''Note''':
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

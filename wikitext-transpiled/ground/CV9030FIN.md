@@ -1,3 +1,8 @@
+{{About
+| about = Swedish light tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = CV90 (Family)
+}}
 {{Specs-Card
 |code=sw_cv_9030_fin
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -37,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=968|rbMinHp=553}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,8 +54,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Bushmaster 2 Mk.44 (30 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="6" | [[Bushmaster 2 Mk.44 (30 mm)|30 mm Bushmaster 2 Mk.44]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -60,10 +63,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 400 (80) || rowspan="2" | 200 || rowspan="2" | -10°/+45° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 33.2 || __._ || __._ || __._ || __._ || rowspan="2" | 13.0 || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 400 (80) || rowspan="2" | 200 || rowspan="2" | -10°/+45° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 33.2 || 46.0 || 55.8 || 61.8 || 65.7 || rowspan="2" | 13.00 || rowspan="2" | 11.50 || rowspan="2" | 10.60 || rowspan="2" | 10.00
 |-
 ! ''Realistic''
-| 20.8 || __._ || __._ || __._ || __._
+| 20.8 || 24.4 || 29.7 || 32.8 || 34.9
 |-
 |}
 
@@ -134,22 +137,23 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+[https://live.warthunder.com/feed/camouflages/?vehicle=sw_cv_9030_fin Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[CV90 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+
+* [[wt:en/news/8251-development-cv-9030-fin-finnish-shooter-en|[Devblog] CV 9030 FIN: Finnish Shooter]]
 
 {{Sweden light tanks}}

@@ -17,7 +17,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Batt
 
 Within War Thunder, the Firefly F Mk I is a Rank III aircraft situated early on in the Fleet Air Arm line. The distinctive feature of the Firefly Mk I is its characteristic chin radiator that supports the powerful Rolls-Royce Griffon engine, later variants of which can also be seen on the late model Spitfires and Seafire. The aircraft is one of the first examples of a 4 cannon fighter aircraft available to pilots and boasts an impressive array of external weaponry to complement this.
 
-Its 4 x 20 mm Hispano Mk II cannons carry 160 rounds per gun for a total capacity of 640 rounds. This allows pilots of the Firefly to have more opportunities to attack enemy aircraft or ground targets with its guns. However, trigger discipline should still be practised in order to get the most out of it when it is being operated solely as a fighter. The Firefly can also mount 2 x 250 lb, 2 x 500 lb or 2 x 1,000 lb bombs with one under each wing. The final weapon upgrade, "HRC mk.8", allows for the installation of 8 x 76mm RP-3 rockets, further boosting its ground attack capabilities.
+Its 4 x 20 mm Hispano Mk II cannons carry 160 rounds per gun for a total capacity of 640 rounds. This allows pilots of the Firefly to have more opportunities to attack enemy aircraft or ground targets with its guns. However, trigger discipline should still be practiced in order to get the most out of it when it is being operated solely as a fighter. The Firefly can also mount 2 x 250 lb, 2 x 500 lb or 2 x 1,000 lb bombs with one under each wing. The final weapon upgrade, "HRC mk.8", allows for the installation of 8 x 76 mm RP-3 rockets, further boosting its ground attack capabilities.
 
 The Firefly often struggles in initial climbing due to the heavy weight and large size of the aircraft. Once engaged, however, the Firefly's "Ace" combat advantage is its exceptional two stage combat flaps. Unlike most aircraft where the flap simply deploys from the wing, the Firefly's flaps actually swing back to enlarge the wing surface as a whole and create much more lift. This allows it to turn exceptionally well at low speeds without external ordnance attached and makes landings very simple to perform even on carriers. Coupled with a wide track and durable undercarriage, the Firefly rounds off to be a very forgiving aircraft to fly.
 
@@ -91,6 +91,7 @@ The Firefly often struggles in initial climbing due to the heavy weight and larg
 
 === Modifications and economy ===
 {{Specs-Economy}}
+Using the Stock Hispano Mk IIs is hard due to their tendency to almost immediately overheat but the HE rounds you get tear apart enemy aircraft. The later modifications of the Hispano Mk IIs you get to research on the Firefly (Mk.II year 1942 & Mk.II year 1943) are improved in both accuracy and their ability to fire in longer burst with each iteration. It is highly recommend that these modifications are prioritized next to the Flight performance modifications. The Default belts have the highest volume of HE rounds on every version of the Hispanos only beaten out by the very, very potent Stealth belts which have two HE rounds, one SAP-I round (has a small amount of HE filler) and one AP round. This belt is available after the "Offensive 20 mm" modification is unlocked. 
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -118,9 +119,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Firefly F Mk I is quite slow and not very manoeuvrable aircraft. It has the advantage of airspawn as a strike aircraft, allowing it to reach enemy ground targets before hostile fighters appear overhead. The Hispano Mk V cannons offer great rate of fire and their armour-piercing ammo makes them cause heavy damage to light pillboxes and even medium tanks when attacked from top. This advantage is offset with the cannon's poor accuracy on distances exceeding 800 m. The cannons' mid-wing placement also limits your engagement distance since it will be defined by the preset convergence.
+'''Air RB'''
 
-Once you've expended your ordnance, you can return to the base and rearm or you can support other fighters engaged in a dogfight. Head-ons with enemy fighters are not advised due to the very fragile radiator which, when damaged, instantly destroys the engine.
+While the Firefly F Mk I is somewhat slow and not the most manoeuvrable aircraft, it can utilize its flaps to good effect in a dogfight. It has the advantage of airspawn as a strike aircraft, allowing it to reach enemy ground targets or other strike fighters before hostile fighters appear overhead. Its four Hispano Mk II cannons offer good rate of fire and the Default belts you get have two HE rounds for every four bullets fired, which make quick work of enemy aircraft and two tap AI Artillery and AI AAA units. For beginner to intermediate users Default belts is recommended. Small 1-2 second bursts is highly recommended to keep your guns from jamming. Only when you have grasped the velocity and reach of the Hispanos is it advisable to switch over to Stealth belts. While Stealth belts can be tricky to learn, practicing in Custom battles or Test drive is recommended, once you become comfortable with them, you can begin to surprise your enemy with shots they can't see!  
+
+Head-ons with enemy fighters are only advisable when you are ready to fire a quick burst then quickly break off due to the very fragile radiator which, when damaged, almost instantly destroys the engine.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"

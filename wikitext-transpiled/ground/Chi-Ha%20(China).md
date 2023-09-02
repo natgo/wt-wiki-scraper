@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''Type 97 Chi-Ha''' ({{Annotation|九七式中戦車「チハ」|Kyūnana-Shiki Chū-Sensha [Chi-Ha]}}) is a medium tank used by the Imperial Japanese Army primarily in the Second Sino-Japanese War and the Battles of Khalkhin Gol against the Soviet Union during World War II. It was also the most widely manufactured Japanese medium tank throughout the war. The Chinese People's Liberation Army acquired around 300 Type 97 tanks from the USSR after Japan surrendered in 1945. The Northeast Tank Brigade, the Chinese People's Army's first tank unit founded on December 1, 1945, was equipped with this tank. However, it was discovered that the Type 97 Chi-Ha medium tank's reliability was poor, since it frequently broke down, and the Chinese People's Liberation Army nicknamed it the "Old Man Tank." Despite its inherent flaws, the "Old Man Tank" served as the foundation for the Chinese People's Liberation Army's armoured troops. Following World War II, it took part in bandit suppression activities, campaigns in the Yangtze River's south, the Battle of Jinzhou, and the Battle of Tianjin.
 
-The Type 97 Chi-Ha is a rather average medium tank, with poor armour and a low-velocity gun with less penetration than the T-26's 45 mm. It does have good post-penetration damage, great gun depression, decent mobility, and its shoulder-stock stabilizer allows for accurate firing at slow speeds. Overall, it is a tank with a lot of weaknesses but a good potential if used right.
+Introduced in [[Update 1.91 "Night Vision"]], the Chi-Ha served as the Chinese Army's first medium tank. It acquired many fundamental traits of Japanese tanks due to its origins in Japan during World War II, including inadequate armour, an inferior main gun, and good gun depression. It is mounted with a low-velocity 57 mm anti-tank gun designed for infantry support. The overall tank design is not intended to combat other tanks in the first place, as most of the countries that the Japanese invaded during WWII lacked credible tanks. Overall, it is a medium tank with a lot of weaknesses and must be played carefully in battles to achieve good results.
 
 == General info ==
 === Survivability and armour ===
@@ -132,7 +132,7 @@ Engine power is not that powerful, which then means that the acceleration will b
 
 '''Pros:'''
 
-* Improved armour compared to the preceding reserve 
+* Improved armour compared to the preceding reserve
 * Quite fast (up to 44 km/h), allowing it to get to position somewhat quickly
 * Lovely climbing ability combined with the amazing -15° gun depression, it is great at mountain combat
 * The vertical stabiliser is a big advantage in a sudden encounter, as most tanks it faces don't have stabilisers, and therefore need to wait longer to fire
@@ -157,6 +157,7 @@ Japanese tanks like the Chi-Ha, captured by Soviet troops during the Manchurian 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_97_chi_ha Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -164,11 +165,13 @@ Japanese tanks like the Chi-Ha, captured by Soviet troops during the Manchurian 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

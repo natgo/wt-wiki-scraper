@@ -10,15 +10,17 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a step 2 Cobra variant the Japanese bought for trials in the consideration of attack helicopters as a branch. After positive results and coming to a deal, Japan ordered the license production of step 3 Cobra's becoming the [[AH-1S]]
+The '''AH-1E''' is a step 2 Cobra variant bought by the Japanese for trials in the consideration of attack helicopters as a branch. After positive results and coming to a deal, Japan ordered the license production of step 3 Cobras, becoming the [[AH-1S]].
 
-It was introduced in [[Update "Starfighters"]]. As an earlier Cobra model, it doesn't come with TOW-2's or thermal NVD imaging unlike its later variant the [[AH-1S]] / [[AH-1S Kisarazu]]
+It was introduced in [[Update "Starfighters"]]. As an earlier Cobra model, it doesn't come with TOW-2s or thermal NVD imaging unlike its later variant the [[AH-1S]] / [[AH-1S Kisarazu]]. It is more like a flying ATGM carrier than an independent helicopter that can snipe from afar. The TOW missiles are powerful, but they can only reach 3.75 km, which is shorter than the range of the AA systems that the Cobra will encounter. The best way to play the AH-1 is to support the ground team and jet aircraft, and let them handle the SPAA/SAM, planes, and other helicopters.
+* If the team fails to claim aerial supremacy, the helicopter crew should fly low and hide behind buildings or terrain, fire a missile at a target and then move away, and repeat this tactic.
+* If the skies are clear, the helicopter crew can fly higher and see more of the battlefield, fire missiles at ground targets, and provide information to the team before returning to the helipad for more missiles.
 
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The AH-1S early has a single turboshaft T53-L-703 power plant, providing up to 1351 BHP & 220 kgf with a mass of 350 kg. This turboshaft engine is able to push the AH-1S early to speeds in excess of 277 km/h whilst carrying wing-mounted armaments.
+The AH-1E has a single turboshaft T53-L-703 power plant, providing up to 1351 BHP & 220 kgf with a mass of 350 kg. This turboshaft engine is able to push the AH-1E to speeds in excess of 277 km/h whilst carrying wing-mounted armaments.
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -40,13 +42,13 @@ The AH-1S early has a single turboshaft T53-L-703 power plant, providing up to 1
 {{Specs-Heli-Armour}}
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
 
-The AH-1S early is an armoured attack helicopter offering protection to the crew and engine:
+The AH-1E is an armoured attack helicopter offering protection to the crew and engine:
 
 * Composite boron carbide seat enclosures, for both of the crew, with a thickness of 20 mm.
 * A steel seat, which offers a thickness of 12 mm for the pilot only.
 * Steel plate covers, offering 12 mm of thickness over the turboshaft engine.
 
-The AH-1S early compensates with its small and nimble size compared to the [[Mi-24 (Family)|Mi-24 Hinds]] which are incredibly well armoured but are huge and slow in comparison. However, the AH-1S early does not protect all of its critical components, such as the fuel tanks, transmission, propeller shaft, and control surfaces, with armour plating, nor does it have armoured glass installed around the cockpit.
+The AH-1E compensates with its small and nimble size compared to the [[Mi-24 (Family)|Mi-24 Hinds]] which are incredibly well armoured but are huge and slow in comparison. However, the AH-1E does not protect all of its critical components, such as the fuel tanks, transmission, propeller shaft, and control surfaces, with armour plating, nor does it have armoured glass installed around the cockpit.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -104,7 +106,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-When playing the AH-1S early, select the helipad which is in the ideal tactical location for your playstyle. Climb to around 1,500 meters, find a target, then descend on to them. For optimal effectiveness, it is important that you engage them from the rear or the side. As pilots primarily scan in front of themselves for targets, attacking from behind will give you the advantage of not being seen. When shadowing the target, approach as fast as possible to close the gap to within TOW range. After slowing, engage the sight stabilizer and fire the TOW missile and guide it to the target.
+When playing the AH-1E, select the helipad which is in the ideal tactical location for your playstyle. Climb to around 1,500 meters, find a target, then descend on to them. For optimal effectiveness, it is important that you engage them from the rear or the side. As pilots primarily scan in front of themselves for targets, attacking from behind will give you the advantage of not being seen. When shadowing the target, approach as fast as possible to close the gap to within TOW range. After slowing, engage the sight stabilizer and fire the TOW missile and guide it to the target.
 
 If the target tries to evade, keep the missile on the target and adjust to counter any manoeuvres your adversary may attempt.
 
@@ -114,7 +116,7 @@ Perhaps most importantly, if out of TOW range, the missile will self-detonate an
 
 After gaining experience while playing with the BGM-71 missiles, you will be able to determine when you are within range based on that experience. This also applies to any other type of missile in the game too.
 
-When engaging in close quarters combat with other helicopters, the biggest threats are air to air missiles- The AH-1S early does not offer any protection against them with countermeasures such as flares or IRCM. This means you need to stay alert, active & on the lookout for fast moving dots. If you see a small fast dot heading towards you, make very sharp abrupt turns, change height at the same time while turning and rolling.
+When engaging in close quarters combat with other helicopters, the biggest threats are air to air missiles- The AH-1E does not offer any protection against them with countermeasures such as flares or IRCM. This means you need to stay alert, active & on the lookout for fast moving dots. If you see a small fast dot heading towards you, make very sharp abrupt turns, change height at the same time while turning and rolling.
 
 {{Notice|These are the biggest threats to you in battle since they can carry air-to-air missiles|!!}}
 
@@ -130,7 +132,7 @@ When engaging other helicopters, the triple barrel rotary cannon makes short wor
 
 ====Ground forces====
 
-When playing the AH-1S early in ground forces, it is recommended to load up the 8 x BGM-71 TOW missiles + 38 x FFAR Mighty Mouse missiles. The BG-71 will give you the penetration at range in order to terminate tankers and with safety from the anti-aircraft missile equipped anti-air vehicles. It is a wise tactic that anti-aircraft missile equipped anti-air vehicles to be terminated first. Then once terminated, move into the battlefield and dominate the tanks with the 38 x FFAR Mighty Mouse missiles, which can cause a lot of damage and could potentially terminate up to 38 tanks with well-placed shots.
+When playing the AH-1E in ground forces, it is recommended to load up the 8 x BGM-71 TOW missiles + 38 x FFAR Mighty Mouse missiles. The BG-71 will give you the penetration at range in order to terminate tankers and with safety from the anti-aircraft missile equipped anti-air vehicles. It is a wise tactic that anti-aircraft missile equipped anti-air vehicles to be terminated first. Then once terminated, move into the battlefield and dominate the tanks with the 38 x FFAR Mighty Mouse missiles, which can cause a lot of damage and could potentially terminate up to 38 tanks with well-placed shots.
 
 The ideal tactic is to utilize the helicopter and the terrain. Such as maps which have forests and lots of tree lines, stay low over the trees and select your targets based on the threat to yourself first, then the impact to the team.
 
@@ -177,6 +179,7 @@ Handling radar and surface-to-air missiles, when an enemy missile equipped SPAA 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_1s_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -185,9 +188,11 @@ Handling radar and surface-to-air missiles, when an enemy missile equipped SPAA 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 *Bell [[AH-1 (Family)|AH-1]] SuperCobra
 
 ;Aircraft of comparable role, configuration and era
+
 *Agusta [[A-129 International|A129]] Mangusta
 
 == External links ==
@@ -195,6 +200,7 @@ Handling radar and surface-to-air missiles, when an enemy missile equipped SPAA 
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

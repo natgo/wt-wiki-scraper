@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
+To combat the imminent threat from insurgents in Algeria, France purchased 100+ AD-4s in 1959. Five of the AD-4s were AD-4NAs but all 113 AD-4/Ns were converted to NA configuration by SFERMA. This resulted in the removal of radar equipment and 3-seater AD-4s were reconverted to single-seater versions. The AD-4NAs were deployed in Algerian to fight off the Algerian National Liberation Front. They also saw action in Chad with French mercenaries piloting them. France later sent the AD-4NAs to other countries as they were phased out in the 1970s.
+
+Introduced in [[Update "Ground Breaking"]], the '''{{Specs|name}}''' is a very strong ground attacker with a multitude of ordnance options. The 20 mm cannons are also incredibly effective against ground targets like light pillboxes and can penetrate the engine decks of some medium tanks. With the addition of custom loadouts, players have a lot of options for making loadouts, since the AD-4NA has access to five unique bombs and four types of rockets. Players can use this as a fighter but should beware of partaking in prolonged dogfights. Enemy fighters can easily exploit the AD-4s immense weight which makes it struggle in vertical manoeuvres.
 
 == General info ==
 === Flight performance ===
@@ -174,22 +176,37 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* Multitude of ground ordnance
+* Strong guns with sufficient velocity
+* Can turn tightly
+* Airspawn in Air Realistic Battles
+* Engine is well armoured from ground fire
+* Self-sealing fuel tank
 
 '''Cons:'''
-*
+
+* Slow for its BR, especially when facing jets
+* No airbrake
+* Poor manoeuvring energy retention
+* Very heavy
+* Guns are mounted on the wings
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+[[File:French AD-4NA Serial Number 125716.jpg|thumb|French AD-4NA (BuAer 125716 "F-AZFN")]]
+
+In 1959, France bought 118 AD-4s with some being different variants. 88 AD-4Ns, 20 AD-4s, and 5 AD-4NAs were acquired by France. The AD-4Ns and AD-4s were converted to AD-4NA standard by SFERMA (Société Française d'Entretien et de Réparation de Matériel Aéronautique), a subsidiary of SNCASO to repair and/or overhaul military and civil aircraft. Immediately, the AD-4NAs were sent to Algeria to fight against the Algerian National Liberation Front. The Skyraiders saw massive success in the counter-insurgency role and fought from 1960 till the Independence of Algeria in 1963.
+
+Some of the AD-4s were sent to Chad and were flown by French mercenaries against the Libyan army. A few more AD-4s went to Gabon and were also flown by French pilots. The AD-4s flown by the mercenaries fought till 1982 when they were left abandoned at N'Djamena airport. In 1986, these parked AD-4s were discovered by the AMPAA and two were allowed to be sent back to France. BuAer 125716 was restored in Niamey and took off with its final destination in Melun and redesignated "F-AZFN". BuAer 126959 had carburettor issues and later underwent a ferry flight from Niger to France. After, 126959 was transported via ship to California and was redesignated "N2088V".
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-
+[[File:Douglas AD-4NA Skyraider 127002.jpg|thumb|French AD-4NA S/N 127002, the inspiration for the in-game livery of the aircraft.]]
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=douglas_ad_4na_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -198,6 +215,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
+
 * [[AM-1]]
 
 == External links ==
@@ -205,6 +223,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

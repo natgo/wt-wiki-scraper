@@ -50,7 +50,7 @@ Due to its weak armour nearly every tank is a serious threat to the ST-A3, as we
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=883|rbMinHp=504}}
+{{tankMobility|abMinHp=1,007|rbMinHp=575}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -64,14 +64,14 @@ Due to its weak armour nearly every tank is a serious threat to the ST-A3, as we
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[Type 61 (90 mm)|90 mm Type 61]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[Type 61 (90 mm)|90 mm Type 61]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -10°/+13° || rowspan="2" | ±180° || rowspan="2" | N/A || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -10°/+13° || rowspan="2" | ±180° || rowspan="2" | - || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 14.3 || 16.8 || 20.4 || 22.6 || 24.0
@@ -116,7 +116,7 @@ Due to its weak armour nearly every tank is a serious threat to the ST-A3, as we
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 800 (200) || 577 || -5°/+50° || ±180°
+| Pintle || 800 (200) || 575 || -5°/+50° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -125,7 +125,7 @@ Due to its weak armour nearly every tank is a serious threat to the ST-A3, as we
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,500 (250) || 500 || N/A || N/A
+| Coaxial || 4,500 (250) || 500 || - || -
 |-
 |}
 

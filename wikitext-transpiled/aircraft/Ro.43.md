@@ -22,7 +22,7 @@ Introduced in [[Update "Winged Lions"]], the Ro.43 is the only catapult-able air
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+Ro.43 has a typical performance for shipborne biplane - it's extremely agile, but relatively slow in level flight, making for a relatively easy target for any fighter or even most bombers.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -81,7 +81,7 @@ Introduced in [[Update "Winged Lions"]], the Ro.43 is the only catapult-able air
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+Similarly to other shipborne aircraft, the Ro.43 is extremely easy to destroy, rarely surviving more than a single hit from anything larger than 13.2 mm.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -105,19 +105,24 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Ro.43 is best-used much in the same fashion as other hydroplanes with offensive armament are - going for the capture point, taking down enemy hydroplanes and capturing it for the team. [[Shipboard reconnaissance aircraft#Uses|Other uses]] are typical for the airplane of the type - spotting, laying [[Smoke screen#Naval Forces|smokescreen]], and harassing enemy airplanes.
+
+Generally it's best to keep away from enemy bluewater vessels and high-BR coastal boats, as the sheer volume of fire they can unleash is typically enough to take the hydroplane down even from 2 kilometres with just the use of automated AI gunners.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
 
 * Optimal acceleration
 * Very manoeuvrable
+* Pilot-operated offensive armament
 
 '''Cons:'''
 
 * It has no access to bombs, restricting its ability to damage ships
+* Offensive armament although present is very weak, struggling with anything else than other hydroplanes
 * Quite heavy
-* Light offensive armament
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

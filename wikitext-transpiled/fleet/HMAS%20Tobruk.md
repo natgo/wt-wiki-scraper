@@ -52,9 +52,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rat
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 
-HMAS Tobruk is similar to her sister ship in the British tech tree, [[HMS Armada]]. While the Tobruk has a slower top speed and loses a main battery gun, it gains better turret traverse and an even more impressive secondary 40 mm battery. The Battle is a fantastic fast assault ship, thanks to its forward-mounted main battery. Use the excellent rate of fire and turret traverse to push the enemy constantly, keeping a small profile to reduce any incoming damage. Don't be afraid to bully patrol boats as well with the Battle's excellent turret traverse and the colossal number of 40 mm guns. At close ranges, your torpedoes can also be very effective thanks to their good damage. You have a large crew size for a destroyer and decent armour protection where it matters, so don't be afraid to weather some fire before retreating. If you get the opportunity, use islands to hide the bulk of your ship and keep your front turrets pointed outwards to harass oncoming ships.
+HMAS Tobruk is similar to her sister ship in the British tech tree, [[HMS Armada]]. While the Tobruk has a slower top speed and loses a main battery gun it gains better turret traverse and an even more impressive secondary 40 mm battery. The Tobruk is a fantastic fast assault ship thanks to its forward-mounted main battery. Use the excellent rate of fire and turret traverse to push the enemy constantly while keeping a small profile to reduce any incoming damage. Don't be afraid to bully patrol boats with the Tobruk's excellent turret traverse and the colossal number of 40 mm guns. At close ranges the torpedoes can be very effective thanks to their good damage. With a large crew size for a destroyer and decent armour protection where it matters don't be afraid to weather some fire before retreating. Use the opportunity of cover from islands to hide the bulk of your ship. Keep your front turrets pointed outwards to harass oncoming ships.
 
-The Battle is a great destroyer, but is not a cruiser, and shouldn't fight them. The small calibre of the shells means even the SAP rounds are pretty hopeless against cruisers, and cruiser guns will happily negate the armour the Battle does boast, so avoid them at all costs, unless you have teammates to back you up, or you can level some torpedoes into the cruiser's flank. The Battle gets good torpedoes, but in terrible launchers, which turn very slowly and have a dreadful firing arc, especially the forward-most launcher. Only use the torpedoes if you can avoid enemy fire, or if the enemy is already in your firing arc. Turning your ship in order to make use of the torpedoes negates your narrow profile advantage, and makes you an easy target. From the side, the Battle is a big ship.
+The Tobruk is a great destroyer but not a cruiser and shouldn't be used to fight them. The small calibre of the shells means even the SAP rounds are pretty hopeless against cruisers. Cruiser guns will happily negate the armour that the Tobruk does boast so avoid them at all costs in a solo encounter. If you have teammates to back you up the Tobruk is a great compliment to a mixed team when bringing its large quantity of torpedoes to bear on larger targets. The Tobruk gets good torpedoes of significant quantity. This is offset by launchers that turn slowly and have a poor firing arc, especially the forward-most launcher. Only use the torpedoes if you can avoid enemy fire or if the enemy is already in your firing arc. Turning your ship in order to make use of the torpedoes negates your narrow profile advantage and makes you an easy target. From the side the Tobruk is a big ship.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -65,6 +65,7 @@ The Battle is a great destroyer, but is not a cruiser, and shouldn't fight them.
 * Efficient AA/auxiliary armament of multiple 40 mm guns, which can make short work of both aircraft and patrol boats, as well as damaging destroyers at close range
 * Decent armour protection over ammo storage and the main guns, more than many destroyers get
 * Very fast turret traverse can be a nasty surprise for enemy ships that try to flank you, and make the guns very effective against aircraft if used in that role
+* Plenty of torpedoes
 
 '''Cons:'''
 
@@ -104,6 +105,7 @@ In War Thunder, HMAS Tobruk will be a new destroyer coming to rank III of the Br
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_destroyer_battle_tobruk Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -118,6 +120,7 @@ File:HMAS Tobruk WTWallpaper 06.jpg|
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

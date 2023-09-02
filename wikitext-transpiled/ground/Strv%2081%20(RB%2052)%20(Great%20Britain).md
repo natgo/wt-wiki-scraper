@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (full name: '''Stridsvagn 81 (Rb.52)''') is a premium gift rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]] and was removed from the store after the [[wt:en/news/6694-shop-may-sale-in-war-thunder-en|2020 May sale]]. This vehicle is no longer obtainable in the British Tech tree but can instead be found in the Swedish Tech Tree ([[Strv 81 (RB 52)]]).
+The '''Stridsvagn 81 (Robot 52)''' was a Swedish [[Strv 81]] that was armed with the Robot 52 anti-tank guided missile (ATGM). This missile is essentially a Swedish copy of Nord Aviation's SS.11 manual command to line of sight (MCLOS) wire-guided ATGM.
 
-A Swedish import of the British [[Centurion Mk 3]], it features an add-on of three SS.11 anti-tank missile on the turret. It uses the MCLOS guidance system (SACLOS in arcade mode), which means that the missiles must be manually guided by the tank movement keys to their target.
+Introduced in [[Update 1.59 "Flaming Arrows"]], the Strv 81 (RB 52) represents a Swedish  [[Centurion Mk 3]] fitted with RB 52 ATGMs. Its gameplay is very similar to that of modern main battle tanks. Players never have to worry about opponents appearing around corners and stopping to take aim with the two-plane fully automatic stabilization system. The availability of RB 52 ATGMs is one distinctive secondary armament that the vehicle has over the standard Strv 81. The RB 52 missiles mounted on the right side of the turret provide up to 600 mm of armour penetration. Three are immediately available for use and are directed by an MCLOS system. The missile's trajectory is such that it rises for a short distance before levelling down, producing a "dead zone" of up to 200 metres that the missile cannot fully engage in. Players who launch missiles must be constantly conscious of the distance between themselves and the enemy.
+
+The British Strv 81 (RB 52) was removed from the store after the [[wt:en/news/6694-shop-may-sale-in-war-thunder-en|2020 May sale]], and an [[Strv 81 (RB 52)|identical replacement]] was later introduced in the Swedish ground forces tree.
 
 == General info ==
 === Survivability and armour ===
@@ -208,6 +210,7 @@ The Centurion Stridsvagn series served alongside the domestic Strv 103 design as
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_mk_3_ss11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -219,10 +222,12 @@ The Centurion Stridsvagn series served alongside the domestic Strv 103 design as
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[Strv 81 (RB 52)]]
 * [[Strv 81]]
 
 ;Other vehicles of similar configuration and role
+
 * [[AMX-13 (SS.11)]]
 
 == External links ==

@@ -1,3 +1,8 @@
+{{About
+| about = premium Israeli medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Sho't (Family)
+}}
 {{Specs-Card
 |code=il_centurion_shot_kal_d
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

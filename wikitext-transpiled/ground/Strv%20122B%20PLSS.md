@@ -28,9 +28,10 @@ The Strv 122B carries on all the good armour from the previous 122A model, but g
 |-
 | Hull || 35 mm (53°) Top <br> 40 mm (51°) Bottom || 10 mm (5°) ''Top'' <br> 35 mm ''Bottom Front'' <br> 20 mm ''Bottom Back'' || 20 mm (11°) ''Top'' <br> 20 mm (16°) ''Middle'' <br> 20 mm (49°) ''Lower'' || 35 mm (8°) ''Front'' <br> 20 mm (2°) ''Rear'' <br> 30 mm (8°) Hatch <br> 5 mm ''Vent''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 80 mm (57-59°) ''Right cheek add-on'' <br> 80 mm (55-58°) ''Left cheek add-on'' <br> 30 mm (63°) ''Upper mantlet add-on'' <br> 400 mm (1°) ''Mantlet armour'' <br> 250 mm (9°) ''Mantlet shroud''
+| 80 mm (20-22°) ''Right add-on'' <br> 80 mm (22°) ''Left add-on'' <br> 35 mm ''Forward'' <br> 15 mm ''Rear''
+| 20 mm (10°) ''Basket'' <br> 20 mm (70°) ''Turret underside''
+| 35 - 40 mm (80-89°) ''Forehead Armour'' <br> 14 mm (68-82°) ''Forward sides'' <br> 20 mm (89°) ''Rear turret'' <br> 20 mm (83°) ''Basket''
 |-
 |}
 

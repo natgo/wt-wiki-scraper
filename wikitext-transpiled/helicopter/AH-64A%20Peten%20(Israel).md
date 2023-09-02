@@ -76,12 +76,12 @@ The Peten has the same 30 mm cannon as the other Apaches in the game currently, 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 * Without load
-* 8 x ATAS (AIM-92) missiles
+* 4 x ATAS (AIM-92) missiles
 * 76 x Hydra-70 M247 rockets
 * 8 x AGM-114B Hellfire missiles
 * 16 x AGM-114B Hellfire missiles
 
-The Peten can carry up to 16 Hellfire ATGMs with over 1,000 mm of pen, 76 Hydra rockets with over 200 mm of pen, or 8 Stinger AAMs. The weapons are carried on the stub wings and can be carried in several different variations. The Hellfires are excellent missiles, although since the player must keep "painting" a laser beam on the target, misses can occur if the target lock slips. The Hydra rockets are generally very effective, especially when used with the ballistic computer. 76 rockets is enough for 3-5 tanks if they are used by an experienced player. However, the Stinger AAMs are not the best in the game by any stretch, with relatively little explosive mass and only a 10G overload. They may take 2-3 hits to damage aircraft, and heavily armoured helicopters such as the Mi-28 may survive multiple hits.
+The Peten can carry up to 16 Hellfire ATGMs with over 1,000 mm of pen, 76 Hydra rockets with over 200 mm of pen, or 4 Stinger AAMs. The weapons are carried on the stub wings and can be carried in several different variations. The Hellfires are excellent missiles, although since the player must keep "painting" a laser beam on the target, misses can occur if the target lock slips. The Hydra rockets are generally very effective, especially when used with the ballistic computer. 76 rockets is enough for 3-5 tanks if they are used by an experienced player. However, the Stinger AAMs are not the best in the game by any stretch, with relatively little explosive mass and only a 10G overload. They may take 2-3 hits to damage aircraft, and heavily armoured helicopters such as the Mi-28 may survive multiple hits.
 
 ==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
@@ -96,7 +96,7 @@ The Peten can carry up to 16 Hellfire ATGMs with over 1,000 mm of pen, 76 Hydra 
 | || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
 |-
 ! ATAS (AIM-92) missiles
-| 4 || || || || || 4
+|2|| || || || ||2
 |-
 |}
 
@@ -177,6 +177,7 @@ The IAF AH-64A began to be upgraded to the AH-64Ai standard in 2013, comparable 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64a_peten_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -188,6 +189,7 @@ The IAF AH-64A began to be upgraded to the AH-64Ai standard in 2013, comparable 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[AH-64 (Family)]]
 
 == External links ==
@@ -195,6 +197,7 @@ The IAF AH-64A began to be upgraded to the AH-64Ai standard in 2013, comparable 
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

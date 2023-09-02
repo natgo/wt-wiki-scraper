@@ -162,6 +162,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 * Flaps have a rather low speed limit before they tear off
 * Gunner is exposed
 * Does not have a ventral gunner, making it vulnerable to attacks from under
+* No Bombload
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/ History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -191,7 +192,7 @@ Final evolution of the Bloch MB.170 line, the MB.175T is a 1947 adaptation for t
 * [https://forum.warthunder.com/index.php?/topic/430078-bloch-mb175-t/ Official data sheet - more details about the performance]
 
 === References ===
-<references/>
+<references />
 
 {{AirManufacturer Dassault}}
 {{France bombers}}

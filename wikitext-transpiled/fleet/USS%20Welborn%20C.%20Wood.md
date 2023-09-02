@@ -78,7 +78,7 @@ Welborn C. Wood displaced 1,215 tons and had a crew complement of 111 officers a
 === Operational history ===
 After her commissioning in 1921, the Welborn C. Wood served for a short time in fleet exercises before being placed into reserve due to the relaxed naval demand of the interwar years. However, the introduction of prohibition (preventing individuals from accessing alcohol) resulted in a rise in liquor-smuggling, particularly by sea. As a result, in 1929, the Welborn C. Wood was one of 25 old American destroyers given to the Coast Guard to enforce complete prohibition. She was thus renamed the USCGD Wood, and served on the "rum patrol", the American destroyer force tasked with stopping ships from illegally importing alcohol. After four years of patrols, the Welborn C. Wood was again placed into reserve in 1934.
 
-After the start of war in Europe, the Welborn C. Wood was immediately reactivated to help supplement the American neutrality patrols, mainly to protect the American coastlines and shipping routes. However, in 1940, the American and British signed the Destroyers-for-bases deal. During that time, the British navy was deeply in need for destroyers as the waters around the UK were blockaded by the United Kingdom. As a result, the US agreed to exchange 50 surplus destroyers for 99-year leases on British ports such as Newfoundland and Bermuda. Welborn C. Wood was one of the 50 destroyers and was handed to the British in September of 1940.
+After the start of war in Europe, the Welborn C. Wood was immediately reactivated to help supplement the American neutrality patrols, mainly to protect the American coastlines and shipping routes. However, in 1940, the American and British signed the Destroyers-for-bases deal. During that time, the British navy was deeply in need for destroyers as the waters around the UK were blockaded by Germany. As a result, the US agreed to exchange 50 surplus destroyers for 99-year leases on British ports such as Newfoundland and Bermuda. Welborn C. Wood was one of the 50 destroyers and was handed to the British in September of 1940.
 
 After her transfer, Welborn C. Wood was renamed Chesterfield and served in the Atlantic theatre. She was modified for the convoy escort role through the removal of three of her four 100 mm guns and three of her four triple torpedo tubes, which reduced her weight and allowed the fitting of depth charge racks and hedgehog anti submarine mortars. From 1942 to 1943, Chesterfield served in the Atlantic where she escorted several convoys. She attempted to attack the German submarine U-268 with depth charges, but ended up damaging herself with her depth charges and returned to Plymouth for repairs. She was subsequently turned into a target ship for aircraft. She was decommissioned in late 1945, and scrapped in 1948.
 
@@ -86,6 +86,7 @@ After her transfer, Welborn C. Wood was renamed Chesterfield and served in the A
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_destroyer_clemson_welborn_c_wood Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -94,6 +95,7 @@ After her transfer, Welborn C. Wood was renamed Chesterfield and served in the A
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Clemson (Family)]]
 
 == External links ==

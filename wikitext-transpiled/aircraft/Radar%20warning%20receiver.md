@@ -1,14 +1,16 @@
 <!--{{main|:Category:Countermeasures|l1=Countermeasures}}-->
-[[File:Radar Warning Receiver.jpg|thumb|The War Thunder standart RWR display showing a "ping" on 7 o'clock.]]
-A Radar Warning Receiver (RWR) will inform the pilot about incoming radar radiation. In game there is only a artificial RWR modeled which will show the direction on a clock display. Aircraft in reality most probably had a different form of RWR or even none at all, but for balancing the game they got the War Thunder standart RWR. If a radar is sending a ping at you the RWR will show a radiation symbol on the direction it is coming from. It can show multiple pings at once from different sources. If you see a striped line from those ping towards the center of the RWR it means a radar is tracking you and you should expect a missile being shot at you from this direction. In Update [[La Royale]] soviet planes got a slightly different RWR with non-precise sectors in the rear which.
+[[File:Radar Warning Receiver.jpg|thumb|The War Thunder standard RWR display showing a "ping" on 7 o'clock.]]
+A Radar Warning Receiver (RWR) is a system that informs the pilot about incoming radar radiation. In game the RWR is a clock display that shows the type of threat (detected by radar or tracked by radar) and its direction. 
 
-[[File:Rwr2.jpg|thumb|RWR indicating a radar lock at 2 o'clock.]]
-[[File:IP-1310-ALR.jpg|thumb|Actual IP-1310/ALR RWR on some US planes.]]
-[[File:Rwr4.jpg|thumb|A soviet RWR showing features not implemented in the game yet like threath type and below horizon or above horizon indicator.]]
+If a radar is sending a single "ping" at you (a search radar is detecting you), the RWR will sound a short warning and show the direction it is coming from. RWR can show multiple pings at once from different directions and sources. If you hear a constant alarm and see a striped line coming from the ping towards the center of the RWR, a tracking radar has locked you and is constantly tracking your position (which usually precedes a missile launch). 
 
-<p style="clear:both;"></p>
+Some helicopter RWR sets in-game have what's known as MAW (Missile Approach Warning), which warns the user about a missile launch that's heading directly to the user's vehicle. A few of these helicopters have the ability to automatically drop countermeasures when a MAW warning is active.
 
-== List of planes with a radar warning receiver in game ==
+In [[Update "La Royale"]], soviet aircraft got a slightly different RWR with non-precise sectors which indicate the approximate location of the ping or lock.
+
+[[File:Rwr2.jpg|thumb|RWR indicating a radar lock at 2 o'clock.]]<p style="clear:both;"></p>
+
+== List of planes with a Radar Warning Receiver in game ==
 {{Tree-Start|3|without header}}
 |- style="text-align:center;vertical-align:middle;"
 ! style="white-space:nowrap;" | <div style="-moz-transform:rotate(-90.0deg);-o-transform:rotate(-90.0deg);-webkit-transform:rotate(-90.0deg);margin:0.5em;"></div>
@@ -64,18 +66,14 @@ A Radar Warning Receiver (RWR) will inform the pilot about incoming radar radiat
 {{Tree-Unit|mig-21_s}}
 {{Tree-Skip|10px}}
 
-
 |style="border-left: solid 1px #cccccc;"|
 {{Tree-Unit|buccaneer_s2}}
 {{Tree-Skip|10px}}
 
-
 |style="border-left: solid 1px #cccccc;"|
-
 |style="border-left: solid 1px #cccccc;"|
 {{Tree-Unit|a_5c}}
 {{Tree-Skip|10px}}
-
 
 |style="border-left: solid 1px #cccccc;"|
 <!-- italy -->
@@ -138,7 +136,6 @@ A Radar Warning Receiver (RWR) will inform the pilot about incoming radar radiat
 {{Tree-Unit|harrier_frs1}}
 {{Tree-Skip|10px}}
 
-
 |style="border-left: solid 1px #cccccc;"|
 {{Tree-Unit|f-4ej_adtw}}
 {{Tree-Skip|10px}}
@@ -149,16 +146,13 @@ A Radar Warning Receiver (RWR) will inform the pilot about incoming radar radiat
 {{Tree-Unit|j_7d}}
 {{Tree-Skip|10px}}
 
-
 |style="border-left: solid 1px #cccccc;"|
 {{Tree-Unit|f-104s_cb}}
 {{Tree-Skip|10px}}
 
-
 |style="border-left: solid 1px #cccccc;"|
 {{Tree-Unit|mirage_f1c_200}}
 {{Tree-Skip|10px}}
-
 
 |style="border-left: solid 1px #cccccc;"|
 {{Tree-Unit|saab_j35xs}}

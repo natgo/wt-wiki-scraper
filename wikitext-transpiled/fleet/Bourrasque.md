@@ -18,9 +18,18 @@ The Bourrasque, like most other reserve vessels, features minimal armour, instea
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-The speed of the Bourrasque is below average compared to its contemporaries, putting the captain of this vessel at a disadvantage, whether that be attempting to capture zones or get to advantageous positions. On the other hand, the large rudder and low displacement of the Bourrasque grant it an extremely small turning circle, even compared to other ships of the tier. This allows the captain to easily 'wiggle' to avoid incoming fire, turn to avoid torpedo strikes, and allows the captain to change directions quickly.
-[[File:Bourrasque Gunshields.PNG|thumb|A close-up of the 10 mm thick gunshields]]
-{{NavalMobility}}
+The ship suffers from this rare combination of a very low maximum speed and a relatively poor turning radius. While smaller and slower destroyers typically can turn in less than 200 m stock, Bourrasque can't achieve that result until she unlocks the Rudder Replacement modification. This is an unusually bad result. But with Rudder unlocked she becomes a completely different beast, able to easily dodge torpedoes and bombs alike.
+
+{{NavalMobility
+|SpeedForwardStockAB = 55
+|SpeedBackStockAB = 23
+|TurnTimeStockAB = 123.333
+|TurnSpeedStockAB = 38
+|SpeedForwardSpadedAB = 75
+|SpeedBackSpadedAB = 31
+|TurnTimeSpadedAB = 65.867
+|TurnSpeedSpadedAB = 48
+}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -116,10 +125,10 @@ Similar ships from other nations:
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Sources:''
 
-* http://dunkirk1940.org/index.php?&p=1_256
-* https://en.wikipedia.org/wiki/French_destroyer_Bourrasque
-* http://www.navypedia.org/ships/france/fr_dd_bourrasque.htm
+* [[wikipedia:French destroyer Bourrasque|[Wikipedia] French destroyer Bourrasque]]
+* [http://dunkirk1940.org/index.php?&p=1_256 <nowiki>[Dunkirk 1940 - The Before, The Reality, The Aftermath]</nowiki> The French Destroyer Bourrasque]
+* [http://www.navypedia.org/ships/france/fr_dd_bourrasque.htm <nowiki>[Navypedia]</nowiki> BOURRASQUE destroyers (1926 - 1928)]
 
+{{ShipManufacturer Ateliers et Chantiers de France}}
 {{France destroyers}}

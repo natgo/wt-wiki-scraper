@@ -171,4 +171,5 @@ As for the internal needs of South Africa, an ordered series of 12 aircraft bega
 
 * [[wt:en/news/7863-development-rooivalk-mk1f-csh-heavy-accent-en|[Devblog] Rooivalk Mk1F CSH: Heavy Accent]]
 
+{{AirManufacturer Denel Aviation}}
 {{Britain helicopters}}

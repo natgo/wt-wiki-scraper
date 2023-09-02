@@ -13,7 +13,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} American fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
 
-The F4U-1D is a further development of the preceding [[F4U-1A]], featuring much improved performance thanks to a more powerful engine and improved aerodynamics. 
+The F4U-1D is a further development of the preceding [[F4U-1A]], featuring much improved performance thanks to a more powerful engine and improved aerodynamics.
 
 == General info ==
 === Flight performance ===
@@ -23,7 +23,7 @@ The stock performance is not that great. The engine overheats extremely easily, 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 6,096 m)
+! colspan="2" | Max speed<br>(km/h at 7,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -32,10 +32,10 @@ The stock performance is not that great. The engine overheats extremely easily, 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 644 || 621 || rowspan="2" | {{Specs|ceiling}} || 23.1 || 23.9 || 11.7 || 11.7 || rowspan="2" | 250
+| 645 || 622 || rowspan="2" | {{Specs|ceiling}} || 23.1 || 23.9 || 11.7 || 11.7 || rowspan="2" | 250
 |-
 ! Upgraded
-| 703 || 671 || 20.9 || 22.0 || 19.6 || 15.2
+| 703 || 672 || 20.9 || 22.0 || 19.6 || 15.2
 |-
 |}
 
@@ -72,36 +72,6 @@ The stock performance is not that great. The engine overheats extremely easily, 
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 450 || < 450 || < 500 || > 450
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 300 m || 2,000 hp || 2,270 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 4,785 m || 1,800 hp || 2,043 hp
-|-
-! colspan="3" | Setting 3
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 6,400 m || 1,650 hp || 1,872 hp
 |-
 |}
 

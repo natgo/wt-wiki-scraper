@@ -49,7 +49,7 @@ But the "thin metal fuselage" is still "metal", it would provide minor, temporar
 === Modifications and economy ===
 {{Specs-Economy}}
 
-The Hiyodori doesn't pack much armament and doesn't come with any armament upgrades, it's advised to work on flight performance while grinding your way up to getting the helicopter spaded and working towards the next vehicle, the [[AH-1S early]].
+The Hiyodori doesn't pack much armament and doesn't come with any armament upgrades, it's advised to work on flight performance while grinding your way up to getting the helicopter spaded and working towards the next vehicle.
 
 == Armaments ==
 {{Specs-Heli-Armaments}}

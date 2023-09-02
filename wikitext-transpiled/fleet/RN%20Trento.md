@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian heavy cruiser {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''{{Specs|name}}''' was the lead ship of the Trento-class heavy cruisers of the Regia Marina. Laid down in 1925 under the Washington naval treaty, although they exceeded the imposed limits of it. Trento together with her sister Trieste, were very lightly armoured with only a 70 mm thick belt, 20 to 50 mm thick deck and 100 mm armour protecting turrets. What Trento lacked in armour, she made up in her speed as she managed to reach 66 km/h during her trials and also featured a heavy armament consisting of eight 203 mm/50 Model 1924 guns made by Ansaldo, in four twin turrets with two forward and two aft. During WWII, Trento served extensively in Mediterranean, taking part in battle of Calabria, Cape Spartivento, and Cape Matapan. She also took part in the First and Second battle of Sirte, during which she heavily damaged British K-class destroyer HMS Kingston. In June 1942, during Operation Harpoon, Trento was torpedoed by a Bristol Beaufort torpedo bomber and then later on torpedoed by British submarine HMS Umbra and sunk with very heavy loss of life on June 15th, 1942.
+
+Introduced in [[Update "Starfighters"]], Trento is the first heavy cruiser of the Regia Marina that captains will come across. She offers powerful main weaponry and average speed, but inadequate protection. Her secondary weapons consist of six twin 100 mm turrets able to fire HE-TF shells against aircraft on long distances, complemented by four twin 37 mm Breda autocannons for self defence against motor torpedo boats and aircraft that manage to penetrate the flak barrage made by the 100 mm guns. As last wave of defense serve four twin 13.2 mm Breda heavy machine guns. Trento is also armed with 16 torpedoes with 4 loaded in two fixed twin launchers amidship on each side and another 8 torpedoes ready to be reloaded. However, the spare torpedoes are relatively unprotected as the 50 mm armour belt doesn't reach high enough to fully cover these, leaving the ship vulnerable to fatal torpedo explosions.
 
 == General info ==
 === Survivability and armour ===
@@ -82,8 +84,8 @@ The Trento is best used to support pushes towards caps by using its good module 
 * Poor reload time and accuracy, especially when stock
 * Poor manoverability, struggle to make an evasive manoever and moving around tight corridors
 * Inadequate ammunition protection, highly vulnerable to diving shots and torpedoes
-* Mediocre delicated anti-air armaments 
-* Static torpedo launchers 
+* Mediocre delicated anti-air armaments
+* Static torpedo launchers
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

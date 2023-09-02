@@ -5,15 +5,15 @@
 }}
 {{Specs-Card
 |code=kfir_canard
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_004.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |store=11812
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''', known as the F-21A/Kfir Gderot in US/Israeli service, is a premium gift rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}''', also known as the Kfir Gderot ("Fenced Kfir"), was an intermediate improvement of the initial IAI Kfir (Lion Cub). After the domestic production of Nesher (Mirage 5) by IAI, there were further plans to upgrade Nesher's underpowered engine with a GE J79 engine with much higher thrust, as well as some aerodynamic changes to fit the engine and for better overall capabilities. The new Kfir made its maiden flight in 1973 and soon joined IAF by the next year as one of the frontline fighters of the IAF against neighbouring Arabic countries. However, pilots often complained about the poor manoeuvrability of the aircraft compared to the [[Shahak|Mirage III]], and thus the aircraft were retrofitted with short canards on the air intakes, creating the Kfir Gderot variant. Alongside their service in Israeli forces, mainly as ground attackers, these aircraft were also rented by the USN and USMC (redesignated F-21A) as their aggressor squadron's jet to simulate combat against MiG-23s.
 
-The jet looks extremely like its technological predecessor, the [[Nesher]]; based on the Dassault [[Mirage 5 (Family)|Mirage 5]], but with a pair of fixed canards bolted onto the the sides of the air intake. It might somehow make it look like the later Mirage 2000, but it has an air-to-air armament inferior to its enemies and the combat limitations of delta-wing jets. For ground attack, the Kfir Canard still offers varieties of US bombs and rocket pods to make it effective against grouped targets.
+Introduced in [[Update "Apex Predators"]], the Kfir Canard looks very similar to its technological predecessor, the [[Nesher]]; based on the Dassault [[Mirage 5 (Family)|Mirage 5]], but with a pair of fixed canards bolted onto the the sides of the air intake. It might somehow make it look like the later Mirage 2000, but it has an air-to-air armament inferior to its enemies and the combat limitations of delta-wing jets. For ground attack, the Kfir Canard still offers varieties of US bombs and rocket pods that make it effective against grouped targets.
 
 == General info ==
 === Flight performance ===
@@ -188,6 +188,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9D Sidewinder missiles
 * 2 x Shafrir 2 missiles
@@ -246,12 +247,17 @@ However, the Kfir Canard can also be used as a support fighter, engaging unsuspe
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 In the mid-1960s, as the requirements of Israel Air Force for a dedicated cost-reduction variant of Mirage III arose, Dassault Aviation designed Mirage 5 for their needs on defense against neighbouring countries. But after the complications of the late-1960s, Israeli also managed to built their own version of Mirage 5 known as the Nesher ("vulture") and they were built from September 1969 until 1974.
 
-What replaced their production was a heavily-modified variant of Nesher with some aerodynamic changes on the tail and intake; although still being a delta-wing fighter, the new Kfir ("lion cub") based on a "technologist" prototype in October 1970. Then, later, the prototype model known as Ra'am B (Thunder B) powered by a licensed GE J79 engine made its maiden flight in June 1973. Serial production started in April 1975 and they was first seen in the Independence Day's parade in 14th May. Although the timespan of their production was rather short due to the introduction of the F-15A, later Kfir series have been the selected fighters of different countries such as Ecuador, Sri Lanka and oddly enough, the United States in USN/USMC service. As the need for fast adversary jets for the Navy arose, 25 Kfir C.1, known as F-21A in US service were leased from Israel in 1985 for such purpose which fitted the need for an adversary of MiG-23 (NATO: Flogger) due to its rather impressive acceleration yet subpar manoeuvrability. As the replacement for adversary jets of F-5Es came into service, they were then sent back to Israel in 1989 and examples of them can still be found in different places in Israel, as well as US Mainland.
+What replaced their production was a heavily-modified variant of Nesher with some aerodynamic changes on the tail and intake; although still being a delta-wing fighter, the new Kfir ("lion cub") based on a "technologist" prototype in October 1970. Then, later, the prototype model known as Ra'am B (Thunder B) powered by a licensed GE J79 engine made its maiden flight in June 1973. Serial production started in April 1975 and they was first seen in the Independence Day's parade in 14th May. Although the timespan of their production was rather short due to the introduction of the F-15A, later Kfir series have been the selected fighters of different countries such as Ecuador, Sri Lanka and oddly enough, the United States in USN/USMC service. As the need for fast adversary jets for the Navy arose, 25 Kfir, known as F-21A in US service were leased from Israel in 1985 for such purpose which fitted the need for an adversary of MiG-23 (NATO: Flogger) due to its rather impressive acceleration yet subpar manoeuvrability. As the replacement for adversary jets of F-5Es came into service, they were then sent back to Israel in 1989 and examples of them can still be found in different places in Israel, as well as US Mainland.
 
-The default delivery in-game represents the No. 703 of the 109th "Valley" Squadron of Israel Air Force (delivered as F-21 No.999703 of USN and returned to Israel in 1988<ref>https://abpic.co.uk/pictures/view/1148469</ref>).
+The default livery in-game represents the No. 703 of the 109th "Valley" Squadron of Israel Air Force (delivered as F-21 No.999703 of USN and returned to Israel in 1988<ref>https://abpic.co.uk/pictures/view/1148469</ref>).
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:StoreImage Kfir Canard 004.jpg|<small>Kfir Canard in flight</small>
+</gallery>
 
 ;Skins
 

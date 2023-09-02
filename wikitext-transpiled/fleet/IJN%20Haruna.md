@@ -102,6 +102,10 @@ The battlecruiser Haruna of the Kongō class was laid down in 1912 and commissio
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_battlecruiser_haruna Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+
+{{Youtube-gallery|SMdmbMhfM30|'''The History and Guide to IJN Haruna''' - ''Cmdr. Tyrael''}}
+
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''

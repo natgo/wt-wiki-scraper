@@ -229,7 +229,7 @@ If the enemy is using smoke grenades, pull the radar out and scan the screen, th
 * Armour is easily penetrated by any big gun and frontal penetration is almost always fatal due to fuel explosion
 * Launcher and radar are easy to hit when hull down, allowing hostile tanks to explode the hull anyway, as it counts as open-topped
 * Very vulnerable to assaults by strike aircraft and have no efficient way of fighting them
-* 9M123 ATGMs have inferior speed when compared to the missiles of [[ADATS]] and SAMs, making them inferior in missile duels
+* 9M123 ATGMs have inferior speed when compared to surface-to-air missiles, making them inferior in missile duels
 * Launcher can be hard to aim manually
 * Missiles have poor vertical manoeuvrability
 * Has to follow a specific set of rules to be useful in AB, extremely niche due to its limitations and versatility of opponent ATGM

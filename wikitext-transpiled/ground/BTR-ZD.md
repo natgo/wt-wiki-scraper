@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The '''{{Specs|name}}''' was a Soviet anti-aircraft vehicle designed with the intent of providing airborne troops with a mobile vehicle with the ability to transport MANPADS. It was developed in the late 1970s and entered service in 1984. As it was intended, it was originally only capable of carrying Strela and Igla MANPADS, but later on the airborne troops came up with the idea of attaching a ZU-23 twin-barrel autocannon on the modified BTR-D chassis. A little while later, the idea was approved by the manufacturers, and the 23mm autocannon began to be pre-installed on factory-built {{Specs|name}}s. These variants also had armored plating around the gun crew to protect them from shrapnel and rifle-caliber fire. Following the dissolution of the Soviet Union, the {{Specs|name}} continued to be used by the Russian Airborne Forces (VDV).
 
-Based on the BTR-D chassis derived from VDV's BMD-1, the BTR-ZD offers devastating twin 23 mm autocannons with good accuracy and rate of fire, as well as being mobile; while having the bare minimal survivability for the crew.
+The {{Specs|name}} was introduced in [[Update "Danger Zone"]]. Based on the BTR-D chassis derived from VDV's BMD-1, the {{Specs|name}} offers devastating twin 23 mm autocannons with good accuracy and rate of fire, as well as being mobile; while having the bare minimal survivability for the crew. It is best to wait until enemies get close before engaging them, as the {{Specs|name}}'s autocannons are most effective at short range. 
 
 == General info ==
 === Survivability and armour ===

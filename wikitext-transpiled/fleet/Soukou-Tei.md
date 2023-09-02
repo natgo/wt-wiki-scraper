@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese armoured gun boat {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The '''{{Specs|name}}''' was the first vessel of the Army's new [[Soukou-Tei (Family)|Soukou-Tei class]] (装甲艇, Armored Boat), also known as the AB-Tei class. Designed as a naval landing escort boat, its main role was to provide fire support to Daihatsu-type landing craft and to be transportable by cargo ships like other landing craft. The Sakigake (さきがけ, Pioneer) was the initial prototype of her class completed in 1928, powered by a gasoline engine and armed with two [[Type 38 pattern 1907 (6.5 mm)|6.5 mm Type 38 machine guns]] and one [[Type 11 pattern 1922 (37 mm)|37 mm ''"Sniper"'' gun]] in tank-like turrets.
+
+It was introduced in [[Update 1.89 "Imperial Navy"]]. Its main purpose was to provide coastal landing support and river patrol, so it is not very effective on open waters or against fast torpedo boats. The Sakigake in particular also only comes with early interwar armament that fails to deal any significant damage. A possible tactic for using the Sakigake is to ask fellow captains to tow it through the water, so that it can contribute some extra guns and armour that can withstand some low-tier weapons.
 
 == General info ==
 === Survivability and armour ===

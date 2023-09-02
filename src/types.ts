@@ -131,7 +131,7 @@ export interface GroundVehicle extends BaseVehicle {
   destroysTrees: boolean;
   rearmSmokeTimeOnField: number;
   canReloadNonGuns: boolean;
-  VehiclePhys: VehiclePhys;
+  VehiclePhys?: VehiclePhys;
   sound: Sound;
   cockpit: GroundCockpit;
   modifications: Record<string, GroundMod>;

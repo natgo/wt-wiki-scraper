@@ -10,12 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The Panavia Tornado GR.1 stands as a testament to its lasting impact within the Royal Air Force, spanning from its debut in the late 1970s to its operational tenure until the turn of the millennium. The Tornado GR.1's exceptional versatility was further underscored during Operation Desert Storm in the early 1990s, where it executed precision strikes with remarkable precision, solidifying its reputation as a potent force in modern aerial warfare. As the new millennium dawned, the aircraft continued to serve valiantly, being a key asset in peacekeeping missions and coalition operations in various theatres, including Bosnia and Kosovo. The Panavia Tornado GR.1's legacy extends beyond its operational prowess; it symbolizes the RAF's commitment to operational innovation and its ability to evolve to meet the changing demands of global security scenarios.
+
+The Tornado GR.1 was introduced in [[Update "Apex Predators"]], a versatile and multifaceted aircraft poised to reshape the lacking CAS capabilities of British tech-tree. This remarkable aircraft seamlessly adapts to the role of a versatile multi-role warrior, skillfully engaging both ground and aerial targets across an array of scenarios. With a flexible array of armaments at its disposal, the Tornado GR.1 stands ready to confront a wide spectrum of challenges, from lightly armoured targets able to be taken out with rockets, to entrenched ground targets. As it materializes as underappreciated, the Tornado GR.1 silently emerges as a potent ground assailant, utilizing its capacity for precision strikes from a calculated distance, unsettling even the most vigilant of anti-aircraft units with Precision Guided Munitions (PGM). Tailored to pilots who revel in the intricate dynamics of multifaceted operations and diverse weapon configurations, the Panavia Tornado GR.1 beckons to those who traverse the skies with a combination of deliberate patience and honed skill.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->{| class="wikitable" style="text-align:center" width="70%"
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+{| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
 ! colspan="2" | Max speed<br>(km/h at 10,972 m)
 ! rowspan="2" | Max altitude<br>(metres)
@@ -123,7 +126,7 @@ The Tornado has no armour to speak of and is relatively large, making it an easy
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Cross}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -138,53 +141,68 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 83 (1,000 lb)|H.E. M.C. Mk.13 (1,000 lb)|Mk.13 (546 kg)|GBU-24 Paveway III (2,000 lb)|AIM-9L Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4.8%" | 1 !! width="4.8%" | 2 !! width="4.8%" | 3 !! width="4.8%" | 4 !! width="4.8%" | 5 !! width="4.8%" | 6 !! width="4.8%" | 7 !! width="4.8%" | 8 !! width="4.8%" | 9 !! width="4.8%" | 10 !! width="4.8%" | 11
+| rowspan="9" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
+| || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1*<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1, 2<sup>‡</sup> || 1, 2 || ||
+|-
+! [[H.E. M.C. Mk.13 No.117 (1,000 lb)|1,000 lb H.E. M.C. Mk.13 No.117]] bombs
+| || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1*<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1, 2<sup>‡</sup> || 1, 2 || ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1*<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1, 2<sup>‡</sup> || 1, 2 || ||
+|-
+! [[Mk.13 (546 kg)|546 kg Mk.13]] bombs
+| || || 1<sup>†</sup> || 1<sup>†</sup> || || 1*<sup>†</sup><sup>‡</sup> || || || 1<sup>†</sup>* || ||
+|-
+! [[PGM 500 (404 kg)|404 kg PGM 500]] bombs
+| || || 1 || 1* || || || || 1* || 1 || ||
+|-
+! [[PGM 2000 (1,060 kg)|1,060 kg PGM 2000]] bombs
+| || || 1 || 1* || || || || 1* || 1 || ||
+|-
+! [[GBU-24 Paveway III (2,000 lb)|2,000 lb GBU-24 Paveway III]] bombs
+| || || || 1*<sup>†</sup> || || || || || || ||
+|-
+! [[AIM-9L Sidewinder]] missiles
+| || 1 || || || || || || || || 1 ||
+|-
+! Large calibre countermeasures
+| 28 || || || || || || || || || || 28
+|-
+! TIALD targeting pod
+| || || || || || || || 1<sup>†</sup> || || ||
+|-
+! 1,500 l drop tanks
+| || || 1 || || || || || || 1 || ||
+|-
+| colspan="13" | * Marked guided bombs on hardpoints 4/8 cannot be equipped with bombs on hardpoint 6 or hardpoints 5/7 respectively <br> <sup>†</sup> TIALD targeting pod must be equipped when using marked guided bombs <br> <sup>‡</sup> Bombs on hardpoint 6 cannot be equipped with dual bomb mounts on hardpoints 4-8
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 
 * 2 x 1,500 l drop tanks
 * 56 x large calibre countermeasures
 * 2 x AIM-9L Sidewinder missiles
 * 4 x 546 kg Mk.13 bombs (2,184 kg total)
 * 1 x 2,000 lb GBU-24 Paveway III bomb (2,000 lb total)
-* 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
 * 7 x 1,000 lb H.E. M.C. Mk.13 bombs (7,000 lb total)
 * 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
 * 12 x 1,000 lb H.E. M.C. Mk.13 bombs (12,000 lb total)
+* 12 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (12,000 lb total)
 * 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="4.8%" | 1 !! width="4.8%" | 2 !! width="4.8%" | 3 !! width="4.8%" | 4 !! width="4.8%" | 5 !! width="4.8%" | 6 !! width="4.8%" | 7 !! width="4.8%" | 8 !! width="4.8%" | 9 !! width="4.8%" | 10 !! width="4.8%" | 11
-| rowspan="9" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 546 kg Mk.13 bombs
-| || || 1<sup>†</sup> || 1<sup>†</sup> || || 1*<sup>†</sup><sup>‡</sup> || || || 1<sup>†</sup> || ||
-|-
-! 1,000 lb H.E. M.C. Mk.13 bombs
-| || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1*<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2 || ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1*<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> || 1, 2 || ||
-|-
-! 2,000 lb GBU-24 Paveway III bombs
-| || || || 1*<sup>†</sup> || || || || || || ||
-|-
-! AIM-9L Sidewinder missiles
-| || 1 || || || || || || || || 1 ||
-|-
-! Large calibre countermeasures
-| 28 || || || || || || || || || || 28
-|-
-! TIALD
-| || || || || || || || 1<sup>†</sup> || || ||
-|-
-! 1,500 l drop tanks
-| || || 1 || || || || || || 1 || ||
-|-
-| colspan="13" | * GBU-24 Paveway III cannot be equipped with bombs on hardpoints 5-6 <br> <sup>†</sup> TIALD targeting pod must be equipped when using guided bombs <br> <sup>‡</sup> Bombs on hardpoint 6 cannot be equipped with dual bomb mounts on hardpoints 4-8
-|}
+* 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
+* 4 x 404 kg PGM 500 bombs (1,616 kg total)
+* 3 x 1,060 kg PGM 2000 bombs (3,180 kg total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

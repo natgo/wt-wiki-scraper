@@ -1,8 +1,3 @@
-{{About
-| about = German SPAA '''{{PAGENAME}}'''
-| usage = other uses
-| link = LT-38 (Family)
-}}
 {{Specs-Card
 |code=germ_flakpanzer_38t_Gepard
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -46,7 +41,7 @@ Top speed and power-to-weight ratio are much higher than the [[Flakpanzer I]], t
 === Modifications and economy ===
 {{Specs-Economy}}
 
-For this vehicle, two very important modifications to keep an eye out for are the Sprgr. and PzGr 40 ammo belts. The first provides a boost to the vehicle's anti-air capabilities, being completely filled with high explosive shells, and the second turns the Flakpanzer into a deadly anti-tank machine with high-penetration HVAP rounds.
+For this vehicle, two very important modifications to keep an eye out for are the Sprgr. and PzGr.40 ammo belts. The first provides a boost to the vehicle's anti-air capabilities, being completely filled with high explosive shells, and the second turns the Flakpanzer into a deadly anti-tank machine with high-penetration HVAP rounds.
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
@@ -55,7 +50,7 @@ For this vehicle, two very important modifications to keep an eye out for are th
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|FlaK38 (20 mm)}}
 
-The gun is the same as its predecessor, the FlaK38. It has sufficient HE shells for planes, 37 mm penetration AP-I, and 48 mm penetration HVAP. The belt size is identical. Reload between clips is long. The gun can pen most things the tank encounters, barring Valentines, Matildas, B1 bis, B1 ter, and T-28E.
+The gun has sufficient HE shells for planes, 37 mm penetration AP-I, and 48 mm penetration HVAP. The belt size is identical. Reload between clips is long. The gun can penetrate most enemies the tank encounters, barring Valentines, Matildas, B1 bis, B1 ter, and T-28E.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -74,10 +69,11 @@ The gun is the same as its predecessor, the FlaK38. It has sufficient HE shells 
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
-* '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
-* '''PzGr 40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
+* '''PzGr.:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
+* '''PzGr.40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
 
 {{:FlaK38 (20 mm)/Ammunition|HEFI-T*, API-T, HVAP-T}}
 
@@ -107,7 +103,7 @@ In the late stages of the match you should be even more careful, as at this time
 
 '''Pros:'''
 
-* Great firepower: wonderful combination of rapid firerate, adequate velocity, 20 round mag and various belt types- Sprgr. belt is destructive against low tier aircraft, while PzGr 40 is very deadly against armoured targets (eg. [[M3A3 (Italy)|M3A3]], [[T-60]] or even the [[B1 bis]])
+* Great firepower: wonderful combination of rapid firerate, adequate velocity, 20 round mag and various belt types: The Sprgr. belt is destructive against low-tier aircraft, while the belt containing the PzGr.40 is very deadly against armoured targets (e.g. [[M3A3 (Italy)|M3A3]], [[T-60]] or even the [[B1 bis]])
 * Fast turret traverse allows it to keep up with close/fast targets easily, while the great gun elevation and depression means it can fight in any terrain
 * Small frontal profile allows it to hide behind cover or bushes easily, which mitigates against its lack of protection
 * Decent top speed of 42 km/h means it can get to certain positions alongside light tanks, which is great for ambushing
@@ -118,7 +114,7 @@ In the late stages of the match you should be even more careful, as at this time
 
 * Extremely poor survivability: only two crew protected by thin armour makes it easily to get destroyed by overpressure
 * Rather long reload time requires strict trigger control
-* The PzGr 40 belt is mixed with low-penetrating belts, reducing its anti-tank capability as half of the shells sometimes won't be able to penetrate
+* The PzGr.40 belt is mixed with low-penetrating belts, reducing its anti-tank capability as half of the shells sometimes won't be able to penetrate
 * Slow reverse speed of only -6 km/h can get the player killed due to not being able to retreat from danger quickly
 
 == History ==
@@ -127,9 +123,9 @@ In the late stages of the match you should be even more careful, as at this time
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}|expand=true}}
 {{Navigation-First-Simple-Line}}
-The Flakpanzer 38(t) self-propelled anti-air mount was a temporary transitional version that was used until the development of a real anti-air tank on the chassis of the Panzer IV was completed. The vehicle was produced from November, 1943 to February, 1944. The first 87 Flakpanzer 38(t) AA vehicles appeared at the front in January, 1944 and made up Flugabwehrzug (AA platoons) in tank divisions and tank grenadier divisions (sometimes in Waffen SS divisions such as the Hitlerjugend 12th Waffen SS division in Norway in 1944).
+The Flakpanzer 38(t) self-propelled anti-air mount was a temporary transitional version that was used until the development of a real anti-air tank on the chassis of the Panzer IV was completed. The vehicle was produced from November 1943 to February 1944. The first 87 Flakpanzer 38(t) AA vehicles appeared at the front in January 1944 and made up Flugabwehrzüge (AA platoons) in tank divisions and tank grenadier divisions (sometimes in Waffen-SS divisions, such as the 12th SS Panzer Division "Hitlerjugend" in Normandy 1944).
 
-In 1944-1945 Flakpanzer 38(t) AA vehicles were used actively on the Italian and Western Fronts, where they were effective against low-flying aircraft.
+In 1944-1945, Flakpanzer 38(t) AA vehicles were used actively on the Italian and Western Fronts, where they were effective against low-flying aircraft.
 
 A total of 141 Flakpanzer 38(t) AA vehicles were released.
 {{Navigation-End}}
@@ -138,6 +134,7 @@ A total of 141 Flakpanzer 38(t) AA vehicles were released.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpanzer_38t_Gepard Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -149,11 +146,13 @@ A total of 141 Flakpanzer 38(t) AA vehicles were released.
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Flakpanzer I]]
 * [[Ta-Se]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

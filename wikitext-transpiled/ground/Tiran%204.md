@@ -67,7 +67,7 @@ Due to the lack of resources during the wars, Israeli didn't replace the powerpl
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | N/A || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 11.05 || rowspan="2" | 9.78 || rowspan="2" | 9.01 || rowspan="2" | 8.50
+| rowspan="2" | 34 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | - || 9.5 || 13.2 || 16.0 || 17.7 || 18.8 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
 | 6.0 || 7.0 || 8.5 || 9.4 || 10.0
@@ -107,7 +107,7 @@ Due to the lack of resources during the wars, Israeli didn't replace the powerpl
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 3,000 (250) || 500 || N/A || N/A
+| Coaxial || 3,000 (250) || 500 || - || -
 |-
 | Pintle || 1,000 (250) || 500 || -10°/+60° || ±180°
 |-

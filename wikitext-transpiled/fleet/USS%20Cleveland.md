@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American light cruiser {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+Laid down in July of 1940, the '''{{Specs|name}}''' was a later development of the earlier [[Brooklyn (Family)|Brooklyn-class]] light cruisers, with a slight reduction in the main battery firepower in exchange for a stronger secondary battery. Launched in 1941, Cleveland would go on to serve throughout the Second World War, notably taking part in such famous battles as Guadalcanal and the Battle of the Philippine sea. Her final act of the war would be to cover the evacuation of Allied POWs from occupied Japan, before being deactivated in 1947. She would remain in the reserves until her scrapping in 1960.
 
-Designed as a revised version of the [[Brooklyn (Family)|Brooklyn-class]] light cruisers with an emphasis on increased anti-air defense, the USS Cleveland is well-known for her extensive career throughout World War II, serving in both the Atlantic and Pacific theatres of the war. Success of the Cleveland-class proved the concept of the "screening fleet" doctrine and her layout helped to inspire the "universal gun cruiser" schemes of other late war ships, most notably the [[Baltimore (Family)|Baltimore-class]] heavy cruisers.
-
-In War Thunder, at first glance the USS Cleveland may seem like a downgrade from the Brooklyn, due to her placement in the tech tree and one less {{Annotation|6-inch|152 mm}} triple gun mount. However, as with her real life counterpart, the Cleveland offers more versatility compared to the Brooklyn with a bolstered secondary and anti-aircraft battery. This takes the form of twelve {{Annotation|5-inch|127 mm}}/38 dual-purpose guns and a large number of 40 mm Bofors and 20 mm Oerlikon autocannons. The increase in the auxiliary batteries easily makes up for the loss of one triple {{Annotation|6-inch|152 mm}} mount.
+Introduced in [[Update "Starfighters"]], USS Cleveland serves as a sidegrade to the earlier [[Brooklyn (Family)|Brooklyn class]], with one less {{Annotation|6-inch|152 mm}} triple gun mount. In exchange this allows for a bolstered secondary and anti-aircraft battery; in this case twelve {{Annotation|5-inch|127 mm}}/38 dual-purpose guns and a large number of 40 mm Bofors and 20 mm Oerlikon autocannons. Additionally, the main battery also has faster vertical and horizontal slew, allowing for more easily engaging multiple targets at once, or even targeting aircraft with the main battery. Captains of the USS Cleveland can expect to be incredibly effective against destroyers and light cruisers, but have a more difficult time at long range against more heavily armoured targets.
 
 == General info ==
 === Survivability and armour ===
@@ -170,6 +168,10 @@ File:USS Cleveland WTWallpaper 06.jpg|
 File:USS Cleveland WTWallpaper 07.jpg|
 File:USS Cleveland WTWallpaper 08.jpg|
 </gallery>
+
+;Videos
+
+{{Youtube-gallery|mziQ42bc5uU|'''USS Cleveland - History & Guide''' - ''Cmdr. Tyrael''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
