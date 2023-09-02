@@ -244,7 +244,7 @@ async function main(dev: boolean) {
 
   fs.writeFileSync(
     `./data/data/${dev ? "final-dev" : "final"}.json`,
-    format(JSON.stringify(final), { parser: "json" }),
+    await format(JSON.stringify(final), { parser: "json" }),
   );
 }
 

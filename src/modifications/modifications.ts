@@ -170,7 +170,7 @@ async function main(dev: boolean) {
 
   fs.writeFileSync(
     `./data/data/${dev ? "modifications-dev" : "modifications"}.json`,
-    format(JSON.stringify(modFinal), { parser: "json" }),
+    await format(JSON.stringify(modFinal), { parser: "json" }),
   );
 }
 

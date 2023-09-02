@@ -18,7 +18,7 @@ async function main(dev: boolean) {
   });
   fs.writeFileSync(
     `./data/data/${dev ? "powertoweight-dev" : "powertoweight"}.json`,
-    format(JSON.stringify(arr), { parser: "json" }),
+    await format(JSON.stringify(arr), { parser: "json" }),
   );
 }
 

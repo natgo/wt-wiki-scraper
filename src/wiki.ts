@@ -102,7 +102,7 @@ async function download(vehicles: categorymemberspart[], type: string) {
     };
     fs.writeFileSync(
       `./wikitext/${type}/${encodeURIComponent(element.title)}.json`,
-      format(JSON.stringify(out), { parser: "json" }),
+      await format(JSON.stringify(out), { parser: "json" }),
     );
     fs.writeFileSync(
       `./wikitext-transpiled/${type}/${encodeURIComponent(element.title)}.md`,
@@ -131,15 +131,15 @@ async function categorymembers(categorymembers: categorymemberspart[]) {
     };
     fs.writeFileSync(
       `./techtree/ground/${encodeURIComponent(element.title)}.json`,
-      format(JSON.stringify(out), { parser: "json" }),
+      await format(JSON.stringify(out), { parser: "json" }),
     );
     fs.writeFileSync(
       `./parsed/${encodeURIComponent(element.title)}.md`,
-      format(wikiresponse.data.parse.wikitext["*"], { parser: "markdown" }),
+      await format(wikiresponse.data.parse.wikitext["*"], { parser: "markdown" }),
     );
     fs.writeFileSync(
       `./parsed/${encodeURIComponent(element.title)}.html`,
-      format(decomment(response.data.parse.text["*"]), { parser: "html" }),
+      await format(decomment(response.data.parse.text["*"]), { parser: "html" }),
     );
   });
 }

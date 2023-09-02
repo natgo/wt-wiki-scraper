@@ -75,7 +75,10 @@ async function main() {
       visibility: parseFloat(vehicleVisibility),
     });
   });
-  fs.writeFileSync("./data/data/wiki.json", format(JSON.stringify(scrape), { parser: "json" }));
+  fs.writeFileSync(
+    "./data/data/wiki.json",
+    await format(JSON.stringify(scrape), { parser: "json" }),
+  );
 }
 
 main();

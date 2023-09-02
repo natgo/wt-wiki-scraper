@@ -325,7 +325,7 @@ async function main(dev: boolean) {
 
   fs.writeFileSync(
     `./data/data/${dev ? "shop-dev" : "shop"}.json`,
-    format(JSON.stringify(finalShopSchema.parse(result)), { parser: "json" }),
+    await format(JSON.stringify(finalShopSchema.parse(result)), { parser: "json" }),
   );
 }
 

@@ -224,7 +224,7 @@ async function main(dev: boolean) {
   });
   fs.writeFileSync(
     `./data/data/${dev ? "vehicles-dev" : "vehicles"}.json`,
-    format(JSON.stringify(result), { parser: "json" }),
+    await format(JSON.stringify(result), { parser: "json" }),
   );
 }
 
