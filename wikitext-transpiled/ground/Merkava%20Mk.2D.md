@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The '''Merkava Mk.2D''' was the third and last subvariant of the [[Merkava Mk.2B|Merkava Mk.2]], which was the second variant of the [[Merkava (Family)|Merkava main battle tank family]]. Several enhancements were made to the Merkava Mk.2 over its service life. The Merkava Mk.2B was equipped with gunner thermal imaging equipment; this was followed by more armour and composite screens on the top of the turret of the Merkava Mk.2C, to enhance urban warfare protection against rocket-propelled grenades (RPGs) and anti-tank guided missiles (ATGMs) fired from building rooftops, as well as attacks from enemy air forces. Finally, the Merkava Mk.2D was equipped with the most recent add-on modular composite armour, quite similar to that of the [[Merkava Mk.4B|Merkava Mk.4]] variant, where damaged modular composite armour may be easily swapped out for new modular composite armour even while in combat. Newly upgraded modular composite armour could also be simply added without requiring significant changes to the tank's fundamental structure.
+
+Introduced in [[Update "Winged Lions"]], the Merkava Mk.2D is the most advanced derivative of the Merkava Mk.2. With turret protection comparable to the Merkava Mk.4 variant, the Merkava Mk.2D will undoubtedly shine in the hands of any competent player. In rocky terrain, players will have little issue adopting a hull-down position and making the best use of the tank's low silhouette and fully protected turret to lock down areas of the battlefield against adversaries.
 
 == General info ==
 === Survivability and armour ===
@@ -28,9 +30,11 @@ Despite all this elaborate protection against some chemical shells, the {{PAGENA
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+
 * Cast homogeneous armour (Hull front, Turret, Gun mantlet)
 * Rolled homogeneous armour (Hull, Turret roof)
 * Composite screen (Extra laid on Hull front/sides and Turret front/sides)
+
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
@@ -41,14 +45,15 @@ Despite all this elaborate protection against some chemical shells, the {{PAGENA
 |-
 | Cupola || 30 mm (0-32°) || 30 mm (0-33°) || 30 mm (0-33°) || 30 mm
 |-
-| Composite screen || colspan = "4" | <nowiki>*</nowiki> - Presence of composite screen.
+| Composite screen || colspan="4" | <nowiki>*</nowiki> - Presence of composite screen.
 |-
-| Spaced armour || colspan = "4" | <sup><nowiki>‡</nowiki></sup> - Presence of spaced armour.
+| Spaced armour || colspan="4" | <sup><nowiki>‡</nowiki></sup> - Presence of spaced armour.
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+
 * Tracks and suspension wheels are 20 mm thick.
 * Turret front has 100 mm CHA plate behind the base armour.
 * Turret sides and rear consists of spaced armour with the base cast armour and a 45 mm plate behind them.
@@ -168,6 +173,7 @@ However, if the {{PAGENAME}} is aware that the player across the corner fires on
 * Plethora of smoke launchers
 * Effective firepower with APFSDS and laser rangefinder / warning system
 * Thermal imaging systems for gunner
+* The placement of the engine at the front of the vehicle allows for it to occasionally it to soak up some hits and protect the crew, allowing you to return fire even if you are immobilised
 
 '''Cons:'''
 

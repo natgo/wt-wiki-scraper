@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The '''Merkava Mk.3B''' is the first subvariant of the Merkava Mk.3, which is the third variant of the [[Merkava (Family)|Merkava main battle tank family]]. The Merkava Mk.3 variant debuted in December 1989 and remained in production until 2003. The Merkava 3 variant is by far the most numerous tank in frontline Israeli Defence Forces (IDF) duty as of 2016. It has improvements to the drivetrain, powerplant, weaponry, and electronic systems over the Merkava Mk.2 variant. The inclusion of the domestically designed 120 mm IMI L/44 tank gun (no relation to the 120 mm Rheinmetall L/44 tank gun) was the most noticeable upgrade. This gun is capable of firing all standard NATO 120 mm ammunition. It can also fire gun-launched LAHAT anti-tank guided missiles (ATGMs) like regular rounds. The vehicle has 50 rounds for the main tank gun. Ammunition is kept in its own canisters. The tank gun and a more powerful 1,200-horsepower Continental AVDS-1790-9AR diesel engine increased the tank's total weight to 65 tonnes; however, the larger engine also increased the maximum cruising speed to 60 kilometres/hour. The turret was also redesigned to move independently of the tank chassis, allowing it to track a target regardless of how the tank moved. The Merkava Mk.3B subvariant received an upgrade that included the installation of modular composite armour across the turret roof to provide protection against anti-tank guided missiles (ATGMs) fired from elevated positions. It was implemented in 1994 and was kept in all further upgrades.
+
+Introduced in [[Update "Danger Zone"]], the Merkava Mk.3B has significantly more firepower than prior variants. The Merkava Mk.3B is the first Merkava main battle tank to be equipped with the 120 mm IMI L/44 tank gun, so it performs an important role in battle by laying down defensive fire for allies. The far more powerful 1,200-horsepower Continental AVDS-1790-9AR diesel engine improves mobility significantly. This enables players to reach crucial positions considerably faster than before, giving them a significant advantage in the fast-paced battles of modern warfare.
 
 == General info ==
 === Survivability and armour ===
@@ -23,6 +25,7 @@ The rear of the vehicle is also rather strong, featuring two 30 mm plates with a
 The turret also features a layout that even when penetrated can save the gunner or loader from getting hit by spall because of how low they are placed. The commander will usually be the first crew member to be knocked out, being the most exposed crew member of your tank. The breech is a rather large weakspot with a well placed shot under the gun having the potential of eliminating all of your crew.
 
 '''Armour type:'''
+
 * Cast homogeneous armour (Turret, Hull front, Gun mantlet)
 * Rolled homogeneous armour (Hull sides and rear)
 * Composite screens (Turret front and sides, Hull front and sides)
@@ -166,6 +169,7 @@ Do not forget that your vehicle also features a total of four machineguns, one o
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_merkava_mk_3b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

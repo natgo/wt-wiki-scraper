@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''Merkava Mk.4B''' is the first subvariant of the Merkava Mk.4, which is the fourth variant of the [[Merkava (Family)|Merkava main battle tank family]]. Merkava Mk.4 development began in 1999, and production began in 2004. The development of this variant was reported in October 1999 through the issue of the military newspaper Bamachaneh ("At the Camp"). The Merkava Mk.3 was, nonetheless, still in production until 2003. The Merkava Mk.4 features removable modular composite armour, which has been employed on all sides, including the top, with a V-shaped belly armour pack for the underbelly. This modular system is intended to allow damaged tanks to be repaired quickly and returned to action. Due to the thinner rear armour, chains with iron balls are attached to interfere with projectiles before they contact the main armoured hull. The Merkava Mk.4B is a subvariant that has improved sensors and virtual reality vision capabilities, allowing crews to see the whole battlefield while remaining inside the tank. Furthermore, it is the world's first tank with a smart mission computer that supervises the tank's tasks. This superior artificial intelligence technology minimizes the workload of the crew, particularly the tank commander. It also aids in target identification and accuracy. This system is linked to a battle management system.
+
+Introduced in [[Update "Wind of Change"]], the Merkava Mk.4B is one of the most recent subvariants of the Merkava main battle tank. With up to 800-1,200 mm of protection on the turret front with its non-explosive reactive armour (NERA), it can effectively resist even hits from anti-tank guided missiles (ATGMs). Overall, the Merkava Mk.4B is well protected against high explosive anti-tank (HEAT) warheads. However, despite engine improvements, the Merkava Mk.4B becomes progressively heavier, reducing its mobility in comparison to main battle tanks from other nations.
 
 == General info ==
 === Survivability and armour ===
@@ -18,7 +20,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 The Merkava is not a small tank by any metric, being very wide and tall. This makes you a big target for enemies.
 
-The Merkava is strongly protected against HEAT with up to 800-1,200 mm of protection on the turret front, and the UFP having enough protection with its NERA and engine and transmission blocks to stop a Kornet in its tracks. 
+The Merkava is strongly protected against HEAT with up to 800-1,200 mm of protection on the turret front, and the UFP having enough protection with its NERA and engine and transmission blocks to stop a Kornet in its tracks.
 
 However, KE protection may be somewhat lacking with average KE protection on the turret front averaging about 450-550mm of KE protection on the turret front and about 350-450mm of protection on the UFP (engine and transmission protection included) which for top tier is not quite adequate.
 
@@ -26,7 +28,7 @@ The Merkava also features a unique armour layout being the only tank aside from 
 
 All in all, the Merkava's armour is somewhat lacking in some areas but can more then compensate in others.
 
-'''Armour type:''' 
+'''Armour type:'''
 
 * Rolled homogeneous armour<!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -36,7 +38,7 @@ All in all, the Merkava's armour is somewhat lacking in some areas but can more 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 50 mm (74°) ''Upper plate'' <br> 50 mm (39-58°) ''Lower glacis'' || 50 mm ''Top'' <br> 50 mm ''Bottom'' || 30 mm (1-45°) || 30 mm
+| Hull || 50 mm (74°) ''Upper plate'' <br> 50 mm (39-58°) ''Lower glacis'' || 50 mm ''Top'' <br> 50 mm ''Bottom'' || 30 mm (1-45°) || 30 mm
 |-
 | Turret || 40-230 mm (9-62°) ''Turret front'' <br> 197 mm (1°) ''Gun mantlet'' || 38 mm (17°) || 20 mm (1°) || 25-45 mm
 |-
@@ -48,7 +50,7 @@ All in all, the Merkava's armour is somewhat lacking in some areas but can more 
 |-
 | Hull || '''Upper glacis:'''<br> 300-450 mm ''Kinetic'' / 1,050-1,300 mm ''Chemical'' (engine block included) <br> '''Lower glacis:'''<br> 180-330 mm ''Kinetic'' / 250-400 mm ''Chemical'' (engine block included) || '''Side:'''<br> 50-228 mm ''Kinetic'' / 320-475 mm ''Chemical''
 |-
-|Turret || '''Turret cheeks:'''<br> 380-620 mm ''Kinetic'' / 920-1,100 mm ''Chemical'' <br> '''Turret sides'''<br> 240-410 mm ''Kinetic'' / 600-1,120 mm ''Chemical''
+|Turret || '''Turret cheeks:'''<br> 380-620 mm ''Kinetic'' / 920-1,100 mm ''Chemical'' <br> '''Turret sides'''<br> 240-410 mm ''Kinetic'' / 600-1,120 mm ''Chemical''
 |
 |}
 '''Notes:'''
@@ -138,7 +140,7 @@ The Merkava may feel quite snappy at low speeds due to its high torque and good 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Merkava Merkava performs amazingly at range and can still hold its own in a brawl. It plays somewhat similarly to previous Merkavas requiring a more laid back approach in order to well. 
+The Merkava Merkava performs amazingly at range and can still hold its own in a brawl. It plays somewhat similarly to previous Merkavas requiring a more laid back approach in order to well.
 
 The Merkava can perform somewhat well in urban combat thanks to its great reaction speed and decent mobility forwards and backwards. However, keep in mind other tanks such as the T-72B3 and T-80BVM will easily outclass you in a brawl so pick your targets wisely.
 

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''{{Specs|name}}''' (חובט, lit. batsman) represent the [[M163|M163 VADS]] in IDF service. According to the records of the IDF, the vehicle joined the Israeli Air Defense Command in 1975 as a new air defense weapon, alongside the MIM-72 Chaparral which was introduced a year earlier. The Hovet, however, waited 7 years until it earned its first victory against an enemy target, in the 1982 Lebanese War, and further served in the IDF for more than 2 decades until the IADC was disbanded, leading to the decommission of the Hovet and its modernized variant, [[Machbet]], which was upgraded with TVD and 4 FIM-92 Stingers.
+
+Introduced in [[Update "Wind of Change"]] along with the initial Israeli tech tree, the Hovet performs identically to its US Army cousin. Although the lack of search radar and its M113 chassis with minimal protection due to the aluminium alloy armour plates could cause problems when duelling with targets, the six-barrel M168 Vulcan can still strike fear into enemy aerial targets or vehicles with its high rate-of-fire and iconic sound.
 
 == General info ==
 === Survivability and armour ===
@@ -18,14 +20,12 @@ Armour is thin enough and can be destroyed by 12.7 mm machine gun fire from the 
 * Rolled homogeneous armour
 
 {| class="wikitable"
-|-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 38+6 mm (45°) ''Upper Glacis'' <br> 38 mm (26°) ''Lower Glacis'' <br> 29 mm (45°) ''Engine Maintenance Hatch'' || 44+6 mm ''Top'' <br> 32 mm ''Bottom'' || 38 mm || 38 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+|Turret || 17 mm ''Turret Front'' <br> 150 mm ''Gun Mantlet'' || 17 mm || 17 mm
+!
 |-
 |}
 
@@ -100,23 +100,25 @@ The Hovet wields about 60 mm of penetration, which is enough to mortally wound/d
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-'''Pros:''' 
+'''Pros:'''
 
 * Can be used as a last resort weapon to shoot down incoming bombs and rockets
 * Cannot be easily killed by .50 cal MGs, meaning you are stronger against strafing aircraft
 * High rate of fire
 
-'''Cons:''' 
+'''Cons:'''
 
 * Long reload time
 * The 20 mm shells lose velocity quickly, making it very difficult to attack fast planes past 2 km or light tanks past 1 km
-* No passive radar search 
-* The gun overheats over quickly 
+* No passive radar search
+* The gun overheats over quickly
 * Low penetration
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+According to the description from Israel Air Force, the M163 VADS (which consists of 2 batteries per unit) joined the Israeli Air Defense Command in 1975; these batteries would usually deployed near the northern border of Israel where the Purple Line (post-1967 ceasefire line between Israel-Syria by the Golan Heights) sit during peaceful times; but as soon as there was any need for armed conflicts, the vehicles would redeploy with the ground forces. After 7 years of service, the system achieve 3 victories including the first victory of M163 VADS against jet aircrafts in 1982. On 1982/6/10, an battery commanded by Lt. Dobi Amitai was having conflicts with insurgents during the 1982 Lebanese War (Operation Peace for Galilee) at Douha near Beirut, where Sgt. Yoav Weinkert spotted a Syrian MiG-21; the other battery commanded by Roni Kovertovsky spotted the same jet from the eyes of gun director Tamir Mor. Both batteries, now at 4 vehicles, fired upon the jet while covering each other as they were taking fire from insurgents at the same time; 15 seconds later, the jet was shot down by the batteries.<ref>https://web.archive.org/web/20120310140629/http://www.iaf.org.il/239-18136-he/IAF.aspx?indx=1</ref>
+
+Some of the M163 were also converted into the Machbet (מחבט, lit. racquet) with upgrades including opto-electronic tracker, TVD and 4 FIM-92 Stingers mounted next to the turret. After the disbandment of the IADC in 2006, these vehicles were decommissioned.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

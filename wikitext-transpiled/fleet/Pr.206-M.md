@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet motor torpedo gun boat {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game.
+The '''{{Specs|name}}''', was a series of torpedo boats differed from its predecessor, the [[Pr. 206]] "Shershen", due to its improved weaponry and new combat capabilities. It was produced in the 1970s for the Soviet navy and exported to its allies in a small quantity, used for coastal patrol and anti-submarine warfare.
 
-This series of torpedo boats differed from its predecessor, the [[Pr. 206]] "Shershen", due to its improved weaponry and new combat capabilities. It was produced in the 1970s for the Soviet navy and exported to its allies in a small quantity, used for coastal patrol and anti-submarine warfare.
-
-In the game, this torpedo boat is one of the top tier in the Soviet coastal fleet tree. Captains who have it in their fleet have an exceptional weapon capable of wreaking havoc on enemy offensives. But watch out for the sailors, this will be the boat's first vulnerability.
+It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. This torpedo boat is one of the top tier in the Soviet coastal fleet tree. Captains who have it in their fleet have an exceptional weapon capable of wreaking havoc on enemy offensives. But watch out for the sailors, this will be the boat's first vulnerability.
 
 == General info ==
 The Pr. 206M is easily recognized for its large gun at the stern of the hydrofoil boat and also how vulnerable to the guns of a similarly BR ranked destroyer.

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Japanese destroyer {{Battle-rating}}. It was introduced during [[Update "La Royale"]] as a [[wt:en/news/8405-a-sound-of-thunder-the-release-of-war-thunder-mobile-en|promotional reward for the release of War Thunder Mobile]].
+The '''{{Specs|name}}''' (初月, [[Abbreviations#.28JP.29_Naval|namesake]]: New Moon) was the fourth ship of her class. She belonged to the 61st Destroyer Squadron and participated in fleet escort and transport missions in the Central Pacific and Southeast Asia. She was assigned to the First Air Fleet as a direct escort during the Battle of the Philippine Sea in 1944. In October that year, she took part in the Battle of Leyte Gulf as part of Ozawa's decoy force that lured the U.S. surface fleet away from the landing beaches in the Battle of Cape Engaño. However, this came at a heavy price for the Japanese fleet. She was the last Japanese ship to go down in the battle after putting up a strong fight and hitting several US ships. She eventually sank after being hit by several bombs from American dive bombers, and only 8 of her crew survived, drifting with 17 Zuikaku crew members on a raft all the way to Formosa (Japanese Taiwan).
+
+She was introduced during [[Update "La Royale"]] as a [[wt:en/news/8405-a-sound-of-thunder-the-release-of-war-thunder-mobile-en|promotional reward for the release of War Thunder Mobile]]. Unlike her sister, [[IJN Akizuki|Akizuki]], Hatsuzuki is in her earliest fit, only offering four triple 25 mm anti-air guns in the centre of the ship which dampens her AA capability. Other than that she fares the same as her sister, offering the quick firing 100 mm Type 98A cannons and a quad-mount torpedo launcher with reload.
 
 == General info ==
 === Survivability and armour ===

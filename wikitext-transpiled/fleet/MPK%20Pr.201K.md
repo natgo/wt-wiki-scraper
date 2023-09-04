@@ -66,34 +66,33 @@ The boat also carries 20 YAM-43 Coastal Mines, each containing 20 kg of explosiv
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-Being a sub-chaser in War Thunder can be hit or miss due to the absence of submarines in the game. However, this boat's impressive armament offers the opportunity to adapt its role as a Boat Hunter. With its 45 mm autocannon and twin 25 mm autocannons, it's well-equipped to dismantle enemy PT boats and other lightly armored vessels. The Coastal Mines are valuable for obstructing enemy movement into key areas, strategically placed where enemy vessels are expected to pass. The Depth Charges are suitable for engaging enemy destroyers, although their effectiveness hinges on hitting the target, which can be challenging due to aiming difficulties and limited launch range.
+
+Being a sub-chaser in War Thunder can be hit or miss due to the absence of submarines in the game. However, this boat's impressive armament offers the opportunity to adapt its role as a Boat Hunter. With its 45 mm autocannon and twin 25 mm autocannons, it's well-equipped to dismantle enemy PT boats and other lightly armored vessels. The Coastal Mines are valuable for obstructing enemy movement into key areas, strategically placed where enemy vessels are expected to pass. The depth charges are suitable for engaging enemy destroyers, although their effectiveness hinges on hitting the target, which can be challenging due to aiming difficulties and limited launch range.
 
 Given its lack of armor, it's advisable not to immediately rush to the frontline. Instead, attempt a flanking approach to catch enemy boats off guard, enabling you to use your autocannons effectively from their sides. Your 45 mm and twin 25 mm armament can swiftly neutralize opponents. Be cautious not to expose the front of your hull, as it houses your ammunition.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+'''Pros:'''
 
 * Impressive cannon firepower capable of obliterating enemy boats and other lightly armored vessels
 * Decent mobility for a sub-chaser
 * Coastal mines can effectively obstruct enemy pathways to key areas
 * Can perform anti-aircraft duties when enemy aircraft are approaching 
 
-*
-
 '''Cons:'''
 
 * Both autocannons can only be fired sideways
 * The utilization of depth charges presents significant difficulty
 
-*
-
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+
 After World War II, the [[MPK Pr.122bis|Pr.122]] continued to serve in the role of a sub-chaser. However, over time, complaints arose that the vessel was too sluggish and heavy for this duty, no longer effectively fulfilling its role in detecting and intercepting post-war submarines. In response to these concerns, the development of a new sub-chaser began in 1947. Numerous designs were submitted, and only a handful were selected, most of which were lighter and faster than their predecessor.
 
 In 1955, the first two prototypes, named the Pr.201, were constructed. Initially, these prototypes were equipped with a 45 mm SM-21-ZIF cannon at the front and two 25 mm 2M-3 cannons at the rear. To counter submarines, they were outfitted with a quantity of BM-1 depth charges.
 
-However, during trials, certain flaws with the vessel became evident. One issue was structural instability caused by the unbalanced weight distribution, making the hull susceptible to snapping during rough waves. To address this, the 45mm SM-21-ZIF cannon was repositioned to the back, leaving only one 25mm 2M-3 cannon at the front. Subsequent developments involved replacing the five M-50 engines with three 37D diesel engines, equipping the front of the vessel with four RBU-1200 rocket-propelled depth charges instead of the traditional BM-1 depth charges, and adding the capability to carry YAM-43 coastal mines. This evolved version was designated the Pr.201 modification K, or the Pr.201K.
+However, during trials, certain flaws with the vessel became evident. One issue was structural instability caused by the unbalanced weight distribution, making the hull susceptible to snapping during rough waves. To address this, the 45 mm SM-21-ZIF cannon was repositioned to the back, leaving only one 25 mm 2M-3 cannon at the front. Subsequent developments involved replacing the five M-50 engines with three 37D diesel engines, equipping the front of the vessel with four RBU-1200 rocket-propelled depth charges instead of the traditional BM-1 depth charges, and adding the capability to carry YAM-43 coastal mines. This evolved version was designated the Pr.201 modification K, or the Pr.201K.
 
 A total of ten Pr.201K vessels were produced between 1957 and 1958. Recognizing that the autocannon wasn't as crucial for anti-submarine tasks, the navy replaced the 45 mm autocannon with another 25 mm 2M-3 autocannon. This modification rendered the vessel slightly lighter and faster, leading to its designation as the [[MPK Pr.201M|Pr.201M]].
 

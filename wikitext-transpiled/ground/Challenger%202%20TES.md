@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The '''FV4034 Challenger 2 (Theatre Entry Standard – TES)''' is a high-intensity battlefield modification of the standard variant of the [[Challenger 2 (Family)|FV4034 Challenger 2 main battle tank family]]. In terms of protection, the Challenger 2 TES is extremely similar to the [[M1A2 SEP|M1 Abrams TUSK]] (Tank Urban Survival Kit). The TES system was designed to protect the tank from various threats, such as tandem warheads and improvised explosive devices (IEDs). The public first saw the technology demonstrator of the Challenger 2 TES (nicknamed "Megatron") in June 2013 during the DVD defence event in Millbrook, United Kingdom. In July 2016, at the Tank Fest in Bovington, a revised modification of the Challenger 2 TES was presented, complete with a new armour design. It is outfitted with a unique combination of reactive, composite, and slat armour to provide unparalleled protection against modern warfare threats. Depending on the nature of the threats and the type of battlefield where the tank must be deployed, the Challenger 2 TES can be outfitted with changeable and modular armour packages. The mobile camouflage system (MCS) is also installed on the hull and turret to reduce the vehicle's heat signature when observed by thermal imaging equipment. The TES counter IED technology is installed on the Challenger 2 TES, as demonstrated by the array of standard and "Bird Table" antennas positioned at the upper rear of the turret. The system is used to disrupt radio or telephone signals that could be used to trigger improvised explosive devices (IEDs).
+
+Introduced in [[Update "Winged Lions"]], the Challenger 2 TES is one of the most advanced modifications to the [[Challenger 2|standard Challenger 2]] in response to the increasing challenges of a modern battlefield. The Challenger 2 TES, equipped with a multitude of cutting-edge technology, provides players with the finest possible protection during conflicts. This tank, however, will be easy to spot and recognize during combat owing to the well-known jammer plate affixed to the roof. Flanking and sneaking up on opponents will be exceedingly difficult, as the distinctive jammer plate will easily disclose the player's location. Although the TES modification offers more protection than the standard Challenger 2, using the same engine without any improvements makes the Challenger 2 TES considerably slower to accelerate and turn.
 
 == General info ==
 === Survivability and armour ===
@@ -164,7 +166,7 @@ Brawling is an option, however, the TES is rather sluggish and will not last lon
 * Maintains the kinetic protection from previous variants, with improvements in places
 * Very accurate L30A1 120 mm gun
 * Fast reload
-* Roof mounted machine gun has access to thermal and can be used as a CITV 
+* Roof mounted machine gun has access to thermal and can be used as a CITV
 
 '''Cons:'''
 

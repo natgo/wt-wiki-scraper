@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The '''Merkava Mk.3C''' is the second subvariant of the Merkava Mk.3, which is the third variant of the [[Merkava (Family)|Merkava main battle tank family]]. The Merkava Mk.3C received the new Barak Zoher fire control system, which can be distinguished by the inclusion of a commander-independent sight on the turret roof, beginning in 1995. This adds hunter-killer capabilities to the Merkava Mk.3C, a trait that is desperately needed in modern conflict. The new fire control system can now automatically track targets and even low-flying helicopters. Other small upgrades, such as the insertion of composite screens into portions of the hull, were also implemented, mostly to defend the tank from rocket-propelled grenades (RPGs) and anti-tank guided missiles (ATGMs) launched from elevated positions.
+
+Introduced in [[Update "Drone Age"]], the Merkava Mk.3C received yet another important upgrade: the commander's independent sight. With the addition of hunter-killer capabilities, players can search for possible adversaries while remaining behind low obstacles and rocky terrain. Furthermore, the commander can override controls for the main gun, allowing players to engage opponents more effectively. Together with the [[Merkava Mk.3B]]'s improved weaponry, the Merkava Mk.3C is a truly modern main battle tank that combines outstanding situational awareness, protection, and firepower.
 
 == General info ==
 === Survivability and armour ===
@@ -129,17 +131,17 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 
 '''Pros:'''
 
-* Effective Armor  
+* Effective Armor
 
-* Superior Crew Layout 
+* Superior Crew Layout
 
 * High amount of Smokes
 
 '''Cons:'''
 
-* Large Weak Spots 
+* Large Weak Spots
 
-* Slow 
+* Slow
 
 * Large Profile
 

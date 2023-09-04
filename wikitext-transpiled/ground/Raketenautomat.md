@@ -21,16 +21,17 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German tank destroyer {{Battle
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 20 mm (°55) front glacis 
+20 mm (°45) bottom glacis 
+| 12.7 mm ''Top'' <br> ''and Bottom'' || 20 mm (°55) front glacis 
+25 mm (°45) bottom glacis 
+| 10 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 8 - 10 mm ''Turret front'' <br> 25 mm ''Gun mantlet'' || 10 mm || 10 mm || 10 mm
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+'''Notes:''' <!-- * Suspension wheels are 10 mm thick, tracks are 15 mm thick -->
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -113,6 +114,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German tank destroyer {{Battle
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_spz_oerlikon_raketenautomat Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -123,6 +125,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German tank destroyer {{Battle
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

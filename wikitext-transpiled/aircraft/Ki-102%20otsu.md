@@ -5,9 +5,12 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (Designated: Type 4 Assault Aircraft) is a rank {{Specs|rank}} Japanese twin-engine fighter {{Battle-rating}}. It was introduced in [[Update 1.35]]. The Allied reporting name for this aircraft was "Randy".
+The '''{{Specs|name}}''', designated (by personnel) as '''Type 4 Assault Aircraft ({{Annotation|四式襲撃機|Yon Shiki Shūgeki-ki}})''' was a Japanese twin-engine, two-seat, ground-attack aircraft that entered service in 1944. It was the main variant of the Ki-102, which was itself derived from the [[Ki-45 (Family)|Ki-45]]. The Ki-102 otsu had a 57 mm cannon in the nose, two 20 mm cannons in the belly, and a 12.7 mm machine gun in the rear. It was designed to attack enemy ground targets with its powerful armament. The Ki-102 otsu saw limited action in the Okinawa campaign but was mostly kept in reserve to defend Japan from the expected Allied invasion.
 
-The {{PAGENAME}} was a ground attacker version of the Ki-102 which in itself was a variant of the [[Ki-45 (Family)|Ki-45]].
+It was introduced in [[Update 1.35]]. The Ki-102 otsu can be used in two ways: as its intended ground attacker role or as an ad-hoc bomber hunter. For ground attack, the Ki-102 otsu can destroy light and unarmoured targets with its 57 mm cannon, then return to base or use its 20 mm guns for more targets or self-defense. It also has a 12.7 mm rear gun to fend off enemy fighters. For bomber hunting, the Ki-102 otsu can fire its 57 mm cannon from a distance or get close and unleash its 20 mm guns on large and heavy bombers. The 57 mm cannon is powerful but inaccurate, so it is better to fire single shots than bursts. The Ki-102 otsu should avoid the gunner fire of the bombers and attack from a safe angle.
+
+;Nicknames
+* Allied reporting name: ''Randy''.
 
 == General info ==
 === Flight performance ===

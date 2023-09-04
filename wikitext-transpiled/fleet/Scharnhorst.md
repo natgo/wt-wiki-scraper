@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German battlecruiser {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The '''{{Specs|name}}''' (along with her sister ship Gneisenau) was designed as a battleship right from the start by the Kriegsmarine. However, restriction imposed by the Treaty of Versailles (and as Germany were unable to built any large calibre guns at that time due to the lack of industrial capabilities) forced the Kriegsmarine to fit her with smaller 283 mm guns.
 
-The Scharnhorst (along with her sister ship Gneisenau) was actually designed as a battleship right from the start by the Kriegsmarine. However, restriction imposed by the Treaty of Versailles (and as Germany were unable to built any large calibre guns at that time due to the lack of industrial capabilities) forced the Kriegsmarine to fit her with smaller 283 mm guns. The smaller calibre of main guns is compensated by an improved rate of fire.
-
-Although the Scharnhorst is almost universally classed as a battleship in real life due to her protection, her fast top speed and smaller armaments compared to her contemporaries in 1930s caused the British to classify the ship as a battlecruiser. This peculiar characteristic is reflected in War Thunder, where the Scharnhorst's mobility, protection, and fast-firing guns made her a formidable heavyweight mid-to-close range brawler.
+It was introduced in [[Update "Winged Lions"]]. Although the Scharnhorst is almost universally classed as a battleship in real life due to her protection, her fast top speed and smaller armaments compared to her contemporaries in the 1930s caused the British to classify the ship as a battlecruiser. This peculiar characteristic is reflected in-game, where the Scharnhorst's mobility, protection, and weaker but fast-firing guns made her a formidable heavyweight mid-to-close range brawler.
 
 == General info ==
 === Survivability and armour ===
@@ -82,7 +80,7 @@ A small caveat worth noting, however, is that the 105 mm gun can only be loaded 
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|G7a (533 mm)}}
 
-As with most of the bluewater Kriegsmarine ship, the {{PAGENAME}} comes with 14 x G7a standard-issued torpedoes. Launched from a triple launcher from the port and starboard side each. Given the {{PAGENAME}}'s role as a fast battleship, these torpedoes are useful in a close-range engagements due to the fast speed but short range without "Torpedo mode" modification, though its effectiveness at longer ranges were quite poor due to the slow speed with "Torpedo mode" modification and the low number of warheads launched per salvo. Thus, it is not recommended to use it in a large, open maps where long-range engagements were common. 
+As with most of the bluewater Kriegsmarine ship, the {{PAGENAME}} comes with 14 x G7a standard-issued torpedoes. Launched from a triple launcher from the port and starboard side each. Given the {{PAGENAME}}'s role as a fast battleship, these torpedoes are useful in a close-range engagements due to the fast speed but short range without "Torpedo mode" modification, though its effectiveness at longer ranges were quite poor due to the slow speed with "Torpedo mode" modification and the low number of warheads launched per salvo. Thus, it is not recommended to use it in a large, open maps where long-range engagements were common.
 
 === Scout plane ===
 {{Specs-Fleet-Plane}}

@@ -5,9 +5,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced during [[Update "Winged Lions"]] as a reward for [[Battle Pass: Season VI, "Firepower"]].
 
-The Turán II is a Hungarian medium tank with a powerful rapid firing 75 mm howitzer. The Turán II boasts good mobility, excellent reverse speed and adequate armour protection, making it a well-rounded medium tank worthy of it being sometimes referred to as "the Hungarian MBT".
+The '''41M Turán II''' was a Hungarian {{Annotation|medium tank|Classified as a heavy tank in Hungary due to its cannon calibre}} that was designed as an improvement over the 40M Turán I. It had a new turret, more armour, and a new 75 mm gun that was based on an old 18M 8cm field gun, outsourced and modified by the Swedish company Bofors. The tank was built from 1942 to 1944, but due to delays in gun optics and ammunition, it only reached units in late 1943. The 41M Turán II saw action on the Eastern Front and in the defence of Hungary against the Soviet invasion. Although it was outmatched by the Soviet [[T-34 (Family)|T-34s]] and the German Allied [[Pz.IV (Family)|Pz.IVs]] with long 75 mm guns, it could still damage Soviet tanks within 500 m, which was better than its predecessors with only a 40 mm gun.
+
+It was introduced during [[Update "Winged Lions"]] as a reward for [[Battle Pass: Season VI, "Firepower"]]. The Turán II is a Hungarian tank that shares some features with Axis tanks, such as the [[LT-38 (Family)|Pz.35(t) / 38(t)]] from Czechoslovakia, which was the basis for its hull design. It has a short barrel gun that can fire powerful HEAT shells with a fast reload time, similar to the early [[Pz.IV (Family)|Pz.IVs]] from Germany or the [[Chi-Ha]] and [[Ho-I]] from Japan. It can perform well in close combat situations, thanks to its good mobility and side skirt armour that can act as spaced armour against weak HEAT and AP shells.
 
 == General info ==
 === Survivability and armour ===
@@ -176,7 +177,6 @@ This undertaking was successful, though it required the Turán's turret to be en
 * ''other literature.'' -->
 
 * [[wt:en/news/7524-development-battle-pass-vehicles-41-m-tur%C3%A1n-ii-en|[Devblog] Battle Pass vehicles: 41.M Turán II]]
-
 
 {{Italy medium tanks}}
 {{Italy premium ground vehicles}}

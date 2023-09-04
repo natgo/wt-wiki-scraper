@@ -100,7 +100,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Fiat G.50 Freccia is a typical Italian pre-war design, it's fairly sturdy, has modest speed and poor armament consisting of 2 Breda-SAFAT 12.7 mm guns mounted in the upper cowling, which means it has the distinctive low rate of fire (roughly 400 rounds per minute). However it does have its merits as well, it's fairly agile, it has no trouble dog fighting Hurricanes it will commonly face, and if things become too hectic, the G.50 can quickly escape by going into a dive, and exploiting its surprisingly good dive acceleration to gain separation. Furthermore it pays to be aware of its modest acceleration and overheating, as such, it's generally advised to keep an eye on your speed and use WEP sparingly.
+The Fiat G.50 Freccia is a typical Italian pre-war design, it's fairly sturdy, has modest speed and armament for the BR consisting of 2 Breda-SAFAT 12.7 mm guns mounted in the upper cowling, which means it has the distinctive low rate of fire (roughly 400 rounds per minute). However it does have its merits as well, it's fairly agile, it has no trouble dog fighting Hurricanes it will commonly face, and if things become too hectic, the G.50 can quickly escape by going into a dive, and exploiting its surprisingly good dive acceleration to gain separation. Furthermore it pays to be aware of its modest acceleration and overheating, as such, it's generally advised to keep an eye on your speed and use WEP sparingly.
 
 For the armament, the same applies to all other Italian aircraft; generally you want to use Tracers, Air targets or Stealth since they are the belts that deal the most damage. Shell velocity is low, hence they suffer above 300 m, so only fire at or below that range for best effects. Furthermore, much like the other Italian fighters the armament is woefully inadequate to deal with bombers, hence it is best to avoid them entirely, or focus on taking out the engines. The only exceptions are the very early biplane bombers, such as [[Swordfish Mk I|Swordfish]], [[Po-2]] and the like.
 
@@ -151,6 +151,7 @@ At the start of World War Two there were 118 G.50s in Italian service in two fig
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fiat_g50_seria2_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -158,11 +159,13 @@ At the start of World War Two there were 118 G.50s in Italian service in two fig
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

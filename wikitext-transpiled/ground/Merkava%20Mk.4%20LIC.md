@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''Merkava Mk.4 LIC''' is the second subvariant of the Merkava Mk.4, which is the fourth variant of the [[Merkava (Family)|Merkava main battle tank family]]. The Merkava Mk.4 LIC is extremely similar to the [[Merkava Mk.4B]], with the exception of some minor changes designed for low-intensity conflict (LIC). To prevent explosive charges from being installed in vulnerable parts of the tank, the optics, exhaust ports, and ventilators are all covered by a newly designed high-strength metal mesh. To assist navigation and manoeuvrability in an urban context, rubber whip pole markers with LED tips and a driver-facing rear-facing camera were also installed.
+
+Introduced in [[Update "Sky Guardians"]], the Merkava Mk.4 LIC looks a lot like the Merkava Mk.4B; its playstyle and performance are also very similar. In real life, the Merkava Mk.4 LIC is mostly used as a supplement to the Merkava Mk.4M for hunting down insurgents on low-intensity urban battlefields, and it can take a similar role in-game, supporting frontline fighters with its powerful cannon and strong hull-down capabilities.
 
 == General info ==
 === Survivability and armour ===
@@ -143,6 +145,7 @@ The Merkava Mk.4 LIC (Low-Intensity Conflict) is a modern main battle tank used 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_merkava_mk_4_lic Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -151,6 +154,7 @@ The Merkava Mk.4 LIC (Low-Intensity Conflict) is a modern main battle tank used 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Merkava (Family)]]
 
 == External links ==
@@ -158,6 +162,7 @@ The Merkava Mk.4 LIC (Low-Intensity Conflict) is a modern main battle tank used 
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]]. It is a M48A2, Identical to the German [[M48A2 C|M48A2 C.]]
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]]. It is identical in armour, armament, and mobility to the German [[M48A2 C]].
 
 == General info ==
 === Survivability and armour ===
@@ -18,37 +18,29 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 The armour of the Magach 2 is identical to the [[M48A1]] and [[M48A2 C]]. The ammo rack in the turret is removed and the shape of the front hull ammo racks are improved. The front armour is able to handle almost most of the APHE shells it might face, but struggles against HEATFS and APDS rounds. The lower front plate is a big weak spot. The sides are decently armoured, but not thick enough to make angling the hull a valid tactic. Some thin vents on the top of the hull are vulnerable to strafing and bombing runs by enemy aircraft, which may cause engine fires. Overall, the Magach 2 has excellent armour protection for its tier.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+* Cast homogeneous armour (hull, turret)
+* Rolled homogeneous armour (hull rear, hull rear roof)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 85-200 mm (59-74°) ''Front glacis''
-63-200 mm (13-60°) ''Lower glacis''
-| 76 mm (5-45°) ''Front''
-51 mm (0-44°) ''Rear''
-| 35 mm ''Top''
-25 mm (32-62°) ''Bottom''
-| 57 mm (0-58°)
-30 mm ''Engine access panel''
-
-12.7 mm (76°) ''Engine vents''
+| Hull || 110 mm (59-74°) ''Upper glacis'' <br> 110 mm (13-60°) ''Lower glacis''
+| 76 mm (5-45°) ''Front'' <br> 51 mm (0-44°) ''Rear''
+| 25 mm ''Top'' <br> 25 mm (32-62°) ''Bottom''
+| 110 mm ''Front glacis'' (16-31°) <br> 57 mm ''Crew compartment'' <br> 30 mm ''Engine deck'' <br> 12.7 mm (14°) ''Engine vents''
 |-
-| Turret || 83.2-173 mm (0-48°) ''Turret front''
-152 + 82 mm (17-26°) ''Gun mantlet''
-| 69-100 mm (12-36°) || 51-55 mm (2-71°)
-25.4 mm (75-82°) ''Underpart of the turret''
+| Turret || 83.2-173 mm (0-48°) ''Turret front'' <br> 152 + 82 mm (17-26°) ''Gun mantlet''
+| 69-100 mm (12-36°) || 51-55 mm (2-71°) <br> 25.4 mm (75-82°) ''Underpart of the turret''
 | 25-69 mm
 |-
-| Cupola || colspan="4" | 70 mm 
+| Cupola || 29.7 mm (cylindrical) || 29.7 mm (6-53°) || 29.7 mm (6-53°) || 29.7 mm (50-62°)
 |-
 |}
+'''Notes:'''
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Suspension wheels, tracks, and torsion bars are 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

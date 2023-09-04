@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The '''{{Specs|name}}''' (רודן; lit. Tyrant) representation of captured and slightly-modified Arabic T-54 in Israeli service. IDF was well known of receiving different types of tank both from military sales and capture of enemy vehicles; after Soviet Union supplied abundance of T-54/55/62 series medium tanks to Arabic countries neighboring Israel (i.e. Egypt, Syria, Lebanon) since 1960s, Israeli have the chance to capture hundreds of them during Six-day War and Yom Kippur War which could replenish the heavy loss of Israeli armored corps, as well as using them to disguise as Arabic armored corps to hit them unexpectedly. These captured Soviet-built tanks are named Tiran and the different numbers represented different types of tanks; in this case, Tiran 4 was the designation of modified T-54 with logistical modifications.
 
-The representation of captured Arab T-54 in Israeli service, Tiran 4 provides the same firepower and mobility of a T-54 while still suffering from the same cramped interior space, downgraded anti-aircraft machine gun, unprotected ammo racks, and slow turret traverse speed.
+Introduced in [[Update "Danger Zone"]], the Tiran 4 provides the same firepower and mobility of a T-54 while still suffering from the same cramped interior space, downgraded anti-aircraft machine gun (from DShK to M1919A4), unprotected ammo racks, and slow turret traverse speed.
 
 == General info ==
 === Survivability and armour ===
@@ -21,8 +21,10 @@ The representation of captured Arab T-54 in Israeli service, Tiran 4 provides th
 Since the Tiran 4 is mostly identical to the original T-54s other than its machine guns, the overall appearance is basically the same as well. While the armour is sufficient to stop most full-calibre kinetic shells, it might not be enough to survive HEAT, APDS, or even APFSDS at higher tiers. Another problem is the unprotected ammo rack located on the right side of the hull, any penetrating shots that hit the remaining ammo will certainly blow the tank sky-high.
 
 '''Armour type:'''
+
 * Rolled homogeneous armour (Hull)
 * Cast homogeneous armour (Turret)
+
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
@@ -117,7 +119,11 @@ Due to the logistical reasons, all Warsaw Pact small-calibre firearms were repla
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+For players who have played T-54 series on different tech trees (Soviet, Chinese, Finnish), Tiran 4 is yet another T-54 Model 1951 but this time in the Israeli tech-tree as their captured tanks from Arabic countries. Aside from Chinese Type 59 which is in fact T-54A, the remaining two are identical to Tiran 4; thanks to its revolutionary design back in 1950s and devastating firepower if shots penetrated enemy armor, Tiran 4 can still serve as a spearhead of Israeli players alongside with its US-originated Magach (M48 Patton; M60 series).
+
+Tiran 4 featured the same D-10T cannon from T-54 series and due to their era of service, it also received all available ammunitions from T-54 Model 1954 ranging from full-caliber BR-412 up to subcaliber 3BM8 or 3BK5 HEAT-FS shells, giving it flexibility to handle most enemies at its tier - whether it is a "Doomsday" heavy tank or wheeled armored cars, there are always a type of ammunition that fits the need. For example, if Tiran 4 now hits the flank of enemy, BR-412 series is the best way to wipe out enemy vehicles from the side thanks to its sufficient penetration and explosive content, a hit in enemies' center-mass is more than enough to disable them if not knocking them out right away; in case of heavy targets like Maus or M103, the 3BK5 HEAT-FS is sufficient to penetrate these targets with its up to 380 mm penetration. While the gun is powerful, players will have to be prepared for enemies beforehand as the turret traverse rate, both vertically and horizontally, is rather slow; it is not a good idea to turn the turret after enemies suddenly appear in front of you. Most NATO enemies have way higher traverse speed than T-54s, let alone wheeled assault guns that might appear when uptiered. Although the armor is enough to stop most full-caliber APCBC from lower tier, but it is also at 8.0 where more advanced shells appear - APFSDS, HEAT-FS, missiles, to name a few; T-54s are infamous for their cramped interior space and water-cooled ammo rack is yet to be introduced in T-55, if the vehicle is penetrated from the right side of front plates (from player's perspective), chances are the fuel tank might sometimes absorb the damage and leaving a fire onboard, or detonation of ammo/fuel tank and the full destruction of the tank. If the situation turns into complete chaos, it is better to find a cover and return fire instead of rushing into the most heated battlefield recklessly, any damages to the components or crews will further decrease Tiran 4's combat efficiency and eventually brings it to demise. Another note is that for logistical reasons, all the machine guns, including the DShK on commander's side, have been replaced by .30 cal M1919A4 machine gun; so bringing some HE shells or HEAT-FS for light vehicles is still viable to overpressure them.
+
+Overall, Tiran 4 provided different route of playstyle for Israeli tech tree; while there are options to use NATO tanks, opting for Warsaw Pact tanks with better firepower is always viable to bring down as many targets as possible.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -131,6 +137,7 @@ Due to the logistical reasons, all Warsaw Pact small-calibre firearms were repla
 '''Cons:'''
 
 * Having only a M1919A4 as pintle machine gun
+* Slower reload rate than NATO tanks
 * Slow turret traverse speed
 * Unprotected ammo rack
 
@@ -142,6 +149,7 @@ As part of the Cold War and long-lasting Jewish-Arab conflicts, the Soviet Union
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_tiran_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

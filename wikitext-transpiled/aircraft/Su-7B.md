@@ -187,7 +187,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Su-7B has a very good acceleration and can outspeed most jets, it can easily doge incoming missiles by turning as it can turn and still maintain most of its speed (mind the G forces as it can easily break your plane apart and make the pilot lose consciousness). The Su-7B sports 30 mm NR-30 cannons and can also be equipped with both bombs and rockets for various types of playstyle. The Su-7B also comes with a rangefinding radar and the S-24 can be put on a distance fuse to be used in air combat.
+The Su-7B has a very good acceleration and can outspeed most jets, it can easily dodge incoming missiles by turning as it can turn and still maintain most of its speed (mind the G forces as it can easily break your plane apart and make the pilot lose consciousness). The Su-7B sports 30 mm NR-30 cannons and can also be equipped with both bombs and rockets for various types of playstyle. The Su-7B also comes with a rangefinding radar and the S-24 can be put on a distance fuse to be used in air combat.
 
 '''Air combat'''
 

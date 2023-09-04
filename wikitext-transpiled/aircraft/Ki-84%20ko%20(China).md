@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
+The '''{{Specs|name}}''', known as 疾風 (Hurricane) in IJAAF and Chinese community based on its Kanji nickname, or its Allies report name "Frank", represented the captured Ki-84 ko acquired by the ROCAF circa 1945. After the commission of Hayate in IJAAF in March 1944, Mainland China became the first battlefield where Hayate were used by some fighter regiments of IJAAF; thanks to its high altitude performance, these aircrafts were used to protect Japanese infrastructures in Mainland China from the bombing runs of USAAF and Nationalist Air Force; meanwhile, they were also manufactured by the puppet state of Manchuria at late war. After the surrender of Japan in August 1945, ROCAF received numbers of Hayates scattered around Mainland China to strengthen the reborn ROCAF before USAF aircrafts could be delivered; while the Red China opted those Hayates in Northeastern China as ground attackers and trainer aircrafts for pilots before PLAAF officially established in 1949.  
+
+Introduced in [[Update 1.93 "Shark Attack"]] as a GE premium of Chinese tech-tree, Ki-84 ko has identical performance to its Japanese counterpart; thanks to its well-designed airframe and sufficiently power engine, as well as sufficient firepower, it can serve as a boost to go through the research of Chinese aviation tech-tree and earn extra bonus.
 
 == General info ==
 === Flight performance ===

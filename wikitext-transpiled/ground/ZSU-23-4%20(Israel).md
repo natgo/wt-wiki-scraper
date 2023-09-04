@@ -27,11 +27,9 @@ ZSU-23-4s were captured from Egypt and Syria by Israel during the Yom Kippur War
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 9.4 mm (57°) || 9.4 mm || 9.4 mm (46°) ''Upper''
-9.4 mm (22°) ''Lower''
-| 9.4 mm
+| Hull || 9.4 mm (26-57°) || 9.4 mm || 9.4 mm (46°) ''Upper'' <br> 9.4 mm (21-54°) ''Lower'' || 9.4 mm
 |-
-| Turret || 8.9 mm (23°) || 8.9 mm (8-10°) || 8.9 mm (1°) || 8.9 mm
+| Turret || 8.9 mm (21-23°) || 8.9 mm (8-10°) || 8.9 mm (1°) || 8.9 mm
 |-
 | Cupola || 8.9 mm || 8.9 mm || 8.9 mm || 8.9 mm
 |-

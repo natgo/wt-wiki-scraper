@@ -31,15 +31,10 @@ ZSU-57-2s were captured by Israel from Egypt and Syria during the Six-Day War in
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 13.5 mm (61°) ''Front glacis''
-15 mm (53°) ''Lower glacis''
-| 15 mm || 10 mm (17-49°) ''Top''
-6 mm (73°) ''Bottom''
+| Hull || 13.5 mm (61°) ''Front glacis'' <br> 15 mm (54°) ''Lower glacis''|| 15 mm || 10 mm (17-49°) ''Top'' <br> 6 mm (73°) ''Bottom''
 | 15 mm
 |-
-| Turret || 15 mm (14-57°) ''Turret front''
-15 mm (25-64°) ''Gun mantlet''
-| 13.5 mm (9-61°) || 13.5 mm (4-59°) || N/A
+| Turret || 15 mm (14-57°) ''Turret front'' <br> 15 mm (25-64°) ''Gun mantlet'' || 13.5 mm (9-61°) || 13.5 mm (4-59°) || N/A
 |-
 |}
 

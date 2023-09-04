@@ -5,15 +5,10 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German heavy cruiser {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
+The '''{{Specs|name}}''' was a German cruiser of the Deutschland class, commonly referred to as the "pocket battleships" because of their large guns and small size. They were designed to comply with the Treaty of Versailles, which limited the naval power of Germany after World War I. The Admiral Graf Spee was the most advanced and heavily armoured of the class, and had a brief but successful career in World War II, sinking nine merchant ships in the Atlantic Ocean. However, she was cornered by a British task force at the River Plate, where she fought a fierce but inconclusive battle. She then sailed to Montevideo, where she was scuttled by her own crew to avoid capture.
 
-The Deutschland-class cruiser is one of the first ship to be considered an archtypical of the so-called "pocket battleship". In many aspects, the class is essentially a modernized incarnations of an armoured cruiser of old, featuring large calibre armaments while having sufficient protection and speed to defend itself against anything but a capital ship.
+Introduced in [[Update 1.95 "Northern Wind"]], the {{PAGENAME}} lives up to her "pocket battleship" moniker thanks to her slow but hard-hitting firepower. The Graf Spee primarily excels at long range engagements, capable of out-ranging any other cruiser at her rank. Her protection, while nowhere close to an actual battleship's, is sufficient to take a considerable amount of damage, especially at longer ranges.
 
-Built during the Weimar Republic era in accordance with the displacement restriction imposed by the Treaty of Versailles, the ship's short length and dispropotional main turrets has led the British to nickname it "pocket battleship" - a name that became permanently associated to the class as a whole. Meanwhile, the Reichsmarine (Weimar German Navy) called the ship "Panzerschriff" (lit. "Armoured ship") while the successor Kriegsmarine later classified the ship simply as a heavy cruiser.
-
-The {{PAGENAME}}, the last and heaviest-armoured ship of the class, is best known for her brief but dramatic career. During her three months career in World War II, she sunk nine vessel with ~50,000 GRT weight in total, prompting the British to sent out a task force to hunt her down. Culiminated into the Battle of the River Plate and the Graf Spee's eventual demise.
-
-In War Thunder, the {{PAGENAME}} lives up to her "pocket battleship" moniker thanks to her slow but hard-hitting firepower. The Graf Spee primarily excels at long range engagements, capable of out-range any other cruiser at her rank. Her protection, while nowhere close to an actual battleship, is sufficient enough to take a considerable amount of damage, especially at longer ranges.
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}

@@ -62,21 +62,16 @@ The additional armament on the Folaga consists of two single 450mm torpedo launc
 The Folaga F-576 proves to be a good ship thanks to its very good armament, the main 100mm cannon you will use very little against small enemy targets, instead the armament that you will use the most of all is the twin 40mm Bofors tower that gives you a big advantage in firepower capable of destroying both coastal targets, aircraft and destroyers, thanks to its rate of fire, armour piercing bullets and the radar on the ship you can do anything with the 40mm Bofors, the anti-aircraft armament is a bit weaker but still useful for destroying coastal ships such as torpedo boats and also aircraft, in the game try to position yourself in a difficult to reach area such as torpedo boats for the simple fact that you are quite slow and for this reason, they could quickly destroy you with torpedoes or depth charges so find a good position, then for large targets such as destroyers use the torpedoes in your possession aiming at the hold of the enemy ship.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
-
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+'''Pros:'''
 * Excellent secondary armament
 * Effective Survivability
 * Adeguate Acceleration
 * Radar for air targets
 
-*
-
 '''Cons:'''
-
 * Very Slow
 * Only one cannon with a large caliber for destroying enemy destroyers
-
-*
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

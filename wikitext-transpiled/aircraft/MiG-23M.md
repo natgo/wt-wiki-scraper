@@ -243,19 +243,19 @@ When in a 1v1 situation, manually unsweep your wings and get into a ratefight to
 * Very high low-altitude top speed, could outrun any of your opponents.
 * Reasonably high acceleration for its size.
 * Very good high speed acceleration.
+* Variable swept-wing aircraft, allowing for decent performance at any speed.
+* Amazing energy retention if wings are fully unswept.
+* Contains IRST tracking system and decent radar that allows you to track aerial targets at ground level.
+* HUD displays speed and altitude information, most useful in simulator mode.
+* Varied armament preset selection.
 * R-23T and R-60M all-aspect missiles.
 * Good R-23R missiles for long range engagements.
-* Variable swept-wing aircraft, allowing for decent performance at any speed.
-* HUD displays speed and altitude information, most useful in simulator mode.
 * Can carry 6 x R-60M AAMs.
-* Contains IRST tracking system and decent radar that allows you to track aerial targets at ground level.
-* Varied armament preset selection.
-* Amazing energy retention if wings are fully unswept,.
 
 '''Cons:'''
 
 * Underwhelming instantaneous turn rate, cannot pull some extreme windows easily.
-* Loses quite a lot of speed in turns if manual wing sweep is not properly utlized ,
+* Loses quite a lot of speed in turns if manual wing sweep is not properly utlized.
 * Low countermeasures count.
 * Low ammo count and low muzzle velocity for the GSh-23L cannon.
 * R-60Ms are easily distracted by flares.
@@ -264,9 +264,9 @@ When in a 1v1 situation, manually unsweep your wings and get into a ratefight to
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The MiG-21 was the main Soviet fighter jet from the 1960's onward. However, the jet left much to be desired. The nose cone radar was too small and weak to be useful for BVR engagements, and the range of the MiG-21 was notoriously small. Compared to the American F-4 Phantom, the MiG-21 was far behind in avionics and missile armarment. To adress these shortfalls, a new Soviet fighter jet was concived. The MiG 21 had a short take off run, which the Soviets were pleased by as it gave the MiG-21 the ability to use improvised runways in a potential Cold War gone hot situation, so the successor to the MiG-21 would also have to have a short takeoff run. One prototype of the MiG-23 was the Ye-8, which resembled a larger MiG-21 with canards, an underbelly air intake and a large radome. Another was the 23-01 or Izdeliye 92, which resembled a larger MiG-21 with side mouted air intakes, a large radome, and most notably, liftjets to shorten its takeoff run. In the end, a variable sweep wing system was chosen to give the MiG-23 a short takeoff run.   
+The [[MiG-21_(Family)|MiG-21]] was the main Soviet fighter jet from the 1960's onward. However, the jet left much to be desired. The nose cone radar was too small and weak to be useful for BVR engagements, and the range of the MiG-21 was notoriously small. Compared to the American [[F-4_Phantom_II_(Family)|F-4 Phantom]], the MiG-21 was far behind in avionics and missile armarment. To address these shortfalls, a new Soviet fighter jet was concived. The MiG 21 had a short take off run, which the Soviets were pleased by as it gave the MiG-21 the ability to use improvised runways in a potential Cold War gone hot situation, so the successor to the MiG-21 would also have to have a short takeoff run. One prototype of the MiG-23 was the Ye-8, which resembled a larger MiG-21 with canards, an underbelly air intake and a large radome. Another was the 23-01 or Izdeliye 92, which resembled a larger MiG-21 with side mouted air intakes, a large radome, and most notably, liftjets to shorten its takeoff run. In the end, a variable sweep wing system was chosen to give the MiG-23 a short takeoff run.   
 
-The first variants of the MiG-23 inherited the same avionics system as the MiG-21, lacking look down radars. Later, the MiG-23 was equiped with the Sapfir-23L radar, allowing it to fire the considerably more capable R-23R missile (compared to the R-3R missile), yet the Sapfir-23L still lacked look down capabilities. Finally, the Sapfir-23D was equipped to the MiG-23, changing its designation to the MiG-23M. The Sapfir-23D had look down capabilities, greatly enhancing the performance of the radar.   
+The first variants of the MiG-23 inherited the same avionics system as the MiG-21, lacking look down radars. Later, the MiG-23 was equiped with the Sapfir-23L radar, allowing it to fire the considerably more capable R-23R missile (compared to the R-3R missile), yet the Sapfir-23L still lacked look-down capabilities. Finally, the Sapfir-23D was equipped to the MiG-23, changing its designation to the MiG-23M. The Sapfir-23D had look-down capabilities, greatly enhancing the performance of the radar.   
 
 Although the MiG-23M came with revolutionary features to the Soviet Air Force, the MiG-23 had its shortcomings. Primarily, the performance of the airframe. The wing sweep mechanism was difficult to near impossible to operate in a dogfight, so Soviet pilots used 3 settings: no sweep for takeoff and landings, a 45 degree sweep for standard flight and dogfights, and maximum sweep for high speed flight. The 45 degree sweep was used in dogfights, greatly reducing the agility of the MiG-23. More experienced pilots would reduce the wing sweep to 33 degrees, increasing lift and agility, but this made the aircraft unstable and difficult to fly, as well as hampering acceleration. Additionally, at high angles of attack, the MiG-23 would become very unstable and difficult to fly. Due to these shortcomings in performance, the MiG-23 pilots were relegated to hit and run tactics, ofte not even engaging in a dogfight when merging with an adversery. The only manuver the MiG-23 excelled at was vertical loops, as the engine power could allow for steep climbs.  
 

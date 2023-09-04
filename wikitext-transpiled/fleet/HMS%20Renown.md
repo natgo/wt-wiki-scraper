@@ -6,27 +6,27 @@
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 
-Originally laid down as the sixth ship of the Revenge-class battleships, construction of the HMS ''Renown'' was suspended on the outbreak of World War I due to concerns about the ship would not be ready for action in a timely manner. However, after Admiral Jackie Fisher was promoted to the First Sea Lord (i.e. Admiral of the Fleet) title, he ordered ''Renown'' to be completely redesigned to his preferences of battlecruiser. The ship were to have the similar displacement as the Revenge-class, yet being significantly faster. To this end, the ship were lengthened to 242 meters (compared to Revenge's 189.2 meters), powered by thrice the power of the Revenge, and has its armour and armaments significantly reduced to save weight. As a result, the ''Renown'' became the lead ship of an entirely new class of battlecruiser, and she would be pressed into construction priority to fulfil the Royal Navy's needs.
+Originally laid down as the sixth ship of the Revenge-class battleships, construction of the HMS ''Renown'' was suspended at the outbreak of World War I due to concerns that the ship would not be ready for action in a timely manner. However, after Admiral Jackie Fisher was promoted to the First Sea Lord (i.e. Admiral of the Fleet) title, he ordered ''Renown'' to be completely redesigned to his preferences for a battlecruiser. The ship was to have a similar displacement as the Revenge-class, yet being significantly faster. To this end, the ship was lengthened to 242 meters (compared to Revenge's 189.2 meters), powered by thrice the power of the Revenge, and has its armour and armaments significantly reduced to save weight. As a result, the ''Renown'' became the lead ship of an entirely new class of battlecruiser, and she would be pressed into construction priority to fulfill the Royal Navy's needs.
 
-While the ''Renown'' did not see any combat in World War I, she underwent several refits before and during World War II, ranging from major increase in anti-air capabilities to trivial ones like replacing the seaplane hangar with a cinema and laundry. Because of this, combined with the fact that she was frequently used to transport British PM Winston Churchill to various conferences due to her relatively luxurious accomodation, she has gained the nickname ''"Refit"'' by her crews. Other than this, the ship saw action on both the European and Pacific theatres and participated in landings on Africa and South East Asia before being phased out of service after the war.
+While the ''Renown'' did not see any combat in World War I, she underwent several refits before and during World War II, ranging from major increases in anti-air capabilities to trivial ones like replacing the seaplane hangar with a cinema and laundry. Because of this, combined with the fact that she was frequently used to transport British PM Winston Churchill to various conferences due to her relatively luxurious accommodation, she has gained the nickname ''"Refit"'' by her crews. Other than this, the ship saw action on both the European and Pacific theatres and participated in landings in Africa and South East Asia before being phased out of service after the war.
 
-Introduced during [[Update "La Royale"]] as a reward for the [[wt:en/news/8384-event-summer-extreme-en|2023 Summer Extreme]] event. The {{PAGENAME}} is in her 1944 configuration, with substantial increase in delicated anti-air defense. Compared to [[HMS Hood]], Renown has one less 15-inch turret and worse armour protection, but is offset by large quantities of fast-firing 4.5 inch secondary turrets, greater anti-air capability, and better acceleration compared to her larger counterpart.
+Introduced during [[Update "La Royale"]] as a reward for the [[wt:en/news/8384-event-summer-extreme-en|2023 Summer Extreme]] event. The {{PAGENAME}} is in her 1944 configuration, with a substantial increase in dedicated anti-air defense. Compared to [[HMS Hood]], Renown has one less 15-inch turret and worse armour protection but is offset by large quantities of fast-firing 4.5-inch secondary turrets, greater anti-air capability, and better acceleration compared to her larger counterpart.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-Being designed with speed as the main priority, the Renown's armour are quite thin for a capital ship. Most of the Renown's citadel sides were covered with 228.6 mm of RHA, save for the bow and stern bulkheads that were only covered with 101.6 mm and 76.2 mm of armour, respectively. Because of this, the Renown's bulkheads will be an obvious weakspots that most battleship can easily overmatch and potentially sends the ship to the bottom of the ocean via magazine detonation.
+Being designed with speed as the main priority, the Renown's armour is quite thin for a capital ship. Most of the Renown's citadel sides were covered with 228.6 mm of RHA, save for the bow and stern bulkheads that were only covered with 101.6 mm and 76.2 mm of armour, respectively. Because of this, the Renown's bulkheads will be obvious weak spots that most battleship can easily overmatch and potentially sends the ship to the bottom of the ocean via magazine detonation.
 
-Speaking of magazines, the Renown's main ammo racks located just a bit below the waterline. As the belt armour only cover a few meters underwater, this will leave her magazines vulnerable to any incoming diving shots and torpedoes, even from a heavy cruiser.
+Speaking of magazines, the Renown's main ammo racks are located just a bit below the waterline. As the belt armour only covers a few meters underwater, this will leave her magazines vulnerable to any incoming diving shots and torpedoes, even from a heavy cruiser.
 
-On the bright sides, the Renown's massive profile and spread out crew distribution also allows the ship to tank several hits from the enemies should they were unable to hit your ammo racks. As such, priortize your damage control on crew conservation and do not repair the damaged modules when not neccessary.
+On the bright side, the Renown's massive profile and spread-out crew distribution also allows the ship to tank several hits from the enemies should they be unable to hit your ammo racks. As such, prioritize your damage control on crew conservation and do not repair the damaged modules when not necessary.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-As a battlecruiser, the Renown posess decent top speed for a capital ship at 57 km/h in RB. While not as good as cruiser, the Renown stand out for her greater acceleration that allows her to shift the sail speed significantly faster, making it easier to bring the ship to a halt when needed. 
-However, due to the ship's long and narrow hull, combined with her high centre of gravity, the Renown's turn rates are very poor. The ship would often list while turning, resulting into poor accuracy and huge turn radius.
+As a battlecruiser, the Renown possesses decent top speed for a capital ship at 57 km/h in RB. While not as good as a cruiser, the Renown stands out for her greater acceleration that allows her to shift the sail speed significantly faster, making it easier to bring the ship to a halt when needed. 
+However, due to the ship's long and narrow hull, combined with her high centre of gravity, the Renown's turn rates are very poor. The ship would often list while turning, resulting in poor accuracy and a huge turn radius.
 
 {{NavalMobility}}
 
@@ -49,7 +49,7 @@ However, due to the ship's long and narrow hull, combined with her high centre o
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|4.5 inch/45 QF Mark IV (114 mm)}}
 
-''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
+''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belongs in the next section. If there is no secondary armament, remove this section.''
 
 {{:4.5 inch/45 QF Mark IV (114 mm)/Ammunition|4.5 inch HE, 4.5 inch SAP, 4.5 inch HE-TF}}
 
@@ -76,18 +76,18 @@ However, due to the ship's long and narrow hull, combined with her high centre o
 
 '''Pros:'''
 * Six 381 mm guns with good shell options
-* Impressive dual-purpose secondary armaments with very high rate of fire and good firing arc
-* Great delicated anti-air defense
+* Impressive dual-purpose secondary armaments with a very high rate of fire and good firing arc
+* Great dedicated anti-air defense
 * Decent top speed an acceleration for its size
-* Large hull size allows the ship to absorb several hit from the enemies
+* Large hull size allows the ship to absorb several hits from the enemies
 * Has four propeller shafts powered by four blocks of powerful engines, can maintain its acceleration even with some of them disabled
 
 '''Cons:'''
 * Very large in size, can be easily spotted and hit
 * Extremely slow main turret traverse speed, inability to fire reactively
-* Overall mediocre armour protection, its bulkheads and barbettes in particular can be easily overmatched by most battleship guns
-* Very weak underwater protection, leaving the main magazines vulnerable from diving shots and torpedoes
-* Poor overall agility, the ship's high center of gravity will cause the ship to list while turning, hampering accuracy
+* Overall mediocre armour protection, its bulkheads and barbettes, in particular, can be easily overmatched by most battleship guns
+* Very weak underwater protection, leaving the main magazines vulnerable to diving shots and torpedoes
+* Poor overall agility, The ship's high center of gravity will cause the ship to list while turning, hampering accuracy
 * Secondary armament lacks HE-VT shell options, thus reducing its effectiveness against aircraft
 
 == History ==

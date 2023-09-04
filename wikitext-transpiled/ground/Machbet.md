@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''{{Specs|name}}''' (מחבט; lit. Racquet) was an upgrade of the fleet of [[Hovet]]s (M163 VADS) in service with the Israel Air Defense Command in the late 1990s to modernize the vehicle. The upgrade featured 4 all-aspect infrared-tracking Stinger missiles that allow it to engage long-range targets, and an IRST tracker that was more reliable than the [[AN/VPS-2]] and also doesn't trigger aircraft RWR. These vehicles replaced the Hovet in service by 1998, and were deployed along the Purple Line (post-Six-Day War ceasefire line between Israel/Syria, ''de facto'' border line) until the Israel Air Defense Command was disbanded in 2006.
 
-An upgrade of the [[Hovet]], the Machbet features 4 all-aspect infrared-tracking Stinger missiles that allow it to engage long-range targets and an IRST tracker that is more reliable than the [[AN/VPS-2]] which also doesn't trigger aircraft RWRs.
+Introduced in [[Update "Wind of Change"]] alongside the initial Israeli tech tree, the overall dimensions of the Machbet is mostly identical to the Hovet. While players will quickly notice the disappearance of the radar rangefinder, the overall capability is now ensured by the new FLIR tracker with optical tracking capability and 4 FIM-92 Stingers to handle long-range (relative to the gun's <2 km range) targets. Players will soon get used to the performance of the Machbet, while enemies might underestimate the potential of these upgrades allowing the joint use of both surface-air missiles and a powerful rotary cannon.
 
 == General info ==
 === Survivability and armour ===
@@ -23,6 +23,7 @@ Despite its thin armour, the Machbet has the particularity of being able to with
 Beware also of tanks equipped with machine guns above 7.62 mm calibre, these tanks can easily penetrate the sides of the vehicle.
 
 '''Armour type:'''
+
 * Aluminium Alloy 5083
 
 {| class="wikitable"
@@ -73,6 +74,7 @@ The Machbet is equipped like the M163 with a 20 mm M168 VADS, or Vulcan air defe
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|HEI-T|High-explosive incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
 * '''HEI:''' {{Annotation|HEI-T|High-explosive incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
 * '''AP-I:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
@@ -135,9 +137,11 @@ The FIM-92 E and K are effective weapons but only under certain conditions. With
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Machbet is a very good anti-aircraft vehicle if its capabilities and limitations are managed. It excels in many areas behind the front lines, either directly supporting allies during an assault or back towards spawn or capture points to maintain security.
+By the time of Machbet's upgrade was done on IADC's fleet of Hovet in late-1990s, the world has already been evolved to the 4th generation jets with more than enough ordnances to take out Machbet at long distance; but if used cautiously against earlier jets with inferior electronics and aim for careless targets, Machbet could still serve the team well with its obsolete chassis.
 
-Difficulties will be met around BR 10.0 matches as multiple aircraft types will have access to countermeasures able to defeat the FIM-92 Stinger missiles.
+After players researched Machbet from [[ZSU-23-4 (Israel)|captured ZSU-23-4]], they will soon meet their old-friend: another M163 VADS (Hovet). But when they first get their hands on the "new" vehicle, they can certainly find differences from Hovet - firstly, the iconic [[AN/VPS-2]] tracking radar is now replaced by new opto-electronic trackers with FLIR cameras; secondly, there is a large, cubic box that housed 4 FIM-92 Stingers MANPADS. Some players will compare Machbet with [[SIDAM 25 (Mistral)]] or [[LAV-AD]] which also has similar configuration with guns and MAMPADS, but all these 3 vehicles have a common problem: they lack a search radar for sole operations (while [[Gepard 1A2]] and [[PGZ04A]] have independent search and track devices) as they requires centralized command systems and datalink. So players will have to be extra cautious on enemy aircrafts; thanks to the new FLIR tracker, it now enjoys optical locking at up to 10 km without triggering enemy RWR, as well as its IR channel which boost target searching as player vehicles should be the hottest object both on ground and in the skies. But most of all, players would have to be aware on where enemy aircrafts usually appear (i.e. direction of enemy helipads and air respawns), be sure to utilize the advanced electronics onboard to seek for targets, alternatively asking for the help from allies especially other SPAAs with search radar can further boost the combat capabilities of Machbet; else, players should keep a ear on enemy engine sounds. Therefore, playing aggressively is not a viable option for Machbet; instead, using covers to conceal yourself from enemy visual, then wait for enemy aircrafts in missile/gun firing range is the way to earn victories against enemies. The firepower of M168 Vulcan can certainly shatter enemy in pieces while the Stingers can extend the firing radius up to 6 km (depending on target's heat signature); be sure to leave enough clearance and lead the missile before launching them as you only have 4 chances to hit enemies, hitting subsonic jets or those which have depleted their energy is the best way to score victories with maximum efficiency.
+
+If there are no aerial targets, utilizing the AP belts on Machbet could still achieve some victories against enemy light vehicles or fellow SPAAs. Just make sure to pick the right target as MBTs at its tier is mostly immune to 20 mm autocannons; messing with MBTs which has pintle HMGs can grant Machbet a very quick demise due to the aluminum alloy chassis with little protection.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -148,16 +152,21 @@ Difficulties will be met around BR 10.0 matches as multiple aircraft types will 
 ** FIM-92K missile an upgradeable option to enhance lethality due to proximity fuze.
 * Have powerful 20 mm M168 for close-range protection against aircraft.
 * Lightweight with good horsepower for good mobility
-* Access to thermal imager
-* Access to a laser rangefinder
+* Access to advanced electronics (LRF and thermal camera with optical tracking)
 
 '''Cons:'''
 
 * Armour is thin and basically non-existent except against machine gun calibre rounds
+* Stingers do not have sufficient overload to track fast, mobile targets
 * 20 mm only useful within 2 km firing distance
+* Lacks search radar for target acquisition, requires high situational awareness or help from radar-equipped vehicles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+As the world entered the last decade of the 20th Century, the [[Hovet]] had already become obsolete against new aerial threats due to its inferior FCS and lack of missiles. Thus, IAI planned for an upgrade to the fleet of Hovets with modernized FLIR tracking systems and FIM-92 Stinger MANPADS; this upgrade also introduced GPS and the "Hermit" (הרמיט) computerized command system for battery vehicles with all-in-one display of radar signals and video display from command systems via a military-grade briefcase laptop.
+
+The upgraded vehicles replaced Hovet in border air-defense by 1998 and served with the Israel Air Defense Command until its disbandment in 2006. <ref>https://web.archive.org/web/20110514104344/http://www.iaf.org.il/241-18138-he/IAF.aspx?indx=1</ref>
+
 === [[wt:en/news/7601-development-machbet-desert-vulcan-en|Devblog]] ===
 After the M163 VADS began being decommissioned from American service, the vehicle was heavily exported to foreign operators. Israel was one of several states which adopted the M163 VADS into its own military under the name 'Hovet' in the early 1980s. By the early 1990s however, it was realized that the system required modernization. As such, the IAI company was tasked with developing an upgrade package.
 
@@ -167,6 +176,7 @@ Together with General Dynamics, IAI upgraded the Hovet's fire control system and
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_machbet Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -175,6 +185,7 @@ Together with General Dynamics, IAI upgraded the Hovet's fire control system and
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[M113 (Family)]]
 
 == External links ==
@@ -186,3 +197,4 @@ Together with General Dynamics, IAI upgraded the Hovet's fire control system and
 
 {{Manufacturer IAI}}
 {{Israel anti-aircraft vehicles}}
+<references />

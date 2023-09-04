@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (夕雲, [[Abbreviations#.28JP.29_Naval|namesake]]: Evening Clouds) is a rank {{Specs|rank}} Japanese destroyer {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]]. This is a last torpedo focused boat, before player gets introduced into the gunboat-style of the Akizuki destroyer.
+The '''{{Specs|name}}''' (夕雲, [[Abbreviations#.28JP.29_Naval|namesake]]: Evening Clouds) is a rank {{Specs|rank}} Japanese destroyer {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
 
 == General info ==
 === Survivability and armour ===

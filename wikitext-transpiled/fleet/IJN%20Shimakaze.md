@@ -139,7 +139,7 @@ Under this Maru 4, there would be 3 modernized destroyer types.
 *Type B: [[IJN Akizuki|Akizuki]]-class - Dedicated anti-air destroyers
 *Type C: Shimakaze-class - High-end heavy duty destroyers
 
-The top speed of any Japanese warship within the IJN went to a previous generation of Shimakaze (1920) from the Minekaze-class destroyers with a max speed of {{Annotation|40.7 knots|75.3 km/h}} while all other destroyers were to be designed with a top speed of only {{Annotation|35 knots|~64 km/h}}. After that, the Navy was seeking to improve cruising speed yet keeping the possibility of armament and hull improvements open.
+The top speed of any Japanese warship within the IJN went to a previous generation of Shimakaze (1920) from the Minekaze-class destroyers with a max speed of {{Annotation|40.7 knots|75.3 km/h}} on her sea trials compared to her ship-class speed of {{Annotation|39 knots|~72 km/h}}. After that, the Navy was seeking to improve cruising speed yet keeping the possibility of armament and hull improvements open.
 
 These demands arose after Japan abolished the Washington Naval Treaty and withdrew from the London Naval Treaty in 1938, and began the rapid modernization of their navy in both tonnage and equipment. Together with Japanese intelligence gathering information on the USN, developing a new destroyer with a top speed of {{Annotation|38 kn|~70 km/h}} or more and the new generation of American cruisers and battleships with a projected speed of {{Annotation|27 - 33 kn|~50 - 61 km/h}}. For those reasons, the Navy wanted to outshine the Americans by having faster ships and high-power torpedoes which they already had developed.
 

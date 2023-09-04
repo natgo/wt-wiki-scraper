@@ -13,13 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (English: 37 mm anti air tank), or '''Phòng không T-34''' (English: Anti air T-34) for short, is a rank {{Specs|rank}} Chinese SPAA {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' (English: 37 mm anti air tank), '''Phòng không T-34''' (Chu Nom, for reference: 防空 T-34 ; English: Anti-air T-34) for short or by its erroneous Type 65 designation in Chinese sources, was  a North Vietnamese SPAAG created during the mid-1960's for the Vietnam war. It uses the hull of a Soviet [[T-34-85]] but features an original open-top box turret fitted with dual 37 mm [[Type 65 (37 mm)|Type 65]] cannons from the Chinese. It's likely that the NVA improvised this build during the Vietnam War, since North Vietnam invested heavily in anti-air weaponry to combat the US air support. However no NVA documentation on the vehicle is known and all known information comes from one unit captured by US-forces during the war. The name {{Specs|name}} was created for the game as the vehicle's real name is unknown. The name is based on the descriptive names of other NVA vehicles of the time and the only known surviving example was captured by US Army and now displayed at Fort Sill, Oklahoma.
 
-The vehicle is a North Vietnamese SPAAG created during the mid-1960's for the Vietnam war. It uses the hull of a Soviet [[T-34-85]] but features an original open-top box turret fitted with dual 37 mm [[Type 65 (37 mm)|Type 65]] cannons from the Chinese.
-
-It's likely that the NVA improvised this build during the Vietnam War, since North Vietnam invested heavily in anti-air weaponry to combat the US air support. However no NVA documentation on the vehicle is known and all known information comes from one unit captured by US-forces during the war. The name {{Specs|name}} was created for the game as the vehicle's real name is unknown. The name is based on the descriptive names of other NVA vehicles of the time.
-
-In-game it's easily recognized because of the box-shaped and open turret on a T-34-85 hull and lacking the single 85 mm main armament, it also has a higher profile than a regular T-34-85.
+Introduced in [[Update 1.91 "Night Vision"]] alongside with the Chinese tech-tree. Like the one in Soviet tech-tree introduced way back in 2017, in-game it's easily recognized because of the box-shaped and open turret on a T-34-85 hull and lacking the single 85 mm main armament, it also has a higher profile than a regular T-34-85. Although the protection is not rated for anything larger than rifle-caliber firearms and close-calls from explosives will very likely disable the vehicle at once, but thanks to the higher turret traverse speed, sufficient rate of fire and HVAP shells, it can serve the team at both air-defense and flanking operations.
 
 == General info ==
 === Survivability and armour ===
@@ -90,6 +86,7 @@ Note, when shooting distant targets (tanks 300 m away, or planes around 750 m aw
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''UO-167:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''BR-167:''' {{Annotation|AP-T|Armour-piercing tracer}}
@@ -195,15 +192,18 @@ The '''{{Specs|name}}''' was originally implemented into War Thunder with the na
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_type_65_aa Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

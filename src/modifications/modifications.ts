@@ -291,8 +291,7 @@ function modificationLoop(
         });
 
         if (!displayname) {
-          console.log(findMod);
-          throw new Error(`no lang for: ${key}`);
+          console.log(`no lang for: ${key}`);
         }
 
         mod.displayname = displayname;

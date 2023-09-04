@@ -10,7 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a squadron rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced during [[Update "New Power"]].
+
+The A-4E, also known as the A4D-5, was a significantly improved version within the Skyhawk family. It had the J52-P-6A engine which produced almost 3,500 kgf of thrust. Most importantly, the P-6A had far better fuel efficiency which increased the range but did require parts of the airframe to be changed. The A-4E received improvements in computers such as the AJB-3A and Mk 9 bombing systems. A-4Es were later fitted with the improved J-52-P-8 and had the iconic hump behind the cockpit which housed more avionics.
+
+Introduced in [[Update "New Power"]] as a squadron aircraft, the '''{{Specs|name}}''' is an excellent aircraft for pilots who wish to use it as a ground attack or fighter. In the ground attack role, the A-4E Early has an impressive amount of armament options such as regular dumb bombs and rockets, to guided weaponry like the AGM-62A Walleyes. Unfortunately, the Skyhawk lacks any sort of CCIP however it does have CCRP capability thanks to the Mk 9 toss bombing computer. Fighter pilots will not be disappointed in the Skyhawk’s ability against other enemy aircraft. Nimble and spry, the A-4E can put up a good fight against many of its contemporaries. It also has access to two AIM-9B sidewinders and flares which greatly help in uptiers against powerful missiles like the AIM-9G or R-60. Whether ground attacking or fighting against planes, players will not be disappointed with the A-4E Early’s performance. 
+
 
 == General info ==
 === Flight performance ===

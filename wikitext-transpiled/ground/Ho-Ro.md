@@ -55,7 +55,7 @@ Since its introduction in [[Update 1.65 "Way of the Samurai"]], the Ho-Ro has ga
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 28 || rowspan="2" | -10°/+20° || rowspan="2" | ±5° || rowspan="2" | N/A || 5.3 || 7.3 || 8.9 || 9.8 || 10.4 || rowspan="2" | 17.29 || rowspan="2" | 15.30 || rowspan="2" | 14.10 || rowspan="2" | 13.30
+| rowspan="2" | 24 || rowspan="2" | -10°/+20° || rowspan="2" | ±5° || rowspan="2" | N/A || 5.3 || 7.3 || 8.9 || 9.8 || 10.4 || rowspan="2" | 17.29 || rowspan="2" | 15.30 || rowspan="2" | 14.10 || rowspan="2" | 13.30
 |-
 ! ''Realistic''
 | 3.6 || 4.2 || 5.1 || 5.6 || 6.0
@@ -66,8 +66,8 @@ Since its introduction in [[Update 1.65 "Way of the Samurai"]], the Ho-Ro has ga
 {{:Type 38 (150 mm)/Ammunition|Type 95 APHE, Type 92 HE}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.51''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -75,15 +75,16 @@ Since its introduction in [[Update 1.65 "Way of the Samurai"]], the Ho-Ro has ga
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
-! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''28''' || ''Projectiles''<br>''Propellants'' || 22&nbsp;''(+6)''<br>22&nbsp;''(+6)'' || 14&nbsp;''(+14)''<br>14&nbsp;''(+14)'' || 10 &nbsp;''(+18)''<br>10&nbsp;''(+18)'' || 1&nbsp;''(+27)''<br>1&nbsp;''(+27)'' || No
+| '''24''' || ''Projectiles''<br>''Propellants'' || 17&nbsp;''(+7)''<br>1&nbsp;''(+23)'' || 9&nbsp;''(+15)''<br>N/A || 1&nbsp;''(+23)''<br>N/A || No
 |-
 |}
-'''Note''':
+'''Notes''':
 
 * The {{PAGENAME}} uses two-piece ammunition, composed of propellant bags (orange) and projectiles (yellow). Both have separate racks.
+* Both projectiles and propellant bags are modeled individually and disappear after having been shot or loaded.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

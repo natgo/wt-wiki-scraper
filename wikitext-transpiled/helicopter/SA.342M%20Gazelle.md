@@ -10,13 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French utility helicopter {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
+A member of the [[Gazelle (Family)|Gazelle helicopter family]], the '''{{Specs|name}}''' is a French Army anti-tank helicopter equipped with a Turbomeca Artouste Astazou XIV engine and a Fenestron tail rotor. It is equipped with up to four HOT missiles and a SFIM APX M379 stabilised sight, making it the primary anti-tank gunship of the Gazelle family. The SA.342M can also switch to an anti-air role by mounting Mistral missiles, becoming the Gazelle Mistral variant.
 
-Initially designed by Sud Aviation in 1966, the Gazelle helicopter project (SA 340, SA 341 and SA 342) was continued by Aérospatiale as a French five-seat transport, scout, and light attack helicopter manufactured in both France and the United Kingdom.  Manufacturing licences were granted allowing a Yugoslavian company SOKO and the Arab British Helicopter Company in Egypt to also produce these aircraft.
-
-The Turbomeca Artouste Astazou XIV turbine engine powers the SA.342M Gazelle.  Initial testing of this helicopter utilised a standard tail-rotor taken from the Alouette, however, design changes switched to a Fenestron-style tail, the first helicopter to do so. The Fenestron tail or "fantail" differs from a conventional tail rotor as it contains eight to eighteen blades housed within the tail unit of the helicopter. Advantages of the Fenestron include substantial noise reduction, protection of tail rotor damage from contact with other objects, and protection of ground personnel working around the tail section. With the aid of the Fenestron tail, the Gazelle was the world's fastest helicopter in its class during its early years.
-
-In the service of the French, the Gazelle SA.342M was utilised as a light support helicopter equipped with various rockets, anti-tank missiles and air-to-air missiles. Seven different suspended armament configurations allow the SA.342M to fulfil a versatile role in the fighting zone whether sniping armoured vehicles or hunting other aircraft loitering around the battlefield. Fast and agile with a punch, the Gazelle is a formidable foe with many surprises.
+It was introduced in [[Update 1.87 "Locked On"]]. The Gazelle is a versatile helicopter that can perform different roles depending on the loadout. It can destroy tanks with ATGMs or rockets, or shoot down aircraft or helicopters with AAMs and cannon. It relies on stealth and cover to avoid detection and enemy fire, as it has no radar warning receiver and limited armour.
 
 == General info ==
 === Flight performance ===
