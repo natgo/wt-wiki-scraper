@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese frigate {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''Hiburi*-class, Shōnan, 1944''' (昭南, [[Abbreviations#.28JP.29_Naval|namesake]]: Singapore island) was one of the many Japanese "Coastal Defense Ships" (Kaibōkan, 海防艦). These ships were small warships that performed tasks such as protecting the coast and escorting convoys. They were similar to American destroyer escorts or British frigates. Shōnan belonged to the 1st Maritime Escort Squadron of the Maritime Escort General Headquarters, and participated in escort missions on high-value "Hi convoys" between Japan and Singapore. On February 25, 1945, Shōnan was torpedoed and sunk by the US submarine USS Hoe (SS-258) during Operation Nan-Go in fleet Hi-92.
+
+It was introduced in [[Update 1.91 "Night Vision"]]. The Shōnan is a powerful ship that can wreak havoc on smaller vessels and airplanes, but it is vulnerable against destroyers and Shōnan's whole 25 mm ammo depot is in the bow of the ship. It needs careful sailing and distance from enemy MTBs and torpedoes. The plenty of 25 mm cannons are the best weapon for the volume of fire up to 2,000 m. Angling the ship's sides can protect the ammo rack from small AP rounds.
 
 == General info ==
 === Survivability and armour ===

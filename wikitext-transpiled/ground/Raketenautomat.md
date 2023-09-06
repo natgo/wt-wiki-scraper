@@ -21,17 +21,19 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German tank destroyer {{Battle
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 20 mm (°55) front glacis 
-20 mm (°45) bottom glacis 
-| 12.7 mm ''Top'' <br> ''and Bottom'' || 20 mm (°55) front glacis 
-25 mm (°45) bottom glacis 
+| Hull || 20 mm (°55) ''Front glacis''
+20 mm (°45) ''Lower glacis''
+| 12.7 mm || 20 mm (°55) ''Front glacis''
+25 mm (°45) ''Lower glacis''
 | 10 mm
 |-
 | Turret || 8 - 10 mm ''Turret front'' <br> 25 mm ''Gun mantlet'' || 10 mm || 10 mm || 10 mm
 |-
 |}
 
-'''Notes:''' <!-- * Suspension wheels are 10 mm thick, tracks are 15 mm thick -->
+'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
+<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Suspension wheels are 10 mm thick, tracks are 15 mm thick
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

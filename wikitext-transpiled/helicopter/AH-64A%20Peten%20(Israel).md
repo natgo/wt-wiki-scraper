@@ -16,7 +16,6 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Israeli attack helicop
 === Flight performance ===
 {{Specs-Heli-Flight}}
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The AH-64A Peten is a fast helicopter, because of its powerful engine, which also gives it a good climb rate. It manoeuvrability at high speed is excellent.
 
 {| class="wikitable" style="text-align:center"
 |-

@@ -14,7 +14,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} French heavy tank {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]] as a reward for the World War [[Season 1: Recon under fire]].
 
-As a member of the French AMX-50 family of tanks, it is very similar to the [[AMX-50 Surbaisse|AMX-50 Surbaissé]]. Compared to the Surbaissé, it is lower, has a better protected turret, and a 20 mm MG 151 cannon on top, which is very efficient against aircraft and lightly armoured vehicles. It is also heavier and doesn't have smoke grenade launchers compared to the Surbaissé.
+As a member of the French AMX-50 family of tanks, it is very similar to the [[AMX-50 Surbaisse|AMX-50 Surbaissé]]. Compared to the Surbaissé, it is lower, has a much better protected turret and hull, and a 20 mm MG 151 cannon on top, which is very efficient against aircraft and lightly armoured vehicles. It is also heavier and doesn't have smoke grenade launchers compared to the Surbaissé.
 
 == General info ==
 === Survivability and armour ===

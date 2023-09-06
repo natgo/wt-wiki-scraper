@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British bomber {{Battle-rating}}. It was introduced during [[Update 1.97 "Viking Fury"]] as a reward for the [[wt:en/news/6703-event-winner-vehicles-for-the-victory-anniversary-en|2020 "Victory Day"]] event.
+The '''{{Specs|name}}''' is an improved version of the Fairey Swordfish biplane torpedo bomber. It is equipped with eight underwing pylons that allow it to carry the AP Mk I rocket and the famous RP-3 rocket.
+
+It was introduced during [[Update 1.97 "Viking Fury"]] as a reward for the [[wt:en/news/6703-event-winner-vehicles-for-the-victory-anniversary-en|2020 "Victory Day"]] event. The Swordfish Mk II can be helpful for inexperienced players who want to learn how to effectively destroy ground targets using bombs and unguided rockets. This is due to its low speed and excellent maneuverability, which make it easier for new players to aim and target ground units accurately.
 
 == General info ==
 === Flight performance ===
@@ -181,10 +183,12 @@ The Swordfish Mk II was developed as the second Swordfish iteration and was firs
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=swordfish_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -194,10 +198,12 @@ The Swordfish Mk II was developed as the second Swordfish iteration and was firs
 * ''other literature.'' -->
 
 === References ===
+
 ;Citations
 <references />
 
 ;Bibliography
+
 * Navy Wings. (2020, November 05). Swordfish MkII LS326. Retrieved November 28, 2020, from <nowiki>https://navywings.org.uk/portfolio/swordfish-ls326/</nowiki>
 
 {{AirManufacturer Fairey}}

@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The '''{{Specs|name}}''' was a British WWII carrier-based fighter based on the [[Spitfire Mk Vc]]. It was the first version of the navalized Spitfire that featured manually folding wings, allowing for easier storage and accommodating of more fighters in the hangar bay and on the deck of an aircraft carrier. A more powerful engine was also installed, namely the Merlin 55 for the F MK III or Merlin 55M for L Mk III. A slim Aero-Vee air filter and six stack ejector type exhausts were fitted to the plane as well. The Mk III was the most produced variant of a Seafire with 1,220 built: 870 by Westland and 350 by Cunliffe Owen. In 1947, 12 Seafire Mk IIIs were stripped of naval equipment such as arresting hooks and handed over to the Irish Air Corps.
+
+The Seafire was introduced in [[Update "Winged Lions"]]. The Seafire shares main flight characteristics with its brother, the Spitfire Mk Vc, which it was developed from. It is armed with a pair of Hispano Mk.II 20 mm cannons with 120 rpg and four 7.7 mm Browning machine guns with 350 rpg all mounted in the wings. The climb rate and speed of the Mk III is subpar when compared to its contemporary enemies such as the Bf 109 G-6 or Fw-190 A-5. One of the few advantages sporting against these planes is the superb manoeuvrability of the Seafire coupled with great energy retention during manoeuvres. Effectively it could also be called a "jack of all trades, but master of none".
 
 == General info ==
 === Flight performance ===

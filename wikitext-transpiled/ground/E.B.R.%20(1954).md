@@ -47,7 +47,7 @@ Compared to the [[E.B.R. (1951)|standard version]] in the tech tree, the {{PAGEN
 
 {{tankMobility|abMinHp=310|rbMinHp=177}}
 
-The E.B.R. (1954) can reach 105 km/h on roads, 60 km/h on dirt tracks and 40 km/h in cross country. Soft terrain is a handicap: mud, snow and sand will considerably slow the armoured car. As a wheeled vehicle, it can't turn on the spot but the turn radius stays relatively small thanks to front and rear steering wheels. The reverse speed is also very high, a must to get out of hot situations quickly.
+The E.B.R. (1954) can reach 105 km/h on roads, 60 km/h on dirt tracks and 40 km/h in cross country. Soft terrain is a handicap: mud, snow and sand will considerably slow the armoured car. As a wheeled vehicle, it can't turn on the spot but the turn radius stays relatively small thanks to front and rear steering wheels. Much like the [[Sd.Kfz.234/2|Sd.Kfz 234/2 Puma]], the tank has a driver on both sides of the hull (albeit the driver in the back being classified as a loader ingame) and also has a reverse gearbox, meaning that you can reverse as if you were facing backwards at full speed which helps relocating efforts.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -115,39 +115,40 @@ The E.B.R. (1954) can reach 105 km/h on roads, 60 km/h on dirt tracks and 40 km/
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The EBR can be used as a long range sniper and as a scout thanks to its good optics and fast shell speed, or it can be used as an aggressive flanking vehicle using its superior mobility and reload rate.
+The EBR can be used as a long range sniper and as a scout vehicle thanks to its good optics and fast shell speed, or it can be used as an aggressive flanking vehicle using its superior mobility and reload rate.
 
-The EBR best preforms on the sidelines of the enemy team, using its autoloader and high velocity gun to eliminate any opposition. The lack of explosive filler for the shell makes aiming at crew positions and critical modules important, prioritizing the gun or ammo rack of the target. Thanks to the autoloader and fast turret rotation, it is easy to switch between targets on the heat of combat, and the smoke pods allow for a quick escape if the situation gets too difficult.
+The EBR best performs on the sidelines of the enemy team, using its autoloader and high velocity gun to eliminate any opposition. The lack of explosive filler for the shell makes aiming at crew positions and critical modules important, prioritizing the gun barrel, breech, or ammo rack of the target. Thanks to the autoloader and fast turret rotation, it is easy to switch between targets in the heat of combat, and the smoke grenades allow for a quick escape if the situation gets too difficult. 
 
-;Enemies worth keeping
+On snowy terrain, it is recommended to stay on roads as the wheels lose their grip on snow much more and result in slower acceleration and top speeds compared to on roads or concrete etc.
 
-* [[Tiger I (Family)|Tiger I]] and [[Panzer V Panther (Family)|Panther I]]: Although sitting at a lower BR, these targets are common to encounter on the battlefield. Flanking them and shooting their weakly armoured sides is advised, but in case of a face to face encounter, shooting the right side (from the players point of view) of the Panther's mantlet or the right side of the Tiger's Hull will disable or destroy them. In case these shots are impossible or too risky, one can shoot the barrels, take a track out and relocate and target the side of said tanks.
+;<nowiki>Enemies worth keeping note of:</nowiki>
 
-* [[T26E1-1]] "Super Pershing" and [[Tiger II (H)]]: At a range larger than 200 m these targets become invulnerable to the 75 mm gun, one should side shoot them or disable their guns and tracks.
- 
+* [[Tiger I (Family)|Tiger I]] and [[Panzer V Panther (Family)|Panther I]]: Although sitting at a lower BR, these targets are common to encounter on the battlefield. Flanking them and shooting their weakly armoured sides is advised, but in case of a face to face encounter, shooting the right side (from the players point of view) of the Panther's mantlet or the right side of the Tiger's Hull will disable or destroy them. In case these shots are impossible or too risky, one can shoot the barrels, take a track out and relocate and target the side of said tanks. Other weakspots are mostly shared with other guns, such as the Panther's turret corners or the flat front armor of the Tiger 1s if unangled. 
+
+When encountering vehicles classified as heavy tanks or even some higher BR medium tanks, it can often be the case that your frontal engagement options can be quite limited. Vehicles such as the [[T26E1-1]], [[T26E5]], [[T34]], [[Tiger II (H)]], [[Jagdtiger|Jagdtiger]] and [[T-54/55 (Family)|T-54s]] can have armor far exceeding the SA50 gun's capabilities save for very small and hard to hit weakspots, and some even come equipped with stabilizers like the [[Centurion Mk 2|Centurion Mk.2]] and [[Centurion Mk 3|Centurion Mk.3]] which can abruptly end your flanking maneuvers. When facing vehicles such as these that need either extreme precision or good awareness on when to peek, it may be more beneficial to go for the barrel of said vehicles to get a better flanking approach on them. Alternatively, you may also choose to simply scout and/or barrel them before relocating to a better position altogether. You shouldn't take every fight in the E.B.R. (1954) and there is no shame in retreating to a better location if you feel like you can't get a good shot in. 
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Fast and very mobile vehicle
-* The main gun reloads in 5 seconds even with 2 active crew members and the autoloader has a capacity of 12 rounds.
-* The shells have a very high muzzle velocity  and, despite the lack of explosive filler, deal a lot of damage.
-* Both the front and back wheels steer, resulting in a pretty small turning radius.
-* The hull armour, in the front (and back), is enough to stop .50 cal AP fire, as well as 14.5 mm AP-I(c) from 200 meters or more; the turret front may be even able to stop some autocannon fire.
+* Fast and very mobile chassis
+* The main gun reloads in 5 seconds regardless of remaining crew count and the autoloader has a capacity of 12 rounds, giving the vehicle good overall sustain for a drum autoloading vehicle.
+* The shells have a very high muzzle velocity and, despite the lack of explosive filler, deals a lot of damage.
+* Both the front and back wheels steer, resulting in a fairly small turning radius.
+* The hull armour, in the front (and back), is enough to stop .50 cal MG fire, as well as 14.5 mm AP-I(c) from 200 meters or more; the turret front may be even able to stop some autocannon fire.
 * As this vehicle is an armoured car, scouting is available.
-* APBC shell with a very high penetration of 182 mm at 10 m, able to easily penetrate most vehicles that are faced.
+* APBC shell with a very high penetration of 182 mm at 10 m, able to easily penetrate most vehicles that the vehicle can face.
 
 '''Cons:'''
 
-* Due to its shape, a penetration in the front (or back) by any actual tank cannon will mean losing the vehicle.
 * The 7° gun depression is far from optimal for players that want to shoot from an hull down position.
-* Poor angle performance of the ammunition, shooting at flat plates is strongly advised.
+* Relatively poor angled performance of the ammunition, and as such it is recommended to shoot at flat plates if possible.
 * The massive radio antennas will make you visible even when the rest of the vehicle is hidden behind a hill or small building.
 * Very easy to spot and recognize from the side due to its size and shape; in addition, the side armour won't really stop anything more than small calibre machine gun fire.
 * The roof of the turret is thin, making it vulnerable to airborne attacks.
-* Very slow when moving in soft terrain (mud, snow, sand).
-* High risk of ammunition explosion if the turret is penetrated, thanks to the large first-stage ammo rack behind the cannon.
+* Sluggish when moving in snow or mud.
+* High risk of ammunition explosion if the turret is penetrated, due to the large first-stage ammo rack behind the cannon.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

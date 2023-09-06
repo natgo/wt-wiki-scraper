@@ -10,7 +10,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was released along with the initial British tree line in [[Update 1.55 "Royal Armour"]].
+The '''{{Specs|name}}''' was a British infantry tank. Its developemet started as private venture of Vickers-Armstrong in 1938 based on experience with A9, A10 and A11 cruiser and infantry tank designs. The War Office initially wasn´t satisfied with only a two-man turret as they´ve opted for a three-man one so the commander would not become overwhelmed with tasks during battle. With situation in Europe worsening, the design was approved in April 1939 and first deliveries were made in May 1940.
+The Valentine XI was an upgunned version of an earleir X featuring Ordnance QF 75 mm gun and 210 hp GMC 6004 diesel engine. Also the armor was welded instead of rivets. Nearly all variants of Valentine tank except Mk I were sent to USSR as part of a Lend-Lease act.
+
+The Valentine was released along with the initial British tree line in [[Update 1.55 "Royal Armour"]]. Featuring a deadly 75 mm gun paired with quite fast reload and excellent armour protection, the Valentine XI is a formidable opponent. While angled majority of its opponents would struggle to penetrate its hull armour. Turret although vulnerable can also deflect few rounds due to its shape. The main drawback of the Valentine is very slow turret rotation speed, only 2.4 km/h reverse speed and low maximum speed of only 24 km/h making the Valentine slower even than the Maus.
 
 == General info ==
 === Survivability and armour ===

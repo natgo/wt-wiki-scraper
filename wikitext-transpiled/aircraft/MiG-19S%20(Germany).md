@@ -141,15 +141,32 @@ However, the MiG-19S carries a paltry 70 rounds per gun which combines with the 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|OFAB-250sv (250 kg)|S-5K}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| 1 || || || 1
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || || || 1
+|-
+! [[S-5K]] rockets
+| 8 || 8 || 8 || 8
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x 100 kg OFAB-100 bombs (200 kg total)
 * 2 x 250 kg OFAB-250sv bombs (500 kg total)
-* 16 x S-5K rockets
 * 32 x S-5K rockets
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

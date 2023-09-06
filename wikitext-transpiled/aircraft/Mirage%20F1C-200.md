@@ -246,7 +246,7 @@ Magic 2s will be your bread and butter in the Mirage F1C-200 very often - despit
 '''Pros:'''
 
 * Availability of [[Matra Super 530F]] and [[Matra R550 Magic 2]] air-to-air missiles
-* The Cyrano-IV radar allows low-altitude Pulse-Doppler (MTI) and ACM modes, an upgrade from the previous Mirages (IIIC & IIIE)
+* The Cyrano-IV radar allows low-altitude Moving Target Indicator (MTI) and ACM modes, an upgrade from the previous Mirages (IIIC & IIIE)
 * Carries 252 countermeasures
 * Large amount of bombs and rockets
 * 30 mm DEFA cannons will essentially knock out planes upon hit due to their heavy-hitting power

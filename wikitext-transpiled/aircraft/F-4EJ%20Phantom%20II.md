@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''F-4EJ''' was a version of the [[F-4 Phantom II (Family)|Phantom II]], a versatile fighter jet designed by McDonnell Douglas in the late 1950s. Japan bought 140 F-4EJs in 1968, based on the [[F-4E]] model used by the U.S. Air Force, but with some changes such as the removal of aerial refueling and ground attack capabilities. Mitsubishi Heavy Industries also built 138 F-4EJs under license. The F-4EJ served as Japan's main air defense fighter for many years, until it was gradually replaced by the Mitsubishi F-2 and the F-35A Joint Strike Fighter. Japan also operated a reconnaissance version of the F-4EJ, the RF-4EJ, which had no weapons and carried cameras and sensors. The RF-4EJ retired in March 2020, followed by the last F-4EJ in December 2020, marking the end of an era for Japan's "Phantastic Phantoms".
+
+It was introduced in [[Update 1.97 "Viking Fury"]]. The F-4EJ Phantom II is a versatile jet that can attack ground and air targets with bombs, rockets, missiles, and cannons. It can also mount three extra gun pods for more firepower, but this reduces its speed and agility. The plane has excellent missiles and a frontal cannon that can take down enemy aircraft with ease. The F-4EJ is more manoeuvrable than the [[F-4C]] thanks to its leading-edge flaps, but it should still avoid turn fights with lighter jets. The [[F-4E]] Phantom II is also a rival, as it has leading-edge slats that the F-4EJ lacks.
 
 == General info ==
 === Flight performance ===

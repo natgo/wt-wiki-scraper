@@ -69,25 +69,45 @@ The {{PAGENAME}} is armed with a single flexible Afanasev A-12.7 machine gun. Th
 
 Due to the limited arc and the relatively low calibre, air-to-air engagements relying on this machine gun can be difficult. It works best as a defensive armament against other light and poorly armoured helicopters such as the Franco–German [[Alouette (Family)]] and the American [[UH-1 (Family)|Hueys]].
 
-[[File:Mi-4AV convoy.jpg|thumb|{{PAGENAME}}s flying in formation carrying 96 x S-5K rockets]]
-
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100sv (100 kg)|FAB-250M-46 (250 kg)|9M17M Falanga|S-5K}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FAB-100sv (100 kg)|100 kg FAB-100sv]] bombs
+| || || 1 || 1 || 1 || 1 || 1 || 1 || ||
+|-
+! [[FAB-250M-46 (250 kg)|250 kg FAB-250M-46]] bombs
+| || || || 1 || 1 || 1 || 1 || || ||
+|-
+! [[S-5K]] rockets
+| || || 16 || 16 || 16 || 16 || 16 || 16 || ||
+|-
+! [[9M17M Falanga]] missiles
+| 1 || 1 || || || || || || || 1 || 1
+|-
+| colspan="11" | Maximum permissible weight imbalance: 500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 96 x S-5K rockets
-* 96 x S-5K rockets + 2 x 9M17M Falanga missiles
+* 2 x 9M17M Falanga missiles
+* 4 x 9M17M Falanga missiles
 * 6 x 100 kg FAB-100sv bombs (600 kg total)
 * 4 x 250 kg FAB-250M-46 bombs (1,000 kg total)
-* 4 x 9M17M Falanga missiles + 96 x S-5K rockets
-* 4 x 9M17M Falanga missiles + 6 x 100 kg FAB-100sv bombs (600 kg total)
-* 4 x 9M17M Falanga missiles + 4 x 250 kg FAB-250M-46 bombs (1,000 kg total)
+* 4 x 250 kg FAB-250M-46 bombs + 4 x 9M17M Falanga missiles (1,000 kg total)
+{{Navigation-End}}
 
 The S-5 unguided rockets are available without research. They are not accurate and do not have a large explosive payload. Since it uses a shaped-charge warhead, a direct hit is required in order to damage most enclosed armoured vehicles, and aiming is complicated by the fact that the {{PAGENAME}} does not have a ballistic computer.
+[[File:Mi-4AV convoy.jpg|thumb|{{PAGENAME}}s flying in formation carrying 96 x S-5K rockets]]
 
 The 9M17M Falanga should be considered the main weapon of the {{PAGENAME}}. These missiles are semi-automatic (SACLOS), which means that the pilot does not need to manually fly the missile all the way to the target. It does, however, require that the pilot keep the sight crosshairs on the target in order to ensure a hit. This, in turn, means the helicopter must remain relatively stable, making it a vulnerable target. The Falanga has the longest range of all the anti-tank missiles available to starter helicopters (4 km vs. 3 km for the [[AS.11]]), which allows the {{PAGENAME}} to attack while remaining out of reach for most contemporary SPAA. It is also important to note that the Falanga has a minimum effective range of around 500–600 m.
 

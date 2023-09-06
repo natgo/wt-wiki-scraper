@@ -145,16 +145,36 @@ The recommended belts for this aircraft are Ground Targets, they're more reliabl
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|OFAB-250sv (250 kg)|R-3S|S-5K}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| || 1 || || || 1 ||
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| || 1 || || || 1 ||
+|-
+! [[S-5K]] rockets
+| || 8 || 8 || 8 || 8 ||
+|-
+! [[R-3S]] missiles
+| 1 || || || || || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x R-3S missiles
+* 32 x S-5K rockets
 * 2 x 100 kg OFAB-100 bombs (200 kg total)
 * 2 x 250 kg OFAB-250sv bombs (500 kg total)
-* 16 x S-5K rockets
-* 32 x S-5K rockets
+{{Navigation-End}}
 
 The MiG-19PT can carry two heat seeking R-3S air to air missiles on under-wing pylons. The missiles have a 10G overload with 8.8 kg TNT explosive equivalent, which is enough to nearly guarantee a downed enemy aircraft if they hit. They travel at a speed of 1,000 m/s which is average for air to air missiles. The ideal use-case for the missiles is for a very low-speed or distracted enemy, as it is very easy to dodge an R3S.
 

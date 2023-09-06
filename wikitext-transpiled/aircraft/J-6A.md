@@ -134,16 +134,36 @@ The recommended belts for this aircraft are "Armoured targets", they're more rel
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|OFAB-250sv (250 kg)|PL-2|S-5K}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-19PT.png]]</div>
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| || 1 || || || 1 ||
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| || 1 || || || 1 ||
+|-
+! [[S-5K]] rockets
+| || 8 || 8 || 8 || 8 ||
+|-
+! [[PL-2]] missiles
+| 1 || || || || || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 16 x S-5K rockets
-* 32 x S-5K rockets
 * 2 x PL-2 missiles
+* 32 x S-5K rockets
 * 2 x 100 kg OFAB-100 bombs (200 kg total)
 * 2 x 250 kg OFAB-250sv bombs (500 kg total)
+{{Navigation-End}}
 
 The J-6A can be equipped with PL-2 missiles, licensed copies of the Soviet [[R-3S]] with identical performance.
 

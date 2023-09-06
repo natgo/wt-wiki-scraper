@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+The Italian Panavia Tornado ADV (introduced in [[Update "La Royale"]].) was born out of a joint effort by Italy, Germany and the United Kingdom during the late cold war in the 1970s. The Tornado would be designed as a twin-engined, variable-swept wing aircraft with a two-person crew an internal gun and provisions for a wide array of armament which included guided/unguided bombs, mine launchers, rockets, air to air missiles and air to ground missiles. The ADV variant was made to be better suited for air-to-air engagements, it had access to better avionics and better anti-air missiles. Italy would gain access to this aircraft due to the need to replace the F104's as their frontline air-defence fighter jet. In game the Tornado ADV has access to AIM-9L Sidewinders, Skyflash SuperTEMPs and a 27 mm Mauser BK27 cannon. It's best not to be overly agressive with the Tornado ADV, use your advantages to the best of your ability. The ADV can easily outrange most enemies it faces, however at closer ranges the aircraft cannot dogfight as well as others. You will come to find out the ADV loses energy quickly and cannot sustain long-duration dogfights. The aircraft is not really suited for Ground RB, so try stick to using this in SIM or Air RB. Overall, just play defensively, you want to keep the upper hand in engagments, a skilled player can take on pretty much any aircraft it will face, especially in downtiers.
 
 == General info ==
 === Flight performance ===
@@ -143,11 +143,23 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.''
+''The '''Tornado ADV''' can be outfitted with the following ordnance''
+
+[[AIM-9L Sidewinder]] missiles
+
+[[Skyflash]] missiles
+
+[[Skyflash SuperTEMP]] missiles
+
+Countermeasures
+
+330 gal drop tanks
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Tornado ADV is outclassed by higher tier aircraft, and is heavily dependent on its weaponry and avionics to be competitive. During the early grind, AIM-9Ls and the radar assisted gun are the only options, meaning that you have to stay at ground level (about 20-30 m above ground) to avoid being instantly obliterated by SARH missiles. Try to stick to the flat ground, and if that is impossible, try to "dive" into the openings instead of going over them, as you will momentarily lose ground echo protection. This makes early Tornado ADV gameplay that of a "first encounter" plane - simply be there first and cause as much chaos as you can before enemy gets you, so your team can finish them off, or flank enemy team from the side and hope they did not notice you approaching. The gun scope does not care about "ground echo" that completely destroys radar missiles, so you can easily snipe your opponents in a head-on. Even if all you do is cause some fires, this will spell doom for the enemy plane, as they can be easily cleaned up by teammates. A lot of planes that stick to the ground carry AIM-9Ls or R-60 variants, so turn afterburner off before actually engaging enemy planes and fire some flares while you go at them, especially at 900 m range and when pulling over hills. 
+
+The Tornado ADV can outrange most jets at lower BR's, even with a mediocre acceleration you will not struggle, especially if you decide to stick lower to the ground. Avoid pulling negative Gs in the Tornado ADV, the negative G performance of the Tornado is poor and making tight turns at top speeds will mean that the wings of the jet will instantly rip, leaving you to become easy prey to most of the other enemies fighter jets. Unlike the IDS the Tornado ADV lacks any air-to-ground armament options, so bringing this jet in ground RB matches might not be the best unless you really want to for enemy aircraft. Keep in mind that if you end up being chased after you try to engage an enemy aircraft, just fly away and dont try and dogfight them. The Tornado ADV will lose a lot of energy quickly, so just fly and get a teammate to cover your back while you retreat back to the airfield or closer to allied AA platforms.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
@@ -190,14 +202,18 @@ In terms of the Italian ADV, during the late stages of the cold war Italy realis
 
 * [[Tornado F.3]]
 
+* [[Tornado IDS ASSTA1 (Germany)]]
+* [[Tornado GR.1]]
+* [[Tornado IDS (Germany)]] [[Tornado (Family)]]
+
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+** ''https://forum.warthunder.com/index.php?/topic/485805-panavia-tornado/''
+** ''https://www.aircraftrecognitionguide.com/panavia-tornado''
 
 {{AirManufacturer Panavia}}
 {{Italy jet aircraft}}

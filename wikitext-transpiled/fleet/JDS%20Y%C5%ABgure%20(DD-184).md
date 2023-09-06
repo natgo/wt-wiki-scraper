@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (ゆうぐれ, [[Abbreviations#.28JP.29_Naval|namesake]]: Twilight) is a premium gift rank {{Specs|rank}} Japanese destroyer {{Battle-rating}}. It was introduced during [[Update "Ixwa Strike"]] as a reward for the [[wt:en/news/7107-event-future-technology-en|Future Technology]] event.
+The '''Ariake-class, JDS Yūgure (DD-184), 1960''' (ゆうぐれ, [[Abbreviations#.28JP.29_Naval|namesake]]: Twilight), formerly '''USS Richard P. Leary (DD-664)''', was a [[Fletcher (Family)|Fletcher-class]] destroyer of the US Navy. She was loaned to Japan in 1959 along with a sister ship (''JDS Ariake (DD-183)'', formerly ''USS Heywood L. Edwards (DD-663)''), and underwent modifications to serve as a training and experimental vessel. The Yūgure participated in mine warfare until 1974, when she was decommissioned and returned to the US Navy. She was scrapped in 1976 together with her sister.
+
+She was introduced during [[Update "Ixwa Strike"]] as a reward for the [[wt:en/news/7107-event-future-technology-en|Future Technology]] event. Yūgure is a stripped-down [[Fletcher (DD-445)]] that sacrifices one 5-inch gun, torpedoes, and 20 mm cannons for additional 40 mm twin mounts. This gives her a reduced battle rating and allows her to face less powerful opponents more often. The remaining 5-inch guns have a high fire rate and damage output that can destroy older destroyers easily, and the 40 mm cannons can deal with small patrol boats effectively.
 
 == General info ==
 === Survivability and armour ===

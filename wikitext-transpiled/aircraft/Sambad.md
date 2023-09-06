@@ -134,11 +134,41 @@ The Sambad is equipped with 2 x DEFA 552 30 mm cannons mounted on the underside 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|500/50 kg G.P. (500 kg)|Mk.2 incendiary}}
-{{main|Shafrir|SNEB type 23|T10 151}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="23%" | 1 !! width="23%" | 2
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[100/50 kg G.P. (100 kg)|100/50 kg G.P.]] bombs
+| 4 || 4
+|-
+! [[250/50 kg G.P. (250 kg)|250/50 kg G.P.]] bombs
+| 1 || 1
+|-
+! [[500/50 kg G.P. (500 kg)|500/50 kg G.P.]] bombs
+| 1 || 1
+|-
+! [[Mk.2 incendiary]] bombs
+| 1 || 1
+|-
+! [[SNEB type 23]] rockets
+| 19 || 19
+|-
+! [[T10 151]] rockets
+| 6 || 6
+|-
+! [[Shafrir]] missiles
+| 1 || 1
+|-
+| colspan="3" | Maximum permissible weight imbalance: 450 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x Shafrir missiles
 * 8 x 100/50 kg G.P. bombs (800 kg total)
@@ -147,6 +177,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x Mk.2 incendiary bombs
 * 12 x T10 151 rockets
 * 38 x SNEB type 23 rockets
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

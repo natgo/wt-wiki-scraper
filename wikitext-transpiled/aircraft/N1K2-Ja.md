@@ -10,7 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''N1K2-Ja''', designated as '''Shiden-Kai ({{Annotation|紫電改|Violet Lightning, Improved}})''', was a small scale modification of the [[N1K2-J]] which increased the bomb load capacity to four 60 kg bombs or two 250 kg bombs, and reduced the area of the vertical stabilizer by 13% by cutting the leading edge which improved the balance of manoeuvrability and stability.
+
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Shiden-Kai is a challenging aircraft to master. It has superior manoeuvrability over early jets, but they have a significant speed advantage. The only jet that can rival its agility is the [[Yak-15]], but it suffers from low speed, climb rate, and ammunition. The N1K2-Ja can easily outperform most conventional propeller planes, but it faces difficulties against other superprops, which have better overall performance. The N1K2-Ja should rely on its mid-speed handling to gain the upper hand in dogfights. In ground battles, it can excel as a fighter-bomber employing two 250 kg bombs or Type 5 rockets next to its four 20 mm cannons which can load a solid belt of AP which can reliably destroy soft targets and top-down medium armoured vehicles.
+
+;Nicknames:
+* [[Abbreviations#.28IJN.29_Official_name_designation|Official Designation]]: ''紫電改 (Shiden-Kai, "Violet Lightning, Improved")''
+* Allied reporting name: George
 
 == General info ==
 === Flight performance ===

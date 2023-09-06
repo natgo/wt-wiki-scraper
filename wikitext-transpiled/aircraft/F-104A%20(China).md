@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''{{Specs|name}}''' , commonly known as the "星式戰鬥機" (literal translation of "Starfighter") or by its notorious nicknames "寡婦製造機" (Widowmaker) and "飛行棺材" (Flying Coffin) derived from the Luftwaffe, was one of the F-104 series in service at ROCAF as the military surplus of USAF. As the cross-strait conflict still intensifies and PLAAF's introduction of supersonic [[MiG-19 (Family)|MiG-19/J-6]] series, ROCAF urged for the supersonic fighters to replace the already obsolete F-86F series by 1960s. Both F-100 and F-104 were requested by ROCAF as they have already seen USAF's F-104A in Taichung Kokan (now CCK) Airbase; out of the expectation of ROCAF, USAF soon agreed to supply 22 F-104A and 5 F-104B (due to the improved C series has joined USAF service in homeland air-interception missions) by 1960 under the Project Alishan (阿里山計劃). These jets soon replaced the F-86Fs in Taichung but only served for 6 years and were returned to US, where these jets were then supplied to Jordan and Pakistan; while ROCAF obtained F-104G from different sources to replace this gap.
 
-This early interceptor model of the F-104 Starfighter, identical to the [[F-104A|US F-104A]] is a very different aircraft from the [[F-100A (China)|ROCAF F-100A]] that precedes it. The thin and pencil-shaped F-104 has excellent speed, acceleration, and climb for its battle rating but horrid turning capabilities at low speeds. The missile armament of two AIM-9B Sidewinders is disappointing, but it at least has a nifty M61 Vulcan rotary cannon that can dispatch enemies in a quick burst. Pilots who adhere to strict boom-and-zoom tactics can take advantage of the F-104's high performance compared to its contemporaries. Succeeding this aircraft is the improved [[F-104G (China)|ROCAF F-104G]], which boasts further improved performance and vastly superior payload options.
+Introduced in [[Update "Starfighters"]] alongside with other F-104 series in game, this early interceptor model of the F-104 Starfighter is identical to the [[F-104A|US F-104A]] which behaves very differently from the [[F-100A (China)|ROCAF F-100A]] that precedes it. The thin and pencil-shaped F-104 has excellent speed, acceleration, and climb for its battle rating but horrid turning capabilities at low speeds. The missile armament of two AIM-9B Sidewinders is disappointing, but it at least has a nifty M61 Vulcan rotary cannon that can dispatch enemies in a quick burst. Pilots who adhere to strict boom-and-zoom tactics can take advantage of the F-104's high performance compared to its contemporaries. Succeeding this aircraft is the improved [[F-104G (China)|ROCAF F-104G]], which boasts further improved performance and vastly superior payload options.
 
 == General info ==
 === Flight performance ===
@@ -220,6 +220,7 @@ A large number of Starfighters are preserved and on display in Taiwan today. At 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-104a_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -228,6 +229,7 @@ A large number of Starfighters are preserved and on display in Taiwan today. At 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-104 (Family)]]
 
 == External links ==
@@ -235,6 +237,7 @@ A large number of Starfighters are preserved and on display in Taiwan today. At 
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 
