@@ -23,8 +23,8 @@ function vehiclesLoop(vehicles: modernparse[], vehiclePages: string[]) {
   const wiki: Wiki[] = [];
   vehicles.forEach((element, index) => {
     const wikinameMatch = vehiclePages[index].match(/code\s?=\s?([^\n\s]*)/);
-    const marketplaceMatch = vehiclePages[index].match(/markets?=\s?([^\n]*)/);
-    const storeMatch = vehiclePages[index].match(/store?=\s?([^\n\s]*)/);
+    const marketplaceMatch = vehiclePages[index].match(/market\s?=\s?([^\n]*)/);
+    const storeMatch = vehiclePages[index].match(/store\s?=\s?([^\n\s]*)/);
 
     if (wikinameMatch) {
       if (marketplaceMatch) {

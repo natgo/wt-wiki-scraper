@@ -57,7 +57,8 @@ function cleanPages(output: categorymemberspart[]) {
       element.pageid === 3378 ||
       element.pageid === 66 ||
       element.pageid === 8019 ||
-      element.pageid === 3421
+      element.pageid === 3421 ||
+      element.pageid === 22858
     ) {
       array.splice(i, 1);
     }

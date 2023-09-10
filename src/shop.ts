@@ -95,7 +95,7 @@ function parseColumn(
       const find = final.find((vehicle) => {
         return vehicle.intname === key;
       });
-      if (find && find.prem_type !== "false") {
+      if (find && find.cost_gold) {
         isPrem = true;
       }
 

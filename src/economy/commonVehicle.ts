@@ -9,7 +9,7 @@ import {
   namevehicle,
 } from "types";
 
-import { FinalProps, premTypeSchema } from "../../data/types/final.schema";
+import { FinalProps, ObtainFrom, obtainFromSchema } from "../../data/types/final.schema";
 
 const br = [
   "1.0",
@@ -110,29 +110,20 @@ export function commonVehicle(
 ): FinalProps {
   const shopVehicle = findVehicleShop(element.intname, shopData, vehicleEconomy.country, shop);
 
-  let prem = "false";
-  if (vehicleEconomy.costGold) {
-    if (vehicleEconomy.gift) {
-      if (vehicleEconomy.event) {
-        prem = "event";
-      } else {
-        if (shopVehicle?.marketplaceItemdefId) {
-          prem = "marketplace";
-        } else {
-          prem = "store";
-        }
-      }
-    } else {
-      prem = "gold";
-    }
-  } else {
-    if (vehicleEconomy.researchType) {
-      prem = "squad";
-    } else {
-      if (vehicleEconomy.event) {
-        prem = "event";
-      }
-    }
+  let obtainFrom: ObtainFrom = undefined;
+  switch (true) {
+    case Boolean(shopVehicle?.marketplaceItemdefId):
+      obtainFrom = "marketplace";
+      break;
+    case Boolean(element.store):
+      obtainFrom = "store";
+      break;
+    case Boolean(vehicleEconomy.gift):
+      obtainFrom = "gift";
+      break;
+    case Boolean(vehicleEconomy.costGold):
+      obtainFrom = "gold";
+      break;
   }
 
   const commonProps: FinalProps = {
@@ -165,7 +156,8 @@ export function commonVehicle(
     ],
     sl_price: vehicleEconomy.value,
     reqRP: vehicleEconomy.reqExp,
-    prem_type: premTypeSchema.parse(prem),
+    obtainFrom: obtainFromSchema.parse(obtainFrom),
+    squad: vehicleEconomy.researchType === "clanVehicle" ? true : undefined,
     marketplace: element.marketplace,
     store: element.store,
     event: vehicleEconomy.event ? vehicleEconomy.event : undefined,
