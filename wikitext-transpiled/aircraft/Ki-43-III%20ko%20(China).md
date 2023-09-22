@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}'''(Falcon), with Allied codename of Oscar, represented the captured Ki-44 by National Revolutionary Air Force. After the total outbreak of 2nd Sino-Japanese War, IJAAF deployed their Ki-44 in Mainland China and used by the 64th Air Squadron and scored some victories on Sino-US forces during their deployment; later in April 1942, the Chinese Expeditionary Force (中國遠征軍) captured a Ki-43-Ic which has been flown by Yasuda Yoshito (安田義人). After the end of war, ROCAF obtained the remaining Ki-44s in China, mostly at Nanjing as the supplement fighters before new US-built fighters joined them, they were decommissioned in 1946 while the Communist forces captured eight Ki-43s at Northeastern China and been used as trainer aircraft like many other captured Japanese fighters.<ref name=":0">https://www.storm.mg/article/3860735?page=5</ref>
+
+Introduced in [[Update 1.91 "Night Vision"]] alongside with the Chinese tech-tree, this variant of Ki-43 featured a more powerful engine as demanded by IJAAF for better dive speed; while the firepower is still rather poor with only two 12.7 mm nose machine guns, players could still enjoy its excellent maneuverability even against fighters from the country it was once served in - Japan.
 
 == General info ==
 === Flight performance ===
@@ -152,27 +154,27 @@ While having sufficient flight characteristics, the Ki-43 is extremely fragile a
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-In early 1937 the Army recognized the need for a new single seat fighter. Instead of going through the normal process of requesting manufacturers to submit designs, the Army contracted with Nakajima directly to produce a replacement for their Ki-27 (Army Type 97) fighter. The requirements laid out to Nakajima for this new fighter was for it to have a top speed of 311 mph, to be able to reach 16,405 ft within five minutes, to have a minimum range of 500 miles, it was to be armed with two 7.7 mm machine guns, and to not lose any of the manoeuvrability of the Ki-27. The first prototype of what was to become the Ki-43 was completed in December 1938 with 2 more following soon after in 1939, however upon testing it was found that these airplanes did not live up the Army's expectations. The complaints from test pilots included that the plane was not manoeuvrable enough, hard to control, and had visibility issues.
+==== See also: [[Ki-43-II]] ====
+According to the records from NRA, the Chinese Expeditionary Force captured a Ki-44-Ic (P-5017; tail number given after its capture) in Burma on 1942/4/29; this aircraft was later confirmed to be one of the fighter piloted by Yasuda Yoshito (安田義人) who later was known as the pilot who witnessed the final flight of Katō Kateo (加藤建夫), the commander of 64th Air Squadron (later nicknamed Kato Hayabusa Squadron 加藤隼戦闘隊) later on 22nd May. Three years later, by the time of the end of war, ROCAF acquired the remaining Ki-43s in Mainland China which were mostly stationed at Nanjing; likely due to their obsolete performance, lack of spare parts and upcoming US-built fighters, these aircrafts which were transferred to the 6th Wing of ROCAF were soon replaced by new fighters.
 
-Following the evaluation of the initial 3 prototypes, Nakajima would develop 10 testing aircraft with various modifications in order to address the armies concerns. The changes tested included giving the fighter the HA-105 engine, replacing the 7.7 mm machine guns with 12.7 mm machine guns, upgrading the outer skin to a treated duralumin, narrower fuselage, redesigned tail surfaces, modifications to the wing design, and the introduction of butterfly flaps. The last improvement in particular helped the plane to overcome its lack of manoeuvrability that the Army had issue with. After these designed prototypes were tested the Army settled on what they saw was the optimum configuration and requested that it be equipped with the Nakajima Ha-25 engine. The plane entered production as the Ki-43-Ia (Army Type 1 Fighter Model 1A) with the first example completing production in April 1941. This model was soon replaced with the Ki-43-Ib (Army Type 1 Fighter Model 1B) which replaced one of the 7.7 mm machine guns with a 12.7 mm machine gun which was also soon replaced by the Ki-43-Ic (Army Type 1 Fighter Model 1C) which was equipped with two 12.7 mm machine gun.
-
-After some time in the field, the Ki-43 was to receive a major upgrade based on feedback from pilots, which included replacing the Ha-25 engine with the more powerful Ha-115 engine, a two stage supercharger, pilot armour, self-sealing fuel tanks and many more minor improvements. The first prototype of what was to become the Ki-43-II (Army Type 1 Fighter Model 2) was completed in February 1942. The last major modification of the Ki-43 was done in 1944, combining the minor modifications of the IIa and IIb with the more powerful Nakajima Ha-115-II engine. These minor modifications over the Ki-43-II included a reduced wing-span (improving the plane's low and medium speed performance), increased pilot armour, improved oil cooler, and modified carburetor intake. This new Ki-43-IIIa (Army Type 1 Fighter Model 3A) entered production in October 1944 with approximately 1,000 being completed before the war ended. The Ki-43 would become the most numerous of all the Japanese Army's fighters. While operating in Malaysia and Burma the plane received the codename "Jim" and in the Pacific Theatre it received the allied codename "Oscar". The codename "Oscar" was eventually selected as the official code name for the airplane by the Allies.
-
-After the end of the war, a number of nations used the Ki-43, including the Indonesian People's Security Force who used them against the Dutch, and the French who used them against Communist forces in Indochina.
+Meanwhile, as the Communist forces took over the assets from both Japanese and puppet-state Manchuria, they have also acquired 8 Ki-43s used by these two forces; thanks to having a Japanese pilot and Wang Jingwei Regime officers who also flew Hayabusa before, the Northeastern Aviation School now has trainer aircrafts to train pilots for the Communist side, helping to built the foundations of the future PLAAF in 1949. <ref name=":0" />
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki_43_3_ko Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

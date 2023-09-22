@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Italian Panavia Tornado ADV (introduced in [[Update "La Royale"]].) was born out of a joint effort by Italy, Germany and the United Kingdom during the late cold war in the 1970s. The Tornado would be designed as a twin-engined, variable-swept wing aircraft with a two-person crew an internal gun and provisions for a wide array of armament which included guided/unguided bombs, mine launchers, rockets, air to air missiles and air to ground missiles. The ADV variant was made to be better suited for air-to-air engagements, it had access to better avionics and better anti-air missiles. Italy would gain access to this aircraft due to the need to replace the F104's as their frontline air-defence fighter jet. In game the Tornado ADV has access to AIM-9L Sidewinders, Skyflash SuperTEMPs and a 27 mm Mauser BK27 cannon. It's best not to be overly agressive with the Tornado ADV, use your advantages to the best of your ability. The ADV can easily outrange most enemies it faces, however at closer ranges the aircraft cannot dogfight as well as others. You will come to find out the ADV loses energy quickly and cannot sustain long-duration dogfights. The aircraft is not really suited for Ground RB, so try stick to using this in SIM or Air RB. Overall, just play defensively, you want to keep the upper hand in engagments, a skilled player can take on pretty much any aircraft it will face, especially in downtiers.
+The Italian Panavia Tornado ADV was born out of a joint effort by Italy, Germany, and the United Kingdom during the late Cold War in the 1970s. The Tornado would be designed as a twin-engined, variable-swept wing aircraft with a two-person crew, an internal gun, and provisions for a wide array of ordnance which included guided/unguided bombs, mine launchers, rockets, air to air missiles, and air to ground missiles. The ADV variant was made to be better suited for air-to-air engagements, it had access to better avionics and better anti-air missiles. Italy would gain access to this aircraft due to the need to replace the F-104S as their frontline air-defence fighter jet.
+
+Introduced in [[Update "La Royale"]], the Tornado ADV has access to AIM-9L Sidewinders, Skyflash SuperTEMPs and a 27 mm Mauser BK27 cannon. It's best not to be overly aggressive with the Tornado ADV, use your advantages to the best of your ability. The ADV can easily outrange most enemies it faces, however at closer ranges the aircraft cannot dogfight as well as others. You will come to find that the ADV loses energy quickly and cannot sustain long-duration dogfights. The aircraft is not really suited for Ground RB, so try stick to using this in Air modes. Overall, just play defensively, you want to keep the upper hand in engagements, a skilled player can take on pretty much any aircraft it will face, especially in downtiers.
 
 == General info ==
 === Flight performance ===
@@ -39,11 +41,11 @@ The Italian Panavia Tornado ADV (introduced in [[Update "La Royale"]].) was born
 ==== Details ====
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="6" | Features
+! colspan="7" | Features
 |-
-! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
+! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute !! Thrust reversal
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X    <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -58,7 +60,7 @@ The Italian Panavia Tornado ADV (introduced in [[Update "La Royale"]].) was born
 ! Combat !! Take-off !! Landing !! + !! -
 |-
 ! Min sweep
-| 972 || rowspan="2" | {{Specs|destruction|gear}} || 1,166 || 552 || 440 || ~8 || ~3
+| 972 || rowspan="2" | 518 <!-- {{Specs|destruction|gear}} --> || 1,166 || 552 || 440 || ~8 || ~3
 |-
 ! Max sweep
 | 1,555 || - || - || - || ~9 || ~3
@@ -136,41 +138,65 @@ The Italian Panavia Tornado ADV (introduced in [[Update "La Royale"]].) was born
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 27 mm Mauser BK27 cannon, cheek-mounted (180 rpg)
-** 1 x 27 mm Mauser BK27 cannon + 32 x large calibre countermeasures
+* 1 x 27 mm Mauser BK27 cannon, cheek-mounted (180 rpg)
+* 32 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-''The '''Tornado ADV''' can be outfitted with the following ordnance''
 
-[[AIM-9L Sidewinder]] missiles
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-[[Skyflash]] missiles
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_Tornado_F.3.png]]</div>
+|-
+! [[AIM-9L Sidewinder]] missiles
+| 1, 2 *|| || || || 1, 2 *
+|-
+! [[Skyflash]] missiles
+| || || 4 || ||
+|-
+! [[Skyflash SuperTEMP]] missiles
+| || || 4 || ||
+|-
+! Countermeasures
+| 160 * || || || || 160 *
+|-
+! 330 gal drop tanks
+| || 1 || || 1 ||
+|-
+| colspan="7" | * Countermeasures can be carried with Sidewinder missiles on the same hardpoint
+|-
+|}
 
-[[Skyflash SuperTEMP]] missiles
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 
-Countermeasures
-
-330 gal drop tanks
+* 2 x 330 gal drop tanks
+* 2 x AIM-9L Sidewinder missiles
+* 4 x AIM-9L Sidewinder missiles + 320 x countermeasures
+* 4 x Skyflash missiles
+* 4 x Skyflash SuperTEMP missiles
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Tornado ADV is outclassed by higher tier aircraft, and is heavily dependent on its weaponry and avionics to be competitive. During the early grind, AIM-9Ls and the radar assisted gun are the only options, meaning that you have to stay at ground level (about 20-30 m above ground) to avoid being instantly obliterated by SARH missiles. Try to stick to the flat ground, and if that is impossible, try to "dive" into the openings instead of going over them, as you will momentarily lose ground echo protection. This makes early Tornado ADV gameplay that of a "first encounter" plane - simply be there first and cause as much chaos as you can before enemy gets you, so your team can finish them off, or flank enemy team from the side and hope they did not notice you approaching. The gun scope does not care about "ground echo" that completely destroys radar missiles, so you can easily snipe your opponents in a head-on. Even if all you do is cause some fires, this will spell doom for the enemy plane, as they can be easily cleaned up by teammates. A lot of planes that stick to the ground carry AIM-9Ls or R-60 variants, so turn afterburner off before actually engaging enemy planes and fire some flares while you go at them, especially at 900 m range and when pulling over hills. 
+The Tornado ADV is outclassed by higher tier aircraft, and is heavily dependent on its weaponry and avionics to be competitive. During the early grind, AIM-9Ls and the radar assisted gun are the only options, meaning that you have to stay at ground level (about 20-30 m above ground) to avoid being instantly obliterated by SARH missiles. Try to stick to the flat ground, and if that is impossible, try to "dive" into the openings instead of going over them, as you will momentarily lose ground echo protection. This makes early Tornado ADV gameplay that of a "first encounter" plane - simply be there first and cause as much chaos as you can before enemy gets you, so your team can finish them off, or flank enemy team from the side and hope they did not notice you approaching. The gun scope does not care about "ground echo" that completely destroys radar missiles, so you can easily snipe your opponents in a head-on. Even if all you do is cause some fires, this will spell doom for the enemy plane, as they can be easily cleaned up by teammates. A lot of planes that stick to the ground carry AIM-9Ls or R-60 variants, so turn afterburner off before actually engaging enemy planes and fire some flares while you go at them, especially at 900 m range and when pulling over hills.
 
-The Tornado ADV can outrange most jets at lower BR's, even with a mediocre acceleration you will not struggle, especially if you decide to stick lower to the ground. Avoid pulling negative Gs in the Tornado ADV, the negative G performance of the Tornado is poor and making tight turns at top speeds will mean that the wings of the jet will instantly rip, leaving you to become easy prey to most of the other enemies fighter jets. Unlike the IDS the Tornado ADV lacks any air-to-ground armament options, so bringing this jet in ground RB matches might not be the best unless you really want to for enemy aircraft. Keep in mind that if you end up being chased after you try to engage an enemy aircraft, just fly away and dont try and dogfight them. The Tornado ADV will lose a lot of energy quickly, so just fly and get a teammate to cover your back while you retreat back to the airfield or closer to allied AA platforms.
+The Tornado ADV can outrange most jets at lower BRs, even with a mediocre acceleration you will not struggle, especially if you decide to stick lower to the ground. Avoid pulling negative Gs in the Tornado ADV, the negative G performance of the Tornado is poor and making tight turns at top speeds will mean that the wings of the jet will instantly rip, leaving you to become easy prey to most of the other enemies fighter jets. Unlike the IDS, the Tornado ADV lacks any air-to-ground armament options, so bringing this jet in ground RB matches might not be the best unless you really want to for enemy aircraft. Keep in mind that if you end up being chased after you try to engage an enemy aircraft, just fly away and don't try and dogfight them. The Tornado ADV will lose a lot of energy quickly, so just fly and get a teammate to cover your back while you retreat back to the airfield or closer to allied AA platforms.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
 
 * Great air-to-air armament options which includes AIM-9L and SuperTemp
 * Advanced radar
 * Access to countermeasures
-* 27mm cannon which can be used both got air and ground targets
+* 27 mm cannon which can be used both got air and ground targets
 * Decent climb rate
-
-*
 
 '''Cons:'''
 
@@ -178,11 +204,9 @@ The Tornado ADV can outrange most jets at lower BR's, even with a mediocre accel
 * No proper air-to-ground armament options
 * Wings and other important modules are prone to shatter at high speeds
 
-*
-
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Panavia Tornado was born out of a joint effort by Italy, Germany and the United Kingdom during the late cold war in the 1970s. The Tornado would be designed as a twin-engined, variable-swept wing aircraft with a two-person crew an internal gun and provisions for a wide array of armament which included guided/unguided bombs, mine launchers, rockets, air to air missiles and air to ground missiles. The aircraft was also armed with 2 German made 27 mm Mauser BK-27 revolver cannon which was able to make short work of pretty much any aircraft it had in its sights, with the right munition it was also capable of taking out lightly armoured vehicles such as the BMP-1. The Panavia Tornado was primarily made to undertake missions which included tactical strike, reconnaissance, air defence and maritime patrol. What they aimed when making the design was an aircraft which could be very multi-role, it would allow the Panavia Tornado to replace several different types of aircraft which were at the time in service with the respected countries. The main variants which were designed included the IDS which was mainly a strike-fighter, the ADV which was the Air Defence Variant and lastly the ECR, which was mainly created to carry out recon and SEAD missions. In terms speed the Tornado could go up to 2,400 km per hour, its engine being known as the Turbo-Union RB199-34R Mk.103. After several proposals and design changes, the first prototype of the Panavia Tornado would fly on the 14th of August, 1974. The prototype would further solidify the partnership as when it was being demonstrated, a lot of positive comments would be made. Thus development would continue smoothly with the first aircraft being officially delivered to the RAF (Royal Air Force) and the German Air Force on 5 and 6 June 1979 respectively. 
+The Panavia Tornado was born out of a joint effort by Italy, Germany and the United Kingdom during the late cold war in the 1970s. The Tornado would be designed as a twin-engined, variable-swept wing aircraft with a two-person crew an internal gun and provisions for a wide array of armament which included guided/unguided bombs, mine launchers, rockets, air to air missiles and air to ground missiles. The aircraft was also armed with 2 German made 27 mm Mauser BK-27 revolver cannon which was able to make short work of pretty much any aircraft it had in its sights, with the right munition it was also capable of taking out lightly armoured vehicles such as the BMP-1. The Panavia Tornado was primarily made to undertake missions which included tactical strike, reconnaissance, air defence and maritime patrol. What they aimed when making the design was an aircraft which could be very multi-role, it would allow the Panavia Tornado to replace several different types of aircraft which were at the time in service with the respected countries. The main variants which were designed included the IDS which was mainly a strike-fighter, the ADV which was the Air Defence Variant and lastly the ECR, which was mainly created to carry out recon and SEAD missions. In terms speed the Tornado could go up to 2,400 km per hour, its engine being known as the Turbo-Union RB199-34R Mk.103. After several proposals and design changes, the first prototype of the Panavia Tornado would fly on the 14th of August, 1974. The prototype would further solidify the partnership as when it was being demonstrated, a lot of positive comments would be made. Thus development would continue smoothly with the first aircraft being officially delivered to the RAF (Royal Air Force) and the German Air Force on 5 and 6 June 1979 respectively.
 
 In terms of the Italian ADV, during the late stages of the cold war Italy realised they needed more in the air defence department, the F104s although good as interceptors were not very suitable for dogfighting. Italy looked towards Britain for help. Thus on the 17th of November 1993, Italy would sign an agreement with the RAF to lease up 24 Tornado ADVs directly from the RAF stocks for a period of ten years. The first Italian pilots would be trained on the Tornado ADV platform at RAF Coningsby in Lincolnshire, England starting in 1995. The Italian Air Force (Aeronautica Militare Italiana) would then receive its first Tornado ADV aircraft in the mid 1990s. These aircraft were assigned to specialized interceptor squadrons to protect Italian airspace and provide air defense for critical assets and regions. The Tornado ADV variant was specifically developed to serve as an interceptor to replace the aging fleets of existing fighter aircraft, The ADV variant featured longer-range radar, more powerful engines, and enhanced avionics to excel in the air defense role. Italy would not lease these aircraft again, due to issues which were found during its service. These issues included the lack of spare parts and lack of surplus engines. Italy would return most of the aircraft back to Britain, some of them remained in Italy and exposed in museums, such as the famous Vigna di Valle. Ultimately Italy would lease F-16 ADFs up until the Eurofighters were ready to take over.
 
@@ -201,19 +225,17 @@ In terms of the Italian ADV, during the late stages of the cold war Italy realis
 ;[[Tornado (Family)|Related development]]
 
 * [[Tornado F.3]]
-
-* [[Tornado IDS ASSTA1 (Germany)]]
 * [[Tornado GR.1]]
-* [[Tornado IDS (Germany)]] [[Tornado (Family)]]
+* [[Tornado IDS ASSTA1 (Germany)]]
+* [[Tornado IDS (Germany)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-** ''https://forum.warthunder.com/index.php?/topic/485805-panavia-tornado/''
-** ''https://www.aircraftrecognitionguide.com/panavia-tornado''
+* ''https://forum.warthunder.com/index.php?/topic/485805-panavia-tornado/''
+* ''https://www.aircraftrecognitionguide.com/panavia-tornado''
 
 {{AirManufacturer Panavia}}
 {{Italy jet aircraft}}

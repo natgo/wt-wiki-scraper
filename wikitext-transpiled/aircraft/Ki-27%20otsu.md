@@ -10,11 +10,14 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.43]].
+The '''{{Specs|name}}''', designated as '''Type 97 Fighter ({{Annotation|九七式戦闘機|Kyū Nana-shiki Sentōki}})''', was a monoplane fighter aircraft designed by Nakajima Aircraft Company for the Imperial Japanese Army Air Service in 1937. It was the Army's first monoplane fighter and had a low wing loading that gave it excellent manoeuvrability. The Ki-27 served as the main fighter of the Japanese Army until 1940, and participated in battles over China, Mongolia, Southeast Asia and the early stages of the Pacific War. It gained air superiority against Chinese and Soviet fighters, but was outperformed by newer Allied planes. The Ki-27 was also operated by Manchukuo, Thailand, and the Reformed Government of the Republic of China. A total of 3,368 Ki-27s were produced before production ceased in 1942, when it was replaced by the Ki-43 in frontline service and relegated to training and reserves.
 
-The Allied reporting name for this plane was "Nate"; however, it was also called "Abdul" in the "China Burma India" theater by many post-war sources.
+It was introduced in [[Update 1.43]]. The Ki-27 distinguishes itself as a low-level dogfighter: its performance below 1,000 m is superb and it can manoeuvre away from nearly any other comparable fighter. Like the [[Ki-10 (Family)|Ki-10 series]] before it, the Ki-27 otsu suffers from its poor armament (twin 7.7 mm Type 89s) and weak armour, which means it makes for a poor interceptor despite its high speed, but the Ki-27 makes an excellent escort for bombers and flying boats to provide cover for their allied bombers.
 
-The Ki-27 is a frontline fighter for interwar/pre-WW2 historical engagements such as the Battles of Khalkin Gol. In most maps, the Ki-27 will distinguish itself as a low-level dogfighter: its performance below 1,000 m is superb and it can manoeuvre away from nearly any other comparable fighter. Like the [[Ki-10 (Family)|Ki-10 series]] before it, the Ki-27 otsu suffers from its poor armament (twin 7.7 mm Type 89s) and weak armour, which means it makes for a poor interceptor despite its high speed, but the Ki-27 makes an excellent escort for bombers and flying boats to provide cover for their allied bombers.
+;Nicknames:
+* IJA Pilot Abbreviation: ''Kyū-Nana Sen'' (九七戦, "9-7 Fighter").
+* Allied reporting name: Nate
+* {{Annotation|CBI|China-Burma-India}} reporting name: Abdul
 
 == General info ==
 === Flight performance ===

@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''Yakovlev Yak-9T''' was the second variant of the [[Yak-9 (Family)|Yak-9 fighter aircraft family]]. Instead of the usual 20 mm ShVAK cannon, it was armed with a 37 mm Nudelman-Suranov NS-37 cannon with 30 rounds. To compensate for the heavier nose, the cockpit was shifted backwards by 0.4 m. Poor quality control resulted in many oil and coolant leaks from the cannon recoil during test firing, which were solved during the prototype testing stage. Recoil and limited ammunition availability necessitated precise aiming with two- or three-round bursts. The Yak-9T was widely used against enemy ships on the Black Sea and tanks on various fronts (the cannon could penetrate up to 40 mm armour from 500 m), but it was also effective against enemy aircraft (a single cannon hit was usually enough to tear apart the aircraft airframe). Yak-9T had a significant morale impact on the opponent. It was extremely popular among flight crews, owing to its formidable weaponry and excellent flight performance. The aircraft was mass-manufactured from March 1943 to June 1945, and a total of 2,748 aircraft were produced. Flight experiments were carried out on the Central Front in August 1943 by the 16VA ("Vozdushnaya Armia" - Air Army).
+
+Introduced in the Open Beta Test prior to Update 1.27, the Yak-9T is an anti-tank variant with a 37 mm Nudelman-Suranov NS-37 gun capable of firing armour-piercing ammunition that can readily penetrate tank roof armour while diving. Since the ammo capacity is limited to 30 rounds due to the increased weight of the weapon, precise aiming is essential. It is advisable to fire only in short bursts, as continuous firing reduces accuracy and quickly overheats the cannon barrel. This, paired with the Yak-9 fighter aircraft family's superb low-altitude performance, will undoubtedly make the Yak-9T an excellent close-air support plane in the hands of an experienced player.
 
 == General info ==
 === Flight performance ===
@@ -175,6 +177,7 @@ The Yak-9T variant, for instance, had an incredibly powerful 37 mm NS-37 cannon 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak-9t Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -182,6 +185,7 @@ The Yak-9T variant, for instance, had an incredibly powerful 37 mm NS-37 cannon 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

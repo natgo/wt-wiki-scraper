@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}} / Long 12 cm SPG''' ({{Annotation|長十二糎自走砲|Naga-Jūni Senchimētoru Ji Hashi-Hō}}) was a one-off prototype was made with a 12 cm cruiser gun placed on the hull of a Chi-Ha to provide firepower in the defence of the Japanese homeland if the Americans invaded.
+The '''{{Specs|name}} / Long 12 cm SPG''' ({{Annotation|長十二糎自走砲|Chō Jūni Senchi Jisōhō}}) was a one-off prototype was made with a 12 cm cruiser gun placed on the hull of a Chi-Ha to provide firepower in the defence of the Japanese homeland if the Americans invaded.
 
 It was introduced in [[Update "Raining Fire"]]. This tank was primarily built around the gun to mechanize it with little consideration to combat protection. Hence it should also be played as it was designed, hunkering down in a protected sniper position, take a shot, and duck for cover until the next shell is loaded.
 

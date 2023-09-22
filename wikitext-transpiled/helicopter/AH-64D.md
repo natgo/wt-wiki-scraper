@@ -124,7 +124,7 @@ The '''''{{PAGENAME}}''''' only has the following Defensive systems installed:
 *'''AMASE''' - Apache Modular Aircraft Survivability Equipment.
 *'''AIM-92 Stinger''' - AIM 92 Stinger missiles
 
-When unlocked, countermeasures are not installed - this requires the Flares/Chaff module (tier I) to be researched and installed, this provides up to 30 countermeasures. The next module called AMASE (tier II) provides up to 150 countermeasures, the additional 110 countermeasures are installed on the wingtips of the helicopter. Then the last module called AIM-92 Stinger (tier III) allows for the installation of a maximum of eight AIM-92 Stinger missiles, which two are mounted on each wing tip.
+When unlocked, countermeasures are not installed - this requires the Flares/Chaff module (tier I) to be researched and installed, this provides up to 30 countermeasures. The next module called AMASE (tier II) provides up to 150 countermeasures, the additional 110 countermeasures are installed on the wingtips of the helicopter. Then the last module called AIM-92 Stinger (tier III) allows for the installation of a maximum of four AIM-92 Stinger missiles, which two are mounted on each wing tip.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

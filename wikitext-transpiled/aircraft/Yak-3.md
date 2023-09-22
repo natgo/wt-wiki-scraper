@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''Yakovlev Yak-3''' was the first variant of the [[Yak-3 (Family)|Yak-3 fighter aircraft family]]. The Yak 3 was one of several significant Soviet aircraft developed by Aleksandr Sergeyevich Yakovlev's Design Bureau, with development beginning in 1941 and initially centred on the new VK-107 VEE-twelve engine, with design parameters including the least possible drag, smallest dimensions, and weight consistent with a manoeuvrable and tough fighting aircraft. The design began with the I-30 prototype, presented alongside the I-26 ([[Yak-1]]) as an alternate design. The I-30 was an all-metal aircraft powered by a Klimov M-105P engine and featured a wing with dihedral on the outer panels. While the I-26 continued into production as the Yak-1, it was realised during the Battle of Stalingrad that the design was greatly in need of modernisation. Thus, Yakovlev returned to the I-30 prototype, incorporating new design elements inspired by the Yak-1, eventually producing the Yak-3. The Yak-3 did not reach actual duty until July 1944, but it quickly proved to be a superb handling aircraft at heights of up to 4,000 m, astonishing its pilots with its ability. Since the VK-107 VEE-twelve engine was unavailable, the Yak 1's VK-105 engine was used instead. A total of 4,848 aircraft were produced, gaining significant success against German fighters in the latter stages of World War II and, when eventually upgraded with the 1,700 hp VK-107A engine in late 1944 ([[Yak-3 (VK-107)]]), achieved a speed of 720 km/h at 6,000 m. The fastest Yak-3 variant, powered by the VK-108 engine, initially flew on December 9, 1944, reaching 745 km/h.
 
-One of the finest Soviet fighters of World War II, the Yak-3 is a derivative of the [[Yak-1]] with a revised airframe. The oil cooler formerly located under the nose has been split into one intake per wing root to reduce drag, and the airframe has smaller dimensions overall. While it uses the same VK-105PF engine as the [[Yak-1B]], the Yak-3's lighter weight gives it an excellent power-to-weight ratio and wonderful handling. Weighing in at only 2.7 tons, it is actually lighter than the later models of the A6M Zero. Like previous Yaks, the Yak-3 is fast at low altitudes, can outturn the majority of its opponents, and can accelerate quickly. It is great fun to fly and will serve Soviet pilots well in anti-fighter duties. Those who enjoy the Yak-3 can try the foldered [[Yak-3P]], which has three cannons, and the succeeding [[Yak-9U]], which trades some agility for improved speed and medium altitude performance.
+Introduced in the Open Beta Test prior to Update 1.27, the Yak-3 has an excellent combination of speed, manoeuvrability, and firepower. As one of the most powerful and lethal Yak fighter aircraft, it can truly shine in the hands of a skilled pilot. Despite being a "jack-of-all-trades, master-of-none" aircraft, it is one of the greatest Yak fighter aircraft with excellent low-altitude performance that will undoubtedly make opponents struggle if played to its strengths. Traditional Yak fighter aircraft tactics should still be used with the Yak-3. It is always vital to climb and try to gain some altitude, but not too much, as this would cause the performance to suffer. Few adversary fighters, even ones with substantially higher top speeds, can match Yak-3's speed below 2,000 m. It has superb turning capabilities and can closely match some Spitfires in its ranks with well-timed use of flaps. Overall, the Yak-3 can easily generate and retain energy, allowing it to maintain prolonged turn fights and vertical loops, as well as escape confrontations by maintaining dive speed if necessary.
 
 == General info ==
 === Flight performance ===
@@ -213,9 +213,11 @@ One of the most memorable air battles for the Yak-3 took place on 16th July 1944
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Yak-3 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
+
 * [[Yak-9 (Family)]]
 
 == External links ==

@@ -13,16 +13,7 @@ import {
 } from "../../data/types/final.schema";
 import { langCsvToJSON } from "../csvJSON";
 import { parseLang } from "../lang";
-import {
-  AirVehicle,
-  Economy,
-  GroundVehicle,
-  Mods,
-  ShipVehicle,
-  Shop,
-  UnitData,
-  namevehicles,
-} from "../types";
+import { AirVehicle, Economy, GroundVehicle, Mods, Shop, UnitData, namevehicles } from "../types";
 import { commonVehicle } from "./commonVehicle";
 import { drive, groundVehicle } from "./groundVehicle";
 import { sensors } from "./sensors";
@@ -202,14 +193,15 @@ async function main(dev: boolean) {
     });
   });
   vehicles.ships.forEach((element) => {
-    const vehicleData: ShipVehicle = JSON.parse(
-      fs.readFileSync(
-        `./${
-          dev ? "datamine-dev" : "datamine"
-        }/aces.vromfs.bin_u/gamedata/units/ships/${element.intname.toLowerCase()}.blkx`,
-        "utf-8",
-      ),
-    );
+    // const vehicleData: ShipVehicle = JSON.parse(
+    //   fs.readFileSync(
+    //     `./${
+    //       dev ? "datamine-dev" : "datamine"
+    //     }/aces.vromfs.bin_u/gamedata/units/ships/${element.intname.toLowerCase()}.blkx`,
+    //     "utf-8",
+    //   ),
+    // );
+
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
     const vehicleLang = parseLang(units_lang, element.intname + "_shop");
@@ -222,14 +214,15 @@ async function main(dev: boolean) {
     });
   });
   vehicles.boats.forEach((element) => {
-    const vehicleData: ShipVehicle = JSON.parse(
-      fs.readFileSync(
-        `./${
-          dev ? "datamine-dev" : "datamine"
-        }/aces.vromfs.bin_u/gamedata/units/ships/${element.intname.toLowerCase()}.blkx`,
-        "utf-8",
-      ),
-    );
+    // const vehicleData: ShipVehicle = JSON.parse(
+    //   fs.readFileSync(
+    //     `./${
+    //       dev ? "datamine-dev" : "datamine"
+    //     }/aces.vromfs.bin_u/gamedata/units/ships/${element.intname.toLowerCase()}.blkx`,
+    //     "utf-8",
+    //   ),
+    // );
+
     const vehicleEconomy = economy[element.intname];
     const vehicleUnit = unitData[element.intname];
     const vehicleLang = parseLang(units_lang, element.intname + "_shop");

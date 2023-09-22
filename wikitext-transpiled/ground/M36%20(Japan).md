@@ -10,15 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' were M36B2s assembled at the Japanese depot of Akabane to be shipped to the Korean Peninsula to fight in the Korean War among US troops. Not meant for Japanese service, a single M36B2 was redirected to the JGSDF for research purposes in assistance towards the domestic tank program of the Japanese, which would eventually become the [[Type 61]].
+Not meant for Japanese service, a single '''M36''' was supplied to the JGSDF for research purposes in assistance towards the domestic Japanese tank program, which would eventually become the [[Type 61]].
 
-It was introduced in [[Update "Danger Zone"]]. The M36B2 GMC is essentially the same as the [[M36 GMC]], with a few improvements. It has a new muzzle brake and bore evacuator. It uses the later M82A1 round which increases penetration. It also has a hull MG, and roof armour that is 6 mm thick. The most attractive feature of this M36 is its HEAT-FS ammunition, which can easily destroy most targets.
+Introduced in [[Update "Danger Zone"]], the Japanese M36 GMC is essentially the same as the [[M36 GMC]], with a few improvements. It has a new muzzle brake and bore evacuator. It uses the later M82A1 round which increases penetration. It also has a hull MG, and roof armour that is 6 mm thick. The most attractive feature of this M36 is its HEAT-FS ammunition, which can easily destroy most targets.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour of the turret roof is only 6.5 mm thick, the sides are 17-31.75 mm thick and ammo stowage is only 25.4 mm thick, this makes it vulnerable against attacks from aircraft, artillery strikes, SPAAGs, overpressure and machine guns (namely 50. caliber and above). The M36B2 is notably tall and large for a tank destroyer, which makes it harder to conceal and somewhat limits what type of cover is effective.
+The armour of the turret roof is only 6.5 mm thick, the sides are 17-31.75 mm thick and ammo stowage is only 25.4 mm thick, this makes it vulnerable against attacks from aircraft, artillery strikes, SPAAGs, overpressure and machine guns (namely .50 calibre and above). The M36 is notably tall and large for a tank destroyer, which makes it harder to conceal and somewhat limits what type of cover is effective.
 
 '''Armour type:'''
 
@@ -62,7 +62,8 @@ The lacklustre acceleration makes the tank struggle greatly with climbing slopes
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|M3A1 (90 mm)}}
-The 10° gun depression gives the M36B2 the capability to shoot over hills. The reload speed is pretty long with a loaded ready rack, making engagements more dangerous, especially if there is a lack of cover.
+
+The 10° gun depression gives the M36 the capability to shoot over hills. The reload speed is pretty long with a loaded ready rack, making engagements more dangerous, especially if there is a lack of cover.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -117,7 +118,7 @@ In the hull, the radio operator gunner has the ability to use a M1919A4 light ma
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 1,000 (200) || 577 || -10°/+70° || ±60°
+| Pintle || 1,000 (200) || 575 || -10°/+70° || ±60°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -161,9 +162,9 @@ In the hull, the radio operator gunner has the ability to use a M1919A4 light ma
 {{main|M36_GMC#History|l1=History of the M36 GMC}}
 
 === M36s in Japan ===
-Due to the outbreak of the Korean War, the GHQ (General Headquarters of Allied occupation) ordered Japan to re-militarize, while the US also provided plenty of [[M4A3 (76) W (Japan)|M4A3 (76) W]] and [[M24 (Japan)|M24]] tanks to help Japan form their armed police force, the NPR (National Police Reserve), so more US forces could fight in Korea while Japan could still maintain reserve manpower for defense. Multiple M36B2s were assembled at a depot in Akabane which would be shipped to the Korea peninsula to support South Korean and American forces.
+Due to the outbreak of the Korean War, the GHQ (General Headquarters of Allied occupation) ordered Japan to re-militarize, while the US also provided plenty of [[M4A3 (76) W (Japan)|M4A3 (76) W]] and [[M24 (Japan)|M24]] tanks to help Japan form their armed police force, the NPR (National Police Reserve), so more US forces could fight in Korea while Japan could still maintain reserve manpower for defense. However, the tanks that the NPR received were too big for the average Japanese tanker. In order to replace the obsolete Sherman and Chaffee tanks, Japan received a M36 for research purposes, to help develop a new domestically designed tank, which would eventually become the [[Type 61]].
 
-However, the tanks that the NPR received were too big for the average Japanese tanker. In order to replace the obsolete Sherman and Chaffee tanks, Japan got a M36B2 for research purposes to help develop a new domestically designed tank, which would eventually be developed into the [[Type 61]].
+Multiple M36B2s were also assembled at a depot in Akabane, to be shipped to the Korean peninsula to support South Korean and American forces.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -181,6 +182,7 @@ However, the tanks that the NPR received were too big for the average Japanese t
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[M36 Jackson (Family)]]
 
 == External links ==

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.33]].
+The '''Yakovlev Yak-9K''' was a modified subvariant of the [[Yak-9T]], which was the second variant of the [[Yak-9 (Family)|Yakovlev-9 fighter aircraft family]]. The Yak-9K was an attempt to increase firepower over the standard Yak-9T by arming it with a 45 mm NS-45 cannon with 29 rounds and a characteristic muzzle brake to deal with the severe recoil. However, firing the gun at speeds less than 350 km/h still resulted in a significant recoil that led to loss of control of the aircraft and flung the pilot back and forth in the cockpit. Accurate firing was only possible at faster speeds and in bursts of two to three rounds. The cannon's high recoil produced several oil and coolant leaks. Overall, he large gun significantly reduced flight performance, particularly at high altitudes, to the point where Yak-9Ks were only assigned to heavy fighter duties and were required to be escorted by Yak-3s in case of failure. The Yak-9K saw limited use due to the unreliability of the 45 mm cannon and airframe structural instability issues caused by the recoil; it also saw limited production as German bombers gradually decreased in number later in World War II.
+
+The Yak-9K was introduced in [[Update 1.33]]. Despite the noticeable increase in firepower as a result of the increased cannon calibre, this also results in massive recoil when firing, making the airframe structurally and aerodynamically unstable. Players can get a taste of this unusual plane's heightened firepower, with a single hit from the cannon enough to cripple any opponents in the sky. During ground realistic warfare mode, it can also take on an anti-tank duty. However, since the ammunition available is incredibly limited (29 rounds), it is critical to make every shot count.
 
 == General info ==
 === Flight performance ===
@@ -157,6 +159,7 @@ The Yak-9 was a further modification of the Yak-1 and Yak-7. In its core design,
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak-9k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -164,6 +167,7 @@ The Yak-9 was a further modification of the Yak-1 and Yak-7. In its core design,
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

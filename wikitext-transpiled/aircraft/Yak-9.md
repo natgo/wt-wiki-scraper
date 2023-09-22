@@ -10,16 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.43]].
+The '''Yakovlev Yak-9''' is the first variant of the [[Yak-9 (Family)|Yak-9 fighter aircraft family]]. Inspired by the [[Yak-7B|Yak-7]], the Yak-9 family remains a combination of wood and metal alloy construction. Designed around the same time as the [[Yak-3]], the Yak-9 would prove to be the most important Soviet fighter aircraft family, seeing massive production and evolving into many variants. Alexander Sergeevich Yakovlev built the Yak-9 around a powerful set of Klimov engines that would serve as the foundation of later Yak-9 variants in the lineage. A single 20 mm ShVAK cannon with 120 rounds and a 12.7 mm Berezin UB heavy machine gun with 200 rounds were standard armaments. This weaponry combination made it a formidable opponent, capable of defeating almost anything in the skies. The visibility was excellent throughout, and the airframe proved to be sturdy and configurable to some extent. Some airframes were modified to become night fighters, long-range, and "pure" interceptors, as well as anti-tank and bomber escort variants. The combat experiences gained by Soviet pilots in the Yak-7 influenced the creation of the Yak-9. The aircraft entered service in October 1942 and were manufactured from 1942 to 1946.
 
-Since the Yak-1B, the Yak-9 is the next notable "Upgrade". While retaining the same great 20 mm cannon, as well as the 12.7 mm MG, the Yak-9 gained a number of minor upgrades such as:
-
-* Rebalanced wing and cockpit placement by a slight amount.
-* Slightly improved rearward visibility compared to previous models.
-* New metal alloy used to construct the fuselage, meaning a lighter plane = better flight characteristics.
-* Reworked fuel tanks, engine parts, and other internals.
-
-All of this translates in-game to an even better version of the excellent Yak-1 series. The Yak-9 is the first of a number of modifications (the B, K, M, P, T, and U variants are also in-game). While tactics and methods deviate little from the previous Yaks, this plane is like being used to flying a Bf 109 E and then suddenly being given a Bf 109 F... not much, but experienced Yak pilots can feel the difference!
+Introduced in [[Update 1.43]], the Yak-9 was the workhorse of the Soviet Air Force during World War II, and it is the standard base variant that gives rise to a huge family of variants. The Yak-9 is a well-rounded plane that is proficient in all areas. However, steep dives should still be avoided because the wings are still constructed of wood rather than metal alloy. Despite its decent turn-fighting capabilities, prolonged turning engagements or other manoeuvres will progressively drain the Yak-9's energy. Since the plane has a limited ammunition load, it is important to use trigger discipline during engagements. Given their centre alignment on the nose of the Yak-9, there is no need to adjust for gun convergence, making hitting enemies much easier for players.
 
 == General info ==
 === Flight performance ===
@@ -255,6 +248,7 @@ The Yak-9 was a further modification of the Yak-1 and Yak-7. In its core design,
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak-9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -262,6 +256,7 @@ The Yak-9 was a further modification of the Yak-1 and Yak-7. In its core design,
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

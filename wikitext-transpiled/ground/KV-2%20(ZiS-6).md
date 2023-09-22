@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]] as a [[wt:en/news/3698-development-new-additions-to-the-kv-2-series-en|premium pack]] but was removed from the store at the end of the [[wt:en/news/5865-special-big-war-thunder-birthday-sale-en|2018 6th Anniversary]] sale. It was available from the store for a short time during the [[wt:en/news/6488-shop-black-friday-sale-en|2019 "Black Friday"]]. It was also made available for purchase in-game with Golden Eagles ({{GE}}) during the [[wt:en/news/6368-special-tankers-day-celebrate-with-us-en|2019 "Tankers' Day"]], [[wt:en/news/7054-event-defender-of-the-fatherland-en|2021 "Defender of the Fatherland"]], and the [[wt:ru/news/15896-akciya-s-dnyom-tankista-ru|2022 "Tankers' Day"]] mini-events.
+The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]] as a [[wt:en/news/3698-development-new-additions-to-the-kv-2-series-en|premium pack]] but was removed from the store at the end of the [[wt:en/news/5865-special-big-war-thunder-birthday-sale-en|2018 6th Anniversary]] sale. It was available from the store for a short time during the [[wt:en/news/6488-shop-black-friday-sale-en|2019 "Black Friday"]]. It was also made available for purchase in-game with Golden Eagles ({{GE}}) during the [[wt:en/news/7054-event-defender-of-the-fatherland-en|2021 "Defender of the Fatherland"]], and the [[wt:en/news/6368-special-tankers-day-celebrate-with-us-en|2019]], [[wt:ru/news/15896-akciya-s-dnyom-tankista-ru|2022]], and [[wt:en/news/8456-special-the-kv-2-zis-6-and-a-decoration-for-tanker-s-day-en|2023]] "Tankers' Day" mini-events.
 
 This tank is a spiritual successor of the original KV-2 in combat operations. Despite its high crew count of 6, the rate of fire is relatively slow; it is however faster than the howitzer-equipped KV-2s, with a higher velocity and flatter trajectory. It does share the same unfortunately slow turret traverse, reverse, acceleration, and heavy weight.
 
@@ -179,13 +179,14 @@ Several hundred 107 mm ZiS-6 guns were created in anticipation of being fitted t
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_kv_2_zis_6 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|58HLHnOFjd0|'''{{PAGENAME}}- Railgun''' - ''Oxy''}}
+{{Youtube-gallery|U1WIeQebl_E|'''KV-2 (ZiS-6) - Might be longer''' - ''War Thunder Wiki''|58HLHnOFjd0|'''KV-2 (ZiS-6)- Railgun''' - ''Oxy''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+* [[KV-220]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+During the 1967 and 1973 Arab-Israeli Wars, Israel was able to capture a number of Soviet-supplied [[T-54 (1951)|T-54]] tanks from opposing nations, which were slightly modified and redesignated as the [[Tiran 4]]. These were upgraded during the 1970s to equip the American 105 mm M68 cannon, shared by other Israeli tanks, becoming the '''Tiran 4S''' variant.
 
-It is a captured [[T-54 (1951)]] from the 1967 and 1973 Arab-Israeli Wars. The Tiran 4S offers the major change of switching to the American M68 cannon which is shared by other Israeli tanks. Beside that, the changes are minimal: from the outside, an added jerry can and rear stowage boxes, and the commander-controlled machine gun being swapped to a 7.62 mm M1919A4.
-
-It plays similarly to the Soviet [[T-54 (1951)]] and Chinese [[type 59]], and is therefore not vulnerable to the shot-traps of earlier models. However, the new gun grants unique gunplay options with options for APDS, HESH, HEAT and Smoke shells. It will offer a fresh experience compared to the Soviet and Chinese T-54s.
+Introduced in [[Update "Wind of Change"]], the Tiran 4S plays similarly to the Soviet [[T-54 (1951)]] and Chinese [[Type 59]], and is therefore not vulnerable to the shot-traps of earlier models. However, the new gun grants unique gameplay options with options for APDS, HESH, HEAT and Smoke shells. It will offer a fresh experience compared to the Soviet and Chinese T-54s.
 
 == General info ==
 === Survivability and armour ===

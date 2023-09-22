@@ -10,13 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]]. It is a twin-engine ground assault aircraft, designed with the transport and operation of heavy ordnance in mind. It also comes equipped with air-to-air missiles, in the form of the dreaded [[Matra R550 Magic 1]]. Overall a bomb truck, it is very unwieldy while fully loaded, but is exceptionally nimble once its bomb/rocket load is expended.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]]. It is a twin-engine ground assault aircraft, designed with the transport and operation of heavy ordnance in mind. It also comes equipped with air-to-air missiles, in the form of the [[Matra R550 Magic 1]]. Overall a bomb truck, it is very unwieldy while fully loaded, but is fairly nimble once its bomb/rocket load is expended.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The SEPECAT Jaguar is a relatively small aircraft, with a relatively small wing surface area, yet it boasts two jet engines, each yielding nearly two tons of wet thrust. These characteristics give the Jaguar exceptional agility and responsiveness, being able to engage turnfights if necessary. On the other hand, this small frame makes the Jaguar turn into a brick when loaded with bombs, even becoming so heavy it becomes very hard to take-off. The wings are of a swept design, and the Jaguar loses energy while turning only moderately, not being a BnZ fighter, but not being as bad as a [[Mirage IIIC]] or a [[J35D]] Draken. Overall it is a quite average fighter, while not loaded.
+The SEPECAT Jaguar is a relatively small aircraft, with a relatively small wing surface area, yet it boasts two jet engines, each yielding nearly two tons of wet thrust. These characteristics give the Jaguar high agility and responsiveness, being able to engage turnfights if necessary. On the other hand, this small frame makes the Jaguar turn into a brick when loaded with bombs, even becoming so heavy it becomes very hard to take-off. The wings are of a swept design, and the Jaguar loses energy while turning only moderately, not being a BnZ fighter, but not being as bad as a [[Mirage IIIC]] or a [[J35D]] Draken. Overall it is a quite average fighter, while not loaded.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -205,18 +205,18 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 144 x SNEB type 23 rockets
 {{Navigation-End}}
 
-The sets of bombs are the heaviest ordnances for the aircraft, but ensure a good supply of CAS support capability, even though bomb runs in combined battles are extremely dangerous at such BRs.
+The sets of bombs are the heaviest ordnances for the aircraft, but ensure a good supply of CAS support capability, even though bombing runs in combined battles are risky at these BRs.
 
-The most exotic loadout proposed by the Jaguar A is the TBA Multi-Dart 100 AB rocket. This rocket is a hypersonic, sub-munition-carrying vessel, with each rocket carrying six darts, and reaching 1,400 m/s, or Mach 4.2. Each dart is in fact a small kinetic penetrator, each being able to penetrate 80 mm of flat armour, and relying only on fragmentation of armour for post-penetration damage. While these darts cannot pierce the front (or even side) hull of a modern MBT, it will pierce its roof without problems, and the rocket speed and number of darts gives the possibility of top attacks from a safe distance, with extreme precision.
+The most exotic loadout mounted by the Jaguar A is the TBA Multi-Dart 100 AB rocket. This rocket is a hypersonic, sub-munition-carrying vessel, with each rocket carrying six darts, and reaching 1,400 m/s, or Mach 4.2. Each dart is in fact a small kinetic penetrator, each being able to penetrate 80 mm of flat armour, and relying only on fragmentation of armour for post-penetration damage. While these darts cannot pierce the front (or even side) hull of a modern MBT, it will pierce its roof without problems, and the rocket's speed and number of darts gives the possibility of top attacks from a safe distance with extreme precision when used alongside [[Ballistic Computer|CCIP]].
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Jaguar A's only air-to-air missiles are locked as a rank 4 modification. The entirety of its opposition will be carrying both IR and semi-active radar missiles. Once these missiles are researched, the Jaguar becomes a force to be reckoned with, and it can be expected that a few kills can be made on unsuspecting enemies. The bomb/rocket load of the Jaguar A is decent, and bombing bases and key targets is definitely a good way to acquire experience. Carrying a hybrid air-to-air and air-to-ground load is a good compromise, retaining adequate ground pounding capabilities while acquiring self-defence capabilities.
+The Jaguar A's only air-to-air missiles are locked as a rank 4 modification. The entirety of its opposition will be carrying both IR and semi-active radar missiles, although IR missiles will be the main source of induced headaches. Once these missiles are researched, the Jaguar becomes a force to be reckoned with, and it becomes possible to engage enemy aircraft who are preoccupied in a dogfight or happen to fly in front of you. The bomb/rocket load of the Jaguar A is decent, and bombing bases and key targets is definitely a good way to acquire Research Points and Silver Lions. Carrying a hybrid air-to-air and air-to-ground load is a good compromise, retaining adequate ground pounding capabilities while acquiring self-defence capabilities.
 
-It is a good tactic to let pure fighters go in front, and remain at low altitude. That way, the Jaguar will not be in the front lines, and will be able to expend its bomb load and attempt to help fighters with its missiles. The Jaguar cannot face aircraft such as a MiG-21, or a Mirage IIIC, or even a Phantom II and be expected to win. The aircraft fares better as a support aircraft.
+It is a good tactic to let pure fighters go in front. You can try to gain altitude to have some energy as a safety net in case someone tries to engage you in a dogfight, or stay low to sneak past enemy aircraft to strike ground targets or an enemy base. It is to be noted that if one chooses to do the former, on most maps contrails will form at approximately 5800 meters in altitude. As such, if climbing, to not give your position away staying just below this altitude may be preferable. That way, the Jaguar will not be directly on the front lines, and will be able to expend its bomb load and attempt to help friendly fighters with its missiles. The Jaguar cannot face aircraft such as a MiG-21, F-5, Mirage IIIC or even a Phantom II and be expected to win if its opponents play their cards right. Overall, the aircraft fares better as a support aircraft.
 
-In Combined battles, many CAS options are available. Be it the SAMP bombs, SNEB rockets, or Multi-Dart rockets, with the latter being its cutting edge weapon against ground forces. Remaining at a safe distance and avoiding incoming missiles while selecting a target, then pointing it swiftly for a top attack with one or more Multi-Dart rockets seems to be an adequate usage of these weapons. It can be decided to abandon the air-to-air missiles to carry more ordnance, that is a choice of attack paradigm each player must make.
+In Combined battles, many CAS options are available, be it the SAMP bombs, SNEB rockets, or Multi-Dart rockets. Remaining at a safe distance and avoiding incoming missiles while selecting a target, then pointing it swiftly for a top attack with one or more Multi-Dart rockets seems to be an adequate usage of these weapons. It can be decided to abandon the air-to-air missiles to carry more ordnance, that is a choice of attack paradigm each player must make. The player can also choose to equip the guided bombs and targeting pod, to accurately target enemy anti-aircraft vehicles from a safe distance or to take care of enemy players holed up in hard-to-take-out positions, aiding your teammates. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -225,20 +225,20 @@ In Combined battles, many CAS options are available. Be it the SAMP bombs, SNEB 
 
 * Small frame, hard to hit with guns
 * Nimble and agile while not loaded
-* Carries two extremely efficient [[Matra R550 Magic 1]] missiles
-* Carries an exotic weapon for CAS, which players are not used to face
-* Can be played as a bomb truck
+* Carries two highly capable [[Matra R550 Magic 1]] missiles
+* Carries an exotic weapon for CAS, which players are not used to facing
 * Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality
 * Very effective [[TBA Multi-Dart 100 AB]] rockets containing an array of six sub-calibre darts, each a small kinetic penetrator capable of piercing 80 mm of armour
 * Has a very large number of countermeasures, giving it very good and extended defensive capabilities
+* Has the ability to use guided bombs, letting the aircraft stay at a safe distance from enemy anti-aircraft vehicles in Combined Battles.
 
 '''Cons:'''
 
-* Mediocre speed performance
-* Researching the modifications are a hassle
+* Mediocre speed
+* Punitive modification grind, especially for the [[Matra R550 Magic 1]]s at Tier 4.
 * Basically a barely flying anvil when fully loaded with bombs
-* No protection
 * No radar (and thus no radar guided missiles)
+* Bleeds speed excessively while maneuvering, often making dogfighting a challenge
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

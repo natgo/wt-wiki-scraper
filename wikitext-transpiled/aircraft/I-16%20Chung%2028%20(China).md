@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' (忠28甲) was an attempt by the NRAF to built fighters domestically. After the outbreak of Sino-Japanese War and the retreat of military factories to safer provinces, Nanchang Central Aircraft Factory built some I-16 from spare parts provided from the Soviet Union and mated them with US piston engines in the caves of Chongqing. As the ongoing war proved the uselessness of earlier Soviet fighters with inferior performance in all aspects, these aircraft were soon used as trainer aircraft for their new pilots and they were likely dismantled by the end of war.
+
+Introduced in [[Update 1.91 "Night Vision"]] as an unique variant of the I-16, unlike its Soviet cousins with full-Soviet equipment, Chinese aircraft engineers put together Chung 28 with Soviet airframes and machine guns, and a US-built piston engine. While the overall firepower is vastly decreased to only two 7.62 mm machine guns, the overall performance is on-par with the late series of I-16 and conserving ammo for close targets could still earn some unexpected victories even against more modern fighters.
 
 == General info ==
 === Flight performance ===
@@ -166,6 +168,7 @@ After the outbreak of the Sino-Japanese War, the Nanchang Central Aircraft Facto
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * Skins and camouflages for the [[I-16 type 28#Media|I-16 type 28]] can be used for the {{PAGENAME}}.
 
 == See also ==
@@ -174,6 +177,7 @@ After the outbreak of the Sino-Japanese War, the Nanchang Central Aircraft Facto
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[I-16 (Family)|Related development]]
+
 * [[I-16 type 28]]
 
 == External links ==

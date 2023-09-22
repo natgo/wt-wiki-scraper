@@ -36,7 +36,7 @@ The probability of being hit is proportional to the plane's overall size: this i
 | 2,227 || 2,192 || rowspan="2" | {{Specs|ceiling}} || 27.6 || 28.3 || 181.9 || 173.2 || rowspan="2" | 750
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,372 || 2,300 || 26.4 || 27.0 || 262.0 || 220.0
 |-
 |}
 
@@ -62,7 +62,7 @@ The probability of being hit is proportional to the plane's overall size: this i
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| 1,365 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 525 || 450 || ~11 || ~5
 |-
 |}
 
@@ -72,7 +72,7 @@ The probability of being hit is proportional to the plane's overall size: this i
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || -
+| < 650 || < 600 || < 900 || -
 |-
 |}
 
@@ -205,7 +205,7 @@ Alternatively, some players will make use of its high payload to make extra prof
 If players used up all their payloads, the remaining option is the Type 23-3 autocannon. While its technological predecessor, GSh-23L is infamous for its rather curved ballistics due to its low muzzle velocity, thanks to the Type 1492 PD radar and new HUD, the jet now enjoys ballistic computer for the gun as well and easier to land shots on enemy jets. While traditional, unassisted aiming is still viable to experienced players, be sure to compensate for the ballistics with more AoA. Most of all, the J-8F is always an interceptor; only use its sufficient manoeuvrability in dire situation or 1-vs-1 dogfights, as the delta wing design is a double-edge sword for the jet.
 
 ==== Ground Battles: The "JH-8" ====
-A little fact to the J-8II series: there were competitions for the new PLAAF strike aircraft in the 1980. While XAC's JH-7 Flying Leopard (Feibao 飞豹; NATO codename Flounder) won the competition, one of the failed options was SAC's JH-8 based on J-8II (the other one was NAMC's Q-6). And in fact J-8II does have sufficient air to ground payload (albeit no guided munition for these operations); there are options to take a mix of 250 kg bombs for multiple targets or 500 kg bombs for higher chance for a knock-out. Since the J-8F could fly at more than 1,300 km/h at sea level, chances are players have to consider which type of bomb to take. The -3 series are low-drag GP bombs while the -4 are drag-chute retard bombs; due to the lack of CCRP function, players have to either fly high and dive on enemies when taking the -3 series (very risky when any enemy SPAA, especially [[Pantsir-S1]], is online) or flying at top speed at very low-altitude to avoid any radar detection; be sure to plan ahead for the assault for maximum efficiency. Alternatively, some players would still take Type 90-1 rockets to take down light vehicles or SPAA systems with the help of the ballistic computer; bringing a mix of rockets, bombs or even IR AAMs can turn J-8F into its prospected usage as a fighter-bomber and enemy vehicles will be troubled by the "JH-8". 
+A little fact to the J-8II series: there were competitions for the new PLAAF strike aircraft in the 1980. While XAC's JH-7 Flying Leopard (Feibao 飞豹; NATO codename Flounder) won the competition, one of the failed options was SAC's JH-8 based on J-8II (the other one was NAMC's Q-6). And in fact J-8II does have sufficient air to ground payload (albeit no guided munition for these operations); there are options to take a mix of 250 kg bombs for multiple targets or 500 kg bombs for higher chance for a knock-out. Since the J-8F could fly at more than 1,300 km/h at sea level, chances are players have to consider which type of bomb to take. The -3 series are low-drag GP bombs while the -4 are drag-chute retard bombs; due to the lack of CCRP function, players have to either fly high and dive on enemies when taking the -3 series (very risky when any enemy SPAA, especially [[Pantsir-S1]], is online) or flying at top speed at very low-altitude to avoid any radar detection; be sure to plan ahead for the assault for maximum efficiency. Alternatively, some players would still take Type 90-1 rockets to take down light vehicles or SPAA systems with the help of the ballistic computer; bringing a mix of rockets, bombs or even IR AAMs can turn J-8F into its prospected usage as a fighter-bomber and enemy vehicles will be troubled by the "JH-8".
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -216,7 +216,7 @@ A little fact to the J-8II series: there were competitions for the new PLAAF str
 * Advanced avionics
 ** First PLAAF jet to equip domestic PD radar with sufficient detection range
 ** HMD for off-bore launches, especially for all-aspect IR AAM
-** All-aspect KJ8602 RWR, unlike Warsaw Pact SPO-15 with limited all-aspect capabilities 
+** All-aspect KJ8602 RWR, unlike Warsaw Pact SPO-15 with limited all-aspect capabilities
 * 6 powerful PL-8s with very long lock-on range and high overload
 * Sufficient payload for occasional ground-attack operations
 * Retained the same, if not better manoeuvrability from J-8B
@@ -234,7 +234,7 @@ A little fact to the J-8II series: there were competitions for the new PLAAF str
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 ==== J-8C, the Ancestor ====
-By 1986, there were plans to upgrade the already obsolete J-8II with completely new domestic avionics, in parallel to the Sino-American Peace Pearl (和平珍珠) program in 1984 to upgrade the jet with US/NATO avionics during the better days of Sino-American relationship. Soon after 1989's national-wide riots and the subsequent crackdown in the capital city of Beijing, although Grumman could still continue the project with SAC, due to the rise of budgets and difficulties to purchase NATO avionics after sanctions, the Peace Pearl was eventually cancelled. While the new variant, known as J-8C or J-8III was added to the schedule as Chairman Jiang Zemin (江泽民; 1927/8/17-2022/11/30) approved for the development of the 争气机 (lit. The Good-Show Jet; note: the term 争气 means to earn credits in terms of honour) at 1990/10/31 as the domestic alternatives to the Project 10 (J-10) and Su-27SK Flanker-B. There are two major features of the J-8C: Shenyang Liming WP-14 Kunlun turbojet engine and NRIET Type 1471 PD radar; although early test flights with the modified J-8II prototype airframes were like sailing on fair sea, the crash of two prototypes (one due to ATC miscommunication; one due to onboard fire) were already more than enough to give a death sentence to the project. After the successful test flights of the J-10, and an increase in the fleet of Flankers both from KnAAZ and SAC's J-11A, the project was eventually ditched by 2001. While the Kunlun bit the dust, the Type 1471 radar proved to be rather successful and set the cornerstone for future domestic radars. This was where the story J-8F begun. 
+By 1986, there were plans to upgrade the already obsolete J-8II with completely new domestic avionics, in parallel to the Sino-American Peace Pearl (和平珍珠) program in 1984 to upgrade the jet with US/NATO avionics during the better days of Sino-American relationship. Soon after 1989's national-wide riots and the subsequent crackdown in the capital city of Beijing, although Grumman could still continue the project with SAC, due to the rise of budgets and difficulties to purchase NATO avionics after sanctions, the Peace Pearl was eventually cancelled. While the new variant, known as J-8C or J-8III was added to the schedule as Chairman Jiang Zemin (江泽民; 1927/8/17-2022/11/30) approved for the development of the 争气机 (lit. The Good-Show Jet; note: the term 争气 means to earn credits in terms of honour) at 1990/10/31 as the domestic alternatives to the Project 10 (J-10) and Su-27SK Flanker-B. There are two major features of the J-8C: Shenyang Liming WP-14 Kunlun turbojet engine and NRIET Type 1471 PD radar; although early test flights with the modified J-8II prototype airframes were like sailing on fair sea, the crash of two prototypes (one due to ATC miscommunication; one due to onboard fire) were already more than enough to give a death sentence to the project. After the successful test flights of the J-10, and an increase in the fleet of Flankers both from KnAAZ and SAC's J-11A, the project was eventually ditched by 2001. While the Kunlun bit the dust, the Type 1471 radar proved to be rather successful and set the cornerstone for future domestic radars. This was where the story J-8F begun.
 
 ==== Hotel and Foxtrot ====
 By the time the J-8C was still under test flights, the other variant, the J-8D with aerial refuel capabilities took off to the skies by the end of 1991 and the plans to utilize the unused airframes started as well to further enhance to combat capabilities of J-8II. A well-known flaw of the J-8B was the rather inferior Changhong Type 208A radar that wasted many imported Aspide-1A (known as A弹 [A-missile] in PLAAF); the upgrade plans included a new PD radar for the SARH missiles and new WP-13B engines. The green lights were given in December 1999 and test flights done in the 2000s also make the new J-8H as the very first operational domestic jet with LD/SD capabilities, as well as PD (NRIET Type 1491) radar.
@@ -247,6 +247,7 @@ As the production of new 4th generation fighters are in steady pace, all the fro
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=j_8f Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

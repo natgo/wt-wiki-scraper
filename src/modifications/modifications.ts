@@ -1,6 +1,6 @@
 import fs from "fs";
 import { format } from "prettier";
-import { AirVehicle, Economy, GroundVehicle, LangData, Mods, ShipVehicle } from "types";
+import { AirVehicle, GroundVehicle, LangData, Mods, ShipVehicle } from "types";
 
 import { Final, VehicleProps } from "../../data/types/final.schema";
 import {
@@ -15,12 +15,12 @@ import { langCsvToJSON } from "../csvJSON";
 import { parseLang } from "../lang";
 
 async function main(dev: boolean) {
-  const economy: Record<string, Economy> = JSON.parse(
-    fs.readFileSync(
-      `./${dev ? "datamine-dev" : "datamine"}/char.vromfs.bin_u/config/wpcost.blkx`,
-      "utf-8",
-    ),
-  );
+  // const economy: Record<string, Economy> = JSON.parse(
+  //   fs.readFileSync(
+  //     `./${dev ? "datamine-dev" : "datamine"}/char.vromfs.bin_u/config/wpcost.blkx`,
+  //     "utf-8",
+  //   ),
+  // );
 
   const modification_lang = langCsvToJSON(
     fs.readFileSync(

@@ -14,6 +14,11 @@ The '''Ki-27 otsu''' is of the 4th Sentai based in the Japanese '''Tachiarai''' 
 
 The '''{{Specs|name}}''' was introduced in [[Update "Starfighters"]]. Serving as a very good example of what to expect from the Japanese air tree, the Ki-27 excels in manoeuvrability above all else, having average survivability with lacklustre firepower.
 
+;Nicknames:
+* IJA Pilot Abbreviation: ''Kyū-Nana Sen'' (九七戦, "9-7 Fighter").
+* Allied reporting name: Nate
+* {{Annotation|CBI|China-Burma-India}} reporting name: Abdul
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}

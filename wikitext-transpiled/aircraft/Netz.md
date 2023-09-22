@@ -22,7 +22,7 @@ The F-16A Netz is very strong in a dogfight due to its excellent TWR and energy 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 10,973 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -31,10 +31,10 @@ The F-16A Netz is very strong in a dogfight due to its excellent TWR and energy 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,103 || 2,037 || rowspan="2" | {{Specs|ceiling}} || 20.0 || 20.2 || 262.9 || 250.8 || rowspan="2" | 850
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| ___ || 2,156 || __._ || 19.5 || __._ || 305.0
 |-
 |}
 
