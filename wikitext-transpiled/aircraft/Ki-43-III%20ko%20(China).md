@@ -10,10 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}'''(Falcon), with Allied codename of Oscar, represented the captured Ki-44 by National Revolutionary Air Force. After the total outbreak of 2nd Sino-Japanese War, IJAAF deployed their Ki-44 in Mainland China and used by the 64th Air Squadron and scored some victories on Sino-US forces during their deployment; later in April 1942, the Chinese Expeditionary Force (中國遠征軍) captured a Ki-43-Ic which has been flown by Yasuda Yoshito (安田義人). After the end of war, ROCAF obtained the remaining Ki-44s in China, mostly at Nanjing as the supplement fighters before new US-built fighters joined them, they were decommissioned in 1946 while the Communist forces captured eight Ki-43s at Northeastern China and been used as trainer aircraft like many other captured Japanese fighters.<ref name=":0">https://www.storm.mg/article/3860735?page=5</ref>
+The '''{{Specs|name}}'''(Falcon), with Allied codename of Oscar, represented the captured Ki-43 by National Revolutionary Air Force. After the total outbreak of 2nd Sino-Japanese War, IJAAF deployed their Ki-44 in Mainland China and used by the 64th Air Squadron and scored some victories on Sino-US forces during their deployment; later in April 1942, the Chinese Expeditionary Force (中國遠征軍) captured a Ki-43-Ic which has been flown by Yasuda Yoshito (安田義人). After the end of war, ROCAF obtained the remaining Ki-43s in China, mostly at Nanjing as the supplement fighters before new US-built fighters joined them, they were decommissioned in 1946 while the Communist forces captured eight Ki-43s at Northeastern China and been used as trainer aircraft like many other captured Japanese fighters.<ref name=":0">https://www.storm.mg/article/3860735?page=5</ref>	
 
 Introduced in [[Update 1.91 "Night Vision"]] alongside with the Chinese tech-tree, this variant of Ki-43 featured a more powerful engine as demanded by IJAAF for better dive speed; while the firepower is still rather poor with only two 12.7 mm nose machine guns, players could still enjoy its excellent maneuverability even against fighters from the country it was once served in - Japan.
-
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -154,27 +153,24 @@ While having sufficient flight characteristics, the Ki-43 is extremely fragile a
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-==== See also: [[Ki-43-II]] ====
-According to the records from NRA, the Chinese Expeditionary Force captured a Ki-44-Ic (P-5017; tail number given after its capture) in Burma on 1942/4/29; this aircraft was later confirmed to be one of the fighter piloted by Yasuda Yoshito (安田義人) who later was known as the pilot who witnessed the final flight of Katō Kateo (加藤建夫), the commander of 64th Air Squadron (later nicknamed Kato Hayabusa Squadron 加藤隼戦闘隊) later on 22nd May. Three years later, by the time of the end of war, ROCAF acquired the remaining Ki-43s in Mainland China which were mostly stationed at Nanjing; likely due to their obsolete performance, lack of spare parts and upcoming US-built fighters, these aircrafts which were transferred to the 6th Wing of ROCAF were soon replaced by new fighters.
-
+	
+According to the records from NRA, the Chinese Expeditionary Force captured a Ki-43-Ic (P-5017; tail number given after its capture) in Burma on 1942/4/29; this aircraft was later confirmed to be one of the fighter piloted by Yasuda Yoshito (安田義人) who later was known as the pilot who witnessed the final flight of Katō Kateo (加藤建夫), the commander of 64th Air Squadron (later nicknamed Kato Hayabusa Squadron 加藤隼戦闘隊) later on 22nd May. Three years later, by the time of the end of war, ROCAF acquired the remaining Ki-43s in Mainland China which were mostly stationed at Nanjing; likely due to their obsolete performance, lack of spare parts and upcoming US-built fighters, these aircrafts which were transferred to the 6th Wing of ROCAF were soon replaced by new fighters.
+	
 Meanwhile, as the Communist forces took over the assets from both Japanese and puppet-state Manchuria, they have also acquired 8 Ki-43s used by these two forces; thanks to having a Japanese pilot and Wang Jingwei Regime officers who also flew Hayabusa before, the Northeastern Aviation School now has trainer aircrafts to train pilots for the Communist side, helping to built the foundations of the future PLAAF in 1949. <ref name=":0" />
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki_43_3_ko Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
-
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -159,12 +159,13 @@ There are 2 x 7.62 machine guns on the turret and 1 coaxial 7.62 machine gun. Th
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Leopard 2 (Family)]]
 ** [[Leopard 2A4]]
 
 ;Other vehicles of similar configuration and role
+
 * [[XM-1 (GM)]]
-* [[M1A2 Abrams]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

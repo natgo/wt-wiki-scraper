@@ -11,9 +11,9 @@
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 
-In the early 1980s, around ten years after Germany received their Phantoms, Germany decided to retrofit their F-4Fs in an attempt to modernize them. The F-4Fs at the beginning of their lifecycle were stripped down F-4Es in an attempt to reduce the cost and lost many abilities that the F-4E had. For example, the F-4E could launch AIM-7 Sparrow radar missiles and use guided weapons like Mavericks or Walleyes. Between 1980 and 1983, the F-4Fs regained the ability to fire AIM-7s and use guided weaponry. In addition, it could launch AIM-9L Sidewinders and the electronics were improved. 
+In the early 1980s, around ten years after Germany received their Phantoms, Germany decided to retrofit their F-4Fs in an attempt to modernize them. The F-4Fs at the beginning of their lifecycle were stripped down F-4Es in an attempt to reduce the cost and lost many abilities that the F-4E had. For example, the F-4E could launch AIM-7 Sparrow radar missiles and use guided weapons like Mavericks or Walleyes. Between 1980 and 1983, the F-4Fs regained the ability to fire AIM-7s and use guided weaponry. In addition, it could launch AIM-9L Sidewinders and the electronics were improved.
 
-Introduced in [[Update "Red Skies"]], the '''{{Specs|name}}''' is a researchable rank {{Specs|rank}} jet. It is a strong fighter due to its high top speed, access to countermeasures, and good missiles like the AIM-9J. The M61 Vulcan is also extremely potent due to its high fire rate and velocity. It's also an excellent ground attacker since it has access to CCIP for cannons, bombs, and rockets and also the ability to use Mavericks. Players who wish to use the F-4F for ground attack or as a fighter will not be disappointed. 
+Introduced in [[Update "Red Skies"]], the '''{{Specs|name}}''' is a researchable rank {{Specs|rank}} jet. It is a strong fighter due to its high top speed, access to countermeasures, and good missiles like the AIM-9J. The M61 Vulcan is also extremely potent due to its high fire rate and velocity. It's also an excellent ground attacker since it has access to CCIP for cannons, bombs, and rockets and also the ability to use Mavericks. Players who wish to use the F-4F for ground attack or as a fighter will not be disappointed.
 
 
 == General info ==
@@ -157,9 +157,8 @@ Countermeasures > AIM-9B FGW.2 > New boosters > AIM-9E > G-suit > Wings repair >
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
-** 1 x 20 mm M61A1 cannon + 90 x countermeasures
+* 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
+* 90 x countermeasures
 
 The M61A1 is an excellent cannon at its rank, its only disadvantages being the spool-up time and somewhat limited ammo count relative to rate of fire.
 
@@ -240,6 +239,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x AIM-9B FGW.2 Sidewinder missiles
 * 4 x AIM-9E Sidewinder missiles
 * 4 x AIM-9J Sidewinder missiles
+* 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
 * 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)

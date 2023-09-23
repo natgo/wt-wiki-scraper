@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish SPAA {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''{{Specs|name}}''' (Finnish: ''Ilmatorjuntapanssarivaunu'' 90; Anti-Aircraft Tank 90) represented the retrofitted fleet of SPAAG in Finnish Army by combining the chassis of Leopard 2A4 and Marconi Marksman turret systems from previous T-55AM chassis. Finland ordered 7 Marksman system from British in 1990 as their supplementary to low-altitude air-defense, these systems were originally installed on seven Polish T-55AM chassis and have been served in the Finnish Army since then; due to the aging of T-55AM chassis and seeking for more reliable chassis, the previous fleet has been stored since 2010 until new stock of Leopard 2A4 has arrived, which 7 of these tanks were converted as the new ItPsV 90 in service at 2015. 
+
+Introduced in [[Update "Sky Guardians"]] as part of the Swedish/Finnish SPAA line, instead of the well-known T-55AM which gained the name of the gun systems, Finnish retrofitted the gun system with spare Leopard 2A4 from Germany. Not only improving its mobility vastly thanks to the powerful MTU diesel engine, it also provide reliable air-defense for Swedish players and can be relocate to any combat position where it needed; whether against aircrafts or ground vehicles, it can handle them all with relatively ease.
 
 == General info ==
 === Survivability and armour ===
@@ -43,7 +45,7 @@ Generally, one should try their best to remain unseen by enemy armour, the guns 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+Players can tell the engine as soon as they take a drive on it - the iconic turbocharging sound of MTU MB 873 Ka-501 will give itself right away; thanks to its high power output and reliable transmission with good reverse speed, ItPsV 90 can relocate faster than all its counterparts both in NATO and Eastern Bloc.
 
 {{tankMobility|abMinHp=2,131|rbMinHp=1,327}}
 
@@ -108,7 +110,11 @@ The ItPsV 90 has 3 types of ammunition available:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+When players first get on hand with ItPsV 90, they will have deja vu from a very similar vehicle in British tech-tree: [[Chieftain Marksman]]. Since both systems shared the same Marconi Marksman turret, players from British tech tree can get used to the gun very quickly; as ItPsV 90 now uses Leopard 2A4 chassis, it can now moves faster than its counterparts at its tier with ease.
+
+One thing players will soon notice is the rather huge size of ItPsV 90 - a Leopard 2A4 is at around 3 m, due to the ammo fed systems and radar electronics, the vehicle is now at 4.82 m; not only it gives the vehicle away even from afar and behind cover, it will also be a major problem as enemy explosive ammunitions i.e. HEFS, HEAT or missiles now have better odds to hit the vehicle and triggering overpressure. Another note is that, like any other SPAA at its tier, the turret is rather unprotected against bullets above .50 caliber; if it faces US, Eastern Bloc or Chinese tanks which usually have pintle .50 cal HMG, the turret crew will very likely been shattered by the bullets, let alone IFVs with autocannons. Even if the enemy only has GPMG, if their main cannon is not knocked out right away, chances are penetrated shots in the face (literary) can send the turret sky high or even disintegrate ItPsV 90 from existence. Therefore in most cases, do not push ItPsV 90 to frontline unless it has been cleared. To migrate the mobility problems, Finnish upgraded ItPsV 90 with Leopard 2A4 chassis (previous T-55AM with 690 hp engine); not only it has doubled the power output, thanks to the lighter weight (at only 48 tons vs 55.2 tons of Leopard 2A4), it now enjoys superior mobility against most vehicles at its tier with up to 30.5 hp/ton power ratio. If players opted for more aggressive approach and using ItPsV 90 as an oversized IFV, be sure to utilize its superior mobility and move to appropriate vantage points i.e. corners of road intersections where enemy might not play attention when they are pushing through, thanks to the penetration of Oerlikon 35 mm autocannon, most vehicles will fall victim of ItPsV 90 if the shells land on their weak spots (Soviet tank usually have 80 mm hull side, so hitting them on where the torsion bars are), for more reliable penetrations, the 40 spare rounds of all Oerlikon 35 mm gun systems are in fact for APDS when researched, they can make very short work of enemies; just be sure to spare your ammo if there are multiple targets.
+
+When facing what it has been intended for - aircrafts, the radar system can detect targets within 12 km radius, the distance is more than enough for players to react albeit other systems have longer range. Thanks to the flat ballistic of 35 mm, it can hit targets at up to 3 km given the target didn't evade; for maximize efficiency, it is better to lure the target within 2 km where they will have very little reaction time for the oncoming shots, choosing targets which flies straightly or those at very low energy can earn some quick victories for ItPsV 90. Beware for the target altitude though as tracking radars will misalign with the target when they flies too low. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
@@ -116,13 +122,16 @@ The ItPsV 90 has 3 types of ammunition available:
 * Very good mobility provided by the Leopard 2 hull and powerpack
 ** Technically possesses the best mobility out of all Leopard 2s due to its light weight, giving a power-to-weight ratio of 30.49 hp/ton spaded in RB
 * 35mm cannons are effective against aircraft and light vehicles, as well as most tanks from the side
+* Better hull protection than most SPAA at its tier
+* Commander override for turret for last-ditch retaliation 
 
 *
 
 '''Cons:'''
 
-* No turret armor
-* Tall profile
+* Very unprotected turret rated only for rifle-caliber bullets
+* Huge profile, can be spotted from afar (4.82 m vs 3 m on Leopard 2 series)
+* Relative short radar search range at only 12 km
 
 *
 

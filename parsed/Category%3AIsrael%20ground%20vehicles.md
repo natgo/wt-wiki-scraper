@@ -5,10 +5,12 @@
 |
 {{Tree-Unit|il_m_51}}
 {{Tree-Arrow}}
-{{Tree-Unit|il_m48a1_patton_III}}
+{{Tree-Group|il_magach_1_2_group|Magach 1/2|
+  {{Tree-Unit|il_m48a1_patton_III}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_magach_2}}
-{{Tree-Arrow}}
+}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|il_amx_13_75}}
 {{Tree-Arrow}}
@@ -20,7 +22,9 @@
 {{Tree-Unit|il_tcm_20}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_ss_11_halftrack}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
+{{Tree-Unit|il_zsu_57_2}}
+{{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|il_m_51_w}}
 {{Tree-Skip}}
@@ -28,26 +32,28 @@
 
 {{Tree-Line|V Rank}}
 |
-{{Tree-Unit|il_magach_3_idf}}
+{{Tree-Group|il_magach_3_6_group|Magach 3/6|
+  {{Tree-Unit|il_magach_3_idf}}
 {{Tree-Arrow}}
-{{Tree-Group|il_magach_6_6a_group|Magach 6/6A|
-  {{Tree-Unit|il_magach_6}}
-{{Tree-Arrow}}
-{{Tree-Unit|il_magach_6a}}
+{{Tree-Unit|il_magach_6}}
 }}
 {{Tree-Arrow}}
+{{Tree-Group|il_magach_6a_5_group|Magach 6A/5|
+  {{Tree-Unit|il_magach_6a}}
+{{Tree-Arrow}}
 {{Tree-Unit|il_magach_5}}
+}}
 {{Tree-Arrow}}
 |
-{{Tree-Unit|il_tiran_4}}
+{{Tree-Group|il_tiran_4_group|Tiran 4/4S|
+  {{Tree-Unit|il_tiran_4}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_tiran_4_sh}}
+}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_centurion_shot_kal_alef}}
 {{Tree-Arrow}}
 |
-{{Tree-Unit|il_zsu_57_2}}
-{{Tree-Arrow}}
 {{Tree-Unit|il_m163_vulcan}}
 {{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
@@ -57,36 +63,39 @@
 
 {{Tree-Line|VI Rank}}
 |
-{{Tree-Group|il_magach_6_group|Magach 6R/Hydra|
+{{Tree-Group|il_magach_6_group|Magach 6 B/R/Hydra|
   {{Tree-Unit|il_magach_6r}}
+{{Tree-Arrow}}
+{{Tree-Unit|il_magach_6b}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_magach_6_rocket}}
 }}
 {{Tree-Arrow}}
-{{Tree-Unit|il_magach_6b}}
-{{Tree-Arrow}}
-{{Tree-Unit|il_magach_6m}}
+{{Tree-Group|il_magach_6m_c_group|Magach 6 M/C|
+  {{Tree-Unit|il_magach_6m}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_magach_6c}}
+}}
 {{Tree-Arrow}}
-{{Tree-Unit|il_magach_6b_gal_batash}}
+{{Tree-Group|il_magach_batash_7_group|Gal Batash/7C|
+  {{Tree-Unit|il_magach_6b_gal_batash}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_magach_7c}}
+}}
 |
 {{Tree-Unit|il_centurion_shot_kal_gimel}}
 {{Tree-Arrow}}
-{{Tree-Unit|il_merkava_mk_1b}}
+{{Tree-Group|il_merkava_1_2_group|Merkava 1B/2B|
+  {{Tree-Unit|il_merkava_mk_1b}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_merkava_mk_2b_early}}
-{{Tree-Arrow}}
-{{Tree-Unit|il_merkava_mk_3b}}
-{{Tree-Arrow}}
-{{Tree-Unit|il_merkava_mk_3c}}
+}}
 {{Tree-Arrow|1}}
 |
 {{Tree-Unit|il_zsu_23_4}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_machbet}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|il_centurion_shot_kal_d}}
 {{Tree-Skip}}
@@ -99,13 +108,22 @@
 |
 {{Tree-Skip}}
 |
-{{Tree-Unit|il_merkava_mk_4b}}
+{{Tree-Group|il_merkava_3_group|Merkava 3 B/C|
+  {{Tree-Unit|il_merkava_mk_3b}}
+{{Tree-Arrow}}
+{{Tree-Unit|il_merkava_mk_3c}}
+}}
+{{Tree-Arrow}}
+{{Tree-Group|il_merkava_4_group|Merkava 4 B/LIC|
+  {{Tree-Unit|il_merkava_mk_4b}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_merkava_mk_4_lic}}
+}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_merkava_mk_4m}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|il_mim_72_chaparral}}
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Skip}}

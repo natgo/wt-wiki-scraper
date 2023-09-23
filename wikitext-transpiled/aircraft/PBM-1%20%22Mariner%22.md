@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American bomber {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].  Overshadowed by the better known [[PBY-5 (Family)|PBY]], the Mariner was still a key part of Americas control of the oceans.
+Glenn L. Martin Company was one of the few companies in America that was heavily into designing and producing seaplanes. One of the many seaplanes they built was the twin-engine PBM Mariner intended to be the successor of the P3M. The PBM-1 would feature two Wright R-2600-6 engines each producing 1,600 hp as well as a gull wing type design and twin tail. They entered service in 1940 and were utilized in regular patrols as well as anti-submarine warfare. Ten U-boats were sunk by PBM Mariners including U-158 which was sunk near the Bermudas. Mariners in American service were used until the last squadron (VP-50) retired the aircraft in 1956. 
+
+Introduced in [[Update "Hot Tracks"]], the '''{{Specs|name}}''' is a very well-defended bomber capable of carrying heavy bomb loads. Unfortunately, the larger bomb loads come at the price of being very big and heavy compared to other bombers around its BR. Luckily, the PBM-1 has 5 turrets all housing 12.7 mm machine guns which is excellent for its BR. None of the turrets cover the bottom of the aircraft so players need to take evasive action against aircraft climbing up to attack. The '''{{Specs|name}}''' is a strong bomber thanks to its excellent bomb load and strong defensive armament. 
 
 == General info ==
 === Flight performance ===

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli tank destroyer {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+During the IDF arming process during the 1948 Arab-Israeli War, the IDF employed several American half-tracks as their main APCs. Vehicles like the M2, M3, M5, and M9 were acquired from different sources. Many were adapted for different purposes, like the [[TCM-20]] SPAA. With the introduction of the French SS.11 ATGM in the 1950s (locally designated "Tager"), it was decided to use the abundant American half-tracks for anti-armour purposes. Even though they were somewhat obsolete by then, they saw most of their action during the Six-Day War of 1967 against T-54s. However due to a lack of doctrinal knowledge in of ATGM usage, many Tagers were ignored during the conflict, and it is not clear if any scored kills.
+
+Introduced in [[Update "Wind of Change"]], the '''Zachlam Tager'''<nowiki/>'s Tager missiles have, like most early ATGMs, uncomfortable controls and very slow speed. However, they do pack a heavy punch, and it should be used with its advantages and weaknesses in mind. Since the Zachlam Tager is fast, it can reach objectives faster than most MBTs, and then hide in well-camouflaged positions and strike any enemy that tries to take back the area with missiles. The missiles are slow and have a lot of inertia in their movements, thus, calm and steady changes of course are recommended instead of drastic changes of direction. The ideal range for missile shots in flat ground, is around 200-600 m, since less than 300 m may result in poor handling and more than 600 m is hard to hit because the missiles are very slow and many tanks can shoot them down with their machine guns.
 
 == General info ==
 === Survivability and armour ===
@@ -44,13 +46,14 @@ The binocular on top of the vehicle cannot be targeted by AB aim assist or hit, 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-{{PAGENAME}} is very fast when moving forward in a straight line, even competing with light tanks when spaded. Unfortunately, it has a poor reverse, so it's significantly less mobile than [[RakJPz 2]] and the operator must commit to their fights or be destroyed. 
+{{PAGENAME}}
+ is very fast when moving forward in a straight line, even competing with light tanks when spaded. Unfortunately, it has a poor reverse, so it's significantly less mobile than [[RakJPz 2]] and the operator must commit to their fights or be destroyed.
 
 The Zachlam is both a wheeled and tracked vehicle; it heavily suffers from the downsides of both types until all upgrades are researched - it can't turn well in place due to the wheels and will outright refuse to readjust when standing on a hill or in the mud (maximum turn speed of 0.3° a second), and it can't really use roads to accelerate due to the tracks. Carrier also has nearly no mass and does not keep momentum after collisions, so it's best to avoid crashing into obstacles.
 
-The drive wheels are the tracks in the back - the front wheels do not generate any momentum and if the half-track manages to hang itself on some ladder or rocks, it will be forever stuck there, unless the missile launch recoil managed to kick the front of the truck off it. 
+The drive wheels are the tracks in the back - the front wheels do not generate any momentum and if the half-track manages to hang itself on some ladder or rocks, it will be forever stuck there, unless the missile launch recoil managed to kick the front of the truck off it.
 
-Until the Zachlam is spaded, it has a general forward speed of 42 km/h in AB and 30-35 km/h in RB. Researching all of the mobility modules together dramatically improves the acceleration, adds another 7 km/h of maximum off-road speed, allows the truck to almost spin in place on flat ground, and enables the ability to use paved roads to reach maximum speed of 70-80 km/h. 
+Until the Zachlam is spaded, it has a general forward speed of 42 km/h in AB and 30-35 km/h in RB. Researching all of the mobility modules together dramatically improves the acceleration, adds another 7 km/h of maximum off-road speed, allows the truck to almost spin in place on flat ground, and enables the ability to use paved roads to reach maximum speed of 70-80 km/h.
 
 The truck barely has enough horsepower to push itself up steep hills, but it will still do so at 5 km/h speed in most cases.
 
@@ -134,7 +137,7 @@ Since SS.11 is a quite fragile missile, it is a decent idea to not guide missile
 
 There are also certain considerations to be made regarding the 6 missile ammo limit and different missile control schemes in AB/RB. While many attack techniques from AB may also work in RB, they would require far more range, far more practice and will leave not as much room for error, as in AB.
 
-'''AB tips''' 
+'''AB tips'''
 
 Most of the drawbacks of the Zachlam are not present, as such it can be played relatively freely, but avoid directly attacking tanks or provoking any HEAT armed SPG without the safety of a full hulldown, as aim assist makes them borderline invincible for you. Most of APHE tanks are also deadly, so it's generally better to stay low.
 
@@ -149,7 +152,7 @@ File:Zachlam medium range entrench.jpg|By using indestructible decorations, try 
 File:Zachlam indirect fire sniper scope example.jpg|Fighting any rocket tank directly is definitely a suicide mission for the Zachlam, but you don't have to fight it head-on
 </gallery>
 
-Ultimately, the Zachlam's full attack potential is realized when standing on a fortified capture point, as it allows it to avoid waiting for 80 seconds to get more missiles and may lead to situations in which enemy team simply cannot move in to attack without an airstrike due to an endless suppressing fire from you. This only works on capture points which can fully protect the hull and missiles, which means that certain capture points, or even certain sides of those capture points are vastly superior to others. 
+Ultimately, the Zachlam's full attack potential is realized when standing on a fortified capture point, as it allows it to avoid waiting for 80 seconds to get more missiles and may lead to situations in which enemy team simply cannot move in to attack without an airstrike due to an endless suppressing fire from you. This only works on capture points which can fully protect the hull and missiles, which means that certain capture points, or even certain sides of those capture points are vastly superior to others.
 
 Here are some examples of firing from well protected capture points. Do note, that missile rack should be pointing directly towards the target to reduce a chance of misfiring, and Zachlam must be parked at least 160 m away from opponents. Do not use the last missile to avoid the reload penalty and to continue supressing an enemy team:
 
@@ -160,9 +163,9 @@ File:Zachlam indirect suppressing fire from capture point safe.jpg|Some capture 
 
 Unlike with the stand-off sniping, if enemy team calls artillery strike on you during this, fire off the last missile, let capture point instantly restore your ammo, then retreat. This will allow you to only wait for about 20 seconds instead of 80 before firing again, which means that you don't have to abandon the capture point completely.
 
-'''RB tips''' 
+'''RB tips'''
 
-The Zachlam gets very few options. The safest way to play is simply as a scout, using hills for cover and scouting through the safety of your binoculars, occasionally sniping exposed tanks. Every enemy you encounter is an immense threat, and none is easy to destroy: even light vehicles may dodge or shoot down your missiles. You can only stay close to strategic points with the 6 missiles, and if none of the strategic points are in your team's control, there is simply nothing the Zachlam can do besides staying low and passively scouting. 
+The Zachlam gets very few options. The safest way to play is simply as a scout, using hills for cover and scouting through the safety of your binoculars, occasionally sniping exposed tanks. Every enemy you encounter is an immense threat, and none is easy to destroy: even light vehicles may dodge or shoot down your missiles. You can only stay close to strategic points with the 6 missiles, and if none of the strategic points are in your team's control, there is simply nothing the Zachlam can do besides staying low and passively scouting.
 
 '''Notable enemies'''
 
@@ -207,6 +210,7 @@ The Tagars were soon decommissioned following the Six-Day War. By the time the i
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_ss_11_halftrack Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

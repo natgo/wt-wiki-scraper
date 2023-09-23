@@ -10,7 +10,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
+
+The AML-90 was developed by the French company Panhard in the late 1950s, as a response to a commission by the French Ministry of Defense. It was based on the earlier AML-60, which mounted a 60 mm mortar as its main weapon. The AML-90 replaced the mortar with a DEFA low-pressure 90 mm rifled gun capable of firing high-explosive and high-explosive anti-tank shells. As the developer of the AML-90, France used it extensively, using it for police work, counter-insurgency, and reconnaissance among other tasks.
+
+Introduced in [[Update 1.95 "Northern Wind"]], the  '''{{Specs|name}}''' relies heavily on its speed and good positioning to avoid getting killed, since the AML-90's lack of armour means that any shot, even heavy machine guns, can and likely will result in death. Therefore, it should be used in flanking manoeuvres, harassing enemies, capturing points, and supporting allies. Its 90 mm cannon is adequate for this job, however the use of a HEAT projectile means that one-shots are rare. Since it is a wheeled vehicle, it may get stuck in some terrains, and as such using it in flat areas should be prioritized.
 
 == General info ==
 === Survivability and armour ===
@@ -163,13 +166,13 @@ Despite the optics not having a huge zoom, it is enough to be able to detect, ta
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 ===Design===
-In the 1950s, the French Army was still operating Daimler Ferrets that were becoming obsolete. For their replacement, French companies were solicited to produce a light armoured car. Panhard proposed the AML in 1957, along concurrent projects like the ELC AMX.
+The AML-90 is a variant of a light armoured car developed by the French company Panhard in the late 1950s. It was designed to replace the older and less capable scout vehicles that the French Army had used during World War II, such as the AMD 35, Laffly S15, and the Daimler Ferrets. The AML family of cars had a four-wheel drive chassis, a three-man crew, and the AML-90 had a 90 mm low-pressure gun that could fire high-explosive anti-tank (HEAT) shells. The AML-90 was also very agile and compact, making it suitable for reconnaissance and raiding missions in various terrains.
 
 ===Development===
-The first prototypes were tested in 1959 and the vehicles entered service in 1961. The early versions were armed with a 60 mm mortar in the turret. A new turret integrating a 90 mm cannon was developed the same year they entered service. The AML was an export success with many armies around the world adopting the AML 90, in particular African or Middle-Eastern countries with limited budgets. Almost 5,000 units were produced.
+The first prototypes were tested in 1959 and the vehicles entered service in 1961. The early versions were armed with a 60 mm mortar in the turret. A new turret integrating a 90 mm cannon was developed the same year they entered service. The AML was an export success with many armies around the world adopting the AML-90, in particular African or Middle-Eastern countries with limited budgets. Almost 5,000 units were produced.
 
 ===Combat usage===
-The AML 90 saw service in the French Army and in numerous armies around the world, the most renowned foreign operators being South Africa, Spain, Israel, Saudi Arabia and Iraq. The AML 90 saw combat action during many conflicts throughout the years: Six-Day War, South African Border War, Iran-Iraq war, Toyota War among the most know and remains in service until today.
+The AML-90 saw service in the French Army and in numerous armies around the world, the most renowned foreign operators being South Africa, Spain, Israel, Saudi Arabia and Iraq. The AML-90 saw combat action during many conflicts throughout the years: Six-Day War, South African Border War, Iran-Iraq war, Toyota War among the most know and remains in service until today.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -187,6 +190,7 @@ The AML 90 saw service in the French Army and in numerous armies around the worl
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[AUBL/74]]
 
 == External links ==

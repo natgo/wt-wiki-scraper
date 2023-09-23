@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''M4A4 Sherman''' is the fifth variant of the early-generation [[M4 Sherman (Family)|Medium Tank M4 (Sherman) family]]. The M4A4, like other variants of the M4 Sherman family, was part of the military aid delivered to Italy after World War II ended in 1946 to provide equipment for the small military command established for only territory defence. As part of the allied collaboration, the U.S. Army is said to have given at least 57 combined [[M4A2]] and M4A4 variants to the reconstituted Italian Army. These tanks were employed from 1948 to the early 1950s, with the final ones being officially retired in 1952.
+
+Introduced in [[Update "Starfighters"]], the M4A4 was the main Italian medium tank after World War II. Armour arrangements are similar to the [[M4|M4 variant]], particularly the hatches that protrude from the hull's slope contour. These hatches should be acknowledged since they cause discontinuities in the slope and impair the overall effectiveness of the sloped armour. Despite the fact that armour plates are welded in front of the discontinuities to provide protection, this is still a significant weakness in the context of the frontal hull, and most experienced opponents would target it. The M4A4 variant also contains a new composite Chrysler multibank engine (composed of five automobile engines), which necessitated additional space (the hull had to be expanded by 15 cm).
 
 == General info ==
 === Survivability and armour ===

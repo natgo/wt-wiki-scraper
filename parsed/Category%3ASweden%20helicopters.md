@@ -37,12 +37,20 @@
 |-
 | {{Tree-Arrow}}
 |-
+|}
+|style="border-left: solid 1px #cccccc;"|
+{{Tree-Unit|mi_28a_sweden}}
+|
+
+{{Tree-Line|VII Rank}}
+|style="width:400px;padding-left:20%;"|
+{| cellspacing="0" style="margin:0;margin-top:-7px;"
+|-
 | {{Tree-Unit|ahs}}
 {{Tree-Skip}}
 |-
 |}
 |style="border-left: solid 1px #cccccc;"|
-{{Tree-Unit|mi_28a_sweden}}
 |
 
 {{Tree-End}}

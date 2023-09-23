@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The A-10 Thunderbolt II was developed to fill in the gap created by the more expensive Phantom for strike missions. A ground attack focused plane was needed and that's where the A-10 came into play. In late 1966, the USAF expressed interest in a plane that could carry out close air support missions. Fairchild Republic won the contract over Northrop and birthed the A-10 Thunderbolt II, a homage to the very successful P-47 Thunderbolt in World War 2. The A-10 featured a titanium bathtub to protect the pilot, a redundant control system, turbofan engines that were robust, and much more. The A-10A Late fielded a few new weapons like the AGM-65D Maverick.
+
+Introduced in [[Update "Wind of Change"]], the '''{{Specs|name}}''' features the ability to carry four AIM-9Ls as well as AGM-65Ds. Unlike the AGM-65B, the D variant uses infrared imaging which gives the pilot a very clear image regardless of the surrounding conditions. Unfortunately, this lacks screen magnification like the AGM-65B but is better for night operations. Players should be more than satisfied with the addition of AGM-65Ds, the ability to use four AIM-9Ls, and retaining almost all of the benefits of the A-10A Early.
 
 == General info ==
 === Flight performance ===
@@ -143,9 +145,8 @@ The A-10A is equipped with a whopping 480 countermeasures. This gives an extende
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm GAU-8/A cannon, chin-mounted (1,174 rpg)
-** 1 x 30 mm GAU-8/A cannon + 480 x countermeasures
+* 1 x 30 mm GAU-8/A cannon, chin-mounted (1,174 rpg)
+* 480 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -156,7 +157,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
 | 1 || 1 || 1, 3 || 1, 3 || 1 || 1 || 1, 3 || 1, 3 || 1 || 1
@@ -165,6 +166,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1 || 1 || 1, 3 || 1, 3 || 1 || 1 || 1, 3 || 1, 3 || 1 || 1
 |-
 ! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || 1 || 1 || 1 || 1 || 1 || 1 || ||
+|-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
 | || || 1 || 1 || 1 || 1 || 1 || 1 || ||
 |-
 ! [[Hydra-70 M247]] rockets
@@ -192,6 +196,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 18 x 500 lb Mk 82 Snakeye bombs (9,000 lb total)
 * 12 x 500 lb LDGP Mk 82 bombs + 4 x AIM-9L Sidewinder missiles (6,000 lb total)
 * 6 x 2,000 lb LDGP Mk 84 bombs (12,000 lb total)
+* 6 x 2,000 lb LDGP Mk 84 Air bombs (12,000 lb total)
 * 6 x 2,000 lb LDGP Mk 84 bombs + 4 x AIM-9L Sidewinder missiles (12,000 lb total)
 * 6 x AGM-65D missiles
 * 6 x AGM-65D missiles + 4 x AIM-9L Sidewinder missiles
@@ -239,8 +244,7 @@ With the AIM-9L, it is important to keep in mind its effective launch/lock range
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
-
+The A-10A Late was a minor upgrade in the A-10. It featured the new and improved AGM-65D's which was in initial operation in 1985. Unlike the AGM-65B, the D variant featured an IR seeker. The AGM-65B used a TV camera that heavily depended on weather conditions and whether it was night or daytime. The AGM-65D solved that issue by using infrared and could be used in many weather conditions and most importantly, in the night. The Late was largely unchanged compared to the Early.
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 

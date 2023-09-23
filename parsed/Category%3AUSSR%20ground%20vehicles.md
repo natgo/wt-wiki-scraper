@@ -8,29 +8,30 @@
 {{Tree-Unit|ussr_bt_7_1937}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_bt_7_m}}
-{{Tree-Arrow|2}}
 |
 {{Tree-Unit|ussr_t_26_1940}}
 {{Tree-Arrow}}
+{{Tree-Unit|ussr_t_28_1938}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_t_28}}
+{{Tree-Skip}}
+|
 {{Tree-Unit|ussr_t_26_4}}
 {{Tree-Arrow}}
-{{Tree-Unit|ussr_t_28_1938}}
-{{Tree-Arrow|2}}
-|
 {{Tree-Unit|ussr_t_60_1941}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_70_1942}}
-{{Tree-Arrow|3}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|ussr_su_5_1}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_su_76m_1943}}
-{{Tree-Arrow|3}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|ussr_gaz_4m}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_gaz_dshk}}
-{{Tree-Arrow|3}}
+{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|ussr_t_26_1940_1st_GvTBr}}
 {{Tree-Skip}}
@@ -51,54 +52,58 @@
 {{Tree-Skip}}
 {{Tree-Unit|ussr_ba_11}}
 {{Tree-Skip}}
-{{Tree-Unit|ussr_m3c}}
-{{Tree-Skip}}
 
 {{Tree-Line|II Rank}}
 |
 {{Tree-Unit|ussr_t_50}}
 {{Tree-Arrow}}
-{{Tree-Group|ussr_t_34_40_41_group|T-34|
+{{Tree-Group|ussr_t_34_40_41_group|T-34 (40/41)|
   {{Tree-Unit|ussr_t_34_1941_l_11}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_34_1941}}
 }}
 {{Tree-Arrow}}
-{{Tree-Unit|ussr_t_34_1942}}
+{{Tree-Group|ussr_t_34_42_group|T-34 (42/E)|
+  {{Tree-Unit|ussr_t_34_1942}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_34E_STZ}}
-{{Tree-Skip}}
-|
-{{Tree-Group|ussr_t_28_t_28e_group|T-28/T-28E|
-  {{Tree-Unit|ussr_t_28}}
-{{Tree-Arrow}}
-{{Tree-Unit|ussr_t_28E}}
 }}
+{{Tree-Arrow|4}}
+|
+{{Tree-Unit|ussr_t_28E}}
 {{Tree-Arrow}}
-{{Tree-Unit|ussr_kv_1_L_11}}
+{{Tree-Group|ussr_kv_1_2_group|KV-1/2(39)|
+  {{Tree-Unit|ussr_kv_1_L_11}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_kv_2_1939}}
+}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_kv_1s}}
-{{Tree-Skip}}
+{{Tree-Arrow|4}}
 |
 {{Tree-Unit|ussr_t_80}}
 {{Tree-Arrow|6}}
 |
-{{Tree-Unit|ussr_su_122}}
-{{Tree-Arrow}}
-{{Tree-Unit|ussr_zis_30}}
+{{Tree-Group|ussr_zis_su_group|ZiS-30/SU-57B|
+  {{Tree-Unit|ussr_zis_30}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_su_57b}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_su_122}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_zsu_29k}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|4}}
 |
 {{Tree-Unit|ussr_gaz_mm_72k}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_btr_152a}}
 {{Tree-Arrow}}
-{{Tree-Unit|ussr_zis_12_94KM_1945}}
+{{Tree-Group|ussr_zis_group|ZiS-12/43|
+  {{Tree-Unit|ussr_zis_12_94KM_1945}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_zis_43}}
+}}
 {{Tree-Arrow|4}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|ussr_t_126sp}}
@@ -109,11 +114,15 @@
 {{Tree-Skip}}
 {{Tree-Unit|ussr_bm_13n}}
 {{Tree-Skip}}
-{{Tree-Unit|ussr_valentine_mk_9}}
-{{Tree-Skip}}
 {{Tree-Unit|ussr_t_34_1941_cast_turret}}
 {{Tree-Skip}}
+{{Tree-Unit|ussr_t_34E}}
+{{Tree-Skip}}
+{{Tree-Unit|ussr_t_34_1940_l_11}}
+{{Tree-Skip}}
 |
+{{Tree-Unit|ussr_m3c}}
+{{Tree-Skip}}
 {{Tree-Unit|ussr_su_76m_5st_kav_corps}}
 {{Tree-Skip}}
 {{Tree-Unit|ussr_su_76d}}
@@ -122,11 +131,9 @@
 {{Tree-Skip}}
 {{Tree-Unit|ussr_a_12_mk_2_matilda_2A_F96}}
 {{Tree-Skip}}
+{{Tree-Unit|ussr_valentine_mk_9}}
+{{Tree-Skip}}
 {{Tree-Unit|ussr_su_85a}}
-{{Tree-Skip}}
-{{Tree-Unit|ussr_t_34E}}
-{{Tree-Skip}}
-{{Tree-Unit|ussr_t_34_1940_l_11}}
 {{Tree-Skip}}
 
 {{Tree-Line|III Rank}}
@@ -134,11 +141,13 @@
 {{Tree-Unit|ussr_t_34_1941_57}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_34_85_d_5t}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|2}}
 |
-{{Tree-Unit|ussr_kv_1_zis_5}}
+{{Tree-Group|ussr_kv_1_85_group|KV-1/85|
+  {{Tree-Unit|ussr_kv_1_zis_5}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_kv_85}}
+}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_is_1}}
 {{Tree-Arrow|2}}
@@ -146,25 +155,23 @@
 {{Tree-Unit|ussr_asu_57}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_pt_76b}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|2}}
 |
-{{Tree-Group|ussr_su_isu_group|SU-152/ISU-152|
+{{Tree-Group|ussr_su_isu_152_group|SU/ISU|
   {{Tree-Unit|ussr_su_152}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_su_85_1943}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_isu_152}}
 }}
 {{Tree-Arrow}}
-{{Tree-Group|ussr_su_85_group|SU-85|
-  {{Tree-Unit|ussr_su_85_1943}}
-{{Tree-Arrow}}
-{{Tree-Unit|ussr_su_85m}}
-}}
+{{Tree-Group|ussr_su_isu_122_group|SU-85M/ISU-122|
+  {{Tree-Unit|ussr_su_85m}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_isu_122}}
+}}
 {{Tree-Arrow|2}}
 |
-{{Tree-Unit|ussr_zis_43}}
-{{Tree-Arrow}}
 {{Tree-Unit|ussr_zsu_37}}
 {{Tree-Arrow|3}}
 | style="border-left: solid 1px #cccccc;" |
@@ -176,18 +183,14 @@
 {{Tree-Skip}}
 {{Tree-Unit|ussr_m4a2_76w_sherman}}
 {{Tree-Skip}}
-{{Tree-Unit|ussr_type_65_aa}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|ussr_kv_2_1940}}
 {{Tree-Skip}}
 {{Tree-Unit|ussr_kv_1e}}
 {{Tree-Skip}}
-{{Tree-Unit|ussr_kv_220}}
-{{Tree-Skip}}
 {{Tree-Unit|ussr_kv_2_zis_6}}
 {{Tree-Skip}}
-{{Tree-Unit|ussr_pzkpfw_V}}
+{{Tree-Unit|ussr_type_65_aa}}
 {{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}
@@ -195,9 +198,7 @@
 {{Tree-Unit|ussr_t_34_85_zis_53}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_44}}
-{{Tree-Arrow}}
-{{Tree-Unit|ussr_t_44_100}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|4}}
 |
 {{Tree-Unit|ussr_is_2_1943}}
 {{Tree-Arrow}}
@@ -213,9 +214,13 @@
 {{Tree-Unit|ussr_su_100p}}
 {{Tree-Arrow|4}}
 |
-{{Tree-Unit|ussr_isu_122s}}
+{{Tree-Group|ussr_isu_su_group|ISU-122S/SU-100|
+  {{Tree-Unit|ussr_isu_122s}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_su_100_1945}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_2s1}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_2s3m}}
 {{Tree-Arrow|3}}
@@ -236,23 +241,25 @@
 |
 {{Tree-Unit|ussr_kv_122}}
 {{Tree-Skip}}
+{{Tree-Unit|ussr_kv_220}}
+{{Tree-Skip}}
+{{Tree-Unit|ussr_pzkpfw_V}}
+{{Tree-Skip}}
 {{Tree-Unit|ussr_is_2_1944_revenge}}
 {{Tree-Skip}}
 {{Tree-Unit|ussr_object_248}}
 {{Tree-Skip}}
-{{Tree-Unit|ussr_is_6}}
-{{Tree-Skip}}
 {{Tree-Unit|ussr_type_62}}
-{{Tree-Skip}}
-{{Tree-Unit|ussr_pt_76_57}}
 {{Tree-Skip}}
 
 {{Tree-Line|V Rank}}
 |
-{{Tree-Unit|ussr_t_54_1949}}
+{{Tree-Unit|ussr_t_44_100}}
 {{Tree-Arrow}}
-{{Tree-Group|ussr_t_54_group|T-54|
+{{Tree-Group|ussr_t_54_group|T-54 (47/49/51)|
   {{Tree-Unit|ussr_t_54_1947}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_t_54_1949}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_54_1951}}
 }}
@@ -265,10 +272,12 @@
 |
 {{Tree-Unit|ussr_btr_80a}}
 {{Tree-Arrow}}
-{{Tree-Unit|ussr_bmp_1}}
+{{Tree-Group|ussr_bmp_1_group|BMP-1/Ob.906|
+  {{Tree-Unit|ussr_bmp_1}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_object_906}}
-{{Tree-Arrow}}
+}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|ussr_su_122_54}}
 {{Tree-Arrow}}
@@ -276,23 +285,31 @@
 {{Tree-Arrow|1}}
 |
 {{Tree-Unit|ussr_zsu_57_2}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_zsu_37_2}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|ussr_object_120}}
 {{Tree-Skip}}
+{{Tree-Unit|ussr_to_55}}
+{{Tree-Skip}}
 |
+{{Tree-Unit|ussr_is_6}}
+{{Tree-Skip}}
 {{Tree-Unit|ussr_t_10a}}
 {{Tree-Skip}}
-{{Tree-Unit|ussr_is_7}}
+{{Tree-Unit|ussr_pt_76_57}}
 {{Tree-Skip}}
 
 {{Tree-Line|VI Rank}}
 |
-{{Tree-Unit|ussr_t_55a}}
+{{Tree-Group|ussr_t_55_group|T-55 (A/AMD-1)|
+  {{Tree-Unit|ussr_t_55a}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_55_amd_1}}
+}}
 {{Tree-Arrow}}
-{{Tree-Group|t_62_group|T-62|
+{{Tree-Group|t_62_group|T-62/62M-1|
   {{Tree-Unit|ussr_t_62}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_62m1}}
@@ -300,73 +317,71 @@
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_72a}}
 {{Tree-Arrow}}
-{{Tree-Group|t_72b_group|T-72B|
-  {{Tree-Unit|ussr_t_72b}}
-{{Tree-Arrow}}
-{{Tree-Unit|ussr_t_72b_1989}}
-}}
-{{Tree-Arrow}}
 |
 {{Tree-Unit|ussr_t_10m}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_object_435}}
 {{Tree-Arrow}}
-{{Tree-Unit|ussr_t_64a_1971}}
+{{Tree-Group|ussr_t_64_group|T-64A/B|
+  {{Tree-Unit|ussr_t_64a_1971}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_64_b_1984}}
-{{Tree-Arrow}}
-{{Tree-Unit|ussr_t_80b}}
+}}
 {{Tree-Arrow}}
 |
-{{Tree-Unit|ussr_bmp_2}}
-{{Tree-Arrow}}
-{{Tree-Unit|ussr_bmp_3}}
+{{Tree-Group|ussr_bmp_2_group|BMP-2/Ob.685|
+  {{Tree-Unit|ussr_bmp_2}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_object_685}}
-{{Tree-Arrow|2}}
+}}
+{{Tree-Arrow}}
+{{Tree-Group|ussr_bmp_3_group|BMP-3/2S25|
+  {{Tree-Unit|ussr_bmp_3}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_2s25}}
+}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|ussr_it_1}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_9p149}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|1}}
 |
-{{Tree-Unit|ussr_zsu_37_2}}
-{{Tree-Arrow}}
 {{Tree-Unit|ussr_zsu_23_4}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_9a35_m2}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|ussr_t_55_am}}
 {{Tree-Skip}}
-{{Tree-Unit|ussr_t_72av_turms}}
-{{Tree-Skip}}
-{{Tree-Unit|ussr_2s38}}
-{{Tree-Skip}}
-{{Tree-Unit|ussr_bmp_2m}}
-{{Tree-Skip}}
 |
+{{Tree-Unit|ussr_is_7}}
+{{Tree-Skip}}
 {{Tree-Unit|ussr_object_279}}
 {{Tree-Skip}}
 {{Tree-Unit|ussr_bmd_4}}
 {{Tree-Skip}}
-{{Tree-Unit|ussr_t_72m2_moderna}}
-{{Tree-Skip}}
 
 {{Tree-Line|VII Rank}}
 |
+{{Tree-Group|ussr_t_72b_group|T-72B/72B(89)|
+  {{Tree-Unit|ussr_t_72b}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_t_72b_1989}}
+}}
+{{Tree-Arrow}}
 {{Tree-Unit|ussr_t_90a}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_72b3_2011}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|ussr_t_80b}}
+{{Tree-Arrow}}
 {{Tree-Unit|ussr_t_80u}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_t_80bvm}}
 {{Tree-Skip}}
 |
-{{Tree-Unit|ussr_2s25}}
-{{Tree-Arrow}}
 {{Tree-Unit|ussr_2s25m}}
 {{Tree-Skip}}
 |
@@ -378,11 +393,19 @@
 {{Tree-Unit|ussr_pantsyr_s1}}
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|ussr_t_72av_turms}}
+{{Tree-Skip}}
+{{Tree-Unit|ussr_2s38}}
+{{Tree-Skip}}
+{{Tree-Unit|ussr_bmp_2m}}
+{{Tree-Skip}}
 {{Tree-Unit|ussr_t_80um2}}
 {{Tree-Skip}}
 {{Tree-Unit|ussr_t_80uk}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|ussr_t_72m2_moderna}}
+{{Tree-Skip}}
 {{Tree-Unit|ussr_t_80u_yt_cup_2019}}
 {{Tree-Skip}}
 

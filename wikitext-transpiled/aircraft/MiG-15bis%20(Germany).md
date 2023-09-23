@@ -137,13 +137,12 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100M-43 (100 kg)|FAB-250M-46 (250 kg)|S-5K|S-5M|S-21}}
+{{main|FAB-100M-43 (100 kg)|S-5K|S-5M|S-21}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 2 x 100 kg FAB-100M-43 bombs (200 kg total)
-* 2 x 250 kg FAB-250M-46 bombs (500 kg total)
 * 16 x S-5K rockets
 * 16 x S-5M rockets
 * 2 x S-21 rockets

@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Russian medium tank {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Russian medium tank {{Battle-rating}}. It was introduced in [[Update "New Power"]]. An export and improved version of T-72 MBTs, this tank comes with a TURMS fire control system, which translates in game with 2nd generation thermal sights for both the gunner and the commander, allowing this tank to be comfortable in long-range engagements. 
+
+Other than that, this tank plays like your standard T-series tank with Kontakt-1 ERA: an effective gun but terrible gun depression, average mobility, poor reactivity, and suboptimal survivability. New players, beware, as this tank requires prior experience with Soviet MBTs to be understood and played correctly in order to utilize the premium bonuses that this T-72 comes with. 
 
 == General info ==
 === Survivability and armour ===
@@ -154,7 +156,7 @@ While brawling in this tank is workable, it is not ideal. That said, the best wa
 
 If up-tiered to a top rank lineup match, remember that this tank is perfectly capable of destroying most of the enemies it will face. However, it is imperative that you aim for the usual weak spots on the enemy tanks. Most weak points that other Russian high-rank MBTs (such as the T-80U) rely on will still penetrate, even with the technically inferior top APFSDS round. The difference will primarily be in consistency of damage. {{PAGENAME}} players will find themselves firing more than one round into an enemy to reliably destroy them compared to just a single shot in a better, higher-rank tank.
 
-Common headaches will include the likes of the Challanger, Leclerc, and Leopard 2A6 (as well as its derivatives), which will be exceedingly difficult to destroy frontally. In cases such as this, it is best to flank, or pick a different route to the battlefield, as the {{PAGENAME}}'s armour is far too thin to stop top-rank APFSDS rounds effectively. Put simply, the {{PAGENAME}} has an effective gun, average mobility, poor reactivity, and poor survivability. A new player will struggle while using this tank in a top-rank lineup.
+Common headaches will include the likes of the Challenger, Leclerc, and Leopard 2A6 (as well as its derivatives), which will be exceedingly difficult to destroy frontally. In cases such as this, it is best to flank, or pick a different route to the battlefield, as the {{PAGENAME}}'s armour is far too thin to stop top-rank APFSDS rounds effectively. Put simply, the {{PAGENAME}} has an effective gun, average mobility, poor reactivity, and poor survivability. A new player will struggle while using this tank in a top-rank lineup.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -164,7 +166,7 @@ Common headaches will include the likes of the Challanger, Leclerc, and Leopard 
 * Has 2nd generation thermal sights for both the gunner and the commander
 * Has a constant reload thanks to its autoloader
 * Low profile, easy to hide
-* ERA offers excellent protection against non-tandem ATGMS and HEAT rounds
+* ERA offers excellent protection against non-tandem ATGMs and HEAT rounds
 * 3BM42 (Mango round) can penetrate most targets even at long range and in uptiers
 * Has commander fire control, enabling the commander to return fire even if the gunner is killed
 * Fuel tanks can absorb oncoming rounds
@@ -179,7 +181,7 @@ Common headaches will include the likes of the Challanger, Leclerc, and Leopard 
 * Sluggish mobility
 * Slower reload compared to the opposition
 * Does not have access to ATGMs
-* Fight compartment is cramped likely to get one shotted
+* Fight compartment is cramped likely to get knocked out
 * Fuel tanks are prone to fuel explosions
 
 == History ==

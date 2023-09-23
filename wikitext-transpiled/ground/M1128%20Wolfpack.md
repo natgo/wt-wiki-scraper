@@ -41,6 +41,7 @@ The M1128 Wolfpack's narrow profile turret provides a significant advantage in c
 | colspan="4" style="text-align: center;" | 12.7 mm (21°, 27°)
 |}
 '''Notes:'''
+
 * Wheels are 10 mm thick, and the underbody is 12.7 mm thick.
 * There is a 5 mm internal RHA screen separating the engine and the radiator from the other compartments. It also gives additional protection to the driver against fragments and shockwaves from the front.
 * .50 cal machine gun shield has 12.7 mm of armour protection.
@@ -154,7 +155,6 @@ M1128 Wolfpack is a very competent light vehicle. It works brilliantly as a snip
 * Low survivability
 * Tall vehicle profile
 * Bad gun depression and elevation
-* No access to top tier ammunition
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

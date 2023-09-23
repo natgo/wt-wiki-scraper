@@ -145,6 +145,7 @@ Although the Leopard 2K is somewhat weak when stock, it is an adequate frontline
 * Can actually reach top speed on flat grounds
 * Can move in reverse as fast as it can move forward
 * Has the best optics of all tanks in game with 8x-16x zoom level
+* Full stabilized cannnons (L/44 / Rh202)
 
 '''Cons:'''
 

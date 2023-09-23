@@ -122,17 +122,17 @@ The Chinese Tu-4 has the same bomb loadouts as its Soviet counterpart, giving it
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-{{main|NR-23 (23 mm)}}
+{{main|Type 23-1 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-* 2 x 23 mm NR-23 cannons, front dorsal turret (275 rpg = 550 total)
-* 2 x 23 mm NR-23 cannons, rear dorsal turret (275 rpg = 550 total)
-* 2 x 23 mm NR-23 cannons, front ventral turret (250 rpg = 500 total)
-* 2 x 23 mm NR-23 cannons, rear ventral turret (500 rpg = 1,000 total)
-* 2 x 23 mm NR-23 cannons, tail turret (275 rpg = 550 total)
+* 2 x 23 mm Type 23-1 cannons, front dorsal turret (275 rpg = 550 total)
+* 2 x 23 mm Type 23-1 cannons, rear dorsal turret (275 rpg = 550 total)
+* 2 x 23 mm Type 23-1 cannons, front ventral turret (250 rpg = 500 total)
+* 2 x 23 mm Type 23-1 cannons, rear ventral turret (500 rpg = 1,000 total)
+* 2 x 23 mm Type 23-1 cannons, tail turret (275 rpg = 550 total)
 
-Like the bomb load, the defensive armament of the Chinese Tu-4 remains unchanged from the Soviet model, with a total of 10 [[NR-23 (23 mm)|23 mm NR-23 cannons]] providing all-round coverage. While the defensive armament is excellent, you need to engage targets manually as the AI gunners do not engage at sufficient range to take out threats. The utility of the turrets is also lessened when facing missile-armed jets, which can engage you from longer ranges. In these cases you want to throttle down or even turn off your engines to make it harder for them to get a missile lock, and so draw them into range of your guns.
+Like the bomb load, the defensive armament of the Chinese Tu-4 remains unchanged from the Soviet model, with a total of 10 [[Type 23-1 (23 mm)|23 mm Type 23-1 cannons]] providing all-round coverage. While the defensive armament is excellent, you need to engage targets manually as the AI gunners do not engage at sufficient range to take out threats. The utility of the turrets is also lessened when facing missile-armed jets, which can engage you from longer ranges. In these cases you want to throttle down or even turn off your engines to make it harder for them to get a missile lock, and so draw them into range of your guns.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -205,7 +205,7 @@ It's known that at least twelve Tu-4s were aided to People's Liberation Army Air
 
 === Shadow Aircraft 影機 ===
 [[File:Flight Path of 1960-12-19 Operation.jpg|thumb|309x309px|The flight path "Black Bat's" 1960-12-19 Operation]]
-At late 1950s, in view of the harassment and reconnaissance missions from the '''34th "Black Bat" Squadron ''(第34"黑蝙蝠"中隊)'' of ROCAF''' stationed at Hsinchu Airbase, PLAAF had plans for modifying Tu-2 into night-time interceptors and had attempted to hunt down P2V-7U flown by the aforementioned squadron, but ROCAF managed to bait that Tu-2 into terrain thus giving a death sentence to this project. By the 1960s, a commander of PLAAF HQ named Han Zhiming (韩志明) suggested a plan to modify a Tu-4 (aka Tu-4P in this case; No. 0049) into an anti-aircraft gunship as both Tu-4 and P2V shared similar service radius. The aircraft had installed a PSBN-M "Cobalt" radar from IL-28 by the upper front turret which can detect targets within 3 km, the gunner sights were also upgraded into infrared sights and the bomb bay was also modified into a command station where it could serve as an airborne control plane for the jet interceptors. This Tu-4 was dubbed "'''the Shadow Aircraft ''影機'''''" by ROCAF. 
+At late 1950s, in view of the harassment and reconnaissance missions from the '''34th "Black Bat" Squadron ''(第34"黑蝙蝠"中隊)'' of ROCAF''' stationed at Hsinchu Airbase, PLAAF had plans for modifying Tu-2 into night-time interceptors and had attempted to hunt down P2V-7U flown by the aforementioned squadron, but ROCAF managed to bait that Tu-2 into terrain thus giving a death sentence to this project. By the 1960s, a commander of PLAAF HQ named Han Zhiming (韩志明) suggested a plan to modify a Tu-4 (aka Tu-4P in this case; No. 0049) into an anti-aircraft gunship as both Tu-4 and P2V shared similar service radius. The aircraft had installed a PSBN-M "Cobalt" radar from IL-28 by the upper front turret which can detect targets within 3 km, the gunner sights were also upgraded into infrared sights and the bomb bay was also modified into a command station where it could serve as an airborne control plane for the jet interceptors. This Tu-4 was dubbed "'''the Shadow Aircraft ''影機'''''" by ROCAF.
 
 A detailed information on the very first interception operations conducted by the "Shadow Aircraft" could be found in the Black Bat Squadron Memorial Hall in Hsinchu, their home base. The crew of this P2V flight took off from South Korea on 19 December, 1960 and survived the interception from J-5A, "the Shadow Aircraft" from Cangzhou, Hebei (河北省沧州市) and ground AA; only to knew the existence of such aircraft a year later after multiple interception by this aircraft. According to the records from General Lin Hu (林虎, 1927-2018) and the flight path (shown on right, taken in November 2021) records, the Tu-4P intercepted P2V somewhere near Chengde, Hebei (河北省承德市) with 250 shots fired upon the target; the flight later evaded the interceptors by around 10 pm that day and hid for around 5 hours until they met extensive AA fire in Shandong where the other flight of Tu-4P intercepted P2V again fired again by 3 am the next day for around 35 minutes. <ref>pp. 132-134, Lin, Hu. ''Fights to Defend Motherland Airspace''. <nowiki>ISBN 7-5056-4167-X</nowiki>, People's Liberation Army Publishing House, 2002.</ref> The flight survived the interceptions and arrived Hsinchu at around half-past 8 that day. While the records from PLAAF mentioned that the gunship was first flown in 1st March, the mission was only for tracking instead of a head-to-head interception.
 

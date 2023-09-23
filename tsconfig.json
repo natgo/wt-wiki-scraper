@@ -1,12 +1,14 @@
 {
   "compilerOptions": {
-    "target": "ES2022",
-    "module": "CommonJS",
-    "lib": ["DOM", "ES2022", "ESNext"],
+    "types": ["bun-types"],
+
+    "lib": ["esnext"],
+    "module": "esnext",
+    "target":"esnext",
     "skipLibCheck": true,
     "sourceMap": true,
     "outDir": "./dist",
-    "moduleResolution": "node",
+    "moduleResolution": "Node",
     "removeComments": true,
     "noImplicitAny": true,
     "strict": true,
@@ -19,9 +21,8 @@
     "noFallthroughCasesInSwitch": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
     "resolveJsonModule": true,
+    "forceConsistentCasingInFileNames": true,
     "baseUrl": "./src"
   },
   "exclude": ["node_modules", "./src/**/*.test.ts", "data/types/generateSchema.ts"],

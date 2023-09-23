@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.31]].
+The '''{{Specs|name}}''' was the second variant in the I-15 series of Soviet biplane fighters. Testing and acceptance trials began in July 1937, a year after the previous TsKB-3bis failed to meet the performance requirements. Just a few months later, the {{Specs|name}} entered service with the Soviet Air Force. Early models utilized the M-25 engine from the prior [[I-15 M-25]] until mass production of the more powerful M-25V engine became available in mid-1938. The aircraft was also quickly deployed in China during the Second Sino-Japanese War, where it outclassed the Japanese Kawasaki Ki-10 but struggled against monoplanes like the Mitsubishi A5M2a and Nakajima Ki-27. As time went on, new contenders in the constantly changing field of aerial combat emerged, including the Mitsubishi A6M Zero and the Messerschmitt Bf 109, and the I-15's limitations became obvious. It was quickly phased out as a fighter and assigned to less demanding roles, such as ground attack. A total of 2,408 {{Specs|name}} fighters were built between the autumn of 1937 and the end of 1939, making it the second most numerous variant of the I-15 family, just behind the I-153.
+
+The {{Specs|name}} was introduced in [[Update 1.31]]. It provides as a solid introduction to the tree as the first fighter in the line, prioritizing agility and depending primarily on getting its opponents in fights that it can easily win.
 
 == General info ==
 === Flight performance ===

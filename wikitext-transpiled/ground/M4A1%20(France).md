@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. At its BR, the M4A1 Sherman is a very capable medium tank perfect for an aggressive playstyle due to its ability to react quickly and fire relatively accurately while on the move.
+The '''M4A1 Sherman''' is the first variant of the early-generation [[M4 Sherman (Family)|Medium Tank M4 (Sherman) family]]. Tanks were substantially provided to Britain, the Soviet Union, China, and Free France through the lend-lease program. The M4A1 appears to have been used for the first time by a French battalion, dubbed the "Fighting French Tank Company" by the British. Originally known as the 1ère Compagnie Autonome de Chars de Combat (1ère CACC), it was integrated into the French Army Corps Reconnaissance Group (GRCA) and became known as the "Free French Flying Column". It fought in El Alamein as part of the British Eighth Army. The tank company was eventually assigned to "Force L (Leclerc)", and later became the 1st Company of the newly formed 501ème Régiment de Chars de Combat, "2ème Division Blindée". Some of the M4A1s under the 2ème Division Blindée were allocated to observation groups in artillery regiments. The French received a few more M4A1s by lend-lease in late 1944 as a result of a serious shortage of French combat vehicles later in World War II. According to a U.S. Army report, the 2ème DB in Alsace had 9 M4A1s on hand as of January 10, 1945. A few more M4A1s were delivered to 2ème DB battalions throughout the winter and spring of 1945, as more replacement tanks were made available from Sixth Army Group reserves. During the final weeks of the European War, French armoured units got their final batch of M4A1s.
+
+Introduced in [[Update 1.75 "La Résistance"]], the M4A1 is the French Army's first creditable medium tank capable of engaging the enemy on the ground. The early French Army ground forces relied nearly entirely on foreign tanks due to a lack of domestically manufactured tanks. This is well reflected in the game, as the first French-made medium tank did not appear until well after World War II and into the Cold War era. Despite this, the M4A1 is a reliable medium tank capable of fighting most threats thanks to its effective 75 mm M3 tank gun as well as adequate mobility and armour. The installation of a primitive vertical stabilizer will aid players in making precise shots when they need to come to a halt quickly due to spotting enemies.
 
 == General info ==
 === Survivability and armour ===
@@ -218,6 +220,7 @@ After the Fall of France, the Free French force served with the Allies. They soo
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_m4a1_sherman Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -64,7 +64,7 @@ She was introduced in [[Update "La Royale"]]. '''Ise''' plays very closely to th
 
 '''Pros:'''
 
-* Effective 15-inch guns
+* Effective 14-inch guns
 * Decent anti-air suite
 * Adequate armour that can absorb damage
 * Large crew complement

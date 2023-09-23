@@ -179,6 +179,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
 | 1 || || || || || 1 || || || || || 1
 |-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
+| 1 || || || || || 1 || || || || || 1
+|-
 ! [[BLU-27/B incendiary]] bombs
 | 1 || || || || || 2 || || || || || 1
 |-
@@ -225,6 +228,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
 * 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
 * 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
+* 3 x 2,000 lb LDGP Mk 84 Air bombs (6,000 lb total)
 * 4 x BLU-27/B incendiary bombs
 * 1 x 20 mm GAU-4 cannon + 4 x AGM-12B Bullpup missiles
 * 1 x 20 mm GAU-4 cannon + 2 x AGM-12C Bullpup missiles

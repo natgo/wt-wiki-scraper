@@ -183,6 +183,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
 | || || 2<sup>*†</sup> || 2 || ||
 |-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
+| || || 2<sup>*†</sup> || 2 || ||
+|-
 ! [[Zuni Mk32 Mod 0 ATAP]] rockets
 | || 8 || || || 8 ||
 |-
@@ -224,6 +227,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 4 x 1,000 lb Mk 83 AIR bombs (4,000 lb total)
 * 4 x 2,000 lb LDGP Mk 84 bombs (8,000 lb total)
+* 4 x 2,000 lb LDGP Mk 84 Air bombs (8,000 lb total)
 * 16 x Zuni Mk32 Mod 0 ATAP rockets
 {{Navigation-End}}
 

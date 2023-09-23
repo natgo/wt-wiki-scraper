@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet sub-chaser {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game.
+The '''MPK pr.122A''' is a small anti-submarine ship that was developed in early 1939. The vessel was intended to serve a dual purpose as both a submarine hunter and a maritime border guard. However, the construction of the vessel progressed rather slowly, with only the first vessel completed in 1941 due to the outbreak of the war.
+
+This vessel was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. The MPK pr.122A boasts good survivability thanks to its numerous crew and can effectively destroy enemy boats or lightly armoured targets, as well as armoured targets thanks to its 76 mm APHE shell.
 
 == General info ==
 === Survivability and armour ===
@@ -89,21 +91,33 @@ While depth charges and bomb throwers can be equipped, they are mostly useless a
 * Cannon does get knocked out easily
 
 == History ==
-''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+<!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+In 1922, the Soviet Navy recognized the need for an anti-submarine vessel, which was later included in the "Five-Year Plan for the Development of the Red Navy" in March 1925. However, due to difficulties and financial issues, the initial plan was scaled down to two classes of ships: small hunters (such as [[OD-200]]) and large hunters (which were later reclassified as "малые противолодочные корабли" or MPK).
+
+Due to financial constraints, the development did not commence until 1936. The initial vessel design did not meet the expectations of the sailors, prompting the designer to make improvements, leading to the emergence of Project 122.
+
+Project 122's design was approved in 1939 and featured a steel-welded hull, three diesel engines, a top speed of 22 knots, and armaments including an artillery gun and depth charges.
+
+In 1941, the Soviet Navy expressed dissatisfaction with the vessel and requested that the designer upgrade Pr. 122 to enhance its armament, speed, range, and displacement. This led to Project 122a, which included improvements in anti-aircraft capabilities, the addition of a new hydroacoustic system, and the introduction of a new 76 mm artillery gun.
+
+Because of the challenges of WW2, further changes were made to Project 122a. In 1944 the designer proposed an improved version. The vessel's hull was widened, and its anti-aircraft capability was enhanced further by adding more DShK machine guns and two 37 mm autocannons. This led to the designation of [[MPK Pr.122bis|Project 122bis]].
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_mpk_122a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

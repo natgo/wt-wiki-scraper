@@ -77,7 +77,7 @@ In this situation, the command of the Finnish Air Force ordered LV to develop a 
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-This aircraft, having only one spar in each wing along with its water coolant system, is not a hugely durable aircraft - though it's not fragile either. The combined 20mm of spaced amour behind the pilot is fairly effective for protection but a lack of any frontal armour makes the Pyörremyrsky very vulnerable in head ons or in bomber hunting.
+This aircraft, having only one spar in each wing along with its water coolant system, is not a hugely durable aircraft - though it's not fragile either. The combined 20 mm of spaced armour behind the pilot is fairly effective for protection but a lack of any frontal armour makes the Pyörremyrsky very vulnerable in head-ons or in bomber hunting.
 
 * 10 mm Steel - Pilot's seat
 * 10 mm Steel - Behind pilot
@@ -114,7 +114,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 The Pyörremyrsky climbs very well and maintains adequate speed up to approximately 5,000 m, this is more than enough speed to initiate combat actions, albeit Finnish pilots can continue the climb to allow themselves more combat choices. Oppositely, they can remain below the 5,000 m and work together with their Swedish brothers to down all the enemy team; the Pyörremyrsky often acting as the decoy. The engine power is favourable, and under WEP produces over 1,400HP which the Pyörremyrsky can maintain almost indefinitely with proper radiator and oil radiator management.
 
-The intercepting role varies somewhat nonetheless. Pyörremyrsky does not offer great frontal protection, so engaging bombers with good turret protection is not the best idea. Specially bombers like the mighty Soviet [[Pe-8]] or the German [[He 219 A-7]] which are loaded with high-calibre weapons able to harm your pilot with a direct shot or break the light Pyörremyrsky apart.  The rather reserved ammo count also limits the input damage against bombers.  Because of that same reason, head-on attacks are ill-advised, only should be attempted versus planes with a good turn rate and light airframe. Usually the Japanese [[A6M3|Zeros]], The British [[Spitfire (Family)|Spitfires]] or the Italian [[C.205 (Family)|C.205s]]. Though, there are exceptions where the player must know how to engage a specific enemy. When to dive away or when to engage in a turning duel.
+The intercepting role varies somewhat nonetheless. Pyörremyrsky does not offer great frontal protection, so engaging bombers with good turret protection is not the best idea. Specially bombers like the mighty Soviet [[Pe-8]] or the German [[He 219 A-7]] which are loaded with high-calibre weapons able to harm your pilot with a direct shot or break the light Pyörremyrsky apart. The rather reserved ammo count also limits the input damage against bombers. Because of that same reason, head-on attacks are ill-advised, only should be attempted versus planes with a good turn rate and light airframe. Usually the Japanese [[A6M3|Zeros]], The British [[Spitfire (Family)|Spitfires]] or the Italian [[C.205 (Family)|C.205s]]. Though, there are exceptions where the player must know how to engage a specific enemy. When to dive away or when to engage in a turning duel.
 
 === Ground Battles ===
 The Pyörremyrsky is not the fastest plane in here. Therefore players need to consider 2 main roles if they seek good rewards in the Pyörremyrsky flying over the tank's battlefield.
@@ -153,7 +153,7 @@ Crew exposed vehicles or light tanks can also be destroyed with the heavy machin
 
 '''Pros:'''
 
-* Good armament,  MG 151/20 and two 12.7 mm LKk/42 both nose mounted
+* Good armament, MG 151/20 and two 12.7 mm LKk/42 both nose mounted
 * The LKk/42 MGs can load entirely AP ammunition that can penetrate 26 mm of armour
 * Good turn rate, can outturn some Merlin Spitfires in sustained turnfight
 * Decent flaps allow for decreased turn rate

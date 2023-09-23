@@ -20,7 +20,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|ms_406c1}}
 }}
-{{Tree-Arrow}}
+{{Tree-Skip}}
 |
 {{Tree-Group|d_500_group|D.500|
   {{Tree-Unit|d_500}}
@@ -33,19 +33,21 @@
 {{Tree-Arrow}}
 {{Tree-Unit|h-75a-4_france}}
 }}
-{{Tree-Arrow}}
-{{Tree-Unit|br_693_ab2}}
-{{Tree-Arrow}}
 |
 {{Tree-Unit|v_156_f}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow}}
+{{Tree-Unit|br_693_ab2}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|potez_633}}
 {{Tree-Arrow}}
-{{Tree-Unit|maryland_mk1_france}}
-{{Tree-Arrow}}
 {{Tree-Unit|f_222_2}}
 {{Tree-Arrow}}
+{{Tree-Group|maryland_mk1_france|Martin 167/M.B.174A|
+  {{Tree-Unit|maryland_mk1_france}}
+{{Tree-Arrow}}
+{{Tree-Unit|mb_174_a3}}
+}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|d_510}}
 {{Tree-Skip}}
@@ -61,19 +63,27 @@
 |
 {{Tree-Unit|ms_410c1}}
 {{Tree-Arrow}}
-{{Tree-Unit|vg_33}}
-{{Tree-Arrow|1}}
+{{Tree-Group|vg_33|V.G.33C/D.520|
+  {{Tree-Unit|vg_33}}
+{{Tree-Arrow}}
+{{Tree-Unit|d_520_france}}
+}}
+{{Tree-Arrow}}
 |
-{{Tree-Unit|potez_630}}
+{{Tree-Group|potez_630|Potez|
+  {{Tree-Unit|potez_630}}
 {{Tree-Arrow}}
 {{Tree-Unit|potez_631}}
-{{Tree-Arrow|1}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|f6f-5_france}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|a-35b}}
-{{Tree-Arrow|2}}
-|
-{{Tree-Unit|mb_174_a3}}
 {{Tree-Arrow}}
+{{Tree-Unit|mb_175t}}
+{{Tree-Arrow}}
+|
 {{Tree-Unit|nc_223_3}}
 {{Tree-Arrow}}
 {{Tree-Group|leo_451_group|LeO 451|
@@ -91,25 +101,19 @@
 
 {{Tree-Line|III Rank}}
 |
-{{Tree-Unit|d_520_france}}
+{{Tree-Unit|vb_10c1}}
 {{Tree-Arrow}}
-{{Tree-Unit|mb_157}}
-{{Tree-Arrow|2}}
+{{Tree-Unit|vb_10_02}}
+{{Tree-Arrow|1}}
 |
-{{Tree-Group|f6f_france_group|▄F6F|
-  {{Tree-Unit|f6f-5_france}}
-{{Tree-Arrow}}
-{{Tree-Unit|f6f-5n_france}}
-}}
+{{Tree-Unit|mb_157}}
 {{Tree-Arrow}}
 {{Tree-Unit|p-63c-5_france}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|sb2c_5_france}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|2}}
 |
-{{Tree-Unit|mb_175t}}
-{{Tree-Arrow}}
 {{Tree-Unit|b_26c_france}}
 {{Tree-Arrow}}
 {{Tree-Unit|mb_162}}
@@ -126,17 +130,13 @@
 {{Tree-Skip}}
 {{Tree-Unit|yak-9t_france}}
 {{Tree-Skip}}
-{{Tree-Unit|fw-190a-8_france}}
-{{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}
 |
-{{Tree-Unit|vb_10c1}}
-{{Tree-Arrow}}
-{{Tree-Unit|vb_10_02}}
-{{Tree-Arrow}}
-|
 {{Tree-Unit|seafire_mk3_france}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Unit|f6f-5n_france}}
 {{Tree-Arrow}}
 {{Tree-Unit|f8f1b_france}}
 {{Tree-Arrow}}
@@ -156,6 +156,7 @@
 {{Tree-Unit|douglas_ad_4na_france}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|fw-190a-8_france}}
 {{Tree-Skip}}
 
 {{Tree-Line|V Rank}}
@@ -173,68 +174,79 @@
 }}
 {{Tree-Arrow}}
 |
-{{Tree-Unit|f-84f_france}}
-{{Tree-Arrow}}
 {{Tree-Unit|so_4050_vautour_2n_late}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|f-84g_france}}
 {{Tree-Arrow|1}}
 |
-{{Tree-Unit|so_4050_vautour_2b}}
+{{Tree-Arrow-Full|2}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+
+{{Tree-Line|VI Rank}}
+|
+{{Tree-Group|md_454_mystere_4a|M.D.454/M.D.460|
+  {{Tree-Unit|md_454_mystere_4a}}
+{{Tree-Arrow}}
+{{Tree-Unit|md_460}}
+}}
+{{Tree-Arrow|2}}
+|
+{{Tree-Unit|f-86k_late}}
+{{Tree-Arrow|2}}
+|
+{{Tree-Unit|f-84f_france}}
+{{Tree-Arrow}}
+{{Tree-Unit|f-100d_france}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Group|so_4050_vautour_2b|S.O.4050 Vautour II|
+  {{Tree-Unit|so_4050_vautour_2b}}
 {{Tree-Arrow}}
 {{Tree-Unit|so_4050_vautour_2a}}
+}}
 {{Tree-Arrow}}
+{{Tree-Unit|etndard_4m}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|so_4050_vautour_2n}}
+{{Tree-Skip}}
+{{Tree-Unit|mirage_milan}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|f-84f_iaf}}
 {{Tree-Skip}}
 {{Tree-Unit|so_4050_vautour_2a_iaf}}
 {{Tree-Skip}}
-
-{{Tree-Line|VI Rank}}
-|
-{{Tree-Unit|md_454_mystere_4a}}
-{{Tree-Arrow}}
-{{Tree-Unit|md_460}}
-{{Tree-Arrow}}
-|
-{{Tree-Unit|f-86k_late}}
-{{Tree-Arrow|1}}
-|
-{{Tree-Unit|f-100d_france}}
-|
-{{Tree-Unit|etndard_4m}}
-{{Tree-Arrow}}
-{{Tree-Unit|jaguar_a}}
-{{Tree-Arrow}}
-| style="border-left: solid 1px #cccccc;" |
-{{Tree-Unit|jaguar_e}}
-{{Tree-Skip}}
-|
 {{Tree-Unit|md_460_yt_cup_2019}}
-{{Tree-Skip}}
-{{Tree-Unit|mirage_milan}}
 
 {{Tree-Line|VII Rank}}
 |
-{{Tree-Unit|mirage_3c}}
+{{Tree-Group|mirage_3c|Mirage III|
+  {{Tree-Unit|mirage_3c}}
 {{Tree-Arrow}}
 {{Tree-Unit|mirage_3e}}
+}}
 {{Tree-Arrow}}
 {{Tree-Unit|mirage_f1c}}
 {{Tree-Arrow}}
 |
 {{Tree-Unit|f-8e_fn}}
 |
-|
 {{Tree-Unit|mirage_5f}}
 {{Tree-Arrow}}
 {{Tree-Unit|mirage_f1ct}}
-{{Tree-Arrow|1}}
+|
+{{Tree-Unit|super_etendard_97}}
+{{Tree-Arrow}}
+{{Tree-Unit|jaguar_a}}
+{{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|jaguar_e}}
+{{Tree-Skip}}
 {{Tree-Unit|mirage_f1c_200}}
 |
 

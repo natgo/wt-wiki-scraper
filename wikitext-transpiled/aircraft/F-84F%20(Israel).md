@@ -10,12 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Israeli strike aircraft {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The first F-84s operating under the command of the Israeli Air Force flew during the 1956 Suez Crisis. Three French air squadrons were deployed to Israel in order to help in the invasion of the Suez peninsula, but these aircrafts were painted with IAF colours in order to mask French involvement in the war. After seeing the good potential of the F-84 in the war, the IAF ordered 50 F-84F-70-RE before the end of 1956. This planes stayed grounded due to corrosion issues that plagued all F-84s around the world. However this aircrafts would serve with excellent results in the 1967 Six Day War and would continue to serve until 1972.
+
+This aircraft was introduced in [[Update "Wind of Change"]] and it is a very good strike aircraft. While it doesn't have the best flight performance, electronics or offensive weapons, it compensates this with good versatility. With its CCRP for bombs, it's capable of destroying bases and static ground targets with precision. As a strike aircraft, it gets an air spawn, making it one of the firsts in the battle, and would almost always reach bases if it's trying to go for a bomb run. After releasing its payload however, the F-84F has decent manoeuvrability and its 6 x 12.7mm HMGs make it a dangerous opponent in head-ons.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+The F-84F has decent flight performance for a Strike Aircraft. Having similar performance to the A-4 Skyhawk but with less acceleration and climb rate. However in a dogfight it has good energy retention but it wont win any energy fight against a MiG-15 or MiG-17. Having a pair of powerful airbrakes and a good roll rate, it's pretty easy to force faster enemies to overshoot.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -109,7 +112,13 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Israeli strike aircraf
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+
 The F-84F has decent armour surrounding the pilot including bulletproof glass and steel plates. However there is no armour for critical systems and everything is packed together in the middle of the aircraft. A few hits to the middle of the aircraft will most likely destroy it.
+
+* All fuel tanks are self sealing
+* 8mm steel plate behind the pilot
+* 12.7mm steel plate in upper part of the seat
+* 38mm Armoured glass in front of the pilot
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -173,6 +182,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 24 x HVAR rockets
 * 42 x FFAR Mighty Mouse rockets
@@ -189,7 +199,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The F-84F is best used to bomb bases or ground attack because of its high speed. The best tactic is to beeline straight to the nearest base and bomb it, then immediately head back to base and rearm and repeat. Enemies you should keep note of are the F-86s (any variant) and the G.91s (any variant) because of their higher top speed and air-to-air missiles.
+The F-84F is a strike aircraft, and it should be used as such. Because it lacks the air-to-air capabilities to destroy most enemies, its best opportunity is to go for bases and ground targets.
+
+When facing an uptier or similar BR opponents, using the air spawn to get to the closest base as fast as possible and go back to the safety of your team is your best bet. However if used in air-to-air roles, it is good to know that the F-84F is capable of holding its energy very well if it's in a high energy state. But even with this it wont hold against several fighters alone, and good positioning and team effort is needed to survive.
+
+In downtiers, the F-84F can use its air spawn and good top speed to go for bombers and dive to attack enemies slower than you, since most fighters with a lower BR than the F-84F have much less power and thus would be easy to eliminate with boom-and-zoom tactics. Energy fighting in downtiers is much more important, since early jets can outmanoeuvre the F-84F at low speeds where its bulky airframe makes it an easy target for any aircraft.
 
 === Radars ===
 <!--{{main|AN/APG-30}}-->

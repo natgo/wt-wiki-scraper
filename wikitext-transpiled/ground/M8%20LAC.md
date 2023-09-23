@@ -78,7 +78,7 @@ The {{PAGENAME}} is armed with an 37 mm M6 cannon as its main armament. This is 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 80 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | {{Annotation|Shoulder|up to 10 km/h}} || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 4.55 || rowspan="2" | 4.03 || rowspan="2" | 3.71 || rowspan="2" | 3.50
+| rowspan="2" | 80 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 4.55 || rowspan="2" | 4.03 || rowspan="2" | 3.71 || rowspan="2" | 3.50
 |-
 ! ''Realistic''
 | 11.9 || 14.0 || 17.0 || 18.8 || 20.0
@@ -123,7 +123,7 @@ The two machine guns on the {{PAGENAME}} are the good old [[M2HB (12.7 mm)|.50 c
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Commander pintle || 400 (200) || 576 || -10°/+40° || ±180°
+| Commander pintle || 400 (200) || 575 || -10°/+40° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -132,7 +132,7 @@ The two machine guns on the {{PAGENAME}} are the good old [[M2HB (12.7 mm)|.50 c
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,500 (250) || 500 || N/A || N/A
+| Coaxial || 1,500 (250) || 500 || - || -
 |-
 |}
 

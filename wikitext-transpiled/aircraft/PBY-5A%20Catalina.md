@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+In 1933, three companies, Consolidated, Martin, and Douglas were assigned to design a long-range flying boat that could patrol for hundreds of miles. Consolidated’s design was one of two that were chosen by the U.S. Navy although they were both extremely underpowered. Consolidated’s design would later receive the designation “PBY” which stood for “Patrol Bomber” and “Y” signifying the manufacturer. The PBY-5A would receive two Wright R-1830-92 engines each making 1,200 hp and an incredible range of over 2,500 miles (4,023 km). The PBY would serve effectively in maritime patrol, search-and-rescue, anti-submarine warfare, and more. One notable instance of the Catalina’s was the “Black Cats” squadrons which utilized PBYs painted in black for night operations in the Pacific. PBYs are still flown today for missions like firefighting. 
+
+Introduced since the start of the Open Beta Test prior to 1.27, the '''{{Specs|name}}''' is a dual-engine bomber. It’s a very slow aircraft which makes it an easy target for enemy fighters and interceptors. Furthermore, it's very easy to rip the wings so hard turns shouldn’t be attempted. The Catalina does have ample defensive armament and a decent bomb load for destroying bases. The PBY-5A also has the added benefit of being able to land safely on both land and water due to the addition of the retractable landing gear. Players should be satisfied with the PBY-5A's performance as a low-tier bomber even if it is slow. 
 
 == General info ==
 === Flight performance ===
@@ -119,7 +121,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Although the PBY-5a Catalina is slow and clunky, it offers a heavy payload that is sure to be a game changer if used properly. It also has a very good defensive armament for its tier, which can occasionally be a saviour against an enemy fighter.
+Although the PBY-5A Catalina is slow and clunky, it offers a heavy payload that is sure to be a game changer if used properly. It also has a very good defensive armament for its tier, which can occasionally be a saviour against an enemy fighter.
 
 The plane is quite unmanoeuvrable, and its wings are very weak, being able to snap just by turning just a little too tight at higher speeds in a Realistic Battle. Unlike its predecessor, this version has landing gear, allowing it to land on airfields as well as in water, allowing it to repair and respawn at airfields in Realistic Mode without belly landing, and enabling it to capture bases in Airfield Domination mode in Arcade Battles.
 
@@ -162,30 +164,30 @@ The plane is quite unmanoeuvrable, and its wings are very weak, being able to sn
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The Consolidated Aircraft Corporation PBY-5A Catalina was based on the PBY-5 variant. The main difference was the addition of amphibious capability; the wing pontoons were removed and hydraulically actuated, retractable tricycle landing gear were added to the fuselage. It did retain the ability to land on and take off from water. The PBY-5A was powered by two 1,200 horsepower R-1830-92 engines, for a total of 2,200 hp. The first production batch of 124 was equipped with only one .30 cal (7.62 mm) bow machine gun, while later batches had two.
+The Consolidated Aircraft Corporation PBY-5A Catalina was based on the PBY-5 variant. The main difference was the addition of amphibious capability; the wing pontoons were removed and hydraulically actuated, retractable tricycle landing gear were added to the fuselage. It did retain the ability to land on and take off from water. The PBY-5A was powered by two 1,200 horsepower R-1830-92 engines, for a total of 2,400 hp. The first production batch of 124 was equipped with only one .30 cal (7.62 mm) bow machine gun, while later batches had two.
 
 802 PBY-5A Catalinas were built in total between October 1941 and January 1945, with some being delivered to the United States Army Air Force (USAAF) and the Royal Air Force (RAF), and one to the United States Coast Guard (USCG). The majority, though, were delivered to the United States Navy (USN). In USAAF service the PBY-5A was designated as the OA-10.
 
-During World War 2, PBY Catalinas were used heavily in the anti-submarine warfare (ASW), patrol bombing, convoy escort, search-and-rescue (SAR), and cargo transport roles.
+During World War 2, PBY Catalinas were used heavily in anti-submarine warfare (ASW), patrol bombing, convoy escort, search-and-rescue (SAR), and cargo transport roles.
 
 The PBY was the most numerous aircraft to be used in the ASW role. They were used in ASW in the Atlantic and Pacific theaters, and participated in a number of U-boat sinkings.
 
 Because of the long range and endurance of the Catalina, it was used heavily in the maritime patrol role. Notably, the PBY Catalina was used to spot the Japanese fleet before the Battle of Midway.
 
-Catalinas were also used in the night combat role. During the Battle of Midway, PBYs scored a torpedo hit on the Japanese fleet oiler Akebono Maru. In the Guadalcanal campaign, Catalina were painted black in order to participate in night torpedo, bombing, and strafing missions against Japanese vessels. They came to be known as "black cats", and entire squadrons were dedicated to this purpose. These squadrons were used until being sent home in 1945.
+Catalinas were also used in the night combat role. During the Battle of Midway, PBYs scored a torpedo hit on the Japanese fleet oiler Akebono Maru. In the Guadalcanal campaign, Catalinas were painted black in order to participate in night torpedo, bombing, and strafing missions against Japanese vessels. They came to be known as "black cats", and entire squadrons were dedicated to this purpose. These squadrons were used until being sent home in 1945.
 
-Catalina are probably most recognized for their search-and-rescue role. During the war they saved thousands of sailors and airmen, particularly after the sinking if the USS Indianapolis.
+Catalina are probably most recognized for their search-and-rescue role. During the war they saved thousands of sailors and airmen, particularly after the sinking of the USS Indianapolis.
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
 {{Navigation-First-Simple-Line}}
-There were two firms competing for the naval patrol bomber supply contract: Consolidated and Douglas. Although both prototypes met the U. S. Navy demands, on June 29, 1935 the contract was awarded to Consolidated due to lower production costs (the firm projected the cost of one aircraft to be $90,000, while their colleagues from Douglas quoted $110,000).
+There were two firms competing for the naval patrol bomber supply contract: Consolidated and Douglas. Although both prototypes met the U.S. Navy demands, on June 29, 1935 the contract was awarded to Consolidated due to lower production costs (the firm projected the cost of one aircraft to be $90,000, while their colleagues from Douglas quoted $110,000).
 
 Manufacturing orders for PBY-2 and PBY-3 were concluded before the delivery of the first production aircraft from the previous series (accordingly, PBY-1 and PBY-2). However, when the order for PBY-4 was signed toward the end of 1937, which consisted of just 33 boat planes (this was the smallest of the PBY series), by the time production began the model was already considered outdated and likely to be the last of the series (when PBY-5 was commissioned, development of the next series of hydroplanes set to replace PBY was already underway).
 
 That's exactly what would have happened if the Germans hadn't attacked Poland on September 1st, 1939, thus greatly increasing the demand for patrol aircraft.
 
-The last three models in the PBY-4 series had a series of distinguishing features, many of which were kept and implemented in PBY-5. In 1939, the last PBY-4 built, BuNo 1245 was converted into an amphibian through the introduction of retractable undercarriage. The amphibian version of PBY-5 was redesignated PBY-5A, and looked promising enough to compel the U. S. Navy to modify their original order for 200 PBY-5 units so that 33 of those aircraft were executed as PBY-5A. This was followed by other supply agreements for additional 186 units of PBY-5A. Other countries followed suit, changing a portion of the ordered PBY-5 units to PBY-5A.
+The last three models in the PBY-4 series had a series of distinguishing features, many of which were kept and implemented in PBY-5. In 1939, the last PBY-4 built, BuNo 1245 was converted into an amphibian through the introduction of retractable undercarriage. The amphibian version of PBY-5 was redesignated PBY-5A, and looked promising enough to compel the U. S. Navy to modify their original order for 200 PBY-5 units so that 33 of those aircraft were executed as PBY-5A. This was followed by other supply agreements for an additional 186 units of PBY-5A. Other countries followed suit, changing a portion of the ordered PBY-5 units to PBY-5A.
 
 The PBY was used as a bomber and torpedo carrier, and was often utilized in night operations, as well as on patrol, rescue and transportation missions.
 {{Navigation-End}}

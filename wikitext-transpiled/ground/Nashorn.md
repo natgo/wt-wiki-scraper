@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ("Rhinoceros") ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 164''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.57 "Battle March"]]. It was developed as an interim solution to deal with Soviet heavy tanks on the Eastern front who were immune to the guns of Marders. It consists of an 88 mm anti-tank gun PaK 43 mounted on a Panzer IV chassis. It is also known as the "Hornet" ("Hornisse" in German).
+The '''88 mm Panzerabwehrkanone 43/1 Ausführung Fahrgestell Panzerkampfwagen III und IV (Nashorn)''' is a German heavy self-propelled anti-tank gun. The Nashorn's story began in June 1942, when Hitler ordered the development of a new anti-tank gun based on the 88 mm Flugabwehrkanone 41. Krupp and Rheinmetall, two well-known German weapon manufacturers, were tasked with developing it. The research and production of 300 to 500 anti-guns were expected to be completed by mid-1943. As a result, it was planned to also create various towed carriages and self-propelled designs to speed up the process. It was quickly realised during the design phase that the new Selbstfahrlafette (self-propelled chassis) could not be finished by the time the new 88 mm Pak. 43/1 gun was needed for test trials, necessitating an alternate approach to transporting the new armament. On July 28, 1943, it was determined at the Wa Pruef conference to accelerate the project by taking advantage of already existing production capacities. An order was placed with Alkett-Borsigwalde's manufacturer to create and build a self-propelled chassis consisting of various [[Pz.III (Family)|Panzer IIIs]] and [[Pz.IV (Family)|Panzer IVs]] components. In early October 1942, a soft steel metal prototype was quickly created and demonstrated to Hitler. The new chassis was designed to be used in two separate armaments, one with an 88 mm Pak. 43/1 anti-tank gun and the other with a 150 mm schwere Feldhaubitze 43 long-range artillery gun. Both designs impressed Hitler, who ordered a total of 200 vehicles (100 of each).
+
+Introduced in [[Update 1.57 "Battle March"]], the Nashorn was one of the most versatile self-propelled anti-tank guns in the German Army during World War II. Armed with the devastating 88 mm Pak. 43/1 anti-tank gun, it served as the foundation for the armament of World War II's most feared heavy tanks, the Königstigers, also known as Tiger IIs. Nashorn is a long-range self-propelled anti-tank gun capable of engaging adversaries far behind the front lines. It can completely penetrate any opponent it encounters, thanks to the precise and powerful 88 mm Pak. 43/1 anti-tank gun. However, all German self-propelled guns share a common flaw: a lack of armour. Furthermore, given that Nashorn's hull was not its initial design, it has very poor gun depression, making fighting on a mountainous battlefield incredibly difficult.
 
 == General info ==
 === Survivability and armour ===
@@ -170,6 +172,7 @@ It served mainly on the Eastern front in heavy tank destroyer battalions ("Schwe
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panzerjager_nashorn Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -178,6 +181,7 @@ It served mainly on the Eastern front in heavy tank destroyer battalions ("Schwe
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[Pz.IV_(Family)|Pz.IV]]
 
 == External links ==

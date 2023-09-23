@@ -153,18 +153,17 @@ The trade-off is that these cannons do not have large ammunition reserves, espec
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100M-43 (100 kg)|FAB-250M-46 (250 kg)|S-5K|S-5M|S-21}}
+{{main|FAB-100M-43 (100 kg)|S-5K|S-5M|S-21}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 2 x 100 kg FAB-100M-43 bombs (200 kg total)
-* 2 x 250 kg FAB-250M-46 bombs (500 kg total)
 * 16 x S-5K rockets
 * 16 x S-5M rockets
 * 2 x S-21 rockets
 
-The MiG-15bis is capable of carrying up to 500 kg of bombs on underwing hardpoints. While this pales in comparison to the American or British fighter-bombers, it is enough for taking out isolated ground targets, if needed.
+The MiG-15bis is capable of carrying up to 200 kg of bombs on underwing hardpoints. While this pales in comparison to the American or British fighter-bombers, it is enough for taking out isolated ground targets, if needed.
 
 The S-5M HE rockets are most effective against light ground units, while the S-5K HEAT rockets are capable of penetrating the top armour of most vehicles.
 
@@ -174,7 +173,9 @@ The massive S-21 rocket has a considerable blast radius, and a single hit on a t
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 In-game, the MiG-15bis fulfils the same role as the MiG-15, primarily serving as an air superiority fighter and bomber interceptor. Armament is substandard in comparison to other countries, relying on low velocity weapons that are highly inaccurate, and situated below the fuselage, aggravating targeting angles during dogfights. It excels in vertical combat manoeuvres, taking advantage of its high thrust-to-weight ratio. The MiG-15bis also has a limited ground attack capability.
 
-The MiG-15bis should be played like the MiG-15, using boom-and-zoom style attacks and keeping your energy high: speed is essential in jet battles. It wouldn't be a bad idea to try head-ons if you know your cannon's ballistics well. The 37 mm and 23 mm combo really help. The plane lacks in roll rate so you will have to watch out for other jets trying to reverse you.
+The MiG-15bis should be played like the MiG-15, using boom-and-zoom style attacks and keeping your energy high: speed is essential in jet battles. It wouldn't be a bad idea to try head-ons if you know your cannon's ballistics well. The 37 mm and 23 mm combo really help. The plane lacks in roll rate so you will have to watch out for other jets trying to reverse you. 
+
+Trigger discipline and good aim is important as you have limited ammunition and no access to air-to-air missiles. As with most other aircraft regardless of BR, carrying suspended armament improves ground attacking capabilities, but sacrifices much of the aircraft's acceleration, climb rate and maneuvrability.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -187,6 +188,7 @@ The MiG-15bis should be played like the MiG-15, using boom-and-zoom style attack
 * Powerful main armament, especially effective against bombers
 * Ability to carry massive S-21 rockets, unlike the earlier [[MiG-15]]
 * Amazing turn below 800 km/h (520 mph)
+* G-Suit and New Boosters available through research, unlike the [[MiG-15]]
 
 '''Cons:'''
 

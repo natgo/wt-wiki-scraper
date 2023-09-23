@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet sub-chaser {{Battle-rating}}. It was introduced during [[Update "Winged Lions"]] as a reward for the [[wt:en/news/7469-event-operation-w-i-n-t-e-r-en|2021 Operation W.I.N.T.E.R.]] event.
+The '''MPK Pr.201K''' is a successor of the [[MPK Pr.122bis]]. Although it was built in large numbers, it did not satisfy the sailors due to its maximum speed, which was insufficient to intercept post-war submarines. It was later replaced by the MPK Pr.204 in the 1960s. However, the MPK Pr.210 remained in service with the Border Guards until 1991.
+
+This vessel was introduced during the [[Update "Winged Lions"]] as a reward for the [[wt:en/news/7469-event-operation-w-i-n-t-e-r-en|2021 Operation W.I.N.T.E.R.]] event. In the game, it acts as firepower support for small boats and PT Boats. With its twin 25 mm autocannons and 45 mm autocannon, it can easily destroy lightly armoured targets. The ship is also capable of carrying coastal mines, allowing it to effectively block certain key areas.
 
 == General info ==
 === Survivability and armour ===

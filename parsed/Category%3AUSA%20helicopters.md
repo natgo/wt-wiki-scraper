@@ -34,9 +34,9 @@
 |-
 | {{Tree-Unit|ah_6m}} || || || || {{Tree-Unit|ah_1f}}
 |-
-| || || colspan="3" style="text-align: center;"| <div class="tree-arrow-right">https://wiki.warthunder.ru/images/b/b3/Arrow-left-down.png</div>
+| {{Tree-Arrow}} || || colspan="3" style="text-align: center;"| <div class="tree-arrow-right">https://wiki.warthunder.ru/images/b/b3/Arrow-left-down.png</div>
 |-
-| || || {{Tree-Unit|ah_64a}} || || rowspan="2"| <div style="margin-top:-25px;margin-left:8px;">{{Tree-Arrow|1}}</div>
+| {{Tree-Unit|oh_58d}} || || {{Tree-Unit|ah_64a}} || || rowspan="2"| <div style="margin-top:-25px;margin-left:8px;">{{Tree-Arrow|1}}</div>
 |-
 | || || {{Tree-Arrow}}
 |}

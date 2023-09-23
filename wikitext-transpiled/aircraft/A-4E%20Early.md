@@ -13,8 +13,7 @@
 
 The A-4E, also known as the A4D-5, was a significantly improved version within the Skyhawk family. It had the J52-P-6A engine which produced almost 3,500 kgf of thrust. Most importantly, the P-6A had far better fuel efficiency which increased the range but did require parts of the airframe to be changed. The A-4E received improvements in computers such as the AJB-3A and Mk 9 bombing systems. A-4Es were later fitted with the improved J-52-P-8 and had the iconic hump behind the cockpit which housed more avionics.
 
-Introduced in [[Update "New Power"]] as a squadron aircraft, the '''{{Specs|name}}''' is an excellent aircraft for pilots who wish to use it as a ground attack or fighter. In the ground attack role, the A-4E Early has an impressive amount of armament options such as regular dumb bombs and rockets, to guided weaponry like the AGM-62A Walleyes. Unfortunately, the Skyhawk lacks any sort of CCIP however it does have CCRP capability thanks to the Mk 9 toss bombing computer. Fighter pilots will not be disappointed in the Skyhawk’s ability against other enemy aircraft. Nimble and spry, the A-4E can put up a good fight against many of its contemporaries. It also has access to two AIM-9B sidewinders and flares which greatly help in uptiers against powerful missiles like the AIM-9G or R-60. Whether ground attacking or fighting against planes, players will not be disappointed with the A-4E Early’s performance. 
-
+Introduced in [[Update "New Power"]] as a squadron aircraft, the '''{{Specs|name}}''' is an excellent aircraft for pilots who wish to use it as a ground attack or fighter. In the ground attack role, the A-4E Early has an impressive amount of armament options such as regular dumb bombs and rockets, to guided weaponry like the AGM-62A Walleyes. Unfortunately, the Skyhawk lacks any sort of CCIP however it does have CCRP capability thanks to the Mk 9 toss bombing computer. Fighter pilots will not be disappointed in the Skyhawk's ability against other enemy aircraft. Nimble and spry, the A-4E can put up a good fight against many of its contemporaries. It also has access to two AIM-9B sidewinders and flares which greatly help in uptiers against powerful missiles like the AIM-9G or R-60. Whether ground attacking or fighting against planes, players will not be disappointed with the A-4E Early's performance. 
 
 == General info ==
 === Flight performance ===
@@ -144,20 +143,72 @@ One single well-placed round from an [[ADEN (30 mm)|ADEN]] cannon can completely
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons, wing-mounted (100 rpg = 200 total)
-** 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons + 60 x countermeasures
+* 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons, wing-mounted (100 rpg = 200 total)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|Mk 81 Snakeye (250 lb)|LDGP Mk 82 (500 lb)|Mk 82 Snakeye (500 lb)}}
-{{main|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|Mk 77 mod 4 incendiary}}
-{{main|AGM-62A Walleye I (505 kg)|AGM-12B Bullpup|AGM-12C Bullpup|AIM-9B Sidewinder}}
-{{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
+| || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 1 || 6 || 6 || 6 || 1
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 1 || 6 || 6 || 6 || 1
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[AGM-62A Walleye I (505 kg)|505 kg AGM-62A Walleye I]] bombs
+| || 1 || || 1 ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || 1 || 3 || 1 ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || 1 || ||
+|-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
+| || || 1 || ||
+|-
+! [[Mk 77 mod 4 incendiary]] bombs
+| 1 || 2 || 3 || 2 || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 38 || 57 || 38 || 19
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 4 || 8 || 12 || 8 || 4
+|-
+! [[AGM-12B Bullpup]] missiles
+| 1 || 1 || 1 || 1 || 1
+|-
+! [[AGM-12C Bullpup]] missiles
+| || 1 || || 1 ||
+|-
+! [[AIM-9B Sidewinder]] missiles
+| || 1 || || 1 ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 171 x FFAR Mighty Mouse rockets
@@ -171,62 +222,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
 * 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 Air bomb (2,000 lb total)
 * 9 x Mk 77 mod 4 incendiary bombs
 * 2 x 505 kg AGM-62A Walleye I bombs (1,010 kg total)
 * 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 20 mm Mk 11 mod 5 cannons (750 rpg)
-| || 1 || 1 || 1 ||
-|-
-! 250 lb LDGP Mk 81 bombs
-| 1 || 6 || 6 || 6 || 1
-|-
-! 250 lb Mk 81 Snakeye bombs
-| 1 || 6 || 6 || 6 || 1
-|-
-! 500 lb LDGP Mk 82 bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 500 lb Mk 82 Snakeye bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 505 kg AGM-62A Walleye I bombs
-| || 1 || || 1 ||
-|-
-! 750 lb M117 cone 45 bombs
-| || 1 || 1 || 1 ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || 1 || 3 || 1 ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || 1 || ||
-|-
-! Mk 77 mod 4 incendiary bombs
-| 1 || 2 || 3 || 2 || 1
-|-
-! FFAR Mighty Mouse rockets
-| 19 || 38 || 57 || 38 || 19
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 4 || 8 || 12 || 8 || 4
-|-
-! AGM-12B Bullpup missiles
-| 1 || 1 || 1 || 1 || 1
-|-
-! AGM-12C Bullpup missiles
-| || 1 || || 1 ||
-|-
-! AIM-9B Sidewinder missiles
-| || 1 || || 1 ||
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -321,7 +321,7 @@ File:A-4E Early WTWallpaper 006.jpg|
 * ''links to approximate analogues of other nations and research trees.''-->
 '''Related Development'''
 
-* [[A-4 (Family)|Douglas A-4 ''Skyhawk (Family)'']]
+* [[A-4 (Family)|Douglas A-4 ''Skyhawk (Family)'']]
 * [[A-4B|A-4B Skyhawk]]
 * [[A-4E Early (M) (Israel)|A-4E Early (M) Skyhawk]]
 * [[A-4H (Israel)|A-4H Skyhawk]]

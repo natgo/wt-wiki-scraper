@@ -10,7 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 121''') is a gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced during [[Update "Winged Lions"]] as a reward for [[wt:en/news/7498-esport-play4peace-tournaments-en|watching streams on Twitch.tv]].
+The '''Panzerkampfwagen II Ausführung C (Panzer II C)''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 121''') was the third variant of the [[Pz.II (Family)|Panzer II light tank family]]. Both the Panzer I and II light tank families were viewed as stopgap measures until the arrival of improved tanks, specifically the Panzer III and IV medium tank families. Despite this, Panzer IIs served as the primary light tank in German service and as a scout throughout World War II, despite the fact that several wheeled vehicles handled this specialized mission substantially better. The origins of the Panzer II light tank family can be traced back to 1934 when the Waffenamt (military ordnance agency) realized that manufacturing problems with the [[Pz.III (Family)|Panzer III]] and [[Pz.IV (Family)|IV]] medium tanks necessitated the development of a new design that could quickly replace the outdated Panzer I light tanks. The final design was simply a larger Panzer I with a turret housing the new Rheinmetall L/55 20 mm autocannon. The armament was a 20 mm FlaK 30 anti-aircraft autocannon with a 600 rpm fire rate. As proved by the Spanish Civil War, a major increase in armour was required, and the early Panzer II variants had integral 14 mm (0.55 in) homogenous steel armour (10 mm/0.39 in top and bottom), which was adequate against shrapnel and small bullets. However, it was vulnerable to various high-velocity anti-tank guns of the time. The Panzer II C variant was purchased in order to keep the factories operational until the Panzer III and Panzer IV medium tanks could be mass-produced. The sole change between Panzer II variants A, B, and C is a new improved vision port and minor enhancements in crew protection. It had two conical beaded bolts on the face plate and two massive bolts above and below it to maintain the 50 mm bulletproof glass in place. It kept its 20 mm L/55 autocannon, which could fire both armour-piercing (AP) and high-explosive (HE) ammunition. More armour was added to the tank's hull and turret in 1940. The commander's cupola was added in 1941. The installation of armour to the front hull glacis plates changed the appearance of the hull from a curved to an angular shape.
+
+Introduced in [[Update "Winged Lions"]], the Panzer II C is one of the few light tanks available to the German Army during World War II. The ground forces of the German Army are largely made up of medium tanks, heavy tanks, and tank destroyers. Later in the war, light tanks were rarely built because armoured-wheeled vehicles performed comparable roles far more efficiently. In general, the Panzer II C is a dangerous light tank in the hands of a good player. As most enemy tanks in the early ranks are rather weakly armoured, the Panzer II C may unleash a barrage of armour-piercing rounds down the opponent's route with the L/55 20 mm autocannon, crippling most opponent tanks with a single ammunition clip.
+
+This special tank is a reward for [[wt:en/news/7498-esport-play4peace-tournaments-en|watching streams on Twitch.tv]] and is no longer obtainable by any means.
 
 == General info ==
 === Survivability and armour ===
@@ -71,6 +75,7 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''PzGr.:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
 * '''PzGr.40:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
@@ -121,9 +126,11 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -142,6 +149,7 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

@@ -253,4 +253,5 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * [[wt:en/news/7880-development-project-o-po-strike-jet-aircraft-jaguar-e-en|[Devblog] Project "Overpowered": strike jet aircraft Jaguar E]]
 
+{{AirManufacturer SEPECAT}}
 {{France jet aircraft}}

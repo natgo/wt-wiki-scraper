@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=germ_pzkpfw_35t
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -163,6 +163,11 @@ These tanks were used in combat operations in Poland, France, and the USSR. But 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Pz.35(t).png|<small>A Pz.35(t) in [[Eastern Europe]]</small>
+</gallery>
 
 ;Skins
 

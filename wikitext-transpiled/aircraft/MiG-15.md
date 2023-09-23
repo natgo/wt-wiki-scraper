@@ -144,13 +144,12 @@ Both the N-37D and the NS-23 cannons have the muzzle velocity of 690 m/s.
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100M-43 (100 kg)|FAB-250M-46 (250 kg)}}
+{{main|FAB-100M-43 (100 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 2 x 100 kg FAB-100M-43 bombs (200 kg total)
-* 2 x 250 kg FAB-250M-46 bombs (500 kg total)
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

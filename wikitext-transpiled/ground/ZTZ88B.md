@@ -135,7 +135,13 @@ Like most Chinese tanks before the late 1990s, the ZTZ88B equips the Type 54 (DS
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+Although ZTZ88B still appears to be a T-54/Type 59 derivative from its oval shape turret and hull design, but when players hear the similar engine sound to a T-72 and the gun has heat sleeves, as well as seeing the composite applique armor on the front, ZTZ88B will become the tank that will hit them hard.
+
+One of the most distinctive differences is the main cannon - instead of 100 mm cannon, Chinese upgraded their fleet of medium tanks/MBTs with 105 mm L7 equivalents since 1980s; ZTZ88B is no exception. Thanks to the advances of technology in 1980s (albeit lagging behind mainstreams), the turret traverse speed and penetration of types of ammunitions is vastly improved than earlier PLAGF tanks; the shells on ZTZ88B is identical to its tech-tree predecessor ZTZ59D1 though, but now it has better reaction time than the latter while still enjoys most of the FCS features minus the TVD channel, so players will have to rely on their naked eyes to seek for enemy targets, 8x is suitable for engages at around 800m, but fixed magnification also means lesser flexibility at close-quarter brawling or long-range sniping.  The other distinctive feature is the engine, there can be occasions that enemy players hear a very unpleasing engine sound from the V-46 used on T-72 or 12V150ZLC/D on ZTZ96(A), but when they see the source of sound, they will be surprised by the source - 12V150ZLC diesel engine on ZTZ88 series. Thanks to upgrades to the production of diesel engines, the engine which was based on V-54 now has similar horsepower of the early series T-72 at 730 hp, a vast improvement from any T-54/62 series and now pushes the tank faster. Sometimes, when the tank was hit by enemies on the UFP or having gunner knocked-out, one thing would be no effective damage on UFP thanks to the composite applique armor or the tank could still fire back thanks to the commander override; underestimating enemies is fatal after all.
+
+While having improvements onboard, there are still some flaws in terms of protection and flexibility; the design of ZTZ88B still retains the iconic, casted oval turret with similar protection of Type 59, it might be enough for full-caliber kinetic shells from lower tier, but APFSDS or HEATFS is more than enough to penetrate and disable the turret at once, possibly knocking out crews at the turret. This is also the first Chinese tank to have reduced side armor to 60 mm, autocannons even with only full-caliber shells can very likely penetrate the sides with ease during a sudden strike. And in case for a retreat for whatever reason, due to the transmission limits, the fastest it can go in reverse is only at 9 km/h, so plan ahead for where you should appear; not over-extending is a good way to increase overall survivability while still contribute to the team by stalling enemy team or even push them back.
+
+Overall, ZTZ88B offers a mobile and flexible options for Chinese tech tree players from the ROCA M60A3TTS with inferior mobility; while its introduction by 1990s meant being obsolete at the time, it can still be a good training tank for future PLAGF tanks.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -145,7 +151,7 @@ Like most Chinese tanks before the late 1990s, the ZTZ88B equips the Type 54 (DS
 * Improved gun handling and reload rate to previous tanks
 * Commander override leaves the opportunity for a revenge shot on enemies
 * Vastly improved mobility to T-54/55 series
-* Composite applique armour for extra protection
+* Composite applique armour on UFP for extra protection
 * Accurate licensed L7 gun
 
 '''Cons:'''
@@ -164,12 +170,14 @@ Like most Chinese tanks before the late 1990s, the ZTZ88B equips the Type 54 (DS
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_ztz_88b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[Object 122MT "MC"]] - The nominal ancestor of WZ122 series MBT
 * [[ZTZ88A]] (WZ122G) - ZTZ88 with longer ZPL94 cannon
 

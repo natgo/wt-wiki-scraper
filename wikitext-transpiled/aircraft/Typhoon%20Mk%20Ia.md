@@ -119,7 +119,7 @@ Of the rank I upgrades, only ''Offensive 7 mm'' is of noticeable effect to allow
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 12 x 7.7 mm Browning machine guns, wing-mounted (500 rpg outer x2 + 460 rpg center x2 + 500 rpg inner x2 = 5,840 total)
+* 12 x 7.7 mm Browning machine guns, wing-mounted (460 rpg outer x 2 + 500 rpg center x 2 + 460 rpg inner x 2 = 5,680 total)
 
 The {{PAGENAME}} 's signature 12 x 0.303 calibre machine guns means quite a lot of gun for a plane, though the drawback to the gun amount is that they are all rifle-calibre and such the Typhoon's firepower is drawn from the mass amount of bullets that can be laid out. The large amounts of bullet fired works as with the right belt, the Typhoon has a large chance to set fires with the high amount of incendiary in the machine gun belts; for this reason, it is plausible to switch to tracer, as 100% of the tracer belt contains incendiary. Be warned: the tracer rounds are much less powerful than the regular ones, so keep that in mind.
 

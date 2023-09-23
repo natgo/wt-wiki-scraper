@@ -229,5 +229,6 @@ While development was in progress, the aircraft became a two-seater, the engines
 
 * [[wt:en/news/7526-development-battle-pass-vehicles-su-8-en|[Devblog] Battle Pass vehicles: Su-8]]
 
+{{AirManufacturer Sukhoi}}
 {{USSR strike aircraft}}
 {{USSR premium aircraft}}

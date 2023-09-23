@@ -1,6 +1,5 @@
 import axios, { AxiosResponse } from "axios";
 import fs from "fs";
-import https from "https";
 
 import { Final, VehicleProps } from "../data/types/final.schema";
 
@@ -79,9 +78,10 @@ function imageLoop(vehicles: VehicleProps[]) {
         Object.entries(download.data.query.pages).forEach(async (element) => {
           if (element[1].imageinfo) {
             const downloadlink = element[1].imageinfo[0].url;
-            https.get(downloadlink, function (res: { pipe: (arg0: fs.WriteStream) => void }) {
-              res.pipe(fs.createWriteStream(`./garageimages/${topelement.intname}.jpg`));
-            });
+            fs.writeFileSync(
+              `./garageimages/${topelement.intname}.jpg`,
+              (await axios.get(downloadlink, { responseType: "arraybuffer" })).data,
+            );
           } else {
             console.log(`no image for ${element[1].title}`);
           }

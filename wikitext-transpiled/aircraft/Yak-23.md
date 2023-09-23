@@ -150,14 +150,18 @@ The [[G.91 (Family)|G.91]] is by far the greatest threat to the Yak-23, as it is
 * Plane wobbles badly while manoeuvring beyond 700 km/h
 * 23 mm guns with low muzzle velocity and low fire rate tend to spark
 * Small ammunition pool
+* No additional armament or secondary weapons
 
 == History ==
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+<!--''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''-->
+
+During early 1947, the Soviet Union wanted a single-seat jet aircraft equipped with an engine produced by Rolls-Royce. The job was given to Soviet aircraft manufacturer Yakovlev and in July 1947, the aircraft was unveiled and flown for the first time. Just as the [[Yak-15]] and the [[Yak-17]], the main fuselage was based on that of the [[Yak-3]], and the Yak-jets along with the [[J21RA|SAAB J21R]] were the only aircraft to be successfully converted to jet fighters from piston-powered props. In 1949, the Yak-23 entered service but was not produced in large scale due to it being inferior of the [[MiG-15 (Family)|MiG-15]] that had just been mass produced and entered into service. Between 10,000-15,000 MiG-15s of different variants were built, but only around 300 Yak-23s. A few Eastern European countries bought the rights to build their own Yak-23s and some imported them directly from the Soviet Union, but many of them later opted for the MiG-15 due to it simply being better and more effective. The Yak-23 was never used in combat since the MiG-15 entered service as the Korean War broke out. The Soviet Union operated the Yak-23 between 1949 and 1951, when it was retired, and the country that used the aircraft the longest was Romania, who operated their 62 Yak-23s until 1960.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak-23 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -165,6 +169,7 @@ The [[G.91 (Family)|G.91]] is by far the greatest threat to the Yak-23, as it is
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

@@ -8,7 +8,6 @@
 The '''{{Specs|name}}''' (睦月, [[Abbreviations#.28JP.29_Naval|namesake]]: January) was the lead ship of the [[Mutsuki (Family)|Mutsuki-class destroyers]], which were ordered in 1923 after the Washington Navy Treaty restricted the size and number of capital warships. Due to their nature of being planned as a means for unrestricted rapid expansion of the fleet, names weren't assigned to her class until 1928 after crew dissatisfaction and communication problems. Being an improvement over the previous Kamikaze-class destroyer, she saw service in the Sino-Japanese conflicts, and escorted combat fleets during WWII until her sinking at the Battle of the Eastern Solomons.
 
 {{PAGENAME}} was introduced in [[Update 1.89 "Imperial Navy"]]. She is the first destroyer most players will play within the Japanese tree, and gameplay differs significantly from analogous coastal vessels such as the [[Syonan]]. The ship is very much a destroyer geared towards long-range engagements, having the most powerful primary armament and the second-most-powerful torpedo setup among its battle rating, further increasing its performance in gunnery battles with relatively good armour. On the other hand, it has only two, very weak, auxiliary guns and no dedicated anti-aircraft weaponry, making it a poor performer in close-range encounters. Overall, it's a difficult ship to play, posing a number of challenges to a player.
-
 == General info ==
 [[File:Torpedoed Mutsuki.png|thumb|Mutsuki can survive a direct torpedo hit|left]]
 === Survivability and armour ===
@@ -52,7 +51,7 @@ All but the rearmost turrets aim forwards by default, making it relatively easy 
 
 Within its battle rating. {{PAGENAME}} has both the highest number of and the highest calibre of primary guns. Its guns also have a second-highest muzzle velocity. That said though, it comes with a price - its shells are slow to reload, leading to the lowest sustained rate of fire among comparable destroyers. At the same time, damage output against warships is not as great as reload time might suggest, although still, it's able to hullbreak almost any boat bar some unlucky hits at full-health units. Unfortunately for captains of the Mutsuki, the primary armament has a woeful turret traverse speed of 5°/sec (aced), making it difficult to switch targets and decreasing the overall versatility significantly. It would be very difficult to take the Mutsuki into more confined spaces as the turrets rotate far too slowly to deal with multiple torpedo boats or other craft.
 
-Unlike most of the other nations, and typically to IJN rank III destroyers, it lacks armour-piercing shells for its primary armament what can be an issue when trying to deal with higher ranks. Alternative to standard HE is a researchable modification bringing in the Type 0 time fuse HE shells. Dedicated primarily for anti-aircraft duty, while very potent, the low number of fired shells and long reload time make for a hard choice and a very tricky way to protect itself from airborne attacks.
+Unlike most of the other nations, and typically to IJN rank II destroyers, it lacks armour-piercing shells for its primary armament what can be an issue when trying to deal with higher ranks. Alternative to standard HE is a researchable modification bringing in the Type 0 time fuse HE shells. Dedicated primarily for anti-aircraft duty, while very potent, the low number of fired shells and long reload time make for a hard choice and a very tricky way to protect itself from airborne attacks.
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
@@ -100,7 +99,7 @@ Overall, {{PAGENAME}} has a very steep learning curve, where the player simultan
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-[[File:Radar_chart_IJN_Mutsuki.png|thumb|Destroyers abilities of the rank II destroyer, IJN Mutsuki]]
+[[File:Radar_chart_IJN_Mutsuki.png|thumb|Destroyers abilities of the destroyer IJN Mutsuki]]
 
 '''Pros:'''
 

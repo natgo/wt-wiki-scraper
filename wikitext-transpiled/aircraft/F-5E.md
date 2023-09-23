@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=f-5e
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -180,6 +180,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 2 x AIM-9J Sidewinder missiles
@@ -210,16 +211,20 @@ If an enemy jet follows the {{PAGENAME}}, be prepared to defend against a missil
 
 '''Pros:'''
 
-* Great manoeuvrability
+* Great maneuverability
+* amazing energy retention above .90 Mach
 * Large selection of air-to-ground armaments, including Maverick air-to-ground missiles
 * Generous ammunition capacity for guns
 * Small target
+* improved engines over its predecessor, improving its speed and maneuverability 
 * Efficient afterburner allows the use of lower fuel reserves, improving performance
 
 '''Cons:'''
 
-* Low top speed
-* Can only carry a maximum of two air-to-air missiles
+* even though it has improved engines over the F5C, it still has a low top speed compared to the competition
+* M39A3 cannons don't deal as much damage as cannons like the M61 Vulcan, or the soviet GSh-23L
+* no BVR capabilities
+* Can only carry a maximum of two air-to-air missiles, making this plane mostly a gun fighter
 * No ballistic computer
 
 == History ==

@@ -263,10 +263,6 @@ export function weaponbulletsLoop(
         const modlangFind = modification_lang.find((langelement) => {
           return langelement.ID === element.name || langelement.ID === element.name + "/name";
         });
-        if (!langFind && !langFind2 && !modlangFind && !dev) {
-          console.log(element.name, bullet.bulletName);
-          throw new Error(`no lang for ${element.name}`);
-        }
 
         const shell: Shell = {
           modname: element.name,
@@ -274,9 +270,7 @@ export function weaponbulletsLoop(
           name: "",
           intname: bullet.bulletName,
           modmaxamount: element.maxamount,
-          maxamount: weapon_data[element.name].bulletsCartridge
-            ? weapon_data[element.name].bulletsCartridge
-            : undefined,
+          maxamount: weapon_data[element.name].bulletsCartridge,
         };
 
         if (langFind2 && langFind2.English) {
@@ -285,6 +279,8 @@ export function weaponbulletsLoop(
           shell.name = langFind.English;
         } else if (modlangFind && modlangFind.English) {
           shell.name = modlangFind.English;
+        } else {
+          shell.name = bullet.bulletName ?? element.name;
         }
 
         shells.push(shell);

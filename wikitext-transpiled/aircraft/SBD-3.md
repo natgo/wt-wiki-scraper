@@ -251,19 +251,19 @@ The SBD ("Scout Bomber Douglas") was introduced in 1940 and was produced by Doug
 
 In total, 5,936 SBDs were produced, with the last assembled on 21st July 1944. During their career, SBDs sunk six aircraft carriers, fourteen cruisers, six destroyers, fifteen cargo or transport ships, and numerous lesser craft. During and after the war, SBDs served with the Free French Air Force and French Navy, retiring in 1949. Other foreign users included the Royal New Zealand Air Force and Royal Navy, and after the war some examples were sold to Chile, Mexico, and Morocco.
 
-== Operational history ==
+=== Operational history ===
 The SBD's first action was during the attack on Pearl Harbor in December 1941, most of the Marine Corps SBDs of Marine Corps Scout Bombing Squadron 232 (VMSB-232) were destroyed on the ground while parked at Ewa Mooring Mast Field. The first victim of SBDs, 3 days after the attack on Pearl Harbor, was Japanese submarine I-70 which was sunk by SBDs from Yorktown-class carrier USS Enterprise, making it the first Japanese warship sunk by US aircraft during WWII. After that, SBDs were present at every US Pacific theater campaign, supporting troops with precision strikes and patrolling around allied ships.
 
-=== Battle of the Coral Sea ===
+==== Battle of the Coral Sea ====
 At the beginning of May 1942, SBDs participated in the Battle of the Coral Sea where they sank Japanese light aircraft carrier Shōhō and damaged fleet carrier Shōkaku. During the battle, SBDs were flying anti-torpedo combat patrols focused on intercepting Japanese torpedo bombers trying to sink USS Lexington and USS Yorktown, scoring several victories. One of the pilots, Stanley "Swede" Vejtasa, scored two kills on A6M fighters after being attacked by them, and cut the wing of a third with his own wingtip during a head-on pass.
 
-=== Battle of Midway ===
+==== Battle of Midway ====
 The most successful action of SBDs happened during the Battle of Midway in early June 1942, where four squadrons of Navy SBDs attacked the Japanese fleet, and sank all four aircraft carriers present, as well as multiple cruisers and destroyers. The carriers sunk were Akagi, Kaga, Sōryū, and Hiryū. Later that day, SBDs sighted a group of Japanese heavy cruisers en route from bombarding Midway, consisting of the four Mogami-class heavy cruisers Kumano, Suzuya, Mikuma, and Mogami. They heavily damaged Mogami and Mikuma, with Mikuma later sinking.
 
-=== Guadalcanal Campaign ===
+==== Guadalcanal Campaign ====
 During the Guadalcanal Campaign, SBDs were conducting sorties from both US Navy carriers and Henderson Field, sinking Japanese shipping trying to reinforce the island with new troops. Aircraft carrier Ryūjō fell victim to 31 SBDs from USS Saratoga. In total, another three aircraft carriers were damaged, one heavy cruiser, and nine transport vessels were sunk during the six-month campaign.
 
-=== Battle of the Philippine Sea ===
+==== Battle of the Philippine Sea ====
 The Battle of the Philippine Sea was the last major battle where SBDs participated, before being replaced by the more powerful Curtiss SB2C Helldiver bombers. The Helldiver was faster, could carry bigger payload, and had more powerful engine, but had some characteristics that made it hard to fly. SBDs were favoured by pilots due to superior handling at low speed, crucial for carrier landing. Pilots nicknamed the plane "Slow But Deadly"
 
 {{break}}

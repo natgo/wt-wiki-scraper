@@ -134,9 +134,8 @@ The Kurnass 2000 is an Israeli upgrade of the venerable F-4E Phantom II. It look
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
-** 1 x 20 mm M61A1 cannon + 90 x countermeasures
+* 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
+* 90 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -198,7 +197,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | || || 2<sup>†</sup> || || 1 || || 1 || || 2<sup>†</sup> || ||
 |-
 ! Countermeasures
-| || || || 72 || || || || 72 || || ||
+| || || || 100 || || || || 100 || || ||
 |-
 ! Pave Spike targeting pod
 | || || || || || || 1* || || || ||
@@ -229,13 +228,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
 * 285 x FFAR Mighty Mouse rockets
 * 60 x Zuni Mk32 Mod 0 ATAP rockets
-* 144 x countermeasures
+* 200 x countermeasures
 * 6 x AGM-65D missiles
 * 4 x 277 kg GBU-12 Paveway II bombs (1,108 kg total)
 * 4 x 957 kg GBU-10 Paveway II bombs (3,828 kg total)
 {{Navigation-End}}
-
-There is no possibility to create a mixed payload with GBU and AGM-65D.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

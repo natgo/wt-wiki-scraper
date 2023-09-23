@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet heavy tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]]. The IS-2 introduces the heavy-hitting 122 mm D-25T gun as a tank armament, presenting massive firepower with a devastating post-damage effect. Its effect on the battlefield should not be underestimated.
+The '''IS-2''' is the early-generation second variant of the IS heavy tank family. With the arrival of the [[Panzer V Panther (Family)|Panthers]] and [[Tiger I (Family)|Tiger Is]] on the German side, the escalation between German and Soviet engineers reached a new level, and the IS-2 was forced into service as soon as its primary armament was ready. The new heavy tank was the Soviet response to the increasingly superior German tanks, with a partially sloped hull front armour plate and a new enormous 122 mm D-25T tank gun. However, the IS-2 design would prove to have several flaws in the long term, beginning with the tank gun itself, which was difficult to reload and used heavy two-piece naval ammunition. The most innovative feature of both the [[IS-1]] and early-generation IS-2 was their new frontal hull design, which was still sloped but uniformly "blended," with a 120 mm armour plate angled at 30° and a 60 mm armour plate angled at 72°, providing improved protection while still maintaining weight. As a result, the frontal hull could now withstand a German 88 mm armour-piercing shell at 1,000 m. The internal space was restricted because of the huge recoil mechanism of the tank gun and a small 1,800 mm turret ring radius, allowing only a four-man crew, with the commander commanding, ordering fire, and making radio contact. The majority of the production began in February 1944, with around 2,252 units supplied by the end of the year.
 
-Operational and visual characteristics of the IS-2, as its design and name suggest, is visually similar to its previous sister-tank, the [[IS-1]] but with operational characteristics of a Tank Destroyer at its BR. Players experienced in operating previous models of the KV series tanks, in particular, the [[KV-2 (1939)|KV-2]] and SU-line of Tank Destroyers should have little to no difficulty in adjusting to this vehicle.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the IS-2 provides the same level of protection as the earlier IS-1. The introduction of a new enormous 122 mm D-25T tank gun, however, considerably improves firepower. This effectively puts the IS-2 on par with standard tank destroyers in World War II. Players will be glad to discover that fighting opponents has never been easier, as the IS-2 is capable of eliminating any enemy ground vehicle it encounters in a single shot. A bigger tank gun calibre, on the other hand, leads to longer reload times. Missing a shell can be frustrating, as players will frequently wait more than 20 seconds for the next shell to be ready. As a result, it is critical not to get involved in confrontations with several enemies during engagements.
 
 == General info ==
 === Survivability and armour ===
@@ -247,6 +247,7 @@ The new heavy tanks were provided to Czechoslovakian units and the Polish Army, 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_is_2_1943 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

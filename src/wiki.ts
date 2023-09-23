@@ -1,56 +1,12 @@
-import axios, { AxiosResponse } from "axios";
+import axios from "axios";
 import decomment from "decomment";
 import fs from "fs";
 import { format } from "prettier";
 
 import { modernparse } from "./types";
+import { Categorymembers, CategorymembersPart, ParsedPage, ParsedWikiPage } from "./wiki.types";
 
-interface categorymembers extends AxiosResponse {
-  data: {
-    batchcomplete: string;
-    continue?: { cmcontinue: string; continue: string };
-    limits: { categorymembers: number };
-    query: {
-      categorymembers: categorymemberspart[];
-    };
-  };
-}
-
-interface parsedpage extends AxiosResponse {
-  data: {
-    parse: savedparse;
-  };
-}
-
-interface parsedwikipage extends AxiosResponse {
-  data: {
-    parse: savedwikiparse;
-  };
-}
-
-interface savedwikiparse {
-  title: string;
-  pageid: number;
-  wikitext: {
-    "*": string;
-  };
-}
-
-interface savedparse {
-  title: string;
-  pageid: number;
-  text: {
-    "*": string;
-  };
-}
-
-interface categorymemberspart {
-  pageid: number;
-  ns: number;
-  title: string;
-}
-
-function cleanPages(output: categorymemberspart[]) {
+function cleanPages(output: CategorymembersPart[]) {
   output.forEach((element, i, array) => {
     if (
       element.pageid === 46 ||
@@ -69,11 +25,11 @@ function cleanPages(output: categorymemberspart[]) {
 
 async function getVehicles(baseQuery: string) {
   let cont = true;
-  let contData: string | undefined = undefined;
-  let categorymembers: categorymemberspart[] = [];
+  let contData: string | undefined;
+  let categorymembers: CategorymembersPart[] = [];
 
   while (cont) {
-    const response: categorymembers = await axios.get(
+    const response: Categorymembers = await axios.get(
       contData ? `${baseQuery}&cmcontinue='${contData}'` : baseQuery,
     );
     categorymembers = [...categorymembers, ...response.data.query.categorymembers];
@@ -87,45 +43,49 @@ async function getVehicles(baseQuery: string) {
   return output;
 }
 
-async function download(vehicles: categorymemberspart[], type: string) {
+async function download(vehicles: CategorymembersPart[], type: string) {
   const parsequery = "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=text";
   const wikiparsequery =
     "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=wikitext";
   vehicles.forEach(async (element) => {
-    const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
-    const wikiresponse: parsedwikipage = await axios.get(
-      wikiparsequery + `&pageid=${element.pageid}`,
-    );
-    //console.info(element.title);
-    const out: modernparse = {
-      title: response.data.parse.title,
-      pageid: response.data.parse.pageid,
-    };
-    fs.writeFileSync(
-      `./wikitext/${type}/${encodeURIComponent(element.title)}.json`,
-      await format(JSON.stringify(out), { parser: "json" }),
-    );
-    fs.writeFileSync(
-      `./wikitext-transpiled/${type}/${encodeURIComponent(element.title)}.md`,
-      wikiresponse.data.parse.wikitext["*"],
-    );
-    fs.writeFileSync(
-      `./wikitext-transpiled/${type}/${encodeURIComponent(element.title)}.html`,
-      decomment(response.data.parse.text["*"]),
-    );
+    try {
+      const response: ParsedPage = await axios.get(parsequery + `&pageid=${element.pageid}`);
+      const wikiresponse: ParsedWikiPage = await axios.get(
+        wikiparsequery + `&pageid=${element.pageid}`,
+      );
+      //console.info(element.title);
+      const out: modernparse = {
+        title: response.data.parse.title,
+        pageid: response.data.parse.pageid,
+      };
+      fs.writeFileSync(
+        `./wikitext/${type}/${encodeURIComponent(element.title)}.json`,
+        await format(JSON.stringify(out), { parser: "json" }),
+      );
+      fs.writeFileSync(
+        `./wikitext-transpiled/${type}/${encodeURIComponent(element.title)}.md`,
+        wikiresponse.data.parse.wikitext["*"],
+      );
+      fs.writeFileSync(
+        `./wikitext-transpiled/${type}/${encodeURIComponent(element.title)}.html`,
+        decomment(response.data.parse.text["*"]),
+      );
+    } catch (error) {
+      element;
+    }
   });
 }
 
-async function categorymembers(categorymembers: categorymemberspart[]) {
+async function categorymembers(categorymembers: CategorymembersPart[]) {
   const wikiparsequery =
     "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=wikitext";
   const parsequery = "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=text";
 
   categorymembers.forEach(async (element) => {
-    const wikiresponse: parsedwikipage = await axios.get(
+    const wikiresponse: ParsedWikiPage = await axios.get(
       wikiparsequery + `&pageid=${element.pageid}`,
     );
-    const response: parsedpage = await axios.get(parsequery + `&pageid=${element.pageid}`);
+    const response: ParsedPage = await axios.get(parsequery + `&pageid=${element.pageid}`);
     const out: modernparse = {
       title: response.data.parse.title,
       pageid: response.data.parse.pageid,
@@ -146,13 +106,13 @@ async function categorymembers(categorymembers: categorymemberspart[]) {
 }
 
 async function getTechTree() {
-  const groundQuery: categorymembers = await axios.get(
+  const groundQuery: Categorymembers = await axios.get(
     "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category:Ground_vehicles_by_country&cmlimit=max&format=json&cmtype=subcat",
   );
-  const aircraftQuery: categorymembers = await axios.get(
+  const aircraftQuery: Categorymembers = await axios.get(
     "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category:Aircraft_by_country&cmlimit=max&format=json&cmtype=subcat",
   );
-  const helicopterQuery: categorymembers = await axios.get(
+  const helicopterQuery: Categorymembers = await axios.get(
     "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category:Helicopters_by_country&cmlimit=max&format=json&cmtype=subcat",
   );
 

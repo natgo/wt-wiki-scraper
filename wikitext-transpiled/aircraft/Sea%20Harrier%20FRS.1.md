@@ -1,7 +1,10 @@
 {{About
 | about = squadron British strike aircraft '''{{PAGENAME}}'''
-| usage = other versions
-| link = Harrier (Family)
+| other
+| usage-1 = the regular version
+| link-1 = Sea Harrier FRS.1 (e)
+| usage-2 = other versions
+| link-2 = Harrier (Family)
 }}
 {{Specs-Card
 |code=harrier_frs1

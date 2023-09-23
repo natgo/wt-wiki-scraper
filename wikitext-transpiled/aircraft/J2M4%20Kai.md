@@ -10,9 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.47 "Big Guns"]] as a premium vehicle purchasable in-game with Golden Eagles {{ge}}, but was removed from in-game sale after the [[wt:en/news/7408-news-happy-birthday-war-thunder-en|9th Anniversary Sale]]. It has since been made available temporarily for purchase in-game with Golden Eagles ({{GE}}) during the [[wt:en/news7549-special-national-foundation-day-in-japan-en|2022 "Day of Japan"]] and [[wt:en/news/8082-special-national-foundation-day-in-japan-en|2023 "National Foundation Day in Japan"]] mini-events.
-	
-Although stubby, the Mitsubishi J2M4, Raiden Model 32 can be considered one of the fastest Japanese fighters in War Thunder, though it is still slower than most of its opponents.
+The '''J2M4 Model 32''', designated as '''Raiden Mod.32 ({{Annotation|雷電三二型|Lightning Bolt, Model 32}})''', was a high-altitude prototype variant of the Raiden series developed to increase the service ceiling and effectiveness at high altitude. It was equipped with a Mitsubishi MK4R-C "Kasei 23C" engine and turbocharger, which lengthened the nose of the plane considerably. With 2 prototypes built, problems with the turbocharger, weight balance, and increased take-off and landing range canceled further development of a Raiden with the Kasei 23C.
+
+It was introduced in [[Update 1.47 "Big Guns"]] as a premium vehicle purchasable in-game with Golden Eagles {{ge}}, but was removed from in-game sale after the [[wt:en/news/7408-news-happy-birthday-war-thunder-en|9th Anniversary Sale]]. It has since been made available temporarily for purchase in-game with Golden Eagles {{GE}} during the [[wt:en/news7549-special-national-foundation-day-in-japan-en|2022 "Day of Japan"]] and [[wt:en/news/8082-special-national-foundation-day-in-japan-en|2023 "National Foundation Day in Japan"]] mini-events. Similar to its replacing variant, the [[J2M5]], the J2M4 boosts its performance over its earlier predecessors by boasting a 1,854 hp engine on top of equipping a turbocharger increasing its efficiency at high altitudes.
+
+;Nicknames:
+* [[Abbreviations#.28IJN.29_Official_name_designation|Official Designation]]: ''雷電 (Raiden, "Lightning Bolt")''
+* Allied reporting name: Jack
 
 == General info ==
 === Flight performance ===

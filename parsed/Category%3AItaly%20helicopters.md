@@ -17,6 +17,9 @@
 |-
 | {{Tree-Arrow}}
 |-
+| {{Tree-Unit|mi_24d_hungary}}
+|-
+| {{Tree-Arrow}}
 |}
 |style="border-left: solid 1px #cccccc;"|
 |
@@ -27,10 +30,16 @@
 |-
 | {{Tree-Unit|a_109_eoa2}}
 |-
+| {{Tree-Arrow}}
+|-
+| {{Tree-Unit|mi_24v_hungary}}
+|-
 | {{Tree-Arrow|1}}
 |-
 |}
 |style="border-left: solid 1px #cccccc;"|
+{{Tree-Unit|mi_24p_hungary}}
+{{Tree-Skip}}
 {{Tree-Unit|a_129_a}}
 {{Tree-Skip}}
 {{Tree-Unit|t_129_atak}}

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (officially ''12,8 cm Selbstfahrlafette auf VK30.01(H)'' (12.8 cm Self-Propelled on VK 30.01 (Henschel))) is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]].
+The '''128 mm K.40 Panzer Selbstfahrlafette V Ausführung VK 30.01(H) (Sturer Emil)''' is an experimental World War II German self-propelled anti-fortification gun. It had a 128 mm Rheinmetall Kanone 40 L/61 gun (based on the 12.8 cm FlaK 40) and was based on the Henschel VK 30.01 (H) heavy tank prototype chassis. This gun has limited horizontal traverse but excellent vertical transverse, which makes it suitable to adopt a hull-down position. It had 15 rounds of ammunition for the main gun. The hulls were taken from the leftover of Henschel's proposal for the cancelled VK 30.01 heavy tank program (development of a 30-tonne tank that led to the [[Tiger I (Family)|Tiger Is]]), but the hull was stretched and an extra road wheel was added to its overlapped and interleaved Schachtellaufwerk roadwheel-based suspension system to accommodate the large gun breech, which was mounted on a pedestal ahead of the engine. Where the turret was supposed to go in the original design, it was redesigned and replaced with a massive open-topped fighting chamber.
 
-The Sturer Emil is quite similar to the [[Dicker Max]]; no armour, excellent gun, great gun depression. Due to its limited horizontal gun traverse, it can be a little trickier to use in urban maps, but it can still be used to guard positions as long as cover is available. Being unarmoured, always avoid being shot at.
+Introduced in [[Update 1.59 "Flaming Arrows"]], the Sturer Emil works in the same way as other self-propelled anti-fortification guns used by the German Army ground forces, particularly the [[Dicker Max]]. With no armour, an excellent gun, and exceptional gun depression, players must play to its strengths while limiting exposure to enemies' lines of sight. To lessen the possibility of being noticed by enemy aircraft, always try to conceal or stay close to a ground structure rather than in the middle of an open field. It can be a little difficult to utilize on urban maps because of its limited horizontal gun movement, but it can still be used to guard positions as long as cover is present.
 
 == General info ==
 === Survivability and armour ===
@@ -151,6 +151,7 @@ Not too much is known about the vehicle, only two were ever made in 1942, but th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzsflk40_sturer_emil Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

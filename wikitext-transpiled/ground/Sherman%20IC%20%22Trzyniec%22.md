@@ -13,11 +13,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|pseudonym}}''' (of the '''1st Squadron, 4th Armored Regiment "Scorpion", 2nd Armored Brigade, 2nd "Warsaw" Armored Division''' of the Polish armed forces in the British army) is a premium rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced as a [[wt:en/news/3472--en|premium pack]] in  [[Update 1.53 "Firestorm"]] and was one of the first British tanks introduced in the game. It was removed from the store after the [[wt:en/news/5608-shop-summer-sale-independence-day-en|2018 Summer Sale]], but was reintroduced for [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|War Thunder's 6th Anniversary]] as a premium purchasable for Golden Eagles {{ge}}.
+The '''M4A4 Sherman IC Firefly "Trzyniec"''' is a heavily up-gunned modification of the fifth variant of the early-generation [[M4 Sherman (Family)|Medium Tank M4 (Sherman) family]]. During World War II, the M4A4 Sherman IC Firefly operated with both the Polish 1st Armoured Division in northern Europe and the Polish 2nd Armoured Brigade in Italy. It saw limited service in the Polish Army since the majority of the tanks were assigned to the British Army to combat the more advanced German tanks. The lower hulls of the M4A4 Sherman IC Firefly distinguish it from the [[Sherman Firefly|M4A4 Sherman VC Firefly]], with the M4A4 Sherman IC Firefly having a longer hull and bigger gaps between the suspension components. They also made use of a three-piece bolted transmission casing. The M4A4 Sherman IC Firefly, on the other hand, typically had a cast transmission casing. The rest of the characteristics are the same.
 
-Using the Sherman as the basis, the British added their famed [[QF 17-pounder (76 mm)|17-pounder anti-tank gun]] to the turret, making the tank a very potent weapon against heavily armoured tanks of its battle rating. This variant of the Firefly represents a version utilized by Polish armed forces operating within the British army.
+Introduced in [[Update 1.53 "Firestorm"]] as a [[wt:en/news/3472--en|premium pack]], the M4A4 Sherman IC Firefly "Trzyniec" was one of the game's earliest British tanks. It performs the same function as later-generation up-gunned M4 Sherman variants. While friendly heavy tanks take the lead in the attack, this tank can provide flanking fire, long-range fire, or rapid and accurate fire to the objective. The tank is as manoeuvrable as any other M4 Sherman variant, making it easy to gain speed and flank the opponent. Those who are experienced with previous M4 Sherman variants will quickly adapt to this tank. While this tank can serve as the frontal spearhead for an assault, it is strongly advised against doing so due to the tank's low armour, which requires players to constantly get the first shot off in each fight; otherwise, the opponent will swiftly eliminate the tank.
 
-The Sherman Firefly is easily distinguishable by its very long gun, even compared to the Shermans with the American 76 mm guns. The muzzle brake on the cannon is also in a spherical shape rather than a horizontal rectangular shape so that is a distinction between the 76 mm cannon and the 17-pounder.
+It was removed from the store following the [[wt:en/news/5608-shop-summer-sale-independence-day-en|2018 Summer Sale]], but it was reintroduced as a premium vehicle available for purchase with Golden Eagles during [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|War Thunder's 6th Anniversary]].
 
 == General info ==
 === Survivability and armour ===
@@ -82,6 +82,7 @@ The Sherman Firefly is easily distinguishable by its very long gun, even compare
 |}
 
 ==== Ammunition ====
+
 * '''Shot Mk.6:''' {{Annotation|AP|Armour-piercing}} - Standard penetrating round, use until better rounds are unlocked.
 * '''Shell Mk.1:''' {{Annotation|HE|High-explosive}} - It is ideal for destroying SPAA and lightly armoured tanks, but useless against anything else.
 * '''Shot Mk.4:''' {{Annotation|APC|Armour-piercing capped}} - Cap for better grip against sloped armour.
@@ -232,6 +233,7 @@ The Firefly's reputation during and after the war is a product of hindsight. The
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_sherman_ic_firefly Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -243,11 +245,13 @@ The Firefly's reputation during and after the war is a product of hindsight. The
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[M4 Sherman (Family)|Related development]]
+
 * [[Sherman Firefly]]
 * [[M4 Tipo IC]]
 * [[Sherman Vc (Italy)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[M4A1 (76) W]]
 * [[M4A4 (SA50)]]
 
@@ -257,6 +261,7 @@ The Firefly's reputation during and after the war is a product of hindsight. The
 * ''other literature.'' -->
 
 === References ===
+
 ;Citations
 <references />
 

@@ -142,12 +142,12 @@ The F-5 has just enough armour protection to protect the pilot from machine-gun 
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-{{main|N-37D (37 mm)|NR-23 (23 mm)}}
+{{main|Type 37-1 (37 mm)|Type 23-1 (23 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 1 x 37 mm N-37D cannon, chin-mounted (40 rpg)
-* 2 x 23 mm NR-23 cannons, chin-mounted (80 rpg = 160 total)
+* 1 x 37 mm Type 37-1 cannon, chin-mounted (40 rpg)
+* 2 x 23 mm Type 23-1 cannons, chin-mounted (80 rpg = 160 total)
 
 Just like Shenyang F5's old brother [[MiG-17]], the different caliber armaments on both sides of the plane will balance each other out. Despite the F-5 holding the largest caliber among the its fighter peers, the 37 mm N-37D cannon needs experience to ace. Though the two "smaller" 23 mm NR-23 cannons are deadly and easier to master than the 37 mm N-37D. Due to the low ammo rounds per gun, all cannons are not of the "spray and pray" type. These guns rarely overheat, though this is mostly since the magazine will be empty after only five seconds of shooting. It is necessary to fire in bursts only if confidence is high enough that the shots can hit the targets. For ammo selection, one should use "Air targets" belt on all cannons since it contains the most high-explosive and incendiary shells that have great effect against air targets. Launching ground strikes using "Armored targets" belts is not a good option due to the slightly inaccurate and unpredictable trajectory.
 

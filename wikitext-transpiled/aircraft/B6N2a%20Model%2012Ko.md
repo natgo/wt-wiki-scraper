@@ -10,9 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28IJN.29_Official_name_designation|officially designated]] the "Tenzan" (Heavenly Mountain)) is a rank {{Specs|rank}} Japanese bomber {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''B6N2a Model 12A''', designated as '''Tenzan Mod.12 Ko ({{Annotation|天山一二甲型|Heavenly Mountain, Model 12A}})''', was a minor variant of the standard Tenzan 12 that replaced the two Type 92 (7.7 mm) LMGs with the German-inspired [[Type 2 (13 mm)|13 mm Type 2]] and [[Type 1 (7.92 mm)|7.92 mm Type 1]] guns, derived from the MG 131 and MG 15 respectively. It also had an H-6 (Type 3 Ku 6 Mod.4) air-to-surface naval Yagi-antenna radar mounted on the wing leading edges and on the sides of the rear fuselage.
 
-The Tenzan 12A is a small-scale modification of the main production [[B6N2 Model 12|Tenzan 12]] by switching out the 2 x [[Type 92 (7.7 mm)]] LMGs for the German-based [[Type 2 (13 mm)]] and [[Type 1 (7.92 mm)]] derived from the [[MG 131 (13 mm)|MG 131]] and [[MG 15 (7.92 mm)|MG 15]] respectively.
+It was introduced in [[Update "Starfighters"]]. The Tenzan 12A's improved armaments and overall agility of the Tenzan 12 can catch any pursuing aircraft off guard, as it can out-turn most of them and hit them with lethal firepower. The main role remains to be a torpedo-/level bomber, carrying either a single large bomb/torpedo, 2 x 250 kg bombs, or a rack of 6 x 60 kg. The enhanced rear firepower can be used to lure in unsuspecting fighters that might underestimate a torpedo-bomber without forward firepower.
+
+;Nicknames:
+* [[Abbreviations#.28IJN.29_Official_name_designation|Official Designation]]: ''天山 (Tenzan, "Heavenly Mountain")''
+* Allied reporting name: Jill
 
 == General info ==
 === Flight performance ===

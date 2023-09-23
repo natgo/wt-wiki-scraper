@@ -88,9 +88,8 @@ The A-1H only has 2 15 mm steel plates on the side and 40 mm of bulletproof glas
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 4 x 20 mm M3 cannons, wing-mounted (200 rpg = 800 total)
-** 4 x 20 mm M3 cannons + 60 x countermeasures
+* 4 x 20 mm M3 cannons, wing-mounted (200 rpg = 800 total)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -118,7 +117,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | || 1 || 1 || 1 || || 1 || 1 || 1 || 1 || 1 || || 1 || 1 || 1 ||
 |-
 ! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
-| || 1 || 1 || 1 || || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || || 1 || 1 || ||
+| || 1 || 1 || 1 || || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || || 1 || 1 || 1 ||
 |-
 ! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
 | || 1 || 1 || 1 || || 1 || 1, 6 || 1, 6 || 1, 6 || 1 || || 1 || 1 || 1 ||

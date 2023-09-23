@@ -16,8 +16,9 @@
 |-
 | colspan="3" style="text-align: center;"| <div class="tree-arrow-right">https://wiki.warthunder.ru/images/a/a9/Arrow-down-and-right-down.png</div>
 |-
-| <div style="margin-top:-27px;margin-left:-3px;">{{Tree-Arrow|1}}</div> || || {{Tree-Unit|sa_342l_china}}
+| rowspan="2" | <div style="margin-top:-27px;margin-left:-3px;">{{Tree-Arrow|1}}</div> || || {{Tree-Unit|sa_342l_china}}
 |-
+| || {{Tree-Arrow}}
 |}
 |style="border-left: solid 1px #cccccc;"|
 |
@@ -26,7 +27,7 @@
 |style="width:500px;padding-left:18%;"|
 {| cellspacing="0" style="margin:0;margin-top:-7px;"
 |-
-| {{Tree-Unit|z_9w}} || ||
+| {{Tree-Unit|z_9w}} || || {{Tree-Unit|oh_58d_china}}
 |-
 | {{Tree-Arrow}} || ||
 |-

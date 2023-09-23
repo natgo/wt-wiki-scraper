@@ -17,9 +17,9 @@
 |-
 | || ||colspan="3" style="text-align: center;"| <div class="tree-arrow-right">https://wiki.warthunder.ru/images/b/b3/Arrow-left-down.png</div> || || || ||
 |-
-| || || {{Tree-Unit|uh_1d}} || || || || || ||
+| || || {{Tree-Unit|uh_1d}} || || <div style="margin-top:-30px;margin-left:8px;">{{Tree-Arrow}}</div> {{Tree-Unit|mi_8tb}} || || || ||
 |-
-| || || {{Tree-Arrow}} || || || || || ||
+| || || {{Tree-Arrow}} || || {{Tree-Arrow}} || || || ||
 |}
 
 |style="border-left: solid 1px #cccccc;"|
@@ -33,11 +33,11 @@
 |style="width:500px;padding-left:18%;"|
 {| cellspacing="0" style="margin:0;margin-top:-7px;"
 |-
-| || || {{Tree-Unit|bo_105pah1}} || {{Tree-Arrow-Right}} || {{Tree-Unit|mi_24p_german}} || || || ||
+| || || {{Tree-Unit|bo_105pah1}} || || rowspan="2" | {{Tree-Arrow-Full|1}} || || || ||
 |-
-| || || {{Tree-Arrow}} || || || || || ||
+| || || {{Tree-Arrow}} || || || || ||
 |-
-| || || {{Tree-Unit|bo_105pah1_a1}} || || || || || ||
+| || || {{Tree-Unit|bo_105pah1_a1}} || || {{Tree-Unit|mi_24p_german}} || || || ||
 |-
 | || || {{Tree-Arrow}} || || || || || ||
 |-

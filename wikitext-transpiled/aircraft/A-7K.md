@@ -149,7 +149,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-7D.png]]</div>
+| rowspan="19" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-7D.png]]</div>
 |-
 ! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
 | || || 1 || || || 1 || ||
@@ -176,6 +176,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 2, 3 || 3 || || || || || 3 || 2, 3
 |-
 ! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || 1 || 1 || || || 1 || 1 || 1
+|-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
 | 1 || 1 || 1 || || || 1 || 1 || 1
 |-
 ! [[GBU-8 (2,000 lb)|2,000 lb GBU-8]] bombs
@@ -216,6 +219,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 14 x 750 lb M117 cone 45 bombs (10,500 lb total)
 * 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
 * 6 x 2,000 lb LDGP Mk 84 bombs (12,000 lb total)
+* 6 x 2,000 lb LDGP Mk 84 Air bombs (12,000 lb total)
 * 4 x 2,000 lb GBU-8 bombs (8,000 lb total)
 * 6 x BLU-27/B incendiary bombs
 * 6 x AGM-65B missiles

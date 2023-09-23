@@ -145,7 +145,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-7D.png]]</div>
+| rowspan="19" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-7D.png]]</div>
 |-
 ! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
 | || || 1 || || || 1 || ||
@@ -174,6 +174,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
 | 1 || 1 || 1 || || || 1 || 1 || 1
 |-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
+| 1 || 1 || 1 || || || 1 || 1 || 1
+|-
 ! [[AGM-62A Walleye I ER (510 kg)|510 kg AGM-62A Walleye I ER]] bombs
 | 1 || 1 || 1 || || || 1 || 1 || 1
 |-
@@ -192,7 +195,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[AIM-9G Sidewinder]] missiles
 | || || || 1 || 1 || || ||
 |-
-! LANA Flir
+! LANA Flir Navigation Pod
 | || || 1 || || || || ||
 |-
 | colspan="9" | Maximum permissible loadout weight: 7,260 kg<br>Maximum permissible wing load: 3,630 kg<br>Maximum permissible weight imbalance: 2,900 kg
@@ -211,9 +214,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
 * 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 14 x 750 lb M117 cone 45 bombs (10,500 lb total)
-* 6 x BLU-27/B incendiary bombs
 * 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
 * 6 x 2,000 lb LDGP Mk 84 bombs (12,000 lb total)
+* 6 x 2,000 lb LDGP Mk 84 Air bombs (12,000 lb total)
+* 6 x BLU-27/B incendiary bombs
 * 6 x 510 kg AGM-62A Walleye I ER bombs (3,060 kg total)
 * 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
 * 2 x 30 mm GAU-13/A cannons (353 rpg = 706 total)

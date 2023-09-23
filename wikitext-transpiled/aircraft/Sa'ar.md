@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The Sa'ar was a later development of the [[Sambad]] (Super Mystere B2). The reason for its development was the weak, fuel-hungry engine of the Super Mystere, the Atar 101G-3 engine. Not only that, but it was also prone to mechanical failures. In 1967, it was proposed to use the engine of the [[A-4H (Israel)|A-4H]] in the Super Mystere. The Pratt & Whitney J52-P-8A engine was lighter, 25% more powerful, more reliable, and less fuel-hungry, but it had no afterburner. The new aircraft featured more ground ordnance capabilities, Shafrir 2 missiles, and a better range, at the cost of no longer being considered an interceptor due to the loss of its afterburner. By 1973, the upgrade program was completed, and all 26 Super Mysteres in the IAF were upgraded to the Sa'ar model.
+
+Introduced in [[Update "Winged Lions"]], the Sa'ar is played in a very unique way in battles. It has the engine of the A-4 Skyhawk and also some of its weakness. It has a decent top speed for a subsonic fighter, but its acceleration and poor energy retention don't make the Sa'ar a frontline fighter. While it can go for bases, it's not recommended since equipping ground ordnance hampers flight performance severely and would become easy prey for supersonic interceptors like the MiG-19 and MiG-21. Instead, as a support fighter, the Sa'ar can have very good results, because at its BR most jets have no countermeasures, and the [[Shafrir 2]] is a relatively powerful missile with similar characteristics to the [[AIM-9D]].
 
 == General info ==
 === Flight performance ===
@@ -175,6 +177,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x Shafrir 2 missiles
 * 70 x FFAR Mighty Mouse rockets
@@ -207,22 +210,30 @@ Despite lacking engine thrust, it features decent manoeuvrability and armament o
 * Excellent Shafrir 2 air-to-air missiles with long range and good turning ability
 * Wide variety of air-to-ground ordnance
 * Decent manoeuvrability
+* CCIP and CCRP for bombs
 
 '''Cons:'''
 
 * Weak engine; lacks the afterburner the previous Sambad has
 * Poor survivability
+* Poor energy retention
+* Low muzzle velocity for the DEFA cannons
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Sa'ar, an upgraded version of the [[Super Mystere B2|Dassault Super Mystere]] using Pratt & Whitney J52-P-8A engines from [[A-4H_(Israel)|A-4H Skyhawk]] inventory, begin seeing service in the IAF (Israel Air Force) in February 1969. The name Sa'ar in Israeli means Storm.
+The Sa'ar was a further development of the Super Mystere B2 Sambad by Israel. Its development can be traced back to 1967 when it was proposed to use the Pratt & Whitney J52-P-8A engine in Super Mysteres because of their unreliable engine. The engine used in the Super Mystere, was the Atar 101G-3. This engine had an afterburner and allowed the Super Mystere to reach supersonic speeds. However this came at the cost of reliability, elevated fuel consumption and frequent mechanical issues, not to mention that it was a very heavy engine, and when not using the afterburner it was also very weak. The upgrade was also motivated by the French embargo imposed over Israel in 1967, this embargo affected the acquiring of parts and other equipment needed to maintain the Atar 101G-3 engine.
 
-The {{PAGENAME}} first saw combat in the 1973 Yom Kippur War as fighter-bombers. Only 6 Sa'ars were lost in combat during the war, with two pilots killed.
+In 1969, field tests were carried with a modified Super Mystere using the J52-P8A. It was found that the engine was lighter, less fuel hungry and 25% more powerful. Thus the Sa'ar was capable of carrying more ground ordnance, and as such, it was equipped with a ballistics computer for bombs, it also had more hardpoints and Shafrir 2 AAMs for air-to-air combat. Soon, the upgrade for all the Super Mystere fleet (26 units) of the IAF was approved and work began by Israel Aircraft Industries at Lod Airport. The first production units were handed to the IAF in 1969 and by early 1973, all 26 Super Mysteres were upgraded to the Sa'ar model.
+
+During the Yom Kippur War, the Sa'ars of the 105 Squadron of the IAF conducted several sorties to help in the war effort. This aircraft participated on both the Egyptian and Syrian fronts. On the Syrian front, they were used to attack Syrian armour in the Golan Heights. Against the Egyptians, they were both used for air cover and ground attacks, but were primarily used against the Egyptian Third Army crossing the Suez Canal. Around 150 tanks were destroyed by the Sa'ar in a span of days, alongside artillery units, command posts, logistic centres and other armoured vehicles. After fighting in Egypt, the Sa'ar was relocated to Syria, where they were used to help in air raids deep in the country. When the IDF crossed the Suez canal, the Sa'ar was also there providing CAS capabilities and it participated in all major offensives of the war. By the end, the Sa'ars had flown 887 total sorties with 6 losses.
+
+The Sa'ar was later replaced by the F-4 Phantom and 12 Sa'ars were sold to Honduras in 1976, where they remained in service until 1996.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=md_460_saar Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

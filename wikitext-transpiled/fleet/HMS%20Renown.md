@@ -1,12 +1,13 @@
 {{Specs-Card
 |code=uk_battlecruiser_renown
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|market=id50234_hms_renown_great_britain
 }}
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 
-Originally laid down as the sixth ship of the Revenge-class battleships, construction of the HMS ''Renown'' was suspended at the outbreak of World War I due to concerns that the ship would not be ready for action in a timely manner. However, after Admiral Jackie Fisher was promoted to the First Sea Lord (i.e. Admiral of the Fleet) title, he ordered ''Renown'' to be completely redesigned to his preferences for a battlecruiser. The ship was to have a similar displacement as the Revenge-class, yet being significantly faster. To this end, the ship was lengthened to 242 meters (compared to Revenge's 189.2 meters), powered by thrice the power of the Revenge, and has its armour and armaments significantly reduced to save weight. As a result, the ''Renown'' became the lead ship of an entirely new class of battlecruiser, and she would be pressed into construction priority to fulfill the Royal Navy's needs.
+Originally laid down as the sixth ship of the Revenge-class battleships, construction of the HMS ''Renown'' was suspended at the outbreak of World War I due to concerns that the ship would not be ready for action in a timely manner. However, after Admiral Jackie Fisher was promoted to the First Sea Lord, he ordered ''Renown'' to be completely redesigned to his preferences for a battlecruiser. The ship was to have a similar displacement as the Revenge-class, yet being significantly faster. To this end, the ship was lengthened to 242 meters (compared to Revenge's 189.2 meters), powered by thrice the power of the Revenge, and has its armour and armaments significantly reduced to save weight. As a result, the ''Renown'' became the lead ship of an entirely new class of battlecruiser, and she would be pressed into construction priority to fulfill the Royal Navy's needs.
 
 While the ''Renown'' did not see any combat in World War I, she underwent several refits before and during World War II, ranging from major increases in anti-air capabilities to trivial ones like replacing the seaplane hangar with a cinema and laundry. Because of this, combined with the fact that she was frequently used to transport British PM Winston Churchill to various conferences due to her relatively luxurious accommodation, she has gained the nickname ''"Refit"'' by her crews. Other than this, the ship saw action on both the European and Pacific theatres and participated in landings in Africa and South East Asia before being phased out of service after the war.
 
@@ -18,7 +19,7 @@ Introduced during [[Update "La Royale"]] as a reward for the [[wt:en/news/8384-e
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
 Being designed with speed as the main priority, the Renown's armour is quite thin for a capital ship. Most of the Renown's citadel sides were covered with 228.6 mm of RHA, save for the bow and stern bulkheads that were only covered with 101.6 mm and 76.2 mm of armour, respectively. Because of this, the Renown's bulkheads will be obvious weak spots that most battleship can easily overmatch and potentially sends the ship to the bottom of the ocean via magazine detonation.
 
-Speaking of magazines, the Renown's main ammo racks are located just a bit below the waterline. As the belt armour only covers a few meters underwater, this will leave her magazines vulnerable to any incoming diving shots and torpedoes, even from a heavy cruiser.
+Speaking of magazines, the Renown's main ammo racks are located just a bit below the waterline. Unfortunately, as the ship is currently modelled in game, the vessel is sitting roughly a metre or two higher in the water as it should be for a fully loaded 1944 Renown, meaning that the ship is highly vulnerable to shells hitting the unprotected hull below the main armour belt, especially given that the damage model of the ship is currently missing an extension to the sloped armour deck designed to protect from hits below the belt, all of this resulting in diving shells easily being able to pass through a small distance of water and then right into unprotected ammunition stores. 
 
 On the bright side, the Renown's massive profile and spread-out crew distribution also allows the ship to tank several hits from the enemies should they be unable to hit your ammo racks. As such, prioritize your damage control on crew conservation and do not repair the damaged modules when not necessary.
 
@@ -75,6 +76,7 @@ However, due to the ship's long and narrow hull, combined with her high centre o
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Six 381 mm guns with good shell options
 * Impressive dual-purpose secondary armaments with a very high rate of fire and good firing arc
 * Great dedicated anti-air defense
@@ -83,6 +85,7 @@ However, due to the ship's long and narrow hull, combined with her high centre o
 * Has four propeller shafts powered by four blocks of powerful engines, can maintain its acceleration even with some of them disabled
 
 '''Cons:'''
+
 * Very large in size, can be easily spotted and hit
 * Extremely slow main turret traverse speed, inability to fire reactively
 * Overall mediocre armour protection, its bulkheads and barbettes, in particular, can be easily overmatched by most battleship guns
@@ -103,6 +106,7 @@ However, due to the ship's long and narrow hull, combined with her high centre o
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

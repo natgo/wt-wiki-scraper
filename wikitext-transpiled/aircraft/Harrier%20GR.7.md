@@ -146,7 +146,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[ADEN 25 (25 mm)|25 mm ADEN 25]] cannons (100 rpg)
 | || || || || 1 || || 1 || || || ||
@@ -181,6 +181,19 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[AIM-9L Sidewinder]] missiles
 | 1<sup>†</sup> || || 1<sup>†</sup> || || || || || || 1<sup>†</sup> || || 1<sup>†</sup>
 |-
+![[AIM-9M Sidewinder]] missiles
+|1<sup>†</sup>
+|
+|1<sup>†</sup>
+|
+|
+|
+|
+|
+|1<sup>†</sup>
+|
+|1<sup>†</sup>
+|-
 ! Countermeasures
 | 160<sup>†</sup> || || 160<sup>†</sup> || || || || || || 160<sup>†</sup> || || 160<sup>†</sup>
 |-
@@ -199,7 +212,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 25 mm ADEN 25 cannons (100 rpg = 200 total)
 * 2 x AIM-9L Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles
+
 * 4 x AIM-9L Sidewinder missiles + 640 x countermeasures
+
+* 4 x AIM-9M Sidewinder missiles
+
+* 4 x AIM-9M Sidewinder missiles + 640 x countermeasures
 * 108 x SNEB type 23 rockets
 * 114 x CRV7 M247 rockets
 * 2 x 540 lb Mk.M2 bombs (1,080 lb total)
@@ -256,7 +274,7 @@ To successfully use this weapon in ground battles, you will first need to stay w
 
 * It has a very large count of countermeasures (700 if all four BOL rails are equipped)
 * Even if only two BOL rails are equipped the amount of countermeasures is still very impressive at 380
-* Can carry up to four very effective [[AIM-9L Sidewinder]] missiles
+* Can carry up to four very effective [[AIM-9M Sidewinder]] missiles
 * Dedicated missile pylons ensure you can always carry at least two AIM-9Ls without sacrificing any ground attack ordnance
 * Has built-in target tracker and FLIR even without targeting pod
 * Has pilot night vision

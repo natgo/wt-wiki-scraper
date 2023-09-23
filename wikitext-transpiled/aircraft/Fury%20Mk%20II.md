@@ -141,6 +141,7 @@ Most aircraft at 1.0 lack the armour protection to take great amount of damage, 
 * Incredibly low stall speed
 * Machine guns have a high rate of fire for a reserve aircraft
 * Plenty of ammo
+* Good speed for a biplane
 
 '''Cons:'''
 
@@ -196,10 +197,13 @@ Nearly 300 Hawker Furies of all variants were built. Whilst obsolete as a fighte
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-''Paste links to sources and external resources, such as:''
-
+<!--''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
-* ''other literature.''
+* ''other literature.''-->
+
+* [https://en.wikipedia.org/wiki/Hawker_Fury [Wikipedia<nowiki>]</nowiki> Hawker Fury] 
+* [https://www.baesystems.com/en/heritage/hawker-fury [BAE Systems<nowiki>]</nowiki> Hawker Fury]
+* [https://haa-uk.aero/hawker-fury-beautiful-biplane-ever-built/ [Historic Aircraft Association<nowiki>]</nowiki> HAWKER FURY, THE MOST BEAUTIFUL BIPLANE EVER BUILT]
 
 {{AirManufacturer Hawker}}
 {{Britain fighters}}

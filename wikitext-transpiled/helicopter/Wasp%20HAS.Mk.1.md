@@ -56,15 +56,18 @@ The Wasp comes stock with its only payload and owing to its fragility should not
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AS.11}}
+{{main|AS.11|AS.12}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 4 x AS.11 missiles
+* 2 x AS.12 missiles
 
 The missiles carried by the Wasp are identical to the missiles carried by its predecessor the [[Scout AH.Mk.1]] so the pilot should already be comfortable in their operation. The AS.11 missiles are SACLOS (Semi Active Command to Line Of Sight) guided munitions and must be guided for their entire flight. These missiles boast a relatively short range of only 3.5 km which for most pilots can be a distance to the battlefield one begins sweating at. With 600 mm of armour penetration on a flat surface ranging down to 300 mm at extreme angles, the AS.11 carries enough punch to defeat most if not all targets; however, with only 1.5 kg equivalent explosive of TNT as a payload, positioning the missile is critical. Aim at the top of turrets or the flanks of your target to try and knock out crew clustered in the turret or force an ammo detonation.
 
 Only a single missile can be guided at a time, firing an additional while one is already in flight will 'cut the wire' and force the first missile to go 'wild', most of the time veering off course at a lazy angle and self-destructing after a while. The latest fired missile will be the only one being actively guided by the gunner sights and this weapon is extremely difficult to operate if your gunner is knocked out, leaving the helicopter with only approximated aim of the pilot (F key).
+
+The Wasp also has access to AS.12 missiles, a larger version of the AS.11 with significantly improved range, explosive capacity, and penetration. However, the AS.12 is also marginally slower and only 2 are able to be equipped at a time. It can be beneficial to utilise the AS.11s at lower BRs, playing against weaker targets in less well-defended airspace, while equipping the AS.12 when playing in dangerous territory and against more well-protected opponents, to fully take advantage of its improved characteristics.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

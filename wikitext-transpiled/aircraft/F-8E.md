@@ -143,7 +143,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
 | 3, 6 || || || 3, 6
@@ -161,6 +161,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1, 2 || || || 1, 2
 |-
 ! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || || || 1
+|-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
 | 1 || || || 1
 |-
 ! [[Mk 77 mod 4 incendiary]] bombs
@@ -209,6 +212,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 8 x 500 lb Mk 82 Snakeye bombs (4,000 lb total)
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 2 x 2,000 lb LDGP Mk 84 bombs (4,000 lb total)
+* 2 x 2,000 lb LDGP Mk 84 Air bombs (4,000 lb total)
 * 2 x Mk 77 mod 4 incendiary bombs
 {{Navigation-End}}
 

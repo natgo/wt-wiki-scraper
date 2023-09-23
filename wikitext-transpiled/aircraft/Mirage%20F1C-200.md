@@ -254,7 +254,7 @@ Magic 2s will be your bread and butter in the Mirage F1C-200 very often - despit
 
 '''Cons:'''
 
-* Below average acceleration compared to contemporaries with heavy ordinance
+* Below average acceleration compared to contemporaries with heavy ordnance
 * Mediocre manoeuvrability compared to contemporaries
 * The Matra Super 530F missiles are very heavy and strongly impact flight performance
 * 30 mm DEFA cannons have a steep learning curve, particularly against high-speed targets
@@ -270,6 +270,9 @@ The Iraqis took the refuelling probes from the Mirage F1C-200s they had acquired
 
 ;Skins
 ;[https://live.warthunder.com/feed/camouflages/?vehicle=mirage_f1c_200 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|nus0kWHEN34|'''Mirage F1C-200 Vehicle Overview''' - ''Bob Dickinson''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

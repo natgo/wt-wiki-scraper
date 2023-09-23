@@ -5,13 +5,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The Nesher was meant to replace the [[Shahak]] in the IAF. It started as a hidden project, basically as a copy of the French Mirage 5 to avoid the embargo imposed over Israel during the Six-Day War. The aircraft started production in Israel in 1969, with a few changes to the design and electronics to suit Israeli needs more precisely. With the help of Dassault Aviation, different parts were smuggled into Israel. It featured Israeli-made avionics, compatibility with [[Shafrir 2]] and [[AIM-9D Sidewinder|AIM-9D]] AAMs, better range, and an ejection seat. The aircraft showed good performance during the 1973 Yom Kippur War, and served with Israel until 1978. Some of the single seat variants of the Nesher found a new owner in Argentina. Many were refurbished and then sold, serving in the Argentinian Air Force until 2015 under the name "Dagger".
+
+Introduced in [[Update "Winged Lions"]], the Nesher flies like any other early Mirage. It is a fast plane with good AOA and agility as long as it has enough speed. Compared to the Shahak, the Nesher is capable of carrying enough ground ordnance to destroy a full base, however CAS duties are not recommended since the aircraft lacks any sort of ballistic computer. It has two hardpoints for air-to-air missiles, the AIM-9G being the most capable option at the end of the modifications tree. While the armament is nothing special for its BR, it compensates most of its flaws with good flight performance. It features 2 x DEFA 30 mm cannons that are very easy to aim, and when the missiles are used against enemies with no flares they are very hard to dodge. The most important thing about the Nesher is the speed, since it lacks flares, staying around Mach 1 is crucial to staying alive, even more when fighting enemies like the A-10, Su-25, or MiG-21SMT.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+The Nesher is a very fast and agile aircraft like many other delta wing fighters. However, it lags behind in terms of manoeuvrability compared to other jets of the Mirage family. But even with that, it has a good acceleration even when fully loaded when using the afterburner and is very fast at high altitudes, being capable of outmatching other fighters around its BR with ease.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -171,6 +173,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x Shafrir 2 missiles
 * 2 x AIM-9D Sidewinder missiles
@@ -199,7 +202,11 @@ Although it has less explosive mass than the AIM-9D, the upgraded seeker of the 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Nesher is a very interesting fighter. It has a similar flight performance to the Mirage 5F and the Mirage III but lacks some of the electronics and missiles that make those jets very competitive in aggressive fights.
+
+Because of that, and its lack of countermeasures, the Nesher's most important asset is retaining its speed. Since is a very fast aircraft, it is better used in a support role or doing passes around the map at high speeds, launching the missiles at priority targets that might be a threat to the Nesher or to save an ally from death. This good use of its ammunition is extremely important since the Nesher can only carry a maximum of 2 AAMs, one on each wing. Its guns, while great and easy to aim, have a low muzzle velocity and work better at low speeds when it is easier to point the nose of the aircraft in the desired direction. But since they are 30 mm cannons, they will destroy any aircraft with a small burst, making them very reliable.
+
+Going for ground bases is a good option in the Nesher. Compared to the Shahak, the Nesher is capable of carrying enough bombs to destroy a full base and still carry 2 missiles for air-to-air combat. When doing this, flying at medium altitudes and then diving to the bases is very important to stay alive, because when flying to close to the ground the enemy SPAA around the map can easily destroy or severely damage your aircraft. At the moment of approaching the base, it is important to go in a dive or lower your altitude closer to the ground because the Nesher has no ballistic computer at all. Once the bombs are dropped, the Nesher may be capable of playing aggressive in the middle of the match, since at that point most fights would have already started and enemies would be distracted. Thus climbing to high altitudes or playing too cautiously may result in a defeat, since your allies would need you helping in the fight.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -210,6 +217,7 @@ Although it has less explosive mass than the AIM-9D, the upgraded seeker of the 
 * Good turn rate making it very manoeuvrable
 * Decent variety of ground ordnance
 * Able to carry 2 x 20 mm M61 Vulcan gunpods
+* Good speed and acceleration
 
 '''Cons:'''
 
@@ -217,6 +225,7 @@ Although it has less explosive mass than the AIM-9D, the upgraded seeker of the 
 * No countermeasures or RWR
 * Bleeds a lot of speed in turn fighting, or high angles of attack
 * Can only 2 AAMs
+* No ballistic computer
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -239,6 +248,7 @@ Between 1971 and 1974, a total of 51 single-seat Neshers were built for combat o
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=nesher Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

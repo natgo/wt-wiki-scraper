@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened as just '''{{Specs|pseudonym}}''', also nicknamed "Quadruplo") is a rank {{Specs|rank}} Italian self-propelled anti-aircraft gun {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
+The '''Semovente Contraereo da 20/70 quadruplo''' was an experimental self-propelled anti-aircraft weapon developed for the Italian Royal Army during World War II. The Royal Italian Army ordered the construction of a self-propelled anti-aircraft weapon in 1942 to be deployed in the North African theatre of operations and to protect mechanized columns, which were often targeted by the Royal Air Force (RAF) in the absence of genuine air defence. The hull of the [[M15/42]] was utilized as the foundation for the design to save time and materials. The tank turret was replaced with a polygonal welded open turret that housed a quadruple 20 mm Scotti Isotta Fraschini 20/70 Model 41 autocannon. The first prototype was completed in early 1943 and tested at the Centro Studi Motorizzazione dell'esercito. It entered service in March 1943 and was assigned to the VIII Reggimento Autieri stationed at Cecchignola in Rome, where it was captured by German forces. By April 1945, it was on active duty with the V SS-Freiwilligen-Gebirgskorps, which fought the final struggle against the Red Army in Germany in the Teupitz area.
+
+Introduced in [[Update 1.85 "Supersonic"]], the Semovente Contraereo da 20/70 quadruplo is one of the greatest self-propelled anti-air vehicles for the lower ranks of the Italian Army ground forces. The Semovente Contraereo da 20/70 quadruplo, with a design similar to its German equivalent [[Wirbelwind|Flakpanzer IV "Wirbelwind"]], provides adequate air defences for friendly forces during engagements. In truth, this vehicle's cannons use the same ammo as its German equivalents. Even the heaviest planes are frequently brought down with only a few hits. However, the vehicle armour does not fully protect the crew, which might be a severe problem when numerous enemy planes are in the sky. As a result, it is critical to only fire when you are certain that the cannon rounds will hit.
 
 == General info ==
 === Survivability and armour ===
@@ -114,6 +116,7 @@ In Realistic battles, the Quadruplo is best used in the support role when tank h
 * High mobility when spaded
 * Great armour for a SPAA
 * Guns have a very high rate of fire
+* Ammo is stored in one belt, meaning you can continuously fire unlike the Wirbelwind
 * Guns are placed very close together
 
 '''Cons:'''
@@ -122,10 +125,11 @@ In Realistic battles, the Quadruplo is best used in the support role when tank h
 * HVAP-T PzGr 40 belt is a tier IV modification
 * Performance is inadequate when stock
 * Gap in the gunner's position of the turret armour
-* Turret can be penetrated by .50 cals heavy machine guns
+* Turret can be penetrated by .50 cal machine guns
 * 2 of 3 crew members crammed inside the turret
 * Hull rocks back and forth when firing causing some rounds to miss
 * Low ammunition count compared to its high rate of fire
+* The ammo being stored as a single belt means that you have to completely empty it to reload
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

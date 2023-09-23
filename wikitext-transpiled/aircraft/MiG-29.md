@@ -252,7 +252,8 @@ The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realisti
 
 '''Pros:'''
 
-* High top speed, with enough engine power to reach that top speed even when near sea level
+* Highest Topspeed at Sea-level with ~ 1570kph / 975mph 
+* Very good Acceleration at all Altitudes 
 * Good manoeuvrability at low to medium speed
 * Effective gun with suitable ammunition load and lethal effect on air targets
 * Good radar system able to use Pulse-Doppler and Track-While-Scan to search for targets
@@ -264,7 +265,7 @@ The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realisti
 
 * Manoeuvrability drops at higher speed due to pilot pulling more G's, which can make it difficult to turn quickly without G-LOCing the pilot, such as evading a radar missile fired at close range
 * The SPO-15 RWR is pseudo-all-aspect where the detections are divided into different sectors instead of showing the exact direction
-* Underperforming IR missiles
+* Lackluster IR-Missiles (R-60Ms) compared to the Planes you will gonna Face 
 * Radar mechanics may have larger margin of error against very long-range (greater than 30 km) and very low altitude planes, even if enemy are within radar missile's weapon envelope
 * Very limited supply of ammo (150 rounds)
 

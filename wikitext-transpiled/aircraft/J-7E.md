@@ -244,7 +244,7 @@ Countermeasures and a radar warning receiver allow the J-7E to have good defensi
 * New engines with higher thrust and overall acceleration thanks to the lighter weight than Soviet MiG-21s
 * Unique double-delta wings that gives impressive manoeuvrability and energy retention at its tier
 * Multifunctional HUD and full ballistic computer functionality
-* Comes with RWR and 72 countermeasures
+* Comes with extremely advanced RWR and 72 countermeasures
 * PL-5B missiles can make very short work of your enemies with their 30G overload and long boost time
 * Good selection of ground attack weaponry, including powerful 130 mm rockets and 500 kg bombs
 
@@ -254,12 +254,11 @@ Countermeasures and a radar warning receiver allow the J-7E to have good defensi
 * Lacks a fire-control radar and radar-guided weaponry
 * No all-aspect IR missiles
 * Missile capacity of 4 is below average
-* RWR only displays 4 quadrants and does not display the exact position of a radar lock in respective to the aircraft, notching PD radar missiles can prove more difficult.
-* Engine can be prone to overheat occasionally with extended use
+* Engine can be prone to overheat with extended use
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The CAC J-7 Fishbed (alternatively called a Fishcan to differentiate from the [[MiG-21 (Family)|Soviet built ones]]) has entered PLAAF service since late 1960s, but due to the political turmoil and lack of documents due to Sino-Soviet split, it was until the mid-1970s where the [[J-7II]] has a steady pace of manufacture. The 4th major revision of this airframe, J-7IV, aka J-7E, needs to trace back to the 1980s.
+The CAC J-7 Fishbed (alternatively called a Fishcan to differentiate from the [[MiG-21 (Family)|Soviet built ones]]) has entered PLAAF service since late 1960s, but due to the political turmoil and lack of documents due to Sino-Soviet split, it was not until the mid-1970s until the [[J-7II]] had a steady pace of manufacture. The 4th major revision of this airframe, J-7IV, aka J-7E, can be traced back to the 1980s.
 
 In the early 1980s, Mainland China had better relationships with European countries who seek to open up their military equipment market; thus during these days the older J-7II received a overhaul upgrade coded J-7B (or F-7M in foreign market) with British electronic equipment provided by GEC Marconi; while at the same time Chinese got their hands on a few [[MiG-21MF (Germany)|MiG-21MF]] from Egypt for upgrading the PLAAF fleet with a faster and radar-equipped aircraft, which later became the J-7C/D. They however failed to meet PLAAF's requirements on low speed dogfight doctrine and only a mere 54 aircraft were manufactured, though they were impressed by the R-13-300 engines on them and thus it became the Shenyang Liming WP-13 engine.
 

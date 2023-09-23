@@ -9,7 +9,7 @@ The '''{{Specs|name}}''' (FV4030/2), which could be seen as the predecessor of t
 
 Introduced in [[Update "Apex Predators"]], the Khalid is a modernized Chieftain Mk.5 with subsystem upgrades to cope with the heat of the Cold War. Thanks to a new 1,200 hp engine, it now enjoys better overall mobility over its predecessors in UK service while utilizing the fire control system from later Mk.10s. However, players have to be aware of its not-so-effective protection, as it lacks any composite armour.
 
-''Note: Khalid (lit. eternal) is a common name in Arabic World and not to be confused with the Al-Khalid MBT from Pakistan''
+''Note: Khalid (lit. eternal) is a common name in Arabic World and not to be confused with the Al-Khalid MBT from Pakistan (aka [[MBT2000]]/VT-1 in NORINCO catalogue)''
 
 == General info ==
 === Survivability and armour ===

@@ -153,7 +153,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="25" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="26" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
 | || || || 1 || 1 || || 1 || 1 || || ||
@@ -218,6 +218,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[R-60M]] missiles
 | 1 || || || || || || || || || || 1
 |-
+! [[R-73]] missiles
+| || 1 || || || || || || || || 1 ||
+|-
 ! Mercury targeting pod
 | || || || || || 1 || || || || ||
 |-
@@ -233,6 +236,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 2 x 800 l drop tanks
 * 2 x R-60M missiles
+* 2 x R-73 missiles
 * 32 x 100 kg OFAB-100 bombs (3,200 kg total)
 * 8 x 250 kg OFAB-250sv bombs (2,000 kg total)
 * 8 x 250 kg OFAB-250Sh bombs (2,000 kg total)
@@ -256,9 +260,9 @@ The Su-25T's arsenal includes just about everything in the original Su-25's arse
 
 It is helpful to carry the Mercury targeting pod when using any laser-guided air-to-ground weapons. Although it is primarily designed for NVD capabilities (no thermal optics, unfortunately) and the nose-mounted Shkval already has built-in zoom and auto-tracker systems, the Mercury system has a wider field of view from its belly placement and can look almost directly below the center of the Frogfoot, which makes it easier to keep the target locked when breaking away from a joust or incoming fire.
 
-As could be expected of having the same targeting system as the Ka-50, the Su-25T can carry the 9K127 Vikhr ATGM in an unusual case of a fixed-wing aircraft being able to carry helicopter weapons. The Vikhr can be carried in greater numbers compared to helicopters and the speed and altitude of this launch platform helps extend the effective range somewhat. 800 mm of tandem-warhead penetration and about 5 kg of TNT equivalent are enough to dispatch both armoured and light targets alike upon direct hits. The Vikhrs of course can swat aircraft and even destroy incoming missiles because of their proximity fuses, but this does not mean that they are true air-to-air weapons. Acquiring a fast moving target with the auto tracker can be difficult and they do not have enough maneuverability to follow evasive maneuvers, so in air combat they are best used in head-ons (to force opponents to break off) or when trailing slow and unaware enemies.
+As could be expected of having the same targeting system as the Ka-50, the Su-25T can carry the 9K127 Vikhr ATGM in an unusual case of a fixed-wing aircraft being able to carry helicopter weapons. The Vikhr can be carried in greater numbers compared to helicopters and the speed and altitude of this launch platform helps extend the effective range somewhat. 800 mm of tandem-warhead penetration and about 5 kg of TNT equivalent are enough to dispatch both armoured and light targets alike upon direct hits. The Vikhrs of course can swat aircraft and even destroy incoming missiles because of their proximity fuses, but this does not mean that they are true air-to-air weapons. Acquiring a fast moving target with the auto tracker can be difficult and they do not have enough manoeuvrability to follow evasive manoeuvres, so in air combat they are best used in head-ons (to force opponents to break off) or when trailing slow and unaware enemies.
 
-The Vikhrs are some of the Su-25T's most interesting weapons because they can be carried in huge numbers (no other jet can carry 16 guided air-to-ground missiles), have secondary utility, and have a lethal HEAT warhead for situations where bad luck or inconsistent overpressure effects could occasionally cause a HE warhead to only cause minor damage. With plenty to spare, they can also be ripple-fired in close pairs to double-tap heavily armored targets or cast a wider net to intercept incoming missiles. However they do have some drawbacks as well: the Vikhr has a very narrow FOV for launch authorization and it lacks the raw HE power to destroy clustered targets or on near-misses.
+The Vikhrs are some of the Su-25T's most interesting weapons because they can be carried in huge numbers (no other jet can carry 16 guided air-to-ground missiles), have secondary utility, and have a lethal HEAT warhead for situations where bad luck or inconsistent overpressure effects could occasionally cause a HE warhead to only cause minor damage. With plenty to spare, they can also be ripple-fired in close pairs to double-tap heavily armoured targets or cast a wider net to intercept incoming missiles. However they do have some drawbacks as well: the Vikhr has a very narrow FOV for launch authorization and it lacks the raw HE power to destroy clustered targets or on near-misses.
 
 New options are also available in the form of TV-guided weapons, as seen on the [[MiG-27M]]. The heavy Kh-29T AGM can be loaded on the inboard hardpoints. It has an enormous ~150 kg HE warhead and is fire-and-forget, so the Su-25T is completely free to break off after launch. This complements the Vikhrs well. Alternatively the same hardpoints can be used to mount the KAB-500Kr TV-guided bomb, but since they only have slightly more TNT equivalent than the Kh-29T and are unpowered (a major downside when being carried by a subsonic jet), they don't have as much utility.
 
@@ -287,7 +291,6 @@ The Su-25T Frogfoot is best suited for ground attack in general, using similar l
 
 * Slow aircraft and heavy aircraft, especially with ordnance
 * IRCM cannot stop missiles that have IRCCM such as Stingers
-* Only two R-60Ms for self-defence
 * Can overspeed and overheat the engines if not careful with the throttle
 * Mediocre manoeuvrability
 * Controls compress at high speeds

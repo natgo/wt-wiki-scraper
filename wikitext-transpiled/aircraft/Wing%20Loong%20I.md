@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''', designated as GJ-1 (攻击-1; attacker-1) in PLAAF service, is a Chinese strike UCAV. It was introduced in [[Update "Drone Age"]].
+The '''{{Specs|name}}''', designated as the GJ-1 (攻击-1; attacker-1) in PLAAF service, is a Chinese strike UCAV. It was introduced in [[Update "Drone Age"]].
 
-The first PLAAF UCAV in service and one of the earliest UCAVS from Asia, although having a missile with lesser penetration to USA/Russia counterpart, if utilized properly, it can do sufficient damage to enemy team with high precision; while players has to think twice for when to deploy an UCAV or alternatively deploy fixed-wing jets/rotorcrafts.
+The '''{{Specs|name}}''' was the first PLAAF UCAV in service and is one of the earliest UCAVS to come from Asia. While the [[AKD-9]] AGMs lack both range and penetration compared to its contemporaries, the missiles are still adequate against enemy ground targets. It is however to be noted that the high SP cost to spawn a UCAV must be weighed against other available options, such as aircraft and helicopters, and only be spawned in if the player has no other close-air support option or deems the drone's benefits to be worth the high spawn cost.
 
 == General info ==
 === Flight performance ===
@@ -66,7 +66,7 @@ The first PLAAF UCAV in service and one of the earliest UCAVS from Asia, althoug
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-To say at least, although UCAVs of the era use composite materials for the airframe, but UCAV themselves are not designed for high-intensity battles and also flies slow in this case; any near misses or a direct hit from cannons or missiles is very likely to send Wing Loong straight back to the ground.
+While UCAVs use composite materials in their construction, as they are not designed for direct enemy confrontation they cannot realistically survive any enemy fire, be it surface-to-air missiles, air-to-air missiles, aircraft cannon fire, or proximity-fused shells. Avoid being hit at all costs if possible to save the UCAV from plummeting back to earth.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -82,13 +82,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Like other available Strike UCAVs in the game, Wing Long I is available to all players playing ground battles and is beneficial to players who have not researched BR appropriate aircraft or helicopters.
+Like other available Strike UCAVs in the game, the Wing Long I is available to all players playing ground battles above a certain BR, and is beneficial to players who lack BR-appropriate aircraft or helicopter close air support options.
 
-You start off by spawning at an altitude of 4,000 m above the battlefield. Priority targets should be the enemy SPAA to allow your team's air support to fly without resistance. Enemy SPAAs are usually found stationary at the enemy spawn, though be aware of those moving closer to the frontlines as well. If there are no SPAA around, your next target would be enemy tanks that are near/on the capture points. Once you fire both [[AKD-9]] missiles, you have three options:
+You start off by spawning at an altitude of 4,000 m above the battlefield. Priority targets should be enemy SPAAs to allow your team's as well as your own safety from an express ticket back to the ground. Enemy SPAAs are usually found stationary at the enemy spawn, though be on your guard for players moving closer to the front lines as well. If there are no SPAAs around, your next target will be enemy tanks that are near/on the capture points. Once you fire both [[AKD-9]] missiles, you have three options:
 
-# '''Loiter over the battlefield and provide reconnaissance:''' Just because you can no longer use your missiles doesn't mean you can't help your team! Fly around the battlefield and scan the area with your amazing optical camera. Once you spot any enemy vehicles that pose a threat to your team, quickly mark them on the map and tell your teammates using the in-game chat (alternatively if you have any squad mates, you can work with them and point out enemies nearby using the squad marker)
-# '''Land and rearm:''' Once the two ATGMs are used, reduce your throttle and glide towards the airbase. Once you land, begin any repairs and necessary rearming so you can take off. It should be worth noting that the UCAVs suffers from a low speed and a horrid climb rate, making the return to base and return to the battlefield incredibly lengthy. In terms of battlefield survival, the drone's altitude is its only saving grace, as helicopters/attack aircraft will generally be at lower altitudes and SPAAs will have no trouble sending a very slow target back to the hangar screen. Consequently, fighting at low altitudes should be regarded as a suicide mission.
-# '''Bail out of the vehicle and spawn in a more capable vehicle:''' While it feels counterintuitive to bail out of a vehicle that cost 750 spawn points, it is the fastest and best way to get you back into the battle. Using the spawn points you accumulated from the carnage your two missiles scored, you can get enough to spawn another tank, an attack aircraft, or a helicopter. The advantage of this is that you should have cleared the path for you or other pilots to make some damage, as the SPAAs and anti-air threats are no longer there.
+# '''Loiter over the battlefield and provide reconnaissance:''' Just because you can no longer use your missiles doesn't mean you can't help your team! Fly around the battlefield and scan the area with your amazing optical camera, particularly with its thermal imaging capabilities. Once you spot any enemy vehicles that pose a threat to your team, quickly mark them on the map and tell your teammates using the in-game chat (alternatively if you have any squad mates, you can work with them and point out enemies nearby using the squad marker)
+# '''Land and rearm:''' Once the two ATGMs are used, turn around and fly back towards the airbase. Once you land, begin any repairs and necessary rearming so you can take off. It is to be noted that UCAVs cannot land at helipads to resupply, nor do they have any brakes in their wheels - so try and bleed all your speed before touching down to shorten your braking distance. It should be worth noting that the UCAVs suffers from a very low top speed and a horrid climb rate, making the return to base and return to the battlefield incredibly lengthy. In terms of battlefield survival, the drone's altitude is its only saving grace, as helicopters/attack aircraft will generally be at lower altitudes and SPAAs will have no trouble sending a very slow target back to the hangar screen. Consequently, fighting at low altitudes should be regarded as a suicide mission.
+# '''Bail out of the vehicle and spawn in a more capable vehicle:''' While it feels counterintuitive to bail out of a vehicle that cost 750 spawn points, it is the fastest and best way to get you back into the battle. Using the spawn points you accumulated from the carnage your two missiles scored, you can get enough to spawn another tank, an attack aircraft or a helicopter. The advantage of this is that if you have taken out enemy anti-aircraft vehicles you can enjoy much more freedom to attack enemy tanks, and it also enables your teammates to also join in on the action with their own aircraft or helicopters.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -97,7 +97,7 @@ You start off by spawning at an altitude of 4,000 m above the battlefield. Prior
 
 * Spawns at altitude
 * Exceptional optical camera
-* Hard to counter by SPAA
+* Has a clear thermal imager and sight stabilization for ease of target identification
 * Available to everyone to use
 
 '''Cons:'''
@@ -105,8 +105,9 @@ You start off by spawning at an altitude of 4,000 m above the battlefield. Prior
 * Low max speed
 * Horrid climb rate
 * [[AKD-9]] missiles are quite underpowered
-* Access to only two ATGMs for a price higher than most helicopters and attack aircraft (which can carry more ATGMs)
-* A large amount of time will be spent going from spawn to the airfield to rearm and back
+* Access to only two ATGMs for a price higher than most helicopters and attack aircraft (which can carry far more ordnance)
+* Takes a lengthy period of time to rearm and return to the battlefield
+* Faces anti-aircraft vehicles which can knock UCAVs out of the sky before the missiles even get within range, which can cause a 'severe emotional event'.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -152,17 +152,65 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 20 mm Browning-Colt Mk12 Mod 0 cannons, wing-mounted (100 rpg = 200 total)
 
-[[File:A-4B an trn 26 007.png|400px|thumb|right|An '''{{PAGENAME}}''' set up for air-to-air combat with its suspended centerline gunpod and AIM-9B Sidewinders.]]
-[[File:A-4B an trn 26 003.png|400px|thumb|right|The 133 FFAR Mighty Mouse rockets effectively turns into a 70 mm autocannon which will not jam or overheat when fired as a salvo.]]
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|Mk 81 Snakeye (250 lb)|LDGP Mk 82 (500 lb)|Mk 82 Snakeye (500 lb)}}
-{{main|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)|Mk 77 mod 4 incendiary|Mk 79 Mod 1 incendiary}}
-{{main|AGM-12B Bullpup|AIM-9B Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
+| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
+| 1 || 1 || 1
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 6 || 6 || 6
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 6 || 6 || 6
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 3 || 3 || 3
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 3 || 3 || 3
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| 1 || 3 || 1
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || 1 ||
+|-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
+| || 1 ||
+|-
+! [[Mk 77 mod 4 incendiary]] bombs
+| 2 || 3 || 2
+|-
+! [[Mk 79 Mod 1 incendiary]] bombs
+| 1 || 1 || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 38 || 57 || 38
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 8 || 12 || 8
+|-
+! [[AGM-12B Bullpup]] missiles
+| 1 || 1 || 1
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || || 1
+|-
+| colspan="4" | Maximum permissible loadout weight: 2,710 kg<br>Maximum permissible wing load: 1,800 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 133 x FFAR Mighty Mouse rockets
@@ -174,61 +222,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 9 x 500 lb Mk 82 Snakeye bombs (4,500 lb total)
 * 5 x 1,000 lb LDGP Mk 83 bombs (5,000 lb total)
 * 1 x 2,000 lb LDGP Mk 84 bomb (2,000 lb total)
+* 1 x 2,000 lb LDGP Mk 84 Air bomb (2,000 lb total)
 * 7 x Mk 77 mod 4 incendiary bombs
 * 3 x Mk 79 Mod 1 incendiary bombs
 * 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
-| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 20 mm Mk 11 mod 5 cannons (750 rpg)
-| 1 || 1 || 1
-|-
-! 250 lb LDGP Mk 81 bombs
-| 6 || 6 || 6
-|-
-! 250 lb Mk 81 Snakeye bombs
-| 6 || 6 || 6
-|-
-! 500 lb LDGP Mk 82 bombs
-| 3 || 3 || 3
-|-
-! 500 lb Mk 82 Snakeye bombs
-| 3 || 3 || 3
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| 1 || 3 || 1
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || 1 ||
-|-
-! Mk 77 mod 4 incendiary bombs
-| 2 || 3 || 2
-|-
-! Mk 79 Mod 1 incendiary bombs
-| 1 || 1 || 1
-|-
-! FFAR Mighty Mouse rockets
-| 38 || 57 || 38
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 8 || 12 || 8
-|-
-! AGM-12B Bullpup missiles
-| 1 || 1 || 1
-|-
-! AIM-9B Sidewinder missiles
-| 1 || || 1
-|-
-| colspan="4" | Maximum permissible loadout weight: 2,710 kg<br>Maximum permissible wing load: 1,800 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+[[File:A-4B an trn 26 007.png|400px|thumb|right|An '''{{PAGENAME}}''' set up for air-to-air combat with its suspended centerline gunpod and AIM-9B Sidewinders.]]
 
 The {{PAGENAME}} while designated by the U.S. Navy as an attacker can work as a multi-role aircraft. Though the variety of armament leans heavily to the attacker side, this aircraft also has a fighter side which can feel more like a hotrod compared to some of the other fighters out there such as the [[F-4C Phantom II|F-4]] coming in at 14-tonnes more massive.
 
@@ -238,6 +240,7 @@ The {{PAGENAME}} while designated by the U.S. Navy as an attacker can work as a 
 The Douglas Aircraft Company built the {{PAGENAME}} from the ground up to be a small, fast and effective as an attack aircraft. While conventional wisdom would dictate that a larger aircraft would be necessary to carry enough suspended ordnance into battle to be effective, the Skyhawk shatters that myth. With only three hardpoints to attach ordnance to, specialized racks can extend the number of suspended weapons which the aircraft can carry. For instance, if using this aircraft to take out a mobile vehicle or anti-aircraft artillery, strapping on 18 x 250 lb bombs provides an opportunity to hit targets which may spread out or to divide ordnance between different clusters of targets. When attacking more heavily armoured targets or bases, the {{PAGENAME}} can choose to load up on 5 x 1,000 lb bombs or a single 2,000 lb bomb which creates considerable damage against ground targets.
 
 Though bombs do a considerable amount of damage where they land, they are not the end-all answer to ground attack. Unguided rockets provide another option to the attacker-role of the aircraft. This aircraft has the option of loading up on 133 FFAR Mighty Mouse or 28 Zuni unguided rockets. When the pilot selects to fire these rockets in salvo mode, they have effectively turned their rockets into a large calibre autocannon which will not overhead or jam and continue to fire off rockets until the rocket tubes deplete of their ordnance. A salvo of Mighty Mouse rockets can also be extremely effective against aircraft or helicopters which may have a hard time getting out of the way when fired at from shorter distances. On domination maps, a salvo of rockets can make quick work of aircraft attempting to capture a runway. Bullpup rockets are another option; however, with only three loaded at a time, it is essential to be selective with the targets. To help with stabilizing the {{PAGENAME}} in a dive and while lining up targets, fuselage-mounted airbrakes can assist in preventing speed build up and stabilize the aircraft, however, once exiting an attack point, it is important to retract the airbrakes to allow for the aircraft to gain speed.
+[[File:A-4B an trn 26 003.png|400px|thumb|right|The 133 FFAR Mighty Mouse rockets effectively turns into a 70 mm autocannon which will not jam or overheat when fired as a salvo.]]
 
 ;Fighter
 

@@ -160,7 +160,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="22" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
+| rowspan="23" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-4C_Phantom_II.png]]</div>
 |-
 ! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
 | 1 || || || || || 1 || || || || || 1
@@ -181,6 +181,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 2 || 3 || || || || 3 || || || || 3 || 2
 |-
 ! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || || || || || 1 || || || || || 1
+|-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
 | 1 || || || || || 1 || || || || || 1
 |-
 ! [[AGM-62A Walleye I (505 kg)|505 kg AGM-62A Walleye I]] bombs
@@ -239,6 +242,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
 * 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
 * 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
+* 3 x 2,000 lb LDGP Mk 84 Air bombs (6,000 lb total)
 * 4 x BLU-27/B incendiary bombs
 * 285 x FFAR Mighty Mouse rockets
 * 60 x Zuni Mk32 Mod 0 ATAP rockets

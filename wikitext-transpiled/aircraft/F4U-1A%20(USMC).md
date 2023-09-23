@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American naval fighter {{Battle-rating}}. It was introduced in [[Update 1.39]].
+The F4U-1A (USMC) is a variation of the F4U-1A that mainly served with the U.S. Marine Corps. Although the Corsair was originally intended for the U.S. Navy, the Corsair fit right in with the USMC. The Marine Corps successfully used Corsairs and many pilots favored the Corsair over obsolete aircraft like the F2A. Lieutenant Kenneth A. Walsh stated, “The F4U could outperform a Zero in every aspect except slow speed manoeuvrability and slow speed rate of climb.” Also, the F4U-1A lacked any water injection system until they were retrofitted after an experimental F4U-1A with the system was test flown. 
+
+The '''{{Specs|name}}''' was introduced in [[Update 1.39]]. It’s essentially the same aircraft as the F4U-1A however the USMC version lacks an arrestor hook which decreases the weight by around 30 kg (66.1 lbs). This slightly increases the acceleration but it’s negligible and both aircraft are very alike in performance. The USMC version also lacks any sort of suspended armament. To conclude, the USMC version lacks bombs, sits at a higher battle rating, and has virtually the same performance as the regular 1A. Nonetheless, it is still a good aircraft that can dominate due to its good high-speed characteristics and weaponry. 
 
 == General info ==
 === Flight performance ===

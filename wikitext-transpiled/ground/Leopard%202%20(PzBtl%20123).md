@@ -136,11 +136,11 @@ Because the PzBtl 123 is fast, it is good for flanking attacks. If you can manag
 
 * Hull armour is weak and proves vulnerable against most enemy shells
 * Weak points in turret (gun mantlet and gunner's optics) can cripple tank or entire crew quickly if enemy exploits them
+* Crew arrangement means a frontal shot can potentially knock out driver, gunner and commander (3/4 crew members) with one shot.
 * If an APSDFS or HEATFS shell hits the inside of the track tread, the entire crew can be put out of comission very quickly.
 * Turret's strong points are still vulnerable to most top-ranking APFSDS shells available to the enemies
 * Blow out panel-enabled ammo racks are small, carrying only 16 rounds
 * Machine guns, both coaxial and pintle-mount, are small calibre with restricted gun elevation that makes engaging and threatening air targets difficult
-* Frontal shots have a high chance of killing your driver, gunner and commander (3/4 crew members) with one shot.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

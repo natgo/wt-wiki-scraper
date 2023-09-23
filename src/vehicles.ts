@@ -134,43 +134,33 @@ async function main(dev: boolean) {
   const helicopter = fs.readdirSync("./wikitext/helicopter/");
   const fleet = fs.readdirSync("./wikitext/fleet/");
 
-  const groundPages = fs.readdirSync("./wikitext-transpiled/ground/").filter((value) => {
-    return value.match(".md");
-  });
-  const aircraftPages = fs.readdirSync("./wikitext-transpiled/aircraft/").filter((value) => {
-    return value.match(".md");
-  });
-  const helicopterPages = fs.readdirSync("./wikitext-transpiled/helicopter/").filter((value) => {
-    return value.match(".md");
-  });
-  const fleetPages = fs.readdirSync("./wikitext-transpiled/fleet/").filter((value) => {
-    return value.match(".md");
-  });
-
-  ground.forEach((element, i) => {
+  ground.forEach((element) => {
     vehicles.ground.push(JSON.parse(fs.readFileSync(`./wikitext/ground/${element}`, "utf-8")));
     vehiclePages.ground.push(
-      fs.readFileSync(`./wikitext-transpiled/ground/${groundPages[i]}`, "utf-8"),
+      fs.readFileSync(`./wikitext-transpiled/ground/${element.replace(".json", "")}.md`, "utf-8"),
     );
   });
-  aircraft.forEach((element, i) => {
+  aircraft.forEach((element) => {
     vehicles.aviation.push(JSON.parse(fs.readFileSync(`./wikitext/aircraft/${element}`, "utf-8")));
     vehiclePages.aviation.push(
-      fs.readFileSync(`./wikitext-transpiled/aircraft/${aircraftPages[i]}`, "utf-8"),
+      fs.readFileSync(`./wikitext-transpiled/aircraft/${element.replace(".json", "")}.md`, "utf-8"),
     );
   });
-  helicopter.forEach((element, i) => {
+  helicopter.forEach((element) => {
     vehicles.helicopter.push(
       JSON.parse(fs.readFileSync(`./wikitext/helicopter/${element}`, "utf-8")),
     );
     vehiclePages.helicopter.push(
-      fs.readFileSync(`./wikitext-transpiled/helicopter/${helicopterPages[i]}`, "utf-8"),
+      fs.readFileSync(
+        `./wikitext-transpiled/helicopter/${element.replace(".json", "")}.md`,
+        "utf-8",
+      ),
     );
   });
-  fleet.forEach((element, i) => {
+  fleet.forEach((element) => {
     vehicles.fleet.push(JSON.parse(fs.readFileSync(`./wikitext/fleet/${element}`, "utf-8")));
     vehiclePages.fleet.push(
-      fs.readFileSync(`./wikitext-transpiled/fleet/${fleetPages[i]}`, "utf-8"),
+      fs.readFileSync(`./wikitext-transpiled/fleet/${element.replace(".json", "")}.md`, "utf-8"),
     );
   });
 

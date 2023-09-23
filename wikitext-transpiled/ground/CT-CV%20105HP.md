@@ -1,6 +1,7 @@
 {{Specs-Card
 |code=sw_patria_amv_ctcv_105
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|market=id50230_ct_cv_105hp_sweden
 }}
 
 == Description ==
@@ -65,15 +66,15 @@ The CT-CV turret mounts a Cockerill 105 mm L/50 cannon. For players who already 
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -10°/+42° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 43.6 || __._ || __._ || __._ || __._ || rowspan="2" | 5.00
+| rowspan="2" | 42 || rowspan="2" | -10°/+42° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 43.6 || 60.4 || 73.3 || 81.0 || 86.2 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
-| 27.3 || __._ || __._ || __._ || __._
+| 27.3 || 32.1 || 38.9 || 43.1 || 45.8
 |-
 |}
 
 ==== Ammunition ====
-{{:L/50 (105 mm)/Ammunition|M1061, M393A2, M416, DM23, DM33, Falaric 105}}
+{{:L/50 (105 mm)/Ammunition|M1061, M393A2, M416, DM23, DM33, Falarick 105}}
 
 '''M1061 HEAT-FS, stock:''' The stock ammunition for the CT-CV; like most 105 mm HEAT-FS in NATO/PLAGF service, it might not have a problem damaging light vehicles or SPAAs at its tier, but in the case of well-armoured MBTs which are sometimes equipped with ERA packages, it will struggle to penetrate them from the front; even shots on the sides can be frustrating due to the lack of spalling of HEAT shells.
 
@@ -83,7 +84,7 @@ The CT-CV turret mounts a Cockerill 105 mm L/50 cannon. For players who already 
 
 '''DM33 APFSDS, tier IV:''' This is the other kinetic shell for the vehicle; although it has the lowest penetration among late 105 mm APFSDS at only 408 mm point-blank, it is after all still a long-rod APFSDS with higher penetration and spalling than previous ammunitions. This will be the go-to ammunition once players research DM33.
 
-'''Falaric 105, tier II:''' Oddly enough, instead of being manufactured in NATO/US-allied countries, the Falarick 105 is in fact a Ukrainian cannon-launched tandem-warhead ATGM designed specifically for the Cockerill 105 mm L/50 cannon. Although it has much lower penetration that its Chinese counterpart at only 550 mm, the explosive content and velocity can certainly give enemy MBTs or light vehicles a bad day, sometimes even helicopters will fall victim if the missile if they get too close or hover for too long.
+'''Falarick 105, tier II:''' Oddly enough, instead of being manufactured in NATO/US-allied countries, the Falarick 105 is in fact a Ukrainian cannon-launched tandem-warhead ATGM designed specifically for the Cockerill 105 mm L/50 cannon. Although it has much lower penetration that its Chinese counterpart at only 550 mm, the explosive content and velocity can certainly give enemy MBTs or light vehicles a bad day, sometimes even helicopters will fall victim if the missile if they get too close or hover for too long.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -125,7 +126,7 @@ The CT-CV turret mounts a Cockerill 105 mm L/50 cannon. For players who already 
 
 * Very high speed and mobility, great for flanking and traversing larger, open maps
 * Autoloader grants a steady short reload time
-* Fast-moving, gun-launched Falaric 105 ATGM, perfect for distant targets or helicopters
+* Fast-moving, gun-launched Falarick 105 ATGM, perfect for distant targets or helicopters
 * Faster turret rotation speed
 * Great gun elevation and depression angles
 * Has a laser warning system
@@ -138,7 +139,7 @@ The CT-CV turret mounts a Cockerill 105 mm L/50 cannon. For players who already 
 * Bad stationary mobility, can't turn while standing still, has to move forward or backwards to turn
 * High profile and nonexistent armour, can only stop 30 mm autocannon rounds
 * Unstable at high speed, over ~55 km/h the main gun looses stability and starts to sway up and down, this also applies to driving, as the vehicle can be sent flying on even smaller bumps, this will drain all your speed and leave you in compromising positions
-* The Falaric 105 ATGM has poor penetrative capabilities compared to the CT CV's BR
+* The Falarick 105 ATGM has poor penetrative capabilities compared to the CT CV's BR
 * Autoloader only holds 10 rounds, the rest are stored in the hull under the turret basket, these are placed dangerously and should be avoided
 * Only has 3 crew, reducing the vehicle's survivability
 

@@ -11,7 +11,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+To replace the outdated TBD Devastator, several companies put forth their designs. Grumman’s design was the TBF Avenger, a single-engine torpedo bomber. It was to be fitted with the Wright R-2600-8, a double-row 14-cylinder radial engine that produced 1,700 hp. Although it was extremely heavy, the U.S. Navy selected Grumman’s design and ordered two prototypes in 1940. One special feature of the TBF Avenger was the Sto-Wings which folded the wings inwards to remedy the issue with the heights of carrier hangar decks. The TBF Avenger would be widely used by both the U.S. and Royal Navy during the war. American Avengers saw use at the Battle of Eastern Solomons and Guadalcanal; managing to sink a Japanese light carrier and a battleship. They also brought havoc against submarine crews such as I-52.
+
+Introduced since the start of the Open Beta Test prior to Update 1.27, the '''{{Specs|name}}''' is a decent torpedo bomber. It has access to AN-M66A2 (2,000 lb) bombs as well as Mk. 13-6 torpedos. Defensive armament is lacking with only one single 12.7 mm turret providing fire from the top and a single 7.62 turret mounted in the underside. The Avenger does have two 12.7 mm machine guns for offensive fire but is quite lacklustre. The TBF-1C Avenger is a formidable torpedo bomber however it’s very vulnerable to enemy fighters. 
+
 
 == General info ==
 === Flight performance ===

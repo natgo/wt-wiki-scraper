@@ -80,7 +80,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet bomber
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | SNECMA Atar 101E3 || 2
+| colspan="2" | SNECMA Atar 101E5 || 2
 | colspan="2" | 11,211 kg || colspan="2" | 320 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -128,12 +128,45 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Type 25 (250 kg)|M117 cone 45 (750 lb)|SAMP Type 21 (400 kg)}}
-{{main|AA-20 Nord|AS-20 Nord|AS-30 Nord}}
-{{main|SNEB type 23|T10 140|T10 151}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_S.O.4050_Vautour_IIA.png]]</div>
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| 1 || 1 || 2 || 1 || 1
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[SNEB type 23]] rockets
+| 19 || 19 || 112 || 19 || 19
+|-
+! [[T10 140]] rockets
+| 6 || 6 || || 6 || 6
+|-
+! [[T10 151]] rockets
+| 6 || 6 || || 6 || 6
+|-
+! [[AA-20 Nord]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[AS-20 Nord]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[AS-30 Nord]] missiles
+| || 1 || || 1 ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 4 x AA-20 Nord missiles
 * 24 x T10 140 rockets
@@ -145,41 +178,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 10 x 250 kg SAMP Type 25 bombs (2,500 kg total)
 * 10 x 750 lb M117 cone 45 bombs (7,500 lb total)
 * 6 x 400 kg SAMP Type 21 bombs (2,400 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_S.O.4050_Vautour_IIA.png]]</div>
-|-
-! 250 kg SAMP Type 25 bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 400 kg SAMP Type 21 bombs
-| 1 || 1 || 2 || 1 || 1
-|-
-! 750 lb M117 cone 45 bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! SNEB type 23 rockets
-| 19 || 19 || 112 || 19 || 19
-|-
-! T10 140 rockets
-| 6 || 6 || || 6 || 6
-|-
-! T10 151 rockets
-| 6 || 6 || || 6 || 6
-|-
-! AA-20 Nord missiles
-| 1 || 1 || || 1 || 1
-|-
-! AS-20 Nord missiles
-| 1 || 1 || || 1 || 1
-|-
-! AS-30 Nord missiles
-| || 1 || || 1 ||
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -118,19 +118,19 @@ You also get some decent payload options. A choice of 2 x 250, 500 or 1,000 lb b
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 4 x 20 mm Hispano Mk.II cannons, wing-mounted (140 rpg = 560 total)
+* 4 x 20 mm Hispano Mk.II cannons, wing-mounted (145 rpg outer + 143 rpg inner = 576 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. 1,000 lb Mk.I (1,000 lb)|RP-3}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. Mk.I (1,000 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
 * 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-* 2 x 1,000 lb M.C. 1,000 lb Mk.I bombs (2,000 lb total)
+* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
 * 8 x RP-3 rockets
 
 == Usage in battles ==

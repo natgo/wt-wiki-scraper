@@ -77,7 +77,7 @@ On realistic it reaches 38 km/h off road, and 55 km/h on road with 7 gears, it a
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 80 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | {{Annotation|Shoulder|up to 10 km/h}} || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 4.55 || rowspan="2" | 4.03 || rowspan="2" | 3.71 || rowspan="2" | 3.50
+| rowspan="2" | 80 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 4.55 || rowspan="2" | 4.03 || rowspan="2" | 3.71 || rowspan="2" | 3.50
 |-
 ! ''Realistic''
 | 11.9 || 14.0 || 17.0 || 18.8 || 20.0
@@ -120,7 +120,7 @@ The M8 LAC is armed with an [[M6 (37 mm)|37 mm M6]] cannon as its main armament.
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 400 (200) || 577 || -10°/+40° || ±180°
+| Pintle || 400 (200) || 575 || -10°/+40° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -129,7 +129,7 @@ The M8 LAC is armed with an [[M6 (37 mm)|37 mm M6]] cannon as its main armament.
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,500 (250) || 500 || N/A || N/A
+| Coaxial || 1,500 (250) || 500 || - || -
 |-
 |}
 

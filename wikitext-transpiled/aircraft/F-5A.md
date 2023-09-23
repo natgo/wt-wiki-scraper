@@ -11,13 +11,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American jet fighter {{Battle-rating}}. It was introduced during [[Update "Direct Hit"]] as a reward for the [[wt:en/news/7350-event-export-order-en|2021 Export Order]] event.
+The F-5’s roots begin way back in the mid-1950s. After a tour around Europe and Asia, Northrop’s team saw the need for a supersonic fighter that was cheap and easy to maintain. In 1955, the N-156 was formally brought into fruition and work began. It ultimately evolved into the N-156F and although the Navy and Air Force weren’t interested in it, Northrop pursued the idea. Several years later in 1962, the DoD formally announced that the N-156F would be its chosen aircraft for the Military Assistance Program (MAP). This led to the F-5A serving with U.S. forces as a cheap and easy-to-maintain fighter and ultimately being one of the best export-type fighters ever built. 
+
+Introduced in [[Update "Direct Hit"]] as a reward for the [[wt:en/news/7350-event-export-order-en|2021 Export Order]] event, the '''{{Specs|name}}''' is a very strong fighter. It has favorable flight characteristics and excels in dogfighting thanks to its light and small airframe. The F-5A also has 60 countermeasures which are very important at its battle rating for survival. Although the F-5A can only carry two AIM-9Es, the guns are excellent and enemy planes can easily be taken down with a short burst. The F-5A also has an extensive list of bombs and rockets although players should stick to attacking enemy fighters where the F-5A excels at. Nonetheless, players will be satisfied with the F-5A’s overall performance and capability. 
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-
+The F-5A has very good flight performance. It turns quite well at around 700 km/h (437.5 mph) and is overall a great dogfighter. Although the engines are weak compared to other fighters, the F-5A can still reach a respectable top speed of 1,443 km/h (~902 mph). However, it does take a while to reach that speed so the F-5A isn’t very suited to running down enemy planes or outrunning them. At lower speeds, the F-5A is still quite good but it’s ill-advised to be slow with enemy planes nearby. The F-5A’s acceleration is also less than stellar which is another reason to stay relatively fast unless absolutely necessary. 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
 ! colspan="2" | Max Speed<br>(km/h at 10,668 m)
@@ -252,4 +254,5 @@ Later on, the F-5A would lead to more advanced variants. In 1970, Northrop won a
 * Sherman, R. (1999, December 27). F-5 Freedom Fighter / Tiger. FAS Military Analysis Network. Retrieved December 22, 2021, from <nowiki>https://man.fas.org/dod-101/sys/ac/f-5.htm</nowiki>
 * Yarrish, G. (2020, February 26). Northrop F-5 Freedom Fighter. Flight Journal. Retrieved December 22, 2021, from <nowiki>https://www.flightjournal.com/northrop-f-5-freedom-fighter/</nowiki>
 
+{{AirManufacturer Northrop}}
 {{USA jet aircraft}}

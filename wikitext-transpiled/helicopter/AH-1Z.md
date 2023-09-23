@@ -67,20 +67,48 @@ When fighting the AH-1Z, it is always a good bet to get the "High Ground" or alt
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M197 cannon (750 rpg)
-** 1 x 20 mm M197 cannon + 120 x countermeasures
+* 1 x 20 mm M197 cannon (750 rpg)
+* 120 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114B Hellfire|AIM-9L Sidewinder|APKWS II (M151)|APKWS II (M282)}}
-{{main|Hydra-70 M247|M134 Minigun (7.62 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[M134 Minigun (7.62 mm)|7.62 mm M134 Minigun]] machine guns (1,500 rpg)
+| || || 1 || 1 || ||
+|-
+! [[Hydra-70 M247]] rockets
+| || 19 || 19 || 19 || 19 ||
+|-
+! [[AGM-114B Hellfire]] missiles
+| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
+|-
+! [[AIM-9L Sidewinder]] missiles
+| 1 || || || || || 1
+|-
+! [[AIM-9M Sidewinder]] missiles
+| 1 || || || || || 1
+|-
+! [[APKWS II (M151)]] missiles
+| || 7 || 7 || 7 || 7 ||
+|-
+! [[APKWS II (M282)]] missiles
+| || 7 || 7 || 7 || 7 ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9L Sidewinder missiles
+* 2 x AIM-9M Sidewinder missiles
 * 76 x Hydra-70 M247 rockets
 * 28 x APKWS II (M151) missiles
 * 28 x APKWS II (M282) missiles
@@ -88,47 +116,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x AGM-114B Hellfire missiles
 * 16 x AGM-114B Hellfire missiles
 * 2 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 3,000 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 7.62 mm M134 Minigun machine guns (1,500 rpg)
-| || || 1 || 1 || ||
-|-
-! Hydra-70 M247 rockets
-| || 19 || 19 || 19 || 19 ||
-|-
-! AGM-114B Hellfire missiles
-| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
-|-
-! AIM-9L Sidewinder missiles
-| 1 || || || || || 1
-|-
-! APKWS II (M151) missiles
-| || 7 || 7 || 7 || 7 ||
-|-
-! APKWS II (M282) missiles
-| || 7 || 7 || 7 || 7 ||
-|-
-|}
-
-[[File:AH-1Z Deploying Flares.jpg|thumb|300px|AH-1Z performs evasive action while deploying flare series.]]
-
-=== Defensive systems ===
-<!--''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.''-->
-The '''''{{PAGENAME}}''''' only has the following Defensive systems installed:
-
-*'''Countermeasures''' - 120 countermeasures.
-*'''MAW''' - Missile Approach Warning system.
-*'''AIM-9L''' - two AIM-9L missiles.
-
-When unlocked, countermeasures are not installed - this requires the '''MAW''' module (tier I) to be researched and installed, this provides up to 120 countermeasures. The next module called '''AIM-9L''' provides two AIM-9L missiles, once installed on each wing tip along with the previous MAW system.
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+[[File:AH-1Z Deploying Flares.jpg|thumb|300px|AH-1Z performs evasive action while deploying flare series.]]
 Using the AH-1Z Viper after the AH-1F requires learning time, the playstyle between this and the AH-1F has some unique differences such as ammunition, views and overall playstyle.
 
 The AH-1Z is an attack helicopter, it does this role very well, in fact, it is one of the best attack helicopters in the game, with speed up to 411 km/h (255 mph). The AH-1Z offers a large array of ordnance selections, from miniguns and rockets, to Hellfire missiles. In addition, the AH-1Z can carry a combination of missiles, rockets or miniguns together. To optimise your loadout, pick a role to specialise, air protection or ground attack, though this attack helicopter can do it all.

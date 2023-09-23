@@ -130,9 +130,7 @@ Introduced in [[Update "Apex Predators"]], the premium A-6E TRAM is one of the m
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 60 x countermeasures
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -143,7 +141,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
 | 1 || 1 || || 1 || 1
@@ -164,6 +162,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 3 || 2 || 3 || 2 || 3
 |-
 ! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| 1 || 1 || 1 || 1 || 1
+|-
+! [[LDGP Mk 84 Air (2,000 lb)|2,000 lb LDGP Mk 84 Air]] bombs
 | 1 || 1 || 1 || 1 || 1
 |-
 ! [[Mk 77 mod 4 incendiary]] bombs
@@ -210,6 +211,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 28 x 500 lb Mk 82 Snakeye bombs (14,000 lb total)
 * 13 x 1,000 lb LDGP Mk 83 bombs (13,000 lb total)
 * 5 x 2,000 lb LDGP Mk 84 bombs (10,000 lb total)
+* 5 x 2,000 lb LDGP Mk 84 Air bombs (10,000 lb total)
 * 5 x 957 kg GBU-10 Paveway II guided bombs (4,785 kg total)
 * 9 x 277 kg GBU-12 Paveway II guided bombs (2,493 kg total)
 * 5 x 1,092 lb GBU-16 Paveway II guided bombs (5,460 lb total)

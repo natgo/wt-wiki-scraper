@@ -6,6 +6,7 @@
 {{Specs-Card
 |code=su_25_558arz
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|market=id50232_su_25bm_ussr
 }}
 
 == Description ==
@@ -255,7 +256,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Su-25BM is very effective at its ground attack role, having an extremely wide variety of bombs, rockets and missiles. This particular Su-25 variant has a powerful Ballistic Computer, higher amount of bombs, and the ability to mount 256 S-5K rockets. Durable and powerful, it can defend itself more reliably with the R-73 missiles, which are advanced air-to-air missiles that turn the Su-25BM into a threat for enemy aircraft that try to engage it. However, this plane will have to fly with advanced fighters and ground attack aircraft around, usually facing SARH or ARH missiles, so the pilot must avoid any kind of air-to-air combat and only use its R-73 in self-defense when a fighter is either going or about to engage.
+As the modernized Su-25K of Eastern Bloc/CIS countries, players will get used to its performance very quickly if they owned other Frogfoots, enjoying the upgraded features of Su-25BM both at aerial combats and pounding ground targets at safer distance. Making Su-25BM a versatile jet at its tier.
+
+==== Air - Heavy but Packs A punch ====
+One thing players will soon notice is the identical airframe of early series of Su-25, not only it retains the identical engine from these jets, the airframe is still equally heavy. While the weight in this case is due to the extra protections around the cockpit, this might not be a good news to players of Su-25BM; the thrust of Su-25 can still push the jet to its structural limits even at level flight, if enemy fighters have intentions to take players out with different ordnances, chances are you could not make it out of the frontline without suffering severe damages. The 256 countermeasures can still make sure players can evade missiles, but at such speed, they will need extra launches to evade missiles. To say at least - taking an attacker as a fighter is never, ever a good idea, especially for such a heavy jet; but a good news for Su-25BM players is that it is also the first jet to officially introduce R-73 in game. In case of players coming too close to your radius at around 3 km, the all-aspect R-73 with high overload can make sure enemy jets will face their end quickly; it can also serve as a mean to deter enemies from taking you as the target. As long as the skies are clear from enemy jets, use your weapons of choice to earn extra incomes on ground AI targets or bases; the guns are powerful enough to gun down even MBTs with precise hits from higher angle of attack.
+
+==== Ground - The Overwatcher ====
+All the previous weaponries on Su-25 are available on the BM variant, thanks to the upgrade from Belarus, it can also use safer standoff weapons like KAB-500Kr or Kh-29T to take out high value targets; it will be a good idea to take out enemy SPAAs before heading for the battlefield. After these targets have been cleared, players can unleash unguided bombs and rockets to finish-off remaining ground vehicles and clearing the path for victory; if enemy jets think otherwise, the onboard IR AAMs could still make sure they have to think twice before heading for your team. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -265,7 +272,7 @@ The Su-25BM is very effective at its ground attack role, having an extremely wid
 * Mounts R-73 missiles, which are extremely effective
 * Capable of equipping a large amount of air-to-ground armament
 * Powerful chin-mounted GSh-30-2  autocannon
-* Access to more advanced, fire and forget A2G ordnances
+* Access to more advanced, fire and forget standoff A2G armaments
 * Could take additional hits thanks to the well-protected airframe
 * Integrated avionics for better awareness in SB battles
 
@@ -289,9 +296,9 @@ Due to the aging and already obsolete airframe for future battlefield, there was
 * Satellite-M2 jammer system
 * SVR-2T and Tester-U3-2 FDR
 
-These new jets was first tested in mid-2017 in Belarus and first batches of the upgraded jets were return to the Kazakh ADF by early 2018<ref>https://defence-blog.com/kazakhstan-receives-refurbed-su-25-ground-attack-aircraft/</ref>; all of them are likely to be operational at present.
+These new jets was first tested in mid-2017 in Belarus and first batches of the upgraded jets were return to the Kazakh ADF by early 2018<ref>https://defence-blog.com/kazakhstan-receives-refurbed-su-25-ground-attack-aircraft/</ref>; all of them are likely to be operational at present; these jets also became the foundation of Su-25K upgrades of Eastern Bloc countries.
 
-The default livery in-game represents 02 of the 602nd Airbase stationed at Chimkent, while the unlockable livery represents No.32 of 116th Guards Assault Air Base.
+The default livery in-game represents 02 of the 602nd Airbase stationed at Chimkent, while the purchasable/unlockable livery represents No.32 of 116th Guards Assault Air Base and the event-limited livery represents White 246 of 22th ShtAB, Bulgarian Air Force.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -305,6 +312,7 @@ The default livery in-game represents 02 of the 602nd Airbase stationed at Chimk
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Su-25 (Family)]]
 
 == External links ==
@@ -316,3 +324,4 @@ The default livery in-game represents 02 of the 602nd Airbase stationed at Chimk
 
 {{AirManufacturer Sukhoi}}
 {{USSR jet aircraft}}
+<references />

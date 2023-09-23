@@ -150,51 +150,56 @@ Trigger discipline is necessary when using this cannon as due to its rate of fir
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-[[File:T-2 takemoto 001.png|250px|thumb|right|T-2 outfitted with FFAR Mighty Mouse rockets, Sidewinders and the obligatory 20 mm Vulcan cannon.]]
-{{main|LDGP Mk 82 (500 lb)|JM117 cone 45 (750 lb)}}
-{{main|AIM-9B Sidewinder|AIM-9E Sidewinder|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x AIM-9E Sidewinder missiles
-* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-* 5 x 750 lb JM117 cone 45 bombs (3,750 lb total)
-* 76 x FFAR Mighty Mouse rockets
-* 16 x Zuni Mk32 Mod 0 ATAP rockets
-* 2 x AIM-9E Sidewinder missiles + 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
-* 2 x AIM-9E Sidewinder missiles + 5 x 750 lb JM117 cone 45 bombs (3,750 lb total)
-* 2 x AIM-9E Sidewinder missiles + 76 x FFAR Mighty Mouse rockets
-* 2 x AIM-9E Sidewinder missiles + 16 x Zuni Mk32 Mod 0 ATAP rockets
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
 | rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_F-1.png]]</div>
 |-
-! 500 lb LDGP Mk 82 bombs
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
 | || 1 || 1 || 1 || 1 || 1 ||
 |-
-! 750 lb JM117 cone 45 bombs
+! [[JM117 cone 45 (750 lb)|750 lb JM117 cone 45]] bombs
 | || 1 || 1 || 1 || 1 || 1 ||
 |-
-! FFAR Mighty Mouse rockets
+! [[FFAR Mighty Mouse]] rockets
 | || 19 || 19 || || 19 || 19 ||
 |-
-! Zuni Mk32 Mod 0 ATAP rockets
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
 | || 4 || 4 || || 4 || 4 ||
 |-
-! AIM-9B Sidewinder missiles
+! [[AIM-9B Sidewinder]] missiles
 | 1 || || || || || || 1
 |-
-! AIM-9E Sidewinder missiles
+! [[AIM-9E Sidewinder]] missiles
+| 1 || || || || || || 1
+|-
+! [[AIM-9P Sidewinder]] missiles
 | 1 || || || || || || 1
 |-
 |}
 
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 2 x AIM-9B Sidewinder missiles
+* 2 x AIM-9E Sidewinder missiles
+* 2 x AIM-9P Sidewinder missiles
+* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 5 x 750 lb JM117 cone 45 bombs (3,750 lb total)
+* 76 x FFAR Mighty Mouse rockets
+* 16 x Zuni Mk32 Mod 0 ATAP rockets
+* 2 x AIM-9P Sidewinder missiles + 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 2 x AIM-9P Sidewinder missiles + 5 x 750 lb JM117 cone 45 bombs (3,750 lb total)
+* 2 x AIM-9P Sidewinder missiles + 76 x FFAR Mighty Mouse rockets
+* 2 x AIM-9P Sidewinder missiles + 16 x Zuni Mk32 Mod 0 ATAP rockets
+{{Navigation-End}}
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+[[File:T-2 takemoto 001.png|250px|thumb|right|T-2 outfitted with FFAR Mighty Mouse rockets, Sidewinders and the obligatory 20 mm Vulcan cannon.]]
 This aircraft doesn't have any countermeasures (like flares, RWR). Any aircraft with air-to-air missiles will pose a threat to you. Although you can use rockets instead of flares, their effect is very limited. Moreover, the T-2 has no IRST system. Any plane with SARH missiles will pose a threat to you (F-4C, MiG-21, F-8E). Unless you see the other side firing missiles at you, you will not be able to detect the launch before being hit.
 Offensively, the damage caused by the JM61A1 gun is seriously insufficient. The gun's shooting axis is off centre, near the lower left position.
 
@@ -220,7 +225,6 @@ Offensively, the damage caused by the JM61A1 gun is seriously insufficient. The 
 * A lack of [[Ballistic Computer]] limits the use of the air-to-ground munitions
 * The JM61A1 rotary cannon may take getting used to as it doesn't fire immediately but has a short spool up time before it starts firing
 * Burns through fuel at an astronomical rate
-* Mediocre AIM-9E missile
 * Both engines overheat at constant use with the afterburner
 * Lacks RWR
 * Relatively low thrust-to-weight ratio

@@ -63,9 +63,9 @@ The modules and stock grind of the ZBD86 are very similar to the BMP-1. The main
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Type 85 (73 mm)}}
 
-The Type 85 main cannon is a somewhat finicky weapon. The penetration of the PG-9 HEAT round is no higher than the [[Type 62]]'s HEATFS but the muzzle velocity of 665 m/s is lower, making it difficult to use at long range. Still, the gun reloads in only 6 seconds and has an autoloader. It can be quite lethal at close quarters with careful aim and knowledge of enemy modules, these factors being important due to the limited post-penetration damage. For targets with larger volumes, it is best to aim for ammo racks. If that is difficult or risky, disable their gun and mobility first. PG-9 has a TNT equivalent of about 1.13 kg and might cause overpressure damage to light targets on occasion. Keep in mind that the {{PAGENAME}} does not feature any sort of stabilisation at all, and due to its light weight the gun is near impossible to get on target at speed.
+The Type 85 main cannon is a somewhat finicky weapon. The penetration of the HEAT round is no higher than the [[Type 62]]'s HEATFS but the muzzle velocity of 665 m/s is lower, making it difficult to use at long range. Still, the gun reloads in only 6 seconds and has an autoloader. It can be quite lethal at close quarters with careful aim and knowledge of enemy modules, these factors being important due to the limited post-penetration damage. For targets with larger volumes, it is best to aim for ammo racks. If that is difficult or risky, disable their gun and mobility first. HEAT has a TNT equivalent of about 480 g and might cause overpressure damage to light targets on occasion. Keep in mind that the {{PAGENAME}} does not feature any sort of stabilisation at all, and due to its light weight the gun is near impossible to get on target at speed.
 
-There is almost no reason to use the HE round. Its muzzle velocity is an abysmal 290 m/s and it actually has less explosive content than the HEAT round, making it useless against armoured targets, it can only be used against open-topped ATGM carriers similar to the [[M113A1 (TOW) (China)|M113]] or super light ATGM carriers of BR 9.0+, like the [[Wiesel 1A2]] (but these will probably know better and just dodge).
+There is almost no reason to use the HE round. Its muzzle velocity is an abysmal 290 m/s and it has minimal penetration, making it useless against armoured targets, it can only be used against open-topped ATGM carriers similar to the [[M113A1 (TOW) (China)|M113]] or super light ATGM carriers of BR 9.0+, like the [[Wiesel 1A2]] (but these will probably know better and just dodge).
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -84,7 +84,7 @@ There is almost no reason to use the HE round. Its muzzle velocity is an abysmal
 |}
 
 ==== Ammunition ====
-{{:Type 85 (73 mm)/Ammunition|PG-9, OG-9}}
+{{:Type 85 (73 mm)/Ammunition|Type 85 HEAT, Type 85 HE}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BMP-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

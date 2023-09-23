@@ -219,7 +219,7 @@ File:NC.900 Tail.png|<small>Close-up on unique tail marking</small>
 * [https://www.aviationsmilitaires.net/v2/base/view/Variant/6596.html [Aviationsmilitares website<nowiki>]</nowiki> SNCAC NC.900] ([https://web.archive.org/web/20211023162645/https://aviationsmilitaires.net/v3/kb/aircraft/show/17293/sncac-nc900 Archive])
 * [https://www.avionslegendaires.net/avion-militaire/sncac-nc-900/ [Avionslegendaries website<nowiki>]</nowiki> SNCAC NC.900] ([https://web.archive.org/web/20211023162701/https://www.avionslegendaires.net/avion-militaire/sncac-nc-900/ Archive])
 
-{{AirManufacturer Focke-Wulf}}
+{{AirManufacturer SNCAC}}
 {{France fighters}}
 {{France premium aircraft}}
 {{Winter Event}}

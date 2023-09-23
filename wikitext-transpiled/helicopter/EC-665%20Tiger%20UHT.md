@@ -159,11 +159,12 @@ When deployed properly, the Tiger UHT is a great addition to any line-up. What i
 
 * Optic is mounted above the rotor, has the ability to only expose the optic and fire on enemies
 * Wide viewing angles on the Optics allow for instant target acquisition and engagement
-* Fire-and-forget ATGMs
+* Fire-and-forget PARS-3 LR Missiles
 * Very manoeuvrable
 * Has RWR and MAW
 * Low thermal signature
 * Thermal sight
+* Very high Zoom on the optics 
 * PARS-3 can be used against aircraft
 
 '''Cons:'''

@@ -120,7 +120,11 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Bat
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-This tank is a flanker, first and foremost. Your gun is worse than the average in effectiveness, you only win fights if your enemy fails entirely, and you need weak spot hits to kill enemies frontally. Your best advantage is your turret, if you can find positions where the enemy can only hit your barrel, you become unkillable to APFSDS consistently, and enemies have to swap to high explosive ammunition or bring in close air support to remove you. Use the AGS's excellent mobility to get to key points or flank the enemy and try to get into hull-down areas, when attacking enemies keep in mind that you don't have that much armour and your low crew count will get you easily knocked out by a single shot. If you prefer flanking (in this vehicle you need to), hit the enemy with a side shot and move around them; if they have a pintle-mounted MG or autocannon, use side scraping so you don't get penetrated. If you get spotted, you have smoke grenades at your disposal: use them and pull back to allied tanks; if you must take an engagement, push an enemy moving towards your left, using your forward engine and transmission to potentially take hits for you, while also moving your driver out of harms way. You must also be greatly careful about ammo expenditure, if you are caught in a fight and spend your entire autoloader, you have to wait a substantially long time to get ammo back; you cannot reload if the autoloader is empty, and as such, if you empty it, you cannot fight back at all, and it is best then to disengage and bide time until your ammo is replenished.
+This tank is a flanker, first and foremost. Your gun is worse than the average in effectiveness, you only win fights if your enemy fails entirely, and you need weak spot hits to destroy enemies frontally. Your best advantage is your turret, if you can find positions where the enemy can only hit your barrel, enemies attacking you with APFSDS will be nearly unable to destroy you, and enemies have to swap to high explosive ammunition or bring in close air support to remove you.
+
+Use the AGS's excellent mobility to get to key points or flank the enemy and try to get into hull-down areas, when attacking enemies keep in mind that you don't have that much armour and your low crew count will get you easily knocked out by a single shot. When flanking, hit the enemy with a side shot and move around them; if they have a pintle-mounted MG or autocannon, use side scraping so you don't get penetrated. If you get spotted, you have smoke grenades at your disposal: use them and pull back to allied tanks.
+
+If you must take an engagement, push an enemy moving towards your left, using your forward engine and transmission to potentially take hits for you, while also moving your driver out of harms way. You must also be greatly careful about ammo expenditure, if you are caught in a fight and spend your entire autoloader, you have to wait a substantially long time to get ammo back. You cannot reload if the autoloader is empty, and as such, you would not be able to fight back at all. It is best then to disengage and bide time until your ammo is replenished.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -129,16 +133,15 @@ This tank is a flanker, first and foremost. Your gun is worse than the average i
 
 * Unmanned turret grants a better survivability when hull-down
 * Effective mobility
-* Decent gun depression
+* Good gun depression
 * Laser rangefinder
 * 5 second reload is faster than most competing tanks
 
 '''Cons:'''
 
 * Little to no armour, with frontal weak spots
-* Gun is passable for the battle rating, needs to hit weak spots on most medium tanks it faces frontally, and can easily net poor damage results.
+* Gun, while passable, needs to hit weak spots on most medium tanks it faces frontally, and can easily net poor damage results.
 * Low-calibre machine guns are of little use
-* Limited gun elevation
 * Its 1st generation thermal sights are vastly inferior to those of other encountered vehicles, such as the [[T-72AV (TURMS-T)]]
 * Low zoom optics make some long-range engagements difficult, if not impossible
 * Ammo rack is placed far into the back of the vehicle, being hit while on the move can prove accidentally fatal

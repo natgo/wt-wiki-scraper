@@ -8,8 +8,6 @@
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update "La Royale"]] as a ship-launched reconnaissance aircraft.
 
 '''Ships that carry the {{PAGENAME}}:'''
-* {{Specs-Link|fr_cruiser_suffren_class_colbert}}
-* {{Specs-Link|fr_cruiser_suffren_class_dupleix}}
 * {{Specs-Link|fr_cruiser_emile_bertin}}
 * {{Specs-Link|fr_cruiser_dugauy_class_primaguet}}
 

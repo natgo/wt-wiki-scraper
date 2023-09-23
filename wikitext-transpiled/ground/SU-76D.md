@@ -6,7 +6,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (not to be confused with the [[SU-76M]]) was a proposed Soviet tank destroyer that was based on the chassis of the T-70 light tank. As the name suggests, it was powered by a 110 hp diesel engine. It was following the idea of light tank destroyers, which were small, mobile, and designed for quick strikes with a powerful gun. However, it failed to meet two of the criteria, as the {{Specs|name}}'s main armament was a 76.2 mm gun, the same as that found on early T-34s, but it was no longer powerful enough to pierce the armour of more advanced German tanks, and the engine's power was insufficient for the vehicle. On top of that, the vehicle had problems with fine-tuning of the domestic engine. Thus, all work on it was halted, and the {{Specs|name}} was never mass produced.
+The '''{{Specs|name}}''' (unrelated to the [[SU-76M]]) was a proposed Soviet tank destroyer that was based on the chassis of the T-70 light tank. As the name designates, it was powered by a 110 hp diesel engine. It was following the idea of light tank destroyers, which were small, mobile, and designed for quick strikes with a powerful gun. However, it failed to meet two of the criteria, as the {{Specs|name}}'s main armament was a 76.2 mm gun, the same as that found on early T-34s, but it was no longer powerful enough to pierce the armour of more advanced German tanks, and the engine's power was insufficient for the vehicle. On top of that, the vehicle had problems with fine-tuning of the domestic engine. Thus, all work on it was halted, and the {{Specs|name}} was never mass produced.
 
 The {{Specs|name}} was introduced during [[Update "Ixwa Strike"]] as a reward for the [[wt:en/news/7107-event-future-technology-en|Future Technology]] event. It is a small, light, and agile tank destroyer, but it falls short in terms of armour protection, and only has average mobility. Its BR-530B shell allows it to penetrate and deal devastating damage to the most common enemies at its battle rating, making it an ideal vehicle for rather sneaky gameplay.
 
@@ -105,10 +105,10 @@ The SU-76D has almost no armour to speak of, and can only survive one or two she
 
 '''Pros:'''
 
-* Powerful 76.2 mm F-34 cannon against common enemies like [[Pz.IV C]], [[M5A1]], [[Chi-Ha Kai]] 
-* ±13° horizontal gun traverse is good, so the tank doesn't need to constantly adjust its hull to aim 
-* APCR can effectively penetrate heavier targets like [[B1 ter]] and [[M4A3 (105)]] 
-* Has a small profile, harder to be seen and hit 
+* Powerful 76.2 mm F-34 cannon against common enemies like [[Pz.IV C]], [[M5A1]], [[Chi-Ha Kai]]
+* ±13° horizontal gun traverse is good, so the tank doesn't need to constantly adjust its hull to aim
+* APCR can effectively penetrate heavier targets like [[B1 ter]] and [[M4A3 (105)]]
+* Has a small profile, harder to be seen and hit
 
 '''Cons:'''
 

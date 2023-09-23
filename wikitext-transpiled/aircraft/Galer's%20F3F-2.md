@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-'''{{Specs|name}}''' is a premium rank {{Specs|rank}} American fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]]. The plane is painted after the camouflage scheme of American pilot Bob Galer in the USMC, whose plane can be viewed today at the National Naval Aviation Museum.
+Bob Galer was a naval aviator in the USMC. While flying in his F3F-2 for a landing on the USS Saratoga, a mishap occurred and his F3F-2 was ditched into the ocean. Galer would later become a double ace during the battle of Guadalcanal and would survive the war. He also served in Korea until he retired in the late 1950s. Galer was shot down four times and managed to survive every time. Galer’s F3F-2, still resting at the bottom of the Pacific, was discovered by an American submersible in 1988 and recovered three years later. His plane is currently on display at the National Naval Aviation Museum.
+
+Introduced as a premium fighter in [[Update 1.69 "Regia Aeronautica"]], '''{{Specs|name}}''' is a special version of the F3F-2. It mainly differs in the livery and higher reward modifiers compared to the regular F3F-2. Fitted with the 950 hp version of the Wright R-1820 Cyclone, the F3F is a relatively quick bi-plane and can reach an astounding ~506 mph (810 km/h) before overspeeding. Its armament consists of one 12.7 mm and one 7.62 mm machine gun mounted in the nose. Although lacklustre, the F3F-2’s performance more than makes up for it. 
 
 == General info ==
 === Flight performance ===

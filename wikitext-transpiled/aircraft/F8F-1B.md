@@ -182,6 +182,7 @@ The Mitsubishi [[A7M2]] is much slower than any other aircraft mentioned but is 
 * Fast acceleration
 * High rate of fire
 * High ammo count
+* Great guns with big damage output on Targets
 * Can support high G's in sharp turns and has a G-suit upgrade available
 * Combat flaps can't break, the wings will break first
 * Double the burst mass of the first [[F8F-1|F8F-1 Bearcat]] and in general powerful armament
@@ -197,7 +198,7 @@ The Mitsubishi [[A7M2]] is much slower than any other aircraft mentioned but is 
 * Not the fastest plane, so lots of planes can catch up
 * Ground loops if landing with full brakes
 * Sluggish controls at speeds less than 300 km/h
-* Dumps velocity in high-G turns
+* Bleeds alot of speed in turns
 * Rudder compresses to the point of uselessness over 600 km/h
 
 == History ==

@@ -30,9 +30,9 @@ Being an armoured car, the AMD.35 (SA35) has poor protection, as the vehicle is 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 20 mm (22°) ''Upper plate'' <br> 15 mm (66°) ''Upper glacis'' <br> 26 mm ''Lower plate'' <br> 15 mm (38°) ''Lower glacis'' || 15 mm ''Hull side'' <br> 20 mm ''Driver viewport'' || 15 mm (23°) ''Crew compartment'' <br> 15 mm (2°) ''Rear plate'' <br> 15 mm (44°) ''Lower glacis'' || 15 mm (24°) ''Front glacis'' <br> 7 mm ''Crew compartment'' <br> 7 mm (8°) ''Engine compartment''
+| Hull || 20 mm (22°) ''Upper plate'' <br> 15 mm (66°) ''Upper glacis'' <br> 26 mm ''Lower plate'' <br> 15 mm (38°) ''Lower glacis'' || 15 mm ''Hull side'' <br> 20 mm ''Driver viewport'' || 15 mm (23°) ''Crew compartment'' <br> 15 mm (2°) ''Rear plate'' <br> 15 mm (44°) ''Lower glacis'' || 15 mm (24°) ''Front glacis'' <br> 7 mm ''Crew compartment'' <br> 7 mm (8°) ''Engine compartment''
 |-
-| Turret || 26 mm (47°) ''Turret front'' <br> 45+20 mm ''Gun mantlet'' || 15 mm (12-21°) || 15 mm (11°) || 7 mm (7°)
+| Turret || 26 mm (47°) ''Turret front'' <br> 45+20 mm ''Gun mantlet'' || 15 mm (12-21°) || 15 mm (11°) || 7 mm (7°)
 |-
 |}
 '''Notes:'''
@@ -103,31 +103,36 @@ The AMD.35 (SA35) has a limited choice of ammunition:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The AMD.35 (SA35) is best thought of as an armoured car with an adequate gun. Although it has poor armour protection, like most armoured cars, it is mobile, lethal, and surprisingly survivable.
+
+Its gun is a 47 mm cannon with adequate penetration values. This weapon will have no problem dealing with most enemies at this rank. Just try to stay under 300 m of range, or else there may be significant deviation in the rounds. However, be aware that the post-penetration damage is quite small so it is advisable to aim for critical components such as the breech or the gunner first. It's also important to note the lack of a machine gun, which can become a problem when facing SPAA and other lightly armoured vehicles, and so bringing a few HE shells is necessary to deal with them in a timely manner.
+
+The AMD.35 has a great speed advantage on roads and paved surfaces. However, it has poor mobility on soft terrain, and struggles to go uphill. Even when driving on roads, quick turns cause the vehicle to lose much speed. Finally, the AMD.35 has quite ineffective brakes. It is recommended that the tanker use the AMD.35's great on-road speed to quickly attain a firing position at the beginning of a match, and move quickly around the map to avoid detection. If a good firing position is found, then the AMD.35 will be able to utilise its cannon to great effect.
+
+'''Enemies worth noting:'''
+
+* [[Pz.II (Family)|Pz.II]] and other tanks with autocannons can shred your armour and the modules behind it. Generally, it is advised not to engage head on but if you are forced to, then make sure you get off the first shot before they start spraying.
+* [[:Category:Anti-aircraft vehicles|SPAAs]] - Nearly every anti-aircraft vehicle at the rank will be able to penetrate and destroy the AMD.35 with ease. Not to mention that SPAAs guns have high rates of fire. As with any other vehicles, it is advised to shoot first. Certain SPAAs which are commonly underestimated like the French [[P.7.T AA]], and [[CCKW 353 AA]] and the American [[M15 CGMC]], and should be especially noted, as despite not having 20 mm autocannons like their Axis counterparts, they all have weapons capable of efficiently knocking out an AMD.35.
+* The [[Matilda III]], [[SU-122]], [[T-50]] and some other tanks can have over 50 mm of armour which is is thick enough to stop you from penetrating them from front or even from the sides. It's advised to avoid engaging them from the front and instead marking them on the map for your teammates to deal with or attacking them from the side or back while they are distracted. The [[Matilda (Family)|Matilda]]'s and [[Valentine (Family)|Valentine]]'s should be noted as they are practically invulnerable to your cannon.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
 * High straight-line top speed on paved surfaces
 * Excellent reverse gear
-* Great penetration and shell velocity
+* Adequate penetration and shell velocity
 * Quick reload speed
 * High crew count and good survivability
-
-*
+* Adequate gun depression
 
 '''Cons:'''
 
 * Poor cross-country performance
 * Weak brakes
 * Slow turret rotation and gun elevation
-* Below-average gun depression
 * Lightly armoured flanks and rear
-
-*
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -7,25 +7,28 @@
 
 {{Tree-Line|I Rank}}
 |
-{{Tree-Unit|gladiator_j8a}}
-{{Tree-Skip}}
+{{Tree-Group|gladiator_j8a|J8A/J6B|
+  {{Tree-Unit|gladiator_j8a}}
+{{Tree-Arrow}}
 {{Tree-Unit|j6b}}
+}}
 {{Tree-Arrow}}
 {{Tree-Unit|fiat_cr42_j11}}
-{{Tree-Arrow}}
 |
 {{Tree-Unit|saab_b17bs}}
 {{Tree-Arrow}}
-{{Tree-Unit|saab_b17b}}
-{{Tree-Arrow|1}}
+{{Tree-Group|saab_b17b|B17|
+  {{Tree-Unit|saab_b17b}}
+{{Tree-Arrow}}
+{{Tree-Unit|saab_b17a}}
+}}
 |
+{{Tree-Unit|he_115a_2_sweden}}
+{{Tree-Arrow}}
 {{Tree-Unit|saab_b3c}}
-{{Tree-Arrow|2}}
 |
 {{Tree-Unit|fokker_d21_serie3_finland}}
-{{Tree-Arrow}}
-{{Tree-Unit|b_239_finland}}
-{{Tree-Arrow|1}}
+{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|gladiator_j8a_iacobi}}
 {{Tree-Skip}}
@@ -41,16 +44,17 @@
 {{Tree-Unit|ffvs_j22_a}}
 {{Tree-Arrow}}
 |
-{{Tree-Unit|saab_b17a}}
-{{Tree-Arrow|1}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|saab_b18a}}
 {{Tree-Arrow}}
 {{Tree-Unit|ju-88a-4_finland}}
 {{Tree-Arrow}}
 |
+{{Tree-Unit|b_239_finland}}
+{{Tree-Arrow}}
 {{Tree-Unit|hurricane_mk1_late_finland}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|morko_morane}}
 {{Tree-Skip}}
@@ -58,61 +62,68 @@
 {{Tree-Skip}}
 |
 {{Tree-Unit|vl_myrsky_2_late}}
+{{Tree-Skip}}
 
 {{Tree-Line|III Rank}}
 |
 {{Tree-Unit|ffvs_j22_b}}
-{{Tree-Arrow}}
-{{Tree-Unit|saab_j21a_1}}
-{{Tree-Arrow}}
-|
-{{Tree-Arrow-Full|2}}
-|
-{{Tree-Unit|saab_b18b}}
 {{Tree-Arrow|1}}
 |
-{{Tree-Arrow-Full|2}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|saab_b18b}}
+{{Tree-Arrow}}
+{{Tree-Group|saab_t18b_1|T18B|
+  {{Tree-Unit|saab_t18b_1}}
+{{Tree-Arrow}}
+{{Tree-Unit|saab_t18b_2}}
+}}
+{{Tree-Arrow}}
+|
+{{Tree-Unit|p-51d-20-na_j26}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|p-51b_7_sweden}}
 {{Tree-Skip}}
 {{Tree-Unit|pyorremyrsky}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}
 |
-{{Tree-Unit|saab_j21a_2}}
+{{Tree-Group|saab_j21a_1|J21A|
+  {{Tree-Unit|saab_j21a_1}}
 {{Tree-Arrow}}
-{{Tree-Unit|p-51d-20-na_j26}}
+{{Tree-Unit|saab_j21a_2}}
+}}
 {{Tree-Arrow}}
 |
 {{Tree-Unit|saab_a21a_3}}
-{{Tree-Arrow|1}}
-|
-{{Tree-Unit|saab_t18b_1}}
-{{Tree-Arrow}}
-{{Tree-Unit|saab_t18b_2}}
 {{Tree-Arrow}}
 |
-{{Tree-Unit|bf-109g-2_finland}}
+{{Tree-Arrow-Full|1}}
+|
+{{Tree-Group|bf-109g-2_finland|▄Bf 109G|
+  {{Tree-Unit|bf-109g-2_finland}}
 {{Tree-Arrow}}
 {{Tree-Unit|bf-109g-6_erla_finland}}
+}}
 {{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|bf-109g-6_finland}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|V Rank}}
 |
 {{Tree-Unit|saab_j21ra}}
 {{Tree-Arrow}}
 {{Tree-Unit|saab_j29a}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|saab_a21rb}}
-{{Tree-Arrow}}
-{{Tree-Unit|vampire_fb5_j28b}}
 {{Tree-Arrow}}
 {{Tree-Unit|saab_j29b}}
 {{Tree-Arrow}}
@@ -121,14 +132,19 @@
 {{Tree-Arrow}}
 {{Tree-Unit|saab_105g}}
 |
+{{Tree-Group|vampire_fb5_j28b|Vampire|
+  {{Tree-Unit|vampire_fb5_j28b}}
+{{Tree-Arrow}}
 {{Tree-Unit|vampire_fb52_finland}}
-{{Tree-Arrow|2}}
+}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|saab_105oe}}
 {{Tree-Skip}}
 {{Tree-Unit|saab_j29d}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|VI Rank}}
 |
@@ -147,6 +163,7 @@
 {{Tree-Unit|saab_j35a}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|saab_a32a_red_adam}}
 
 {{Tree-Line|VII Rank}}
 |

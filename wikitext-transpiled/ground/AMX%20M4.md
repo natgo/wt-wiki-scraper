@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. It uses the same 90 mm SA45 cannon as the [[ARL-44]] but has a 7-round autoloader and a better armour pattern while being more mobile. It is clearly better than any rank III French tanks, offering new battle opportunities.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. It uses an improved 90 mm SA47 cannon over the [[ARL-44]] and has a 7-round autoloader and a better armour pattern while being more mobile. It is clearly better than any rank III French tanks, offering new battle opportunities.
 
-This is the sturdiest representative of French rank IV vehicles, from which it shares some common features: good mobility, an oscillating turret (fitted with an autoloader), sloped armour in front and back, high hull, high gun placement, good gun depression, 4 crew member, a coaxial MAC 31 machine gun and large tracks. What distinguishes the AMX M4 is its [[Panther D|Panther]]-like hull, its efficient 90 mm SA45 gun inherited from the [[ARL-44]] and the thickest armour pattern of all French ground forces with 80 mm sloped at ~55° in the frontal area.
+This is the sturdiest representative of French rank IV vehicles, from which it shares some common features: good mobility, an oscillating turret (fitted with an autoloader), sloped armour in front and back, high hull, high gun placement, good gun depression, 4 crew member, a coaxial MAC 31 machine gun and large tracks. What distinguishes the AMX M4 is its [[Panther D|Panther]]-like hull, its efficient 90 mm SA47 gun developed from the [[ARL-44]] and the thickest armour pattern of all French ground forces with 80 mm sloped at ~55° in the frontal area.
 
 == General info ==
 === Survivability and armour ===
@@ -72,11 +72,11 @@ Post-war French designs are all very good at moving around: they have good engin
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|SA45 (90 mm)}}
+{{main|SA47 (90 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[SA45 (90 mm)|90 mm SA45]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[SA47 (90 mm)|90 mm SA47]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
@@ -95,7 +95,7 @@ The gun may feel a little lacklustre in terms of penetration: at the same BR, so
 The oscillating turret design also allows an high gun placement, this means you can fire over hills by exposing only the strong top portion of your tank, even more so with its good depression angles. When it comes to elevation, there is a problem: this tank can only lift its gun 15°, which make defending against planes impossible and uphill battle a bit challenging.
 
 ==== Ammunition ====
-{{:SA45 (90 mm)/Ammunition|90 mm Obus de rupture, 90 mm Obus explosif}}
+{{:SA47 (90 mm)/Ammunition|90 mm Obus de rupture, 90 mm Obus explosif}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -138,7 +138,7 @@ Notes:
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 5,100 (150) || 551 || N/A || N/A
+| Coaxial || 5,100 (150) || 551 || - || -
 |-
 |}
 

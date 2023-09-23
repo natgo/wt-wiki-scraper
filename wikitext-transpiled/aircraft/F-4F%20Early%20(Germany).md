@@ -198,6 +198,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x AIM-9B FGW.2 Sidewinder missiles
 * 4 x AIM-9E Sidewinder missiles
 * 4 x AIM-9J Sidewinder missiles
+* 24 x 250 lb LDGP Mk 81 bombs (6,000 lb total)
 * 24 x 500 lb LDGP Mk 82 bombs (12,000 lb total)
 * 24 x 500 lb Mk 82 Snakeye bombs (12,000 lb total)
 * 17 x 750 lb M117 cone 45 bombs (12,750 lb total)
