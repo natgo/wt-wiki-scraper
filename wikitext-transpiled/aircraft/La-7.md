@@ -234,7 +234,7 @@ The La-7 was one of the best serial fighters of WWII, highly manoeuvrable with a
 * ''other literature.''-->
 
 * [[wt:en/news/3284/current|[Vehicle Profile] Lavochkin La-7]]
-* [https://forum.warthunder.com/index.php?/topic/109515-lavochkin-la-7/ Official data sheet - more details about the performance]
+* [https://old-forum.warthunder.com/index.php?/topic/109515-lavochkin-la-7/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Lavochkin}}
 {{USSR fighters}}

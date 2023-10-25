@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''43M Zrínyi I''' self-propelled gun was inspired by the German success with the [[StuG III (Family)|StuG III]]. The Hungarian Royal Army faced a serious challenge in the late stages of World War II, as they lacked effective weapons to counter the Soviet tanks. Like the StuG, a versatile self-propelled artillery unit built on the chassis of a medium tank, the Hungarians decided to create their own version using the [[Turan II|Turán]] tank as a base. They also designed their own main weapon, based on the German PaK 40 anti-tank gun. The project was named Zrínyi, after a famous Hungarian noble family and military leader, Miklós Zrínyi. The plan was to produce two variants of the Zrínyi: one with an anti-tank gun and one with a 105 mm howitzer for assault purposes. However, due to various difficulties in production, only the latter variant, 43M Zrínyi II, entered mass production and saw combat. The former variant, Zrínyi I, remained a prototype and was lost together with the Zrínyi production line after tactical bombing.
+The '''44M Zrínyi I''' was a Hungarian World War II tank destroyer inspired by the German success with the [[StuG III (Family)|StuG III]]. The Royal Hungarian Army faced a serious challenge in the late stages of World War II, as they lacked tanks to counter the newest, most well-armoured Soviet tanks. Like the StuG, a versatile self-propelled gun built on the chassis of a medium tank, the Hungarians decided to create their own version using the Hungarian [[Turan (Family)|Turán]] tank's chassis. They also designed their own gun for it, based on the German PaK 40 anti-tank gun. The project was named Zrínyi, after a famous Hungarian noble family and military leader, Miklós Zrínyi. The plan was to produce two variants of the Zrínyi: one with a 75 mm anti-tank gun (Zrínyi I), and one with a 105 mm howitzer for assault operations (Zrínyi II). However, due to various difficulties in production, only the latter variant, the [[Zrinyi II|43M Zrínyi II]], entered mass production and saw combat. The former variant, the Zrínyi I, remained a prototype and was lost together with the Zrínyi production line after Hungary was hit by a serious Allied strategic bombing campaign.
 
-It was introduced during [[Update "Danger Zone"]] as a reward for the [[wt:en/news/7796-event-summer-quest-en|2022 Summer Quest event]]. Armed with a powerful 75 mm cannon and 6 rockets, this low-profile Hungarian tank destroyer is more than capable of destroying any enemy tank it might face, whilst still retaining the decent mobility and excellent reverse speed of the Turán tank.
+The Zrínyi I was introduced during [[Update "Danger Zone"]] as a reward for the [[wt:en/news/7796-event-summer-quest-en|2022 Summer Quest event]]. Armed with a powerful 75 mm cannon and 6 rockets, this low-profile Hungarian tank destroyer is more than capable of destroying any enemy tank it might face, whilst still retaining the decent mobility and excellent reverse speed of the Turán series.
 
 == General info ==
 === Survivability and armour ===
@@ -62,9 +62,9 @@ Due to the shape of the hull, it is possible to pull most enemy tanks onto it by
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|43.M (75 mm)}}
 
-The gun is somewhat inaccurate even with all the upgrades, so it is better to aim dead centre of the enemy tank and not to try hitting any small weakspots. Because of this it will sometimes randomly fail to K/O tanks with tiered armour like the [[KV-1]], even in arcade.
+The gun is somewhat inaccurate even with all the upgrades, so it is better to aim dead centre of the enemy tank and not to try hitting any small weakspots. Because of this it will sometimes randomly fail to destroy tanks with tiered armour like the [[KV-1]], even in arcade.
 
-Ammunition is serviceable, as APHE can penetrate heavy tanks rather easily, being slightly better than ammo of [[StuG III G]]. It does not have the same insane explosive mass of the [[90/53 M41M]], so at least some mind should be paid to internal layouts of the tanks.
+Ammunition is serviceable, as the APCBC can penetrate heavy tanks rather easily, being slightly better than the ammo of the [[StuG III G]]. It does not have the same insane explosive mass of the [[90/53 M41M]], so at least some mind should be paid to internal layouts of the tanks.
 
 However, the gun is still reliable enough for most situations and often destroys enemy tanks with one hit. It can destroy any enemy tank it can face, although with some tanks this requires aiming for weak spots.
 
@@ -161,12 +161,13 @@ Other things to be aware of when playing the Zrinyi I include your great reverse
 '''Pros:'''
 
 * Highly effective main gun capable of knocking out pretty much any tank it will face
-* High gun depression allows stronger protection when firing over hills
-* Incredible mobility, with the reverse gearbox giving it the same speeds in reverse as forwards
+* Good gun depression allows stronger protection when firing over hills
+* Incredible mobility, with the reverse gearbox giving it the same speed in reverse as forwards
 * Quite low profile, making enemies less likely to spot or hit you
 * Has 6 × 150 mm rockets which can annihilate lightly armoured vehicles
 * Has smoke grenades
 * Can perform lethal ramming attacks in a 1v1 if necessary
+* Armour around the gun mantlet can absorb many shots
 
 '''Cons:'''
 
@@ -179,7 +180,7 @@ Other things to be aware of when playing the Zrinyi I include your great reverse
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-In 1942, the Hungarian military started the creation of its own fully armored self-propelled guns, which conceptually repeated the successful German StuG III design. This was done to combat the heavily armoured Soviet tanks encountered on the Eastern Front. The Hungarian engineers also chose the domestic Turán medium tank chassis for their domestic self-propelled guns. A fixed armored cabin was installed instead of a tank turret, and a 105mm howitzer was chosen as a weapon for the first vehicles in the series. To ensure the traverse aiming angles of the gun, the Turán's hull had to be widened by 400mm, however, in terms of the main components, the new self-propelled guns were maximally unified with the vehicle. The first prototype was ready by December 1942, and the first batch of 40 vehicles was ordered even before the SPG passed the entire test cycle. The self-propelled gun received the designation 40/43.M Zrínyi II, in honor of the 16th-century Hungarian national hero Miklós Zrínyi. Somewhat later, serial SPGs received side screens. The vehicle turned out to be very successful and was produced until the surrender of Hungary. However, the 105 mm howitzer of the Zrínyi II was clearly not enough to fight Soviet tanks, so by 1944 a Zrínyi I prototype appeared with a long 75mm domestic anti-tank gun, the 75mm 43.M, which was the same gun mounted on the Turán III prototype. During the tests, the Zrínyi I prototype received launching tubes for rockets. This prototype did not go into serial production due to the devastation of the industrial enterprises and the defeat of the Hungarian army by the advancing forces of the Red Army.<ref>https://warthunder.com/en/news/7799/current</ref><ref>https://en.wikipedia.org/wiki/43M_Zr%C3%ADnyi</ref>
+In 1942, the Hungarian military started the creation of its own fully armored self-propelled guns, which conceptually repeated the successful German [[StuG III (Family)|StuG III]] design. This was done to combat the heavily armoured Soviet tanks encountered on the Eastern Front. The Hungarian engineers also chose the domestic [[Turan (Family)|Turán]] medium tank chassis for their domestic self-propelled guns. A fixed armored cabin was installed instead of a tank turret, and a 105mm howitzer was chosen as a weapon for the first vehicles in the series. To ensure the traverse aiming angles of the gun, the Turán's hull had to be widened by 400mm, however, in terms of the main components, the new self-propelled guns were maximally unified with the vehicle. The first prototype was ready by December 1942, and the first batch of 40 vehicles was ordered even before the SPG passed the entire test cycle. The self-propelled gun received the designation [[Zrinyi II|40/43.M Zrínyi II]], in honor of the 16th-century Hungarian national hero Miklós Zrínyi. Somewhat later, serial SPGs received side screens. The vehicle turned out to be very successful and was produced until the surrender of Hungary. However, the 105 mm howitzer of the Zrínyi II was clearly not enough to fight Soviet tanks, so by 1944 a Zrínyi I prototype appeared with a long 75 mm domestic anti-tank gun, the [[43.M (75 mm)|75 mm 43.M]], which was the same gun mounted on the [[Turan III|Turán III]]. During the tests, the Zrínyi I prototype received launching tubes for rockets. This prototype did not go into serial production due to the devastation of the industrial enterprises and the defeat of the Hungarian army by the advancing forces of the Red Army.<ref>https://warthunder.com/en/news/7799/current</ref><ref>https://en.wikipedia.org/wiki/43M_Zr%C3%ADnyi</ref>
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -192,14 +193,23 @@ In 1942, the Hungarian military started the creation of its own fully armored se
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+'''Related development'''
+
+* [[Zrinyi II|Zrínyi II]]
+
 '''Vehicles equipped with the same chassis'''
 
+* [[Turan (Family)|Turán (Family)]]
+* [[Turan I|Turán I]]
 * [[Turan II|Turán II]]
+* [[Turan III|Turán III]]
 
-'''Other vehicles of similar configuration and role'''
+'''Similar vehicles'''
 
 * [[StuG III G]]
+* [[Jagdpanzer IV]]
 * [[75/46 M43]]
+* [[SU-85]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

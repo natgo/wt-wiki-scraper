@@ -63,10 +63,10 @@ The 85 mm D-5T is a very strong and potent cannon for this BR that can deal with
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 59 || rowspan="2" | -5°/+25° || rowspan="2" | ±180° || rowspan="2" | N/A || 11.33 || 15.68 || 19.04 || 21.06 || 22.40 || rowspan="2" | 9.62 || rowspan="2" | 8.51 || rowspan="2" | 7.84 || rowspan="2" | 7.40
+| rowspan="2" | 59 || rowspan="2" | -5°/+25° || rowspan="2" | ±180° || rowspan="2" | - || 11.7 || 16.1 || 19.6 || 21.7 || 23.0 || rowspan="2" | 9.62 || rowspan="2" | 8.51 || rowspan="2" | 7.84 || rowspan="2" | 7.40
 |-
 ! ''Realistic''
-| 8.33 || 9.80 || 11.90 || 13.16 || 14.00
+| 8.6 || 10.1 || 12.2 || 13.5 || 14.4
 |-
 |}
 
@@ -99,7 +99,7 @@ The 85 mm D-5T is a very strong and potent cannon for this BR that can deal with
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|DT (7.62 mm)}}
-The IS-1 has no roof-mounted heavy machine gun lime they are found in later Soviet heavy tanks and SPGs to defend against incoming enemy aircraft. The only machine gun available is a 7.62 mm coaxial MG. Useful for taking out unarmored trucks and exposed crew.
+The IS-1 has no roof-mounted heavy machine gun lime they are found in later Soviet heavy tanks and SPGs to defend against incoming enemy aircraft. The only machine gun available is a 7.62 mm coaxial MG. Useful for taking out unarmoured trucks and exposed crew.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -107,7 +107,7 @@ The IS-1 has no roof-mounted heavy machine gun lime they are found in later Sovi
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,890 (63) || 600 || N/A || N/A
+| Coaxial || 2,520 (63) || 600 || - || -
 |-
 |}
 

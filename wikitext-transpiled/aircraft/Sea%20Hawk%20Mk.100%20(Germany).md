@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced as a [[wt:en/news/6072-shop-update-1-87-pre-orders-en|premium pack]] in [[Update 1.87 "Locked On"]] and was removed from the store after the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]]. The Sea Hawk Mk.100 has since been made available for purchase in-game with Golden Eagles {{GE}} occasionally for specific German events like the [[wt:en/news/7358-special-german-unity-day-en|2021]] and [[wt:en/news/7894-special-german-unity-day-en|2022]] "German Unity Day" mini-events.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced as a [[wt:en/news/6072-shop-update-1-87-pre-orders-en|premium pack]] in [[Update 1.87 "Locked On"]] and was removed from the store after the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May sale]]. The Sea Hawk Mk.100 has since been made available for purchase in-game with Golden Eagles {{GE}} occasionally for specific German events like the [[wt:en/news/7358-special-german-unity-day-en|2021]], [[wt:en/news/7894-special-german-unity-day-en|2022]], and [[wt:en/news/8506-special-german-unity-day-vehicles-for-ge-and-a-decal-to-celebrate-en|2023]] "German Unity Day" mini-events.
 
 In 1956, the production of the five-year-old aircraft, the British Air Ministry cancelled the Hawker Sea Hawk production in favour of newer aircraft. At this time, the Federal Republic of Germany attempted to increase their naval aircraft inventory both looking for a daytime fighter-bomber and also an all-weather version. After comparing aircraft produced by other countries, the Bundesmarine concluded that the Hawker Sea Hawk fit their requirements and ordered a total of 64 aircraft, 34 of each variant, the Mk.100 and Mk.101.
 
@@ -225,6 +225,7 @@ In the early 1960s, the British Navy almost completely abandoned the use of Sea 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sea_hawk_mk100 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

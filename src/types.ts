@@ -769,7 +769,7 @@ export interface WeaponSlots {
   maxloadMassLeftConsoles: number;
   maxloadMassRightConsoles: number;
   maxDisbalance: number;
-  WeaponSlot: WeaponSlot[];
+  WeaponSlot: WeaponSlot | WeaponSlot[];
 }
 
 export interface WeaponSlot {

@@ -135,7 +135,17 @@ When shooting from a distance, try to get the tank on flat terrain, as inclines 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Sturmtiger was a siege tank, based off the [[Tiger I (Family)|Tiger I]] heavy tank, armed with a 380 mm rocket assisted mortar. Fourteen were made, seeing service on the Western Front and the Warsaw Uprising.
+The 38 cm Sturmmorser, also known as the Sturmtiger, was a heavy siege weapon intended to destroy fortifications with a single shot.
+
+The idea for such a heavy infantry support vehicle came out of the experiences of the heavy urban fighting in the Battle of Stalingrad in 1942. At the time, the Wehrmacht had only the [[15cm sIG 33 B Sfl|Sturm-Infanteriegeschütz 33B]] available for destroying buildings, a Sturmgeschütz III variant armed with a 15 cm sIG 33 heavy infantry gun. Its successor, the Sturmpanzer IV, also known by Allies as the [[Brummbar|Brummbär]], was in production from early 1943. This was essentially an improved version of the earlier design, mounting the same gun on the Panzer IV chassis with greatly improved armour protection.
+
+While the Brummbär had far more armour than its predecessors, by late 1943, infantry anti-tank weapons had improved dramatically, and the Wehrmacht still saw a need for a heavily armoured and armed vehicle. Thus, the Sturmtiger project was born.
+
+Initially, the Sturmtiger would have used a 210 mm howitzer. However, due to manufacturing delays, this weapon turned out not to be available at the time and was replaced by a 380 mm rocket launcher adapted from a Kriegsmarine depth charge launcher. Loaded through a sliding breech, the vehicle carried 14 rounds of ammunition. The rocket launcher fired short-range, rocket-propelled projectiles with either a high explosive charge or a shaped charge, which was primarily used against buildings and and could penetrate up to 2.5 meters (8ft 2 in) of reinforced concrete.
+
+In September of 1943, plans were made for Krupp to fabricate new Tiger I armoured hulls for the Sturmtiger. However, further delays in production and shortages of materials meant that only existing damaged Tiger I hulls were rebuilt and converted into Sturmtigers. The first three were complete on 20th February 1944, and full production did not occur until August 1944. Ultimately, only 18 Sturmtigers were manufactured by the Alkett company in Berlin.
+
+The Sturmtiger was used most famously in the Warsaw Uprising of August 1944, but also saw action in the defence of Germany against Allied forces.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

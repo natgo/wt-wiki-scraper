@@ -10,9 +10,14 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese bomber {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]].
+The '''{{Specs|name}}''', designated as '''Type 4 Heavy Bomber Model 1A ({{Annotation|四式重爆撃機甲|Yon Shiki Jūbakugekiki Kō}})''', was the main production variant of the Ki-67 which was designed to replace the [[Ki-49 (Family)|Ki-49]] and to be suitable for possible operations over the Manchurian-Siberia border. It was designed to be one of the most survivable and damage-resistant Japanese aircraft of the war, with self-sealing fuel tanks, armour and it was also highly manoeuvrable and capable of dive-bombing attacks. It entered service in October 1944 and was used in various roles, including conventional bombing and anti-shipping. With the Ki-67 being a very capable medium bomber platform, it was remodeled and modified for other special purposes, with projects ranging from simple bomb-role upgrades, interceptor ([[Ki-109]]), bomber escort, etc.. However, due to Allied bombing raids and production delays, only 767 Ki-67s were built before the end of the war.
 
-The Ki-67 ko excels in many roles in which other Japanese bombers fail to live up to. This is one of the most formidable medium bombers out there, as it is fast, has great defensive capabilities, can mount a wide array of bombs and torpedoes, and has really good survivability. The Ki-67 ko has a wide variety of roles, but its main role is actually a frontline bomber, as it can destroy pillboxes and other high value ground units. Its payload isn't designed to target bases, so it is advisable to target individual ground targets. The Ki-67 ko differs from the previous model, the Ki-67 otsu, in rear of the aircraft. The Ki-67 ko has a single tail gun configuration, giving it slightly weaker defensive capabilities than the Ki-67 otsu.
+Introduced in [[Update 1.67 "Assault"]], the Ki-67 ko excels in many roles in which other Japanese bombers fail to live up to. This is one of the most formidable medium bombers out there, as it is fast, has great defensive capabilities, can mount a wide array of bombs and torpedoes, and has really good survivability. The Ki-67 ko has a wide variety of roles, but its main role is actually a frontline bomber, as it can destroy pillboxes and other high value ground units. Its payload isn't optimal to target bases alone, so it is advisable to target individual ground targets. The Ki-67 ko differs from the later model, the Ki-67 otsu, in rear of the aircraft. The Ki-67 ko has a single tail gun configuration, giving it slightly weaker defensive capabilities than the Ki-67 otsu.
+
+;Nicknames:
+* [[Abbreviations#.28IJA.29_Nicknames|Japanese Nickname]]: ''飛龍 (Hiryū, "Flying Dragon")''
+* IJA Pilot Abbreviation: {{Annotation|Yon-Jū (四重)|Abbreviation of (Type) 4, Heavy (Bomber)}} {{-}} Roku-Nana (6-7)
+* Allied reporting name: Peggy
 
 == General info ==
 === Flight performance ===

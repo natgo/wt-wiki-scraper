@@ -53,7 +53,20 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.''
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 7.62 mm M134 Minigun machine gun (1,500 rpg)
+* 1 x 12.7 mm GAU-19 machine gun (550 rpg)
+* 1 x 30 mm LR30 cannon (250 rpg)
+* 4 x ATAS (AIM-92) missiles
+* 2 x AGM-114K Hellfire II missiles
+* 4 x AGM-114K Hellfire II missiles
+* 14 x APKWS II (M151) missiles
+* 14 x APKWS II (M282) missiles
+* 14 x Hydra-70 M247 rockets
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -75,7 +88,9 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Videos
+{{Youtube-gallery|Vy3fyYWNToA|'''OH-58 kiowa Warrior ULTIMATE Review''' - ''Bob Dickinson''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

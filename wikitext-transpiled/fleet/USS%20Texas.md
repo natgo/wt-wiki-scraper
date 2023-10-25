@@ -11,12 +11,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American battleship {{Battle-r
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+Being an early dreadnought-era battleship, the armour is very spread out, similar to the previous [[USS North Dakota|North Dakota]] and [[USS Wyoming|Wyoming]] classes. In fact, this layout was radically changed in the very next class, the [[USS Nevada]] with all the armour focused on the core citadel. Even though the 1925 refit doubled the deck armour, newer AP rounds will penetrate deep into the ship. The flip side is the multiple layers of armour will defend much better against HE or SAP/APHE rounds. The large added torpedo blister will easily absorb torpedo damage, if a torpedo boat or aircraft happens to get through your AAA screen!
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
+Big and slow like other battleships, one can make a fresh pot of US Navy coffee in the time to turn 180 degrees! Plan which way to turn when entering battle and don't try to turn around. Small turns to help guns line up to target is advisable, especially the 5" guns as they have limited arcs.
 
 {{NavalMobility}}
 
@@ -30,7 +30,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American battleship {{Battle-r
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|14 inch/45 Mk.12 (356 mm)}}
 
-''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
+The New York class introduced the 14" (356 mm) gun into the world, being the most powerful ship cannon at time, and was still formidable even by the end of WW2. Only an AP and HE round are available, good enough for the mission at hand. Mounted in five double turrets, there is a measure of resiliency by less loss of firepower from a disabled turret.
 
 {{:14 inch/45 Mk.12 (356 mm)/Ammunition|14 inch Mk.9 HE, 14 inch Mk.8 APCBC}}
 
@@ -73,7 +73,54 @@ In ship-to-ship combat, the Texas will be similar to the [[USS Nevada]] and [[US
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The USS Texas is truly "The First and the Last". Although ordered after the USS New York (BB-34), construction started, was finished, and commissioned into the US Navy two months ahead. At commissioning she was the first capital ship in world to mount 14" cannons and the first US Navy "super dreadnought". This was just a start!
+USS Texas lists of '''Firsts''' ''in the US Navy'':
+* Anti-Air gun installation, 3" on top of the ship cranes; August 1916
+* Test "kite balloon" in mid 1918
+* Test feasibility of carrying exposed aircraft across ocean 20 October - 4 November 1918 (platforms installed by British Royal Navy at Jarrow Slake, England).
+* First to launch aircraft; 11 March 1919
+* First to mount radar; Late 1938
+* First US warship to be decommissioned and become a permanent museum
+Finally
+* '''''The Last''''' Dreadnought style battleship left afloat in the world. 
+
+USS Texas served in the US Navy an extraordinarily long time even before becoming a museum, was a witness to monumental changes in human history. Some key dates compared to events in Texas history to illustrate world events. 
+
+'''17 April 1911:''' construction of what will be ''USS Texas (''BB-35), began.
+
+15 April 1912: the ''RMS Titanic'' sank, a tragic event still discussed today.  
+
+'''18 May 1912:''' Just ''33 days after'' the Titanic tragedy the ''USS Texas'' is launched into the water.
+
+'''12 March 1914''': ''USS Texas'' is commissioned into the US Navy, the most powerful warship in the world.
+
+28 July 1914: A month following the assassination of ''Archduke Franz Ferdinand'', Europe erupts into '''''World War One'''''.
+
+6 April 1917:  After years of avoiding it, the United States is drawn into the war.
+
+11 November 1918: "''The war to end all wars''" concludes.
+
+6 February 1922: The "<u>Washington Naval Treaty</u>" was signed, a ten year moratorium on battleship construction however allowed upgrades.
+
+'''31 July 1925''':  Instead of the original plan to scrap, due to the treaty the plans changed to a massive modernization of the ''USS Texas''.
+
+'''23 November 1926''':  Effectively a new ship, the ''Texas'' one again became the USN Flagship.
+
+'''Approximately 1935''': With rising geopolitical tensions, the anticipated decommissioning was once again postponed.
+
+'''1 September 1939''': '''''World War 2 begins'''''.
+
+6 and 9 August 1945: Two '''''atomic bombs dropped''''' on Japan, heralding the nuclear age.
+
+14 October 1947: The Bell X-1 was ''first aircraft to officially break the sound barrier''.
+
+'''21 April 1948''': USS Texas is officially decommissioned, ownership transferred to the State of Texas and becoming a permanent museum.
+
+'''30 April 1948:''' her name was struck from the Naval Vessel Register.
+
+'''13 December 1988''' to '''8 September 1990''': USS Texas was dry docked and underwent extensive restoration before reopening.
+
+'''31 August 2022''': USS Texas began a second, more extensive restoration project requiring replacement of corroded torpedo budges.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

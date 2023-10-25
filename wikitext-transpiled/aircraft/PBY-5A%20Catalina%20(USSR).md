@@ -10,13 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet medium bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The Catalina was the Soviet Union's main naval reconnaissance aircraft and naval bomber during and after the Second World War. It was so popular in fact that bombers meant to replace it, like the Be-6, never fully managed to fulfil its role. The Soviet Union received a total of 185 Catalinas of the two main variants in the Lend-Lease program. The Catalinas received by the Soviet Union were both the amphibious variants and those with tricycle landing gear. The Catalinas arrived to the Soviet Union in 1944 and gained good reputation in Soviet naval aviation, however they were finally fully retired from military service between 1954 and 1957. They served for many years as naval bombers and rescue aircraft.
 
-Although technically a medium bomber, the PBY-5's strategies are much like that of heavy bombers in higher tiers such as the Pe-8. It is best to fly high, as flying low will make you an easy target for fighters and AA. The best tactic for fending off enemy fighters is to use the rudder to direct one of the side gunners towards the attacking plane. It is also smart to use the guns manually in this situation, as the AI is often very inaccurate and will refuse to fire beyond a certain distance. In the worst case scenarios, a dive can be used to greatly increase the plane's speed to get to attack a ground target before a pursuing enemy fighter shoots it down.
-
-The PBY-5A Catalina is slow and clunky, but it offers a heavy payload that is sure to be a game changer if used properly. It also has a very good defensive armament for its tier, which can occasionally be a saviour against an enemy fighter.
-
-The plane is quite unmanoeuvrable, and its wings are very weak, being able to snap just by turning just a little too tight at higher speeds in a realistic battle. This version has landing gear, facilitating the task of landing and enabling it to capture bases in Airfield Domination mode in Arcade Battles.
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. Although technically a medium bomber, the PBY-5's strategies are much like that of heavy bombers in higher tiers such as the Pe-8. It is best to fly high, and for fending off enemy fighters, it is better to use the rudder to direct one of the side gunners towards the attacking plane. It is also smart to use the guns manually in this situation, as the AI is often very inaccurate and will refuse to fire beyond a certain distance. The PBY-5A Catalina is slow and clunky, but it offers a heavy payload that is sure to be a game changer if used properly. It also has a very good defensive armament for its tier, which can occasionally be a saviour against an enemy fighter. The plane is quite unmanoeuvrable, and its wings are very weak, being able to snap just by turning just a little too tight at higher speeds in a realistic battle. This version has landing gear, facilitating the task of landing and enabling it to capture bases in Airfield Domination mode in Arcade Battles.
 
 == General info ==
 === Flight performance ===
@@ -96,10 +92,40 @@ The plane is quite unmanoeuvrable, and its wings are very weak, being able to sn
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
-{{main|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)|Type A Mark I mine}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_PBY-5_Catalina.png]]</div>
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| 1 || 1 || 6* || 6* || 1 || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1 || 1* || || || 1* || 1
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| 1 || 1* || || || 1* || 1
+|-
+! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
+| || || 1 || 1 || ||
+|-
+! [[Mk.13-6 (2,216 lb)|2,216 lb Mk.13-6]] torpedoes
+| || || 1 || 1 || ||
+|-
+! [[Type A Mark I mine|Type A Mark I]] mines
+| 1 || 1* || || || 1* || 1
+|-
+| colspan="7" | Maximum permissible loadout weight: 2,200 kg<br>Maximum permissible wing load: 1,100 kg<br>Maximum permissible weight imbalance: 800 kg
+|-
+| colspan="8" | * Marked ordnance on hardpoints 2/5 cannot be equipped in conjunction with 100 lb bombs on hardpoints 3/4 respectively
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 
 * 16 x 100 lb AN-M30A1 bombs (1,600 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
@@ -107,6 +133,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x Type A Mark I mines
 * 2 x 2,216 lb Mk.13-6 torpedoes
 * 2 x 2,216 lb Mk.13-6 Case torpedoes
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -116,7 +143,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 The '''''{{PAGENAME}}''''' is defended by:
 
 * 1 x 12.7 mm M2 Browning machine gun, 2 x beam turrets (478 rpg)
-* 1 x 7.62 mm Browning machine gun, nose turret (1,000 rpg)
+* 2 x 7.62 mm Browning machine guns, nose turret (1,050 rpg = 2,100 total)
 * 1 x 7.62 mm Browning machine gun, ventral turret (500 rpg)
 
 == Usage in battles ==

@@ -31,10 +31,10 @@ Introduced in [[Update "La Royale"]], the Tornado ADV has access to AIM-9L Sidew
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 2,280 || 2,257 || rowspan="2" | {{Specs|ceiling}} || 28.4 || 28.6 || 167.3 || 163.4 || rowspan="2" | 800
+| 2,281 || 2,257 || rowspan="2" | {{Specs|ceiling}} || 28.4 || 28.5 || 167.3 || 163.3 || rowspan="2" | 800
 |-
 ! Upgraded
-| 2,340 || 2,308 || 27.6 || 28.0 || 216.7 || 191.0
+| 2,343 || 2,308 || 27.6 || 28.0 || 216.7 || 191.0
 |-
 |}
 
@@ -87,7 +87,7 @@ Introduced in [[Update "La Royale"]], the Tornado ADV has access to AIM-9L Sidew
 ! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full internal fuel)
 |-
 | colspan="2" | Turbo-Union RB199-34R Mk.104 || 2
-| colspan="3" | 14,659 kg || colspan="3" | 742 kg/m<sup>2</sup>
+| colspan="3" | 14,659 kg || colspan="3" | 744 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="5" | Mass with internal fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}

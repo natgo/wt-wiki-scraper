@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (100 mm Lorraine assault gun), or abbreviated '''{{specs|pseudonym}}''', is a rank {{Specs|rank}} French tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. It presents a very classic TD design: Casemate gun platform and powerful armament. While lacking in terms of armour, it compensates with both excellent mobility and a very strong gun.
+The '''Canon d'Assaut Lorraine de 100 mm''' is a French prototype tank destroyer based on the [[AMX M4|AMX M4 medium tank]] project's chassis. Following World War II, the French Army launched several programs to replace their antiquated tanks. The Lorraine company was charged with developing a light tank destroyer. The Canon d'Assaut Lorraine used Veil-Picard pneumatic tires instead of regular road wheels, which reduced the vehicle's ground pressure. Another advantage of the tires is that even if the tracks are destroyed, the vehicle can continue to operate. The prototype was started in 1950 but did not finish until 1952. The project was cancelled in 1953. The expertise gained by developing the Canon d'Assaut Lorraine would eventually serve as the foundation for other Lorraine initiatives.
 
-The CA Lorraine is an intermediate between a [[SU-85]] and a lowered [[Jagdpanther]]. It is distinguishable for having rubber road wheels instead of metal ones, two huge fans atop the engine deck (much like the German Jagdpanther), a very pointy gun mantlet pointing outwards from the casemate and quite a large, rounded commander's cupola. In some ways, it is quite similar to the fearsome [[AMX-50 Foch|AMX 50 ''Foch'']], and this can scare away some cowardly foes.
+Introduced in [[Update 1.75 "La Résistance"]], the Canon d'Assaut Lorraine de 100 mm is a versatile tank destroyer that may be deployed in a variety of ways, although it will always rely on its speed. In terms of maximum speed, cross-country speed, turn time, neutral steering, and reverse speed, this tank destroyer is among the most agile in its class. It should not, however, be utilized as an assault tank leading the attack against the enemy. As there is no turret, players should avoid close-up combat with adversaries. Use it mostly to ambush foes by flanking them early in battles. Since the vehicle has incredibly weak armour overall, you should always reposition after firing.
 
 == General info ==
 === Survivability and armour ===
@@ -148,6 +148,7 @@ The CA Lorraine never saw either service or combat action with the French Army. 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_lorraine_100 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -159,9 +160,11 @@ The CA Lorraine never saw either service or combat action with the French Army. 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[Lorraine 155 Mle.50]]
 
 ;Other vehicles of similar configuration and role
+
 * [[Jagdpanther]] / [[Bfw. Jagdpanther]]
 * [[SU-100]]
 

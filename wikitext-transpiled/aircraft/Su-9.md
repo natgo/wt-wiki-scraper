@@ -4,8 +4,10 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->	
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+Towards the end of the Second World War, the USSR quickly began pursuing multiple jet-powered fighter projects to catch up to the western [[Meteor (Family)|Gloster Meteor]], [[Me 262 (Family)|Me-262]], and [[F-80A-5|F-80]]. One such project was "Aircraft K" from the Sukhoi design bureau, which was heavily influenced by captured German designs (namely the Me 262). The aircraft was originally conceived to use the new and upcoming indigenous Soviet jet engines being designed by Lyulka and Tumansky, however, due to setbacks on those programs, the aircraft plan was changed to instead use reverse engineered copies of the German Jumo-004 engine. The aircraft would bear the shape of the Me 262, but in reality, was almost completely different, having different weight distributions, wing design, tailplane shapes, and more importantly, a completely revised flap and airbrake system. This aircraft, now called the "Sukhoi Su-9", would finally fly in 1946 for the first time, where it was quickly revealed that the German engines were rather underpowered. The Lyulka TR-1 engines originally intended for the plane would finally be completed, however, it was revealed that mounting them required extensive redesign of the aircraft, which directly resulted in the [[Su-11]] prototype.
+
+The '''{{Specs|name}}''' was introduced in [[Update "Ixwa Strike"]]. It is probably one of the better Soviet starter jets, as unlike the MiG-9, it is very forgiving in terms of manoeuvrability, and unlike the Yak-15, it is not limited by its low ammo count and top speed. The low velocity guns will take time getting used to, especially for players new to Soviet jets, but getting acquainted with the twin 23 mm and single 37 mm combo will prove fruitious as most Soviet jets for this rank and the next will have some variation of the same gun setup. All in all, the Su-9 acts as a great stepping stone from the propeller aircraft into the jet age of Soviet aircraft.
 
 == General info ==
 === Flight performance ===
@@ -146,7 +148,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''Air RB'''
 
-This plane has great firepower but always watch the ammo count so you won't run out of bullets. The plane has 90 mm of bulletproof glass in front of the pilot, so your pilot has a high chance of survival in head-ons. Once the plane gets up to speed, it becomes a great bomber hunter. Keep in mind that this plane has a slow acceleration. Use HE belt or air targets belt as it will shred enemy aircraft in pieces with just a few well-aimed shots. [[Boom & Run]] tactics are recommended against fighters, but make sure you have some speed before attacking.  
+This plane has great firepower but always watch the ammo count so you won't run out of bullets. The plane has 90 mm of bulletproof glass in front of the pilot, so your pilot has a high chance of survival in head-ons. Once the plane gets up to speed, it becomes a great bomber hunter. Keep in mind that this plane has a slow acceleration. Use HE belt or air targets belt as it will shred enemy aircraft in pieces with just a few well-aimed shots. [[Boom & Run]] tactics are recommended against fighters, but make sure you have some speed before attacking.
 
 '''Ground RB'''
 

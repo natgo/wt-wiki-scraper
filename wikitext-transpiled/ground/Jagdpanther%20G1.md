@@ -74,7 +74,7 @@ The main armament of the Jagdpanther is the 88 mm PaK43 gun, which is one of the
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 49 || rowspan="2" | -8°/+14° || rowspan="2" | ±11° || rowspan="2" | N/A || 7.0 || 9.8 || 11.8 || 13.1 || 13.9 || rowspan="2" | 11.05 || rowspan="2" | 9.78 || rowspan="2" | 9.01 || rowspan="2" | 8.50
+| rowspan="2" | 49 || rowspan="2" | -8°/+14° || rowspan="2" | ±11° || rowspan="2" | - || 7.0 || 9.7 || 11.8 || 13.1 || 13.9 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
 | 4.8 || 5.6 || 6.8 || 7.5 || 8.0

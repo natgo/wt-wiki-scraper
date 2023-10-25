@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The '''Leclerc Séries 1''' is the first variant of the [[Leclerc (Family)|Leclerc main battle tank family]]. It was developed and manufactured by Nexter Systems. It was named after Marshal Philippe Leclerc de Hauteclocque, a Free French Forces commander who led the 2nd Armoured Division during World War II. In 1992, the Leclerc main battle tanks replaced the [[AMX-30 (Family)|AMX-30 main battle tanks]] as France's primary armoured platform. All variants of the Leclerc main battle tanks are armed with a 120 mm GIAT CN120-26 F1 tank gun designed by the Arsenal de Bourges (EFAB). It has a longer barrel than most main battle tanks of its generation, which gives it a higher muzzle velocity. Instead of the typical four-crew configuration found in most Western main battle tanks, it employs a three-crew configuration. This is mostly due to the implementation of an autoloader in the turret bustle. Creusot-Loire Industrie developed the autoloader in the turret bustle, which is known as Chargement Automatique. A total of 134 units were manufactured.
 
-Developed by GIAT in the late 1980s, this variant of the Leclerc (the Serie 1) was the first production model. Despite this, it sports numerous modern technologies, a powerful NATO-compliant 120 mm cannon equipped with an autoloader (as with many French tanks) and a powerful, advanced diesel engine with a gas turbine 'charger'.
+Introduced in [[Update 1.89 "Imperial Navy"]], the Leclerc Séries 1 is generally well-protected, with an effective configuration that results in good survivability. It does, however, have several visible weak spots that are difficult to conceal, the most obvious of which is the gun mantlet, which is largely visible and can easily be fired at to damage the tank gun breech. It is susceptible to close-range combat as weak points are easily targeted. As a result, it is best to use its high-velocity ammunition to snipe or its greater mobility to flank opponents. It is one of the most competitive main battle tanks in its rank, featuring a six-second reload autoloader for quick follow-up shots in modern fast-paced warfare.
 
 == General info ==
 === Survivability and armour ===
@@ -28,9 +28,9 @@ Despite only seating three crew members, the Leclerc's survivability proves to b
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp= 2,285|rbMinHp= 1,304}}
+{{tankMobility|abMinHp=2,325|rbMinHp=1,327}}
 
-The {{PAGENAME}} is powered by an excellent V8 diesel engine with a gas turbine auxiliary charger, producing a peak of 1474.5 horsepower at 2500 RPM, transferred to the drive sprockets via a transmission with 8 forward and 4 backward gears. With a maximum power-to-weight ratio of 27.01, the {{PAGENAME}} is more than capable of reaching these speeds, with excellent acceleration and manoeuvrability characteristics to boot. The {{PAGENAME}} will easily keep up with most of its counterparts such as the [[M1A2 Abrams]] or the [[Leopard 2A5]], and as such can comfortably reach strategic positions quickly or make its way into cap points with haste. It can also quickly escape sub-optimal situations, with a perfectly reasonable -38 km/h reverse speed.
+The {{PAGENAME}} is powered by an excellent V8 diesel engine with a gas turbine auxiliary charger, producing a peak of 1,500 horsepower at 2500 RPM, transferred to the drive sprockets via a transmission with 8 forward and 4 backward gears. With a maximum power-to-weight ratio of 27.93, the {{PAGENAME}} is more than capable of reaching these speeds, with excellent acceleration and manoeuvrability characteristics to boot. The {{PAGENAME}} will easily keep up with most of its counterparts such as the [[M1A2 Abrams]] or the [[Leopard 2A5]], and as such can comfortably reach strategic positions quickly or make its way into cap points with haste. It can also quickly escape sub-optimal situations, with a perfectly reasonable -38 km/h reverse speed.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,14 +49,14 @@ The Leclerc Serie 1 mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted w
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[GIAT CN120-26 F1 (120 mm)|120 mm GIAT CN120-26 F1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[GIAT CN120-26 F1 (120 mm)|120 mm GIAT CN120-26 F1]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0
@@ -120,7 +120,7 @@ The Leclerc mounts a single coaxial 12.7 mm machine gun. While this coaxial moun
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 800 (200) || 577 || N/A || N/A
+| Coaxial || 800 (200) || 575 || - || -
 |-
 |}
 

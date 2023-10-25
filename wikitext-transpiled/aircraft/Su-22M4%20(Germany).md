@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+During the 1980s, the Soviet Union and its allies began adopting upgraded variants of the Su-17 fighter-bomber, which was exported as the "Su-22" for Soviet allies. The East German air force would receive 48 of the latest Su-22M4 fighter bomber, along with 8 of the twin-seat [[Su-22UM3K (Germany)|Su-22UM-3K]] trainer aircraft. The German Su-22s would serve as a frontline strike aircraft for the Warsaw Pact countries, and as a primary line of attack during a possible war with NATO. The Su-22M4s would remain in East German service until the re-unification of Germany, when almost all of the German Su-22s were either scrapped or sold off as they were incompatible with NATO hardware and standards. Only a few Su-22M4s were kept and repainted in Luftwaffe liveries for briefly serving as evaluation and testing aircraft.
+
+Introduced in [[Update "La Royale"]] as a continuation of the fighter-bomber line, following its weaker brother, the Su-22UM3K, in the tech tree, the '''Su-22M4''' is the top-range Su-17/22 model, and is nearly identical to the [[Su-17M4]] in the Soviet aircraft tree. This aircraft is characterized by its upgrades over its predecessor in the tree, mainly in that it can carry advanced guided ordnance such TV guided weapons in addition to the familiar laser guided ordnance. The aircraft is also no slouch in the air-to-air department either, now carrying over 250 countermeasures and the all-aspect [[R-60MK]] missiles, delivered swiftly to the enemy's location using the upgraded engine and avionics. All in all, this aircraft serves as a true titan of multirole performance for the aircraft of the German top ranks, excelling at both air to air and air to ground tasks, making it a force to be reckoned with in mixed battles.
 
 == General info ==
 === Flight performance ===
@@ -82,7 +84,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battl
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Saturn AL-21F-3 || 1
-| colspan="2" | 11,245 kg || colspan="3" | ___ kg/m<sup>2</sup>
+| colspan="2" | 11,245 kg || colspan="3" | 438 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -211,6 +213,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 800 l drop tanks
 * 2 x R-60MK missiles
 * 6 x R-60MK missiles
@@ -242,9 +245,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -260,6 +265,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -268,6 +274,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

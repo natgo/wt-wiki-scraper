@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian light tank {{Battle-rating}} in the Italian research tree. It was introduced in [[Update "Sons of Attila"]] as part of the Hungarian branch of the Italian tech tree.
 
 == General info ==
 === Survivability and armour ===
@@ -35,9 +35,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-ra
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
-
-{{tankMobility}}
+While quite large and somewhat heavier than most other light IFVs such as the Wiesel, the BTR-80A boasts a very high top speed of 87 km/h which can be reached quite quickly on roads and trails. The downside of the 8 wheel design is its poor off-road mobility, however it is still quite nimble even on rough ground. It is very common to see BTR-80s rushing caps due to their high speed; they can capture points quite safely and then reposition to either scout or ambush enemy light/medium armour.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,8 +47,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-ra
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|2A72 (30 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="6" | [[2A72 (30 mm)|30 mm 2A72]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -60,14 +56,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-ra
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 300 (150) || rowspan="2" | 330 || rowspan="2" | -5°/+70° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 300 (150) || rowspan="2" | 330 || rowspan="2" | -5°/+70° || rowspan="2" | ±180° || rowspan="2" | - || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 1.30 || rowspan="2" | 1.15 || rowspan="2" | 1.06 || rowspan="2" | 1.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
 |-
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}
 * '''30 mm HEI:''' {{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
 * '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
@@ -98,15 +95,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-ra
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|PKT (7.62 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[PKT (7.62 mm)|7.62 mm PKT]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 2,000 (250) || 700 || - || -
 |-
 |}
 
@@ -116,13 +111,21 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-ra
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* Effective 2A72 30 mm autocannon, the same one used on the BMP-3 and BMD-4
+* APDS is great for fighting against light vehicles and MBTs' sides
+* Fairly mobile and thus very good at flanking
+* Amphibious
 
 '''Cons:'''
-*
+
+* Huge profile
+* Poor survivability due to thin armour, minimal crew number and large size
+* -5° gun depression and slow gun handling
+* Has no stabiliser
+* Relatively low power-to-weight ratio
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -136,15 +139,16 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-ra
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+
+* [[BTR-80A]]
+* [[R3 T20 FA-HS]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

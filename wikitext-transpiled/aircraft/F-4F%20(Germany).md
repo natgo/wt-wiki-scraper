@@ -233,6 +233,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 600 gal drop tank
 * 2 x 20 mm GAU-4 cannons (1,200 rpg = 2,400 total)
 * 2 x AIM-9E Sidewinder missiles
@@ -259,7 +260,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''AIM-9E''' - First upgraded missiles available to F-4F, Echo Sidewinders provide much needed performance boost over the AIM-9B. Better speed, better range and wider seeker window allow Es to hit more reliably. Still, they retain its predecessor's poor G limit and should be used only as stop gap solution.
 
-'''AIM-9J''' - Final upgrade available to F-4F, AIM-9Js provide good performance. They can pull twice the G limit of its predecessors, are resistant to flares, and can be radar-slaved (which helps in high traffic airspace or when leading a target). These bad boys should be the pilot's weapons of choice for engaging air targets.
+'''AIM-9J''' - Final upgrade available to F-4F, AIM-9Js provide good performance. They can pull twice the G limit of its predecessors, and should be the pilot's weapons of choice for engaging air targets.
 
 '''Air-to-ground'''
 

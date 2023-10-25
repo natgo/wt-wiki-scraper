@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American destroyer {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]].
+The '''USS Allen M. Sumner (DD-692)''' is a member of the Allen M. Sumner-class destroyer family. The Federal Shipbuilding and Drydock Company in Kearny, New Jersey laid down the USS Allen M. Sumner on 7 July 1943; launched on 15 December 1943; sponsored by Mrs. Allen M. Sumner, Captain Sumner's widow; and commissioned on 26 January 1944 at the New York Navy Yard. The ship was named after Allen Melancthon Sumner, a United States Marine Corps captain who died in action during World War I. Also commonly known as USS Sumner, this destroyer was distinguishable from earlier Fletcher-class destroyers by its twin 5-inch/38 calibre gun mounts, dual rudders, additional anti-aircraft armament, and numerous other innovations. During World War II, the USS Allen M. Sumner received two combat stars, one during the Korean War, and two during the Vietnam War. In the end, the USS Allen M. Sumner was decommissioned in Philadelphia. On October 16, 1974, she was sold for scrap to Union Minerals & Alloy Corp.
 
-The ship is, along with the similarly named [[USS Somers]], the ultimate destroyer type ship in the American naval tree.
+Introduced in [[Update 1.83 "Masters of the Sea"]], the USS Sumner is a powerful and versatile destroyer in the arsenal of the U.S. Navy. The USS Sumner, with its powerful main armament, substantial anti-air capabilities, and even some armour, is capable of winning virtually any one-on-one battle against hostile destroyers, as well as providing assistance for its squad. The USS Sumner is an extremely useful ship, serving as a superior version of the USS Cowell, with essentially similar roles on the battlefield, albeit with subtle variances that give them advantages and drawbacks in different areas.
 
 == General info ==
 === Survivability and armour ===
@@ -120,6 +120,7 @@ The Bofors cannons on the Sumner make for an extremely effective system to deal 
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Quick rate of fire (2.8 seconds aced)
 * Powerful primary armament
 * Great AA
@@ -128,6 +129,7 @@ The Bofors cannons on the Sumner make for an extremely effective system to deal 
 * Turrets can traverse 360 degrees
 
 '''Cons:'''
+
 * Dual turrets are an easy target
 * Top speed is slightly below the Cowell's
 
@@ -143,6 +145,7 @@ Post War service saw many ships undergoing significant upgrades with the last of
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_destroyer_sumner Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

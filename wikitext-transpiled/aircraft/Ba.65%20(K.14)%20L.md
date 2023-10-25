@@ -41,7 +41,7 @@ The Ba.65 is able to utilize its flaps to gain combat advantages, which is an un
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| X || ✓ || ✓ || X || X     <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -56,7 +56,7 @@ The Ba.65 is able to utilize its flaps to gain combat advantages, which is an un
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 469 || 320 || ~12 || ~6
+| 590 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 490 || 451 || 250 || ~12 || ~6
 |-
 |}
 
@@ -184,7 +184,7 @@ Nevertheless, over 200 Ba.65 aircraft were built between 1935 and 1939. The airc
 
 ;Images
 
-<gallery mode="packed-hover"  heights="x250px">
+<gallery mode="packed-hover" heights="x250px">
 File:ArtImage Ba.65 (K.14) L.png|<small>Closeup on Ba.65 (K.14) L fuselage</small>
 </gallery>
 

@@ -145,7 +145,7 @@ Although the Leopard 2K is somewhat weak when stock, it is an adequate frontline
 * Can actually reach top speed on flat grounds
 * Can move in reverse as fast as it can move forward
 * Has the best optics of all tanks in game with 8x-16x zoom level
-* Full stabilized cannnons (L/44 / Rh202)
+* Full stabilized cannons (L/44 / Rh202)
 
 '''Cons:'''
 
@@ -158,7 +158,6 @@ Although the Leopard 2K is somewhat weak when stock, it is an adequate frontline
 * Requires skill to fully utilize its potential
 * You need to invest some skill points on the driver to actually benefit from its mobility
 * The 20mm has very sluggish penetration, often failing to penetrate light tanks
-* The 20 mm is unstabilized, and has poor turning rates
 * The 20 mm has HVAP-T(APCR) as ammo, thus it has very poor post-penetration damage
 * Other contemporary MBTs can be faster or almost as fast as the Leopard 2k
 * Lack of thermal sights limits the sniping capability of the tank

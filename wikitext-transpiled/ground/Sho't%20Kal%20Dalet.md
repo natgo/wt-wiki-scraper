@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+After devastating losses in the Yom Kippur War, the IDF realized the importance of crew protection in their tanks. Thus, the Sho't tanks and Magach tanks were fitted with Blazer ERA, a new type of protection designed to stop or decrease the penetration power of chemical weapons, like RPGs and ATGMs. The Sho't Kal Dalet (as it was called with the upgrades installed) also fitted new fire control system and gun, to improve lethality and firepower. The Kal Dalet was the last mass produced upgrade of the Centurion by Israel, and proved its effectiveness in the 1982 Invasion of Lebanon.
 
-Originally introduced in the [[Sho't Kal Dalet (Great Britain)|British tech tree]], the {{PAGENAME}} was moved into the Israeli tech tree. It closely resembles the standard tech tree variant [[Sho't Kal Gimel]] with differences mostly in cosmetics, with the {{PAGENAME}} appearing in a default desert tan camouflage and a spare road wheel hanging in front.
+It was introduced in [[Update "Danger Zone"]]. It closely resembles the standard tech tree variant [[Sho't Kal Gimel]] with differences mostly in cosmetics, with the {{PAGENAME}} appearing in a default desert tan camouflage and a spare road wheel hanging in front. The Sho't Kal Dalet is a Centurion tank, thus it is not characterized for its mobility or armour. The Kal Dalet has a very good fire control system for its BR, with its thermal imaging system it can acquire targets through bushes and other obstacles that allow light to pass through. The most important asset in the Kal Dalet's inventory is its amazing firepower, with a 105 mm gun and its thermal imaging, it can reliably detect and engage targets up to 3 km of distance in a BR bracket were not many tanks have modern night vision devices.
 
 == General info ==
 === Survivability and armour ===
@@ -188,6 +188,7 @@ The Sho't Kal Dalet was the last mass-produced modification of the Israeli Centu
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
 ;Skins
 
 *[https://live.warthunder.com/feed/camouflages/?vehicle=il_centurion_shot_kal_d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
@@ -196,6 +197,7 @@ The Sho't Kal Dalet was the last mass-produced modification of the Israeli Centu
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 ;''Vehicles equipped with the same chassis''
 
 *[[Sho't (Family)]]
@@ -210,6 +212,7 @@ The Sho't Kal Dalet was the last mass-produced modification of the Israeli Centu
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+
 * [[wt:en/news/5912-development-sho-t-kal-dalet-conquering-the-desert-en|[Devblog] Sho't Kal Dalet: Conquering the Desert]]
 * [[wikipedia:Sho't#Sho't_Kal_Alef/Bet/Gimel/Dalet|[Wikipedia] Sho't Kal Dalet]]
 * [https://tanks-encyclopedia.com/modern/Israel/Shot-MBT.php <nowiki>[Tanks Encyclopedia]</nowiki> Sho't MBT]

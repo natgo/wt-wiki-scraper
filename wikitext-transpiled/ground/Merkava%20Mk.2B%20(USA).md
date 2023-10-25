@@ -61,7 +61,7 @@ For Merkava it's even more important to research Parts and FPE, as the principle
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416, M413}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -94,7 +94,6 @@ For Merkava it's even more important to research Parts and FPE, as the principle
 |-
 |}
 -->
-
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
@@ -181,6 +180,7 @@ In October 2014 IDF's 7th Armored Brigade was the last to retire Merkava Mk.2, s
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_merkava_mk_2b_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

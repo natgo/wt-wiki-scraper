@@ -37,7 +37,7 @@ Introduced as part of a reward for the [[wt:en/news/8384-event-summer-extreme-en
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+As a wheeled vehicle, the Pz.Sp.Wg.P204(f) KwK is fast and has a good mobility on hard surfaces. However, it bleeds energy and loses a lot of mobility when offroad.
 
 {{tankMobility|abMinHp=163|rbMinHp=93}}
 
@@ -119,6 +119,7 @@ With a lack of a coaxial machine gun and poor armor, players may find head on at
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
 ;Videos
 {{Youtube-gallery|0k4QRAI_ILw|'''The Shooting Range #369''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}
 
@@ -128,6 +129,7 @@ With a lack of a coaxial machine gun and poor armor, players may find head on at
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[AMD.35 (Family)]]
 
 == External links ==

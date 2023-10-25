@@ -1,8 +1,3 @@
-{{About
-| about = premium British fighter '''{{PAGENAME}}'''
-| usage = other versions
-| link = F6F (Family)
-}}
 {{Specs-Card
 |code=hellcat_fmk1
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -103,16 +98,50 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M65A1 (1,000 lb)|HVAR|Tiny Tim|Mk.13-6 Case (2,216 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_F6F-5.png]]</div>
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || 1 || || 1 || || ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || 1 || || 1 || || ||
+|-
+! [[AN-Mk 1 (1,600 lb)|1,600 lb AN-Mk 1]] bombs
+| || || || || 1 || || || ||
+|-
+! [[AN-M66A2 (2,000 lb)|2,000 lb AN-M66A2]] bombs
+| || || || || 1 || || || ||
+|-
+! [[HVAR]] rockets
+| 1 || 1 || 1 || || || || 1 || 1 || 1
+|-
+! [[Tiny Tim]] rockets
+| || || || 1 || || 1 || || ||
+|-
+! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
+| || || || || 1 || || || ||
+|-
+| colspan="10" | Maximum permissible loadout weight: 1,814 kg<br>Maximum permissible weight imbalance: 680 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 6 x HVAR rockets
 * 2 x Tiny Tim rockets
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-* 2 x 1,000 lb AN-M65A1 bombs + 6 x HVAR rockets (2,000 lb total)
+* 1 x 1,600 lb AN-Mk 1 bomb (1,600 lb total)
+* 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
 * 1 x 2,216 lb Mk.13-6 Case torpedo
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -205,10 +234,12 @@ Image:FighterImage_Hellcat secondary skin unlock.jpg|<small>Hellcat sporting 6 x
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
+* [[F6F (Family)]]
+
 ;Aircraft of a similar role, configuration or era
 
-* [[F4F (Family)|F4F 'Wildcat']]
-* [[Martlet Mk IV|Grumman Martlet]]
+* [[F4F (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

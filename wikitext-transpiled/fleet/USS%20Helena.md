@@ -15,9 +15,7 @@ Armour on Helena is pretty strong for a light cruiser, as it can definitely hold
 
 Turret face armour is 165 mm, side, rear and top armour are 76 mm, 76 mm, and 51 mm thick respectively, and mantlets are 100 mm of RHA. Barbettes are 152 mm of rolled cemented armour. Secondaries are protected only by 32 mm of antifragmentation armour, so expect them to be knocked out as soon as any high calibre shell hits them.
 
-Bow ammo magazines are protected by 51 mm of antifragmentation armour on the top and sides, and 127 mm of antifragmentation armour in the front. They are also hidden deep below the waterline and behind fuel tanks, which makes them a very difficult target. Aft shells and charges are protected from the top and rear by the same armour as bow magazines, but since there are no fuel tanks, they get 120 mm rolled cemented armour as side armour. Rear of the bow ammo stowage and front of the aft ammo stowage are protected by 95 mm of rolled cemented armour. Ammo elevators are protected by 127 mm of antifragmentation armour.
-
-Bridge is protected by 127 mm of antifragmentation armour on the sides and 57 mm of the same armour on the top.
+Bow ammo magazines are protected by 51 mm of antifragmentation armour on the top and sides, and 127 mm of antifragmentation armour in the front. They are also hidden deep below the waterline and behind fuel tanks, which makes them a very difficult target. Aft shells and charges are protected from the top and rear by the same armour as bow magazines, but since there are no fuel tanks, they get 120 mm rolled cemented armour as side armour. Rear of the bow ammo stowage and front of the aft ammo stowage are protected by 95 mm of rolled cemented armour. Ammo elevators are protected by 127 mm of antifragmentation armour. Bridge is protected by 127 mm of antifragmentation armour on the sides and 57 mm of the same armour on the top.
 
 Thanks to the unit system (engines and boilers are alternating inside the hull) it's very hard to disable propulsion on the ship, even with a torpedo.
 
@@ -104,8 +102,9 @@ The anti-air complement on Helena is expansive comparing her to other factions b
 * Two scout seaplanes
 
 '''Cons:'''
+* AP shell have lacklustre penetration at longer ranges, thus limiting the damage output against heavily-armoured opponents
 * While well-protected, detonation of forward magazines will cause a chain reaction, potentially cause lethal damage
-* Auxiliary turrets have their first stage ammo stowages unprotected, so unlucky hits may cause heavy fires
+* Auxiliary turrets have their first stage ammo stowages unprotected, so unlucky hits may cause heavy fires or even chain detonation
 * No torpedo armament, restricting it to its gunnery armaments
 
 == History ==

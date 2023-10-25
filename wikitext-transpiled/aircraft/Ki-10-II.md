@@ -10,9 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese biplane fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''{{Specs|name}}''', designated as '''Type 95 Fighter ({{Annotation|九五式戦闘機|Kyū Go-shiki Sentōki}})''', was an upgrade of the [[Ki-10-I]] with a stronger engine, a new cowling, a bigger rudder, and a stronger landing gear, making it faster, more agile, and more stable. The new engine increased the speed from 400 km/h (249 mph) to 430 km/h (267 mph) and the climb rate from 11.7 m/s (2,300 ft/min) to 13.3 m/s (2,620 ft/min). The cowling, rudder, landing gear, and wings were modified to fit the new engine and improve performance.
 
-The Ki-10-II is a reserve biplane fighter for Rank 1 Japan. Like most biplanes, the Ki-10-II has a low top speed, good turn rate, good-to-fair climbing ability, nearly no armour and, in Realistic and Simulator Battles, a ridiculously short take-off length. Compared to other biplanes, the Ki-10-II is faster and climbs far better which partly has to do with the lack of weight going without armour protective plates.
+In the game since the start of the Open Beta Test prior to Update 1.27, the Ki-10-II plays very similarly to the preceding [[Ki-10-I]]. It has a good turn rate, fair climb, low speed, and minimal armour. It is faster and climbs better than other biplanes, but has weaker guns and protection. The Ki-10-II can turn-fight well at low altitudes, but should avoid stalls and spins. Its 7.7 mm guns have low fire rate and poor belts. Stealth belt is the best choice. The Ki-10-II should not attack armoured targets or bombers, but focus on other biplanes or slow monoplanes. Aim for the wings, not the fuselage. Teamwork is essential for the Ki-10-I.
+
+;Nicknames:
+* IJA Pilot Abbreviation: ''Kyū-Go Sen'' (九七戦, "9-5 Fighter")
+* Allied reporting name: Perry
 
 == General info ==
 === Flight performance ===
@@ -219,8 +223,6 @@ But in general, despite a number of disadvantages, the Ki-10-II was regarded as 
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
-
 
 * [http://www.historyofwar.org/articles/weapons_kawasaki_ki-10.html <nowiki>[HistoryOfWar.org]</nowiki> Kawasaki Ki-10 'Perry']
 * [http://surfcity.kund.dalnet.se/kawasaki_ki-10.htm <nowiki>[Håkans aviation page]</nowiki> Ki-10]

@@ -1,9 +1,7 @@
 {{About
 | about = SPAA '''{{PAGENAME}}'''
-| and
 | usage = other versions
-| link-1 = ZSU-57-2
-| link-2 = ZSU-57-2 (Sweden)
+| link = ZSU-57-2 (Family)
 }}
 {{Specs-Card
 |code=il_zsu_57_2
@@ -161,10 +159,7 @@ After being captured by Israel from Egypt and Syria during the 1967 war, they we
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
-* [[ZSU-57-2]]
-* [[WZ305]]
-* [[ZSU-57-2 (Sweden)]]
+* [[ZSU-57-2 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

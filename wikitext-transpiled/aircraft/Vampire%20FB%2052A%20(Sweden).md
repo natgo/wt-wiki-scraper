@@ -180,4 +180,5 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer deHavilland}}
 {{Sweden jet aircraft}}

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
+After the end of WWII, the British government outlined the threat of strategic jet bombers and their ability to deliver nuclear weapons. The threat reached a critical level during 1947, when the Soviet Union's first strategic jet bombers like the [[IL-28]] were nearing introduction to service. This caused the Air Ministry to issue Specification F.44/66, requiring a jet-powered, two-seat night fighter with radar capability. This aircraft was required to intercept enemy bombers at heights of up to 40,000 feet. It would also have to reach a maximum straight-line speed of 972 km/h at this height, and be able to perform rapid scrambles and ascents to attain the required altitude within ten minutes of engine ignition on the ground. Out of all the competing aircraft for this specification requirement, the renowned Gloster Aircraft Company, whom had already made a name for themselves shortly before by creating the Meteor, Britain's only operational jet fighter during WWII, would present the Gloster Javelin, a high-power interceptor that fulfilled the requirements. This design beat out the competition from de Havilland and was chosen by the Air Ministry in the early '50s to enter service under the FAW (Fighter, All Weather) designation class.
+
+Introduced in [[Update 1.85 "Supersonic"]], the Javelin builds upon gameplay principles found in the earlier Meteor family, while also introducing new concepts that will become commonplace in British fighter-interceptor aircraft later down the line, such as the [[Lightning F.6]] and the [[Tornado F.3]], namely the high engine power at the sacrifice of manoeuvrability compared to adversaries. The Javelin, while not having the best flight performance, makes up for it in its firepower, wielding the strength of not only the powerful [[ADEN (30 mm)|ADEN 30 mm]] cannons, but also the [[Firestreak]] air-to-air missiles, and a strong radar system for its battle rating.
 
 == General info ==
 === Flight performance ===
@@ -221,6 +223,7 @@ The first fighter squadron to receive deliveries of the Gloster Javelin in 1956 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=javelin_fmk9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

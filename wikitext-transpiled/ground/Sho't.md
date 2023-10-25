@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (lit. "Whip") is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The Sho't was the hebrew name given by the Israeli Armed Forces to the Centurion tanks and their different versions. The first Sho't was a [[Centurion Mk.5/1]] without any relevant modification. The Sho't was introduced into israel during the 1960s as an effort by the IAF to modernize their tank force. At that time the IAF only operated modernized Shermans and several WW2 modified vehicles that were no match for the M48s and T-54s in service with the Arab nations.
 
-The representation of the early fleet of Israeli Centurions bought from various operators, the Sho't performs identically to its British counterpart [[Centurion Mk.5/1]], having good gun handling at its rank while suffering from somewhat insufficient protection and low mobility.
+It was introduced in [[Update "Wind of Change"]]. The Sho't behaves equally to the [[Centurion Mk.5/1]]. Is a very powerful tank that relies heavily in it's gun handling. Centurions are not characterized for it's mobility, firepower or armour. Instead they rely on their gun handling, this is because the Sho't has a two axis stabilizer and a relatively powerful APDS shell. The 84mm gun would not beat in penetration power other rounds like the 100mm in the T-54 or the 105mm in the Leopard 1 but combined with the stabilizer it can be used effectively to push corners and shoot while moving to avoid enemy fire. This also gives the Sho't much quicker reaction time since it doesn't have to stop to get a precise shot in case of encountering an enemy while changing positions or flanking.
 
 == General info ==
 === Survivability and armour ===
@@ -23,6 +23,7 @@ Players can tell the Sho't in-game as a Centurion Mk.5 right away as the bore ev
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+
 * Rolled homogeneous armour (Hull, Turret roof)
 * Cast homogeneous armour (Turret)
 
@@ -42,6 +43,7 @@ Players can tell the Sho't in-game as a Centurion Mk.5 right away as the bore ev
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+
 * Tracks and suspension wheels are both 20 mm thick.
 * The steel boxes around the turret and hull give a 4 mm additional protection, though this seems to be a negligible addition.
 * Spaced armour plates are placed on the side of the Centurion, giving an additional 6 mm of side armour.
@@ -172,7 +174,15 @@ Like other Centurions, thanks to the underpowered engine, Sho't is not a fast ta
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Sho't participated in different wars in IAF service, of course, not without being upgraded during it's whole life service. The first Sho't fitted by the IAF was acquired in 1958. In this time the IAF was due to receive the Chieftain and was negotiating with Britain to acquire this new heavy tank.
+
+The IAF acquired several Mk.3 and Mk.5 Centurions from different sources while the Chieftain tanks were negotiated, since many arab nations were upgrading their tank fleets with American made M48 tanks and Soviet T-54s that were far superior to the modified Sherman and other WW2 vehicles fitted by the IAF.
+
+The Sho't was modernized in several moments and served with the IAF up until this day. Variants of the Sho't like the Alef/Bet/Gimel/Dalet have appeared and modernize both the armour, mobility and firepower of the vehicle. The Sho't received 105mm guns with modern APFSDS projectiles, it also received first generation ERA made by Israel and several upgrades to the power plant since the Centurion tanks were many times considered underpowered for modern tank doctrine.
+
+The Sho't participated during the Six Days War of 1967 and the Yom Kippur War. The Sho't proved very vulnerable to man portable anti tank weapons like the RPG-2 and RPG-7, as well as AT-3 Sagger missiles, this were weapons fitted in large number by Egyptian and Syrian forces and thus resulted in many Sho't tanks being lost in combat. The Sho't also participated in the Invasions of the Lebanon in 1978 and 1982, were it's vulnerabilities were also demonstrated.
+
+The Sho't has also been converted into other vehicles, specially IFVs and APCs, like the Nagma, Nagmachon, Nakpadon and Puma armored Combat Engineering Vehicle.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

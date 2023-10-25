@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli strike aircraft {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+In 1963, Israel proposed an idea to acquire US Navy surplus Skyhawks or have a special one made for Israel. At the time the proposal was rejected as an attempt for America to remain neutral but that changed three years later. The US planned to make a new variant for Israel called the A-4H. The A-4H was intended to be the regular A-4E but better suited for land-based operations. It was powered by the J52-P-8A, the same engine found in the humpback A-4Es. The A-4H would also be fitted with two 30 mm DEFA cannons rather than the standard armament of 20 mm cannons. Israel received around 90 A-4Hs until they were replaced by the vastly superior F-16 Fighting Falcon. 
+
+Introduced in [[Update "Winged Lions"]], the '''{{Specs|name}}''' is an excellent aircraft for both air-to-air combat and ground striking. For air combat, the A-4H features a relatively light airframe and powerful J52-P-8A engine which provides a respectable thrust-to-weight ratio. The two 30 mm cannons are devastating to enemy aircraft as well as soft ground targets and some medium tanks. Unfortunately, the A-4H lacks any air-to-air missile, so players are relegated to only guns. As for ground striking, the A-4H has a multitude amount of ground ordnance options so players can make many unique loadouts. However, the A-4H lacks guided suspended weaponry. 
 
 == General info ==
 === Flight performance ===

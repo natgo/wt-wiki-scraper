@@ -147,7 +147,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The F-86K should be used mainly as a support fighter, due to its sub-par manoeuvrability compared to other aircraft at its rank such as the MiG-17 at low speeds. In a 1 vs 1 dogfight, the F-86K outclassed when pitted against a MiG-17 unless you fight in a vertical, which this aircraft should do most of the time. When it comes to bomber hunting, this aircraft has four M24A1s, however these are also fantastic to use during a head-on attack. However, don't commit to head ons, instead fire a burst from maybe .8 km out then pull out. This is to decrease the chances of both of you crashing and increasing your chance of surviving. Your opponents will mainly be slightly lower-ranked aircraft like the MiG-15 Bis or F-86 A5 Sabre which you can easily out climb or outrun. However, sometimes you will get up-tiered to a higher rank and unfortunately, any thrust advantage is nullified when facing F-100s which are supersonic aircraft. There is a potential to be matched up against Hunter F.6s which can be armed with the devastating SRAAM missiles.
+The F-86K should be used mainly as a support fighter, due to its sub-par maneuverability compared to other aircraft at its rank such as the MiG-17 at low speeds. In a 1 vs 1 dogfight, the F-86K is outclassed when pitted against a MiG-17 unless you fight in a vertical, which this aircraft should do most of the time. When it comes to bomber hunting, this aircraft has four M24A1s, however these are also fantastic to use during a head-on attack. However, don't commit to head ons, instead fire a burst from around .8 km away, then pull out. This is to decrease the chances of both of you crashing into the enemy and increasing your chance of survival. Your opponents will mainly be slightly lower-ranked aircraft like the MiG-15 Bis or F-86 A5 Sabre which you can easily out climb or outrun. However, sometimes you will get up-tiered to a higher rank and unfortunately, any thrust advantage is nullified when facing F-100s which are supersonic aircraft. There is a potential to be matched up against Hunter F.6s which can be armed with the devastating SRAAM missiles.
 
 ===Radars===
 {{main|AN/APS-21}}
@@ -204,10 +204,11 @@ Initially, the F-86K was produced exclusively in the U.S., but would later also 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-86k_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="150">
+<gallery mode="packed-hover" heights="150">
 Image:F-86k_img1.jpg|
 Image:F-86k_img2.jpg|
 Image:F-86k_img3.jpg|

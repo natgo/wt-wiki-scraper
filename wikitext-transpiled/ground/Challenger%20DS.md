@@ -47,7 +47,7 @@ Overall, the armour on the Challenger DS is exactly the same as the tech tree co
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 While it is slower than Western MBTs at its BR, it is not a slow platform. It holds a fast top speed for both forward and reverse. Despite being a heavy vehicle, the brake distance is surprisingly low, between 20-30 m at top speed. It has the ability to do neutral steering relatively fast and, since it comes with all upgrades, it immediately gets the tracks modification which significantly improve this ability. It has little to medium impact when crossing muddy terrain, wet and snowy terrain, but nothing that impacts performance significantly. Thanks to not having the additional armour package, the cross-country capabilities of the Challenger DS are significantly increased, being able to easily traverse and cross over long trenches, deep craters and through steep terrains up to a certain level.
 
-{{tankMobility|abMinHp=1,860|rbMinHp=1,061}}
+{{tankMobility|abMinHp=1,886|rbMinHp=1,076}}
 
 === Modifications and economy ===
 {{Specs-Economy}}

@@ -11,10 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
+The P-40F differed from earlier P-40 variants by having the Merlin engine. The Allison V-1710 engine made around 1,150 hp but the Merlin engine produced 1,300 hp; a 12% increase. One way to tell a P-40F from earlier variants was the lack of an air scoop on top of the engine. To increase stability, the fuselage was lengthened. The P-40F also brought with it the nickname "Warhawk". A significant portion of all P-40Fs built were sent to the Royal Air Force under the Lend-Lease program. However, many of the P-40Fs sent to the RAF were either returned to the US or lost in shipping. Some P-40Fs were sent to the "Free French" Air Force and saw use in North Africa. The French P-40F was named "Lafayette", which was based on the French squadron (GC 2/4 La Fayette) who used them. 
 
-It is named after the French fighter squadron GC 2/4 La Fayette which at that time flew P-40Fs with the Free French Air Forces. The squadron exists to this day.
-
+The '''{{Specs|name}}''' was introduced as a premium fighter in Update [[Update "Raining Fire"]]. Although it features the Packard-Merlin engine, the P-40F is still best suited to low-altitude fighting. Its high speed handling is quite poor and makes it difficult to get guns on target. However, it does have a relatively high structural limit of 819 km/h (509 mph), so players can quickly dive away if needed. The Lafayette comes armed with six 12.7 mm machine guns, a big improvement over earlier P-40 variants. On the other hand, the P-40F was still quite early in the war and doesn't have access to late-war 12.7 mm machine gun belts. Nonetheless, the P-40F Lafayette is a good low-altitude fighter thanks to its weaponry and flight performance.
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}

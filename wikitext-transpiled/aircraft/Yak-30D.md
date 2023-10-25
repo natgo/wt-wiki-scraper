@@ -5,17 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]].
+The Yak-30 was Yakovlev's attempt to compete with Mikoyan-Gurevich after the limited success of the Yak-23 and all their jets using the Yak-3 fuselage. The Yak-30 was a completely new design based on the experimental Yak-25, however this variant included a swept wing for better performance at high speeds. The aircraft test trials started after its first flight in 1948 but it proved unsatisfactory, thus a new version with most of the problems fixed was developed, the Yak-30D. This new variant showed good results but the superior MiG-15 was already in production and thus the project was cancelled.
 
-Lacking external ordnance, the Yak-30 is purely a fighter/bomber interceptor and excels in such a role.
-
-Many people tend to ignore the Yak-30 for its easier-to-grind contemporary, the [[La-15]], although it is needed to get to the Yak-38 so the grind may be worth it. Those who persist, however, are awarded a faster and more durable airframe (unlike that of the La-15); however, this comparison isn't entirely fair either. The La-15 is generally much more agile at lower speeds and also carries significantly more cannon ammunition. As such, the preference between the Yak-30 and La-15 will vary depending on play style. Those that want a dependable and speedy fighter should choose the Yak-30; those that want an agile and ammo-friendly fighter should choose the La-15.
-
-Unlike previous Yak jets (such as the Yak-23/17/15) the Yak-30 is a conventional swept-wing jet fighter that performs much more akin to the famed Mig-15/17 than its more manoeuvrable, straight-winged forebears. At its BR, the Yak-30 is an excellent aircraft that can compete with the best other nations have to offer, if played right and not uptiered.
-
-The Yak-30 is incredibly fast, capable of over 1,000 km/h in level flight. Unfortunately, acceleration over 850 km/h isn't particularly good and significant energy is lost in any sort of manoeuvre at those speeds.
-
-Please note that the Yak-30 starts to compresses significantly at high speeds and cannot effectively make high-speed deflection shots unless the target in question is flying idly and is not spatially aware.
+It was introduced in [[Update 1.59 "Flaming Arrows"]]. The Yak-30D is a very capable jet fighter with a playstyle very similar to that of contemporary Soviet fighters like the La-15 and MiG-15. The Yak-30D excels at high speed performance (around 800-900 km/h), it's capable of more than 1,000 km/h at sea level when the thrust is set to 112%, note that this extra power consumes more fuel. However, the engine is better accelerating at lower speeds and at more than 850 km/h it loses energy relatively fast in any manoeuvres. The aircraft compresses significantly at high speeds and control of the aircraft is tricky, thus for avoiding missiles or starting dogfights it is better to lose speed to around 800-900 km/h. However, unlike the Yak-23, the Yak-30D has an airbrake to lose that unnecessary speed when needed.
 
 == General info ==
 === Flight performance ===
@@ -28,7 +20,7 @@ The main downside is the engine overheating, it cannot fly at full power for too
 
 The turn rate performance is very good, it can perform a full horizontal circle in around 20 seconds, which is a very good time, close to propeller driven planes.
 This along with quite good roll rate which can reach up to 115 degrees per second makes the plane very good in dogfight situations at low and medium speed, but once it starts getting close to transonic speeds the Yak-30 will start to suffer from high speed compressibility and make aiming difficult.
-The G limits are high for this kind of plane, the player will not have to worry about breaking a wing. It also has access to an airbrake that can keep it from reaching the structural speed limit (1080 km/h IAS) and flaps which can be extended in three positions that can improve the turning performance a lot, but their speed limit is low, in combat position it is around 500 km/h IAS.
+The G limits are high for this kind of plane, the player will not have to worry about breaking a wing. It also has access to an airbrake that can keep it from reaching the structural speed limit (1,080 km/h IAS) and flaps which can be extended in three positions that can improve the turning performance a lot, but their speed limit is low, in combat position it is around 500 km/h IAS.
 Overall the plane is very similar to the La-15, the only difference being slightly worse roll rate, higher speed limit and better turn rate.
 
 {| class="wikitable" style="text-align:center" width="70%"
@@ -81,7 +73,7 @@ Overall the plane is very similar to the La-15, the only difference being slight
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 660 || < 540 || < 640 || N/A
+| < 660 || < 540 || < 640 || -
 |-
 |}
 
@@ -187,7 +179,15 @@ Although being fast for its BR, its top speed is its downfall in uptier matches 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Yak-30 was the unsuccessful rival to the MiG-15. Design of the Yakovlev prototype, to the same specification as the MiG, fell behind its competitor and the Yak did not have its first flight until the MiG had already completed service trials. Its own September 1948 debut indicated it was a strong aircraft with excellent handling and good all-round performance, but it never moved past the prototype stage.
+The Soviet Yak-30 was an experimental fighter/interceptor developed from the failed Yak-25 with a swept wing design similar to that found in early cold war fighter jets like the MiG-15 and F-86 Sabre. The design in fact was largely similar to the Yak-25 and the most important change was the addition of the swept wing at 35°. The development of the Yak-25 ended in 1948, the same year the Yak-30 took to the skies.
+
+The Yak-30 was the unsuccessful rival to the MiG-15. Designed by Yakovlev to compete with the MiG-15 for the same contract, it fell behind its competitor and the Yak did not have its first flight until the MiG had already completed service trials. The Yak-30 answered to the Soviet requirement of a new light fighter capable of reaching Mach 0.9 and to operate from unpaved and unprepared airstrips.
+
+The aircraft was fitted with 3 x NR-23 cannons with 75 rounds per gun, better suited for dogfighting than the armament found on the MiG-15 but worse for bomber interception. The Yak-30 also retained the same engine as the Yak-23, a single Klimov RD-500 turbojet engine with a maximum 15.9 kN (3,600 lbf) thrust.
+
+Its first test flight occurred in September 1948, while the second prototype joined the test program in 1949 with several changes to the design, like increased fuel and ammo capacity, changes to the radio system and a new oxygen system (known as the Yak-30D). In testing, the aircraft achieved its goal of Mach 0.9, being capable of Mach 0.935 in a dive, 40 km/h more than the Yak-25 and 1,000 m more in service ceiling.
+
+Most of the flaws found in the first prototype were rapidly fixed in the Yak-30D, with most of the problems being eradicated. However the MiG-15 proved superior for interception of enemy bombers and it was already in production and the project was cancelled in favour of the further development and improvement of the MiG-15.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

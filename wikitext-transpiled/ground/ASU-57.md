@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]]. It was designed as an airborne self-propelled gun to provide fire support and anti-tank capability for the VDV (''Vozdushno-Desantnye Voyska''), the Soviet airborne forces.
+The '''ASU-57 (Авиадесантная самоходная установка, АСУ-57)''' was a small, light Soviet assault gun designed for use primarily by Soviet airborne troops. The ASU-57 was intended to be a lightweight assault gun that could be airdropped from the An-12 transport plane, the Soviet military's main cargo plane at the time, and deployed alongside troops via rocket-assisted parachute. The ASU-57 was the first effective Soviet airborne tank, overcoming shortcomings in previous Soviet doctrine dating back to the 1930s. It was lightly armoured and armed with a 57 mm Ch-51 tank gun, a modified version of the 57 mm ZiS-2 anti-tank gun employed during World War II. Beginning in 1954, an improved 57 mm Ch-51M tank gun was mounted, with a somewhat shorter double-baffle muzzle brake. One significant disadvantage was the vehicle's welded aluminium structure, which provided insufficient protection for the crew. During its operational years, each airborne division would have received 54 such vehicles. Beginning in 1960, it was gradually phased out in favour of the [[ASU-85]].
+
+Introduced in [[Update 1.59 "Flaming Arrows"]], the ASU-57 is extremely vulnerable since it lacks armour and weighs only 3.3 tonnes. ASU-57 gameplay is exceedingly difficult, but it can also be extremely rewarding. Because of its small size, the ASU-57 can readily conceal itself behind low obstacles on the battlefield, making ambushes and surprise strikes its speciality. The ASU-57, on the other hand, is extremely susceptible to virtually any form of fire. Aircraft are extremely dangerous due to the exposed crew compartment. It is recommended that players only engage isolated enemies one at a time, as dealing with multiple opponents will be extremely difficult.
 
 == General info ==
 === Survivability and armour ===
@@ -154,6 +156,7 @@ The ASU-57 was also given out to the Soviet Union's allies from 1960s to 70s. Su
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_asu_57 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

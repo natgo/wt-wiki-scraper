@@ -122,6 +122,8 @@
 }}
 {{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|ki_48_2_otsu}}
+{{Tree-Skip}}
 {{Tree-Unit|a7he1}}
 {{Tree-Skip}}
 {{Tree-Unit|ki_44_1_ep}}

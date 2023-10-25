@@ -14,7 +14,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-r
 
 The IAI Kfir is a Israeli development of the [[Nesher]], itself a variant of the French [[Mirage 5 (Family)|Mirage 5]]. The delta-winged Mirages are known for their low wing loading and sleek aerodynamics, but their engines tend to be underwhelming. The Kfir rectifies this with an American J79 engine as seen on the [[F-4 Phantom II (Family)|F-4 Phantom]] and [[F-104 (Family)|F-104 Starfighter]], which offers vastly more thrust, and fixed canard foreplanes mounted on the air intakes to compensate for the weight changes. The end result is an aircraft with incredible acceleration and high agility, a dangerous opponent in dogfights.
 
-The Kfir's weapons leave something to be desired, reflecting its real-life usage as a basic fighter-bomber. It can carry an impressive payload of bombs and rockets but lacks radar-guided missiles for BVR combat. Its best dogfight missile is the [[Python 3]], which is currently the most agile missile in game. However the Kfir C.7 doesn't have access to any SARH missiles, limiting its BVR capability. It also does not have guided air-to-ground weapons used by the [[Kurnass 2000]] Thus, the Kfir requires a skilled pilot to take advantage of its excellent performance and IR missiles to win engagements.
+The Kfir's weapons leave something to be desired, reflecting its real-life usage as a basic fighter-bomber. It can carry an impressive payload of bombs and rockets but lacks radar-guided missiles for BVR combat. Its best dogfight missile is the [[Python 3]], which is one of the most agile missiles in-game. However the Kfir C.7 doesn't have access to any SARH missiles, limiting its BVR capability. It also does not have guided air-to-ground weapons used by the [[Kurnass 2000]] Thus, the Kfir requires a skilled pilot to take advantage of its excellent performance and IR missiles to win engagements.
 
 == General info ==
 === Flight performance ===
@@ -194,6 +194,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9D Sidewinder missiles
 * 2 x Shafrir 2 missiles

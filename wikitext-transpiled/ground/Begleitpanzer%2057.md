@@ -81,7 +81,7 @@ As a light tank, the Begleitpanzer 57 carries great firepower and high mobility.
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''96''' || 48&nbsp;''(+48)'' || 24&nbsp;''(+72)'' || 0&nbsp;''(+96)'' || No
+| '''148''' || 48&nbsp;''(+100)'' || 24&nbsp;''(+124)'' || 0&nbsp;''(+148)'' || No
 |-
 |}
 '''Notes''':

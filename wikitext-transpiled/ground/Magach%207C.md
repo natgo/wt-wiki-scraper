@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The Magach 7C was the third development of the Magach 7 series. The Magach 7 came out in the 1980s with the C variant being developed in the 1990s. Unlike the Magach 7A, the Magach 7C employed passive arrays of armour instead of ERA kits like the ones present in the Magach 7A. With this extra armour, the Magach 7C took a hit to its mobility and received a new powerplant and transmission, the 900HP AVDS-1790-5A used in early Merkavas, and the transmission was upgraded to the same automatic transmission present in the Merkava Mk.2. The Magach 7C was eventually faced out in favour of the Merkava Mk.4 but it was still retained by reserve units of the IAF.
 
-The very last variant of Israel Magach series with redesigned applique armour, although not being the most protected tank of its era, Magach 7C still gives players the chance to fight back with its improved FCS, powerplant, new APFSDS and slightly better protection than its predecessors.
+It was introduced in [[Update "Apex Predators"]]. The very last variant of Israel Magach series with redesigned applique armour, although not being the most protected tank of its era, Magach 7C still gives players the chance to fight back with its improved FCS, powerplant, new APFSDS and slightly better protection than its predecessors. Compared to previous versions of the Magach, the Magach 7C has slightly better mobility and armour, and packs quite a punch with its new APFSDS round. However it relies heavily on its Fire Control System with 2nd generation thermals to be a threat in battles. Its armour is also much more capable against APFSDS and HEAT shells, since the ERA present in other Magach variants was not enough to stop APDS or APFSDS shells even from autocannons.
 
 == General info ==
 === Survivability and armour ===

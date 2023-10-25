@@ -15,6 +15,7 @@ The '''J2M4 Model 32''', designated as '''Raiden Mod.32 ({{Annotation|雷電三�
 It was introduced in [[Update 1.47 "Big Guns"]] as a premium vehicle purchasable in-game with Golden Eagles {{ge}}, but was removed from in-game sale after the [[wt:en/news/7408-news-happy-birthday-war-thunder-en|9th Anniversary Sale]]. It has since been made available temporarily for purchase in-game with Golden Eagles {{GE}} during the [[wt:en/news7549-special-national-foundation-day-in-japan-en|2022 "Day of Japan"]] and [[wt:en/news/8082-special-national-foundation-day-in-japan-en|2023 "National Foundation Day in Japan"]] mini-events. Similar to its replacing variant, the [[J2M5]], the J2M4 boosts its performance over its earlier predecessors by boasting a 1,854 hp engine on top of equipping a turbocharger increasing its efficiency at high altitudes.
 
 ;Nicknames:
+
 * [[Abbreviations#.28IJN.29_Official_name_designation|Official Designation]]: ''雷電 (Raiden, "Lightning Bolt")''
 * Allied reporting name: Jack
 
@@ -122,7 +123,7 @@ The Raiden pilot may also find themselves outrun by high altitude aircraft such 
 
 Featuring four 20 mm cannons, 2 Type 99 Mk 1 and 2 Type 99 Mk 2 cannons with plenty of ammunition, the J2M4 is capable of destroying all kinds of aircraft. Although destroying heavy bombers like the B-29 Superfortress takes a lot of ammunition, the J2M4 can afford to lose some. The "Stealth" belt has the best combination of AP/API and HEF to shred enemy aircraft, and are recommended for those who do not need a tracer shell to aim. Alternatively, for those not used to IJN 20 mm cannons, the "Universal" belt is your best bet. The "Tracer" belt is filled with HEFT shells, but they only contain half of the power of a standard HEF, and can give away your position.
 
-Overall, the Raiden is best used as a surprise attack, high altitude, high damage output fighter. While it does not excel in the speed or manoeuvrability categories, it makes up for that in armament and rate of climb.
+Overall, the Raiden is best used as a support or surprise intercept, high altitude, high damage output interceptor (not a dedicaded fighter). While it does not excel in the speed, manoeuvrability categories or climbing, it makes up for that in armament. When flown disciplined accordingly the capabillities the succes rate will increase.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -179,10 +180,12 @@ This progress allowed Mitsubishi to further develop the Raiden and so they would
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=j2m4_kai Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

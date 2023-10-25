@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (also known as the '''{{Specs|pseudonym}}''') is a premium gift rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]].
+The '''Aufklärungspanzer 38(t)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 140/1''') was a reconnaissance vehicle used by the German Army during World War II. Its task was to scout out enemy positions ahead of the main attack column. They would then radio back the number of hostile forces and their location. They might occasionally direct an artillery or airstrike. German half-tracked and wheeled armoured cars were used for armoured reconnaissance but suffered in the tough circumstances of the Eastern Front. The Aufklärungspanzer 38(t) was intended to replace both of these vehicles as a key reconnaissance vehicle. It was outfitted with a 'Hangelafette turret' armed with a 20 mm Kampfwagenkanone (KwK) 38 autocannon and a single 7.92 mm MG42 light machine gun capable of anti-aircraft and ground fire.
+
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Aufklärungspanzer 38(t) performs similarly to a [[Pz.II (Family)|Panzer II]] but with a more resilient overall structure. It retains its mobility, but players should be aware that it lacks the primitive vertical stabilizer present in Panzer IIs. Nonetheless, it is a highly versatile light tank capable of both anti-aircraft and ground tasks. However, due to its low gun depression, this light tank may struggle to perform in rugged terrain.
 
 == General info ==
 === Survivability and armour ===

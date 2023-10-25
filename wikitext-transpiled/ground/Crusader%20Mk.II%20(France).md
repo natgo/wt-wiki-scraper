@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+Several variants of the British [[Crusader (Family)|Crusader cruiser tank family]], notably the [[Crusader II]] and [[Crusader III]], served with the Free French Forces. During the early stages of World War II, France was stripped of all equipment due to German occupation. The surviving forces received some of the Allies' tanks. The 1st autonomous tank company of the Free French Forces operated around 10 Crusader IIs and 18 Crusader IIIs.
+
+Introduced in [[Update 1.97 "Viking Fury"]], the ▄Crusader II is a capable short-range light tank. It is mounted with a fast-firing 40 mm Ordnance QF 2-pounder tank gun, which is suitable for destroying tanks with a tightly packed interior and tank crews who are close to one other. Thanks to its rapid reload, primitive vertical gun stabilizer, and excellent handling, it is a fun light tank to play with. As cross-country performance is much better and the vehicle does not slide after sudden breaking, handling is much enhanced over the [[A13 (Family)|A13 cruiser tanks]]. Driving and fighting in the open field should be avoided due to lack of armour. Players should always look for cover or the terrain that hull-down tactics, which this tank excels at, may be used. The tank also boasts excellent gun depression and a small turret.
 
 == General info ==
 === Survivability and armour ===

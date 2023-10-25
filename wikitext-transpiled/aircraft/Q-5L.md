@@ -287,4 +287,5 @@ In the mid-1990s, after the previous projects of A-5M and A-5K were canceled by 
 === References ===
 <references />
 
+{{AirManufacturer Nanchang}}
 {{China jet aircraft}}

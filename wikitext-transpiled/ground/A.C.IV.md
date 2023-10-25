@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''', also known as the ''AC IV Thunderbolt'' or the ''AC IV Sentinel'',  is a premium rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was released some time after [[Update 1.55 "Royal Armour"]]. Armed with a [[Ordnance QF 17-pounder (76 mm)|17-pounder gun]], it has a high firepower for the battle rating it is in, able to effectively fight any other tanks at the battle rating. The Thunderbolt is also a small and manoeuvrable tank able to exploit harsh terrain to target the enemy.
+Australia began the development of the A.C.IV Sentinel as the A.C.I intended to fulfil the role of a cruiser tank. A commission was sent to the US to investigate the M3 Medium Tank since Australia lacked any kind of experience in armour development. It was decided to try a concept similar to the Canadian ''[[M4A5|Ram]]'', using the M3 as a basis and working around its design. Some other parts of the design were also based on the British [[Crusader (Family)|Crusader]] tank. The tank was meant to be armed with a 2-pounder gun, but this was increased to a 6-pounder in future variants. The final version, the A.C.IV, was developed to use the new and more powerful British QF 17-pounder gun, capable of dealing with the best German tanks at the time. The turret ring was also increased to 70 inches, for greater crew comfort.
 
-The AC IV is a well-rounded tank with superior armour layout compared to other British tanks at its BR; it can occasionally bounce shells from Tigers and Panthers if lucky. It is a relatively small medium tank in comparison to the common mainstay of the other countries, especially when compared to the American [[M4A2|Sherman]] tanks. The Sentinel also has a good manoeuvrability and power-to-weight ratio for the propulsion, able to accelerate to its max speed of roughly 30 km/h quickly and stay there on stable terrain. The tank has a great advantage of a decent reverse speed in comparison to other medium tanks of its calibre, with a reverse speed almost the same speed as forward. The addition of the 17-pounder gun also gives this tank a whopping high firepower for the size, so it can stand a chance against tanks of the same tier despite being out of the league in terms of armour.
-
-The tank in the game is the version planned for serial production, so it has the hull of the AC III; unlike the actual prototype design developed, which used the hull from the AC I version.
+It was released some time after [[Update 1.55 "Royal Armour"]]. The A.C.IV is a well-rounded tank with superior armour layout compared to other British tanks at its BR; it can occasionally bounce shells from Tigers and Panthers if lucky. It is a relatively small medium tank in comparison to the common mainstay of the other countries, especially when compared to the American [[M4A2|Sherman]] tanks. The Sentinel also has a good manoeuvrability and power-to-weight ratio for the propulsion, able to accelerate to its max speed of roughly 30 km/h quickly and stay there on stable terrain. The tank has a great advantage of a decent reverse speed in comparison to other medium tanks of its calibre, with a reverse speed almost the same speed as forward. The addition of the 17-pounder gun also gives this tank strong firepower for its size, so it can stand a chance against tanks of the same tier despite being out of the league in terms of armour.
 
 == General info ==
 === Survivability and armour ===
@@ -140,11 +138,17 @@ There is only one 7.7 mm coaxial MG with a very slow rate of fire, and no roof-m
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Exploit the A.C. IV's manoeuvrability against the heavier tanks, plus the 17-pounder tank allows for a penetration through the enemy's armour to cause internal damages. The fast reverse speed makes the "shoot-and-scoot" tactic a viable method against the enemy, and should be the prime one as the armour of the Sentinel is not exactly the most durable at only 50 mm flat. However, the sloping nature of the armour could give the bouncing capability of the tank comparable to the [[T-34 (1942)|T-34]], it's even arguably much better. So while the weight class is definitely against the Sentinel, a chance is always there to take out the opposition. When compared to other British tanks, this tank lacks access to APDS rounds. Extra caution should be paid during full uptier matches as there will be many enemy tanks, particularly German tanks, that this tank will find difficult to engage from the front.
+Exploit the A.C.IV's manoeuvrability against the heavier tanks, plus the 17-pounder tank allows for a penetration through the enemy's armour to cause internal damages. The fast reverse speed makes the "shoot-and-scoot" tactic a viable method against the enemy, and should be the prime one as the armour of the Sentinel is not exactly the most durable at only 50 mm flat.
+
+However, the sloping nature of the armour could give the bouncing capability of the tank comparable to the [[T-34 (1942)|T-34]], it's even arguably much better. So while the weight class is definitely against the Sentinel, a chance is always there to take out the opposition. When compared to other British tanks, this tank lacks access to APDS rounds. Extra caution should be paid during full uptier matches as there will be many enemy tanks, particularly German tanks, that this tank will find difficult to engage from the front.
 
 "Shoot-and-scoot" tactics are the best tactics to use with this vehicle. The Sentinel's armour does not let the tank be a brawler, so it must be more "sneaky" against the enemies. Another thing to note is the driver's hatch at the front of the tank. To avoid a frontally penetrating shot, always angle the driver's hatch away from the enemy.
 
-The AC.IV can play any role in the game, since it is decent at brawling, close range, mid range, and far range.
+The A.C.IV is quite mobile, even for a medium tank. Compared to tanks of similar BR like the Shermans and the T-34-85s, it has a very good reverse speed that is specially good when it's used in close quarter scenarios. That means that when it's used in city maps, the A.C.IV is very good for performing ambushes and setting up traps for heavier enemy tanks. It is also very capable in flanking manoeuvres, its gun is excellent to deal with enemies from the front, but it lacks the APHE rounds present in tanks from other nations.
+
+This means that the best round available for the A.C.IV is the Shot Mk.8 APCBC round. It is recommended to take at least 5 HE rounds to deal with enemy SPAA and any kind of open top vehicle (to one shot them with overpressure) and 25 rounds of APCBC. More rounds can be taken, but it's recommended taking only 30 to reduce the chances of ammo detonation, but even with that, there is a lot of empty space inside the A.C.IV, so even with a full ammo load, ammo detonation is rare to say the least.
+
+When playing in a downtier, the armour of the Sentinel becomes much better, it can reliably bounce shots with good positioning and angling of the chassis, but in downtiers it can be used as a brawler, attacking enemy tanks from the front and using the good penetration of its QF 17-pounder cannon. And in open maps with little to no cover, stay close to your team, since this tank can't brawl the same way heavy tanks will, even in full downtiers. There, the good mobility of the Sentinel can be a great advantage to cover capture points.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -186,6 +190,7 @@ After the war, the Australian government disposed most of the tanks in 1945, mos
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_ac4_thunderbolt Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -193,6 +198,7 @@ After the war, the Australian government disposed most of the tanks in 1945, mos
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British self-propelled anti-aircraft gun {{Battle-rating}}. It was released along with the initial British tree line in [[Update 1.55 "Royal Armour"]]. Compared to the [[Crusader AA Mk II|Mk II variant]], the Mk I features a single 40 mm Bofors auto-cannon as its main armament. While it means a reduced rate of fire compared to the faster firing 20 mm Oerlikon auto-cannons, the 40 mm can cause devastating damage if it hits an aircraft.
+The '''Crusader III Anti-Aircraft Mark I''' is a special modification of the third variant of the [[Crusader (Family)|A15 Crusader cruiser tank family]]. The original 57 mm Ordnance QF 6-pounder was replaced with a 40 mm Bofors anti-aircraft gun in an open-topped turret with an autoloader and automated turret. The crew consisted of four people: the commander, the gunner, the loader, and the driver. Beginning with the Normandy landing, the Crusader III Anti-Aircraft Mark I was issued to artillery light anti-aircraft regiments, but they were withdrawn from service soon after D-Day due to Allied air superiority and a lack of Luftwaffe targets, necessitating much fewer anti-aircraft platforms.
 
-In comparison to its predecessor and other 40 mm contemporaries like the American [[M19]], the Crusader AA Mk I unfortunately has some disadvantages. The single 40 mm cannon means that it cannot fire as fast as the 20 mm auto-cannons on the predecessor or have the fire density of the dual-cannons on the M19. Thus, accuracy is important to conserve what little ammo the SPAA can hold and to make sure that airplane gets hit.
-
-The Crusader AA Mk I is meant to be a SPAA, meaning it must stay away from the front lines or else it will easily be destroyed by the enemy. Instead, stay at least a good distance from the fighting and stay in cover, hopefully in an area where the gun has full 360° view of the whole sky to knock out any airplane attempting to strafe your allies.
+Introduced in [[Update 1.55 "Royal Armour"]], the Crusader III Anti-Aircraft Mark I is an interesting anti-aircraft vehicle that is also capable of carrying out anti-tank roles. Despite its anti-aircraft designation, the Crusader III Anti-Aircraft Mark I struggled in this duty. The 40 mm Bofors anti-aircraft gun fires slowly with low-velocity ammunition, making it difficult to target fast-moving enemy aircraft. Nonetheless, a single hit will frequently cripple any adversary aircraft. As a result, it is critical to hide and wait for an ideal moment before opening fire on an enemy aircraft. It can also act as an anti-tank weapon. This vehicle's armour-piercing ammunition can penetrate the frontal armour of light and medium tanks, as well as the side or rear armour of some heavy tanks. Due to the low post-penetration damage, you will need to target more than one section of an enemy tank to successfully destroy it.
 
 == General info ==
 === Survivability and armour ===
@@ -153,6 +151,7 @@ About 21 Crusaders still exist intact in various parts of the world. The most no
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_crusader_aa_mk_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

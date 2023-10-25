@@ -10,7 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]] as a [[wt:en/news/5924-development-shop-jet-packs-en|premium pack]] but was removed from sale after the 2019 [[wt:en/news/6464-shop-war-thunder-birthday-sale-en|Birthday sale]]. The {{PAGENAME}} has since been made temporarily available for purchase in-game ({{GE}}) during the [[wt:en/news/7279-special-day-of-the-russian-aerospace-forces-en|2021]] and [[wt:ru/news/15850-akciya-den-vvs-rossii-ru|2022]] "Day of the Russian Aerospace Forces" mini-events.
+In 1953-1954, there was multiple programs involving modifying the [[MiG-15bis]] into various other roles and specialities. One such variant was the MiG-15bis-ISH, a dedicated "Shturmovik", or ground attacker. For the ground attack modification, the MiG-15bis was given long wing-fence pylons on each wing, coupled with new experimental rocket launch rails that were angled downwards, allowing the MiG-15bis-ISH to carry a large quantity of bombs (for a MiG-15) or a lot of downwards angled rockets for ground attack runs.
+
+Introduced in [[Update 1.85 "Supersonic"]] as a [[wt:en/news/5924-development-shop-jet-packs-en|premium pack]], the MiG-15bis-ISH is arguably the best Soviet MiG-15 in-game, being at the same battle rating as the normal [[MiG-15]], and lower than the tech tree [[MiG-15bis]], the bis-ISH has access not only to a lot more ground-striking ordnance, but the powerful engine of the MiG-15bis, which more than offsets the added weight and drag of the comically large wing pylons.
+
+The MiG-15bis ISH was removed from sale after the 2019 [[wt:en/news/6464-shop-war-thunder-birthday-sale-en|Birthday sale]]. The {{PAGENAME}} has since been made temporarily available for purchase in-game ({{GE}}) during the [[wt:en/news/7279-special-day-of-the-russian-aerospace-forces-en|2021]] and [[wt:ru/news/15850-akciya-den-vvs-rossii-ru|2022]] "Day of the Russian Aerospace Forces" mini-events. 
 
 == General info ==
 [[File:CockpitImage_MiG-15.jpg|thumbnail|right|250px|The MiG-15bis ISH's instrument panel.]]

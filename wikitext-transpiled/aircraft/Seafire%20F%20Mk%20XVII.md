@@ -207,6 +207,7 @@ The same Rolls-Royce Griffon VI that powered the previous Seafire Mk.XV was also
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=seafire_mk17 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -220,7 +221,7 @@ The same Rolls-Royce Griffon VI that powered the previous Seafire Mk.XV was also
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-* [https://forum.warthunder.com/index.php?/topic/235719-supermarine-seafire-f-mk-xvii/ Official data sheet - more details about the performance]
+* [https://old-forum.warthunder.com/index.php?/topic/235719-supermarine-seafire-f-mk-xvii/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{Britain fighters}}

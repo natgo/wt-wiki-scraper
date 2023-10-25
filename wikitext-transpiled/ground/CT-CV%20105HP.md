@@ -84,7 +84,7 @@ The CT-CV turret mounts a Cockerill 105 mm L/50 cannon. For players who already 
 
 '''DM33 APFSDS, tier IV:''' This is the other kinetic shell for the vehicle; although it has the lowest penetration among late 105 mm APFSDS at only 408 mm point-blank, it is after all still a long-rod APFSDS with higher penetration and spalling than previous ammunitions. This will be the go-to ammunition once players research DM33.
 
-'''Falarick 105, tier II:''' Oddly enough, instead of being manufactured in NATO/US-allied countries, the Falarick 105 is in fact a Ukrainian cannon-launched tandem-warhead ATGM designed specifically for the Cockerill 105 mm L/50 cannon. Although it has much lower penetration that its Chinese counterpart at only 550 mm, the explosive content and velocity can certainly give enemy MBTs or light vehicles a bad day, sometimes even helicopters will fall victim if the missile if they get too close or hover for too long.
+'''Falarick 105, tier II:''' Oddly enough, instead of being manufactured in NATO/US-allied countries, the Falarick 105 is in fact a Ukrainian cannon-launched tandem-warhead ATGM designed specifically for the Cockerill 105 mm L/50 cannon. Although it has much lower penetration that its Chinese counterpart at only 550 mm, the explosive content and velocity can certainly give enemy MBTs or light vehicles a bad day, sometimes even helicopters will fall victim of the missile if they get too close or hover for too long.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

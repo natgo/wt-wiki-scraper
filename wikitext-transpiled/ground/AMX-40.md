@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]].
+The '''AMX-40''' is a special export prototype that was designed by GIAT in the late Cold War as an export tank to replace its predecessors, the [[AMX-32 (105)|AMX-32 P1]] and [[AMX-32|AMX-32 P2]]. GIAT opted to produce another prototype, the AMX-40 main combat tank, after the previous AMX-32s failed to attract any buyers. The AMX-40's development began in 1980 as a completely new design. It was designed to be a low-cost tank aimed at militaries with limited defence resources, with a weakly armoured hull and good mobility typical of past French main battle tanks, as well as a powerful 120 mm GIAT CN120-25 G1 tank gun. The first prototype was completed in 1983 and displayed at the Eurosatory that year. Two more prototypes were built in 1984, and the fourth and final one was built in 1985. However, towards the end of the Cold War, a large number of surplus main battle tanks became available on the market, and the project was declared a failure and cancelled in 1990 due to lack of interest.
 
-The AMX-40 represents a massive shift in the French tank tree, with the addition of a stabilizer, whereas all other vehicles, with the exception of the American vehicles (Sherman M4A1, Jumbo.) have no actual stabilizer. Many players might find themselves hesitating to fire a shot as soon as a target is seen because there is usually time to think before the gun is stabilized, but at this rank, French players might find themselves having a hard time shooting before their enemy.
+Introduced in [[Update 1.79 "Project X"]], the AMX-40 lineage can be traced back to the original [[AMX-30]]. Despite being a new design, it inherits many concepts and ideologies from the AMX-32 P1 and AMX-32 P2, which are part of the huge AMX-30 main battle tank family. The AMX-40 offers enhanced survivability on battlefields of greater lethality due to its improved frontal protection compromising composite armour. Overall, it feels like a substantially enhanced AMX-32 P2. Players can be a little more aggressive with this tank since its protection has been improved. However, this does not ensure immunity because most of the opponents at this rank can still penetrate its overall armour.
 
 == General info ==
 === Survivability and armour ===
@@ -19,6 +19,7 @@ The frontal armour of the AMX-40 consists mainly of a composite armour section a
 Overall the armour of the AMX-40 is for the most part, sufficient at protecting it from autocannon and SPAAG fire. Besides that, drivers of the AMX-40 will quickly find that its armour is inadequate at protecting it from its contemporaries and it is suggested that drivers instead make use of the above average mobility of the vehicle to ensure a degree of survivability.
 
 '''Armour type:'''
+
 * Rolled homogeneous armour (hull, turret, cupola) - abbreviated as RHA
 * High hardness rolled armour (front glacis - composite armour)
 * NERA (front glacis - composite armour)
@@ -35,11 +36,13 @@ Overall the armour of the AMX-40 is for the most part, sufficient at protecting 
 |-
 |}
 '''Notes:'''
+
 * Suspension wheels, tracks and torsion bars are 20 mm thick.
 * Belly armour is 15 mm thick.
 * A first internal wall of 8 mm RHA separates the crew compartment from the engine compartment.
 * A second internal wall of 35 mm RHA separates the turret from the bustle ammo rack.
 * Composite armour is located on the front lower glacis:
+
 {| class="wikitable"
 |-
 ! Composite armour !! Front (Slope angle)
@@ -47,7 +50,9 @@ Overall the armour of the AMX-40 is for the most part, sufficient at protecting 
 | Hull || '''Lower glacis:''' <br> 50 mm (8°) ''High hardness rolled armour'' <br> 300 mm ''NERA'' <br> 102 mm (8°) ''RHA''
 |-
 |}
+
 * Spaced armour is located on the turret front and sides:
+
 {| class="wikitable"
 |-
 ! Spaced armour !! Front (Slope angle) !! Sides
@@ -55,6 +60,7 @@ Overall the armour of the AMX-40 is for the most part, sufficient at protecting 
 | Turret || '''Gun mantlet:''' <br> 35 mm ''RHA'' <br> 140 mm ''Air'' <br> 35 mm ''RHA'' <br> '''Turret front:''' ' <br> 38 mm (cylindrical) ''RHA'' <br> 140 mm ''Air'' <br> 84 mm (22°) ''RHA'' || '''Gun mantlet - Right side:''' <br> 25 mm (4°) ''RHA'' <br> 50 mm ''Air'' <br> 35 mm (4°) ''RHA'' <br> '''Turret front:''' <br>  38 mm (23°) ''RHA'' <br> 140 mm ''Air'' <br> 84 mm (23°) ''RHA'' <br> '''Turret centre & rear:''' <br>  16 mm (18-23°) ''RHA'' <br> 140 mm ''Air'' <br> 29 mm (18-23°) ''RHA''
 |-
 |}
+
 * The values in the table above are not to be added to the armour values present in the first table as they only describe the layout of spaced armour.
 * The spaced armour does not cover the MG port.
 
@@ -223,6 +229,7 @@ In the late 1980s, the vehicle's development stagnated as active development was
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_40 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -234,6 +241,7 @@ In the late 1980s, the vehicle's development stagnated as active development was
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Leopard 2K]]
 
 == External links ==

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American destroyer {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The '''USS Welborn C. Wood (DD-195)''' is a member of the Clemson-class destroyer family. The USS Welborn C. Wood was laid down on September 24, 1918, by the Newport News Shipbuilding & Dry Dock Company in Newport News, Virginia; launched on March 6, 1920; sponsored by Miss Virginia Mary Tate; designated DD-195 during the assignment of alphanumeric hull number designations on July 17, 1920; and commissioned at the Norfolk Navy Yard on January 14, 1921. She served in the United States Coast Guard as USCGD Wood. The Royal Navy renamed her HMS Chesterfield later on. The USS Welborn C. Wood was decommissioned on August 8, 1922, in Philadelphia, after serving with the Atlantic Fleet along the east coast on an ordinary schedule of training and manoeuvres.
+
+Introduced in [[Update "New Power"]], the USS Welborn C. Wood is an early destroyer for players who want to explore the US Navy's bluewater fleet. The USS Welborn C. Wood is a great location to start if players are new to destroyer gameplay. She is effective at sinking smaller ships due to the precision of her tiny weaponry. She also has adequate secondary weaponry and reasonable manoeuvrability for her rank. The USS Welborn C. Wood, on the other hand, is unable to deal with other destroyers due to her low firepower and inability to successfully damage them. Furthermore, because shell velocity is limited, long-range contact is difficult. Finally, no anti-aircraft weapons are available, which is a significant disadvantage, especially when opposing aircraft are present during battles.
 
 == General info ==
 === Survivability and armour ===

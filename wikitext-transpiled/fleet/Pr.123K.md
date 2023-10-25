@@ -84,6 +84,7 @@ Against smaller vessels such as MTBs, the two 14.5 mm machine guns are usually m
 * Two fewer guns than the preceding Pr.123bis
 * Inability to engage opponents right in-front due to the positioning of the dual machine-gun turret
 * Only two torpedoes which fire forward, compared to four on many comparable MTBs
+* Can't hit anything in wavy waters
 
 == History ==
 <!-- Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: https://wiki.warthunder.com/(Ship-name)/History) and add a link to it here using the main template. Be sure to reference text and sources by using <ref></ref>, as well as adding them at the end of the article with <references />. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under === In-game description ===, also if applicable). -->

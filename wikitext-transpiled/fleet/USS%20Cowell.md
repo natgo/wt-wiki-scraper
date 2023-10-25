@@ -179,7 +179,7 @@ The Bofors also allow the Cowell to hunt PT boats and other small craft very wel
 
 In terms of opposition:
 
-* [[BTD-1]]: This plane can carry 2 torpedoes which can kill you very quickly, or can attack you from high altitude with a 2,000 lb bomb. Try prioritizing these aircraft to shoot down first.
+* [[BTD-1]]: This plane can carry 2 torpedoes which can kill you very quickly, or can attack you from high altitude with a 1,000 lb bomb. Try prioritizing these aircraft to shoot down first.
 * [[SKR-1]]: This patrol ship can shoot very rapidly and deal a lot of damage to your ship. Try engaging it from long range where your shells will have the advantage.
 * Light cruisers: Light cruisers will have better guns that are capable of beating you in a straight up gun duel. Try avoiding them or disabling their vital parts, or requesting help.
 * PT boats: Certain PT boats who penetrate your line of defences might pose a danger by launching off torpedoes. Use your Bofors to try to mow down any PT boat that gets too close and always be manoeuvring to dodge
@@ -223,6 +223,7 @@ In August 1971, the ship was ultimately decommissioned from U.S. service and was
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_destroyer_fletcher_cowell Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -234,6 +235,7 @@ In August 1971, the ship was ultimately decommissioned from U.S. service and was
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Fletcher (Family)]]
 
 == External links ==

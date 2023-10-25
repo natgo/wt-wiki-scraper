@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+With tensions rising in the Arab world, Israel was looking for a new, advanced fighter. After multiple failed deals with the F-86 and F-84, France took the initiative to sell their jets. At first, Israel was set on receiving the new Mystere IV and Mystere II but testing revealed numerous issues with the Mysteres. They were to be grounded until the problems were remedied. As a stop-gap measure, France sent 12 M.D.450 Ouragans to Israel. Although Israel soon received the Mystere IV, they still continued to successfully use the Ouragan as a support fighter and ground striker. Ouragans served well into the 1970s until they were replaced by more superior aircraft; some being sold to El Salvador. 
+
+Introduced in [[Update "Winged Lions"]], the '''{{Specs|name}}''' is a fairly versatile fighter. The Ouragan has average performance. With a top speed of only 942 km/h (585 mph) and decent acceleration, it struggles to outrun and catch up to enemy fighters. It also has a structural speed limit of 1,030 km/h (640 mph) which is sufficient for jet battles but players should be wary of initiating aggressive dives. The Ouragan can also turn quite well thanks to its wing design and has good manoeuvring energy retention.  As for ground ordnance, the Ouragan can carry rockets and a variety of bombs. Overall, the M.D.450B Ouragan is a capable fighter and ground striker in many aspects. 
 
 == General info ==
 === Flight performance ===

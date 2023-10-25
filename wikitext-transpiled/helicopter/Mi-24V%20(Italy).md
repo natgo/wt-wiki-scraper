@@ -39,6 +39,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian attack helicopter {{Ba
 
 == Armaments ==
 {{Specs-Heli-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="3" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs)
+|-
+| {{Tick}} || {{Tick}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
 <!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -54,7 +63,57 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.''
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || || 1 || 1 || ||
+|-
+! [[S-8KO]] rockets
+| || 20 || 20 || 20 || 20 ||
+|-
+! [[S-24]] rockets
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[9M114 Shturm]] missiles
+| 2 || 2 || || || 2 || 2
+|-
+! [[R-60]] missiles
+| || 1, 2 || || || 1, 2 ||
+|-
+! [[R-60MK]] missiles
+| || 1, 2 || || || 1, 2 ||
+|-
+| colspan="7" | Maximum permissible weight imbalance: 500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
+* 2 x R-60 missiles
+* 4 x R-60 missiles
+* 2 x R-60MK missiles
+* 4 x R-60MK missiles
+* 4 x 9M114 Shturm missiles
+* 8 x 9M114 Shturm missiles
+* 4 x S-24 rockets
+* 80 x S-8KO rockets
+* 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
+* 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

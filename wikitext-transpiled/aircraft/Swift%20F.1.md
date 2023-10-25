@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+Following the end of WWII, a new British government decided to focus their efforts into rebuilding the nation, under the assumption that another major conflict would not occur for at least a decade. During this time, Air Ministry Specifications were primarily issued for research designs, rather than any military requirements. As a result, at the dawn of the Cold War in the late 1940s, the RAF quickly realised that it was lagging behind in aerial capabilities, and pressed for the development of new fighter aircraft with the latest features, such as swept wings. Two designs that garnered particular interest were the Hawker Hunter and '''Supermarine Swift'''. The Swift was developed from an experimental prototype based on the [[Attacker FB 1|Supermarine Attacker]], which had been fitted with swept wings and tail. It was rushed through testing and production, with an initial order of 100 aircraft to act as insurance in case of failure in the Hunter project. However, technical challenges delayed both projects despite the high priority; the Swift F.1 eventually entered service in February 1954, with the F.2 variant appearing in the same month. Due to the hasty development process and panicked introduction, the Swift F.1 experienced a spate of accidents, resulting in the grounding of the type by August. By the end of 1954, all fighter variants of the Swift had been replaced by the new and far more capable [[Hunter F.1|Hawker Hunter]].
+
+Introduced in [[Update 1.91 "Night Vision"]], the Swift F.1 serves as a great primer for the [[Hunter (Family)|Hunters]] later in the tree, featuring much the same characteristics and flaws as its larger cousins. With decent acceleration, top speed, and energy retention, the Swift operates well in zooming around the battlefield, picking off stray or distracted enemies, and quickly evacuating from danger. It also boasts the same powerful 30 mm ADEN cannons, allowing any opponent to be destroyed in a single pass. The Swift does lack in manoeuvrability, particularly at high speeds; however, this can be mitigated by using its extremely strong takeoff flaps as makeshift airbrakes. However, manoeuvring will cause the Swift to quickly lose its all-important energy, so dogfights should be heavily avoided.
 
 == General info ==
 === Flight performance ===
@@ -58,7 +60,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,186 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 1,035 || 465 || ~9 || ~5
+| 1,186 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 1,035 || 465 || ~9 || ~5
 |-
 |}
 
@@ -68,7 +70,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 850 || < 600 || < 600 || N/A
+| < 850 || < 600 || < 600 || -
 |-
 |}
 
@@ -99,10 +101,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 ! Condition || 100% || WEP
 ! 7m fuel || 20m fuel || 23m fuel || MTOW
 |-
-| ''Stationary'' || 3,107 kgf || N/A
+| ''Stationary'' || 3,107 kgf || -
 | 0.48 || 0.42 || 0.40 || 0.33
 |-
-| ''Optimal'' || 3,197 kgf<br>(1,186 km/h) || N/A
+| ''Optimal'' || 3,197 kgf<br>(1,186 km/h) || -
 | 0.49 || 0.43 || 0.41 || 0.34
 |-
 |}
@@ -155,20 +157,18 @@ Another minor weakness of the Swift is the fact that the two ADENs fire very qui
 
 To summarise, use the Swift as a 'Boom and Zoomer', avoid horizontal dogfights, watch your speed in dives, and make sure to keep an eye on your ammo count, do all this and you'll be sure to quickly get many kills under your belt.
 
-===Radars===
-<!--{{main|AN/APG-30}}-->
-The Swift F.1 is equipped with an ARI.5857 rangefinding radar, located in the nose of the aircraft.
-It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
+=== Radars ===
+The Swift F.1 is equipped with an ARI.5857 rangefinding radar, located in the nose of the aircraft. It will automatically detect other planes within the scanning area and display the range to the closest target. It is linked with a gyro gunsight and can help with aiming at close range.
 
-{| class="wikitable" style="text-align:center"
-! colspan="4" | ARI.5857 - Rangefinding radar
+{| class="wikitable" style="text-align:center" width="50%"
+! colspan="4" | [[ARI.5857]] - Band I rangefinding radar
 |-
-! {{Annotation|Maximum<br/>Tracking<br/>Range|The maximum range at which a target can be tracked}}
-! {{Annotation|Minimum<br/>Tracking<br/>Range|The range below which targets cannot be tracked by the radar}}
-! {{Annotation|Azimuth Tracking<br/>Angle|How far to each side the radar can track a target}}
-! {{Annotation|Elevation Tracking<br/>Angle|How far up and down the radar can track a target}}
+! Mode
+! {{Annotation|Max tracking<br>range|The maximum range at which a target can be tracked}}
+! {{Annotation|Azimuth limit|How far to each side the radar can track}}
+! {{Annotation|Elevation limit|How far up and down the radar can track}}
 |-
-| 2,750 m || 300 m || ±9° || ±9°
+| TRK || 0.8 km || ±9° || ±9°
 |-
 |}
 

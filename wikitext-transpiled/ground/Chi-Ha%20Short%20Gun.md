@@ -73,7 +73,7 @@ While the shell is certainly powerful, it is not as powerful as the [[Ho-Ro]]'s 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 23 || rowspan="2" | -8°/+15° || rowspan="2" | ±180° || rowspan="2" | N/A || 5.7 || 7.9 || 9.6 || 10.6 || 11.3 || rowspan="2" | 13.0 || rowspan="2" | 11.5 || rowspan="2" | 10.6 || rowspan="2" | 10.0
+| rowspan="2" | 23 || rowspan="2" | -10°/+15° || rowspan="2" | ±180° || rowspan="2" | - || 5.7 || 7.9 || 9.6 || 10.6 || 11.3 || rowspan="2" | 13.00 || rowspan="2" | 11.50 || rowspan="2" | 10.60 || rowspan="2" | 10.00
 |-
 ! ''Realistic''
 | 3.6 || 4.2 || 5.1 || 5.6 || 6.0
@@ -131,7 +131,7 @@ While the shell is certainly powerful, it is not as powerful as the [[Ho-Ro]]'s 
 |-
 | Hull || 3,000 (20) || 499 || ±10° || ±15°
 |-
-| Pintle || 1,000 (20) || 499 || -10°/+70° || ±60°
+| Pintle || 1,000 (20) || 499 || ±20° || ±60°
 |-
 |}
 

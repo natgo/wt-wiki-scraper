@@ -1,8 +1,3 @@
-{{About
-| about = gift British bomber '''{{PAGENAME}}'''
-| usage = other versions
-| link = DB-7 (Family)
-}}
 {{Specs-Card
 |code=boston_mk_1
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -224,7 +219,7 @@ A total of 131 machines from the second batch of DB-7s ordered by France were tr
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
+* Douglas [[DB-7 (Family)|DB-7]]
 * Douglas [[A-26 (Family)|A-26]] Invader
 
 ;Aircraft of comparable role, configuration and era

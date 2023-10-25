@@ -150,4 +150,5 @@ Due to your mediocre armament and poor flight characteristics, the Hurricane Mk 
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer Hawker}}
 {{Sweden fighters}}

@@ -79,7 +79,7 @@ Since the engine, transmission, and fuel tank are all positioned right behind th
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416, M413}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Merkava_Mk.2D.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -181,7 +181,7 @@ The model in-game does not sport the production batch's modifications as it is t
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [https://forum.warthunder.com/index.php?/topic/109524-yakovlev-yak-9u/ Official data sheet - more details about the performance]
+* [https://old-forum.warthunder.com/index.php?/topic/109524-yakovlev-yak-9u/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Yakovlev}}
 {{USSR fighters}}

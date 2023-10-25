@@ -10,30 +10,32 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-A representation of the rented [[F-16A ADF]]s from the USAF for the Italian Air Force; aside from the roundel on the aircraft, the jet added in [[Update "Apex Predators"]] performs exactly like its American counterpart, ensuring the air-combat capability of Italy with some of the most advanced missiles in game, as well as advanced avionics and manoeuvrability. For players who need interception both short and long range, the F-16 ADF is able to provide that. Its top speed will ensure that you will easily be one of the first aircraft to spot incoming enemy jets. It does not have really have notable air to ground capability, however if you're able to line up an easy shot against lightly armoured targets, such as SPAAs or IFVs, the M61 20 mm cannon can usually take them out.
+During the late '90s, Italy decided on the Eurofighter Typhoon as its next generation air-defense fighter. However the Typhoon faced delivery delays for some time, and as a result, multiple interrim temporary fighters were loaned from various countries: 24 Panavia [[Tornado ADV]] jets from the United Kingdom were leased to cover the gap. This lease ran out in 2003, with the Typhoon still not ready for service. The solution was provided by the United States in a special program titled the The Italian Foreign Military Sales program, a.k.a "PEACE CAESAR". A five-year lease of 34 F-16s, with an option to extend the lease for another five years was offered to the Italian Air Force. Of the 34, 30 aircraft were F-16A Block 15ADFs and F-16B twin-seater trainers, while the remaining four were earlier-block aircraft for spares. These were all older used reserve aircraft from US Air Force fighters inventory. Throughout the late 2010s, the Italian Typhoon was finally starting to come online, and in June 2010, the Italian Air Force started the return of the F-16s to the United States. The process was completed on 23 May, 2012, when all the Italian F-16s were returned to the US.
+
+The{{Specs|name}}, added in [[Update "Apex Predators"]], is a direct copy of the [[F-16A ADF]] found in the American tech tree. Like its american brother, it sits in a middle ground between the F-16s ingame. The ADF lacks the advanced systems and extra countermeasures found on the newer [[F-16C]]/[[Barak II|D]], but includes the required electronics for firing the [[AIM-7M Sparrow]] missiles, something the older and lighter [[F-16A]] variants lacked. The F-16A ADF ensures that italy has access to air-combat capability with some of the most advanced missiles in game, as well as advanced avionics and manoeuvrability. It does not have really have notable air to ground capability, however if you're able to line up an easy shot against lightly armoured targets, such as SPAAs or IFVs, the M61 20 mm cannon can usually take them out.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
-The F-16 is very strong in a dogfight due to its excellent TWR and energy retention, its highly manoeuvrable and can easily reach its top speed even when climbing. Its so good that you will often experience the effects of the G-limit, so when making a sharp turn keep that in mind.
+The F-16 is very strong in a dogfight due to its excellent TWR and energy retention. It is highly manoeuvrable and can easily reach its top speed even when climbing. You will often experience the effects of the G-limit, so when making a sharp turn keep that in mind.
 
 {| class="wikitable" style="text-align:center" width="70%"
-! rowspan="2" |Characteristics
-! colspan="2" |Max speed<br>(km/h at 10,973 m)
-! rowspan="2" |Max altitude<br>(metres)
-! colspan="2" |Turn time<br>(seconds)
-! colspan="2" |Rate of climb<br>(metres/second)
-! rowspan="2" |Take-off run<br>(metres)
+! rowspan="2" | Characteristics
+! colspan="2" | Max speed<br>(km/h at 10,973 m)
+! rowspan="2" | Max altitude<br>(metres)
+! colspan="2" | Turn time<br>(seconds)
+! colspan="2" | Rate of climb<br>(metres/second)
+! rowspan="2" | Take-off run<br>(metres)
 |-
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 2,093 || 2,063 || rowspan="2" | {{Specs|ceiling}} || 20.3 || 20.6 || 252.7 || 240.2 || rowspan="2" | 850
+| 2,093 || 2,063 || rowspan="2" | {{Specs|ceiling}} || 20.3 || 20.7 || 254.4 || 242.7 || rowspan="2" | 850
 |-
  ! Upgraded
-| 2,198 || 2,146 || 19.3 || 19.8 || 340.8 || 295.0
+| 2,199 || 2,146 || 19.3 || 19.8 || 339.3 || 295.0
 |-
 |}
 
@@ -83,7 +85,7 @@ The F-16 is very strong in a dogfight due to its excellent TWR and energy retent
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | Pratt & Whitney F100-PW-220 || 1
-| colspan="2" | 7,970 kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | 7,970 kg || colspan="2" | 402 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with internal fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}

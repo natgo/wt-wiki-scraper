@@ -18,7 +18,7 @@ The {{PAGENAME}} finds itself in an excellent position as a rank I aircraft as e
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
-The {{PAGENAME}} has great manoeuvrability, especially when it comes to low-altitude flying, and also performs well at mid-altitudes too. It can be used as a great low-altitude ground-attack heavy fighter which can focus its four bombs and cannon/machine gun combination on light vehicles and anti-aircraft instalments. The turn rate is very good, which allows the {{PAGENAME}} to compete easily with some fighters can outperform other heavy fighters such as those from the Potez 630 family.
+The {{PAGENAME}} has great manoeuvrability, especially when it comes to low-altitude flying, and also performs well at mid-altitudes too. It can be used as a great low-altitude ground-attack heavy fighter which can focus its four bombs and cannon/machine gun combination on light vehicles and anti-aircraft instalments. The turn rate is very good, which allows the {{PAGENAME}} to compete easily with some fighters and can outperform other heavy fighters such as those from the Potez 630 family.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -171,10 +171,11 @@ Tests of this new system in March to April 1941 produced favourable results, wit
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak_2_kabb Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 Image:Yak-2 KABB an trn 26 002.png
 Image:Yak-2 KABB jonigustavo 001.jpg
 Image:Yak-2 KABB jonigustavo 002.jpg
@@ -189,9 +190,11 @@ Image:Yak-2 KABB jonigustavo 002.jpg
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * Yakovlev [[Yak-4]]
 
 ;Aircraft of comparable role, configuration and era
+
 * Messerschmitt [[Bf 110 (Family)|Bf 110]]
 * Kawasaki [[Ki-45 (Family)|Ki-45]]
 * [[Potez 630]] and [[Potez 631|631]]

@@ -61,7 +61,7 @@ The TBD-1 Devastator is a very slow but useful aircraft. It has a max speed of 3
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 212 || 212 || 212 || ~8 || ~2
+| 431 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 212 || 212 || 212 || ~8 || ~2
 |-
 |}
 
@@ -129,6 +129,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 12 x 100 lb AN-M30A1 bombs (1,200 lb total)
 * 3 x 500 lb AN-M64A1 bombs (1,500 lb total)
 * 1 x 1,000 lb GP Mk9 bomb (1,000 lb total)

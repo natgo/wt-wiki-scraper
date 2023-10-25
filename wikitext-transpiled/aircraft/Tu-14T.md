@@ -5,14 +5,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet bomber {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]].
+The Tu-14T was developed as a competitor to the IL-28 bomber. The project resulted in the Tu-14T being used as a torpedo bomber with a similar design nature to that of the IL-28. However the Tu-14 proved inferior to the IL-28. It was capable of carrying more weight compared to its competitor but it was slower and less reliable. The Tu-14T was used as a maritime reconnaissance and torpedo bomber, the T in the name was added to signify its role of torpedo bomber. The low priority of maritime aircraft meant it was produced in low numbers, with 88 units built in the early '50s and it served as the Soviet Union's main torpedo bomber between 1961 and 1970.
 
-Designed for the same specifications as the IL-28, the Tu-14T is larger and has more loadout choices than its "cousin". Due to its larger size, it is slower, making it more vulnerable. Like the IL-28 it has a 23 mm turret, allowing it to shoot down interceptors sitting on its tail. Unique among all jet bombers, the Tu-14T can carry a torpedo, which along with its airbrake means it can more effectively target naval vessels.
+It was introduced in [[Update 1.65 "Way of the Samurai"]]. The Tu-14T is larger and slower than the IL-28 but it compensates this with more variable loadouts for ground attack and better loadouts for naval strikes against enemy ships. The Tu-14T can be considered very similar to the IL-28 but its lack of ammo and no gunpods available to increase the firepower mean that it can't be used reliably as an interceptor. So, in order to survive it must climb to high altitudes like most bombers and use its turrets when possible to attack incoming interceptors. However it has the benefit of including an airbrake, which is essential for naval targeting and the launch process of torpedoes.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+The Tu-14T can be considered a slow and heavy jet like most bombers. However, even for its BR it is quite slow when compared to bombers like the B-57 Canberra or the IL-28. But it includes an airbrake, which is not present in all bombers and this is very important to lose altitude quickly without crashing or for naval targeting.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics

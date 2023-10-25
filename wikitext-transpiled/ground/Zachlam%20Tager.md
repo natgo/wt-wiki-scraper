@@ -178,21 +178,31 @@ HE-wielding tanks -  An even worse idea is to annoy dedicated artillery tanks li
 
 '''Pros:'''
 
-* Can rush objectives due to a high movement speed when spaded
-* Has 4 shots ready, can attack both directly and indirectly depending on the situation and range
-* Has significantly better maximum range than the [[type 60 ATM]]
-* Counts as a scout tank while being an ATGM tank, which allows it to negate smoke screens in AB and to earn points faster in RB
-* Missile can be guided without the sniper crosshairs in AB, unlike with most other carriers at the rank
+* Has four missiles ready to fire
+* Missiles are loaded and armed quickly if the ready rack is not expended
+* Has significantly better maximum range than other missile carriers
+* Missiles can deal significant damage to targets, especially if the explosion detonates ammo racks or fuel tanks
+* Can attack both directly and indirectly depending on the terrain and range
+* Relatively small profile and sight position allows this vehicle to stay low when hull down
+* Zachlam chassis is highly maneuverable with a high top speed when modified
+* Has access to scouting, which is especially useful if the vehicle runs out of missiles
+* Unassuming truck-like profile may trick enemies into ignoring the vehicle in urban environments
+* Missile can be guided without using the sniper sight in AB mode
 
 '''Cons:'''
 
-* Has nearly no armour and is open topped, thus very vulnerable to anything at close range, can be easily destroyed by a fighter plane or forced to move by artillery
-* Half-track has a tendency to get permanently stuck if driven carelessly
-* Unlike similar [[RakJPz 2]], can't properly fight if attacked from multiple sides, requires high situational awareness
-* Heavily penalizes user for emptying the entire ready rack
-* The controls have a dead zone of ~150 m, which combined with launch/reload patterns makes fights in cramped spaces a bit stressful due to ATGM not always making a fatal hit
-* Low ammunition count won't let you use it as a stand-off sniper for long, though it's possible (technically irrelevant in AB if you can wait for 80 seconds)
-* Weak and slow missiles can easily be shot down even by the weakest of machine guns
+* Has very light armour and is open topped which makes this vehicle very vulnerable to enemy fire, artillery, and enemy aircraft
+* Cannot fire on the move
+* Relatively low ammunition count
+* Slow reload penalty if the entire ready rack is fired too quickly
+* Controls have a dead zone of ~150 m, which combined with launch/reload patterns makes fighting in cramped spaces difficult
+* The missile's relatively slow speed can lead to a miss if the target is far away or moves and also allows a chance for the enemy to shoot it down
+* Missiles can detonate prematurely on obstacles such as walls and trees
+* Does not have horizontal traverse for its launcher which means the whole vehicle must be turned towards the direction of the target
+* No secondary armament can force the vehicle out of combat if all missiles are expended
+* Half-track chassis may get permanently stuck if driven carelessly into poor terrain
+* Tall radio antenna can lead to the vehicle being spotted early by vigilant enemies
+* Manual missile controls in RB and SB modes can be difficult to learn
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -216,9 +226,18 @@ The Tagars were soon decommissioned following the Six-Day War. By the time the i
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.'' -->
+* ''links to approximate analogues of other nations and research trees.'' -->Vehicles of similar design or capabilities
+
+* [[Type 60 ATM]]
+
+* [[RakJPz 2]]
+* [[AMX-13 (SS.11)]]
+* [[Striker]]
+
+Vehicles with the same chassis
 
 * [[M3 Half-Track (Family)]]
+** [[TCM-20]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

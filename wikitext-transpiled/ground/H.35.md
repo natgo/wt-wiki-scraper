@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (Hotchkiss light tank model 1935) is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. The H.35 was removed from its reserve status and hidden from the main tech tree during [[Update 1.85 "Supersonic"]] after the ammo update, though it is still unlockable after reaching rank II French ground vehicles. During its session in the main tree, it was arguably the ''worst reserve vehicle in War Thunder''.
+The '''Char léger modèle 1935 (Hotchkiss) H''' is a pre-World War II French cavalry tank. In 1933, it was intended as a low-cost yet well-protected light infantry support tank. The hull was constructed of six bolted-together cast armour parts: the engine deck, the fighting compartment, the front of the hull, the back of the hull, and two longitudinal pieces on the left and right that formed the bottom. Even though the tank was not well regarded by the French Army in general, it was politically unacceptable to stop production. As a result, the first 300 vehicles were offered to cavalry regiments, who were forced to accept them because they would not have been given a budget for other tanks.
+
+Introduced in [[Update 1.75 "La Résistance"]], the Char léger modèle 1935 (Hotchkiss) H was possibly the weakest vehicle in the French Army ground forces. Due to its low speed, mediocre manoeuvrability, and subpar main armament that struggles to penetrate most opponents in its rank, players should never use it in any combat in heavily contested zones. It is best utilized as a support vehicle, assisting allies by damaging enemy tanks' tracks and other crucial parts, making them easier to destroy.
 
 == General info ==
 === Survivability and armour ===
@@ -174,6 +176,7 @@ The SA18-armed R.35 also continued in service with Vichy France until 1942 and w
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_hotchkiss_h35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -185,9 +188,11 @@ The SA18-armed R.35 also continued in service with Vichy France until 1942 and w
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[H.39]] / [[H.39 "Cambronne"]]
 
 ;Other vehicles of similar configuration and role
+
 * [[R.35 (SA38)]]
 
 == External links ==

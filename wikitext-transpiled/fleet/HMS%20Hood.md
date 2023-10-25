@@ -80,18 +80,20 @@ The main opponent, though, is the Kronshtadt, which is faster than the Hood, hig
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
 * Features eight 381 mm (15 inches) cannons with powerful shells to choose from
 * Good top speed for her size
-* Large profile allows it to absorb a lot of shells and contain the damage
+* Sufficient armour protection on the critical section of the ship
+* Large profile allows the ship to absorb a lot of shells and contain the damage
 
 '''Cons:'''
 
 * Extremely huge, can be easily spotted and hit
 * Relatively weak armour plating on the upper section of the ship
+* Very poor agility due to hull size, makes dodging bombs and torpedoes difficult
+* Extremely slow main turret traverse speed, inability to fire reactively 
 * Low secondary and anti-air defence for such a large ship
 
 == History ==

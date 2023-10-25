@@ -35,9 +35,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=2,208|rbMinHp=1,442}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,8 +48,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Rh120 L/44 (120 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[Rh120 L/44 (120 mm)|120 mm Rh120 L/44]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -60,10 +57,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 42 || rowspan="2" | -9°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 42 || rowspan="2" | -9°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 23.8 || 28.0 || 34.0 || 37.6 || 40.0
 |-
 |}
 
@@ -90,10 +87,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
+{{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|s.MG.50 (12.7 mm)|MG3A1 (7.62 mm)}}
-
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -101,7 +97,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 800 (100) || 575 || -10°/+70° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -110,7 +106,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 4,400 (200) || 1,200 || - || -
 |-
 |}
 
@@ -124,23 +120,17 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 
 '''Pros:'''
 
-* Armor upgrade from standard Leopard 2s, allows for slightly more protection on the LFP and UFP.
-* Main gun is good for the BR and can penetrate most opponents if aimed well.
-
 *
 
 '''Cons:'''
-
-* Downgraded gun from the Leopard 2A6, sharing the same gun and the inferior sabot round from the Leopard 2A4/5/PL.
-* UFP and LFP can still be penetrated by most weaponary at top tier ranks, even with extra armor.
-* Turret ring susceptible to overpressure mechanics and can be penetrated by some autocannons.
-* Very weak side armor.
 
 *
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Leopard 2 PSO, with PSO standing for "Peace Support Operations", was KMW's proactive development of the Bundeswehr's requirements for a tank that needed to be adapted for urban warfare peacekeeping operations. As a result of this version, the Leopard 2 PSO features a compact Euro-Powerpack engine, and has been equipped with optional equipment, capable of being fitted for whatever mission is at hand. The Leopard 2 PSO's hull has been equipped with additional armor modules on the sides and on the turret, as well as reinforced underbody protection. The modernization of Leopard 2 tanks under the PSO program was first delayed and then eventually abandoned in favor of upgrading tanks to the Leopard 2A7 specification.
+
+- ''From [[wt:en/news/8448-development-leopard-2-pso-urban-warfare-tactics-en|Devblog]]''
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

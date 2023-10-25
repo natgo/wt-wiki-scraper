@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American destroyer {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]] as part of the fleet closed beta test.
+The '''USS Litchfield (DD-336/AG-95)''' is a member of the Clemson-class destroyer family. On January 15, 1919, the USS Litchfield was laid down from the Mare Island Navy Yard. Mrs. Martha D. Litchfield, the mother of Pharmacist's Mate Litchfield, sponsored the vessel's launch on August 12, 1919. The destroyer was commissioned on May 12, 1920. By the end of 1921, the USS Litchfield had sailed from San Diego, California, to Charleston, South Carolina. The USS Litchfield sailed from Newport, Rhode Island, to join Division 39 for service in the eastern Mediterranean Sea, arriving in Constantinople on June 28, 1922. The USS Litchfield supported humanitarian issues as well as American foreign policy. The USS Litchfield returned to the United States late in 1923, carrying the remains of World War I hero George Dilboy, who had been brought to the U.S. for reburial after his original grave had been desecrated as part of the Greco-Turkish battle. After completing her last operation on July 21, 1945, the USS Litchfield arrived in San Diego on August 9, 1945, where she was decommissioned on November 5, 1945, and removed from the Naval Vessel Register on November 28, 1945. On March 29, 1946, the Philadelphia Navy Yard completed the scrapping.
+
+Introduced in [[Update 1.79 "Project X"]], the USS Litchfield is an early destroyer for players who want to explore the US Navy's bluewater fleet. The USS Litchfield is a fantastic starting point for basic destroyer gameplay. Since her smaller guns are precise, she is good at sinking smaller ships. She also has fair manoeuvrability for her rank and acceptable secondary guns. The USS Litchfield, on the other hand, cannot successfully deal with other destroyers as her firepower is limited and will not inflict much damage to them. Furthermore, the shell velocity is moderate, making long-range engagement difficult. Finally, there is no anti-aircraft armament, which is a significant disadvantage, especially when there are a large number of opposing aircraft present during engagements.
 
 == General info ==
 === Survivability and armour ===
@@ -88,6 +90,7 @@ The Clemson class of destroyers were built between 1918 and 1922, as the last "f
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_destroyer_clemson_litchfield Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -96,6 +99,7 @@ The Clemson class of destroyers were built between 1918 and 1922, as the last "f
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Clemson (Family)]]
 
 == External links ==

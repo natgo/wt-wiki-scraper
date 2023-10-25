@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American destroyer {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]] as part of the fleet closed beta test.
+The '''USS Barker (DD-213)''' is a member of the Clemson-class destroyer family. The USS Barker was launched on September 11, 1919, by William Cramp & Sons in Philadelphia, and was sponsored by Mrs. Albert S. Barker, widow of Admiral Barker. It was commissioned on December 27, 1919. The USS Barker travelled to the Middle East in June 1920 to join Division 35, US Naval Detachment, Turkish Waters. She served with the American Relief of Armenia for many months and visited several ports in Turkey and the Middle East before going eastward to the Orient late in 1921 to begin her four-year tour of service with the Asiatic Fleet. In the early hours of December 11, 1937, the ocean liner SS President Hoover became stranded in a storm on Kasho-to, east of Formosa. The USS Barker was sent from Olongapo Naval Station to assist, while the USS Alden was sent from Manila. The USS Barker was at Tarakan, Borneo, on December 7, 1941, when it learnt the Pearl Harbor attack and promptly began patrolling the maritime area. She patrolled and escorted convoys in the Netherlands East Indies during the rest of December and into January 1942. The USS Barker performed two trans-Atlantic convoy escort crossings to England and four to North Africa between September 6, 1943, and October 1, 1944. The remainder of the USS Barker's active service was spent as a convoy escort in the Caribbean, Newfoundland, and along the U.S. eastern shore. She arrived in Philadelphia on June 4, 1945, was decommissioned on July 18, 1945, and sold on November 30, 1945.
+
+Introduced in [[Update 1.79 "Project X"]], the USS Barker represents an improvement over previous Clemson-class destroyers. With two 20 mm Oerlikon Mark II anti-aircraft cannons, players may finally defend themselves against attacking aircraft. The firing angles are favourable, and the blind spots are subtle and difficult to exploit. However, this is still a very minimal threat to most planes and is ineffectual against planes beyond 1.5 km. As a result, finding a ship with greater anti-aircraft armament is critical. Overall, it is a well-rounded destroyer, with a large number of torpedoes, and good main armament accuracy. However, the firepower it possesses remains quite limited, relying primarily on the captain's skill to win against practically everything during battles. Thus, it is advised to avoid direct confrontations with other destroyers unless absolutely necessary.
 
 == General info ==
 === Survivability and armour ===
@@ -112,10 +114,11 @@ At the time of the raid on Pearl Harbour, USS Barker had been stationed on Borne
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_destroyer_clemson_barker Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 Image:Barker 1943.jpg|
 Image:BARKER 1924.jpg|
 </gallery>
@@ -129,6 +132,7 @@ Image:BARKER 1924.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Clemson (Family)]]
 
 == External links ==

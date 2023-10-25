@@ -5,14 +5,16 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]].
+The Yak-23 was developed as a further upgrade to the Yak-15 and Yak-17 designs. It was one of the first Soviet single-seat jet engine fighters. Like its predecessors, it used the existing fuselage and airframe of the Yak-3 piston fighter and adapted an engine to it, specifically the Klimov RD500 turbojet engine. The Yak-23 saw limited success compared to more famous MiG-9, but it was still produced in decent numbers. With a total of 319 units built (prototypes included), it also served in the air forces of different nations allied with the USSR like Poland, Romania, Albania, Bulgaria, North Korea, and Czechoslovakia.
 
-The Yak-23 is a single-engined jet fighter initially designed to intercept high altitude, long range bombers such as the B-29.
+It was introduced in [[Update 1.75 "La Résistance"]]. The Yak-23 is a weird jet at its BR. Compared to other common jets like the MiG-15bis or the A-4E Skyhawk, the Yak-23 has the airframe of a prop and that comes with some advantages. Like most props, the Yak-23 has a good turn radius when not at high energy states. When it has a lot of speed, the Yak-23 compresses a lot and it does not have an airbrake to lose that speed nor the airframe to allow it to do so. Also, thanks to its powerful engine with excellent acceleration, it is ideal staying at around 700-800 km/h in a fight to retain energy in turns and also use the maximum agility of the Yak-23. The guns in this jet are ok, with a decent speed and belts with HE you can consistently destroy other players with a few bursts and good aim once you learn the ballistics of the gun.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+
+The Yak-23 has a very good flight performance for its BR. Compared to the MiG-15bis or the Yak-30D, the Yak-23 excels at low speed handling. It has a good roll rate and a very good acceleration and climb rate specially above 800 km/h. However, it compresses over 900 km/h and thus is better to keep it at speeds below 800 km/h to use its agility to its maximum.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics

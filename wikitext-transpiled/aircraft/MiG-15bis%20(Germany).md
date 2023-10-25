@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update 1.39]].
+During the early '50s, a design proposal for an upgraded MiG-15, titled the MiG-15bis (second), was issued. The main upgrade was the new VK-1 engine, offering a lot more thrust. The East German air force would start receiving the upgraded MiG-15bis not long after it entered service with the USSR and proved itself there. The MiG-15bis would serve as the frontline fighter of the NVA, being later supplemented by the MiG-17 and its licensed copy, the [[Lim-5P (Germany)|Lim-5]], before being ultimately replaced by proper 3rd generation fighters such as the MiG-21F in the late '60s and early '70s.
+
+Introduced in [[Update 1.39]], the '''{{Specs|name}}''' is a German operated copy of the [[MiG-15bis]] and performs identically to it. Having the powerful VK-1 engine and strong firepower, the MiG-15bis shines with its overall performance against a majority of jets that it faces, though it still requires attention to enemy missiles and strong trigger discipline for the limited ammunition onboard. Alternatively, in full uptiers, it can form the backmarker of the team rather than the tip of the spear, picking off distracted targets and being able to fight back against even some supersonic jets in close-in dogfights.
 
 == General info ==
 === Flight performance ===

@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
+The Su-7BMK was devised almost immediately after the Su-7BM variant, as a downgraded export version for overseas customers outside the Warsaw Pact, being sold to many overseas customers including Egypt, India, North Korea, Algeria, Afghanistan, Iraq, and Syria. The primary users of the BMK were India and Egypt, both of which successfully used the aircraft in active combat. The BM (and its export variant, the BMK) provide multiple upgrades over the older Su-7B variant. Primarily, the aircraft were fitted with the more reliable and powerful Saturn AL-7F-1 engine and "wet pylons" under the wings, allowing the aircraft to use external fuel tanks.
 
-It was removed from the Gaijin store after the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]] and is currently unobtainable in-game.
-
-It bears Egyptian air force insignia and roundels.
+The '''{{Specs|name}}''' is a premium Egyptian strike aircraft in the Soviet tech tree. It was introduced shortly before [[Update "Red Skies"]] for pre-order as a pack premium, and was sold until the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]] when it was removed from the Gaijin Store, and has since been unobtainable in-game. Being an export version of the upgraded "BM" variant with many upgrades over the [[Su-7B]] in the tech tree, but without all the extra weight of the rough-field operation kit found on the tech tree [[Su-7BKL]], the Su-7BMK is arguably the best Su-7 variant in-game, though all the Su-7s suffer from major issues at their battle rating, including lack of proper dogfighting performance, countermeasures, or any real air-to-air weaponry in air battles, and very underwhelming ground attack ordnance compared to their adversaries for ground-strike roles. All in all, the Su-7BMK is still a unique premium and is very efficient at researching aircraft due to its high speed, allowing it to bomb bases in air battles quickly and escape before enemy fighters intercept it.
 
 == General info ==
 === Flight performance ===
@@ -111,7 +109,7 @@ It bears Egyptian air force insignia and roundels.
 |}
 
 === Survivability and armour ===
-{{Specs-Avia-Armour}}	
+{{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 The pilot is well protected from shots, with a 102 mm bulletproof glass front windscreen in the cockpit, an 8 mm steel plate in front of the instrument panel, and a 5 mm steel plate above the windshield. There is also some armour protection from behind: 36 mm Aluminium Alloy plates for the seat and a 20 mm Aluminium Alloy plate for the headrest. There is no protection from shots coming from the sides.
 
@@ -171,6 +169,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 42 x S-3K rockets
 * 96 x S-5K rockets

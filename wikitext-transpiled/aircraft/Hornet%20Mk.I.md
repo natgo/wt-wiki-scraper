@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British twin-engine fighter {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+The de Havilland Hornet was a twin engine fighter developed by the de Havilland Company as a high altitude long range interceptor at the end of WWII. The Hornet saw most of its action in the colonies of the Pacific, its long range allowed it to cover large areas of sea and land in areas without proper infrastructure or services to maintain large fleets of aircraft. The Hornet Mk.I was the first variant of the Hornet with 60 units built. A total of 383 Hornets were built between all variants in the span of 5 years (1945-1950). It served in the Royal Air Force and Royal Navy from 1946 to 1956.
 
-The Hornet Mk.I represents the beginning of the end of British propeller aircraft. An earlier model of the tech tree [[Hornet Mk.III]] with a lighter airframe and the same engines, but lacking the "150 octane fuel" of the Mk.III. The Mk.I attains slightly more agility than its successor alongside its premium bonuses. With four fearsome 20 mm Hispano Mk.V cannons all mounted under the nose of the aircraft, it possesses the ability to shred apart whatever is unfortunate enough to fall within its sights.
-
-Able to climb and fight at high altitudes with a focus on energy fighting with only a lightly noticeable reduction in power that the Mk.III possesses. For any pilot willing to put the time in this aircraft will provide a terrifying force in any battle, even ground scenarios with its ability to carry suspended armaments and armour piercing 20 mm rounds.
+It was introduced in [[Update "Hot Tracks"]]. The Hornet Mk.I represents the beginning of the end of British propeller aircraft. An earlier model of the tech tree [[Hornet Mk.III]] with a lighter airframe and the same engines, but lacking the "150 octane fuel" of the Mk.III, the Mk.I attains slightly more agility than its successor. With four fearsome 20 mm Hispano Mk.V cannons all mounted under the nose of the aircraft, it possesses the ability to shred apart whatever is unfortunate enough to fall within its sights. Able to climb and fight at high altitudes with a focus on energy fighting with only a lightly noticeable reduction in power that the Mk.III possesses. For any pilot willing to put the time in, this aircraft will provide a terrifying force in any battle, even ground scenarios with its ability to carry suspended armaments and armour piercing 20 mm rounds.
 
 == General info ==
 === Flight performance ===
@@ -144,6 +142,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 8 x AP Mk I rockets
 * 8 x AP Mk II rockets
@@ -198,7 +197,14 @@ Because of its excellent climb rate, the Hornet can also be used as a bomber hun
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+[[File:HornetPhoto.jpg|thumb|Hornet Mk.III in flight]]
+The Hornet was developed by de Havilland after their success with the DH.98 Mosquito, also a twin engine aircraft but for strike missions. The development of the Hornet was a private venture of the company rather than a contract or an interest of the military in the concept. The development of the Hornet started after 1941 and concentrated in producing a long range fighter, this was designated DH.103. The aircraft was meant to be operated against the Japanese Empire in the Pacific Theatre.
+
+The first prototype was ready in 1944 and that same year it conducted its first flight piloted by Geoffrey de Havilland Jr. A second prototype was built after that, being more similar to what would be the final version of the aircraft having provision for a pair of 200-gallon drop tanks and a pair of 1,000 lbs bombs on hard points underneath the wings. The RAF was interested in this new long range fighter, and once the production line for the Hornet was set and done, an order for 60 units was placed of the F.1 variant. These units were delivered by February 28, 1945.
+
+Further variants of the Hornet were developed, but the most iconic one was the Sea Hornet. This variant was created with the idea of serving in aircraft carriers. This idea was possible thanks to the Hornet having good low speed handling and visibility for landings. Several modifications were made to the design, including a reinforcement of the lower rear fuselage, slotted flaps for better flaps down performance, catapult assisted takeoff compatibility with one forged steel catapult bridle hooks fitted below each wing close to the fuselage. However the most important modifications were the foldable wings, this was essential since the Hornet was a large fighter, and occupied a lot of space in storage.
+
+Other variants were also produced, with some experimental ones fitting a search radar in the nose of the aircraft. However several reconnaissance versions were produced, some of which included photo-reconnaissance.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

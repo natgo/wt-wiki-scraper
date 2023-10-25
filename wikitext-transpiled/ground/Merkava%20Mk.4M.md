@@ -130,12 +130,17 @@ Introduced in [[Update "Wind of Change"]], the Merkava Mk.4M is the ultimate sub
 * Powerful APFSDS round
 * Trophy System will stop most missiles
 * HE-TF can help with fighting against helicopters
-* Access to Commander and Gunner thermals
+* Generation 2 thermal for gunner and commander
+* 200mm of NERA on the turret roof will protect against HE shells striking the optics and sometimes even against artillery
+* 400mm of NERA side armor above the tracks. Enough to stop most HEAT-FS and autocannons.
+* Can reverse at 64kph.
 
 '''Cons:'''
 
 * Engine is at the front of the tank and any penetrating hit to the UFP will result in a stranded tank
 * Upper front plate is weaker than those of other nations' tanks
+* Slower reload than most top tier manual loaded tanks. 8.7 secs stock, 6.7 ace.
+* depression of only 7°
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -74,43 +74,44 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|9M17M Falanga|S-5K|GSh-23L (23 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || || 1 || 1 || ||
+|-
+! [[S-5K]] rockets
+| || 32 || 32 || 32 || 32 ||
+|-
+! [[9M17M Falanga]] missiles
+| 2 || || || || || 2
+|-
+| colspan="7" | Maximum permissible weight imbalance: 480 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 128 x S-5K rockets
 * 4 x 9M17M Falanga missiles
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
+{{Navigation-End}}
 
 The '''Falanga''' anti-tank missile is the primary anti-tank weapon of the Mi-24A. With a range of 4 km, it can out-range most conventional SPAA, which are effective out to around 3 km. However, it travels relatively slowly (220 m/s) and has SACLOS guidance, which requires the pilot to keep the sight crosshair on the target until the missile hits. At the maximum range of 4 km, this means that the helicopter must remain relatively steady for around 20 seconds, during which time the helicopter will be an easy target.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| || 1 || 1 || 1 || 1 ||
-|-
-! 250 kg OFAB-250sv bombs
-| || 1 || 1 || 1 || 1 ||
-|-
-! 500 kg FAB-500M-54 bombs
-| || || 1 || 1 || ||
-|-
-! S-5K rockets
-| || 32 || 32 || 32 || 32 ||
-|-
-! 9M17M Falanga missiles
-| 2 || || || || || 2
-|-
-| colspan="7" | Maximum permissible weight imbalance: 480 kg
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

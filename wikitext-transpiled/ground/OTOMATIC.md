@@ -72,7 +72,7 @@ The OTOMATIC has access to both anti-air and anti-tank ammunition capable of dea
 
 '''APFSDS''' - The dart ammunition has a full anti-tank role though it can be used for anti-air roles, however it is not recommended. It has decent penetration and stopping power as a dart and is more than capable with dealing enemy tanks. It is able to destroy enemy targets in one hit if it's a well placed shot. Ammunition should be targeted with the APFSDS as the low amount of ammunition carrying can make it run out of APFSDS before destroying the enemy. Trapshots are suggested (driver's port, cupola, mantlets, etc).
 
-'''HE-MOM''' - The High Explosive Variable Time fuse proximity shell has a full anti-air role with zero anti-tank role. Thanks to the high calibre, the HE is able to carry a proximity fuse with a lethal explosive mass, making it capable of destroying all aerial threats with one or two hits. Trigger discipline is recommended as, due to the fast fire rate, the OTOMATIC can spend the whole ammunition reserve really fast. Thanks to being a big shell, most enemy helicopters and aircraft will not redirect course when being fired at until it's too late compared to the continuous fire smaller calibre SPAA have (25, 30, 35, 40 mm, etc). They do not trigger Missile Alert Warning systems, making them the ultimate helicopter killer.
+'''HE-MOM''' - The High Explosive Variable Time fuse proximity shell has a full anti-air role with zero anti-tank role. Thanks to the high calibre, the HE is able to carry a proximity fuse with a lethal explosive mass, making it capable of destroying all aerial threats with one or two hits. Trigger discipline is recommended as, due to the fast fire rate, the OTOMATIC can spend the whole ammunition reserve really fast. Thanks to being a big shell, most enemy helicopters and aircraft will not redirect course when being fired at until it's too late compared to the continuous fire smaller calibre SPAA have (25, 30, 35, 40 mm, etc). They do not trigger Missile Alert Warning systems and do not have a visible tracer, making them the ultimate helicopter killer.
 
 {{:OTO Breda Cannone da 76/62 (76 mm)/Ammunition|76/62 SAPOM, 76/62 APFSDS, 76/62 HE-MOM}}
 
@@ -126,7 +126,7 @@ The OTOMATIC is one of the more role-diverse SPAA in the game, akin to that of t
 The OTOMATIC has a big ammo rack with three types of ammunition for all types of players, for those who want to be deadly to only aircraft and control the skies as quickly as possible, and for those who want to carry out as much destruction as possible regardless if they want to go anti-air or anti-tank. The only drawback is that the OTOMATIC can only carry 12 APFSDS rounds. The recommended round load is 50 HE-VT*, 20 SAPOM, and 12 APFSDS for both anti-air and anti-tank capabilities. Each of these rounds are well-suited for the targets they are specialized to fight against.
 
 === HE-VT* ===
-This round makes nailing aircraft such an easy task, though it has its pros and cons compared to missiles that other high-ranking SPAA are using. As a con, a HE-VT* shell carries less explosive power, cannot be guided, and has a slower muzzle velocity compared to missiles. However, the HE-VT* as a shell will not trigger the aircraft's Missile Approach Warning system (MAW) and so the enemy may be caught unaware of an incoming 76 mm HE-VT* shell if they do not see it coming. The only visual cue they would have is the flying tracer round, compared to a missile smoke streak that may be traced to the firing SPAA vehicle. The larger number of HE-VT* shells carried also means the {{PAGENAME}} can quickly follow-up a shot if the first shot missed, without too much worry on ammunition waste.
+This round makes nailing aircraft such an easy task, though it has its pros and cons compared to missiles that other high-ranking SPAA are using. As a con, a HE-VT* shell carries less explosive power, cannot be guided, and has a slower muzzle velocity compared to missiles. However, the HE-VT* as a shell will not trigger the aircraft's Missile Approach Warning system (MAW) and so the enemy may be caught unaware of an incoming 76 mm HE-VT* shell if they do not see it coming. This shell does not have a visible tracer. The only visual cue they would have is the muzzle flash when firing the cannon, compared to a missile smoke streak that may be traced to the firing SPAA vehicle. The larger number of HE-VT* shells carried also means the {{PAGENAME}} can quickly follow-up a shot if the first shot missed, without too much worry on ammunition waste.
 
 This round helps make the {{PAGENAME}} one of the more reliable SPAA at the top-rank battlefield. A missile would cause hovering aircraft like helicopters to simply find cover as soon as the MAW is activated. Top-rank SPAA that uses missile also have a reliance to their radar lock, as it must maintain that lock for the missile to track and hit the target. The {{PAGENAME}} also has access to thermal sights and a laser rangefinder to help locate aircraft in the air and find their range without use of the radar. With this, the {{PAGENAME}} can track a helicopter and find their distance without the enemy helicopter being aware that they are within the {{PAGENAME}}'s sights and firing range.
 
@@ -187,7 +187,7 @@ This is probably the most used round by the OTOMATIC when it is being used for a
 '''Pros:'''
 
 * Radar guidance system
-* Equipped by default with HE-VT fuse shells capable of annihilating aircraft within 1-3 indirect hits. Direct hits usually destroy the aircraft in one blow
+* Equipped by default with HE-VT* fuse shells capable of annihilating aircraft within 1-3 indirect hits. Direct hits usually destroy the aircraft in one blow
 * Excellent scoped zoom for an SPAA (8.0x to 16.1x)
 * Immense fire rate for the gun calibre; 120 RPM for a 76 mm gun
 * Two axis stabiliser
@@ -199,6 +199,7 @@ This is probably the most used round by the OTOMATIC when it is being used for a
 * Generation 1 thermals for the gunner - makes spotting enemy aircraft, helicopters and tanks a much easier task
 * Fear factor - Enemy pilots who know there is an OTOMATIC around will fall back in a far more cautious playstyle and are less likely to attack friendly ground vehicles in the open
 * Large cannon breech - can soak up shrapnel, thereby protecting the turret crew
+* HE-VT* and SAPHEI rounds do not have a visible tracer, making them impossible to spot in flight
 
 '''Cons:'''
 
@@ -216,6 +217,7 @@ This is probably the most used round by the OTOMATIC when it is being used for a
 * The gun can only elevate 60 degrees. This is below average for an SPAA vehicle of this tier.
 * Rate of fire decreases when your loader is knocked out
 * A hit to the turret, even if it doesn't kill the crew, will always result in a destroyed breech due to the sheer amount of space the breech takes up in the turret
+* The lack of visible tracers on the HE-VT* and SAPHEI rounds can make correcting your aim difficult against distant targets
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

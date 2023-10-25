@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American battleship {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]].
+The '''{{Specs|name}}''', one of two [[Wyoming (Family)|Wyoming-class]] battleships. Laid down in January 1910, she would be commissioned in September 1912, and would go on to serve through both World Wars. Notably, she served as part of Battleship Fleet 9, the US Navy attachment to the British Grand Fleet, but would see no action in the first World War. She would provide convoy escorts and shore barrage throughout WW2, before being decommissioned and sunk as part of the Baker nuclear tests. 
+
+A rank 5 premium, she was introduced as part of [[Update "Sons of Attila"]]. The sister ship of [[USS Wyoming]], she however comes in a later, 1942 refit. The largest improvement is the anti-aircraft battery, which is greatly improved over the measly {{Annotation|3-inch|76.2 mm}} {{Annotation|HE-TF|High-explosive Time Fused}} battery of the Wyoming. She also gains better torpedo protection at the cost of some speed. With reasonable main battery firepower as well, USS Arkansas serves as a good all-rounder for aspiring US navy captains.
 
 == General info ==
 === Survivability and armour ===

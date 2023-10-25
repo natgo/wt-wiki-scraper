@@ -273,7 +273,7 @@
 
 {{Tree-Line|IV Rank}}
 |
-{{Tree-Group|yak-9up_group|Yak-3U/9P|
+{{Tree-Group|yak-9up_group|Yak-3P/9P|
   {{Tree-Unit|yak-3p}}
 {{Tree-Arrow}}
 {{Tree-Unit|yak-9p}}

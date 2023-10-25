@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced in [[Update "New Power"]]. Like the Harrier, it is an aircraft with a VTOL capability. The {{PAGENAME}} is externally almost identical to the Yak-38 and the few differences are difficult to identify in combat, aside from the plane's stock livery. These features are the tail boom (long and coloured in red for the 38M while short for the 38) and the forward Pitot tube (striped for the 38M and unicolour for the 38).
+The [[Yak-38]] had many problems, especially with the powerplant, which was complex, heavy, and underpowered, and suffered from inexcusable overheating issues, with some reports even stating that the Yak-38 was grounded during the hot summers of the Mediterranean sea due to the engine overheating dangerously during VTOL take-offs. By comparison to its adversaries such as the Harrier family, the initial Yak-38 was abysmally underperforming. These issues quickly led to a urgent request from the Soviet navy to upgrade the Yak-38 in the late '70s and early '80s to address these issues. This directly resulted in the upgraded Yak-38M, which entered service in 1985. The main upgrade in the Yak-38M variant, was the installation of a new set of engines, the Tumansky R-28V-300 and Rybinsk RD-38 engines respectively, to correct the issues with overheating and low power of the previous model, while also upgrading the aircraft's avionics and armament suite to include new all-aspect variants of the [[R-60]], and better guidance and autopilot systems.
+
+The Yak-38M was introduced in [[Update "New Power"]]. Like the Harrier, it is an aircraft with a VTOL capability. The {{PAGENAME}} is externally almost identical to the Yak-38 and the few differences are difficult to identify in combat, aside from the plane's default livery. These features are the tail boom (long and coloured in red for the 38M while short for the 38) and the forward Pitot tube (striped for the 38M and unicolour for the 38). The Yak-38 is very underwhelming in flight performance, but makes up for it in great armament options and ordnance, and acts as a stepping stone to the far more powerful successor in Soviet VTOL aircraft, the formidable [[Yak-141]].
 
 == General info ==
 === Flight performance ===
@@ -142,18 +144,60 @@ The Yak-38 has no armour. It is a fairly large target with the entire fuselage b
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 1 x 23 mm GSh-23L cannon, mounted under fuselage rear (160 rpg)
+* 1 x 23 mm GSh-23L cannon, belly-mounted (160 rpg)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|Kh-23M|R-60}}
-{{main|ZB-500 incendiary|S-5KP|S-8KO|S-24B|GSh-23L (23 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| 1 || 1 || 1 || 1
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| 4 || 1 || 1 || 4
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| 1 || || || 1
+|-
+! [[ZB-500 incendiary]] bombs
+| 1 || || || 1
+|-
+! [[S-5KP]] rockets
+| 16, 32 || 16 || 16 || 16, 32
+|-
+! [[S-8KO]] rockets
+| 20 || || || 20
+|-
+! [[S-24B]] rockets
+| 1 || 1 || 1 || 1
+|-
+! [[Kh-23M]] missiles
+| 1* || || || 1*
+|-
+! [[R-60]] missiles
+| 1 || 1 || 1 || 1
+|-
+! Delta-NG targeting pod
+| || || 1* ||
+|-
+| colspan="5" | Maximum permissible weight imbalance: 450 kg
+|-
+| colspan="6" | * Delta-NG targeting pod must be carried when equipping Kh-23M missiles
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
 * 2 x R-60 missiles
 * 4 x R-60 missiles
@@ -167,51 +211,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 2 x ZB-500 incendiary bombs
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| 1 || 1 || 1 || 1
-|-
-! 100 kg OFAB-100 bombs
-| 4 || 1 || 1 || 4
-|-
-! 250 kg OFAB-250sv bombs
-| 1 || 1 || 1 || 1
-|-
-! 500 kg FAB-500M-54 bombs
-| 1 || || || 1
-|-
-! ZB-500 incendiary bombs
-| 1 || || || 1
-|-
-! S-5KP rockets
-| 16, 32 || 16 || 16 || 16, 32
-|-
-! S-8KO rockets
-| 20 || || || 20
-|-
-! S-24B rockets
-| 1 || 1 || 1 || 1
-|-
-! Kh-23M missiles
-| 1* || || || 1*
-|-
-! R-60 missiles
-| 1 || 1 || 1 || 1
-|-
-! Delta-NG
-| || || 1* ||
-|-
-| colspan="5" | Maximum permissible weight imbalance: 450 kg
-|-
-| colspan="6" | * Delta-NG targeting pod must be carried when equipping Kh-23M missiles
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -268,6 +268,13 @@ For Ground RB the Kh-23M gives you access to two beam riding ATGMs with an TNT e
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+
+=== Development ===
+As the Soviet navy received the last batches of the original Yak-38, it increasingly became evident that the aircraft suffered from a multitude of issues and constraints, which significantly impeded its operational efficacy. These issues prompted the Soviet authorities to initiate a modernization program, and a government decree on August 27, 1981, authorized the development of the Yak-38M, an improved version of the Yak-38 with enhanced performance and capabilities. The main upgrade in the Yak-38M was the installation of new engines, the Tumansky R-28V-300 and Rybinsk RD-38, which increased the thrust and reduced the overheating problems of the previous model. The new engines also allowed the Yak-38M to increase its maximum takeoff weight in VTOL mode from 10,300 kg to 11,300 kg and to 12,000 kg in short takeoff mode; however, the target figures were not finally achieved. Other changes included a new avionics and weapon suite, provision for drop tanks, and minor improvements in the navigation systems. Even so, the Yak-38M still had trouble achieving its desired performance targets. Due to its payload and performance limitations, the aircraft was still referred to as a "moral support aircraft", despite noticeable improvements in engine thrust and fewer overheating problems. By 1988, only 50 of these aircraft had been produced, and their fate was sealed by the collapse of the Soviet bloc and the ensuing budget cuts. Most of the carriers that carried them were either scrapped or sold, and the last Yak-38Ms flew from the Baku carrier until they were relegated to land-based training missions. However, these missions were short-lived, as the Yak-38s were retired for good in early 1993.
+
+=== Further development ===
+The Yak-38M was seen as a stepping stone to a better VTOL aircraft by the Yakovlev Design Bureau. A large part of the Yak-38M design would end up in the Yak-41M which, instead of having 2 nozzles, would instead pivot a much larger single engine exhaust while still retaining the 2 lift engines at the front, and unlike the Yak-38M it was supersonic capable. In the Western world it was known as the [[Yak-141]], while inside the Soviet military it was the Yak-41M. When the Cold War ended and funding for the project was cut Yakovlev looked for other companies that would like to enter a partnership. In 1991, Yakovlev would enter a partnership with Lockheed-Martin and due to this relationship officially change the designation of the 2 flying prototypes to Yak-141. Lockheed-Martin would end up using the experience they gained from this on their X-35 plane which would end up being the F-35 family of planes, the F-35B having the same general engine layout as the Yak-141.
+
 === [[wt:en/news/6942-development-yak-38-yak-38m-hover-jet-en|Devblog]] ===
 Although Soviet engineers were experimenting with VTOL fixed wing aircraft design since the early 1960's, it wasn't until December 1967 before a formal order to develop a light VTOL strike aircraft as well as a corresponding trainer version was issued. As a result, engineers at the Yakovlev design bureau began work on the new aircraft in the late 1960's, basing their design on experience gained from developing the preceding Yak-36 - an early VTOL demonstration design.
 
@@ -276,9 +283,6 @@ The new aircraft, designated Yak-36M, was being developed for immediate frontlin
 Not too long after work on the project began, the first prototype saw completion and conducted its maiden flight in December 1970. Subsequent prototypes and trials continued testing the aircraft's performance, particularly its novel VTOL capabilities. By 1973, the aircraft was considered ready and serial production commenced.
 
 After some further testing and crew training, the aircraft officially entered service with the Soviet Navy in August 1977, receiving the designation Yak-38. By 1982, over 140 Yak-38's were built, all of which served aboard the then new Kiev-class aircraft carriers. In the mid 1980's, the modernized Yak-38M version came into service, most prominently featuring more powerful engines as well as other improvements. About 50 Yak-38M's were built before the type was ultimately decommissioned in 1991.
-
-=== Further development ===
-The Yak-38M was seen as a stepping stone to a better VTOL aircraft by the Yakovlev Design Bureau. A large part of the Yak-38M design would end up in the Yak-41M which instead of having 2 nozzles, would instead pivot a much larger single engine exhaust while still retaining the 2 lift engines at the front, and unlike the Yak-38M it was supersonic capable. In the Western world it was known as the Yak-141 while inside the Soviet military it was the Yak-41M. When the Cold War ended and funding for the project was cut Yakovlev looked for other companies that would like to enter a partnership. In 1991 Yakovlev would enter a partnership with Lockheed-Martin and due to this relationship officially change the designation of the 2 flying prototypes to Yak-141. Lockheed-Martin would end up using the experience they gained from this on their X-35 plane which would end up being the F-35 family of planes, the F-35B is the one that has the general engine layout of the Yak-141.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

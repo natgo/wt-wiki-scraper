@@ -136,6 +136,10 @@ The mobility of the Panther A is greatly improved over that of the previous Pant
 
 As with all other Panther-series medium tanks, it is best played in a supporting role or as a front-line offensive tank due to its agility. The cannon mounted is more than forgiving and powerful enough to destroy any potential target, so use it to an advantage; long-range shooting is effective as the muzzle velocity is extremely high, owing to the long-barreled 75 mm, the penetration values are more than capable of punching through any opposing armour, and the shell weight will, if the shell penetrates, consistently deal decent amounts of crew and module damage, if not immediately make the target on combat ineffective.
 
+Sniping may be a fun and tempting strategy but you can get outmatched at those longer ranges where your fast turret reload and turret traverse no longer matter. A good strategy is to push objectives with the panther A considering it has the improved turret traverse and thus is able to fight in both the city and the plains, but it prefers the plains. Do not attempt to use the panther like a tiger, and that is being a meatshield breakthrough tank. Instead, Spearhead assaults on objectives and flank the enemy. Your gun will be able to take care of most targets medium to close range and your armour should do its job. If you move methodically behind cover or on flanking routes you should be able to destroy many tanks. You can brawl quite well if you watch your flanks and flank others.
+
+Another viable strategy is ambushes. The good camouflage for the tank can hide you if you hide behind a bush. Hide near a choke point and hope an enemy tank comes by.
+
 Because Panthers have relatively weak side armour that even 20 mm autocannons can penetrate it, most enemies would make it their goal to flank around and penetrate the Panther's side armour (it does not help that the Panther's target profile is much larger from the side compared to the front as well). The Panther A's significantly improve turret traverse speed makes it better able to counter this trick than the Panther D, but it can still struggle against enemies that are moving at high speed like Shermans and T-34-85 at close ranges.
 
 As the Panther's suspension rocks violently during the start and stop of the tank movement, it is recommended to not drive too fast when enemies are expected to be close by in order to reduce the gun sway and gun sight stabilization.
@@ -150,6 +154,26 @@ Like when fighting the previous Panther D variant head-on, fight the Panther A b
 
 '''Heavy tank/tank destroyer''': While heavy tanks are more well-armoured, caution is still needed as the Panther's high-velocity cannon can easily penetrate tanks like the IS-2 from a distance. Continue to approach the Panther A as one would with a medium tank, making the most of existing cover and terrain to avoid staying in the Panther's gun sights for very long. That said, heavy tanks and tank destroyers often have cannon armament more than able to penetrate the Panther's front armour without relying on weak points. With this attribute, heavy tanks and tank destroyers should take on the "Panther-destroyer" role by having allies attempt to expose the Panther tank in the open and keep it in placed for the heavy tank/tank destroyer to aim at the Panther tank and penetrate their armour with ease.
 
+=== Notable Enemies ===
+
+* '''M18 Hellcat or any hellcat variation:''' These guys are super annoying and will flank shot you by sneaking into a bush. Honestly a waste of ammo to shoot. Just watch your flanks because if you shoot it, it will crumple like a tin can and the crew will simply cease to exist.
+* '''M4 Sherman 76 variants:''' These guys are dangerous for a different reason. Never underestimate how petty a m4 is. They will shoot your gun and then take your tracks with their 50 cals. Then they will flank shot you as you flail around helplessly. Best way to brawl them is to wiggle your turret while reloading causing them to miss.
+* '''Jumbo sherman variants:''' These are a bit different because they will play like m4 and remove your gun and tracks and flank you, but they have super tough armor combined with godawful mobility. Shoot the hull mg port and wiggle your turret while reloading. It might seem like a small target but it is impossible to miss in a close range slugfest. Do not even think about shooting the turret anywhere because it is extremely heavily armoured. Any side shot is possible but in a face to face brawl a clean shot to the hull mg port will cause the jumbo's entire crew to flatline.
+* '''M-51 Super Sherman:''' Despite its name, the only thing super about it is its gun. The HEAT shell will penetrate you easily but struggles to spall and will likely take two shots to kill you. Despite this meaning you can easily kill them with just a single shot in retaliation still be weary. If you find it pointing its gun at you, take cover immediately.
+* '''PT-76B:''' Like the super sherman, this tank is deadly for its HEAT shell. Thankfully it is not particularly fast and has paper thin armour. There isn't much of a strategy for these guys. All you have to do is shoot first and that will be easy considering it takes about 2 shots for them to finish you off because of the bad spalling from the HEAT shell. It is possible that you will need 2 shots as well because the hollow insides of the tank, but always go for the turret crew first unless they are facing hull towards you, then, shoot the front hull plate and watch the 75mm round take out all 3 crew members.
+* '''IS-2:''' The best and most spectacular way to kill an IS-2 is to ammorack it. Frontally, shoot the drivers vision port unless it is a mod 1944 variant. Other weak spots include the (your right, their left) turret cheek to take out the gunner and commander and pray that the 17 grams of RDX finish the job. The last an most surprising weak spot is the lower front plate which is poorly angled. This might sound risky but will likely result in a 1 shot because of the shrapnel bouncing off the floor of the tank. The IS-2 has a gun capable of penetrating you anywhere frontally but the chances are about 50/50. However, it is devastating if it does penetrate you. Bait the IS-2 into shooting because you have a 3× faster reload. they you can toy around with them as they scream for help. Treat any soviet tank with an abnormally long gun(ISU-122S, SU-100Y, KV-2(ZiS 6))with caution. Fear not, for big soviet guns have slow reloads. (If you want to be extra cheeky when you have a side or rear shot of the IS-2 turret, do not aim for the crew, aim for the turret rear for a guaranteed beautiful ammorack.)
+* '''M26 Pershing and variants:''' Not all that common of a threat but still notable for being hard to kill. Shoot the hull or turret mg ports and aim for the lower and upper glacis joining point all the way up to the middle of the upper glacis. The gun of the normal pershing is potentially dangerous but nothing to be worried about only worry about the guns of the super pershing or the M26E1.
+* '''Super Pershing:''' Super rare but possible. Best idea is to get a side shot perhaps by ambushing. The frontal weak points are the exposed(your right their left)turret cheek to ammorack it or go for the hull mg port. You can also shoot the tubes above the turret to disable the vertical drive and then scramble up to high or low ground and flank shot it.
+* '''T-44:''' Also a rare sight. Shoot the(your right their left)turret cheek for a clean instant kill.
+* '''T-34-85:''' This tank is mostly a nuisance. Do not fear the gun of the T-34. The T-34's biggest strengths are mobility and turret traverse. Flanking is your only weakness.
+* '''M41A1:''' Small tank with an impressive APDS shell, but the spalling effects of this round is laughable. They will try to ammorack you because of this and will take 2-3 shots to kill you. You can kill them easily but the luck and the skill of their ammoracking is uncanny.
+* '''Strv 74:''' Again, poorly armoured HEAT shell user. Extremely high HEAT penetration but this time with a easy to spot tall profile.
+* '''FV4005:''' Possible to meet but very rare if not impossible. Never get hit by this thing. It is literally the size of a refrigerator there is no missing this thing. You can ammorack by going to the sides of the turret.
+* '''R3 T20 FA-HS:''' We have all grown to hate this thing and it can side shot you but it is very rare. Most used by players trying to be funny. Machine gun into oblivion on sight.
+* '''2S3M:''' Getting more and more common these days. It has a super dangerous HE shell and will snipe you. Also very easy to kill.
+* '''Ratel 90/20:''' Supposedly called 90/20 because that is the chance you will penetrate it. It has super thin armor but is very fast. Contrary to popular belief the 17 pounders are not anything to worry about except for luck front shots or side shots.
+* '''Any ISU or SU series tank destroyer 100mm gun and up:''' Shoot anywhere except gun mantlet. Be aware of the slow reload for the 122mm ones as well as their tall profile unless it is a SU-100. Impossible to miss.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -163,18 +187,19 @@ Like when fighting the previous Panther D variant head-on, fight the Panther A b
 * Adequate gun depression of -8° adapts most terrains well
 * Reasonably cheap repair cost
 * Has a wide range of good-looking camouflage to unlock. Suitable for almost every terrain
+* 2 machine guns to get rid of airplanes or light tanks.
 
 '''Cons:'''
 
 * Gun mantlet is only 100 mm thick, a huge and well-known weak spot to shoot at
-* Side ammo racks are prone to detonation when hit
+* 
 * Terrible reverse speed of only -4 km/h, can get the player killed
 * Weak side armour gets penetrated easily by Soviet APHEBC. Cannot angle too much
 * Lower glacis often catches fire or breaks transmission when penetrated, leaving the tank immobile and vulnerable
 * High profile for a medium tank makes it harder to hide
 * Roof armour of 16 mm is vulnerable to [[M2 Browning (12.7 mm)|M2 Brownings]] which are widely seen on American planes
 * Although heavily armoured, it can still get frontally penetrated easily by a rather common heavy tank: [[IS-2 (Family)|IS-2]]
-* Gun mantlet traps shots (shells may deflect into the hull roof weak armour)
+* Gun mantlet traps shots (shells may deflect into the hull roof weak armour). This is incredibly rare.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

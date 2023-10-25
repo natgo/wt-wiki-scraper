@@ -67,7 +67,7 @@ The {{PAGENAME}} is typically an easy target for fighter and attacker aircraft. 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || 700 || ~14 || ~8
+| 740 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || 700 || ~14 || ~8
 |-
 |}
 
@@ -78,20 +78,6 @@ The {{PAGENAME}} is typically an easy target for fighter and attacker aircraft. 
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
 | < 300 || < 350 || < 320 || > 299
-|-
-|}
-
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 2,895 m || 750 hp || 825 hp
 |-
 |}
 

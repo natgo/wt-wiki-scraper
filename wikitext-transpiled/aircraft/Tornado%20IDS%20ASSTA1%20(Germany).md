@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]]. The Panavia 200 (PA-200) Tornado is a two-seat, twin-engine, swing-wing, multi-role combat aircraft built jointly by Germany, the United Kingdom, and Italy. This version is the Tornado Interdiction/Strike or IDS, and was intended as a low-flying fighter bomber armed with precision weapons.
+During the late '90s, while Britain was undergoing its modernization of the Tornado fleet, Germany also began plans to upgrade their older [[Tornado IDS (Germany)|Tornado IDS]] aircraft. The resulting upgrade package, named "ASSTA1" (Avionics System Software; Tornado in ADA) was finalized in 2000, to upgrade the German Tornado fleet for service in the 21st century. ASSTA1 incorporated a complete overhaul of most of the avionics suite, including an entirely new fire control system and weapons computer, GPS and Laser INS navigation suites, and the latest 1760 data bus, giving the Tornado full compatibility with the latest standardized NATO ordnance and their required targeting systems. As a result, in addition to its older loadouts, the ASSTA1 could carry the latest standard NATO guided ordnance, such as the AGM-88 HARM, in addition to the LITENING targeting pod and a plethora of Paveway III laser bomb options. Over the next years, German Tornados would also undergo the ASSTA2 and ASSTA3 upgrades, further enhancing their capabilities.
 
-Its first combat missions were in the second Gulf War by the British, Italian and Saudi Arabian air forces. This was later followed by missions in the Yugoslavian and Kosovo wars, in which the Bundeswehr also participated for the first time. German Tornados also flew reconnaissance missions as part of the ISAF mission and in northern Iraq.
+The '''{{Specs|name}}''', introduced in [[Update "Apex Predators"]], is a two-seat, twin-engine, swing-wing, multi-role combat aircraft built jointly by Germany, the United Kingdom, and Italy. This version is the Tornado Interdiction/Strike or IDS for short, and as such, is almost completely useless in air-to-air combat against fighters of its battle rating. Instead, the Tornado IDS is best used in mixed battles, where its powerful ordnance and strong avionics allow it to rain hell on enemy aircraft from above. All in all, the ASSTA1 provides great CAS capability for mixed battles to the high ranking players of the German tree.
 
 == General info ==
 === Flight performance ===
@@ -31,10 +31,10 @@ Its first combat missions were in the second Gulf War by the British, Italian an
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1,991 || 1,991 || rowspan="2" | {{Specs|ceiling}} || 31.4 || 31.5 || 155.1 || 152.8 || rowspan="2" | 800
+| 2,335 || 2,311 || rowspan="2" | {{Specs|ceiling}} || 28.4 || 28.6 || 180.4 || 176.5 || rowspan="2" | 800
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,396 || 2,362 || 27.6 || 28.0 || 229.6 || 204.0
 |-
 |}
 
@@ -181,6 +181,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 1,500 l drop tanks
 * 56 x large calibre countermeasures
 * 2 x AIM-9L Sidewinder missiles

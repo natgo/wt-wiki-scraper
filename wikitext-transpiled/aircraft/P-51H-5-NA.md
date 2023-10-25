@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American fighter {{Battle-rating}}. It was introduced in [[Update 1.71 "New E.R.A."]].
+The P-51H can rightly be considered the apex of the P-51 Mustang. The P-51H was an evolution from the lightweight Mustang experiments conducted in 1944. The biggest addition to the P-51H was the Packard Merlin V-1659-9. It featured an automatic boost control system and water injection. With water injection enabled, the V-1659 could produce a whopping 2,000+ hp although only for short bursts. The P-51H also featured extensive airframe modifications like a shorter carburetor air intake and longer fuselage. In preparation for the upcoming invasion of Japan, around 2,000 P-51Hs were ordered. However, the war was nearing its end and many orders were canceled. The P-51H would never see combat in either the Pacific or   European theatres.
 
-The P-51H-5-NA is the last propeller plane in the USAAF fighter line. While retaining all features the earlier versions may offer, its powerplant is upgraded.
+Introduced in [[Update 1.71 "New E.R.A."]], the '''{{Specs|name}}''' is an extremely dangerous aircraft. The combination of the powerful Merlin engine and lightweight airframe makes the P-51H a capable dogfighter. It also excels in boom and zoom tactics against enemy planes thanks to the various airframe improvements. Much like the other Mustang variants, the P-51H comes equipped with six M2 Browning machine guns and various loadouts of bombs and rockets. Players will be greatly satisfied with the P-51H's capability against enemy aircraft and ability to attack ground targets.
 
 == General info ==
 === Flight performance ===

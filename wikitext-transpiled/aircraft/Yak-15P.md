@@ -9,17 +9,17 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.31]].
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->By 1946, the Yakovlev "Yak-Jumo" project to build a single-engine jet fighter with a reverse engineered Junkers Jumo 004 engine (dubbed the RD-10) hammered into the existing [[Yak-3 (Family)|Yak-3]] fuselage was well underway, but a few setbacks meant that the full production variant, the [[Yak-15]], could not be fully produced in the required numbers for the October Revolution Air Parade on November 7th. As such, a special variant was quickly ordered for the parade, with alot of the un-necessary/untested parts being left out to save time. As such, this special Yak-15 was missing the armor plating and quite a few instruments and avionics, and these aircraft were not even fitted with guns. Some planes had extra fuel tanks installed where the missing guns were supposed to be. Finally, these 15 aircraft were given a bright-red paint scheme for the parade. To save time as the program was already behind scheduele, shortly after the parade two of these aircraft were quickly fitted with armor and a single [[NS-23 (23 mm)|NS-23]] 23mm cannon to begin state acceptance trials. This is the exact Yak-15P we have ingame.
 
-The Yak-15P is arguably one of the most underestimated planes in the game. Although its statcard reveals what would be considered "sub-par" performance and armament, the Yak-15P is both a unique and deadly fighter. Unlike its propeller-driven counterparts, this first generation jet aircraft wields the ability to hold on to energy in a straight line, whereas prop aircraft will slowly lose speed. Holding speed coupled with its excellent rate of turn allows the Yak-15P to defend itself against both propeller and jet-powered fighters, which is what it will typically face in all game modes.
+It is also worth noting that the "Yak-15P" designation never actually existed, only being used unofficially many years later to diffrenciate the special first 15 rushed aircraft from proper production Yak-15s, and it is unknown wether the P in Yak-15P stands for "Parade" or "Pre-production".
 
-The Yak-15P's major faults include a low top speed, poor acceleration, little armour protection, and small ammunition pool which collectively make this aircraft harder to use than even other first generation jet aircraft such as the [[He 162 A-2]], the [[Meteor F Mk 3]], and the [[F-80A-5]]. Although it is driven by a jet engine, it is important to recognize the faults and oddities within this aircraft series as they are not representative of the traditional "jet fighter" at all. The Yak-15P is most easily viewed as a late-war [[Yak-3]] powered by a jet engine and with a different armament. The only difference between the Yak-15P and its predecessor the Yak-15 is the armament - the Yak-15P only has a single 23 mm instead of 2.
+The '''{{Specs|name}}''', introduced in [[Update 1.31]], is a very peculiar aircraft among all the early jets of War Thunder. Unlike the only other jet in history to be successfuly derived and mass produced from a pre-existing piston fighter, the Swedish [[J21RA|J-21R]], the Yak-15P does not sacrifice its familiar flight performance heavily. Instead, the Yak-3P retains its incredible handling characteristics familiar to previous [[Yak-3]] pilots, allowing it to swiftly outmanouver most jet aircraft it faces. The biggest drawback however is the low top speed and horrible compression at high speeds compared to contemporary jets, giving the Yak-15s their biggest disadvantage: high speed engagement. One should be wary of this weakness when engaging multiple aircraft at once, as the Yak-15P does not have the option of escaping when things go south due to its weak acceleration and troublesome controls at higher speeds. The Yak-15P differs from its production variant, the later Yak-15, in its basic gun-play: The aircraft loses one of its 23mm cannons which results in the aircraft being at a lower Battle Rating, opening many new doors for it to be used as a CAP/air superiority aircraft in Mixed Battles at Battle Ratings the normal Yak-15 could not be used.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+The handling of the Yak-15P is uncomfortable in most situations. For a jet-engined aircraft it has very poor top speed and the acceleration at all states can be considered inferior. With a poor climb rate and weak engine, it is easy to get yourself into hard situations. However, the Yak-15P has a very nimble airframe and good agility in dogfights, and its weak engine is still enough to make it hold speed better than most props in a turn fight.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -191,10 +191,12 @@ Production of the Yak-15 was discontinued in 1947. In all, 280 planes were const
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak-15_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

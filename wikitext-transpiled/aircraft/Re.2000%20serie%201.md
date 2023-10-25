@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.77 "Advancing Storm"]].
+The Re.2000 was a monoplane fighter developed in Italy during the mid 1930s. It was one of the first modern fighters used in the Regia Aeronautica and it also saw use in the Swedish Air Force by the name [[J20]]. The design team took inspiration from the American Seversky P-35. The aircraft was considered an outstanding dogfighter, proving superior to the more modern Macchi C.200s and Messerschmitt Bf 109 Es in flight trials. However, the aircraft was not deemed satisfactory by the Italian military, and its manufacturer exported most of the produced units to Hungary and Sweden. The aircraft served as a basis for future models like the [[Re.2001 (Family)|2001]], [[Re.2002 Early|2002]], 2003, 2004 and [[Re.2005 serie 0|2005]] fighters.
+
+Introduced in [[Update 1.77 "Advancing Storm"]], the Re.2000 serie 1 is a very good dogfighter. For its BR, it has a very good acceleration at top speeds and amazing climb rate, outperforming many early fighters like early Bf 109s. The Re.2000 can be used effectively in both energy fighting and turn fighting. For the former, it's better to have the energy advantage, and use the good dive performance of the aircraft to its advantage. To get good positions, it is a good idea to start climbing at the start of the match, to an altitude of around 3,000-4,000 m. The Re.2000 should look out for enemies like the Spitfire and I-16, since these two can outturn you while not sacrificing too much performance in level flight, like biplanes.
 
 == General info ==
 === Flight performance ===
@@ -140,7 +142,7 @@ When going against the Re.2000 serie 1, one will find head-ons effective against
 '''Pros:'''
 
 * Great climb rate
-* Great at energy fighting 
+* Great at energy fighting
 * Good at dogfighting (some enemy aircraft still can destroy you easily)
 * Good turn rate, amazing at 400-500 km/h (248-310 mph)
 * Full manual engine control + propeller feathering

@@ -1,5 +1,5 @@
 {{About
-| about = premium French jet fighter '''{{PAGENAME}}'''
+| about = French jet fighter '''{{PAGENAME}}'''
 | usage = other versions
 | link = Mirage F1 (Family)
 }}
@@ -11,6 +11,8 @@
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+
+The Mirage F1CT is a ground-attack version of the Mirage F1, a French-made fighter jet developed by Dassault Aviation. Originally designed as an air-superiority aircraft, the Mirage F1CT variant was adapted for ground-attack missions after the Mirage F1s were replaced in the air-to-air role by more modern aircraft. The F1CT is equipped with advanced avionics, navigation systems, and weapon systems tailored for close air support and interdiction missions. Its armament includes a mix of rockets, guided bombs, and missiles. Although no longer at the forefront of the French Air Force's fleet, the Mirage F1CT has seen action in various conflicts and is known for its reliability and adaptability.
 
 == General info ==
 === Flight performance ===
@@ -57,7 +59,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,457 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 555 || 549 || 416 || ~__ || ~__
+| 1,457 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 575 || 549 || 416 || ~11 || ~5
 |-
 |}
 
@@ -81,7 +83,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | SNECMA Atar 9K-50 || 1
-| colspan="2" | 8,036 kg || colspan="3" | ___ kg/m<sup>2</sup>
+| colspan="2" | 8,036 kg || colspan="3" | 458 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -189,6 +191,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 72 x SNEB type 23 rockets
 * 144 x SNEB type 23 rockets
@@ -230,6 +233,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_f1ct Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -238,6 +242,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Mirage F1C]]
 
 == External links ==
@@ -245,6 +250,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

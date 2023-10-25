@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]]. It is a twin-engine ground assault aircraft, designed with the transport and operation of heavy ordnance in mind. It also comes equipped with air-to-air missiles, in the form of the [[Matra R550 Magic 1]]. Overall a bomb truck, it is very unwieldy while fully loaded, but is fairly nimble once its bomb/rocket load is expended.
+The Jaguar programme began in the early 1960s, in response to a British requirement (Air Staff Target 362) and a French requirement (ECAT or École de Combat et d'Appui Tactique, "Tactical Combat Support Trainer") for a cheap, dual role trainer and light attack aircraft to replace various obselete subsonic aircraft filling that role. Cross-channel negotiations led Britain and France to form SEPECAT: ''Société Européenne de Production de l'Avion d'École de Combat et d'Appui Tactique'' – the "European company for the production of a combat trainer and tactical support aircraft". Almost all parts of the aircraft were jointly built by the two countries. For example, the powerplant was a partnership between Rolls-Royce and Turbomeca to develop the ''Adour'' afterburning turbofan engine, while the fuselage and wings were a partnerhip between Breguet and BAC, using the same basic configuration and an innovative French-designed landing gear and fuselage design, the Jaguar was built incorporating major elements of design from BAC, notably the wings and various control systems. In the end, the Jaguar program grew into more than just a trainer aircraft, and saw great export sales to foreign countries as a trainer, bomber, strike aircraft, and anti-shipping attacker. The Jaguar A variant was the Single-seat all-weather tactical strike, ground-attack fighter version for the French Air Force, with two prototypes and 160 production aircraft built.
+
+The '''{{Specs|name}}''', introduced in [[Update "Raining Fire"]], is a deadly attacker for its battle rating available in the French tech tree. The Jaguar has high wing loading and suffers from greatly decreased manouverbility and speed when fully loaded with ordnance, however, it will often not be used in such a case ingame, instead being utilized as a support fighter in dedicated air battles to to its abundant countermeasures and [[Matra R550 Magic 1|R.550 Magic 1]] missiles combined with its nimble handling when not loaded. But mixed battles is where the Jaguar A really shines, being able to use a wide array of guided and unguided ordnance, chief of which are the powerful [[BGL-400 (400 kg)|BGL-400]]/[[BGL-1000 (970 kg)|1000]] series laser guided bombs and [[AS-30L Nord]] laser guided missiles. 
 
 == General info ==
 === Flight performance ===
@@ -190,6 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x Matra R550 Magic 1 missiles
 * 11 x 250 kg SAMP Type 25 bombs (2,750 kg total)

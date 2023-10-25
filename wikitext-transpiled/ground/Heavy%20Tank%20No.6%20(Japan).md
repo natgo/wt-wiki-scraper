@@ -1,8 +1,3 @@
-{{About
-| about = Japanese heavy tank '''{{PAGENAME}}'''
-| usage = other versions
-| link = Tiger I (Family)
-}}
 {{Specs-Card
 |code=jp_pzkpfw_VI_ausf_e_tiger
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -200,10 +195,12 @@ Payment by the Japanese for the Tiger tank came into Henschel on 28 February 194
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[Tiger I (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

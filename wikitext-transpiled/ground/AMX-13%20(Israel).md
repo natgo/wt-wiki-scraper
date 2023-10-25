@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli light tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The AMX-13 was employed by Israel in the Six-Day War of 1967. A total of 400 tanks were acquired from France between 1956 and 1967 with three battalions being formed and ready to be deployed. The AMX-13 was used in an unconventional way, since the IDF lacked proper modern MBTs due to the arms embargoes imposed over them, it was decided to use the AMX-13 in frontline duties and not in the usual roles of light tanks, like reconnaissance. Thus, the AMX-13 sustained heavy casualties during the war, and was promptly retired after the war.
+
+Introduced in [[Update "Wind of Change"]], the AMX-13 is best used in flanking manoeuvres using its good speed and agility against heavier opponents in uptiers, or sniping from medium to long ranges with its decent gun in downtiers. Like all light tanks, the AMX-13 is not suited to urban environments since it can get ambushed and destroyed easily. The AMX-13 lacks any sort of HEAT or APHE and it relies only on APCBC with no explosive filler, making it very hard to use to one-shot enemies. It is recommended to aim for the gunner or the barrel of enemy tanks in close quarters. That is because the AMX-13 has a 5-second reload autoloader, allowing it to reload faster than most tanks at its BR except for IFVs or APCs with autocannons like the Marder IFV or the BTR-80A.
 
 == General info ==
 === Survivability and armour ===
@@ -42,7 +44,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli light tank {{Battle-ra
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The AMX-13 is not the fastest for the BR, mostly losing to wheeled vehicles. However, the AMX-13 keeps a consistent speed regardless of the terrain, making it able to reach off-road positions much faster. On top of that, the excellent power-to-weight ratio also helps when trying to reach elevated positions. 
+The AMX-13 is not the fastest for the BR, mostly losing to wheeled vehicles. However, the AMX-13 keeps a consistent speed regardless of the terrain, making it able to reach off-road positions much faster. On top of that, the excellent power-to-weight ratio also helps when trying to reach elevated positions.
 
 The main drawback to remember is the sub-optimal reverse speed. The AMX-13 can only partially expose itself, a fully exposed AMX-13 will not be able to reverse back into cover in time.
 
@@ -122,15 +124,15 @@ The main drawback to remember is the sub-optimal reverse speed. The AMX-13 can o
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-How the AMX-13 can be used largely depends on what BR and nations it is facing. At a full down-tier, against 5.3/5.7 (AB/RB), the AMX-13 can be used at medium to long range as a travelling sniper. The main threats at that BR are heavies such as the American [[T34]], the German [[Tiger II (H)]] and the Russian [[IS-2 (1944)]]. These can all be penetrated in their respective weak spots at 500 m, however the further you are, the narrower the weak spots get, and there is no guarantee to disable them in a single shot. 
+How the AMX-13 can be used largely depends on what BR and nations it is facing. At a full down-tier, against 5.3/5.7 (AB/RB), the AMX-13 can be used at medium to long range as a travelling sniper. The main threats at that BR are heavies such as the American [[T34]], the German [[Tiger II (H)]] and the Russian [[IS-2 (1944)]]. These can all be penetrated in their respective weak spots at 500 m, however the further you are, the narrower the weak spots get, and there is no guarantee to disable them in a single shot.
 
-In an up-tier, against up to 7.7, the AMX-13's long-range capabilities are greatly diminished. Most medium tanks become tough to deal with. Heavies like the [[IS-3]], [[T32]], [[M103]] and [[Maus]] are a no-go, [[T-54]]s are particularly tough as well, the only mediums still easy to deal with at long range are the [[Leopard 1]] and [[AMX-50]]. In this situation, the AMX-13 can still shine as a flanker, where you can use your rounds on the less-armoured sides and at a closer range. 
+In an up-tier, against up to 7.7, the AMX-13's long-range capabilities are greatly diminished. Most medium tanks become tough to deal with. Heavies like the [[IS-3]], [[T32]], [[M103]] and [[Maus]] are a no-go, [[T-54]]s are particularly tough as well, the only mediums still easy to deal with at long range are the [[Leopard 1]] and [[AMX-50]]. In this situation, the AMX-13 can still shine as a flanker, where you can use your rounds on the less-armoured sides and at a closer range.
 
-It is important to remember that the AMX-13's round is a 75 mm APCBC with no explosive filler to speak of. The round struggles against any form of angled armour, and the post-penetration damage is not always sufficient, even destroying light vehicles from the side may prove difficult (the [[BMP-1]] and [[Marder A1-]] being the toughest to deal with). The 5 seconds autoloader can alleviate that, but you will still need to aim strategically. When facing a medium or heavy tank frontally, the best option is sometimes to shoot the barrel and disengage (or, provided they are alone and close enough, get on their sides to finish them off). It will usually take more than one round to destroy an enemy vehicle (against large vehicles, even a direct shot to the ammo may not detonate it due to poor post-penetration damage), so disabling them with the first shot should always be your first priority. 
+It is important to remember that the AMX-13's round is a 75 mm APCBC with no explosive filler to speak of. The round struggles against any form of angled armour, and the post-penetration damage is not always sufficient, even destroying light vehicles from the side may prove difficult (the [[BMP-1]] and [[Marder A1-]] being the toughest to deal with). The 5 seconds autoloader can alleviate that, but you will still need to aim strategically. When facing a medium or heavy tank frontally, the best option is sometimes to shoot the barrel and disengage (or, provided they are alone and close enough, get on their sides to finish them off). It will usually take more than one round to destroy an enemy vehicle (against large vehicles, even a direct shot to the ammo may not detonate it due to poor post-penetration damage), so disabling them with the first shot should always be your first priority.
 
 Particularly when getting on the side of multiple enemies at once, focus on disabling all the enemies before attempting to finish them off. A shot to the side turret to destroy their cannon breech is usually the most optimal. This is particularly true for the American [[T34]]s and [[T32]]s. As for the [[IS-3]], due to the angled turret, the easiest method is a shot to the rear turret, otherwise, a shot in between the hull and the turret is the only place that can be penetrated. On the side,  it is possible to penetrate the [[Maus]]' armour, however it is a lengthy and dangerous process, and it is usually better to simply destroy its guns and let your team finish it off.
 
-Finally, remember to pro-actively use the scouting ability, it can often save you in a pinch. 
+Finally, remember to pro-actively use the scouting ability, it can often save you in a pinch.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -153,12 +155,20 @@ Finally, remember to pro-actively use the scouting ability, it can often save yo
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+[[File:AMX-13(Israel)memorial.jpg|thumb|AMX-13 from the 27th Armored Brigade]]
+The AMX-13 was employed by Israel during the 1967 Six-Day War against Egyptian and Syrian forces. It was Israel's only choice to acquire a modern tank in a period when France was the only global power willing to sell weapons to Israel. Israel first acquired a batch of 180 units of the AMX-13 light tank from France in 1956. This was part of an agreement to increase the strength of the Israeli army, and to maintain in the region after arms purchase agreements between Egypt and Czechoslovakia.
+
+Because of a shortage of tanks in the IDF's inventory, Israel employed this vehicles as main battle tanks in some units and thus, they were not used as light tanks or reconnaissance vehicles. Israel later acquired several more units of the AMX-13, with a total of 400 units ready to be deployed by 1967, thus, before the war, 3 battalions were formed to participate in the Six-Day War.
+
+The three battalions participated in all the fronts of the war, one of them being deployed in the West Bank area against Jordan, another in the Golan Heights against Syria and the last one was deployed in the Gaza Strip and in the north of the Sinai Peninsula against Egypt.
+
+Though the tank had decent performance, it proved unsatisfactory. The AMX-13 was a light tank employed in a frontline role, thus, it sustained very heavy casualties throughout the entire war but specially during the Rafah Crossing and the Jiradi Pass. Most of these tanks were destroyed by Soviet-made tanks like the IS-3 and T-54/55. Because of these bad results, the tanks were rapidly retired from service after the war, and sold to the Singapore Army between 1968 and 1969.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_amx_13_75 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -167,6 +177,7 @@ Finally, remember to pro-actively use the scouting ability, it can often save yo
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[AMX-13 (Family)]]
 
 == External links ==

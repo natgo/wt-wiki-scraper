@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+Following the introduction of the MiG-27 into the Soviet Air Force in the mid 1970s, a major upgrade program was initiated by Mikoyan OKB to overhaul the MiG-27's capabilities. This program included the addition of the powerful Kayra-23 laser-optical sight and targeting system, permitting the aircraft to use laser and TV-guided ordnance, along with many upgrades to the avionics and airframe. In the end, this heavily upgraded variant entered service as the MiG-27K, with a large order for the Soviet Air Force. However, due to lack of funding and the high costs, the Soviet Air Force would cut their MiG-27K order in half, and instead order the other half to be a cheaper variant. Mikoyan OKB would then develop the [[MiG-27M]] as the "cheaper" upgraded variant.
 
-The MiG-27K is the most advanced Soviet variant of the ground attack Floggers. While it looks about the same as the [[MiG-27M]] and flies identically, it has a more complex sensor suite in its nose that effectively offers targeting pod functionality. The only new weapon is the KAB-500L laser-guided bomb, but the new avionics drastically improve its ability to employ its arsenal of laser-guided weapons. When flown carefully, the MiG-27K is the finest CAS option for Soviet pilots, capable of striking ground vehicles from long distances in relative safety from enemy SPAAs.
+The '''{{Specs|name}}''', introduced in [[Update "Winged Lions"]], is the epitome of single seat Soviet swing-wing ground attack aircraft. Combining major upgrades in avionics, ordnance, and targeting systems into one of the most lethal CAS aircraft of its battle rating, the MiG-27K is truly a force to be reckoned from both the air and the ground. Striking ground targets in mixed battles is easy for this plane, thanks to the strong targeting systems and abundance of laser and TV guided weaponry. The aircraft is no slouch either in air battles, carrying enough bombs to level one base in addition to its full complement of air-to-air missiles and great low altitude flight performance already familiar to pilots of the preceding [[MiG-27M]].
 
 == General info ==
 === Flight performance ===
@@ -217,6 +217,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 800 l drop tank
 * 2 x R-13M1 missiles
 * 4 x R-60M missiles
@@ -268,6 +269,7 @@ The MiG-27K followed the previous MiG-27M as the ultimate variant of the MiG-27 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig_27k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

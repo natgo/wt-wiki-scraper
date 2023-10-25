@@ -29,10 +29,10 @@ The Tornado GR.1 was introduced in [[Update "Apex Predators"]], a versatile and 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1,991 || 1,991 || rowspan="2" | {{Specs|ceiling}} || 31.4 || 31.5 || 155.1 || 152.8 || rowspan="2" | 800
+| 1,979 || 1,958 || rowspan="2" | {{Specs|ceiling}} || 31.4 || 31.5 || 153.7 || 149.7 || rowspan="2" | 800
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,035 || 2,005 || 30.6 || 31.0 || 202.3 || 177.0
 |-
 |}
 

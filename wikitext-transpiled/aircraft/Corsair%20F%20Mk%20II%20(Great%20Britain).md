@@ -1,8 +1,3 @@
-{{About
-| about = premium fighter '''{{PAGENAME}}'''
-| usage = other versions
-| link = F4U (Family)
-}}
 {{Specs-Card
 |code=corsair_fmk2
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -167,9 +162,12 @@ The F4U-1A Corsair was based on the F4U-1. In fact, F4U-1A was not an official d
 * [https://live.warthunder.com/feed/camouflages/?vehicle=corsair_fmk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[F4U (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

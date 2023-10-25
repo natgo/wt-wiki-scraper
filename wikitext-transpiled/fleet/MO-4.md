@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet motor gun boat {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. MO stands for Malyj Okhotnik, Russian for "Small Hunter".
+The '''MO-4''' is a small submarine hunter built by the Soviet navy during WW2. It was the fourth development of the MO class, and around 250 vessels were built during the war. The MO-4 saw extensive duty during WW2, performing various roles such as anti-submarine operations, convoy escort, as well as supporting landing operations. The further development of the MO class led to the creation of the [[BMO]] class, with 66 vessels being built in 1945.
+
+This vessel was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. It is equipped with two 45 mm cannons and two 12.7 mm DShK machine guns, which are effective for destroying enemy boats and lightly armoured targets. It can also be equipped with 64 M-8 rockets, which are powerful enough to destroy anything at close range, regardless of whether the enemy is armoured or not. Additionally, you can equip it with BB-1 depth charges to deter or destroy enemy vessels attempting to approach from behind.
 
 == General info ==
 === Survivability and armour ===

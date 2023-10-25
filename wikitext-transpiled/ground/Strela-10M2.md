@@ -133,7 +133,7 @@ The worst enemy of this vehicle is helicopters, at any range. At long range, the
 '''Cons:'''
 
 * Can't engage most helicopters equipped with ATGMs due to the short all-aspect lock-on range
-* No search radar. A 3-mile (10 km) range 9S86 tracking radar is all you get
+* No search radar. A 3-mile (5 km) range 9S86 tracking radar is all you get
 * Engine suffers on inclines, hills are not your friend
 
 == History ==

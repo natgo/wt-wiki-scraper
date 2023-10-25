@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]].
+The '''AMX-30 Défense Contre Avion (DCA)''' is a self-propelled anti-aircraft modification of the [[AMX-30 (1972)|AMX-30B (Model 1972)]], which is the second variant of the [[AMX-30 (Family)|AMX-30 main battle tank family]]. The system was designed to protect against low-altitude aerial attacks and comprised two 30 mm Hispano-Suiza 831A automatic cannons linked to an Oeil-noir fire control system. Since the AMX-30B (Model 1972) had a larger chassis on which the S 401 A turret could be installed, this will provide improved mobility. Furthermore, the larger AMX-30B (Model 1972) provided a more robust base for the weapon system and allowed it to carry far more ammunition. The weapons were built to fire in 5- or 15-round bursts with a cyclic rate of fire of 650 rounds per minute. They were operated by an analogue computer that received data from a Doppler radar and could be folded into an armoured box when not in use to safeguard against harm. Since the fire control relied on optical tracking, it could only operate during daytime hours and in clear weather.
+
+Introduced in [[Update 1.75 "La Résistance"]], the AMX-30 ACRA is a dependable self-propelled anti-aircraft platform that will protect allies during conflicts. With a high rate of fire and powerful 30 mm ammunition, 1-2 hits are typically enough to bring down even the most protected plane. Mobility is excellent, far superior to that of contemporaries such as the British Chieftain Marksman. This vehicle also includes a radar, which improves accuracy and engagement range. Finally, it can be employed as an alternative for some minor anti-tank duties, such as destroying poorly armoured enemies during flanking manoeuvres, while more protected enemies should be left to teammates with dedicated anti-tank weapons.
 
 == General info ==
 === Survivability and armour ===
@@ -183,6 +185,7 @@ The guns were designed to shoot in bursts of 5 rounds, or even 15 rounds per bur
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_30_dca Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

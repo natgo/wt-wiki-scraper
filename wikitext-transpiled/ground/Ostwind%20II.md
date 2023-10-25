@@ -126,6 +126,7 @@ It should also be kept in mind that if impenetrable heavily armoured enemies are
 * M. Gr. 18 rounds have a high muzzle velocity and explosive mass
 * Does not need to reload until it is completely out of ammunition
 * Enough penetration to destroy enemy light armoured vehicles
+* High number of crew members makes it harder to kill this SPAA by knocking out all crew members
 
 '''Cons:'''
 
@@ -154,10 +155,12 @@ The Ostwind II was a development of the [[Ostwind]]. First conceived as early as
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Flakpanzer IV]]
 ** [[Ostwind]] - Predecessor with a single 37 mm FlaK 43 autocannon.
 
 ;Other vehicles of similar configuration and role
+
 * [[Flakpanzer 341]] - Gift vehicle that the Ostwind II substituted in the main tech tree.
 
 == External links ==

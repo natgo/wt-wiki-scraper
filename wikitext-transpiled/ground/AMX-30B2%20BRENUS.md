@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.77 "Advancing Storm"]]. The AMX-30B2 BRENUS, or Brennus in some sources, was a modernized French MBT which saw combat in the Gulf War.
+The '''AMX-30B2 BRENUS''' is the second upgraded subvariant of the [[AMX-30 (1972)|AMX-30B]], which is the second variant of the [[AMX-30 (Family)|AMX-30 main battle tank family]]. Although the [[Leclerc (Family)|Leclerc main battle tank]] had already been ordered in the 1990s, the AMX-30 main battle tanks continued to play an important role in the French army, and two further upgrades were implemented in limited numbers for the French rapid reaction force, which consisted of two tank regiments, the 1er and 2e Chasseurs. One of these enhancements was BRENUS, an explosive reactive armour (ERA) kit. In terms of protection against high-explosive anti-tank (HEAT) ammunition, the BRENUS system used 112 GIAT BS (Brique de Surblindage) G2 explosive reactive boxes, which gave protection comparable to 400 mm of armour at 60° impact.
+
+Introduced in [[Update 1.77 "Advancing Storm"]], the AMX-30B2 BRENUS's weakness becomes more apparent as its enemies become more advanced. Due to the lack of reliable armour and a two-plane fully automatic stabilization system, the AMX-30B2 BRENUS is unable to accurately fire in sudden confrontation with most opponents in urban combat, making the tank an easy victim for practically anyone on the battlefield. The gunner optics are superior to those found on other AMX-30 main battle tanks, although they are still insufficient for detecting targets from long distances. At this point, the majority of opponents will have a two-plane stabilization system for the tank gun. In these cases, it is best to avoid the centre of the battlefield by flanking the opponents and hitting them from the side while remaining hidden from view so that enemies do not focus their firepower on the AMX-30B2 BRENUS.
 
 == General info ==
 === Survivability and armour ===
@@ -196,6 +198,7 @@ During the mid to late 1990s, AMX-30B2 tanks of the 1er/ 2e Chasseurs tank regim
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_30_b2_brenus Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -208,6 +211,7 @@ During the mid to late 1990s, AMX-30B2 tanks of the 1er/ 2e Chasseurs tank regim
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other ground vehicles equipped with APS
+
 * [[M1A1 HC]]
 * [[T-90A]]
 

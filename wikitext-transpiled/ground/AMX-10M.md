@@ -35,9 +35,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=398|rbMinHp=248}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,8 +48,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|ACRA (142 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[ACRA (142 mm)|142 mm ACRA]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -60,10 +57,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 46 || rowspan="2" | -7°/+15° || rowspan="2" | ±5° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 46 || rowspan="2" | -7°/+15° || rowspan="2" | ±5° || rowspan="2" | - || 8.8 || 12.2 || 14.8 || 16.4 || 17.4 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 5.9 || 7.0 || 8.5 || 9.4 || 10.0
 |-
 |}
 
@@ -82,18 +79,21 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
+! 7th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''46''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''46''' || 39&nbsp;''(+7)'' || 31&nbsp;''(+15)'' || 25&nbsp;''(+21)'' || 18&nbsp;''(+28)'' || 16&nbsp;''(+30)'' || 13&nbsp;''(+33)'' ||1&nbsp;''(+45)'' || No
 |-
 |}
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+'''Note''':
+
+* 5th, 6th, 7th racks are first stage ammo.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|20F2 (20 mm)}}
-
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -101,7 +101,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 500 (500) || 740 || -3°/+50° || ±180°
 |-
 |}
 
@@ -114,9 +114,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -132,6 +134,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -140,6 +143,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

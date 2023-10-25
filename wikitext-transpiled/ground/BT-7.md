@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{specs|name}}''' is a rank {{specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. 
+The '''{{specs|name}}''' is a rank {{specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
 
 The BT-7 was the last of the BT series of Soviet cavalry tanks that were produced in large numbers between 1935 and 1940, and successor to the [[BT-5]]. It was lightly armoured, but reasonably well-armed for its time. The BT tanks were known by the nickname Betka from the acronym, or its diminutive, Betushka.
 
@@ -129,17 +129,13 @@ The 20-K is the typical Soviet rank I gun. Players should get used to it since i
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|DT (7.62 mm)}}
 
-{| class="wikitable" style="text-align:center"
+{| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[DT (7.62 mm)|7.62 mm DT]]
 |-
-! Mount
-! Capacity<br>(Belt capacity)
-! Rate of fire<br>(shots/minute)
-! Vertical<br>guidance
-! Horizontal<br>guidance
+! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,890 (63) || 600 || N/A || N/A
+| Coaxial || 2,394 (63) || 600 || - || -
 |-
 |}
 
@@ -191,7 +187,7 @@ The BT-7 served alongside its older counterpart BT-5 tanks. The BT light tanks w
 The BT-7 next combat use was during the opening stages of Operation Barbarossa when Nazi Germany invades the Soviet Union. The superior German tanks [[Pz.III F|Panzer III]] and [[Pz.IV F1|Panzer IV]] was able to easily take out these lightly armoured tanks. Reports note that about 2,000 BT-7 tanks were lost in the first 12 months alone against the German forces, with hundreds broken down from low maintenance and were abandoned. Despite their inferiority, the Soviets continued to produce and field them among armour and mechanized units to boost their operational capacity, though most were kept away from the front lines due to their inadequacy. The BT-7 would finally see its service again in the Soviet invasion of Japanese-controlled Manchuria. The Soviets fielded the BT-7 and other tanks in its inventory against the inferior Japanese forces in Manchuria, where it proved very effective against the more lightly armoured Japanese tanks employed. The BT series were all retired after the end of World War II due to their obsolete design as an inter-war period tank design.
 
 ===Legacy===
-Perhaps the most important impact of the BT light tanks series was that it kick-started the development of the [[T-34 (1940)|T-34]] medium tank, which would go on as the most-produced tank of World War II. A new design team was formed in 1937 at the KhPZ factory, where they built prototypes utilizing more armour and a heavier gun onto the design, which was called the ''A-32'' and was approved for production as the T-34 tank. The BT tanks also serve as the basis of support vehicles such as the ''BT-7A'' artillery tan, ''BT-7TU'' command tank, ''OP-7'' flamethrower tank, and even the ''TT-BT-7'' remote-controlled tank. An attempt in 1940 also had the BT-7 up-armoured with hinged homogeneous armour, which added five tons to the design weight. These vehicles are not known to have seen service in combat units. 
+Perhaps the most important impact of the BT light tanks series was that it kick-started the development of the [[T-34 (1940)|T-34]] medium tank, which would go on as the most-produced tank of World War II. A new design team was formed in 1937 at the KhPZ factory, where they built prototypes utilizing more armour and a heavier gun onto the design, which was called the ''A-32'' and was approved for production as the T-34 tank. The BT tanks also serve as the basis of support vehicles such as the ''BT-7A'' artillery tan, ''BT-7TU'' command tank, ''OP-7'' flamethrower tank, and even the ''TT-BT-7'' remote-controlled tank. An attempt in 1940 also had the BT-7 up-armoured with hinged homogeneous armour, which added five tons to the design weight. These vehicles are not known to have seen service in combat units.
 
 {{Notice|The BT-7 also holds the record for the furthest jump in a tank, at 42 metres, set in 1936.}}
 

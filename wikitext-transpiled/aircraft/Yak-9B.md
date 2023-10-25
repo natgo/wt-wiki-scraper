@@ -178,7 +178,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''other literature.'' -->
 
 * [[wt:en/devblog/current/817|[Devblog] Yak-9B and Hawker Hunter F.1]]
-* [https://forum.warthunder.com/index.php?/topic/272435-yakovlev-yak-9b/ Official data sheet - more details about the performance]
+* [https://old-forum.warthunder.com/index.php?/topic/272435-yakovlev-yak-9b/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Yakovlev}}
 {{USSR fighters}}

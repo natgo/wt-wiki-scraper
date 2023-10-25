@@ -7,7 +7,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 Essentially an enlarged version of the previous Florida-class battleship, itself a repeat of the [[USS North Dakota|Delaware-class]], the Wyoming-class battleship is the final classic dreadnought of the US Navy and the last American battleship to be armed with {{Annotation|12-inch|305 mm}} cannons. The class presents a substantial improvement over its predecessor, notably being the first American battleship to utilize torpedo bulkheads.
 
-The two ships of the class, ''Wyoming'' and ''Arkansas'', would later see extensive service in both world wars. The sisters would serve under different roles during World War II - ''Wyoming'' was demilitarized to comply with the 1930 London Naval Treaty and served as a training ship and later an anti-air training ship throughout the war, while ''Arkansas'' continued her career as a capital ship and served in both the Atlantic and Pacific theatre.
+The two ships of the class, ''Wyoming'' and ''[[USS Arkansas|Arkansas]]'', would later see extensive service in both world wars. The sisters would serve under different roles during World War II - ''Wyoming'' was demilitarized to comply with the 1930 London Naval Treaty and served as a training ship and later an anti-air training ship throughout the war, while ''Arkansas'' continued her career as a capital ship and served in both the Atlantic and Pacific theatre.
 
 Introduced in [[Update "Red Skies"]], the {{PAGENAME}} in War Thunder is in her 1927 configuration, representing her peak performance as a dreadnought prior to her demilitarization. In this refit, she receives a torpedo belt, reinforced deck armour, more efficient oil-fired boilers, and some {{Annotation|3-inch|76 mm}} anti-aircraft guns. While the Wyoming is largely similar to other classic dreadnought in terms of gameplay, she stands out for her survivability, serviceable anti-air defense, and the excellent penetration offered by her main battery for its calibre.
 
@@ -130,10 +130,8 @@ USS ''Wyoming'' was decommissioned following the end of the war on August 1, 194
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[USS Arkansas]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

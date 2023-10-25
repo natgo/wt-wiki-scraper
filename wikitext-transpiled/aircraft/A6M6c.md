@@ -22,7 +22,7 @@ The A6M6 mod. 53 was a prototype on the [[A6M5 Hei|A6M5 mod. 52C (Hei)]] develop
 
 With the new Sakae 31a engine, the A6M6c has a water-methanol injection that makes the engine less vulnerable to overheating under WEP. The main flaw of this engine is that once the water-methanol mixture runs out, WEP cannot be utilized anymore. The [[B7A2]] also shares this similar flaw with the A6M6c. The WEP lasts for a total of 8 minutes, so it's recommended to conserve it once cruising altitude is reached. Saving a few minutes of WEP for a dogfight can make a vital difference in combat effectiveness. In total, the WEP setting adds 136 additional horsepower compared to 100% throttle setting.
 
-The general flight performance of this Zero will match the traditional expectations. It is relatively light and nimble, it has an excellent turn rate, and it has great low altitude performance. However, when compared with other late war zeros such as the [[A6M5]] [[A6M5 Ko|Ko]]/[[A6M5 otsu|Otsu]], it feels much heavier and more sluggish. It also has a rather poor rate of climb. It behaves similarly to the [[A6M5 Hei]], and if the pilot is familiar with the Hei, the pilot can master the A6M6.
+The general flight performance of this Zero will match the traditional expectations. It is relatively light and nimble, it has an excellent turn rate, and it has great low altitude performance. However, when compared with other late war Zeros such as the [[A6M5]] [[A6M5 Ko|Ko]]/[[A6M5 otsu|Otsu]], it feels much heavier and more sluggish due to reinforced airframe, which results poor rate of climb but significantly improves its high-speed handling (especially in a dive), this means boom-and-zoom and dive attack can be performed with ease, a feat that other Zeros would struggle to execute otherwise. It behaves similarly to the [[A6M5 Hei]], and if the pilot is familiar with the Hei, the pilot can master the A6M6.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -99,6 +99,10 @@ The '''''{{PAGENAME}}''''' is armed with:
 * 1 x 13.2 mm Type 3 machine gun, nose-mounted (230 rpg)
 * 2 x 13.2 mm Type 3 machine guns, wing-mounted (240 rpg = 480 total)
 
+The A6M6c features two 20 mm Type 99 Model 2 autocannons mounted on the wings, and three 13.2 mm Type 3 machine guns with two on the wings and one on the nose. Both guns are mostly accurate and hard-hitting, and has enough ammo to take down a handful of aircrafts and soft ground targets.
+
+As all ammo belt options were unlocked by default, the A6M6c offers handy choices depending on your preference. For the 20 mm, the "tracer" belt are the most reliable option, as it is consisted entirely of an HEF-T rounds with good filler and is capable of dealing consistent damage, though the "universal" and "stealth" options features HEF shell that sacrifice tracer properties for twice the filler of the HEF-T, making it capable of dealing a lot of damage. Meanwhile, the 13.2 mm has a choice between a "ground targets" and "stealth" belts with focus on API and API-T rounds that can easily light up the enemy planes on fire, or the "universal" belt with more IAI rounds for dealing structural damage.
+
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
@@ -114,6 +118,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+The A6M6c sacrifice some of its manoeverbility and climb rate in favor of reinforced airframe, improved protection, and high-speed handling. Due to this, the A6M6c is less specialized in dogfight compared to the other Zeros, but is generally more versatile and forgiving than the its peer. The plane is capable of executing high-speed manoevers and diving attacks, and is capable of taking damage. Though, being a Zero, it also inherit weakness from the other Zeros such as slow speed and volatile fuel tanks.
 
 To master the A6M6c in the air, the pilot needs to channel all of the Zero's strengths and exploit them against the enemy. The primary goal is to set up a turning engagement and open fire roughly 300 m from the target in a turn. The Zero is vulnerable to energy fighting tactics, so it isn't recommended to boom and zoom, as the Zero isn't a fast aircraft. As the A6M6c has a poor climb rate, it is recommended to side climb slightly and engage targets that are low in energy and altitude. While side climbing, the most optimal angle to do so is at 20° maximum. This will allow you to climb without stalling your engines. When attacking bombers, your fighter cannot take much punishment so make sure to only pick targets that you can kill easily. An experienced bomber gunner can obliterate you out of the sky due to how relatively frail the Zero's airframe is.
 
@@ -143,11 +148,10 @@ The Zero's manual engine controls are simple to learn. The propeller pitch shoul
 
 * Powerful armament with good ammo count, the 13 mm MGs are effective
 * Retains some of the famous manoeuvrability of the A6M series, makes for a capable dogfighter
+* Reinforced airframe improves its high speed handling, thus allowing the plane to do boom-and-zoom and dive attacks
 * Has some armour, combined with better guns it makes the plane capable for bomber hunting
+* Somewhat more durable airframe than other Zeros with self-sealing fuel tanks, capable of taking hits unlike the other Zeros
 * Can carry effective rockets
-* Stronger WEP than earlier Zeros
-* Capable of carrier landing and takeoff
-* Self-sealing fuel tanks increase the survivability
 
 '''Cons:'''
 

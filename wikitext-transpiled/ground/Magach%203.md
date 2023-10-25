@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The Magach 3 was an overall upgrade to the M48 tanks fitted by Israel. Compared to the Magach 1 and 2 it was the first to receive major upgrades not fitted by Americans or Germans. It included a more powerful British made L7 105mm rifled gun with more powerful rounds to deal with soviet threats like the T-54 and T-62. The tank also eventually received Blazer ERA to deal with Soviet made RPGs and ATGMs fitted in large quantities by Egyptian and Syrian forces. The tank also received a new 750 HP engine coupled with a new Allison transmission, as well as new radio equipment and electronics.
+
+It was introduced in [[Update "Drone Age"]]. The Magach 3 is basically an upguned version of the M48. It has very similar mobility thanks to the new transmission and engine. However it does not use Blazer ERA blocks, since that is reserved for the premium version. The 105mm gun with it's new APDS shell is the most important upgrade as well as the new commanders cupola. The new gun packs quite a heavy punch and can be used to reliably penetrate all tanks at it's BR, that being with the HEAT-FS or the APDS shell, just take in mind that ERA can already be seen around it's BR which posses a threat to chemical munitions. The tank lacks a stabilizer, however, it has an optical rangefinder so it can be used to accurately pick targets thousands of meters away.
 
 == General info ==
 === Survivability and armour ===
@@ -143,19 +145,28 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Magach 3 was another version of the Magach series of tanks, based on the M48 chasis. This version was the first to introduce major modifications and upgrades outside of those already fitted by the Americans and Germans in their M48A1/A2/A2C.
+
+The Magach 3 used many parts present in the original Magach 2 (M48A2C) but it also fixed some of the most important problems with the standard version of the M48. A new British made L7 105mm gun was installed with new rounds capable of much more firepower. The increase in gun caliber was very necesary since the M48s original 90mm gun was deemed inferior to the 100 and 115 mm guns used in the T-54s and T-62s.
+
+Another upgrade was the installation of a low profile commanders cupola, since the original cupola was considered unnecessary and also increased maintenance, new communications equipment was installed to help with coordination in the battlefield and later on, some tanks were upgraded with Blazer ERA. The Magach 3 was one of the first to use Blazer ERA, since during the Six Days War and Yom Kippur War it was shown that it's armour was not enough to protect the crew against RPGs and ATGMs, in fact, the Magach 3 was one of the most lost tanks during these two conflicts.
+
+With the installation of Blazer ERA, new electronics and increased firepower, the total weight of the tank increased, and thus a new powerplant was required, a  750 hp (560 kW) diesel engine Continental AVDS-1790-2A was installed, as well as a new Allison CD-850-6 transmission.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_3_idf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -164,6 +175,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Magach (Family)]]
 
 == External links ==
@@ -171,6 +183,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

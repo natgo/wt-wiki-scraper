@@ -109,7 +109,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The Mirage 5F has no armour and can be critically damaged with just one short burst of enemy fire. Even if the Mirage survives, it will be highly damaged and some major components like the elevator or aileron controls will likely be destroyed. The Mirage has self-sealing fuel tanks located in the rear, front part of the wings, and the forward fuselage.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -181,6 +181,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x Matra R550 Magic 1 missiles
 * 2 x AIM-9B Sidewinder missiles
@@ -197,7 +198,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+Comparable to the [[Mirage IIIC]] in performance, the 5F lacks some of the electronics and missiles that make contemporary jets very competitive in aggressive fights.
+
+Because of that, and its lack of countermeasures, the Mirage 5F's most important asset is retaining its speed. Since is a very fast aircraft, it is better used in a support role or doing passes around the map at high speeds, launching the missiles at priority targets that might be a threat to the Mirage or to save an ally from death. This good use of its ammunition is extremely important since the Mirage can only carry a maximum of 2 AAMs, one on each wing. Be careful, though, as the 2 Magic 1's are very short in range, take a second to arm, and suffer from a lot of drag. Its guns, while great and easy to aim, have a low muzzle velocity and work better at low speeds when it is easier to point the nose of the aircraft in the desired direction. But since they are 30 mm cannons, they will destroy any aircraft with a small burst, making them very reliable.
+
+Going for ground bases is a good option in the Mirage 5F. The Mirage 5F is capable of carrying enough bombs to destroy a full base and still carry 2 missiles for air-to-air combat. When doing this, flying at medium altitudes and then diving to the bases is very important to stay alive, because when flying to close to the ground the enemy SPAA around the map can easily destroy or severely damage your aircraft. At the moment of approaching the base, it is important to go in a dive or lower your altitude closer to the ground because the Mirage has no ballistic computer at all. Once the bombs are dropped, the Mirage may be capable of playing aggressive in the middle of the match, since at that point most fights would have already started and enemies would be distracted. Thus climbing to high altitudes or playing too cautiously may result in a defeat, since your allies would need you helping in the fight.
+
+The 5F's energy retention is decent at best, so be careful when dogfighting and choose your opponents wisely.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -233,8 +240,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[Mirage 5 (Family)|Mirage 5 family]].
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

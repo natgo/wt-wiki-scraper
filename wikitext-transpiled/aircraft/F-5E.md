@@ -211,12 +211,12 @@ If an enemy jet follows the {{PAGENAME}}, be prepared to defend against a missil
 
 '''Pros:'''
 
-* Great maneuverability
+* Great manoeuvrability
 * amazing energy retention above .90 Mach
 * Large selection of air-to-ground armaments, including Maverick air-to-ground missiles
 * Generous ammunition capacity for guns
 * Small target
-* improved engines over its predecessor, improving its speed and maneuverability 
+* improved engines over its predecessor, improving its speed and manoeuvrability 
 * Efficient afterburner allows the use of lower fuel reserves, improving performance
 
 '''Cons:'''
@@ -226,6 +226,7 @@ If an enemy jet follows the {{PAGENAME}}, be prepared to defend against a missil
 * no BVR capabilities
 * Can only carry a maximum of two air-to-air missiles, making this plane mostly a gun fighter
 * No ballistic computer
+* RWR cannot detect J-band radar, making it impossible to detect radar emissions from MiG-21s and MiG-23s
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -10,14 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Barougan (“battle” in Arabic),  was a very minor off-shoot of the M.D.450B Ouragan. The main difference was the new gear design that would allow the Barougan to take off from undeveloped runways. The nose gear stayed the same; however, the main gear in the center of the aircraft was very different. The Barougan had four wheels in the center to help absorb the load from grass runways and it proved to be a good design. A tail parachute was also added to decrease the landing distance and make it more viable. Unfortunately for the Barougan, the program was cut short due to budget constraints and was reconverted back to its original configuration. 
+The Barougan ("battle" in Arabic),  was a very minor off-shoot of the M.D.450B Ouragan. The main difference was the new gear design that would allow the Barougan to take off from undeveloped runways. The nose gear stayed the same; however, the main gear in the center of the aircraft was very different. The Barougan had four wheels in the center to help absorb the load from grass runways and it proved to be a good design. A tail parachute was also added to decrease the landing distance and make it more viable. Unfortunately for the Barougan, the program was cut short due to budget constraints and was reconverted back to its original configuration.
 
-Introduced in [[Update 1.73 "Vive la France"]], the '''{{Specs|name}}''' is a decent early jet fighter. It has four chin-mounted 20 mm cannons and access to bombs as well as SNEB type 23 rockets. Although it has four cannons, the ammo belts are less than desirable and greatly hinder the effectiveness of the guns. The Rolls-Royce engine is decent; although if players choose higher fuel settings, the Barougan will greatly struggle with accelerating quickly and overall energy retention will diminish. Overall, the Barougan is a decent aircraft for players progressing through the French tech tree and serves as a good indicator of upcoming native French jets. 
+Introduced in [[Update 1.73 "Vive la France"]], the '''{{Specs|name}}''' is a decent early jet fighter. It has four chin-mounted 20 mm cannons and access to bombs as well as SNEB type 23 rockets. Although it has four cannons, the ammo belts are less than desirable and greatly hinder the effectiveness of the guns. The Rolls-Royce engine is decent; although if players choose higher fuel settings, the Barougan will greatly struggle with accelerating quickly and overall energy retention will diminish. Overall, the Barougan is a decent aircraft for players progressing through the French tech tree and serves as a good indicator of upcoming native French jets.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+The Barougan flies very similarly to the Ouragan, that means that it is a very capable dogfighter when it sits at low energy states. Its wings allow it to retain energy decently at speeds below 600 km/h; while the top speed and acceleration is not comparable to jets like the Su-11 and Meteor NF.13, its good handling compensates the that lack of performance at higher speeds.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -116,8 +117,12 @@ Introduced in [[Update 1.73 "Vive la France"]], the '''{{Specs|name}}''' is a de
 * 13.5 mm Steel plate in the nose.
 * 13.5 mm Steel plates behind pilot.
 
+The Barougan is a relatively survivable aircraft compared to many early jet fighters. It only has a single engine, this makes it fairly small target compared to many other jets like the MiG-9 and F3D-1. However, it won't survive a direct hit from high calibre cannons, and its vertical control surfaces are especially vulnerable in fights by going over the entire top of the aircraft. All the fuel tanks are self-sealing, and it also has a reinforced landing gear compared to the Ouragan.
+
 === Modifications and economy ===
 {{Specs-Economy}}
+
+The most important upgrades for the Barougan are in the flight performance area, since the standard ammo belts are decent, it's important going for Compressor, Fuselage, Engine and G Suit upgrades, if you plan to use the Barougan for ground attacks, research the Matra SNEB rockets and the 1000lb bombs.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -147,7 +152,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 38 x SNEB type 23 rockets
 
 == Usage in battles ==
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+This aircraft is usually seen as a bad aircraft, however it has alot of potential.
+
+in Air Battles, it can be played in 2 main playstyles. It can either be used as a boom and zoom aircraft, where you should be 1-2km above a low energy target, diving on them, shooting then if you missed your opportunity of taking them down, climb back up and try again, or the energy fighting role.
+
+Energy fighting is managing your energy correctly while being agressive with an enemy. You are trying to stay alive, while pushing the enemy into making a mistake, For example you could take them into an energy trap spiral, making them overshoot, making them stall. Energy fighting is quite harder to explain and to successfully play as a playstyle, however it feels most rewarding.
+
+in Ground Battles, the Barougan is okay. you have 38x SNEB rockets, along with 8x T10 rockets, which if used correctly can land you 2-3 ground kills. Due to there being no markers on planes in GRB, you can use this plane in a reverse Boom and Zoom role after you killed ground targets. It implies staying low to the ground, looking up above you for unsuspecting planes. You should be nearly invisible against the ground since there is no marker on you for enemy players to see.
+
+Overall an average jet compared to its competitors, does not shine in any particular area, but it can do alot of things.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -156,14 +169,22 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Has stronger landing gear than the Ouragan
 * Has a drogue chute for stopping quicker
+* Can carry a decent amount of rockets for its BR.
+* Good energy retention below 600 km/h
+* Is on the faster side of early jets, topping at around 940 km/h, putting it close to the F84
 
 '''Cons:'''
 
 * Worse than average roll rate
+* Compresses heavily at higher speeds
+* 20 mm tends to be unreliable, similar to 20mm Hispano MK.V
+* Engine can feel underwhelming at times
+* Bad performance in vertical manoeuvres
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The prevalence of makeshift airfields created a need for jet aircraft that could comfortably take off and land on them. The Ouragan, which was relegated to properly developed runways, was selected by Dassault to pursue this need. Serial number 140 was selected to experiment with the use of a new gear that would be able to meet this requirement. Instead of the normal three-wheel landing gear, the plane was fitted with a normal nose gear and four “low pressure” wheels in the center. A tail parachute was also fitted to help reduce the landing distance. The Barougan as it would be called (which stands for battle in Arabic), was able to take off from grass airfields and was a decent competitor to SNCASE’s Barouder. Unfortunately, budget cuts ended the program and the Barougan was reconverted back to its normal Ouragan configuration. 
+The prevalence of makeshift airfields created a need for jet aircraft that could comfortably take off and land on them. The Ouragan, which was relegated to properly developed runways, was selected by Dassault to pursue this need. Serial number 140 was selected to experiment with the use of a new gear that would be able to meet this requirement. Instead of the normal three-wheel landing gear, the plane was fitted with a normal nose gear and four "low pressure" wheels in the center. A tail parachute was also fitted to help reduce the landing distance. The Barougan as it would be called (which stands for battle in Arabic), was able to take off from grass airfields and was a decent competitor to SNCASE's Barouder. Unfortunately, budget cuts ended the program and the Barougan was reconverted back to its normal Ouragan configuration.
+
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 

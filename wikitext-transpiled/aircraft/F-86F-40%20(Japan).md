@@ -13,11 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]].
+The '''{{Specs|name}}'''  was considered one of the premier fighter aircraft of the day, several nations put bids in to receive surplus F-86 fighters to add to their arsenal. Japan successfully acquired this aircraft. However, due to the popularity of the aircraft, supplies evaporated. Though North American restarted production of the aircraft, Japan successfully lobbied to acquire the licensing rights to have Mitsubishi Manufacturing begin production of the aircraft, allowing Japan to increase its air force's offensive and defensive capabilities sooner than expected.
 
-Considered one of the premier fighter aircraft of the day, several nations put bids in to receive surplus F-86 fighters to add to their arsenal. Japan successfully acquired this aircraft. However, due to the popularity of the aircraft, supplies evaporated. Though North American restarted production of the aircraft, Japan successfully lobbied to acquire the licensing rights to have Mitsubishi Manufacturing begin production of the aircraft, allowing Japan to increase its air force's offensive and defensive capabilities sooner than expected.
-
-Though not one of the fastest aircraft during this time period, it can be one of the most manoeuvrable when considering throttle control, air-brakes and wing slats. The manoeuvrability of this aircraft is definitely a plus when flying against other fighters, which could be considered more of a manned missile with lots of speed, but a horrible turning radius.
+It was introduced in [[Update 1.75 "La Résistance"]]. Though not one of the fastest aircraft during this time period, it can be one of the most manoeuvrable when considering throttle control, air-brakes and wing slats. The manoeuvrability of this aircraft is definitely a plus when flying against other fighters, which could be considered more of a manned missile with lots of speed, but a horrible turning radius.
 
 == General info ==
 === Flight performance ===

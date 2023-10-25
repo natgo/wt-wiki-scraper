@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American jet fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
+During the Vietnam War, the USAF requested F-5 Freedom Fighters due to the high loss rates of other aircraft in use. The Defense Department originally rejected the proposal but later accepted it in 1965. Codenamed "Skoshi Tiger", the USAF would use 12 F-5A's from the Military Assistance Program (MAP) for performance evaluations. They would eventually receive inflight refueling probes, lead-computing gunsight, significant armour on the belly, and designated as the F-5C Skoshi Tiger.  The Skoshi Tiger program would later end with the DoD rejecting a second proposal for more F-5's. 
+
+Introduced in [[Update "Red Skies"]] as a premium fighter, the '''{{Specs|name}}''' is an excellent fighter. Firstly, the F-5C has access to countermeasures which is incredibly important for its battle rating. Furthermore, the F-5C has a low heat signature which helps against evading IR missiles. The F-5C also can carry two AIM-9E Sidewinders which are decent but players should not rely on them to get kills. The two 20 mm cannons mounted in the nose will be the primary way of downing enemy aircraft along with its excellent performance. Although it can carry bombs, players should stick to using it as a fighter where it shines. 
 
 == General info ==
 === Flight performance ===
@@ -112,7 +114,10 @@ The F-5C is generally an all-round good fighter. It's not the fastest plane and 
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-* Self-sealing fuel tanks (2 in fuselage - centreline)
+Although the F-5C was equipped with armour plates in real life, in-game there is no armour present. This leaves the engine and other critical plates vulnerable to ground fire. However, the F-5C is a relatively small target to hit which counteracts the lack of armour. There are two fuel tanks mounted in the centre of the fuselage behind the pilot and both are self-sealing. The F-5C is surprisingly durable in-game and can take a few hits before being counted as destroyed. 
+
+The F-5C also has 60 countermeasures which in combination with the low heat signature, greatly helps with evading IR missiles. Even strong IR missiles like the [[AIM-9L]] can easily be flared off. Unfortunately, the countermeasure drops in pairs so one drop means the loss of two countermeasures. With a mixed loadout, players will only have 15 drops before running out. Due to the F-5C's battle rating, it's better to choose standard flares as players will receive 30 drops and radar missiles are not a major threat yet, unless meeting planes like the MiG-21 at high-altitudes.
+[[File:F-5C layout.png|thumb|center|F-5C's layout of components]]
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -126,9 +131,8 @@ The F-5C is generally an all-round good fighter. It's not the fastest plane and 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
-** 2 x 20 mm M39A2 cannons + 60 x countermeasures
+* 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -219,6 +223,7 @@ In mixed ground  battles (RB), the F-5C is able to function as a light strike ai
 * No radar
 * Below average top speed
 * No CCIP or CCRP for guns, rockets, or bombs, limiting its ground attack potential
+* Weak engines, just barely able to push Mach 1 with a payload
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

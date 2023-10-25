@@ -192,6 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 600 gal drop tank
 * 2 x AIM-9E Sidewinder missiles
 * 4 x AIM-9E Sidewinder missiles
@@ -208,30 +209,34 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The F-4EJ Phantom is well-suited for any in-game situation. For attacking ground targets, the plane is armed with an assortment of bombs and rockets, and against air targets, players may employ the vehicle's deadly air-to-air missiles and frontal cannon. If desired, three externally-mounted gun pods may be equipped, but note that these may not be useful in all situations. Although they will undoubtedly increase the vehicle's destructive capabilities, they also appreciably hinder flight performance. In many situations, one front-facing cannon is all that is required to dispatch an opponent aircraft. As for the missiles, the ones used by this plane are among the best in the game, comparable to the [[R-60]] missiles equipped by the [[MiG-21MF (Germany)]] and the [[MiG-21SMT]].
+The F-4EJ Phantom II is best described as a mixed bag. It is a potent fighter-bomber, capable of carrying x24 500lb bombs along with a full payload of Sparrows and Sidewinders. This means that, with some luck, the F-4EJ Phantom destroy two bases before circling around to engage the enemy in their unguarded flanks. However, this is not adviseable and largely depends on luck, as you will likely be swamped by masses of low-flying aircraft who will have no issues completely outperforming you with a full bomb load. The ideal role for the F-4EJ is as a high-altitude Interceptor, being faster and more well-armed than many aircraft that will be up there with you. MiG-21s of all variants will struggle to engage you in a dogfight, due to their bad energy retention and high-altitude acceleration, with Starfighters often unable to deal with you due to a lack of countermeasures and a comparatively brick-like airframe. In a downtier, climbing at around 20-30° (depending on whether you want to be faster or more well-positioned) to a height of 5kms or higher generally means that your Sparrows, with better performance, will often be able to take out high-flying aircraft with impunity. It can hold its own in a dogfight, generally avoiding a turnfight with the generally accepted threats such as F-5Cs and Drakens, who will have no issue dancing around your nose. While most aircraft can be beaten with careful application of airbrakes and the planes, almost any delta wing aircraft, namely the Mirage III, MiG-21 and J35D, being nigh impossible to beat. Usually, you can force yourself to very low speed as a means of outmaneuvering your opponent and getting on their tail, the incredible first-turn speed of these aircraft will absolutely lead to a humiliating loss.
 
-Thanks to its leading-edge flaps, the F-4EJ is more manoeuvrable than the [[F-4C Phantom II]]. Because of this, it can calmly deal with more intense dogfight situations than its predecessor. As with all top-tier fighter jets, extended turn fights should be avoided since they bleed much speed out of this heavy aircraft and leave the pilot defenceless against nearby vultures. Specifically, watch out for the [[J35D]] ''Draken'', which will beat any of its contemporaries in an extended turn, and also keep an eye on nearby [[Mitsubishi T-2]] pilots: although the T-2 doesn't do well in extended turns, it can pull a significant angle of attack in the first few moments of a turn fight. The [[F-4E Phantom II]] can also be considered a threat as it includes leading-edge slats not found on the F-4EJ.
+The main armament of the F-4EJ are its x4 AIM-9P short-range IR missiles, x4 longer-ranged, faster AIM-7E SARH missiles, and the notorious M61 Vulcan 20mm rotary cannon. Players familiar with the earlier Rank 6 Japanese jets should have no trouble using this cannon, with devastating firepower and a tight-spread when upgraded, the Vulcan will be far more effective due to the increased maneuverability of the F-4EJ. Leading edge-slats and a more capable airframe will provide a much better experience than the earlier stubby-winged Starfighters and F-1s. The AIM-7E will often be the primary weapon when dealing with targets at altitude, having much better range and pull than the AIM-7D, you can easily get away with kills from a maximum of 15,000m away. The range of the missile's maximum effectiveness largely depends on the speed of the aircraft on launch, the direction of the target, the altitude of both the attacker and the defender, and the angle of launch. Be advised that the 7E tends not to do well launching at any maneuvering target under 5,000m away, due to the 1.5s it takes to reach full maneuverability. The AIM-9Ps are far more simple. Launch while fast, and they will pull hard into targets up to 1,000m away, often able to achieve locks at a 90° approach angle on targets with extremely hot engines such as other Phantoms, Tomcats and MiG-23s.
 
-It is advised to side climb up to at least 8,000 m before engaging the enemy to ensure a favourable position at the start of the battle.
+When in an uptier, the playstyle changes very drastically. You will be fighting against Tornado ADVs, F-4S/J and FGR.2 Phantoms, Tomcats, Fulcrums, Floggers, Viggens, and many more aircraft that you have little to no chance against in a one-on-one engagement. Particularly oppressive are the F-14A and B, who vastly outrange you by a great margin, whilst also posessing far better flight performance due to their variable-wing sweep and much better engines. In a dogfight, the F-4EJ fares little better, as very little will struggle against you in a fight. Your best bet is to climb to medium altitude, and keep a very close eye on the plane's RWR. AAA/AI notify of an enemy plane's locking on, and this includes both IR signatures and Radar locks. Keeping low is less then ideal, as it limits your ability to notch missiles, which will have no issue filtering past ground clutter. Engage carefully, and avoid sticking to prolonged dogfights. Playing as a Support Fighter is key to your survival in uptiers, and the potent missile armament will be your choice pick for engagements.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Fairly manoeuvrable thanks to leading-edge flaps, especially when low on fuel
-* AIM-9P air-to-air missiles are among the best in the game (export version of the AIM-9J)
-* Equipped with flares for evading enemy missiles
-* A wide range of suspended armaments, suitable for any playstyle
-* Deadly frontal armament with high burst mass
-* Makes use of a ballistic computer for assisting in the aim of cannons, rockets, and bombs against ground targets
+* Fairly manoeuvrable thanks to leading-edge flaps, especially when low on fuel.
+* Lack of Agile Eagle gives it a better overall energy retention.
+* AIM-9Ps can pull a respectable 20Gs, with a mild degree of flare resistance.
+* AIM-9Ps have radar-slaving capability.
+* Equipped with x90 Countermeasures in varying orders.
+* Can hold a wide and heavy range of payload options, including a full load of missiles and x24 500lb bombs.
+* The M61 Vulcan is an incredibly dangerous weapon, with great all-round characteristics.
+* The AIM-7E Sparrow is a deadly weapon at the BR, with competetive flight performance and range.
+* Makes use of a ballistic computer for assisting in the aim of cannons, rockets, and bombs against ground targets.
 
 '''Cons:'''
 
-* Unlike the [[F-4E Phantom II]], the F-4EJ does not have the Agile Eagle
-* Lacks the more capable [[AIM-7E-2]] Sparrow, only has the basic AIM-7E that takes longer to start manoeuvring so it is harder to use in short-range fights
-* Limited ammunition in the frontally-mounted cannon
-* Quite large and heavy compared to other fighters at its rank
+* The downside to the lack of Agile Eagle is a wider turning arc, making it less likely to outturn its peers in the first turn.
+* The AIM-7E, compared to the 7E-2, takes 1.5s to begin maneuvering, making it worse at short-range shots.
+* Trigger discipline is required to make the most of the plane's 640 rounds of 20mm ammo.
+* Quite large and heavy compared to other fighters at its rank.
+* Radar susceptible to ground clutter, making shots on lower-flying targets more difficult.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

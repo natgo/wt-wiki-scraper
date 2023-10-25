@@ -5,16 +5,14 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.33]].
+The Yak-17 was a further development of the Yak-15 jet fighter developed by the Soviet Union. The Yak-17 was also the basis for the soviet Yak-23 and it functioned as the Soviet Unions main training fighter for pilots doing the transition from piston engine fighters to jet engines. The Yak-17 was very similar to the Yak-15, it retained the airframe of the Yak-3 and only addressed a few issues to make the fighter more viable. It introduced a bulletproof glass in the front of the cockpit as well as extra fuel tanks for longer range. The biggest improvement was the introduction of a modern landing gear like the one present in the Mig-9. Only 430 units were made and most of them were eventually given to the Czech and Polish air forces.
 
-Similar to its hybrid predecessors, the Yak-17 is arguably one of the most underestimated aircraft in the game. Although its stat card reveals what would be considered "sub-par" performance and armament, the Yak-17 is both a unique and deadly fighter. Unlike its propeller-driven counterparts, this first generation jet aircraft wields the ability to hold on to energy in a straight line, whereas prop aircraft will slowly lose speed. This, coupled with its good rate of turn, allows the Yak-17 to defend itself against both propeller and jet-powered aircraft, which is what it will normally face in all game modes.
-
-The Yak-17's major faults include a low top speed, poor acceleration, little armour protection, and small ammunition pool. These collectively make this aircraft harder to use than other first-generation jet aircraft such as the [[He 162 A-2]], the [[Meteor F Mk 3]], and the [[F-80A-5]]. Although it is driven by a jet engine, it is important to recognize the faults and oddities within this aircraft series, as they are not representative of the traditional "jet fighter" at all. The Yak-17 is most easily viewed as a late-war [[Yak-3]] powered by a jet engine and with different armament. The Yak-17 differs from the previous [[Yak-15]] and [[Yak-15P]] in that it has a different cockpit layout, a different gun sight, and tricycle landing gear. The Yak-17 also carries two fuel pods on the end of each wing, similar to the [[MiG-9 (l)|MiG-9/Late]]. Having a tricycle landing gear set instead of the previous two-wheeled design allows the Yak-17 to slow down easily when landing due to the drag of the extra wheel, and land easier, as there is no chance of the aircraft flipping from excessive braking. Thus, the Yak-17 performs almost identically to the Yak-15 and Yak-15P as its "stat card" shows.
+It was introduced in [[Update 1.33]]. Similar to its hybrid predecessors, the Yak-17 is arguably one of the most underestimated aircraft in the game. Although its stat card reveals what would be considered "sub-par" performance and armament, the Yak-17 is both a unique and deadly fighter. Unlike its propeller-driven counterparts, this first generation jet aircraft wields the ability to hold on to energy in a straight line, whereas prop aircraft will slowly lose speed. This, coupled with its good rate of turn, allows the Yak-17 to defend itself against both propeller and jet-powered aircraft, which is what it will normally face in all game modes. The Yak 17 biggest issues are the low top speed and the poor acceleration caused by a weak engine. The aircraft also includes very small improvements over the Yak-15 and plays largely the same, that is, forcing piston fighters into energy fights and avoiding prolonged fights with more modern jet fighters like the F-80C and F2H Banshee.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->The Yak-17 has a very weak engine, the Junkers Jumo 004. This engine gives the Yak-17 poor acceleration, mediocre climb rate and a relatively low top speed compared to other jet fighters at it's BR. However it's enough so that it holds energy better than most piston engine fighters.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -108,6 +106,7 @@ The Yak-17's major faults include a low top speed, poor acceleration, little arm
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+
 * 55 mm Bulletproof glass in cockpit front.
 * 8.5 mm Steel plate in pilot's seat.
 
@@ -148,12 +147,14 @@ With some practice, it is possible to consistently get 3 fighter kills with one 
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Excellent turn time for a jet fighter
 * Good armament
 * Very good roll rate
 * Fairly responsive at higher speeds
 
 '''Cons:'''
+
 * Slow compared to other jet fighters in BR
 * Low ammunition count
 * Poor rate of climb
@@ -162,12 +163,19 @@ With some practice, it is possible to consistently get 3 fighter kills with one 
 * Inability to carry a payload
 
 == History ==
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Yak-17 was a further development of the Yak-15 which was the first soviet jet fighter alongside the Mig-9. The Yak-17 could be considered a series of upgrades that could be applied to the Yak-15 and make the jet more viable for longer term use.
+
+The Yak-17 saw most of it's life as a trainer rather than as a true jet fighter. This is because it used the airframe of the Yak-3, which was a fighter very familiar to all soviet pilots, and thus, it was easier for them to transition from piston fighters to jet engines in an already familiar platform like the Yak-3 but using a jet engine.
+
+The Yak-17 received a handful of upgrades compared to the Yak-15, a bulletproof glass in front of the cockpit for better pilot protection, it added mirrors to increase visibility during dogfights. It also added external fuel tanks under the wings that could be jettisoned to avoid loss of performance. However the most important upgrade was the installation of a modern landing gear like the one in the Mig-9. This was extremely necessary if the Yak-17 was going to be used to train  old pilots and adapt them into jet engine fighters. 
+
+Two versions of this aircraft were made, with a total of 430 units built. These versions were the normal Yak-17 and the Yak-17UTI that was a trainer version with two seats and duplicated controls. The Yak-17 was the Soviet Union main trainer during the early 1950s. The Yak-17 was mainly given to the Polish and Czech air force.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak-17 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -175,6 +183,7 @@ With some practice, it is possible to consistently get 3 fighter kills with one 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

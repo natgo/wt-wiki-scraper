@@ -120,7 +120,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet light tank {{Battl
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,890 (63) || 600 || N/A || N/A
+| Coaxial || 2,394 (63) || 600 || - || -
 |-
 |}
 

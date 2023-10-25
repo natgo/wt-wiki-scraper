@@ -10,9 +10,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
+The '''{{Specs|name}}''' was developed from the SEPECAT Jaguar, a joint project between Britain and France in the 1960s and 1970s. The Jaguar was originally designed as a trainer and light attack aircraft but later evolved into a supersonic strike aircraft with precise strike capability. It entered service with the Royal Air Force in 1974. It was also exported to India, Oman, Ecuador, and Nigeria. The Jaguar saw combat in several conflicts, such as the Gulf War, the Iraq War, and the Kargil War. It remained in service with the RAF until 2007, when it was replaced by the Eurofighter Typhoon.
 
-The SEPECAT Jaguar is a strike aircraft co-designed by British and French engineers in the late 1960s/early 1970s, and remains in service today with the Indian Air Force. It is fit with afterburning engines and totes an incredibly heavy air-to-ground payload, with full ballistics computer capability to match, though its flight performance does not lend well to air-to-air combat.
+The {{Specs|name}} was introduced in [[Update "Raining Fire"]]. It is fit with afterburning engines and totes an incredibly heavy air-to-ground payload, with full ballistics computer capability to match, though its flight performance does not lend well to air-to-air combat. It’s also worth noting that the aircraft lacks any kind of countermeasures. This means that players need to be strategic and cautious when using this aircraft. Nonetheless, its payload options make it a worthwhile jet for ground attack missions.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}

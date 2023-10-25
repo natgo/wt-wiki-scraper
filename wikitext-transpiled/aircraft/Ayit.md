@@ -1,8 +1,3 @@
-{{About
-| about = strike aircraft '''{{PAGENAME}}'''
-| usage = other versions
-| link = A-4 (Family)
-}}
 {{Specs-Card
 |code=a_4n
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

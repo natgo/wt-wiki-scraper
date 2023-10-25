@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+During the 1980s, the latest upgraded variants of the Su-17 fighter-bomber were starting to come online in the Soviet air force, and very quickly, it was exported as the Su-22 for Soviet allies. the East German air force would receive 48 of the latest [[Su-22M4 (Germany)|Su-22M4]] fighter bomber, and along with it eight of the twin-seat Su-22UM-3K trainer aircraft. The German Su-22s would serve as a frontline strike aircraft in the event of a war with NATO forces, and would remain in East German service until the re-unification of Germany, after which the almost all Su-22s were either scrapped or sold off as they were incompatible with NATO hardware and standards, with only a few being kept and repainted in German Luftwaffe liveries for serving as evaluation and testing aircraft.
+
+The '''{{Specs|name}}''' was introduced in [[Update "Wind of Change"]]. Being essentially just a twin-seat trainer variant of the [[Su-22M3]] in the Soviet aircraft tree, it is almost identical in gameplay style, that is being a fast and hard hitting attacker utilizing hit and run tactics. The primary difference between this plane and the aforementioned Su-22M3 is that this one has over ten times the countermeasures, 128x of them compared to the 12x that the Su-22M3 gets. In the German aircraft tree, the Su-22UM3K serves as a stepping stone to the more powerful and versatile [[Su-22M4 (Germany)|Su-22M4]], serving the role of a multi-purpose strike aircraft with its abundant countermeasures, decent selection of laser guided air-to-ground ordnance, and [[R-60]] air-to-air missiles for self-defence against enemy aircraft.
 
 == General info ==
 === Flight performance ===
@@ -212,6 +214,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 800 l drop tanks
 * 2 x R-60 missiles
 * 20 x 100 kg OFAB-100 bombs (2,000 kg total)

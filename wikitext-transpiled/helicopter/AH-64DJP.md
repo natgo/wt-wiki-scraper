@@ -18,7 +18,7 @@ It was introduced in [[Update "Starfighters"]]. It is similar to the American ve
 === Flight performance ===
 {{Specs-Heli-Flight}}
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The AH-64DJP sports a great manoeuvrability, an incredible acceleration and overall provides a great speed of up to 320 km/h in arcade and 295 km/h in realistic and simulator game modes. As fast as the [[AH-64D|United States Army, AH-64D Longbow]] and slower than the [[AH_Mk.1|British Army, AH Mk.1]] variants of the Apache, the AH-64DJP is still able to perform manoeuvres other helicopters can only dream about, from barrel rolls, flips to loops which allow it to evade enemy missiles with ease.
+The AH-64DJP sports great manoeuvrability, incredible acceleration, and overall provides great speed of up to 320 km/h in arcade and 295 km/h in realistic and simulator game modes. As fast as the [[AH-64D|United States Army, AH-64D Longbow]] and slower than the [[AH_Mk.1|British Army, AH Mk.1]] variants of the Apache, the AH-64DJP is still able to perform manoeuvres other helicopters can only dream about, from barrel rolls, flips to loops which allow it to evade enemy missiles with ease.
 
 {| class="wikitable" style="text-align:center"
 |-

@@ -14,7 +14,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 
 The Comet is an excellent medium tank. It has great mobility and acceleration, able to reach 38 km/h very quickly and stay there at full throttle, though suffers from pitiful reverse speed like with the Cromwell. Firepower is another benefit, especially after unlocking APDS, giving it the penetration needed to deal with any threat you might encounter. The drawback of the design is the sub-par armour that can be easily penetrated at BR 5.3. One should take advantage of the Comet's low profile and mobility to hide and manoeuvre from the enemy to catch them at an advantageous angle. Gun depression was a feature that the previous tank in the tech tree, the Sherman Firefly, was sorely lacking. This is much improved on the Comet allowing the vehicle to more easily shoot over hills while in hull-down position.
 
-This particular Comet is an example operated by the Finnish Defence Forces, imported in 1958 and used as training vehicles for the [[Charioteer Mk VII (Sweden)|Charioteers]] that they were bought alongside of. It is identical in performance to the British [[Comet I]].
+This particular Comet is an example operated by the Finnish Defence Forces, imported in 1958 and used as training vehicles for the [[Charioteer Mk VII (Sweden)|Charioteers]] they were bought alongside of. It is identical in performance to the British [[Comet I]].
 
 == General info ==
 === Survivability and armour ===

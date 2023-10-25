@@ -1,8 +1,3 @@
-{{About
-| about = gift British bomber '''{{PAGENAME}}'''
-| usage = other versions
-| link = DB-7 (Family)
-}}
 {{Specs-Card
 |code=db_7
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -223,7 +218,7 @@ The American aircraft were designated DB-7B3 (B3 meaning "three-seat bomber") by
 
 ;Related development
 
-* [[DB-7 (Family)]]
+* Douglas [[DB-7 (Family)|DB-7]]
 * Douglas [[A-26 (Family)|A-26]] Invader
 
 ;Aircraft of comparable role, configuration and era

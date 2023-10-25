@@ -53,7 +53,7 @@ As mentioned above, the T-80BVM also benefits from the typical low silhouette Ru
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 Overall mobility is good, it can easily keep up with most top-tier MBTs.
 
-{{tankMobility|abMinHp=1937|rbMinHp=1106}}
+{{tankMobility|abMinHp=1937|rbMinHp=1106|AoAweight=1|weight=47}}
 
 === Modifications and economy ===
 {{Specs-Economy}}

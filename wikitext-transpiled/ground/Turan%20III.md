@@ -1,11 +1,13 @@
 {{Specs-Card
 |code=it_43m_turan_3
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian medium tank {{Battle-rating}} in the Italian research tree. It was introduced in [[Update "Sons of Attila"]] as part of the Hungarian branch of the Italian tech tree.
+
+The 43M Turán III was a Hungarian medium tank of World War II. It was developed from the [[Turan II|41M Turán II]] Hungarian medium tank, as Hungary needed tanks that were able to better deal with the well-armoured Soviet [[T-34 (Family)|T-34s]] and [[KV-1 (Family)|KV-1s]] that Hungary was fighting on the Eastern Front. The Turán III was equipped with a long barrel 75 mm 43.M gun that could effectively deal with the well-armoured Soviet tanks, unlike the short barrel 75 mm gun of the Turán II. To house this large and powerful gun, the Turán III had a new, larger turret than the Turán II. The Turán III also had significantly more armour than the Turán II.
 
 == General info ==
 === Survivability and armour ===
@@ -35,9 +37,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-r
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=403|rbMinHp=230}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,8 +50,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-r
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|43.M (75 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[43.M (75 mm)|75 mm 43.M]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -60,10 +59,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-r
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 32 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 32 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 7.67 || rowspan="2" | 6.78 || rowspan="2" | 6.25 || rowspan="2" | 5.90
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 8.9 || 10.5 || 12.8 || 14.1 || 15.0
 |-
 |}
 
@@ -81,10 +80,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-r
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 ! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''32''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''32''' ||27&nbsp;''(+5)''
+| 21&nbsp;''(+11)'' || ''15 (+17)'' || ''9 (+23)'' || 1&nbsp;''(+31)'' || __
 |-
 |}
 
@@ -93,15 +92,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-r
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|34/40M (8 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
-
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[34/40M (8 mm)|8 mm 34/40M]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 3,200 (100) || 900 || - || -
 |-
 |}
 
@@ -111,13 +108,25 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-r
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* Powerful gun; can easily destroy any target it faces with one well-placed shot
+* Gun is quite stable, making firing on the move easier
+* Good gun depression
+* Excellent mobility
+* Incredible reverse speed; can reverse as fast as it can go forwards
+* Has smoke grenades
+* Has mesh side skirt armour on the turret and hull which protects against HEAT and HE projectiles
+* Armour can be surprisingly effective, despite not being particularly thick
+* 5 crew members and spaced-out ammo racks mean higher survivability
 
 '''Cons:'''
-*
+
+* Large profile
+* Turret traverse speed is not very fast
+* Armour is not very strong and reliable
+* Only 32 rounds of ammunition means you may run out and need to replenish
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -131,15 +140,34 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian medium tank {{Battle-r
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+'''Related development'''
+
+* [[Turan (Family)|Turán (Family)]]
+* [[Turan I|Turán I]]
+* [[Turan II|Turán II]]
+* [[Zrinyi I|Zrínyi I]]
+* [[Zrinyi II|Zrínyi II]]
+
+'''Other Hungarian vehicles'''
+
+* [[Csaba]]
+* [[Toldi IIA]]
+
+'''Similar vehicles'''
+
+* [[Pz.IV H]]
+* [[Pz.IV J]]
+* [[Pz.IV G]]
+* [[Chi-Nu II]]
+* [[Chi-To]]
+* [[Chi-To Late]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

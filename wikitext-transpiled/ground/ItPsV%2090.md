@@ -124,16 +124,14 @@ When facing what it has been intended for - aircrafts, the radar system can dete
 * 35mm cannons are effective against aircraft and light vehicles, as well as most tanks from the side
 * Better hull protection than most SPAA at its tier
 * Commander override for turret for last-ditch retaliation 
-
-*
+* Very versatile compared to the VEAK 40, its speed, tracks, and API-T/APDS rounds means it's faster than many light tanks at its tier and can take on medium tanks frontally. 
 
 '''Cons:'''
 
 * Very unprotected turret rated only for rifle-caliber bullets
 * Huge profile, can be spotted from afar (4.82 m vs 3 m on Leopard 2 series)
 * Relative short radar search range at only 12 km
-
-*
+* Struggles at taking out air targets beyond 2-3km unless using precious ammo (generally APDS maxes out at ~4km). Lack of proximity shells compared to the VEAK 40 means unpredictable moving targets are very hard to hit
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

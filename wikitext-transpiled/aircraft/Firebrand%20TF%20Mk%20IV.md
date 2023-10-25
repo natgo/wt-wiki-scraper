@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]].
 
-The Firebrand can be considered as a British [[P-47]]. With extremely heavy armament as well as a respectable secondary load, the Firebrand is foremost a strike aircraft, then a fighter. Carrying 4 fast-firing and high-capacity Hispano Mk.V cannons, the Firebrand Mk IV can rip through all aircraft at its BR and all "soft" ground targets with ease. The torpedo options allow anti-ship capabilities, and conventional bombs effectively destroy ground targets.
+The Firebrand can be considered as a British SB2C. With extremely heavy armament as well as a respectable secondary load, the Firebrand is foremost a strike aircraft and then a fighter only if the situation calls for it. Carrying 4 fast-firing and high-capacity Hispano Mk.V cannons, the Firebrand Mk IV can rip through all aircraft at its BR and all "soft" ground targets with ease. The torpedo options allow anti-ship capabilities, and conventional bombs effectively destroy ground targets.
 
 == General info ==
 === Flight performance ===

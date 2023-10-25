@@ -192,6 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9D Sidewinder missiles
 * 2 x AIM-9G Sidewinder missiles
@@ -213,8 +214,23 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-End}}
 
 == Usage in battles ==
-<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' --><blockquote>"A quick assassin, right between the Kfir Canard and Kfir C.7"</blockquote>The Kfir C.2, being a derivative of the [[Mirage 5 (Family)|Mirage family]] and a step between the other Kfirs, it naturally plays rather similar. The J-79 engine and delta wings make it achieve stunning speeds both on the deck and at altitude (up to ~1450 kph IAS), as well as give it great angle of attack (AoA) capability, but employing the latter requires one to slow down below the transsonic regime, not least to not compress and to avoid ripping off the wings. This does however make it drastically bleed speed. It is thus advised to stay fast and employ "hit and run" tactics, preying on unsuspecting enemies with the impressive [[Python 3]] missile, only chosing to turn with an opponent when not faced with a hostile 3rd party capitalizing on your low energy state. Even with such a powerful engine, it takes time to recover the lost speed, and coupled with the delta wing characteristics, getting slow is a gamble to carefully consider and long dogfights should always be avoided. Another thing to keep in mind is the high fuel consumption and low amount of fuel the Kfir can carry into battle (max. 27 minutes).
+
+==== Air Realistic Battles (RB) ====
+The Kfir C.2 is a plane that really needs to be played to its strengths to succeed, not least because its drawbacks otherwise end up being fatal. (see above)
+
+There are a few ways to play the Kfir, whether it be darting in and out early on, loitering on the edges to pick off isolated foes or bombing bases; all of them have one thing in common. "speed".
+
+In order to achieve good results, it is generally advisable to stay at a high speed to avoid being an easy target for a missile or a plane slipping onto one for a gunkill. The low countermeasure count only emphasizes this; most missiles can be dealt with via raw speed and shallow turns, leading the missile to turn harder than the plane and losing energy much quicker, until it falls out of the sky. The Kfir is no stranger to altitude and goes even faster up high, but only after the initial phases of the battle it's safe to climb. Radar guided weaponry is rather scarce when facing a downtier, but one should always be careful, as a moment of neglect can turn into a trip to the hangar in no-time.
+
+The Kfir C.2 excels at both baiting enemies for your team or squadmates, as well as support them in turn. Staying behind an opponent is not recommended, as this usually leaves you slow, tunnel-visioned and generally an easy target for enemies. The excellent missiles it gets are limited to only two, so making them count is essential. Prioritization of high value targets, such as the later mentioned planes, to hit with the potent missiles, if possible, is recommended, as these will prove difficult to deal with later and up close. Always remember your fuel though, it might pay off to not use the afterburner while commuting to the battle.
+
+==== Major Threats ====
+Generally speaking, the Kfir can tangle with any foe, only having to fear the likes of the [[F-5E]] and [[F-8E]], as these will usually handle overshooting quite well and climb away whilst the delta winged jet sits below, unable to recover its speed in time. Additionaly, the [[F-8E]] can generally keep up with it and when facing them, one needs extra effort and time to lose them.
+
+By far the biggest threat are 4th generation fighters [<nowiki/>[[F-16 (Family)]], [[MiG-29]], [[F-14 (Family)]], and [[Mirage 2000 (Family)]]], as they outperform the Kfir in more or less every single aspect. They are rarely matched with it, however, in a maximum uptier they can still be encountered in small numbers. The best defence against them is to have your team in vague proximity to help you; outside of that, the Lion Cub can only defend itself for so long, given the opponent does not make any fatal mistakes.
+
+* ''Extra Tip:'' you can turn off your radar-rangefinder by pressing your "radar lock" button. It otherwise warns the enemy, annoys your teammates and is only useful to slave your IR missiles to a target 5-7km in front of you.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -222,10 +238,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 '''Pros:'''
 
 * Very fast acceleration
-* Good manoeuvrability
-* Turns hard
+* Very high top speed
+* Turns tight
 * Hard-hitting 30 mm autocannons
 * Python 3 missiles have a high G limit, very good range and acceleration
+* Versatile suspended armament with ballistic computers
 
 '''Cons:'''
 
@@ -233,7 +250,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * No flaps
 * Below average roll rate
 * 30 mm cannons have slow muzzle velocity
-* It can rip its wings at low altitude
+* It can rip its wings at high speed and excessive G-loading
+* Low countermeasure count (36)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -264,6 +282,8 @@ Kfir_C.2_WTWallpaper005.jpg
 ;Related development
 
 * [[Mirage 5 (Family)]]
+* [[Kfir Canard]]
+* [[Kfir C.7]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

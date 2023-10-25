@@ -10,8 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli strike aircraft {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The A-4E Early (A4D-5) was part of the revision that improved the previous Skyhawk variants. It featured the J52-P-6A engine, which had better fuel consumption while also providing much more thrust. Other improvements included more hardpoints and new computers for navigation, bomb dropping, and more. The A-4E also marked the beginning of the new naming system for the Skyhawk. The "Early" versions of the A-4E lack the iconic "humpback" behind the cockpit, which houses more electronics. It also lacks the improved J52-P-8 engine. During the Yom Kippur War, Israel was losing Skyhawks at an astonishing rate, which led to 25+ A-4E Skyhawks being transferred over. 
 
+The '''{{Specs|name}}''' Skyhawk was introduced in [[Update "Winged Lions"]] and can be seen as a worse version of the premium [[A-4E (Israel)|A-4E]]. The A-4E Early most importantly, lacks the J52-P-8A engine found in the A-4E, which provides an 8% increase in thrust. Other than that, it is very similar to the regular A-4E. The A-4E Early comes armed with the standard two 30 mm DEFA cannons mounted in the chin as well as two [[AIM-9B Sidewinder|AIM-9B Sidewinders]]. The Sidewinders are quite useful for forcing opponents to lose energy/speed and picking off slow targets. The A-4E Early also has 60 countermeasures, which allow for 30 drops. It's very useful against Sea Vixens, and in uptiers where missiles like the [[AIM-9G]] and [[R-60]] are prevalent.
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}

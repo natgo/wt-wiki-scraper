@@ -96,18 +96,38 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="3.5%" | 1 !! width="3.5%" | 2 !! width="3.5%" | 3 !! width="3.5%" | 4 !! width="3.5%" | 5 !! width="3.5%" | 6 !! width="3.5%" | 7 !! width="3.5%" | 8 !! width="3.5%" | 9 !! width="3.5%" | 10 !! width="3.5%" | 11 !! width="3.5%" | 12 !! width="3.5%" | 13
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_P-47D-25.png]]</div>
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| || || || 1 || || || 1 || || || 1 || || ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || 1 || || || 1 || || || 1 || || ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || 1 || || || || || || 1 || || ||
+|-
+! [[HVAR]] rockets
+| 1 || 1 || 1 || || 1 || 1 || || 1 || 1 || || 1 || 1 || 1
+|-
+| colspan="14" | Maximum permissible weight imbalance: 680 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 1 x 500 lb AN-M64A1 bomb (500 lb total)
-* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-* 2 x 1,000 lb AN-M65A1 bombs + 1 x 500 lb AN-M64A1 bomb (2,500 lb total)
 * 10 x HVAR rockets
-* 10 x HVAR rockets + 1 x 500 lb AN-M64A1 bomb (500 lb total)
-* 10 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-* 10 x HVAR rockets + 2 x 1,000 lb AN-M65A1 bombs + 1 x 500 lb AN-M64A1 bomb (2,500 lb total)
+* 3 x 250 lb AN-M57 bombs (750 lb total)
+* 3 x 500 lb AN-M64A1 bombs (1,500 lb total)
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

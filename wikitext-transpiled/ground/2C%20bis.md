@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French heavy tank {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''Char 2C bis''' is an experimentally modified [[2C|Char 2C]] that primarily differs in its main armament. Following a decision made in December 1922, a standard Char 2C was modified at La Seyne from 1923 to 1926 and designated Char 2C bis, an experimental super-heavy tank with a 155 mm Schneider 155 C howitzer in a rounded cast steel turret. The main armament had a muzzle velocity of 200 m/s. The three separate machine gun positions were removed and more powerful Soutter-Harlé engines were installed. The tank weighed around 74 tonnes in this configuration. The modification was only temporary, as this experimental super-heavy tank was returned to its original state after 1934.
 
-Often called a "super heavy" tank, the 2C bis is a modification of the FCM 2C. It differs from the standard 2C primarily in that it mounts a cast turret housing a 155 mm howitzer. It also lacks the machine gun mounts on the sides of the vehicle.
+Introduced in [[Update "Apex Predators"]], the Char 2C bis has a playstyle comparable to the Char 2C. However, since the reload time is substantially longer than most adversaries it will face during combat, players need always make every shot count in this experimental super-heavy tank. Despite being a super-heavy tank, its armour is not thick enough to stop the majority of tank rounds fired at it. Staying behind the frontlines and acting as artillery is a feasible strategy, but due to the low velocity of the ammunition, this is extremely challenging for inexperienced players. Always be aware of your surroundings and stay close to allies to prevent being isolated and overwhelmed by enemies.
 
 == General info ==
 === Survivability and armour ===

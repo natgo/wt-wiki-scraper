@@ -189,7 +189,7 @@ The Lancaster was designed by Roy Chadwick and first flew on 9th January 1941; e
 
 The Lancaster's long, unobstructed bomb bay enabled it to carry the largest bombs the RAF used (including 4,000, 8,000, 12,000 and - when modified - 22,000 lb bombs). Because of this, it soon became the most widely used British bomber of World War II.
 
-No. 617 squadron famously used modified Lancasters during Operation Chastise in raids dams in the Ruhr Valley using Barnes Wallace's Upkeep Mine (or "Bouncing Bomb" as it became known as). This gave 617 squadron the nickname "The Dambusters", sparking the creation of a film by the same name.
+No. 617 squadron famously used modified Lancasters during Operation Chastise in dam raids in the Ruhr Valley, using Barnes Wallace's Upkeep Mine (or "Bouncing Bomb" as it became known as). This gave 617 squadron the nickname "The Dambusters", sparking the creation of a film by the same name.
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}

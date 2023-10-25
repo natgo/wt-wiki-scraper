@@ -5,18 +5,22 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]].
+The ''Impetuoso''-class of destroyers are the first Italian destroyers built after World War II. The ship uses a modified hull design of the World War II-era ''[[RN Comandante Margottini|Comandante Margottini]]''-class as a basis, albeit incorporating design elements from the American ''[[USS Gearing|Gearing]]''-class destroyer, namely various surplus armaments from the US Navy and fire control system along with similar compartment layouts, giving the ship better survivability and operational range to suit the need of the ''Marina Militare'' at the cost of mobility.
+
+Introduced in [[Update "Sons of Attila"]], the {{PAGENAME}} could be considered a toned down version of the American ''[[USS Gearing|Gearing]]''-class, primarily due to her armaments of four 5-inch dual-purpose cannons in two fully traversable dual turrets. Although the {{PAGENAME}} offers more consistent firepower improvements compared to the wartime Italian destroyers, she does still have some shortcoming stemming from her origin of a modified design that holds her back, in particular her (lack of) protection for critical modules, so care must be taken to minimize their exposure.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+The {{PAGENAME}} features a spread out compartmented layout that distributes modules and crew quarters evenly along the fairly large hull of the ship. This allows the ship to contain the damage from concentrated fire better than its peers. The large crew count of 335 distributed evenly on the ship also allows the {{PAGENAME}} to stay afloat longer than other destroyers at its BR.
+
+However, the use of hull space on the {{PAGENAME}} as armour also leaves the fatal flaws in the form of unprotected critical modules. Due to an even distribution of compartments, this left the Italian engineers no other place to put the auxiliary magazine but the questionable midship position between the engines. This auxiliary magazine can be easily detonated from the broadside angles, potentially causing chain detonation with the torpedoes that are stored directly above it, which may result in uncontrollable flood damage. The rear main magazine of the stern turret is also equally vulnerable, as it sits barely below the waterline. Because of this, angling is a must in the {{PAGENAME}} to minimize the exposure of these weakspots.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
+While the {{PAGENAME}} features respectable top speed of 79 (AB)/65 (RB) km/h, due to her large hull and displacement, the ship is noticeably more sluggish to manoeuvre than its peer. This is especially apparent during acceleration/deceleration process, as the ship takes longer to shift between each speed and to traverse around.
 
 {{NavalMobility}}
 
@@ -30,7 +34,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rat
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|5 inch/38 Mk.12 (127 mm)}}
 
-''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
+The {{PAGENAME}} features 4 x 5-inch (127 mm) Mk.12 cannons as the main armaments. The guns are mounted in enclosed twin turrets with one each on the bow and stern. The guns have an impressive fire rate of 22 rounds per minute (~2.7-second reload) with 25-round first stage ammo racks, and 15 rounds per minute (4-second reload) after depleting the ready racks. The turret is fully traversable with good handling, thus allowing the {{PAGENAME}} to effectively engaging both surface and aerial enemies on both sides of the ship. At her BR, these guns are more than capable of quickly eliminating opponents, and provide consistent firepower against early cruisers that she might have to face in uptiers.
+
+Being standard-issued guns of the US Navy, the {{PAGENAME}} also has access to the standard US destroyer ammunition: a basic and potent HE shell with 3.2 kg of TNT equivalent filler, an HE-VT shell with the same characteristics as the HE shell but with a variable time fuse that will detonate within close proximity of any aircraft, a "common" SAP shell with respectable penetration and filler, and a "special" SAP shell which has improved penetration in exchange for somewhat reduced filler. As a premium ship, all of these shells are unlocked by default, so the HE-VT shell should be your "go-to" shell, as it is effective against both surface and aerial targets, being able to deal the same external damage as the standard HE shell against enemy vessels while also being deadly against enemy aircraft. Due to having less penetration but slightly more filler, the "common" shell is somewhat more effective at dealing internal damage against destroyers compared to the "special" shell, but will lose its effectiveness against cruisers at mid-to-long range. Therefore, the "special" shell can be considered for versatility, especially in uptier matches.
 
 {{:5 inch/38 Mk.12 (127 mm)/Ammunition|5 inch AAC Mk.34, 5 inch Common Mk.32, 5 inch SP Common Mk.46, 5 inch AAVT Mk.31}}
 
@@ -39,7 +45,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rat
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|Bofors L/60 Mark 1 (40 mm)|Bofors L/60 Mark 2 (40 mm)}}
 
-''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
+For anti-air defense, the {{PAGENAME}} features 16 x Bofors autocannons mounted in four dual mounts and two quadruple mounts placed along the port and starboard sides of the midship section. The Bofors provide excellent anti-air firepower at short-to-medium ranges and offers good resistance against small PT boats, though due to the placement of the guns, it has a large blindspot around the bow of the ship at close range, thus leaving the ship vulnerable from attacks coming at this angle.
+
+Meanwhile, each Bofors mounts is equipped with a search-and-tracking air radar with decent scan rate. This works well in conjunction with the main guns' HE-VT rounds to take down enemy aircraft at longer ranges.
 
 * '''Universal:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 * '''40 mm HE clips:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
@@ -60,13 +68,19 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rat
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+* Fairly survivable for a destroyer due to large hull size and crew count
+* Four 5-inch dual purposes cannons offers steady damage output for its BR
+* Both main turrets are fully traversable with good turn rotation speed, giving the ship additional flexibility
+* Has access to an air search-and-tracking radar
+* Good anti-air coverage at longer ranges
 
 '''Cons:'''
-*
+* Large and heavy in displacement, fairly sluggish to manoeuvre for a destroyer
+* Virtually no armour protecting the critical components, especially ammo racks on the midship and stern
+* Has only four torpedoes mounted in fixed tubes
+* Placement of dedicated AA armaments leaves several blindspots around the ship at close range
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

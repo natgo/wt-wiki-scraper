@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The Magach 6 was the Israeli designation for the M60 tanks, while more advanced variants like the M60A1 were called Magach 6A. The Magach 6 was acquired as a response to new Soviet made threats like the T-62 and it's powerful 115mm cannons. The Magach 6 was fielded to the troops after arriving to Israel in 1971 and was liked by it's crew thanks to the extra firepower and it's mobility. However it's lack of protection against chemical weapons like ATGMs and RPGs was evident during the Yom Kippur War, were it suffered very heavy losses.
+
+It was introduced in [[Update "Wind of Change"]]. The Magach 6 is the same as an M60 tank, it relies on it's good gun and rounds rather than on mobility or armour. The M68 gun and it's APDS round specially can one shot most opponents, the HEAT-FS round meanwhile is better to deal with slightly armoured targets like SPAA and artillery. The improved turret in the M60 allows the gun to have better depression so try to use that to your advantage when pushing trough cliffs and mountains. Lastly, the Magach 6 lacks any sort of ERA common in future Magach tanks, so it's a good idea to stay behind and not in the frontlines, since most APDS and HEAT-FS projectiles would penetrate your armour.
 
 == General info ==
 === Survivability and armour ===
@@ -91,6 +93,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 |}
 '''Notes'''
+
 * Shells are modelled to deplete in groups of two or three
 * The last shell in rack 2 is grouped with the last shell in rack 3, and only disappears once rack 3 is depleted
 
@@ -151,7 +154,13 @@ With the Magach 6 lacking a HMG, it will be hard to shoot down air targets with 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+Israel had a big history using American made M48 tanks, however this tanks proved unsufficient to combat more modern threats like the T-62 fielded by the Arab nations with it's powerful 115mm gun. Thus, the IDF adressed this issue acquiring some of the best tanks at the time, the M60 and M60A1 tanks.
+
+The M60 was designated Magach 6, with 150 units bought and delivered in 1971 at port Haifa. Some M60A1s (Magach 6A) were also acquired in the following years. Compared to the M48 Patton and it's different versions in Israeli service, the M60 included a much more powerful gun, specifically, a 105mm M68 cannon. This gun was also fitted in older M48 models modified to use the new gun, however in this version it had a better depression angle, with (-10/+20 degrees) and more ammo capacity (63 rounds maximum) 
+
+These upgrades were allowed thanks to a new turret that also replaced the old commander sight using a 50.cal HMG in a separate turret. The Israeli soldiers loved the new vehicle and it's mobility, even tough it used the same engine as older Sho't and Magach models, the 750hp Continental AVDS-1790-2A engine. 
+
+The Magach 6 suffered heavy losses in the Yom Kippur War of 1973, issues came to light like the burning hydraulic fluid issue that affected all M60 tanks and caused reliability problems, however the biggest issue was the poor crew protection, with half of the Magach tanks (including M48s) being lost in the war. The new turret, hull and armour proved more safe than that in the M48, but many examples were lost to ATGMs and RPGs used by Egyptian forces, which led to the development of ERA kits for future models.   
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

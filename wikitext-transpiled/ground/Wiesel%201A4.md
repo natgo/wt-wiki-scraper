@@ -104,10 +104,11 @@ The armour is very thin throughout the vehicle, only able to protect from shrapn
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Wiesel 1A4 is small, light and thus has great acceleration, which can help you to get to positions early and to arrive at capture points before the enemies. Given its very low profile, it can hide behind almost everything and can provide support for the team. The Wiesel 1A4 is very lightly armoured, thus it should not be used to attack enemies face-to-face and it should be where fire support is available because the Wiesel 1A4 cannot effectively destroy a medium tank on its own. The 20 mm is effective against lightly armored vehicles, but it has low post-penetration damage, so it's not as useful against medium tanks. It is very effective if used as a spotter because it has Gen 3 thermals at 7.0, and with its low profile, it is hard to be spotted. As for anti-aircraft purpose, it has limited elevation of 45 degrees that hinders its performance, but the gun makes quick work of any low flying aircraft. Although beware when using the Wiesel in this role as the firing will gives away your position.
+The Wiesel 1A4 is small, light and thus has great acceleration, which can help you to get to positions early and to arrive at capture points before the enemies. Given its very low profile, it can hide behind almost everything and can provide support for the team. The Wiesel 1A4 is very lightly armoured, thus it should not be used to attack enemies head-on but instead act as an intelligence vehicle for the team, scouting and marking enemies on the minimap for your teammates. The Rh202 20 mm is effective against lightly armored vehicles, but it has low post-penetration damage, meaning you may need to aim for specific components to do significant damage. It is very effective if used as a spotter because it has Generation 3 thermals at 7.0, something essentially no other vehicle at its BR can boast, and with its low profile and high mobility it gets around the map extremely effectively. As for anti-aircraft purposes, its limited elevation of 45 degrees can hinder its performance, but the gun makes quick work of any low flying aircraft that fly within your elevation range. With this much scouting, the Wiesel 1A4 can also work as an effective segway into an aircraft, as you can scout enemies constantly while hiding in unorthodox spots and lead your teammates to the unsuspecting enemies in front of you. It is especially effective in uptiers, as you may feel that your other vehicles may not handle opponents of a higher BR bracket, and thus want to support the team via aircraft or helicopters instead. 
 
-In conclusion, the Wiesel 1A4 has a rather passive playstyle, which is to rush a capture point, and to eliminate any opposing light tanks, and then hide behind some cover and spot as much as possible, shoot down low flying planes, and if any lightly armored targets are present, then they should also be taken out.
+Another useful ability is the fact that the Wiesel 1A4 is equipped with a Laser Rangefinder (LRF). This allows the Wiesel to precisely determine the range to a target and automatically elevate its gun barrel, letting your shots connect with very little margin for error. This has two main uses - the first, to hit light targets such as enemy SPAAs ([[ZSU-23-4]]s, [[ZSU-37-2]]s, [[ZSU-57-2]]s and [[M163]]s among many others) or IFVs ([[M3]], [[BMP-1]]s and [[BMP-2]]s) with pinpoint accuracy at range, to reduce the chance of enemy return fire. The second is in a squad, where you may team up with vehicles such as the [[Centurion Mk.5 AVRE]] to gauge the precise distance to a target using your LRF, allowing your squadmate to lob a shell with lethal accuracy with your help. This, however, may require some pre-planning between the two users before the match and will only come into play with careful coordination. 
 
+In conclusion, the Wiesel 1A4 has a rather passive playstyle, with very limited anti-tank options. You can rush a capture point early on with your mobility, find a well-protected hiding spot and scout enemy targets for your team before getting into an aircraft after dying, or try and support your teammates more directly by flanking aggressively with the APDS belt to shred enemy IFVs and light tanks, disable the barrels, tracks and engines of heavier armor and shoot down the occasional aircraft or helicopter (the latter of which can be LRFed for better precision). In premade squads it can also be an effective battle coordinator for the squad with its good thermal vision sights, small size, scouting and laser rangefinder. 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -116,18 +117,20 @@ In conclusion, the Wiesel 1A4 has a rather passive playstyle, which is to rush a
 * Excellent acceleration and mobility
 * Good anti-air capability
 * Low profile, can hide in small areas
-* Its 20 mm has a high rate of fire
-* Access to 3rd generation thermals, night vision and a laser rangefinder
+* High rate of fire on the Rh202 20mm
+* Access to 3rd generation thermals, the DM63 APDS belt and a laser rangefinder
+* Can scout enemy targets
+* Effective firepower against lighter enemy targets
+*High utility 
 
 '''Cons:'''
 
-* Almost no armour
-* Can't penetrate tanks reliably
+* Paper-thin armour
+* Lacks consistent anti-tank abilities against contemporary enemies
 * Low post-penetration damage
-* Turret can't rotate a full 360°
-* Its gun heats up quite quickly
-* Poor gun elevation compared to other SPAA
-* The rounds don't have a lot of range, maximum effectiveness is around 1,500 - 2,000 meters
+* Non-360° turret
+* Gun overheats relatively quickly
+* Poor gun elevation compared to other SPAAs
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

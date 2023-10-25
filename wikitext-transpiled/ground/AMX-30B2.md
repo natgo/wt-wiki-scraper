@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]].
+The '''AMX-30B2''' is the first upgraded subvariant of the [[AMX-30 (1972)|AMX-30B]], which is the second variant of the [[AMX-30 (Family)|AMX-30 main battle tank family]]. Due to transmission reliability problems, the French Army began upgrading its tank fleet to AMX-30B2 standards in 1979, which included a new transmission, a new Hispano-Suiza HS-110-S2 diesel engine, and the introduction of the new OFL 105 F1 armour-piercing fin-stabilised discarding sabot (APFSDS) ammunition. A laser rangefinder and thermal imaging equipment are also included for the gunner. The AMX-30B2 entered service in 1982. A total of 700 units were upgraded to this standard.
 
-The vehicle follows the conventional western tank design of the mid Cold War with four crew members and a 105 mm gun. It has good armour on the UFP that can bounce some weaker shells but the sides, rear and top are very weak, making the vehicle highly vulnerable to air attacks and SPAA fire even from a distance. It has good acceleration, mobility, and firepower. Its turret resembles that of the T-54 series from the sides due to its rounded shape, so be careful in SB and check twice before firing at this tank because you may hit your ally if you do not pay enough attention. This can prove both to be an up and a downside depending on who's actually making the mistake.
-
-This vehicle has the particularity to throw the usual 7.62 or .50 co-axial MG away for a powerful rapid firing 20 mm autocanon that can be elevated up to 40° that fires HEFI-T and HVAP-T projectiles with a penetration up to 57 mm at close range and against flat armour. This weapon is very useful to deal with light enemy tanks that are rushing you since this gun will simply wreck them, especially if they show their flanks. This gun is also very effective at taking down attacking aircraft that would be crazy enough to rush straight at you or pass you by at low altitude and low speed. At last, this gun can destroy walls, trees and every obstacles you may encounter. The AMX-30B2 also has an unmatched firepower at its BR. Its 105 mm gun fires both the OCC 105 G1 shell found on the first AMX-30, but also the dreaded and powerful OFL 105 F1 which is nothing less than the second most powerful APFSDS shell in the battle rating bracket. The AMX-30B2 is also the only medium tank that has access to thermal imaging device at this battle rating. Unlike passive IR sight that can only be used during night times, thermal imaging allows you too see within the infrared spectrum even during bright day conditions! Even though its device is a first generation one, every enemy tanks will be glaring in your sight and all you will have to do is to pick them off with your powerful gun. The thermals are a very powerful tool at this BR, giving its users a tremendous advantage. This particular configuration simply tells you all about this tank, just like in real life where it used its superior detection and acquisition devices to engage and destroy targets from afar, you should simply do the same in the game by staying back and supporting your team from afar using your laser rangefinder, thermal imaging system and your powerful APFSDS to outrange and delete enemies from a distance.
+Introduced in [[Update 1.75 "La Résistance"]], the AMX-30B2 offers slightly more protection than its predecessor, the AMX-30B. Nonetheless, due to the lack of a two-plane fully automatic stabilization system, players must play more cautiously than tanks from other nations at this rank. Firing on the go and/or after a short stop is risky in this tank in the event of a sudden encounter with an enemy vehicle. As a result, the French AMX-30B2 is best suited to roles such as support tank, long-range sniper, or flanker. You cannot expect to drive straight into battle and come out victorious in this tank. On most urban or city maps, it is preferable to avoid conflict hotspots. Since most tanks in other countries feature a two-plane stabilization system, you must play much more cautiously and attentively in these types of environments. Simply moving attentively and being aware of your surroundings will save your life in a scenario like this. You can also ambush your opponent by patiently waiting for someone to appear in front of you and then quickly repositioning yourself. On the other hand, the AMX-30B2 is the only tank at its rank that has access to thermal imaging equipment. Thermal imaging equipment allows players to easily identify adversaries in the infrared spectrum even when it is dark. Despite the fact that the thermal imaging equipment is of the first generation, detecting enemy tanks will be much easier.
 
 == General info ==
 === Survivability and armour ===
@@ -212,6 +210,7 @@ AMX-30B2 had the opportunity to fire in anger during the first Gulf War in 1991 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_30_b2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -223,9 +222,11 @@ AMX-30B2 had the opportunity to fire in anger during the first Gulf War in 1991 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[AMX-30 (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[M60A1 (AOS)]]
 
 == External links ==

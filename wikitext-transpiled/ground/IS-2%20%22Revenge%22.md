@@ -77,7 +77,7 @@ It was discontinued after the [[wt:en/news/4684-vday-victory-day-discounts-en/|2
 |}
 
 ==== Ammunition ====
-{{:D-25T (122 mm)/Ammunition|BR-471, BR-471B, OF-471}}
+{{:D-25T (122 mm)/Ammunition|BR-471, OF-471, BR-471B, BR-471D}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_IS-2.png|right|thumb|x250px|[[Ammo racks]] of the IS-2]]

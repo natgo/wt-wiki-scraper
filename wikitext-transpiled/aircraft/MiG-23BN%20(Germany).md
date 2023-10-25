@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO: Flogger-H) is a rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+Following adoption of the MiG-23B ground-attack variant of the [[MiG-23 (Family)|MiG-23]], Mikoyan OKB quickly set out to modernize and upgrade the aircraft where possible. The first of these many upgrades was the MiG-23BN variant, with the main difference being the usage of the Type 3 wings of the MiG-23ML and an upgraded variant of the R-29 engine. The BN variant saw almost no use with the Soviets, instead being a very popular export model to both Warsaw Pact and Third World customers. During the mid-late '70s, the East German airforce received 18 MiG-23BNs, especially modified by removal of the dielectric fairings, and received without any countermeasure dispensers. These aircraft would serve in the forefront of the ground attack roles alongside the [[Su-22M4 (Germany)|Su-22]] aircraft used by the East German air force.
 
-MiG-23BN was based on its previous model MiG-23B which a dedicated attacker, where MiG-23B was based on the airframe of 1st generation MiG-23S interceptor. While it looks exactly like previous MiG-23s in-game, all the bombs, AGMs, and rocket pods will certainly tell another story to the targets on the ground while excelling at fast speed to leave the combat area. Alternatively, it can take down aircraft with its gunpods and a similar mobility to the MiG-23 interceptor variants.
+The '''{{Specs|name}}''' (NATO: Flogger-H) is a dedicated ground attack variant of the MiG-23, introduced in [[Update "Drone Age"]] to the German tech tree. It lacks any form of countermeasures, guided ordnance, or air-to-air missiles, but do not let this deter you, as in air battles, the aircraft is not only very versatile and fast (having the flight performance of the MiG-23s at a far lower battle rating), but with the ability to take gunpods and outrun almost every enemy it faces, it is a force to be reckoned with when used in the fighter role at its battle rating. The aircraft also shines in mixed battles, where it can use its ballistic computer to accurately rain bombs and small-calibre rockets over a wide area, or precisely pick enemy tanks off using the powerful [[S-24B]] rockets, accurately aimed using the CCIP computer. All in all, the MiG-23BN is an aircraft that appears bad on paper at first and turns away many players, but those who truly master its playstyle in both air and ground battles are heftily rewarded with a very fearsome aircraft.
 
 == General info ==
 === Flight performance ===
@@ -187,6 +187,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 800 l drop tank
 * 2 x Kh-23M missiles
 * 64 x S-5K rockets

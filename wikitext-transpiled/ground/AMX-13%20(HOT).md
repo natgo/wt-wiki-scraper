@@ -10,13 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]].
+The '''AMX-13/75 FL-10 (HOT)''' is the fourth subvariant of the [[AMX-13|AMX-13/75 FL-10]], which is the first variant of the [[AMX-13 (Family)|AMX-13 light tank family]]. Except for the six HOT anti-tank guided missiles (ATGMs) installed on two launchers next to the turret, it is similar to the standard AMX-13/75 FL-10. The HOT (Haut subsonique Optiquement Téléguidé Tiré d'un Tube) is a second-generation long-range ATGM. It was designed to replace the older SS.11 wire-guided ATGMs used in French and West German service. The design was created in partnership with the German company Bölkow and the French company Nord. HOT ATGMs have a greater range, higher flight speed, and are semi-automatically guided rather than manually guided like SS.11 ATGMs. It has become one of the most successful missiles in its class, with tens of thousands of missiles manufactured, utilized by more than a dozen countries throughout the world, and deployed in several wars.
 
-At its current battle rating, the AMX-13 (HOT) can definitely do some serious damage, even to top-rank MBTs and (as of 1.81) helicopters too. The six HOT ATGMs are enough to penetrate almost any conventional armour on direct hit, and may even penetrate the [[T-64B]]'s upper glacis with ERA in place if hit it directly, though strong NERA screen might be too much for it. All six missiles can be fired in short succession, although only the one fired last can be controlled.
-
-This makes it a viable tank destroyer, but, unlike any of the MBTs, it cannot take a hit and survive. Even certain machine guns and aircraft cannons are capable of destroying it easily. Use its spotting ability to alert your team to enemies, and try to guide ATGM into a critical spot, like crew or ammo, since ATGM can overpenetrate.
-
-Just remember: AMX-13s only have six ATGMs, after that, it is using a conventional gun, firing solid shot AP, which technically can ammo rack tanks like T-64 and T-80 from the side, but it's not a guaranteed kill.
+Introduced in [[Update 1.75 "La Résistance"]], the AMX-13/75 FL-10 (HOT) features the same playstyle as the standard AMX-13/75 FL-10. This light tank is exceptionally fast and agile, but it does it at the expense of its armour. However, this light tank encounters far more advanced opponents than its predecessor, the [[AMX-13 (SS.11)|AMX-13/75 FL-10 (Char Lance SS.11)]]. As a result, despite being a light tank with a powerful main gun, it struggles to penetrate most adversaries in combat. Instead, it must rely on the six HOT ATGMs to eliminate foes at great ranges. The HOT ATGMs are incredibly effective against even the most protected opponents. It is recommended that it be used as a long-range tank destroyer, with its superior ATGMs picking off enemies over great distances. The primary armament should be used only when the enemy is revealing its sides without paying attention.
 
 == General info ==
 === Survivability and armour ===
@@ -231,6 +227,7 @@ The AMX-13 HOT was a prototype made by AMX featuring HOT launchers and ATGM as a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_13_hot Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -242,6 +239,7 @@ The AMX-13 HOT was a prototype made by AMX featuring HOT launchers and ATGM as a
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same missile
+
 * [[RakJPz 2 (HOT)]]
 
 == External links ==

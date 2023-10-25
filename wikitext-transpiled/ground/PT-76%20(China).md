@@ -14,6 +14,8 @@ The '''PT-76 (плавающий танк, plavayushchiy tank, or ПТ-76)''' is
 
 Introduced in [[Update 1.91 "Night Vision"]], the PT-76, as one of the first tanks to be armed with HEAT-FS, has little issue dealing with heavily armoured adversaries at any range. However, due to the restrictions of the main gun's calibre, post-penetration damage can be insufficient, necessitating additional shots. Nonetheless, it is a great asset to the Chinese Army's ground forces, which contributed to the development of the Type 63 amphibious light tank.
 
+In [[Update "La Royale"]], the tank was hidden from the Chinese ground vehicles tree and is no longer available for research, though it will remain available for players who have researched and purchased the unit. Its place in the vehicle tree was replaced by the [[Object 211]].
+
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}

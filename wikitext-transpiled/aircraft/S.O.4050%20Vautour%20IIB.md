@@ -161,7 +161,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-There are two ways you can go about using the Vautour IIb, either dive or keep your altitude from your air spawn.
+Vautour IIb has very good acceleration, after takeoff side climb to 5000 m. From there you have two options,
 
 ;Diving
 
@@ -195,6 +195,7 @@ The other way of using the Vautour IIb is by keeping your altitude and climbing 
 * Massive target
 * No offensive armament
 * 110% will easily overheat your engines after short use
+* Lack countermeasures
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

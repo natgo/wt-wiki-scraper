@@ -13,13 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a squadron rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}''' was a specialised version of the Hawker-Siddeley Harrier, designed for naval operations. It joined the Royal Navy of the United Kingdom in 1978 and gained fame for its role in the Falklands War in 1982, where it defended the fleet from enemy aircraft attacks with great success. Despite being vastly outnumbered, the Sea Harriers shot down 21 Argentinean planes without losing any of their own, a remarkable accomplishment that demonstrated the superiority of the aircraft. In a subsequent upgrade, the Sea Harrier FRS.1 was equipped with a 2x2 Aim-9L configuration, further enhancing its air combat capabilities.
 
-The Sea Harrier FRS.1 was a navalised variant of the Hawker-Siddeley Harrier. Entering service with the United Kingdom's Royal Navy in 1978, it went on to earn fame for its engagements during the Falklands conflict in 1982 against the Argentinian air forces.
-
-The Sea Harrier is available as an option for rank VII through unlock as a squadron vehicle. It can present experienced pilots familiar with the GR.1/3 with a further improvement in the form of deadly AIM-9L Sidewinder missiles and a unique position as the only model of Harrier in-game with a search radar. Ultimately, the Sea Harrier builds on the strengths of the Harrier GR.3 with improved air-to-air combat capability. However this comes at a cost of being heavier and slightly more sluggish than its contemporaries.
-
-All in all, the Sea Harrier can be a powerful opponent in the hands of a veteran pilot and provides an almost preparatory experience for the Harrier GR.7.
+The {{Specs|name}} was introduced in [[Update "Apex Predators"]]. The Sea Harrier is available as an option for rank VII through unlock as a squadron vehicle. It can present experienced pilots familiar with the GR.1/3 with a further improvement in the form of deadly AIM-9L Sidewinder missiles and a unique position as the only model of Harrier in-game with a search radar. Ultimately, the Sea Harrier builds on the strengths of the Harrier GR.3 with improved air-to-air combat capability. However this comes at a cost of being heavier and slightly more sluggish than its contemporaries. All in all, the Sea Harrier can be a powerful opponent in the hands of a veteran pilot and provides an almost preparatory experience for the [[Harrier GR.7]].
 
 == General info ==
 === Flight performance ===
@@ -92,7 +88,7 @@ Comparatively, the Sea Harrier turns more sluggishly than contemporary Harriers,
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | Rolls-Royce Pegasus Mk.103 || 1
+| colspan="2" | Rolls-Royce Pegasus Mk.104 || 1
 | colspan="2" | 6,258 kg || colspan="3" | 462 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -101,7 +97,7 @@ Comparatively, the Sea Harrier turns more sluggishly than contemporary Harriers,
 ! Weight (each) || colspan="2" | Type
 ! 9m fuel || 20m fuel || 30m fuel || 33m fuel
 |-
-| 1,640 kg || colspan="2" | Vectored-thrust low-bypass turbofan
+| 1,650 kg || colspan="2" | Vectored-thrust low-bypass turbofan
 | 6,959 kg || 7,661 kg || 8,363 kg || 8,593 kg || 11,409 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
@@ -191,6 +187,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9G Sidewinder missiles
 * 2 x AIM-9L Sidewinder missiles
@@ -260,10 +257,10 @@ Your cannons are also effective at destroying ground targets which can provide e
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;[[Harrier (Family)|Other Harriers:]]
+* [[Harrier GR.1]]
+* [[Harrier GR.3]]
+* [[Harrier GR.7]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

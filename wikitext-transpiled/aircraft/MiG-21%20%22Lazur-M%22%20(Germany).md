@@ -10,10 +10,9 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (Izdeliye [Product] 75A; NATO "Fishbed-L") is a premium gift rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->In the mid 1970s, the East German Airforce would start recieving their first [[MiG-21bis]] aircraft, to update their fighter-interceptor fleet from the aging [[MiG-21MF (Germany)|MiG-21MF]]<nowiki/>s and PFMs. East Germany would recieve exactly 46 of the type, with 14 of them being the "Fishbed-L" variant, equipped with the Lazur-M GCI (Ground Controlled Intercept) guidance system. The other 32 would be the "Fishbed-N" variant, equipped with the Polyot-OI guidance system instead. To diffrenciate the two variants, the aircraft recieved unique names in East German service, being called the '''MiG-21bis Lazur-M''' and the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]] respectively.
 
-A version of the [[MiG-21bis]] with a homeland air-defense datalink system (Lazur-M); although the name may sound fancy, the jet itself is essentially yet another MiG-21bis. Like the other variants in East German and Soviet service, it is equipped with a powerful engine and varieties of weaponry for different occasions, capable of both intensive air-intercept missions or simple ground-attacking missions with unguided weapons.
+Introduced in [[Update "Apex Predators"]] as the first Rank 7 pack premium for the German tech tree, the '''{{Specs|name}}''' may sound like it has a fancy name, but is virtually identical to its tech tree brother, the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]], with the only difference between these aircraft being the type of guidance system used, which has no effect on the plane or its gameplay in War Thunder. Like its tech tree copy, the MiG-21bis Lazur still very much plays as you would except from the Fishbed family; that being the ability to hit hard and fast against unsuspecting targets, and punishing most aircraft that decide to dogfight you at high speeds. The Lazur-M, just as with the other Fishbeds of this battle rating, relies alot more on its great flight performance and strong engine providing quick acceleration to win its engagements, rather than relying on its avionics, radar, and missile selection, which are underwhelming compared to its adversaries at this tier.
 
 == General info ==
 === Flight performance ===
@@ -206,7 +205,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+Using the speed of the MiG-21's interceptor role and design is key to success in this aircraft. Utilising a "Boom-and-Zoom" playstyle is most effective, however the MiG-21 does have an ace up its sleeve: it turns remarkably well, you can confidentially turn with F-5 Tigers in it. However, the drawback of having small wings is that you lose a lot of your energy when turning, quite like the F-5. In short, play mainly as a Boom-and-Zoom fighter, but use your AoA (Angle of attack in relation to airflow/direction) to your advantage in those tight situations. Always be wary of F-5's as they can pose a threat to your playstyle as they match it and as per usual keep an eye out for those missiles.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -235,6 +235,7 @@ The default livery in game is Red 872 (build no. 75033151) of JG (Jagdfliegerges
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-21_bis_lazur Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -243,6 +244,7 @@ The default livery in game is Red 872 (build no. 75033151) of JG (Jagdfliegerges
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[MiG-21 (Family)]]
 
 == External links ==

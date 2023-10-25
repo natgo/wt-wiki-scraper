@@ -75,7 +75,7 @@ The Panther II boasts the excellent 88 mm KwK43 with its notably punchy PzGr 39/
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 50 || rowspan="2" | -8°/+15° || rowspan="2" | ±180° || rowspan="2" | N/A || 11.4 || 15.8 || 19.2 || 21.2 || 22.6 || rowspan="2" | 11.05 || rowspan="2" | 9.78 || rowspan="2" | 9.01 || rowspan="2" | 8.50
+| rowspan="2" | 50 || rowspan="2" | -8°/+15° || rowspan="2" | ±180° || rowspan="2" | - || 11.4 || 15.8 || 19.2 || 21.2 || 22.6 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
 | 7.1 || 8.4 || 10.2 || 11.3 || 12.0

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British twin-engine fighter {{Battle-rating}}. It was introduced in [[Update 1.71 "New E.R.A."]].
+The DH.103 Hornet was a twin engine fighter developed by the de Havilland Company as a successor to the DH.98 Mosquito. The aircraft was introduced into the RAF at the end of World War II with the intention of being used in the Pacific Theatre against the Japanese Empire. It had notably long range, which was an excellent choice for covering large portions of land and sea in the colonies far from Europe. The aircraft was also used in strike missions during the Malayan Emergency, and it served from 1946-1956. The Hornet Mk.III was the most common variant of the Hornet with a total of 132 built.
+
+Introduced in [[Update 1.71 "New E.R.A."]], the Hornet sits at a BR where it can face both jets and very high-performance piston engine fighters. Common threats for the Hornet are the P-51H, the Bf 109 K, and early jets such as the F-80C and F-2H Banshee. The Hornet starts with an air defence fighter spawn. This allows the Hornet to climb to very high altitudes from the beginning of the match and have a good position from which start diving into enemies. The Hornet lacks an airbrake, but also has a hard time gaining speed past 750 km/h, this is very helpful to avoid being pursued by other props, since you can stay in a dive much longer than them. The Hornet also has very good high speed handling and it will pull high G turns at those speeds without any problem. But it is still a very large aircraft and not very manoeuvrable compared to a single engine fighter, so staying fast and high is its best bet.
 
 == General info ==
 === Flight performance ===
@@ -135,6 +137,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 8 x AP Mk I rockets
 * 8 x AP Mk II rockets

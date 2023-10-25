@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
+In 1983, the RAF began upgrading its Jaguars with new avionics and engines, resulting in the GR.1A variant. A key upgrade was the Ferranti FIN 1064 navigation system, which significantly improved navigational capabilities with its INS and new computer. The GR.1A also featured Adour Mk. 104 engines, offering increased thrust and performance over the original GR.1 model’s engines. This resulted in better speed, manoeuvrability, and combat performance. Additional upgrades included provisions for countermeasure and targeting pods, as well as improvements in IFF and radio fit. The {{Specs|name}} proved its mettle during the Gulf War in 1991, where it played a major role in various missions including close air support, interdiction, and reconnaissance.
+
+The {{Specs|name}} was introduced in [[Update "Ground Breaking"]]. While having similar flight performance to its predecessor, it is significantly better in terms of CAS and air-to-air combat. Its biggest advantage over the previous version is the addition of Mk. 13 GBUs, which come with a TIALD targeting pod. Moreover, it gets access to countermeasures that significantly enhance its defensive capabilities, and make the Jaguar a formidable opponent in both air-to-ground and air-to-air engagements.
 
 == General info ==
 === Flight performance ===

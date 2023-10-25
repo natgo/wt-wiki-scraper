@@ -14,9 +14,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American naval fighter {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]].
+The F6F-5N was built to be a night fighter from the regular F6F-5. A Westinghouse AN/APS-6 radar was fitted to the right wing that served well in very low visibility conditions. The main differences between the 5 and 5N were the ability of the 5N to carry two 20 mm cannons and four 12.7 mm machine guns and the addition of the radar. Other than that, the F6F-5N was virtually identical to the F6F-5. The F6F-5N also had the same 2,000 hp Wright R-2800-10W engine found in the F6F-5. Because it was basically the same aircraft, the F6F–5N did have worse performance due to the added drag and weight of the radar and cannons. Nonetheless, the ability to comfortably carry out night patrols and missions was worth the performance hit.
 
-The F6F-5N (N stands for Night fighter variant) is the late variant of the Grumman F6F-5 Hellcat. Despite being a somewhat less agile and fast variant, this F6F is distinctly capable thanks to the combination of cannons, heavy machine guns, and the addition of a search radar while keeping the ability to provide ground and sea support with highly menacing payloads. It can defend itself admirably against no matter what; in skilful hands of course. An efficient jack-of-all-trades!
+The '''{{Specs|name}}''' was introduced in [[Update 1.65 "Way of the Samurai"]]. The F6F-5N's main differences between the F6F-5 are the weaponry changes and the addition of the radar. The addition of two 20 mm cannons is a big step up due to the sheer stopping power of the 20 mm rounds. With high-explosive rounds, players can easily take down enemy fighters and bombers. The F6F-5N also retains the ground ordnance loadout of the F6F-5 which is ample with a mix of bombs, rockets, and even torpedoes. On the other hand, the Hellcat has less than stellar flight performance. It struggles in vertical manoeuvres and in sustained turns. However, it does have favourable high-speed characteristics and has an excellent structural limit of 803 km/h (501.9 mph).
 
 == General info ==
 === Flight performance ===
@@ -135,16 +135,42 @@ The 20 mm AN/M2 cannons will dramatically increase the firepower and lethality o
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M65A1 (1,000 lb)|HVAR|Tiny Tim|Mk.13-6 Case (2,216 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_F6F-5.png]]</div>
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || 1 || || 1 || || ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || 1 || || 1 || || ||
+|-
+! [[HVAR]] rockets
+| 1 || 1 || 1 || || || || 1 || 1 || 1
+|-
+! [[Tiny Tim]] rockets
+| || || || 1 || || 1 || || ||
+|-
+! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
+| || || || || 1 || || || ||
+|-
+| colspan="10" | Maximum permissible loadout weight: 1,814 kg<br>Maximum permissible weight imbalance: 680 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 6 x HVAR rockets
 * 2 x Tiny Tim rockets
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-* 2 x 1,000 lb AN-M65A1 bombs + 6 x HVAR rockets (2,000 lb total)
 * 1 x 2,216 lb Mk.13-6 Case torpedo
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

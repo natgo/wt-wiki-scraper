@@ -17,7 +17,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Sons of Attila"]], brings a ne
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 12,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -26,10 +26,10 @@ The '''{{Specs|name}}''', introduced in [[Update "Sons of Attila"]], brings a ne
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2261 || 2216 || rowspan="2" | {{Specs|ceiling}} || 23.1 || 23.5 || 257.5 || 244.8 || rowspan="2" | 750
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2442 || 2347 || 21.9 || 22.5 || 346.1 || 300.0
 |-
 |}
 
@@ -79,7 +79,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Sons of Attila"]], brings a ne
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Klimov RD-33 || 2
-| colspan="2" | 11,670 kg || colspan="3" | 431 kg/m<sup>2</sup>
+| colspan="2" | 11,670 kg || colspan="3" | 435 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -226,7 +226,19 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+'''Air Combat'''
+
+While the MiG-29SMT has reduced maneuverability from the added fuel tank, its still extremely strong in air combat.
+
+When it comes to BVR, the MiG-29SMT dominates with the R-27ER missiles that have long range and acceptable overload, and its powerful radar that has a lot of special features and acceptable range.. This, along with the new SPO-150 RWR that increases situational awareness by giving information about the exact vehicle that's pinging the MiG-29SMT, makes it perfect for BVR combat.
+
+In close range, this fighter is strong too. It carries the R-73, which is an extremely effective heat-seeking missile with 40G overload and great range for its type. You'll want to use it in unpredictable ways where the enemy won't expect it to track reliably to avoid being flared away by using the missile's wide gimbal limits.
+
+'''CAS (Close Air Support)/Ground Attack'''
+
+The MiG-29SMT has amazing ground ordnance that allows it to take down ground targets reliably. The TV guided KAB-500Kr-E bombs are incredibly useful, enough to take down several tanks with ease when multiple bombs are dropped. And if you mix the TV guided bombs with the new and improved Kh-29TD air-to-ground missiles, it becomes the perfect aircraft to attack ground targets while remaining viable as a fighter.
+
+You can also select traditional dumb bombs and rockets that, if used with precision, can be lethal to anything that crosses their path.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -235,6 +247,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Incredibly versatile weapon systems; some of the best air-to-air missiles in-game
 * Very effective radar, IRST, and HMD targeting systems
+* Unlike its predecessor, it has an improved digital RWR that increases awareness.
 * Great upgrade in CAS capabilities over its predecessors
 * "Rita" voice warning system
 
@@ -271,10 +284,8 @@ The MiG-29SMT (9.19) would first take to the skies in 2006, with deliveries to t
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8460-development-mig-29smt-strike-from-beyond-the-horizon-en|[Devblog] MiG-29SMT: Strike From Beyond The Horizon]]
 
 {{AirManufacturer MiG}}
 {{USSR jet aircraft}}

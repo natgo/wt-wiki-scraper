@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French dive bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The A-35B had its beginnings in the Vultee Model 72 in 1940. It was primarily developed for the French Air Force as a dive-bomber but the fall of France put a stop to that. The Model 72 was a unique design for dive bombers as the wings prevent the aircraft from straying off target during a dive-bombing run. After the Pearl Harbor attack, the US acquired many A-31s and Model 72s and later birthed the A-35 “Vengeance”. The A-35 had a better engine and other changes for flight performance. France would later receive almost 70 A-35A/Bs during the lend-lease program. 
+
+Introduced in [[Update 1.73 "Vive la France"]], the '''{{Specs|name}}''' is a fairly decent ground striker. It has three different loadouts for bombs with the best one being the four 500 lb bomb loadout. The Vengeance also has six M2 Browning machine guns with 375 rounds per gun; which means that the A-35B has an impressive 30 seconds of trigger time. This is more than enough to take out light pillboxes and soft ground targets. In addition, the A-35B comes armoured with three steel plates that protect the crew and oil cooling system. Unfortunately, the A-35B lacks in defensive fire with only a single 12.7 mm turret in the rear. 
 
 == General info ==
 === Flight performance ===

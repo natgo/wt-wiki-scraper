@@ -6,8 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American bomber {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]], during the [[wt:en/news/4648-special-war-thunder-chronicles-en/|2017 World War Two: Chronicle]] event, unlocked after obtaining 6 Chronicle Awards.
+The Lockheed PV-2 "Harpoon" was a significant development from the PV-1 "Ventura". The Harpoon, much like the name implies, was intended for maritime duties. One of the biggest complaints about the PV-1 was its lacklustre takeoff performance. To fix that, the PV-2 featured a longer wingspan to increase lift. Further modifications included more provisions for fuel, the removal of the bombardier's position, and other air frame changes. The R-2800-31 Double Wasp engine was kept in place from the Ventura. Performance was expected to be a bit worse except for range and take-off due to the extra fuel provisions and wing change. During initial testing, it was found that the wings would wrinkle, and another completely new redesign was needed to fix the issue. After the problem was remedied, the PV-2 Harpoon was quite popular within service and was also exported to other countries like Brazil and New Zealand. 
 
+The '''{{Specs|name}}''' was introduced in [[Update 1.67 "Assault"]] as a reward for the [[wt:en/news/4648-special-war-thunder-chronicles-en/|2017 World War Two: Chronicle]] event. It is quite a rare aircraft but packs a much more powerful punch compared to its predecessor, the B-34 "Lexington". It features a much larger bomb load capacity, more defensive armament, and an incredible eight offensive 12.7 mm machine guns. Unfortunately, the Harpoon does not receive late-war .50 cal belts. However, it does receive two belts (stealth and universal), which have a belt composition of 4 out of 5 rounds being incendinary or AP-I. With its bomber spawn and flight performance, players can easily bomb targets before switching to attack other enemy bombers or fighters. Thanks to its flaps, the Harpoon can turn tight, which can surprise many enemy fighters. Overall, the PV-2D Harpoon is an excellent aircraft due to its numerous capabilities.
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -102,13 +103,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 6 x 250 lb AN-M57 bombs (1,500 lb total)
 * 8 x HVAR rockets
-* 8 x HVAR rockets + 6 x 250 lb AN-M57 bombs (1,500 lb total)
-* 8 x HVAR rockets + 1 x 2,216 lb Mk.13-6 Case torpedo
 * 1 x 2,216 lb Mk.13-6 Case torpedo
-* 8 x HVAR rockets + 6 x 500 lb AN-M64A1 bombs (3,000 lb total)
-* 8 x HVAR rockets + 6 x 1,000 lb AN-M65A1 bombs (6,000 lb total)
-* 8 x HVAR rockets + 6 x Type A Mark I mines
-* 8 x HVAR rockets + 2 x Tiny Tim rockets
+* 6 x 500 lb AN-M64A1 bombs (3,000 lb total)
+* 6 x 1,000 lb AN-M65A1 bombs (6,000 lb total)
+* 6 x Type A Mark I mines
+* 2 x Tiny Tim rockets
 * 4 x 12.7 mm M2 Browning machine guns (340 rpg = 1,360 total)
 
 Note: Gunpods are fired separately from nose armaments if fired via '''"Additional guns"''' keybinds.
@@ -198,6 +197,7 @@ After the war, the Venturas and its variants were eventually declared obsolete. 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=pv_2d Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -209,6 +209,7 @@ After the war, the Venturas and its variants were eventually declared obsolete. 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[B-34]]
 * [[Hudson Mk V (Great Britain)]]
 

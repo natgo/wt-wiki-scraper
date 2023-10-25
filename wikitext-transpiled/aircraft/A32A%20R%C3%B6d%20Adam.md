@@ -1,3 +1,8 @@
+{{About
+|about= premium Swedish strike aircraft '''{{PAGENAME}}'''
+|usage= other versions
+|link= SAAB 32 Lansen (Family)
+}}
 {{Specs-Card
 |code=saab_a32a_red_adam
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -24,10 +29,10 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Swedish strike aircraf
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | 900
+| 1,088 || 1,084 || rowspan="2" | {{Specs|ceiling}} || 34.6 || 35.6 || 44.7 || 41.8 || rowspan="2" | 900
 |-
 ! Upgraded
-| 1,101 || 1,094 || 33.6 || 34.0 || 66.2|| 55.0
+| 1,101 || 1,094 || 33.6 || 34.0 || 66.2 || 55.0
 |-
 |}
 
@@ -77,28 +82,28 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Swedish strike aircraf
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Svenska Flygmotor RM5A || 1
-| colspan="2" | 8,322 kg || colspan="3" | 297 kg/m<sup>2</sup>
+| colspan="2" | 8,322 kg || colspan="3" | 294 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br>Weight
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
 ! 13m fuel || 20m fuel || 30m fuel || 44m fuel
 |-
 | 1,350 kg || colspan="2" | Afterburning axial-flow turbojet
-| 9,209 kg || 9,523 kg || 10,123 kg || 11,142 kg || 13,500 kg
+| 9,151 kg || 9,568 kg || 10,191 kg || 11,084 kg || 12,992 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
 ! colspan="5" | Thrust to weight ratio @ 0 m (WEP)
 |-
 ! Condition || 100% || WEP
-! 13m fuel || 20m fuel || 30m fuel || 44m fuel || MTOW
+! 13m fuel || 20m fuel || 30m fuel || 44m fuel || MGW
 |-
 | ''Stationary'' || 3,424 kgf || 4,633 kgf
-| 0.50 || 0.49 || 0.46 || 0.41 || 0.34
+| 0.51 || 0.48 || 0.45 || 0.42 || 0.36
 |-
-| ''Optimal'' || 3,424 kgf<br>(0 km/h) || 4,899 kgf<br>(1,000 km/h)
-| 0.53 || 0.51 || 0.48 || 0.44 || 0.36
+| ''Optimal'' || 3,424 kgf<br>(0 km/h) || 4,908 kgf<br>(1,160 km/h)
+| 0.54 || 0.51 || 0.48 || 0.44 || 0.38
 |-
 |}
 
@@ -174,6 +179,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 24 x psrak m/49B rockets
 * 24 x srak m/51 rockets
@@ -195,9 +201,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -212,17 +220,20 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+
+* [[SAAB 32 Lansen (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer Saab}}
 {{Sweden jet aircraft}}
 {{Sweden premium aircraft}}

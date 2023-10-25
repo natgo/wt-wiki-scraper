@@ -1,7 +1,7 @@
 {{About
 | about = SPAA '''{{PAGENAME}}'''
-| usage = the other version
-| link = ZSU-23-4
+| usage = the other versions
+| link = ZSU-23-4 (Family)
 }}
 {{Specs-Card
 |code=il_zsu_23_4
@@ -144,11 +144,7 @@ Missile-equipped aircraft are the greatest threat to your existence. They are ca
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-'''Similar role in USSR'''
-
-* [[BTR-ZD]]
-
-'''Analogues on other nations'''
+'''Analogues in other nations'''
 
 * [[M163]]
 * [[SIDAM 25]]

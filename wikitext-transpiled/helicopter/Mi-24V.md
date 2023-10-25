@@ -74,11 +74,44 @@ The YaK-B gatling gun is a straight upgrade to the A-12.7 machine gun used by th
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|GSh-23L (23 mm)}}
-{{main|9M114 Shturm|R-60|R-60M|S-8KO|S-24}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || || 1 || 1 || ||
+|-
+! [[S-8KO]] rockets
+| || 20 || 20 || 20 || 20 ||
+|-
+! [[S-24]] rockets
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[9M114 Shturm]] missiles
+| 2 || 2 || || || 2 || 2
+|-
+! [[R-60]] missiles
+| || 1, 2 || || || 1, 2 ||
+|-
+! [[R-60M]] missiles
+| || 1, 2 || || || 1, 2 ||
+|-
+| colspan="7" | Maximum permissible weight imbalance: 500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x R-60 missiles
 * 4 x R-60 missiles
@@ -91,40 +124,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| || 1 || 1 || 1 || 1 ||
-|-
-! 250 kg OFAB-250sv bombs
-| || 1 || 1 || 1 || 1 ||
-|-
-! 500 kg FAB-500M-54 bombs
-| || || 1 || 1 || ||
-|-
-! S-8KO rockets
-| || 20 || 20 || 20 || 20 ||
-|-
-! S-24 rockets
-| || 1 || 1 || 1 || 1 ||
-|-
-! 9M114 Shturm missiles
-| 2 || 2 || || || 2 || 2
-|-
-! R-60 missiles
-| || 1, 2 || || || 1, 2 ||
-|-
-! R-60M missiles
-| || 1, 2 || || || 1, 2 ||
-|-
-| colspan="7" | Maximum permissible weight imbalance: 480 kg
-|-
-|}
+{{Navigation-End}}
 
 The Mi-24V has a huge arsenal and plenty of hardpoints to support it. The main anti-tank weapon is the 9M114 Shturm ATGM designed specifically for the Hind family. Compared to the Mi-24A's 9M17M Falanga ATGMs, the Shturm has slightly lower penetration in exchange for an extended range of 5 km and more than double the flight speed (550 m/s compared to 230 m/s). In fact, the Shturm is one of the fastest ATGMs in the game, which makes it both easy to aim and effective at dealing with SPAAs. The penetration is underwhelming however, and tanks with ERA and/or composite armour can shrug it off. Up to 8 can be carried in total, and 4 can be carried on the outermost pylons without conflicting with other stores.
 

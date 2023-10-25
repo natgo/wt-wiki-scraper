@@ -1,3 +1,8 @@
+{{About
+| about = premium British medium tank '''{{PAGENAME}}'''
+| usage = the prototype of the Pakistani Al-Khalid MBT
+| link = MBT2000
+}}
 {{Specs-Card
 |code=uk_khalid
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -5,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (FV4030/2), which could be seen as the predecessor of the future FV4030/4 (Challenger 1), was developed as a new MBT mostly for export purpose. By the 1970s, Pahlavi Iran was demanding for a new MBT against its northern neighbors, Afghanistan and the Soviet Union; meanwhile, the British Army was also calling for a new MBT to upgrade the fleet of Chieftains (FV4201) against the menacing Warsaw-Pact forces, especially those stationed in West Germany. As Iran has been a long-time user of the Chieftain Mk.5 with upgraded subsystems, the Pahlavi also planned to import more Chieftains with new FCS and powerplant under the name Shir (Lion, شیر). As the Islamic Revolution put an end to the Pahlavi's throne in 1979, further development of the complete prototype was halted, while domestic upgrades to the fleet of Chieftains also stalled due to the development of the MBT-80. As all the manufactured parts for the Shir needed to be utilised, the British sought for overseas customers and eventually Jordan became the only customer for the newly-upgraded Chieftain, known as the Khalid in their service.
+The '''{{Specs|name}}''' (FV4030/2), which could be seen as the predecessor of the future FV4030/4 (Challenger 1), was developed as a new MBT mostly for export purpose. By the 1970s, Pahlavi Iran was demanding for a new MBT against its northern neighbors, Afghanistan and the Soviet Union; meanwhile, the British Army was also calling for a new MBT to upgrade the fleet of Chieftains (FV4201) against the menacing Warsaw Pact forces, especially those stationed in West Germany. As Iran had been a long-time user of the Chieftain Mk.5 with upgraded subsystems, the Pahlavi also planned to import more Chieftains with new FCS and powerplant under the name Shir (Lion, شیر). As the Islamic Revolution put an end to the Pahlavi's throne in 1979, further development of the complete prototype was halted, while domestic upgrades to the fleet of Chieftains also stalled due to the development of the MBT-80. As all the manufactured parts for the Shir needed to be utilised, the British sought for overseas customers and eventually Jordan became the only customer for the newly-upgraded Chieftain, known as the Khalid in their service.
 
 Introduced in [[Update "Apex Predators"]], the Khalid is a modernized Chieftain Mk.5 with subsystem upgrades to cope with the heat of the Cold War. Thanks to a new 1,200 hp engine, it now enjoys better overall mobility over its predecessors in UK service while utilizing the fire control system from later Mk.10s. However, players have to be aware of its not-so-effective protection, as it lacks any composite armour.
-
-''Note: Khalid (lit. eternal) is a common name in Arabic World and not to be confused with the Al-Khalid MBT from Pakistan (aka [[MBT2000]]/VT-1 in NORINCO catalogue)''
 
 == General info ==
 === Survivability and armour ===
@@ -41,7 +44,7 @@ The Khalid looks exactly like any other Chieftain plus a panoramic periscope wit
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The Chieftain series are known for their rather sluggish mobility and top speed (at only 48 km/h), but in Khalid's case, since the export version for Chieftains opted for the latest Rolls-Royce (later Perkins) CV-12 engine and TN-34 transmission which would eventually used on FV4030 Challengers, this means a vastly improvement on its mobility; not only this can push the tank at a higher top speed at 56 km/h with higher acceleration, it also has a high reverse speed (at -37 km/h), making it surprisingly flexible for enemy encounters.
 
-{{tankMobility|abMinHp=1,860|rbMinHp=1,061}}
+{{tankMobility|abMinHp=1,886|rbMinHp=1,076}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -77,7 +80,7 @@ To conclude, Khalid has rather obsolete firepower for its tier; but aiming caref
 
 * '''L15A3; APDS''' - The most common round for British 120 mm for pre-Challenger tanks and the only kinetic shell option for Khalid. Although it is more than enough to take down most tanks which happen to run into Khalid, but at its current BR where T-64A and T-72A appear, the shell very likely does nothing to them without hitting the LFP or driver's hatch. So aim carefully for a single-shot knock-out as the APDS has lesser spalling.
 * '''L31A7; HESH''' - The other common round for British 120 mm up to this date, the shell itself has rather high penetration for a HESH shell and will very likely disintegrate any light vehicle that happen to run into Khalid. Alternatively, this also gives Khalid the chance to take down tanks with their hatches exposed as the shell "sticks" to the surface and cause extensive damage to the interior of enemy tanks, either from spalling or overpressure.
-* '''L23; APFSDS'''
+* '''L23; APFSDS''' - Although it has been added in later patches after the introduction of Khalid, L23 can be said as the game-changer for Khalid as it finally offers equivalent firepower to its NATO/Warsaw-Pact/PLAGF counterparts with APFSDS. Not only it has sufficient velocity and penetration against tanks at its tier, careful shots on higher tanks can also send them to their kingdom come in one take; this will be the most universal shell for Khalid, but bringing some HESH is always a good idea when facing lightly-protected targets.
 
 {{:Ordnance BL Tk. L11 (120 mm)/Ammunition|Shot L15A3, L34, Shell L31A7, Shot L23}}
 

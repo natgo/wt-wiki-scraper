@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+Following the major upgrades to the MiG-27, which entered service as the [[MiG-27K]] in the late 1970s, the Soviet Air Force requested a cheaper variant to complement the MiG-27K (which was deemed too expensive to field completely). The new cheaper variant was projected to support the MiG-27K fleet at a 2:1 ratio at least, and was developed after the MiG-27K. This new variant, the MiG-27M, would retain the upgrades allowing it to use laser and TV-guided weapons, but would lack the upgraded avionics and advanced Kayra-23 laser-optical targeting system, instead settling on a cheaper and more readily available targeting system taken from the [[Su-17/22 (Family)|Su-17 Fitter family]]. This variant would enter service with not only the USSR, but also many export countries throughout the 1980s.
 
-The MiG-27 series of attacker aircraft are derivatives of the [[MiG-23M|MiG-23]] fighter. While most airframe details are similar, they have new downward-sloping noses with ground attack targeting equipment instead of radars and the air intakes have fixed intake ramps. This MiG-27M variant has access to a wide array of ordnance previously seen on the [[Su-17M2]], such as 500 kg unguided bombs and the Kh-29L laser-guided missile, and new options in the form of the KAB-500 TV-guided bomb and the R-60M all-aspect IR missile. It also has the infamous GSh-6-30 gatling gun with a terrifying burst mass. The MiG-27M is a unique attacker that can defend itself in air combat while raining pain on ground targets through long range precision bomb strikes, close range gun runs, and many things in between.
-
-MiG-27 enthusiasts can look forward to the succeeding [[MiG-27K]] with laser-guided bombs and improved targeting systems.
+The '''{{Specs|name}}''', introduced in [[Update "Direct Hit"]], is a major upgrade in Soviet fighter-bomber aircraft over its predecessors. For starters, this aircraft finally brings guided ordnance to the hands of players working down the bomber line in the Soviet tech tree, and it does so well. With an assortment of various TV and laser-guided weapons, and the powerful ''"Gasha"'' [[GSh-6-30 (30 mm)|GSh-6-30]] rotary cannon (an aircraft-mounted [[30 mm/54 AK-630 (30 mm)|AK-630]] naval CIWS), the MiG-27M proves very reliable at dispatching ground targets with high precision in mixed battles. Unlike other dedicated precision strike aircraft, the MiG-27 family does not sacrifice its air combat capabilities that much either; having the basic airframe from a MiG-23BN, a decent amount of large countermeasures, and a complete loadout of [[R-13M1]] and [[R-60M]] air to air missiles, the MiG-27s can hold their own in a dogfight if the need arises. Pilots who enjoy the MiG-27M's capabilities can look forward to the [[MiG-27K]], which is a major upgrade in the avionics and ordnance department. Players who particularly enjoy the power of the GSh-6-30 cannon and are hungry for more can check out the various naval vessels equipped with the AK-630 CIWS system, including the [[MPK Pr.12412]].
 
 == General info ==
 === Flight performance ===
@@ -227,6 +225,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 800 l drop tank
 * 2 x R-13M1 missiles
 * 4 x R-60M missiles

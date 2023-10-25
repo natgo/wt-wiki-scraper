@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British self-propelled anti-aircraft gun {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]].
+The '''Tank, Light, Anti-Air Mark I''' is a special modification of the first variant of the Tank, Light, Mark VI family. The Tank, Light, Mark VI was the sixth in the families of light tanks constructed by Vickers-Armstrongs for the British Army between World Wars I and II. The Tank, Light, Anti-Air Mark I was built in the aftermath of the Battle of France to counterattack air raids by German aircraft and dive bombers. It has a power-operated one-crew turret with four 7.92 mm BESA light machine guns.
 
-This tank makes for a good entry-level anti-aircraft vehicle; good speed, manoeuvrability and a devastating short to medium range AA weapon. This vehicle should be used in the rear echelon of an assault, watching the skies for incoming bogies. However, the real ace is that the guns trade accuracy for sheer volume of fire, filling the skies with a hailstorm of bullets that can discourage bandits from lining up on an attack run. However, anything beyond effective range won't be struck down effectively.
+Introduced in [[Update 1.79 "Project X"]], the Tank, Light, Anti-Air Mark I is an extremely vulnerable vehicle, players must take care not to expose themselves to hostile fire. Take care to position yourself so that you are not observed by enemy ground vehicles, and keep an eye out for enemy aircraft. Due to the low velocity of the ammunition, players need to wait until the enemy plane is reasonably close before opening fire. Be cautious if there is more than one enemy plane, since they may alternately strafe you. Despite being armed with four 7.92 mm BESA light machine guns, the damage is still insignificant, and players may need to score numerous hits to bring down an enemy plane.
 
 == General info ==
 === Survivability and armour ===

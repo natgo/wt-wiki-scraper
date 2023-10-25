@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]]. It is known by many names in the world, with a NATO reporting name of ''Fresco'', the Chinese name [[J-4|''Shenyang J-5 (歼-5)'']], Czechoslovak ''S-104'' and the Polish name ''PZL-Mielec Lim-5''.
+Almost immediately after the MiG-15 entered service, the developement of a successor was already underway. Initially called the MiG-15bis-45, the new aircraft was to rectify one major flaw in the MiG-15 design: The severe vibrations and near-loss of controls when approaching Mach 1. To fix these problems, a new wing shape, airfoil form, and tailplane design were introduced. The results of heavy wind tunnel testing and prototyping by {{Annotation|TsAGI|Central Aerohydrodynamic Institute of Moscow}} resulted in the aforementioned changes exceeding all expectations, and as a result, the MiG-17 would establish itself in history as one of, if not the most, successful transsonic fighter aircraft until the advent of true supersonic airframes such as the [[MiG-19 (Family)|MiG-19]] and [[F-100 (Family)|F-100]]. The MiG-17 was given a trial by fire during the Vietnam War, where it was faced against the far more advanced and newer American fighter-bombers, such as the [[F-4 Phantom II (Family)|F-4 Phantom II]] and the [[F-105D|F-105 Thunderchief]], which to everyone's surprise, were regularly beaten by the MiG-17 in dogfights due to the latter's incredible agility and small size making it hard to hit, and also because early variants of the F4 Phantom II deployed in Vietnam lacked any form of internal guns, an issue the MiG-17 did not suffer from. The MiG-17 became one of the most widely serving fighter aircraft in the world at the time, and as such, garnered many famous nicknames from around the world; with a NATO reporting name of ''Fresco,'' but also affectionately called "''én bạc"'' (Silver Swallow) in North Vietnam, and "''Barmil''" (Barrel) among some Egyptian pilots, in addition to its standardized names from the license produced variants, [[J-4|''Shenyang J-5 (歼-5)'']] in China, ''S-104'' in Czechoslovakia, and the ''[[Lim-5P (Germany)|PZL-Mielec Lim-5]]'' in Poland.
 
-Building off of the successful [[MiG-15]], the {{PAGENAME}} improves performance and handling to be better able to tolerate the higher speeds common in jet combat.
+The '''{{Specs|name}}''', introduced in [[Update 1.55 "Royal Armour"]], is a direct upgrade in development over the previous [[MiG-15 (Family)|MiG-15]]. The MiG-17 does not upgrade much (if at all) in the energy fighting, top speed, or manoeuvring departments. However, the new wing and tailplane design rectify one of the biggest issues in the older MiG-15: the terrible compression nearing transsonic speeds. The MiG-17 still has compression issues at high speeds, although the compression ceiling has been lifted far higher than its predecessor, allowing it to engage in faster combat manoeuvres than the MiG-15. One must however be very wary of advanced air-to-air missiles when flying this aircraft, as when uptiered, the player will regularly be faced with aircraft carrying the all-aspect [[AIM-9L Sidewinder|AIM-9L]] and [[R-60M]] such as the [[A-10A]] and the [[Su-25]], which are an almost guaranteed death sentence to the MiG-17.
 
 == General info ==
 [[File:MiG-17 Cockpit (2022).png|thumb|The '''MiG-17''''s instrument panel.]]
@@ -224,11 +224,13 @@ File:Mig17vf86.png|<small>A MiG-17 after a hard-earned victory over an F-86 Sabr
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[MiG-17 (Family)|Related development]]
+
 * [[MiG-17AS]]
 * [[J-4]]
 * [[Shenyang F-5]]
 
 ;Aircraft of comparable role, configuration and era
+
 * [[F-86 Sabre (Family)|F-86 Family]]
 * [[F9F (Family)|F9F Family]]
 * [[J29 (Family)|J29 Family]]

@@ -58,30 +58,9 @@ The armour protection on the Challenger Mk.3 is excellent in some areas and bad 
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=1,860|rbMinHp=1,061}}
+{{tankMobility|abMinHp=1,886|rbMinHp=1,076}}
 
 The {{PAGENAME}} has an acceptable top speed, however, acceleration and mobility (primarily due to its weight) are lacklustre compared to other MBTs.
-
-{| class="wikitable" style="text-align:center" width="60%"
-|-
-! '''Module rotation speed'''
-! 90 Degrees
-! 180 Degrees
-! 360 Degrees
-|-
-| '''Tank Hull'''
-| 5 Seconds
-| 10 Seconds
-| 20 Seconds
-|-
-| '''Tank Turret'''
-| 3 Seconds
-| 6 Seconds
-| 12 Seconds
-|-
-| '''Test Conditions'''
-| colspan="3" style="text-align:left" |  *Tested with a spaded {{PAGENAME}}, crew at maximum skill, with basic training qualification. Results can vary based on tank research state, crew levels & qualifications.
-|}
 
 === Modifications and economy ===
 {{Specs-Economy}}

@@ -57,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,457 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 555 || 549 || 416 || ~__ || ~__
+| 1,457 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 575 || 549 || 416 || ~11 || ~5
 |-
 |}
 
@@ -81,7 +81,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-ra
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | SNECMA Atar 9K-50 || 1
-| colspan="2" | 8,036 kg || colspan="3" | ___ kg/m<sup>2</sup>
+| colspan="2" | 8,036 kg || colspan="3" | 458 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}

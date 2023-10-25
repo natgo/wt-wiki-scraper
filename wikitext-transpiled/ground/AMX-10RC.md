@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
+The '''AMX-10 Roues-Canon (RC)''' is the first variant of the AMX-10 RC armoured fighting vehicle family. The AMX-10 RX, developed and built by Nexter Systems for armoured reconnaissance purposes, has been equipping French cavalry forces since 1981, with over 240 still in service with the French Army in 2021. Morocco bought 108 units, while Qatar bought 12. The vehicle is best described as a wheeled tank destroyer. It has sometimes also been referred to as a light tank, though this classification is debatable. The AMX-10 RC is armed with a medium-pressure 105 mm F2 BK MECA L/47 tank gun mounted in a three-man GIAT Industries TK 105 turret. A SAMM CH49 electrohydraulic gun control system is used in the turret. The main armament lacks a fully automatic stabilization system. The AMX-10 RC differs from the amphibious AMX-10P in that they share automotive components but serve entirely different tasks on the battlefield. The AMX-10 RC is typically utilized for reconnaissance missions in dangerous areas or to provide fire support for troops.
+
+Introduced in [[Update 1.85 "Supersonic"]], the AMX-10 RC should be employed primarily as a support and sniper tank. Taking the point in the spearhead of an assault would result in getting knocked out due to its lack of armour protection. The AMX-10RC is a powerful sniping vehicle. It is one of the best long-range combat vehicles due to its access to powerful ammunition, thermal imaging equipment, laser rangefinder, and relatively high zoom gunner scope. The AMX-10RC can scout tanks from a distance, directing allies to engage enemies without disclosing your location. Due to its high top speed, strong acceleration, and powerful main armament, it is also ideal for flanking in urban and rural terrain, capable of eliminating multiple tanks before quickly retreating to cover. If required, use smoke to hide your escape route.
 
 == General info ==
 === Survivability and armour ===
@@ -197,6 +199,7 @@ The AMX-10RC also entered service with the nation of Morocco (108 procured) and 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_10rc Skins and Camouflages for the {{PAGENAME}}  from live.warthunder.com.]
 
 ;Videos
@@ -208,6 +211,7 @@ The AMX-10RC also entered service with the nation of Morocco (108 procured) and 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Centauro]]
 * [[Rooikat Mk.1D]]
 * [[AUBL/74 HVG]]

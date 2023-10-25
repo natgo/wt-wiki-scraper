@@ -141,7 +141,7 @@ The HEATFS shell is powerful in terms of penetration, but the post-penetration d
 
 '''Pros:'''
 
-* Powerful HEAT can frontally penetrate even heavily armoured tanks like [[Tiger II (H)]], [[Ho-Ro]], [[Ferdinand]]
+* Powerful HEAT can frontally penetrate even heavily armoured tanks like the [[Tiger II (H)|Tiger II]], [[Ferdinand]], etc.
 * Two-plane gun stabiliser is a huge advantage in sudden encounters and CQC
 * Has night vision device, another advantage in night battles
 * Is amphibious, allowing it to drive in bodies of water for surprise attacks
@@ -164,6 +164,7 @@ The HEATFS shell is powerful in terms of penetration, but the post-penetration d
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_pt_76b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

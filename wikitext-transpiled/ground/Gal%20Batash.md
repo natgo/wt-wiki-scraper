@@ -1,8 +1,3 @@
-{{About
-| about = Israeli medium tank '''{{PAGENAME}}'''
-| usage = other versions
-| link = Magach (Family)
-}}
 {{Specs-Card
 |code=il_magach_6b_gal_batash
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -10,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The Magach 6B Gal Batash was an upgrade present in a small number of Magach 6B Gal tanks, the idea of this upgrade was to increase firepower, protection and improve optics and electronics without affecting the mobility of the tank. The Magach 6B Gal Batash remained in low intensity service, since it was meant to complement the lack of Merkava tanks in rearguard and reserve units. The Magach 6B Gal Batash used the same fire control system as the Magach 6B Gal, that is, the "Gal" fire control system. To combat the added weight, a new engine was installed with 908hp. This model only saw limited production and was considered one of the most modern israeli tanks in service when it came out.
+
+It was introduced in [[Update "Wind of Change"]]. The Magach 6B Gal Batash plays like most M60 tanks that rely heavily in it's fire control system and firepower. Much like other M48/M60 platforms with modernized armour and weaponry like the Magach 7C, the M48 Super, the M60A3 TTS and the CM11, the Magach 6B Gal Batash has a weak engine, with mediocre acceleration, poor reverse speed but being superior to tanks like the T-64 and T-72. This means that it relies on good positioning, target acquisition and precise shots to stay relevant in the battlefield, since it's ofter overshadowed by tanks like the Leopard 1 that are more mobile and multirole thanks to their good mobility. Still the Magach 6B Gal Batash has a good enough armour in the turret, specially to stop tandem shaped warheads and older ATGMs launched from helicopters or IFVs. It's also very resistent against shots from autocannons but APDS and APFSDS projectiles can still go trough it's armour in weak areas.
 
 == General info ==
 === Survivability and armour ===
@@ -142,9 +139,15 @@ The Magach 6B Gal Batash is rather unique compared to other M60 variants, in the
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Gal Batash was a limited-production upgrade for the Magach 6B Gal. It featured 4th Generation composite screens on the turret and side skirts, in addition to ERA blocks on the front of the hull for protection. In the fire control system department, the Magach 6B Gal Batash featured the Gal fire control system, a laser warning receiver, and tracks from the Merkava Mk.1.
+The Magach 6B Gal Batash was a limited production upgrade of the Magach 6B Gal, which in itself was an upgrade to the fire control system and electronics of the Magach 6B. As said earlier, the Magach 6B Gal Batash uses the "Gal" fire control system, also known in international markets as "Matador" which was the name employed by Israel to sell it to outside customers.
 
-Translated from Hebrew, the word "Batash" translates roughly "to be secure".
+The fire control system was the same used in early Merkava tanks, and the objective of this upgrade was to update several Magach tanks, since it was obvious that the Merkava wouldn't be available for all units and many rearguard and reserve units needed more modern tanks in case of conflict with neighbour nations. The Magach 6B Gal Batash incorporated several upgrades but since the electronics and optics remained largely the same, must upgrades were appointed to the protection and crew safety.
+
+With more powerful anti tank guns like guided ATGMs and tandem shaped warheads for RPGs available for militias in Palestine and Lebanon, the Magach tanks and their Blazer ERA were deemed too weak. Thus a new upgrade was planned to deal with this threat. A set of more modern armour developed by the IMI was installed, based in the spaced armour used in Merkava tanks, both composite screens for the turret and side skirts as well as new ERA blocks in front of the hull. Also more mine protection was added in the form of thicker belly and side armour to resist IEDs
+
+Since the tank's weight increased a new powerplant was installed . It received a 908hp version of the older AVDS diesel called AVDS-1790-5A with the same transmission as used on the Merkava MK.1 tank. The suspension was also upgraded, using a lighter one, very similar to the one fitted in the Merkava.
+
+It was called "Batash" an acronym that refers to "Overall Security
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -157,10 +160,10 @@ Translated from Hebrew, the word "Batash" translates roughly "to be secure".
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+
+* [[Magach (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

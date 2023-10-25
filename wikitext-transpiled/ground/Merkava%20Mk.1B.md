@@ -72,7 +72,7 @@ Introduced in [[Update "Wind of Change"]], the Merkava Mk.1B is the first indige
 |}
 
 ==== Ammunition ====
-{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416}}
+{{:Sharir (105 mm)/Ammunition|M152, M156, M111, M416, M413}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_Merkava_Mk.1_(USA).jpg|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

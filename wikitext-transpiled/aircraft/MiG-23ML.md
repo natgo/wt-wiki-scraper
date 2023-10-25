@@ -11,11 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The first generation [[MiG-23M]] (and its export variant, the [[MiG-23MF (Germany)|MF]]) had a lot of shortcomings as was expected from a completely new and unique aircraft design. Over time, the most severe issues were addressed, and a complete rework of the MiG-23 airframe was conducted in the early 1970s. The airframe was completely redesigned in a way that trimmed down the drag and weight, by removing the No.4 fuel tank in the fuselage, cropping the dorsal fin extension, and redesigning the landing gear and wing-sweep mechanisms to be not only lighter, but more robust and reliable, the MiG-23ML (with L standing for "Lyogiky", i.e "Lightweight"). These upgrades were then mated with two other major changes to the MiG-23 airframe. The first being the new Tumansky R-25F-300 engine, increasing the thrust of the aircraft noticably. The other difference, was a complete overhaul of the flight and fire control systems to modern standards, chief of which was the new Sapphire-23ML radar and TP-23M IRST, the latter of which was rated at up to twice the range of its predecessor. The new systems allowed the aircraft to greatly increase its defensive and offensive capabilities, through the ability to use BDS-50-60 countermeasure dispensers and the new R-24 missile, in addition to a few upgrades to the CAS ordnance of the aircraft, namely the ability to use the UPK-23 gunpods.
 
-The MiG-23ML is an upgraded variant of the MiG-23 which was introduced to correct the drawbacks of its earlier variants. The L stands for "lyogiky", (lightweight). As the name suggests, this variant of the aircraft introduced a redesigned airframe with less drag and weight, the strengthening of the wing folding mechanisms to permit a higher G-limit, among other assorted upgrades.
-
-In War Thunder, the MiG-23ML is functionally identical to the [[MiG-23MLA (Germany)]] and is slightly different from the [[MiG-23MLD]]. Overall, the MiG-23ML is a very capable and versatile plane, with a powerful engine and a diverse arsenal of weaponry to choose from. Plus, being a premium plane, you earn twice as many Research Points and Silver Lions, helping you grind the tech tree more swiftly.
+The '''{{Specs|name}}''' is a pack premium introduced in [[Update "Apex Predators"]]. It is functionally identical to the [[MiG-23MLA (Germany)|MiG-23MLA]] found in the German tree, and is slightly different from the [[MiG-23MLD]]. Just like those two aircraft, the MiG-23ML is a very capable and versatile plane, with a powerful engine and a diverse arsenal of weaponry to choose from. The RP-23ML radar is strong for its battle rating, which coupled with the [[R-24R]] and [[R-24T]] missiles, provides a very lethal combination for engaging enemy aircraft at BVR.
 
 == General info ==
 === Flight performance ===
@@ -216,6 +214,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 800 l drop tank
 * 12 x large calibre countermeasures
 * 4 x R-13M1 missiles
@@ -265,6 +264,7 @@ The MiG-23ML is very versatile and has usefulness in nearly every combat situati
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig_23ml Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

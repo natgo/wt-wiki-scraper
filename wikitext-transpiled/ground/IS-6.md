@@ -8,7 +8,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''IS-6''' is the fifth variant of the IS heavy tank family. It was never mass-produced and remained in the prototype stage. There was an effort to develop a replacement for the [[IS-2]] in the closing years of World War II ('The Great Patriotic War' to the Soviets). The IS-6 (Object 252/Object 253) and IS-4 (Object 701) were created as a result of the development process. This effort was highly classified, with two competing factories creating their designs in complete secrecy for fear of exposing knowledge to one another. On paper, the IS-6 appeared to be superior to any tank in Germany's inventory at the time. However, due to mechanical faults and generally poor performance, it was beaten by its competitor during test trials, the [[IS-4M|IS-4]], which entered service in 1946. Despite this, a last-ditch effort was made to improve the IS-6, with minimal success. The improved IS-6 would be known as the Object 252 November improvement, or simply the Object 252U.
 
-Introduced in [[Update 1.67 "Assault"]], the IS-6 is one of the most feared tanks in its ranks, thanks to its strong main armament and incredible mobility packed inside a steeply sloped, thick armour that most conventional ammunition cannot penetrate. This tank may be used in every role and situation, and it will undoubtedly find a place on the battlefield. The IS-6's excellent mobility and reasonable reverse speed allow it to navigate through challenging environments that many other tanks would struggle with. Players familiar with IS heavy tanks will be happy to learn that the IS-6 has superior manoeuvrability when compared to other variants. However, given that the IS-6 lacks the more penetrating BR-471D ammunition, good knowledge of enemy tanks' weak points and precise aiming are sometimes required.
+Introduced in [[Update 1.67 "Assault"]], the IS-6 is one of the most feared tanks in its ranks, thanks to its strong main armament and incredible mobility packed inside a steeply sloped, thick armour that most conventional ammunition cannot penetrate. This tank may be used in every role and situation, and it will undoubtedly find a place on the battlefield. The IS-6's excellent mobility and reasonable reverse speed allow it to navigate through challenging environments that many other tanks would struggle with. Players familiar with IS heavy tanks will be happy to learn that the IS-6 has superior manoeuvrability when compared to other variants.
 
 == General info ==
 === Survivability and armour ===
@@ -65,7 +65,7 @@ If used well, the {{PAGENAME}} can get into position as fast as a T-54. It is ce
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|D-30T (122 mm)}}
 
-The IS-6 features an upgraded version of the [[D-25T (122 mm)|D-25T]] gun found on other IS series variants, the D-30T. Though identical ballistically, it provides a much faster reload, with the IS-6 having a default reload rate only 0.5 seconds longer than the [[T-10M]]. The IS-6 uses the same ammo load as the [[IS-2]] with the best shell being the BR-471B, which means the tank will have trouble against some heavies it may encounter from lacking penetration. In addition, the IS-6 does not have access to the BR-471D, which is usable on the IS-3.
+The IS-6 features an upgraded version of the [[D-25T (122 mm)|D-25T]] gun found on other IS series variants, the D-30T. Though identical ballistically, it provides a much faster reload, with the IS-6 having a default reload rate only 0.5 seconds longer than the [[T-10M]]. The IS-6 uses the same ammo load as the [[IS-3]] with the best shell being the BR-471D.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -84,7 +84,7 @@ The IS-6 features an upgraded version of the [[D-25T (122 mm)|D-25T]] gun found 
 |}
 
 ==== Ammunition ====
-{{:D-30T (122 mm)/Ammunition|BR-471, BR-471B, OF-471}}
+{{:D-30T (122 mm)/Ammunition|BR-471, OF-471, BR-471B, BR-471D}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -129,7 +129,7 @@ The IS-6 features an upgraded version of the [[D-25T (122 mm)|D-25T]] gun found 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,016 (63) || 600 || N/A || N/A
+| Coaxial || 2,016 (63) || 600 || - || -
 |-
 |}
 
@@ -140,7 +140,7 @@ The IS-6 brings about improved mobility characteristics compared to the [[IS-3]]
 
 The role the IS-6 excels at is as a breakthrough vehicle. The IS-6 should take front stage when it comes to assaulting an objective. Its speed and armour can allow the heavy tank to take on enemy fire while on the move as most AP rounds will struggle to penetrate the IS-6 when its armour remains sloped towards the enemy. Make the enemies focus on the IS-6 so teammates can move up and engage the enemies from different angles. Once the enemy focuses on the teammates, move up and assist in taking out the enemy with the IS-6's 122 mm gun.
 
-Firepower is rather lacklustre with the maximum 205 mm penetration at point-blank range, meaning most shots with the IS-6 needs to be carefully aimed towards the enemy's weak points. Combined with the lengthy reload, the first shot the IS-6 takes on an enemy is essential as it may determine the outcome of the engagement. These limiting factors mean that the ideal fighting range for the IS-6 is around 500 metres, as this allows the IS-6 to make the most of the 122 mm gun's penetration and velocity while staying far enough away that the enemy could not quickly rush the IS-6 while it is reloading. Although the reloading weakness can be mitigated by having an escape plan ready so to use the IS-6's mobility to make a tactical retreat.
+Firepower may be rather lacklustre against heavier targets with the maximum 230 mm penetration at point-blank range, meaning shots with the IS-6 need to be carefully aimed towards the enemy's weak points. Combined with the lengthy reload, the first shot the IS-6 takes on an enemy is essential as it may determine the outcome of the engagement. These limiting factors mean that the ideal fighting range for the IS-6 is around 500 metres, as this allows the IS-6 to make the most of the 122 mm gun's penetration and velocity while staying far enough away that the enemy could not quickly rush the IS-6 while it is reloading. The reloading weakness can also be mitigated by having an escape plan ready, so use the IS-6's mobility to make a tactical retreat.
 
 These features make the IS-6 a somewhat good defender as well, taking the role after assaulting an objective. Making use of cover in a capture area, the IS-6 can lock down chokepoints and focus its 122 mm gun down the range, using its mobility to quickly withdraw after a shot. As the IS-6 would be watching in a more stationary role, the gun handling would be more stable so to be able to make longer-ranged shots against enemies attempting to (re)capture the point. Do keep in mind the bad gun depression of only -3°, so the IS-6 is likely to have a good part of its armour exposed when attempting to face the enemy from a defensive position. As stated above, ensure a good escape strategy is formulated so that a bad 122 mm shot doesn't result in the enemy swarming the IS-6.
 
@@ -153,7 +153,7 @@ Facing enemies with HEATFS rounds is a dire situation for the IS-6 as the armour
 
 * Reload rate considerably faster than usual 122 mm, default is only half a second slower than the T-10M
 * The best 122 mm shell available is still manageable due to good overmatching mechanics and tremendous post-penetration damage potential
-** Frontal armour is a 100 mm plate sloped at a very steep angle, making it mostly immune to anything that isn't APDS or HEATFS
+* Frontal armour is a 100 mm plate sloped at a very steep angle, making it mostly immune to anything that isn't APDS, HEATFS or APFSDS
 * Like the IS-3, the lower plate isn't a weak spot
 * Very good as side-scraping due to the high levels of side armour
 * The turret is both small, well-armoured, and rounded
@@ -162,16 +162,15 @@ Facing enemies with HEATFS rounds is a dire situation for the IS-6 as the armour
 * Is very fast and manoeuvrable for a heavy tank
 * Due to the armour, fire rate, and reverse speed, the IS-6 is very good at shoot-and-scoot tactics as well as brawling
 * Has a 12.7 mm pintle-mounted heavy machine gun on the roof
-* Premium vehicle bonuses
 * Due to the top speed, high levels of armour, and firepower, the IS-6 is a more versatile tank than the IS-3
 
 '''Cons:'''
 
-* Can't take the top 122mm shell that the IS-3 can, leaving the IS-6 unable to compete against tanks like the Jagdtiger, M103, and Maus from the front
 * Enemies firing HEAT and APDS are common and can penetrate the IS-6's armour with ease
 * The IS-6 is still very capable of getting the turret front penetrated by tanks like the Tiger II, T29, and Centurion Mk 3
 * Like most Russian heavies, has an abysmal 3 degrees of gun depression, so finding the proper hull down locations is hard
 * The 4-man crew is crammed in a small crew compartment that's full of ammo, and penetrating APHE shell will likely incapacitate the entire turret crew or set off an ammo explosion
+* 7.7 br makes this tank a shell of its former self
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

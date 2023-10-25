@@ -214,6 +214,7 @@ As a CAS aircraft in Ground RB you need to be aware of the airspace conditions b
 * Heavier bomb/AAM loads put massive strain on the wings, flying at high speed or making any sharp turns can rip the wings off very suddenly
 * Stiff elevator handling at high speed, hard to pull off from a high-speed dive
 * Tracer munitions are not available on the Akan m/55 cannons
+* Thrust reversal not available unlike on the SK60
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

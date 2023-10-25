@@ -1,9 +1,7 @@
 {{About
 | about = SPAA '''{{PAGENAME}}'''
-| and
 | usage = other versions
-| link-1 = ZSU-57-2
-| link-2 = ZSU-57-2 (Israel)
+| link = ZSU-57-2 (Family)
 }}
 {{Specs-Card
 |code=sw_zsu_57_2
@@ -158,9 +156,7 @@ Using the 57 mm cannons in an anti-tank role is possible and have been exploited
 
 ;Related development
 
-* [[ZSU-57-2]]
-* [[WZ305]]
-* [[ZSU-57-2 (Israel)]]
+* [[ZSU-57-2 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

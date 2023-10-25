@@ -151,17 +151,17 @@ Keep in mind that the ATGM can only be fired when stopped or at extremely low sp
 === Machine guns ===
 {{Specs-Tank-Weapon|4}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|PKT (7.62 mm)}}
+{{main|Type 86 (7.62 mm)}}
 
-The {{PAGENAME}} comes equipped with a coaxial 7.62 mm PKT machine gun. This is only useful for clearing small obstacles or exposed crew in open-top vehicles.
+The {{PAGENAME}} comes equipped with a coaxial 7.62 mm Type 86 machine gun. This is only useful for clearing small obstacles or exposed crew in open-top vehicles.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[PKT (7.62 mm)|7.62 mm PKT]]
+! colspan="5" | [[Type 86 (7.62 mm)|7.62 mm Type 86]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,000 (1,000) || 700 || - || -
+| Coaxial || 2,000 (250) || 700 || - || -
 |-
 |}
 

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO designation: "Farmer") is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
+The MiG-19S was a special variant of the [[MiG-19 (Family)|MiG-19]], incorporating an all-moving slab tail and the ''Svod'' long-range navigation receiver. It was armed with three 30 mm NR-30 cannons in comparison to the two found on most other models. The MiG-19S entered production in 1956, and was exported to multiple countries shortly after. One of the countries to recieve and use the MiG-19S was Germany, who operated 12 MiG-19S alongside 12 other aircraft of the MiG-19PM variant. The German MiG-19s would serve until 1969, when they were replaced with mid-life models of the [[MiG-21 (Family)|MiG-21]], such as the [[MiG-21 SPS-K (Germany)|MiG-21SPS-K]] and [[MiG-21MF (Germany)|MiG-21MF]]
+
+The '''{{Specs|name}}''' (NATO designation: "Farmer-C") was introduced in [[Update 1.87 "Locked On"]] as German equivelant to the [[MiG-19PT]] found in the Soviet tech tree. The MiG-19S seems worse at first, but in the hands of an experienced pilot, it is merely a sidegrade, if not better than its Soviet tree counterpart. Unlike the PT in the Soviet tree, the German MiG-19S lacks any air-to-air missiles or dedicated search and track radar systems. However, due to the absense of such systems, the aircraft is noticably lighter. The MiG-19S also recieves an extra gun, giving it more firepower and ammo to use. All in all, the MiG-19PT is a great introduction to supersonic jets, as it has great performance and flight characteristics, allowing players of the German tech tree to learn kinematic missile evasion techniques and higher tier dogfight doctorine, something the [[F-104G (Germany)|F-104G]] on the other side of the tech tree will absolutely not teach.
 
 == General info ==
 === Flight performance ===
@@ -162,6 +164,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x 100 kg OFAB-100 bombs (200 kg total)
 * 2 x 250 kg OFAB-250sv bombs (500 kg total)

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+In the late 1950s, France received around 93 AD-4 airframes as part of the US Navy’s surplus. 40 Skyraiders were the NA variant meanwhile the rest were AD-4Ns.  It featured four 20 mm cannons, a strengthened undercarriage, and other minor changes. Escadron II/20 was the first squadron to receive the Skyraiders in 1960, and two more squadrons would receive them. French Skyraiders were in service for just over ten years until they were considered obsolete and retired.
+
+Introduced in [[Update 1.73 "Vive la France"]], the '''{{Specs|name}}''' is an extremely effective ground striker. It can utilize many different types of bombs and rockets. In addition, the four 20 mm cannons have ample ammunition and good penetration performance with the armoured target belt. The cannons perform very well against light tanks and medium-strength ground targets like light pillboxes. However, this all comes at the cost of performance. Although the AD-4 has the mighty Wright R-3350-26WA (WA for water injection), it has abysmal manoeuvring energy retention and is overall a heavy aircraft. For a few turns the Skyraider can turn tight but it quickly becomes slow and vulnerable to enemy fighters. Nonetheless, the Skyraider is an excellent ground attack aircraft with an abundance of options for players. 
 
 == General info ==
 === Flight performance ===

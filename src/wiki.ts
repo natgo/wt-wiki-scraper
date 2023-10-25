@@ -71,7 +71,7 @@ async function download(vehicles: CategorymembersPart[], type: string) {
         decomment(response.data.parse.text["*"]),
       );
     } catch (error) {
-      element;
+      throw new Error(JSON.stringify(element));
     }
   });
 }
@@ -143,7 +143,6 @@ async function main() {
   await download(fleet, "fleet");
   console.info("Downloading Wikitexts");
 
-  // no boat?
   getTechTree();
   console.info("Downloading Techtrees");
 }

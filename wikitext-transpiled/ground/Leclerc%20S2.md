@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The '''Leclerc Séries 2''' is the second variant of the [[Leclerc (Family)|Leclerc main battle tank family]]. Nexter Systems designed and produced it with the ability to be deployed in desert regions. A total of 134 units of the [[Leclerc|Leclerc Séries 1]] were produced for service before being replaced on the assembly line in 1997 by the Leclerc Séries 2, which primarily features a hybrid air conditioner to cool the computer system as well as an independent air conditioning unit installed on the back roof behind the gunner's hatch. Other enhancements include an additional splash guard added to the front hull, a remote-operated hydraulic track tensioner, bolt-on appliqué armour on each hull sponson, and the replacement of the Athos thermal imaging equipment on the gunner's sight with the new Iris thermal imaging equipment. A total of 176 units were manufactured.
+
+Introduced in [[Update "New Power"]], the Leclerc Séries 2 is almost identical to the Leclerc Séries 1, apart from a few improvements, such as a new nuclear, biological, and chemical (NBC) protective system and air conditioner, which are not reflected in the game. With its high mobility and autoloader, the Leclerc Séries 2 may play a variety of roles on the battlefield. Its mobility allows it to get into advantageous positions for sniping or ambushing, and the autoloader allows for quick responses and follow-up shots against enemies. Its survivability is best when hull down from a hill, as most of its vulnerable areas, except the tank gun breech, are effectively hidden. Avoid close-range combat because the numerous hull weak points are visible and targetable in urban environments.
 
 == General info ==
 === Survivability and armour ===
@@ -37,9 +39,9 @@ Turret back: 20 mm
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=2,285|rbMinHp=1,304}}
+{{tankMobility|abMinHp=2,325|rbMinHp=1,327}}
 
-The Leclerc S2 is powered by the same engine as the S1, the Wärtsilä V8X-1500. Outputting 1,475 hp and using a special gas turbine turbocharger (which can also act as the vehicle's APU, and eliminating turbo lag), the Leclerc S2 has great mobility for its class at 26.25 hp/ton. However, it weighs 2.5t more than the S1, which makes for noticeable sluggishness without engine upgrades.
+The Leclerc S2 is powered by the same engine as the S1, the Wärtsilä V8X-1500. Outputting 1,500 hp and using a special gas turbine turbocharger (which can also act as the vehicle's APU, and eliminating turbo lag), the Leclerc S2 has great mobility for its class at 26.69 hp/ton. However, it weighs 2.5t more than the S1, which makes for noticeable sluggishness without engine upgrades.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -57,14 +59,14 @@ Unlike most of its Western contemporaries (excluding the [[Type 90]] and the [[C
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[GIAT CN120-26 F1 (120 mm)|120 mm GIAT CN120-26 F1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[GIAT CN120-26 F1 (120 mm)|120 mm GIAT CN120-26 F1]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0
@@ -102,7 +104,7 @@ Unlike most of its Western contemporaries (excluding the [[Type 90]] and the [[C
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 800 (200) || 577 || N/A || N/A
+| Coaxial || 800 (200) || 575 || - || -
 |-
 |}
 

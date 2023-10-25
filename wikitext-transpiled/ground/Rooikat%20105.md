@@ -87,7 +87,7 @@ The vehicle is armed with the South African GT-7 105 mm rifled cannon, which is 
 |}
 
 ==== Ammunition ====
-The HEATFS and APFSDS can easily deal with most enemies presented at its battle-rating, the exception being some late heavy tanks like the [[Object 279]] or uparmoured tanks like the [[T-55AM-1]]. The HESH is very situational, but might be good for light-skinned vehicles or helicopters. It is usually best to mostly take APFSDS shells, since it can easily handle every vehicle type, but unlike HEATFS doesn't detonate on bushes or fences and isn't stopped by ERA.
+The HEATFS and APFSDS can easily deal with most enemies presented at its battle-rating. The HESH is very situational, but might be good for light-skinned vehicles or helicopters. It is usually best to mostly take APFSDS shells, since it can easily handle every vehicle type, but unlike HEATFS doesn't detonate on bushes or fences and isn't stopped by ERA.
 
 {{:GT-7 (105 mm)/Ammunition|DM12, DM512, DM23, DM33}}
 
@@ -189,6 +189,7 @@ As a result, the Rooikat 105 was subsequently offered on the export market in an
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_rooikat_105_td Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -210,6 +211,7 @@ File:Rooikat 105 WTWallpaper 06.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Radkampfwagen 90]]
 * [[Type 16]]
 * [[Centauro ROMOR]]

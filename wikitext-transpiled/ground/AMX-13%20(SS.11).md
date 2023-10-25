@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]] as a bundle vehicle but was removed from the store after the [[wt:en/news/5608-shop-summer-sale-independence-day-en|2018 Summer Sale]]. It was later reintroduced for [[wt:en/news/5852-special-news-war-thunder-s-birthday-discounts-and-gifts-en|War Thunder's 6th Anniversary]] as a premium purchasable for 7,480 Golden Eagles {{ge}}.
+The '''AMX-13/75 FL-10 (Char Lance SS.11)''' is the third subvariant of the [[AMX-13|AMX-13/75 FL-10]], which is the first variant of the [[AMX-13 (Family)|AMX-13 light tank family]]. It is identical to the standard AMX-13/75 FL-10, except for the four SS.11 anti-tank guided missiles (ATGMs) mounted on a launcher above the main armament. Nord Aviation's SS.11 is a French manual command to line-of-sight wire-guided ATGM. It was one of the first ATGMs, entering service with the French Army in 1956 and serving until the 1980s. It also served as the foundation for the larger and more powerful SS.12/AS.12 series. The missile was manually guided by comparing the location of the target to flares on the back of the missile and adjusting its flight with a small joystick.
 
-The only difference from the AMX-13 light tank series is the rack of four deadly SS.11 missiles in the oscillating turret front. Everything else from the two protruding radio antennas to the four smoke dischargers are identical to the original [[AMX-13]] model.
+Introduced in [[Update 1.75 "La Résistance"]], the AMX-13/75 FL-10 (Char Lance SS.11) has the same playstyle as the standard AMX-13/75 FL-10. This light tank is extremely fast and agile, but it sacrifices its armour to do so. As a result of this, the AMX-13/75 FL-10 (Char Lance SS.11) is best used as a hit-and-run flanking vehicle or a sniper, especially with the SS.11 ATGMs onboard. Position the tank quickly at the start of the battle in regions where enemy tanks would not expect to see a light tank and wait in ambush for hostile tanks to pass through. This light tank with an autoloader is capable of effortlessly annihilating multiple opponents. When the enemy is far away or heavily armoured, use the SS.11 missiles. Avoid going to the front lines where the major battle is going on. Stay as close to the corner as possible, only driving out to attack an enemy who is not paying attention.
 
 == General info ==
 === Survivability and armour ===
@@ -242,6 +242,7 @@ In 1962, the French military high command approved modernization work for the AM
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amx_13_75_ss11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

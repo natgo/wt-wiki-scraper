@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (Hotchkiss light tank model 1935 modified 1939) is a reserve rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]] and replaced the [[H.35]] as one of France's two reserve vehicles in [[Update 1.85 "Supersonic"]].
+The '''Char léger modèle 1935 (Hotchkiss) H modifié 39''' is a heavily upgraded [[H.35|Char léger modèle 1935 (Hotchkiss) H]] cavalry tank from 1939. Since cavalry units sought a faster tank, it was decided in October 1936 to modernize its current tanks by installing a more powerful engine. In 1937, a new prototype with a 120 hp engine was created in place of the 78 hp engine. The hull was stretched to provide enough space to accommodate it, resulting in a taller, nearly level engine deck. Aside from episcopes, tails, and various radio sets, this included the gradual introduction of a larger 37 mm SA38 L/35 tank gun with much improved anti-tank capabilities, providing 30 mm of armour penetration at 1 km.
 
-Compared to its predecessor, the H.39 features a serviceable gun, thicker armour, and a significantly more powerful engine, which makes it, when fully upgraded, surprisingly speedy on flat ground for low level French tanks. Nevertheless, this vehicle's gun and mobility are below average compared its peers from other nations. While it is mobile in a straight line, it manoeuvres slowly and its narrow tracks slow it down substantially cross-country. The H.39 should be played as a close support tank, best utilized in urban maps and following its teammates while waiting for a good shot opportunity.
+Introduced in [[Update 1.75 "La Résistance"]], the Char léger modèle 1935 (Hotchkiss) H modifié 39 is vastly improved over its predecessor. It has a slightly superior main armament, thicker armour overall, and a substantially more powerful engine, which makes it surprisingly fast on flat ground. Nonetheless, as compared to adversaries from other nations, this vehicle remains below average. While it travels quickly in a straight line, it goes slowly over muddy terrain, and its narrow tracks considerably slow it cross-country. It is best employed as a close support tank in urban environments, following teammates while waiting for a good firing opportunity at the enemy.
 
 == General info ==
 === Survivability and armour ===
@@ -205,6 +205,7 @@ After the fall of France, the Germans retrofitted some of their captured vehicle
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_hotchkiss_h39 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -213,6 +214,7 @@ After the fall of France, the Germans retrofitted some of their captured vehicle
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[H.35]]
 
 == External links ==

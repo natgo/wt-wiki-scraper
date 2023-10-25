@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American destroyer {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]] as part of the fleet closed beta test.
+The '''USS Fletcher (DD-445)''' is a member of the Fletcher-class destroyer family, the first generation of destroyers developed by the U.S. after the disintegration of the Washington and London Naval Treaties during World War II. The Fletcher class was meant to be larger and carry more armament due to dissatisfaction with earlier destroyer classes. Some went on to serve in the Korean and Vietnam Wars. The USS Fletcher was laid down on October 2, 1941, by the Federal Shipbuilding and Dry Dock Company in Kearny, New Jersey. Named after Admiral Frank Friday Fletcher, Mrs F. Fletcher sponsored her launch on 3 May 1942, and she was commissioned on 30 June 1942. During World War II, the USS Fletcher served as the flagship of the Fletcher-class destroyers in the Pacific. She received fifteen combat stars during World War II and five during the Korean War. On 1 August 1969, the USS Fletcher was decommissioned and struck from the Naval Vessel Register before being scrapped on 22 February 1972.
+
+Introduced in [[Update 1.79 "Project X"]], the USS Fletcher is one of many powerful destroyers in the U.S. Navy bluewater fleet; the ship excels at gunning down targets and maintaining pressure on enemy destroyers. With five primary guns and a fast rate of fire, even if one of them is destroyed, the remaining four will be able to maintain their firepower, thus giving foes a difficult time while they're in range. Maps with various island covers will be preferred for the USS Fletcher, as you will be able to use your 40 knots of speed and decent turn speed to quickly assault a target and escape if necessary. Torpedoes are useful for securing choke spots and common passageways for players, launching long-range strikes on AI ships in encounter games, and forcing opposing ships to avoid.
 
 == General info ==
 === Survivability and armour ===
@@ -92,6 +94,7 @@ As for playstyle, it can be used for hit and runs against other enemy destroyers
 * Anti-fragmentation armour provides moderate protection from splinters and near misses
 
 '''Cons:'''
+
 * First stage ammo racks can be detonated with fire or explosion damage, potentially cause crippling damage
 * Torpedo firing arcs are less effective
 

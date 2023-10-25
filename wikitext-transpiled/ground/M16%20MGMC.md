@@ -168,17 +168,26 @@ The M16 MGMC was successfully used against both air and ground targets, as well 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_halftrack_m16 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.'' -->
+* ''links to approximate analogues of other nations and research trees.'' -->Export versions
 
-;Other vehicles of similar configuration and role
+* [[M16 MGMC (Japan)]]
+
+Similar vehicles with the M45 Quadmount
+
+* [[CCKW 353 (M45)]]
+* [[CM52]]
+
+Similar vehicles based on the M3 Half-Track
 
 * [[M13 MGMC]]
-* [[CCKW 353 (M45)]]
+* [[M15 CGMC]]
+* [[TCM-20]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

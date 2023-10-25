@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened as '''{{Specs|pseudonym}}''') is a Rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
+The '''Batignolles-Chatillon Char 25T''' was a French early Cold War tank developed by the Batignolles-Chatillon company in 1954. The vehicle was never developed further than the two prototypes. It was built for a weight class of 25 tons, which is approximately double the weight of the AMX-13 light tanks. It was armed with a 90 mm D.911 APX tank gun and was manned by four crew members. Its top speed is 65 km/h. Despite the project being abandoned, several of the design ideas and technology were applied to subsequent French armoured vehicles. It never saw duty with the French Army.
 
-The Char 25t is similar to other French light tanks in that it is a small, closed tank with a compact autoloader turret in the rear of the tank. It is a bit wider than traditional French lights, but not by much. Its armour design is more akin to the AMX-50 or the Panther with a flat front and angled cheeks on the chassis. On the top of the turret is an oddity for cold war French designs, a machine gun. Though only a 7.5 mm machine gun that can be used for spotting targets or to deter some planes along with the coaxial.
+Introduced in [[Update 1.81 "The Valkyries"]], the Char 25T is a fast tank with minimal armour, so it is important not to engage enemy tanks in frontal combat. It is strongly encouraged to take full advantage of its superb mobility for flanking manoeuvres during battle. The tank also has an acceptable reverse speed, allowing it to quickly disengage after firing. The Char 25t can engage all but the heaviest targets at close range, while at range, it can successfully hit targets from the flank. Players using the Char 25T should always stay out of the enemy's direct line of fire. The Char 25T, like other French light tanks, has a low-profile tank with a tiny autoloader turret in the back.
 
 == General info ==
 === Survivability and armour ===
@@ -63,14 +63,14 @@ The reload time is short, 6.7 seconds between shots (even with a knocked out loa
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[D.911 APX (90 mm)|90 mm D.911 APX]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[D.911 APX (90 mm)|90 mm D.911 APX]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 52 || rowspan="2" | -6°/+11° || rowspan="2" | ±180° || rowspan="2" | N/A || 34.3 || 47.4 || 57.6 || 63.7 || 67.8 || rowspan="2" | 6.70 || rowspan="2" | 6.70 || rowspan="2" | 6.70 || rowspan="2" | 6.70
+| rowspan="2" | 52 || rowspan="2" | -6°/+11° || rowspan="2" | ±180° || rowspan="2" | - || 34.3 || 47.4 || 57.6 || 63.7 || 67.8 || rowspan="2" | 4.00
 |-
 ! ''Realistic''
 | 21.4 || 25.2 || 30.6 || 33.8 || 36.0

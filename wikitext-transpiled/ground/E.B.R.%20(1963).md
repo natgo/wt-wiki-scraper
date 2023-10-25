@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced during [[Update "Red Skies"]] as a reward for [[Battle Pass: Season IV, "Fearless Voltigeur"]].
+The '''Panhard Engin Blindé de Reconnaissance (E.B.R.) Modèle 1963 Revalorisé''' is a heavy modification of the [[E.B.R. (1951)|Panhard Engin Blindé de Reconnaissance (E.B.R.) Modèle 1951]], which is the first variant of the [[E.B.R. (Family)|Panhard E.B.R. armoured car family]]. Between 1964 and 1968, 650 units of the Panhard E.B.R. Modèle 1951 variant were modernized, with the original 75 mm SA 49 tank gun replaced by a bigger, low-pressure 90 mm CN 90 F2 tank gun. It was developed to compensate for the lack of anti-tank capabilities within the French Army at the time.
+
+Introduced in [[Update "Ground Breaking"]] as a reward for [[Battle Pass: Season IV, "Fearless Voltigeur"]], the Panhard E.B.R. Modèle 1963 Revalorisé is an excellent scout and flanking vehicle due to its good speed and excellent handling. The Panhard E.B.R. Modèle 1963 Revalorisé is difficult to operate at range compared to the low muzzle velocity and lack of an autoloader. To perform efficiently on this vehicle, it is necessary to target weak places, ammunition racks, and crew members, as well as retain active awareness of the surroundings and excellent map knowledge. Finally, threats from hostile aircraft become more prevalent as aircraft weaponry improves; therefore, strafing from enemy aircraft will frequently result in vehicle damage or destruction.
 
 == General info ==
 === Survivability and armour ===

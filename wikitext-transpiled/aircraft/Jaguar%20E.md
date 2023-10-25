@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced during [[Update "Drone Age"]] as a reward for the 2022 [[wt:en/news/7882-event-project-overpowered-en|Project "Overpowered"]] event.
+The Jaguar programme began in the early 1960s, in response to a British requirement (Air Staff Target 362) and a French requirement (ECAT or École de Combat et d'Appui Tactique, "Tactical Combat Support Trainer") for a cheap, dual role trainer and light attack aircraft to replace various obselete subsonic aircraft filling that role. Cross-channel negotiations led Britain and France to form SEPECAT: ''Société Européenne de Production de l'Avion d'École de Combat et d'Appui Tactique'' – the "European company for the production of a combat trainer and tactical support aircraft". Almost all parts of the aircraft were jointly built by the two countries. For example, the powerplant was a partnership between Rolls-Royce and Turbomeca to develop the ''Adour'' afterburning turbofan engine, while the fuselage and wings were a partnerhip between Breguet and BAC, using the same basic configuration and an innovative French-designed landing gear and fuselage design, the Jaguar was built incorporating major elements of design from BAC, notably the wings and various control systems. In the end, the Jaguar program grew into more than just a trainer aircraft, and saw great export sales to foreign countries as a trainer, bomber, strike aircraft, and anti-shipping attacker. The French however, were not satisfied with the performance of the Jaguar B, T2, and T4 trainers, and later set out to create their own special trainer variant. The Jaguar E variant was the two-seat training version for the French Air Force, with two prototypes and 40 production aircraft built in total.
+
+The '''{{Specs|name}}''', introduced during [[Update "Drone Age"]] as a reward for the 2022 [[wt:en/news/7882-event-project-overpowered-en|Project "Overpowered"]] event, is a twin-seater trainer variant of the tech tree [[Jaguar A]]. The Jaguar has high wing loading and suffers from greatly decreased manouverbility and speed when fully loaded with ordnance, however, it will often not be used in such a case ingame, instead being utilized as a support fighter in dedicated air battles to to its abundant countermeasures and [[Matra R550 Magic 1|R.550 Magic 1]] missiles combined with its nimble handling when not loaded. But mixed battles is where the Jaguar A really shines, being able to use a wide array of guided and unguided ordnance, chief of which are the powerful [[BGL-400 (400 kg)|BGL-400]]/[[BGL-1000 (970 kg)|1000]] series laser guided bombs and [[AS-30L Nord]] laser guided missiles. One should be wary of the Jaguar E's heavier airframe and {{Annotation|RTOW|Regulated Take-off Weight}}, which results in further decreased handling and performance especially when loaded.
 
 == General info ==
 === Flight performance ===
@@ -190,6 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x Matra R550 Magic 1 missiles
 * 11 x 250 kg SAMP Type 25 bombs (2,750 kg total)
@@ -235,6 +238,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jaguar_e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

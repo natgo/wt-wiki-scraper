@@ -104,18 +104,40 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR|Tiny Tim|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="13%" | 1 !! width="13%" | 2 !! width="13%" | 3
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_F8F-1.png]]</div>
+|-
+! [[M2 Browning (12.7 mm)|12.7 mm M2 Browning]] machine guns (340 rpg)
+| 2 || || 2
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1 || || 1
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| 1 || 1 || 1
+|-
+! [[HVAR]] rockets
+| 2 || || 2
+|-
+! [[Tiny Tim]] rockets
+| 1 || || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
-* 2 x Tiny Tim rockets
 * 4 x HVAR rockets
-* 1 x 1,000 lb AN-M65A1 bomb + 4 x HVAR rockets (1,000 lb total)
-* 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
-* 1 x 1,000 lb AN-M65A1 bomb + 2 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* 2 x Tiny Tim rockets
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
+* 4 x 12.7 mm M2 Browning machine guns (340 rpg = 1,360 total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -182,7 +204,6 @@ The Mitsubishi [[A7M2]] is much slower than any other aircraft mentioned but is 
 * Fast acceleration
 * High rate of fire
 * High ammo count
-* Great guns with big damage output on Targets
 * Can support high G's in sharp turns and has a G-suit upgrade available
 * Combat flaps can't break, the wings will break first
 * Double the burst mass of the first [[F8F-1|F8F-1 Bearcat]] and in general powerful armament
@@ -198,7 +219,7 @@ The Mitsubishi [[A7M2]] is much slower than any other aircraft mentioned but is 
 * Not the fastest plane, so lots of planes can catch up
 * Ground loops if landing with full brakes
 * Sluggish controls at speeds less than 300 km/h
-* Bleeds alot of speed in turns
+* Dumps velocity in high-G turns
 * Rudder compresses to the point of uselessness over 600 km/h
 
 == History ==

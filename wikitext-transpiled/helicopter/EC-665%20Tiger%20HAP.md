@@ -12,7 +12,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+
 The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French attack helicopter {{Battle-rating}}. It was introduced as a [[wt:en/news/6338-development-eurocopter-tiger-pouncing-on-the-prey-en|premium pack]] in [[Update 1.91 "Night Vision"]]. It was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]], and was reintroduced in [[Update "Hot Tracks"]] as a premium vehicle purchasable with Golden Eagles {{ge}}.
+
+The EC 665 Tiger HAP is a result of European defense collaboration between France and Germany, initiated during the Cold War era to counter ground threats, especially tanks. Born out of the 1975 agreement and developed by Eurocopter (now Airbus Helicopters), this attack helicopter combined stealth technology, advanced avionics, and potent firepower, making it highly agile and versatile. Primarily designed for air-to-air combat, the Tiger HAP's capabilities were recognized and adopted by nations beyond its Franco-German origin, including Spain and Australia. Beyond its military prowess, the Tiger HAP stands as a beacon of European cooperation and engineering excellence.
 
 == General info ==
 === Flight performance ===
@@ -178,6 +181,7 @@ The Tiger HAP first saw combat in Afghanistan in 2009 employed by the French arm
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tiger_hap_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -188,6 +192,7 @@ File:Eurocopter Tiger HAP WTWallpaper 002.jpg
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.''
 

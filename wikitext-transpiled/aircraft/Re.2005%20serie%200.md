@@ -5,8 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The Reggiane Re.2005 "Sagittario" (Archer in English) was the result of many years of developing and refining the Re.2000 series of fighters. It was much faster than previous models thanks to its DB 605A engine and was more aerodynamically sleek. These changes helped propel the Re.2005 to speeds well over 640 km/h (397 mph). The elliptical wing, also seen in early Spitfires, gave the Re.2005 an incredible turn rate that could keep up with Spitfires. German pilots would also state that the Sagittario had similar flight characteristics to the [[Bf 109 G-14]]. The Re.2005 was a relatively good aircraft, but it would never be built in massive numbers. Only a handful were produced, and the armistice forced the destruction of some Re.2005s.
 
+Introduced in [[Update 1.91 "Night Vision"]], the '''{{Specs|name}}''' is a decent Italian fighter. Although the performance was superb in real life, in-game it is outclassed by many aircraft due to its battle rating. Aircraft like the [[F8F (Family)|F8F Bearcat]] and Griffon-powered Spitfires will easily outrun the Sagittario. This is a common issue with planes that are more focused on the ability to turn than straight-line speed. Sagittario pilots should expect to be the victims of constant boom and zoom attacks; the best option is to perform reversals and try and get a shot off after the enemy aircraft makes a pass. Players can also sideclimb and wait for enemy aircraft to lose their altitude. Armed with three [[MG 151 (20 mm)|MG 151]] cannons and two [[Breda-SAFAT (12.7 mm)|Breda-SAFAT]] 12.7 mm machine guns, the Re.2005 can easily down enemy aircraft with the air target belts. It also has plenty of ammunition, so players can be generous with firing. Overall, the Re.2005 is a relatively difficult aircraft to succeed in due to its battle rating.
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -111,19 +112,36 @@ Two of the cannons are mounted in the wings with the remaining cannon being a no
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|GP 50 (50 kg)|GP 100 (100 kg)|GP 250 (250 kg)|GP 500 (500 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
+| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GP 50 (50 kg)|50 kg GP 50]] bombs
+| 1 || || 1
+|-
+! [[GP 100T (100 kg)|100 kg GP 100T]] bombs
+| 1 || || 1
+|-
+! [[GP 250 (250 kg)|250 kg GP 250]] bombs
+| || 1 ||
+|-
+! [[GP 500 (500 kg)|500 kg GP 500]] bombs
+| || 1 ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x 50 kg GP 50 bombs (100 kg total)
-* 2 x 100 kg GP 100 bombs (200 kg total)
+* 2 x 100 kg GP 100T bombs (200 kg total)
 * 1 x 250 kg GP 250 bomb (250 kg total)
-* 1 x 250 kg GP 250 bomb + 2 x 50 kg GP 50 bombs (350 kg total)
-* 1 x 250 kg GP 250 bomb + 2 x 100 kg GP 100 bombs (450 kg total)
 * 1 x 500 kg GP 500 bomb (500 kg total)
-* 1 x 500 kg GP 500 bomb + 2 x 50 kg GP 50 bombs (600 kg total)
-* 1 x 500 kg GP 500 bomb + 2 x 100 kg GP 100 bombs (700 kg total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -11,9 +11,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German battleship {{Battle-rat
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-The SMS Westfalen is a dreadnought with an all-or-nothing armour scheme. This means she has thick armour all around the ship.
-
-Her armour is rolled cemented "krupp" armour, which contains higher carbon steel on the surface and a softer core. The intent was to try shattering the shells with the tougher layer, while the softer core would absorb the shell's impact. This was one of the latest evolutions in armour designs used by dreadnoughts.
+The SMS Westfalen is a dreadnought which features an armour scheme distributed through all of the ship, giving her more protection all around the ship compared to later "All-or-nothing" armored ships, which would only heavily armor the important parts of the ship, usually the Citadel. Her armour is rolled cemented "krupp" armour, which contains higher carbon steel on the surface and a softer core. The intent was to try shattering the shells with the tougher layer, while the softer core would absorb the shell's impact. This was one of the latest evolutions in armour designs used by dreadnoughts.
 
 When it comes to survivability, her citadel is protected by a turtle back armour scheme in addition to coal bunkers. This should stop most shells from penetrating the important parts such as the ammo racks and the engines, while her 90-170 mm thick external armour will stop most destroyer's shells and high explosive rounds from all sources.
 
@@ -157,6 +155,7 @@ File:Westfalen WTWallpaper 006.jpg|
 * [[wt:en/news/6923-development-sms-westfalen-into-a-new-era-en|[Devblog] SMS Westfalen: Into a New Era]]
 
 === References ===
+
 ;Citations
 <references />
 

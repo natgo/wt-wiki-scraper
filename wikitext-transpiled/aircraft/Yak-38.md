@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced as a premium pack in [[Update "New Power"]] but was removed from the store after the [[wt:en/news/7748-sale-summer-sale-en|2022 Summer sale]].
+During the late 1960s, Yakovlev Design Bureau set out to build the Soviet Union's first VTOL fighter, after witnessing the success of the Hawker P.1154 VTOL testbed from Great Britain. Initially lacking funding for research and development of proper VTOL technology, Yakovlev presented the Yak-36 created with what little they had. The Yak-36 was a failure by most metrics, with only four built and only one performing VTOL flight, which later crashed in testing. However, to Yakovlev it was a massive success, as this design convinced the Soviet government to fund the development of a proper Soviet VTOL program. Yakovlev presented a supersonic design with swivelling nozzles similar to those found on the Harrier family, but this was deemed too complex and expensive. Instead, the Soviet government ordered a simpler, cheaper VTOL aircraft primarily for naval operation aboard their new Project 1143 Heavy Aircraft Cruisers. This new aircraft would be limited in speed to Mach 0.95, and would function as both a fleet defence fighter, armed with air-to-air missiles for interception, and also as a naval strike fighter, carrying a multitude of both guided and unguided ordnance. Yakovlev OKB got to work, and on September 22nd, 1970, the first prototype of the Yak-38 performed its maiden flight. However, with new technology came many problems, and the Yak-38 would be plagued by an unacceptable amount of issues, which took many years to fix, before the Yak-38 officially entered service six years later in 1976.
 
-As a [[VTOL]] aircraft (Vertical Take-Off and Landing) it can perform stationary flight, offering new gameplay possibilities compared to conventional jet aircraft.
+The Yak-38 was introduced as a premium pack in [[Update "New Power"]] but was removed from the store after the [[wt:en/news/7748-sale-summer-sale-en|2022 Summer sale]]. The aircraft returned on the 22nd of September 2023 for the [[wt:en/news/8490-special-the-yak-38-is-back-for-its-maiden-flight-anniversary-and-is-here-to-stay-en|52nd anniversary of its maiden flight]] as a premium purchasable using GE {{ge}}. Being a [[VTOL]] aircraft (Vertical Take-Off and Landing), the Yak-38 can perform stationary flight, offering new gameplay possibilities compared to conventional jet aircraft. However, like its tech tree equivalent, the [[Yak-38M]], it is seriously underwhelming in conventional flight performance. However, what it lacks in flying is compensated by the powerful ordnance this aircraft can carry. It is armed with the formidable [[R-60]] air-to-air missile, and its ground striking ordnance is no slouch either, with a selection of rocket pods, bombs, gunpods, and even the [[Kh-23M]] guided air-to-ground missile. All in all, this aircraft's play style serves more as a stepping stone, teaching the player how to work with a sub-optimal airframe that relies completely on its strong weapons to to well, as all other Yakovlev VTOL aircraft work with the same principle.
 
 == General info ==
 === Flight performance ===
@@ -145,18 +145,59 @@ The Yak-38 has no armour. It is a fairly large target with the entire fuselage b
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 1 x 23 mm VSPU-36 ventral gun pod containing a GSh-23L cannon (160 rpg)
+* 1 x 23 mm GSh-23L cannon, belly-mounted (160 rpg)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|Kh-23M|R-60}}
-{{main|ZB-500 incendiary|S-5KP|S-8KO|S-24B|GSh-23L (23 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_Yak-38M.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| 1 || 1 || 1 || 1
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| 4 || 1 || 1 || 4
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| 1 || || || 1
+|-
+! [[ZB-500 incendiary]] bombs
+| 1 || || || 1
+|-
+! [[S-5KP]] rockets
+| 16, 32 || 16 || 16 || 16, 32
+|-
+! [[S-8KO]] rockets
+| 20 || || || 20
+|-
+! [[S-24B]] rockets
+| 1 || 1 || 1 || 1
+|-
+! [[Kh-23M]] missiles
+| 1* || || || 1*
+|-
+! [[R-60]] missiles
+| 1 || 1 || 1 || 1
+|-
+! Delta-NG targeting pod
+| || || 1* ||
+|-
+| colspan="5" | Maximum permissible weight imbalance: 450 kg
+|-
+| colspan="6" | * Delta-NG targeting pod must be carried when equipping Kh-23M missiles
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
 * 2 x R-60 missiles
 * 4 x R-60 missiles
@@ -170,50 +211,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 2 x ZB-500 incendiary bombs
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_Yak-38M.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| 1 || 1 || 1 || 1
-|-
-! 100 kg OFAB-100 bombs
-| 4 || 1 || 1 || 4
-|-
-! 250 kg OFAB-250sv bombs
-| 1 || 1 || 1 || 1
-|-
-! 500 kg FAB-500M-54 bombs
-| 1 || || || 1
-|-
-! ZB-500 incendiary bombs
-| 1 || || || 1
-|-
-! S-5KP rockets
-| 16, 32 || 16 || 16 || 16, 32
-|-
-! S-8KO rockets
-| 20 || || || 20
-|-
-! S-24B rockets
-| 1 || 1 || 1 || 1
-|-
-! Kh-23M missiles
-| 1* || || || 1*
-|-
-! R-60 missiles
-| 1 || 1 || 1 || 1
-|-
-! Delta-NG
-| || || 1* ||
-|-
-| colspan="5" | Maximum permissible weight imbalance: 450 kg
-|-
-| colspan="6" | * Delta-NG targeting pod must be carried when equipping Kh-23M missiles
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -275,6 +273,13 @@ This is the place where the Yak-38 shines, thanks to an unusual suspended ordnan
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+The Cold War era saw intense rivalry between the Western and Eastern blocs, not only in the political and ideological spheres but also in the military domain. A key aspect of this competition involved the development of Vertical Takeoff and Landing (VTOL) aircraft, which could operate from short runways and eventually from aircraft carriers. Several countries, such as France, Germany, the United Kingdom, and the United States, participated in these efforts and produced various prototypes and operational models of VTOL aircraft. However, the Soviet Union was initially reluctant to join this race, as it had a different strategic doctrine and a vast network of airfields. It was not until the late 1950s that the Soviet deputy minister, Dmitri Ustinov, recognized the value of VTOL technology and commissioned a new research platform for their own VTOL aircraft development. Yakovlev OKB (Experimental Design Bureau) was the only design bureau that showed interest in the project and was assigned the task. 
+
+The first design by Yakovlev was the Yak-30V (vertikalnyi - vertical), which featured two similar powerplants installed vertically. However, this design was abandoned after the British unveiled the Hawker P.1127 in 1960. Yakovlev OKB realized that they needed a more sophisticated solution to match their rivals. They opted for a similar concept to the P.1127, using thrust-vectoring nozzles to adjust the thrust direction. 
+
+The outcome was the Yak-36, which flew for the first time in 1963. The Yak-36 engines were a pair of Tumansky R-27-300 vectored thrust axial flow turbojets, each producing 51.993 kN (11,688 lbf) of thrust. The lower fuselage of the aircraft had swiveling exhaust nozzles on either side, one for each engine, close to the center of gravity. These nozzles could be rotated 90 degrees for VTOL or horizontal flight. The engines were derived from the compact and lightweight Tumansky RU-19-300 turbojet engine, which was originally used for a VTOL system proposal based on the Yak-30 jet trainer. The Yak-36 was designed to be a technology demonstrator, not an operational aircraft. It faced many challenges, such as instability, low thrust, and short range. 
+
+Nevertheless, Yakovlev OKB continued to improve the design and developed the Yak-36M, an entirely new aircraft that quickly got its own production designation: Yak-38. The Yak-38 addressed many of the problems faced by its predecessor with improvements in stability, thrust-to-weight ratio, range, and payload. It became the first operational VTOL aircraft in the Soviet Union and was primarily used by the Soviet Navy for shipborne operations. The Yak-38 had three engines: two Kolesov RD-36-35FV lift engines mounted vertically behind the cockpit and one Tumansky R-28V-300 cruise engine mounted horizontally in the rear fuselage with a vectorable nozzle. The lift engines were only used for takeoff and landing, while the cruise engine was used for horizontal flight. The Yak-38 could carry up to 2,000 kg (4,400 lb) of weapons on four underwing hardpoints. The Yak-38 was not without its flaws, however. It still had a limited range and endurance, as well as poor performance at high altitudes and speeds. It also suffered from reliability issues and high maintenance costs. Moreover, it was vulnerable to enemy fire and electronic warfare due to its lack of radar and electronic countermeasures. The Yak-38 was mainly deployed on Kiev-class aircraft carriers (which were actually classified as heavy aviation cruisers), but it could also operate from land bases or small ships. Single-seat Yak-38 production totaled 143 aircraft, and a modernization program was initiated to extend its service life, resulting in the Yak-38M.
 === [[wt:en/news/6942-development-yak-38-yak-38m-hover-jet-en|Devblog]] ===
 Although Soviet engineers were experimenting with VTOL fixed wing aircraft design since the early 1960s, it wasn't until December 1967 before a formal order to develop a light VTOL strike aircraft as well as a corresponding trainer version was issued. As a result, engineers at the Yakovlev design bureau began work on the new aircraft in the late 1960s, basing their design on experience gained from developing the preceding Yak-36 - an early VTOL demonstration design.
 

@@ -17,11 +17,10 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighte
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 12,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -30,10 +29,10 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighte
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,179 || 2,150 || rowspan="2" | {{Specs|ceiling}} || 28.2 || 28.7 || 126.5 || 120.0 || rowspan="2" | 750
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,279 || 2,228 || 26.3 || 27.0 || 186.4 || 155.0
 |-
 |}
 
@@ -59,7 +58,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighte
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,457 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 555 || 549 || 416 || ~__ || ~__
+| 1,457 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 575 || 549 || 416 || ~11 || ~5
 |-
 |}
 
@@ -83,7 +82,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighte
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | SNECMA Atar 9K-50 || 1
-| colspan="2" | 8,066 kg || colspan="3" | ___ kg/m<sup>2</sup>
+| colspan="2" | 8,066 kg || colspan="3" | 460 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -269,7 +268,8 @@ The Iraqis took the refuelling probes from the Mirage F1C-200s they had acquired
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-;[https://live.warthunder.com/feed/camouflages/?vehicle=mirage_f1c_200 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_f1c_200 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|nus0kWHEN34|'''Mirage F1C-200 Vehicle Overview''' - ''Bob Dickinson''}}
@@ -280,7 +280,8 @@ The Iraqis took the refuelling probes from the Mirage F1C-200s they had acquired
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-;[[Mirage F1 (Family)]]
+
+* [[Mirage F1 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -291,5 +292,6 @@ The Iraqis took the refuelling probes from the Mirage F1C-200s they had acquired
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer Dassault}}
 {{France jet aircraft}}
 {{France premium aircraft}}

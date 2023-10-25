@@ -59,7 +59,7 @@ The plane is overall good but, when using it in air arcade or custom, it was eas
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~3 || ~3
+| 405 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~3 || ~3
 |-
 |}
 
@@ -91,17 +91,48 @@ The plane is overall good but, when using it in air arcade or custom, it was eas
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
-{{main|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)|Type A Mark I mine}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| 1 || 1 || 6* || 6* || 1 || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1 || 1* || || || 1* || 1
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| 1 || 1* || || || 1* || 1
+|-
+! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
+| || || 1 || 1 || ||
+|-
+! [[Mk.13-6 (2,216 lb)|2,216 lb Mk.13-6]] torpedoes
+| || || 1 || 1 || ||
+|-
+! [[Type A Mark I mine|Type A Mark I]] mines
+| 1 || 1* || || || 1* || 1
+|-
+| colspan="7" | Maximum permissible loadout weight: 2,200 kg<br>Maximum permissible wing load: 1,100 kg<br>Maximum permissible weight imbalance: 800 kg
+|-
+| colspan="8" | * Marked ordnance on hardpoints 2/5 cannot be equipped in conjunction with 100 lb bombs on hardpoints 3/4 respectively
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
 * 16 x 100 lb AN-M30A1 bombs (1,600 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
 * 4 x 1,000 lb AN-M65A1 bombs (4,000 lb total)
 * 4 x Type A Mark I mines
 * 2 x 2,216 lb Mk.13-6 torpedoes
 * 2 x 2,216 lb Mk.13-6 Case torpedoes
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -111,7 +142,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 The '''''{{PAGENAME}}''''' is defended by:
 
 * 1 x 12.7 mm M2 Browning machine gun, 2 x beam turrets (478 rpg)
-* 1 x 7.62 mm Browning machine gun, nose turret (1,000 rpg)
+* 2 x 7.62 mm Browning machine guns, nose turret (1,050 rpg = 2,100 total)
 * 1 x 7.62 mm Browning machine gun, ventral turret (500 rpg)
 
 == Usage in battles ==
@@ -185,10 +216,11 @@ PBY Catalina was the most massive of the hydroplanes. Out of 3300 planes spannin
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=pby-5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="150">
+<gallery mode="packed-hover" heights="150">
 File:PBY-5 Catalina Aotea.jpg|<small>"The Wandering Witch" camouflage by Aotea</small>
 </gallery>
 
@@ -197,6 +229,7 @@ File:PBY-5 Catalina Aotea.jpg|<small>"The Wandering Witch" camouflage by Aotea</
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -206,8 +239,7 @@ File:PBY-5 Catalina Aotea.jpg|<small>"The Wandering Witch" camouflage by Aotea</
 * ''other literature.'' -->
 
 * [[wikipedia:Consolidated_PBY_Catalina|[Wikipedia] Consolidated PBY Catalina]]
-* [https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-atlantic/battle-of-the-atlantic/aviation/pby-5a.html <nowiki>[Naval History and Heritage Command
-National Museum of the U.S. Navy]</nowiki> PBY-5 and PBY-5A "Catalina"]
+* [https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-atlantic/battle-of-the-atlantic/aviation/pby-5a.html <nowiki>[Naval History and Heritage Command National Museum of the U.S. Navy]</nowiki> PBY-5 and PBY-5A "Catalina"]
 * [https://airandspace.si.edu/collection-objects/consolidated-pby-5-catalina/nasm_A19730277000 <nowiki>[Smithsonian National Air and Space Museum]</nowiki> Consolidated PBY-5 Catalina]
 
 {{AirManufacturer Consolidated}}

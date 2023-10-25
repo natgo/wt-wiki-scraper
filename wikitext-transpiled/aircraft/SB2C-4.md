@@ -101,21 +101,59 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR|M2 Browning (12.7 mm)}}
-{{main|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)|Type A Mark I mine}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 2 x 250 lb AN-M57 bombs (500 lb total)
-* 1 x 2,216 lb Mk.13-6 torpedo
-* 1 x 2,216 lb Mk.13-6 Case torpedo
-* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="8%" | 1 !! width="8%" | 2 !! width="8%" | 3 !! width="8%" | 4 !! width="8%" | 5
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[M2 Browning (12.7 mm)|12.7 mm M2 Browning]] machine guns (340 rpg)
+| || 2* || || 2* ||
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| || 1 || 2 || 1 ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || 1 || 2 || 1 ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || 1 || ||
+|-
+! [[AN-Mk 1 (1,600 lb)|1,600 lb AN-Mk 1]] bombs
+| || || 1 || ||
+|-
+! [[HVAR]] rockets
+| 4* || || || || 4*
+|-
+! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
+| || || 1 || ||
+|-
+! [[Mk.13-6 (2,216 lb)|2,216 lb Mk.13-6]] torpedoes
+| || || 1 || ||
+|-
+! [[Type A Mark I mine|Type A Mark I]] mines
+| || || 1 || ||
+|-
+| colspan="6" | Maximum permissible loadout weight: 1,040 kg<br>Maximum permissible weight imbalance: 420 kg
+|-
+| colspan="7" | * M2 Browning pods cannot be equipped with HVAR rockets in the adjacent hardpoint
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 8 x HVAR rockets
+* 4 x 250 lb AN-M57 bombs (1,000 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
 * 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
+* 1 x 1,600 lb AN-Mk 1 bomb (1,600 lb total)
+* 1 x 2,216 lb Mk.13-6 torpedo
+* 1 x 2,216 lb Mk.13-6 Case torpedo
 * 1 x Type A Mark I mine
-* 1 x 1,000 lb AN-M65A1 bomb + 2 x 500 lb AN-M64A1 bombs (2,000 lb total)
-* 8 x HVAR rockets
 * 4 x 12.7 mm M2 Browning machine guns (340 rpg = 1,360 total)
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

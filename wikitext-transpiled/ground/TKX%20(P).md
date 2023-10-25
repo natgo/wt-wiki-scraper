@@ -35,9 +35,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=1,626|rbMinHp=1,061}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -49,8 +48,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|TKG (120 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[TKG (120 mm)|120 mm TKG]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
@@ -60,10 +57,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 35 || rowspan="2" | -7°/+10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__
+| rowspan="2" | 35 || rowspan="2" | -7°/+10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 4.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
 |-
 |}
 
@@ -90,10 +87,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
+{{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M2HB (12.7 mm)|Type 74 (7.62 mm)}}
-
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -101,7 +97,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 1,000 (200) || 575 || -8°/+60° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -110,7 +106,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 3,000 (250) || 700 || - || -
 |-
 |}
 

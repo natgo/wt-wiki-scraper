@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The '''Leclerc Séries XXI''' is the third variant of the [[Leclerc (Family)|Leclerc main battle tank family]]. It has significant enhancements and improvements over its predecessor, the [[Leclerc S2|Leclerc Séries 2]]. The turret now has a new composite front armour package that includes titanium. Turret bustle composite armour has been replaced with lighter explosive reactive armour. Turret storage bins are also being redesigned to allow for potentially larger add-on armour packages, increasing versatility and adaptability. The Leclerc Séries XXI also has a hunter-killer capability thanks to the HL 120 panoramic sight, which contains a laser rangefinder and Iris thermal imaging equipment. Finally, the tank is now equipped with a friend or foe identification indicator.
+
+Introduced in [[Update "Winged Lions"]], the Leclerc Séries XXI is well-protected overall, with an effective configuration that results in good survivability. The frontal turret of the Leclerc Séries XXI is particularly well protected by modular composite armour, which combines strong metals, semi-reactive, and ceramic layers to protect against even the most powerful tank ammunition. The modification also involves the inclusion of extra armour beneath the gunner's sight, lowering the likelihood of the gunner being knocked out during conflicts. The Leclerc Séries XXI also has a new HL 120 panoramic sight for the commander, as well as thermal imaging equipment and a laser rangefinder, bringing hunter-killer capability to the Leclerc Séries XXI.
 
 == General info ==
 === Survivability and armour ===
@@ -43,14 +45,13 @@ Despite only seating three crew members, the Leclerc's survivability proves to b
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=2,285|rbMinHp=1,304}}
+{{tankMobility|abMinHp=2,325|rbMinHp=1,327}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
-
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
@@ -59,14 +60,14 @@ The Leclerc SXXIa mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted wit
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[GIAT CN120-26 F1 (120 mm)|120 mm GIAT CN120-26 F1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[GIAT CN120-26 F1 (120 mm)|120 mm GIAT CN120-26 F1]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0
@@ -102,7 +103,7 @@ The ready rack of the SXXI is the same as the other Leclerc, at 22, is quite sub
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 800 (200) || 577 || N/A || N/A
+| Coaxial || 800 (200) || 575 || - || -
 |-
 |}
 The Leclerc mounts a single coaxial 12.7 mm machine gun. While this coaxial mount limits it to +20° of elevation, if it can be placed on target it can prove effective against low-flying aircraft. Besides this, it can be useful for clearing out light obstacles, knocking out crew on open-top vehicles, and marking targets.
@@ -113,17 +114,17 @@ The Leclerc is an extremely capable MBT. It can prove somewhat vulnerable in clo
 
 '''Rural Combat'''
 
-The Leclerc's OFL 120 F1 round, with its 1,790 m/s muzzle velocity and high penetration values, is a potent sniping round. As such, on open maps (such as [[Kursk (Ground Forces)|Kursk]] or [[Maginot Line (Ground Forces)|Maginot Line]]), it's recommended to operate the Leclerc as a sniper - this allows it to both employ these round characteristics optimally and avoid the Leclerc's large weak spots being easy targets. On maps where flanking is viable, the Leclerc's high power-to-weight ratio can be used to access and push through these routes.
+The Leclerc's OFL 120 F1 round, with its 1,790 m/s muzzle velocity and high penetration values, is a potent sniping round. As such, on open maps (such as [[Kursk (Ground Forces)|Kursk]] or [[Maginot Line (Ground Forces)|Maginot Line]]), it's recommended to operate the Leclerc as a sniper - this allows it to both employ these round characteristics optimally and avoid the Leclerc's large weak spots being easy targets. On maps where flanking is viable, the Leclerc's high power-to-weight ratio can be used to access and push through these routes.
 
 '''Urban Combat'''
 
-The Leclerc is less comfortable in urban combat situations, although still more than capable. On maps such as [[Alaska]], it's preferable to take flanking routes around the edges of urban regions where possible or cap points on the outskirts of the map, avoiding close quarters. In situations where avoiding close quarters is mostly impossible, it's best to play conservatively and maintain full awareness of enemy presence (audio is extremely important information, as you can hear most vehicles). Fortunately the Leclerc has a respectable reverse speed of 38 km/h and providing your engine, transmission, and driver remain intact after a penetration it's more than capable of reversing out of trouble.
+The Leclerc is less comfortable in urban combat situations, although still more than capable. On maps such as [[Alaska]], it's preferable to take flanking routes around the edges of urban regions where possible or cap points on the outskirts of the map, avoiding close quarters. In situations where avoiding close quarters is mostly impossible, it's best to play conservatively and maintain full awareness of enemy presence (audio is extremely important information, as you can hear most vehicles). Fortunately the Leclerc has a respectable reverse speed of 38 km/h and providing your engine, transmission, and driver remain intact after a penetration it's more than capable of reversing out of trouble.
 
 '''Notable opponents'''
 
-* [[Challenger 2]] - The CR2's turret cheeks are essentially immune to even OFL 120 F1 - and the Challenger is deadly accurate at long range. As such, sniping matches with the Challenger 2 should be avoided at all costs, instead attempt to flank it where possible. If there is no opportunity to get closer, move around between shots and try to land a shot on the gun mantlet or the UFP/LFP.
-* [[M1A1 Abrams|M1A1]]/[[M1A2 Abrams]] - The Abrams is a deadly opponent, and thanks to the crew and module spacing will often survive multiple shots. In any engagement, first try to disable the cannon breech - this avoids the Abrams firing back and with your quick reload you'll frequently have time to disable its mobility entirely.
-* [[Leopard 2A5]]/[[Leopard 2A6|2A6]] - The Leopard 2A5 and 2A6 is a dangerous opponent, with a small gun mantlet weak spot and impenetrable turret cheeks. Fortunately, the OFL 120 F1 round can punch straight through the hull. If the opportunity for a hull shot does not arise, try to shoot through the gun mantlet or turret ring where possible.
+* [[Challenger 2]] - The CR2's turret cheeks are essentially immune to even OFL 120 F1 - and the Challenger is deadly accurate at long range. As such, sniping matches with the Challenger 2 should be avoided at all costs, instead attempt to flank it where possible. If there is no opportunity to get closer, move around between shots and try to land a shot on the gun mantlet or the UFP/LFP.
+* [[M1A1 Abrams|M1A1]]/[[M1A2 Abrams]] - The Abrams is a deadly opponent, and thanks to the crew and module spacing will often survive multiple shots. In any engagement, first try to disable the cannon breech - this avoids the Abrams firing back and with your quick reload you'll frequently have time to disable its mobility entirely.
+* [[Leopard 2A5]]/[[Leopard 2A6|2A6]] - The Leopard 2A5 and 2A6 is a dangerous opponent, with a small gun mantlet weak spot and impenetrable turret cheeks. Fortunately, the OFL 120 F1 round can punch straight through the hull. If the opportunity for a hull shot does not arise, try to shoot through the gun mantlet or turret ring where possible.
 * [[Ariete (Family)|Ariete]] -Although its armour protection won't stop your APFSDS, almost all the tank is vulnerable to Ariete's firepower, in fact its rounds can easily penetrate most of the frontal section of the Leclerc even at 2,000 m. It is better to disable its gun before trying to destroy the tank, or just shooting at the left turret cheek, killing the gunner and the commander leaving the target harmless.
 * [[Type 10]] / [[Type 90]] - The Type 10 and Type 90 are the only other autoloaded tanks currently in the game that can load faster than you, with reload of 4.0 seconds compared to your 6.0 seconds.  Getting your first shot off and disabling this tank is top priority as they will out load you.
 

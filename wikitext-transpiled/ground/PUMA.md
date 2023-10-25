@@ -106,7 +106,7 @@ The PUMA will generally cruise at about 56 km/h. The reverse speed is very good 
 
 ==== Ammunition ====
 
-* '''Default:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''Default:''' {{Annotation|APDS|Armour-piercing discarding sabot}}
 * '''MK266:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''PMC308:''' {{Annotation|Ahead|Shrapnel with time fuse}}
 * '''PMC287:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}

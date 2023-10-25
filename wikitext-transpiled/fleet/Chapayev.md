@@ -12,11 +12,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light cruiser {{Battle-
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
 
-The Chapayev has strong armour against any and all 155 mm shells, only constant AP fire from the likes of the [[USS Brooklyn]] will cause enough damage to put a dent in your crew count. Against larger shells, it is recommended to angle your hull 45 degrees towards the attacker to avoid penetrating hits to your ammunition and engine compartments.
+The Chapayev has strong armour against any and all 155 mm shells, only constant AP fire from the likes of the [[USS Brooklyn]] will cause enough damage to put a dent in your crew count. Chapayev's deck armour is strong enough to resist 250 kg bombs, but heavier ones will cause catastrophic damage. Against larger shells, it is recommended to angle your hull 45 degrees towards the attacker to avoid penetrating hits to your ammunition and engine compartments.
 
-The {{PAGENAME}}'s turrets are immune to HE and AP shells from destroyers, as well as resistant against being incapacitated from enemy secondary guns that ships like the [[IJN Mogami]] and the [[Kirov]] suffer from a lot. Against cruisers, the turrets are quite resistant to their high-explosive shells aside from the lucky shell that will hit one of the gun breeches, which will disable only one out of the three guns on the turret.
+The {{PAGENAME}}'s turrets are immune to HE and AP shells from destroyers, as well as resistant against being incapacitated from enemy secondary guns that ships like the [[IJN Mogami]] and the [[Kirov]] suffer from a lot. Against cruisers, the turrets are quite resistant to their high-explosive shells aside from the lucky shell that will hit one of the gun breeches, which will disable only one out of the three guns on the turret
 
-Deck armour is strong enough to resist 250 kg bombs, but heavier ones will cause catastrophic damage.
+One glaring weakness of the {{PAGENAME}} is her tendency to quickly flood from any breach damage. This is especially true if your secondary guns' ammo racks were detonated (which they often do), as this will cause the ship to quickly lose over 70% of buoyancy in just a few seconds, effectively immobilising the ship. As such, be sure to plug any hull leaks as soon as possible to minimize the risks of the ship being overwhelmed by flood damage.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -69,17 +69,18 @@ The Chapayev has a very similar use to the previous cruisers but with a signific
 
 '''Pros:'''
 
-* Has great survivability given her crew count
-* AAA is slow but effective its advised you use HE-VT for 100 mm secondaries
-* Very manoeuvrable
-* Can survive a few torpedo hits if they hit near the centre of the boat
+* Twelve 152 mm guns with good accuracy and damage output
+* HE shell has large filler for its calibre, capable of dealing great damage against unarmoured decks and hulls
+* Has great survivability due to spread out crew compartments
+* Effective anti-air defense with wide coverage
+* Good mobility and very manoeuvrable once upgraded
 
 '''Cons:'''
 
 * Slow without engine upgrades
 * Fire rate is all but amazing
 * Prone to quick flooding without pump upgrade
-* Little armour for ammunition magazines
+* Little armour for ammunition magazines, its secondary ammo rack in particular can be easily detonated and cause catastrophic flood
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

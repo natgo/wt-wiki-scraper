@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO Code: Fishbed-J) is a rank {{Specs|rank}} German jet fighter {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
+During the late '60s and early '70s, East Germany would start receiving second and third generation MiG-21 airframes to replace their aging [[MiG-21F-13]] fleet. The primary upgrade among these was the MiG-21MF, standing for ''Modernizirovannyy Forsirovannyy'' (Modernized, Uprated) to denote the overhaul in avionics and the uprated engine of this type. This upgraded model, touting a different radar system over its predecessors, and an updated airframe shape with increased fuel load, and most importantly, armed with the deadly [[R-60]] air-to-air missile, would form the backbone of the East German air force until the arrival of the [[MiG-21bis-SAU (Germany)|MiG-21bis]] and later the [[MiG-23MF (Germany)|MiG-23MF]] aircraft into the East German fleet.
 
-It is a single-engine delta-wing supersonic interceptor with conventional tail and fully-moving elevators.
+The '''{{Specs|name}}''' (NATO Code: Fishbed-J) was introduced in [[Update 1.95 "Northern Wind"]]. Like the other third-generation MiG-21 airframes, this one features a built in [[GSh-23-2 (23 mm)|GSh-23]] cannon under the fuselage, meaning it does not have to sacrifice the cannon to take countermeasures. In addition to that improvement, the MiG-21MF has a potent arsenal of weaponry for its battle rating, namely the [[R-60]] air-to-air missile. Combined with its incredible high speed manoeuvrability and overall gameplay loop, the MiG-21MF is a very potent fighter aircraft for its tier. Do be wary, however, that while the MiG-21MF is indeed lighter than its Soviet counterpart, the [[MiG-21SMT]], the SMT has a far better engine, which allows it to win dogfights easier assuming both planes start on equal footing.
 
 == General info ==
 === Flight performance ===
@@ -191,7 +191,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-While the '''{{Specs|name}}''' itself is a pretty mediocre fighter, it has access to 4 deadly R-60 missiles. These missiles work the best when enemy is slow, so the recommended tactic is to wait a bit before engaging into the battle.
+While the '''{{Specs|name}}''' itself is a pretty mediocre fighter, it has access to 4 deadly R-60 missiles. These missiles work the best when enemy is slow, so the recommended tactic is to wait a bit before engaging into the battle. If you can manage to get an IRST lock on your target you can guide the R-60 missile off the rail in order to preserve some of the rockets energy.  
 
 Due to the immense speed bleed in turns, it is strongly recommended to keep the speed high near enemies, unless one really wants to closely meet AIM-9J. Dropping below 800 km/h makes it really hard to dodge this missile. When an enemy is spotted, it is recommended to turn roughly into their direction, so when they engage, they'll have to make a 180° turn, which will give time for MiG pilot to disengage without risking getting hit by a missile.
 

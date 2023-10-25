@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]] and was part of the [[wt:en/news/5225-special-french-vehicles-as-christmas-presents-en|2017 "Christmas presents"]] giveaway.
+The '''Char léger modèle 1935 (Hotchkiss) H modifié 39 “Cambronne” 14èBCC''' is a special [[H.39|Char léger modèle 1935 (Hotchkiss) H modifié 39]] of the French Army's 14ème Bataillon de Chars de Combat. It is part of the larger 2e Division Cuirassée of the French Army, which was founded during World War II and participated in the Battle of France in 1940.
 
-It is functionally identical to the standard H.39 in every way except it lacks the 5 mm trench-crossing tail at the hull rear.
+Introduced in [[Update 1.75 "La Résistance"]] as part of the [[wt:en/news/5225-special-french-vehicles-as-christmas-presents-en|2017 "Christmas Presents"]] giveaway, the Char léger modèle 1935 (Hotchkiss) H modifié 39 "Cambronne" 14éBCC outperforms its predecessor in every way. It possesses a somewhat better main armament, thicker overall armour, and a far more powerful engine, which allows it to go remarkably fast on smooth terrain. Nonetheless, when compared to opponents from other countries, this vehicle falls short. While it travels rapidly in a straight line, it moves slowly over muddy terrain, and its narrow tracks slow it down significantly while travelling cross-country. It works best in urban situations as a close support tank, following allies while waiting for a good opportunity to engage the opponent.
 
 == General info ==
 === Survivability and armour ===
@@ -86,6 +86,7 @@ The weak accuracy of the gun (due to its shortness) coupled with the absence of 
 
 ==== Ammunition ====
 The {{PAGENAME}} has a very limited choice of ammunition:
+
 * '''Mle1938''': APC; a solid shot with average penetration and no explosive filler. Make sure to target modules and crew positions to maximise the damage. Knowledge of enemy vehicle layouts is essential with this type of ammunition.
 
 {{:SA38 L/33 (37 mm)/Ammunition|Mle1938}}
@@ -142,23 +143,30 @@ The small calibre of the MAC 31 machine gun makes it largely ineffective against
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+
 ;Offensive role
+
 The {{PAGENAME}} was designed as a light infantry tank. It should be played as a support tank, taking advantage of its good cannon, armour and mobility.
 By playing as a support tank, you will help kill enemy tanks and thus turn the tide of engagements on the frontline. Once the enemy is destroyed, your mobility allows you to move forward together with frontline tanks and help capturing objectives.
 Stay close to the frontline to maximize penetration power and support spearheading tanks with it, all while staying away from the frontline to avoid being flanked or swarmed.
 When engaging enemy tanks, angle your tank to maximize your armour. Your cannon can take on most opponents but your only shell lacks post-penetration damage.
 
 ;Defensive role
+
 In the event the spearhead tanks of your team get crushed by the enemy, you will then play a defensive role by containing enemy breakthrough attempts.
 Being at a (short) distance from the frontline will force enemy tanks to drive in the open to get to you. Play with a nearby obstacle you can use as cover if you get hit and need to repair. Have a planned escape plan as the enemy will try to use artillery or CAS to dislodge you from cover. Make good use of your gun depression and fire from the cover of a ridge. Aim precisely to immobilize enemy targets on your first shot. Get back into cover between reloads and pop out a few metres away from your last spot.
 
 ;Other roles
+
 If you try to use the {{PAGENAME}} in a different role on the battlefield, you will quickly reach its limits:
+
 * If you try to play as a frontline tank, you will take shots from long range tank destroyers that will disable your tank: your armour is sloped but not very thick and not enough for long guns. Your limited crew makes it easy to incapacitate you. You will also be easily flanked by light tanks or armoured cars, especially if they swarm you. Your reverse speed is too poor to get you out of hot spots quickly enough. Only 1-on-1 engagements should be performed in this role.
 * If you attempt to play long range engagements, your good gun depression will be useful but your short gun will lack accuracy and your shell penetration will greatly drop over distance. Any successful enemy penetrating shot will disable your tank.
 
 ;Notable enemies:
+
 Many tanks are capable of easily disabling you. By order of lethality:
+
 * Long range tank destroyers
 * Howitzers with powerful HE shells
 * Tanks with HEAT shells
@@ -166,7 +174,9 @@ Many tanks are capable of easily disabling you. By order of lethality:
 * Light tanks or armoured cars with autocannons
 
 ;Defeating a {{PAGENAME}}
+
 The {{PAGENAME}} has several weak spots:
+
 * In a frontal encounter, the driver's hatch or the almost vertical hull below the turret are the easiest to target.
 * When flanking, aim for the flanks right under the turret.
 * In all situations the turret cupola is a sure way to knock out the gunner.
@@ -208,6 +218,7 @@ The 14ème BCC was deployed in May 1940 in the Aisne region 30 km from the Belgi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_hotchkiss_h39_cambronne Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -219,6 +230,7 @@ The 14ème BCC was deployed in May 1940 in the Aisne region 30 km from the Belgi
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[H.35]]
 
 == External links ==

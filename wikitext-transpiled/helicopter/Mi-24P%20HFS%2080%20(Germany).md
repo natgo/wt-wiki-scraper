@@ -128,11 +128,41 @@ Last thing to note is that the cannon is fixed to the ◄Mi-24P's right side and
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)}}
-{{main|9M114 Shturm|R-60|R-60MK|S-8KO|GSh-23L (23 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || || 1 || 1 || ||
+|-
+! [[S-8KO]] rockets
+| || 20 || 20 || 20 || 20 ||
+|-
+! [[9M114 Shturm]] missiles
+| 2 || 2 || || || 2 || 2
+|-
+! [[R-60]] missiles
+| || 1, 2 || || || 1, 2 ||
+|-
+! [[R-60MK]] missiles
+| || 1, 2 || || || 1, 2 ||
+|-
+| colspan="7" | Maximum permissible weight imbalance: 500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x R-60 missiles
 * 4 x R-60 missiles
@@ -144,37 +174,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| || 1 || 1 || 1 || 1 ||
-|-
-! 250 kg OFAB-250sv bombs
-| || 1 || 1 || 1 || 1 ||
-|-
-! 500 kg FAB-500M-54 bombs
-| || || 1 || 1 || ||
-|-
-! S-8KO rockets
-| || 20 || 20 || 20 || 20 ||
-|-
-! 9M114 Shturm missiles
-| 2 || 2 || || || 2 || 2
-|-
-! R-60 missiles
-| || 1, 2 || || || 1, 2 ||
-|-
-! R-60MK missiles
-| || 1, 2 || || || 1, 2 ||
-|-
-| colspan="7" | Maximum permissible weight imbalance: 480 kg
-|-
-|}
+{{Navigation-End}}
 
 Compared to NATO helicopters in the German tech tree, ◄Mi-24P has the ability to perfectly tailor its payload to any battlefield scenario it can encounter.
 

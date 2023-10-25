@@ -69,7 +69,7 @@ The armour on this variant is the same as on the regular Tiger II (H). The upper
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 54 || rowspan="2" | -8°/+15° || rowspan="2" | ±180° || rowspan="2" | N/A || 15.0 || 20.7 || 25.2 || 27.8 || 29.6 || rowspan="2" | 20.02 || rowspan="2" | 17.71 || rowspan="2" | 16.32 || rowspan="2" | 15.40
+| rowspan="2" | 54 || rowspan="2" | -8°/+15° || rowspan="2" | ±180° || rowspan="2" | - || 15.0 || 20.7 || 25.2 || 27.8 || 29.6 || rowspan="2" | 16.25 || rowspan="2" | 14.38 || rowspan="2" | 13.25 || rowspan="2" | 12.50
 |-
 ! ''Realistic''
 | 11.0 || 13.0 || 15.7 || 17.4 || 18.5

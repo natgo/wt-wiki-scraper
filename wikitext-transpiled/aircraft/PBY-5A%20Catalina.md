@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-In 1933, three companies, Consolidated, Martin, and Douglas were assigned to design a long-range flying boat that could patrol for hundreds of miles. Consolidated’s design was one of two that were chosen by the U.S. Navy although they were both extremely underpowered. Consolidated’s design would later receive the designation “PBY” which stood for “Patrol Bomber” and “Y” signifying the manufacturer. The PBY-5A would receive two Wright R-1830-92 engines each making 1,200 hp and an incredible range of over 2,500 miles (4,023 km). The PBY would serve effectively in maritime patrol, search-and-rescue, anti-submarine warfare, and more. One notable instance of the Catalina’s was the “Black Cats” squadrons which utilized PBYs painted in black for night operations in the Pacific. PBYs are still flown today for missions like firefighting. 
+In 1933, three companies, Consolidated, Martin, and Douglas were assigned to design a long-range flying boat that could patrol for hundreds of miles. Consolidated's design was one of two that were chosen by the U.S. Navy although they were both extremely underpowered. Consolidated's design would later receive the designation "PBY" which stood for "Patrol Bomber" and "Y" signifying the manufacturer. The PBY-5A would receive two Wright R-1830-92 engines each making 1,200 hp and an incredible range of over 2,500 miles (4,023 km). The PBY would serve effectively in maritime patrol, search-and-rescue, anti-submarine warfare, and more. One notable instance of the Catalina's was the "Black Cats" squadrons which utilized PBYs painted in black for night operations in the Pacific. PBYs are still flown today for missions like firefighting.
 
-Introduced since the start of the Open Beta Test prior to 1.27, the '''{{Specs|name}}''' is a dual-engine bomber. It’s a very slow aircraft which makes it an easy target for enemy fighters and interceptors. Furthermore, it's very easy to rip the wings so hard turns shouldn’t be attempted. The Catalina does have ample defensive armament and a decent bomb load for destroying bases. The PBY-5A also has the added benefit of being able to land safely on both land and water due to the addition of the retractable landing gear. Players should be satisfied with the PBY-5A's performance as a low-tier bomber even if it is slow. 
+Introduced since the start of the Open Beta Test prior to 1.27, the '''{{Specs|name}}''' is a dual-engine bomber. It's a very slow aircraft which makes it an easy target for enemy fighters and interceptors. Furthermore, it's very easy to rip the wings so hard turns shouldn't be attempted. The Catalina does have ample defensive armament and a decent bomb load for destroying bases. The PBY-5A also has the added benefit of being able to land safely on both land and water due to the addition of the retractable landing gear. Players should be satisfied with the PBY-5A's performance as a low-tier bomber even if it is slow.
 
 == General info ==
 === Flight performance ===
@@ -59,7 +59,7 @@ Introduced since the start of the Open Beta Test prior to 1.27, the '''{{Specs|n
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || N/A || N/A || ~3 || ~3
+| 405 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~3 || ~3
 |-
 |}
 
@@ -96,17 +96,47 @@ The bomb load upgrades allow an increase in total bomb load, from 1,600 lb throu
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
-{{main|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)|Type A Mark I mine}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_PBY-5_Catalina.png]]</div>
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| 1 || 1 || 6* || 6* || 1 || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1 || 1* || || || 1* || 1
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| 1 || 1* || || || 1* || 1
+|-
+! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
+| || || 1 || 1 || ||
+|-
+! [[Mk.13-6 (2,216 lb)|2,216 lb Mk.13-6]] torpedoes
+| || || 1 || 1 || ||
+|-
+! [[Type A Mark I mine|Type A Mark I]] mines
+| 1 || 1* || || || 1* || 1
+|-
+| colspan="7" | Maximum permissible loadout weight: 2,200 kg<br>Maximum permissible wing load: 1,100 kg<br>Maximum permissible weight imbalance: 800 kg
+|-
+| colspan="8" | * Marked ordnance on hardpoints 2/5 cannot be equipped in conjunction with 100 lb bombs on hardpoints 3/4 respectively
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 16 x 100 lb AN-M30A1 bombs (1,600 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
 * 4 x 1,000 lb AN-M65A1 bombs (4,000 lb total)
 * 4 x Type A Mark I mines
 * 2 x 2,216 lb Mk.13-6 torpedoes
 * 2 x 2,216 lb Mk.13-6 Case torpedoes
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -116,7 +146,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 The '''''{{PAGENAME}}''''' is defended by:
 
 * 1 x 12.7 mm M2 Browning machine gun, 2 x beam turrets (478 rpg)
-* 1 x 7.62 mm Browning machine gun, nose turret (1,000 rpg)
+* 2 x 7.62 mm Browning machine guns, nose turret (1,050 rpg = 2,100 total)
 * 1 x 7.62 mm Browning machine gun, ventral turret (500 rpg)
 
 == Usage in battles ==
@@ -196,6 +226,7 @@ The PBY was used as a bomber and torpedo carrier, and was often utilized in nigh
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=pby-5a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

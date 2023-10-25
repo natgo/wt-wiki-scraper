@@ -5,13 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British SPAA {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+The '''Bosvark''' is a self-propelled anti-aircraft (SPAA) vehicle named after the African Bushpig, which is armed with powerful tusks for digging up roots and defending itself against predators. The South African Defence Force (SADF) seized considerable amounts of 23 mm ZU-23-2 twin-barrelled autocannons from the Popular Movement for the Liberation of Angola (MPLA) during the South African Border War, which lasted from 1966 to 1989. The MPLA had obtained these from Cuban and Soviet benefactors. The SADF employed these weapons for a variety of purposes, including base defence, makeshift weapons platforms, and training. Early in 1990, the Armaments Corporation of South Africa (ARMSCOR) issued a request for proposals based on end-user specifications established by the SADF to mount the captured 23 mm ZU-23-2 twin-barrelled autocannons (also known as GA-6 in the SADF) on a vehicle. The vehicle had to be mine-resistant, according to the key development criteria. The SAMIL 100 Kwêvol transport vehicle was chosen as it met the specifications for an armoured crew compartment, a mine-protected chassis, and a large rear deck on which to put the weapon platform.
 
-The Bosvark, also locally known as Zumlac, is a anti-air truck used by the South African Armed Forces combining the sturdy SAMIL 100 truck chassis with captured, Soviet-made fast-firing ZSU-23-2 anti-air cannons.
-
-The design portrays all the fundamental principles of the average wheeled South African armoured vehicles: firepower and mobility over armour protection.
-
-Players that enjoyed the skillfulness of the [[Ystervark]] will note the resemblance driving the Bosvark. Without much difference in the gameplay either, mainly focusing on close-range airspace denial and close ground support.
+Introduced in [[Update "Fire and Ice"]], the Bosvark is fast and manoeuvrable, players can easily set up ambushes by hiding near buildings and waiting for unsuspecting enemy aircraft to fly low, making them an easy target. It is, however, larger than other SPAA vehicles, and many of its personnel are unprotected. As a result, it is critical to always remain hidden and unnoticed. A quick burst of fire from the 23 mm ZU-23-2 twin-barrelled autocannons can readily bring down any aircraft during battles. However, as the ammunition is limited and the reload time is long, it is crucial not to fire for an extended period. Finally, do not engage enemy ground forces. Despite having access to armour-piercing ammunition belts, the armour penetration capability is insufficient to deal with the vast majority of targets encountered during fights.
 
 == General info ==
 === Survivability and armour ===
@@ -71,6 +67,7 @@ Players that enjoyed the skillfulness of the [[Ystervark]] will note the resembl
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}
 * '''HEFI-T:''' {{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEF-I|High-explosive fragmentation incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
 * '''APIT:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
@@ -123,6 +120,7 @@ Players that enjoyed the skillfulness of the [[Ystervark]] will note the resembl
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_bosvark Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

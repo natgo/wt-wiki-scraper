@@ -171,7 +171,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 The main cannon is filled with APHE as main ammunition in all loadouts, so it is good at causing plane fires and destroying lightly armoured targets, including light pillboxes or tanks. The gun can destroy howitzers in 3-4 hits from 3 km away, which is decent considering the low ammunition count.
 
-The gun can receive gun radar assist at about 1.5 km range. In this mode, the gun pointer demonstrates where the shells will fly, all pilot has to do is to fire and "slice" enemy plane hull with the gun pointer while doing so. Accuracy of the gun radar is about 80% and it is very reliable even against wiggling enemy planes within ground interference and despite low fire rate of a gun, making it superior to radar missiles during ground level fights.
+The gun can receive gun radar assist at about 1.5 km range. In this mode, the gun pointer demonstrates what the shells will intercept, all pilot has to do is to fire and "slice" enemy plane hull with the gun pointer while doing so. Accuracy of the gun radar is about 80% and it is very reliable even against wiggling enemy planes within ground interference and despite low fire rate of a gun, making it superior to radar missiles during ground level fights.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -218,6 +218,8 @@ The Tornado F.3 only gets to carry missiles as weapons, and the choice is rather
 AIM-9L can be utilized as a "parry" missile, as it gets agitated by any enemy missiles and will try to hit them instead of enemy plane if they fire anything. Otherwise it is sometimes useful against similar variable wing planes, in attacks from behind, or if the enemy is unaware or forgets to flare (quite uncommon at rank VII). Tornado F.3 can utilize "TWS" radar mode to slave and fire the 9L at multiple planes without changing flight direction.
 
 The Skyflashes are the same as those used on Phantom FGR.2 and FG.1. The main advantage is that they can be launched at ridiculous angles and still manage to acquire the lock, then they turn towards the enemy right after launch without wasting time. This combines well with the "look up" and "wide" ACM radar mode, as the plane is often forced to ground level without even being able to pull the nose up by other radar missiles. In general, these missiles can acquire anything within 30 degrees of the plane nose, better if the target is below the plane (radar scope can be checked to see how many degrees above or below the nose is the selected target).
+
+Skyflash SuperTEMP modification is slightly better than normal Skyflash in every regard, but the most notable difference is that upgraded missiles are far less prone to randomly lose track of the target (and then self-destruct as a result) when launched to the side. While SuperTEMP doesn't reach [[SRAAM]] level of reliability and can be outstalled in a SARH duel, it can casually intercept planes at 2.5 to 8 km ranges if they dare to leave the ground protection.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

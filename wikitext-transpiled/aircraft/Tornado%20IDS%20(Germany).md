@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German strike aircraft {{Battle-rating}}. It was introduced during [[Update "Apex Predators"]] as a reward for the [[wt:en/news/8021-event-winter-quest-en|2022 Winter Quest]] event.
+During the acquisition of the Tornado IDS by the Luftwaffe, the Deutschemarine (German Navy) also received 112 Tornado IDS aircraft for the anti-shipping and maritime patrol/reconnaissance roles. The naval Tornados, designated ''"Marineflieger"'', were easily recognizable due to the sea-gray liveries they usually used, and were outfitted with special weapon systems not found on the Luftwaffe Tornados, allowing them to use the [[AS.34 Kormoran]] anti-ship missile and BL775 cluster munitions. At the end of the Cold War, per the CFE Treaty, half of the Marinefliegers would be removed from naval service and instead incorporated into the Luftwaffe, to replace a wing of reconnaissance RF-4 Phantoms. The remaining Marinefliegers would continue their anti-shipping and maritime roles until 2005, when their units were disbanded and the Tornados were dispersed back into the Luftwaffe and upgraded into the [[Tornado IDS ASSTA1 (Germany)|ASSTA]] standard.
+
+The '''{{Specs|name}}''' was introduced during [[Update "Apex Predators"]] as a reward for the [[wt:en/news/8021-event-winter-quest-en|2022 Winter Quest]] event. Being a older Tornado IDS variant, it lacks the [[Tornado IDS ASSTA1 (Germany)|ASSTA1]] upgrade found on its tech tree counterpart, meaning it can not use guided bombs and advanced targeting pods. However, being the Marineflieger (Naval variant), it gets access to the active radar [[AS.34 Kormoran]] anti-ship missiles, a very unique and niche weapon system. The Tornado is not great at air-to-air combat, and as this variant lacks its laser-guided bombs, it's also somewhat underwhelming in mixed battles against tanks. The IDS Marineflieger serves best as a collector's vehicle, due to its rare gift/event vehicle status, unique camouflages, and special weaponry. The aircraft does find a niche use on certain maps in Air [[Simulator Battles]], where its anti-ship missiles can be used against AI controlled naval targets.
 
 == General info ==
 === Flight performance ===
@@ -173,6 +175,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 1,500 l drop tanks
 * 56 x large calibre countermeasures
 * 2 x AIM-9L Sidewinder missiles
@@ -201,7 +204,7 @@ It is advisable to bomb enemy bases, since the Tornado is not very good in air c
 * Mauser BK27 guns have decent hitting power and ammunition capacity
 * Impressive bombload and access to AS.34 Kormoran anti-ship missiles
 * Access to two AIM-9L Sidewinder air-to-air missiles stock
-* slow speed helps with turning when you have manual control of sweep wing 
+* slow speed helps with turning when you have manual control of sweep wing
 
 '''Cons:'''
 
@@ -261,7 +264,7 @@ The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [https://marine-flieger.de/mrca-tornado-pa200 <nowiki>[Marine-Flieger]</nowiki> MRCA Tornado PA200] 
+* [https://marine-flieger.de/mrca-tornado-pa200 <nowiki>[Marine-Flieger]</nowiki> MRCA Tornado PA200]
 * [[wt:en/news/8024-development-winter-event-vehicles-tornado-ids-marineflieger-en|[Devblog] Winter event vehicles: Tornado IDS Marineflieger]]
 
 {{AirManufacturer Panavia}}

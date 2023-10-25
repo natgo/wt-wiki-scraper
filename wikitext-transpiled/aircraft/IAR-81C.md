@@ -102,16 +102,30 @@ A big downside is the wing-mounted position of all firearms. This location drast
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SC50JA (50 kg)|SC250JA (250 kg)|Wfr.Gr.21}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
+| rowspan="4" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[SC50JA (50 kg)|50 kg SC50JA]] bombs
+| 1 || || 1
+|-
+! [[SC250JA (250 kg)|250 kg SC250JA]] bombs
+| || 1 ||
+|-
+! [[Wfr.Gr.21]] rockets
+| 1 || || 1
+|-
+|}
 
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
+* 2 x Wfr.Gr.21 rockets
 * 2 x 50 kg SC50JA bombs (100 kg total)
 * 1 x 250 kg SC250JA bomb (250 kg total)
-* 1 x 250 kg SC250JA bomb + 2 x 50 kg SC50JA bombs (350 kg total)
-* 2 x Wfr.Gr.21 rockets
-* 2 x Wfr.Gr.21 rockets + 1 x 250 kg SC250JA bomb (250 kg total)
+{{Navigation-End}}
 
 Where this vehicle really shines, however, is its access to a ground-pounding loadout of a 250 kg bomb and 2x ''"Werfergranate 21"'' rockets. Although created for anti-bomber use, the Wfr.Gr.21 rockets are capable of shredding tanks it faces at its battle rating or above, penetrating even a tank's side armour with a near-miss in some scenarios. With powerful HE shells for its cannons to demolish open-topped vehicles, a 250 kg bomb on a "trapeze"-style mount like those found on the [[Ju 87 (Family)|Ju 87-series]] aircraft, and Wfr.Gr.21 rockets for engaging fast-moving tanks or more armoured anti-aircraft vehicles from a distance (namely the [[Crusader AA Mk I]] or the [[AC Mk II AA]]), the IAR-81C provides the Italian tree with a vehicle that poses a serious threat to all but the most armoured vehicles or cautious anti-air.
 

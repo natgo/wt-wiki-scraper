@@ -33,7 +33,7 @@ The Harrier GR.7 was introduced in [[Update "Drone Age"]]. This versatile aircra
 | 1,116 || 1,110 || rowspan="2" | {{Specs|ceiling}} || 30.4 || 30.9 || 70.8 || 70.8 || rowspan="2" | 550
 |-
 ! Upgraded
-| 1,133 || 1,125 || 29.6 || 30.0 || 111.1 || 89.7
+| 1,133 || 1,125 || 29.6 || 30.0 || 111.4 || 90.0
 |-
 |}
 
@@ -83,7 +83,7 @@ The Harrier GR.7 was introduced in [[Update "Drone Age"]]. This versatile aircra
 ! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Rolls-Royce Pegasus Mk.105 || 1
-| colspan="3" | 6,057 kg || colspan="3" | 424 kg/m<sup>2</sup>
+| colspan="3" | 6,057 kg || colspan="3" | 453 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}

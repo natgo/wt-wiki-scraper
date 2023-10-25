@@ -74,7 +74,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet heavy tank {{Battl
 |}
 
 ==== Ammunition ====
-{{:D-25T (122 mm)/Ammunition|BR-471, BR-471B, OF-471}}
+{{:D-25T (122 mm)/Ammunition|BR-471, OF-471, BR-471B, BR-471D}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks IS-2.png|thumb|[[Ammo racks]] of the IS-2]]
@@ -121,7 +121,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet heavy tank {{Battl
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,890 (63) || 600 || N/A || N/A
+| Coaxial || 1,890 (63) || 600 || - || -
 |-
 |}
 
@@ -130,11 +130,13 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet heavy tank {{Battl
 ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
 
 * Powerful 122 mm gun with enough explosive filler to knock out a tank with a single penetrating shot.
 * Large calibre gives round good overmatching mechanics against most front armour of medium tanks.
-* Upper hull plate is thickly armored and angled, able to resist most shells with the exception of HEAT or APDS.
+* Upper hull plate is thickly armoured and angled, able to resist most shells with the exception of HEAT or APDS.
 * Relatively good mobility and top speed for a heavy tank, with a faster reverse speed as well to withdraw quickly.
 * Roof mounted machine gun can help defend against lightly-armoured vehicles or low-flying aircraft. 
 

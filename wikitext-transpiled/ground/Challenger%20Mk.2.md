@@ -66,7 +66,7 @@ Hull sides are generally very weak, as is typical of top-rank MBTs. The upper hu
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=1,860|rbMinHp=1,061}}
+{{tankMobility|abMinHp=1,886|rbMinHp=1,076}}
 
 The {{PAGENAME}}'s speed sets it apart from the previous Chieftain tanks, as it is capable of reaching 56 km/h on roads and 46 km/h off-road. Reverse speed is also a noticeable improvement from the Chieftain line. Despite this, the 62 ton mass of this vehicle makes it the slowest of its high-rank contemporaries (e.g. Abrams, Leopard, and Type 90).
 

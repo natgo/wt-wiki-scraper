@@ -130,7 +130,7 @@ The previous Type 63-I has no HMG installed on top; in ZTS63's case, it has a pi
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 3,250 (250) || 600 || - || -
+| Coaxial || 2,000 (250) || 600 || - || -
 |-
 |}
 

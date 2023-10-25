@@ -6,9 +6,9 @@
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 
-The '''{{Specs|name}}''' (shortened '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Swedish SPAA {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]] as the Swedish rank I self-propelled anti-air vehicle.
-
 Historically the {{Specs|name}} was a Swedish attempt at creating a self propelled platform for the Bofors 20 mm anti-tank/anti-air autocannon L/70 (Swedish designation ''20 mm automatkanon (akan) m/40''). The idea was to reuse the chassis of the failed Landsverk L-120 prototype tankette and fitting it with the aforementioned weapon to trial the concept. The trials were somewhat successful and would lead to the development of the Swedish SPAA Lvkv fm/43.
+
+The '''{{Specs|name}}''' (shortened '''{{Specs|pseudonym}}''') is a Swedish Anti-Air vehicle, it was introduced in [[Update 1.97 "Viking Fury"]] in the intial ground vehicle tech tree. The {{PAGENAME}} is a fast vehicle with a hard hitting 20mm making it vehicle with versatile use. Its speed and manouverbility give it a feeling of driving a light tank with an auto cannon similar to the [[Panzer II]] but with more vulnerability due to exposed gunner and limited crew makes the {{PAGENAME}} an easy vehicle to knock out. But due to 36 round drum and the versatility on the [[Lvakan m/40B (20 mm)|Lvakan m/40B]] it can deal with most opponent it will face both on ground and in air.
 
 == General info ==
 === Survivability and armour ===

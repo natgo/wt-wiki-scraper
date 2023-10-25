@@ -24,7 +24,7 @@ While it retains the standard Corsair traits of excellent performance in the hor
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 5,000 m)
+! colspan="2" | Max speed<br>(km/h at 5,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -33,10 +33,10 @@ While it retains the standard Corsair traits of excellent performance in the hor
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 667 || 644 || rowspan="2" | {{Specs|ceiling}} || 21.1 || 21.7 || 14.1 || 14.1 || rowspan="2" | 200
+| 662 || 634 || rowspan="2" | {{Specs|ceiling}} || 21.1 || 21.9 || 13.8 || 13.8 || rowspan="2" | 200
 |-
 ! Upgraded
-| 732 || 697 || 19.1 || 20.0 || 25.8 || 19.0
+| 739 || 697 || 19.2 || 20.0 || 26.5 || 19.0
 |-
 |}
 
@@ -104,14 +104,38 @@ The 4 x 20 mm cannons are excellent at inflicting damage and their high muzzle v
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|HVAR}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_F4U-4.png]]</div>
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| || 1 || || 1 || || || 1 || || 1 ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || || 1 || 1 || || || ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || || 1 || 1 || || || ||
+|-
+! [[HVAR]] rockets
+| 1 || 1 || 1 || 1 || || || 1 || 1 || 1 || 1
+|-
+| colspan="11" | Maximum permissible loadout weight: 1,400 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
-* 2 x 500 lb AN-M64A1 bombs + 4 x 250 lb AN-M57 bombs (2,000 lb total)
-* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
 * 8 x HVAR rockets
+* 4 x 250 lb AN-M57 bombs (1,000 lb total)
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
+* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -183,6 +207,7 @@ A variant was to be created for the British Fleet Air Arm of the Royal Navy. It 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f4u-4b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -209,6 +234,7 @@ A variant was to be created for the British Fleet Air Arm of the Royal Navy. It 
 === References ===
 
 ;Bibliography
+
 * "[https://www.jdsf4u.be/f4u-4b-vought-corsair F4U-4B Vought Corsair]", ''F4U Corsair - The Bent Wing Bird plane site'', Retrieved on 28 March 2020.
 * "[https://www.jdsf4u.be/type-of-plane-f4u Types of Plane F4U - Variants]", ''F4U Corsair- The Bent Wing Bird plane site'', Retrieved on 28 March 2020.
 

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.59 "Flaming Arrows"]]. It was designed to provide the VDV (''Vozdushno-Desantnye Voyska''), the Soviet airborne forces, with an air-portable self-propelled gun for independent fire support and anti-tank capability in support of paratroopers during airborne operations.
+The '''ASU-85 (Авиадесантная самоходная установка, АСУ-85)''' was a Cold War-era Soviet-designed airborne self-propelled gun. It began to replace the open-topped [[ASU-57]] in service in 1959. Beginning in 1969, it was superseded by the BMD-1. It was designed to replace older designs such as the ASU-57 for use by the Vozdushno-Desantnye Voyska (VDV). Its design was lengthy and intricate, and it took nearly ten years to complete due to the demanding demands of getting the vehicle airborne. The ASU-85 saw duty as late as the Soviet-Afghan War, but it was far from widespread. The ASU-85 was based on the [[PT-76 (Family)|PT-76 light amphibious tank family]] chassis, however, it lacked amphibious characteristics and was powered by a different engine. The vehicle was divided into three compartments: the driver's compartment at the front, the combat compartment in the centre, and the engine compartment in the back. The ASU-85 was utilized in airborne missions by the Soviet Airborne Forces. With minimal anti-tank capability, its primary function was light infantry support or assault fortifications. The ASU-85 was only exported to two other Warsaw Pact countries: East Germany and Poland. NATO first noticed it in 1962, and it was frequently utilized by Soviet and Polish airborne units.
+
+Introduced in [[Update 1.59 "Flaming Arrows"]], the ASU-85 is a unique vehicle that survives on the battlefield through stealth. It is particularly vulnerable if caught in the open due to the very thin roof armour, especially against planes. The armament can deal with almost any tank that the ASU-85 is likely to encounter. Unfortunately, the ASU-85 lacks the mobility of its forefather, the ASU-57, and must play more passively. On city maps, where engagements are typically close-range, this could be a problem. Overall, the ASU-85 is a situational vehicle that excels on large maps and circumstances where the terrain allows for stealth ambush but struggles in close-quarters combat.
 
 == General info ==
 === Survivability and armour ===
@@ -70,7 +72,7 @@ The standard shell is the '''BR-372''' APBC shell with a lethal explosive filler
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 39 || rowspan="2" | -4°/+15° || rowspan="2" | ±15° || rowspan="2" | N/A || 6.2 || 8.5 || 10.4 || 11.5 || 12.2 || rowspan="2" | 9.23 || rowspan="2" | 8.17 || rowspan="2" | 7.53 || rowspan="2" | 7.10
+| rowspan="2" | 39 || rowspan="2" | -4°/+15° || rowspan="2" | ±15° || rowspan="2" | - || 6.2 || 8.5 || 10.4 || 11.5 || 12.2 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 4.2 || 4.9 || 6.0 || 6.6 || 7.0

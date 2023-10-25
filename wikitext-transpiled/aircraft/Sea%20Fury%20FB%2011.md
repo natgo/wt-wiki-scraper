@@ -174,13 +174,13 @@ Its offensive armaments, four Hispano Mk V cannons, do not have enough penetrati
 * Wide track undercarriage for easier and more stable landings
 * Carrier arrestor hook for extra versatility on RB and SB naval maps
 * Clear visibility cockpit with good all-round vision
-* Control surfaces remain responsive even as the plane approaches the never-exceed speed
+* Control surfaces remain responsive even as the plane approaches the max structural limit speed
 
 '''Cons:'''
 
-* Large engine can hider visibility on taking off and landings for SB pilots
+* Large engine can hinder visibility on taking off and landings for SB pilots
 * Post-war aircraft that can see rank V games
-* Can sometimes be outmanoeuvred in situations against certain American, Russian Japanese aircraft of equal rank
+* Can sometimes be outmanoeuvred in situations against certain American, Russian, and Japanese aircraft of equal rank
 * Horrible turn rate at most speeds that dogfights take place at; even Fw 190s can out-turn the Sea Fury at most speeds
 
 == History ==
@@ -190,7 +190,7 @@ Its offensive armaments, four Hispano Mk V cannons, do not have enough penetrati
 The Sea Fury was the result of Hawkers development of the original Fury biplane fighter, through to the Hurricane, Typhoon and Tempest finally culminating in the second design to be known as the "Fury". Experience with the Tempest and also through research of the Fw 190 lead to a lightweight version of the already successful Tempest II fighter. However, in an age when the skies were quickly being filled with Jet powered aircraft, the Royal Air Force turned down the Hawker Fury as they already have surplus Tempests and were beginning to receive their first jet aircraft. The Royal Navy's Fleet Air Arm, however, was much more welcoming of a carrier-borne version of the Fury due to the foreseen complications of operating early jet aircraft from Aircraft Carriers. With some Modification to meet Royal Navy specifications, the last and most powerful in the line of British piston engine aircraft was born.
 [[File:FighterImage_Hawker Sea Fury T20 'VX281 - VL-120' (G-RNHF) (14130541842).jpg|thumbnail|right|Hawker Sea Fury T20 from the Royal Navy Historic Flight]]
 
-Whilst the Sea Fury was too late to see service within the Second World War, it made its impact on the opening stages of the Korean war with great distinction. Initially escorting Fairy Firefly Mk V's and USAF aircraft like the B-29 Superfortress, the Sea Fury soon found its self on secondary roles due to the ever-increasing threat of the MiG-15 now in the hands of Chinese and North Korean pilots. Despite this, on the 9th August 1952, a flight from No.802 Squadron were en route to a ground attack sortie when they were bounced by MiG-15 fighters. Peter Carmichael, flying Hawker Sea Fury WJ232 (Coded 114), damaged one of the Jet fighters in a head-on attack with the first and only Air-to-Air kill for the Sea Fury in the Korean War. The feat showed the remarkable potential of the aircraft, even when faced with vastly superior opposition and secured its place in the rapidly developing history of aviation.
+Whilst the Sea Fury was too late to see service within the Second World War, it made its impact on the opening stages of the Korean war with great distinction. Initially escorting Fairy Firefly Mk V's and USAF aircraft like the B-29 Superfortress, the Sea Fury soon found its self on secondary roles due to the ever-increasing threat of the MiG-15 now in the hands of Chinese and North Korean pilots. Despite this, on the 9th August 1952, a flight from No.802 Squadron were en-route to a ground attack sortie when they were bounced by MiG-15 fighters. Peter Carmichael, flying Hawker Sea Fury WJ232 (Coded 114), damaged one of the Jet fighters in a head-on attack with the first and only Air-to-Air kill for the Sea Fury in the Korean War. The feat showed the remarkable potential of the aircraft, even when faced with vastly superior opposition and secured its place in the rapidly developing history of aviation.
 
 Other nations to operate the Sea Fury include Canada, Pakistan, Cuba, Netherlands, Iraq, Australia, Germany, Burma and Egypt. Whilst the majority built were of the Fighter or Fighter bomber versions, the two seat and two-seat trainer versions were also popular on the export market, with the Hawker Sea Fury T 20 being the best example of the two-seat variant. Even after its operational service ended, the Sea Fury is still a popular racing aircraft among pilots, particularly at the Chino Air Races. Several museums, air forces and private collections house and operate examples of the Sea Fury, with the best example of this being the Royal Navy Historic Flight who have operated multiple Sea Fury's since the type's retirement.
 
@@ -216,6 +216,7 @@ The Sea Fury also served with the militaries of Canada, Australia, Burma, Pakist
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sea_fury_fb11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -229,6 +230,7 @@ File:FighterImage_Carmichael's Hawker Sea Fury.jpg|Peter "Hoagy" Carmichael's Ha
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
