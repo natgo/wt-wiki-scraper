@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]]. It is a competitive aircraft with good air to air and air to ground capability.
+After the navalized version of the [[Jaguar (Family)|SEPECAT Jaguar]] was cancelled, France was left with a dire need for an aircraft to replace their aging fleet of [[Etendard IVM]]s for carrier operations. There were several import proposals at first, including [[A-4 (Family)|A-4]] and [[A-7 Corsair II (Family)|A-7]] aircraft from the USA, but ultimately, it was decided instead to use an indigenous modernization of the Etendard, dubbed the '''Super Etendard'''. The primary upgrades were to the avionics, which would come from modern Dassault aircraft and were already proven on platforms like the late Mirage IIIs and the early Mirage 2000s. The Super Etendard's primary upgrades were a new engine, and new targeting systems allowing it to use new anti-ship and laser-guided ordnance.
 
-The Super Étendard, a French naval fighter aircraft, boasts a storied legacy in aviation history due to its impressive capabilities and distinguished service record. Its inception in the 1970s marked the beginning of an era where this sleek and agile aircraft played a pivotal role within the French Navy and numerous other countries across the globe. Recognized for its adaptability and exceptional combat performance, the Super Étendard has remained an iconic representation of precision strike capabilities and carrier-based operations, etching an enduring legacy within the realm of military aviation.
+The '''{{Specs|name}}''', introduced in [[Update "Sons of Attila"]], is a competitive aircraft with good air-to-air and air-to-ground capability for its battle rating. The dogfighting performance is no slouch, due to the powerful engine which allows the aircraft to fly at supersonic speeds without an afterburner at certain altitudes, and it is further complemented by the abundant countermeasures and [[Matra R550 Magic 1|R.550 Magic 1]] air-to-air missiles which are also very good for this battle rating. In mixed battles, the Super Etendard really begins to shine: The aircraft not only carries up to four GBU-12 Paveway laser guided bombs and the ATLIS II targeting pod, allowing the Super Etendard to rain hell on tanks in ground battles, but it also gets an air-to-surface radar, allowing it to detect ground vehicles from far away in the right circumstances. The Super Etendard overall is a great stepping stone towards the later French fighter-bombers such as the [[Jaguar A]] and the [[Mirage 2000D-R1|Mirage 2000D]].
 
 == General info ==
 === Flight performance ===
@@ -17,7 +17,7 @@ The Super Étendard is quite a manoeuvrable plane. It features good manoeuvring 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 12,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -26,10 +26,10 @@ The Super Étendard is quite a manoeuvrable plane. It features good manoeuvring 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 1,358 || 1,344 || rowspan="2" | {{Specs|ceiling}} || 33.0 || 34.0 || 80.4 || 72.6 || rowspan="2" | 800
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 1,406 || 1,380 || 31.3 || 32.0 || 115.8 || 97.0
 |-
 |}
 
@@ -40,7 +40,7 @@ The Super Étendard is quite a manoeuvrable plane. It features good manoeuvring 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -55,7 +55,7 @@ The Super Étendard is quite a manoeuvrable plane. It features good manoeuvring 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| 1,263 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 1,263 || 389 || 389 || ~11 || ~4
 |-
 |}
 
@@ -65,7 +65,7 @@ The Super Étendard is quite a manoeuvrable plane. It features good manoeuvring 
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || -
+| < 920 || < 750 || < 600 || -
 |-
 |}
 
@@ -73,34 +73,34 @@ The Super Étendard is quite a manoeuvrable plane. It features good manoeuvring 
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="5" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | SNECMA Atar 8K-50 || 1
+| colspan="2" | 6,711 kg || colspan="3" | 329 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 10m fuel || 20m fuel || 30m fuel || 33m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 1,150 kg || colspan="2" | Axial-flow turbojet
+| 7,496 kg || 8,271 kg || 9,050 kg || 9,329 kg || 11,769 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="5" | Thrust to weight ratio @ 0 m (100%)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 10m fuel || 20m fuel || 30m fuel || 33m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 4,950 kgf || -
+| 0.66 || 0.60 || 0.55 || 0.53 || 0.42
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 5,841 kgf<br>(1,200 km/h) || -
+| 0.78 || 0.71 || 0.65 || 0.63 || 0.49
 |-
 |}
 
@@ -116,6 +116,15 @@ It also features a total of 180 countermeasures. It is easy to flare off incomin
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="4" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+|-
+| {{Cross}} || {{Tick}} || {{Tick}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -128,9 +137,64 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
+| 1 || 1 || || 2 || || 1 || 1
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| 1 || 1 || || 2 || || 1 || 1
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 1 || 1 || || 2 || || 1 || 1
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 1 || 1 || || 2 || || 1 || 1
+|-
+! [[GBU-12 Paveway II (277 kg)|277 kg GBU-12 Paveway II]] bombs
+| || 1, 2 || || || || 1, 2 ||
+|-
+! [[SAMP Type 21 200 (400 kg)|400 kg SAMP Type 21 200]] bombs
+| 1 || 1 || || 2 || || 1 || 1
+|-
+! [[SAMP Type 21 (400 kg)|400 kg SAMP Type 21]] bombs
+| 1 || 1 || || 2 || || 1 || 1
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 1 || 1 || || 2 || || 1 || 1
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 1 || 1 || || 2 || || 1 || 1
+|-
+! [[SNEB type 23]] rockets
+| 18 || 18 || || || || 18 || 18
+|-
+! [[TBA ECC]] rockets
+| 4 || 4 || || || || 4 || 4
+|-
+! [[TBA Multi-Dart 100 AB]] rockets
+| 4 || 4 || || || || 4 || 4
+|-
+! [[Matra R550 Magic 1]] missiles
+| 1 || || || || || || 1
+|-
+! Countermeasures
+| || || 90 || || 90 || ||
+|-
+! ATLIS II targeting pod
+| || || || 1 || || ||
+|-
+|}
+
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-
+* Without load
 * 180 x countermeasures
 * 2 x Matra R550 Magic 1 missiles
 * 72 x SNEB type 23 rockets

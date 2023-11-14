@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+The '''{{Specs|name}}''' were captured by Israel from Egypt and Syria during the Six-Day War in 1967 and the Yom Kippur War in 1973. It is otherwise identical in all aspects to the Soviet [[ZSU-57-2]].
 
-An SPAA built on a heavily-modified T-54 chassis, the ZSU-57-2 features two powerful 57 mm guns, good mobility, and very light armour. It has proven to be more of a menace to ground vehicles than aircraft with its high-velocity cannons, but low sustained rate of fire and poor accuracy.
-
-ZSU-57-2s were captured by Israel from Egypt and Syria during the Six-Day War in 1967 and the Yom Kippur War in 1973. It is otherwise identical in all aspects to the Soviet [[ZSU-57-2]].
+It was introduced in [[Update "Fire and Ice"]]. An SPAA built on a heavily-modified T-54 chassis, the ZSU-57-2 features two powerful 57 mm guns, good mobility, and very light armour. It has proven to be more of a menace to ground vehicles than aircraft with its high-velocity cannons, but low sustained rate of fire and poor accuracy.
 
 == General info ==
 === Survivability and armour ===

@@ -88,7 +88,7 @@ Sharing the same 2A46M-5 from T-90A and later series Russian tanks, all performa
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''43''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''43''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || 24&nbsp;''(+19)'' || 1&nbsp;''(+42)'' || __&nbsp;''(+__)'' || __
 |-
 |}
 
@@ -136,6 +136,7 @@ Overall, T-90S offers a departure from NATO playstyle while maintaining the fire
 * Better power-to-weight ratio than British MBTs thanks to the weight
 * Access to 2nd generation TVD channel
 * Rather well protected up front with some side applique armour
+* CONTACT-5 ERA provides excellent frontal and turret protection
 * Extended turret applique armour than T-90A that offers more protection
 * Sufficient firepower to take out ground and aerial targets with respective ammunitions i.e. APFSDS, ATGM or HE-FS (Time-fused)
 * Lower profile than Challenger series
@@ -159,7 +160,11 @@ Overall, T-90S offers a departure from NATO playstyle while maintaining the fire
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:Bhishma TWMP WTWallpaper005.jpg
+</gallery>
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -174,10 +179,8 @@ Overall, T-90S offers a departure from NATO playstyle while maintaining the fire
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8427-development-squadron-vehicles-t-90-bhishma-en|[Devblog]T-90 Bhishma: Squadron vehicles]]
 
 {{Britain medium tanks}}
 {{Squadron ground vehicles}}

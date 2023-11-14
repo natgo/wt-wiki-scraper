@@ -11,9 +11,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
 
-Though under the Swedish line, it is a Finnish aircraft, as the XS stands for Export Suomi.
+The J35XS was part of a deal between Finland and Sweden so that the last one could provide Finland with different variants of the J35 Draken. At the beginning only second hand J35Fs, Bs and Cs were provided with minor modifications but Finland requested an upgrade variant of the J35F, more comparable to the J35J standard. Thus the J35XS was conceived, it had better countermeasures, electronics, a better radar (but still very similar), more weapon pylons and access to the RB-27 and RB-28 missiles, as well as the RB-24J (AIM-9P). A total of 12 aircrafts were produced of this variant, and was the only one assembled in Finland, while the kits were produced in Sweden by SAAB. In real life, the J35XS was also able to fire the Soviet R-13M1 (export variant of the R-13M) that was extensively used by Finland in their Mig-21s.
+
+Introduced in [[Update "Apex Predators"]], the J35XS plays like all Drakens, fast, and with good AOA capabilities. Of course, while doing manoeuvres it losses all of it's speed, but it has a very interesting double delta wing design, that allows the aircraft to retain energy at high speeds at the cost of agility. It has access to 6 x RB-24Js that are basically AIM-9Ps. This missiles have a decent range and acceleration, as well as 20Gs of pull, very well suited for it's BR. It also has access to 12 countermeasures, not a lot, considering that they are deployed 2 x 2, but it's better than nothing. This means that taking chaff is not recommended, and thus flying close to the ground to avoid radar locks is highly advised. Also, it uses an IRST coupled with it's radar. This allows to lock to the heat signature of jets and slaving the missile to that lock, but the locked target wont receive a warning unlike radar, that triggers the RWR if it's able to detect the lock. The problem is that IRST can't identify if the lock is friend or enemy, so watch out for friendly fire.
 
 == General info ==
 === Flight performance ===
@@ -181,22 +182,28 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!--''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The J35XS is played as a very capable dogfighter/interceptor in War Thunder. At it's BR, it gets a set of 6 x RB-24J air to air missiles (basically an AIM-9P), that even while only rear aspect, have a good range and decent acceleration, as well as the ability to pull 20Gs maximum. Not only that, the aircraft gets a powerful radar with a maximum of 90KM of detection range and 45KM for lock range. 
+
+The J35XS also features an IRST, a rare sight in jets, and even rarer below 11.0. IRST stands for Infrared Search and Track and allows to detect infrared signals from rear and front aspect, and locking them. Unlike SARH, this mode does not have an IFF system, which means that it cant identify if the aircraft locked/detected is an ally or an enemy. This can prove very dangerous in '''Simulator Battles''', when it's not possible identifying if an aircraft is allied or not at long ranges. Still, a good combination in this situations is using the IRST in close ranges while using the radar at long ranges, this will ensure that the enemy aircrafts is not warned if you are locked using the IRST. Apart from that, you can use the IRST to lock missiles easier and shoot them while manoeuvring and maintaining the lock. 
+
+The J35XS has a limited fuel load of 20 minutes, and while the afterburner is not very fuel hungry, it will still leave you without fuel in EC maps if not careful. Without the afterburner you will top at Mach 0.96 with 100% thrust. You will also loose a lot of speed while turning, of course, this means that you can pull very thight turns and surprise your opponents with shots or missile launches. One of the biggest inconvenient with the J35 family is the lack of tracer rounds for the cannons, while the cannons are good and have excellent damage, you wont be able to see your rounds in the air, and aiming is very hard and junky, it's recommended playing a little in AB matches to see how your gun behaves, before participating in RB or SB.
+
+The aircraft has access to only two air to ground options, the M/56D and M/57B rockets, the M/56D is the only useful against ground targets, since it has a HEAT warhead with good penetration values, but it's quite heavy and slow. The 57B in the other hand uses a HE warhead, but it's too small, with only 15mm of penetration and 1.14kgs of explosive mass, that wont kill anything at high BRs even with a direct hit.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* Decent speed
+* Good speed
 * Effective high calibre flares/chaffs
 * Great turn rate at low speeds
 * Extremely powerful in a downtier
 * Has IRST 
-* 6 good missles
+* 6 good missiles
 
 '''Cons:'''
 
-* Bleeds speed fast
+* Bleeds speed fast below Mach 1
 * Janky gun placement makes it hard to aim
 * Inadequate performance in uptiers
 * Very limited count of flares/chaffs
@@ -205,8 +212,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * No RWR
 
 == History ==
-<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>== In-game description ===</nowiki></code>, also if applicable).'' -->
-The SAAB J-35XS (Xerxes Sigurd/Export Suomi) is a Finnish export of the Swedish J35F interceptor. During and after 1970, Sweden provided second hand J35's to the Finnish Air Force. The first wave of exported Drakens were put into service on 1972, while the first J35 assembled under licence by Valmet was finished on March 12th, 1974. A unique feature to the Finnish variants was the ability to mount Soviet R-13M missiles, along with countermeasures such as flares and chaff.
+<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>== In-game description ===</nowiki></code>, also if applicable).'' -->[[File:J35S.jpg|thumb|478x478px|Finnish J35XS in runway]]
+Finland obtained the Swedish SAAB J35 Draken in 1970, as part of a collaboration between the two countries so that Sweden could provid3e the Finnish Air Force with J35 aircrafts of different variants. At the beginning Finland only received second hand models like the J35F, J35B and SK35C. However the J35XS variant was made by Finnish request and built as a kit assembled by Valmet in Finland. Valmet was also allowed to produce the spare parts for this aircrafts. The XS stands for Export Suomi (Export Finland).
+
+The J35XS was highly based on the F variant, and could be considered an intermediate step between the more advanced J35J and the J35F. The new aircraft, fitted more weapon pylons, a better countermeasure suit and different radar model.
+
+The Draken was flown by the Finnish Air Force alongside the Soviet Mig-21, because of logistics, all SAAB J35s in Finland, including the J35XS, had the ability to use the soviet made R-13M1, that was quite different to the R-60s used by soviet aircrafts by that point. Finland also acquired the Falcon missiles (RB-27) and the RB-28 to be used in their brand new Draken fighters.
+
+For the J35XS, it was sometimes also referred as J35S or DKS 35 (DK stands for Draken, but for practical reasons most of the time they remained in service with the Swedish prefixes). At the beginning, only the second hand J35s were delivered, but because of their lack of countermeasures and/or electronics, Finland requested the production of the J35XS, that was tested on trials in 1974 after being completed by Valmet (designation DK-201). Piloted by Swedish SAAB test pilot KG Liljeqvist, the XS results were successful and soon the total of 12 units were assembled by Sweden.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -240,6 +253,9 @@ File:J35XS RM6C AB On.jpg|<small>J35XS afterburner on</small>
 * ''other literature.'' -->
 
 * [[wikipedia:Saab_35_Draken|[Wikipedia] Saab 35 Draken]]
+* [https://aeroseum.se/j-35-flying-overseas/ <nowiki>[Aeroseum] J 35 flying overseas</nowiki>]
+* [https://www.milavia.net/aircraft/draken/draken.htm <nowiki>[Milavia] SAAB J 35 Draken - MILAVIA Aircraft</nowiki>]
+* [https://pickledwings.com/saab-j-35-draken-the-scandinavian-surprise/ <nowiki>[Pickled Wings] SAAB J-35 DRAKEN – THE SCANDINAVIAN SURPRISE</nowiki>]
 
 {{AirManufacturer Saab}}
 {{Sweden jet aircraft}}

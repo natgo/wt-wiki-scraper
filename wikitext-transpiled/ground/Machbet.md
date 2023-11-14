@@ -18,9 +18,9 @@ Introduced in [[Update "Wind of Change"]] alongside the initial Israeli tech tre
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-Despite its thin armour, the Machbet has the particularity of being able to withstand some misplaced shots, but pay attention to HE shells that are able to destroy instantly the vehicle .
+Despite its thin armour, the Machbet has the particularity of being able to withstand some misplaced shots, but pay attention to HE shells that are able to instantly destroy the vehicle.
 
-Beware also of tanks equipped with machine guns above 7.62 mm calibre, these tanks can easily penetrate the sides of the vehicle.
+Also beware of tanks equipped with machine guns above 7.62 mm calibre, these tanks can easily penetrate the sides of the vehicle.
 
 '''Armour type:'''
 
@@ -41,7 +41,7 @@ Beware also of tanks equipped with machine guns above 7.62 mm calibre, these tan
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-While not being the fastest vehicle, especially while stock, the Machbet lack power in slope but on flat ground , he can handle himself pretty easily.
+While not being the fastest vehicle, especially while stock, the Machbet lacks power in slopes, but on flat ground it can handle itself pretty easily.
 
 {{tankMobility|abMinHp=301|rbMinHp=188}}
 

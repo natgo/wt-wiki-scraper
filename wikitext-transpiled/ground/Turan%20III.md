@@ -23,11 +23,13 @@ The 43M Turán III was a Hungarian medium tank of World War II. It was developed
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 13 mm || 35 mm ''Top'' <br> 25 mm ''Bottom'' || 13 mm top 
+35 mm bottom 
+| 13 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 75/35 mm ''Turret front'' <br> 33 mm ''Gun mantlet'' || 35/25 mm || 25/50 mm || 35/13/25/5 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 60 mm || 35 mm || 55 mm || 6/13 mm
 |-
 |}
 

@@ -10,6 +10,7 @@
 {{Tree-Unit|cn_type_97_chi_ha}}
 |
 {{Tree-Unit|cn_sdkfz_222_early}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|cn_m8_scott}}
 {{Tree-Arrow}}
@@ -115,7 +116,9 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|cn_su_100_1945}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
+{{Tree-Unit|cn_plz_83}}
+{{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|cn_type_64}}
 {{Tree-Skip}}

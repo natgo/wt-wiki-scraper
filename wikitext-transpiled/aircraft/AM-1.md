@@ -95,54 +95,58 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-M66A2 (2,000 lb)}}
-{{main|HVAR|Tiny Tim|Mk.13-6 Case (2,216 lb)|Type A Mark I mine}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 12 x 250 lb AN-M57 bombs (3,000 lb total)
-* 3 x 500 lb AN-M64A1 bombs (1,500 lb total)
-* 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
-* 3 x 2,000 lb AN-M66A2 bombs (6,000 lb total)
-* 3 x 2,216 lb Mk.13-6 Case torpedoes
-* 3 x Type A Mark I mines
-* 12 x HVAR rockets
-* 2 x Tiny Tim rockets
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="3%" | 1 !! width="3%" | 2 !! width="3%" | 3 !! width="3%" | 4 !! width="3%" | 5 !! width="3%" | 6 !! width="3%" | 7 !! width="3%" | 8 !! width="3%" | 9 !! width="3%" | 10 !! width="3%" | 11 !! width="3%" | 12 !! width="3%" | 13 !! width="3%" | 14 !! width="3%" | 15
-| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 250 lb AN-M57 bombs
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
 | 1 || 1 || 1 || 1 || 1 || 1 || 1 || || 1 || 1 || 1 || 1 || 1 || 1 || 1
 |-
-! 500 lb AN-M64A1 bombs
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
 | || || || || || || 1 || 1 || 1 || || || || || ||
 |-
-! 1,000 lb AN-M65A1 bombs
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
 | || || || || || || 1 || 1 || 1 || || || || || ||
 |-
-! 2,000 lb AN-M66A2 bombs
+! [[AN-Mk 1 (1,600 lb)|1,600 lb AN-Mk 1]] bombs
 | || || || || || || 1 || 1 || 1 || || || || || ||
 |-
-! HVAR rockets
+! [[AN-M66A2 (2,000 lb)|2,000 lb AN-M66A2]] bombs
+| || || || || || || 1 || 1 || 1 || || || || || ||
+|-
+! [[HVAR]] rockets
 | 1 || 1 || 1 || 1 || 1 || 1 || || || || 1 || 1 || 1 || 1 || 1 || 1
 |-
-! Tiny Tim rockets
+! [[Tiny Tim]] rockets
 | || || || || || || 1 || || 1 || || || || || ||
 |-
-! 2,216 lb Mk.13-6 Case torpedoes
+! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
 | || || || || || || 1 || 1 || 1 || || || || || ||
 |-
-! Type A Mark I mines
+! [[Type A Mark I mine|Type A Mark I]] mines
 | || || || || || || 1 || 1 || 1 || || || || || ||
 |-
 | colspan="16" | Maximum permissible weight imbalance: 1,200 kg
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 12 x 250 lb AN-M57 bombs (3,000 lb total)
+* 3 x 500 lb AN-M64A1 bombs (1,500 lb total)
+* 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
+* 3 x 1,600 lb AN-Mk 1 bombs (4,800 lb total)
+* 3 x 2,000 lb AN-M66A2 bombs (6,000 lb total)
+* 3 x 2,216 lb Mk.13-6 Case torpedoes
+* 3 x Type A Mark I mines
+* 12 x HVAR rockets
+* 2 x Tiny Tim rockets
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

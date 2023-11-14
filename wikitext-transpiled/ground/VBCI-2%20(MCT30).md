@@ -60,7 +60,7 @@ While the VBCI-2 (MCT30) exhibits a range of advanced features, a nuanced approa
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 450 (75) || rowspan="2" | 200 || rowspan="2" | -10°/+45° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 57.1 || 79.1 || 96.0 || 106.2 || 113.0 || rowspan="2" | 13.00 || rowspan="2" | 11.50 || rowspan="2" | 10.60 || rowspan="2" | 10.00
+| rowspan="2" | 450 (75) || rowspan="2" | 200 || rowspan="2" | -10°/+40° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 57.1 || 79.1 || 96.0 || 106.2 || 113.0 || rowspan="2" | 13.00 || rowspan="2" | 11.50 || rowspan="2" | 10.60 || rowspan="2" | 10.00
 |-
 ! ''Realistic''
 | 35.7 || 42.0 || 51.0 || 56.4 || 60.0

@@ -190,11 +190,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''Shafrir 2'''
 
-The Shafrir 2 has short range and low G overload, similar to the Shafrir or AIM-9B. It is best used from behind enemy lines, against unaware and non-manoeuvring targets.
+The Shafrir 2 is a missile comparable to AIM-9D, although it has an uncaged seeker that can be used best at shorter ranges. When it comes to burn time, range, acceleration and G-tolerance, both missiles are comparable.
 
 '''AIM-9D'''
 
-The AIM-9D is a much better missile compared to the Shafrir 2. Not only does it have much more range, it also turns better with a higher G overload, though it is still highly attracted to flares. Its improved capabilities allow it to be used a bit more aggressively compared to the Shafrir 2.
+The AIM-9D is a missile really almost identical to the Shafrir 2. However, it has a caged seeker, greatly narrowing the missile's cone of attack. Having a great range, it's best used at longer distances, 2.5 km all the way up to 4 km. It's best to keep in mind that poor flare resistance can be a detriment at higher BRs.
 
 '''AIM-9G'''
 

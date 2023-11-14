@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet destroyer {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The '''{{Specs|name}}''' was a Fidonisy-class destroyer built for Imperial Russian Navy. The Fidonisy-class was improvement of previous Derzky-class destroyers. Kerch was laid down on 29th October 1915 and comissioned on 27<sup>th</sup> June 1917. After the Russian revolution, she joined the Bolsheviks and conducted several shore bombardments along the Crimea. On 29<sup>th</sup> April 1918, she sailed to Novorossiysk to avoid capture by advancing German forces. On 18<sup>th</sup> June, she scuttled Imperatritsa Mariya-class battleship Svobodnaya Rossiya and Kerch´s sister, Fidonisy to avoid being handed over to Germans as a result of Treaty of Brest-Litovsk. Kerch herself was then scuttled for same reason off the harbour entrance at Tuapse. In 1929 the Soviets tried to refloat her, but the wreck broke apart. In 1932 they raised her engine room and used them as source of energy in the Tuapse power plant.
 
-A Fidonisy-class destroyer from the imperial era, Kerch is very similar to the reserve [[Frunze]], mainly differing in its secondary weapons, where it has a somewhat more usable secondary battery but far worse torpedoes.
+Kerch was introduced in [[Update "New Power"]] as a GE premium. As a destroyer from the Imperial era, Kerch is very similar to the reserve [[Frunze]], mainly differing in its secondary weapons, where it has a somewhat more usable secondary battery but far worse torpedoes.
 
 == General info ==
 === Survivability and armour ===

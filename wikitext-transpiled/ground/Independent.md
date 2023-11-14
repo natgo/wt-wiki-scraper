@@ -205,6 +205,7 @@ The Independent was tested by War Office all the way until 1935, but it was a tr
 
 ;Other vehicles of similar configuration and role
 
+* [[2C]]
 * [[Nb.Fz.]]
 * [[T-35]]
 * [[Ro-Go]]

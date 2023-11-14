@@ -170,7 +170,7 @@ Some enemies to be concerned about:
 '''Pros:'''
 
 * Excellent speed, manoeuvrability and acceleration
-* Fast turret traverse of 38.08 degrees/second in arcade, and 23.8 degrees/second in realistic mode.
+* Fast turret traverse
 * The gun with the M735 APFSDS round is sufficient against most targets it will face
 * Has hydropneumatic suspension control
 * Three secondary machine guns
@@ -179,7 +179,7 @@ Some enemies to be concerned about:
 '''Cons:'''
 
 * Has weak overall armour, even on the turret
-* The M735 APFSDS round (353 mm of penetration point-blank) has trouble penetrating Soviet tanks from the front
+* The M735 APFSDS round has trouble penetrating Soviet tanks from the front
 * Front plate is made up of spaced armour, which doesn't provide the protection comparable to composite
 * Has a huge ammo rack in the hull
 * Tracks are very noisy
@@ -199,10 +199,11 @@ The XM-1 (GM), the contest model from General Motors, became a further developme
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_xm1_gm Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 File:XM-1 (GM) and (C) Comparison.jpeg|<small>Comparison between a [[XM-1 (GM)]] and a [[XM-1 (Chrysler)]], side by side</small>
 </gallery>
 

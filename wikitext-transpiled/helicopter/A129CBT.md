@@ -59,24 +59,56 @@ The A129CBT is not very survivable. Like many helicopters at its battle rating, 
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
 <!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
+[[File:Hellfire rack.png|thumb|300px|A129CBT missile rack fully loaded with AGM-114B Hellfire air-to-ground missiles]]
 {{main|TM197B (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between three presets:
-** 1 x 20 mm TM197B cannon, nose-mounted ball turret (750 rpg)
-** 1 x 20 mm TM197B cannon + 90 x countermeasures
+* A choice between two presets:
+** 1 x 20 mm TM197B cannon, nose-mounted ball turret (750 rpg) + 90 x countermeasures
 ** 1 x 20 mm TM197B cannon + 90 x countermeasures + IRCM
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-[[File:Hellfire rack.png|thumb|300px|A129CBT missile rack fully loaded with AGM-114B Hellfire air-to-ground missiles]]
-{{main|AGM-114B Hellfire|ATAS (AIM-92)|BGM-71C Improved TOW|BGM-71D TOW-2|Mistral}}
-{{main|FFAR Mighty Mouse|Hydra-70 M247|FN M3P (12.7 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FN M3P (12.7 mm)|12.7 mm FN M3P]] machine guns (250 rpg)
+| || 1* || 1* ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| || 3* || 3* ||
+|-
+! [[Hydra-70 M247]] rockets
+| 7, 19 || 7, 19 || 7, 19 || 7, 19
+|-
+! [[AGM-114B Hellfire]] missiles
+| 2, 4 || || || 2, 4
+|-
+! [[ATAS (AIM-92)]] missiles
+| 2 || 2 || 2 || 2
+|-
+! [[BGM-71C Improved TOW]] missiles
+| 2, 4 || || || 2, 4
+|-
+! [[BGM-71D TOW-2]] missiles
+| 2, 4 || || || 2, 4
+|-
+! [[Mistral]] missiles
+| 2 || 2 || 2 || 2
+|-
+| colspan="6" | * FFAR rockets can only be carried concurrently with the FN M3P gunpods on the same hardpoint
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 28 x Hydra-70 M247 rockets
 * 76 x Hydra-70 M247 rockets
@@ -90,39 +122,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x AGM-114B Hellfire missiles
 * 8 x ATAS (AIM-92) missiles
 * 8 x Mistral missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 12.7 mm FN M3P machine guns (250 rpg)
-| || 1* || 1* ||
-|-
-! FFAR Mighty Mouse rockets
-| || 3* || 3* ||
-|-
-! Hydra-70 M247 rockets
-| 7, 19 || 7, 19 || 7, 19 || 7, 19
-|-
-! AGM-114B Hellfire missiles
-| 2, 4 || || || 2, 4
-|-
-! ATAS (AIM-92) missiles
-| 2 || 2 || 2 || 2
-|-
-! BGM-71C Improved TOW missiles
-| 2, 4 || || || 2, 4
-|-
-! BGM-71D TOW-2 missiles
-| 2, 4 || || || 2, 4
-|-
-! Mistral missiles
-| 2 || 2 || 2 || 2
-|-
-| colspan="6" | * FFAR rockets can only be carried concurrently with the FN M3P gunpods on the same hardpoint
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

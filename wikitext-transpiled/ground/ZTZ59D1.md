@@ -153,7 +153,7 @@ The 7.62 mm, on the other hand, can only damage fully exposed crew which are not
 
 The ZTZ59D1 might have a lot of modern features, but there is really no disguising the fact that it is a Type 59 at heart. The Type 59 at a lower BR already struggled with its poor gun handling and the ZTZ59D1's upgraded two-plane stabilizer is not much of a consolation considering that it will almost entirely face enemies with two-plane stabilizers and superior mobility. The ZTZ59D1 is best used as a support tank or sniper to take advantage of its good firepower, low profile, and decent protection while minimizing the effects of its poor gun handling and mobility. Ideally one can stay behind the front lines, moving up when prudent, and allow other teammates to push forwards. Enemies that appear or reveal themselves can then be dispatched at a safe distance. However one must be on the lookout for flanking enemies, as the gun handling is not adequate for responding quickly to unexpected threats. For this reason close range brawling should also be avoided. The mobility is also quite poor for its rank and it pays to be vigilant when moving up to sniping positions - enemies may be already present.
 
-A nice feature of the ZTZ59D1 is its access to thermal vision for the gunner. While not of high resolution, it helps with spotting targets significantly in both day and night battles and aids its sniping capabilities. However it is not the only tank with thermal vision at its rank, so this is not an absolute advantage. Situational awareness is very important on the ZTZ59D1 to compensate for its poor gun handling and reload. The ZTZ59D1 retains the zoom settings of the original Type 59's optics and it has a 3.5x zoom setting with a 21 degree field of view, so tunnel vision is less of an issue at close to medium range compared to other tanks. Make good use of the laser rangefinder at long distances, missed shots are a major hassle on the ZTZ59D1 because of its slow reload.
+Situational awareness is very important on the ZTZ59D1 to compensate for its poor gun handling and reload. The ZTZ59D1 retains the zoom settings of the original Type 59's optics and it has a 3.5x zoom setting with a 21 degree field of view, so tunnel vision is less of an issue at close to medium range compared to other tanks. Make good use of the laser rangefinder at long distances, missed shots are a major hassle on the ZTZ59D1 because of its slow reload.
 
 The ZTZ59D1 has better protection than the average MBT at its BR, but it is by no means immune or even consistently resistant to enemy fire. Poorly aimed 105 mm HEAT-FS can be resisted by the hull and turret ERA and very poorly aimed 105 mm APDS or weak APFSDS can be resisted by the hull ERA. The turret is vulnerable to any kind of kinetic round, though turret penetrations are less likely to knock out the tank in one hit. Count yourself lucky if you survive a hit from any tank cannon and treat it as a second chance.
 
@@ -167,9 +167,9 @@ Helicopters are a major threat to the ZTZ59D1. ATGMs will typically go right thr
 * Powerful 105 mm gun with a solid APFSDS round is a major step up from the [[Type 69]]'s cannon
 * Equipped with ERA on the turret and upper glacis, resistant to chemical munitions
 * Hull ERA setup offers some kinetic protection
-* Has a two-plane stabilizer
-* Access to smoke grenades, thermal sights, and laser rangefinder
-* Top mounted DShK heavy machine gun is helpful against light targets and aircraft
+* Has a vertical stabilizer
+* Access to smoke grenades, NVD, and laser rangefinder
+* Top mounted Type 54 heavy machine gun is helpful against light targets and aircraft
 * Low profile
 
 '''Cons:'''

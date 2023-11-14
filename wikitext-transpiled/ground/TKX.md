@@ -1,3 +1,8 @@
+{{About
+| about = Japanese medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Type 10 (Family)
+}}
 {{Specs-Card
 |code=jp_tkx_prot
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -159,8 +164,15 @@ The {{PAGENAME}} is a highly mobile and fast-firing MBT that excels in flanking 
 * Slower turret traverse than most other MBTs
 
 == History ==
+{{Main|Type 10 (Family)#History|l1=Type 10 (Family)}}
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+==== Challenges of New Millennium ====
+In the mid-1990s, after the introduction of the previous TKX-1, [[Type 90 (Family)|Type 90 MBT]], the Ministry of Defense soon realised that, despite its superior FCS even for NATO standards, further upgrading the Type 90 would be impractical (for the time being) due to its already heavy weight in Japan's standards; while the previous [[Type 61 (Family)|Type 61 Medium Tank]] had no chance when facing even the earliest MBTs and [[Type 74 (Family)|Type 74 MBT]] was too costly to be [[Type 74 (G)|upgraded]]. The possible rivals of Japan, like Mainland China and the Russia Federation had already developed their new MBTs (PLAGF [[ZTZ96 (Family)|ZTZ96]] and [[ZTZ99 (Family)|ZTZ99]]/Russian [[T-90A]]); in view of maintaining a team of tank designers as well as a part of national defense, JGSDF passed a new plan for a next-generation MBT with redundancy for further upgrades (modularity), thus inherited the project name: TKX-2.
+[[File:JGSDF Type10 tank 2012-05-27.jpg|x350px|right|thumb|none|A JGSDF Type 10 at Camp Takeyama, Japan.]]
+==== From Kyumaru to Hitomaru ====
+The TKX-2 project aimed for the light weight of a Type 74 (at 40 tons, loaded) while being smaller than Type 90, equipping a domestic 120 mm smoothbore gun with latest {{Annotation|C4ISR|Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance}} system, modular composite armour, and new engines paired with HMT transmission. TKX-2 was led by the {{Annotation|TRDI|Technical Research and Development Institute}} with help from Mitsubishi Heavy Industries. The new smoothbore gun and its new APFSDS were developed by Nippon Steel Corporation and Daikin Industries respectively. These designs were tested on a Tank Test Bed (TTB) developed from the 6th prototype of Type 90 and was first shown in a booklet in the early 2000s; the result of TTB proved the designs and project TKX-2 started in 2002. The 1st prototype was assembled in November 2004 and tested at JGSDF Camp Higashi-Chitose; MHI built the 2nd prototype in 2005, while there were also 3 Type 90s converted as the test bed for tank platoon command systems.
+
+Finally, with the evaluations from JGSDF Fuji School, Ordnance School, and leaked photos of the 2nd prototype, the TKX-2 was unveiled on 14 June 2010 to the public during the opening of JGSDF East Fuji Manoeuvre Area and it was then named Type 10 in October. It served as the most advanced MBT of the first decade of the 2000s, and is an icon of the JGSDF moving forward into the 21st century.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

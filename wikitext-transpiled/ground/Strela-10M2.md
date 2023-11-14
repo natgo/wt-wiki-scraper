@@ -129,10 +129,10 @@ The worst enemy of this vehicle is helicopters, at any range. At long range, the
 * Except for the launcher assembly, the rest of the vehicle is very low to the ground
 * Amphibious, can reach a few places other vehicles cannot
 * More survivable than it seems due to crew placement and empty space in the rear of the vehicle
+* Due to contrast-locking, range is on par with Stingers
 
 '''Cons:'''
 
-* Can't engage most helicopters equipped with ATGMs due to the short all-aspect lock-on range
 * No search radar. A 3-mile (5 km) range 9S86 tracking radar is all you get
 * Engine suffers on inclines, hills are not your friend
 

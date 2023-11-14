@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO reporting name: "Havoc") is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
+In 2009, shortly after the [[Mi-28N]] was formally accepted into service, multiple programs were already underway to upgrade the helicopter. The primary competitor, the Mi-28NM, represents the latest in Russian attack helicopter technology. Developed by Rostvertol, it features several improvements over its predecessor, such as advanced avionics, the N025 radar with enhanced capabilities for target detection and tracking, upgraded avionics, optics, powerplant, and weapons. The NM boasts a more powerful VK-2500 engine, increasing its payload capacity and operational range. This upgrade enables it to carry an array of weaponry, such as the Vikhr laser guided missiles and the Khrizantema radar-guided anti-tank missiles. Additionally, it incorporates advanced night vision and targeting systems for all-weather operations, significantly improving its combat effectiveness. The Mi-28NM first flew in 2016, and successfully completed state acceptance trials in 2020, with plans shortly after to upgrade the existing Mi-28N fleet as of 2022.
 
-The Mi-28NM is a further modernized version of the previous Mi-28N. The appearance of the aircraft has changed somewhat: the prominent dark "nose" is gone, a spherical radar has been mounted on the mast, and the general details are more streamlined. While this Havoc may look more fashionable, it is meaner than ever in combat. The new sensor suite has excellent quality 3rd generation gunner thermals and the radar, MAWS, and new RWR improve situational awareness. The arsenal has been improved with the addition of two new ATGMs: the 9K127 Vikhr made famous by Kamov's [[Ka-50]]/[[Ka-52|52]], and the 9M123 Khrizantema previously only seen on the ground-based [[Khrizantema-S]]. The Mi-28NM still lacks some of the flexibility of its Kamov counterparts, but it can unleash a huge amount of destruction on enemy tanks.
+The '''{{Specs|name}}''' (NATO reporting name: ''Havoc'') is a Soviet attack helicopter introduced in [[Update "Ground Breaking"]]. The Mi-28NM is a further modernized version of the previous Mi-28N. While this Havoc may look more fashionable, it is meaner than ever in combat. The new sensor suite has excellent quality 3rd generation gunner thermals and the radar, MAWS, and new RWR improve situational awareness. The arsenal has been improved with the addition of two new ATGMs: the [[9K127 Vikhr]] made famous by Kamov's [[Ka-50]]/[[Ka-52|52]], and the radar-guided [[9M123 Khrizantema]] previously only seen on the ground-based [[Khrizantema-S]]. The Mi-28NM still lacks some of the flexibility of its Kamov counterparts, but it can unleash a huge amount of destruction on enemy tanks thanks to its precise and advanced ordnance, great survivability and handling, and powerful avionics.
 
 == General info ==
 === Flight performance ===
@@ -64,18 +64,51 @@ It is recommended that the ATGMs are prioritized, followed by NVD and finally co
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm 2A42 cannon, chin turret (250 rpg)
-** 1 x 30 mm 2A42 cannon + 128 x countermeasures
+* 1 x 30 mm 2A42 cannon, chin turret (250 rpg)
+* 128 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|S-8KO|S-13OF|GSh-23L (23 mm)}}
-{{main|9K127 Vikhr|9M39 Igla|9M120-1 Ataka|9M123 Khrizantema}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-28N.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| || 1 || 1 ||
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| 1 || 1 || 1 || 1
+|-
+! [[S-8KO]] rockets
+| 20 || 20 || 20 || 20
+|-
+! [[S-13OF]] rockets
+| 5 || 5 || 5 || 5
+|-
+! [[9K127 Vikhr]] missiles
+| 6 || || || 6
+|-
+! [[9M39 Igla]] missiles
+| 4 || || || 4
+|-
+! [[9M120-1 Ataka]] missiles
+| 4, 8 || || || 4, 8
+|-
+! [[9M123 Khrizantema]] missiles
+| 4 || || || 4
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 8 x 9M39 Igla missiles
 * 80 x S-8KO rockets
@@ -88,8 +121,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 250 kg FAB-250M-62 bombs (1,000 kg total)
 * 4 x 500 kg FAB-500M-62 bombs (2,000 kg total)
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
+{{Navigation-End}}
 
-The Mi-28NM has a wide selection of weaponry for a range of roles, from small-game hunting to the most armoured targets. 
+The Mi-28NM has a wide selection of weaponry for a range of roles, from small-game hunting to the most armoured targets.
 
 Three types of ATGMs are available. The stock 9M120-1 Ataka is a mostly identical to the basic 9M120 Ataka seen on earlier Soviet helicopters, but has beam-riding guidance instead of SACLOS. 800 mm of tandem warhead penetration and 6 km of range are below average at such a high battle rating, and it is not safe to use against radar SAMs. Vikhrs are completely superior to the Atakas with 8+ km range and a proximity fuse, allowing them to engage SPAA from safer distances and shoot down incoming SAMs as an improvised active protection system. This makes them by far the most flexible option, but they also have a more limited capacity of only 6 tubes per pylon, versus 8 for the others. The Khrizantemas are heavier descendants of the Ataka, and although the range is still a short 6 km, they have 50% greater penetration and hit as hard as a [[BMP-2M]]'s Kornet, easily defeating most top-tier tanks.
 
@@ -97,42 +131,13 @@ The Mi-28NM still has access to Igla missiles, making the Mi-28N a formidable an
 
 Amusingly, the Mi-28NM's arsenal adds back the 250 kg and 500 kg bombs that were unavailable to the previous two Russian helicopters and last seen on the [[Mi-24P]] Hind. Thus, the highly advanced Mi-28NM and the capstone of the Mil Mi line is in fact the best helicopter bomber in the game with a maximum load of 4x 500 kg = 2,000 kg. It should be obvious that helicopter bombing at top tier with the Mi-28NM is much more challenging than with the Mi-24A at 8.7, but the option does exist for bold pilots.
 
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-28N.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| || 1 || 1 ||
-|-
-! 250 kg FAB-250M-62 bombs
-| 1 || 1 || 1 || 1
-|-
-! 500 kg FAB-500M-62 bombs
-| 1 || 1 || 1 || 1
-|-
-! S-8KO rockets
-| 20 || 20 || 20 || 20
-|-
-! S-13OF rockets
-| 5 || 5 || 5 || 5
-|-
-! 9K127 Vikhr missiles
-| 6 || || || 6
-|-
-! 9M39 Igla missiles
-| 4 || || || 4
-|-
-! 9M120-1 Ataka missiles
-| 4, 8 || || || 4, 8
-|-
-! 9M123 Khrizantema missiles
-| 4 || || || 4
-|-
-| colspan="5" | Maximum permissible weight imbalance: 480 kg
-|-
-|}
+=== Defensive systems ===
+<!--''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.''-->
+The Mi-28NM can be outfitted with MAW (Missile Approach Warning) system and 128 countermeasures.
+
+* 128 countermeasures are installed on the wingtips in two pods.
+* The Missile Approach Warning (MAW) detects any incoming missile and notifies you about it, as well as deploying the countermeasures automatically.
+* The helicopter is equipped with a laser-based DIRCM (Directional Infrared Countermeasures) system, which shines laser beam at incoming infrared homing missiles to effectively disrupt their tracking. This system is much more reliable and effective than other IRCM systems in-game.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -147,7 +152,7 @@ The Mi-28NM is a gunship and should be used as such. It holds a very capable arr
 
 '''Pros:'''
 
-* High max speed and decent vertical climb rate when loaded (10m/s) 
+* High max speed and decent vertical climb rate when loaded (10m/s)
 * Arsenal of versatile weaponry against both ground and air targets
 * Has access to 3rd gen gunner thermals and N-025 search radar
 * Has access to Missile Approach Warning (MAW) system

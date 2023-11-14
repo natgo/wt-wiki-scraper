@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO Code: Hind-E) is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
+In 1976, a slight modernization was applied to the [[Mi-24D (USSR)|Mi-24D]], using technology and systems previously tested on prototypes only. The new Hind was to replace its aging Falanga ATGMs with [[9M114 Shturm]] ATGMs, which not only had more range and better guidance, but were smaller and lighter, allowing the new Hind to carry twice as much of them as the Falanga. This new variant also featured an updated fire control system, and was quickly pressed into service as the '''Mi-24V'''. The V variant would become the most commonly operated and single most produced model of the Mi-24 family, with over 1500 made. It should be noted that to alternate designations exist for the Mi-24V: In Polish service, it was referred to as the Mi-24W, and for unknown reasons, a single Mi-24V prototype was called the Mi-24T officially at some point.
 
-The Mi-24V has been highly modernized compared to the preceding Hind-A. It has the signature tandem bubble canopies introduced from the [[Mi-24D (USSR)|Hind-D]] onward for a sleeker appearance and better visibility, although the flight model remains essentially the same. Firepower has been greatly improved: on top of the internal 12.7 mm gatling gun mounted in a chin turret, the Mi-24V can carry various combinations of S-8KO HEAT rockets, S-24 heavy HE rockets, 9M114 Shturm ATGMs, unguided bombs, gun pods, and even R-60M air-to-air missiles. Survivability is bolstered by exhaust suppression, IRCM, and countermeasure systems. The Mi-24V is one of the most feature-packed helicopters at its battle rating and can be a major threat to ground and air targets alike.
+The '''{{Specs|name}}''' (NATO reporting name: ''Hind-E'') introduced in [[Update 1.81 "The Valkyries"]], is the most common variant of the Mi-24 produced. The Mi-24V has been highly modernized compared to the preceding [[Mi-24A|Hind-A]]. It has the signature tandem bubble canopies introduced from the [[Mi-24D (USSR)|Hind-D]] onward for a sleeker appearance and better visibility. Firepower has been greatly improved: on top of the internal 12.7 mm gatling gun mounted in a chin turret, the Mi-24V can carry various combinations of 57mm rocket pods, [[S-24]] heavy rockets, [[9M114 Shturm]] ATGMs, unguided bombs, gun pods, and even all aspect [[R-60M]] air-to-air missiles for self defence against air threats. Survivability is bolstered by exhaust suppression, IRCM, and flare dispensers. The Mi-24V is one of the most feature-packed helicopters at its battle rating and can be a major threat to ground and air targets alike when utilized and positioned correctly
 
 == General info ==
 === Flight performance ===
@@ -79,8 +79,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+|-
+! [[GShG-7.62 (7.62 mm)|7.62 mm GShG-7.62]] machine guns (1,800 rpg)
+| || 2* || 2<sup>†</sup> || 2<sup>†</sup> || 2* ||
+|-
+! [[YaK-B (12.7 mm)|12.7 mm YaK-B]] machine guns (750 rpg)
+| || 1* || 1<sup>†</sup> || 1<sup>†</sup> || 1* ||
 |-
 ! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
 | || 1 || 1 || 1 || 1 ||
@@ -108,6 +114,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 |-
 | colspan="7" | Maximum permissible weight imbalance: 500 kg
 |-
+| colspan="8" | *<sup>†</sup> Machine gun pods must be equipped simultaneously as marked, including those on the same hardpoint
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
@@ -117,13 +125,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x R-60 missiles
 * 2 x R-60M missiles
 * 4 x R-60M missiles
-* 80 x S-8KO rockets
-* 4 x S-24 rockets
 * 4 x 9M114 Shturm missiles
 * 8 x 9M114 Shturm missiles
+* 4 x S-24 rockets
+* 80 x S-8KO rockets
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
+* 2 x 12.7 mm YaK-B machine guns (750 rpg = 1,500 total) + 2 x 7.62 mm GShG-7.62 machine guns (3,600 rpg = 7,200 total)
 {{Navigation-End}}
 
 The Mi-24V has a huge arsenal and plenty of hardpoints to support it. The main anti-tank weapon is the 9M114 Shturm ATGM designed specifically for the Hind family. Compared to the Mi-24A's 9M17M Falanga ATGMs, the Shturm has slightly lower penetration in exchange for an extended range of 5 km and more than double the flight speed (550 m/s compared to 230 m/s). In fact, the Shturm is one of the fastest ATGMs in the game, which makes it both easy to aim and effective at dealing with SPAAs. The penetration is underwhelming however, and tanks with ERA and/or composite armour can shrug it off. Up to 8 can be carried in total, and 4 can be carried on the outermost pylons without conflicting with other stores.
@@ -172,6 +181,7 @@ Work on the Mi-24 began in the early 1960s, with engineers at the Mil design bur
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mi_24v Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

@@ -134,6 +134,7 @@ Although being classified as an anti-air vehicle, one manner the {{PAGENAME}} ca
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_tgdgb_m40_lv Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -141,14 +142,19 @@ Although being classified as an anti-air vehicle, one manner the {{PAGENAME}} ca
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Other vehicles of similar configuration and role
+;<nowiki>Vehicles of similar configuration and role:</nowiki>
 
+* [[CCKW 353 AA]]
 * [[Sd.Kfz. 6/2]]
 * [[ZiS-43]]
-* [[CCKW 353 AA]]
+
+Vehicles with the same weapon systems:
+
+* [[L-62 ANTI II]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

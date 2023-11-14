@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
+The Mi-4 was designed as a response to the American H-19 Chickasaw and its effective deployment in the Korean war. Design and testing commenced in the early '50s, before being rushed into service in 1953. The Mi-4 would be adapted to many variants and see service with many countries around the world. One such variant was the '''Mi-4AV''' variant, where "AV" stands for "атаковать вооруженный" ("Atakovat Vooruzhennyy" — "Assault, Armed"). The Mi-4AV would serve a long and eventful life all around the world, from the orients of China to the deserts of Africa. Much like its American counterpart, after it was gradually phased out of military service, it was used in various domestic roles, including search and rescue, polar expeditioning, construction site cargo helicopter, firefighting, commercial flights, and much more.
 
-The Mi-4 is one of the earliest Soviet helicopters to enter service. It served in many different roles in the Soviet Union and many countries around the world. In the game, the Mi-4 is represented by the armed assault transport Mi-4AV ("V" stands for "Vooruzhennyy" — "armed") variant.
+The '''{{Specs|name}}''' (NATO reporting name: ''Hound''), was introduced in [[Update 1.81 "The Valkyries"]]. The Mi-4AV is the starter helicopter for the Soviet tech tree, and at first seems very underwhelming, but can have its bright moments in reality. The Mi-4AV has access to the Falanga ATGM with 4 km of range which in the right scenarios can be very deadly to enemy tanks. Pilots of the Mi-4 must be very careful of the aircraft's underpowered engine and abysmal flight performance: due to being a piston-powered helicopter, the engine is somewhat inadequate at full combat loads, and the helicopter will feel even more sluggish than it already is. This makes the Mi-4AV a very easy target for most radar-guided SPAA at range, due to its inability to dodge incoming fire very easily.
 
 == General info ==
 === Flight performance ===
@@ -98,6 +98,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 96 x S-5K rockets
 * 2 x 9M17M Falanga missiles
 * 4 x 9M17M Falanga missiles

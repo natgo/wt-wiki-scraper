@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish SPAA {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+The ASRAD-R (Advanced Short Range Air Defence System - RBS) is a short range air defence system designed between Rheinmetall and Saab Bofors Dynamics for use in different vehicles. This configuration is mounted in the American M113 APC. The system can use a 3D AESA air search radar with a range of up to 20 km or an infrared search and track (IRST) system, depending on the needs of the customer. Compared to older air defence systems developed in Sweden, the ASRAD uses an unmanned launcher high above the rest of the vehicle, which allows the rest of the hull to stay hidden or buried in defensive positions. The missile employed by the launcher is the RBS-70 (Bolide) that uses a laser beam guidance system. The missile is also designed to be capable of intercepting cruise missiles. Each battery of ASRAD-R systems also equips 4 RBS 70 MANPADS launchers.
 
-The ASRAD-R received a number of improvements over the [[Lvrbv 701]]: The launcher array is now unmanned and located higher above the ground, which allows for the hull to remain in cover while still being effective in all directions thanks to the increased horizontal traverse angles. With access to 8 long-range supersonic missiles, the ASRAD-R proves to be quite deadly, especially against enemy helicopters.
+Introduced in [[Update "Hot Tracks"]], the ASRAD-R features a good number of improvements over the [[Lvrbv 701]]. The launcher array is now unmanned and located higher above the ground, which allows for the hull to remain in cover while still being effective in all directions thanks to the increased horizontal traverse angles. With access to 8 long-range supersonic missiles, the ASRAD-R proves to be quite deadly, especially against enemy helicopters. Compared to many air defence systems, the ASRAD-R comes with the benefit of having multipurpose missiles: because they are laser beam guided, and they have HEAT warheads, they can be used with some success against enemy ground units, its penetration values are not the greatest, but are enough to go trough the thin armour found in light tanks, APCs, IFVs and other lightly armoured targets, however it would struggle to go trough the thicker armour of MBTs, even from the sides.
 
 == General info ==
 === Survivability and armour ===
@@ -18,6 +18,7 @@ The ASRAD-R uses the chassis of M113 armored personnel carrier. With the whole c
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+
 * Aluminium alloy 5083 (hull, turret, engine maintenance hatch)
 * Rolled homogeneous armour (engine vents, top hatch)
 * Rubber-fabric screens (side skirts)
@@ -33,13 +34,14 @@ The ASRAD-R uses the chassis of M113 armored personnel carrier. With the whole c
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+
 * Suspension wheels are 10 mm thick, and tracks are 15 mm thick.
 * Side skirts are 4 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-As a tracked vehicle, the ASRAD-R adjusts to narrow and rugged terrains and has decent flexibility to evade and take cover while moving. In spite of that, the average speed of ASRAD-R is around 30-40 km/h, and its acceleration and climbing ability aren't so impressive compared to its firepower. 
+As a tracked vehicle, the ASRAD-R adjusts to narrow and rugged terrains and has decent flexibility to evade and take cover while moving. In spite of that, the average speed of ASRAD-R is around 30-40 km/h, and its acceleration and climbing ability aren't so impressive compared to its firepower.
 
 {{tankMobility|abMinHp=305|rbMinHp=190}}
 
@@ -114,13 +116,22 @@ As a tracked vehicle, the ASRAD-R adjusts to narrow and rugged terrains and has 
 * Relies on thermal sight to find the hostile aircraft because the opto-electronic tracker can't detect the target in the third-person view
 
 == History ==
-<!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+<!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->[[File:ASRAD-R-Finnish.jpg|thumb|349x349px|'''ASRAD-R System''' (This launcher is mounted in the Finnish ItO 2005, but it's the same found in the Swedish ASRAD-R)]]
+The ASRAD-R was developed by Rheinmetall and SAAB Bofors Dynamic, the system is a modular Short Range Air Defence System that can be adapted into several platforms, several countries have presented interest in this system, like Greece, Sweden, Germany and Finland.
+
+The system has proven very successful thanks to it's modular design, since it allows customers to integrate advanced air defence capabilities for ground forces into old vehicles, like the M113 APC and the German "Wiesel". Mounted in these two platforms and also in the Finish ItO 2005. The ASRAD-R can use different weapon systems, for instance, the Swedish variant uses the RBS-70 (Bolide) while the Greek Army uses the Stinger missile in what's called  the ASRAD-HELLAS.
+
+During deployment ASRAD-R units consists of 4 batteries as the lowest organization unit, and they also equip 4 x RBS 70 MANPADS launchers for usage by the rest of the crew when dismounted or by infantry around the batteries. The vehicle can use an AESA 3D search radar or an IRST (Infrared Search and Track) system depending on the customer's demand.
+
+The Swedish version of the ASRAD-R is mounted in the M113 APC and uses the already mentioned RBS-70 Bolide missile. This system uses the SAAB Microwave Systems HARD 3D search radar with a range of up to 20KM operating in the X band. This radar has 3 modes, the MTI (moving target indicator) mode for fixed-wing targets, helicopter mode for helicopter detection and analysis and a non-MTI mode for increased sensitivity and detection of tangential targets. The Bolide missile has a maximum range of 8KM and an altitude coverage of 5000M, with a laser beam guidance system, that uses automatic tracking based on the radar lock to intercept the target.
+
+A naval version of the ASRAD-R was announced in 2007 by Rheinmetall and SAAB Bofors Dynamic, the naval variant includes 4 x RBS-70 mounted on a pedestal with upgraded sensors and subsystems against helicopters and fixed wing aircrafts but specially against high speed cruise missile, it also includes a CCD TV eyesafe laser rangefinder.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_asrad_r Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -129,15 +140,16 @@ As a tracked vehicle, the ASRAD-R adjusts to narrow and rugged terrains and has 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[M113 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+
+* [https://en.missilery.info/missile/asrad LeFlaSys (ASRAD) Short-Range Air Defence System] - Missilery.info
+* [https://www.army-technology.com/projects/leflasys/ LeFlaSys anti-aircraft missile system (ASRAD)] - Army Technology
 
 {{TankManufacturer AB Bofors}}
 {{Sweden anti-aircraft vehicles}}

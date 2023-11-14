@@ -109,7 +109,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American tank destroyer {
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-'''Pros:''' 
+'''Pros:'''
 
 * MGM-166s are kinetic penetrators and not reliant on HEAT charges, which can make it avoid most ATGM ERAs
 ** Extremely high penetration values at farther ranges
@@ -127,7 +127,10 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American tank destroyer {
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+[[File:HUMVEE Test firing a LOSAT missile at the White Sands Missile Range.jpg|thumb|HUMVEE test-firing a LOSAT missile at the White Sands Missile Range]]
+The LOSAT (Line-of-Sight Anti-Tank) system was an evolution of a prior multi-platformed guided missile system design. The concept was initially born out of a US Army requirement for a missile with the capabilities to destroy all types of tanks and armoured vehicles found to be outside of conventional gun range. While other missiles currently in service such as the Tube-launched, Optically tracked, Wire-guided (TOW) system were capable of meeting the range requirements, the Army was concerned that these missiles were ineffective due to slow speeds and long flight times to their target at long range. The missile itself was designed by the "Vought" Aerospace company, while Texas Instruments partnered with the firm by providing their upgraded FLIR system. The initial plan for the system was to mount it to the M2 Bradley, and later the M8 Armored Gun chassis. However, due to cost concerns, it would eventually be mounted onto HUMVEEs with additional missiles carried by trailer.
+
+The missile's specifications and design made it very different to most ATGM systems of its time. Rather than a dual-warhead, shaped-charge, or HEAT design, it relied on kinetic energy at very high speeds to penetrate the armour of any target it encountered. The design was first test-fired at the White Sands Missile Range in 1990, and orders for the missiles in small numbers were placed after the Army renewed the production contract. Despite this, production did not really begin in any notable numbers until the late 1990s, and only a dozen vehicles paired with 150 missiles were ordered. However, the DOD reduced the program to "Demonstration" status in 1996 and recommended that the program be killed entirely. It was instead re-instated under Lockheed Martin, and the order of missiles and vehicles began to slowly be delivered in 2002, shortly after a second order for 100 more missiles was placed. By this time, it had been nearly 15 years after the initial proposal by Vought. The missiles continued to be test-fired (this time at Fort Bliss) in 2004 before it became obvious to all involved that the project was simply going to be terminated for good. As time had gone on, the Army changed its requirements for the same type of system, preferring to employ a more compact, and lighter missile known as the Compact Kinetic Missile System that had already entered development and could achieve the same results.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -146,9 +149,8 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American tank destroyer {
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* ''Lockheed Martin MGM-166 LOSAT/KEM''. (n.d.). <nowiki>http://www.designation-systems.net/dusrm/m-166.html</nowiki>
+* Wikipedia contributors. (2022, November 5). ''MGM-166 LOSAT''. Wikipedia. <nowiki>https://en.wikipedia.org/wiki/MGM-166_LOSAT</nowiki>
 
 {{USA tank destroyers}}

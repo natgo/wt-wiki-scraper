@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet light cruiser {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The '''{{Specs|name}}''' was a [[Chapayev (Family)|Project 68 (Chapayev-class)]] light cruiser built for the Soviet Navy in the 1940s, however the war delayed their construction. The Project 68 ships were to be built under Stalin's "Big Fleet Programme" of 1936 as the backbone of the Soviet light cruiser force, performing minelaying, shore bombardment, and commerce raiding operations. Unlike [[Kirov (Family)|Project 26]], 152 mm guns were chosen due to their higher fire rate, and armour protection was also improved significantly. Zheleznyakov was laid down on 31st October 1939 and commissioned on 19th April 1950. Just like her sister [[Chapayev]], she served with the Northern Fleet before being transferred to the Baltic Fleet on 25th January 1952. She was reclassified as a training ship in 1973 and sold for scrap in 1976.
+
+Zheleznyakov was introduced in [[Update "New Power"]] as a GE premium ship, and is functionally identical to the researchable Chapayev. Her armour protection is significantly improved over the previous Project 26 class, as well as having guns with higher rate of fire, although at cost of penetration characteristic. Her anti-aircraft protection suite was expanded as well with twenty-eight 37 mm automatic V-11 cannon barrels as well as eight 100 mm dual purpose guns. Unlike [[Kirov]], her magazines are closer to waterline being more vulnerable to being hit, leading to fatal explosion. All the improvements on Zheleznyakov came at a cost. She lost the ship-launched aircraft found on Kirov, as well as torpedo tubes.
 
 == General info ==
 === Survivability and armour ===

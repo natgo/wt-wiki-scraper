@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The MiG-23MLA was a direct export variant of the [[MiG-23ML]], albeit with multiple noteworthy upgrades. Chief of these was the installation of the N-003 (Sapphire-23MLA) radar with upgraded range and ECCM reliability. The aircraft was also the first export model with the new TP-23M IRST and the first export variant cleared for firing the [[R-24R]]/[[R-24T|T]] missiles. The East German Air Force received 28 of this type.
 
-The '''{{Specs|name}}''' was introduced in [[Update "Wind of Change"]] as a German equivalant to the [[MiG-23MLD]] in the Soviet tree. The aircraft is completely identical in gameplay to the [[MiG-23ML]], having the same BDS-50-60 countermeasure dispensers and R-24 missiles which distinguish it over the older [[MiG-23M]]/[[MiG-23MF (Germany)|MF]] variants. As such, its playstyle is also very similar, utilizing its great weapon systems and avioncis to best its opponents, but not afraid to dogfight some of its less manoeuvrable adversaries either. All in all, the MiG-23MLA acts as a great stepping stone between the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]] and the [[MiG-29 (Germany)|MiG-29]] around it in the tech tree in terms of playstyle, and teaches the pilot valuable lessons in engagement prioritization and missile employment before they get their hands on the [[MiG-29 (Germany)|MiG-29]] that follows it in the tech tree.
+The '''{{Specs|name}}''' was introduced in [[Update "Wind of Change"]] as a German equivalent to the [[MiG-23MLD]] in the Soviet tree. The aircraft is completely identical in gameplay to the [[MiG-23ML]], having the same BDS-50-60 countermeasure dispensers and R-24 missiles which distinguish it over the older [[MiG-23M]]/[[MiG-23MF (Germany)|MF]] variants. As such, its playstyle is also very similar, utilizing its great weapon systems and avionics to best its opponents, but not afraid to dogfight some of its less manoeuvrable adversaries either. All in all, the MiG-23MLA acts as a great stepping stone between the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]] and the [[MiG-29 (Germany)|MiG-29]] around it in the tech tree in terms of playstyle, and teaches the pilot valuable lessons in engagement prioritization and missile employment before they get their hands on the [[MiG-29 (Germany)|MiG-29]] that follows it in the tech tree.
 
 == General info ==
 === Flight performance ===
@@ -242,20 +242,7 @@ This aircraft has a versatile set of play styles any pilot can use for any situa
 
 Those are just two examples of play styles that works for this aircraft on different sides of the spectrum, BVR engagements and close range engagements. You do not need to however use these exclusively, but use the knowledge learned to see where this aircraft can perform best at in given situations, and test varying levels play styles to find one that fits you well. This aircraft is great at surprising enemies with its mobility and speed, so playing around those strengths well help a lot in making the most of the aircraft. This can also be applied through out AB, RB and SB, but it is recommended to test and adjust elements of the desired playstyle to fit the game mode of your choosing.
 
-One of the most interesting quirks about this plane is that its radar is on the J-band. This means that only RWR's which are also on J-band can detect your radar lock. Many planes that you will commonly encounter, especially in downtiers, do not have J-band on their radar will only be able to avoid your R-24R's if tthey actually see you firing it at them.
-
-The following is a list of notable planes in your B.R range which CANNOT detect your radar lock
-
-* Any F-5 variant, except the Chinese F-5E
-* Every F-8 variant
-* The F-4J, F-4S and the Japanese F-4EJ's (But not the US F-4E)
-* Every A-7 variant
-* Any F-104, except the Italian F-104S.ASA (Which no one uses)
-* Every Su-22 variant
-* Any MiG-23 variant, except for the MiG-23M
-* Every MiG-27 variant
-* The MiG-29, but not the MiG-29SMT
-* The Yak-141
+One of the most interesting quirks about this plane is that its radar operates in the J-band. Many planes that you will commonly encounter, especially in downtiers, are not able to detect the J-band on their RWRs, and will only be able to avoid your R-24Rs if they actually see you firing it at them.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

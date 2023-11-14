@@ -146,41 +146,40 @@ It also has a small, self-sealing fuel tank, as well as a tiny oil tank in from 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-50sv (50 kg)|FAB-100sv (100 kg)|RBS-82|ROS-82|ROS-132}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="6" width="35%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FAB-50sv (50 kg)|50 kg FAB-50sv]] bombs
+| || 1 || 1 || 2 || 1 || 1 ||
+|-
+! [[FAB-100sv (100 kg)|100 kg FAB-100sv]] bombs
+| || || 1 || || 1 || ||
+|-
+! [[RBS-82]] rockets
+| 4 || || || || || || 4
+|-
+! [[ROS-82]] rockets
+| 4 || || || || || || 4
+|-
+! [[ROS-132]] rockets
+| 4 || || || || || || 4
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 6 x 50 kg FAB-50sv bombs (300 kg total)
 * 2 x 100 kg FAB-100sv bombs (200 kg total)
 * 2 x 100 kg FAB-100sv bombs + 2 x 50 kg FAB-50sv bombs (300 kg total)
 * 8 x ROS-82 rockets
 * 8 x RBS-82 rockets
 * 8 x ROS-132 rockets
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="7" width="35%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 50 kg FAB-50sv bombs
-| || 1 || 1 || 2 || 1 || 1 ||
-|-
-! 100 kg FAB-100sv bombs
-| || || 1 || || 1 || ||
-|-
-! RBS-82 rockets
-| 4 || || || || || || 4
-|-
-! ROS-82 rockets
-| 4 || || || || || || 4
-|-
-! ROS-132 rockets
-| 4 || || || || || || 4
-|-
-| colspan="8" | Maximum permissible weight imbalance: 100 kg
-|-
-|}
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

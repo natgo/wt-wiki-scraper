@@ -149,14 +149,16 @@
 {{Tree-Unit|uk_centurion_mk_1}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_centurion_mk_3}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|uk_charioteer_mk_7}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_fv4202}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|uk_fv4005}}
+{{Tree-Arrow}}
+{{Tree-Unit|uk_m109a1}}
 {{Tree-Arrow}}
 {{Tree-Group|uk_a39_tortoise|Tortoise/Conway|
   {{Tree-Unit|uk_a39_tortoise}}
@@ -166,7 +168,7 @@
 {{Tree-Arrow}}
 |
 {{Tree-Unit|uk_skink_aa}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Group|uk_ratel_90|Ratel 90/20|
   {{Tree-Unit|uk_ratel_90}}
@@ -179,7 +181,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|uk_eland_90_mk_7}}
 }}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|uk_centurion_mk_3_ss11}}
 {{Tree-Skip}}
@@ -228,9 +230,11 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_chieftain_mk_10}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|uk_vickers_mbt_mk_3}}
+{{Tree-Arrow}}
+{{Tree-Unit|uk_vickers_mk_11}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_vfm_5}}
 {{Tree-Arrow}}
@@ -248,7 +252,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|uk_rooikat_za_35}}
 }}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Group|uk_rooikat_76|Rooikat/Olifant Mk.1|
   {{Tree-Unit|uk_rooikat_76}}
@@ -261,7 +265,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|uk_olifant_mk_2}}
 }}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|uk_vijayanta}}
 {{Tree-Skip}}

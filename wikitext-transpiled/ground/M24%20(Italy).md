@@ -112,7 +112,7 @@ The two machine guns on the M24 Chaffee are the good old [[M2HB (12.7 mm)|.50 ca
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 1,000 (200) || 576 || -10°/+70° || ±60°
+| Pintle || 400 (200) || 575 || -10°/+70° || ±60°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -121,7 +121,7 @@ The two machine guns on the M24 Chaffee are the good old [[M2HB (12.7 mm)|.50 ca
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,000 (250) || 500 || N/A || N/A
+| Coaxial || 3,750 (250) || 500 || - || -
 |-
 |}
 
@@ -141,8 +141,8 @@ Another way to go around is to flank the enemy. If attacking with a more direct 
 
 * [[KV-1 (Family)]], [[KV-IB (Germany)|KV-IB]], [[KW I C 756 (r) (Germany)|KW I C 756 (r)]]: The famous KV series can cause a bit of troubles too. They are well know for their well-protected hull and turrets. The M24 can manoeuvre to point-blank range, line up your gun so it's pointing dead flat at the armour and fire. The 104 mm penetration of the M61 shell should punch a hole in the KV's armour with ease. If you are close enough but do not have the space to manoeuvre, shoot their gun barrel to prevent them from getting a shot off, then go for their turret ring or the vertical part on their gun mantlet, which is only 90 mm. For the KV-1B, do not try and fire at its turret from the front and side, as they are 105 mm thick and will never get penetrated. For the KV I C 756, aim for the cupola (50 m) or the gun mantlet (50 mm) to knock out the turret crew or the gun breech. Don't shoot at anywhere else, the shell won't penetrate.
 
-* [[Churchill Mk I]], [[Churchill Mk III]], [[Pz.Kpfw. Churchill (Germany)|Pz.Kpfw. Churchill]]: The Churchills, with their complex hulls and sturdy turrets, can be quite hard to kill at range. Again, manoeuvre as close to them as possible, the idea distance being no more than 200 m. If they are angling their hull but facing their turret at you, only go for the turret. For the Mk I Churchills, aim at the near-vertical part of their rounded cheeks to ensure successful penetrations. For the Mk III and the German Churchill, also aim for their flat turret which is at most 89 mm. The shell should go in easily and knock out most, if not all of the crew. Only when you are facing their hull without any angles should you shoot the hull, otherwise shoot the turret only, as their big tracks can easily get in front of the frontal hull. The side hull have multiple layers of armour, some of which are weirdly angled and can absorb plenty of shells. 
-* [[M4A2]] / [[M4A4 (1st PTG)|A4]]: these Sherman tanks are widely used by over 3 nations that spread across both the Allied and the Axis side, so no matter which nation you play they can be quite tough to destroy in the hands of a skilled tanker. Given the rather weak penetration of your short 75 mm gun, their hull can be almost impossible to penetrate when angled, hull down or 300 m away. For a M4A4, there are 2 apparent bulges on the upper front plate, a penetration through there is a guaranteed kill most of the times. But in case the opponent covers them up or when it's a M4A2, aim for the middle parts of the gun mantlet or the turret armour unprotected by the mantlet, you can at least make them defenseless. 
+* [[Churchill Mk I]], [[Churchill Mk III]], [[Pz.Kpfw. Churchill (Germany)|Pz.Kpfw. Churchill]]: The Churchills, with their complex hulls and sturdy turrets, can be quite hard to kill at range. Again, manoeuvre as close to them as possible, the idea distance being no more than 200 m. If they are angling their hull but facing their turret at you, only go for the turret. For the Mk I Churchills, aim at the near-vertical part of their rounded cheeks to ensure successful penetrations. For the Mk III and the German Churchill, also aim for their flat turret which is at most 89 mm. The shell should go in easily and knock out most, if not all of the crew. Only when you are facing their hull without any angles should you shoot the hull, otherwise shoot the turret only, as their big tracks can easily get in front of the frontal hull. The side hull have multiple layers of armour, some of which are weirdly angled and can absorb plenty of shells.
+* [[M4A2]] / [[M4A4 (1st PTG)|A4]]: these Sherman tanks are widely used by over 3 nations that spread across both the Allied and the Axis side, so no matter which nation you play they can be quite tough to destroy in the hands of a skilled tanker. Given the rather weak penetration of your short 75 mm gun, their hull can be almost impossible to penetrate when angled, hull down or 300 m away. For a M4A4, there are 2 apparent bulges on the upper front plate, a penetration through there is a guaranteed kill most of the times. But in case the opponent covers them up or when it's a M4A2, aim for the middle parts of the gun mantlet or the turret armour unprotected by the mantlet, you can at least make them defenseless.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

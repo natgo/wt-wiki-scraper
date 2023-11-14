@@ -10,11 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' is currently the only two MBTs in ROCA active service alongside with CM11 since 1990s. Due to the aging of their already obsolete M48A1 fleet and intensify of possible cross-strait conflict, ROCA ordered 460 M60A3 TTS from US stocks (160 in 1994 and 300 in 1996 respectively, delivered from 1995 to 2002) to upgrade their tank fleet with more advanced FCS than PLAGF tanks. Although the outbreak of war was adverted, these tanks would mostly be used by ROCA armored corps on the main island; after the plans to upgrade all these tanks domestically with 120 mm gun and new FCS were cancelled in favor for retrofitted M1A2T, the remaining operable tanks will serve ROCA for the time being until the new tanks deliver from 2024. With only 108 M1A2T deliver in future, some of these M60A3 TTS will receive FCS upgrades while some will upgrade their now-discontinued engines to higher output Renk America AVDS-1790-2 CAU (1050 hp).
 
-As with the previous [[M48A1 (China)|M48A1]], this M60A3 is a US medium tank operated by Taiwan. It boasts thermal sights, a two-plane stabilizer, good gun handling, and a wide selection of ammunition. It does suffer from a large profile, average mobility, and inadequate protection, but the M60A3 TTS is by and large a reliable tank that complements the contemporary [[ZTZ59D1]] quite well.
+Introduced in [[Update 1.91 "Night Vision"]] with the Chinese tech-tree, as with the previous [[M48A1 (China)|M48A1]], this M60A3 is a US medium tank operated by Taiwan. It boasts thermal sights, a two-plane stabilizer, good gun handling, and a wide selection of ammunition. It does suffer from a large profile, average mobility, and inadequate protection, utilize its more advanced FCS and stay behind the line with covers for maximum efficiency.
 
-Succeeding the M60A3 is the [[CM11]], which uses the same hull but boasts better chemical protection and firepower.
+Succeeding the M60A3 is the [[CM11]], which uses the same hull but now equipped with GIAT ERA packages and new ammunitions.
 
 == General info ==
 === Survivability and armour ===
@@ -196,11 +196,11 @@ Overall, the M60A3 TTS is a no-frills tank that can perform well in almost any s
 {{main|M60A3 TTS#History|l1=History of the M60A3 TTS}}
 
 === Service in ROC armed forces ===
-The August 17 Communiqué (The Announcement by China and the United States on Solving the Issue of US Arms Sales to Taiwan) signed by the CCP and the United States restricted the United States' sales of military equipment to Taiwan not exceeding the technology level of the 1980s. At that time, it was not possible for the ROC army to equip with new American-made MBTs in the close future. However, in August 1994, the US government agreed to sell 160 second-hand M60A3TTS main battle tanks to Taiwan, and in May 1996 approved the contract for a second batch of additional 300 tanks. These M60A3TTS MBTs were delivered around the 1996 Taiwan Strait Missile Crisis, and this move undoubtedly contained the CCP's further attempts to invade Taiwan by force.
+The August 17 Communiqué (The Announcement by China and the United States on Solving the Issue of US Arms Sales to Taiwan) signed by the PRC and the United States restricted the United States' sales of military equipment to Taiwan not exceeding the technology level of the 1980s. At that time, it was not possible for the ROC army to equip with new American-made MBTs in the close future. However, in August 1994, the US government agreed to sell 160 second-hand M60A3TTS main battle tanks to Taiwan, and in May 1996 approved the contract for a second batch of additional 300 tanks. These M60A3TTS MBTs were delivered around the 1996 Taiwan Strait Missile Crisis, and this move undoubtedly contained the PRC's further attempts to invade Taiwan by force.
 
 Since 1995, the first batch of 160 M60A3 tanks began arriving in Taiwan, and the second delivery was completed to the end of 1997. The first unit of Armored Corps to receive M60A3 MBTs was the 780th Tank Battalion of the 249th Mechanized Infantry Division, and the subsequent M60A3 TTS tank battalions were the 771 Tank Battalion of the 249 Mechanized Infantry Division and the 781 Tank Battalion of the 109 Mechanized Infantry Division. It's worth mentioning that during the Taiwan Strait Missile Crisis in 1995-1996, the 773rd Tank Battalion of the 701st battle group (affiliated to the 284th Infantry Division) stationed in Kinmen also received 2 companies of 28 M60A3 TTS main battle tanks. The listed troops were all the units in ROC Army that were equipped with M60A3 before the program of armed forces reorganization codenamed "Lean" landed in 1998.
 
-In view of the fact that the combat effectiveness of M60A3 main battle tanks is way inferior to their opponents serving in People's Liberation Army, the Academia Sinica in Taiwan planned to carry out a series of upgrades for the M60A3 tanks in service in 2016. The upgrade project included the installation of a devastating M256 120 mm smoothbore cannon, replacement of the fire control system, and upgrade of power components. According to the plan, a total of 300 M60A3/CM11 tanks should receive such upgrades to coordinate with the M1A2T "Abrams" MBTs sold by the United States. However, the upgrade program was too expensive for the Army to afford (the program was expected to cost 100 million NT$ each, which is even more expensive than purchasing a brand-new M1A1 Abrams MBT), the Army turned to seek a plan to extend the service life of them. The Army Ordnance Industry Development Center of the Joint Logistics Command planned to purchase a batch of new engines to replace the AVDS-1790-2 air-cooled diesel engines that would soon be discontinued from production. These modified M60A3 tanks would be equipped by units in northern Taiwan, and coordinating with the US-aided M1A2T "Abrams" MBTs to defend Taipei.
+In view of the fact that the combat effectiveness of M60A3 main battle tanks is way inferior to their opponents serving in People's Liberation Army, the Academia Sinica in Taiwan planned to carry out a series of upgrades for the M60A3 tanks in service in 2016. The upgrade project included the installation of a devastating M256 120 mm smoothbore cannon, replacement of the fire control system, and upgrade of power components. According to the plan, a total of 300 M60A3/CM11 tanks should receive such upgrades to coordinate with the M1A2T "Abrams" MBTs sold by the United States. However, the upgrade program was too expensive for the Army to afford (the program was expected to cost 100 million NT$ each, which is even more expensive than purchasing a brand-new M1A1 Abrams MBT), the Army turned to seek a plan to extend the service life of them. The Army Ordnance Industry Development Center of the Joint Logistics Command planned to purchase a batch of Renk America AVDS-1790-2 ACU to replace the Continental (now a subsidy of Renk America) AVDS-1790-2 air-cooled diesel engines that would soon be discontinued from production, as well as provision for FCS upgrades for some M60A3 TTS. These modified M60A3 tanks would be equipped by units in northern Taiwan, and coordinating with the US-aided M1A2T "Abrams" MBTs to defend Taipei. 
 
 (GDLS was awarded a $358 million contract for 150 M1A1 SA Abrams tanks while the upgrade package of Taiwanese M60A3 TTS costs 3 million dollars each, far more expensive than 2.4 million M1A1 SA Abrams.)
 
@@ -208,6 +208,7 @@ In view of the fact that the combat effectiveness of M60A3 main battle tanks is 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m60a3_tts Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -215,11 +216,13 @@ In view of the fact that the combat effectiveness of M60A3 main battle tanks is 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

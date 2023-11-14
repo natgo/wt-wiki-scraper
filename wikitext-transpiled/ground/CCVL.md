@@ -102,7 +102,7 @@ Introduced in [[Update "Drone Age"]] as a reward for the 2022 [[wt:en/news/7882-
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,600 (200) || 941 || N/A || N/A
+| Coaxial || 5,000 (200) || 941 || - || -
 |-
 |}
 

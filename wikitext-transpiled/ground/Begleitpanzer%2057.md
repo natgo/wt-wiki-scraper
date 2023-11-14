@@ -47,20 +47,20 @@ As a light tank, the Begleitpanzer 57 carries great firepower and high mobility.
 == Armaments ==
 {{Specs-Tank-Armaments}}
 === Main armament ===
-{{Specs-Tank-Weapon|3}}
+{{Specs-Tank-Weapon|2}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Bofors L/70 Mk.1 (57 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="6" | [[Bofors L/70 Mk.1 (57 mm)|57 mm Bofors L/70 Mk.1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="6" | [[Bofors L/70 Mk.1 (57 mm)|57 mm Bofors L/70 Mk.1]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Fire rate !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 148 || rowspan="2" | 200 || rowspan="2" | -8°/+45° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 52.4 || 72.5 || 88.0 || 97.3 || 103.5 || rowspan="2" | 0.30 || rowspan="2" | 0.30 || rowspan="2" | 0.30 || rowspan="2" | 0.30
+| rowspan="2" | 148 || rowspan="2" | 200 || rowspan="2" | -8°/+45° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 52.4 || 72.5 || 88.0 || 97.3 || 103.5 || rowspan="2" | 0.30
 |-
 ! ''Realistic''
 | 32.7 || 38.5 || 46.8 || 51.7 || 55.0
@@ -94,25 +94,23 @@ As a light tank, the Begleitpanzer 57 carries great firepower and high mobility.
 * The depletion order at full capacity is: 2 - 3 - 1.
 
 === Additional armament ===
-{{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|1}}
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-{{main|BGM-71B TOW|BGM-71C I-TOW}}
+{{main|BGM-71 TOW}}
 
-{| class="wikitable" style="text-align:center" width="100%"
+{| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="4" | [[BGM-71B TOW]]/[[BGM-71C I-TOW]] ATGM || colspan="4" | Reloading rate (seconds)
+! colspan="4" | [[BGM-71 TOW]] ATGM || colspan="4" | Reloading rate (seconds)
 |-
 ! Capacity !! Vertical !! Horizontal !! Stabilizer
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
-| 6 || -6°/+20° || N/A || N/A || 10.00 || 10.00 || 10.00 || 10.00
+| 6 || -6°/+20° || - || - || 10.00
 |-
 |}
 
 ==== Ammunition ====
-{{:BGM-71B TOW/Ammunition|TOW}}
-{{:BGM-71C I-TOW/Ammunition|I-TOW}}
+{{:BGM-71 TOW/Ammunition|TOW, I-TOW}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}_secondary.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -125,13 +123,9 @@ As a light tank, the Begleitpanzer 57 carries great firepower and high mobility.
 | '''6''' || No
 |-
 |}
-'''Notes''':
-
-* It is not possible to select how many missiles to bring into battle.
-* The missiles are listed from 1 to 6.
 
 === Machine guns ===
-{{Specs-Tank-Weapon|4}}
+{{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|MG3A1 (7.62 mm)}}
 
@@ -141,7 +135,7 @@ As a light tank, the Begleitpanzer 57 carries great firepower and high mobility.
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 5,000 (1,000) || 1,200 || N/A || N/A
+| Coaxial || 5,000 (200) || 1,200 || - || -
 |-
 |}
 

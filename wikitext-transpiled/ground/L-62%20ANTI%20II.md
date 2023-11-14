@@ -160,10 +160,16 @@ File:L-62 Anti II WTWallpaper 06.jpg|
 </gallery>
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+Vehicles of similar configuration and role:
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[Crusader AA Mk I]]
+* [[Lvkv 42]]
+* [[LVT-4/40]]
+
+Vehicles with similar weapon systems:
+
+* [[Lvtdgb m/40]]
+* [[CCKW 353 AA]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -173,7 +179,9 @@ File:L-62 Anti II WTWallpaper 06.jpg|
 * [[wt:en/news/6624-development-l-62-anti-ii-finnish-choice-en|[Devblog] L-62 ANTI II: Finnish Choice]]
 
 === References ===
+
 ;Bibliography
+
 * Landsverk L-62 Anti-II. (2019, October 20). In ''Wikipedia.'' https://en.wikipedia.org/w/index.php?title=Landsverk_L-62_Anti_II&oldid=922225342
 
 {{TankManufacturer AB Landsverk}}

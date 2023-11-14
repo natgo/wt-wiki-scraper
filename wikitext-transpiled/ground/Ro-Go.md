@@ -232,6 +232,8 @@ After World War I, the Imperial Japanese Army experimented with some possibility
 
 * [[Nb.Fz.]]
 * [[Independent]]
+* [[T-35]]
+* [[2C]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

@@ -98,6 +98,7 @@ Being a heavy strategic bomber, you should go for the bomb load upgrades first f
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)|FAB-1000 (1,000 kg)}}
+{{main|BRAB-250 (250 kg)|BRAB-500 (500 kg)|BRAB-1000 (1,000 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -108,6 +109,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 3 x 1,000 kg FAB-1000 bombs + 20 x 100 kg FAB-100sv bombs (5,000 kg total)
 * 3 x 1,000 kg FAB-1000 bombs + 8 x 250 kg FAB-250sv bombs (5,000 kg total)
 * 3 x 1,000 kg FAB-1000 bombs + 4 x 500 kg FAB-500sv bombs (5,000 kg total)
+* 8 x 250 kg BRAB-250 bombs (2,000 kg total)
+* 4 x 500 kg BRAB-500 bombs (2,000 kg total)
+* 3 x 1,000 kg BRAB-1000 bombs (3,000 kg total)
+* 3 x 1,000 kg BRAB-1000 bombs + 8 x 250 kg BRAB-250 bombs (5,000 kg total)
+* 3 x 1,000 kg BRAB-1000 bombs + 4 x 500 kg BRAB-500 bombs (5,000 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

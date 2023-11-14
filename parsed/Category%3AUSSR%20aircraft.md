@@ -200,7 +200,7 @@
 {{Tree-Unit|yak-9k}}
 }}
 {{Tree-Arrow}}
-{{Tree-Group|yak-3_group|Yak-3|
+{{Tree-Group|yak-3_group|Yak-3/9U|
   {{Tree-Unit|yak-3}}
 {{Tree-Arrow}}
 {{Tree-Unit|yak-9u}}

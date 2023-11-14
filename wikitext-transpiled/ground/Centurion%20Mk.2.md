@@ -93,6 +93,7 @@ Introduced in [[Update 1.55 "Royal Armour"]] as a reward for [[Battle Pass: Seas
 | '''77''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
 |-
 |}
+Unlike the MK.1, the ammunition is first stored next to the driver. So you only have a possibility to drive with an empty front ammunition rack if you take 8 rounds of standby ammunition with you.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

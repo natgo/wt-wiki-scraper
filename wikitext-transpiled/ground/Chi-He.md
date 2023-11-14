@@ -60,7 +60,7 @@ This is one of the main feature of the Chi-He, it enables it to do anything a co
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Type 1 (47 mm)}}
 
-Comparatively to other light/medium tanks at this battle rating, the 47 mm Type 1 gun is quite surprising with 77 mm of penetration at point-blank range and has a good reload speed. Plus, this fires APHE shells, which do great post-penetration damage. Comparatively, the [[20-K (45 mm)]] gun on Russian BR 1.0-2.7 tanks has only 62 mm of penetration in similar conditions. A top-mounted MG is really useful when dealing with unarmoured SPG and SPAA one might encounter at the battle rating.
+Comparatively to other light/medium tanks at this battle rating, the 47 mm Type 1 gun is quite surprising with 77 mm of penetration at point-blank range and has a good reload speed. Plus, this fires APHE shells, which do great post-penetration damage. Comparatively, the [[20-K (45 mm)]] gun on Russian BR 1.0-2.7 tanks has only 62 mm of penetration in similar conditions. Furthermore, a shoulder stabiliser allows for safer advances on enemy positions (although it is important to note that it only works at low speed). A top-mounted MG is really useful when dealing with unarmoured SPG and SPAA one might encounter at the battle rating.
 
 One thing to keep in mind compared to [[Chi-Ha Kai]] is that it still retains the same hand-cranked turret with additional 25 mm plates to improve the frontal armour to a max of 50 mm. This however slows down the turret rotations speeds due the added weight.
 
@@ -73,10 +73,10 @@ One thing to keep in mind compared to [[Chi-Ha Kai]] is that it still retains th
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 120 || rowspan="2" | -15°/+20° || rowspan="2" | ±180° || rowspan="2" | Vertical || 13.33 || 18.45 || 22.40 || 24.77 || 26.35 || rowspan="2" | 4.29 || rowspan="2" | 3.80 || rowspan="2" | 3.50 || rowspan="2" | 3.30
+| rowspan="2" | 120 || rowspan="2" | -15°/+20° || rowspan="2" | ±180° || rowspan="2" | {{Annotation|Shoulder|up to 10 km/h}} || 13.3 || 18.4 || 22.4 || 24.8 || 26.4 || rowspan="2" | 4.29 || rowspan="2" | 3.80 || rowspan="2" | 3.50 || rowspan="2" | 3.30
 |-
 ! ''Realistic''
-| 8.33 || 9.80 || 11.90 || 13.16 || 14.00
+| 8.3 || 9.8 || 11.9 || 13.2 || 14.0
 |-
 |}
 

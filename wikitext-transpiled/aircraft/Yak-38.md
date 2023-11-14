@@ -45,7 +45,7 @@ The Yak-38 was introduced as a premium pack in [[Update "New Power"]] but was re
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || X || X || ✓     <!-- ✓ -->
+| X || X || ✓ || X || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -60,7 +60,7 @@ The Yak-38 was introduced as a premium pack in [[Update "New Power"]] but was re
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 650 || 500 || ~12 || ~5
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || - || 500 || ~12 || ~5
 |-
 |}
 
@@ -70,7 +70,7 @@ The Yak-38 was introduced as a premium pack in [[Update "New Power"]] but was re
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 650 || < 850 || < 920 || N/A
+| < 650 || < 850 || < 920 || -
 |-
 |}
 
@@ -162,7 +162,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1 || 1 || 1 || 1
 |-
 ! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
-| 4 || 1 || 1 || 4
+| 3 || 1 || 1 || 3
 |-
 ! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
 | 1 || 1 || 1 || 1
@@ -206,7 +206,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 40 x S-8KO rockets
 * 4 x S-24B rockets
 * 2 x Kh-23M missiles
-* 10 x 100 kg OFAB-100 bombs (1,000 kg total)
+* 8 x 100 kg OFAB-100 bombs (800 kg total)
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 2 x ZB-500 incendiary bombs
@@ -273,11 +273,11 @@ This is the place where the Yak-38 shines, thanks to an unusual suspended ordnan
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Cold War era saw intense rivalry between the Western and Eastern blocs, not only in the political and ideological spheres but also in the military domain. A key aspect of this competition involved the development of Vertical Takeoff and Landing (VTOL) aircraft, which could operate from short runways and eventually from aircraft carriers. Several countries, such as France, Germany, the United Kingdom, and the United States, participated in these efforts and produced various prototypes and operational models of VTOL aircraft. However, the Soviet Union was initially reluctant to join this race, as it had a different strategic doctrine and a vast network of airfields. It was not until the late 1950s that the Soviet deputy minister, Dmitri Ustinov, recognized the value of VTOL technology and commissioned a new research platform for their own VTOL aircraft development. Yakovlev OKB (Experimental Design Bureau) was the only design bureau that showed interest in the project and was assigned the task. 
+The Cold War era saw intense rivalry between the Western and Eastern blocs, not only in the political and ideological spheres but also in the military domain. A key aspect of this competition involved the development of Vertical Takeoff and Landing (VTOL) aircraft, which could operate from short runways and eventually from aircraft carriers. Several countries, such as France, Germany, the United Kingdom, and the United States, participated in these efforts and produced various prototypes and operational models of VTOL aircraft. However, the Soviet Union was initially reluctant to join this race, as it had a different strategic doctrine and a vast network of airfields. It was not until the late 1950s that the Soviet deputy minister, Dmitri Ustinov, recognized the value of VTOL technology and commissioned a new research platform for their own VTOL aircraft development. Yakovlev OKB (Experimental Design Bureau) was the only design bureau that showed interest in the project and was assigned the task.
 
-The first design by Yakovlev was the Yak-30V (vertikalnyi - vertical), which featured two similar powerplants installed vertically. However, this design was abandoned after the British unveiled the Hawker P.1127 in 1960. Yakovlev OKB realized that they needed a more sophisticated solution to match their rivals. They opted for a similar concept to the P.1127, using thrust-vectoring nozzles to adjust the thrust direction. 
+The first design by Yakovlev was the Yak-30V (vertikalnyi - vertical), which featured two similar powerplants installed vertically. However, this design was abandoned after the British unveiled the Hawker P.1127 in 1960. Yakovlev OKB realized that they needed a more sophisticated solution to match their rivals. They opted for a similar concept to the P.1127, using thrust-vectoring nozzles to adjust the thrust direction.
 
-The outcome was the Yak-36, which flew for the first time in 1963. The Yak-36 engines were a pair of Tumansky R-27-300 vectored thrust axial flow turbojets, each producing 51.993 kN (11,688 lbf) of thrust. The lower fuselage of the aircraft had swiveling exhaust nozzles on either side, one for each engine, close to the center of gravity. These nozzles could be rotated 90 degrees for VTOL or horizontal flight. The engines were derived from the compact and lightweight Tumansky RU-19-300 turbojet engine, which was originally used for a VTOL system proposal based on the Yak-30 jet trainer. The Yak-36 was designed to be a technology demonstrator, not an operational aircraft. It faced many challenges, such as instability, low thrust, and short range. 
+The outcome was the Yak-36, which flew for the first time in 1963. The Yak-36 engines were a pair of Tumansky R-27-300 vectored thrust axial flow turbojets, each producing 51.993 kN (11,688 lbf) of thrust. The lower fuselage of the aircraft had swiveling exhaust nozzles on either side, one for each engine, close to the center of gravity. These nozzles could be rotated 90 degrees for VTOL or horizontal flight. The engines were derived from the compact and lightweight Tumansky RU-19-300 turbojet engine, which was originally used for a VTOL system proposal based on the Yak-30 jet trainer. The Yak-36 was designed to be a technology demonstrator, not an operational aircraft. It faced many challenges, such as instability, low thrust, and short range.
 
 Nevertheless, Yakovlev OKB continued to improve the design and developed the Yak-36M, an entirely new aircraft that quickly got its own production designation: Yak-38. The Yak-38 addressed many of the problems faced by its predecessor with improvements in stability, thrust-to-weight ratio, range, and payload. It became the first operational VTOL aircraft in the Soviet Union and was primarily used by the Soviet Navy for shipborne operations. The Yak-38 had three engines: two Kolesov RD-36-35FV lift engines mounted vertically behind the cockpit and one Tumansky R-28V-300 cruise engine mounted horizontally in the rear fuselage with a vectorable nozzle. The lift engines were only used for takeoff and landing, while the cruise engine was used for horizontal flight. The Yak-38 could carry up to 2,000 kg (4,400 lb) of weapons on four underwing hardpoints. The Yak-38 was not without its flaws, however. It still had a limited range and endurance, as well as poor performance at high altitudes and speeds. It also suffered from reliability issues and high maintenance costs. Moreover, it was vulnerable to enemy fire and electronic warfare due to its lack of radar and electronic countermeasures. The Yak-38 was mainly deployed on Kiev-class aircraft carriers (which were actually classified as heavy aviation cruisers), but it could also operate from land bases or small ships. Single-seat Yak-38 production totaled 143 aircraft, and a modernization program was initiated to extend its service life, resulting in the Yak-38M.
 === [[wt:en/news/6942-development-yak-38-yak-38m-hover-jet-en|Devblog]] ===

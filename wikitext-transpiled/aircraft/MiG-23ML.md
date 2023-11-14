@@ -167,7 +167,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1 || || || || 1
 |-
 ! [[ZB-500 incendiary]] bombs
-| 1 || || || || 1
+| || 1 || || 1 ||
 |-
 ! [[S-5K]] rockets
 | 16, 32 || 16 || || 16 || 16, 32

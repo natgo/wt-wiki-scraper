@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet destroyer {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}''' was a [[Pr.7 (Family)|Gnevny-class]] destroyer built for the Soviet Navy in the 1930s. The Gnevny class was a license-built version of the Italian Folgore class, inheriting the stability issues due to Soviet design being heavier than the original. She was initially laid down in Nikolayev shipyards on 31st December 1935, before being shipped by rail to Vladivostok where she was laid down again on 18th September 1936. She was commissioned on 11th August 1939 and assigned to the Pacific Fleet. Her career was uneventful and she was reclassified as a target ship in 1958, before being sunk as target on 8th January 1961.
+
+The Ryany was introduced in [[Update "Apex Predators"]] as a GE premium ship. As the main armament of all Project 7 destroyers is manually driven, the turrets suffer from poor traverse speed rendering these difficult when switching targets. The guns itself are also protected only by 8 mm thick antifragmentation armour covering sides, front and top side. As with most destroyers from other navies as well, Gnevny-class features unarmoured magazines above the waterline, which will lead to fatal explosion when hit. Her boilers and transmission also take up nearly the entire length of the ship past the bridge. Being hit in these spaces will damage or disable the machinery, leaving the ship dead in the water.
 
 == General info ==
 === Survivability and armour ===

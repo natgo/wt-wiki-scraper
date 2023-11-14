@@ -120,11 +120,36 @@ There is no armour on the SAAB-105ÖE; the internal modules of the aircraft are 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|RB24|Rb05A|m/56D|psrak m/49/56|srak m/55 Frida}}
-{{main|Akan m/55 (30 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_SK60B.png]]</div>
+|-
+! [[Akan m/55 (30 mm)|30 mm Akan m/55]] cannons (150 rpg)
+| || 1 || || || 1 ||
+|-
+! [[m/56D]] rockets
+| 2 || 2 || 2 || 2 || 2 || 2
+|-
+! [[psrak m/49/56]] rockets
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[srak m/55 Frida]] rockets
+| 3 || 4 || 4 || 4 || 4 || 3
+|-
+! [[RB24]] missiles
+| 1 || || || || || 1
+|-
+! [[Rb05A]] missiles
+| || 1 || || || 1 ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 2 x 30 mm Akan m/55 cannons, wing-mounted (gunpods) (150 rpg = 300 total)
 * 22 x srak m/55 Frida rockets
 * 12 x m/56D rockets
@@ -133,32 +158,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x RB24 missiles
 * 2 x RB24 missiles + 2 x Rb05A missiles
 * 2 x RB24 missiles + 2 x 30 mm Akan m/55 cannons
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_SK60B.png]]</div>
-|-
-! 30 mm Akan m/55 cannons (150 rpg)
-| || 1 || || || 1 ||
-|-
-! m/56D rockets
-| 2 || 2 || 2 || 2 || 2 || 2
-|-
-! psrak m/49/56 rockets
-| 1 || 1 || 1 || 1 || 1 || 1
-|-
-! srak m/55 Frida rockets
-| 3 || 4 || 4 || 4 || 4 || 3
-|-
-! RB24 missiles
-| 1 || || || || || 1
-|-
-! Rb05A missiles
-| || 1 || || || 1 ||
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

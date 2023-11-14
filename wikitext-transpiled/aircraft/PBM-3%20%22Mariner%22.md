@@ -88,13 +88,14 @@ Due to the fact that it is a large seaplane, the PBM-3 is not very manoeuvrable 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|Type A Mark I mine}}
+{{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-Mk 1 (1,600 lb)|Type A Mark I mine}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 12 x 100 lb AN-M30A1 bombs (1,200 lb total)
 * 8 x 500 lb AN-M64A1 bombs (4,000 lb total)
 * 8 x 1,000 lb AN-M65A1 bombs (8,000 lb total)
+* 8 x 1,600 lb AN-Mk 1 bombs (12,800 lb total)
 * 8 x Type A Mark I mines
 
 === Defensive armament ===

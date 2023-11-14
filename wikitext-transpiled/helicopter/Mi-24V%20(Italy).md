@@ -56,9 +56,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian attack helicopter {{Ba
 The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between three presets:
-** 1 x 12.7 mm YaK-B machine gun (1,470 rpg) + 192 x countermeasures
-** 1 x 12.7 mm YaK-B machine gun + 192 x countermeasures + HIRSS
-** 1 x 12.7 mm YaK-B machine gun + 192 x countermeasures + HIRSS + IRCM
+** 1 x 12.7 mm YaK-B machine gun (1,470 rpg) + 128 x countermeasures
+** 1 x 12.7 mm YaK-B machine gun + 128 x countermeasures + HIRSS
+** 1 x 12.7 mm YaK-B machine gun + 128 x countermeasures + HIRSS + IRCM
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
@@ -68,8 +68,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+|-
+! [[GShG-7.62 (7.62 mm)|7.62 mm GShG-7.62]] machine guns (1,800 rpg)
+| || 2* || 2<sup>†</sup> || 2<sup>†</sup> || 2* ||
+|-
+! [[YaK-B (12.7 mm)|12.7 mm YaK-B]] machine guns (750 rpg)
+| || 1* || 1<sup>†</sup> || 1<sup>†</sup> || 1* ||
 |-
 ! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
 | || 1 || 1 || 1 || 1 ||
@@ -96,6 +102,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | || 1, 2 || || || 1, 2 ||
 |-
 | colspan="7" | Maximum permissible weight imbalance: 500 kg
+|-
+| colspan="8" | *<sup>†</sup> Machine gun pods must be equipped simultaneously as marked, including those on the same hardpoint
 |-
 |}
 

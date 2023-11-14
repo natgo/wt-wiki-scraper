@@ -10,15 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-After the USAF Air Defense Command was dissolved, the Air National Guard (ANG) took up the task of defending American airspace in the mid-1980s. The F-16, which was introduced only several years prior, was selected, and 270 F-16A/B airframes were converted to the ADF  (Air Defense Fighter) standard. The first production variants of the F-16 lacked the ability to utilize the AIM-7 Sparrow, so the ADF included that feature. It also featured the AN/APX-109 IFF system and a spotlight for illumination during nighttime operations. Conversions were conducted at Ogden Air Logistics Center and carried on for 3 years. After the threat of Soviet bombers was over, many of the F-16 ADFs were either reconverted back into F-16A/Bs, placed into storage, or sold off to other countries.
+After the USAF Air Defense Command was dissolved, the Air National Guard (ANG) took up the task of defending American airspace in the mid-1980s. The F-16, which was introduced only several years prior, was selected, and 270 F-16A/B airframes were converted to the ADF (Air Defense Fighter) standard. The first production variants of the F-16 could not utilize the AIM-7 Sparrow, so the ADF included that feature. It also featured the AN/APX-109 IFF system and a spotlight for illumination during nighttime operations. Conversions were conducted at Ogden Air Logistics Center and carried on for 3 years. After the threat of Soviet bombers was over, many of the F-16 ADFs were either reconverted back into F-16A/Bs, placed into storage or sold off to other countries.
 
-Introduced in [[Update "Apex Predators"]], the '''{{Specs|name}}''' is a very powerful fighter thanks to its radar missile capability, dogfighting abilities, and overall performance. Firstly, the F-16A ADF is able to carry the [[AIM-7M Sparrow]], which is useful for medium to long-range engagements. The ADF can also equip all-aspect [[AIM-9L Sidewinder]]s, which have a decently long range for an infrared missile. Since the ADF was simply a conversion of the regular [[F-16A]] variant, it features the same engine and mostly the same airframe. However, the extra weight added by the various electronics and systems does increase the weight by around 280 kg (617 lb). Also, since the ADF was intended for interception, it lacks suspended armament and is mainly relegated to air duties. Nonetheless, the F-16A ADF is still overall an excellent aircraft.
+Introduced in [[Update "Apex Predators"]], the '''{{Specs|name}}''' is a very powerful fighter thanks to its radar missile capability, dogfighting abilities, and overall performance. Firstly, the F-16A ADF can carry the [[AIM-7M Sparrow]], which is useful for medium to long-range engagements. The ADF can also equip all-aspect [[AIM-9L Sidewinder]]s, which have a decently long range for an infrared missile. Since the ADF was simply a conversion of the regular [[F-16A]] variant, it features the same engine and mostly the same airframe. However, the extra weight added by the various electronics and systems does increase the weight by around 280 kg (617 lb). Also, since the ADF was intended for interception, it lacks suspended armament and is mainly relegated to air duties. Nonetheless, the F-16A ADF is still overall an excellent aircraft.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The F-16 ADF has a very poor manoeuvrability at higher speeds (above around 850 km/h) due to its angle of attack (AOA) limiter. Staying at these higher speeds is ideal for general air combat, but greatly limits your manoeuvring and dogfighting abilities. At these high speeds, poor nose-pointing ability makes it troublesome to lock Sidewinders, get an ACM radar lock, or aim the gun. Only by going below these speeds (thus getting slow) does any semblance of dogfighting ability whatsoever begin to be gained. The F-16's acceleration can be "too good": its poor high speed manoeuvrability combined with its excellent acceleration and energy retention means heavy down-throttling, air braking and energy management are practically required to drop below these speeds to be able to dogfight.
+The F-16 ADF has poor manoeuvrability at higher speeds (above around 850 km/h) due to its angle of attack (AOA) limiter. Staying at these higher speeds is ideal for general air combat, but greatly limits your manoeuvring and dogfighting abilities. At these high speeds, poor nose-pointing ability makes it troublesome to lock Sidewinders, get an ACM radar lock, or aim the gun. Only by going below these speeds (thus getting slow) does any semblance of dogfighting ability whatsoever begin to be gained. The F-16's acceleration can be "too good": its poor high-speed manoeuvrability combined with its excellent acceleration and energy retention means heavy down-throttling, air braking and energy management are practically required to drop below these speeds to be able to dogfight. However, if low on fuel and out of most of your ordanace the plane becomes very manoeuvrable sometimes allow the plane to pull 12+ Gs in a turn. 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -112,7 +112,7 @@ The F-16 ADF has a very poor manoeuvrability at higher speeds (above around 850 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The F-16A ADF is not very survivable because it has no armour plates. It becomes very difficult to fly when missing a wing or tail like most other aircraft. It only has one engine so if it is knocked out it will be very difficult to return to the airfield. If it loses one of its tail control surfaces it becomes even less maneuverable and hardder to fly.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -121,14 +121,14 @@ The F-16 ADF has a very poor manoeuvrability at higher speeds (above around 850 
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="5" | [[Ballistic Computer]]
+! colspan="5" |ces
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
 | {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
 |}
-=== Offensive armament ===
+=== Offensvennive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 {{main|M61A1 (20 mm)}}
@@ -170,11 +170,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The F-16A ADF can be a powerful fighter with multiple playstyles, rushing straight into battle or hanging high and utilizing the [[AIM-7M Sparrow]]s. Players that plan to stay low and accelerate straight into action will be satisfied with the F-16's low-altitude performance and radar. Players that want to keep high and sling AIM-7Ms at targets will be more than pleased with the F-16's strong climb rate, range of the AIM-7M, and radar. A mixed countermeasure loadout (1 flare, 1 chaff) is recommended because it allows 30 countermeasure drops against radar or IR missiles. In order to be prepared for matches that may extend longer than usual, select the 20-minute fuel option in conjunction with the 300-gallon drop tank. The F-16 consumes a lot of fuel on afterburner, so it's essential to use it wisely unless the max fuel amount is selected.
+The F-16A ADF can be a powerful fighter with multiple playstyles, rushing straight into battle or hanging high and utilizing the [[AIM-7M Sparrow]]s. Players that plan to stay low and accelerate straight into action will be satisfied with the F-16's low-altitude performance and radar. Players that want to keep high and sling AIM-7Ms at targets will be more than pleased with the F-16's strong climb rate, range of the AIM-7M, and radar. A mixed countermeasure loadout (1 flare, 1 chaff) is recommended because it allows 30 countermeasure drops against radar or IR missiles. To be prepared for matches that may extend longer than usual, select the 20-minute fuel option in conjunction with the 300-gallon drop tank. The F-16 consumes a lot of fuel on afterburner, so it's essential to use it wisely unless the max fuel amount is selected.
 
 The AIM-7Ms must be used wisely since only 2 Sparrows can be carried simultaneously. For long-range, high-altitude fights, seek out targets closing in fast. Do not fire at targets already about to notch or beginning to notch. AIM-7Ms are excellent for these types of engagements due to their range and manoeuvrability. As for low-altitude engagements, look for targets closing in fast and at around 500 metres altitude or above. Do not fire at targets that are flying very close to the ground because the radar will track underneath the intended target, and the missile will miss. As for [[AIM-9L Sidewinder]]s, players can be more generous with them since the ADF can carry up to 6 AIM-9Ls. If a player finds themselves above the fight, it will be effortless to fire off missiles at distracted enemies and score kills quickly. AIM-9Ls are very strong from the rear aspect and require hard defending from the opponent to evade successfully.
 
-The F-16 is very strong in a dogfight due to its excellent TWR and energy retention. Before entering a dogfight, however, it's critical to be at the correct speed. The F-16 has a very wide turning circle at high speeds, so make sure to stay around 800-850 km/h (497-528 mph) when entering a dogfight.
+The F-16 is very strong in a dogfight due to its excellent TWR and energy retention and is one of the best dogfighters in game.
 
 '''Countering the [[MiG-29]]'''
 
@@ -202,7 +202,6 @@ The MiG-29 at high altitude can be dangerous if the opponent utilizes [[R-27ER]]
 
 * Lacks any air-to-ground suspended ordnance whatsoever
 * Internal M61 cannon has a small ammo pool
-* Very poor manoeuvrability at higher speeds (above around 850 km/h), greatly limiting its manoeuvring and dogfighting ability
 * Very hot engine temperature
 * Extremely high fuel consumption on afterburner
 

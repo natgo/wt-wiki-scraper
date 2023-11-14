@@ -165,10 +165,10 @@ In the mid-60s, the Japanese Military Administration made the decision to boost 
 {{Youtube-gallery|fvSdDRBazww|'''The Shooting Range #121''' - ''War Machines'' section at 00:35 discusses the Type 75 MLRS.}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+Other vehicles derived from the Type 73 chassis
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[SUB-I-II]]
+* [[Type 75 SPH]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet destroyer {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+The '''{{Specs|name}}''' was a Soviet Project 30bis-class destroyer built in the late 1940s. The Skoryy class as the Project 30bis was also referred to, were modified versions of the late war Project 30 Ognevoy-class destroyers. Smelyi was laid down on 16th May 1948 and commissioned on 19th March 1950. Between January 1953 and December 1955, she was part of the Baltic Fleet. On 22nd November 1960, she was withdrawn from service and reclassified as a target ship. She served as a target ship until 31st January 1964 when she was changed into floating barracks. She was sold for scrap and broken up between 1965 and 1966.
+
+Smelyi was introduced in [[Update "Direct Hit"]] as an GE premium ship. Featuring the same 130 mm guns as all other Soviet WWII era destroyers, she suffers from poor traverse speed of said guns as well as a fire rate of only 10 rounds per minute with aced crew. As the ship itself is in her 1955 configuration, she provides access to search radar alerting the captains of incoming aircraft as well as an enhanced anti-air protection suite in the form of four twin 37 mm automatic guns with fire rate of 180 rounds per minute and three twin 25 mm mounts with fire rate of 300 rounds per minute making her one of the best suited ships at her BR for short to medium range air defence.
 
 == General info ==
 === Survivability and armour ===
@@ -68,7 +70,7 @@ The shells available for the 130 mm main gun are the OF-46 high-explosive, PB-46
 * Extremely effective AAA for a destroyer
 * Ten ready-to-launch torpedoes
 * Large mine supply makes mine laying a viable option
-* HE-VT rounds for main gun 
+* HE-VT rounds for main gun
 
 '''Cons:'''
 

@@ -101,7 +101,7 @@
 |
 {{Tree-Unit|f2a-3}}
 {{Tree-Arrow}}
-{{Tree-Group|f4f_group|F4F|
+{{Tree-Group|f4f_group|F4F/F6f|
   {{Tree-Unit|f4f-3}}
 {{Tree-Arrow}}
 {{Tree-Unit|f4f-4}}
@@ -255,7 +255,7 @@
 {{Tree-Unit|f4u-4b}}
 }}
 {{Tree-Arrow}}
-{{Tree-Group|f8f1b|F8F|
+{{Tree-Group|f8f1b|F8F/F7F|
   {{Tree-Unit|f8f1b}}
 {{Tree-Arrow}}
 {{Tree-Unit|f7f1}}
@@ -442,6 +442,8 @@
 }}
 |
 {{Tree-Unit|f-105d}}
+{{Tree-Arrow}}
+{{Tree-Unit|f_111a}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|f-5c}}
 {{Tree-Skip}}
@@ -455,7 +457,7 @@
 
 {{Tree-Line|VIII Rank}}
 |
-{{Tree-Group|f_16a_block_10|F-16 Early|
+{{Tree-Group|f_16a_block_10|F-16 early|
   {{Tree-Unit|f_16a_block_10}}
 {{Tree-Arrow}}
 {{Tree-Unit|f_16a_block_15_adf}}

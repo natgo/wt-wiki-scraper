@@ -15,7 +15,7 @@ The {{Specs|name}} was introduced in [[Update "Sky Guardians"]] as a top-tier SP
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 The Pantsir-S1 doesn't offer a strong armour of any kind, the strongest part of the vehicle is the 40 mm armoured glass that protects the driver. On the front, sides, and rear there is mostly a 5 to 6 mm structural steel armour and high hardness rolled armour.
 
-The crew placement makes it even more vulnerable, as the 3 crew members are placed near each other, making a single shot lethal for the majority of the time, making this vehicle unsuited for tank-on-tank combat. The best choice is to find natural or artificial cover to avoid being seen or being exposed to enemy fire.
+The crew placement makes it even more vulnerable, as the 3 crew members are placed near each other, meaning a single shot is lethal for the majority of the time, making this vehicle unsuited for tank-on-tank combat. The best choice is to find natural or artificial cover to avoid being seen or being exposed to enemy fire.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -72,6 +72,7 @@ This vehicle moves thanks to the KamAZ 740.632-400, that offers 354 HP at 1,900 
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}
 * '''30 mm HEI:''' {{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
 * '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Avro Shackleton''' is the final military version of the venerated [[Lancaster (Family)|Lancaster series of bombers]]. Developed in 1945 from the now-obsolete [[Lincoln B Mk II|Avro Lincoln]] as an anti-submarine warfare (ASW) and maritime patrol aircraft, the Shackleton featured more specialized armaments, such as a naval radar housed inside a distinctive "bulge" on the belly of the aircraft, removing the tail gunner position in favour of a flexible mount 20 mm Hispano Mk.V autocannons to strafe naval targets, and more efficient Rolls-Royce Griffon engines powering contra-rotating propellers.
+The '''Avro Shackleton''' is the final military version of the venerated [[Lancaster (Family)|Lancaster series of bombers]]. Developed in 1945 from the now-obsolete [[Lincoln B Mk II|Avro Lincoln]] as an anti-submarine warfare (ASW) and maritime patrol aircraft, the Shackleton featured more specialized armaments, such as a naval radar housed inside a distinctive "bulge" on the belly of the aircraft. The tail gunner position is removed in favour of a flexible mount with 20 mm Hispano Mk.V autocannons to strafe naval targets. The plane also features more efficient Rolls-Royce Griffon engines powering contra-rotating propellers.
 
-Introduced in [[Update "Direct Hit"]], the {{Specs|name}} can be best described as a "quirky" version of the [[Lincoln B Mk II]], with overall better mobility and payload, but worse defensive coverage and survivability. The plane has access to some of the most efficient payload available, being capable of taking out 3 bases with the top payload. Due to the powerful Griffon engines, the Shackleton can be played either as a traditional long range bomber by using its decent climb rate or as a fast bomber using its high WEP power.
+Introduced in [[Update "Direct Hit"]], the {{Specs|name}} can be best described as a "quirky" version of the [[Lincoln B Mk II]], with overall better mobility and payload, but worse defensive coverage and survivability. The plane has access to some of the most efficient payloads available, being capable of taking out 3 bases with its maximum bomb loadout. Due to its powerful Griffon engines, the Shackleton can be played either as a traditional long range bomber by using its decent climb rate or as a fast bomber using its high WEP power.
 
 == General info ==
 === Flight performance ===
@@ -104,7 +104,7 @@ However, the Shackleton can unlock the 25 x 500 lb payload as a tier 2 modificat
 
 The 15 x 1,000 lb M.C. Mk.I loadout is ideal to destroy bases and airfields. Only 5 bombs are required to destroy normal bases and 3 to destroy weaker bases. A squad of 3 Shackletons is capable of destroying all bases and the airfield without landing on some maps. Given that most Air RB maps at its BR consist of respawning bases with a prevalence of attackers, you will rarely be able to drop all 15 bombs on bases without having to wait for at least 1 to respawn.
 
-Due to the Shackleton's ASW roles, the plane has the peculiar choice of equipping eight RP-3 rockets on the wingtips. Due to the large wingspan and the size of the plane, the rockets are woefully inaccurate and are best not to equip it.
+Due to the Shackleton's ASW roles, the plane has the peculiar choice of equipping eight RP-3 rockets on the wingtips. Due to the large wingspan and the size of the plane, the rockets are woefully inaccurate; it is best to not to equip them.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -122,7 +122,7 @@ While the flexible nose guns were intended to be used to strafe at surface targe
 
 This leaves the dorsal twin turrets as the Shackleton's only "real" defensive armament. While the guns are quite accurate and hard-hitting, it only covers the upper part of the plane with blind spots at the rudder and directly behind the tail, thus forcing the pilot to pull the plane's nose up to get the guns on target. The turret can also be easily evaded by simply attacking from below, thus leaving the Shackleton with no way to fight back.
 
-The few belt options for Shackleton's Hispano are adaquate. While the stock belt is a hit-or-miss due to only 50% of the belt is composed of a hard-hitting HEI rounds, the other two belt options - the "Armoured targets" and "Universal" belts - consisted of the aforementioned HEI rounds and a high-penetrating AP-T rounds, with both belts switch the 2/3 composition of both rounds around. Both belts has their own speciality; the "Armoured targets" can easily wreck the opponent's engines or knock the enemy pilot out with a well-aimed hits, while the "Universal" belts is better at dealing structural and module damage to enemy planes.
+The few belt options for Shackleton's Hispano are adequate. While the stock belt is a hit-or-miss due to only 50% of the belt is composed of a hard-hitting HEI rounds, the other two belt options - the "Armoured targets" and "Universal" belts - consisted of the aforementioned HEI rounds and a high-penetrating AP-T rounds, with both belts switch the 2/3 composition of both rounds around. Both belts has their own speciality; the "Armoured targets" can easily wreck the opponent's engines or knock the enemy pilot out with a well-aimed hits, while the "Universal" belts is better at dealing structural and module damage to enemy planes.
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The Shackleton offers a much-needed payload and mobility improvement over its predecessor, the [[Lincoln B Mk II]], at the cost of worse defensive armaments.
@@ -183,12 +183,14 @@ The Avro Shackleton entered service with the RAF in February 1951. The aircraft 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=shackleton_mr_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[Lincoln B Mk II]]
 * [[Lancaster (Family)]]
 

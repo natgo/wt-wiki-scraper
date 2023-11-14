@@ -173,7 +173,9 @@
 {{Tree-Arrow|2}}
 |
 {{Tree-Unit|ussr_zsu_37}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_btr_152d}}
+{{Tree-Arrow|2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|ussr_bm_31_12}}
 {{Tree-Skip}}
@@ -345,7 +347,9 @@
 {{Tree-Unit|ussr_it_1}}
 {{Tree-Arrow}}
 {{Tree-Unit|ussr_9p149}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
+{{Tree-Unit|ussr_object_775}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|ussr_zsu_23_4}}
 {{Tree-Arrow}}

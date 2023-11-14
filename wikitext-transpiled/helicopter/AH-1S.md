@@ -191,6 +191,9 @@ Handling radar and surface-to-air missiles, when an enemy missile equipped SPAA 
 File:AH-1S WTWallpaper 003.jpg
 </gallery>
 
+;Videos
+{{Youtube-gallery|zYbcq-KOpFE|'''AH-1 Cobra Ultimate Review''' - ''Bob Dickinson''}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''

@@ -23,9 +23,9 @@ Introduced as part of a reward for the [[wt:en/news/8384-event-summer-extreme-en
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 26 mm || 15 mm ''Top'' <br> 15 mm ''Bottom'' || 15 mm || ___ - ___ mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 20 - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
 |-
 | Cupola || ___ mm || ___ mm || ___ mm || ___ mm
 |-
@@ -60,7 +60,7 @@ As a wheeled vehicle, the Pz.Sp.Wg.P204(f) KwK is fast and has a good mobility o
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 26 || rowspan="2" | -12°/+14° || rowspan="2" | ±180° || rowspan="2" | - || 15.0 || 20.7 || 25.1 || 27.8 || 29.6 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
+| rowspan="2" | 26 || rowspan="2" | -12°/+14° || rowspan="2" | ±180° || rowspan="2" | N/A || 14.9 || 20.7 || 25.1 || 27.8 || 29.6 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
 |-
 ! ''Realistic''
 | 9.3 || 11.0 || 13.3 || 14.8 || 15.7
@@ -84,7 +84,7 @@ As a wheeled vehicle, the Pz.Sp.Wg.P204(f) KwK is fast and has a good mobility o
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''26''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''26''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || No
 |-
 |}
 

@@ -106,6 +106,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9L Sidewinder missiles
 * 2 x AIM-9M Sidewinder missiles
@@ -168,7 +169,7 @@ To attack using the cannon and miniguns, line up with the foe, come in fast and 
 '''Pros:'''
 
 * Can carry up to 16 Hellfire AGMs
-* Good AIM-9L air-to-air missiles for self-defense
+* Good AIM-9L and 9M air-to-air missiles for self-defense
 * Excellent ground attack capabilities
 * Thin front-aspect profile
 

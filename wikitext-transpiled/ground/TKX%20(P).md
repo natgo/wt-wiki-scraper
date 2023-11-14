@@ -1,3 +1,8 @@
+{{About
+| about = Japanese medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Type 10 (Family)
+}}
 {{Specs-Card
 |code=jp_type_10_prototype
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -112,21 +117,49 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The TKX (P) is a prototype of the [[Type 10]] with the modular turret side armour not equipped and only able to fire JM33 as it's too early in development to fire the new Type 10 APDFS shell. With these missing upgrades, the TKX (P) bolsters the Type 90 line-up as a sidegrade trading these features:
+* <big>+</big> Stronger frontal protection
+* <big>+</big> Better thermals (Gen 3 instead of 1)
+* <big>-</big> Relatively slower, especially in acceleration
+* <big>-</big> Smaller autoloader rack (14 instead of 18)
+
+The TKX is a highly mobile and fast-firing MBT that excels in flanking and sniping roles. However, its armour is not reliable and it is vulnerable to enemy fire, so it requires constant situational awareness and effective use of its hydropneumatic suspension, LWS, Laser Rangefinder and smoke grenades. The Type 10 should not engage in frontal assaults or close combat, but rather support allied MBTs from a safe distance and exploit its mobility and firepower to deal damage and relocate as needed. Getting early warnings of potential incoming fire thanks to its LWS, providing enough time and knowledge to retreat or dodge incoming shells.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* Autoloaded 120 mm cannon, 4-second reload unaffected by crew or fire
+* Has access to 3rd generation thermal sights for the gunner and commander
+* Quite mobile, high power-to-weight ratio and high reverse speed
+* Fitted with hydropneumatic suspension, although this can only be operated when stationary
+** Can lower the tank significantly, allowing you to hide behind relatively low hills and ridges
+* Primary ammunition storage protected within blow-out containment in the rear of the turret
+* Relatively small profile
 
 '''Cons:'''
-*
+
+* Only three crew, a well-placed shot can easily cause a full crew knock-out
+* Can only carry 15 rounds before additional ammo is stored in the unsafe hull racks
+* Hydropneumatic suspension ceases to work when the engine is hit
+* Relatively poor gun depression, unless the suspension is used
+* Armour is very spread out in the front with the only well-defended places being the upper front plate, turret cheeks, and breech
+* Lacks turret side armour
+* While fast in top speed, this tank is a bit slow to accelerate
+* Slow elevation/depression speed for the main gun
+* Slower turret traverse than most other MBTs
 
 == History ==
+{{Main|Type 10 (Family)#History|l1=Type 10 (Family)}}
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+==== Challenges of New Millennium ====
+In the mid-1990s, after the introduction of the previous TKX-1, [[Type 90 (Family)|Type 90 MBT]], the Ministry of Defense soon realised that, despite its superior FCS even for NATO standards, further upgrading the Type 90 would be impractical (for the time being) due to its already heavy weight in Japan's standards; while the previous [[Type 61 (Family)|Type 61 Medium Tank]] had no chance when facing even the earliest MBTs and [[Type 74 (Family)|Type 74 MBT]] was too costly to be [[Type 74 (G)|upgraded]]. The possible rivals of Japan, like Mainland China and the Russia Federation had already developed their new MBTs (PLAGF [[ZTZ96 (Family)|ZTZ96]] and [[ZTZ99 (Family)|ZTZ99]]/Russian [[T-90A]]); in view of maintaining a team of tank designers as well as a part of national defense, JGSDF passed a new plan for a next-generation MBT with redundancy for further upgrades (modularity), thus inherited the project name: TKX-2.
+[[File:JGSDF Type10 tank 2012-05-27.jpg|x350px|right|thumb|none|A JGSDF Type 10 at Camp Takeyama, Japan.]]
+==== From Kyumaru to Hitomaru ====
+The TKX-2 project aimed for the light weight of a Type 74 (at 40 tons, loaded) while being smaller than Type 90, equipping a domestic 120 mm smoothbore gun with latest {{Annotation|C4ISR|Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance}} system, modular composite armour, and new engines paired with HMT transmission. TKX-2 was led by the {{Annotation|TRDI|Technical Research and Development Institute}} with help from Mitsubishi Heavy Industries. The new smoothbore gun and its new APFSDS were developed by Nippon Steel Corporation and Daikin Industries respectively. These designs were tested on a Tank Test Bed (TTB) developed from the 6th prototype of Type 90 and was first shown in a booklet in the early 2000s; the result of TTB proved the designs and project TKX-2 started in 2002. The 1st prototype was assembled in November 2004 and tested at JGSDF Camp Higashi-Chitose; MHI built the 2nd prototype in 2005, while there were also 3 Type 90s converted as the test bed for tank platoon command systems.
+
+Finally, with the evaluations from JGSDF Fuji School, Ordnance School, and leaked photos of the 2nd prototype, the TKX-2 was unveiled on 14 June 2010 to the public during the opening of JGSDF East Fuji Manoeuvre Area and it was then named Type 10 in October. It served as the most advanced MBT of the first decade of the 2000s, and is an icon of the JGSDF moving forward into the 21st century.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -137,6 +170,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -145,6 +179,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

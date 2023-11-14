@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+''The armor of the AMX-10 ACRA is thick enough to protect from small caliber machine-guns from all angles. due to elements of construction adding another 4mm of protection, when positioned hull-down the armor may protect the crew from most 20mm AP rounds beginning at medium ranges and most .50 caliber rounds beginning at around 400 meters. However even when hull down the armor wont protect the gun breach from large caliber machine-guns and 20 mills. Overall the Armor is similar to other ATGM carriers in that it shouldn't be relied upon.''
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -21,16 +21,16 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 25mm || 20mm ''Top'' <br> 15mm ''Bottom'' || 20mm || 15mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 25mm ''Turret front'' <br> 25mm ''Gun mantlet'' || 20mm || 20mm || 15mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 20mm || 20mm || 20mm || 15mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+<!-- Example: *Construction steel adds anohte -->
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

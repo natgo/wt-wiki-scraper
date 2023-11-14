@@ -44,7 +44,7 @@ The Yak-38M was introduced in [[Update "New Power"]]. Like the Harrier, it is an
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| X || ✓ || ✓ || X || X || ✓     <!-- ✓ -->
+| X || X || ✓ || X || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -59,7 +59,7 @@ The Yak-38M was introduced in [[Update "New Power"]]. Like the Harrier, it is an
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 650 || 500 || ~11 || ~5
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || - || 500 || ~11 || ~5
 |-
 |}
 
@@ -69,7 +69,7 @@ The Yak-38M was introduced in [[Update "New Power"]]. Like the Harrier, it is an
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 650 || < 850 || < 920 || N/A
+| < 650 || < 850 || < 920 || -
 |-
 |}
 
@@ -161,7 +161,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1 || 1 || 1 || 1
 |-
 ! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
-| 4 || 1 || 1 || 4
+| 3 || 1 || 1 || 3
 |-
 ! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
 | 1 || 1 || 1 || 1
@@ -206,7 +206,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 40 x S-8KO rockets
 * 4 x S-24B rockets
 * 2 x Kh-23M missiles
-* 10 x 100 kg OFAB-100 bombs (1,000 kg total)
+* 8 x 100 kg OFAB-100 bombs (800 kg total)
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 2 x ZB-500 incendiary bombs

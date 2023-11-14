@@ -201,17 +201,23 @@ It is advisable to bomb enemy bases, since the Tornado is not very good in air c
 '''Pros:'''
 
 * Good acceleration and excellent top speed
+** Higher bomb load and speed than SU-22
 * Mauser BK27 guns have decent hitting power and ammunition capacity
-* Impressive bombload and access to AS.34 Kormoran anti-ship missiles
+* Unlike other Tornado versions, has anti-ship equipment (missiles and radar)
 * Access to two AIM-9L Sidewinder air-to-air missiles stock
-* slow speed helps with turning when you have manual control of sweep wing
+* Can work as a figther when necessary
+** Variable wing sweep allows it to turn better when at low speeds, or during an emergency at high speed (at the risk of destroying itself) 
+** Radar assisted gun makes intercepting incoming or leaving planes easier
+
+
 
 '''Cons:'''
 
-* Bad manoeuvrability, makes air-to-air combat challenging
-* No access to guided bombs
-* AS.34 Kormoran missiles are rather unreliable weapon, even against the ships
-* Negative G manoeuvres can rip your wings off
+* Bad manoeuvrability makes air-to-air combat challenging, low air-to-air missile amount to compensate unlike other attacker options
+* No access to guided bombs unlike other Tornados
+* Unstable wings, plane can rip itself apart when bombing at maximum speed at low altitude or when doing negative G manoeuvres
+* AS.34 Kormoran missiles are rather unreliable weapon even against the ships, the anti-ship search radar cannot locate planes
+* Tracking radar (ACM) is limited to 5°x6° until the target is locked
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -109,32 +109,33 @@ There is no armour protection on this aircraft. It is a very rugged aircraft so 
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-{{main|Browning .303 (7.7 mm)}}
+{{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 4 x 7.7 mm Browning .303 machine guns, nose-mounted (500 rpg = 2,000 total)
+* 4 x 7.7 mm Browning machine guns, nose-mounted (500 rpg = 2,000 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. 250 lb Mk.IV (250 lb)|G.P. 500 lb Mk.IV (500 lb)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|S.A.P. Mk.II (500 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 8 x 250 lb G.P. 250 lb Mk.IV bombs (2,000 lb total)
-* 4 x 500 lb G.P. 500 lb Mk.IV bombs (2,000 lb total)
+* 8 x 250 lb G.P. Mk.IV bombs (2,000 lb total)
+* 4 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
+* 4 x 500 lb S.A.P. Mk.II bombs (2,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-{{main|Browning .303 (7.7 mm)}}
+{{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-* 2 x 7.7 mm Browning .303 machine guns, nose turret (1,000 rpg = 2,000 total)
-* 2 x 7.7 mm Browning .303 machine guns, dorsal turret (500 rpg = 1,000 total)
-* 4 x 7.7 mm Browning .303 machine guns, tail turret (1,000 rpg = 4,000 total)
+* 2 x 7.7 mm Browning machine guns, nose turret (1,000 rpg = 2,000 total)
+* 2 x 7.7 mm Browning machine guns, dorsal turret (500 rpg = 1,000 total)
+* 4 x 7.7 mm Browning machine guns, tail turret (1,000 rpg = 4,000 total)
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -26,10 +26,10 @@ The '''{{Specs|name}}''', introduced in [[Update "Sons of Attila"]], brings a ne
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 2261 || 2216 || rowspan="2" | {{Specs|ceiling}} || 23.1 || 23.5 || 257.5 || 244.8 || rowspan="2" | 750
+| 2,261 || 2,216 || rowspan="2" | {{Specs|ceiling}} || 23.1 || 23.5 || 257.5 || 244.8 || rowspan="2" | 750
 |-
 ! Upgraded
-| 2442 || 2347 || 21.9 || 22.5 || 346.1 || 300.0
+| 2,442 || 2,347 || 21.9 || 22.5 || 346.1 || 300.0
 |-
 |}
 
@@ -130,8 +130,9 @@ The '''{{Specs|name}}''', introduced in [[Update "Sons of Attila"]], brings a ne
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 1 x 30 mm GSh-30-1 cannon, cheek-mounted (150 rpg)
-* 60 x countermeasures
+* A choice between two presets:
+** 1 x 30 mm GSh-30-1 cannon, cheek-mounted (150 rpg) + 60 x countermeasures
+** 1 x 30 mm GSh-30-1 cannon + 60 x countermeasures + 56 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -195,7 +196,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[R-73]] missiles
 | 1 || 1 || 1 || || 1 || 1 || 1
 |-
-! 1,500 l drop tanks
+! 2,000 l drop tanks
 | || || || 1 || || ||
 |-
 | colspan="8" | Maximum permissible weight imbalance: 1,500 kg
@@ -205,7 +206,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 1,500 l drop tank
+* 1 x 2,000 l drop tank
 * 2 x R-73 missiles
 * 6 x R-73 missiles
 * 2 x R-27T missiles
@@ -228,11 +229,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 '''Air Combat'''
 
-While the MiG-29SMT has reduced maneuverability from the added fuel tank, its still extremely strong in air combat.
+While the MiG-29SMT has reduced manoeuvrability from the added fuel tank compared to the MiG-29, it's still extremely strong in air combat.
 
-When it comes to BVR, the MiG-29SMT dominates with the R-27ER missiles that have long range and acceptable overload, and its powerful radar that has a lot of special features and acceptable range.. This, along with the new SPO-150 RWR that increases situational awareness by giving information about the exact vehicle that's pinging the MiG-29SMT, makes it perfect for BVR combat.
+When it comes to BVR, the MiG-29SMT dominates with the R-27ER missiles that have long range and acceptable overload, and its powerful radar that has a lot of special features and acceptable range. This, along with the new SPO-150 RWR that increases situational awareness by giving information about the exact vehicle that's pinging the MiG-29SMT, makes it perfect for BVR combat.
 
-In close range, this fighter is strong too. It carries the R-73, which is an extremely effective heat-seeking missile with 40G overload and great range for its type. You'll want to use it in unpredictable ways where the enemy won't expect it to track reliably to avoid being flared away by using the missile's wide gimbal limits.
+The MiG-29SMT is also strong in close-range engagements. It carries the R-73, which is an extremely effective heat-seeking missile with 40G overload and great range for its type. You'll want to use it in unpredictable ways where the enemy won't expect it to track reliably to avoid being flared away by using the missile's wide gimbal limits.
 
 '''CAS (Close Air Support)/Ground Attack'''
 

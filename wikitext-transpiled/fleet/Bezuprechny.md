@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet destroyer {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
+The '''{{Specs|name}}''' was a Soviet [[Pr.30 (Family)|Project 30bis-class]] destroyer built in the late 1940s. The Skoryy class, as the Project 30bis was also referred to, were modified versions of the late-war Project 30 Ognevoy-class destroyers. Bezuprechny was laid down on 15th July 1949 and commissioned on 9th September 1950. She was assigned to the Black Sea Fleet where she served until 3rd May 1962 when she was withdrawn from service. She was sold for scrap on 14th March 1975.
+
+Bezuprechny was introduced in [[Update "Red Skies"]]. Featuring the same 130 mm guns as all other Soviet WWII-era destroyers, she suffers from poor traverse speed of said guns as well as a fire rate of only 10 rounds per minute with aced crew. As the ship itself is in her 1950 configuration, she provides access to search radar alerting the captains of incoming aircraft. Unlike her sister [[Smelyi]], she does not have the upgraded anti-aircraft suite of twin autocannons. Her anti-air protection compared to her sister is more modest in the form of seven 37 mm 70-K automatic cannons.
 
 == General info ==
 === Survivability and armour ===

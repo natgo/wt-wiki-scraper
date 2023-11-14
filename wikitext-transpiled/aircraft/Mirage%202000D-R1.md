@@ -134,7 +134,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
 ** 16 x large calibre countermeasures
-** 88 x large calibre countermeasures
+** 196 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

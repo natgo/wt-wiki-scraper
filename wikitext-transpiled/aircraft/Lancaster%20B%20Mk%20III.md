@@ -164,11 +164,13 @@ In real life, the Lancaster was mainly used as a strategic night bomber, used in
 * Even when the turrets hit, it doesn't do any damage, most fighters will knock out your engines before you can kill their engines or pilots or at all. Cannot effectively hurt heavily-armoured interceptors such as Me 410
 
 == History ==
+The Lancaster B Mk 3 was made simultaneously with the Lancaster B Mk 1, and their exteriors are virtually indistinguishable from each other. However, this variant had Packard-built Merlin engines. These engines used Bendix-Stromberg pressure-injection carburettors, which meant the plane had to have different engine cut-off switches in the cockpit.
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}|expand=true}}
 {{Navigation-First-Simple-Line}}
+
 With RAF Bomber Command's focus being centred on the strategic bombing campaign against German industry, the RAF desperately required a force of heavy bombers to increase the capability provided by their medium bomber fleet. A twin engine Avro Manchester bomber was converted to be powered by four engines and first flown in January 1941. This and subsequent prototypes were deemed to be so successful that the first production variant of the new bomber, now named the Lancaster, was flown in October 1941.
 
 The immediate success of the Lancaster Mk I (redesignated the BI in 1942) caused it to be pushed ahead in terms of production priorities. In turn, this threatened the supply of Rolls Royce Merlin engines which powered it, so alternative engines needed to be sourced. The BII was powered by Bristol Hercules engines, but this caused a drop in performance and payload. The BIII was powered by Packard Merlin engines, a license built version manufactured in the United States. Internal differences between the BI and BIII were very few; the two models had near identical technical characteristics and armament and externally the BIII had only a larger bomb aimer's bubble window, but the change in designation was necessary since the different engines had different servicing requirements.
@@ -184,15 +186,18 @@ A total of 3,039 BIII bombers were produced. The bomber was finally decommission
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=lancaster_mk3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

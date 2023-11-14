@@ -13,7 +13,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The United States Marine Corps (USMC) sought a replacement of their aging A-4 Skyhawk fleet in the 1960s. The Hawker Siddley Harrier was evaluated and found suitable for their needs for a close air support aircraft in amphibious warfare. Following the acceptance of the Harrier, McDonnell Douglas obtained the production license to build the aircraft domestically within the United States with desired changes to fit the USMC needs. The USMC would receive their first Harriers in March 1971, designated AV-8A, and known within Hawker Siddley as Harrier Mk 50. The AV-8A would serve in the USMC, alongside its upgraded version the AV-8C, until its retirement in 1987.
 
-Introduced in [[Update "New Power"]], the '''{{Specs|name}}''' was one of the first VTOL aircraft in the United States tech tree. The AV-8A, like the other members of the [[Harrier (Family)|Harrier family]], is capable of vertical take-off and landing with its thrust vectoring nozzles, in addition to enhancing its manoeuvrability. Among the [[Harrier (Family)]], it has a higher powered engine than the [[Harrier GR.1]], but it has the same engine as the others ([[Harrier GR.3]] and [[AV-8C]]). A variety of payload could be equipped to suit the performance expected of the Harrier, whether it is the IR Sidewinder missiles for anti-air purposes, bombs and rockets for ground attack purposes, or both to respond to a dynamic battlefield. As such, the AV-8A can be a very flexible aircraft for players to use on the battlefield.
+Introduced in [[Update "New Power"]], the '''{{Specs|name}}''' was one of the first [[VTOL]] aircraft in the United States tech tree. The AV-8A, like the other members of the [[Harrier (Family)|Harrier family]], is capable of vertical take-off and landing with its thrust vectoring nozzles, in addition to enhancing its manoeuvrability. Among the [[Harrier (Family)]], it has a higher powered engine than the [[Harrier GR.1]], but it has the same engine as the others ([[Harrier GR.3]] and [[AV-8C]]). A variety of payload could be equipped to suit the performance expected of the Harrier, whether it is the IR Sidewinder missiles for anti-air purposes, bombs and rockets for ground attack purposes, or both to respond to a dynamic battlefield. As such, the AV-8A can be a very flexible aircraft for players to use on the battlefield.
 
 == General info ==
 === Flight performance ===
@@ -183,6 +183,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9G Sidewinder missiles
 * 28 x FFAR Mighty Mouse rockets

@@ -101,7 +101,7 @@
 }}
 {{Tree-Arrow|1}}
 |
-{{Tree-Group|us_m6a1|M6A1/T1E1|
+{{Tree-Group|us_m6_group|M6A1/T1E1|
   {{Tree-Unit|us_m6a1}}
 {{Tree-Arrow}}
 {{Tree-Unit|us_t1e1}}
@@ -165,10 +165,12 @@
 |
 {{Tree-Arrow-Full|5}}
 |
+{{Tree-Unit|us_m109a1}}
+{{Tree-Arrow}}
 {{Tree-Unit|us_m56_scorpion}}
 {{Tree-Arrow}}
 {{Tree-Unit|us_m50_ontos}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|us_m18_super_hellcat}}
 {{Tree-Skip}}
@@ -192,7 +194,7 @@
 
 {{Tree-Line|V Rank}}
 |
-{{Tree-Arrow-Full|2}}
+{{Tree-Arrow-Full|3}}
 |
 {{Tree-Group|us_m47_48_group|M47/M48|
   {{Tree-Unit|us_m47_patton_II}}
@@ -201,7 +203,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|us_m60}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Group|us_t32_group|T32/T32E1|
   {{Tree-Unit|us_t32}}
@@ -210,13 +212,13 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|us_m103}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|us_m163_vulcan}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|us_t95}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|us_t114}}
 {{Tree-Skip}}
@@ -224,6 +226,8 @@
 {{Tree-Skip}}
 |
 {{Tree-Unit|us_magach_3}}
+{{Tree-Skip}}
+{{Tree-Unit|us_t54e2}}
 {{Tree-Skip}}
 {{Tree-Unit|us_t54e1}}
 {{Tree-Skip}}
@@ -317,6 +321,8 @@
 {{Tree-Unit|us_m1a1_aim_abrams}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|us_losat_ccv}}
+{{Tree-Skip}}
 {{Tree-Unit|us_ags_teledyne}}
 {{Tree-Skip}}
 {{Tree-Unit|us_ccvl}}

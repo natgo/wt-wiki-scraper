@@ -55,6 +55,10 @@
 |-
 | || || || || || || {{Tree-Unit|tiger_had_france}} || ||  
 |-
+| || || || || || || {{Tree-Arrow}} || ||
+|-
+| || || || || || || {{Tree-Unit|tiger_had_block2_france}} || ||
+|-
 |}
 
 |style="border-left: solid 1px #cccccc;"|

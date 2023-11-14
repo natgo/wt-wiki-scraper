@@ -102,7 +102,7 @@ It's advisable to primarily rely on the best available APFSDS round for engaging
 {{:Rh120 L/44 (120 mm)/Ammunition|DM12, DM13, DM23}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+[[File:Ammoracks_Leopard_2A4.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated: 2.19.0.85''' -->
 {| class="wikitable" style="text-align:center"
 |-

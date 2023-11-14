@@ -99,7 +99,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|18 inch Mark XII (450 mm)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|S.A.P. Mk.II (500 lb)|G.P. Mk.I (1,000 lb)|A.P. Mk.I (2,000 lb)}}
+{{main|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -109,7 +110,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x 1,000 lb G.P. Mk.I bombs (4,000 lb total)
 * 1 x 18 inch Mark XII torpedo
 * 6 x 500 lb G.P. Mk.IV bombs (3,000 lb total)
+* 6 x 500 lb S.A.P. Mk.II bombs (3,000 lb total)
 * 4 x 1,000 lb G.P. Mk.I bombs + 2 x 500 lb G.P. Mk.IV bombs (5,000 lb total)
+* 2 x 2,000 lb A.P. Mk.I bombs (4,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

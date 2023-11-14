@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet destroyer {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]]. It is the first destroyer-leader in the game, second one being Tashkent.
+The '''{{Specs|name}}''' was a Soviet Leningrad-class destroyer leader built in 1930s as the third out of six ships. She was laid down on 29th October 1932 and commissioned on 10th August 1938. The design was inspired by the French Vaquelin-class destroyers, as Soviets wanted to built similar ship on their own. Due to the uneven weight distribution, the ships were top heavy and had poor seaworthiness in rough seas. Moskva's career was very short. Shortly after the attack on the Soviet Union, she was tasked with bombarding the Romanian port of Constanta on 26th June 1941. She struck a mine during the attack and sunk with loss of all but 69 crew.
+
+Moskva was introduced in [[Update 1.85 "Supersonic"]]. She was the first destroyer-leader in the game, second one being Tashkent. As with all 1930s Soviet designs, Moskva uses manually traversed turrets causing low traverse speed, making engaging different targets difficult. Another issue shared by nearly all destroyers are the magazines and their placement above waterline without any armour protection often leading to fatal explosion when hit. On the other hand, Moskva's very high top speed allows her to easily close distance to enemies for torpedo runs with her fast albeit short-ranged torpedoes.
 
 == General info ==
 === Survivability and armour ===

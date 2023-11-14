@@ -122,7 +122,7 @@ As a striker, the Firebrand can be extremely effective as well. Diving at an ins
 
 Due to unlimited ammunition, the cannons are remarkably effective in Arcade battles.
 
-When using the Firebrand as a striker, it is recommended to side climb at the beginning of the match. Perform a shallow dive until you reach the target, as speed will accumulate rapidly and the evasion of ground fire and enemy aircraft will be far easier. Plan ahead when striking your target - don't begin diving until you have approximated where the target may be once you reach it (say a destroyer or convoy), as turning to attack a target at high speed may rip the Firebrand's wings or slow you down significantly - resulting in easy prey for other fighters.
+When using the Firebrand as a striker, it is recommended to side climb at the beginning of the match. Perform a shallow dive until you reach the target, as speed will accumulate rapidly and the evasion of ground fire and enemy aircraft will be far easier. Plan ahead when striking your target - don't begin diving until you have approximated where the target may be once you reach it (say a destroyer or convoy). With RP-3 rockets, glide in at a shallow angle, aiming the bottom crosshair of the rocket sight on the target, and fire at about 400 metres. (0.40km or 0.25mi)  
 
 As a fighter, the Firebrand is more lacklustre. It possesses very poor handling capabilities, and manoeuvring is very sluggish. Partially due to wing-loading and weight, the Firebrand does, surprisingly, have a small turn radius and turns quite quickly, similar to the [[Me_410_A-1|Me 410]]. However, turning with the Firebrand is not recommended - turning will severely bleed energy, enough to make you an eventual sitting duck.
 

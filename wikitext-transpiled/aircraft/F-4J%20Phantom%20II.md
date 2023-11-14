@@ -139,11 +139,9 @@ The F-4J has no armour protection whatsoever, which is standard for the battle r
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 60 x countermeasures
+* 60 x countermeasures
 
-Like all naval Phantom models, the F-4J lacks an internal gun and is forced to rely on optional gunpods. It does have countermeasures, but they are mounted in compartments on top of the engine nacelles instead of the wing pylon dispensers seen on the F-4E. This system has a capacity of only 60 countermeasures instead of 90, which further emphasizes the need of the F-4J to stay out of trouble.
+Like all naval Phantom models, the F-4J lacks an internal gun and is forced to rely on optional gunpods. It does have countermeasures, but they are mounted in compartments on top of the engine nacelles instead of the wing pylon dispensers seen on the F-4E. This system has a capacity of only 60 countermeasures instead of 90, which further emphasizes the need for the F-4J to stay out of trouble.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -248,8 +246,7 @@ Another approach is to play the F-4J more like the F-4E and cruise at lower alti
 
 Dogfights should be avoided, but if forced into manoeuvring combat, the HMS can be quite helpful. It can lock Sidewinders onto targets that are not near the F-4J's nose, which compensates somewhat for the aircraft's poor AoA and nose authority. This can surprise enemy fighters who are pulling or rolling hard. However, the AIM-9D/G are still only 18 G missiles and lack the manoeuvrability of something like the 30 G [[R-60]] or 35 G [[R.550|Magic 1]], so just because VTAS can lock wild off-bore shots does not mean that the Sidewinder can actually hit them once launched. VTAS will also take some practice to use effectively because it is easy to lock unintended targets like teammates or the sun when looking around with the missile seeker active.
 
-It is often better to leave the gunpod behind because the F-4J needs all the speed and climb performance it can get and the gun does not offer much utility to outweigh its penalties. It is a mistake for the F-4J to get involved in close-range manoeuvring combat where the gun would be useful in the first place and the airframe's poor agility does not lend itself for pulling lead on targets. It is more practical to use the Sparrows in head-ons and use the AIM-9Gs with VTAS assistance in close quarters.
-
+Although the gunpod hurts performance, it is worth equipping in Air RB. The F-4J will be unable to out perform many opponents like the [[MiG-23MLD]] or [[Mirage 2000 (Family)|Mirage 2000s]] even without the gunpod, so there is little use in not carrying the gunpod for the relatively minor increase in performance. Furthermore, bringing only air-to-air missiles in Air RB is overall not effective when many situations will pop up where having a gun would be excellent.
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 

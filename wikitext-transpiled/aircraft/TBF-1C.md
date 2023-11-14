@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-To replace the outdated TBD Devastator, several companies put forth their designs. Grumman’s design was the TBF Avenger, a single-engine torpedo bomber. It was to be fitted with the Wright R-2600-8, a double-row 14-cylinder radial engine that produced 1,700 hp. Although it was extremely heavy, the U.S. Navy selected Grumman’s design and ordered two prototypes in 1940. One special feature of the TBF Avenger was the Sto-Wings which folded the wings inwards to remedy the issue with the heights of carrier hangar decks. The TBF Avenger would be widely used by both the U.S. and Royal Navy during the war. American Avengers saw use at the Battle of Eastern Solomons and Guadalcanal; managing to sink a Japanese light carrier and a battleship. They also brought havoc against submarine crews such as I-52.
+To replace the outdated TBD Devastator, several companies put forth their designs. Grumman's design was the TBF Avenger, a single-engine torpedo bomber. It was to be fitted with the Wright R-2600-8, a double-row 14-cylinder radial engine that produced 1,700 hp. Although it was extremely heavy, the U.S. Navy selected Grumman's design and ordered two prototypes in 1940. One special feature of the TBF Avenger was the Sto-Wings which folded the wings inwards to remedy the issue with the heights of carrier hangar decks. The TBF Avenger would be widely used by both the U.S. and Royal Navy during the war. American Avengers saw use at the Battle of Eastern Solomons and Guadalcanal; managing to sink a Japanese light carrier and a battleship. They also brought havoc against submarine crews such as I-52.
 
-Introduced since the start of the Open Beta Test prior to Update 1.27, the '''{{Specs|name}}''' is a decent torpedo bomber. It has access to AN-M66A2 (2,000 lb) bombs as well as Mk. 13-6 torpedos. Defensive armament is lacking with only one single 12.7 mm turret providing fire from the top and a single 7.62 turret mounted in the underside. The Avenger does have two 12.7 mm machine guns for offensive fire but is quite lacklustre. The TBF-1C Avenger is a formidable torpedo bomber however it’s very vulnerable to enemy fighters. 
+Introduced since the start of the Open Beta Test prior to Update 1.27, the '''{{Specs|name}}''' is a decent torpedo bomber. It has access to AN-M66A2 (2,000 lb) bombs as well as Mk. 13-6 torpedos. Defensive armament is lacking with only one single 12.7 mm turret providing fire from the top and a single 7.62 turret mounted in the underside. The Avenger does have two 12.7 mm machine guns for offensive fire but is quite lacklustre. The TBF-1C Avenger is a formidable torpedo bomber however it's very vulnerable to enemy fighters. 
 
 
 == General info ==
@@ -109,15 +109,17 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|AN-Mk 1 (1,600 lb)|AN-M66A2 (2,000 lb)|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)}}
+{{main|AN-M64A1 (500 lb)|A.P. AN-MK 33 (1,000 lb)|AN-Mk 1 (1,600 lb)|AN-M66A2 (2,000 lb)}}
+{{main|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
-* 1 x 1,600 lb AN-Mk 1 bomb (1,600 lb total)
-* 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
 * 1 x 2,216 lb Mk.13-6 torpedo
 * 1 x 2,216 lb Mk.13-6 Case torpedo
+* 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
+* 1 x 1,600 lb AN-Mk 1 bomb (1,600 lb total)
+* 2 x 1,000 lb A.P. AN-MK 33 bombs (2,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

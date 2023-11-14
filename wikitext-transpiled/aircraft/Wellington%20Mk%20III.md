@@ -85,7 +85,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. Mk.II (4,000 lb)}}
+{{main|S.A.P. Mk.II (500 lb)|A.P. Mk.I (2,000 lb)|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -95,6 +96,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 1,000 lb G.P. Mk.I bombs + 6 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
 * 2 x 18 inch Mark XII torpedoes
 * 1 x 4,000 lb H.C. Mk.II bomb (4,000 lb total)
+* 9 x 500 lb S.A.P. Mk.II bombs (4,500 lb total)
+* 2 x 2,000 lb A.P. Mk.I bombs (4,000 lb total)
+
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

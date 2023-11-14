@@ -35,7 +35,7 @@ Lastly, the ship has a hefty crew complement of 1,406. Though not the most by ca
 
 Overall, the Kronshtadt is a surprisingly damage resistant ship for a battlecruiser. Though only 230 mm, the main belt can still block high calibre AP shells when angled and the belt being relatively tall and lengthy makes it excellent for blocking HE fragments and catching shells that would have otherwise plunged into the upper decks. The layered armoured deck is great at resisting some of the smaller bombs and can shrug off any armour piercing shells in game except possibly at extremely long range. The turrets are reasonably sturdy, though can occasionally be knocked out by armour piercing shells hitting the relatively thin sides, however the ships ammunition doesn't tend to explode very often and if it does, the vessel can even survive one or two of the main magazines detonating, provided the payer keeps on top of damage control. The ship in general is very HE-resistant, due to a number of factors, but mainly thanks to how the ship has a relatively small number of AA guns, which are all safe within fully enclosed turrets and covered in anti-fragmentation armour rather than being in open mounts spread across the deck.  In most circumstances, the ship can practically ignore cruiser fire (at least, from a single ship) at anything other than short ranges and thanks to the torpedo protection, the ship is nearly immune to torpedoes which aren't strong enough to overpower your defences. 
 
-The ship is still vulnerable to other capital ships when not angled. If you're in a duel with another battleship or battlecruiser, point the bow as much as you can toward them while being able to fire all main turrets, though if you've taken major damage you may opt to angle even further at the expense of not being able to fire your aft turret. 
+The ship is still vulnerable to other capital ships when not angled. If you're in a duel with another battleship or battlecruiser, point the bow as much as you can toward them while being able to fire all main turrets, though if you've taken major damage you may opt to angle even further at the expense of not being able to fire your aft turret. Take care when fighting heavy cruisers at close range, such as the Prinz Eugen, Admiral Hipper, or Des Moines, as they can punch through your belt armour at close range with ease, creating significant risk of ammunition detonation. 
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -131,7 +131,6 @@ The 100 mm turrets have almost identical elevation limits of -8° to +85°, thou
 
 * Main belt can easily be penetrated when not angled
 * Huge and easily recognisable target
-* Below average turret armour
 * Wide turn radius, plus a tendency to lean too much to the side in a turn
 * No proximity fuse AA shells, only time-fused shells
 * Secondary battery with a low damage output

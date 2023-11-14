@@ -94,15 +94,15 @@
 {{Tree-Unit|it_m24_chaffee}}
 {{Tree-Arrow}}
 {{Tree-Unit|it_semovente_breda_501}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|it_m4a4_sherman}}
 {{Tree-Arrow}}
 {{Tree-Unit|it_sherman_VII}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|it_m15_42_contraereo}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Group|it_semovente_stug_group|M41M/StuG|
   {{Tree-Unit|it_semovente_m41m_90}}
@@ -111,10 +111,10 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|it_semovente_m43_75_46}}
-{{Tree-Arrow}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|it_43m_turan_3}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|it_sherman_75_37}}
 {{Tree-Skip}}
@@ -124,6 +124,8 @@
 {{Tree-Unit|it_semovente_m43_105_leoncello}}
 {{Tree-Skip}}
 {{Tree-Unit|it_44m_zrinyi_1}}
+{{Tree-Skip}}
+{{Tree-Unit|it_breda_52_autocannone}}
 {{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}
@@ -142,11 +144,15 @@
 {{Tree-Unit|it_m26a1_pershing}}
 {{Tree-Arrow}}
 |
+{{Tree-Unit|it_leopard_bofors}}
+{{Tree-Arrow}}
 {{Tree-Unit|it_oto_r3_t20_fa}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|it_m36b1}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
+{{Tree-Unit|it_m109g}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|it_2s1}}
 {{Tree-Arrow|1}}

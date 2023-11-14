@@ -5,12 +5,14 @@
 }}
 {{Specs-Card
 |code=sw_vickers_mk_e_37
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+The Vickers Mk.E was developed as a privante venture by Vickers to create a light weight, cheap to maintain and produce light tank. Destinated to infantry support three variants were created, the model A with two machine guns in independent turrets, the model B with a QF-3 pounder 47mm cannon and the Vickers Medium Dragon, that was used as a cargo vehicle, mainly as an artillery tractor. While the British army did not use the model A or B, it did use the Dragon model, and the base variant's found service in countries like China, India, Finland and Poland, the vehicle even inspired the Polish 7TP (a modified Vickers Mk.E model B) and the famous T-26 that was, in fact, a licensed produced variant of the Vickers Mk.E with domestically made systems, like optics and a 45mm gun instead of the QF-3 Pounder. The vehicle had very poor performance, however it was developed in 1929 and used up until the 1940s, so it's no surprise that it was severely outclassed by tanks like the Panzer III in the Eastern Front against Poland and the USSR or against the T-34 during the continuation war.
+
+The Vickers Mk.E sits at a very low BR, with bad mobility and bad armament it could be considered a mediocre tank, but it still has some things going for him. Unlike American or French 37 mm cannons, the Vickers Mk.E has access to an APHE round, with decent muzzle velocity but with a very small amount of explosive filler (just 15g). Also, the APHE round has lower penetration values than the AP round, but it still should not be a problem, since at rank I most vehicles have no armour and long range shots are very hard, still, it is recommended taking a small amount of AP rounds to deal with heavier targets. Another big point going for the Vickers Mk.E it's the gun depression, at 10 degrees and with a turret placed in a much higher position compared to the hull, peaking trough hills is much easier than in other tanks, but it should be noted that escaping from dangerous situations is very hard, because of a max reverse speed of only 3.6KM/h. Still, even though the armour is very poor, the transmission is quite big for a vehicle of it's size, and it's position allows it to resist some shots that could have potentially killed some crewmembers or damaged internal modules.
 
 == General info ==
 === Survivability and armour ===
@@ -45,6 +47,12 @@ The Vickers Mk.E has a cruise speed that allows it to keep up with most vehicles
 {{tankMobility|abMinHp=143|rbMinHp=81}}
 
 === Modifications and economy ===
+Most Important modifications:
+
+* All the protection tree upgrades
+* pstkr 27-34 APHE round
+* Horizontal Drive
+* Engine and Transmission
 {{Specs-Economy}}
 
 == Armaments ==
@@ -53,7 +61,7 @@ The Vickers Mk.E has a cruise speed that allows it to keep up with most vehicles
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Psv.K/36 (37 mm)}}
-The Vickers Mk.E  is equipped with the 37 mm Psv.K/36 which is a fairly mediocre weapon performance wise.
+The Vickers Mk.E  is equipped with the 37 mm Psv.K/36 which is a fairly mediocre weapon performance wise. It is a very low caliber cannon but could be considered superior in terms of performance to the American and German 37mm cannon thanks to its APHE round.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -137,20 +145,31 @@ Be aware that enemy aircraft with bombs or powerful guns can easily take out the
 
 '''Pros:'''
 
-* The APHE round has a adequate penetration for the low BR and inflicts potent post-penetration damage
+* The APHE round has a adequate penetration and inflicts potent post-penetration damage
 * Very short reload time
 * Fairly accurate gun at short to medium ranges
 * Adequate gun depression
+* Favourable ammo racks positioning (less chance of ammo detonation)
 
 '''Cons:'''
 
 * Poor protection, side armour can be penetrated even by light machine guns
 * Struggles against better-armoured foes like the D2
 * Slow reverse speed
+* Poor turret traverse speed
+* Very bad acceleration from 0 km/h to cruise speed
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Vickers Mk.E also called Vickers 6 ton was a private venture by Vickers to develop a light weight, cheap and easy to maintain tank that could be produced in large numbers and mainly be used in infantry support. As such, different variants were developed, including one with only machine guns, one with a QF-3 pounder gun (47mm gun) with two crewmembers and other variants developed by other nations. For it's time it was a very revolutionary design, and inspired many other tanks, like the Polish 7TP, the Finnish variant of the Mk.E with a 37mm cannon, and the famous T-26, that was in fact a licensed Vickers Mk.E produced by the Soviet Union with small changes and the incorporation of domestically made equipment's, like a 45mm gun instead of the QF-3 Pounder.
+
+The Mk.E was patented in 1929 and presented to the British goverment, even though it's two man turret was a really good innovation by the time, the British Armed Forces were not interested in the design, since they preferred a combination of medium/heavy tanks with slightly armoured tankettes. Vickers envisioned the Mk.E as a very promising vehicle and went for already proven concepts and equipment's. This meant that it used the already proven and very reliable Armstrong Siddeley Puma, a petrol aviation derivative design capable of 80-95 bhp or 60-70 kW, giving a speed of 22 mph (35 km/h). The armour consisted of riveted panels of no more than 25mm (1 inch) of thickness. This made the tank specially vulnerable to AT-Rifles and autocannons but was cheap to manufacture and easy to repair/replace without advanced tools or formation. But even with this characteristics the vehicle proved unsatisfactory to the British Armed Forces, and was then promoted in the international market. It's cheap and reliable design allowed the vehicle to reach the USSR, Greece, Poland, Bolivia, Siam, Finland, Portugal, China and Bulgaria. A total of 153 units of the Vickers Mk.E were produced, and most were operated up until the 1940s, when their obsolence became more than obvious. Another version was developed, the Vickers Medium Dragon, a tracked cargo vehicle that was adopted by the British Army in small numbers as artillery tractors, China, India and Thailand also used this variant in small numbers.
+[[File:Vickers parola 1.jpg|thumb|458x458px|Finnish Vickers Mk.E]]
+Finland was one of the main operators of the Vickers Mk.E. In fact, it probably was one of the countries that used it and modified it the most. Finland replaced it's aging Renault FTs with this new design. While the early test models performed poorly and were not suited for combat by Finnish words, the Vickers-Carden-Loyd Model 1933 had much better cross country performance and was actually praised by it's easiness to drive. So, the B model was introduced into service, since it's AT gun was seeing as better suited than the A model only armed with machine guns. An order for 32 tanks was placed at a price of £4,500 each, to save money, tanks did not include radio, optics or even armament. Deliveries occurred between 1937 and 1939 but many issues like the escalation in Europe, overheating problems with the engines and delays in deliveries made that by 1939 only 10 tanks were ready, even though 26 were already delivered.
+
+Due to the lack of equipment, the tanks were fitted with a licensed produced version of the 37mm Bofors anti-tank gun, adapted into a tank gun role that had superior armor penetration capabilities than the 47mm gun offered by Vickers. Home made straight-through telescopic sight type with a simple crosshair reticle were produced and their poor quality proved lethal in combat, and were considered junky and unpleasant by tank crews. Some vehicles used the same guns as the Renault FTs as a desperate measure to arm them during the Winter War, training tanks also used this configuration as well as a M/09-31 Maxim machine-gun on the right side of the Puteaux in a semi-coaxial housing. However by 1941 and even during the continuation war the remaining Vickers Mk.E were armed with soviet 45mm cannons that proved much more lethal, as well as 7.62mm DT machine guns with a much higher rate of fire and more reliability.
+
+During the Winter War and the Continuation war the tanks performed poorly, and even worst as the war progressed and more capable designs appeared in the battlefield, like the BT-7 and the T-34. The Vickers Mk.E had no chance to fight against this opponents and their more recognizable action was during the Battle of Honkaniemi, were after just three hours the attack was cancelled, with less than half of the tanks assigned to the battle reaching the starting point, some got stuck in the irregular terrain and others had problems communicating with allied forces. 5 tanks were knocked out of the fight but 1 was able to be retrieved to the starting point, Finland lacked any sort of experience with armoured formations, and their poor quality equipment's like bad optics and lack of radio in the tanks, as well as inexperienced crews and vastly numerical superiority on the side of the Soviets proved fatal in Honkaniemi.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -172,8 +191,9 @@ Be aware that enemy aircraft with bombs or powerful guns can easily take out the
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [https://tanks-encyclopedia.com/ww2/finland/vickers-6-ton-in-finnish-service/ Vickers Mark E Type B in Finnish Service - Tank Encyclopedia]
+* [https://tank-afv.com/ww2/gb/vickers_6-ton-light-tank.php Vickers 6-Ton (Mark E) 1929 - Tank-afv]
+* [[wikipedia:Vickers_6-ton|Vickers 6-ton - Wikipedia]]
 
 {{Manufacturer Vickers-Armstrongs}}
 {{Sweden light tanks}}

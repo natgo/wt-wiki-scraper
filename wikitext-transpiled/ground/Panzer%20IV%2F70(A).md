@@ -161,18 +161,15 @@ As the match progresses, the player can use the Pz IV/70 as a medium tank since 
 '''Pros:'''
 
 * Excellent firepower: decent rate of fire and good accuracy for the main gun. Stock shell has great penetration and damage, and can easily penetrate and one-shot most opponents like T-34-85, [[M4A2]] / A3, [[IS-1]], etc
-* Low profile provides excellent concealment.
-* Sloped 80 mm frontal armour provides great protection against most opponents, and is especially boosted with add-on armour. It is frontally immune to 76 mm Shermans, T-34-85 and [[M18 GMC|M18]].
 * Decent top speed of 40 km/h with good acceleration means excellent cross country performance
-* Adequate gun depression of 7 degrees for a compact hull.
+* Adequate gun depression of 5 degrees for a compact hull.
 
 '''Cons:'''
 
 * Lacks a turret which limits its combat potential and makes it vulnerable to flankers like [[M18 GMC|M18]]
 * Closely packed crew meaning a penetration from any angle will likely to destroy the tank.
-* Poor side armour, extremely weak against APBCs like the Soviet 85 or 122 mm cannons.
+* Poor overall armor inadequate against almost all guns in and below its br.
 * The downward side of the gun mantlet is prone to trapshots (shell ricocheting down into the hull roof) which is lethal.
-* Although frontal armour is thick, it can still get one-shot by the [[IS-2 (Family)|IS-2]] regardless the angle and distance
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -205,10 +202,12 @@ The powerful armament of these vehicles made them quite popular with the Wehrmac
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pz_IV_L70_A Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

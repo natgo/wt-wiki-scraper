@@ -6,13 +6,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced during [[Update "New Power"]] as a reward for [[Battle Pass: Season I]].
+The '''{{Specs|name}}''' is a British-built G-class destroyer loaned to the Polish Navy in 1940, under the previous designation of HMS Garland. She operated as part of convoy escorts for almost the entirety of the Second World War and visited most of the war theatres.
 
-HMS Garland is a British-built G-class destroyer loaned to the Polish Navy in 1940, under the designation of ORP Garland. She operated as part of convoys escort almost the entirety of the Second World War and visited most of the war theatres.
-
-She performs very similar to the playstyle of the sister ship already in the regular tree, the destroyer [[G-class (H89)|(H89) HMS Grafton]]. While, at the same time, having some pros and cons on her own. Such as the increased variety of secondary armaments that reinforces the support role of this class.
-
-Unfortunately, some drawbacks in mobility are present, as well as reductions in the main armament to increase the auxiliary armament.
+She was introduced during [[Update "New Power"]] as a reward for [[Battle Pass: Season I]]. Ex-HMS Garland performs very similar to the playstyle of the sister ship already in the regular tree, the destroyer [[G-class (H89)|HMS Grafton (H89)]]. While, at the same time, having some pros and cons on her own. Such as the increased variety of secondary armaments that reinforce the support role of this class. Unfortunately, some drawbacks in mobility are present, as well as reductions in the main armament to increase the auxiliary armament.
 
 == General info ==
 The Garland (H37) appears more aggressive than the escort destroyers [[Town (L45)]] and the [[Hunt (Family)]], this is thanks to her long and taller hull with a raked type of bow that provides increased sea-worthiness and enhanced cruising speed - at least before armaments refits. The destroyer can be differentiated from the similar [[G-class (H89)]] because of the Polish naval ensign with a horizontal bicoloured red and white, located in the stern of the ship. Another way to differentiate between the two is the Garland's light grey hull painting and the olive-green coloured upper decks. The Grafton's hull will be painted black with maroon red upper decks, though these colour schemes might vary in arctic scenarios. Garland's second funnel top is lower, a stern-located 120 mm cannon and one set of quadruple torpedo tubes is also missing.

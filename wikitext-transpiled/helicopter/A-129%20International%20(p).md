@@ -70,12 +70,37 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-[[File:A-129 with Hydra-70 rockets.png|thumb|A-129 International attacking ground targets with Hydra-70 M247 rockets.]]
-{{main|AGM-114B Hellfire|BGM-71C Improved TOW|BGM-71D TOW-2}}
-{{main|FFAR Mighty Mouse|Hydra-70 M247|FN M3P (12.7 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_A129CBT.png]]</div>
+|-
+! [[FN M3P (12.7 mm)|12.7 mm FN M3P]] machine guns (250 rpg)
+| || 1* || 1* ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| || 3* || 3* ||
+|-
+! [[Hydra-70 M247]] rockets
+| 7, 19 || 7, 19 || 7, 19 || 7, 19
+|-
+! [[AGM-114B Hellfire]] missiles
+| 2, 4 || || || 2, 4
+|-
+! [[BGM-71C Improved TOW]] missiles
+| 2, 4 || || || 2, 4
+|-
+! [[BGM-71D TOW-2]] missiles
+| 2, 4 || || || 2, 4
+|-
+| colspan="6" | * FFAR rockets can only be carried concurrently with FN M3P gunpods on the same hardpoint
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 76 x Hydra-70 M247 rockets
 * 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total)
@@ -92,36 +117,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 1 x 12.7 mm FN M3P machine gun + 3 x FFAR Mighty Mouse rockets + 19 x Hydra-70 M247 rockets + 8 x AGM-114B Hellfire missiles
 * 38 x Hydra-70 M247 rockets + 8 x BGM-71D TOW-2 missiles
 * 38 x Hydra-70 M247 rockets + 8 x AGM-114B Hellfire missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_A129CBT.png]]</div>
-|-
-! 12.7 mm FN M3P machine guns (250 rpg)
-| || 1* || 1* ||
-|-
-! FFAR Mighty Mouse rockets
-| || 3* || 3* ||
-|-
-! Hydra-70 M247 rockets
-| 7, 19 || 7, 19 || 7, 19 || 7, 19
-|-
-! AGM-114B Hellfire missiles
-| 2, 4 || || || 2, 4
-|-
-! BGM-71C Improved TOW missiles
-| 2, 4 || || || 2, 4
-|-
-! BGM-71D TOW-2 missiles
-| 2, 4 || || || 2, 4
-|-
-| colspan="6" | * FFAR rockets can only be carried concurrently with FN M3P gunpods on the same hardpoint
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+[[File:A-129 with Hydra-70 rockets.png|thumb|A-129 International attacking ground targets with Hydra-70 M247 rockets.]]
 
 As all helicopters (excluding Ka-50s), you should have a safe playstyle, ensuring that there aren't any SPAAs on the ground and other helicopters/jets in the sky since you haven't got any anti-aircraft missiles. The main advice is to stay at ground level to evade SPAAs' radars and keep looking for the enemy air spawns with the great thermal sight (and great zoom) you have installed on the chopper. The main way to protect yourself from helicopters is to wait for them to hover and using your ATGMs to take them out, but remember, farther you are, worse the accuracy of your missile will be. When you will be attacking ground vehicles, you should stay closer than 6,000 meters to the target in open maps, 4,000 meters in maps with few natural obstacles, like Ash River and 3,000/2,000 meters in maps with a lot of objects that occlude your view, for example, Berlin or Port Novorossiysk.
 

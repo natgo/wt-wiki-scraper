@@ -18,7 +18,7 @@ It was introduced in [[Update "Apex Predators"]]. Compared to the [[F-16A ADF|Bl
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The F-16A Netz is very strong in a dogfight due to its excellent TWR and energy retention, its highly manoeuvrable and can easily reach its top speed even when climbing. Its so good that you will often experience the effects of the G-limit, so when making a sharp turn keep that in mind.
+The F-16A Netz is very strong in a dogfight due to its excellent TWR and energy retention, its highly manoeuvrable and can easily reach its top speed even when climbing. 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -220,8 +220,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 '''Cons:'''
 
 * Consumes fuel quickly
-* G limit
-* Cannot pull tight turns at high speed
 * No radar-guided AAMs
 
 == History ==

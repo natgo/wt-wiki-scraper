@@ -10,13 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+The '''{{Specs|name}}''', nicknamed "Stummel", was an infantry support vehicle developed by Nazi Germany during WW2 in 1942. Learning from the lessons in the Eastern Front and with a surplus of 7.5 cm howitzers due to the Panzer IV and StuG III being refitted with more capable anti-tank weapons, the Wehrmacht decided to use the already proven Sd.Kfz.251 platform to mount this gun and use it as an infantry support weapon. Initially armed with just the cannon and a narrow range of fire, the vehicle proved unsatisfactory, but after being refitted with a new gun mount and a coaxial machine gun it was deployed in large numbers in the Eastern Front. It mostly served in Armored Recon Units and was used in areas were tanks couldn't support infantry due to poor terrain or weak infrastructure (like roads or bridges) that the Sd.Kfz.251/9 had no problem crossing, as a direct fire platform it proved very good, reliable, cheap to produce and maintain and it filled the need of a "bunker buster" vehicle in the Eastern Front.
+
+The "Stummel" was introduced in [[Update "Fire and Ice"]] and is considered a competent vehicle against its foes. While the armour is not good enough to stop even 12.7 mm shots, its gun and mobility compensate this lack of protection. The HEAT rounds are the best to deal with most enemies, it can be used effectively against armoured and open top vehicles, the 870 g of explosive mass would make sure most enemies are dealt with, however post penetration damage may feel lacking. The APCBC can be used specially in flanking manoeuvres, but it has less penetration and velocity than the HEAT rounds and thus, hitting enemies would be even harder, the mobility is decent enough, to the point that you can rush for capture points and then hide in favourable positions to ambush passing tanks.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour protection of the vehicle is thin and ineffective against any tank cannon and even heavy machine guns.
+Like all APCs the '''{{Specs|name}}'''armour is not enough to protect against any kind of enemy heavy fire. Since it's armour was designed to be effective against small arms fire even 50.cal ammunition common in tanks like the Sherman and the M3 Lee would be able to penetrate it and cause damage to internal modules and crewmembers.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -41,9 +43,18 @@ The armour protection of the vehicle is thin and ineffective against any tank ca
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The vehicle's mobility will take you wherever you need to go. Use it to be able to quickly reach and prepare a sniper/ambush position. Be careful when making sharp turns at maximum speed as the vehicle has a chance of tipping over.
 
+Like all wheeled vehicles the '''{{Specs|name}}'''has better mobility than tanks when traversing trough paved roads, it has indeed tracks in the rear and those help to increase off-road mobility, but it will still be faster than most tanks in paved roads/ground.
+
 {{tankMobility|abMinHp=142|rbMinHp=88}}
 
 === Modifications and economy ===
+First, it is important obtaining early modules like improved FPE, improved parts and Crew replenishment, then, improving the tracks and the suspension as well as the breaks is very important to compensate the lack of mobility in harsh terrain.
+
+Recommended modifications (Not in order)
+
+* All protection modifications
+* Tracks, suspension, brakes and transmission
+* Elevation mechanism and horizontal drive
 {{Specs-Economy}}
 
 == Armaments ==
@@ -114,15 +125,26 @@ The biggest threats to this tank are aircraft and flankers. It is an open-topped
 * Highly mobile for the BR, will get to one's destination quickly.
 * Potent gun with a fast reload that allows for versatile engagement of enemies
 * Gun depression makes hull-down positions possible
+* Smoke shells available, useful for covering allied movements, specially good thanks to a low reload time
 
 '''Cons:'''
 
 * Open-topped, vulnerable to HE rounds, artillery strikes and strafing aircraft
 * A single shot can knock out the driver, gunner and loader at once, leaving you vulnerable
+* Weak mobility in harsh terrain compared to tanks because of it's design without full tracks
+* Relatively poor shell velocity for it's main gun
 
 == History ==
-<!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+<!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->[[File:Sd.Kfz.251-9.jpg|thumb|Mittlerer Schützenpanzer (Sd.Kfz 251/9) Ausf. D "Stummel"]]
+The '''{{Specs|name}}''' was developed over the Sd. Kfz. 251 platform, which was already proven alongside infantry as an APC and in other roles. This variant was made with infantry support in mind, thanks to the lessons learned in the Eastern Front and the need of a cheaper assault gun against soviet fortifications and entrenched infantry.
+
+The gun chosen was the '''7.5 cm K. 37 L/24''' that was available in large numbers after the Panzer IV and StuG III were refitted with more capable anti tank cannons. Early versions of this mount proved unsatisfactory, with 10 to 12 degrees of horizontal traverse and only -5 degrees of gun depression, still the vehicle was sent to the Eastern front and a first batch of 150 units was ordered.
+
+The improved version entered service in 1944 with a revision of the 7.5cm Howitzer, a new gun mount, a coaxial MG-42 machine gun and a simpler construction that allowed better maintenance and more ammo capacity thanks to more internal space (many rounds were carried in bags and rifle racks). The new design proved much more efficient, the horizontal traverse was increased to 20 degrees and gun depression went from -5 to -10 degrees.
+
+The "''mittlerer Schützenpanzerwagen Stummel''" entered service in 1942 with the SS-Panzerregiment 4 „Der Führer“, 2nd SS Armored Division in the Eastern front, it should be noted that most units served in that theatre, and not against the Allied forces. Later in the war the vehicle would be deployed in all armoured reconnaissance units to provide heavy fire support and also in the paratrooper division “Hermann Göring”, this was made considering that the "Stummel" could be carried inside the Me 323
+
+The vehicle had a many uses for the Wehrmacht, for instance, it was much cheaper to produce and maintain than the Panzer IV or Stug III, and when those tanks went from infantry support to anti tank duties, it was far cheaper and easier modifying an existing platform like the Sd.Kfz.250 to fulfil this new role. Not only that, but the "kanonenwagen" as it was called, was also lighter, and was able to cross weak bridges alongside infantry and APCs to provide direct fire support and even help in anti tank duties when shooting from favourable positions.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -144,10 +166,10 @@ The biggest threats to this tank are aircraft and flankers. It is an open-topped
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
+'''''Sources'''''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [http://www.kfzderwehrmacht.de/Homepage_english/Miscellaneous/Kfz-Numbers/Sd__Kfz__Numbers/Sd_Kfz__251-9_m__Spw__-7-5cm-/sd_kfz__251-9_m__spw__-7-5cm-.html Sd.Kfz. 251/9 m. Spw. (7,5cm) - Kfz. der Wehrmacht]
+* [https://tanks-encyclopedia.com/ww2/nazi_germany/sdkfz-251_hanomag.php Sd.Kfz.251 - Tank Encyclopedia] 
 
 {{Germany tank destroyers}}
 [[Category:Half-tracks]]

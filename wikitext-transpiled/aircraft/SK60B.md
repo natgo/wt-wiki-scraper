@@ -130,9 +130,35 @@ Although weak, the {{PAGENAME}} has a few design tricks making its survivability
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Rb05A|m/56D|psrak m/49/56|Akan m/55 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[Akan m/55 (30 mm)|30 mm Akan m/55]] cannons (150 rpg)
+| || 1 || || || 1 ||
+|-
+! [[m/56D]] rockets
+| 2 || 2 || 2 || 2 || 2 || 2
+|-
+! [[psrak m/49/56]] rockets
+| 1 || 1 || 1 || 1 || 1 || 1
+|-
+! [[Rb05A]] missiles
+| || 1 || || || 1 ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 2 x 30 mm Akan m/55 cannons (150 rpg = 300 total)
+* 6 x psrak m/49/56 rockets
+* 12 x m/56D rockets
+* 2 x Rb05A missiles
+{{Navigation-End}}
 
 * 2 x 30 mm Akan m/55 cannons (150 rpg = 300 total)
 
@@ -151,28 +177,6 @@ The {{PAGENAME}} features a lot of unique armament compared to most other Swedis
 For players more interested in unguided air-support, the {{PAGENAME}} doesn't disappoint! The {{PAGENAME}} features 12 m/56D rockets also found on the J35D. Thanks to the superior aerodynamics of the {{PAGENAME}}, along with a lower battle-rating, the m/56 rockets get a lot more use than on the Draken. The velocity is immense, reaching 650 m/s, allowing for accurate and distanced engagements. The m/56D carriers less explosives than the earlier m/49A, but compensates for this by still featuring the same penetration values. This makes the m/56 overall better than the earlier m/49A, as the higher velocity makes engagements a lot easier.
 
 It is important to remember that the {{PAGENAME}} is incredibly vulnerable to SPAA when using the m/56D, as they require the {{PAGENAME}} to position itself close to the battlefield. And since the {{PAGENAME}} is one of the slowest jet-powered aircraft in the game, even machine-gun fire can prove lethal if the plane is flown carelessly. Sticking low to the ground and carefully observing opponents is a must if a pilot wants to make every rocket count.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 30 mm Akan m/55 cannons (150 rpg)
-| || 1 || || || 1 ||
-|-
-! m/56D rockets
-| 2 || 2 || 2 || 2 || 2 || 2
-|-
-! psrak m/49/56 rockets
-| 1 || 1 || 1 || 1 || 1 || 1
-|-
-! Rb05A missiles
-| || 1 || || || 1 ||
-|-
-| colspan="7" | Maximum permissible weight imbalance: 450 kg
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -219,7 +223,7 @@ Because the SK60B has reverse thrusters it makes it possible to land and capture
 * Devastating firepower - Access to ADEN gunpods and AGM missiles
 * Access to attacker spawn
 * Long endurance - High fuel and ammo count makes returning to base less frequent
-* Decent survivability - It has 2 pilots, can fly without a wing, or without one of the engines 
+* Decent survivability - It has 2 pilots, can fly without a wing, or without one of the engines
 * Easy to land - Low stall speed and strong landing gear aids in critical touchdowns
 * Has reverse thrusters - Allows very short landings and can taxi in reverse
 

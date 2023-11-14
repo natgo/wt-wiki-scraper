@@ -39,7 +39,9 @@ The rudder takes roughly 2 seconds to cause the ship to begin a turn, and while 
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|8 inch/55 Mark 16 (203 mm)}}
 
-''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
+The primary armament of 3 x 8 inch/55 Mark 16 triple-gun mount cannons are the currently the undisputed best heavy cruiser cannons. Able to fire a volley every 6 seconds (10 rpm) allows for all vessels, cruisers or smaller to be destroyed with relative ease. Like most American cannons, the shell velocity is quite low, making very large shell arches, allowing for ships to be struck whilst still behind island cover. This does however making long range shooting a significant challenge.'
+
+The Des Moines has 4 rounds types, a HE round, two SAP round types and a AP round. The explosive mass of all rounds are extremely powerful for their type. The AP round is able to successfully fight all heavy cruisers as well as some battlecruisers such as the HMS Glorious, SMS Von der Tan, HMS Invincible to name a few.
 
 {{:8 inch/55 Mark 16 (203 mm)/Ammunition|8 inch Mk.14 Common, 8 inch Mk.21 APCBC, 8 inch Mk.25 HC, 8 inch Mk.17 SP Common}}
 
@@ -48,7 +50,7 @@ The rudder takes roughly 2 seconds to cause the ship to begin a turn, and while 
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|5 inch/38 Mk.12 (127 mm)}}
 
-''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
+The secondary armament are 6 x 5 inch/38 Mk/12 twin-mounted, dual-purpose cannons, with a max of 4 turret being able to fire during a broadside. The max fire rate is 15-22 rpm (depends on if the first stage ammunition is not depleted). There cannons have terrible muzzle velocity making distant shots against maneuvering targets a major challenge. Fortunately, when fighting light cruisers and destroyers, these secondaries are able to cause significant damage using HE and SAP rounds. These turrets also have access to proximity fuse shells, providing superb long to medium range defense against aircraft, including high altitude bombers.
 
 {{:5 inch/38 Mk.12 (127 mm)/Ammunition|5 inch AAC Mk.34, 5 inch AAVT Mk.31, 5 inch SP Common Mk.46}}
 
@@ -75,7 +77,7 @@ The rudder takes roughly 2 seconds to cause the ship to begin a turn, and while 
 * Large crew complement allows for a decent survivability
 * Ammo stowage rooms are located below the waterline
 * Decent ammo variety for both the 8-inch and 5-inch guns including HE-VT, HE and AP type rounds
-* Overall armour is fine
+* Overall armour is above average for a cruiser
 
 '''Cons:'''
 

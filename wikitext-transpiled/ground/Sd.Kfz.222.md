@@ -71,6 +71,7 @@ The Sd.Kfz.222 moves rapidly on roads, less so on regular ground and will get bo
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''PzGr.:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
@@ -155,6 +156,7 @@ Due to limitations in firepower and mobility during the Soviet Union invasion in
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_sdkfz_222 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -166,9 +168,11 @@ Due to limitations in firepower and mobility during the Soviet Union invasion in
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Sd.Kfz.222 (China)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[Sd.Kfz.234/1]]
 
 == External links ==
@@ -176,7 +180,8 @@ Due to limitations in firepower and mobility during the Soviet Union invasion in
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[wt:en/news/8085-development-sd-kfz-222-a-little-tank-en|[Devblog] Sd.Kfz.222: A Little Tank]]
+* [[wt:en/news/8085-development-sd-kfz-222-a-little-tank-en|[Devblog] Sd.Kfz.222: A Little Tank]]  
+* [https://www.youtube.com/watch?v=dYO386DeHvo&ab_channel=TheEuropeanCanadian <nowiki>[Youtube] https://www.youtube.com/watch?v=dYO386DeHvo&ab_channel=TheEuropeanCanadian</nowiki>]
 
 {{TankManufacturer Eisenwerk Weserhutte}}
 {{Germany anti-aircraft vehicles}}

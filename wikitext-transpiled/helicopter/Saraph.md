@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Ba
 === Flight performance ===
 {{Specs-Heli-Flight}}
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''The AH-64D-I Saraph provides great manoeuvrability, incredible acceleration and overall has a great speed of up to 319 km/h in arcade and 295 km/h in realistic and simulator game modes. It is as fast as the American [[AH-64D]] but the title of fastest Apache belongs to the British Army variant called the [[AH Mk.1]]. The IDF AH-64D-I is able to do manoeuvres other helicopters can only dream about, from barrel roles, flips to loops. This allows it to evade enemy missiles with relative ease and surprise enemy tankers who will be mostly helpless against it.''
+The AH-64D-I Saraph provides great manoeuvrability, incredible acceleration, and has overall great speed. It is as fast as the American [[AH-64D]], but the title of fastest Apache belongs to the British Army [[AH Mk.1]]. The IDF AH-64D-I is able to do manoeuvres other helicopters can only dream about, from barrel rolls, to flips and loops. This allows it to evade enemy missiles with relative ease and surprise enemy tankers who will be mostly helpless against it.
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -22,7 +22,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Ba
 ! AB !! RB
 |-
 ! Stock
-| 272 || 253 || rowspan="2" | {{Specs|ceiling}}
+| 271 || 253 || rowspan="2" | {{Specs|ceiling}}
 |-
 ! Upgraded
 | ___ || ___
@@ -33,10 +33,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Ba
 {{Specs-Heli-Armour}}
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
 
-''The AH-64D-I Apache "Saraph" has only limited armour protection installed, with bullet proof glass only being installed on the pilot windscreen. The helicopter uses Kevlar boron carbide, composite martial which is limited only to instrument, floor and side panels around the cockpit. It does not provide the same level of protection as seen on other helicopters such as the [[Mi-28N]].''
+The AH-64D-I Apache "Saraph" has only limited armour protection installed, with bulletproof glass only being installed on the pilot windscreen. The helicopter uses Kevlar boron carbide composite material which is limited only to the instrument, floor, and side panels around the cockpit. It does not provide the same level of protection as seen on other helicopters such as the [[Mi-28N]].
 
-*''Bullet proof glass installed only for the pilot - 22 mm thick.''
-*''Installation of Kevlar boron carbide, composite martial only on the: Seats, cockpit side panels, Gunner floor panels and pilot instrument panel - 20 mm thick.''
+* Bulletproof glass installed only for the pilot - 22 mm thick.
+* Installation of Kevlar boron carbide composite on the seats, cockpit side panels, gunner floor panels and pilot instrument panel - 20 mm thick.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -45,11 +45,12 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Ba
 {{Specs-Heli-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="3" |[[Ballistic Computer]]
+! colspan="3" | [[Ballistic Computer]]
 |-
-!CCIP (Guns)!!CCIP (Rockets)!!CCIP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs)
 |-
-|{{Tick}}||{{Tick}}||{{Cross}}
+| {{Tick}} || {{Tick}} || {{Cross}}
+|-
 |}
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
@@ -58,59 +59,62 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Ba
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm M230E-1 cannon, chin turret (1,200 rpg)
-** 1 x 30 mm M230E-1 cannon + 180 x countermeasures
+* 1 x 30 mm M230E-1 cannon, chin-mounted (1,200 rpg)
+* 180 x countermeasures
 
-''The Saraph has the same 30 mm cannon as the other Apaches in the game currently, and only has one belt choice. The belt carries only HEDP rounds, and can penetrate up to 51 mm of armour. The gun is fast firing, but relatively inaccurate, so shooting in close range is the best way to hit your target. If you don't mind the inaccuracy of the gun, it is a very good weapon all around. It can be locked in gunner and 3rd person view and will automatically track the target.''
+The Saraph has the same 30 mm cannon as the other Apaches in the game, and only has one belt choice. The belt carries only HEDP rounds, and can penetrate up to 51 mm of armour. The gun is fast-firing, but relatively inaccurate, so shooting at close ranges is the best way to hit your target. If you don't mind the inaccuracy of the gun, it is a very good weapon all-round. It can be locked in gunner and 3rd person view and will automatically track the target.
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114K Hellfire II|ATAS (AIM-92)|Hydra-70 M247}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
+|-
+! [[Hydra-70 M247]] rockets
+| || 19 || 19 || 19 || 19 ||
+|-
+! [[AGM-114K Hellfire II]] missiles
+| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
+|-
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || || || 2
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 76 x Hydra-70 M247 rockets
 * 4 x AGM-114K Hellfire II missiles
 * 8 x AGM-114K Hellfire II missiles
 * 16 x AGM-114K Hellfire II missiles
 * 4 x ATAS (AIM-92) missiles
+{{Navigation-End}}
 
-''The Saraph can carry up to 16 Hellfire II ATGMs with over 1,000 mm of pen and a tandem warhead, 76 Hydra rockets with over 200 mm of pen, or 4 Stinger AAMs. The weapons are carried on the stub wings and can be carried in several different variations. The Hellfires are excellent missiles, although since the player must keep "painting" a laser beam on the target, misses can occur if the target lock slips. The Hydra rockets are generally very effective, especially when used with the ballistic computer. 76 rockets is enough for 3-5 tanks if they are used by an experienced player. However, the Stinger AAMs are not the best in the game by any stretch, with relatively little explosive mass and only a 10G overload. They may take 2-3 hits to damage aircraft, and heavily armoured helicopters such as the Mi-28 may survive multiple hits.''
+The Saraph can carry up to 16 Hellfire II ATGMs with over 1,000 mm of pen and a tandem warhead, 76 Hydra rockets with over 200 mm of pen, or 4 Stinger AAMs. The weapons are carried on the stub wings and can be carried in several different variations. The Hellfires are excellent missiles, although since the player must keep "painting" a laser beam on the target, misses can occur if the target lock slips. The Hydra rockets are generally very effective, especially when used with the ballistic computer. 76 rockets is enough for 3-5 tanks if they are used by an experienced player. However, the Stinger AAMs are not the best in the game by any stretch, with relatively little explosive mass and only a 10G overload. They may take 2-3 hits to damage aircraft, and heavily armoured helicopters such as the Mi-28 may survive multiple hits.
 
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
-|-
-! Hydra-70 M247 rockets
-| || 19 || 19 || 19 || 19 ||
-|-
-! AGM-114K Hellfire II missiles
-| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
-|-
-! ATAS (AIM-92) missiles
-| 2 || || || || || 2
-|-
-|}
-The '''''Saraph''''' has the following Defensive systems installed:
+=== Defensive systems ===
 
-* '''Countermeasures''' - 180 built-in
-* '''AN/APR-39''' - Radar Warning Receiver (RWR); C-M detectable bands; track and launch detection
-* '''AN/AVR-2''' - Laser Warning Receiver (LWR)
-* '''AN/AAR-47''' - Missile Approach Warning system (MAW)
-* '''AIM-92 Stinger''' - AIM 92 Stinger missiles
+The '''''Saraph''''' has the following Defensive systems installed:
 
-''All 3 major defensive sensors (RWR, LWR and MAW) come standard with the helicopter and are essential to surviving enemy attacks. The Peten comes stock with 180 countermeasures in the form of just flares, however, in order to select a mix of flares and chaff, the adequate modification [Flares/Chaff (tier I)] will have to be researched. The AIM-92 Stinger module can be researched at tier III and adds an extra layer of defence against both enemy aircraft and other helicopters. The Stinger launchers are mounted in pairs on the wingtips and do not compromise any hardpoint space for other weaponry.''
+* '''Countermeasures''' - 180 built-in
+* '''AN/APR-39''' - Radar Warning Receiver (RWR); C-M detectable bands; track and launch detection
+* '''AN/AVR-2''' - Laser Warning Receiver (LWR)
+* '''AN/AAR-47''' - Missile Approach Warning system (MAW)
+* '''AIM-92 Stinger''' - AIM 92 Stinger missiles
+
+All 3 major defensive sensors (RWR, LWR and MAW) come standard with the helicopter and are essential to surviving enemy attacks. The Saraph comes stock with 180 countermeasures in the form of just flares, however, in order to select a mix of flares and chaff, the tier I Flares/chaff modification will have to be researched. The AIM-92 Stinger module can be researched at tier III and adds an extra layer of defence against both enemy aircraft and other helicopters. The Stinger launchers are mounted in pairs on the wingtips and do not compromise any hardpoint space for other weaponry.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 '''Overview'''
 
-The AH-64D-I is an Israeli modified version of the venerable [[AH-64D]] and in turn very similar to the [[AH-64A]] Apache. The differences between it and the A are the lack of an option to carry AIM-9L missiles, the new Longbow radar, improved Hellfires, and an improved ECM package. It is also slightly different to the American D version as it lacks the laser guided APKWS rockets. The Apache is an excellent helicopter for attacking ground targets, and can also hold its own against many enemy aircraft. Through adequate use of cover, teamwork, and game sense, the Apache can easily dismantle enemy teams. An Apache pilot must understand all of the tools at their disposal.
+The AH-64D-I is an Israeli-modified version of the venerable [[AH-64D]] and in turn very similar to the [[AH-64A]] Apache. The differences between it and the A are the lack of an option to carry AIM-9L missiles, the new Longbow radar, improved Hellfires, and an improved ECM package. It is also slightly different to the American D version as it lacks the laser guided APKWS rockets. The Apache is an excellent helicopter for attacking ground targets, and can also hold its own against many enemy aircraft. Through adequate use of cover, teamwork, and game sense, the Apache can easily dismantle enemy teams. An Apache pilot must understand all of the tools at their disposal.
 
 The Apache has an arsenal of weapons. The most effective anti-tank weapon in the Apache's arsenal is the AGM-114 Hellfire, which uses a top attack trajectory to destroy ground vehicles. There is functionally very little difference between the AGM-114B and K variants, used on early and late Apaches respectively.
 
@@ -155,7 +159,7 @@ Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cov
 *Adequate speed and manoeuvrability
 *Advanced countermeasure system with radar warning receiver (RWR) and Missile Alert Warning
 *Longbow radar
-*High countermeasure count (x180, built in)
+*High countermeasure count (180, built in)
 
 '''Cons:'''
 
@@ -163,15 +167,12 @@ Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cov
 *Hellfire missiles need line-of-sight for guidance.
 *Easily destroyed by main adversary ([[Ka-50]] & [[Ka-52]]) and enemy aircraft
 
-*
-
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 ;Videos
 {{Youtube-gallery|irF2YOn8zOs|'''AH-64 Apache Ultimate Review''' - ''Bob Dickinson''}}

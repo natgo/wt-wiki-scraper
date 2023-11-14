@@ -127,10 +127,15 @@ Introduced in [[Update "Fire and Ice"]], the Bosvark is fast and manoeuvrable, p
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+Vehicles of similar configuration and role:
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[M53/59]]
+* [[Ystervark]]
+
+Vehicles with similar weapon systems:
+
+* [[BTR-ZD]]
+* [[ZSD63/PG87]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

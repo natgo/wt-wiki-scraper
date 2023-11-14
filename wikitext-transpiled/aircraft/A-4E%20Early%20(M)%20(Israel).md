@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The A-4E Early (A4D-5) was part of the revision that improved the previous Skyhawk variants. It featured the J52-P-6A engine, which had better fuel consumption while also providing much more thrust. Other improvements included more hardpoints and new computers for navigation, bomb dropping, and more. The A-4E also marked the beginning of the new naming system for the Skyhawk. The "Early" versions of the A-4E lack the iconic "humpback" behind the cockpit, which houses more electronics. It also lacks the improved J52-P-8 engine. During the Yom Kippur War, Israel was losing Skyhawks at an astonishing rate, which led to 25+ A-4E Skyhawks being transferred over. 
+The A-4E Early (A4D-5) was part of the revision that improved the previous Skyhawk variants. It featured the J52-P-6A engine, which had better fuel consumption while also providing much more thrust. Other improvements included more hardpoints and new computers for navigation, bomb dropping, and more. The A-4E also marked the beginning of the new naming system for the Skyhawk. The "Early" versions of the A-4E lack the iconic "humpback" behind the cockpit, which houses more electronics. It also lacks the improved J52-P-8 engine. During the Yom Kippur War, Israel was losing Skyhawks at an astonishing rate, which led to 25+ A-4E Skyhawks being transferred over.
 
 The '''{{Specs|name}}''' Skyhawk was introduced in [[Update "Winged Lions"]] and can be seen as a worse version of the premium [[A-4E (Israel)|A-4E]]. The A-4E Early most importantly, lacks the J52-P-8A engine found in the A-4E, which provides an 8% increase in thrust. Other than that, it is very similar to the regular A-4E. The A-4E Early comes armed with the standard two 30 mm DEFA cannons mounted in the chin as well as two [[AIM-9B Sidewinder|AIM-9B Sidewinders]]. The Sidewinders are quite useful for forcing opponents to lose energy/speed and picking off slow targets. The A-4E Early also has 60 countermeasures, which allow for 30 drops. It's very useful against Sea Vixens, and in uptiers where missiles like the [[AIM-9G]] and [[R-60]] are prevalent.
 == General info ==
@@ -133,20 +133,74 @@ The '''{{Specs|name}}''' Skyhawk was introduced in [[Update "Winged Lions"]] and
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 30 mm DEFA 552 cannons, belly-mounted (150 rpg = 300 total)
-** 2 x 30 mm DEFA 552 cannons + 60 x countermeasures
+* 2 x 30 mm DEFA 552 cannons, belly-mounted (150 rpg = 300 total)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Mk 81 (250 lb)|SAMP Mk 82 (500 lb)|SAMP Mk 82 250 Snakeye (500 lb)|SAMP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)|Mk 77 mod 4 incendiary}}
-{{main|AGM-62A Walleye I (505 kg)|GBU-8 (2,000 lb)|AIM-9B Sidewinder}}
-{{main|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-4E_Early.png]]</div>
+|-
+! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
+| || 1 || 1 || 1 ||
+|-
+! [[100/50 kg G.P. (100 kg)|100/50 kg G.P.]] bombs
+| 1 || 6 || 6 || 6 || 1
+|-
+! [[SAMP Mk 81 (250 lb)|250 lb SAMP Mk 81]] bombs
+| 1 || 6 || 6 || 6 || 1
+|-
+! [[SAMP Mk 82 (500 lb)|500 lb SAMP Mk 82]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[SAMP Mk 82 250 Snakeye (500 lb)|500 lb SAMP Mk 82 250 Snakeye]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[250/50 kg G.P. (250 kg)|250/50 kg G.P.]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[360/50 kg G.P. (360 kg)|360/50 kg G.P.]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[SAMP Mk 83 (1,000 lb)|1,000 lb SAMP Mk 83]] bombs
+| || 1 || 3 || 1 ||
+|-
+! [[500/50 kg G.P. (500 kg)|500/50 kg G.P.]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[AGM-62A Walleye I (505 kg)|505 kg AGM-62A Walleye I]] bombs
+| || 1 || || 1 ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || 1 || ||
+|-
+! [[GBU-8 (2,000 lb)|2,000 lb GBU-8]] bombs
+| || || 1 || ||
+|-
+! [[Mk 77 mod 4 incendiary]] bombs
+| 1 || 2 || 3 || 2 || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 38 || 57 || 38 || 19
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 4 || 8 || 12 || 8 || 4
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || || || || 1
+|-
+| colspan="6" | Maximum permissible loadout weight: 3,720 kg<br>Maximum permissible wing load: 1,860 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 171 x FFAR Mighty Mouse rockets
@@ -161,64 +215,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 1 x 2,000 lb GBU-8 bomb (2,000 lb total)
 * 9 x Mk 77 mod 4 incendiary bombs
 * 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-4E_Early.png]]</div>
-|-
-! 20 mm Mk 11 mod 5 cannons (750 rpg)
-| || 1 || 1 || 1 ||
-|-
-! 100/50 kg G.P. bombs
-| 1 || 6 || 6 || 6 || 1
-|-
-! 250 lb SAMP Mk 81 bombs
-| 1 || 6 || 6 || 6 || 1
-|-
-! 500 lb SAMP Mk 82 bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 500 lb SAMP Mk 82 250 Snakeye bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 250/50 kg G.P. bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 360/50 kg G.P. bombs
-| || 1 || 1 || 1 ||
-|-
-! 1,000 lb SAMP Mk 83 bombs
-| || 1 || 3 || 1 ||
-|-
-! 500/50 kg G.P. bombs
-| || 1 || 1 || 1 ||
-|-
-! 505 kg AGM-62A Walleye I bombs
-| || 1 || || 1 ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || 1 || ||
-|-
-! 2,000 lb GBU-8 bombs
-| || || 1 || ||
-|-
-! Mk 77 mod 4 incendiary bombs
-| 1 || 2 || 3 || 2 || 1
-|-
-! FFAR Mighty Mouse rockets
-| 19 || 38 || 57 || 38 || 19
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 4 || 8 || 12 || 8 || 4
-|-
-! AIM-9B Sidewinder missiles
-| 1 || || || || 1
-|-
-| colspan="6" | Maximum permissible loadout weight: 3,720 kg<br>Maximum permissible wing load: 1,860 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

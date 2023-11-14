@@ -5,18 +5,22 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American battleship {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]]. When she was commissioned on 12 March 1914, she was the most powerful battleship in the world. Today, the USS Texas is the sole remaining intact example of a "Dreadnought" class warship in the world, built during the great battleship age over 100 years ago. In-game, the Texas in its 1945 configuration is filled to the brim with 20 mm and 40 mm anti-air guns, making this perhaps the top defensive ship in-game. As an added bonus, this includes a radar to spot enemy air well before it is a threat.
+The USS Texas was a New York-class battleship. Built as the first ship of her class, even before the lead ship USS New York, she was built by Newport News Shipbuilding shipyard and laid down on 17th April 1911 and commissioned on 12th March 1914. USS Texas was the first in many things for the US Navy, including the first to carry 14-inch (356 mm) guns, the first to mount anti-aircraft guns, the first to be able to launch aircraft, the first to control gunfire with directors and range keepers, and one of the first to receive a production radar. She is also the last surviving dreadnought-style battleship, conserved as a museum ship in dry-dock in Galveston, Texas.
+
+Her armament consisted of five turrets each armed with a pair of 14-inch/45 Mark 12 cannons, with two turrets on the bow, one amidships and the last two astern. Secondary armament was made up of six 5 inch Mark 7 (127 mm) cannons in casemates with 3 on each side of hull. Short range anti-aircraft battery is supplied with a total of forty-four Oerlikon Mk. II 20 mm autocannons in various positions all over the ship, while medium-range defence is made up of ten quadruple Bofors L/60 Mark 2 cannons. Long-range anti-air protection is made up of ten 3-inch/50 Mk.10 (76 mm) cannons. USS Texas served in WWI in Europe without seeing any action. In 1926 she underwent a refit that added torpedo blisters to the side of hull, making it wider. At the beginning of WWII, she patrolled the Atlantic until returning to United States in 1941. In 1942, she would return to the Atlantic and then the Mediterranean as part of task force supporting Operation Torch. During the North African landings, she conducted two fire support missions bombarding Vichy French positions. Until D-Day in 1944, she resumed escorting convoys. She supported the Omaha beach landing and Rangers attacking Pointe du Hoc. After the capture of France, she left to the Pacific to take part in the Battle of Iwo Jima and Okinawa. She was placed in reserve on 18th June 1946. She became a museum ship in 1948.
+
+USS Texas was introduced in [[Update "Sons of Attila"]] as the third 14-inch US Navy battleship. Unlike [[USS Arizona|Arizona]], she possesses less firepower due to having only ten guns instead of twelve found on Arizona. As a WWI-era coal-powered dreadnought, USS Texas is quite slow and sluggish. Her magazines, although at the waterline, are protected by 305 mm thick belt armour which is sufficient protection against most long-range shells coming in at an angle. As USS Texas is in her 1945 refit, she has an anti-air search radar at her disposal, giving information about incoming threats from afar and with her large battery of medium and light autocannons ready to deal with any threat.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-Being an early dreadnought-era battleship, the armour is very spread out, similar to the previous [[USS North Dakota|North Dakota]] and [[USS Wyoming|Wyoming]] classes. In fact, this layout was radically changed in the very next class, the [[USS Nevada]] with all the armour focused on the core citadel. Even though the 1925 refit doubled the deck armour, newer AP rounds will penetrate deep into the ship. The flip side is the multiple layers of armour will defend much better against HE or SAP/APHE rounds. The large added torpedo blister will easily absorb torpedo damage, if a torpedo boat or aircraft happens to get through your AAA screen!
+Being an early dreadnought-era battleship, the armour spread out in a distributed armour scheme, similar to the previous [[USS North Dakota|North Dakota]] and [[USS Wyoming|Wyoming]] classes. The usage of the all-or-nothing armour scheme would have to wait for the very next class, the [[USS Nevada]] with all the armour focused on the core citadel. Even though the 1925 refit doubled the deck armour, newer AP rounds may still penetrate deep into the ship. The flip side is the multiple layers of armour will defend much better against HE or SAP/APHE rounds. The large added torpedo blister will easily absorb torpedo damage, if a torpedo boat or aircraft happens to get through your AAA screen!
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-Big and slow like other battleships, one can make a fresh pot of US Navy coffee in the time to turn 180 degrees! Plan which way to turn when entering battle and don't try to turn around. Small turns to help guns line up to target is advisable, especially the 5" guns as they have limited arcs.
+Big and slow like other battleships, one can make a fresh pot of US Navy coffee in the time to turn 180 degrees! Plan which way to turn when entering battle and don't try to turn around. Small turns to help guns line up to target is advisable, especially the 5" (127 mm) guns as they have limited arcs. The acceleration and deceleration is equally unimpressive, with the ship taking a laborious pace to get up to speed and taking a fair amount of time to come to a stop again.  
 
 {{NavalMobility}}
 
@@ -30,7 +34,9 @@ Big and slow like other battleships, one can make a fresh pot of US Navy coffee 
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|14 inch/45 Mk.12 (356 mm)}}
 
-The New York class introduced the 14" (356 mm) gun into the world, being the most powerful ship cannon at time, and was still formidable even by the end of WW2. Only an AP and HE round are available, good enough for the mission at hand. Mounted in five double turrets, there is a measure of resiliency by less loss of firepower from a disabled turret.
+The commissioning of the New York class introduced the 14" (356 mm) gun as the most powerful naval cannon in the world until the British commissioned the first of the Queen Elizabeth class ships later that year, and was still quite formidable even by the end of WW2. Mounted in five double turrets, there is a measure of resiliency by less loss of firepower from a disabled turret.
+
+Only armour-piercing and high-explosive shells are available for the ship. The HE shells are decidedly mediocre for the calibre in terms of explosive filler, but the AP shells have a very respectable level of penetration for a high tier ship, especially as the range increases. 
 
 {{:14 inch/45 Mk.12 (356 mm)/Ammunition|14 inch Mk.9 HE, 14 inch Mk.8 APCBC}}
 
@@ -69,26 +75,30 @@ In ship-to-ship combat, the Texas will be similar to the [[USS Nevada]] and [[US
 
 * Armour weak against AP shells
 * Sluggish manoeuvring
+* No dual purpose 127 mm, heavy AA is limited to the 76 mm guns.
 * 14" rounds weaker compared to other newer types
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 The USS Texas is truly "The First and the Last". Although ordered after the USS New York (BB-34), construction started, was finished, and commissioned into the US Navy two months ahead. At commissioning she was the first capital ship in world to mount 14" cannons and the first US Navy "super dreadnought". This was just a start!
 USS Texas lists of '''Firsts''' ''in the US Navy'':
+
 * Anti-Air gun installation, 3" on top of the ship cranes; August 1916
 * Test "kite balloon" in mid 1918
 * Test feasibility of carrying exposed aircraft across ocean 20 October - 4 November 1918 (platforms installed by British Royal Navy at Jarrow Slake, England).
 * First to launch aircraft; 11 March 1919
 * First to mount radar; Late 1938
 * First US warship to be decommissioned and become a permanent museum
-Finally
-* '''''The Last''''' Dreadnought style battleship left afloat in the world. 
 
-USS Texas served in the US Navy an extraordinarily long time even before becoming a museum, was a witness to monumental changes in human history. Some key dates compared to events in Texas history to illustrate world events. 
+Finally
+
+* '''''The Last''''' Dreadnought style battleship left afloat in the world.
+
+USS Texas served in the US Navy an extraordinarily long time even before becoming a museum, was a witness to monumental changes in human history. Some key dates compared to events in Texas history to illustrate world events.
 
 '''17 April 1911:''' construction of what will be ''USS Texas (''BB-35), began.
 
-15 April 1912: the ''RMS Titanic'' sank, a tragic event still discussed today.  
+15 April 1912: the ''RMS Titanic'' sank, a tragic event still discussed today.
 
 '''18 May 1912:''' Just ''33 days after'' the Titanic tragedy the ''USS Texas'' is launched into the water.
 
@@ -116,7 +126,7 @@ USS Texas served in the US Navy an extraordinarily long time even before becomin
 
 '''21 April 1948''': USS Texas is officially decommissioned, ownership transferred to the State of Texas and becoming a permanent museum.
 
-'''30 April 1948:''' her name was struck from the Naval Vessel Register.
+'''30 April 1948:''' her name was struck from the Naval Vessel Register.
 
 '''13 December 1988''' to '''8 September 1990''': USS Texas was dry docked and underwent extensive restoration before reopening.
 

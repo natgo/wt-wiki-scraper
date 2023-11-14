@@ -73,10 +73,27 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|BGM-71C Improved TOW|BGM-71D TOW-2|Hydra-70 M247}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_AH-1G_(Israel).png]]</div>
+|-
+! [[Hydra-70 M247]] rockets
+| 7, 19 || 7, 19 || 7, 19 || 7, 19
+|-
+! [[BGM-71C Improved TOW]] missiles
+| 2, 4 || || || 2, 4
+|-
+! [[BGM-71D TOW-2]] missiles
+| 2, 4 || || || 2, 4
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 28 x Hydra-70 M247 rockets
 * 76 x Hydra-70 M247 rockets
@@ -84,23 +101,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x BGM-71C Improved TOW missiles
 * 4 x BGM-71D TOW-2 missiles
 * 8 x BGM-71D TOW-2 missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_AH-1G_(Israel).png]]</div>
-|-
-! Hydra-70 M247 rockets
-| 7, 19 || 7, 19 || 7, 19 || 7, 19
-|-
-! BGM-71C Improved TOW missiles
-| 2, 4 || || || 2, 4
-|-
-! BGM-71D TOW-2 missiles
-| 2, 4 || || || 2, 4
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -196,7 +197,7 @@ File:AH-1F WTWallpaper 007.jpg
 </gallery>
 
 ;Videos
-{{Youtube-gallery|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 05:44 discusses the AH-1 Cobra.}}
+{{Youtube-gallery|zYbcq-KOpFE|'''AH-1 Cobra Ultimate Review''' - ''Bob Dickinson''|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 05:44 discusses the AH-1 Cobra.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -30,11 +30,11 @@
 |style="width:500px;padding-left:12%;"|
 {| cellspacing="0" style="margin:0;margin-top:-7px;"
 |-
-| {{Tree-Skip}} || || {{Tree-Unit|mi_24v}}
+| rowspan="2" | <div style="margin-top:-30px">{{Tree-Arrow|1}}</div> || || {{Tree-Unit|mi_24v}}
 |-
-| || || {{Tree-Arrow}}
+| || {{Tree-Arrow}}
 |-
-| || || {{Tree-Unit|mi_24p}}
+| {{Tree-Unit|mi_8amtsh}} || || {{Tree-Unit|mi_24p}}
 |-
 | || || colspan="3" style="text-align: center;"| <div class="tree-arrow-right">https://wiki.warthunder.ru/images/a/a9/Arrow-down-and-right-down.png</div>
 |-

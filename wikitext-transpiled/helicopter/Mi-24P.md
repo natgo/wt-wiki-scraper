@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO Code: Hind-F) is a rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
+In 1981, a dedicated anti-tank variant of the [[Mi-24V]] was devised, replacing the gunner-controlled, nose-mounted 12.7 mm turret with a pilot-controlled fixed [[GSh-30-2K (30 mm)|Gsh-30-2K]] twin-barrel 30 mm cannon from an [[Su-25]] for anti-tank duties. The resulting variant, named the Mi-24P, would quickly enter service, and would also be exported alongside the Mi-24V to many countries.
 
-The Mi-24P is very similar to the previous [[Mi-24V]], having the same airframe, technology, and weapons. The only difference is the gun armament: the chin-mounted Yak-B gatling gun has been replaced with a fixed GSh-30-2 cannon mounted on the right side of the nose. This is the same type of cannon mounted on the [[Su-25]] attack jet, another Soviet "flying tank". Although it is difficult to aim, a quick burst from the cannon can shred lightly armored vehicles. Thus, the Mi-24P is a sidegrade to the Mi-24V, having more anti-ground ability at the cost of a minor amount of anti-air capability.
+The '''{{Specs|name}}''' (NATO reporting name: ''Hind-F'') was introduced in [[Update 1.81 "The Valkyries"]]. The Mi-24P is very similar to the previous [[Mi-24V]], having the same airframe, technology, and weapons. The only difference is the gun armament: the chin-mounted 12.7 mm Gatling gun has been replaced with a fixed [[GSh-30-2K (30 mm)|GSh-30-2K]] cannon mounted on the right side of the nose for anti-armour duties. This is the same type of cannon mounted on the [[Su-25]] attack jet, another Soviet "flying tank". Although it is difficult to aim, a quick burst from the cannon can shred lightly armoured vehicles. Thus, the Mi-24P is a sidegrade to the previous Mi-24V, being more focused on anti-armour duties than anti-infantry.
 
 == General info ==
 === Flight performance ===
@@ -81,8 +81,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+|-
+! [[GShG-7.62 (7.62 mm)|7.62 mm GShG-7.62]] machine guns (1,800 rpg)
+| || 2* || 2<sup>†</sup> || 2<sup>†</sup> || 2* ||
+|-
+! [[YaK-B (12.7 mm)|12.7 mm YaK-B]] machine guns (750 rpg)
+| || 1* || 1<sup>†</sup> || 1<sup>†</sup> || 1* ||
 |-
 ! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
 | || 1 || 1 || 1 || 1 ||
@@ -110,11 +116,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 |-
 | colspan="7" | Maximum permissible weight imbalance: 500 kg
 |-
+| colspan="8" | *<sup>†</sup> Machine gun pods must be equipped simultaneously as marked, including those on the same hardpoint
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-* Without load
+* 40 x S-8KO rockets + 4 x 9M114 Shturm missiles
 * 2 x R-60 missiles
 * 4 x R-60 missiles
 * 2 x R-60M missiles
@@ -126,6 +134,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
+* 2 x 12.7 mm YaK-B machine guns (750 rpg = 1,500 total) + 2 x 7.62 mm GShG-7.62 machine guns (3,600 rpg = 7,200 total)
 {{Navigation-End}}
 
 The Mi-24P has the exact same loadouts as the Mi-24V, so all previous advice applies. The 9M114 Shturm missiles are the main anti-tank weapons and the R-60 "Aphid" missiles are the main anti-air weapons, and remaining pylons can be distributed between rockets and bombs by personal choice.
@@ -175,6 +184,7 @@ The Mi-24P's modernized variant, the [[Mi-35M]], is still in use to this day in 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mi_24p Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -186,11 +196,13 @@ The Mi-24P's modernized variant, the [[Mi-35M]], is still in use to this day in 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other Mi-24P variants
+
 * [[Mi-24P (Germany)]]
 * [[Mi-24P HFS 80 (Germany)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

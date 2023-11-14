@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO Code: Hind-D) is a premium gift rank {{Specs|rank}} Soviet attack helicopter {{Battle-rating}}. It was introduced as a [[wt:en/news/5712-shop-pre-order-bundles-and-packs-for-major-update-1-81-en|premium pack]] in [[Update 1.81 "The Valkyries"]] and was removed from sale after the [[wt:en/news/6542-shop-the-new-year-sale-en|2019 New Year Sale]]. It was made available briefly for purchase with Golden Eagles {{ge}} when the vehicle was reviewed by the [[wt:en/news/8005-wiki-back-on-sale-mi-24d-en|War Thunder Wiki youtube channel]].
+The Mi-24D is the definitive variant of the infamous Mi-24 "Hind" helicopter. Being designed to specifically be a "gunship" variant designed in 1973, the Hind-D had a redesigned frontal fuselage: the single piece cockpit from the [[Mi-24A]] was redesigned with two separate cockpits for both a pilot and a gunner to have clear view of the battlefield. The Mi-24D had the required fire-control system to carry various 57 mm rocket pods, UPK-23 gunpod, and 9M17 Falanga ATGMs. The Mi-24D would become one of the most widely exported variants around the world. Czechoslovakia would receive their Mi-24Ds in the '80s, and the Hind-Ds would be passed on to the successor Czech Republic in 1993. The Hind-Ds have started becoming obsolete in recent years, and in 2023 a majority were transferred to Ukraine.
 
-One of the most iconic helicopter gunships of the Cold War, the Mil Mi-24 was widely exported throughout the Eastern Bloc as the Soviet Union armed its satellites in Europe and abroad. This Mi-24D is one such example, and flies the colours of the Czechoslovak Air Force. The "Hind" is one of the most heavily armed gunships ever made, possessing extensive payloads and a durable airframe, at the cost of low manoeuvrability. A pair of Klimov TV3-117V turboshaft engines give the helicopter good lifting power and decent flight speeds.
+The '''{{Specs|name}}''' (NATO reporting name: ''Hind-D'') was introduced as a [[wt:en/news/5712-shop-pre-order-bundles-and-packs-for-major-update-1-81-en|premium pack]] in [[Update 1.81 "The Valkyries"]]. It is a very versatile helicopter in both the attack and support roles. Don't let the massive airframe fool you, the pair of Klimov TV3-117V turboshaft engines coupled to the 5-bladed rotor give the Hind-D very good lifting power, handling, and decent flight speeds for its weight class. The chin-mounted 12.7 mm turret has a wide gimbal range, and the wide array of ordnance the Hind can carry ranging from gunpods and ATGMs to unguided rockets and bombs will rain hell on enemy tanks in mixed battles. It is also worth mentioning that being a member of the Hind family, the Mi-24D is very well-armoured and has overall decent survivability against machine guns and smaller calibre autocannons.
+
+The Mi-24D was removed from sale after the [[wt:en/news/6542-shop-the-new-year-sale-en|2019 New Year Sale]]. It has since only been made available to purchase once: It was made available briefly for purchase with Golden Eagles {{ge}} when the vehicle was reviewed by the [[wt:en/news/8005-wiki-back-on-sale-mi-24d-en|War Thunder Wiki YouTube channel]] in late 2022.
 
 == General info ==
 === Flight performance ===
@@ -106,6 +108,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 128 x S-5K rockets
 * 4 x S-24 rockets

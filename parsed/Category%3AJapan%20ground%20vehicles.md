@@ -206,6 +206,8 @@
 {{Tree-Skip}}
 |
 {{Tree-Unit|jp_type_93}}
+{{Tree-Arrow}}
+{{Tree-Unit|jp_type_81_tansam}}
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Skip}}

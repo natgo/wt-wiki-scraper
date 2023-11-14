@@ -81,6 +81,7 @@ Aside from the alternative weaponry, the pros and cons of the Ratel chassis rema
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 * '''M594:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
 * '''M601:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
@@ -214,25 +215,21 @@ The Ratel-20 would see combat in Operation Reindeer, 1978, Operation Sceptic, 19
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Related service history
+;<nowiki>Other vehicles based on the Ratel chassis:</nowiki>
+;* [[Ratel 90]]
+;* [[ZT3A2]]
 
-*[[Eland 90 Mk.7]]
-*[[Ratel 90]]
-*[[T-34-85]]
-*[[PT-76B]]
-*[[T-54/55 (Family)]]
-
-;Similar Playstyle
+Vehicles of similar design and role:
 
 * [[Warrior]]
-* [[BMP-1]]
-* [[UDES 33]]
-* [[FIAT 6614]]
+* [[Marder A1-]]
+* [[Pbv 302 (BILL)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+
 ;Bibliography:
 <references />
 

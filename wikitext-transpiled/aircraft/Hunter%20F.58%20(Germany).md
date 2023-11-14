@@ -196,28 +196,27 @@ A thumb of rule for jet fighters is that: always maintain your energy for any si
 Another note for the Hunter is that, thanks to the upgrades mentioned before, players can now more confident when facing later supersonic jets with SARH missiles like F-4C or MiG-21S. This will also be the good time to learn about the characteristics of SARH missiles - with up to 60 chaffs available, flying sideways and dive for terrain while dispensing chaffs can make sure enemy SARH missiles will likely uncage from yourself.
 
 ==== Ground - the Lesser Ground-pounder ====
-While Swiss purchased the F.58 variant which was based on F.6 with ground-attack capabilities, likely due to the revised avionics onboard or the need for drop tanks, the payload options is in fact relatively less than his Commonwealth cousins: only the outer-board pylon could carry bombs, unguided rockets and the [[Flz Lwf LB 82]] (AGM-65B) missiles. Although there are alternatives with more payload such as [[F-84F (Germany)|F-84F]] or with more AGMs like [[G.91 R/3 (Germany)|G.91 R/3]], if players insist to bring out Hunter, the varieties of bombs ranging from 200 to 450 kg, as well as unguided rockets and napalms can still make sure it can score some victories at cleared skies (cleared from SPAAs or enemy interceptors); due to the lack of ballistic computer, players will still have to learn the trajectory of different payloads in test flights. As mentioned before, what makes F.58 stand out is the LB 82 missiles, players of USAF tree will be happy to learn that it is the other name of AGM-65B Maverick but under Swiss designation; this also makes it the earliest jet to equip Maverick as stand-off missiles against high-threat targets such as Soviet MBTs or SPAA with missile systems onboard. Be sure to utilize the upgraded avionics for better situational awareness from different threats - the speed of Hunter is still valuable even at its tier with supersonic jets.
+While Swiss purchased the F.58 variant which was based on the F.6 with ground-attack capabilities, likely due to the revised avionics onboard or the need for drop tanks, the payload options is in fact relatively less than his Commonwealth cousins: only the outer-board pylon could carry bombs, unguided rockets and the [[Flz Lwf LB 82]] (AGM-65B) missiles. Although there are alternatives with more payload such as [[F-84F (Germany)|F-84F]] or with more AGMs like [[G.91 R/3 (Germany)|G.91 R/3]], if players insist to bring out Hunter, the varieties of bombs ranging from 200 to 450 kg, as well as unguided rockets and napalms can still make sure it can score some victories at cleared skies (cleared from SPAAs or enemy interceptors); due to the lack of ballistic computer, players will still have to learn the trajectory of different payloads in test flights. As mentioned before, what makes F.58 stand out is the LB 82 missiles, players of USAF tree will be happy to learn that it is the other name of AGM-65B Maverick but under Swiss designation; this also makes it the second-earliest jet to equip the Maverick stand-off missiles (after [[Ayit|Israel's 9.3 Ayit]] with AGM-65A's) against high-threat targets such as Soviet MBTs or SPAA with missile systems onboard. Be sure to utilize the upgraded avionics for better situational awareness from different threats - the speed of the Hunter is still valuable even at its tier with supersonic jets.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
 * Sufficient ammo pool to take down multiple targets
-* One of the fastest subsonic jets 
+* One of the fastest subsonic jets, retains good maneuverability at higher speeds 
 * Good energy retention for energy fights against subsonic or early supersonic jets
-* Surprisingly good manoeuvrability at higher speeds
 * Access to more advanced missiles for both A2A/A2G missions
-* Advanced avionics to all its Hunter cousins
-** All-aspect RWR for warnings from possible SARH missiles lock-on
-** Flares/chaffs to evade respective types of missiles
+* Advanced avionics over all its Hunter cousins
+** All-aspect RWR for situational awareness
+** Flares/chaff to help counter those types of missiles
 
 *
 
 '''Cons:'''
 
 * Huge target, can be easy prey to enemy gunfire
-* Not manoeuvrable at lower speeds due to its size
+* Not maneuverable at lower speeds due to its size
 * Lacks ballistic computer for precise ground attacks
-* Relatively less-flexible payload options due to the layout of pylons
+* Relatively limited payload options due to pylon layouts
 
 *
 

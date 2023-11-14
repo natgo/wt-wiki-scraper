@@ -132,13 +132,25 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* 5 second reload with max crew
+* Two-plane stabilizer
+* 3 machine guns (2 x 7.62 mm & 1 x 12.7 mm) with one on the roof
+* An effective HEAT shell with a relatively high muzzle velocity
+* Access to APDS and HESH as well
+* Above average reverse speed in comparison to some other British tanks
+* Very mobile due to lighter weight
 
 '''Cons:'''
-*
+
+* Poor armour all around, front armour is only good against autocannons
+* Only -7° of gun depression compared to the more common -10°
+* The coaxial 12.7 mm machine gun is meant for rangefinding and has only 7 mm of penetration
+* The roof machine gun is only 7.62 mm
+* Ammo rack in the front right next to the driver
+* Slow gun elevation speed affects gun handling
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -153,6 +165,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British medium tank {{
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

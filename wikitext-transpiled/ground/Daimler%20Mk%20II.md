@@ -206,18 +206,30 @@ Daimlers were also used by the 11th Cavalry in the Burma campaign. They remained
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_daimler_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.'' -->
+* ''links to approximate analogues of other nations and research trees.'' -->Vehicles of similar configuration and role:
 
-;Contemporary light tanks with similar role
+* [[SARC MkIVa]]
 * [[AMD.35]]
+* [[AEC Mk II]]
+* [[AB 43]]
+
+Vehicles of similar role:
+
+* [[Tetrarch I]]
+* [[SARC MkVI (2pdr)]]
+* [[Sd.Kfz.221 (s.Pz.B.41)]]
+* [[M8 LAC (Family)|M8 LAC]]
+* [[BA-11]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

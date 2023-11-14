@@ -264,11 +264,30 @@ In order to evade some more-flare-resistant missiles such as the AIM-9L, a good 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+
+'''Development'''
+
+Designed to meet a 1950s requirement for a supersonic attack aircraft, the Qianjiji-5 (Q-5) first flew on 4 June 1965. The Q-5 (and later A-5 for export) is a derivative of the Shenyang F-6 (MiG-19) aircraft and was first designed in China in August 1958 at the Shenyang facility. Responsibility was later assigned to the Nanchang Aircraft Manufacturing Corp. (NAMC) facility, creating the first prototype in 1960. The prototype program was cancelled in 1961, but kept alive by small team of Chinese aeronautical engineers and defence personnel, resuming officially in 1963. The first flight of the Q-5 took place on 4 June 1965, with an updated prototype flying in October 1969.<ref name=":0">(A-5C Fantan 1999)</ref><ref name=":1">(Nanchang Q-5 2010)</ref>
+
 In view of the economy after the Cultural Revolution and the dawn of the economic reform in Mainland China, the Central Government decided that all exported weapons would be priced and handled by the newly established {{Annotation|CATIC|China National Aero-Technology Import & Export Corporation}}. In mid-1979, Egypt became their first overseas customer with orders of new jets and engines; meanwhile, Pakistan had concluded that the main culprit for the lost of 3rd Indo-Pakistan War was because of the lack of a dedicated ground attacker, in fear of possible assaults from USSR via Afghanistan, they were in dire need for a new ground attacker.
 
-Pakistan then sent 2 teams of staffs to Nanchang Aircraft Corporation and it was concluded that Q-5 would be a fair option for an attacker with its low-altitude performance and price, but it would also be upgraded with Western avionics, weaponries and came with IR AAMs for self-defense. Based on the Q-5IA that was still under development, Nanchang Aircraft Corp. built 3 prototypes in 1982 and the newly designated A-5C was delivered to the PAF from early 1983 to 1984, with 54 of them built through out the year.
+The '''{{Specs|name}}''' was originally an improved export version of the 1976 Q-5I. It was flight tested in late 1980 and certified for production on 20 October 1981. However, keen to win further orders, Nanchang offered the Q-5IA for export as the '''{{Specs|name}}''', incorporating 32 modifications onto the Q-5I plus upgraded avionics.<ref name=":0" /> These upgrades made it comparable to the Q-5III, which the '''{{Specs|name}}''' is often said to be based upon. With 3 prototypes built in 1982, the newly designated '''{{Specs|name}}''' was delivered to the Pakistan Air Force from early 1983 to 1984, with 54 of them built through out the year.
 
-A-5C was then delivered to three different PAF squadrons and some of them retired as early as 1991, while the remaining were kept in commission until mid-2011, when the more-advanced JF-17 Thunder replaced them as a multi-role fighter. Other export variants remain in service at Myanmar and Sudan.
+'''Design'''
+
+The '''{{Specs|name}}''' is powered by two Shenyang WP-6 turbojets, producing 25.50 kN of thrust, and 31.87 kN with afterburner. Both turbojets are mounted side by side in the rear of the fuselage.<ref name=":0" /> This allows the A-5C to climb at a rate of 103m/s with a maximum and cruise speed of 1210km/h and 910km/h respectively at a range of 2000km. The aircraft weighs around 6,375kg and its maximum take-off weight is 11,830kg.<ref name=":1" />
+
+Armaments include two [[Type 23-2K (23 mm)|Type 23-2K (23 mm)]] autocannons fitted in the wing roots, which carry 100 rounds per gun.<ref name=":1" /> There are 10 attachment hardpoints, normally for external stores; two pairs in tandem under centre of fuselage, and three under each wing. <ref name=":0" /><ref name=":1" />
+
+'''Operational History'''
+
+Pakistan had sent 2 teams of staffs to Nanchang Aircraft Corporation and it was concluded that the A-5C (Q-5IA) would be a fair option, ordering 52 aircraft. Pakistan deemed it worthy as an attacker with its low-altitude performance and price, but it would also be upgraded with Western avionics, ejection seats, weaponry such as Western IR AAMs for self-defense. The original delivery to Pakistan consisted of 52 '''{{Specs|name}}'''s in 1983 which equipped the No. 16 and No. 26 Squadrons of the PAF.<ref name=":0" />
+
+In total, about 90 '''{{Specs|name}}'''s were delivered to Pakistan between 1983-94, at the price of around $1 million per aircraft<ref name=":2">(Chawla, 66)</ref>, distributed to three different PAF squadrons (No. 7, 16 and 26).<ref name=":3">(Nanchang Q-5 Fantan 2023)</ref> Some of them were retired as early as 1999 and as of mid-1999 only 49 remained in service.<ref name=":4">(FANTAN A-5 2000)</ref>. However, Pakistan would continue to purchase more, with 6 '''{{Specs|name}}'''s acquired in 2003.<ref name=":5">(Chawla, 72)</ref> The remaining would be kept in commission until mid-2011, when the more-advanced JF-17 "Thunder" - a joint Chinese-Pakistani multi-role combat aircraft, replaced them as a multi-role fighter. 
+
+Other export variants of the A-5 remain in service with Myanmar, Bangladesh, North Korea and Sudan. As of 2023, 20 A-5Bs (based on the Q-5II) and '''{{Specs|name}}'''s are in service with the Myanmar Air Force, while less than 10 '''{{Specs|name}}'''s serve with the Bangladesh Air Force. It is unknown how many remain in service with North Korea and Sudan.<ref name=":3" /> Some sources estimate that North Korea purchased 36-50 A-5s between 1970 and 1982 with Sudan receiving around 20 in the early 2000s.<ref name=":6">(Forsgen)</ref>
+
+Modern usages of the A-5 include during the War in Darfur, beginning in 2003, where the Sudanese Air Force used the jets for ground attack.<ref name=":7">(War in Darfur 2008)</ref>  Another case, albeit accidental, occurred in March 2015, when Myanmar Air Force A-5C jets engaged in a skirmish against the Myanmar National Democratic Alliance Army (MNDAA) accidentally dropped bombs on a Chinese village in Gengma County, Yunnan, killing 4 villagers within Chinese territory.<ref name=":8">(China Summons Ambassador 2015)</ref>
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -296,6 +315,22 @@ A-5C was then delivered to three different PAF squadrons and some of them retire
 * ''other literature.'' -->
 
 * [[wt:en/news/7284-development-new-top-tier-ztz99-iii-and-pre-order-for-a-5c-en|[Devblog] New top-tier ZTZ99-III and pre-order for A-5C]]
+
+=== References ===
+
+;Citations
+<references />
+
+;Bibliography
+
+* “A-5C Fantan.” AIRCRAFTS OF THE PAKISTAN AIR FORCE, PAKISTAN AIRFORCE ONLINE, 1999, pakfizaia.tripod.com/a5.html. 
+* “Nanchang Q-5 Ground Attack Aircraft.” Airforce Technology, 26 Sept. 2010, www.airforce-technology.com/projects/nanchanggroundattack/?cf-view. 
+* Sherman, Robert. “FANTAN A-5, Q-5 (NANCHANG).” Fantan A-5, Q-5 (Nanchang) Pakistan Aircraft Special Weapons Delivery Systems, 13 Feb. 2000, nuke.fas.org/guide/pakistan/aircraft/a-5.htm. 
+* Chawla, Shalini. “PAKISTAN AIR FORCE: MODERNISATION TRENDS.” Air Power, vol. 14, no. 3, summer 2019, pp. 57–80.
+* Nanchang Q-5 (Fantan), Military Factory, 10 Apr. 2023, www.militaryfactory.com/aircraft/detail.php?aircraft_id=568. 
+* Forsgren, Jan. “Jan Forsgren.” Aeroflight, 2023, www.aeroflight.co.uk/user/fleet/north-korea-af-nanchang-q-5-ia-fantan.htm. 
+* Feinberg, William. “China Summons Burmese Ambassador after Bomb Kills Four in Yunnan.” East by Southeast, ExSe, 14 Mar. 2015, www.eastbysoutheast.com/china-summons-burmese-ambassador-after-bomb-kills-four-in-yunnan/. 
+* Andersson, Hilary. “China ‘Is Fuelling War in Darfur.’” BBC News, BBC, 13 July 2008, news.bbc.co.uk/2/hi/africa/7503428.stm. 
 
 {{AirManufacturer Nanchang}}
 {{China jet aircraft}}

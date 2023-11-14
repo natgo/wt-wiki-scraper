@@ -166,10 +166,19 @@ File:Crusader AA Mk II after shooting down a Ju-87.jpg|A Crusader shortly after 
 </gallery>
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+Vehicles with the same chassis:
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[Crusader (Family)]]
+** [[Crusader AA Mk I]]
+
+Vehicles with the same weapon systems:
+
+* [[AEC AA]]
+
+Vehicles with similar weapon systems:
+
+* [[Skink]]
+* [[TCM-20]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

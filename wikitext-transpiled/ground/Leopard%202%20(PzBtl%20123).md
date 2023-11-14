@@ -1,5 +1,5 @@
 {{About
-| about = German premium MBT '''{{PAGENAME}}'''
+| about = premium German medium tank '''{{PAGENAME}}'''
 | usage = other versions
 | link = Leopard 2 (Family)
 }}
@@ -117,7 +117,7 @@ The mobility of this vehicle is very good. It can usually travel 30-40 MPH (48-6
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Because the PzBtl 123 is fast, it is good for flanking attacks. If you can manage to get around the enemy undetected, then you can destroy them with your superior armament. Heavy tanks and any vehicle carryng APSDFS shells are a huge menace to the survivability of the vehicle. If you choose to go into frontal combat instead of flanking, you should pop out of cover, fire an APSDFS (DM23 is better than DM13) at an enemy tank's lower armour in the front, and then retreat to cover '''''as quickly as possible'''''. If you do not, a heavy tank may one shot you or a light tank could take out your driver, gunner and commander, and the loader. Be especially wary of other medium tanks that are also trying to flank your team, because chances are, they also have a 120mm gun and can one shot you with a well placed round.
+Because the PzBtl 123 is fast, it is good for flanking attacks. If you can manage to get around the enemy undetected, then you can destroy them with your superior armament. Heavy tanks and any vehicle carrying APFSDS shells are a huge menace to the survivability of the vehicle. If you choose to go into frontal combat instead of flanking, you should pop out of cover, fire an APFSDS (DM23 is better than DM13) at an enemy tank's lower armour in the front, and then retreat to cover as quickly as possible. If you do not, a heavy tank may one shot you or a light tank could take out your driver, gunner and commander, and the loader. Be especially wary of other medium tanks that are also trying to flank your team, because chances are, they also have a 120 mm gun and can one shot you with a well placed round.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -136,11 +136,11 @@ Because the PzBtl 123 is fast, it is good for flanking attacks. If you can manag
 
 * Hull armour is weak and proves vulnerable against most enemy shells
 * Weak points in turret (gun mantlet and gunner's optics) can cripple tank or entire crew quickly if enemy exploits them
-* Crew arrangement means a frontal shot can potentially knock out driver, gunner and commander (3/4 crew members) with one shot.
-* If an APSDFS or HEATFS shell hits the inside of the track tread, the entire crew can be put out of comission very quickly.
+* Crew arrangement means a frontal shot can potentially knock out driver, gunner and commander (3/4 crew members) with one shot
+* If an APFSDS or HEATFS shell hits the inside of the track tread, the entire crew can be put out of commission very quickly
 * Turret's strong points are still vulnerable to most top-ranking APFSDS shells available to the enemies
 * Blow out panel-enabled ammo racks are small, carrying only 16 rounds
-* Machine guns, both coaxial and pintle-mount, are small calibre with restricted gun elevation that makes engaging and threatening air targets difficult
+* Machine guns, both coaxial and pintle-mounted, are small calibre with restricted gun elevation that makes engaging and threatening air targets difficult
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

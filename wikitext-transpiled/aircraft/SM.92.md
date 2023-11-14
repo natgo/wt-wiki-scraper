@@ -246,6 +246,11 @@ File:SM 92 WTWallpaper 008.jpg
 
 * [[SM.91]]
 
+Vehicles of similar configuration
+
+* [[Bf 109 Z-1]]
+* [[F-82E]]
+
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''

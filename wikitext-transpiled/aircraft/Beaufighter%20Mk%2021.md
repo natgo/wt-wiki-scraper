@@ -172,11 +172,13 @@ Similar to the earlier [[Beaufighter Mk X]], the Beaufighter Mk 21 can serve in 
 * All M2 Brownings are placed centre-wing away from the fuselage, requires setting close convergence of guns to be effective
 
 == History ==
+The Beaufighter Mk 21 was a Australian variant of the Beaufighter, made by the Department of Aircraft Production (DAP), with changes including new Hercules XVII engines, four 20mm cannons in the nose, four Browning .50 cal machine guns in the wings and the ability to carry 8 5 inch HVAP rockets, 2 250 lb bombs, 2 500 lb bombs and a Mark 13 torpedo
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}|expand=true}}
 {{Navigation-First-Simple-Line}}
+
 A design rapidly born from the wings and tail of the earlier Beaufort, the Beaufighter was a two seat, twin engine heavy fighter designed for long range, ground strike and night fighter duties. Equipped with an early AI radar, the Beaufighter was one of the world's first successful night fighters.
 
 In 1944, after Australia's aircraft manufacturing contract expired, the Australian Department of Aircraft Production was commissioned to build 500 aircraft based on the Beaufighter Mk X. The Australian version of the aircraft was named the Beaufighter Mk 21 and differed from its predecessor in its armament; the nose mounted 0.303 inch Browning machine guns were replaced with Browning M2 50 calibre guns now fitted in the wings, and the Hercules XVII engines were replaced with Hercules CVIIs. Only 365 of these aircraft were built, since the war ended before completion of the first order and the rest of the torpedo bombers' production was cancelled.

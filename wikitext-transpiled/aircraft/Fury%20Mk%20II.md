@@ -163,6 +163,8 @@ Many other versions of the Hawker Fury were made, including the Yugoslav, Persia
 
 The Fury was armed with 2 x 7.7 mm machine guns.
 
+The Fury Mark II entered service in 1936, remaining with RAF fighter command until January 1939, replaced with other planes such as the Gladiator and Hurricane.
+
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
 {{Navigation-First-Simple-Line}}

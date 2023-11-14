@@ -137,20 +137,66 @@ The A-4E has a really decent speed for its BR but loses a great amount of energy
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 30 mm DEFA 553 cannons, belly-mounted (150 rpg = 300 total)
-** 2 x 30 mm DEFA 553 cannons + 60 x countermeasures
+* 2 x 30 mm DEFA 553 cannons, belly-mounted (150 rpg = 300 total)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|LDGP Mk 81 (250 lb)|Mk 81 Snakeye (250 lb)|LDGP Mk 82 (500 lb)|Mk 82 Snakeye (500 lb)}}
-{{main|M117 cone 45 (750 lb)|LDGP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|AGM-62A Walleye I ER (510 kg)|GBU-8 (2,000 lb)|AIM-9B Sidewinder}}
-{{main|Mk 77 mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-4E_Early.png]]</div>
+|-
+! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
+| || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
+| 1 || 6 || 6 || 6 || 1
+|-
+! [[Mk 81 Snakeye (250 lb)|250 lb Mk 81 Snakeye]] bombs
+| 1 || 6 || 6 || 6 || 1
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[AGM-62A Walleye I ER (510 kg)|510 kg AGM-62A Walleye I ER]] bombs
+| || 1 || || 1 ||
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[LDGP Mk 83 (1,000 lb)|1,000 lb LDGP Mk 83]] bombs
+| || 1 || 3 || 1 ||
+|-
+! [[GBU-8 (2,000 lb)|2,000 lb GBU-8]] bombs
+| || || 1 || ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || 1 || ||
+|-
+! [[Mk 77 mod 4 incendiary]] bombs
+| 1 || 2 || 3 || 2 || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 38 || 57 || 38 || 19
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 4 || 8 || 12 || 8 || 4
+|-
+! [[AIM-9B Sidewinder]] missiles
+| 1 || || || || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 171 x FFAR Mighty Mouse rockets
@@ -166,56 +212,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 510 kg AGM-62A Walleye I ER bombs (1,020 kg total)
 * 1 x 2,000 lb GBU-8 bomb (2,000 lb total)
 * 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-4E_Early.png]]</div>
-|-
-! 20 mm Mk 11 mod 5 cannons (750 rpg)
-| || 1 || 1 || 1 ||
-|-
-! 250 lb LDGP Mk 81 bombs
-| 1 || 6 || 6 || 6 || 1
-|-
-! 250 lb Mk 81 Snakeye bombs
-| 1 || 6 || 6 || 6 || 1
-|-
-! 500 lb LDGP Mk 82 bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 500 lb Mk 82 Snakeye bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 510 kg AGM-62A Walleye I ER bombs
-| || 1 || || 1 ||
-|-
-! 750 lb M117 cone 45 bombs
-| || 1 || 1 || 1 ||
-|-
-! 1,000 lb LDGP Mk 83 bombs
-| || 1 || 3 || 1 ||
-|-
-! 2,000 lb GBU-8 bombs
-| || || 1 || ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || 1 || ||
-|-
-! Mk 77 mod 4 incendiary bombs
-| 1 || 2 || 3 || 2 || 1
-|-
-! FFAR Mighty Mouse rockets
-| 19 || 38 || 57 || 38 || 19
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 4 || 8 || 12 || 8 || 4
-|-
-! AIM-9B Sidewinder missiles
-| 1 || || || || 1
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

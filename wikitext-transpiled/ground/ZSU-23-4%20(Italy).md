@@ -77,7 +77,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian SPAA {{Battle-rating
 {{:AZP-23 (23 mm)/Ammunition|HEF-I, API-T, HEFI-T}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+[[File:Ammoracks_ZSU-23-4.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-

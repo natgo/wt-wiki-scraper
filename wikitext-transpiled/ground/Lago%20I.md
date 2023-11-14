@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''{{Specs|name}}''' was a Swedish medium tank, developed for export to Hungary. However, Hungary chose to design their own medium tank, with the help of Škoda, and the project was cancelled. It was not until later that the {{PAGENAME}} was trialed by the Swedish army and further developed to the [[Strv m/42 EH|Strv m/42]], where it would have a long service life.
+
+The {{PAGENAME}} was introduced in [[Update 1.97 "Viking Fury"]]. It has a similar playstyle to an early [[Pz.III (Family)|Pz.III]], being quite fast and manoeuvrable but not having the greatest in terms of firepower output. The {{PAGENAME}} does have access to post-war APDS rounds with great penetration, giving it the upper hand in long-range engagements where its angled armour can protect the vehicle well. The small breech of the vehicle also give it great gun depression, making it able to peek over hills to engage with hostiles without endangering itself.
 
 == General info ==
 === Survivability and armour ===

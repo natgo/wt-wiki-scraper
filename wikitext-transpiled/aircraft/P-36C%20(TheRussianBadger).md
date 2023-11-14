@@ -18,7 +18,7 @@ It was introduced during [[Update "Sky Guardians"]], obtainable by [https://www.
 === Flight performance ===
 {{Specs-Avia-Flight}}
 
-The {{PAGENAME}} is a relatively easy fighter aircraft to fly and requires only a relatively short space to both take-off and land. During World War II the P-36 was ferried over to Pearl Harbor aboard an aircraft carrier from which they took off and then landed at the Army Air Corps base.<ref name="MilFac" /> In the game, due to the very low stall speed, the P-36 can land on an aircraft carrier to a complete stop and take off again. Due to the fantastically low wing loading rate of 23.9 lb/ft<sup>2</sup><ref name="JoeB" />, this fighter is an excellent turning aircraft and accompanied by a strong rudder can spiral climb easily, especially during WEP cycles. This aircraft has the advantage of being both a turn fighter and a Boom & Zoom fighter, depending on the situation, type of aircraft which are flying against and mission type. The P-36 will out-turn many fighters of its rank and can prove difficult to follow if attempting to shoot it down. The [[P-36A]] and [[P-36C]] utilise the same engine, however with the extra two machine guns and associated ammunition, the C model lags slightly behind the A with flight characteristics, but not noticeable enough for the upgrading pilot to realize while manoeuvring the aircraft. The trade-off for more guns vs. slightly hampered flight model is well worth it.
+The {{PAGENAME}} is a relatively easy fighter aircraft to fly and requires only a relatively short space to both take off and land. During World War II the P-36 was ferried over to Pearl Harbor aboard an aircraft carrier from which they took off and then landed at the Army Air Corps base.<ref name="MilFac" /> In the game, due to the very low stall speed, the P-36 can land on an aircraft carrier to a complete stop and take off again. Due to the fantastically low wing loading rate of 23.9 lb/ft<sup>2</sup><ref name="JoeB" />, this fighter is an excellent turning aircraft and accompanied by a strong rudder can spiral climb easily, especially during WEP cycles. This aircraft has the advantage of being both a turn fighter and a Boom & Zoom fighter, depending on the situation, type of aircraft which are flying against, and mission type. The P-36 will out-turn many fighters of its rank and can prove difficult to follow if attempting to shoot it down. The [[P-36A]] and [[P-36C]] utilise the same engine, however, with the extra two machine guns and associated ammunition, the C model lags slightly behind the A with flight characteristics, but not noticeable enough for the upgrading pilot to realize while manoeuvring the aircraft. The trade-off for more guns is a slightly hampered flight model, but it is well worth it.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -81,7 +81,7 @@ The {{PAGENAME}} is a relatively easy fighter aircraft to fly and requires only 
 * 9.5 mm armoured pilot seat
 * Self-sealing fuel tanks
 
-As with many early pre-war fighters, not much emphasis was put on the survivability of the aircraft. The best course of action was for the pilot to not let anyone get behind them. The P-36's only sources of protection for the pilot is the engine block and the 9.5 mm (angled at 24° for effective thickness of 13 mm), that being said, depending on the engine block to save the pilot may do so at the expense of the engine, thus requiring the pilot to glide back to base if possible or bailout. There are also two unprotected oil coolers if which are punctured, the aircraft will leak oil until depleted eventually causing the engine to seize up.
+As with many early pre-war fighters, not much emphasis was put on the survivability of the aircraft. The best course of action was for the pilot to not let anyone get behind them. The P-36's only sources of protection for the pilot is the engine block and the 9.5 mm (angled at 24° for an effective thickness of 13 mm), that being said, depending on the engine block to save the pilot may do so at the expense of the engine, thus requiring the pilot to glide back to base if possible or bailout. There are also two unprotected oil coolers if they are punctured, the aircraft will leak oil until depleted eventually causing the engine to seize up.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -99,7 +99,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 * 1 x 7.62 mm Browning machine gun, nose-mounted (500 rpg)
 * 2 x 7.62 mm Browning machine guns, wing-mounted (500 rpg = 1,000 total)
 
-Armament weaknesses found in the [[P-36A]] were addressed when outfitting the [[P-36C]] fighter, as the armament of a single 12.7 mm and 7.62 mm machine gun was found lacking. While the engine cowling was already crowded and no more machine guns could be centrally mounted which required wing modifications to install two more 7.62 machine guns, one in each wing. For this aircraft, two machine guns are mounted in the engine cowl and fire through the propeller arc while the other two are mounted one in each wing. Due to the wing-mounted machine guns, convergence is a factor to deal with with the optimal range being 100 - 200 m, anything beyond this will still work, however, the bullets significantly start losing their punch. The increase in armament increased the damage output ability of the fighter, however, the next generation P-36, the [[P-36G]] increased the deadliness of the fighter by adding two more wing-mounted machine guns for a total of six guns. Options in ammunition will allow the pilot to select the type best suited for their mission whether it be as an interceptor, ground target hunter or a stealthy pouncer.
+Armament weaknesses found in the [[P-36A]] were addressed when outfitting the [[P-36C]] fighter, as the armament of a single 12.7 mm and 7.62 mm machine gun was found lacking. While the engine cowling was already crowded and no more machine guns could be centrally mounted which required wing modifications to install two more 7.62 machine guns, one in each wing. For this aircraft, two machine guns are mounted in the engine cowl and fire through the propeller arc while the other two are mounted one in each wing. Due to the wing-mounted machine guns, convergence is a factor to deal with with the optimal range being 100 - 200 m, anything beyond this will still work, however, the bullets significantly start losing their punch. The increase in armament increased the damage output ability of the fighter, however, the next generation P-36, the [[P-36G]] increased the deadliness of the fighter by adding two more wing-mounted machine guns for a total of six guns. Options in ammunition will allow the pilot to select the type best suited for their mission whether it be as an interceptor, ground target hunter, or a stealthy pouncer.
 
 ;Option 1 Configuration (optimal 200 - 400 m convergence)
 
@@ -108,6 +108,7 @@ Armament weaknesses found in the [[P-36A]] were addressed when outfitting the [[
 * The use of ground target rounds gives you access to hard-hitting ammunition rounds with tracers to help guide in the rounds, however, the 7.62 mm should be set up with stealth rounds as providing a good mix of armour-piercing and incendiary rounds without the tell-tale tracers. Without the tell-tale show of tracers flying by, the pilot of the aircraft may assume a weakly armed aircraft is on their tail with intermittent tracers from the 12.7 mm machine gun. This can be a huge advantage for the attacking aircraft by sneaking in a large amount of lead and incendiaries while still having the ability to walk in the shots with the tracers (especially helpful in realistic and simulator battles where the aiming helper is not available for use).
 
 ==== 12.7 mm ammunition ====
+
 * '''Default:''' {{Annotation|T|M1 tracer}}{{-}}{{Annotation|Ball|M2 Omni-purpose}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}
 * '''Universal:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|T|M1 tracer}}{{-}}{{Annotation|I|M1 incendiary}}
 * '''Ground targets:''' {{Annotation|T|M1 tracer}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|AP|M2 armour-piercing}}
@@ -115,6 +116,7 @@ Armament weaknesses found in the [[P-36A]] were addressed when outfitting the [[
 * '''Stealth:''' {{Annotation|AP|M2 armour-piercing}}{{-}}{{Annotation|I|M1 incendiary}}{{-}}{{Annotation|AP|M2 armour-piercing}}
 
 ==== 7.62 mm ammunition ====
+
 * '''Default:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|Ball|Omni-purpose}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}
 * '''Universal:''' {{Annotation|T|Tracer}}{{-}}{{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|I|Incendiary}}
 * '''Tracers:''' {{Annotation|AP|Armour-piercing}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|T|Tracer}}{{-}}{{Annotation|T|Tracer}}
@@ -124,11 +126,11 @@ This aircraft does not have the option to select any additional suspended armame
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Energy retention lends this fighter to be a great zoomer, dropping in for a shot and then speeding back up to regain the energy advantage. With this aircraft having such a low stall speed; it makes a great fighter to practice Rope-a-dope energy depletion manoeuvres. This requires the P-36 pilot to bait another fighter into following them in a climb, as the attacker attempts to get guns on, the P-36 pilot can start to spiral climb which will cause the attacking aircraft to pull a tighter circle haemorrhaging their energy. If done correctly, the attacking fighter will stall out and be completely helpless as they begin to fall back to the ground allowing the P-36 to roll over or Split-S and take out the stalled fighter below.
+Energy retention lends this fighter to be a great boom and zoomer, dropping in for a shot and then speeding back up to regain the energy advantage. With this aircraft having such a low stall speed; it makes a great fighter to practice Rope-a-dope energy depletion manoeuvres. This requires the P-36 pilot to bait another fighter into following them in a climb, as the attacker attempts to get guns on, the P-36 pilot can start to spiral climb which will cause the attacking aircraft to pull a tighter circle haemorrhaging their energy. If done correctly, the attacking fighter will stall out and be completely helpless as they begin to fall back to the ground allowing the P-36 to roll over or Split-S and take out the stalled fighter below.
 
-Most fighters are typically only good at one thing whether its turning, speed or weapon systems, however, the P-36 is good at two, speeding and turning. This fighter has the ability to not only zoom attack but can also turn fight competitively with most other aircraft. There are few aircraft (notably the A6M Zero fighters of the Imperial Japanese Navy) which may outshine while turning, however, when utilizing flaps and rudder while turning, the P-36 can manoeuvre into some tight turns and allow guns to get on target.
+Most fighters are typically only good at one thing whether it's turning, speed, or weapon systems, however, the P-36 is good at two, speeding and turning. This fighter has the ability to not only boom and zoom attack but can also turn fight competitively with most other aircraft. There are few aircraft (notably the A6M Zero fighters of the Imperial Japanese Navy) that outshine while turning, however, when utilizing flaps and rudder while turning, the P-36 can manoeuvre into some tight turns and allow guns to get on target.
 
-Even with all of its power and mobility, the P-36 is a relatively fragile aircraft. Without much armour on the aircraft, many of its critical systems are exposed and it will not take much even from lower calibre machine guns to cause fuel fires, oil leaks and the engine shutdowns, not to mention a knocked out pilot. Situational awareness is critical to potentially know not only where the targets are, but also the enemy aircraft which are manoeuvring into position and ready to pounce. The weakness of only having four machine guns will require the pilot to get in close (50 – 200 m) to make the most of their shots as anywhere past 150 m, bullet penetration drops off considerably.
+Even with all of its power and mobility, the P-36 is a relatively fragile aircraft. Without much armour on the aircraft, many of its critical systems are exposed and it will not take much even from lower calibre machine guns to cause fuel fires, oil leaks, and the engine shutdowns, not to mention a knocked-out pilot. Situational awareness is critical to potentially know not only where the targets are, but also the enemy aircraft which are manoeuvring into position and ready to pounce. The weakness of only having four machine guns will require the pilot to get in close (50 – 200 m) to make the most of their shots as anywhere past 150 m, bullet penetration drops off considerably.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -174,6 +176,7 @@ Even with all of its power and mobility, the P-36 is a relatively fragile aircra
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p-36c_rb Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -201,6 +204,7 @@ Even with all of its power and mobility, the P-36 is a relatively fragile aircra
 * [http://www.wwiiaircraftperformance.org/P-36/P-36_Operation_and_Flight_Instruction.pdf Technical Order 01-25CB-1 - Handbook of Operation and Flight Instructions for the Models P-26A and P-26C Pursuit Airplanes]
 
 === References ===
+
 ;Citations
 <references>
 <ref name="JoeB">Baugher, Joe (1999)</ref>

@@ -98,7 +98,7 @@ The two machine guns on the M24 Chaffee are the [[M2HB (12.7 mm)|.50 cal M2HB]] 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 1,000 (200) || 577 || -10°/+70° || ±60°
+| Pintle || 400 (200) || 575 || -10°/+70° || ±60°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -107,7 +107,7 @@ The two machine guns on the M24 Chaffee are the [[M2HB (12.7 mm)|.50 cal M2HB]] 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,000 (250) || 500 || N/A || N/A
+| Coaxial || 3,750 (250) || 500 || - || -
 |-
 |}
 

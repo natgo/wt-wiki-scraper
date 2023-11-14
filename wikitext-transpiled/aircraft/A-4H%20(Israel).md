@@ -130,12 +130,59 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|SAMP Mk 81 (250 lb)|SAMP Mk 82 (500 lb)|SAMP Mk 82 250 Snakeye (500 lb)|SAMP Mk 83 (1,000 lb)|LDGP Mk 84 (2,000 lb)}}
-{{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)}}
-{{main|Mk 77 mod 4 incendiary|FFAR Mighty Mouse|Zuni Mk32 Mod 0 ATAP|Mk 11 mod 5 (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-4E_Early.png]]</div>
+|-
+! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
+| || 1 || 1 || 1 ||
+|-
+! [[100/50 kg G.P. (100 kg)|100/50 kg G.P.]] bombs
+| 1 || 6 || 6 || 6 || 1
+|-
+! [[SAMP Mk 81 (250 lb)|250 lb SAMP Mk 81]] bombs
+| 1 || 6 || 6 || 6 || 1
+|-
+! [[250/50 kg G.P. (250 kg)|250/50 kg G.P.]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[360/50 kg G.P. (360 kg)|360/50 kg G.P.]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[SAMP Mk 82 250 Snakeye (500 lb)|500 lb SAMP Mk 82 250 Snakeye]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[SAMP Mk 82 (500 lb)|500 lb SAMP Mk 82]] bombs
+| 1 || 3 || 6 || 3 || 1
+|-
+! [[500/50 kg G.P. (500 kg)|500/50 kg G.P.]] bombs
+| || 1 || 1 || 1 ||
+|-
+! [[SAMP Mk 83 (1,000 lb)|1,000 lb SAMP Mk 83]] bombs
+| || 1 || 3 || 1 ||
+|-
+! [[LDGP Mk 84 (2,000 lb)|2,000 lb LDGP Mk 84]] bombs
+| || || 1 || ||
+|-
+! [[Mk 77 mod 4 incendiary]] bombs
+| 1 || 2 || 3 || 2 || 1
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 38 || 57 || 38 || 19
+|-
+! [[Zuni Mk32 Mod 0 ATAP]] rockets
+| 4 || 8 || 12 || 8 || 4
+|-
+| colspan="6" | Maximum permissible loadout weight: 3,720 kg<br>Maximum permissible wing load: 1,860 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 171 x FFAR Mighty Mouse rockets
 * 36 x Zuni Mk32 Mod 0 ATAP rockets
@@ -147,55 +194,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 14 x 500 lb SAMP Mk 82 250 Snakeye bombs (7,000 lb total)
 * 9 x Mk 77 mod 4 incendiary bombs
 * 3 x 20 mm Mk 11 mod 5 cannons (750 rpg = 2,250 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_A-4E_Early.png]]</div>
-|-
-! 20 mm Mk 11 mod 5 cannons (750 rpg)
-| || 1 || 1 || 1 ||
-|-
-! 100/50 kg G.P. bombs
-| 1 || 6 || 6 || 6 || 1
-|-
-! 250 lb SAMP Mk 81 bombs
-| 1 || 6 || 6 || 6 || 1
-|-
-! 250/50 kg G.P. bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 360/50 kg G.P. bombs
-| || 1 || 1 || 1 ||
-|-
-! 500 lb SAMP Mk 82 250 Snakeye bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 500 lb SAMP Mk 82 bombs
-| 1 || 3 || 6 || 3 || 1
-|-
-! 500/50 kg G.P. bombs
-| || 1 || 1 || 1 ||
-|-
-! 1,000 lb SAMP Mk 83 bombs
-| || 1 || 3 || 1 ||
-|-
-! 2,000 lb LDGP Mk 84 bombs
-| || || 1 || ||
-|-
-! Mk 77 mod 4 incendiary bombs
-| 1 || 2 || 3 || 2 || 1
-|-
-! FFAR Mighty Mouse rockets
-| 19 || 38 || 57 || 38 || 19
-|-
-! Zuni Mk32 Mod 0 ATAP rockets
-| 4 || 8 || 12 || 8 || 4
-|-
-| colspan="6" | Maximum permissible loadout weight: 3,720 kg<br>Maximum permissible wing load: 1,860 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

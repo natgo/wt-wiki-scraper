@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+Due to its late introduction in 1946, the La-9 was already obsolete, along with its long-range variant [[La-11 (China)|La-11]]. However, while they would have to compete with the dawn of the jet fighters, Lavochkins were still considered an economic alternative for countries which needed to expand their air forces quickly. One such user was the PLAAF. As the aviation forces of the PLA (being officially established on 11th November 1949) only consisted of less than 20 fighters, most of which were captured aircraft from the ROCAF, there was a dire need to establish more fighter regiments against ROCAF air raids. A deal for 120 fighters was set in August 1949 and these aircraft soon joined the PLAAF and PVAF during the Korean War. They would soon be phased out by the MiG-15bis, leaving them as a trainer aircraft for PLAAF pilots before they hop into the latest jet fighters, sometimes also being used as attackers against insurgents at different locations over Mainland China.
+
+Introduced in [[Update 1.91 "Night Vision"]] along with the initial Chinese aviation tree, the La-9 retains all the features of its Soviet counterpart. While it will face late WWII jets and has an air-cooled engine that doesn't perform well in high-altitude operations, if any fighters are lured below La-9 by teammates, it can be utilized well to chase off and take down these targets with its four devastating 23 mm autocannons.
 
 == General info ==
 === Flight performance ===
@@ -176,7 +178,7 @@ A less nimble plane (Fw 190, Bf 109 K, F7F, etc.) should, once above 4,000 m hol
 | Not controllable || Controllable<br>Not auto controlled || Controllable<br>Not auto controlled || Controllable<br>Not auto controlled || Separate || Controllable<br>2 gears || Not controllable
 |-
 |}
-When using MEC, switching to the 2nd Supercharger gear at around 3,000 m altitude is recommended. WEP does not work when in this gear above 3 km, it is simply the greyed out WEP. 
+When using MEC, switching to the 2nd Supercharger gear at around 3,000 m altitude is recommended. WEP does not work when in this gear above 3 km, it is simply the greyed out WEP.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

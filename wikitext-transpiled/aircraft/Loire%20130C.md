@@ -8,6 +8,7 @@
 The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} French bomber {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]] as a ship-launched reconnaissance aircraft.
 
 '''Ships that carry the {{PAGENAME}}:'''
+
 * {{Specs-Link|fr_cruiser_suffren_class_colbert}}
 * {{Specs-Link|fr_cruiser_suffren_class_dupleix}}
 
@@ -15,7 +16,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} French bomber {{Battle-ra
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+The Loire 130C has the agility of a small fighter while having the physique of a small bomber. It is important to note that despite this plane being a scout aircraft it is fully capable of defending itself from other aircraft. However, it is not capable of taking on enemy fighters in a dogfight.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -28,10 +29,10 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} French bomber {{Battle-ra
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 223 || 207 || rowspan="2" | {{Specs|ceiling}} || 13.5 || 14.6 || __._ || __._ || rowspan="2" | ___
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 242 || 206 || __._ || __._ || __._ || __._
 |-
 |}
 
@@ -74,6 +75,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} French bomber {{Battle-ra
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+
 ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
 
 === Modifications and economy ===
@@ -109,9 +111,11 @@ The '''''{{PAGENAME}}''''' is defended by:
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -127,6 +131,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -135,6 +140,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

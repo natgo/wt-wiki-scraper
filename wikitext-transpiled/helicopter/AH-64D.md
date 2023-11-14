@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+Following studies done in the late 1980's on the AH-64A/B Apache, and funding in 1991, the US army began to look at upgrading their existing fleet of aircraft, leading to the AH-64B+ and the subsequent '''{{Specs|name}}''' "Apache Longbow". Featuring the newer AN/APG-78 "Longbow" mast-mounted fire control radar (FCR) as well as upgraded avionics and weaponry, the '''{{Specs|name}}''' is a formidable attack helicopter and successor to the AH-64A. 
+
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. Although lacking the AIM-9Ls found on its predecessor, the '''{{Specs|name}}''' can carry up to 16 AGM-111K Hellfire II missiles. 
 
 == General info ==
 === Flight performance ===
@@ -190,11 +192,26 @@ Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cov
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The '''AH-64D Apache Longbow''' is an improved version of the AH-64A Apache. The AH-64B was not a production designation but instead was a proposed designation, and the AH-64C was later redesignated to the AH-64D because of their similarity. As such, the AH-64D was the second US Army production Apache variant.
+The '''AH-64D Apache Longbow''' (aka. Longbow Apache) is an improved version of the AH-64A/B Apache (the AH-64B was not a production designation but instead was a proposed designation), with new and upgraded avionics and weaponry.<ref name=":0">(Ian and Seabridge 345)</ref> The aircraft is powered by two T700-GE-701C engines and features many of the integrated target acquisition and designator sights as its predecessor.
 
-The US Army began to draft plans to upgrade the existing AH-64A Apache fleet in the late 1980s. The upgrade centered around the Northrop Grumman APG-78 Longbow millimetric-wavelength fire-control radar. McDonnell Douglas converted four AH-64As in 1992 as a proof of concept. After this, production of the AH-64D, the designation for the upgraded AH-64As, began. The Longbow radar is mast-mounted, and it allows the usage of AGM-114L Hellfire 2 anti-tank guided missiles. Previous Hellfire variants required a continuous line-of-sight for the laser designator, while the Hellfire 2 has fire-and-forget capability. The APG-78 Longbow radar can also detect, classify, and prioritize twelve targets at once. It can "see" through fog and smoke, which can prevent the operation of infrared or TV systems.
+'''Design and Development'''[[File:US Army AH-64D.jpg|thumb|330x202px|An AH-64D tests the AGM-179 JAGM at the Yuma Proving Ground.]]
 
-Additionally, the AH-64D features improved electronics and avionics. The landing gear fairings are extended forward in order to accommodate more equipment, and the forward avionics bay has been expanded to incorporate more equipment as well. In 1999, the US Army ordered 530 AH-64A Apaches to be upgraded to the AH-64D variant. The AH-64D entered service in 1995. The AH-64D is in service with the United States, the United Kingdom, Israel, and the Netherlands.
+In the late 1980s, studies were underway to upgrade the AH-64A/B. The US Army began to draft plans to upgrade the fleet, with upgrades centered around the new Northrop Grumman mast-mounted fire control radar (FCR) designated AN/APG-78, more commonly known as the Longbow fire control radar.<ref name=":0" /> With funding beginning in 1991, McDonnell Douglas converted four AH-64As in 1992 as a proof of concept. After this, production of the AH-64D and remanufacture of the original 64A/B versions, began. The US Army intended to procure a total of 227 AH-64Ds fitted with the AN/APG-78 "Longbow" FCR, and 531 of the 64C variant, which did not include the FCR but included all other avionic modifications.<ref name=":0" /> However, the C designation was dropped in 1993, as the radar could be moved from one aircraft to another, and the decision was made to designate both versions as the AH-64D.
+
+The Longbow is a mast-mounted fire control radar (FCR) designated AN/APG-78. The FCR is a multimode millimetric wave (MMW) radar<ref name=":0" /> and it allows the usage of AGM-114L/K Hellfire 2 anti-tank guided missiles. Compared to previous Hellfire variants that required a continuous line-of-sight for the laser designator, the Hellfire 2 has fire-and-forget capability. The Longbow has four modes of operation, air-targeting mode, ground-targeting mode, terrain-profiling mode and a fourth monitoring mode that isolates electronic failures for maintenance and testing.<ref name=":0" /><ref name=":1">(Ian and Seabridge 346)</ref>
+
+The AH-64D also features improved electronics and avionics, including improved GPS, a new radio-frequency interferometer (RFI) - the AN/APR-48A, and improved Doppler velocity rate sensor. The RFI is used to monitor and identify threat radars and also when threat emitters are tracking the helicopter.<ref name=":1" /> In addition, the landing gear fairings and forward avionics bay are extended forward in order to accommodate the extra equipment. On each side of the cockpit, the new avionics are hosted in extended forward avionic bays (EFABs).<ref name=":2">(Ian and Seabridge 347)</ref> The Longbow can also detect, classify, and track up to 128 targets simultaneously, engaging up to 16 at once. It can "see" through fog and smoke, which can prevent the operation of infrared or TV systems.
+
+'''Operational History'''
+
+Originally entering service in 1995, the US Army ordered 530 more AH-64A/B variants to be upgraded to the AH-64D variant in 1999. Other nations that had purchased or shown an interest in the Longbow Apache (new and/or upgraded 64A/Bs) are: the United Kingdom, the Netherlands, Singapore, Israel, Egypt and Kuwait.<ref name=":0" /> The AH-64D is in service with the United States, the United Kingdom, Egypt, Greece, Kuwait, Singapore, the UAE, Israel, and the Netherlands. 
+
+The Longbow Apache is flown by a two-person crew composed of a pilot and copilot gunner (CPG) and is capable of carrying the following weapons:<ref name=":3">(Ian and Seabridge 349)</ref>
+* Up to 16 AGM-114 Hellfire missiles (the 111K variant was used with dual seeker capability: pulsed radar or semi-active laser guidance with a range of >8km (5 miles).
+* Hydra 70 rocket pod 
+* M 320 30mm 'chain gun' that could be slaved to the pilot/CPG's helmet sight
+
+Although there have been test firings of AIM-9 Sidewinders, AIM-28 stingers, and British Starstreaks, none have seen operational service. <ref name=":3" />
 
 === [[wt:en/news/6638-development-ah-64-apache-the-rotary-chieftain-en|Devblog]] ===
 In the early 1970s, the US Army was keen to adopt a more powerful attack helicopter, with improved anti-tank capabilities and performance over the existing AH-1 Cobra in service at the time. As a result, the Army initiated the "Advanced Attack Helicopter" (AAH) program in November of 1972, requesting design proposals from a number of prominent American helicopter manufacturers.
@@ -250,6 +267,15 @@ File:AH-64D (6).jpg|
 * [https://asc.army.mil/web/portfolio-item/aviation_apache-ah-64e/ <nowiki>[US Army]</nowiki> Apache Attack Helicopter AH-64D/E]
 * [http://www.military-today.com/helicopters/boeing_ah64d_longbow.htm <nowiki>[Military Today]</nowiki> Boeing AH-64D Longbow Apache]
 * [https://www.army-technology.com/projects/apache/ <nowiki>[Army Technology]</nowiki> Apache Attack Helicopter (AH-64A/D)]
+
+=== References ===
+
+;Citations
+<references />
+
+;Bibliography
+
+* Moir, Ian, and Allan Seabridge. ''Military Avionics Systems''. Wiley, 2006.
 
 {{AirManufacturer Boeing}}
 {{USA helicopters}}

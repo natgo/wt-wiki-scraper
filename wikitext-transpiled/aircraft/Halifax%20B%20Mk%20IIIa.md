@@ -84,13 +84,15 @@ The Halifax is an interesting member of the British bomber line. It is the first
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. 1,000 lb Mk.I (1,000 lb)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|S.A.P. Mk.II (500 lb)|M.C. Mk.I (1,000 lb)|A.P. Mk.I (2,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 15 x 250 lb G.P. Mk.IV bombs (3,750 lb total)
 * 15 x 500 lb G.P. Mk.IV bombs (7,500 lb total)
-* 9 x 1,000 lb M.C. 1,000 lb Mk.I bombs + 6 x 500 lb G.P. Mk.IV bombs (12,000 lb total)
+* 15 x 500 lb S.A.P. Mk.II bombs (7,500 lb total)
+* 9 x 1,000 lb M.C. Mk.I bombs + 6 x 500 lb G.P. Mk.IV bombs (12,000 lb total)
+* 4 x 2,000 lb A.P. Mk.I bombs (8,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

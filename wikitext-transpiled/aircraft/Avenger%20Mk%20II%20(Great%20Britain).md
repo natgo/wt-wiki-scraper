@@ -117,7 +117,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M64A1 (500 lb)|AN-Mk 1 (1,600 lb)|AN-M66A2 (2,000 lb)}}
+{{main|AN-M64A1 (500 lb)|A.P. AN-MK 33 (1,000 lb)|AN-Mk 1 (1,600 lb)|AN-M66A2 (2,000 lb)}}
 {{main|Uncle Tom|Mk.13-6 (2,216 lb)|Mk.13-6 Case (2,216 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
@@ -128,6 +128,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x Uncle Tom rockets
 * 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
 * 1 x 1,600 lb AN-Mk 1 bomb (1,600 lb total)
+* 2 x 1,000 lb A.P. AN-MK 33 bombs (2,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

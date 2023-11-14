@@ -133,7 +133,6 @@ The tank is best played as a support tank in conjunction with the rest of your t
 * The dozer blade in front it can provide additional utility, especially to protect the lower glacis
 * Composite side skirts help to survive light tank ambushes, very useful in the close range combat, especially in urban warfare
 * Acceptable reload time, especially when compared to the [[FV4005]]
-* Can help repair teammates, regardless of them being in your squad  - this is because the AVRE is a Royal Engineers vehicle
 * Good reverse speed
 * Smoke grenade can be released twice
 * A five-man crew, unlike other Centurion designs

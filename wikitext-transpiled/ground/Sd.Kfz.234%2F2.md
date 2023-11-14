@@ -137,27 +137,26 @@ Shermans also present the problem of sloped frontal armour. The M4A1 isn't as mu
 
 '''Pros:'''
 
-* The gun is powerful, fast to reload, and can effectively penetrate armour on the M4's front at 200 m. Its APCR has a penetration of up to 128 mm, which is effective against  KV-1
+* The gun is powerful, fast to reload, and can effectively penetrate armour on the M4's front at 200 m. Its APCR has a penetration of up to 137 mm, which is effective against KV-1
 * Extremely high forward and reverse speeds make it the fastest vehicle on the road; can get to positions quickly or retreat fast
 * Small and narrow frontal profile allows it to hide behind small bushes or rocks; it's also harder to get hit
 * Can be a great scout vehicle in higher ranks due to its fast speed. Even the [[M18 GMC]] cannot easily outrun it
 * Only 8 mm side armour, meaning some shells will go straight through without being detonated
 * Has a wide range of good-looking camouflage to unlock. Suitable for almost every terrain/map
-* Has 6 smoke grenades that create a wide frontal screen when launched; very useful when trying to cover up a general area
+* Has 6 smoke grenades, that create a wide frontal screen when launched; very useful when trying to cover up a general area
 * Surprisingly durable at times, due to inexperienced players shooting at the front, ignoring the crew member lying in the back
 * Gun mantlet is thick and covers most of the turret, which makes the turret surprisingly durable
 
 '''Cons:'''
 
 * Thin armour overall, can get killed by almost anything including artillery strikes, strafing planes and [[M2 Browning (12.7 mm)|.50 cal M2 Browning]]
+* Vulnerable to overpressure (HE shells, artillery strikes, bombs, and rockets)
+* Compact crew compartment, will be easily destroyed in one shot
 * Relatively slow turret rotation, combined with the sharp turns at high speed, it is hard to aim
 * Relatively low calibre shells tend to bounce off angled armour, angled hull of the [[T-34 (Family)|T-34]] is almost impossible to penetrate
-* Compact crew compartment, will be easily destroyed in one shot
 * Starts to snake around at high speeds, making it hard to control, needing counter-steering.
 * Sluggish mobility on snowy and desert maps, which takes away its mobility advantage
 * Cannot turn in place due to wheels
-* Smoke grenades can only be launched all at once, which limits its effectiveness
-* Vulnerable to overpressure (HE shells, artillery strikes, bombs, and rockets)
 * Hard to control at top speed
 
 == History ==

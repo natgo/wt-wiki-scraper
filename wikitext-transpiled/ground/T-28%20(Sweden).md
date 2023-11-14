@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+A total of seven T-28s were captured by the Finnish from the Soviet Union during the Winter War and Continuation War. The seven T-28s captured were the only ones able to move on their own power due to lacking of tractors able to tow these vehicles, so most other T-28s were looted of anything with value that could be useful for the Finnish.
 
-This T-28 represents those captured by Finland during the Winter War and WWII. It is identical in performance to the Soviet [[T-28]].
+The '''{{Specs|name}}''' was introduced in [[Update "Fire and Ice"]] for the Swedish tech tree as an early medium tank. It is identical in performance to the Soviet [[T-28]] but starts with the worse Sh-354T shrapnel shells giving it a limited penetration ability until the better BR-305A APHE rounds are unlocked. The T-28 is overall a great vehicle, with fairly large crew making them more survivable to automatic cannon fire, but due to the crew being in relatively close proximity, they are vulnerable to larger calibre fire like the 75 mm that can be found on the [[M3 Lee]] and the short barrel [[Pz.IV F1]].
 
 == General info ==
 === Survivability and armour ===

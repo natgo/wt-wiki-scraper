@@ -94,9 +94,8 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Japanese battlecruiser {{
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+
+* [[wt:en/news/8488-development-tokushu-heiki-battlecruiser-kurama-en|[Devblog] Tokushu Heiki: Battlecruiser Kurama]]
 
 {{ShipManufacturer Yokosuka Naval Arsenal}}
 {{Japan battlecruisers}}

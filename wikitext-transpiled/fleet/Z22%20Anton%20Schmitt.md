@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German destroyer {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]] as part of the fleet closed beta test.
+The '''{{Specs|name}}''' was a German [[Type 1936 (Family)|Type 1936]] destroyer built as last ship of the class. The Z22 was laid down on 3rd January 1938 and commissioned on 24th September 1939. Her main armament was made up of five 12.8 cm/45 SK C/34 guns in single mounts with two on bow and three aft. Anti-aircraft protection was supplied by a pair of twin 3.7 cm SK C/30 cannons abreast the rear funnel. These were complemented by five single-mounted 2 cm/65 C/38 autocannons and a single quadruple 2 cm/65 Flakvierling 38. The Z22 was armed with two quadruple 533 mm torpedo launchers located amidships and G7a torpedoes. On 10th January, Z22 and her sister ships laid a minefield off Newcastle. The minefield only claimed a single fishing trawler. On 6th April 1940, she, together with her sisters, was tasked with landing troops at the port of Narvik and capturing it. Upon arrival on the morning of 9th April, Z22 and her sister Z18 Hans Lüdemann landed troops at the Ramnes narrows to search for coastal artillery positions that the Germans mistakenly thought were present there. Z17 Dietrich von Roeder remained offshore to provide support if necessary and as a picket ship in case of British attack. Around 11:00, the troops were ordered to board the destroyers again and proceed to Narvik. The following night, Z22 was on picket duty and then sailed into Narvik harbour. Shortly after dawn on 10th April, a group of five British H-class destroyers appeared, surprising the Germans. HMS Hunter hit Z22 with a torpedo in the forward engine room. Z22 started to take water and list to side. HMS Havoc fired another torpedo that hit Z22 amidships and broke her in half, killing or wounding 50 men. The remainder of the crew joined the ad-hoc infantry unit made on shore.
 
-The Z22 Anton Schmitt is one of the 6 Type 1936 destroyers built for the German Kriegsmarine between 1936 and 1938. Out of the six ships in the class, only the Z20 Karl Galster survived until the end of the war, all remaining units were lost during the Invasion of Norway in 1940.
+The Z22 Anton Schmitt was introduced in [[Update 1.79 "Project X"]] as part of the fleet closed beta test. The Z22 follows the pattern of other German destroyers with high top speed, quick-reloading guns, and decent torpedo armament. As with other ships of her class, the main disadvantage is the low main calibre ammo count with only 120 rounds per gun. The 3.7 cm guns are also very ineffective in their anti-air duty due to their very low fire rate of 30 rounds per minute. Her unprotected magazines on waterline are vulnerable to fatal explosion when hit. The Z22 on the other hand profits from her torpedo armament allowing to range torpedoes not equipped with torpedo mode on ranges of up to 6 km and then safely retreat utilizing her max speed of 71 km/h.
 
 == General info ==
 === Survivability and armour ===
@@ -75,7 +75,7 @@ The Z22 Anton Schmitt can be played as a brawler utilizing its superior rate of 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-'''Pros:''' 
+'''Pros:'''
 
 * High rate of fire
 * High crew complement

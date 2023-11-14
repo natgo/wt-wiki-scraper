@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced during [[Update 1.69 "Regia Aeronautica"]] in the [[wt:en/news/4868/current|"Operation S.U.M.M.E.R." event of 2017]] after earning 13 pilot Marks of Distinction.
+The '''{{Specs|name}}''' was a single-seat, piston-engine fighter designed by Tachikawa Aircraft Company for the Imperial Japanese Army Air Force. It was intended to intercept high-altitude B-29 bombers with a pressurized cockpit and four wing-mounted autocannons. The project started in 1943 as a revised version of the earlier Ki-94-I, which was a twin-boom push-pull design that was rejected as too complex. The Ki-94-II had a powerful Nakajima Ha-219 (Ha-44) engine and a six-blade propeller, but it never flew before the end of World War II. Only two prototypes were built, one of which was still being prepared for its maiden flight when the war ended with a four-blade propeller.
+
+It was introduced during [[Update 1.69 "Regia Aeronautica"]] in the [[wt:en/news/4868/current|"Operation S.U.M.M.E.R." event of 2017]] after earning 13 pilot Marks of Distinction. The Ki-94-II is a prop aircraft designed for bomber intercepting and high-altitude combat. It has a powerful engine, long wings, and a responsive elevator, but a poor climb rate and engine response. It should use Boom-&-Zoom tactics when above the enemy, and Boom-&-Run tactics when at the same altitude. It should avoid turning fights with Spitfires, and use flaps, elevator keys and throttle control to out-turn P-47s and P-51Ds. It should also stay near teammates and watch out for its vulnerable fuel tanks.
 
 == General info ==
 === Flight performance ===

@@ -42,6 +42,7 @@
 {{Tree-Unit|d_510c}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|II Rank}}
 |
@@ -76,6 +77,7 @@
 {{Tree-Unit|ki-45_hei_tei_china}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|III Rank}}
 |
@@ -108,6 +110,7 @@
 {{Tree-Unit|a6m2_zero_china}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}
 |
@@ -129,6 +132,7 @@
 {{Tree-Unit|ki_84_ko_china}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|V Rank}}
 |
@@ -162,6 +166,7 @@
 {{Tree-Unit|f-84g-31-re_china}}
 {{Tree-Skip}}
 |
+{{Tree-Skip}}
 
 {{Tree-Line|VI Rank}}
 |
@@ -188,6 +193,7 @@
 {{Tree-Unit|a_5c}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|f_100f_china}}
 
 {{Tree-Line|VII Rank}}
 |
@@ -206,6 +212,7 @@
 {{Tree-Arrow}}
 |
 {{Tree-Unit|q_5l}}
+{{Tree-Arrow|1}}
 |
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|j_7d}}
@@ -219,6 +226,7 @@
 {{Tree-Unit|j_8f}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|jh_7a}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

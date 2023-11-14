@@ -116,7 +116,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)}}
+{{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-M66A2 (2,000 lb)}}
+{{main|AN-Mk 1 (1,600 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -124,6 +125,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 12 x 100 lb AN-M30A1 bombs (1,200 lb total)
 * 8 x 250 lb AN-M57 bombs (2,000 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
+* 2 x 1,600 lb AN-Mk 1 bombs (3,200 lb total)
+* 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

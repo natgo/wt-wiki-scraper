@@ -171,7 +171,7 @@ If you are flying an interceptor/heavy fighter with great firepower and/or prote
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-Although historically Sino-Russian relations (ROC and USSR at the time) were not good, right after the invasion of Japanese, on 21st August 1937, the Sino-Soviet Non-Aggression Pact (中蘇互不侵犯條約) was signed for supplies of weaponry from the Soviet Union; the Tupolev SB bombers were among the equipment received. The first batches of them were received in Lanzhou (蘭州, now the capital of Gansu Province) by the 1st Squadron, National Revolutionary Air Force (later ROCAF); these bombers were used in the first bombing operations against the Japanese in early 1938 along with Soviet Voluntary Air Force on Taipei's Songshan Airfield. There were also later deliveries to the NRAF in 1939 and 1940 which joined some of the major battles against Japanese forces. Spare parts for the SB also became the basis for the "XB-3" (轟研三式轟炸機) domestic design, but structural issues hindered further development.
+The SB2M entered service in 1934 and was used as a bomber in multiple conflicts. Although historically Sino-Russian relations (ROC and USSR at the time) were not good, right after the invasion of Japanese, on 21st August 1937, the Sino-Soviet Non-Aggression Pact (中蘇互不侵犯條約) was signed for supplies of weaponry from the Soviet Union; the Tupolev SB bombers were among the equipment received. The first batches of them were received in Lanzhou (蘭州, now the capital of Gansu Province) by the 1st Squadron, National Revolutionary Air Force (later ROCAF); these bombers were used in the first bombing operations against the Japanese in early 1938 along with Soviet Voluntary Air Force on Taipei's Songshan Airfield. There were also later deliveries to the NRAF in 1939 and 1940 which joined some of the major battles against Japanese forces. Spare parts for the SB also became the basis for the "XB-3" (轟研三式轟炸機) domestic design, but structural issues hindered further development.
 
 After the introduction of [[B-25J-30 (China)|B-25]] to NRAF in 1943, the SB bombers were soon phased.
 
@@ -179,6 +179,7 @@ After the introduction of [[B-25J-30 (China)|B-25]] to NRAF in 1943, the SB bomb
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sb_2m_103u_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -197,6 +198,7 @@ After the introduction of [[B-25J-30 (China)|B-25]] to NRAF in 1943, the SB bomb
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian SPAA {{Battle-rating}} in the Italian research tree. It was introduced in [[Update "Sons of Attila"]] as part of the Hungarian subtree of the Italian tech tree.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian SPAA {{Battle-rating}} in the Italian research tree. It was introduced in [[Update "Sons of Attila"]] as part of the Hungarian subtree of the Italian tech tree. After the introduction of the ZSU-57-2 in the Soviet Army, Hungary, Bulgaria, and Romania each acquired ZSU-57-2s as well, being members of the Warsaw Pact. This Self propelled Anti-Air vehicle would be built on a heavily-modified T-54 chassis, the ZSU-57-2 features two powerful 57 mm anti air cannons. This armament is easily able to make short work of both air and ground targets alike. They're very fast-firing and have access to some different munition options. For being based on the old T-54 tank, it does have good mobility, however its main drawback is its very light armour. This means that if a player chooses to play aggressively, you won't have many chances to get away from an engagement once spotted. Its just too big for a player to conceal, as such if a player would like to play aggressively try stick with allies when possible. The ZSU-57-2 has proven to be more of a menace to ground vehicles than aircraft with its high-velocity cannons, but low sustained rate of fire and poor accuracy. Overall, keep in mind of your weaknesses when playing this vehicle because you usually won't be forgiven like more armoured armoured fighting vehicles.
 
 == General info ==
 === Survivability and armour ===
@@ -87,7 +87,7 @@ This shell also performs alright in the AA role, since its calibre is quite larg
 {{:S-68 (57 mm)/Ammunition|BR-281SP, OR-281U, BR-281U}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+[[File:Ammoracks_ZSU-57-2.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -154,6 +154,7 @@ Using the 57 mm cannons in an anti-tank role is possible and have been exploited
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[ZSU-57-2 (Family)]]
 
 == External links ==

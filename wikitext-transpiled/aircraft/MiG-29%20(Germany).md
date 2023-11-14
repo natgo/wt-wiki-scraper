@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-During the 1980s, the East German Air Force acquired 24 examples of the Soviet MiG-29 fighter. The specific model they acquired was the 9.12 chassis variant, lacking the upgraded fuel capacity of the [[MiG-29|9.13]] model, among other technological downgrades for export usage. These MiG-29s would be the most advanced aircraft ever operated by the East German air force, as only a few years later, Germany would be re-unified. All 24 of the German MiG-29s would be passed on to the Luftwaffe, who used them in service for over a decade after that due to their incredible performance, a rare move as a majority of the East German Soviet-built aircraft passed on to the Luftwaffe after reunification were either sold or retired almost instantly. This would prove to be vital in NATO aircraft and weapon developement, as up until that point, the MiG-29 was heavily underestimated by the Western airforces. This would all change in 1994, when a dissimilar air combat training between USAF [[F-16A]]<nowiki/>s of the 510th Fighter Squadron and Luftwaffe MiG-29s took place in a NATO airbase in Aviano, Italy. After an overwhelming victory from the German MiG-29s, utilizing the [[R-73]] and their helmet-cued targeting, the USA and the rest of the NATO countries realized that they had underestimated the MiG-29's superb performance, and quickly kickstarted developement of equivelant weapon systems (AIM-9X, ASRAAM, IRIS-T) and aircraft upgrade variants ([[F-16C]], Rafale-C, etc.) to match the MiG-29. The German MiG-29s would serve well with the Luftwaffe for over a decade with only a single aircraft lost to accidents, before being sold off in 2003 in one of the most famous arms deals in recent history, where 22 of the German MiG-29s were sold to Poland for the comical price of 1€ each (22€ total for the fleet, $26.02 USD at the time of the deal). The final remaining German MiG-29 was touched-up and restored to be displayed at the ''Luftwaffenmuseum der Bundeswehr'' in Berlin, becoming the only surviving German MiG-29 in a German livery today.
+During the 1980s, the East German Air Force acquired 24 examples of the Soviet MiG-29 fighter. The specific model they acquired was the 9.12 chassis variant, lacking the upgraded fuel capacity of the [[MiG-29|9.13]] model, among other technological downgrades for export usage. These MiG-29s would be the most advanced aircraft ever operated by the East German air force, as only a few years later, Germany would be re-unified. All 24 of the East German MiG-29s would be passed on to the Luftwaffe, who used them in service for over a decade after that due to their incredible performance, a rare move as a majority of the East German Soviet-built aircraft passed on to the Luftwaffe after reunification were either sold or retired almost instantly. This would prove to be vital in NATO aircraft and weapon development, as up until that point, the MiG-29 was heavily underestimated by the Western air forces. This would all change in 1994, when a dissimilar air combat training between USAF [[F-16A]]s of the 510th Fighter Squadron and Luftwaffe MiG-29s took place in a NATO airbase in Aviano, Italy. After an overwhelming victory from the German MiG-29s, utilizing the [[R-73]] and their helmet-cued targeting, the USA and the rest of the NATO countries realized that they had underestimated the MiG-29's superb performance, and quickly kickstarted development of equivalent weapon systems (AIM-9X, ASRAAM, IRIS-T) and aircraft upgrade variants ([[F-16C]], Rafale-C, etc.) to match the MiG-29. The German MiG-29s would serve well with the Luftwaffe for over a decade with only a single aircraft lost to accidents, before being sold off in 2003 in one of the most famous arms deals in recent history, where 22 of the German MiG-29s were sold to Poland for the comical price of 1€ each (22€ total for the fleet, $26.02 USD at the time of the deal). The final remaining German MiG-29 was touched-up and restored to be displayed at the ''Luftwaffenmuseum der Bundeswehr'' in Berlin, becoming the only surviving German MiG-29 in a German livery today.
 
-The '''{{Specs|name}}''' is a 4th generation fighter for the German tech tree, introduced in [[Update "Sky Guardians"]]. The MiG-29 9-12A (NATO reporting name: Fulcrum-A) is a specialized export variant of the MiG-29 9.12 for Warsaw Pact countries. Building upon dogfighting doctorine established with the earlier [[MiG-21MF (Germany)|MiG-21MF]] and [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]] in the tech tree, and the advanced weapon employment techniques learned with the [[MiG-23MLA (Germany)|MiG-23MLA]] that preceeds it, the MiG-29 not only builds upon the playstyles of its predecessors, but adds on to it with many new tools and weapons, such as the powerful [[R-27ER1]] missile and a HMD (Helmet Mounted Display) targeting system for its all-aspect IR missiles. In general, the MiG-29 in the German tech tree brings a formidable aircraft to that rank for Germany players, and ends up being an overall great introduction to the 4th generation fighter era for players of the German aircraft tech tree.
+The '''{{Specs|name}}''' is a 4th generation fighter for the German tech tree, introduced in [[Update "Sky Guardians"]]. The MiG-29 9-12A (NATO reporting name: Fulcrum-A) is a specialized export variant of the MiG-29 9.12 for Warsaw Pact countries. Building upon dogfighting doctrine established with the earlier [[MiG-21MF (Germany)|MiG-21MF]] and [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]] in the tech tree, and the advanced weapon employment techniques learned with the [[MiG-23MLA (Germany)|MiG-23MLA]] that precedes it, the MiG-29 not only builds upon the playstyles of its predecessors, but adds on to it with many new tools and weapons, such as the powerful [[R-27ER1]] missile and a HMD (Helmet Mounted Display) targeting system for its all-aspect IR missiles. In general, the MiG-29 in the German tech tree brings a formidable aircraft to that rank for Germany players, and ends up being an overall great introduction to the 4th generation fighter era for players of the German aircraft tech tree.
 
 == General info ==
 === Flight performance ===
@@ -33,7 +33,7 @@ The '''{{Specs|name}}''' is a 4th generation fighter for the German tech tree, i
 | 2,358 || 2,306 || rowspan="2" | {{Specs|ceiling}} || 19.9 || 20.2 || 273.5 || 259.7 || rowspan="2" | 750
 |-
 ! Upgraded
-|2,559||2,452||19.0|| 19.4 ||370.5||320.0
+| 2,559 || 2,452 || 19.0 || 19.4 || 370.5 || 320.0
 |-
 |}
 
@@ -69,7 +69,7 @@ The '''{{Specs|name}}''' is a 4th generation fighter for the German tech tree, i
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 680 || < 750 || < 700 || > ___
+| < 680 || < 750 || < 700 || -
 |-
 |}
 
@@ -83,7 +83,7 @@ The '''{{Specs|name}}''' is a 4th generation fighter for the German tech tree, i
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
 | colspan="2" | Klimov RD-33 || 2
-| colspan="2" | 10,670 kg || colspan="2" | 394 kg/m<sup>2</sup>
+| colspan="2" | 10,670 kg || colspan="2" | 377 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -111,7 +111,7 @@ The '''{{Specs|name}}''' is a 4th generation fighter for the German tech tree, i
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-The MiG has no physicaly modeled armour which has to sides: on one side your aircraft is lighter, on the other side this means that your pilot can get konocked out quite easily.
+The MiG has no armour, which has two sides: on the one hand, the aircraft is lighter; on the other hand, this means that your pilot can get knocked out quite easily.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -134,9 +134,8 @@ The MiG has no physicaly modeled armour which has to sides: on one side your air
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm GSh-30-1 cannon, wing root-mounted (150 rpg)
-** 1 x 30 mm GSh-30-1 cannon + 60 x countermeasures
+* 1 x 30 mm GSh-30-1 cannon, wing root-mounted (150 rpg)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -229,6 +228,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-End}}
 
 == Usage in battles ==
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The MiG-29 has a unique flight character, its engines consume a lot of fuel thus the external fuel tank, getting rid of the external fuel tank will reduce drag and improve the performance of the aircraft, this is mostly done before engaging a target. But the engines also provide excellent thrust at a very wide range of speeds giving you enough power to engage in long-lasting dogfights. The aircraft is not equipped with variable wing sweep, which is not very noticeable. Only when flying at high speeds at lower altitudes will you begin to notice that the wings produce much lift. The MiG-29 has decent manoeuvrability at high and low speeds, the energy retention is not something to complain about either. The 30 mm guns have a high velocity, making it easy to aim at targets, and are much better than earlier Soviet aircraft. The missiles which are the most effective are the R-60MK and R-27ER1. The R-60MK are very easy to flare off, and at its BR many people will dodge these missiles in a head-on fairly easily. But the R-27ER1 has some very effective performance, with an improved radar system this missile will rock the battlefield.
 
 '''Air combat'''
@@ -245,7 +245,7 @@ The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realisti
 
 '''Enemies worth noting'''
 
-[[F-16 (Family)|F-16 series]] : The F-16's are considered the top opponent against the MiG-29, having a equal amount of power and ability to combat you. Singularly you might have an upper hand in skill and abilities thanks to the R-27 and R-60 missiles, but beware. The moment a F-16 teams up with one another, they become a formidable and dangerous group. The more F-16's are flying as a flock the more dangerous they become. In comparison with the MiG-29: the F-16 performs better in groups, and it is that what you have to look out for. It's best to avoid engaging into a flock of F-16's, but to rather engage it from a distance (with use of R-27 missiles) or wait for the flock to fall apart. This will give you again a upper hand over the F-16 and give you the ability to combat it 1-on-1. Further than that make sure to keep an eye out for their missiles, they have an excellent medium range and can retain a IR lock very well. In addition, at high speed the F-16 is much less maneuverable than the MiG-29. When in a 1-on-1 with an F-16 it is advisable to keep your speed up - the more speed you and your opponent lose, the more maneuverable the F-16 becomes. Do not try to engage in a turning engagement with a slow F-16, as it is likely they will out turn you with its superior low-speed turn rate.
+[[F-16 (Family)|F-16 series]] : The F-16's are considered the top opponent against the MiG-29, having a equal amount of power and ability to combat you. Singularly you might have an upper hand in skill and abilities thanks to the R-27 and R-60 missiles, but beware. The moment a F-16 teams up with one another, they become a formidable and dangerous group. The more F-16's are flying as a flock the more dangerous they become. In comparison with the MiG-29: the F-16 performs better in groups, and it is that what you have to look out for. It's best to avoid engaging into a flock of F-16's, but to rather engage it from a distance (with use of R-27 missiles) or wait for the flock to fall apart. This will give you again a upper hand over the F-16 and give you the ability to combat it 1-on-1. Further than that make sure to keep an eye out for their missiles, they have an excellent medium range and can retain a IR lock very well. In addition, at high speed the F-16 is much less manoeuvrable than the MiG-29. When in a 1-on-1 with an F-16 it is advisable to keep your speed up - the more speed you and your opponent lose, the more manoeuvrable the F-16 becomes. Do not try to engage in a turning engagement with a slow F-16, as it is likely they will out turn you with its superior low-speed turn rate.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

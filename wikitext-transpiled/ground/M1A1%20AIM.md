@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-As new threat profiles emerged from the Cold War, the Australians recognized that their existing fleet of [[Centurion_Mk.5/1|Centurions]] and Leopards for the Royal Australian Armoured Corp (RAAC) was becoming obsolete in being able to protect the crew against these threats. To provide the Australian Army with the best protection capabilities against these threats and continue fighting in a combined arms fashion, the Australian government sought to replace their existing tank fleet with 59 M1A1 AIM tanks from the United States. The M1A1 AIM ("Abrams Integrated Management") are refurbished Abrams tanks with additional sensors and communication platforms for better integration with the new information space on the battlefield. The M1A1 AIM were put into service by the Australian Army by 2007.
+As new threat profiles emerged from the Cold War, the Australians recognized that their existing fleet of [[Centurion_Mk.5/1|Centurions]] and Leopards for the Royal Australian Armoured Corp (RAAC) was becoming obsolete in being able to protect the crew against these threats. To provide the Australian Army with the best protection capabilities against these threats and continue fighting in a combined arms fashion, the Australian government sought to replace their existing tank fleet with 59 M1A1 AIM tanks from the United States. The M1A1 AIM ("Abrams Integrated Management") are refurbished Abrams tanks with additional sensors and communication platforms for better integration with the new information space on the battlefield. The M1A1 AIM were put into service by the Australian Army in 2007.
 
 Introduced in [[Update "Danger Zone"]] as a squadron vehicle unlock, the M1A1 AIM presents most of the benefits of the [[M1A1 Abrams|M1A1]] tank. Players benefit from the tank's upgrade to the AIM variant, with better armour array and fire control system to allow better usage of the Abrams' great specifications. While the KE-W APFSDS round's penetration values may be lower than the M1A1's M829A1, it still packs enough power to be a threat against most targets the M1A1 AIM can be expected to face.
 
@@ -157,6 +157,7 @@ The Royal Australian Armoured Corps (RAAC) had been a long time user of European
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1a1_aim_abrams Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -165,6 +166,7 @@ The Royal Australian Armoured Corps (RAAC) had been a long time user of European
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[M1 Abrams (Family)]]
 
 == External links ==
@@ -176,3 +178,4 @@ The Royal Australian Armoured Corps (RAAC) had been a long time user of European
 
 {{USA medium tanks}}
 {{Squadron ground vehicles}}
+<references />

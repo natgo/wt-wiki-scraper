@@ -211,8 +211,10 @@
 
 {{Tree-Line|IV Rank}}
 |
+{{Tree-Unit|germ_m109g}}
+{{Tree-Arrow}}
 {{Tree-Unit|germ_le_kpz_m41}}
-{{Tree-Arrow|5}}
+{{Tree-Arrow|4}}
 |
 {{Tree-Unit|germ_pzkpfw_VI_ausf_b_tiger_IIp}}
 {{Tree-Arrow}}

@@ -13,7 +13,7 @@ It was introduced in [[Update "Apex Predators"]]. The SUB-I-II provides an excel
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The SUB-I-II has no notable armour. It is dangerous to stand in the open without cover, as the SPAA can be penetrated by any tank or plane. The survivability of this SPAA is very low if any enemy has a direct line of sight on it.
+The SUB-I-II has no notable armour. It is dangerous to stand in the open without cover, as the SPAA can be penetrated by any tank or plane. The turret is open topped which can allow for weapons of any type to damage the gunner. The survivability of this SPAA is very low if any enemy has a direct line of sight on it.
 
 '''Armour type:'''
 
@@ -71,6 +71,7 @@ The SUB-I-II has a modest top reverse speed in RB of -12 km/h so bear that in mi
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 * '''DM51A1:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
 * '''DM43:''' {{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
@@ -121,19 +122,32 @@ When hunting for planes, the SUB-I-II should always have some sort of cover to h
 '''Pros:'''
 
 * High rate of fire
+* Can destroy most light vehicles and some medium vehicles through weak spots
+* Excellent main weapon traverse angles for an APC
+* Dual feed system can allow for quick switching of belts if ammunition is not fully expended
+* Hull machine gun can be used to destroy unarmored targets, spot enemy vehicles, or knock down foliage
+* Low profile hull
 * Amphibious
-* Can penetrate some medium tanks from the side
 
 '''Cons:'''
 
 * Low survivability
-* Slow speed in water
+* Open turret with exposed gunner
 * Low ammo count
+* Difficulty in damaging heavily armored targets
+* Slow speed in water
+* Engine turbine is loud and can give away the vehicle's position
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-Development of the Type 73 APC started in 1967 as a replacement for the Type 60 APC (chassis of the [[Type 60 ATM]]). Four prototypes were made during the development, two from Mitsubishi (SUB-I-I and SUB-I-II) and two from Komatsu (SUB-II-I and SUB-II-II). The 20 mm Rh202 version got rejected at last.
+[[wt:en/news/7997-development-sub-i-ii-speed-and-bite-en|'''Devblog''']]
+
+Based on the influence of the Vietnam War as well as on the experiences from using the American M113 APC, the Japanese military concluded several drawbacks on their Type 60 APC. Namely, it was deemed that the vehicle had slightly poor mobility, lacked amphibious capabilities and had no NBC protection systems in place. As a result, in 1964 various Japanese companies, including Mitsubishi, began work on addressing some of these drawbacks by conducting tests with experimental platforms. By 1967, the Defense Agency laid out the requirements for a new APC design and contacted several companies to produce different parts of the vehicle.
+
+Furthermore, four prototype versions were ordered for testing from Mitsubishi and Komatsu. Both companies had to produce a version with steel armor plating as well as one made from aluminum. While Mitsubishi’s aluminum-based prototype would in the end be selected as the most suitable design and would thus form the basis for the subsequent production version of the Type 73 APC, it was also selected to conduct different tests.
+
+Namely, during testing, the SUB-I-II prototype, as it was known, also had a Rheinmetall 20mm turret mounted on its roof to test the feasibility of evolving the Type 73 from a pure APC into an IFV design. However, due to various technical issues and an increased cost, it was decided not to pursue this design choice further. As a result, the Type 73 would end up remaining a pure APC design, without substantial armament fitted to it.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -146,10 +160,22 @@ Development of the Type 73 APC started in 1967 as a replacement for the Type 60 
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+Vehicles of similar configuration
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[AMX-10P]]
+* [[Marder A1-]]
+* [[Wiesel 1A4]]
+
+Vehicles with similar weapon systems
+
+* [[R3 T20 FA-HS]]
+* [[Ystervark]]
+* [[Type 87 RCV (P)]]
+
+Vehicles derived from the Type 73 chassis
+
+* [[Type 75 MLRS]]
+* [[Type 75 SPH]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

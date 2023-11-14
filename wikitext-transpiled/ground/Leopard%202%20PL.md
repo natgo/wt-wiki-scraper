@@ -155,7 +155,7 @@ The 2PL playstyle is identical to the 2A4 and subsequent German MBTs. However, t
 * Effective gun
 * Better APFSDS shell (DM43) than other Leopard 2A4s
 * Excellent mobility
-* Has access to 2nd generation thermals for both the gunner and commander
+* Has access to 3rd generation thermals for both the gunner and commander
 
 '''Cons:'''
 

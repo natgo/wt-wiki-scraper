@@ -105,7 +105,8 @@
 
 {{Tree-Line|IV Rank}}
 |
-{{Tree-Arrow-Full|2}}
+{{Tree-Unit|sw_pbv_501}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|sw_strv_74}}
 {{Tree-Arrow|1}}

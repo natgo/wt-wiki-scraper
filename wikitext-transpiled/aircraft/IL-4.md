@@ -88,7 +88,7 @@ The aircraft's manoeuvrability on a whole is rather undesirable. The control sur
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|FAB-50sv (50 kg)|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)|FAB-1000 (1,000 kg)}}
-{{main|45-36AN (450 mm)}}
+{{main|BRAB-250 (250 kg)|BRAB-500 (500 kg)|BRAB-1000 (1,000 kg)|45-36AN (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -100,6 +100,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 1 x 1,000 kg FAB-1000 bomb (1,000 kg total)
 * 1 x 1,000 kg FAB-1000 bomb + 2 x 500 kg FAB-500sv bombs (2,000 kg total)
 * 1 x 450 mm 45-36AN torpedo
+* 2 x 250 kg BRAB-250 bombs (500 kg total)
+* 2 x 500 kg BRAB-500 bombs (1,000 kg total)
+* 1 x 1,000 kg BRAB-1000 bomb (1,000 kg total)
+* 1 x 1,000 kg BRAB-1000 bomb + 2 x 500 kg BRAB-500 bombs (2,000 kg total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

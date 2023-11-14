@@ -161,8 +161,8 @@ During WWII however, Kongō had a rather illustrious service record. It took par
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[wt:en/news/7600-development-kongō-battleship-the-imperial-jewel-en|Kongō battleship: The Imperial Jewel]]
-* http://combinedfleet.com/kongo.htm
+* [[wt:en/news/7600-development-kongō-battleship-the-imperial-jewel-en|[Devblog] Kongō battleship: The Imperial Jewel]]
+* [http://combinedfleet.com/kongo.htm <nowiki>[Combined Fleet] IJN Battleship KONGO: Tabular Record of Movement</nowiki>]
 
 '''Bibliography'''
 

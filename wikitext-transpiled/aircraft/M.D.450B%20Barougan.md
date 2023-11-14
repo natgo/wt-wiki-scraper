@@ -172,6 +172,7 @@ Overall an average jet compared to its competitors, does not shine in any partic
 * Can carry a decent amount of rockets for its BR.
 * Good energy retention below 600 km/h
 * Is on the faster side of early jets, topping at around 940 km/h, putting it close to the F84
+* Good acceleration at higher speeds (above 800 km/h)
 
 '''Cons:'''
 
@@ -180,6 +181,7 @@ Overall an average jet compared to its competitors, does not shine in any partic
 * 20 mm tends to be unreliable, similar to 20mm Hispano MK.V
 * Engine can feel underwhelming at times
 * Bad performance in vertical manoeuvres
+* Relatively low ammo pool
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

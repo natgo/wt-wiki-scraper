@@ -184,14 +184,14 @@ The small calibre of the 7.62 mm machine gun makes them largely ineffective agai
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 '''In long-range fight:'''<br>
-The gun is very precise with all the shooting amelioration. Do not forget to protect the frame, it is fragile. The turret armour protects the tank well. Invest in camouflage plants, one or two seconds lost by the aiming enemy is time gained to eliminate the threat.
+The gun is very precise and the ammunition performs well at longer ranges. Do not forget to keep the hull protected as it is fragile; however, the turret armour protects the tank reasonably well. Invest in camouflage plants, one or two seconds lost by the aiming enemy is time gained to eliminate the threat.
 
 '''An aggressive way to play:'''<br>
-The best targets are the German Leopards and all the Soviet T-54/55/62 series. Shoot it on front frame, where the shells are, for an assured popcorn effect. Don't hesitate to try this on IS-3/4 or T26E1-1/T28/T29, only shell places change (front side or turret rear).
+The best targets are the German Leopards and all the Soviet T-54/55/62 series. Shoot it on front hull, where the shells are, for an assured popcorn effect. Don't hesitate to try this on IS-3/4 or T26E1-1/T28/T29, only shell places change (front side or turret rear).
 
 Other tanks could be easily knocked out with fuel tank or disabled in aiming crew member. Don't forget that reload time is the vehicle's best friend.
 
-Be wary of the Chieftain's width, often the weak points are exposed when trying to turn the Chieftain.
+Be wary of the Chieftain's width, often its weak points are exposed when trying to turn.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

@@ -86,9 +86,8 @@ A rank 5 premium, she was introduced as part of [[Update "Sons of Attila"]]. The
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+
+* [[wt:en/news/8439-development-rank-vi-bluewater-fleet-and-pre-order-for-premium-battleships-arkansas-and-marat-en|[Devblog] Rank VI Bluewater fleet and pre-order for premium battleships: Arkansas and Marat!]]
 
 {{ShipManufacturer New York Shipbuilding Corp.}}
 {{USA battleships}}

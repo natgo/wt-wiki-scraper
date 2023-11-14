@@ -259,6 +259,8 @@ The official name of this subdivision in battalion documentation was Zug "Plutos
 * [[T-35]]
 * [[Independent]]
 * [[Ro-Go]]
+* [[2C]]
+* [[2C bis]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

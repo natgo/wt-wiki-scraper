@@ -199,7 +199,7 @@ File:AH-1S WTWallpaper 002.png
 </gallery>
 
 ;Videos
-{{Youtube-gallery|1zlt_uBS6KE|'''The Shooting Range #157''' - ''Metal Beasts'' section at 00:39 discusses the AH-1S Kisarazu.|OTnBvnPloN0|'''Premium Vehicles - AH-1S Kisarazu''' - ''War Thunder Wiki''}}
+{{Youtube-gallery|zYbcq-KOpFE|'''AH-1 Cobra Ultimate Review''' - ''Bob Dickinson''|1zlt_uBS6KE|'''The Shooting Range #157''' - ''Metal Beasts'' section at 00:39 discusses the AH-1S Kisarazu.|OTnBvnPloN0|'''Premium Vehicles - AH-1S Kisarazu''' - ''War Thunder Wiki''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -132,19 +132,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_F6F-5.png]]</div>
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_F6F-5.png]]</div>
 |-
 ! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
 | || || || 1 || || 1 || || ||
 |-
 ! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
 | || || || 1 || || 1 || || ||
-|-
-! [[AN-Mk 1 (1,600 lb)|1,600 lb AN-Mk 1]] bombs
-| || || || || 1 || || || ||
-|-
-! [[AN-M66A2 (2,000 lb)|2,000 lb AN-M66A2]] bombs
-| || || || || 1 || || || ||
 |-
 ! [[HVAR]] rockets
 | 1 || 1 || 1 || || || || 1 || 1 || 1
@@ -155,7 +149,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
 | || || || || 1 || || || ||
 |-
-| colspan="10" | Maximum permissible loadout weight: 1,814 kg<br>Maximum permissible weight imbalance: 680 kg
+| colspan="10" | Maximum permissible loadout weight: 1,815 kg<br>Maximum permissible weight imbalance: 680 kg
 |-
 |}
 
@@ -166,8 +160,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x Tiny Tim rockets
 * 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-* 1 x 1,600 lb AN-Mk 1 bomb (1,600 lb total)
-* 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
 * 1 x 2,216 lb Mk.13-6 Case torpedo
 {{Navigation-End}}
 

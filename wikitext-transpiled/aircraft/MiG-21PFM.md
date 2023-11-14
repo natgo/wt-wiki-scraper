@@ -171,7 +171,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1 || 1
 |-
 ! [[S-5K]] rockets
-| 16, 32 || 16, 32
+| 16 || 16
 |-
 ! [[S-24]] rockets
 | 1 || 1
@@ -189,7 +189,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Without load
 * 2 x R-3S missiles
 * 32 x S-5K rockets
-* 64 x S-5K rockets
 * 2 x S-24 rockets
 * 2 x Kh-66 missiles
 * 2 x 250 kg OFAB-250sv bombs (500 kg total)

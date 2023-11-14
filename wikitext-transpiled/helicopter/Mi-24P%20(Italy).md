@@ -69,8 +69,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-24A.png]]</div>
+|-
+! [[GShG-7.62 (7.62 mm)|7.62 mm GShG-7.62]] machine guns (1,800 rpg)
+| || 2* || 2<sup>†</sup> || 2<sup>†</sup> || 2* ||
+|-
+! [[YaK-B (12.7 mm)|12.7 mm YaK-B]] machine guns (750 rpg)
+| || 1* || 1<sup>†</sup> || 1<sup>†</sup> || 1* ||
 |-
 ! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
 | || 1 || 1 || 1 || 1 ||
@@ -98,12 +104,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 |-
 | colspan="7" | Maximum permissible weight imbalance: 500 kg
 |-
+| colspan="8" | *<sup>†</sup> Machine gun pods must be equipped simultaneously as marked, including those on the same hardpoint
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-* Without load
-* 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
+* 40 x S-8KO rockets + 4 x 9M114 Shturm missiles
 * 2 x R-60 missiles
 * 4 x R-60 missiles
 * 2 x R-60M missiles
@@ -114,6 +121,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 80 x S-8KO rockets
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+* 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
+* 2 x 12.7 mm YaK-B machine guns (750 rpg = 1,500 total) + 2 x 7.62 mm GShG-7.62 machine guns (3,600 rpg = 7,200 total)
 {{Navigation-End}}
 
 == Usage in battles ==

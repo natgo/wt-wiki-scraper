@@ -108,12 +108,14 @@
 {{Tree-Unit|fr_amx_13_75}}
 {{Tree-Arrow|1}}
 |
-{{Tree-Arrow-Full|2}}
+{{Tree-Unit|fr_m26_pershing}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|fr_amx_m4}}
 {{Tree-Arrow|1}}
 |
-{{Tree-Arrow-Full|2}}
+{{Tree-Unit|fr_amx_10p}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Group|fr_lorraine_elc_group|Lorraine/ELC|
   {{Tree-Unit|fr_lorraine_100}}

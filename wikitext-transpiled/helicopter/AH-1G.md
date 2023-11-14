@@ -72,36 +72,37 @@ The standard armament of the AH-1G can be switched for a dual 40 mm M129 grenade
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FFAR Mighty Mouse|M195 (20 mm)|M134 Minigun (7.62 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 28 x FFAR Mighty Mouse rockets
-* 76 x FFAR Mighty Mouse rockets
-* 2 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 3,000 total)
-* 1 x 20 mm M195 cannon (950 rpg)
-
-Unlike other AH-1 series helicopters, the AH-1G can equip either two 7.62 mm Miniguns or one 20 mm Gatling gun as suspended armaments. The minigun can pack a real punch when engaging enemy helicopters due to their light armour, however, the one drawback will be the pilot will have to deal with the massive recoil from the fast rate of fire.
-
-The AH-1G can also serve in a ground pounding role by equipping FFAR rockets that can reload quite quickly while still being able to defend itself with its turret miniguns. While the AH-1G cannot carry as much ordnance as its Soviet counterparts, it can defend itself very well and even equip suspended armament such as rockets, something which the Soviet choppers cannot do until BR 9.7.
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
 | rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_AH-1G_(Israel).png]]</div>
 |-
-! 20 mm M195 cannons (950 rpg)
+! [[M195 (20 mm)|20 mm M195]] cannons (950 rpg)
 | || || 1 ||
 |-
-! 7.62 mm M134 Minigun machine guns (1,500 rpg)
+! [[M134 Minigun (7.62 mm)|7.62 mm M134 Minigun]] machine guns (1,500 rpg)
 | || 1 || 1 ||
 |-
-! FFAR Mighty Mouse rockets
+! [[FFAR Mighty Mouse]] rockets
 | 7, 19 || 7, 19 || 7, 19 || 7, 19
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 28 x FFAR Mighty Mouse rockets
+* 76 x FFAR Mighty Mouse rockets
+* 2 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 3,000 total)
+* 1 x 20 mm M195 cannon (950 rpg)
+{{Navigation-End}}
+
+Unlike other AH-1 series helicopters, the AH-1G can equip either two 7.62 mm Miniguns or one 20 mm Gatling gun as suspended armaments. The minigun can pack a real punch when engaging enemy helicopters due to their light armour, however, the one drawback will be the pilot will have to deal with the massive recoil from the fast rate of fire.
+
+The AH-1G can also serve in a ground pounding role by equipping FFAR rockets that can reload quite quickly while still being able to defend itself with its turret miniguns. While the AH-1G cannot carry as much ordnance as its Soviet counterparts, it can defend itself very well and even equip suspended armament such as rockets, something which the Soviet choppers cannot do until BR 9.7.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -190,7 +191,7 @@ File:AH-1G WTWallpaper 006.jpg
 </gallery>
 
 ;Videos
-{{Youtube-gallery|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 05:44 discusses the AH-1 Cobra.}}
+{{Youtube-gallery|zYbcq-KOpFE|'''AH-1 Cobra Ultimate Review''' - ''Bob Dickinson''|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 05:44 discusses the AH-1 Cobra. }}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

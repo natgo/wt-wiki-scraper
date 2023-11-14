@@ -12,19 +12,19 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' The text within these arrows are not to be deleted -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
 
-The {{PAGENAME}} is an improvement over the [[Marder A1-]] with additional armour plates added all around the hull that should make the vehicle better withstand autocannon rounds from a distance, though close-range protection is still paper thin. The additional armour implemented on {{PAGENAME}} does make the vehicle slightly heavier than the Marder A1-, and while this should make impact mobility slightly, the differences in in-game performance is negligible. Armament between the two variants are similar too, with the {{PAGENAME}} retaining the MILAN ATGM and the 20 mm Rh202 autocannon. Armament differences lay in the APDS availability for the 20 mm autocannon and the removal of the rear-mounted MG3A1.
+The {{PAGENAME}} is an improvement over the [[Marder A1-]] with additional High Hardness armour plates added all around the hull that should make the vehicle better withstand autocannon rounds from a distance, though close-range side armour is still paper thin. The additional armour implemented on {{PAGENAME}} does make the vehicle slightly heavier than the Marder A1-, and while this should make impact mobility slightly, the differences in in-game performance is negligible. Armament between the two variants are similar too, with the {{PAGENAME}} retaining the MILAN ATGM and the 20 mm Rh202 autocannon. Armament differences lay in the APDS availability for the 20 mm autocannon and the removal of the rear-mounted MG3A1, which greatly improves versatility, as the new DM63 rounds can now penetrate BMP based hulls from 500 meters and other comparable IFVs within 1000 meters, disregard the Warrior.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' The text within these arrows are not to be deleted -->
 
-The Marder 1A3's armour is minimal, even if a bit better than its predecessor's. Any calibre larger than light machine guns (7.62 mm) can penetrate the vehicle. Therefore you must be careful and not expose the vehicle. 
+The Marder 1A3's armour is minimal, albeit superior to it's predecessor's thanks to the use of High Hardness Rolled Armor instead of Rolled Homogenous Armor. This variant of the Marder is the only Marder based hull capable of deflecting APDS from the BMP-2 and similar IFVs. However, it is still very vulnerable to regular tank shells. Therefore, you must be careful to not expose the vehicle. 
 
 '''Armour type:'''
 
-* High hardness rolled armour (hull front and roof)
-* Rolled homogeneous armour (hull sides and rear, gun mount, cupola)
+* High hardness rolled armour (hull front, roof, additional side plates)
+* Rolled homogeneous armour (hull sides, rear, gun mount, cupola)
 
 {| class="wikitable"
 |-
@@ -155,7 +155,7 @@ The mobility is very good with a top speed of 84 km/h both forwards and backward
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Marder 1A3 is best used carefully, since everything can penetrate your armour no matter what. The best tactic when hunting for enemy tanks is to hide behind cover and only expose your missile launcher or turret, since the crew are below the turret, there is a lower chance of them being hit. The Marder is highly capable of taking on air targets such as enemy close air support and helicopters. The 20 mm gun is best used for air targets or enemy light tanks. One enemy type worth noting are the BMP-1 and BMP-2. The two IFV's frontal armour is just angled enough to bounce the Marder's 20 mm rounds, and they without a doubt can fire back. If played correctly, the Marder can be a terror to the enemy team for both ground targets and air targets.
+The Marder 1A3 is best used carefully, since most shells will penetrate your armour easily. The best tactic when hunting for enemy tanks is to hide behind cover and only expose your missile launcher or turret, since the crew are slightly below the turret, there is a lower chance of them being hit by solid AP. The Marder is highly capable of taking on air targets such as enemy close air support and helicopters. The 20 mm gun is best used for air targets or enemy light tanks. If played correctly, the Marder can be a terror to the enemy team for both ground targets and air targets.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -172,8 +172,7 @@ The Marder 1A3 is best used carefully, since everything can penetrate your armou
 '''Cons:'''
 
 * Mediocre survivability
-* Poor gun depression of the ATGM Launcher limits close-range effectiveness when firing from behind hills
-* The 20 mm gun penetration performance makes it unlikely to common ground units faced except the thinnest armoured ones
+* Poor gun depression of the ATGM Launcher limits close-range effectiveness when the tank is on a high incline, and sometimes the missile will hit the ground regardless.
 * Large profile
 * Only carries 4 ATGMs
 

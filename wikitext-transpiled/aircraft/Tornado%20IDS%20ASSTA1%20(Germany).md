@@ -202,16 +202,22 @@ There are multiple ways to use the Tornado in ARB, one tactic is to stick to the
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* High acceleration
+* Good acceleration and excellent top speed
+** Higher bomb load and speed than SU-22
+* Mauser BK27 guns have decent hitting power and ammunition capacity
 * Laser-guided munitions give it a good ground attack capability
+* Can work as a figther when necessary
+** Variable wing sweep allows it to turn better when at low speeds, or during an emergency at high speed (at the risk of destroying itself) 
+** Radar assisted gun makes intercepting incoming or leaving planes easier
 
 '''Cons:'''
 
-* Bombs severely limit its maximum speed to about Mach 1.05
-* Very sluggish and slow turning rate, is unable to effectively manoeuvre
+* Full Bomb loadout can severely limit its maximum speed to about Mach 1.05
+* Unstable wings, plane can rip itself apart when bombing at maximum speed at low altitude or when doing negative G manoeuvres
+* Bad manoeuvrability makes air-to-air combat challenging, low air-to-air missile amount to compensate unlike other attacker options
 * Only has access to 2 x AIM-9L for air-to-air purposes
-* No search radar
-* Tracking radar is limited to 5°x6° and has 2 km effective range
+* No search radar for planning around enemies
+* Tracking radar is limited to 5°x6° until the target is locked
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

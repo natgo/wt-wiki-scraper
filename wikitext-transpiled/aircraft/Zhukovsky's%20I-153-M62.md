@@ -102,13 +102,13 @@ The I-153-M62 handles like a dream, outperforming most fighters at its BR. It ac
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-50sv (50 kg)|RS-82|RBS-82}}
+{{main|FAB-50sv (50 kg)|ROS-82|RBS-82}}
 
 '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
-* 4 x 50 kg FAB-50sv bombs (200 kg total)
-* 8 x RS-82 rockets
+* 2 x 50 kg FAB-50sv bombs (100 kg total)
+* 8 x ROS-82 rockets
 * 8 x RBS-82 rockets
 
 == Usage in battles ==

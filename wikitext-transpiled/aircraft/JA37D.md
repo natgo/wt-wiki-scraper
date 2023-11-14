@@ -134,47 +134,47 @@ The JA37D, being mainly used for fighter-interceptor purposes, is not equipped w
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between three presets:
-** 1 x 30 mm Akan m/75 cannon, belly-mounted (150 rpg)
-** 1 x 30 mm Akan m/75 cannon + 48 x large calibre countermeasures
-** 1 x 30 mm Akan m/75 cannon + 368 x large calibre countermeasures
+* A choice between two presets:
+** 1 x 30 mm Akan m/75 cannon, belly-mounted (150 rpg) + 48 x large calibre countermeasures
+** 1 x 30 mm Akan m/75 cannon + 48 x large calibre countermeasures + 320 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|RB24J|RB71|RB 74|psrak m/70}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 1 x 1,250 l drop tank
-* 2 x RB24J missiles
-* 6 x RB24J missiles
-* 6 x RB 74 missiles
-* 2 x RB71 missiles
-* 24 x psrak m/70 rockets
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
 | rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! psrak m/70 rockets
+! [[psrak m/70]] rockets
 | || 6 || 6 || || 6 || 6 ||
 |-
-! RB24J missiles
+! [[RB24J]] missiles
 | 1 || 1 || 1 || || 1 || 1 || 1
 |-
-! RB71 missiles
+! [[RB71]] missiles
 | || 1 || || || || 1 ||
 |-
-! RB 74 missiles
+! [[RB 74]] missiles
 | 1 || 1 || 1 || || 1 || 1 || 1
 |-
 ! 1,250 l drop tanks
 | || || || 1 || || ||
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 1,250 l drop tank
+* 2 x RB24J missiles
+* 6 x RB24J missiles
+* 6 x RB 74 missiles
+* 2 x RB71 missiles
+* 24 x psrak m/70 rockets
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

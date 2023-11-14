@@ -96,7 +96,8 @@ The sneaky approach, on the other hand, relies less on speed, but on surviving t
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. Mk.II (4,000 lb)|18 inch Mark XII (450 mm)}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|H.C. Mk.II (4,000 lb)}}
+{{main|S.A.P. Mk.II (500 lb)|A.P. Mk.I (2,000 lb)|18 inch Mark XII (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -106,6 +107,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 1,000 lb G.P. Mk.I bombs + 6 x 250 lb G.P. Mk.IV bombs (3,500 lb total)
 * 2 x 18 inch Mark XII torpedoes
 * 1 x 4,000 lb H.C. Mk.II bomb (4,000 lb total)
+* 9 x 500 lb S.A.P. Mk.II bombs (4,500 lb total)
+* 2 x 2,000 lb A.P. Mk.I bombs (4,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -114,7 +117,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-* 2 x 7.7 mm Browning machine guns, nose turret (1,200 rpg = 2,400 total)
+* 2 x 7.7 mm Browning machine guns, nose turret (1,000 rpg = 2,000 total)
 * 2 x 7.7 mm Browning machine guns, rear turret (2,000 rpg = 4,000 total)
 * 1 x 7.7 mm Browning machine gun, 2 x side turrets (600 rpg)
 
