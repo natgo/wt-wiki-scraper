@@ -183,9 +183,6 @@ export function groundVehicle(
 
 export function drive(vehicleData: GroundVehicle) {
   const phys = vehicleData.VehiclePhys;
-  if (!phys) {
-    return undefined;
-  }
 
   let gearsF = 0;
   let gearsB = 0;
