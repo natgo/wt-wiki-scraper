@@ -156,13 +156,13 @@ Crew exposed vehicles or light tanks can also be destroyed with the heavy machin
 * Good armament, MG 151/20 and two 12.7 mm LKk/42 both nose mounted
 * The LKk/42 MGs can load entirely AP ammunition that can penetrate 26 mm of armour
 * Good turn rate, can outturn some Merlin Spitfires in sustained turnfight
-* Decent flaps allow for decreased turn rate
+* Decent flaps allow for decreased turn radius
 * Fantastic engine characteristics (overheating can be negated entirely)
 * Very steady and reliable gun platform
 
 '''Cons:'''
 
-* Not hugely fast, Spitfire and Bf 109 series outrun it
+* Not hugely fast, Bf 109 series starting F-4 outrun it
 * No frontal armour protection
 * Not best suited to bomber hunting
 

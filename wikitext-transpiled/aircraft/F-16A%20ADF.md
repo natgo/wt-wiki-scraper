@@ -18,7 +18,7 @@ Introduced in [[Update "Apex Predators"]], the '''{{Specs|name}}''' is a very po
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The F-16 ADF has poor manoeuvrability at higher speeds (above around 850 km/h) due to its angle of attack (AOA) limiter. Staying at these higher speeds is ideal for general air combat, but greatly limits your manoeuvring and dogfighting abilities. At these high speeds, poor nose-pointing ability makes it troublesome to lock Sidewinders, get an ACM radar lock, or aim the gun. Only by going below these speeds (thus getting slow) does any semblance of dogfighting ability whatsoever begin to be gained. The F-16's acceleration can be "too good": its poor high-speed manoeuvrability combined with its excellent acceleration and energy retention means heavy down-throttling, air braking and energy management are practically required to drop below these speeds to be able to dogfight. However, if low on fuel and out of most of your ordanace the plane becomes very manoeuvrable sometimes allow the plane to pull 12+ Gs in a turn. 
+The F-16 ADF has poor manoeuvrability at higher speeds (above around 850 km/h) due to its angle of attack (AOA) limiter. Staying at these higher speeds is ideal for general air combat, but greatly limits your manoeuvring and dogfighting abilities. At these high speeds, poor nose-pointing ability makes it troublesome to lock Sidewinders, get an ACM radar lock, or aim the gun. Only by going below these speeds (thus getting slow) does any semblance of dogfighting ability whatsoever begin to be gained. The F-16's acceleration can be "too good": its poor high-speed manoeuvrability combined with its excellent acceleration and energy retention means heavy down-throttling, air braking and energy management are practically required to drop below these speeds to be able to dogfight. However, if low on fuel and out of most of your ordnance, the plane becomes very manoeuvrable, sometimes allowing the plane to pull 12+ Gs in a turn.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -112,7 +112,7 @@ The F-16 ADF has poor manoeuvrability at higher speeds (above around 850 km/h) d
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-The F-16A ADF is not very survivable because it has no armour plates. It becomes very difficult to fly when missing a wing or tail like most other aircraft. It only has one engine so if it is knocked out it will be very difficult to return to the airfield. If it loses one of its tail control surfaces it becomes even less maneuverable and hardder to fly.
+The F-16A ADF is not very survivable because it has no armour plates. It becomes very difficult to fly when missing a wing or tail like most other aircraft. It only has one engine so if it is knocked out it will be very difficult to return to the airfield. If it loses one of its tail control surfaces it becomes even less manoeuvrable and harder to fly.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -121,52 +121,52 @@ The F-16A ADF is not very survivable because it has no armour plates. It becomes
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="5" |ces
+! colspan="5" | [[Ballistic Computer]]
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
 | {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
 |}
-=== Offensvennive armament ===
+=== Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 {{main|M61A1 (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
-** 1 x 20 mm M61A1 cannon + 60 x countermeasures
+* 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AIM-7M Sparrow|AIM-9L Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 1 x 300 gal drop tank
-* 2 x AIM-9L Sidewinder missiles
-* 6 x AIM-9L Sidewinder missiles
-* 2 x AIM-7M Sparrow missiles
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
 | rowspan="4" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! AIM-7M Sparrow missiles
+! [[AIM-7M Sparrow]] missiles
 | || || 1 || || 1 || ||
 |-
-! AIM-9L Sidewinder missiles
+! [[AIM-9L Sidewinder]] missiles
 | 1 || 1 || 1 || || 1 || 1 || 1
 |-
 ! 300 gal drop tanks
 | || || || 1 || || ||
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 300 gal drop tank
+* 2 x AIM-9L Sidewinder missiles
+* 6 x AIM-9L Sidewinder missiles
+* 2 x AIM-7M Sparrow missiles
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

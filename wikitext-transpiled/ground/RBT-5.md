@@ -171,7 +171,7 @@ It is suggested to stay near a captured point so you may resupply your torpedos 
 * Equipped with only 2 rockets
 * Rockets are set at a fixed angle which further complicates aiming, does not allow for zeroing targets
 * Armour can only cope with rifle calibre rounds, could also deflect a few heavy machine gun rounds
-* Very vulnerable to quick-firing autocannons like the German 20 mm or the TShN
+* Very vulnerable to quick-firing autocannons like the German 20 mm or the TNSh
 * Terrible crew arrangement, a well-placed, penetrating shot will automatically take out the crew
 * Rockets may overshoot at close range, due to the affixed nature of the mounting
 * If the rockets get shot it can cause your tank to ammunition explode

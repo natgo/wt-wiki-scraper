@@ -176,6 +176,8 @@ The Royal Australian Armoured Corps (RAAC) had been a long time user of European
 
 * [[wt:en/news/7717-development-squadron-vehicle-m1a1-aim-en|[Devblog] Squadron vehicle: M1A1 AIM]]
 
+=== References ===
+<references />
+
 {{USA medium tanks}}
 {{Squadron ground vehicles}}
-<references />

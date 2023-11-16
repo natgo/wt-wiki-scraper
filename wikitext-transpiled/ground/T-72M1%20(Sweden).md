@@ -10,9 +10,12 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
 
-An export version of the Soviet [[T-72A]], the T-72M1 carries mostly the same characteristics of the original version in terms of armament, mobility, and armour, though the latter has some slight changes with an applique armour on the front glacis.
+The '''{{Specs|name}}''' an export version of the Soviet [[T-72A]], the T-72M1 carries mostly the same characteristics of the original version in terms of armament, mobility, and armour, though the latter has some slight changes with an applique armour on the front glacis. Finland bought a total of 162 T-72's from the Soviet Union and Eastern Germany to be used by the Finnish army and were not entering service till 1984 and were remaining in service as their primary Main Battle Tank till 2004 where they got phased out for the Leopard 2A4's.
+
+The '''{{Specs|name}}''' is an Swedish medium tank. It was introduced in [[Update "Fire and Ice"]] as part of the Finnish line in the Swedish tech tree bolstering the line up. being an export version of the [[T-72A]] gives it a similar playstyle to it among with the other nations '''T-72M1'''. Due to the [[T-72 (Family)|T-72]]s low profile that makes it a smaller target to hit which gives it advantages and disadvantages, due to the small size it's a vehicle easier to take cover behind objects and landscapes but it will also come at the cost of crew compartment being narrow making it easier for enemy vehicles to take out the crew with a well placed shot. Like most T-model tanks the {{Specs|name}} comes with an autoloader making the loss of the loader not as devastating as a normal loaded tank due to the reload process being automated, but it also comes with the cost of all ammunition being stored beneath the turret in a so called ammo carousel making them prone to ammo detonating with ease if the lower part of the hull being hit by an enemy shell. T-72M-1 got great mobility when moving forward and can navigate through the maps with relative ease, but due to its poor performing reverse speed makes it difficult to reverse its way out from dangerous situations to get behind cover, making it an unforgiving tank if make the mistake of advancing too far out of coverage. But overall it's a well balanced vehicle and will get the work done when get the grip around the characteristic of the {{Specs|name}}.
+
+
 
 == General info ==
 === Survivability and armour ===

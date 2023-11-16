@@ -11,7 +11,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-'''{{Specs|name}}''' is a premium rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]] and was part of the [[wt:en/news/5225-special-french-vehicles-as-christmas-presents-en|2017 "Christmas presents"]] giveaway.
+'''{{Specs|name}}''' is a premium rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]] and was part of the [[wt:en/news/5225-special-french-vehicles-as-christmas-presents-en|2017 "Christmas presents"]] giveaway. It is also the starting premium vehicle of french air tech tree
 
 The plane is modelled after one used by French pilot Gabriel Pallier. The Dewoitine D.510 is an open cockpit monoplane equipped with one Hispano-Suiza H.S.404 cannon and two MAC 1934 7.5 mm machine guns. The aircraft has no specific defects, but no notable advantages either. Its engine is extremely prone to catching fire (especially when hit by weapons of 12.7 mm calibre)
 
@@ -96,6 +96,30 @@ Pallier's D.510 has a 3 mm steel plate in front of the pilot. The fuel tanks are
 * 2 x 7.5 mm MAC 1934 machine guns, wing-mounted (300 rpg = 600 total)
 
 The two machine guns are arranged with one mounted on the underside of each wing. Each are armed with the same amount of ammunition, which means that all guns will fire with each other until empty.  The 20 mm Hispano 404 cannon is mounted in the nose and fires out of the propeller hub.
+
+'''Belts'''
+
+'''For the machine guns:'''
+
+Default(T/B/B/B/I/AP): Not that bad, but not that great, it can be used as multirole if you don't have the modification. I you have the multirole one, use that instead
+
+Multirole(T/AP/AP/I/I): It's really good in ground RB where you don't know if you will fight against planes or ground vehicles.
+
+With indicator(I-T): It's your main weapon against planes, and it does the job well.
+
+Without indicator(AP/AP/I): It's okay against ground targets , but it's not a big problem because the cannon does most of the job anyways.
+
+'''For the cannon:'''
+
+Default(HEI/HEI/P/T): It's really good for a starting ammo but I recommend switching to something else if you can.
+
+Multirole(HEI/SAP-I/AP/T): It does it's job as a multirole ammunition really great, it is a go to choice in ground RB.
+
+Against ground targets(AP/AP/AP/HEI/I): It's great against ground targets, it pens most enemies that you ecounter in that rank with its 27mm pen from 100m , at an angle of 30.
+
+With indicator(AP/HEI/T): It's like a multirole but without SAP-I, does it's job in ground RB and against planes too.
+
+Without indicator(HEI/HEI/SAP-I/AP): It's brutal against bomber and other  lightly armed targets, I recommend using that belt.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -6,18 +6,22 @@
 {{Tree-Unit|uk_a_13_mk1}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_a_13_mk2}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|uk_m3_stuart}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_m3a1_stuart}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|uk_a17_mk_1_tetrarch}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_daimler_mk_2}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|uk_vickers_mk_6_aa_mk_1}}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_t17e2}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|uk_sarc_mk4_a}}
 {{Tree-Skip}}
@@ -102,7 +106,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|uk_a_34_comet}}
 }}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|3}}
 |
 {{Tree-Group|uk_a_22b_mk_3_churchill_1942|Churchill III/NA75|
   {{Tree-Unit|uk_a_22b_mk_3_churchill_1942}}
@@ -111,10 +115,10 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_a_22f_mk_7_churchill_1944}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|3}}
 |
 {{Tree-Unit|uk_a30_sp_avenger}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|4}}
 |
 {{Tree-Group|uk_ystervark_spaa|Ystervark/Crusader AA|
   {{Tree-Unit|uk_ystervark_spaa}}
@@ -123,10 +127,10 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_bosvark}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|3}}
 |
 {{Tree-Unit|uk_concept3_ngac}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|4}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|uk_17_pdr_m10_achilles_norfolk_yeomanry}}
 {{Tree-Skip}}
@@ -138,6 +142,8 @@
 {{Tree-Unit|uk_a_33_excelsior}}
 {{Tree-Skip}}
 {{Tree-Unit|uk_a_22f_mk_7_churchill_crocodile}}
+{{Tree-Skip}}
+{{Tree-Unit|uk_tog_2}}
 {{Tree-Skip}}
 {{Tree-Unit|uk_a_34_comet_iron_duke}}
 {{Tree-Skip}}

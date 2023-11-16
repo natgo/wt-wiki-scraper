@@ -111,7 +111,7 @@ The F-5 series is known to be small, lightweight, and nimble. The F-5E Tiger II,
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-The F-5E is a light fighter, as such it has no armor. If it loses its wing or tail it becomes incredibly difficult to fly. It cannot tank a missile hit and usually can only survive a few hits from common cannons at this Br (10.7). 
+The F-5E is a light fighter, as such it has no armour. If it loses its wing or tail it becomes incredibly difficult to fly. While it cannot tank a missile hit, it is surprisingly durable and can often survive a few hits from common cannons at its BR.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -125,9 +125,8 @@ The F-5E is a light fighter, as such it has no armor. If it loses its wing or ta
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
-** 2 x 20 mm M39A3 cannons + 45 x countermeasures
+* 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
+* 45 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -216,7 +215,7 @@ If an enemy jet follows the {{PAGENAME}}, be prepared to defend against a missil
 * Large selection of air-to-ground armaments, including Maverick air-to-ground missiles
 * Generous ammunition capacity for guns
 * Small target
-* improved engines over its predecessor, improving its speed and manoeuvrability 
+* improved engines over its predecessor, improving its speed and manoeuvrability
 * Efficient afterburner allows the use of lower fuel reserves, improving performance
 
 '''Cons:'''
