@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British battleship {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]].
+The '''{{Specs|name}}''' was the second of four [[Iron Duke (Family)|Iron Duke-class]] battleships, built for the Royal Navy beginning in January 1912. She would be launched later that same year in October of 1912, and would be commissioned in June of 1914, being completed in time for the outbreak of the Great War. The only major action that Marlborough would see would be in the famous Battle of Jutland, where she would engage multiple battleships and cruisers, notably hitting SMS Wiesbaden with (most likely) 3 shells, knocking the cruiser out of action until it sank a few hours later. During this time she had taken a torpedo hit, which while not immediately threatening, would restrict the ship to {{Annotation|12 kn|22 km/h, 14 mph}} until she was later repaired. She would see more sorties after her repairs were complete, but none would result in combat. After the end of the war, she would serve various roles for an additional 14 years before being stricken and sold for scrap in 1932.
 
-The Marlborough is an Iron Duke-class battleship, the last of the British so-called "super dreadnoughts" to be armed with the 13.5-inch guns. They were the most advanced battleships in service with the Royal Navy at the outbreak of World War I, featuring significantly larger guns than contemporary German dreadnoughts.
+Introduced in [[Update "Ground Breaking"]], HMS Marlborough is the most powerful battleship in the British naval line, though not the most powerful ship overall. Though eclipsed by [[HMS Hood]], Marlborough still has a couple advantages, with more guns and a staggering 88.11 kg TNTe explosive mass in the high explosive shells, the most of any ship in-game. This does come at the cost of a lack of anti-aircraft defences as she is in a pre-war refit, along with no torpedo bulges.
 
 == General info ==
 === Survivability and armour ===

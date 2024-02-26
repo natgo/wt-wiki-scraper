@@ -1,3 +1,8 @@
+{{About
+| about = French medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Leclerc (Family)
+}}
 {{Specs-Card
 |code=fr_leclerc_azur
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -7,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''Leclerc Action en Zone URbaine (AZUR)''' is an urban warfare modification of the Tropicalized Leclerc, which is the fifth variant of the [[Leclerc (Family)|Leclerc main battle tank family]]. The Tropicalized Leclerc variant is predominantly employed by the UAE Army and has various enhancements that improve its capacity to fight in humid tropical and scorching desert environments. The tank is powered by a EuroPowerPack 1,100 kW MT883 diesel engine manufactured by the German MTU Friedrichshafen company, as the UAE has an interest in the company and wants the engine produced by them. The fuel capacity has also increased. An externally mounted diesel auxiliary power unit with a tank infantry telephone is installed on its armoured box. On the left side of the hull, an engine-driven mechanical heavy-duty air conditioner is also installed. The commander sights have been customized to include an HL-80 commander panoramic sight, Alis thermal imaging equipment, and a laser rangefinder. An Armement Télé-Opéré remote-controlled weapon station with a 7.62 mm FN MAG light machine gun operated under-armour by the HL-80 panoramic sight is also placed on the roof of the turret. All of these enhancements are completed by the AZUR urban warfare add-on armour kit, which principally comprises explosive-reactive armour (ERA) blocks on the tank's flanks and slat armour shielding the engine.
 
-Introduced in [[Update "Sons of Attila"]], the Leclerc Action en Zone URbaine (AZUR) incorporates further enhancements over earlier variants. Protection against high-explosive anti-tank (HEAT) warheads from enemies is greatly enhanced with AZUR ERA blocks around the tank's sides and slat armour around the engine. However, such ERA blocks provide little protection against typical armour-piercing fin-stabilized discarding sabot (APFSDS) fired from enemy tanks, making it necessary to be vigilant during engagements. Since the new armour package increased the vehicle's overall combat weight, its manoeuvrability is slightly slower.
+Introduced in [[Update "Sons of Attila"]], the Leclerc Action en Zone URbaine (AZUR) incorporates further enhancements over earlier variants. Protection against high-explosive anti-tank (HEAT) warheads from enemies is greatly enhanced with AZUR ERA blocks around the tank's sides and slat armour around the engine. However, such ERA blocks provide little protection against typical armour-piercing fin-stabilised discarding sabot (APFSDS) fired from enemy tanks, making it necessary to be vigilant during engagements. Since the new armour package increased the vehicle's overall combat weight, its manoeuvrability is slightly slower.
 
 == General info ==
 === Survivability and armour ===
@@ -61,10 +66,10 @@ The Leclerc AZUR mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted with
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
+| 23.8 || 28.0 || 34.0 || 37.6 || 40.0
 |-
 |}
 
@@ -136,24 +141,23 @@ The Leclerc AZUR mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted with
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_leclerc_azur Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Leclerc (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8469-development-leclerc-azur-action-in-urban-areas-en|[Devblog] Leclerc AZUR: Action In Urban Areas]]
 
 {{France medium tanks}}

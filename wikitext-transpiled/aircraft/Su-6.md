@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
+The development of the '''Su-6''' began in 1939 when the Sukhoi design bureau started working on a single-seat ground attack aircraft. The performance of the Su-6 was overall superior to the Ilyushin Il-2 ground attack aircraft, unfortunately the radial engine powering the Su-6 exceeded its age limit before the testing was completed and thus no more engines were available for the aircraft to enter mass production. Thanks to combat experience with the Il-2s, later prototypes were designed with a rear gunner using 12.7 mm Berezin UBT machine gun protecting the rear hemisphere of the aircraft. This meant a decreased bomb load and to counter this, a more powerful engine was installed, the Shvetsov M-71F radial engine. Overall, the Su-6 was faster than the Il-2, however at the expense of carrying a smaller bomb load, the Su-6 never reached production, thanks to its late development and the introduction of the Il-10.
 
-The Su-6 is a Soviet prototype attack aircraft built to replace the [[IL-2 (Family)|IL-2]]. This first prototype Su-6 lacked the rear gunner of the later production [[Su-6 (AM-42)]] and [[Su-6 (M-71F)]].
+It was introduced in [[Update "Raining Fire"]]. This Su-6 in particular is the first prototype, the one without a rear gunner and the less powerful M-71 engine. However the Su-6 is still very competitive and capable for its BR. It features a decent flight performance for an attack aircraft, with a mediocre top speed and acceleration but a good turn radius, although the mediocre engine translates to a low rate of climb. It has a very capable armament though, the twin 23 mm cannons are more than enough to destroy unarmoured ground targets and most aircraft in a few bursts with the right ammo. While the ground ordnance is somewhat decent, since neither the bombs or the rockets are particularly large, they should be used with precision.
 
 == General info ==
 === Flight performance ===
@@ -79,7 +79,7 @@ If you have flown the [[IL-2 (Family)|IL-2]], the Su-6 is a very familiar experi
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-Compared to the [[IL-2 (Family)|IL-2]] and [[IL-10]], the Su-6 is much less survivable mainly due to a reduction in armour plating. The aircraft's armour is concentrated around the cockpit, with 12 mm of plating in the lower front and back, 6 mm of plating on the sides, and 65 mm of bulletproof glass in front of the cockpit. Unlike the IL-2 and IL-10, the Su-6's engine block is unarmoured, meaning that headons in this aircraft are extremely dangerous due to the risk of engine damage.
+Compared to the [[IL-2 (Family)|IL-2]] and [[IL-10]], the Su-6 is much less survivable mainly due to a reduction in armour plating. The aircraft's armour is concentrated around the cockpit, with 12 mm of plating in the lower front and back, 6 mm of plating on the sides, and 65 mm of bulletproof glass in front of the cockpit. Unlike the IL-2 and IL-10, the Su-6's engine block is unarmoured, meaning that head-ons in this aircraft are extremely dangerous due to the risk of engine damage.
 
 The Su-6's main fuel tank is located directly underneath the cockpit and is also covered by the cockpit armour; this fuel tank is also self-sealing and features a neutral gas fire suppression system. The oil cooling system is mounted between the engine and cockpit, but is unarmoured making it more susceptible to damage.
 
@@ -111,11 +111,41 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AO-25M-1 (25 kg)|FAB-50sv (50 kg)|FAB-100sv (100 kg)}}
-{{main|M-8|M-13UK|RBS-82|RBS-132}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="8%" | 1 !! width="8%" | 2 !! width="8%" | 3 !! width="8%" | 4 !! width="8%" | 5
+| rowspan="9" width="35%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[AO-25M-1 (25 kg)|25 kg AO-25M-1]] bombs
+| || || 16 || ||
+|-
+! [[FAB-50sv (50 kg)|50 kg FAB-50sv]] bombs
+| || 1 || 4 || 1 ||
+|-
+! [[FAB-100sv (100 kg)|100 kg FAB-100sv]] bombs
+| || 1 || 4 || 1 ||
+|-
+! [[M-8]] rockets
+| 5 || || || || 5
+|-
+! [[M-13UK]] rockets
+| 5 || || || || 5
+|-
+! [[RBS-82]] rockets
+| 5 || || || || 5
+|-
+! [[RBS-132]] rockets
+| 5 || || || || 5
+|-
+| colspan="6" | Maximum permissible loadout weight: 517 kg<br>Maximum permissible wing load: 265 kg<br>Maximum permissible weight imbalance: 180 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 10 x M-8 rockets
 * 10 x RBS-82 rockets
@@ -124,37 +154,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 16 x 25 kg AO-25M-1 bombs (400 kg total)
 * 6 x 50 kg FAB-50sv bombs (300 kg total)
 * 4 x 100 kg FAB-100sv bombs (400 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="8%" | 1 !! width="8%" | 2 !! width="8%" | 3 !! width="8%" | 4 !! width="8%" | 5
-| rowspan="9" width="35%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 25 kg AO-25M-1 bombs
-| || || 16 || ||
-|-
-! 50 kg FAB-50sv bombs
-| || 1 || 4 || 1 ||
-|-
-! 100 kg FAB-100sv bombs
-| || 1 || 4 || 1 ||
-|-
-! M-8 rockets
-| 5 || || || || 5
-|-
-! M-13UK rockets
-| 5 || || || || 5
-|-
-! RBS-82 rockets
-| 5 || || || || 5
-|-
-! RBS-132 rockets
-| 5 || || || || 5
-|-
-| colspan="6" | Maximum permissible loadout weight: 517 kg<br>Maximum permissible wing load: 265 kg<br>Maximum permissible weight imbalance: 180 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

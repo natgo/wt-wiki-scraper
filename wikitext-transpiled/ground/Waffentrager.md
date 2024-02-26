@@ -92,10 +92,10 @@ After the Parts and FPE modifications, the most useful upgrades are the Horizont
 
 * Shells are modeled individually and disappear after having been shot or loaded.
 * Right side empty: 21&nbsp;''(+9)'' shells.
-
+{{Clear}}
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Despite its fully-traversable turret, the Waffenträger is a classic tank destroyer. It has a potent gun, which can defeat almost any heavy tank at this tier, even at long ranges. The shells have great penetration, great explosive filler, and above-average velocity for the tier. The vehicle even has a better-than-average reload speed.  (Note: keep in mind that the Waffenträger is not equipped with any machine guns.)
+Despite its fully-traversable turret, the Waffenträger is a classic tank destroyer. It has a potent gun, which can defeat almost any heavy tank at this tier, even at long ranges. The shells have great penetration, great explosive filler, and above-average velocity for the tier. The vehicle even has a better-than-average reload speed. (Note: keep in mind that the Waffenträger is not equipped with any machine guns.)
 
 However, this vehicle also has poor mobility. It's just slow (both forwards and reverse), especially when stock and acceleration are poor. The tank struggles on slopes and is completely unsuited for close-up brawling. Another downside to this vehicle is its poor armour setup. Although the armour protection can defend against machine-gun fire, any cannon shell will penetrate with ease. High explosive shells may also overpressure the vehicle. And finally, the open-top turret compartment is vulnerable to aircraft and artillery fire. Therefore, it may be necessary to work with SPAA teammates and find cover under trees or behind buildings.
 
@@ -144,7 +144,7 @@ Due to the design losing the tender, the tank never saw mass production or comba
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_waffentrager_krupp_steyr Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|e1e7dEJigJQ|'''The Shooting Range #74''' - ''Metal Beasts'' section at 00:36 discusses the Waffenträger.}}
+{{Youtube-gallery|qAwKjDka6xY|'''Waffenträger: Feisty Weapons Carrier''' - ''War Thunder Official Channel''|e1e7dEJigJQ|'''The Shooting Range #74''' - ''Metal Beasts'' section at 00:36 discusses the Waffenträger.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

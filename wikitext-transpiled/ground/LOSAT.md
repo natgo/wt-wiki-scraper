@@ -12,7 +12,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American tank destroyer {
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The most well protected side of the tank is the front, even though it has not much armour since it is based on the CCVL chassis. The biggest weak spot on the tank is the huge turret on top of the chassis holding all the ammunition for the vehicle. Any tank that fires at the turret with its main armament will most certainly completely destroy the LOSAT.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -104,7 +104,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American tank destroyer {
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The LOSAT is a very quick and agile vehicle. Although it boasts very little armour, its armament is exceptional. The MGM-166 is small propelled dart which does more damage the further it travels. The LOSAT has a very simple playstyle: use it in long range engagements, roughly at 1,500 or more metres. This will allow the ammunition to speed up to its full potential dealing extreme amounts of penetration as much as 729 mm on a standard vehicle regardless of the angle and direction. It is recommended to snipe with the vehicle across maps. Simply position somewhere and let loose with your supersonic weapons.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -114,7 +114,6 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American tank destroyer {
 * MGM-166s are kinetic penetrators and not reliant on HEAT charges, which can make it avoid most ATGM ERAs
 ** Extremely high penetration values at farther ranges
 * 12 missiles are highly effective and enough to deal with targets
-* Armour around the missile racks have over 150 mm of armour protection, making it resistant to most non-APFSDS autocannon fire
 * Missiles can be too fast for IRCM systems to react
 
 '''Cons:'''
@@ -134,7 +133,10 @@ The missile's specifications and design made it very different to most ATGM syst
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_losat_ccv Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

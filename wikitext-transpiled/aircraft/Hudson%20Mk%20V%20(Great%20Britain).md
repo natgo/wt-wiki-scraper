@@ -5,13 +5,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British bomber {{Battle-rating}}. It was introduced in [[Update 1.63 "Desert Hunters"]].
+The Hudson Mk V was the designation given by Britain to the Lockheed Hudson V, an American-built light bomber designed for naval patrol, reconnaissance, and light bombing. It was based on the Lockheed Super Electra, a civilian airliner. The aircraft was very successful under British service, in total 2,150 Hudsons were used by the British Commonwealth through direct purchase and the Lend Lease program. They scored several kills against German submarines and were essential in maintaining the safety of Allied convoys in the Atlantic. After the war, some of those Hudsons served again as civilian airliners and transport aircraft.
+
+It was introduced in [[Update 1.63 "Desert Hunters"]]. For its BR, the Hudson MK.V is a relatively fast bomber, being able to go at a maximum speed of 418 km/h in realistic battles. This is very important, since you will most likely fight biplanes and early monoplanes with engines that are not well-suited for high altitude. This increased flight performance over its counterparts is balanced by the payload however; with only a small amount of 250 lb bombs and 8 x AP Mk.I rockets that don't have any explosive filler. For its defensive armament, it has good total coverage, but the usage of 7.7 mm MGs instead of more conventional 12.7 mm HMGs makes dealing with groups of enemies more challenging.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-<!--Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.-->
-Fast for its battle rating, the Hudson Mk V is a very versatile bomber, able to turn with some single-engine fighters and outrun any it may face. 
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+Fast for its battle rating, the Hudson Mk V is a very versatile bomber, able to turn with some single-engine fighters and outrun any it may face.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -166,6 +168,7 @@ In total, 2,150 Hudsons would be used by the British Commonwealth through both d
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=hudson_mk_v Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -177,6 +180,7 @@ In total, 2,150 Hudsons would be used by the British Commonwealth through both d
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[A-29]]
 
 == External links ==

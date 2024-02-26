@@ -11,9 +11,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced during [[Update "Red Skies"]] as a reward for [[Battle Pass: Season IV, "Fearless Voltigeur"]].
+The '''A6M6 mod. 53''', designated as the '''Type 0 Carrier-based Fighter Model 53 ({{Annotation|零式艦上戦闘機五三型|Rei Shiki Kanjō Sentōki, Go San Gata}})''', was a prototype on the [[A6M5 Hei|A6M5 mod. 52C (Hei)]] developed to carry the Sakae 31a engine, featuring a water-methanol engine boost which slightly improves engine power but during testing proved unsatisfactory due to the unreliability of the prototype engine. It also includes fuel tanks that were made self-sealing.
 
-The A6M6 mod. 53 was a prototype on the [[A6M5 Hei|A6M5 mod. 52C (Hei)]] developed to carry the Sakae 31a engine, featuring a water-methanol engine boost which slightly improves engine power but during testing proved unsatisfactory due to the unreliability of the prototype engine. It also includes fuel tanks that were made self-sealing.
+It was introduced during [[Update "Red Skies"]] as a reward for [[Battle Pass: Season IV, "Fearless Voltigeur"]]. Essentially the "black sheep" of the Zero family together with the [[A6M5 Hei|A6M5 mod.52 Hei]], the A6M6 sacrifices manoeuvrability for more armament, ordnance, and survivability, though at a much larger degree. While it is noticeably less capable in dogfighting compared to its peers, the A6M6's improved protection means that it can afford to take punishment, making it very forgiving to fly. The plane's reinforced airframe also makes the A6M6 highly capable at boom-and-zoom tactics and high speed dogfights, especially when using snap turns to catch the enemy off-guard. It is also capable of ground attacking due to the generous amount of machine gun rounds and payload.
+
+;Nicknames
+* IJN Pilot nickname: ''Reisen'' (零戦) / ''Zerosen'' (ゼロ戦) <small>(Abbreviation of 0 - {{Annotation|戦|Fight(er aircraft)}})</small>.
+* Allied reporting name: ''Zeke / Zero''.
 
 == General info ==
 === Flight performance ===
@@ -82,7 +86,6 @@ The general flight performance of this Zero will match the traditional expectati
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 The A6M6c boasts pilot armour, armoured glass, and self-sealing fuel tanks, elements missing on earlier models of the A6M. It has increased survivability because of these bonus features. However, it isn't as tough as a P-51, as it is still a Zero, and the wings are vulnerable to incendiary rounds. The armour will save you, but you should not rely on it as your primary advantage.
-
 === Modifications and economy ===
 {{Specs-Economy}}
 
@@ -99,7 +102,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 * 1 x 13.2 mm Type 3 machine gun, nose-mounted (230 rpg)
 * 2 x 13.2 mm Type 3 machine guns, wing-mounted (240 rpg = 480 total)
 
-The A6M6c features two 20 mm Type 99 Model 2 autocannons mounted on the wings, and three 13.2 mm Type 3 machine guns with two on the wings and one on the nose. Both guns are mostly accurate and hard-hitting, and has enough ammo to take down a handful of aircrafts and soft ground targets.
+The A6M6c features two 20 mm Type 99 Model 2 autocannons mounted on the wings, and three 13.2 mm Type 3 machine guns with two on the wings and one on the nose. Both guns are mostly accurate and hard-hitting, and has enough ammo to take down a handful of aircraft and soft ground targets.
 
 As all ammo belt options were unlocked by default, the A6M6c offers handy choices depending on your preference. For the 20 mm, the "tracer" belt are the most reliable option, as it is consisted entirely of an HEF-T rounds with good filler and is capable of dealing consistent damage, though the "universal" and "stealth" options features HEF shell that sacrifice tracer properties for twice the filler of the HEF-T, making it capable of dealing a lot of damage. Meanwhile, the 13.2 mm has a choice between a "ground targets" and "stealth" belts with focus on API and API-T rounds that can easily light up the enemy planes on fire, or the "universal" belt with more IAI rounds for dealing structural damage.
 
@@ -120,7 +123,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The A6M6c sacrifice some of its manoeverbility and climb rate in favor of reinforced airframe, improved protection, and high-speed handling. Due to this, the A6M6c is less specialized in dogfight compared to the other Zeros, but is generally more versatile and forgiving than the its peer. The plane is capable of executing high-speed manoevers and diving attacks, and is capable of taking damage. Though, being a Zero, it also inherit weakness from the other Zeros such as slow speed and volatile fuel tanks.
 
-To master the A6M6c in the air, the pilot needs to channel all of the Zero's strengths and exploit them against the enemy. The primary goal is to set up a turning engagement and open fire roughly 300 m from the target in a turn. The Zero is vulnerable to energy fighting tactics, so it isn't recommended to boom and zoom, as the Zero isn't a fast aircraft. As the A6M6c has a poor climb rate, it is recommended to side climb slightly and engage targets that are low in energy and altitude. While side climbing, the most optimal angle to do so is at 20° maximum. This will allow you to climb without stalling your engines. When attacking bombers, your fighter cannot take much punishment so make sure to only pick targets that you can kill easily. An experienced bomber gunner can obliterate you out of the sky due to how relatively frail the Zero's airframe is.
+To master the A6M6c in the air, the pilot needs to channel all of the Zero's strengths and exploit them against the enemy. The primary goal is to set up a turning engagement and open fire roughly 300 m from the target in a turn. The Zero is vulnerable to energy fighting, and as such it doesn't perform well in a prolonged dogfight. As the A6M6c has a poor climb rate, it is recommended to side climb slightly and engage targets that are low in energy and altitude. While side climbing, the most optimal angle to do so is at 20° maximum. This will allow you to climb without stalling your engines. When attacking bombers, your fighter cannot take much punishment so make sure to only pick targets that you can kill easily. An experienced bomber gunner can obliterate you out of the sky due to how relatively frail the Zero's airframe is.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"

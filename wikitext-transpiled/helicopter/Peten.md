@@ -10,13 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The AH-64 reached Israel in the 1990s. Israel had been an early investor in the Apache program since 1983. Thus, it became the first nation to operate the AH-64 aside from the United States. The AH-64A was the first version of the Apache, and it was nicknamed ''Peten'' (which means Cobra in Hebrew). The first models participated in a welcome ceremony and had the same systems as the American nations. The number of AH-64As in service capped at 42 units and they participated in several operations during their lifetime. The Peten variant was used against Hezbollah outposts in Lebanon, in Operation Grapes of Wrath, where an AH-64A helicopter shot two Hellfire missiles at an ambulance, killing the civilians inside. More of these incidents occurred during the next years, which resulted in the reluctance by the United States to sell the [[Saraph|AH-64D]] to Israel.
+
+Being introduced in [[Update "Danger Zone"]], the '''{{Specs|name}}''' is a competent helicopter, both in combined battles and in helicopter PvE matches. With access to good flight performance, capable missiles, and excellent optics, it's very easy picking up targets if you can avoid being targeted by enemy SPAA. The AGM-114B Hellfire is its main weapon, although it also has access to rocket pods and the AIM-92 Stinger air-to-air missile. The Hellfire B is a capable long range ATGM, it's less versatile than the Vikhr but it has more range than most missiles as well as top attack capabilities. Compared to the US variant, the AH-64A lacks access to the AIM-9L, but the AIM-92 is still decently capable, it may only be able to pull 10Gs but, unlike the AIM-9L, has IRCCM, which makes it capable of avoiding flares more easily. One of the biggest flaws of the AH-64A is that it only has access to 60 countermeasures, but overall, is a very solid helicopter with no extreme weak points, that also features a 30 mm cannon with 1,200 rounds of ammunition (the most of all top tier helicopters).
 
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''The AH-64A Peten is one of the fastest helicopters in the game, only trumped by the british [[G-LYNX]] and the likes of the [[Mi-24 (Family)]]. It has two powerful engines, which gives the Peten a good climb rate. Manoeuvrability at high speed is excellent too, being able to even execute barrel rolls without losing too much altitude; a feat many helicopters can only dream of. Overall it offers great flight performance and feels right at home for both newcomers and experienced players.''
+''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -36,16 +38,23 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Ba
 
 === Survivability and armour ===
 {{Specs-Heli-Armour}}
-<!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->''The AH-64A Peten has only limited armour protection installed with bullet proof glass only being installed on the pilot windscreen. The helicopter uses Kevlar boron carbide, composite martial which is limited only to instrument, floor and side panels around the cockpit. It does not provide the same level of protection as seen on other helicopters such as the [[Mi-28N]].''
-
-* ''Bullet proof glass installed only for the pilot - 22 mm thick.''
-* ''Installation of Kevlar boron carbide, composite martial only on the: Seats, cockpit side panels, Gunner floor panels and pilot instrument panel - 20 mm thick.''
+<!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
+''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.''
 
 === Modifications and economy ===
 {{Specs-Economy}}
 
 == Armaments ==
 {{Specs-Heli-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="3" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs)
+|-
+| {{Tick}} || {{Tick}} || {{Cross}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
 <!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -53,108 +62,55 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Ba
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between three presets:
-** 1 x 30 mm M230E-1 cannon (1,200 rpg)
-** 1 x 30 mm M230E-1 cannon + 60 x countermeasures
+* A choice between two presets:
+** 1 x 30 mm M230E-1 cannon (1,200 rpg) + 60 x countermeasures
 ** 1 x 30 mm M230E-1 cannon + 60 x countermeasures + IRCM
-
-''The Peten has the same 30 mm cannon as the other Apaches in the game currently, and only has one belt choice. The belt carries only HEDP rounds, and can penetrate up to 51 mm of armour. The gun is fast firing, but relatively inaccurate, so shooting in close range is the best way to hit your target. If you don't mind the inaccuracy of the gun, it is a very good weapon all around. It can be locked in gunner and 3rd person view and will automatically track the target.''
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114B Hellfire|ATAS (AIM-92)|Hydra-70 M247}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[Hydra-70 M247]] rockets
+| || 19 || 19 || 19 || 19 ||
+|-
+! [[AGM-114B Hellfire]] missiles
+| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
+|-
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || || || 2
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 76 x Hydra-70 M247 rockets
 * 4 x AGM-114B Hellfire missiles
 * 8 x AGM-114B Hellfire missiles
 * 16 x AGM-114B Hellfire missiles
 * 4 x ATAS (AIM-92) missiles
-
-''The Peten can carry up to 16 Hellfire ATGMs with over 1,000 mm of pen, 76 Hydra rockets with over 200 mm of pen, or 4 Stinger AAMs. The weapons are carried on the stub wings and can be carried in several different variations. The Hellfires are excellent missiles, although since the player must keep "painting" a laser beam on the target, misses can occur if the target lock slips. The Hydra rockets are generally very effective, especially when used with the ballistic computer. 76 rockets is enough for 3-5 tanks if they are used by an experienced player. However, the Stinger AAMs are not the best in the game by any stretch, with relatively little explosive mass and only a 10G overload. They may take 2-3 hits to damage aircraft, and heavily armoured helicopters such as the Mi-28 may survive multiple hits.''
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! Hydra-70 M247 rockets
-| || 19 || 19 || 19 || 19 ||
-|-
-! AGM-114B Hellfire missiles
-| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
-|-
-! ATAS (AIM-92) missiles
-| 2 || || || || || 2
-|-
-|}
-
-=== Defensive systems ===
-The '''''Peten''''' has the following Defensive systems installed:
-
-* '''Countermeasures''' - 60 built-in
-* '''AN/APR-39''' - Radar Warning Receiver (RWR); C-M detectable bands; track and launch detection
-* '''AN/AVR-2''' -  Laser Warning Receiver (LWR)
-* '''AN/AAR-47''' - Missile Approach Warning system (MAW)
-* '''AIM-92 Stinger''' - AIM 92 Stinger missiles
-
-''All 3 major defensive sensors (RWR, LWR and MAW) come standard with the helicopter and are essential to surviving enemy attacks. The Peten comes stock with 60 countermeasures in the form of just flares, however, in order to select a mix of flares and chaff, the adequate modification [Flares/Chaff (tier I)] will have to be researched. The AIM-92 Stinger module can be researched at tier III and adds an extra layer of defence against both enemy aircraft and other helicopters. The Stinger launchers are mounted in pairs on the wingtips and do not compromise any hardpoint space for other weaponry.''
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-'''Overview:'''
-
-The AH-64A Peten is an excellent helicopter for attacking ground targets, and can also hold its own against many enemy aircraft. Through adequate use of cover, teamwork, and game sense, the Apache can easily dismantle enemy teams. An Apache pilot must understand all of the tools at their disposal. The only difference between the Peten and the tech tree [[AH-64A]] is that the Peten lacks access to the AIM-9L Sidewinders as an ordnance option.
-
-The Apache has an arsenal of weapons. The most effective anti-tank weapon in the Apache's arsenal is the AGM-114 Hellfire, which uses a top attack trajectory to destroy ground vehicles. There is functionally very little difference between the AGM-114B and K variants, used on early and late Apaches respectively.
-
-'''Staying Alive:'''
-
-Flying the Apache effectively can be more difficult than most players would imagine, even with all the sensors it offers. Trying to deal with threats from enemy air and ground vehicles while continuing to attack the enemy team can be difficult. If distracted, a pilot can quickly lose situational awareness. Being successful in the Apache requires situational awareness above all else. Due to the fragility of the helicopter, any blindspot can lead to a quick and sudden death as even with the MAW one might not always be in an adequate position to defend against the incoming threat. Additionally, the mobility of the Apache is adequate but not impressive, so evasive manoeuvres are not always effective; after all, it is still a helicopter.
-
-Using cover is a very important part of staying alive in the Apache. Always stay behind a hill or building in ground battles. When exposing yourself in order to fire on the enemy, be mindful to not gain too much altitude. Most importantly, ''Always listen to your RWR.'' If you hear an alarm, take evasive action immediately.
-
-Additionally, it is important to know when to use flares. Flares are extremely effective against heat-seeking missiles, but useless against any other missiles. It is the responsibility of the Apache pilot to recognize the threat and decide whether to use flares or not.
-
-'''Air-to-Air (Stinger and Gun):'''
-
-The Apache is surprisingly potent in air-to-air combat. Engagements should be conducted primarily through the use of the AIM-92 Stinger missiles. The Stinger is a simple but effective air-to-air missile. It has an excellent seeker head and can obtain all aspect lock on almost any air target within 3-5 km (even propeller aircraft with a low heat signature). However, the Stinger can be easily fooled by flares or outmanoeuvred by a fast enemy aircraft. The best way to use the Stinger against enemy aircraft is when they are heading directly towards you. If fired at the right second, most enemies will struggle to dodge a Stinger.
-
-If the enemy gets close, the 30 mm autocannon can be extremely effective. The gun will automatically aim with optical lock, so Apache pilots can aim accurately while taking evasive manoeuvres.
-
-'''Close Range Air-to-Ground (Gun and Rockets):'''
-
-At close range, the Apache has excellent offensive capability. The 30 mm autocannon is incredibly accurate even at surprisingly far distances. This cannon uses a High Explosive Dual Purpose round that can engage lightly armoured targets. Rocket pods can also be used, with the CCIP computer helping maintain accuracy even at further distances. Be careful when trying to use the Hellfire missile at close range. It can do a direct attack at closer ranges (rather than its usual top attack) but if fired at an odd angle, it may not have time to manoeuvre onto the target if fired at closer ranges.
-
-The problem with trying to engage at close range is that doing so will put the Apache in huge amounts of danger. Enemy tanks will be able to quickly destroy the Apache with their main guns or anti-aircraft machine guns.
-
-'''Long Range Air-to-Ground (Hellfire):'''
-[[File:HellfireTrajectory.png|thumb]]
-At longer ranges, the Hellfire missile can be used to full effect. The Hellfire will guide on its target as shown in the attached diagram. This is known as top attack. Being that it takes this path to the enemy target, the Hellfire can take upward of 30 seconds to reach its target at longer ranges. Do not fire at enemies that are about to move to cover, and make sure to fire multiple missiles at once in order to deal maximum damage. Because the Hellfire is laser guided, multiple missiles can be fired at once. They should be fired at intervals of 5-10 seconds, where between missiles the Apache can switch to a new ground target. This will allow for the quick destruction of multiple enemies. This tactic can be incredibly effective. Although the time to target for the most recently fired Hellfire is available on the HUD, pilots will have to keep track of all the missiles they have fired by memory and quick calculations.
-[[File:HellfireSequenceDemonstration.mp4|left|thumb]]
-Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cover and move unpredictably in combat. Use the radar warning receiver to obtain the general direction of enemy AA, and then attack with a Hellfire. An effective strategy is to fire a Hellfire, break optical lock to gain cover and avoid counterfire, and then pop back up and get lock again several seconds before the Hellfire hits. This strategy if applied correctly will result in a hit, as the Hellfire is smart enough to begin following the laser designator again once the Apache re-obtains its lock.
+''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
-* High top speed and manoeuvrability
-* Good air-to-air capability with autotracking 30mm gun and Stinger missiles
-* Good 30mm gun with HEDP belts; great against anything, especially fragile vehicles
-* Excellent secondary armament; can carry up to 16 Hellfires on top of 4 AAMs
-* Advanced countermeasure system with radar warning receiver (RWR) and Missile Alert Warning
-* Well armoured for a helicopter; may survive hits from SAMs
-* Excellent thermals and zoom
+'''Pros:'''
+
+*
 
 '''Cons:'''
-
-* Stinger air-to-air missiles don't turn well, aren't reliable, and don't have enough explosive mass to guarantee a kill upon a hit
-* Hellfires are difficult to guide to air targets due to their trajectory
-* Easily destroyed by main adversary ([[Ka-50]] & [[Ka-52]]) and enemy aircraft
-* 30 mm cannon is relatively inaccurate at range
 
 *
 

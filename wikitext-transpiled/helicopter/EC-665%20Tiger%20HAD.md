@@ -12,7 +12,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+During the late '80s and early '90s, Airbus, DASA, and Aérospatiale formed Eurocopter to create the next generation of European helicopters. Their most famous example was the Tiger helicopter, earning notorious on-screen fame after starring as an important plot point in the 1995 James Bond movie "''Goldeneye''". The Tiger and its derivatives would go on to have a long and prosperous life with many european countries, and were adapted into different variants to suit the needs of each operator. The Eurocopter Tiger family would be renamed to the Airbus EC665 Tiger after Eurocopter was renamed to Airbus Helicopters SAS. The HAD variant, standing for ''Hélicoptère d'Appui Destruction'', or "Helicopter for Support and Destruction", is a specially made version for the French air force which favours heavy frontline support and anti-tank duties over the older [[EC-665 Tiger HAP|HAP]] model. In 2022, Airbus and France reached an agreement to upgrade the existing Tiger HADs into [[Tiger HAD Block 2|a new block]], allowing them to carry better ordnance and avionics.
+
+Introduced in [[Update 1.91 "Night Vision"]], the Tiger HAD provides a great CAS option for the French tech tree in top rank tank battles, thanks to its great avionics (MAW), optics (Thermals), and decent selection of various missiles for various jobs, including Mistrals and Stingers for the air-to-air role, along with HOT-3 ATGMs and AGM-114K Hellfire missiles to provide longer range ground support. The HAD is a popular pick both for mixed battles and helicopter enduring confrontation PvE battles where it can make short work of targets from a safe distance thanks to its decent missile selection and great optics.
 
 == General info ==
 === Flight performance ===
@@ -67,19 +69,41 @@ This is one of the best-protected helicopters in the game, thanks to the composi
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm GIAT M781 cannon (450 rpg)
-** 1 x 30 mm GIAT M781 cannon + 64 x countermeasures
+* 1 x 30 mm GIAT M781 cannon, nose turret (450 rpg)
+* 64 x countermeasures
 
 The 30 mm cannon only fires high explosive ammo (4 mm penetration), so it is advised only to use it against aircraft and light-armoured, open-topped vehicles.
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114K Hellfire II|ATAS (AIM-92)|HOT-3|Mistral|SNEB type 23}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_EC-665_Tiger_UHT.png]]</div>
+|-
+! [[SNEB type 23]] rockets
+| 12 || 22 || 22 || 12
+|-
+! [[AGM-114K Hellfire II]] missiles
+| || 2, 4 || 2, 4 ||
+|-
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || 2
+|-
+! [[HOT-3]] missiles
+| || 2, 4 || 2, 4 ||
+|-
+! [[Mistral]] missiles
+| 2 || || || 2
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 44 x SNEB type 23 rockets
 * 68 x SNEB type 23 rockets
@@ -89,29 +113,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x AGM-114K Hellfire II missiles
 * 4 x ATAS (AIM-92) missiles
 * 4 x Mistral missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_EC-665_Tiger_UHT.png]]</div>
-|-
-! SNEB type 23 rockets
-| 12 || 22 || 22 || 12
-|-
-! AGM-114K Hellfire II missiles
-| || 2, 4 || 2, 4 ||
-|-
-! ATAS (AIM-92) missiles
-| 2 || || || 2
-|-
-! HOT-3 missiles
-| || 2, 4 || 2, 4 ||
-|-
-! Mistral missiles
-| 2 || || || 2
-|-
-|}
+{{Navigation-End}}
 
 === Defensive systems ===
 <!--''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.''-->

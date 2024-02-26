@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light cruiser {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The RN Bartolomeo Colleoni was the third ship of [[Condottieri_(Family)#Alberto di Giussano-class|Di Giussano-subclass]] laid down in 21 June 1928 and commissioned in 10 February 1932. Her first combat deployment was during the Spanish Civil War where she protected Italian forces in October 1936. The beginning of WW2 caught her in protecting Italian interests in the Far East, and she was recalled to Sicily, from where she unsuccessfully attempted to intercept French and British forces, as well as conducted minelaying and convoy escort duties. At 08:24 of 19 July 1940, she received her first hit - in the encounter that was later to be known as the Battle of Cape Spada. A salvo from [[HMNZS Leander|Leander-class]] HMAS ''Sydney'' hit the ship, jamming her rudder. Soon after, another salvo hit the bridge, killing most of the crew, and the main superstructure causing numerous fires. As she started losing her speed, British [[G and H class (Family)|H-class destroyers]] disabled two boilers, forcing the captain of the vessel to give the order to abandon ship at 08:30, a mere 6 minutes after receiving her first hit. Moments later, the vessel was sunk by two British torpedoes, causing her to capsize and sink, bow-first.
 
-Historically Bartolomeo Colleoni was the third ship of the [[Condottieri-class]], she was laid down in June 1928 and commissioned in February 1932. Compared to the later {{Specs-Link|it_cruiser_montecuccoli}} (laid down in October 1931) it had a significantly worse protection, completely lacking any armour around barbettes and having a weaker citadel armour. It was originally designed as a direct counter to the French large destroyers, thus speed was of a much more value than the armour.
+Introduced in [[Update "Starfighters"]] along with the first wave of Italian vessels, RN Bartolomeo Colleoni trades most characteristics for speed, making her excellent in capturing points and countering torpedo boats or low-BR destroyers, but completely unfit to deal with heavy cruisers, or even most light cruisers. She is best played as a support vessel, carefully planning position and targets to engage. When possible, hard cover or smoke should be used to break contact.
 
 == General info ==
 === Survivability and armour ===
@@ -101,6 +101,7 @@ Describe the history of the creation and combat usage of the ship in more detail
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[Condottieri (Family)|Condottieri Family]]
 * [[RN Raimondo Montecuccoli]]
 * [[Kerch (cruiser)|Kerch]]
@@ -113,6 +114,8 @@ Describe the history of the creation and combat usage of the ship in more detail
 * ''other literature.'' -->
 
 * [[wt:en/news/5481-fleet-development-the-first-light-cruisers-in-war-thunder-en|[Devblog] The first Light Cruisers in War Thunder]]
+* [[wikipedia:Italian cruiser Bartolomeo Colleoni|[Wikipedia] Italian cruiser Bartolomeo Colleoni]]
+* ''Anatomy of the Ship: The Cruiser Bartolomeo Colleoni'' by Franco Gay & Valerio Gay
 
 {{ShipManufacturer Ansaldo}}
 {{Italy light cruisers}}

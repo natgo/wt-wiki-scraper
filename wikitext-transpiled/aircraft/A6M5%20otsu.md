@@ -10,11 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.37]].
+The '''A6M5 mod. 52 Otsu''', designated as the '''Type 0 Carrier-based Fighter Model 52B ({{Annotation|零式艦上戦闘機五二型乙|Rei Shiki Kanjō Sentōki, Go Ni Gata Otsu}})''', is the second minor modification of the [[A6M5]]. The Model 52B (Otsu) retains the belt-fed [[Type 99 Model 2 (20 mm)|20 mm Type 99 mod.2 mark 4]] from the [[A6M5 Ko|Model 52A (Kō)]] with 125 rounds per gun rather than 100, but comes with an additional [[Type 3 (13.2 mm)|13.2 mm Type 3 machine gun]] in exchange for a single 7.7 mm machine gun. Other additions to the Model 52B include 45 mm thick armoured glass to the windscreen, a larger propeller spinner, and a revised gas outlet near the windscreen.
 
-Being the second minor modification of the [[A6M5|A6M5 mod. 52]], the A6M5 mod. 52B (Otsu) retains the belt-fed [[Type 99 Model 2 (20 mm)|Type 99 mod.2 mark 4 (20 mm)]] from the [[A6M5 Ko|Model 52A (Ko)]] with 125 rounds per gun rather than 100. The Model 52B (Otsu) comes with an additional [[Type 3 (13.2 mm)]] in exchange for a single 7.7 mm machine gun.
+It was introduced in [[Update 1.37]]. With all the modifications done to the A6M5 over the other [[A6M]]s, performance has improved but it faces stronger enemy aircraft which proportionally perform even better. While still unrivalled in manoeuvre dogfights capable of dodging, weaving, and out-turning the pursuer into getting on their six, staying on the six of an aircraft will be harder to maintain due to the higher top speeds all other aircraft will have over the A6M5. The {{PAGENAME}}'s 13.2 mm HMG gives the plane an additional tool to fight with, gaining additional damage output when using all guns, and still posing a threat if the 20 mm cannons run out. As last the main-production [[A6M]]s, the A6M5s in War Thunder also come with a late-war modification which allows them to be converted into {{Annotation|"bakusen"|Fighter-Bombers}}, mounting a 250 kg bomb in place of the centreline drop tank.
 
-Other additions to the Model 52B (Otsu) include 45 mm thick armoured glass to the windscreen, a larger propeller spinner was fitted, and a revised gas outlet near the windscreen.
+;Nicknames
+* IJN Pilot nickname: ''Reisen'' (零戦) / ''Zerosen'' (ゼロ戦) <small>(Abbreviation of 0 - {{Annotation|戦|Fight(er aircraft)}})</small>.
+* Allied reporting name: ''Zeke / Zero''.
 
 == General info ==
 === Flight performance ===
@@ -241,7 +243,7 @@ Playing the {{PAGENAME}} in realistic battles will allow players to easily explo
 ::::* Easily sets fire to air targets
 :::* HEF(T):
 ::::* Tracer can help you aim on target
-::::* The few rounds in the belt can still wreck havoc on enemy planes with their HE filler 
+::::* The few rounds in the belt can still wreck havoc on enemy planes with their HE filler
 </div>
 
 ::* Stealth: Great for Air battles
@@ -249,7 +251,7 @@ Playing the {{PAGENAME}} in realistic battles will allow players to easily explo
 :::* No tracers
 :::* HEF:
 ::::* Near full HE belt
-::::* Wrecks havoc on enemy planes with HE filler 
+::::* Wrecks havoc on enemy planes with HE filler
 :::* AP-I:
 ::::* Easily sets fire to air targets
 </div>

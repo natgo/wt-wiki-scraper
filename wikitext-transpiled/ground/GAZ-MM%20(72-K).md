@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (72-K gun mount on a GAZ-MM truck) is a rank {{Specs|rank}} Soviet self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''GAZ-AAA (72-K)''' is the third variant of the GAZ-AAA-based self-propelled anti-aircraft gun family. As more advanced enemy aircraft appear, a 25 mm 72-k autocannon is mounted on the GAZ-AAA truck to better protect ground units from enemy air raids.
 
-The 72-K is an autocannon, bringing a better gun to the playing field. Granted, it is still mounted on an unarmoured truck chassis, and the gun shield will only protect from light machine gun rounds.
-
-The main purpose of this vehicle is to destroy enemy aircraft, mostly it is used to defend friendly tanks from air attack. However, if used correctly, it can damage or even destroy tanks. The fact that the gun has to elevate to fire forward means that one should never face an enemy head-on in this truck. Whilst a player can still shoot aircraft while aiming the turret forwards, against low-flying attackers the task will be more complicated. Whenever possible, one side of this vehicle should have cover - if no targets are to the right of the truck, for instance, it would be senseless to leave the right flank exposed for nothing.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the GAZ-AAA (72-K) received significantly better armament than the previous two variants. While this vehicle has strong firepower against both air and ground units, its primary mission is to engage enemy aircraft. However, when used correctly, it has the potential to damage or even destroy enemy tanks from the sides. Players should still exercise caution, as the platform provides little overall protection for the crews.
 
 == General info ==
 === Survivability and armour ===
@@ -152,6 +150,7 @@ The vehicle's advantages lay in its high mobility and ease of manufacturing. The
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_gaz_mm_72k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -163,6 +162,7 @@ The vehicle's advantages lay in its high mobility and ease of manufacturing. The
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Sd.Kfz. 6/2]]
 
 == External links ==

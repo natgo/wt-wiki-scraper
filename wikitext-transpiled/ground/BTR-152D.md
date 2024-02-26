@@ -1,3 +1,8 @@
+{{About
+| about = Soviet SPAA '''{{PAGENAME}}'''
+| usage = the other version
+| link = BTR-152A
+}}
 {{Specs-Card
 |code=ussr_btr_152d
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}. It was introduced in [[Update "Kings of Battle"]].
+The '''BTR-152D''' is the second variant of the BTR-152-based self-propelled anti-aircraft gun family. The design incorporates four 14.5 mm KPVT heavy machine guns in a quad mount to increase its firepower. Other enhancements include an external tire pressure regulation system, a front-mounted winch, and night vision devices for the driver.
+
+Introduced in [[Update "Kings of Battle"]], the BTR-152D has a similar gameplay to its predecessor. However, firepower is greatly increased, making it much easier to bring down an enemy aircraft. Nonetheless, it is lightly armoured and should not be used to engage enemy vehicles as its primary objective.
 
 == General info ==
 === Survivability and armour ===
@@ -37,7 +44,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}.
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=156|rbMinHp=97}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -60,14 +67,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}.
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 2,400 (150) || rowspan="2" | 600 || rowspan="2" | -5°/+89° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 2,400 (150) || rowspan="2" | 600 || rowspan="2" | -5°/+89° || rowspan="2" | ±180° || rowspan="2" | - || 40.5 || 56.1 || 68.1 || 75.3 || 80.1 || rowspan="2" | 10.40 || rowspan="2" | 9.20 || rowspan="2" | 8.48 || rowspan="2" | 8.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 27.4 || 32.2 || 39.1 || 43.2 || 46.0
 |-
 |}
 
 ==== Ammunition ====
+
 * '''Universal:''' {{Annotation|AP-I|Armour-piercing incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|IAI|Immediate-action incendiary}}
 * '''API-T:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|AP-I(c)|Armour-piercing incendiary (cermet core)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|IAI|Immediate-action incendiary}}
 * '''IAI:''' {{Annotation|IAI|Immediate-action incendiary}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
@@ -98,13 +106,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* 4 x [[KPVT (14.5 mm)]] HMGs will make short work of any planes at its battle rating
+* Enough penetration to deal with light targets frontally and most medium targets from sides or rear at its BR
 
 '''Cons:'''
-*
+
+* Open-topped, thus vulnerable to strafing from enemy planes and HE rounds fired by tanks/artillery fire
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -118,15 +128,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet SPAA {{Battle-rating}}.
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+
+* [[BTR-152A]] - same chassis but with 2 [[KPVT (14.5 mm)]] instead of 4
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

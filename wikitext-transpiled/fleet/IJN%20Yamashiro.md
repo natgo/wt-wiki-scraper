@@ -1,6 +1,7 @@
 {{Specs-Card
 |code=jp_battleship_yamashiro
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|store=12859
 }}
 
 == Description ==

@@ -45,7 +45,7 @@ Another major difference is that the driver is moved to the right side of the hu
 ! Composite armour !! Frontal effective protection
 |-
 | Hull
-| '''Upper glacis (ERA counted):''' <br> 550-900 mm ''Kinetic'' / 750-1,600 mm ''Chemical''
+| '''Upper glacis (ERA counted):''' <br> 600-900 mm ''Kinetic'' / 1,200-1,900 mm ''Chemical''
 |-
 | Turret
 | '''Turret cheeks (ERA counted):''' <br> 750-1,000 mm ''Kinetic'' / 1,200-1,700 mm ''Chemical'' <br> '''Upper gun mantlet (ERA counted):''' <br> 500-650 mm ''Kinetic'' / 600-1,200 mm ''Chemical'' <br> '''Lower Gun mantlet:''' <br> 200-550 mm ''Kinetic'' / 300-600 mm ''Chemical''
@@ -54,9 +54,7 @@ Another major difference is that the driver is moved to the right side of the hu
 {| class="wikitable"
 ! Explosive reactive armour !! Front (Slope angle) !! Sides !! Roof
 |-
-| Hull || '''Upper glacis:''' <br> '''FY-4 (67°, 70°, 81°):''' <br> 140 mm ''Kinetic''/ 450 mm ''Chemical''
-!
-!
+| Hull || '''Upper glacis:''' <br> '''FY-4 (67°, 70°, 81°):''' <br> 180 mm ''Kinetic'' / 550 mm ''Chemical'' || N/A || N/A
 |-
 | Turret || '''Upper turret cheeks, gun mantlet:''' <br> '''FY-5 (67°, 70°, 81°):''' <br> 250 mm ''Kinetic'' / 600 mm ''Chemical'' <br> '''Lower turret cheeks:''' <br> '''FY-5 (22-26°):''' <br> 250 mm ''Kinetic'' / 600 mm ''Chemical'' || '''Front:''' <br> '''FY-5 (3°):''' <br> 250 mm ''Kinetic'' / 600 mm ''Chemical'' <br> '''Slat armour:''' <br> '''FY-4:''' <br> 50 mm ''Kinetic'' / 350 mm ''Chemical'' || '''FY-1D1:''' <br> 30 mm ''Kinetic'' / 300 mm ''Chemical''
 |-
@@ -111,7 +109,7 @@ The new ZPT99A gun on ZTZ99A is similar to previous ZPT98 gun, both gun share ve
 
 '''DTB-125; HE''' - The stock DTB-125 HE shell is one of the strongest of any top-rank MBT. It can actually cause more damage to MBTs than the HEAT-FS round if fired at turret rings, hull roofs, and turret cupolas, due to overpressure damage. Well placed impacts have a good chance of transmitting the shockwave into the crew compartment and knocking the target out instantly, even against the toughest MBTs like the [[Strv 122A]]. It helps to keep a few HE rounds around even after APFSDS is unlocked as they excel at causing pressure damage to light targets.
 
-'''125-I APFSDS''' - The 125-I APFSDS round is a tier 1 modification. Though it first appeared on the [[ZTZ96]], it is still used by the latest ZTZ99A and eases the stock grind considerably. It has very similar flat penetration and superior angled penetration to the 3BM42 "Mango" round used by Soviet tanks and can penetrate most contemporary opponents through at least the lower front plate and gun breech.
+'''125-I APFSDS''' - The stock 125-I APFSDS round is a shell with pen of 466mm . Though it first appeared on the [[ZTZ96]], it is still used by the latest ZTZ99A and eases the stock grind considerably. It has very similar flat penetration and superior angled penetration to the 3BM42 "Mango" round used by Soviet tanks and can penetrate most contemporary opponents through at least the lower front plate and gun breech.
 
 '''DTC10-125 APFSDS''' - Waiting as a tier 4 modification is the DTC10-125 APFSDS round, a high mass and high velocity shell with only slightly worse performance compared to 3BM60 on the [[T-80BVM]]. This will be the go-to round for the ZTZ99A and most targets at the rank are unlikely to withstand a penetrating shot from this shell.
 
@@ -168,7 +166,7 @@ Like its predecessors, to ensure the best survivability, only bring 23 shells at
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-As the spearhead of the current PLAGF armoured corps, thanks to the vastly improved mobility compared to its predecessors and new technologies intergrated onto ZTZ99A, it has better handling than its predecessors and is comparable to NATO vehicles in terms of its power-to-weight ratio and top speed. The newly designed tank also has very similar protection to its predecessors while parts of its turrets are replaced by brand new FY-5 ERA blocks and the top is covered by FY-1DA ERA blocks, improving its survivability against top-down attacks. However, the mantlet is still lightly protected compared to other MBTs at its rank, a penetrating shot is now even more likely to cause a breech knockout or even lethal damage to the gun crews. In terms of the hull, although it was remarked to have the protection of a ZTZ99 and the driver has been moved to the left side, the age-old problem of a huge LPF and less protected area over the driver can certainly ruin a player's day at top tier. So it is better to keep the ZTZ99A away from heated battlefields or make sure to cover the LFP and mantlet as much as possible. In case of complicated terrains, either avoid them or quickly dig for cover with the dozer blade modification.
+As the spearhead of the current PLAGF armoured corps, thanks to the vastly improved mobility compared to its predecessors and new technologies integrated onto ZTZ99A, it has better handling than its predecessors and is comparable to NATO vehicles in terms of its power-to-weight ratio and top speed. The newly designed tank also has very similar protection to its predecessors while parts of its turrets are replaced by brand new FY-5 ERA blocks and the top is covered by FY-1DA ERA blocks, improving its survivability against top-down attacks. However, the mantlet is still lightly protected compared to other MBTs at its rank, a penetrating shot is now even more likely to cause a breech knockout or even lethal damage to the gun crews. In terms of the hull, although it was remarked to have the protection of a ZTZ99 and the driver has been moved to the left side, the age-old problem of a huge LPF and less protected area over the driver can certainly ruin a player's day at top tier. So it is better to keep the ZTZ99A away from heated battlefields or make sure to cover the LFP and mantlet as much as possible. In case of complicated terrains, either avoid them or quickly dig for cover with the dozer blade modification.
 
 In the firepower department, ZTZ99A also comes with a wide variety of shells; the darts, although having somewhat below average penetration, are overall still sufficient enough to knock-out most western vehicles aside from Strv 122; when facing Russians though, in case players are not confident in the darts, the GP125 tandem ATGM is an alternative to melt through Russian MBTs. While both HE shells seemed similar, the stock DTB-125 is still among the most hard-hitting HE shell at top tier while the new DTB12-125 is a VT shell, meaning that any aircraft that comes close to its 7 m triggering range will have a very bad day thanks to its explosive content. So bringing a variety of shells is viable to make the ZTZ99A more versatile or sometimes have the capability to deliver a last-ditch strike back.
 
@@ -183,16 +181,16 @@ In the firepower department, ZTZ99A also comes with a wide variety of shells; th
 ** Dual-flow transmission and shorter chassis enables a tighter turning radius
 * Powerful guns with variety of shells ranging from darts up to ATGM
 * Very similar sturdy protection to its predecessors
-* Faster horizontal traverse speed for the gun
+* Faster horizontal and vertical traverse speed for the gun
 
 '''Cons:'''
 
 * Still suffers from a huge LFP and insufficient mantlet protection
 * Has the infamous "NATO hump" that hinders firing arc at rear angles
-* Insufficient vertical traverse speed in case of a sudden strike
 * Thin side armour, can be penetrated by IFVs and aircraft
 * Relatively large profile compared to previous PLAGF tanks
 * DTC10-125 has somewhat low penetration for a top tier shell
+* Low reload rate at top tier
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

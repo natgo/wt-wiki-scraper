@@ -142,10 +142,9 @@ File:Westfalen WTWallpaper 006.jpg|
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+;[[Nassau (Family)|Related development]]
+* [[SMS Nassau]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

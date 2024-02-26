@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The Dassault MD 452 Mystère II was developed using the MD 450 as a basis, it was basically an improvement of the design, with more powerful engines and a swept wing design that allowed higher top speeds and better agility at high energy states. The M.D 452 IIA was one of the earlier preproduction variants of the Mystere II. With the second and third prototypes receiving this designation, unlike further variants this ones were powered by a Rolls-Royce Tay engine.
+
+It was introduced in [[Update 1.73 "Vive la France"]]. The M.D 452 IIA is very simmilar to the earlier M.D 450 Mystere, but it relies more on its performance at higher speeds. At its BR is not the fastest nor the slowest, it sits in a middle point, with a dimmilar playstyle to delta wing fighter, since it bleeds energy quickly during sharp turns and other movements. Thus it is important to remain fast at all moments, picking up enemies thay are not paying attention and playing as a support fighter.
 
 == General info ==
 === Flight performance ===
@@ -178,6 +180,7 @@ However, the M.D.452 IIA failed to enter service, as it was rapidly replaced by 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=md_452_mystere_2a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -189,6 +192,7 @@ However, the M.D.452 IIA failed to enter service, as it was rapidly replaced by 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of a similar configuration, role or era
+
 * [[F-86F-25]]
 * [[MiG-15]]
 * [[G.91 R/3]]

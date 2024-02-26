@@ -18,27 +18,31 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rat
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+While armour isn't very favourable on the {{PAGENAME}} compared to the [[Pz.38(t) F]] at the same BR, it makes that in less weight and a better engine, allowing it to get into more favourable positions quicker; be it finding a good sniping/ambush spot or driving out an incoming shell. 
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+'''Armour type:'''  <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+* Rolled homogeneous armour
+* Cast homogeneous armour (gun manlet)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 30 mm || 25 mm ''Top'' <br> 25 mm ''Bottom'' || 20 mm || 10 - 20 mm
+| Hull || 30 mm (20º) ''Front plate'' 
+20 mm (75º) ''Upper glacis'' 30 mm (15º) ''Lower glacis'' 
+| 25 mm || 20 mm (5º) || 10 - 20 mm
 |-
-| Turret || 30 - 50 mm ''Turret front'' <br> 50 mm ''Gun mantlet'' || 12 - 25 mm || 12 - 20 mm || 12 mm
+| Turret || 30 mm (6º) ''Turret front'' <br>50 mm (5-38º) ''Gun mantlet'' || 12 - 25 mm || 20 mm (12º) || 12 mm (83º)
 |-
-| Cupola || 20 mm || 25 mm || 20 mm || 12 mm
+| Cupola || 20 mm (25º) || 25 mm (9º) || 20 mm (23º) || 12 mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
-
+* Two tracks on the upper glacis provide an additional 7.5 mm of protection.
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->

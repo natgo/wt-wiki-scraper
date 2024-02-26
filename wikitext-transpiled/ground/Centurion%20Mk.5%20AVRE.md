@@ -6,14 +6,15 @@
 {{Specs-Card
 |code=uk_centurion_mk_5_avre_era
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_001.jpg|StoreImage_{{PAGENAME}}_002.jpg|StoreImage_{{PAGENAME}}_004.jpg}}
-|store = 6225
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The Centurion Mk.5 Armoured Vehicle Royal Engineers was designed for clearing minefields using a Giant Viper towed mine-clearance system, destroying fortified positions with its 165 mm L9A1 demolition gun capable of firing 60 lb (29 kg) HESH rounds, and overall providing cover and safe working space for the engineers. The AVRE was also equipped with a dozer blade for clearing up debris. In preparation for Operation Desert Storm in 1991, Centurion AVREs were uparmoured and remained in service until replaced by the Chieftain AVRE and Trojan vehicles in service.
 
-Introduced to War Thunder in Update "Project X", the Centurion AVRE is one of the two vehicles utilizing the 165 mm L9A1 demolition gun (along with the American [[M728 CEV]]). The AVRE features standard Centurion series armour protection which is enhanced against chemical and kinetic rounds using ROMOR-A ERA plates on the turret and upper front plate of the hull. The ERA enhances protection against kinetic rounds by 30 mm and against chemical rounds by 300 mm. The AVRE performs much better in urban environments, as the very low muzzle velocity of the gun and quite poor mobility can cause issues on very large and open maps.
+Introduced in [[Update 1.79 "Project X"]] as a premium pack, the Centurion AVRE is one of the two vehicles utilizing the 165 mm L9A1 demolition gun (along with the American [[M728 CEV]]). The AVRE features standard Centurion series armour protection which is enhanced against chemical and kinetic rounds using ROMOR-A ERA plates on the turret and upper front plate of the hull. The ERA enhances protection against kinetic rounds by 30 mm and against chemical rounds by 300 mm. The AVRE performs much better in urban environments, as the very low muzzle velocity of the gun and quite poor mobility can cause issues on very large and open maps.
+
+The Centurion Mk.5 AVRE was removed from purchase on the store after the [[wt:en/news/8677-shop-the-new-year-sale-in-the-gaijinnet-store-en|2023 New Year Sale]].
 
 == General info ==
 === Survivability and armour ===
@@ -159,6 +160,7 @@ In the 1960s, the British army felt the need for a modern multi-functional engin
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_centurion_mk_5_avre_era Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -1,3 +1,8 @@
+{{About
+| about = attack helicopter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Mi-24 (Family)
+}}
 {{Specs-Card
 |code=mi_24d_hungary
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian attack helicopter {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]].
+The Mi-24D entered production in 1973 and was the first major upgrade compared to the earlier Mi-24A. It was armed with a single 12.7 mm four-barrel Yak-B machine-gun under the nose. It could also carry four 57 mm rocket pods, four SACLOS 9M17 Phalanga anti-tank missiles, clearly putting efforts into making the Mi-24 a pure gunship with excellent offensive capabilities. During the Cold War, the Hungarian Air Force was heavily focused in anti-air defences, and not so much on offensive capabilities. Thus, their first Mi-24 helicopters were received from Germany in 1993, since they inherited a large arsenal of Soviet armament that they could not operate, a total of 20 Mi-24D/Vs were sent as a gift to Hungary.
+
+It was introduced in [[Update "Sons of Attila"]]. The '''{{Specs|name}}''' is a very good multirole helicopter, capable of a good top speed although lacklustre agility compared to lighter helicopters like the AH-1 Cobra. The armament is excellent for its BR, especially in helicopter Arcade Battles, with Falanga ATGMs and S-24 rockets, coupled with a ballistics computer. The gun however is very mediocre, being only 12.7 mm. The helicopter is very vulnerable to SPAA fire, especially from [[Gepard]]s and other cannon-armed anti-air vehicles, however it has some resistance against air-to-air missiles since it has access to countermeasures.
 
 == General info ==
 === Flight performance ===
@@ -16,13 +23,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian attack helicopter {{Ba
 {| class="wikitable" style="text-align:center"
 |-
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 1,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 |-
 ! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}}
+| 311 || 292 || rowspan="2" | {{Specs|ceiling}}
 |-
 ! Upgraded
 | ___ || ___
@@ -94,6 +101,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
 * 128 x S-5K rockets
@@ -172,8 +180,8 @@ Due to your good speed and armour as well as the fact that there will likely alw
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
 * [[Mi-24 (Family)]]
-* [[Mi-24D (USSR)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

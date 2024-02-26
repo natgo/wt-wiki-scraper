@@ -100,11 +100,11 @@ Go for parts and FPE (safety first) and then go for the AP and HEATFS shells so 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|SGMT (7.62 mm)}}
+{{main|Type 59 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[SGMT (7.62 mm)|7.62 mm SGMT]]
+! colspan="5" | [[Type 59 (7.62 mm)|7.62 mm Type 59]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-

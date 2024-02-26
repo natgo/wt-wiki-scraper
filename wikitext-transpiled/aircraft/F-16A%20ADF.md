@@ -194,6 +194,7 @@ The MiG-29 at high altitude can be dangerous if the opponent utilizes [[R-27ER]]
 * Excellent manoeuvrability at low to medium speeds
 * Decent top speed
 * 20 mm Vulcan cannon has high velocity and rate of fire
+* Able to carry the [[AIM-7 Sparrow]] SARH missile, allowing the {{PAGENAME}} to engage targets outside of the range of your 9Ls
 * Six powerful missiles: up to six all aspect AIM-9Ls and up to two potent SARH AIM-7Ms
 * Drop tank available to extend range
 * Bubble canopy with excellent unobstructed 360° visibility gives great situational awareness in simulator mode
@@ -202,8 +203,7 @@ The MiG-29 at high altitude can be dangerous if the opponent utilizes [[R-27ER]]
 
 * Lacks any air-to-ground suspended ordnance whatsoever
 * Internal M61 cannon has a small ammo pool
-* Very hot engine temperature
-* Extremely high fuel consumption on afterburner
+* Heavier than the F-16A; Worse raw flight performance
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

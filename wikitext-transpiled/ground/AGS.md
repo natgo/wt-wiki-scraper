@@ -6,27 +6,26 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Battle-rating}}. It was introduced during [[Update "Winged Lions"]] as a reward for the [[wt:en/news/7469-event-operation-w-i-n-t-e-r-en|2021 Operation W.I.N.T.E.R.]] event. The AGS is derived from the "Expeditionary Tank", an experimental tank made in the 1980s by General Dynamics.
+The usage of the [[M551]] Sheridan airborne/reconnaissance tank in combat in places like Vietnam enabled the United States to gather experience on what they like or didn't like about the lightweight armored vehicles in combat operations. This allowed the United States to establish the baseline requirements when opening the Armored Gun System (AGS) program to find a replacement to the M551 for their airborne forces. One contender in this contest was Teledyne Continental Motors (TCM), which produced their own AGS design in the early 1980s. Their design was submitted and was distinguished for its unmanned turret when compared to competitors like the [[CCVL]]. However, the CCVL ended up winning the AGS program and the TCM AGS design was not adopted. TCM continued to utilize their AGS design for export sales attempt after the program's conclusion.
+
+Introduced during [[Update "Winged Lions"]] as a reward for the [[wt:en/news/7469-event-operation-w-i-n-t-e-r-en|2021 Operation W.I.N.T.E.R.]] event, the AGS presents a unique platform for American operators with its unmanned turret on top. The sheer small size of the turret sticking on top of the hull makes this vehicle extremely survivable in a hull-down position as enemies would struggle to incapacitate the vehicle due to the tiny target the turret presents, and the right attack angle needed to damage the critical components and crew in the AGS hull. With a -10 degree gun depression, the AGS can be quite useful in hull-down positions against enemies as well. That said, if the AGS gets targeted by anything equipped with autocannons and above, they will quite easily shred it apart. So the AGS is best used once an ideal hull-down location can be found that hides the hull but exposes the turret, but don't plan to stay very long lest artillery or a bomb finds the AGS' position.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The Teledyne Light Tank is primarily made out of Aluminium alloy 7039 all around. The sides are covered by two sets of composite screens. However, it's important to note that the TCM AGS is a light tank and its survivability is suboptimal.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+* Aluminium alloy 7039
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 38.1 mm (25°) + 12.7 mm (59-77°) ''Front glacis'' <br> 25.4 mm (82°) ''Upper glacis'' || 25.4 mm ''Top'' <br> 25.4 mm ''Bottom'' || 25.4 mm (11°) || 25.4 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 25.4 mm ''Gun mantlet'' || 25.4  mm || 25.4 mm || 25.4 mm
 |-
 |}
 
@@ -51,14 +50,14 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Bat
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[M68A1 (105 mm)|105 mm M68A1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[M68A1 (105 mm)|105 mm M68A1]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 30 || rowspan="2" | -10°/+16° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00
+| rowspan="2" | 30 || rowspan="2" | -10°/+16° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0
@@ -66,7 +65,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Bat
 |}
 
 ==== Ammunition ====
-{{:M68A1 (105 mm)/Ammunition|M456A2, M416, M393A2, M774, M735}}
+{{:M68A1 (105 mm)/Ammunition|M456A2, M416, M393A2, M774, M833}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -113,7 +112,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Bat
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 3,000 (200) || 941 || N/A || N/A
+| Coaxial || 3,000 (200) || 941 || - || -
 |-
 |}
 

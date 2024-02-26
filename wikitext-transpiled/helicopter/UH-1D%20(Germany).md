@@ -67,34 +67,35 @@ Huey also lacks a ballistic computer, making its unguided rockets somewhat inacc
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-22|FFAR Mighty Mouse|TDA|M134 Minigun (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 38 x FFAR Mighty Mouse rockets
-* 44 x TDA rockets
-* 2 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 3,000 total)
-* 6 x AGM-22 missiles
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="18%" | 1 !! width="18%" | 2
 | rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_UH-1B_(Japan).png]]</div>
 |-
-! FFAR Mighty Mouse rockets
-| 19 || 19
-|-
-! TDA rockets
-| 22 || 22
-|-
-! 7.62 mm M134 Minigun machine guns (1,500 rpg)
+! [[M134 Minigun (7.62 mm)|7.62 mm M134 Minigun]] machine guns (1,500 rpg)
 | 1 || 1
 |-
-! AGM-22 missiles
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 19
+|-
+! [[TDA]] rockets
+| 22 || 22
+|-
+! [[AGM-22]] missiles
 | 3 || 3
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 38 x FFAR Mighty Mouse rockets
+* 44 x TDA rockets
+* 2 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 3,000 total)
+* 6 x AGM-22 missiles
+{{Navigation-End}}
 
 '''FFAR Mighty Mouse rockets''' - stock armament available from the get go. They are launched in pairs and have up to 290 mm of penetration. They are also slightly faster than the TDA rockets and have slightly bigger explosive mass. Sadly their warhead is not powerful enough to cause indirect kills, meaning the player needs to land a hit directly on the enemy tank in order to take him out.
 

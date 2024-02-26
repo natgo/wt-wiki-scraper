@@ -51,38 +51,11 @@ The Harukaze will move away from the Japanese playstyle of torpedo-centric doctr
 
 Equipped with 2 quad turrets in the front and back of the ship, both Bofors mounts have excellent angles to engage targets and pour out enough lead to deal considerable damage to heavier coastal vessels and destroyers alike within close range. The quad mounts also will be effective at taking out pilots who aren't careful enough at medium range.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| 40 mm HEFI-T || HEFI-T || 3 || 3 || 3 || 3 || 3 || 3
-|-
-| 40 mm AP-T || AP-T || 81 || 78 || 68 || 58 || 49 || 41
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 40 mm HEFI-T || HEFI-T || 874 || 0.9 || 0 || 0.1 || 67.13 || 79° || 80° || 81°
-|-
-| 40 mm AP-T || AP-T || 874 || 0.89 || N/A || N/A || N/A || 47° || 60° || 65°
-|}
+* '''Universal:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
+* '''40 mm HE clips:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
+* '''40 mm AP clips:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
+
+{{:Bofors L/60 Mark 2 (40 mm)/Ammunition|HEFI-T, AP-T}}
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}

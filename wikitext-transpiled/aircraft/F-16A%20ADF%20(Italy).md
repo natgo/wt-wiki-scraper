@@ -123,11 +123,11 @@ The F-16 ADF is not very armoured, so enemy aircraft can easily tear into your j
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}}
+| {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -137,38 +137,38 @@ The F-16 ADF is not very armoured, so enemy aircraft can easily tear into your j
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
-** 1 x 20 mm M61A1 cannon + 60 x countermeasures
+* 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AIM-7M Sparrow|AIM-9L Sidewinder}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 1 x 300 gal drop tank
-* 2 x AIM-9L Sidewinder missiles
-* 6 x AIM-9L Sidewinder missiles
-* 2 x AIM-7M Sparrow missiles
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
 | rowspan="4" width="25%" | <div class="ttx-image">[[File:Hardpoints_F-16A_ADF.png]]</div>
 |-
-! AIM-7M Sparrow missiles
+! [[AIM-7M Sparrow]] missiles
 | || || 1 || || 1 || ||
 |-
-! AIM-9L Sidewinder missiles
+! [[AIM-9L Sidewinder]] missiles
 | 1 || 1 || 1 || || 1 || 1 || 1
 |-
 ! 300 gal drop tanks
 | || || || 1 || || ||
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 300 gal drop tank
+* 2 x AIM-9L Sidewinder missiles
+* 6 x AIM-9L Sidewinder missiles
+* 2 x AIM-7M Sparrow missiles
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

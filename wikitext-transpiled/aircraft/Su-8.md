@@ -96,11 +96,41 @@ The smaller calibre ShKAS machine guns are also an important asset to this aircr
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)}}
-{{main|M-8|M-13UK|RBS-82|RBS-132}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FAB-100sv (100 kg)|100 kg FAB-100sv]] bombs
+| || 3 || 3 || 3 ||
+|-
+! [[FAB-250sv (250 kg)|250 kg FAB-250sv]] bombs
+| || || 3 || ||
+|-
+! [[FAB-500sv (500 kg)|500 kg FAB-500sv]] bombs
+| || || 2 || ||
+|-
+! [[M-8]] rockets
+| 5 || || || || 5
+|-
+! [[M-13UK]] rockets
+| 5 || || || || 5
+|-
+! [[RBS-82]] rockets
+| 5 || || || || 5
+|-
+! [[RBS-132]] rockets
+| 5 || || || || 5
+|-
+| colspan="6" | Maximum permissible loadout weight: 1,450 kg<br>Maximum permissible weight imbalance: 500 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 10 x M-8 rockets
 * 10 x RBS-82 rockets
@@ -111,37 +141,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 500 kg FAB-500sv bombs (1,000 kg total)
 * 10 x RBS-82 rockets + 3 x 250 kg FAB-250sv bombs (750 kg total)
 * 10 x M-13UK rockets + 2 x 500 kg FAB-500sv bombs (1,000 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 100 kg FAB-100sv bombs
-| || 3 || 3 || 3 ||
-|-
-! 250 kg FAB-250sv bombs
-| || || 3 || ||
-|-
-! 500 kg FAB-500sv bombs
-| || || 2 || ||
-|-
-! M-8 rockets
-| 5 || || || || 5
-|-
-! M-13UK rockets
-| 5 || || || || 5
-|-
-! RBS-82 rockets
-| 5 || || || || 5
-|-
-! RBS-132 rockets
-| 5 || || || || 5
-|-
-| colspan="6" | Maximum permissible loadout weight: 1,450 kg<br>Maximum permissible weight imbalance: 500 kg
-|-
-|}
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

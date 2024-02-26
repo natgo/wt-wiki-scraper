@@ -10,13 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British utility helicopter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+Development on the Lynx began in the mid 1960s, when Westland sought a replacement for its existing Scout and Wasp helicopters, while also wanting to provide a more advanced alternative to the UH-1 Iroquois. After some delays, the first prototype was ready for testing by the early '70s. In March 1971, the prototype conducted its maiden flight. In further sorties, the Lynx managed to break a number of world speed records for helicopters. the British Army placed an order for 100 units of the type to be produced in the mid '70s. Subsequently, the Lynx received its official army designation. Lynx helicopters found themselves taking part in numerous conflicts, including the Falklands and Gulf wars, military interventions on the Balkans during the 1990s, anti-piracy efforts in Somalia and many more thanks to their ongoing service today. In total, around 450 Lynx helicopters of various modifications have been produced by 2009, with production still ongoing today.
 
-The Lynx helicopter was developed by the Westland company in the mid 1960s and had its first flight in 1971, entering service with the military of the United Kingdom a scant few years later in 1978. A versatile, incredibly fast and nimble platform both in game and real service.
-
-The Lynx represents a complete game change for British helicopter pilots. Compared to the Wasp, the Lynx might as well be space-age technology. It's faster, more agile, and sports a wide array of combat payloads from Hydra-70 rocket pods up to the fearsome AGM-114B Hellfire guided missiles. The guns return with the option to take a 20 mm Oerlikon cannon and regardless of your loadout there is always an option for a pair of AIM-92 Stinger missiles to round out the complement and help fend off enemy aircraft. All this weaponry can be guided and supported by a suite of equipment such as thermal imaging gunner sights and plentiful flare/chaff pods.
-
-In the right hands the Lynx AH Mk.1 is a terrifying force on the battlefield that can dance through the skies with such grace and speed one would be forgiven for thinking it a jet.
+It was introduced in [[Update 1.91 "Night Vision"]]. The Lynx represents a complete game change for British helicopter pilots when compared to the Wasp. It's faster, more agile, and sports a wide array of combat payloads from Hydra-70 rocket pods up to the fearsome AGM-114B Hellfire guided missiles. The guns return with the option to take a 20 mm Oerlikon cannon and regardless of your loadout there is always an option for a pair of AIM-92 Stinger missiles to round out the complement and help fend off enemy aircraft. All this weaponry can be guided and supported by a suite of equipment such as thermal imaging gunner sights and plentiful flare/chaff pods. However the survivability is poor since it lacks armour, and the zoom for the gunner optics is extremely poor, so target acquisition at long ranges may prove challenging.
 
 == General info ==
 === Flight performance ===
@@ -168,17 +164,21 @@ Hellfires can be left to their own devices through the use of their Laser + IOG 
 In conclusion, the Lynx can be employed very flexibly in a large number of ways. The player can choose to use it as a long-range Hellfire sniper, or an agile and slippery rocket-pod sporting hunter, menacing SPAA and light vehicles by getting within their comfort zones.
 
 === Pros and cons ===
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* Able to carry 8 powerful AGM-114B Hellfires
+* Able to carry 8 powerful AGM-114B Hellfires which can scrap any tank
 * Incredibly agile airframe
-* Able to supplement AT missile loadouts with AAMs and 20 mm cannon
+* Able to supplement anti-tank loadouts with anti-air missiles and/or 20 mm autocannon
+* Turret can track locked target without further pilot input, can use ATGM like AAM if required as a side effect
+* Has functional holographic scope for rockets in cockpit view (but not in 3rd person view), allowing for aiming consistency at a certain price
 
 '''Cons:'''
 
-* AAMs are unreliable and cannot pull many Gs, mostly used as a scare rather than a real weapon
-* The 20 mm cannon is fixed on the left side of the helicopter and not able to be aimed independently of the aircraft's nose
 * Will encounter some powerful aircraft at its tier that its defensive armaments will do little to protect it from
+** AAMs are unreliable and cannot pull many Gs, mostly used as a scare rather than a real weapon
+** The 20 mm cannon is fixed on the left side of the helicopter and not able to be aimed independently of the aircraft's nose, has little to no effect on tanks
+* Although this helicopter is super agile and can do extreme aerobatics, it will do little to protect the helicopter from HE-VT fired by some light tanks and overzealous SPAA
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

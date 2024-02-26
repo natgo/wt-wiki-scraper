@@ -67,6 +67,6 @@
 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|wGrhRQ3yrFs|'''The Shooting Range #262''' - ''Pages of History'' section at 03:44 discusses the first Italian attack helicopters.}}
+{{Youtube-gallery|4jEBEpuvTMU|'''Agusta Helicopters: Second Life''' - ''War Thunder Official Channel''|wGrhRQ3yrFs|'''The Shooting Range #262''' - ''Pages of History'' section at 03:44 discusses the first Italian attack helicopters.}}
 
 [[Category:Helicopters by country]]

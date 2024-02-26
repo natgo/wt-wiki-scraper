@@ -95,7 +95,7 @@ The only downside of the Dicker Max's firepower are the limited horizontal trave
 ! 2nd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''26''' || style="text-align:right" | ''Projectiles''<br />''Propellants'' || 14&nbsp;''(+12)''<br />14&nbsp;''(+12)'' || 1&nbsp;''(+25)''<br />1&nbsp;''(+25)'' || Yes
+| '''26''' || style="text-align:right" | ''Projectiles''<br />''Propellants'' || 13&nbsp;''(+13)''<br />13&nbsp;''(+13)'' || 1&nbsp;''(+25)''<br />1&nbsp;''(+25)'' || Yes
 |-
 |}
 

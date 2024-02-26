@@ -1,3 +1,8 @@
+{{About
+| about = jet fighter '''{{PAGENAME}}'''
+| usage = the other version
+| link = F-8E
+}}
 {{Specs-Card
 |code=f-8e_fn
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -5,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-After failing to design a suitable replacement for the Sud-Est Aquilon, the French looked toward the U.S. for a naval fighter. The French Navy would later select the Vought F-8 Crusader, a single-seat fighter that could serve aboard the smaller French carrier vessels. This required a few airframe modifications like a larger tailplane and more responsive control surfaces. The F-8E (FN) would keep the four 20-mm cannons and the ability to fire AIM-9Bs; however, it was modified to also launch the Matra R530. France ordered 42 Crusaders and would use them for over 30 years until the Dassault Rafale replaced them. 
+After failing to design a suitable replacement for the Sud-Est Aquilon, the French looked toward the U.S. for a naval fighter. The French Navy would later select the Vought F-8 Crusader, a single-seat fighter that could serve aboard the smaller French carrier vessels. This required a few airframe modifications like a larger tailplane and more responsive control surfaces. The F-8E (FN) would keep the four 20-mm cannons and the ability to fire AIM-9Bs; however, it was modified to also launch the Matra R530. France ordered 42 Crusaders and would use them for over 30 years until the Dassault Rafale replaced them.
 
-Introduced in [[Update "Direct Hit"]], the '''{{Specs|name}}''' is a decent aircraft but with major disadvantages. Firstly, the F-8E (FN) lacks any countermeasures which is a big disappointment for its battle rating where high G missiles are quite common. It can also carry only two Matra Magic 1s which have a short range compared to AIM-9D Sidewinders. The F-8E (FN) also lacks any ground ordnance, so ground attack abilities are very limited. Overall, the F-8E (FN) is okay but the lack of countermeasures, long-range missiles, and ground ordnance greatly limits its capability. 
+Introduced in [[Update "Direct Hit"]], the '''{{Specs|name}}''' is a decent aircraft but with major disadvantages. Firstly, the F-8E (FN) lacks any countermeasures which is a big disappointment for its battle rating where high G missiles are quite common. It can also carry only two Matra Magic 1s which have a short range compared to AIM-9D Sidewinders. The F-8E (FN) also lacks any ground ordnance, so ground attack abilities are very limited. Overall, the F-8E (FN) is okay but the lack of countermeasures, long-range missiles, and ground ordnance greatly limits its capability.
 
 == General info ==
 === Flight performance ===
@@ -47,6 +52,7 @@ Speed-wise, the French Crusader is victim to a strange effect, that makes it oft
 |-
 |}
 The Crusader is a heavy carrier-borne fighter. Because of its weight, it is constructed with a variable angle of attack wing plane. This means that the wings can change position to act as a single, giant, take-off flap (see picture). This feature is not associated to the "variable geometry" control input, but rather is considered the Landing position of the flaps.
+[[File:WT wiki F8E(FN) 1.png|alt=Demonstration of the two flaps position and the associated wing movement on the F-8E(FN). |thumb|Demonstration of the two flaps position and the associated wing movement on the F-8E(FN).]]
 
 It is possible to use this feature to its advantage in a low speed dogfight, and using the higher angle of attack to turn into the circle of the opponent, sacrificing your own speed in the process, to attack with a missile or gun fire. Note that whether the manoeuvre succeeds or fails, the Crusader with be left in a extremely vulnerable position until it regains speed.
 
@@ -130,7 +136,7 @@ The components associated with the airflow dynamics of the aircraft are also imp
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, cheek-mounted (144 rpg = 576 total)
+* 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, cheek-mounted (125 rpg = 500 total)
 
 The 20 mm Browning-Colt Mk12 Mod 3 cannons are stacked in the centre of the aircraft, on each side of the air intake. It is to be noted that unlike the French 30 mm DEFA guns, that are on every French made aircraft from BR 8.3 up to this BR, these guns carry a much smaller explosive charge per round, but at a substantially higher velocity, allowing to fire at opponents with a lower lead.
 
@@ -161,7 +167,7 @@ The Matra 530E, unlocked after the 530 is a viable alternative to the 530 if the
 
 At rank 4 of modifications, the Matra 550 Magic 1 is unlocked. With its 30G overload, and Mach 3.00 max speed, this missile is a revolution in the arsenal of the Crusader, giving it the capability to fire a missile in dogfight, as a snap-fire, or off-boresight. The Magic 1 is also slaved to the radar, giving it an even higher hit-probability if the target is tracked by radar at launch.
 
-Overall, the complement of missiles available to the F-8E(FN) is representative to the French cold war missile arsenal, with different engagement methods, tracking systems, and size. 
+Overall, the complement of missiles available to the F-8E(FN) is representative to the French cold war missile arsenal, with different engagement methods, tracking systems, and size.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -202,9 +208,9 @@ Overall, the F-8E(FN) is a quite difficult aircraft to master, especially select
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-To replace the aging Sud-Est Aquilon, a variant of the Sea Venom, France was looking for a new aircraft that could serve aboard the new French carrier vessels. After many failed designs were submitted by the native French air industry, the French Navy looked towards foreign aircraft for a replacement. The Vought F-8 Crusader was selected and an order of 40 single F-8E and six TF-8E (two-seaters) was placed. Unfortunately, the two-seat variant of the Crusader never came to fruition and the order was changed to 42 single-seat F-8Es. The French F-8E would later be designated the F-8E (FN), the “FN” signifying the French Navy. 
+To replace the aging Sud-Est Aquilon, a variant of the Sea Venom, France was looking for a new aircraft that could serve aboard the new French carrier vessels. After many failed designs were submitted by the native French air industry, the French Navy looked towards foreign aircraft for a replacement. The Vought F-8 Crusader was selected and an order of 40 single F-8E and six TF-8E (two-seaters) was placed. Unfortunately, the two-seat variant of the Crusader never came to fruition and the order was changed to 42 single-seat F-8Es. The French F-8E would later be designated the F-8E (FN), the "FN" signifying the French Navy.
 
-The first deliveries of the French Crusaders began in the mid-1960s and were sent to two squadrons, Flotille 12F and Flotille 14F. The F-8E (FN) had the standard armament of four 20-mm cannons mounted in the nose and the ability to utilize AIM-9B Sidewinders. In addition, the F-8E (FN) was modified to launch and carry both the infrared and radar variants of the Matra 530 missile. There was also an upgrade program in the early 1990s that introduced IFF, ILS, a radar altimeter, and more. It took roughly three years for the program to be completed. In 2000, the F-8E (FN) was finally replaced by the Dassault Rafale. 
+The first deliveries of the French Crusaders began in the mid-1960s and were sent to two squadrons, Flotille 12F and Flotille 14F. The F-8E (FN) had the standard armament of four 20-mm cannons mounted in the nose and the ability to utilize AIM-9B Sidewinders. In addition, the F-8E (FN) was modified to launch and carry both the infrared and radar variants of the Matra 530 missile. There was also an upgrade program in the early 1990s that introduced IFF, ILS, a radar altimeter, and more. It took roughly three years for the program to be completed. In 2000, the F-8E (FN) was finally replaced by the Dassault Rafale.
 
 
 == Media ==

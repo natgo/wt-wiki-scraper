@@ -172,7 +172,9 @@ The frontal armour of M1 KVT is well-balanced and most APFSDSs with less penetra
 '''Cons:'''
 * The firepower of the main gun is insufficient around its BR
 * Downhill terrain significantly decreases the effectiveness of its frontal armour
-* Elevated engine decks and two notorious fuel barrels welded on it extremely limit its gun depression and movement backwards
+* Elevated engine decks limit turret rear angle depression
+** VISMOD unique barrels effectively disables rear angle turret views (This can however be disabled by unequipping the VISMOD module)
+* VISMOD removes side panel armour (same as rear barrels, can be unequipped to regain panels)
 * Almost no frontal protection against an APFSDS that has more penetration than 450 mm
 
 == History ==
@@ -190,6 +192,7 @@ The frontal armour of M1 KVT is well-balanced and most APFSDSs with less penetra
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

@@ -96,16 +96,16 @@ When fighting battleships, aim to keep the ship as angled as possible while stil
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+[[File:Dante-Alighieri-Firing.jpg|thumb|Dante Alighieri during the live-gunnery exercises]]
 After the construction of HMS Dreadnought, several nations tried to build similar ships which were then classified as dreadnoughts, because HMS Dreadnought marked the beginning of the first battleships.
 
-The Italian Navy was still engaged in the construction of the Vittorio Emanuele-class fast battleships, which was unsuccessful despite being promoted by a senior officer.
+The Italian Navy was still engaged in the construction of the [[wikipedia:Italian battleship Vittorio Emanuele|Vittorio Emanuele-class fast battleships]], which was unsuccessful despite being promoted by a senior officer.
 
-[[File:RN Dante Alighieri during test sail.png|thumb|RN Dante Alighieri during test sail]]
-The first Italian dreadnought was the RN Dante Alighieri, launched in 1910 and designed by the Naval Engineer Edoardo Masdea.
+The first Italian dreadnought was the Dante Alighieri, launched in 1910 and designed by the Naval Engineer Edoardo Masdea.
 
 This ship demonstrated numerous technical innovations, among which the arrangement of the 12 x 305 mm main cannons in triple turrets. To ensure maximum performance of each system, the turrets were arranged longitudinally; the system of superfiring towers was not adopted because at that time there were doubts about the system that was used by the Americans and British.
 
-In the end, the RN Dante Alighieri can be considered as a prototype for the development of the following Conte di Cavour and Duilio classes.
+In the end, the Dante Alighieri can be considered as a prototype for the development of the following [[Conte di Cavour (Family)|Conte di Cavour]] and [[Duilio (Family)|Duilio]] classes.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -128,15 +128,16 @@ File:RN Dante Alighieri parte 3.png
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
+* [[RN Andrea Doria]]
 * [[HMS Dreadnought]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 * [[wt:en/news/7181-development-dante-alighieri-a-poet-goes-to-war-en|[Devblog] Dante Alighieri: A Poet Goes to War]]
+* [[wikipedia:Italian battleship Dante Alighieri|<nowiki>[wikipedia]</nowiki> Italian battleship Dante Alighieri]]
+* [http://www.agenziabozzo.it/navi_da_guerra/c-navi%20da%20guerra/C-0014_DANTE_ALIGHIERI_1910_corazzata_carica_carbone_Bunkeraggio_1915.htm <nowiki>[Agenzia Bozzo]</nowiki> 014 C. DANTE ALIGHIERI 1910]
 
 {{ShipManufacturer Regio Cantiere di Castellammare di Stabia}}
 {{Italy battleships}}

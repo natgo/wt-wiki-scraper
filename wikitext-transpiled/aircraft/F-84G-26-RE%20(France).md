@@ -10,15 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]].
+Republic Aircraft Company's jump into the jet fighter market was not as smooth as they would have liked. They experienced severe growing pains as they developed and produced the F-84 series aircraft, especially the B, C, D and E variants. Important upgrades and modifications included a more powerful turbine engine, strengthened wings, aerodynamically secure wing-tip fuel tanks and a strengthened structure. The result of these upgrades was the much improved F-84G fighter, which boasted new innovations such as improved avionics, radar, the capability of in-flight refuelling and ability to carry a Mark 7 nuclear bomb. Though the operationally longest lasting of the series with the United States (into the mid-1960s), several other nations continued to use it including Taiwan (Republic of China) and Italy, however, Greece continued flying their fighters until 1991.<ref name="Burrows" /> France operated a total of 140 F-84s of the E and G variants, purchased in the mid-1950s, as France at the time was facing conflicts in many of their overseas domains, while not having a modern close air support aircraft like the F-84.
 
-Republic Aircraft Company's jump into the jet fighter market was not as smooth as they would have liked. They experienced severe growing pains as they developed and produced the F-84 series aircraft, especially the B, C, D and E variants. Important upgrades and modifications included a more powerful turbine engine, strengthened wings, aerodynamically secure wing-tip fuel tanks and a strengthened structure. The resultant of these upgrades was the much improved F-84G fighter, which boasted new innovations such as improved avionics, radar, the capability of in-flight refuelling and ability to carry a Mark 7 nuclear bomb. Though the operationally longest lasting of the series with the United States (into the mid-1960s), several other nations continued to use it including Taiwan (Republic of China) and Italy, however, Greece continued flying their fighters until 1991.<ref name="Burrows" />
-
-Even with the changes from earlier models, even in-game pilots will notice the quirkiness of the F-84G. Noted for its nickname "Lead Sled", the F-84G, like the B version in-game has an extremely long takeoff roll, around 1,500 m, typically due to the heavier payloads afforded to this aircraft. Though, once at altitude and during attack runs, the F-84G is an incredibly stable platform and can be outfitted with a number of various suspended armaments along with its six 12.7 mm M3 Browning machine guns. Each gun only has 300 rounds of ammunition, therefore trigger control is necessary or else the pilot will be left with empty guns in short order.  Considered a multi-role aircraft, the F-84G can be utilised as a fighter-interceptor, bomber interceptor and ground attack fighter. The F-84G can be laden with a variety of bombs ranging from 100 lbs all the way up to two 1,000 lb bombs. [[HVAR]] and [[Tiny Tim]] rockets are a viable option alone or mixed with bombs to expand the options of targets to be attacked depending on the map the pilot is flying in.
-
-Like many jet fighters, flying slowly makes for an easy target and this is no exception for the F-84G. Speed is necessary to ensure manoeuvrability both to engage a target and to shake a tail.  Though not the fastest fighter at this rank, the F-84G can hold its own and when pressed, the six centre lined M3 Browning machine guns can punch enough holes in an enemy fighter to bring it down. Don't expect this fighter when laden down with two 1,000 lbs bombs or two Tiny Tim and 24 HVAR rockets to excel in a dogfight as it won't with all that weight, however, after all that ordnance is released the F-84G can then mix it up, though it is preferable to maintain speed while performing Boom & Zoom manoeuvres.
-
-While dealing with mixed reviews over its positive and negative aspects, the F-84 series aircraft paved the way for a later aircraft which magnified all of the positive qualities of the F-84, being a stable firing platform, loaded to the gills with assorted suspended armaments and a main gun which rained destruction on the enemy, this aircraft would later be known as the Fairchild-Republic A-10 Thunderbolt II.
+It was introduced in [[Update 1.79 "Project X"]]. Like many jet fighters, flying slowly makes for an easy target and this is no exception for the F-84G. Speed is necessary to ensure manoeuvrability both to engage a target and to shake a tail. Though not the fastest fighter at this rank, the F-84G can hold its own and when pressed, the six centrelined M3 Browning machine guns can punch enough holes in an enemy fighter to bring it down. Don't expect this fighter when laden down with two 1,000 lb bombs or two Tiny Tim and 24 HVAR rockets to excel in a dogfight as it won't with all that weight, however, after all that ordnance is released the F-84G can then mix it up, though it is preferable to maintain speed while performing Boom & Zoom manoeuvres.
 
 == General info ==
 === Flight performance ===
@@ -157,11 +151,40 @@ For the F-84G, four of the 12.7 mm M3 Browning machine guns were mounted in the 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
-{{main|HVAR|Tiny Tim}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84G-21-RE (Italy).png]]</div>
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[HVAR]] rockets
+| 6* || 3 || 3 || 4 || 4 || 3 || 3 || 6*
+|-
+! [[Tiny Tim]] rockets
+| || || || 1 || 1 || || ||
+|-
+| colspan="9" | Maximum permissible weight imbalance: 900 kg
+|-
+| colspan="10" | * HVAR rockets on hardpoints 1/8 may only be equipped simultaneously
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 12 x HVAR rockets
 * 32 x HVAR rockets
@@ -171,35 +194,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 2 x 500 lb AN-M64A1 bombs + 24 x HVAR rockets (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84G-21-RE (Italy).png]]</div>
-|-
-! 100 lb AN-M30A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! 250 lb AN-M57 bombs
-| || || || 1 || 1 || || ||
-|-
-! 500 lb AN-M64A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! 1,000 lb AN-M65A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! HVAR rockets
-| 6* || 3 || 3 || 4 || 4 || 3 || 3 || 6*
-|-
-! Tiny Tim rockets
-| || || || 1 || 1 || || ||
-|-
-| colspan="9" | Maximum permissible weight imbalance: 900 kg
-|-
-| colspan="10" | * HVAR rockets on hardpoints 1/8 may only be equipped simultaneously
-|}
+{{Navigation-End}}
 
 The F-84G offers a range of bombs and rockets for destroying surface targets. Due to the more effective engine utilised in the F-84G, it could sport a larger number of suspended armaments compared to its older brother the [[F-84B-26|F-84B]], turning into a truly ground attack workhorse. In comparison, a fully-loaded single-seat {{PAGENAME}} had approximately the same loadout capability as an early 7 crew [[B-25J-1|B-25J]] bomber. The smaller bombs such as the AN-M30A1 and AN-M57 and HVAR rockets are useful against soft targets like anti-aircraft batteries, unarmoured vehicles, ships and some light tanks. The heavier hitters like the AN-M61A1, AN-M65A1 and Tiny Tim rockets are effective (more like overkill) for the softer targets, but also work well with bunkers, heavier armoured tanks, larger ships and can also be utilised against bases.
 

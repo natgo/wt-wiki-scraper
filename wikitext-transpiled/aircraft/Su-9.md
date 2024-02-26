@@ -152,7 +152,7 @@ This plane has great firepower but always watch the ammo count so you won't run 
 
 '''Ground RB'''
 
-The Su-9 is capable of destroying ground targets with its suspended armament. When dive bombing, don't pull of to late as the engines aren't that powerful. It is possible to destroy some light and medium tanks with the right ammunition belt. For destroying tanks, top-down approaches are heavily recommended.
+The Su-9 is capable of destroying ground targets with its suspended armament. When dive bombing, don't pull out too late as the engines aren't that powerful. It is possible to destroy some light and medium tanks with the right ammunition belt. For destroying tanks, top-down approaches are heavily recommended.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -161,6 +161,7 @@ The Su-9 is capable of destroying ground targets with its suspended armament. Wh
 
 * Powerful offensive armament
 * Airbrakes
+* Bomb options
 
 '''Cons:'''
 

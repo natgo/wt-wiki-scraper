@@ -24,6 +24,8 @@ Fuel tanks on either side of the driver can soak up some shrapnel and add to the
 
 As mentioned above, the T-80BVM also benefits from the typical low silhouette Russian tankers will be accustomed to, with the vehicle being significantly smaller than its competitors. This allows the T-80BVM to be hidden behind small terrain deformities which other MBTs would otherwise be visible. It's also harder for an enemy tank commander to immediately tell which area is the most vulnerable.
 
+The turret ring is also slightly tilted forward giving the tank an extra degree of depression when facing the turret forward.
+
 '''Armour type:'''
 
 * Cast homogeneous armour (turret, cupola, gun mantlet)

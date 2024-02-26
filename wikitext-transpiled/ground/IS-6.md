@@ -153,7 +153,7 @@ Facing enemies with HEATFS rounds is a dire situation for the IS-6 as the armour
 
 * Reload rate considerably faster than usual 122 mm, default is only half a second slower than the T-10M
 * The best 122 mm shell available is still manageable due to good overmatching mechanics and tremendous post-penetration damage potential
-* Frontal armour is a 100 mm plate sloped at a very steep angle, making it mostly immune to anything that isn't APDS, HEATFS or APFSDS
+* Frontal armour is a 100 mm plate sloped at a very steep angle, making it mostly immune to anything that isn't APDS or HEATFS
 * Like the IS-3, the lower plate isn't a weak spot
 * Very good as side-scraping due to the high levels of side armour
 * The turret is both small, well-armoured, and rounded
@@ -170,7 +170,6 @@ Facing enemies with HEATFS rounds is a dire situation for the IS-6 as the armour
 * The IS-6 is still very capable of getting the turret front penetrated by tanks like the Tiger II, T29, and Centurion Mk 3
 * Like most Russian heavies, has an abysmal 3 degrees of gun depression, so finding the proper hull down locations is hard
 * The 4-man crew is crammed in a small crew compartment that's full of ammo, and penetrating APHE shell will likely incapacitate the entire turret crew or set off an ammo explosion
-* 7.7 br makes this tank a shell of its former self
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

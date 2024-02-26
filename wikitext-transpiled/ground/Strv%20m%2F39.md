@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Swedish light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''{{Specs|name}}''' was ordered in 1939 by KAF, that saw how new tank designs were shaping the battlefield, and the m/38 was considered to be too weak in terms of armour. The m/39 would have been a minor upgrade to its predecessor, with upgraded armour and other minor changes. AB Landsverk was against it however, since the m/38s hull was not able to sustain the increased weight. In the end, the turret was slightly modified, it included a new fire control system, as well as a lever steering system which was more favourable. While the m/38 was named L-60-S, the {{Specs|name}} was designated L-60-S/II.
+
+Introduced in [[Update 1.97 "Viking Fury"]], the Strv m/39 plays much like the [[Strv m/38]]: it is fast, manoeuvrable, and has excellent firepower. While it lacks APHE, it has access to a powerful APDS shell with insanely good penetration values for such a low BR tank. The new turret has increased armour, up to 50 mm thickness. Its gun handling is also great, with a good turret traverse rate and excellent gun depression of -15 degrees. However the hull has very light armour, and the small crew makes the tank vulnerable to even autocannon fire.
 
 == General info ==
 === Survivability and armour ===
@@ -18,6 +20,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Swedish light tank {{B
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
+
 * Rolled homogeneous armour
 * Cast homogeneous armour (gun mantlet)
 
@@ -154,10 +157,11 @@ The Strv m/39 was in use till 1957.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_strv_m39 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|KU-AO0SoeSU|'''Strv M/39 Premium Tank Review. An excellent all rounder''' - ''Joseph 2000''}} 
+{{Youtube-gallery|KU-AO0SoeSU|'''Strv M/39 Premium Tank Review. An excellent all rounder''' - ''Joseph 2000''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -170,6 +174,7 @@ The Strv m/39 was in use till 1957.
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

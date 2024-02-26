@@ -70,7 +70,7 @@ Although few missiles can be carried, they are able to severely damage and destr
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Alouette doesn't have the power of a conventional helicopter. Being a 1950s helicopter, its engine is very weak compared to its counterparts. Use it at a low altitude and make use of the AS.11 missiles, but beware, the Alouette can only carry 4 of them which is a fairly low amount. Use them wisely. The AS.11, like most other starter helis, are extremely susceptible to death by fighter aircraft, because you have no means of self defense except 2 rifle calibre machine guns.
+The Alouette doesn't have the power of a conventional helicopter. Being a 1950s helicopter, its engine is very weak compared to its counterparts. Use it at a low altitude and make use of the AS.11 missiles, but beware, the Alouette can only carry 4 of them which is a fairly low amount. Use them wisely. The Alouette, like most other starter helis, are extremely susceptible to death by fighter aircraft, because you have no means of self-defense except 4 rifle calibre machine guns.
 
 The Alouette's small size makes it highly effective at sneaking zone captures in ground battles. Despite its slow speed, it is still able to get to certain capture zones faster than any ground vehicles in certain domination missions.<!-- domination battles link -->
 

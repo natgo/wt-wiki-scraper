@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+After World War II, France found itself lacking a proper military to maintain the domain of its overseas colonies like French Indochina. The F6F Hellcat was chosen by the French Aéronavale to be its new multirole aircraft, the aircraft served alongside F4U Corsairs and F8F Bearcats later on. Around 150 units were acquired between 1950 and 1953. The F6F had a short service life due to its relative obsolescence, most units were withdrawn from service with the introduction of the Bearcat, but the aircraft remained as a solid close air support choice during the Indochina Wars.
 
-The F6F Hellcat is well known for serving the United States Navy in World War 2. This French-operated example is identical to the US [[F6F-5]] and is among the first of the many lend-lease US aircraft in the French aviation tree. The Hellcat is a bulky fighter supported by a powerful R-2800 Double Wasp radial engine. In the air-to-air role, it is best used as a boom-and-zoom aircraft to take advantage of its good speed and diving capabilities, but it can also turn quite well in a pinch. The Hellcat is also an excellent strike fighter for mixed battles; a pair of 1,000 lb bombs and a salvo of HVAR rockets can make short work of enemy ground vehicles, and those looking for a challenge can try their luck with the Tiny Tim anti-ship rockets. The Hellcat has something for everyone and is a good introduction to Rank 3 of French aviation. Succeeding the F6F-5 is the [[SB2C-5 (France)|French SB2C-5 Helldiver]], another export US naval aircraft.
+It was introduced in [[Update 1.73 "Vive la France"]]. The F6F Hellcat is well known for serving the United States Navy in World War II. This French-operated example is identical to the US [[F6F-5]] and is among the first of the many lend-lease US aircraft in the French aviation tree. The Hellcat is a bulky fighter supported by a powerful R-2800 Double Wasp radial engine. In the air-to-air role, it is best used as a boom-and-zoom aircraft to take advantage of its good speed and diving capabilities, but it can also turn quite well in a pinch. The Hellcat is also an excellent strike fighter for mixed battles; a pair of 1,000 lb bombs and a salvo of HVAR rockets can make short work of enemy ground vehicles, and those looking for a challenge can try their luck with the Tiny Tim anti-ship rockets. The Hellcat has something for everyone and is a good introduction to Rank 3 of French aviation. Succeeding the F6F-5 is the [[SB2C-5 (France)|French SB2C-5 Helldiver]], another export US naval aircraft.
 
 == General info ==
 === Flight performance ===
@@ -120,10 +120,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_F6F-5.png]]</div>
 |-
 ! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
-| || || || 1 || || 1 || || ||
+| || || || 1 || 1 || 1 || || ||
 |-
 ! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
-| || || || 1 || || 1 || || ||
+| || || || 1 || 1 || 1 || || ||
 |-
 ! [[AN-Mk 1 (1,600 lb)|1,600 lb AN-Mk 1]] bombs
 | || || || || 1 || || || ||
@@ -135,22 +135,23 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1 || 1 || 1 || || || || 1 || 1 || 1
 |-
 ! [[Tiny Tim]] rockets
-| || || || 1 || || 1 || || ||
+| || || || 1 || 1 || 1 || || ||
 |-
 ! [[Mk.13-6 Case (2,216 lb)|2,216 lb Mk.13-6 Case]] torpedoes
 | || || || || 1 || || || ||
 |-
-| colspan="10" | Maximum permissible loadout weight: 1,814 kg<br>Maximum permissible weight imbalance: 680 kg
+| colspan="10" | Maximum permissible loadout weight: 1,815 kg<br>Maximum permissible weight imbalance: 680 kg
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 6 x HVAR rockets
-* 2 x Tiny Tim rockets
-* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-* 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
+* 3 x Tiny Tim rockets
+* 3 x 500 lb AN-M64A1 bombs (1,500 lb total)
+* 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
 * 1 x 1,600 lb AN-Mk 1 bomb (1,600 lb total)
 * 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
 * 1 x 2,216 lb Mk.13-6 Case torpedo

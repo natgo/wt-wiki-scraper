@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=sm_79_1936_italy
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -137,7 +137,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 S.M.79 serie 1 is a decent bomber at its BR and below, but it faces many threats, for example [[Spitfire (Family)|Spitfires]], [[LaGG-3 (Family)|LaGG-3s]], [[MiG-3 (Family)|MiG-3s]] and [[P-40 (Family)|P-40s]].
 
-If the S.M.79 manage to get past the threats, it jas the payload to take out enemy bomb points and ground targets, with its bomber spawn it can descend to get extra speed to quickly get to the bombing point, those this will also expose it to enemy fighters and attackers that have the firepower to destroy the S.M.79 with ease in both Realistic and Arcade battles.
+If the S.M.79 manage to get past the threats, it has the payload to take out enemy bomb points and ground targets, with its bomber spawn it can descend to get extra speed to quickly get to the bombing point, those this will also expose it to enemy fighters and attackers that have the firepower to destroy the S.M.79 with ease in both Realistic and Arcade battles.
 
 A big drawback with the S.M.79 is that it's big and not fast or agile compared to certain bombers at same BR but if it is able to pass through enemy line it can cause a lot of damage to the points. It has 2 x 12.7 mm Breda MGs aiming backwards in a limited field of view making a lot of the plane uncovered by the MGs, as well as 2 x 7.7 mm Breda MGs on the sides, also with limited views, leaving a lot of the plane unprotected.
 
@@ -199,10 +199,12 @@ To make the S.M.79 fast the wings are shorter than typical for its weight. To co
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sm_79_1936_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

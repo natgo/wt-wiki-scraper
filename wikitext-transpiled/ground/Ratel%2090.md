@@ -110,6 +110,7 @@ The Ratel 90 uses the GT-2, a licensed copy of the French 90 mm DEFA F1 low pres
 * Racks 7 and 8 are first stage ammo racks. They total 10 shells and get filled first when loading up the tank.
 * These racks are also emptied early: the rack depletion order at full capacity is: 7 - 8 - 1 - 2 etc. until 6.
 * Simply not firing when the gun is loaded will move ammo from racks 1 to 6 into racks 8 then 7. Firing will interrupt the restocking of the ready racks.
+* Turret empty: 35&nbsp;''(+18)'' shells
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

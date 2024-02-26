@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=mc200_serie7_italy
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -13,7 +13,7 @@
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]], but a variant existed in the [[C.200 serie 7 (Germany)|German tech tree]] prior to the update.
 
 [[File:FighterImage_MC200s7vsP36C.jpg|thumbnail|right|C. 200 vs [[P-36C|P-36C ''Hawk'']] over industrial zone in Ruhr.]]
-The Macchi 200 is a standard fighter of the Italian air tree. It is moderately armed for its tier, consisting of two 12.7 mm Breda-SAFAT machine guns firing through the propeller arcs. an The M.C 200 is a fairly typical pre-war Italian design, Moderate speed combined with good rates of turning, and high speed tolerance, while maintaining good controls at all speeds. Furthermore, the MC 200 is a capable climber, easily matching a lot of planes that it will regularly meet in its battle rating range. It is fairly though, capable of taking hits and return to the airfield for repairs. However it does have its issues as well, most notably the poor engine power which results in poor acceleration and, much like all Italian designs, it suffers from poor armament as well, although given the lower battle rating then the [[C.202|Folgore]], this is less of an issue. Furthermore, as of 1.55, its payload is not modeled, so it does not carry bombs, meaning it is a poor ground attacker. Being only able to harm soft Ground targets.
+The Macchi 200 is a standard fighter of the Italian air tree. It is moderately armed for its tier, consisting of two 12.7 mm Breda-SAFAT machine guns firing through the propeller arcs. an The M.C 200 is a fairly typical pre-war Italian design, Moderate speed combined with good rates of turning, and high speed tolerance, while maintaining good controls at all speeds. Furthermore, the MC 200 is a capable climber, easily matching a lot of planes that it will regularly meet in its battle rating range. It is fairly tough, capable of taking hits and return to the airfield for repairs. However it does have its issues as well, most notably the poor engine power which results in poor acceleration and, much like all Italian designs, it suffers from poor armament as well, although given the lower battle rating then the [[C.202|Folgore]], this is less of an issue. Furthermore, as of 1.55, its payload is not modeled, so it does not carry bombs, meaning it is a poor ground attacker. Being only able to harm soft Ground targets.
 
 == General info ==
 === Flight performance ===

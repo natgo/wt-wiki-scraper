@@ -5,7 +5,11 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British heavy cruiser {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+'''HMS York''' and her sister HMS Exeter were a class of two heavy cruisers designed as smaller, cheaper versions of the preceding [[County (Family)|County-class cruisers]]. As such, the two ships were designed to a standard displacement 8,250 tons, largely achieved by shortening the hull by 50 ft, removing a twin 203 mm turret, and adjusting the thickness of armour in some areas. The reduction in displacement was intended to allow six 8 inch-armed ships to be built under the Washington Naval Treaty compared to five of the heavier County class design; however, only York and Exeter were built, with budget cuts and the subsequent London Naval Treaty causing the rest of the planned York class to be cancelled in favour of a greater number of even smaller [[Town (Family)|Town-class light cruisers]].
+
+HMS York was laid down on 18 May 1927, and commissioned on 1 May 1930. On the outbreak of WWII, she was transferred from her base in Bermuda to Nova Scotia, escorting convoys and hunting down commerce raiders. In early 1940, she was involved in the Norwegian campaign, initially as part of the planned British invasion of Norway, followed by defense and evacuation of forces against the subsequent German invasion. From August 1940, York was reassigned to the Mediterranean Fleet, escorting convoys and troops, as well as providing escort for the aircraft carrier HMS Illustrious' attack on Taranto in November. In March 1941, while operating in Suda Bay in Crete, York was struck by two Italian explosive motorboats, flooding both boiler rooms. She was run aground to prevent sinking, but German bombers further damaged her beyond repair. Her wreck remained there until being salvaged and scrapped by an Italian shipbreaker in 1952.
+
+Introduced in [[Update "Starfighters"]], the '''HMS York''' is very much a heavy cruiser primarily used for long-range engagements and should be played as such. The HMS York is a formidable opponent due to its good fire rate and strong shells with decent velocity, which allows players to inflict massive damage on other light and heavy cruisers. The HMS York is also a mobile vessel that can accelerate and turn quickly despite not being especially fast in a straight line due to being lightweight for a heavy cruiser. However, the HMS York is not fit for any close-quarters fighting due to her extremely inadequate armour protection.
 
 == General info ==
 === Survivability and armour ===
@@ -116,6 +120,7 @@ In August of 1940, York was assigned to the 3rd Cruiser squadron of the British 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_cruiser_york Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

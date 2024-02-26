@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''AMX-30 Anti-Char Rapide Autopropulsé (ACRA)''' is a unique modification of the [[AMX-30 (1972)|AMX-30B (Model 1972)]], which is the second variant of the [[AMX-30 (Family)|AMX-30 main battle tank family]]. The ACRA research and development program was initiated in France in 1961 and was designed as a supersonic anti-tank guided missile (ATGM) that could be deployed in any of the French Army's tanks. Due to the large associated expenses, state financing for the program was terminated by the last stage of testing the laser guiding system (which was the first of its kind in the world). GIAT, on the other hand, continued work at its own expense, hoping for future government orders. Engineers chose the AMX-30B (1972) as the missile's platform. Among the main turret equipment were a new smoothbore tank gun launcher, a sight, and an electronic guidance device. By 1974, field testing of the weapon platform was successful, but it was not accepted and placed into service. The key concern is the expensive cost of missile targeting technology, as well as the difficulties of using guided missiles in the absence of a tank gun. Instead, the HOT ATGM system, which was nearing completion at the time, was given priority.
 
-Introduced in [[Update 1.93 "Shark Attack"]], the AMX-30 ACRA is a special tank that can fire barrel-launched ATGMs, a characteristic not often found in Western main battle tanks. It is incredibly difficult for the enemy to avoid getting hit by the ACRA ATGMs due to their fast flight speed. However, as the ACRA ATGM requires the player to provide continual guidance during flight, the enemy may have a longer time window to return fire. Furthermore, while the fast flight speed of the ACRA ATGMs makes playing on larger maps much easier, firing at close to mid-range targets may be a little challenging due to the difficulties of making corrections in mid-flight. Nonetheless, it is a unique vehicle for players to experience when playing the French Army ground forces.
+Introduced in [[Update 1.93 "Shark Attack"]], the AMX-30 ACRA is a special tank that can fire barrel-launched ATGMs, a characteristic not often found in Western main battle tanks. It is incredibly difficult for the enemy to avoid getting hit by the ACRA ATGMs due to their fast flight speed. However, as the ACRA ATGM requires the player to provide continual guidance during flight, the enemy may have a longer time window to return fire. Furthermore, while the fast flight speed of the ACRA ATGMs makes playing on larger maps much easier, firing at close to mid-range targets may be challenging due to the difficulties of making corrections in mid-flight. Nonetheless, it is a unique vehicle for players to experience when playing the French Army ground forces.
 
 == General info ==
 === Survivability and armour ===
@@ -56,11 +56,11 @@ The gun is mounted on the well-proven AMX-30 chassis, providing adequate mobilit
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 
-The AMX-30 ACRA mount as we saw before a 142mm laser guided gun, capable of launching ACRA missile and High Explosive round. It can carry 36 rounds, 16 in the turret and 20 in the hull, next to the driver, so you have the possibility to get a higher survivability from hull shots by removing these 20 rounds. The gun reload is 15.6 seconds with a level 1 crew and can be upgraded to 12 seconds with a max crew.
+The AMX-30 ACRA mounts a 142mm laser guided gun, capable of launching ACRA missiles and High Explosive rounds. It can carry 36 rounds, 16 in the turret and 20 in the hull, next to the driver, so you have the possibility to survive certain hull shots by carrying only 16 rounds. The gun reload is 15.6 seconds with a level 1 crew and can be upgraded to 12 seconds with a max crew.
 
-The ACRA missile is pretty fast, making the tank very useful on large maps and sits at a battle rating where nothing will be able to resist the missile. Be careful when shooting at the sides of enemy tanks, the missiles function like a HEAT round and tends to be absorbed by the tracks if hit directly. Also like a HEAT round, don't try to shoot missiles through walls, fences, big bushes, or trees.
+The ACRA missile is notably fast, making the tank very useful on large maps. Be careful when shooting at the sides of enemy tanks, as the missiles function like HEAT rounds and tend to be absorbed by tracks or side fuel tanks if hit directly. Also akin to HEAT rounds, the ATGMs will fuse on shrubbery or wall/fences, so it is advised to find an open area or use your 12.7mm MG to clear out any obstacles before firing. 
 
-Another good point with the gun is that you don't need to stop the tank to fire. However, the missile is guided with a laser mounted with the gun, which is not stabilized. This means your missiles will bounce up and down as you guide them if you are moving. This also means you cannot fire over obstacles like you can with wire guided missiles, as the laser needs constant line-of-sight to the back of the missile.
+Another strength of having a barrel-launched ATGM is that you don't need to stop the tank to fire. However, as the missile is guided with a laser mounted with the gun, which is not stabilized, this in practice is rarely an advantage as you have to be still to accurately guide the missile in. This also means you cannot fire over obstacles like you can with wire guided missiles, as the laser needs a constant line-of-sight to the rear of the missile.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -89,10 +89,9 @@ Another good point with the gun is that you don't need to stop the tank to fire.
 ! Full<br>ammo
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
-! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''36''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''36''' || 20&nbsp;''(+16)'' || 1&nbsp;''(+35)'' || No
 |-
 |}
 
@@ -111,7 +110,7 @@ Another good point with the gun is that you don't need to stop the tank to fire.
 |-
 |}
 The M2HB coaxial heavy machine gun is a good anti-aircraft asset, it will shred any low-flying aircraft thanks to the extra 20 degrees of elevation.
-The only drawback is that the MG is coaxial, meaning the turret must rotate to track the targets. The .50 cal can also deal with armoured cars and SPAA vehicles when they're up close.
+The only drawback is that the MG is coaxial, meaning the turret must rotate to track the targets. The .50 cal can also deal with armoured cars and SPAA vehicles when they're up close. The MG also has some use in knocking down fences and shrubs to clear out a path for the ACRA missile in urban environments.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -125,25 +124,34 @@ The only drawback is that the MG is coaxial, meaning the turret must rotate to t
 The small calibre of the A-A-F1N machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+<!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' --!>
+The AMX-30 ACRA is a very unique vehicle. As a vehicle that relies entirely on its ATGM for engaging enemy vehicles, the ACRA is more akin to something like the German [[RakJPz 2 (HOT)]] than it is to something like the AMX-30 series it's based on due to one single factor: its lack of a stabilizer. 
 
+While French vehicles lacking a stabilizer around the 8.X BR bracket is nothing new, the problem with the ACRA is that as the missile it fires dips significantly, flies fairly quickly and also has a lengthy reload, each and every shot fired has to count. When trying to fire on the move, chances are that your missile will hit the ground either immediately after launch as the missile dips into the ground, it hits the ground as your turret's sideway motion sends it spiraling towards the ground or it misses entirely due to both you and your target being on the move. This, unfortunately, limits the ACRA to a much more passive playstyle, much akin to the RakJPz 2 (HOT) mentioned earlier; both share a fairly lengthy reload, cannot fire on the move and lack any substantial armor to stop contemporary shells. 
+
+Not everything is doom and gloom for the ACRA, however, as in the long range fire support role the ACRA is a respectable long range sniper. With an ATGM that flies near double the speed of contemporary ATGMs around this BR, at range the missile can be an effective tool against enemies, especially moving ones. The [[AMX-10RC]] may outdo the vehicle in pure long range sniping as it has a Laser Rangefinder, Thermals and an effective APFSDS round, but against moving enemies the ability to compensate for enemy movement is fairly invaluable and the high speed of the missile limits any enemy reactionary movement to under 3-4 seconds. 
+
+Your turret also helps in this regard, as you don't have to constantly turn the vehicle itself around to engage enemies in a different direction. The mobility of the AMX-30 hull is also still there, letting you get around the map adequately. Firing on the move or near elevated ground, however, as mentioned earlier can be a problem to keep in mind. This is due to the missile's larger-than-normal dip after firing, which requires some hefty separation between the launcher and the ground to ensure the missile hits the enemy and not a patch of dirt in front of you. Overall, if used as a long range fire support vehicle, the ACRA can deliver some impressive results, even though the vehicle itself may not be the spearhead of an armored assault. 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
 * Good mobility
-* Fast flight speed of the ACRA ATGM, it is next to impossible to dodge it for an opponent
+* Fast flight speed of the ACRA ATGM, almost twice as fast as contemporary ATGMs of its BR
 * Can fire ATGMs on the move
 * ATGM has high penetration for the BR
+* Turreted nature allows for more versatile usage of terrain
 
 '''Cons:'''
 
-* Does not have heavy frontal armour nor adequate side hull armour, so most medium tanks will penetrate it in single shot and it will not scare away light tanks
-* Gun scope is not stabilized, the ATGM's flight can be effected by the vehicles movement
-* Tank has to keep itself exposed while guiding the ATGM, giving the enemy a larger window to return fire
+* Armor is inadequate for stopping contemporary shells
+* Gun scope is not stabilized; it is near impossible to accurately guide the missile on the move on any uneven terrain
+* Tank has to keep itself exposed while guiding the ATGM, giving the enemy a longer window to return fire
 * High speed of the ACRA ATGM can make corrections at mid-range difficult
-* Reload is around twice as long as most tanks of this battle rating, so it is recommended to retreat into cover for the duration of your reload after firing
+* Reload is around twice as long as most tanks of this battle rating, meaning mistakes are significantly more punishing
+* HEAT warhead may deal inconsistent damage
+* Turret creates a taller profile compared to other ATGM vehicles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

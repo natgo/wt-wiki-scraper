@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] as a premium pack, and was removed from the store after the [[wt:en/news/7417-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|9th Anniversary Sale]]. It was made available briefly to purchase with Golden Eagles {{ge}} during the [https://forum.warthunder.com/index.php?/topic/552122-zimbabwe-independence-day/ 2022] and the [[wt:en/news/8197-special-zimbabwe-independence-day-en|2023]] "Zimbabwe Independence Day" mini-events
+The '''Hunter FGA.9''' was a special modification of the [[Hunter F.6]], with the biggest difference being a slight upgrade to the controls that allow the aircraft to react better in dives and ground attack profiles. The FGA.9 was used extensively by the RAF, with a few then passed on to the Rhodesian Air Force for ground attack purposes during the British intervention in 1979-1980, shortly before the Air Force of Zimbabwe (AFZ) was formed the following year.
 
-The FGA.9 is a fighter aircraft which was used primarily by the Rhodesian Air Force for ground attack purposes, and can carry a large payload for close air support. It also excels in air-to-air combat thanks to two [[AIM-9E Sidewinder]] missiles, and its high speed and energy retention for the battle rating.
+Introduced in [[Update 1.93 "Shark Attack"]] as a premium pack, the Hunter FGA.9 is one of the better Hunters in-game, having an upgraded engine and access to the AIM-9E, it is only bested by the [[Hunter F.58 (Germany)|Swiss Hunter F.58]]. The FGA.9 shines in energy fights as long as the player keeps their situational awareness at a maximum, as some missiles at that tier (such as the AIM-9L and R-60M) will prove lethal due to the FGA.9's lack of countermeasures. The FGA.9 also does particularly well at close-air support and ground-striking thanks to its generous loadouts offering large 1,000 lb bombs and various kinds of rockets.
+
+The Hunter FGA.9 was removed from the store after the [[wt:en/news/7417-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|9th Anniversary Sale]]. It was made available briefly to purchase with Golden Eagles {{ge}} during the [https://old-forum.warthunder.com/index.php?/topic/552122-zimbabwe-independence-day/ 2022] and the [[wt:en/news/8197-special-zimbabwe-independence-day-en|2023]] "Zimbabwe Independence Day" mini-events.
 
 == General info ==
 === Flight performance ===
@@ -169,6 +171,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 36 x SNEB type 23 rockets

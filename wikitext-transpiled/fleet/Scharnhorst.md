@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (along with her sister ship Gneisenau) was designed as a battleship right from the start by the Kriegsmarine. However, restriction imposed by the Treaty of Versailles (and as Germany were unable to built any large calibre guns at that time due to the lack of industrial capabilities) forced the Kriegsmarine to fit her with smaller 283 mm guns.
+The '''{{Specs|name}}''' (along with her sister ship Gneisenau) was designed as a battleship right from the start by the Kriegsmarine. However, restriction imposed by the Treaty of Versailles (and as Germany were unable to built any large calibre guns at that time due to the lack of industrial capabilities) forced the Kriegsmarine to fit her with smaller 283 mm guns. Launched in January 1939, Scharnhorst spent early WWII raiding British convoys in the Atlantic with her sister Gneisenau. In mid-1940, they also participated in the German invasion of Norway, during which they engaged the battlecruiser [[HMS Renown]] and sank [[HMS Glorious]], which had been converted to an aircraft carrier, as well as their destroyer escorts. In 1943, while attempting to raid Allied convoys on their way to the Soviet Union, Scharnhorst and her five escorting destroyers were intercepted by a British task force, including the battleship HMS Duke of York, light cruisers [[HMS Belfast]] and [[HMS Norfolk]], and destroyer [[HMCS Haida]], in the Battle of the North Cape on 26 December. Scharnhorst was sunk, with only 36 survivors. With all other German battleships damaged or otherwise engaged, the battle itself was a major turning point in Allied naval control in the Atlantic and Arctic, and would prove to be the last battle between battleships in European waters.
 
 It was introduced in [[Update "Winged Lions"]]. Although the Scharnhorst is almost universally classed as a battleship in real life due to her protection, her fast top speed and smaller armaments compared to her contemporaries in the 1930s caused the British to classify the ship as a battlecruiser. This peculiar characteristic is reflected in-game, where the Scharnhorst's mobility, protection, and weaker but fast-firing guns made her a formidable heavyweight mid-to-close range brawler.
 
@@ -90,18 +90,18 @@ Located amidships is a single catapult for an Arado Ar 196 scout plane which pro
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 
-The Scharnhorst is one of the best protected vessels in the game. Acting as a fast battleship, the Scharnhorst has the capability to be used as a brawler, using its speed and armour to move much more rapidly across the map than any other capital ship, enabling you to effectively contest capture points and close the distance when attacking enemy ships.
+The Scharnhorst is one of the best protected vessels in the game against the AP rounds. The only truly feasible way to counter the Scharnhorst is with high explosive rounds.
 
-Although the main cannons are only 283 mm, the shells have high armour penetration values, enabling you to easily penetrate just about any other capital ship in game, at close and medium ranges. However, the shells have quite a small level of explosive filler, meaning that while the shells can easily get into the internals of enemy ships, they struggle to do much damage. Even cruisers can take several salvoes from the main guns before you inflict enough damage to sink them.
+Acting as a fast battleship, the Scharnhorst has the capability to be used as a brawler, using its speed and armour to move faster across the map than most battleships and battlecruisers, enabling it to effectively contest capture points and close the distance when attacking enemy ships.
 
-Unlike any other capital ship, aside from the Parizhskaya kommuna, the Scharnhorst has a capable array of anti-air guns, making aircraft much less of a threat than in other battleships.
+Although the main cannons are only 283 mm, the shells have a relatively high armour penetration value (APCBC can penetrate 333 mm at 30° angle of attack from 7,500 m) enabling it to penetrate most battleships and battlecruisers, at close to medium range. However, the shells have quite small explosive filler, meaning that the post-penetration damage is relatively low, and it might require few direct hits to cripple key components, and selecting munitions best suited for the target is essential, with SAPBC and HE being often the preferred options over APCBC.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
-* Incredibly resilient to damage due to thick layered armour and high crew count
-* High top speed and decent traverse speed
+* Incredibly resilient to the armour-piercing shells due to thick layered armour and high crew count
+* High top speed and decent acceleration
 * Great gun handling - relatively high turret rotation and gun elevation speed for the calibre
 * Fast reload speed for main guns of this calibre
 * Secondary guns are effective when up close
@@ -109,11 +109,11 @@ Unlike any other capital ship, aside from the Parizhskaya kommuna, the Scharnhor
 * One scout seaplane
 
 '''Cons:'''
+* Prone to destruction from a high calibre high explosive shells
 * Large target: easy for your enemy to strike with gunfire or torpedoes
 * Quite slow to decelerate, can make dodging torpedoes somewhat difficult
-* 283 mm guns' shell damage is inferior compared to other ship with bigger guns
-* 105 mm guns were catagorized as AAA, which limits your anti-surface capabilities
-* Prone to flood damage; takes a very long time to pump the water out
+* 283 mm shells damage is inferior compared to other ship with bigger guns
+* 105 mm guns are categorized as AAA, which limits your anti-surface capabilities
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
+The '''{{Specs|name}}''' was Sweden's first jet powered aircraft, built on the existing [[J21 (Family)|J21 series]]. The former planes had to be altered a bit due to issues that came with installing a jet engine and would encounter a few issues in the initial stages, but these would later be resolved. It would not be until 10 March 1947 when it would have its first flight. It was less than adequate in a fighter role, but would perform better in an attacker role. The Swedish air force would used these jets between 1949 to 1957, when they would later be replaced by the [[J29 (Family)|J29]] and [[A28B]].
 
-The {{PAGENAME}} is a jet-powered version of the prior [[J21A-2]], giving it higher speeds and new guns.
+The {{PAGENAME}} was introduced in [[Update 1.95 "Northern Wind"]]. As a jet-powered version of the [[J21 (Family)|J21]], it is the Swedish introduction to jets. Due to equipping a jet engine, the {{PAGENAME}} comes with a higher maximum speed than its predecessor, the [[J21A-2]]; it can perform very well in capable hands as a hit and run jet, but it can also perform well if needed in a dogfight. Having a cannon and four heavy machine guns gives it similar firepower to the [[J21A-2]], which is adequate enough to deal with most enemies it will be up against. The {{PAGENAME}} is pretty user friendly, with a lot of ammunition, so mistakes when taking shots are not so costly, but there are also dangers due to it having a habit of easily tearing off its wings at high speeds. Fortunately, it comes with airbrakes that can slow the aircraft down fast enough in case it gets close to these dangerous levels of speed.
 
 == General info ==
 [[File:J21RA Side view .png|left|thumb|325x325px|{{PAGENAME}} as seen from the side.]]

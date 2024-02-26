@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced during [[Update "Sky Guardians"]] as a reward for the [[wt:en/news/8186-event-repair-factory-en|"Repair Factory" event]].
+The '''{{Specs|name}}''', also known as Panhard 178, was a 4x4 French reconnaissance armoured car, usually equipped with a 25 mm autocannon. In 1939, a version of the Panhard was unveiled, featuring a 47 mm SA35 cannon, intended to increase the anti-tank capabilities of the vehicle. Not many vehicles received this modification however, instead most SA35 cannons were intended for the Char B and Char D2 series of tanks. Instead, in 1940, Panhard proposed a version of the vehicle with a rearward-facing 47 mm SA37 gun. Due to the increasingly deteriorating situation on the front, the single prototype had to be abandoned and destroyed by its crew, although it managed to see action with the ''1er RAM'', defending a bridge near Etignie.
+
+It was introduced during [[Update "Sky Guardians"]] as a reward for the [[wt:en/news/8186-event-repair-factory-en|"Repair Factory" event]]. The '''{{Specs|name}}''' is very poorly protected, it can be even penetrated by HMG fire from distances above 500 m from the sides. This vehicle uses its mobility as its armour, however, while it has good mobility while on the road, its wheeled design makes it suffer on rough terrain. It has a quite decent gun, with good penetrating power for its BR, it is capable of dealing with most medium and light tanks that are common at rank I, like the [[BT-7]] and the [[Panzer III (Family)|Panzer III]], though it might struggle against heavier opponents in uptiers.
 
 == General info ==
 === Survivability and armour ===

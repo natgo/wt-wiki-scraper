@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 140''') is a rank {{Specs|rank}} German self-propelled anti-aircraft gun {{Battle-rating}}. It was introduced in [[Update 1.47 "Big Guns"]]. It is sometimes, incorrectly, referred to as the ''Gepard'', which may lead to confusion with the unrelated [[Gepard|Flakpanzer Gepard]].
+The '''Flakpanzer 38(t) auf Selbstfahrlafette 38(t) Ausführung M''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 140''') is a German self-propelled anti-aircraft gun used in World War II. It is occasionally referred to incorrectly as the Gepard, which may cause confusion with the unrelated [[Gepard|Flakpanzer Gepard]]. The Flakpanzer 38(t) was based on the chassis of the KD LT vz. 38 light tank, a pre-war Czech design that was produced for the Wehrmacht as the Panzerkampfwagen 38(t) light tank after the German occupation until it was no longer effective on the battlefield. From November 1943 to February 1944, a total of 141 units were built, including the single prototype, and entered service in 1944.
+
+Introduced in [[Update 1.47 "Big Guns"]], the Flakpanzer 38(t) provides an extremely diverse playing experience. Players can use armour-piercing ammunition belts to engage enemy ground targets or high-explosive ammunition belts to engage enemy aircraft. Given that most tanks in its rank are lightly armoured, players will have no trouble engaging most enemies they encounter. However, the gunner is completely exposed without protection, so it is critical to be constantly on the move and remain in cover.
 
 == General info ==
 === Survivability and armour ===

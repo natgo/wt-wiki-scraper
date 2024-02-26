@@ -12,10 +12,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+During the late '80s and early '90s, Airbus, DASA, and Aérospatiale formed Eurocopter to create the next generation of European helicopters. Their most famous example was the Tiger helicopter, earning notorious on-screen fame after starring as an important plot point in the 1995 James Bond movie "''Goldeneye''". The Tiger and its derivatives would go on to have a long and prosperous life with many european countries, and were adapted into different variants to suit the needs of each operator. The Eurocopter Tiger family would be renamed to the Airbus EC665 Tiger after Eurocopter was renamed to Airbus Helicopters SAS. The HAD variant, standing for ''Hélicoptère d'Appui Protection'', or "Helicopter for Escort and Support", is a specially made version for the French air force which favours light support and escort duties over conventional anti-tank role. In 2015, France opted to upgrade their HAP fleet into the [[EC-665 Tiger HAD|HAD]] anti-tank standard.
 
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French attack helicopter {{Battle-rating}}. It was introduced as a [[wt:en/news/6338-development-eurocopter-tiger-pouncing-on-the-prey-en|premium pack]] in [[Update 1.91 "Night Vision"]]. It was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]], and was reintroduced in [[Update "Hot Tracks"]] as a premium vehicle purchasable with Golden Eagles {{ge}}.
-
-The EC 665 Tiger HAP is a result of European defense collaboration between France and Germany, initiated during the Cold War era to counter ground threats, especially tanks. Born out of the 1975 agreement and developed by Eurocopter (now Airbus Helicopters), this attack helicopter combined stealth technology, advanced avionics, and potent firepower, making it highly agile and versatile. Primarily designed for air-to-air combat, the Tiger HAP's capabilities were recognized and adopted by nations beyond its Franco-German origin, including Spain and Australia. Beyond its military prowess, the Tiger HAP stands as a beacon of European cooperation and engineering excellence.
+The '''{{Specs|name}}''' is a premium French attack helicopter. It was introduced as a [[wt:en/news/6338-development-eurocopter-tiger-pouncing-on-the-prey-en|premium pack]] in [[Update 1.91 "Night Vision"]], and then removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]], but was reintroduced in [[Update "Hot Tracks"]] as a premium vehicle purchasable with Golden Eagles {{ge}}. The Tiger HAP provides a great premium helicopter option for the French tech tree to grind the rest of the French helicopters, thanks to its great avionics (MAW), optics (Thermals), and decent selection of various missiles for various jobs, including Mistrals and Stingers for the air-to-air role, along with HOT-3 ATGMs and SNEB unguided rockets to provide ground support. The HAP shines in helicopter enduring confrontation PvE battles where it can grind large quantities of RP and SL thanks to its support loadouts.
 
 == General info ==
 === Flight performance ===
@@ -66,17 +65,36 @@ As with most helicopters in the game, it easily takes damage from even 7.62 mm m
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm GIAT M781 cannon (450 rpg)
-** 1 x 30 mm GIAT M781 cannon + 64 x countermeasures
+* 1 x 30 mm GIAT M781 cannon, nose turret (450 rpg)
+* 64 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|ATAS (AIM-92)|HOT-3|Mistral|SNEB type 23}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_EC-665_Tiger_UHT.png]]</div>
+|-
+! [[SNEB type 23]] rockets
+| 12 || 22 || 22 || 12
+|-
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || 2
+|-
+! [[HOT-3]] missiles
+| || 2, 4 || 2, 4 ||
+|-
+! [[Mistral]] missiles
+| 2 || || || 2
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 44 x SNEB type 23 rockets
 * 68 x SNEB type 23 rockets
@@ -87,26 +105,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x Mistral missiles + 8 x HOT-3 missiles
 * 8 x HOT-3 missiles + 24 x SNEB type 23 rockets
 * 44 x SNEB type 23 rockets + 4 x ATAS (AIM-92) missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_EC-665_Tiger_UHT.png]]</div>
-|-
-! SNEB type 23 rockets
-| 12 || 22 || 22 || 12
-|-
-! ATAS (AIM-92) missiles
-| 2 || || || 2
-|-
-! HOT-3 missiles
-| || 2, 4 || 2, 4 ||
-|-
-! Mistral missiles
-| 2 || || || 2
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' (or just '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was released along with the initial British ground tree in [[Update 1.55 "Royal Armour"]].
 
-The Cromwell Mk I uses the 6-pdr, which provides higher penetration than the 75 mm on the [[Cromwell V|Mk V]]. It is also slightly faster and more manoeuvrable, thanks to the addition of an engine governor on the Mk. V that lowered its maximum output. However, these advantages are offset by the higher BR which means the Cromwell will be facing some tanks that are a good match for the Cromwell in terms of speed, like the [[T-34 (Family)|T-34]], and some tanks that are largely invulnerable, like the [[KV-2 (1939)|KV-2]].
+The Cromwell Mk I uses the 6-pdr, which provides higher penetration than the 75 mm on the [[Cromwell V|Mk V]]. It is also slightly faster and more manoeuvrable, thanks to the addition of an engine governor on the Mk. V that lowered its maximum output. However, these advantages are offset by the higher BR which means the Cromwell will be facing some tanks that are a good match for the Cromwell in terms of speed, like the [[T-34 (Family)|T-34]], and some tanks that are largely invulnerable, like the [[KV-1E]]
 
 The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine derived from the famous Rolls-Royce Merlin of Spitfire fame. It can outrun almost every other tank, including most low-rank light tanks like the [[BT-5|BT]] [[BT-7|series]] or [[M3 Stuart|M3]], but has adequate armour for a medium tank and a reasonable gun. Generally speaking, it can easily outfight most tanks that can keep up with it, and outrun anything that is a serious threat. Just don't sit still; anyone can snipe if given the chance, and the Cromwell's armour makes it a one-hit-wonder.
 
@@ -31,13 +31,14 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 |-
 | Hull || 63.5 mm ''Front plate'' <br> 25.4 mm (74°) ''Front glacis'' <br> 57 mm (13°) ''Joint plate'' <br> 25.4 mm (68°) ''Lower glacis'' ||44 mm ''Top front'' <br> 32 + 14 mm ''Bottom front'' <br> 38 (0°) + 32 mm (34°) ''Top rear'' <br> 25.4 + 14 mm ''Bottom rear'' || 32 mm (0-7°) ''Top'' <br> 20 mm (47°) ''Bottom'' || 20 mm ''Compartment'' <br> 14 mm ''Engine''
 |-
-| Turret || 64 mm + 12.7 mm ''Turret front'' <br> 63.5 mm ''Gun mantlet'' || 51 mm + 12.7 mm || 44 mm + 12.7 mm || 20 mm
+| Turret || 64 mm + 12.7 mm ''Turret front'' <br> 88.9 mm ''Gun mantlet'' || 51 mm + 12.7 mm || 44 mm + 12.7 mm || 20 mm
 |-
 |}
 '''Notes:'''
 
 * Suspension wheels and tracks are 20 mm thick.
 * 12.7mm Armour basket behind Turret front, sides and rear.
+* The vehicle has 5mm structural steel compartment separators inside
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -136,37 +137,40 @@ The Cromwell I is one of the fastest tanks in the game, due to its Meteor engine
 
 '''Overview:'''
 
-The Cromwell I is a fast tank with a good cannon and acceptable armour protection. Commanders should play it like a light tank, but be careful of the extremely slow reverse gear. It excels in close quarters combat due to the excellent gun and hull handling characteristics, as well as the fast reload rate. Commanders should avoid long range fights due to the slow reverse gear. This lack of a reverse gear makes it difficult to return to cover after exposing your tank to fire on the enemy. The best strategy in the Cromwell I is to hug the map corners and try to flank, outmanoeuvring enemy forces. The tank is very rewarding to players who have experience with the map that is being played, and are able to predict enemy movements. It is a true Cruiser tank, able to exploit gaps in the enemy defenses by disrupting the enemy back line.
+The Cromwell I is a fast tank with a good cannon and acceptable armour protection. Commanders should play it like a light tank, but be careful of the extremely slow reverse gear. It excels in close quarters combat due to the excellent gun and hull handling characteristics, as well as the fast reload rate. Commanders should avoid long range fights due to the slow reverse gear. This lack of a reverse gear makes it difficult to return to cover after exposing your tank to fire on the enemy. The best strategy in the Cromwell I is to hug the map corners and try to flank, outmaneuvering enemy forces. The tank is very rewarding to players who have experience with the map that is being played, are adept at flanking, and are able to predict enemy movements. It is a true Cruiser tank, able to exploit gaps in the enemy defenses by disrupting the enemy back line. Despite its admirable characteristics, the Cromwell is an ''unconventional'' medium tank, and may be difficult to use in the hands of a traditional medium tank player.
 
 '''Firepower:'''
 
-The best shell to use is the Shot Mk.9 APCBC due to its penetration characteristics. Generally this is a great round due to the fast reload and shell velocity. However this round struggles against angled armour, most notably against Soviet T-34 tanks. Against this enemy Cromwell gunners will have to aim for the turret or machine gun port, as the upper front plate will bounce the Shot Mk.9 easily.
+The best shell to use is the Shot Mk.9 APCBC due to its penetration characteristics. Generally this is a great round due to the fast reload and shell velocity. However this round struggles against angled armour, most notably against Soviet T-34 tanks. Against this enemy Cromwell gunners will have to aim for the turret or machine gun port, as the upper front plate will bounce the Shot Mk.9 easily. The 6pdr also has a high velocity loss modifier, resulting in poor penetration over long distances.
 
 '''Staying alive:'''
 
-In terms of armour, the Cromwell I is in a better situation than many players would assume. While the front armour is not particularly impressive, the design is very square and the side armour is acceptable. This means that the Cromwell I is an excellent tank to angle your hull and turret armour in. When the enemy fires, a quick turn using the impressive handling and acceleration can cause a bounce. Generally Cromwell I commanders should seek to move unpredictably when under fire and create angles that are difficult to penetrate.
+In terms of armour, the Cromwell I is in a better situation than many players would assume. While the front armour is not particularly impressive, the design is very square and the side armour is acceptable. This means that the Cromwell I is an excellent tank to angle your hull and turret armour in. When the enemy fires, a quick turn using the impressive handling and acceleration can cause a bounce. The Cromwell's turret face has an interior 12mm plate behind the main armour, meaning that in a downtier, some vehicles may have issue penetrating you when hull down. There is also an overlap with the 88.9mm mantlet and 64mm turret face, resulting in a small area with up to 160mm of effective armour. Generally, Cromwell I commanders should seek to move unpredictably when under fire and create angles that are difficult to penetrate. They should also seek to engage targets from the flanks whenever possible, and plan potential escape routes if the engagement is not in your favor.
 
-One somewhat unconventional tool that the Cromwell has access to is an abundance of smoke grenades. Commanders can use these grenades to shut down enemy firing angles and protect themselves from being shot in the side. However, be careful not to spam these too much as they may get in the way of your teammates as well.
+One somewhat unconventional tool that the Cromwell has access to is an abundance of smoke grenades. Commanders can use these grenades to shut down enemy firing angles and protect themselves from being shot in the side, or on the retreat. However, be careful not to spam these too much as they may get in the way of your teammates as well.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Very fast for a medium tank, excellent for capturing zones
+* Very fast for a medium tank, excellent for capturing zones and catching enemy light tanks off-guard
 * 57 mm performs well against most armoured targets
-* Gun handles well
+* Great gun handling thanks to high turret traverse, good gun depression and vertical stabilizer
 * Can easily hide behind obstacles and surprise passing enemies with a flanking manoeuvre
 * Remains competitive even in an uptier
+* Respectable minimum frontal armour means that in a downtier some vehicles may struggle to penetrate you
+* Reasonably fast neutral turning capablity
+* Above average survivability thanks to 5 crew members and interior structural steel
 
 '''Cons:'''
 
 * Terrible reverse speed, makes overextending difficult
 * Neutral turning performs poorly on sloped terrain
-* Sensitive steering in forward travelling gears
 * Boxy, vertical armour on hull and turret makes angling essential
 * Gunner can frequently be knocked out from frontal shots
 * 57 mm struggles to penetrate sloped or angled armour. T-34s and KV-1s are an issue at this rank as they are very difficult to penetrate at long ranges
+* 57mm ammunition can sometimes fail to injure enemy crew sufficiently
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

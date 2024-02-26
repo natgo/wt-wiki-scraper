@@ -10,11 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
-
-While its KwK40 L48 main gun is quite powerful for its BR, it has obvious weaknesses in its armour and should not be used as a main line tank or you will quickly be back to the hangar screen. Staying with allies to assist in finishing a tank off or staying behind to act as a sniper is this tank preferred job description.
-
-This Panzer IV is a Ausf. J variant. The biggest difference with the German [[Pz.IV J]] is the lack of a pintle-mounted MG over the turret, the lack of Ostketten for a better mobility in the snow, and the lack of add-on armour.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]]. This Panzer IV is a Ausf. J variant. The biggest difference with the German [[Pz.IV J]] is the lack of a pintle-mounted MG over the turret, the lack of Ostketten for a better mobility in the snow, and the lack of add-on armour.
 
 == General info ==
 === Survivability and armour ===
@@ -24,6 +20,7 @@ This Panzer IV is a Ausf. J variant. The biggest difference with the German [[Pz
 If you stay mobile and far from adversaries, or stay in a hulldown position for sniping, the Pz IV is survivable. In urban and CQC situations, unless in a downtier, survivability is lower than other medium tanks at the battle rating.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+
 * Rolled homogeneous armour
 
 {| class="wikitable"
@@ -139,7 +136,7 @@ The MG34 can deal with open-topped vehicles, it can also be used to assist in ma
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The Pz.IV suffers from its slow, manual turret traverse rate. This causes the Panzer IV to lose flexibility in reacting to close encounters without turning the entire hull around. As such, it is recommended not to use the Panzer IV as a front-line assaulter in combat.
 
-Tactics-wise, the Panzer IV is perfect for sniping and ambushes, where the slower turret traverse rate affects its combat performance less. Attack from a distance, especially while that enemy is focused on other allies in the team. Ambushes can also work in close-range events when watching corners, street intersections, and choke points, but be wary of any enemies trying to outmanoeuvre the Panzer IV as it would require drastic action with the slow turret rate. Try not to engage the enemy in a straight-up front confrontation as most enemies would be able to easily cleave through the front armour and knock out your vehicle.
+While its KwK40 L48 main gun is quite powerful for its BR, it has obvious weaknesses in its armour and should not be used as a main line tank or you will quickly be back to the hangar screen. Tactics-wise, the Panzer IV is perfect for sniping and ambushes, where the slower turret traverse rate affects its combat performance less. Attack from a distance, especially while that enemy is focused on other allies in the team. Ambushes can also work in close-range events when watching corners, street intersections, and choke points, but be wary of any enemies trying to outmanoeuvre the Panzer IV as it would require drastic action with the slow turret rate. Try not to engage the enemy in a straight-up front confrontation as most enemies would be able to easily cleave through the front armour and knock out your vehicle.
 
 Although any tank of Rank III can destroy the Panzer IV pretty quickly, the tanks that mostly need to avoided in open combat are [[IS-2 (Family)|IS-2]], [[KV-2 (Family)|KV-2]], [[SU-152]], [[Tiger H1]] and [[Panther D|Panther]] tanks. Most of the [[:Category:Heavy tanks|heavy tanks]] that it will face include Tigers, the last of [[KV-85|KV series]], [[IS-1|IS-1s]], and even some [[IS-2|IS-2s]]. Particularly, IS-2s will be the toughest opponent and can take out the Panzer IV with one hit. Avoid frontal confrontation at all cost. Instead try to be sneaky and attack them from the sides where they become vulnerable.
 

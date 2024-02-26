@@ -117,17 +117,52 @@ The Sea Vixen FAW.2 has no armour plates but has bulletproof glass for the pilot
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
-[[File:Sea Vixen Wiki Image 3.jpg|thumb|Sea Vixen launching a [[Firestreak]] AAM.]]
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|H.E. M.C. Mk.II (500 lb)|Mk.M2 (540 lb)|H.E. M.C. Mk.13 (1,000 lb)}}
-{{main|AGM-12B Bullpup|Firestreak|Red Top}}
-{{main|AP Mk II|RP|RP-3}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[H.E. M.C. Mk.II (500 lb)|500 lb H.E. M.C. Mk.II]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
+| || 1 || 1 || 1 || 1 ||
+|-
+! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
+| 1 || || || || || 1
+|-
+! [[AP Mk II]] rockets
+| || 6 || 6 || 6 || 6 ||
+|-
+! [[RP]] rockets
+| || 36 || 36 || 36 || 36 ||
+|-
+! [[RP-3]] rockets
+| || 4 || 4 || 4 || 4 ||
+|-
+! [[AGM-12B Bullpup]] missiles
+| 1 || || || || || 1
+|-
+! [[Firestreak]] missiles
+| || 1* || 1* || 1* || 1* ||
+|-
+! [[Red Top]] missiles
+| || 1* || 1* || 1* || 1* ||
+|-
+| colspan="7" | Maximum permissible weight imbalance: 700 kg
+|-
+| colspan="8" | * Firestreak and Red Top air-to-air missiles cannot be mixed, only one type may be carried across hardpoints
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 4 x Firestreak missiles
 * 4 x Red Top missiles
 * 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
@@ -142,55 +177,29 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x AGM-12B Bullpup missiles + 144 x RP rockets
 * 2 x Red Top missiles + 72 x RP rockets
 * 2 x Red Top missiles + 2 x 500 lb H.E. M.C. Mk.II bombs + 2 x AGM-12B Bullpup missiles (1,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 500 lb H.E. M.C. Mk.II bombs
-| || 1 || 1 || 1 || 1 ||
-|-
-! 540 lb Mk.M2 bombs
-| || 1 || 1 || 1 || 1 ||
-|-
-! 1,000 lb H.E. M.C. Mk.13 bombs
-| 1 || || || || || 1
-|-
-! AP Mk II rockets
-| || 6 || 6 || 6 || 6 ||
-|-
-! RP rockets
-| || 36 || 36 || 36 || 36 ||
-|-
-! RP-3 rockets
-| || 4 || 4 || 4 || 4 ||
-|-
-! AGM-12B Bullpup missiles
-| 1 || || || || || 1
-|-
-! Firestreak missiles
-| || 1* || 1* || 1* || 1* ||
-|-
-! Red Top missiles
-| || 1* || 1* || 1* || 1* ||
-|-
-| colspan="7" | Maximum permissible weight imbalance: 700 kg
-|-
-| colspan="8" | * Firestreak and Red Top air-to-air missiles cannot be mixed, only one type may be carried across hardpoints
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-
+[[File:Sea Vixen Wiki Image 3.jpg|thumb|Sea Vixen launching a [[Firestreak]] AAM.]]
 ;Air Realistic battles
+The '''Red Tops''' are generally much better missiles to equip, compared to the '''Firestreaks''', as they have the largest warhead of any air-to-air missile in the game and have a slightly better top speed (Mach 2.5). Because of this, the Sea Vixen's best tactic is to climb to one side at the start of the battle and attack enemy bombers. The Red Tops are very good for attacking from the side and this tactic is a good idea to avoid enemy tail gunners and will make the missile more likely to hit because of the Red Tops' poor range from the rear.
 
-The Red Tops are generally much better missiles to equip, compared to the Firestreaks, as they have the largest warhead of any air-to-air missile in game and have a slightly better top speed (Mach 2.5). Because of this, the Sea Vixen's best tactic is to climb to one side at the start of the battle and attack enemy bombers. The Red Tops are very good for attacking from the side and this tactic is a good idea to avoid enemy tail gunners and will make your missile more likely to hit because of the Red Tops' poor range from the rear.
+Alternatively, you can use the Red Tops in Boom-n-Zoom attacks on enemy fighters, who are not watching out for missiles or fighters, which have lost speed. The Red Tops are most useful when fired from the side between 1 to 2.5 km range. The Sea Vixen's manoeuvrability may tempt you to engage in dogfights, however, you should generally stick to boom-and-zoom tactics at least until there are only a few hostile aircraft left; The Sea Vixen's primary way of avoiding damage is its superior speed and engaging in dogfights gives a chance to hostiles to get a hit on you.
 
-Alternatively, you can use the Red Tops in Boom-n-Zoom attacks on enemy fighters, who are not watching out for missiles or fighters, which have lost speed. The Red Tops are most useful when fired from the side between 1.0 and 2.5 km range. Avoid getting into dogfights as the Sea Vixen has no cannons and its missiles will be useless, unless you have allies to cover you or can force the enemy fighter to climb and lose speed.
+Remember to actively use your radar lock, the Sea Vixen's radar lock is superior to even some top-tier aircraft and allows you to get a missile lock without needing to have your aircraft's nose pointed at the target. It can also help you acquire a lock more easily on turning aircraft and it is generally good practice to radar lock any target you are going after.
 
-Enemies worth noting: All MiG 15s and 17s as they can out turn you and [[A-4E Early]] as they have flares when fully modified, which will make your missiles redundant if used.
+;Enemies worth noting:
+MiG-19s and F-104s in particular need to be looked out for as they are common and among the very few aircraft able to catch up to the Sea Vixen. In a downtier, A-4Es are the primary target that should be avoided, as they possess flares.
+
+;Strategies for specific aircraft:
+* [[F-104 (Family)|F-104 ''Starfighter'']]: In uptiers, the most common aircraft you will face is the F-104s. Unfortunately, you will see very few bombers in these cases, so you will most likely have to deal with them one way or another.
+** First, try to identify them, ideally, you want to engage [[F-104A]]s and not [[F-104C]]s, as the F-104C gets flares. From there, your ideal engagement is intercepting an F-104 that is diving on another target (or just cruising) from the sides, the Sea Vixen has great manoeuvrability and can easily get on an aircraft's tail. When you are on the tail of a F-104, quickly judge its speed, if it is going near your top speed, your desired missile launch range is within 1.5km; Red Tops have subpar burn time and cannot catch up if launched from any further.
+** If the target F-104 tries to dogfight you, quickly check your surroundings, if there are no other hostile aircraft in sight, feel free to respond in kind. The Sea Vixen is far more manoeuvrable than the F-104, you have the upper hand.
+
+* [[A-4 (Family)|A-4 ''Skyhawk'']]: The strategy against A-4s is generally just brute force. You can get on their tail and pressure them, you are both faster and more manoeuvrable so you can afford a protracted fight (given there are no other hostiles in the vicinity).
+** The ideal situation is when the target A-4 is confident in its flares and is flying straight. In that case, you may get between 0.5 to 0.7 km of them, the close distance gives them very little time to react, and even if they do drop flares in time, good chances are that the flares won't have time to travel far enough from the A-4 and as such the missile will still damage them simply by exploding close to them.
+** If the A-4 turns, use your radar lock to get a missile lock and launch the missile ahead of its turn. The missile will then be less likely to be fooled by flares as the flares will be too far back comparatively.
 
 [[File:Sea Vixen Wiki Image 4.jpg|thumb|Sea Vixen after destroying a target with its [[AGM-12B Bullpup|AGM-12B]] Bullpup.]]
 

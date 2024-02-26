@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet bomber {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]] as a premium pack but was removed from the Gaijin store after the [[wt:en/news/8046-shop-war-thunder-winter-sale-en|2022 "Winter sale"]]. It was briefly made available for purchase with Golden Eagles {{GE}} for the [[wt:en/news/8356-special-a-decal-and-two-aircraft-for-bastille-day-en|2023 "Bastille Day"]] mini-event.
+The '''{{Specs|name}}''' was last variant developed for the Vautour II program, intended to procure a twin-engine multirole heavy fighter capable of close air support, high-altitude bombing and high-altitude interception. The Vautour IIN was the all-weather interceptor variant, armed with the standard set of 4 x 30 mm DEFA cannons and operated by the pilot and navigator. The early variants of this aircraft lacked access to the radar-guided Matra R511 SARH missiles and instead used MACLOS-guided AA-20 Nords, for ground support, they could also carry AS-20 and AS-30 Nords, as well as bombs and rockets in external pylons and the internal bomb bay.
+
+It was introduced in [[Update "Winged Lions"]] as a premium pack but was removed from the Gaijin store after the [[wt:en/news/8046-shop-war-thunder-winter-sale-en|2022 "Winter sale"]]. It was briefly made available for purchase with Golden Eagles {{GE}} for the [[wt:en/news/8356-special-a-decal-and-two-aircraft-for-bastille-day-en|2023 "Bastille Day"]] mini-event. Unlike the regular Vautour IIN Late found in the French tech tree, this variant lacks access to the Matra R511 radar-guided missiles, instead, it relies on its guns and the AA-20 Nords for air-to-air kills. At its BR, it constantly faces interceptors like the Mig-19 and F-104 that are very capable of destroying the Vautour, so it is recommended to stay low and close to the ground, and around your team, the AA-20 Nords are very difficult to guide but can be used effectively without guidance in head-on attacks, meanwhile the Vautour can also use its good amount of ground ordinance to destroy several ground targets or bases in air battles.
 
 == General info ==
 === Flight performance ===
@@ -167,6 +169,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x AA-20 Nord missiles
 * 24 x T10 140 rockets

@@ -21,7 +21,7 @@
       <div class="specs_card_main_slider_system">
         <div>
           <img
-            src="https://encyclopedia.warthunder.com/images/tornado_f3.png"
+            src="https://encyclopedia.warthunder.com/i/images/tornado_f3.png"
             alt="tornado_f3.png"
           />
         </div>
@@ -254,8 +254,8 @@
     >
   </h2>
   <p>
-    The introduction of the Panavia Tornado F.3 marked an enduring chapter in the annals of the
-    Royal Air Force, leaving an indelible impact from its debut in the late 1970s through its
+    The introduction of the Panavia <b>Tornado F.3</b> marked an enduring chapter in the annals of
+    the Royal Air Force, leaving an indelible impact from its debut in the late 1970s through its
     operational legacy well into the new millennium. The Tornado F.3's sophisticated air-to-air
     weaponry and radar systems were prominently showcased, exemplifying its adaptability during its
     role as a vital guardian of British airspace during the Gulf War and beyond. As the new
@@ -270,7 +270,7 @@
     <a href="/Update_%22Sky_Guardians%22" title='Update "Sky Guardians"'>Update "Sky Guardians"</a>.
     Diverging from the <a href="/Tornado_GR.1" title="Tornado GR.1">GR.1</a> variant, the Panavia
     Tornado assumes the role of a fighter-interceptor in its F.3 version. Designed with a focus on
-    air-superiority, this aircraft boasts an array of impressive missile capabilities, positioning
+    air superiority, this aircraft boasts an array of impressive missile capabilities, positioning
     itself as a formidable adversary against airborne threats. Equipped with advanced missile
     systems including the AIM-9L Sidewinder and Skyflash SuperTEMP, the Tornado F.3 is primed to
     excel in modern aerial combat scenarios. The AIM-9L Sidewinder enhances its close-range combat
@@ -356,28 +356,96 @@
   </div>
   <p>
     The Tornado is a variable wing sweep plane, meaning it can adapt the wings to the current speed
-    to avoid structural failure or extreme performance loss. Wing sweep is controlled automatically,
-    unless the pilot forces manual controls. Flaps can only be used in wide wing sweep mode (on
-    automatic controls up to ~760 km/h, on manual they can sustain about 1,100 km/h) and will
-    automatically fold when the wings are swept back (meaning you don't have to think about doing it
-    yourself). Flying the plane in manual mode outside of combat is not recommended as it is easy to
-    forget about the wing angle when it's not a focus of pilot's attention, resulting in wing
-    damage.
+    to avoid structural failure or extreme performance loss. Wing sweep is controlled automatically
+    unless the pilot forces manual controls. Flaps can only be used at up to 20% wing sweep (on
+    automatic controls at 780-900 km/h depending on if the plane is currently accelerating or not,
+    on manual the wings can sustain up to about 1,070 km/h) and will automatically fold when the
+    wings are swept back (meaning you don't have to think about doing it yourself).
   </p>
   <p>
-    The roll rate without improved boosters is not very fast, but serviceable. Installation of
-    improved boosters also improves roll on this plane, but removes safety restrictions and may
-    allow the pilot to casually snap the wings by pulling and rolling simultaneously, so it is up to
-    the user if they want to deal with this or not. The plane in general dislikes rolling and the
-    wings will eventually snap if it continues to spin for prolonged periods of time, especially
-    when also turning or suddenly doing negative G.
+    Flying the plane in manual mode is not recommended at all, regardless of the pilot's opinion and
+    ego, since the autopilot always aims for maximum mobility, while trying to keep wings strictly
+    below 90% critical overload speed to protect the plane from destroying itself, which is
+    extremely hard to outperform. Manual "optimization" will not even do any good without seeing
+    certain plane parameters, that aren't provided by the in-game UI. Even folding wings during
+    liftoff is pointless, as the plane takes off better when wings are fully unswept, which is their
+    default state.
   </p>
   <p>
-    The afterburner is extremely inefficient and will easily consume 45 minutes of fuel where other
-    planes could get away with 15. Fortunately, 45 minutes is enough to reach enemy on most maps,
-    deal with them, and then fly back without afterburner with about 6 minutes left. Plane does not
-    overheat from prolonged afterburner flight, at least not until it runs out of normal fuel load.
+    The plane will remember the last used manual wing sweep&#160;% when the pilot sets the wing mode
+    back to automatic, which allows to preemptively "order" the plane to unsweep back into 20% wing
+    mode upon return to manual controls and then use flaps if the autopilot is being difficult and
+    doesn't cooperate. Do note that even if the game UI says that the wing sweep is "20%", the sweep
+    angle may be a fraction above 20% and the wings will refuse to deploy combat flaps. Before
+    turning autopilot back on at the airfield, double-check if the combat flaps can be used at your
+    current wing sweep angle. Remember to always set the wing controls back to automatic immediately
+    after doing any complicated manoeuvre, as it is easy to forget about the wing angle when it's
+    not a focus of the pilot's attention, resulting in sudden catastrophic wing damage.
   </p>
+  <p>
+    The afterburner is extremely inefficient and will easily consume 45 minutes of fuel whereas
+    other planes could get away with 15. Fortunately, 45 minutes is enough to reach the enemy on
+    most maps, deal with them, and then fly back without afterburner with about 6 minutes left. The
+    plane does not overheat from prolonged afterburner flight, at least not until it runs out of
+    normal fuel load. The afterburner <i>does not</i> increase the plane's turn rate unlike with
+    other planes, instead, it helps to keep its current speed in a turn and is kept online to force
+    the plane to stay in one of its general speed states.
+  </p>
+  <p>
+    The roll rate of the plane is mediocre. Installation of improved boosters improves roll on this
+    plane, and allows it to turn significantly faster, but removes safety restrictions, which may
+    allow the pilot to snap the wings by pulling and rolling simultaneously despite best autopilot
+    efforts, so it is up to the user if they want to deal with this or not.
+  </p>
+  <p>
+    The wing sweep, upgrades, height, momentum, and general speed of the plane heavily affect its
+    turning rate. Even the player's control scheme can affect how efficiently the plane turns. It is
+    ill-advised to commit to prolonged turn fights with enemies without remembering how it works
+    first, as the plane has a poor acceleration rate. In general, a fully trained pilot with a
+    G-suit should not suffer any fatigue at all and only the plane's energy state should matter. The
+    reverse thrust can be used to slow down without cutting the afterburner and to make autopilot
+    understand that the pilot is planning to turn. Here are general plane performance levels with
+    improved boosters installed:
+  </p>
+  <ol>
+    <li>
+      The full turn time of 28 seconds from the stat card is implied for a fully folded, fully
+      modified Tornado going at near maximum speed at about 300 m height. Some weight in the form of
+      missiles or fuel may increase the turn time by a second, but it is usually irrelevant due to
+      how fast the engines burn fuel. The plane will not outturn anything, but it will not
+      self-destruct in a dive either. Tornado F.3 will lose a lot of speed when turning horizontally
+      in this state, while technically not losing anything in a hard pull followed by a dive.
+    </li>
+    <li>
+      By decreasing the speed to 1070 km/h the plane can reduce its turning circle to 24-22 seconds.
+      The autopilot will try to change the wing sweep to about 40%, which is better than 20% with
+      flaps at this point (even though it's technically possible to use). The plane will no longer
+      lose speed in a horizontal turn if the plane is using an afterburner. While this state allows
+      one to immediately chase something upon detection, this is not a good state to have a turn
+      fight with and reverse thrust is required to move onto the next state.
+    </li>
+    <li>
+      By decreasing the speed to ~780 km/h, but not below 700 km/h (use of the afterburner is
+      imperative at this point) the wings can be unswept out and the plane will achieve 21 seconds
+      turn rate. The use of combat flaps will shave 2 more seconds off, allowing to achieve a
+      19-second turn rate. If the player uses relative controls, simply pulling the plane "up" to
+      the side should net an 18-second turn rate by default. At this point, the plane can outturn
+      the <a href="/Phantom_FGR.2" title="Phantom FGR.2">Phantom FGR.2</a> and any attacker, but
+      most dedicated fighters can still outturn Tornado, at least short term.
+    </li>
+    <li>
+      By performing a set of complicated manoeuvres and forcing gravity to speed up the turn of a
+      plane and by abusing the afterburner to keep the momentum, the Tornado F.3 can reduce the turn
+      time down to a consistent 18-16 seconds. At this rate, the plane will start suffering extreme
+      overload of 8G and even a fully trained and experienced pilot might start to slowly pass out,
+      depending on how the plane entered the current spin. An expert pilot can tolerate up to about
+      17 seconds of turn rate with mild stamina drain. Only an ace pilot can tolerate a 16-second
+      turn rate at all. Most hostile fighters can have a temporary turn rate of 15-13 seconds, but
+      this will drain all of their speed and their pilots will pass out immediately if they make a
+      mistake or try to keep this up, whereas Tornado F.3 can turn like this for at least 40 seconds
+      or for as long as it has fuel.
+    </li>
+  </ol>
   <p>
     This Tornado version is often mildly faster than the bomber versions due to not carrying an
     additional cannon and is more stable than the German Tornados. It also does not pose such a high
@@ -387,39 +455,22 @@
     Maximum speed at ground level in folded wing mode is 1,500 km/h, at which point the plane will
     start to shake and might break up, but to reach such speed the plane generally must dive from at
     least 4 km altitude, and have afterburner on to retain it. Without the help of gravity, the
-    plane can fly at around 1,300 km/h with afterburner on until upgraded. Even then, minor flight
-    direction corrections will reduce average speed. Without afterburner, the plane generally tends
-    to unfold itself and flies at around 1,100 km/h or less.
+    plane can fly at around 1,300 km/h with an afterburner on. Even then, minor flight direction
+    corrections will reduce average speed. Without afterburner, the plane generally tends to unfold
+    itself and flies at around 1,100 km/h or less.
   </p>
   <p>
-    It is ill-advised to commit to prolonged turnfights with enemies even in a wide wing mode,
-    unless you know what you are doing, as the plane has poor acceleration rate. It may outturn some
-    fighters, at least temporarily, but both planes would have to stall so hard that literally
-    anyone else can take them out.
-  </p>
-  <p>
-    In a case of an emergency, pilot can manually order the wings to unsweep at about 1,100 km/h and
-    immediately use combat flaps while they are still transitioning to turn into the enemy. This
-    will sacrifice all of the plane's speed, allowing it to do one deadly attack if the pilot
-    doesn't pass out from excessive Gs. The main and obvious downside is that lot of inputs are
-    required to do all these actions and they need to be done near simultaneously. Any control
-    mistake or even speed miscalculation will cause the plane to self-destruct as the wing rip speed
-    is much lower than the one of the flaps.
-  </p>
-  <p>
-    Minimal speed is 330 km/h, at which the plane will glide forward with minimal height and speed
-    loss. This can be exploited to minimize pulse-Doppler interference on radar or to survive for as
-    long as feasible with engines off when swarmed by IR missiles. This also implies that the plane
-    can glide over significant distances even without engines. The engines turn on in about 10
+    The minimal speed is 330 km/h, at which the plane will glide forward with minimal height and
+    speed loss. This can be exploited to minimize pulse-Doppler interference on radar or to survive
+    for as long as feasible with engines off when swarmed by IR missiles. This also implies that the
+    plane can glide over significant distances even without engines. The engines turn on in about 10
     seconds and it takes a while for engine thrust to overtake gravity, so it must be turned on
     before the plane is about to crash due to loss of all energy, not as it already happens.
   </p>
   <p>
-    As a gimmick, the Tornado also has the option of reverse thrust. It allows to use engine output
-    to slow the plane down instead of having to shut it off. This can be used both in air combat
-    (together with or instead of brakes) and during landing (instead of the drag chute which the
-    plane lacks). Upon landing, the engines can be simply shut off to prevent the plane from
-    beginning to accelerate backwards.
+    The plane does not have a drag chute, but it can use reverse thrust with an afterburner on to
+    slow down and stop. A hard landing is feasible at 500 km/h, upon landing and stopping the
+    engines can be simply shut off to prevent the plane from beginning to accelerate backwards.
   </p>
   <table class="wikitable" style="text-align: center" width="70%">
     <tr>
@@ -710,16 +761,16 @@
     </div>
   </div>
   <p>
-    The Tornado's fuselage inherits the general sturdiness of the Jaguar, so it can take a rough
-    landing at 700 km/h and will in general sustain damage without falling apart. Occasionally, the
+    The Tornado's fuselage inherits the general sturdiness of the Jaguar, so it can survive a rough
+    landing at 600 km/h and will in general sustain damage without falling apart. Occasionally, the
     plane will survive explosions of small missiles, though this will severely reduce flight
     performance and should be avoided.
   </p>
   <p>
-    The wings tend to snap after taking a direct hit with explosives. Depending on severity of
-    overall wing damage, the plane might still continue to fly with half a wing or lose all
-    semblance of control and spiral into the ground. Loss of the tail is fatal and recovery after
-    that is impossible.
+    The wings tend to snap after taking a direct hit with explosives. Depending on the severity of
+    overall wing damage, the plane might continue to fly with half a wing or lose all semblance of
+    control and spiral into the ground. Loss of the tail is fatal and recovery after that is
+    impossible.
   </p>
   <p>
     The engines are tightly packed and tend to be destroyed together, but sometimes one of them
@@ -735,20 +786,28 @@
   <p>
     Tornado F.3 can carry a lot of countermeasures on its wings and it has several large
     countermeasures as a last resort on its hull. Unfortunately, it is impossible to separate
-    loadouts and controls for either countermeasure type, the large ones are used last after the
-    small ones run out. The Tornado's afterburners run rather hot, so it is always recommended to
-    briefly drop back to military power when attempting to flare off incoming IR missiles. The large
-    quantity of countermeasures also allows periodic flares to be used for a while when entering a
-    hectic airspace, allowing missiles from surprise enemy aircraft to be "pre-flared".
+    load-outs and controls for either countermeasure type, the large ones are used last after the
+    small ones run out. The Tornado's afterburners run rather hot, and only 2 small flares are
+    actually fired each time, so it is still recommended to briefly drop back to military power when
+    attempting to flare off incoming IR missiles.
+  </p>
+  <p>
+    The large quantity of countermeasures allows fire flares every 0.5 seconds for a long time to
+    survive when entering hectic airspace and allows missiles from surprise enemy aircraft to be
+    "pre-flared". Setting periodic flare dispensers to this exact fire rate also makes hostile
+    AIM-9M nearly harmless, as it will be permanently blinded the very moment it is fired at the
+    plane and will not reach it as long as the pilot moves around at all. Adding chaff into the mix
+    will render the majority of attackers and fighter-bombers unable to use radar against Tornado
+    F.3, at least from behind.
   </p>
   <p>
     Another use for the excessive countermeasure count is to become semi-immune to ARH missiles by
-    spamming chaff every 5 seconds while flying high in the sky, if pilot does not want to go down
-    to the ground or to think about this threat at all. This seriously messes with missiles such as
-    the Phoenix, though the periodic chaff release must be kept on through the entire flight, and it
-    is not recommended to fly directly at them, otherwise the missile can reacquire the lock again.
-    This does not do anything to CW SARH missiles guided by pulse-Doppler radars, and any actual
-    missile lock alerts are not to be ignored.
+    spamming chaff every 5 seconds while flying high in the sky, if the pilot does not want to go
+    down to the ground or to think about this threat at all. This seriously messes with missiles
+    such as the Phoenix, though the periodic chaff release must be kept on through the entire
+    flight, and it is not recommended to fly directly at them, otherwise, the missile can reacquire
+    the lock again. This does not do anything to CW SARH missiles guided by pulse-Doppler radars,
+    and any actual missile lock alerts are not to be ignored.
   </p>
   <h3>
     <span class="mw-headline" id="Modifications_and_economy">Modifications and economy</span
@@ -832,7 +891,7 @@
         <div class="specs_char_line head">
           <span class="name">Total cost of modifications</span
           ><span class="value"
-            >517 000
+            >304 000
             <a href="/Research_Points" title="Research Points"
               ><img
                 alt="Rp icon.png"
@@ -850,7 +909,7 @@
         <div class="specs_char_line indent">
           <span class="name"></span
           ><span class="value"
-            >475 000
+            >462 000
             <a href="/Silver_Lions" title="Silver Lions"
               ><img
                 alt="Sl icon.png"
@@ -1034,7 +1093,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            21 000
+                            12 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1053,7 +1112,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            19 000
+                            18 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1072,7 +1131,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name"></div>
                           <div class="value">
-                            360
+                            340
                             <a href="/Golden_Eagles" title="Golden Eagles"
                               ><img
                                 alt="Ge icon.png"
@@ -1111,7 +1170,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            29 000
+                            17 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1130,7 +1189,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            27 000
+                            26 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1149,7 +1208,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name"></div>
                           <div class="value">
-                            490
+                            480
                             <a href="/Golden_Eagles" title="Golden Eagles"
                               ><img
                                 alt="Ge icon.png"
@@ -1191,7 +1250,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            42 000
+                            25 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1210,7 +1269,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            39 000
+                            38 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1272,7 +1331,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            21 000
+                            12 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1291,7 +1350,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            19 000
+                            18 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1310,7 +1369,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name"></div>
                           <div class="value">
-                            360
+                            340
                             <a href="/Golden_Eagles" title="Golden Eagles"
                               ><img
                                 alt="Ge icon.png"
@@ -1349,7 +1408,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            29 000
+                            17 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1368,7 +1427,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            27 000
+                            26 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1387,7 +1446,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name"></div>
                           <div class="value">
-                            490
+                            480
                             <a href="/Golden_Eagles" title="Golden Eagles"
                               ><img
                                 alt="Ge icon.png"
@@ -1426,7 +1485,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            32 000
+                            19 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1503,7 +1562,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            42 000
+                            25 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1522,7 +1581,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            39 000
+                            38 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1584,7 +1643,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            21 000
+                            12 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1603,7 +1662,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            19 000
+                            18 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1622,7 +1681,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name"></div>
                           <div class="value">
-                            360
+                            340
                             <a href="/Golden_Eagles" title="Golden Eagles"
                               ><img
                                 alt="Ge icon.png"
@@ -1659,7 +1718,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            21 000
+                            12 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1678,7 +1737,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            19 000
+                            18 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1697,7 +1756,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name"></div>
                           <div class="value">
-                            360
+                            340
                             <a href="/Golden_Eagles" title="Golden Eagles"
                               ><img
                                 alt="Ge icon.png"
@@ -1744,7 +1803,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            21 000
+                            12 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1763,7 +1822,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            19 000
+                            18 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1782,7 +1841,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name"></div>
                           <div class="value">
-                            360
+                            340
                             <a href="/Golden_Eagles" title="Golden Eagles"
                               ><img
                                 alt="Ge icon.png"
@@ -1831,7 +1890,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            29 000
+                            17 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1850,7 +1909,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            27 000
+                            26 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1869,7 +1928,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name"></div>
                           <div class="value">
-                            490
+                            480
                             <a href="/Golden_Eagles" title="Golden Eagles"
                               ><img
                                 alt="Ge icon.png"
@@ -1907,7 +1966,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            29 000
+                            17 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -1926,7 +1985,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            27 000
+                            26 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -1945,7 +2004,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name"></div>
                           <div class="value">
-                            490
+                            480
                             <a href="/Golden_Eagles" title="Golden Eagles"
                               ><img
                                 alt="Ge icon.png"
@@ -1994,7 +2053,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            32 000
+                            19 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -2069,7 +2128,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            32 000
+                            19 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -2144,7 +2203,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            32 000
+                            19 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -2234,7 +2293,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            42 000
+                            25 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -2253,7 +2312,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            39 000
+                            38 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -2310,7 +2369,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Research:</div>
                           <div class="value">
-                            42 000
+                            25 000
                             <a href="/Research_Points" title="Research Points"
                               ><img
                                 alt="Rp icon.png"
@@ -2329,7 +2388,7 @@
                         <div class="specs_mod_prices_line">
                           <div class="name">Cost:</div>
                           <div class="value">
-                            39 000
+                            38 000
                             <a href="/Silver_Lions" title="Silver Lions"
                               ><img
                                 alt="Sl icon.png"
@@ -2494,17 +2553,18 @@
     <li>32 x large calibre countermeasures</li>
   </ul>
   <p>
-    The main cannon is filled with APHE as main ammunition in all loadouts, so it is good at causing
-    plane fires and destroying lightly armoured targets, including light pillboxes or tanks. The gun
-    can destroy howitzers in 3-4 hits from 3 km away, which is decent considering the low ammunition
-    count.
+    The main cannon is filled with APHE as main ammunition in all load-outs, so it is good at
+    causing plane fires and destroying lightly armoured targets, including light pillboxes or tanks.
+    The gun can destroy howitzers in 3-4 hits from 3 km away, which is decent considering the low
+    ammunition count.
   </p>
   <p>
     The gun can receive gun radar assist at about 1.5 km range. In this mode, the gun pointer
-    demonstrates what the shells will intercept, all pilot has to do is to fire and "slice" enemy
-    plane hull with the gun pointer while doing so. Accuracy of the gun radar is about 80% and it is
-    very reliable even against wiggling enemy planes within ground interference and despite low fire
-    rate of a gun, making it superior to radar missiles during ground level fights.
+    demonstrates what the shells will intercept, all the pilot has to do is to fire and "slice" the
+    enemy plane hull with the gun pointer while doing so. The accuracy of the gun radar is about 80%
+    and it is very reliable even against wiggling enemy planes within ground interference and
+    despite the low fire rate of a gun, making it superior to radar missiles during ground-level
+    fights.
   </p>
   <h3>
     <span class="mw-headline" id="Suspended_armament">Suspended armament</span
@@ -2630,32 +2690,32 @@
   </table>
   <br />
   <p>
-    The Tornado F.3 only gets to carry missiles as weapons, and the choice is rather straight
-    forward, as they come in separate groups with direct upgrades.
+    The Tornado F.3 only gets to carry missiles as weapons, and the choice is rather
+    straightforward, as they come in separate groups with direct upgrades.
   </p>
   <p>
     AIM-9L can be utilized as a "parry" missile, as it gets agitated by any enemy missiles and will
-    try to hit them instead of enemy plane if they fire anything. Otherwise it is sometimes useful
-    against similar variable wing planes, in attacks from behind, or if the enemy is unaware or
-    forgets to flare (quite uncommon at rank VII). Tornado F.3 can utilize "TWS" radar mode to slave
-    and fire the 9L at multiple planes without changing flight direction.
+    try to hit them instead of an enemy plane if they fire anything. Otherwise, it is sometimes
+    useful against similar variable wing planes, in attacks from behind, or if the enemy is unaware
+    or forgets to flare (quite uncommon at rank VII). Tornado F.3 can utilize "TWS" radar mode to
+    slave and fire the 9L at multiple planes without changing flight direction.
   </p>
   <p>
     The Skyflashes are the same as those used on Phantom FGR.2 and FG.1. The main advantage is that
-    they can be launched at ridiculous angles and still manage to acquire the lock, then they turn
-    towards the enemy right after launch without wasting time. This combines well with the "look up"
-    and "wide" ACM radar mode, as the plane is often forced to ground level without even being able
-    to pull the nose up by other radar missiles. In general, these missiles can acquire anything
-    within 30 degrees of the plane nose, better if the target is below the plane (radar scope can be
-    checked to see how many degrees above or below the nose is the selected target).
+    they can be launched at ridiculous angles and still manage to acquire the lock, and then they
+    turn towards the enemy right after launch without wasting time. This combines well with the
+    "look up" and "wide" ACM radar mode, as the plane is often forced to ground level without even
+    being able to pull the nose up by other radar missiles. In general, these missiles can acquire
+    anything within 30 degrees of the plane's nose, better if the target is below the plane (radar
+    scope can be checked to see how many degrees above or below the nose is the selected target).
   </p>
   <p>
     Skyflash SuperTEMP modification is slightly better than normal Skyflash in every regard, but the
     most notable difference is that upgraded missiles are far less prone to randomly lose track of
     the target (and then self-destruct as a result) when launched to the side. While SuperTEMP
-    doesn't reach <a href="/SRAAM" title="SRAAM">SRAAM</a> level of reliability and can be
-    outstalled in a SARH duel, it can casually intercept planes at 2.5 to 8 km ranges if they dare
-    to leave the ground protection.
+    doesn't reach <a href="/SRAAM" title="SRAAM">SRAAM</a> level of reliability and can be out
+    stalled in a SARH duel, it can casually intercept planes at 2.5 to 8 km ranges if they dare to
+    leave the ground protection.
   </p>
   <h2>
     <span class="mw-headline" id="Usage_in_battles">Usage in battles</span
@@ -2675,11 +2735,11 @@
     >
   </h2>
   <p>
-    The Tornado F.3 is outclassed by higher tier aircraft, and is heavily dependent on its weaponry
-    and avionics to be competitive.
+    The Tornado F.3 is very powerful at its own BR, but is outclassed by higher-tier aircraft, and
+    is heavily dependent on its weaponry and avionics to be competitive.
   </p>
   <p>
-    During the early grind, AIM-9Ls and the radar assisted gun are the only options, meaning that
+    During the early grind, AIM-9Ls and the radar-assisted gun are the only options, meaning that
     you have to stay at ground level (about 20-30 m above ground) to avoid being instantly
     obliterated by SARH missiles. Try to stick to the flat ground, and if that is impossible, try to
     "dive" into the openings instead of going over them, as you will momentarily lose ground echo
@@ -2687,16 +2747,17 @@
   </p>
   <p>
     This makes early Tornado F.3 gameplay that of a "first encounter" plane - simply be there first
-    and cause as much chaos as you can before enemy gets you, so your team can finish them off, or
-    flank enemy team from the side and hope they did not notice you approaching. The gun scope does
-    not care about "ground echo" that completely destroys radar missiles, so you can easily snipe
-    your opponents in a head-on. Even if all you do is cause some fires, this will spell doom for
-    the enemy plane, as they can be easily cleaned up by teammates.
+    and cause as much chaos as you can before the enemy gets you, so your team can finish them off,
+    or flank the enemy team from the side and hope they did not notice you approaching. The gun
+    scope does not care about "ground echo" that destroys radar missiles, so you can easily snipe
+    your opponents in head-on. Even if all you do is cause some fires, this will spell doom for the
+    enemy plane, as they can be easily cleaned up by teammates.
   </p>
   <p>
-    A lot of planes that stick to the ground carry AIM-9Ls or R-60 variants, so turn afterburner off
-    before actually engaging enemy planes and fire some flares while you go at them, especially at
-    900 m range and when pulling over hills.
+    A lot of planes that stick to the ground carry AIM-9Ls or R-60 variants, so turn the afterburner
+    off before actually engaging enemy planes and fire some flares while you go at them, especially
+    at 900 m range and when pulling over hills. Pre-flaring will also make point-blank R-60M hits
+    less likely to happen.
   </p>
   <p>
     In general, while grinding upgrades, try to learn how the plane radar operates. It is much more
@@ -2712,50 +2773,50 @@
       default.
     </li>
     <li>
-      TWS, which is a pulse-Doppler mode that allows to continuously scan a certain direction
+      TWS, which is a pulse-Doppler mode that allows one to continuously scan a certain direction
       without actually locking onto it. This is the most useful scout mode, as you can set radar
       range to 96 km while taking off and it will immediately soft-lock and "stick" itself to enemy
       players that are just taking off from their airfield, so you know where they went. Upon
-      reaching 50 km range you can use TWS to guess if enemy fired any long range missiles yet (they
-      are quite visible in 39 km mode, usually it is a faint dot next to originating plane with a
-      much longer "speed" line, flying at 1,100 m/s when selected). Tends to be inaccurate until
-      actual lock is enforced, but can be used to fire AIM-9L through "selecting" targets without
-      actually locking onto them (high level players spam flares upon receiving radar lock just to
-      be safe).
+      reaching 50 km range you can use TWS to guess if the enemy fired any long-range missiles yet
+      (they are quite visible in 39 km mode, usually it is a faint dot next to the originating plane
+      with a much longer "speed" line, flying at 1,100 m/s when selected). Tends to be inaccurate
+      until the actual lock is enforced, but can be used to fire AIM-9L by "selecting" targets
+      without actually locking onto them (high-level players spam flares upon receiving radar lock
+      just to be safe).
     </li>
     <li>
-      Pulse-Doppler speed based mode - alternate radar mode that shows relative speed of enemy
+      Pulse-Doppler speed-based mode - alternate radar mode that shows the relative speed of enemy
       planes instead of range. Also demonstrates the dead zone of the pulse-Doppler, allowing you to
-      gauge if it will be easy for current target to lose your radar lock and counter a Skyflash
+      gauge if it will be easy for the current target to lose your radar lock and counter a Skyflash
       that way.
     </li>
     <li>
-      Search - basic radar mode. Tends to wiggle and lock onto everyone around current target, not
-      immune to chaff and is often bad (though not useless) at and especially against low altitudes.
-      Does not have a speed dead zone unlike pulse-Doppler. Locking while using it will use "normal"
-      lock as well.
+      Search - basic radar mode. Tends to wiggle and lock onto everyone around the current target,
+      is not immune to chaff and is often bad (though not useless) at and especially against low
+      altitudes. Does not have a speed dead zone, unlike pulse-Doppler. Locking while using it will
+      use a "normal" lock as well.
     </li>
   </ul>
   <p>
     ACM does not have IFF and will lock onto everything and anything that goes into the radar scope.
     You can swap between "pulse-doppler" and "normal" ACM if one or another does not work on your
-    current target, but upon lock loss the PD mode will be activated again by default. There are 3
+    current target, but upon lock loss, the PD mode will be activated again by default. There are 3
     scope types to choose from:
   </p>
   <ul>
     <li>
-      Normal small square - same as with every plane, primarily used when going into intense fight
-      with teammates involved, as otherwise it is very easy to attack wrong target.
+      Normal small square - same as with every plane, primarily used when going into an intense
+      fight with teammates involved, as otherwise, it is very easy to attack the wrong target.
     </li>
     <li>
-      Wide square - general use scope for ground level fights, allows you to lock onto anything that
+      Wide square - general use scope for ground-level fights, allows you to lock onto anything that
       you can realistically target with a gun, with some additional reach above and below you for
       missiles.
     </li>
     <li>
-      Look-up - mode that specifically looks in a thin line 31-60 degrees above you. Can be used
-      both at ground level and in the sky by rolling the plane, if you want to target something on
-      the side or below.
+      Look-up - mode that specifically looks in a thin line 31-60 degrees above you. Usually used to
+      lock onto planes above the plane, but can also be used both at ground level and in the sky by
+      rolling the plane if you want to target something on the side or below.
     </li>
   </ul>
   <p>
@@ -2763,22 +2824,56 @@
     can swap between pulse-doppler and normal lock without breaking it. Even if your target
     "notches" (goes perpendicular to you), you can temporarily swap to normal tracking mode to
     continue guiding the Skyflash. You can even save the lock that is already "blinking" if you are
-    fast enough. Remember to swap back to pulse-Doppler after the dead-zone window had passed, as
+    fast enough. Remember to swap back to pulse-Doppler after the dead-zone window has passed, as
     normal search mode tends to throw the missile around, which reduces its speed severely.
   </p>
   <p>
-    The Skyflash SuperTEMPs are very potent but not on par with the
-    <a href="/AIM-7F_Sparrow" title="AIM-7F Sparrow">AIM-7F Sparrows</a>. They accelerate faster and
-    will outpace the AIM-7F within 4-6 km in a straight line, but refrain from trying to BVR duel
-    with more modern Phantom variants. The Skyflash will hang at around the same speed as the AIM-7F
-    at BVR ranges. Due to how long the AIM-7F/M burns it will eventually outpace the Skyflash at
-    longer ranges. The Skyflash is not an effective weapon against the
+    While it may be very boring and annoying, it is important to do certain chores that come with
+    this plane to do better as Skyflash and more upgrades get unlocked. Settings of ACM and manual
+    wing sweep reset every respawn and they are very important, so first quickly set up the radar,
+    as ACM shouldn't be able to lock onto allied planes still parked on the airfield within the
+    first 10-15 seconds of a round, then quickly set up the wing sweep, if you want to.
+  </p>
+  <p>
+    After setting up, climbing high up to use TWS and scout out the enemy team, then falling back
+    down is generally the best move, as it generally doesn't cost you any lost opportunities.
+    Instead, depending on BR and team composition, you can and will save lives, particularly those
+    of allied attackers. Even by typing something like "from our perspective: 1 of them went far
+    left, 4 left, 5 middle, 2 far right, 3 of them high in the sky, 2 super late planes going
+    middle" in the chat you can let your allies figure out the rest using their game knowledge. This
+    is particularly effective if you are fighting on your own BR or in a downtier, where nobody else
+    has radar of such reach. Even if you do not feel particularly enthusiastic about working as
+    AWACS for others for free (since the game itself does not acknowledge air reconnaissance as a
+    thing), remember that Tornado F.3 is not an invincible fighter on its own and having more
+    teammates survive due to them being able to make an informed decision might indirectly save you
+    as well.
+  </p>
+  <p>
+    At lower BRs, you can outrange pretty much anyone even with normal Skyflash missiles and most
+    likely will obliterate any <a href="/MiG-21_(Family)" title="MiG-21 (Family)">MiG-21</a>,<a
+      href="/F-5C"
+      title="F-5C"
+      >F-5C</a
+    >
+    and other old planes. The Skyflash SuperTEMPs are very potent and make Tornado F.3 more or less
+    on par with the <a href="/MiG-23MLD" title="MiG-23MLD">MiG-23MLD</a>, but these missiles are not
+    good against the <a href="/AIM-7F_Sparrow" title="AIM-7F Sparrow">AIM-7F Sparrows</a>. Your
+    biggest challenge will be F-4J/S with their AIM-7Fs and PDV radars. You have a fair chance of
+    spotting and locking them first, given your superior radar, but this doesn't mean you have the
+    advantage, as the AIM-7F will out-speed the Skyflash SuperTEMP at long range. If a missile joust
+    must be started at a high altitude, try to delay the launch of the enemy missile until a close
+    distance (lower than around 8 km) as in those ranges the Skyflash will out-speed the AIM-7F and
+    the kill will be secured as long as you don't fly in their face.
+  </p>
+  <p>
+    The Skyflash is not an effective weapon against the
     <a href="/R-27ER" title="R-27ER">R-27ER</a> or the
-    <a href="/Matra_Super_530D" title="Matra Super 530D">Matra Super 530D</a>. Your prime targets
-    are unsuspecting targets 4-9 km away heading generally towards you. You can also use it from
-    behind at targets that try to pull away at ranges of 1.5 km or so, due to the high tolerance of
-    Tornado pulse-Doppler radar, which is ironically reinforced through simultaneously amazing and
-    poor energy retention of the plane itself. The slower Tornado goes, the harder it is to lose
+    <a href="/Matra_Super_530D" title="Matra Super 530D">Matra Super 530D</a> at all. In an uptier,
+    you want to stay at ground level after initial scouting and your prime targets are unsuspecting
+    targets 4-9 km away heading generally towards you. You can also use radar missiles from behind
+    targets that try to pull away at ranges of 1.5 km or so, due to the high tolerance of Tornado
+    pulse-Doppler radar, which is ironically reinforced through simultaneously amazing and poor
+    energy retention of the plane itself. The slower the Tornado goes, the harder it is to lose
     pulse-Doppler lock by flying away from it and the plane is extremely unlikely to crash even when
     stalled to the minimum speed, while also being very likely to be in this situation due to how
     poorly it turns sometimes.
@@ -2787,51 +2882,65 @@
     If not hanging at ground level, avoid entering and staying in the furball as then you will
     likely have many missiles shot at you, combined with the Tornado's poor manoeuvrability that
     means almost certain death. Instead, lock up head-on targets using ACM mode then fire off a
-    Skyflash at your enemy, if they also launch a missile at you, start to notch their radar as fast
-    as you can while releasing flares and chaff, or immediately drop to the ground (lower than 30
-    metres). If the enemy starts to notch your radar, switch the radar mode from PD HDN to standard
-    search as it'll be immune to notching, though it may not work if you are above or in front of a
-    mountain (due to general ground clutter) or enemy is spamming chaff. Another option is to lock
-    up the enemy with radar but fire off an AIM-9L instead, then continue to behave as if you fired
-    radar missile. Sometimes this will confuse the enemy into not releasing flares as they will
-    believe that you fired a Skyflash instead of a AIM-9L, though at long range most people will try
-    to flare at least once before starting to panic.
+    Skyflash at your enemy, if they also launch a missile at you, try to enter the dead zone of
+    their radar as fast as you can while releasing flares and chaff, or immediately drop to the
+    ground (lower than 30 metres). If the enemy starts to notch your radar, switch the radar mode
+    from PD HDN to standard search as it'll be immune to notching, though it may not work if you are
+    above or in front of a mountain (due to general ground clutter) or enemy is spamming chaff.
+    Another option is to lock up the enemy with radar but fire off an AIM-9L instead, then continue
+    to behave as if you fired a radar missile. Sometimes this will confuse the enemy into not
+    releasing flares as they will believe that you fired a Skyflash instead of an AIM-9L, though at
+    long range most people will try to flare at least once before starting to panic.
   </p>
   <p>
-    Don't dogfight. You have no workable advantages against your opponent unless they are already
-    badly crippled with large sections of their wings/tail missing. If you are chased, get a
-    teammate to cover your back or run back to the airfield. Try and fly in a straight line given
-    your speed bleed in any sort of turn manoeuvre, but also keep an eye out for potential IR
-    missiles.
+    Avoid dogfighting, especially if the enemy is already on your tail. You have no real advantages
+    against your opponent unless they are already badly crippled with large sections of their
+    wings/tail missing. If you are still supersonic and are being chased, get a teammate to cover
+    your back or run back to the airfield. Try and fly in a straight line given that folded Tornado
+    will bleed speed in any sort of turn manoeuvre, but also keep an eye out for potential IR
+    missiles or at least turn on periodic flare release.
   </p>
   <p>
-    The Tornado F.3 likes to fly predictable, straight paths and makes very predictable manoeuvres.
-    Any enemy with an ounce of situational awareness will easily be able to keep tabs on you with no
-    effort whatsoever. You can't really make unpredictable manoeuvres and sneak up on people given
-    your overall lack of mobility in any direction other than forward. This makes it hard to employ
-    your AIM-9Ls or your guns, given it is very difficult to stick to an opponent's tail for a good
-    rear aspect shot. Although you will still find the AIM-9L to be a very consistent weapon and a
-    good close to mid range missile.
+    If you have no choice, simultaneously pull up and use the afterburner with reverse thrust to
+    slow down to optimal speed levels of about 800-900 km/h then stabilize the plane and drop into a
+    horizontal turn while disabling reverse thrust and using combat flaps (order the wings to
+    unsweep manually if the plane doesn't do it, then return them into autopilot mode). If the
+    manoeuver is executed properly, you will have the maximum possible turn rate, while only
+    suffering 7-8 G overload. If the enemy hasn't already obliterated you as we are setting up,
+    drain your opponent by flying in circles - a lot of other planes have to sacrifice a lot of
+    speed to keep spinning after you, which will eventually put them into equal or worse turn rate
+    than you (since you don't really lose speed anymore, but they most likely do), or at least put
+    an 11+ G overload on their pilot, making them G-lock after a few seconds. While spinning, use
+    "look up" ACM mode and fish for any opening - as soon as the radar display says that the enemy
+    plane is within 28 degrees of your nose, 9L or SuperTemp will have a high chance of removing
+    your opponent, fire immediately if there are no friendlies involved. If pulse-doppler ACM has
+    problems with picking up your opponent, switch to normal SRC ACM.
   </p>
   <p>
-    At lower BRs, you can outrange pretty much anyone at your own BR with Skyflash missiles. Your
-    biggest challenge will be F-4J/S with their AIM-7Fs and PDV radars. You have a fair chance of
-    spotting and locking them first given your superior radar. However this doesn't mean you have
-    the advantage as the AIM-7F will out-speed the Skyflash SuperTEMP. If a missile joust must be
-    started, try to delay the launch of the enemy missile until a close distance (lower than around
-    8 km) as in those ranges the Skyflash will out-speed the AIM-7F.
+    Remember, the Tornado F.3 likes to fly predictable, straight paths and makes very predictable
+    manoeuvres, like the aforementioned flying in circles. Although a plane won't ever make a good
+    pilot blackout, it can't sacrifice speed to make a snappy turn, or suddenly gain a second wind
+    like the MiG-23. Any enemy with an ounce of situational awareness will easily be able to keep
+    tabs on you with no effort whatsoever, even if they can't keep up flying in circles after you
+    for one reason or another. Even if you manage to drain your current opponents, anyone else can
+    easily intervene. You also can't make unpredictable manoeuvres and sneak up on people given your
+    overall lack of acceleration and mobility in any direction other than forward and up, so all you
+    can do is endure and hope that you have enough fuel. This makes it hard to employ your AIM-9Ls
+    or your guns in a turn fight, given it is very difficult to stick to an opponent's tail for a
+    good rear aspect shot. However, you will still find the AIM-9L to be a very consistent weapon
+    and a good close-to-mid-range missile.
   </p>
   <p>
-    Avoid pulling negative Gs in the Tornado F.3. As with most British planes and many top tier
+    Avoid pulling negative Gs in the Tornado F.3. As with most British planes and many top-tier
     planes, the negative G performance of the Tornado is poor. Unlike the British
     <a href="/Phantom_FGR.2" title="Phantom FGR.2">Phantoms</a>, your wings are not sturdy enough to
     sustain negative Gs even for a few seconds, often snapping as soon as you put your nose down if
     you equipped "new boosters". The Tornado is generally an unstable aircraft and prone to flat
     spinning as soon as the wing falls off, so don't expect to get back to base once you've lost a
-    wing. Rolling with boosters can easily make the Tornado snap its wings. When in a turn, refrain
-    from rolling in a -2G+ turn or else there is a good chance you may loose one or both wings. You
-    may not have the controllability to recover and you may go into an uncontrollable spin depending
-    on how violently you were rolling.
+    wing. Rolling too much with boosters can easily make the Tornado snap its wings. When in a turn,
+    refrain from rolling in a -2G+ turn or else there is a good chance you may lose one or both
+    wings. You may not have the controllability to recover and you may go into an uncontrollable
+    spin depending on how violently you were rolling.
   </p>
   <h4>
     <span class="mw-headline" id="Countering_common_radar_missiles"
@@ -2858,7 +2967,7 @@
         title="AIM-7M Sparrow"
         >M</a
       >. Your Skyflash SuperTEMP will be faster than these missiles when under 6-8 km, above that
-      distance, the AIM-7F/M will be faster.
+      distance, the AIM-7F/M will be faster, so it's better to avoid being locked at long-range
     </li>
     <li>
       <a href="/R-27ER" title="R-27ER">R-27ER</a>/<a
@@ -2874,17 +2983,17 @@
     </li>
     <li>
       <a href="/Matra_Super_530D" title="Matra Super 530D">Matra Super 530D</a>. At close range, the
-      Skyflash SuperTEMP has better acceleration and will eventually out range the Matra Super 530D.
+      Skyflash SuperTEMP has better acceleration and will eventually outrange the Matra Super 530D.
     </li>
     <li>
-      <a href="/Aspide-1A" title="Aspide-1A">Aspide-1A</a>. Very fast missile, but the carriers of
-      these missiles either have weak flight performance (F-104S.ASA) or a weak radar (J-8B). The
+      <a href="/Aspide-1A" title="Aspide-1A">Aspide-1A</a>. Very fast missiles, but the carriers of
+      these missiles either have weak flight performance (F-104S.ASA) or weak radar (J-8B). The
       Skyflash SuperTEMP will also outrange the Aspide-1A.
     </li>
     <li>
       <a href="/AIM-54A_Phoenix" title="AIM-54A Phoenix">AIM-54A Phoenix</a>. These missiles have a
-      lot of range, generally produce no missile alerts and are self-sufficient, however it's very
-      easy to notice the incoming missile on TWS radar display and simply notch it. Long range
+      lot of range, generally produce no missile alerts and are self-sufficient, however, it's very
+      easy to notice the incoming missile on the TWS radar display and simply notch it. Long-range
       launch can be countered by periodic chaff release (once in 5 seconds should work).
     </li>
   </ul>
@@ -2914,7 +3023,7 @@
       <ul>
         <li>
           <a href="/Skyflash_SuperTEMP" title="Skyflash SuperTEMP">Skyflash SuperTEMP</a> are
-          effective SARH missiles in a BVR role
+          effective SARH missiles in close to medium-range
         </li>
         <li>
           Potent all-aspect heat-seeking
@@ -2927,33 +3036,42 @@
     <li>
       Advanced radar for its BR
       <ul>
-        <li>Includes TWS that indicates direction of enemy</li>
+        <li>Includes TWS that indicates the direction of the enemy</li>
         <li>PD radar has IFF mode</li>
         <li>Higher PD speed threshold than all rank VII and many rank VIII planes</li>
       </ul>
     </li>
-    <li>Can carry drop tanks to extend range to compensate for its intense fuel consumption</li>
+    <li>
+      Can carry drop tanks to extend the range and compensate for its intense fuel consumption
+    </li>
     <li>Has reverse thrust to reduce landing distance and to stall midair</li>
+    <li>
+      Although it can't win turn fights against many planes, it can easily drain the majority of
+      other planes by forcing them into one
+    </li>
   </ul>
   <p><b>Cons:</b></p>
   <ul>
     <li>
-      Poor turning performance in any wing mode
+      Poor turning performance in any wing mode, requires special procedures and speed reduction to
+      achieve optimal turn rate
       <ul>
         <li>Very difficult to kinetically dodge SARH missiles</li>
       </ul>
     </li>
     <li>Mediocre acceleration</li>
-    <li>Equipping "new boosters" will allow it to snap its own wings if not handled carefully</li>
-    <li>Other BVR missiles have a longer range in an uptier, has to stay low on ground</li>
-    <li>Limited 19 km ACM range, may be too short in uptier.</li>
+    <li>Equipping "new boosters" will allow it to snap its wings if not handled carefully</li>
+    <li>
+      Other SARH missiles have a longer range in an uptier, and have to stay low on the ground
+    </li>
+    <li>Limited 19 km ACM range, maybe too short in uptier.</li>
     <li>
       The 27 mm cannon has a low rate of fire, low ammunition count, and mediocre damage if it
-      didn't set target on fire
+      doesn't set the target on fire
     </li>
     <li>
-      If engine was destroyed and hard landing is not an option, landing will take a long time as
-      there is no drag chute
+      If the engine is destroyed and a hard landing is not an option, the landing will take a long
+      time as there is no drag chute
     </li>
   </ul>
   <h2>
@@ -2974,60 +3092,60 @@
     >
   </h2>
   <p>
-    The Panavia Tornado F3, a pivotal aircraft in the annals of military aviation, emerged from the
+    The Panavia Tornado F.3, a pivotal aircraft in the annals of military aviation, emerged from the
     geopolitical tensions of the Cold War. This aircraft was not just a machine of war; it was a
     symbol of multinational collaboration and technological advancement in the face of a rapidly
     evolving global threat landscape.
   </p>
   <p>
-    The genesis of the Tornado F3 can be traced back to the late 1960s when the need for a
+    The genesis of the Tornado F.3 can be traced back to the late 1960s when the need for a
     sophisticated multi-role combat aircraft became evident among NATO allies. Europe, caught in the
-    throes of the Cold War, was in dire need of an effective defense against the possibility of
+    throes of the Cold War, was in dire need of an effective defence against the possibility of
     Soviet incursions, particularly from the air. The response to this necessity was a remarkable
     collaboration between three nations: the United Kingdom, West Germany, and Italy. These
     countries formed the Panavia Aircraft GmbH consortium, pooling their resources and expertise to
     create a platform that could adapt to various combat roles. The outcome of this collaboration
-    was the Panavia Tornado, an aircraft family that would include the formidable Tornado F3
+    was the Panavia Tornado, an aircraft family that would include the formidable Tornado F.3
     interceptor.
   </p>
   <p>
     Originally designed as a multi-role combat aircraft, the Tornado's versatility was its hallmark.
     While it had variants like the GR1 for strike/attack missions and the ECR for electronic
-    combat/reconnaissance, the evolving geopolitical landscape necessitated a dedicated air defense
-    variant. This led to the development of the Tornado F3, a variant that specialized in the
-    interception and neutralization of airborne threats. Distinct from its siblings, the Tornado F3
+    combat/reconnaissance, the evolving geopolitical landscape necessitated a dedicated air defence
+    variant. This led to the development of the Tornado F.3, a variant that specialized in the
+    interception and neutralization of airborne threats. Distinct from its siblings, the Tornado F.3
     featured a longer fuselage to accommodate additional fuel, enhancing its endurance — a critical
     attribute for an interceptor. Equipped with the sophisticated Foxhunter radar and armed with
-    air-to-air missiles such as the AIM-9 Sidewinder and the Skyflash, the F3 was a formidable
+    air-to-air missiles such as the AIM-9 Sidewinder and the Skyflash, the F.3 was a formidable
     opponent in the skies.
   </p>
   <p>
-    Entering service with the Royal Air Force in the mid-1980s, the Tornado F3 became a cornerstone
-    of Britain’s air defense. It replaced aging aircraft like the English Electric Lightning and the
-    F-4 Phantom II, embodying a new era of air defense capabilities. Throughout the latter stages of
-    the Cold War, the F3 was a sentinel in the skies, regularly conducting patrols and intercepts of
-    unidentified or potentially hostile aircraft near UK airspace. Though it never engaged in
-    high-intensity dogfights, its presence acted as a significant deterrent.
+    Entering service with the Royal Air Force in the mid-1980s, the Tornado F.3 became a cornerstone
+    of Britain’s air defence. It replaced ageing aircraft like the English Electric Lightning and
+    the F-4 Phantom II, embodying a new era of air defence capabilities. Throughout the latter
+    stages of the Cold War, the F.3 was a sentinel in the skies, regularly conducting patrols and
+    intercepts of unidentified or potentially hostile aircraft near UK airspace. Though it never
+    engaged in high-intensity dogfights, its presence acted as a significant deterrent.
   </p>
   <p>
-    The Tornado F3's combat history, while not marked by prolific aerial battles, nonetheless
-    encompasses critical deployments. During the Gulf War in 1990-91, the F3s were deployed
-    primarily in air defense roles, safeguarding coalition forces against the Iraqi aerial threat,
-    which, as it turned out, was minimal. In the Balkans conflicts of the 1990s, the F3 again played
-    a key role, focusing on air defense and patrol duties.
+    The Tornado F.3's combat history, while not marked by prolific aerial battles, nonetheless
+    encompasses critical deployments. During the Gulf War in 1990-91, the F.3s were deployed
+    primarily in air defence roles, safeguarding coalition forces against the Iraqi aerial threat,
+    which, as it turned out, was minimal. In the Balkans conflicts of the 1990s, the F.3 again
+    played a key role, focusing on air defence and patrol duties.
   </p>
   <p>
     As the 21st century dawned, the technological landscape of aerial warfare continued to evolve,
-    and with it, the requirements for air defense. The Tornado F3 began to give way to more advanced
-    aircraft like the Eurofighter Typhoon. By 2011, the RAF had fully retired its fleet of Tornado
-    F3s, marking the end of an era. The Italian Air Force, which had also operated a number of F3s,
-    transitioned to other platforms.
+    and with it, the requirements for air defence. The Tornado F.3 began to give way to more
+    advanced aircraft like the Eurofighter Typhoon. By 2011, the RAF had fully retired its fleet of
+    Tornado F.3s, marking the end of an era. The Italian Air Force, which had also operated several
+    F.3s, transitioned to other platforms.
   </p>
   <p>
-    The story of the Tornado F3 is not just one of technological innovation and military might; it
+    The story of the Tornado F.3 is not just one of technological innovation and military might; it
     is a narrative about the response to a global challenge through international cooperation. As an
-    integral part of NATO's air defense strategy during the final decades of the Cold War, the
-    Tornado F3 represented a harmonious blend of strategic foresight, engineering excellence, and
+    integral part of NATO's air defence strategy during the final decades of the Cold War, the
+    Tornado F.3 represented a harmonious blend of strategic foresight, engineering excellence, and
     operational effectiveness. Even though it never engaged in the intense aerial combat for which
     it was designed, its role as a deterrent and protector during a pivotal period in modern history
     cements its legacy in the annals of military aviation.
@@ -3118,12 +3236,12 @@
   <dl><dt>Related development</dt></dl>
   <ul>
     <li>
-      <a href="/Tornado_(Family)" title="Tornado (Family)">Tornado (Family)</a> ,
+      <a href="/Tornado_(Family)" title="Tornado (Family)">Tornado (Family)</a>,
       <a href="/Tornado_ADV" title="Tornado ADV">Tornado ADV</a> is essentially identical.
     </li>
     <li>
-      <a href="/MiG-23MLD" title="MiG-23MLD">MiG-23MLD</a> - similar plane of the Soviet, variations
-      of which are commonly seen in battle.
+      <a href="/MiG-23MLD" title="MiG-23MLD">MiG-23MLD</a> - the similar plane of the Soviets,
+      variations of which are commonly seen in battle.
     </li>
   </ul>
   <h2>
@@ -3188,12 +3306,16 @@
           padding-right: 7px;
         "
       >
-        <a href="/Tornado_IDS_ASSTA1_(Germany)" title="Tornado IDS ASSTA1 (Germany)"
+        <a href="/Tornado_IDS_WTD61_(Germany)" title="Tornado IDS WTD61 (Germany)"
+          >◄Tornado IDS WTD61</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a
+          href="/Tornado_IDS_ASSTA1_(Germany)"
+          title="Tornado IDS ASSTA1 (Germany)"
           >◄Tornado IDS ASSTA1</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a
-          href="/Tornado_IDS_(Germany)"
-          title="Tornado IDS (Germany)"
-          >◄Tornado IDS</a
+          href="/Tornado_IDS_MFG_(Germany)"
+          title="Tornado IDS MFG (Germany)"
+          >◄Tornado IDS MFG</a
         >
       </td>
     </tr>
@@ -3516,6 +3638,19 @@
           title="F-4J(UK) Phantom II"
           >F-4J(UK) Phantom II</a
         >&#160;<sup><small>(USA)</small></sup>
+      </td>
+    </tr>
+    <tr>
+      <td width="15%" align="right" style="background: #dbe0e2">&#160;</td>
+      <td
+        style="
+          background: #f6f6f6;
+          border-left: 1px solid #b0bec5;
+          padding-left: 7px;
+          padding-right: 7px;
+        "
+      >
+        <a href="/JAS39C" title="JAS39C">JAS39C</a>&#160;<sup><small>(Sweden)</small></sup>
       </td>
     </tr>
   </table>

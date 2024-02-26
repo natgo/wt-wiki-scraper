@@ -20,7 +20,7 @@ That said though, comparing to the equivalents in its BR, the ship has a relativ
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
 
-Stock Yugumo has a maximum speed of 58 km/h, which upgrades to 79 km/s with all the seakeeping modifications. Overall its relatively comparable with equivalents in other nations, if not slightly slower, though the differences are within 5% range between most of the destroyers in the same BR. Maximum reverse speed is -23 km/s stock and -31 km/h spaded.
+Stock Yugumo has a maximum speed of 58 km/h, which upgrades to 79 km/h with all the seakeeping modifications. Overall its relatively comparable with equivalents in other nations, if not slightly slower, though the differences are within 5% range between most of the destroyers in the same BR. Maximum reverse speed is -23 km/h stock and -31 km/h spaded.
 {{NavalMobility
 |SpeedForwardStockAB = 58
 |SpeedBackStockAB = 23
@@ -88,9 +88,11 @@ Yugumo's primary guns are shared with [[IJN Ayanami#Primary armament|Ayanami]], 
 
 The Yugumo is equipped with two twin mountings of the 25 mm Type 96 autocannon. Its setup clearly plays a primary role as an anti-aircraft weaponry, having turrets located to provide optimal AA coverage, however they are classified as an auxiliary armament and will use those crew skills instead of anti-aircraft. The high-explosive type rounds this gun fires will have no trouble knocking out any airplane it hits. AP type rounds are also available and can be used against small torpedo boats that want to sneak. Each twin mounting is placed on side of the ship which mean they can't shoot at the same target unless its aircraft.
 
-* Universal belts: good balance between firepower and tracer contents, useful for newcomers to the Japanese 25 mm autocannon.
-* APT belts: Full of AP shells, good against boats but you might not meet lots of them in destroyer.
-* HEI belts: Trades tracer rounds for extra firepower, harder to aim but very good at knocking out aircraft.
+* '''Universal:''' {{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}{{-}}{{Annotation|HEF|High-explosive fragmentation}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEI|High-explosive incendiary}} - good balance between firepower and tracer contents, useful for newcomers to the Japanese 25 mm autocannon.
+* '''25 mm APT belt:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF|High-explosive fragmentation}} - Full of AP shells, good against boats but you might not meet lots of them in destroyer.
+* '''25 mm HEIT belts:''' {{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}{{-}}{{Annotation|HEI|High-explosive incendiary}}{{-}}{{Annotation|HEI|High-explosive incendiary}}{{-}}{{Annotation|HEI|High-explosive incendiary}} - Trades tracer rounds for extra firepower, harder to aim but very good at knocking out aircraft.
+
+{{:25 mm/60 Type 96 (25 mm)/Ammunition|HEF-T*, HEF, AP-T, HEI}}
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}

@@ -39,6 +39,7 @@ The {{Specs|name}} was introduced in [[Update 1.93 "Shark Attack"]]. Its suspend
 {{Specs-Heli-Armour}}
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
 [[File:Mi-28N cockpit armour.png|thumb|350px|Armour on the Mi-28N]]
+
 ;Armour plates
 
 * 42 mm Bulletproof glass (52°) - Frontal windshield
@@ -48,7 +49,11 @@ The {{Specs|name}} was introduced in [[Update 1.93 "Shark Attack"]]. Its suspend
 * 16 mm Ceramic  - Cockpit sides
 * 8 mm Steel - Canopy framing
 
-The gunner and the pilot are protected frontally and laterally by bulletproof glass. The front, rear, lower side and bottom of the cockpit are protected by aluminium alloy plates and there is an additional protection plate between the pilot and the gunner. The lower sides of the cockpit are protected by aluminum alloy superposed to ceramic while the canopy cockpit is protected by steel and bulletproof glass.
+The gunner and the pilot are protected frontally and laterally by bulletproof glass. The front, rear, lower side and bottom of the cockpit are protected by aluminium alloy plates and there is an additional protection plate between the pilot and the gunner. The lower sides of the cockpit are protected by aluminum alloy superposed to ceramic while the canopy cockpit is protected by steel and bulletproof glass. The fuel tanks are also located at the bottom of the craft behind the crew. Both crewmembers can control the machine.
+
+The helicopter currently uses an SPO-15 Radar Warning Receiver. This RWR can pick up radar frequencies from the G-I Band. In practical terms this means it will be functionally blind to almost any Search Radar found on systems it can fight. When facing Sweden, you will be notified of the ASRAD search radar. It uses IRST tracking for its missiles, thus attention still needs to be paid. Aircraft Radars currently search and track on I band (with notable exception being the Mig-23 on J-Band). This way the Mi-28N will not be entirely oblivious to close air patrol fighters, that have their Radar turned on.
+
+It is equipped with 128 Countermeasures. Flares launch to the sides from the wingtips. When flaring ground based IR SAMs, dodge by pointing the sides at the missile. Pre-flaring generally is an option if the situation calls for it, but using the environment and staying aware is key. The helicopter is quite a bit more manoeuvrable than the Mi-24 series.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -125,7 +130,7 @@ The Mi-28N's weapons and even hardpoints will feel very familiar to players who 
 
 Although the Mi-28N's ability to carry two racks of Atakas is a great boon for tank hunting, this introduces a new conundrum: Atakas and Iglas now compete for hardpoint space. Although it is nice to have some all-aspect MANPADS for warding off enemy aircraft, cutting the ATGM capacity in half is a considerable tradeoff for a missile with poor overload and a small warhead. If there are teammates with contemporary SAM systems like the [[2S6|2S6 Tunguska]], it is usually better to go all-in on Atakas. The Atakas themselves are actually quite effective in helicopter jousts due to their high flight speed and the chin-mounted 2A42 will happily shred planes, so a Havoc without Iglas is not exactly helpless against enemy aircraft either.
 
-The inner two hardpoints should be used to carry unguided rockets, and again there is a choice between S-8KO HEAT rockets and S-13OF HE rockets. At the Havoc's battle rating, most MBTs have good composite armour that can stop the HEAT warheads from the front, so the HE rockets tend to be more practical: they will easily obliterate light targets even with near misses, and it is often more reliable to score an overpressure kill on an MBT, especially with side attacks, than it is to fire a huge rocket swarm and hope that some of them get lucky.
+The inner two hardpoints should be used to carry unguided rockets, and again there is a choice between S-8KO HEAT rockets and S-13OF HE rockets. At the Havoc's battle rating, most MBTs have good composite armour that can stop the HEAT warheads from the front, so the HE rockets tend to be more practical: they will easily obliterate light targets even with near misses, and it is often more reliable to score an overpressure kill on an MBT, especially with side attacks, than it is to fire a huge rocket swarm and hope that some of them get lucky. Pilots can also choose to forego these to save on weight.
 
 As a historical note, the Mi-28N was introduced to War Thunder with the [[S-13DF]], a variant of the S-13 rocket with a thermobaric warhead and phenomenal explosive power, but it was replaced with the S-13OF in [[Update "Red Skies"]] due to balance reasons.
 
@@ -172,17 +177,18 @@ The S-8KOs can serve the same purpose as the gun; immobilize enemy tanks that ar
 
 * Amazing speed
 * Very effective anti-tank capabilities
-* Can carry 8 Iglas for air-to-air capabilities
+* Can carry up to 8 Iglas for air-to-air capabilities
 * Wide array of countermeasures: 128 flares, MAW, and a 360 degree RWR
 * Very effective and punchy cannon
-* High-resolution thermal imaging
+* High-resolution thermal imaging with 73.7x magnification
 
 '''Cons:'''
 
 * Heavy helicopter; this impacts its manoeuvrability
 * Only 250 rounds for the main gun, fire sparingly
-* Igla AAMs can pull only 10Gs, engaging jet fighters can sometimes be a challenge
+* Igla AAMs can only pull 10Gs, engaging jet fighters can sometimes be a challenge
 * Large target
+* Outdated RWR for the Battle Rating
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

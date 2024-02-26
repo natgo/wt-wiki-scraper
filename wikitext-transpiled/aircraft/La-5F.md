@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.35]].
+The La-5F was a significant upgrade from its predecessor, the La-5. It was equipped with an improved M-82F engine that allowed for constant operation in overdrive mode, enhancing the aircraft's power output.  The La-5F underwent various upgrades, including a reduced overall weight, new radio equipment, cockpit ventilation, lowered fuselage spine fairing, convex cockpit, and bullet-proof glass. The La-5F demonstrated superiority over the La-5, especially at low altitudes, with improved speed, climbing rate, and pilot operating conditions. Production of the La-5F continued until the end of 1943, with 4,150 units built.
+
+It was introduced in [[Update 1.35]]. The aircraft behaves very similarly to the earlier La-5, but with an improved powerplant. The aircraft behaves good in boom and zoom tactics due to the reinforced wings, however the aircraft is not well suited for energy fighting. In terms of armament the La-5F still has two 20mm cannons, which is an excellent armament against other aircrafts, but may be lacking against enemy bombers and heavy twin engine fighters.
 
 == General info ==
 === Flight performance ===

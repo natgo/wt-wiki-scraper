@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update "Winged Lions"]].
+The '''Seafire LF Mk.III''' was developed from the previous Seafire Mk.IIc which was a navalized version of a [[Spitfire Mk Vc|Spitfire Mk. Vc]] with modifications for carrier operations. France bought 141 Seafire LF Mk.IIIs after the war and they saw combat above Indochina, mostly providing close air support and raiding enemy camps from the sky with ground ordnance.
 
-The Seafire LF Mk.III was developed from the previous Seafire Mk.IIc which was a navalized version of a [[Spitfire Mk Vc|Spitfire Mk. Vc]] with modifications for carrier operations. France bought 141 Seafire LF Mk.III after the war and they saw combat above Indochina.
+It was introduced in [[Update "Winged Lions"]]. Compared to the regular version of the Spitfire, the Seafire has a mediocre climb rate, being slower at accelerating and also having a poor top speed. The engine is the main issue, since it also overheats regularly when using WEP. The 20 mm cannons are prone to jamming and overheating, and it is recommended to quickly research the modifications for the Mk.II 1943 cannons. However, being a Spitfire, the Seafire is still a very capable dogfighter, and it can outperform many aircraft like the P-51s and Bf 109s in similar conditions; however, avoid prolonged fights at all costs, since the Seafire has very poor energy retention.
 
 == General info ==
 === Flight performance ===
@@ -115,7 +115,7 @@ The wing-mounted machine guns are very hard to use at distances over 300 m due t
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Seafire LF Mk.III is a jack of all trades, but master of none. The Seafire does not climb well, so after start of battle, pilots should side climb, stay at around 3,000 m of altitude and let better climbing teammates tackle the first wave of enemy interceptors, trying to pick off those that managed to dive down. Still retaining great turning capabilities, the pilot is advised to force enemies into turnfighting where they bleed their energy and become vulnerable. Avoid head-ons at all cost due to the very fragile radiator and engine: even a single bullet will take it out. 
+The Seafire LF Mk.III is a jack of all trades, but master of none. The Seafire does not climb well, so after start of battle, pilots should side climb, stay at around 3,000 m of altitude and let better climbing teammates tackle the first wave of enemy interceptors, trying to pick off those that managed to dive down. Still retaining great turning capabilities, the pilot is advised to force enemies into turnfighting where they bleed their energy and become vulnerable. Avoid head-ons at all cost due to the very fragile radiator and engine: even a single bullet will take it out.
 
 ;Enemies worth noting
 
@@ -155,7 +155,7 @@ All the enemies in the list above can outclimb you, and also outrun you with the
 * Quite strong armament
 * Clear visibility from cockpit with no frames obstructing view
 
-'''Cons:''' 
+'''Cons:'''
 
 * Abysmal climb rate
 * Low max speed compared to opponents
@@ -169,6 +169,7 @@ All the enemies in the list above can outclimb you, and also outrun you with the
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=seafire_mk3_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

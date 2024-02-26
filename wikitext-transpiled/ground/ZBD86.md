@@ -84,7 +84,7 @@ There is almost no reason to use the HE round. Its muzzle velocity is an abysmal
 |}
 
 ==== Ammunition ====
-{{:Type 85 (73 mm)/Ammunition|Type 85 HEAT, Type 85 HE}}
+{{:Type 85 (73 mm)/Ammunition|DYP-73, DYS-73}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_BMP-1.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

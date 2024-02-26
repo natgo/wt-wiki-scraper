@@ -1,8 +1,3 @@
-{{About
-| about = jet fighter '''{{PAGENAME}}'''
-| usage = other versions
-| link = F-16 (Family)
-}}
 {{Specs-Card
 |code=f_16a_block_10_iaf
 |images={{Specs-Card-Image|GarageImage_F-16A Netz (Israel).jpg|ArtImage_F-16A Netz (Israel).jpg}}

@@ -1,17 +1,22 @@
 {{Specs-Card
 |code=uk_battleship_iron_duke
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|store=12861
 }}
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British battleship {{Battle-rating}}. It was introduced in [[Update "Kings of Battle"]].
+The '''HMS Iron Duke (18)''' is a member of the Iron Duke-class battleship family. She was the lead ship in her class and was named after Arthur Wellesley, 1st Duke of Wellington. Her keel was laid in January 1912 by Portsmouth Dockyard. The HMS Iron Duke was launched ten months later and commissioned into the Home Fleet as the fleet flagship in March 1914. During World War I, the HMS Iron Duke served as the Grand Fleet's flagship, including at the Battle of Jutland. Early in the main fleet action, she inflicted significant damage on the German battleship SMS König. She was relieved as fleet flagship in January 1917. Following the war, Iron Duke served as the Mediterranean Fleet's flagship in the Mediterranean. She took part in the Allied intervention in the Russian Civil War in the Black Sea as well as the Greco-Turkish War. She also helped to evacuate refugees from Smyrna. She was assigned to the Atlantic Fleet in 1926 to serve as a training ship. She served in this capacity until the outbreak of World War II in September 1939, when she was moored as a harbour defense ship in Scapa Flow. She was badly damaged by German bombers in October and was run aground to avoid sinking. She continued to serve as an anti-aircraft platform throughout the war before being refloated and broken up for scrap in the late 1940s.
+
+Introduced in [[Update "Kings of Battle"]], the HMS Iron Duke is one of the British Navy's very first battleships. The main armaments are distributed throughout the vessels in four turrets in a traditional layout. The HMS Iron Duke's armour protection is adequate, but it can be significantly improved by angling the armour to take advantage of her good main gun traverse arcs. Since the upper belt armour is thin, this is especially important when engaging other battleships. The HMS Iron Duke's greatest weakness is her lack of anti-aircraft armament. She has relatively thin deck armour, like almost all World War I ships, making her vulnerable to large bombs. For anti-aircraft protection, players should stick with other allies.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+HMS Iron Duke, like other British battleships of this time period, uses a distributed armour scheme. Her main main belt has a thickness of {{Annotation|12 inches|304.8 mm}}, slightly angled to increase effectiveness. This falls off to {{Annotation|9 inches|228.6 mm}} and then {{Annotation|8 inches|203.2 mm}} on the hull, before finally ending with {{Annotation|6 inches|152.4 mm}} on the secondary armour deck. The main belt will be resistant to most battleships of the rank, but the higher ranked ships like the [[SMS Bayern]] or [[IJN Fuso]] will be able to penetrate it at most ranges, and the thinner armour above the main belt will be easily penetrated by all capital ships. Iron Duke has no dedicated torpedo protection, though it does have coal bunkers which can absorb some hits.
+
+The turrets are fairly well armoured, though not to the extreme of something like the [[USS Nevada]] with her {{Annotation|18 inches|457.2 mm}} of angled turret armour. HMS Iron Duke has 2 layers of turret armour, with the first coming in at {{Annotation|11 inches|279.4 mm}} of armour, covering the front, rear and sides and a second {{Annotation|3-inch|76.2 mm}} layer contained within. This should be more than enough armour to stop most shells at anything but extremely close range. The top of the turrets also have multiple layers of armour, with both a {{Annotation|3-inch|76.2 mm}} and {{Annotation|4-inch|101.6 mm}} plate protecting from plunging fire. The turret barbette armour ranges from {{Annotation|9-10 inches|228.6-254 mm}}, which unfortunately means that every battleship will easily be able to destroy the ammo elevators, though these won't explode when hit. The magazines are placed well below the waterline, and have multiple layers of deck armour to detonate plunging fire and shield the magazine from hits, with two {{Annotation|1-inch|25.4 mm}} and a {{Annotation|1.25-inch|31.75 mm}} plate providing ample protection.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -66,9 +71,11 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British battleshi
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -84,6 +91,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British battleshi
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -92,7 +100,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British battleshi
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[wt:en/news/8521-development-pre-order-battleships-hms-iron-duke-and-ijn-yamashiro-en|[Devblog] Battleships HMS Iron Duke and IJN Yamashiro!]] 
+* [[wt:en/news/8521-development-pre-order-battleships-hms-iron-duke-and-ijn-yamashiro-en|[Devblog] Battleships HMS Iron Duke and IJN Yamashiro!]]
 
 {{ShipManufacturer Portsmouth}}
 {{Britain battleships}}

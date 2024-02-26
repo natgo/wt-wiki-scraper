@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Swedish light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''{{Specs|name}}''', also known as '''Landsverk L-10''', was designed and built by AB Landsverk during the interwar period. For its time it was quite revolutionary, and it was considered a medium tank. It was the first tank to ever be produced with an all-welded design, and it used periscopes for increased visibility, instead of the traditional view ports. It mounted a very common armament for the time, a 37 mm L45 Bofors anti-tank gun and two license-produced Browning M1917 MGs. While the tank did serve with Sweden, only three were ever built, and the last one has been conserved at the Swedish Tank Museum Arsenalen.
+
+Introduced in [[Update 1.97 "Viking Fury"]], the Strv m/31 is a very light tank, with good mobility. Its armour is in fact so thin, that it can't stop 12.7 mm HMG fire in some places, especially in the sides and back of the tank. However, the tank is extremely well armed, it features the slpprj m/49 APDS shell, a very good shell for its rank, and even in uptiers it would remain competitive, since its mobility and armament are capable of dealing with higher BR enemies like the [[B1 ter]] and the [[Valentine (Family)|Valentine]]. The tank also has access to an APHE shell, but lacks enough armour penetration to be useful even against reserve tanks.
 
 == General info ==
 === Survivability and armour ===

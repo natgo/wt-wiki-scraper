@@ -5,13 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test.
+'''HMS Eskimo (F75)''' was a member of the [[Tribal (Family)|Tribal-class]] destroyers. Larger and more heavily armed than the previous I class, HMS Eskimo was designed to counter the large destroyers being built abroad and to increase the firepower of the destroyers already in service. Throughout World War II, HMS Eskimo saw action in Burma, the English Channel, Norway, and the Mediterranean. HMS Eskimo served as a hospital ship and a headquarters ship following the war. In 1949, it was finally used as a practice target before being scrapped.
 
-HMS Eskimo, pennant number F75, part of the Tribal class, was a fleet destroyer finished during December 1938. She was intended to provide counter-destroyer firepower and support the combat flotillas, she served in this role throughout the Second World War.
-
-Following an intermission from the escort destroyer role, the HMS Eskimo offers an offensive hit-and-run approach to the British destroyers; very comparable to the [[HMS Grafton]]. Mainly by the superior firepower of six 120 mm main guns, each one firing devastating 3 kg high-explosive shells in quick rate of fire: initially of 12 rounds per minute.
-
-Of course, when regarding destroyers, is not all about firepower but also about the increased top speed; unachieved on the earlier escort destroyer. The now fairly average survivability and auxiliary armaments surely will assist captains in control of this well-balanced combat destroyer.
+Introduced in [[Update 1.83 "Masters of the Sea"]], HMS Eskimo excels best as a gunnery ship. Even at a great distance, HMS Eskimo can easily defeat other destroyers owing to the enormous calibre and accuracy of its main armament. Furthermore, the front of HMS Eskimo houses the majority of its main armament. This means that HMS Eskimo can inflict significant damage while maintaining a small profile. This, along with its quick speed and sufficient auxiliary armament, can make HMS Eskimo a great support/escort ship, even in high-ranked battles.
 
 == General info ==
 Painted under a dark grey hull, and a black coloured stripe all around her waterline, the Eskimo's raised freeboard distance and raked bow can be easily highlighted from other latter destroyers. Despite using a fairly conventional main weaponry layout which will be seen in several other British destroyer classes, the Eskimo can be also differentiated by her turret located in the aftmost part of the ship.
@@ -178,12 +174,15 @@ Having a very respectable survivor status as one of the four Tribal classes rema
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Tribal (Family)]]
 
 ;Shared operational history
+
 * [[HMS Jervis]]
 
 ;Analogues on other nations
+
 * [[Fletcher (Family)]]
 * [[USS Phelps]]
 * [[Z12 Erich Giese]]
@@ -201,7 +200,9 @@ Having a very respectable survivor status as one of the four Tribal classes rema
 * [https://www.naval-history.net/xGM-Chrono-10DD-34Tribal-HMS_Eskimo.htm <nowiki>[Naval History.net]</nowiki> Full service record of HMS Eskimo]
 
 === References ===
+
 ;Bibliography
+
 * British Destroyer vs German Destroyer: Narvik 1940, David Greentree, David Campbell, 2018.
 * British Destroyers & Frigates: The Second World War and After, Norman Friedman, 2006.
 

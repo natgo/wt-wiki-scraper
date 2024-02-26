@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish SPAA {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. One can treat it as a sidegrade of the [[Lvtdgb m/40]], as such most of the text onward will compare them, rather than just describe this one.
+The '''{{Specs|name}}''' was an SPAA developed by Landsverk of Sweden. It was based on the Anti I, but with an improved hull and turret and armed with a 40 mm Bofors L/60 anti-aircraft gun. It was based on the chassis of the [[Strv_m/38|Landsverk L-60]], a light tank developed in the interwar period. It saw notable service in the Finnish military, who acquired six units of the SPAA in 1942. It saw combat in the Continuation War when Finland invades the Soviet Union and the vehicles were credited with shooting down 11 Soviet aircraft. All the vehicles survived the war and remained in service until 1966.
+
+Introduced in [[Update 1.97 "Viking Fury"]], the '''{{Specs|name}}''' is a menace to both air and ground targets. Against aircrafts, the gun features a powerful 40 mm HE shell with potential to destroy most planes with a single hit. Against tanks the performance is not as good, but the APC and SAPHEI shells have enough penetration to deal with most tanks at its BR as long as you aim to weak points. Flanking in this vehicle is highly recommended, as well as staying behind the frontline to clear up the skies. However for some players the vehicle may feel a little sluggish and the gun handling is not very good with just -5 degrees of depression. It also has a slow fire rate, at 120 RPM, and the armor is nonexistent so both HE and HEAT shells are a threat since the vehicle is open top.
 
 == General info ==
 === Survivability and armour ===

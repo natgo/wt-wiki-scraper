@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} British motor torpedo boat {{Battle-rating}}. It was introduced during [[Update "New Power"]] as a [[wt:en/news/6968-more-twitch-drops-en|reward for watching War Thunder streams on Twitch.tv]] along with a unique skin for the vehicle.
+The '''{{Specs|name}}''' was a Dark-class fast patrol boats built for the Royal Navy in mid 1950s. The boats were featuring alloy framing and wooden decks and skin. Twenty seven were ordered in 1954 but nine were cancelled year later in 1955. The ships were featuring interchangeable armament which meant they could serve in both motor gun boat and motor torpedo boat roles, depending on their task. They were also the only diesel engine powered fast patrol boats in entire Royal Navy. Dark Aggressor was launched on 9th December 1954 and sold on 3rd October 1961. 
+
+The Dark Aggressor was introduced during [[Update "New Power"]] as a [[wt:en/news/6968-more-twitch-drops-en|reward for watching War Thunder streams on Twitch.tv]] along with a unique skin for the vehicle. She is identical to her tech tree version, except the unique Twitch skin. Unlike her sister Dark Adventurer which is depicted in the motor gun boat configuration featuring a single 114 mm gun on the bow and 40 mm Bofors autocannon on the stern with no torpedo launchers. The Dark Agressor is depicted in the motor torpedo boat configuration with four 533 mm torpedo tubes and 40 mm autocannon on the bow.
 
 == General info ==
 === Survivability and armour ===

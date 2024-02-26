@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The Bloch M.B.150 series was a single seat, all-metal low-wing monoplane fighter featuring a fully enclosed cockpit and retractable landing gear, a very revolutionary design for the French Air Force at the time of its development in 1934. The development was hampered by operational problems during its development. In 1938, 25 preproduction aircraft were ordered. With further testing, improved versions like the 151 and 152 entered service at the outbreak of WWII, powered by 920 hp and 1,050 hp engines respectively. The '''M.B.157''' was a prototype further development of the M.B.152, featuring an even more powerful 1,590 hp engine; however, only one prototype was built and it never saw service.
+
+It was introduced in [[Update 1.73 "Vive la France"]]. The '''{{Specs|name}}''' is a solid fighter, well suited for boom and zoom tactics. It has an average climb rate but a powerful engine that allows good top speed in level flight, side climbing is recommended at the start of the match. It can quickly dive into unsuspected enemies from above and engage in dogfights if necessary, since it is a nimble fighter, it will be able to keep up and outperform other fighters in the hands of a good pilot. Since it has a small ammo pool, trigger discipline is required for the greatest efficiency.
 
 == General info ==
 === Flight performance ===

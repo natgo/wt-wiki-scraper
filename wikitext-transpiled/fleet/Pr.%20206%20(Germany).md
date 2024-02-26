@@ -45,7 +45,7 @@ After grinding the grossly under-powered [[MZ1]], you will be relieved to be at 
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|53-56 (533 mm)|BB-1 depth charge}}
 
-The Pr. 206 is armed with 4 x 1-tube torpedo launchers. With a relatively heavy warhead of 400 kg, these are your main weapon against heavily armoured threats or when attempting attacks at a distance. Your torpedoes have a max range of 13 km (8 km without torpedo mode) and can be used at close range.
+The Pr. 206 is armed with 4 x 1-tube torpedo launchers with '''533 mm 53-56 torpedoes'''. With a relatively heavy warhead of 400 kg, these are your main weapon against heavily armoured threats or when attempting attacks at a distance. Your torpedoes have a max range of 13 km (8 km without torpedo mode) and can be used at close range.
 
 {| class="wikitable" style="text-align:center" width="100%"
 ! colspan="9" | Torpedo characteristics
@@ -57,7 +57,9 @@ The Pr. 206 is armed with 4 x 1-tube torpedo launchers. With a relatively heavy 
 | {{Annotation|Yes|'Torpedo Mode' modification installed}} || 2,000 || 75 || 13.00 || 1 || 50 || TNT || 400 || 400
 |}
 
-The Pr. 206 can also be armed with BB-1 depth charges, originally intended for use against submarines. It is not recommended to load them in the ship as they do not have any practical use in naval battles.
+The Pr. 206 can also be armed with '''BB-1 depth charges''', originally intended for use against submarines. It is not recommended to load them in the ship as they do not have any practical use in naval battles.
+
+Note: Near to the roll-off depth charge rack are 4 similar looking cylindrical objects in a side drop rack. These are actually MDSh smoke canisters (Морская дымовая шашка), which weigh 40-45 kg, and have a diameter of 41 cm, and a length of 48 cm. There are 3 versions of the identical canister, BDSh-5, BDSh-15 or MDSh.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
@@ -97,10 +99,12 @@ The first boat of the class was completed and commissioned with the Soviet Navy 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pr_206 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[Pr.206 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

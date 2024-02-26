@@ -58,7 +58,7 @@ Hull additional armour remains with its effectiveness against chemical munitions
 
 === 'Drozd' Active Protection System ===
 [[File:Druzd block 1.png|thumb|417x417px|T-55AMD-1 neutralizing missile from Type 60 ATM]]
-The T-55AMD-1 has access to a [[Active protection systems|hard-kill protection system]], the Drozd APS. It is a constantly active APS which provides protection against a wide variety of threats. It is composed of three major pieces: a Doppler radar array for target detection, eight launchers (four per side) on the sides of the turret, and an electronics piece on the turret's rear. It detects targets inside a 60° frontal arc and engages them inside a 7 m distance. The main disadvantage of this system is that it follows the direction of the turret, meaning it can only successfully destroy targets that in the line of sight.
+The T-55AMD-1 has access to a [[Active protection systems|hard-kill protection system]], the Drozd APS. It is a constantly active APS which provides protection against a wide variety of threats. It is composed of three major pieces: a Doppler radar array for target detection, eight launchers (four per side) on the sides of the turret, and an electronics piece on the turret's rear. It detects targets inside a 60° frontal arc and engages them inside a 7 m distance. The main disadvantage of this system is that it follows the direction of the turret, meaning it can only successfully destroy targets that are in the line of sight.
 
 Drozd can be used while on the move (although the turret must be facing the target as stated before). While on the move (especially horizontally), the detected ATGM has a risk of escaping the activation range of the Drozd. When moving towards an enemy who fired an ATGM, it will be affected by the APS but due to momentum, the ATGM can still damage the T-55 if when destroyed. Drozd must have a clear line-of-sight with the enemy threat (at least APS must be exposed). The T-55AMD-1 has no access to a Laser Warning Receiver (LWR), so the player must rely on visual contact with the ATGM and the launcher (no LWR makes the helicopter lock-on invisible). Thankfully, the usual attack angle of enemy projectiles are inside the protection arc when in LOS.
 
@@ -171,7 +171,7 @@ Do not be afraid to trust your armour, particularly when hull-down or against au
 
 '''Cons:'''
 
-* Painfully long reload
+* Below average reload time 
 * Low post-penetration damage
 * Slow gun and turret traverse
 * Disappointing gun depression

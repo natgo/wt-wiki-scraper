@@ -15,6 +15,7 @@
 {{Tree-Unit|jp_type_97_chi_ha}}
 {{Tree-Arrow}}
 {{Tree-Unit|jp_type_2_ho_i}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|jp_type_4_ho_ro}}
 {{Tree-Arrow}}
@@ -36,6 +37,7 @@
 
 {{Tree-Line|II Rank}}
 |
+{{Tree-Skip}}
 |
 {{Tree-Unit|jp_type_97_kai}}
 {{Tree-Arrow}}
@@ -141,15 +143,17 @@
 |
 {{Tree-Unit|jp_m47_patton_II}}
 {{Tree-Arrow}}
-{{Tree-Group|jp_st_b1|STB-1/Type 74|
+{{Tree-Group|jp_st_b1|STB-2/Type 74|
   {{Tree-Unit|jp_st_b1}}
 {{Tree-Arrow}}
 {{Tree-Unit|jp_type_74_c}}
 }}
 {{Tree-Arrow}}
 |
+{{Tree-Unit|jp_type_99}}
+{{Tree-Arrow}}
 {{Tree-Unit|jp_type_5_ho_ri_production}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Arrow-Full|2}}
 | style="border-left: solid 1px #cccccc;" |
@@ -194,13 +198,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|jp_type_90b}}
 }}
-{{Tree-Arrow}}
-{{Tree-Group|jp_type_10|Type 10/TKX|
-  {{Tree-Unit|jp_type_10}}
-{{Tree-Arrow}}
-{{Tree-Unit|jp_tkx_prot}}
-}}
-{{Tree-Skip}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|jp_type_16}}
 {{Tree-Skip}}
@@ -214,6 +212,24 @@
 |
 {{Tree-Skip}}
 
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Group|jp_type_10|Type 10/TKX|
+  {{Tree-Unit|jp_type_10}}
+{{Tree-Arrow}}
+{{Tree-Unit|jp_tkx_prot}}
+}}
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
 {{Tree-End}}
 
 == Media ==

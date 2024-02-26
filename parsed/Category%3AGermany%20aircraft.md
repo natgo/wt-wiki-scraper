@@ -59,9 +59,11 @@
 {{Tree-Unit|do_17z_2}}
 }}
 {{Tree-Arrow}}
-{{Tree-Unit|he_115c_1}}
+{{Tree-Group|he_115c_1|He 115/BV 138|
+  {{Tree-Unit|he_115c_1}}
 {{Tree-Arrow}}
 {{Tree-Unit|bv-138c-1}}
+}}
 {{Tree-Arrow}}
 {{Tree-Unit|he-111h-2}}
 {{Tree-Skip}}
@@ -454,6 +456,8 @@
 {{Tree-Unit|mig-21_bis_lazur}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|tornado_ids_de_wtd61}}
+{{Tree-Skip}}
 {{Tree-Unit|mig_23mf_germany}}
 
 {{Tree-Line|VIII Rank}}

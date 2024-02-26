@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Char 2C bis''' is an experimentally modified [[2C|Char 2C]] that primarily differs in its main armament. Following a decision made in December 1922, a standard Char 2C was modified at La Seyne from 1923 to 1926 and designated Char 2C bis, an experimental super-heavy tank with a 155 mm Schneider 155 C howitzer in a rounded cast steel turret. The main armament had a muzzle velocity of 200 m/s. The three separate machine gun positions were removed and more powerful Soutter-Harlé engines were installed. The tank weighed around 74 tonnes in this configuration. The modification was only temporary, as this experimental super-heavy tank was returned to its original state after 1934.
+The '''Char 2C bis''' is an experimentally modified [[2C|Char 2C]] that primarily differs in its main armament. Following a decision made in December 1922, a standard Char 2C was modified at La Seyne from 1923 to 1926 and designated Char 2C bis, an experimental super-heavy tank with a 155 mm Schneider 155 C howitzer in a rounded cast steel turret. The main armament had a muzzle velocity of 200 m/s. The three separate machine gun positions were removed and more powerful Sautter-Harlé engines were installed. The tank weighed around 74 tonnes in this configuration. The modification was only temporary, as this experimental super-heavy tank was returned to its original state after 1934.
 
 Introduced in [[Update "Apex Predators"]], the Char 2C bis has a playstyle comparable to the Char 2C. However, since the reload time is substantially longer than most adversaries it will face during combat, players need always make every shot count in this experimental super-heavy tank. Despite being a super-heavy tank, its armour is not thick enough to stop the majority of tank rounds fired at it. Staying behind the frontlines and acting as artillery is a feasible strategy, but due to the low velocity of the ammunition, this is extremely challenging for inexperienced players. Always be aware of your surroundings and stay close to allies to prevent being isolated and overwhelmed by enemies.
 
@@ -47,7 +47,13 @@ The 2C bis' true survivability lies in its crew count. 12 crew members are place
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The 2C bis utilizes a diesel-electric hybrid drive system. Two Sautter-Harlé inline 6 diesel engines power electric generators which then engage with electric motors at the rear sprocket. Like the Pz.Bef.Wg.VI P, this means that the 2C bis can neutral steer and theoretically go just as fast in reverse. In addition, the 2C bis accelerates to its top speed quickly, but this is only 15 km/h. The 2C will certainly be the last tank to the fight, but on the other hand the quick reverse acceleration can prove helpful in close quarters.
+The 2C bis utilizes a diesel-electric hybrid drive system. Two Sautter-Harlé inline 6 diesel engines power electric generators which then engage with electric motors at the rear sprocket. Like the Pz.Bef.Wg.VI P, this means that the 2C bis can neutral steer and theoretically go just as fast in reverse. 
+
+The 2C bis accelerates to its top speed quickly, regardless of the terrain it drives on, but this is only 15 km/h. The 2C bis will certainly be the last tank to the fight, but on the other hand the quick reverse acceleration can prove helpful in close quarters.
+
+Its hull traverse speed is quite average, so given the long hull length it takes a bit of time before turning at full speed. Therefore, the 2C bis will respond pretty clumsily when adjusting hull position against close-up foes, so always keep yourself at a reasonable distance from danger zone (at least 100 m).
+
+Lastly, given the tall position of the idler wheel, the 2C bis is excellent at driving over larger obstacles that would have stuck conventional tanks; its long hull also allows it to cross over larger trenches or gaps on the ground with ease, giving it a small advantage in certain terrains.
 
 {{tankMobility}}
 
@@ -122,9 +128,11 @@ The rear turret has decent horizontal arcs but suffers from rather poor vertical
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-As stated before, slight angling at longer ranges can increase survivability and make the armour somewhat useful. If you are not sure about how far a target is, use the rangefinder, even at close range. It is actually rather fast in the 2C bis, and a miss will have you waiting a long time to reload. The dreadful top speed will sometimes work in your favour, being that the first "wave" of enemy vehicles has already been dealt with. The 2C bis does not do well against multiple vehicles. The quick reverse acceleration can work in your favour in urban environments.
+As stated before, angling the hull around 40 degrees at longer ranges can increase survivability and make the armour somewhat useful. If you are not sure about how far a target is, use the rangefinder, even at close range, since a miss will have you waiting almost half a minute to reload. The dreadful top speed will sometimes work in your favour, being that the first "wave" of enemy vehicles has already been dealt with. The 2C bis does not do well against multiple vehicles. The quick reverse acceleration can work in your favour in urban environments.
 
-Sitting in the rear and lobbing artillery at the enemy is a possible strategy, but the low velocity and high arc of the rounds make this difficult. Eventually, a dedicated anti-tank SPG will likely disable or knock out the vehicle. The 2C bis performs better at mid-range encounters where tracking targets can be easier. Surprisingly, despite its size, getting "Shadow Strikes" is possible in urban areas. Use your machine guns to clear obstacles that may trigger the HE shell's fuse prematurely.
+Sitting in the rear and lobbing artillery at the enemy is a possible strategy, but the low velocity and high arc of the rounds make this difficult. Eventually, a dedicated anti-tank SPG will likely disable or knock out the vehicle. The 2C bis performs better at mid-range (100-400 m) encounters where tracking targets can be easier. Surprisingly, despite its size, getting "Shadow Strikes" is possible in urban areas. 
+
+Use your machine guns to clear obstacles that may trigger the HE shell's fuse prematurely. The 2C bis doesn't have a coaxial machine gun, which can be a problem when clearing obstacles as the hull guns have limited firing arcs. Turning the entire hull to shoot down fences and trees can be quite tedious, so always do it ASAP when you arrive at a comfortable position.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -139,11 +147,11 @@ Sitting in the rear and lobbing artillery at the enemy is a possible strategy, b
 '''Cons:'''
 
 * Extremely huge, easily spotted and targeted by any enemy
-* 155 mm howitzer has very long reload time and awful shell velocity
+* 155 mm howitzer has long reload time and unfriendly shell trajectory
 * Awfully slow top speed
 * Armour is mediocre at best
-* Limited turret traverse, very prone to flanking
-* Poor elevation and depression angles
+* Limited turret traverse, very prone to rear attack
+* Poor elevation angles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

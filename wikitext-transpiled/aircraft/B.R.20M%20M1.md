@@ -5,12 +5,14 @@
 }}
 {{Specs-Card
 |code=br_20m_m1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian bomber {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]]. Something players will notice after getting this aircraft is that while the fuselage remains overall unchanged from [[BR.20 DR|its predecessor]], the B.R.20M M1 has a redesigned nose, with a smaller glass area for the gunner, and more glass at the lower section of the nose.
+The '''{{Specs|name}}''' was an important upgrade over the original BR.20 Cicogna, in fact it was the most widely produced variant of this bomber. The upgrades consisted of a redesigned nose with a smaller glass area for the gunner and more glass at the lower section of the nose. It also had a redesigned deffensive armament, now introducing access to 12.7mm HMGs, far more superior than prior 7.7mm LMGs. The BR.20 was Italy's most predominant bomber during World War II, however it was considered outdated by the time the war started, but even with that in mind, it served with Italy between 1936 and 1945. It also served with Japan, although it was not very well regarded and was retired to training duties in 1941.
+
+It was introduced in [[Update 1.93 "Shark Attack"]]. Just like its predecessor the '''{{Specs|name}}''' is a very sluggish bomber, with poor speed, although it is a very stable airframe in simulator battles. It features a redesigned nose that has not a lot of effects in the battlefield. But it now has access to a gunner with a 12.7mm HMG, far more lethal than the 7.7mm machine guns. The bomb load is also quite good, being able to carry a little more explosive mass than other bombers at its BR. However the flight performance and the lack of armour make this bomber very likely to get intercepted at the start of the match and the mediocre defensive armament make it really hard to survive in situations were multiple fighters are targeting you. 
 
 == General info ==
 === Flight performance ===
@@ -176,6 +178,7 @@ This model, the "M", was improved over the original with lightly longer nose, mo
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=br_20m_m1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -187,6 +190,7 @@ This model, the "M", was improved over the original with lightly longer nose, mo
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[B.R.20 (Family)|Related development]]
+
 * [[B.R.20DR]]
 
 == External links ==

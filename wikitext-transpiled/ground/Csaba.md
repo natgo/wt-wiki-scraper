@@ -134,7 +134,9 @@ Introduced in [[Update "Sons of Attila"]], the 39.M Csaba is the starter vehicle
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_39m_csaba Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -158,10 +160,8 @@ Introduced in [[Update "Sons of Attila"]], the 39.M Csaba is the starter vehicle
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8431-development-39-m-csaba-the-youngest-son-en|[Devblog] 39.M Csaba: The Youngest Son]]
 
 {{Italy light tanks}}
 [[Category:Wheeled ground vehicles]]

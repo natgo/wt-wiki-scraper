@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+The '''{{Specs|name}}'''was the first production model of the [[Mirage III (Family)|Mirage III]] series. It was quite similar to the earlier preproduction Mirage IIIA with just changes to the fuselage. The Mirage III design was made to be both an interceptor and a relatively capable dogfighter, thus the Mirage IIIC featured the regular delta wing configuration, a powerful Atar 09B turbojet engine with an afterburner, and was able to carry a sleek external fuel tank improved for supersonic speeds, but that could be exchanged for a small bomb payload. The Mirage IIIC was originally fitted with three pylons but this number was promptly increased to 5, its main weapon was the AIM-9B Sidewinder as well as its DEFA 30 mm cannons. The Sidewinder remained as its primary missile until the introduction of the Matra Magic 1. A total of 95 units were produced, and it remained in service until 1988.
+
+Introduced in [[Update "Starfighters"]], the '''{{Specs|name}}''' is a very stereotypical French delta wing fighter, featuring a powerful engine, 30 mm cannons, and a decent radar for high altitude combat. It uses the Magic 1 and Matra R530E as its main armament. This is a very capable loadout for short-medium range combat, the Matra R530 can also be used instead of the E because of its radar guidance, however the lacklustre radar of the Mirage IIIC makes this missile only usable at high altitudes. The Mirage IIIC has a mediocre acceleration and lacks flares, so committing to a fight is not recommended with enemies nearby. It is essential to stay at high speeds and use your Magic 1s at very short range (~2km), while the R530 or R530E can be used for medium range.
 
 == General info ==
 === Flight performance ===
@@ -186,6 +188,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 30 mm DEFA 552A cannon (250 rpg)
 * 2 x AIM-9B Sidewinder missiles
 * 2 x Matra R550 Magic 1 missiles

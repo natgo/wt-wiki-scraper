@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The Challenger was introduced in 1983, as the new MBT for the British Army. While reliability and performance were debated during the Canadian Army Trophy of 1987, their action in Operation Desert Storm, also known as the Gulf War, gave them a chance to prove their worth. In this time, the British Army deployed the 1st Armoured Division in the Middle East with 3 Armoured Brigades equipped with Challenger tanks, some of which were the latest Mk.3 variant with new ERA installed. The Challengers had a good performance, dealing with several [[T-55A|T-55s]] and [[Type 69-IIa|Type 69s]] while not losing a single tank. A Challenger tank holds the record for the longest tank-to-tank kill, achieving a destruction at a range of 5.1 km in 1991.
+
+It was introduced in [[Update "Danger Zone"]]. The '''Challenger Mk.3 Desert Storm''' is identical to the [[Challenger Mk.3]] found in the tech tree, the only difference is the visual discrepancy and the fact that it lacks ROMOR ERA in the sides of the vehicle. Compared to most Soviet and other NATO platforms, the Challenger is very heavy and quite slow; while it struggles to accelerate, it has a very good top speed and an excellent reverse speed. The cannon is a powerful 120 mm gun, with access to 1st generation thermals for the gunner, which means that it has a very competent armament for its BR.
 
 == General info ==
 === Survivability and armour ===
@@ -145,11 +147,11 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-After the introduction of Challenger in 1983 as the new MBT for the British Army in different units, there were debates on its reliability due to its inferior overall performance in Canadian Army Trophy of 1987. As the Invasion of Kuwait by Iraq in 1990 and the subsequent Operation Sand Storm (Gulf War) began in 1991, the Challengers were given the chance to show their own worth.
+After the introduction of Challenger in 1983 as the new MBT for the British Army in different units, there were debates on its reliability due to its inferior overall performance in the Canadian Army Trophy of 1987. As the Invasion of Kuwait by Iraq in 1990 and the subsequent Operation Desert Storm (Gulf War) began in 1991, the Challengers were given the chance to show their worth.
 
-The British Army deployed the 1st Armoured Division to the Middle East alongside with 3 armoured brigades with Challenger tanks, some even with the latest Mk.3 series with new ERA packages installed in Saudi Arabia by late 1990. After the deadline for complete withdrawn of Iraqi forces passed, the coalition started the assault by 17th January, 1991 where the Challengers destroyed and captured hundreds of Iraqi tanks (ie. [[T-55A]], [[Type 69-IIa]]) while received no loss from enemy fire. Operation Desert Storm was where the Challenger held the world record of the longest tank-to-tank kill done by the callsign of 11B from the Royal Scots Dragoon Guards, achieving a destruction at around 5.1 km away on 26th February, 1991.
+The British Army deployed the 1st Armoured Division to the Middle East alongside three armoured brigades with Challenger tanks, some even with the latest Mk.3 series with new ERA packages installed in Saudi Arabia by late 1990. After the deadline for complete withdrawal of Iraqi forces passed, the coalition started the assault on 17th January, 1991, after which the Challengers destroyed and captured hundreds of Iraqi tanks (ie. [[T-55A]], [[Type 69-IIa]]) while received no loss from enemy fire. Operation Desert Storm was where the Challenger held the world record of the longest tank-to-tank kill, done by the callsign of 11B from the Royal Scots Dragoon Guards, achieving a destruction at around 5.1 km away on 26th February, 1991.
 
-The delivery of Challenger DS belongs to a tank with a callsign Zero Charlie (ØC; the Ø is in fact a slashed zero [0] instead of the oe sound in IPA) of A Squadron to an unknown unit in British Army.
+The livery of Challenger DS belongs to a tank with a callsign Zero Charlie (ØC) of A Squadron to an unknown unit in British Army.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -165,7 +167,7 @@ The delivery of Challenger DS belongs to a tank with a callsign Zero Charlie (Ø
 
 ;Related development
 
-* [[Challenger 2 (Family)]]
+* [[Challenger 1 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

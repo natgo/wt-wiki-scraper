@@ -91,7 +91,7 @@ The Tiger I should be played more like a bulky medium tank rather than a heavy t
 {{:KwK36 (88 mm)/Ammunition|PzGr 39, Pzgr., Hl.Gr 39, Sprgr. L/4.5}}
 
 ==== [[Ammo racks]] ====
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.33.0.25''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -107,13 +107,13 @@ The Tiger I should be played more like a bulky medium tank rather than a heavy t
 ! 10th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''92''' || 77&nbsp;''(+15)'' || 61&nbsp;''(+31)'' || 45&nbsp;''(+47)'' || 29&nbsp;''(+63)'' || 25&nbsp;''(+67)'' || 21&nbsp;''(+71)'' || 17&nbsp;''(+75)'' || 13&nbsp;''(+79)'' || 7&nbsp;''(+85)'' || 1&nbsp;''(+91)'' || No
+| '''92''' || 76&nbsp;''(+16)'' || 60&nbsp;''(+32)'' || 44&nbsp;''(+48)'' || 28&nbsp;''(+64)'' || 24&nbsp;''(+68)'' || 20&nbsp;''(+72)'' || 16&nbsp;''(+76)'' || 12&nbsp;''(+80)'' || 6&nbsp;''(+86)'' || 0&nbsp;''(+92)'' || No
 |-
 |}
 [[File:Ammoracks_Tiger_H1.png|right|thumb|x250px|[[Ammo racks]] of the Tiger H1.]]
 '''Note''':
 
-* Large sides empty: 29&nbsp;''(+63)'' shells.
+* Large sides empty: 28&nbsp;''(+64)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -126,7 +126,7 @@ The Tiger I should be played more like a bulky medium tank rather than a heavy t
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 4,350 (150) || 900 || N/A || N/A
+| Coaxial || 4,350 (150) || 900 || - || -
 |-
 |}
 

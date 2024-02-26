@@ -132,11 +132,42 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)}}
-{{main|Shafrir|SNEB type 23|T10 140|T10 151}}A good option for most gamemodes would be 6 x 360/50 kg G.P. bombs in the bombs bay, 2 x 500/50 kg G.P. bombs in the inner pylons and 2 x Shafrir IR missiles in the outer pylons, this allows the destruction of a full base in air RB (or several ground targets in ground RB) and 2 missiles for air to air kills
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_S.O.4050_Vautour_IIA.png]]</div>
+|-
+! [[100/50 kg G.P. (100 kg)|100/50 kg G.P.]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[250/50 kg G.P. (250 kg)|250/50 kg G.P.]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[360/50 kg G.P. (360 kg)|360/50 kg G.P.]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[500/50 kg G.P. (500 kg)|500/50 kg G.P.]] bombs
+| 1 || 1 || 2 || 1 || 1
+|-
+! [[SNEB type 23]] rockets
+| 19 || 19 || 112 || 19 || 19
+|-
+! [[T10 140]] rockets
+| 6 || 6 || || 6 || 6
+|-
+! [[T10 151]] rockets
+| 6 || 6 || || 6 || 6
+|-
+! [[Shafrir]] missiles
+| 1 || 1 || || 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 4 x Shafrir missiles
 * 24 x T10 140 rockets
@@ -147,38 +178,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 10 x 250/50 kg G.P. bombs (2,500 kg total)
 * 10 x 360/50 kg G.P. bombs (3,600 kg total)
 * 6 x 500/50 kg G.P. bombs (3,000 kg total)
+{{Navigation-End}}
 
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_S.O.4050_Vautour_IIA.png]]</div>
-|-
-! 100/50 kg G.P. bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 250/50 kg G.P. bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 360/50 kg G.P. bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 500/50 kg G.P. bombs
-| 1 || 1 || 2 || 1 || 1
-|-
-! SNEB type 23 rockets
-| 19 || 19 || 112 || 19 || 19
-|-
-! T10 140 rockets
-| 6 || 6 || || 6 || 6
-|-
-! T10 151 rockets
-| 6 || 6 || || 6 || 6
-|-
-! Shafrir missiles
-| 1 || 1 || || 1 || 1
-|-
-|}
+A good option for most game modes would be 6 x 360/50 kg G.P. bombs in the bombs bay, 2 x 500/50 kg G.P. bombs in the inner pylons and 2 x Shafrir IR missiles in the outer pylons, this allows the destruction of a full base in air RB (or several ground targets in ground RB) and 2 missiles for air-to-air kills.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

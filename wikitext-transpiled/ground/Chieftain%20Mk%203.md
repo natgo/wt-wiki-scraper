@@ -51,7 +51,7 @@ A major improvement from previous British MBTs is the Chieftain's thick, sloped 
 
 {{tankMobility|abMinHp= 1,023|rbMinHp= 584}}
 
-The {{PAGENAME}} suffers from a poor power-to-weight ratio. It is slow to reach its top speed of 45 km/h on almost any surface and will turn very slowly even when all mobility modules are researched. The {{PAGENAME}} especially struggles uphill and when pivoting. It has decent reverse speed (~ -9.4 km/h, compared to the -13 km/h reverse speed of tanks on the Centurion chassis).
+The {{PAGENAME}} suffers from a poor power-to-weight ratio. It is slow to reach its top speed of 45 km/h on almost any surface and will turn very slowly even when all mobility modules are researched. The {{PAGENAME}} especially struggles uphill and when pivoting. It has reasonable reverse speed (-10.4 km/h, compared to the ~ -12 km/h reverse speed of tanks on the Centurion chassis).
 
 === Modifications and economy ===
 {{Specs-Economy}}

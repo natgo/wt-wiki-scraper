@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+'''HMS Daring (D05)''' was a member of the [[Daring (Family)|Daring-class]] destroyers. Built on the Tyne by Swan, Hunter, and Wigham Richardson, HMS Daring was designed by the Wallsend Slipway & Engineering Company and served as the lead ship of her class. She was laid down on September 29, 1945, and launched on August 10, 1949, by Mrs Leonard Hall, the First Lord of the Admiralty, George Hall's, daughter-in-law. As the sixth ship bearing her name in the British Navy, she was first put into service on February 3, 1952. After serving five commissions, HMS Daring was put into reserve in December 1968 and eventually sold for scrap in 1971.
+
+Introduced in [[Update "La Royale"]], HMS Daring is similar to [[HMS Diana]], as members of the same class of destroyers. Compared to other destroyers, she is significantly larger, as she was built for far-reaching operations. Still, HMS Daring was not protected by armour. This substantially increases the risk of ammunition detonation during battles, especially since her ammunition rack is located above the waterline. Players need to keep a certain distance from the enemy to avoid being targeted.
 
 == General info ==
 === Survivability and armour ===
@@ -63,9 +65,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rat
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -76,6 +80,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rat
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_destroyer_daring_class_daring Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -83,6 +88,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rat
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -91,6 +97,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rat
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

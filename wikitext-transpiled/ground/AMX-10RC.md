@@ -1,3 +1,10 @@
+{{About
+|about = French light tank '''{{PAGENAME}}'''
+|and
+|usage = other versions
+|link-1 = AMX-10M
+|link-2 = AMX-10P
+}}
 {{Specs-Card
 |code=fr_amx_10rc
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

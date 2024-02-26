@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''{{Specs|name}}''' was a single-seat, carrier-borne biplane fighter of composite structure, this aircraft was created by Hawker Aircraft Ltd and based on the Hawker Fury land-based fighter. In early 1930, Hawker Aircraft Ltd built two prototypes, which initially had the unofficial name of "Norn", at their own expense. In early 1931, the first Hawker Nimrod prototype was sent on the aircraft carrier HMS Eagle to Buenos Aires as part of the British Empire Trade Exhibition. By 1932, Nimrod Mk.I fighters began to replace the Fairey Flycatcher in Great Britain's Fleet Air Arm squadrons. The Nimrod's armament consisted of two synchronized 0.303 inch Vickers Mk.IV machine guns with 600 rounds each mounted on the forward fuselage. The aircraft was able to carry up to 80 lb (36 kg) of bombs on underwing hardpoints; usually this was made up of four 20 lb (9 kg) bombs.
+
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Nimrod Mk I has inadequate speed, but makes up for it with an excellent climb rate that will get it above most other biplanes. It is also a highly manoeuvrable. Being slow makes it easy prey to faster fighters. Like [[Fury Mk I]], [[Fury Mk II]], and [[Nimrod Mk II]], the Nimrod Mk I is lacking in firepower, only armed with two [[Vickers E (7.7 mm)]] machine guns. Enemies to be aware of are aircraft like [[I-15 (Family)|I-15]] and [[Ki-10 (Family)|Ki-10]] which are able to out-turn the Nimrod and in the case of the I-15 being able to outgun it.
 
 == General info ==
 === Flight performance ===
@@ -173,15 +175,18 @@ A total of 57 Hawker Nimrod Mk.I fighters were built.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=nimrod_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

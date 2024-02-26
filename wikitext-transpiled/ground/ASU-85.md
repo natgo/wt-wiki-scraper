@@ -127,15 +127,17 @@ The ASU-85 has a rather unorthodox method of using its smoke screen. Unlike most
 
 The smokes screens themselves are very thin and allow ASU-85 to see through them with sniper scope and attack. In arcade mode, ASU-85 can use smoke screen to disable aim assist and spotting for enemy vehicles while still being able to track their position with scouting, which works well with its ability to bounce poorly aimed shots. The APDS-like APHE and HEAT-FS also help with fighting with aim assist off, which makes it a viable trick, though it will not help if enemy already took aim at ASU-85 and is just waiting for reload to finish.
 
-Common opponent weakspots:
+Heavily armored opponent's weakspots:
 
-* Tiger II [[Tiger II (P)|(P)]], [[Tiger II (H)|(H)]], [[Tiger II (10.5 cm Kw.K)|105 mm]]: Turret cheeks. HEAT-FS can penetrate the hull front.
-* [[Panther II]]: APBC can penetrate the turret face. HEAT-FS can penetrate the hull front.
+* Tiger II [[Tiger II (P)|(P)]]/[[Tiger II (H)|(H)]]: Turret cheeks are penetrable by APCBC even at 1.2km. Shoot the left cheek to kill all turret crew and wound the hull crew. 
+* T26E5: Cupola, turret ring and hull MG port remain weakspots even up to 2km with APCBC.
+* T26E1-1: Hull MG port and upper section of lower glacis remain penetrable with APCBC up to 2km.
+* T34: Hull MG port, lower glacis and cupola penetrable at 1km. MG port and most of the lower glacis remain penetrable at 2km.
 * [[T29]]: Lower glacis. There are also weakspots in the gun mantlet, but they may be hard to hit at anything but close range.
 * [[Caernarvon]]: Turret ring and lower glacis.
 * [[Tortoise]]: Area surrounding the hull machine gun port.
-* [[T95]]: Cupolas may be penetrated but do not trigger the explosive filler of AP rounds.
-* [[Jagdtiger]]: HEAT-FS can penetrate the hull front and superstructure.
+* [[T95]]: Cupolas may be penetrated but will not generate enough spall to reliably kill more than 1 crew member. HEAT-FS also does not seem to be capable of consistently disabling more than 1 crew member. Suggest breaking their gun and running away to flank them. The upper section of the T95's sides are vulnerable to APCBC even at 1km.
+* [[Jagdtiger]]: APCBC can penetrate lower glacis and hull MG port up to 800m. 1-shot kill is in theory possible with HEAT-FS, but you will need to aim at the left or right cheeks to hit the ammo.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

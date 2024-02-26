@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]] along with the initial French ground tree.
+The AMX-50 Heavy Tank was quite powerful, but DEFA wanted to procure a heavier 120mm self-propelled gun, however, problems soon started to appear. The weight was the main factor that hampered the development of the vehicle since the speed was deemed too low. In the end, the Canon Automoteur AMX-50 Foch was developed, named after Marshal Ferdinand Foch. Doctrinally, the AMX-50 Foch was supposed to provide long-range support to the regular AMX-50 tanks, there were plans to upgrade the vehicle with a 155mm cannon but the project was never seriously pursued.
+
+It was introduced in [[Update 1.75 "La Résistance"]] along with the initial French ground tree. The '''{{Specs|name}}'''  is quite a sturdy tank destroyer, it has enough armour to withstand regular APHE and AP projectiles, except for APCR and HEAT-FS, which start to be more common around its BR. It is not the fastest or most agile tank destroyer in the game, but for its size, is quite agile, but since it uses a fixed gun and not a turret, it is more susceptible to flanking manoeuvres by lighter vehicles armed with autocannons or recoilless rifles. Overall, the tank features a powerful gun capable of dealing with anything at its BR, and has enough armour to deal with late WWII vehicles, although it suffers against early Cold War designs such as the T-54 and the M48.  
 
 == General info ==
 === Survivability and armour ===

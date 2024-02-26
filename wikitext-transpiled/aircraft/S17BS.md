@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish bomber {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
+The '''{{Specs|name}}''' was a Swedish reconnaissance dive-bomber aircraft designed by SAAB. The land-based SAAB 17 was the first all-metal stressed-skin aircraft developed in Sweden, introduced in 1940. The SAAB 17BS was the latest version of the B17, based on the [[B17B]], it was designed for reconnaissance and it featured photographic equipment, it replaced the landing gear with floats and the original engine by a Bristol Mercury XXIV engine; 38 units were built.
+
+It was introduced in [[Update "Raining Fire"]]. The '''{{Specs|name}}''' is a slow and sluggish bomber. It has access to 2 x forward mounting machine guns, which are an adequate armament for its BR. It is more capable at ground attack however, with access to 9 x 50 kg bombs. It has also access to a bomb sight, which means that dropping bombs with precision shouldn't be an issue. In air battles, the bombs are particularly useful against light fortifications and vehicle columns.
 
 == General info ==
 === Flight performance ===

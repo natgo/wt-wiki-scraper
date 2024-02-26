@@ -1,3 +1,8 @@
+{{About
+| about = Soviet attack helicopter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Mi-8 (Family)
+}}
 {{Specs-Card
 |code=mi_8amtsh
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -92,8 +97,6 @@ The Mi-8AMTSh does lack HIRSS, RWR and IRCM Dazzler than its Mi-24 cousins so be
 * Access up to 8x 9M39 Igla missiles, good for dealing against helicopters and slow aircrafts
 * GUV-8700 and GSh-23L gunpod offer extra firepower.
 
-*
-
 '''Cons:'''
 
 * Lacks RWR, HIRSS and IRCM Dazzler unlike its Mi-24 cousins
@@ -104,24 +107,22 @@ The Mi-8AMTSh does lack HIRSS, RWR and IRCM Dazzler than its Mi-24 cousins so be
 * ATGM firing angle is slightly akward. Have to pitch nose down slightly if in a hover to launch
 * Lacks Thermals and NVD for the gunner
 
-*
-
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+;Videos
+{{Youtube-gallery|jttH2id3KsY|'''The Shooting Range #382''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Mi-8 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

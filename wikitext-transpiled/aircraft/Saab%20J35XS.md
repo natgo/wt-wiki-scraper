@@ -148,10 +148,30 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
-{{main|RB24|RB24J|m/56D|srak m/57B}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6 !! width="7%" | 7 !! width="7%" | 8
+| rowspan="5" width="20%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[m/56D]] rockets
+| 4, 6 || || || || || || || 4, 6
+|-
+! [[srak m/57B]] rockets
+| || 19 || || 19 || 19 || || 19 ||
+|-
+! [[RB24]] missiles
+| 1 || || 1 || 1 || 1 || 1 || || 1
+|-
+! [[RB24J]] missiles
+| 1 || || 1 || 1 || 1 || 1 || || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 6 x RB24J missiles
 * 12 x m/56D rockets
@@ -159,26 +179,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x RB24J missiles + 76 x srak m/57B rockets
 * 4 x RB24J missiles + 12 x m/56D rockets
 * 2 x RB24J missiles + 8 x m/56D rockets + 76 x srak m/57B rockets
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6 !! width="7%" | 7 !! width="7%" | 8
-| rowspan="5" width="20%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! m/56D rockets
-| 4, 6 || || || || || || || 4, 6
-|-
-! srak m/57B rockets
-| || 19 || || 19 || 19 || || 19 ||
-|-
-! RB24 missiles
-| 1 || || 1 || 1 || 1 || 1 || || 1
-|-
-! RB24J missiles
-| 1 || || 1 || 1 || 1 || 1 || || 1
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!--''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -186,7 +187,7 @@ The J35XS is played as a very capable dogfighter/interceptor in War Thunder. At 
 
 The J35XS also features an IRST, a rare sight in jets, and even rarer below 11.0. IRST stands for Infrared Search and Track and allows to detect infrared signals from rear and front aspect, and locking them. Unlike SARH, this mode does not have an IFF system, which means that it cant identify if the aircraft locked/detected is an ally or an enemy. This can prove very dangerous in '''Simulator Battles''', when it's not possible identifying if an aircraft is allied or not at long ranges. Still, a good combination in this situations is using the IRST in close ranges while using the radar at long ranges, this will ensure that the enemy aircrafts is not warned if you are locked using the IRST. Apart from that, you can use the IRST to lock missiles easier and shoot them while manoeuvring and maintaining the lock. 
 
-The J35XS has a limited fuel load of 20 minutes, and while the afterburner is not very fuel hungry, it will still leave you without fuel in EC maps if not careful. Without the afterburner you will top at Mach 0.96 with 100% thrust. You will also loose a lot of speed while turning, of course, this means that you can pull very thight turns and surprise your opponents with shots or missile launches. One of the biggest inconvenient with the J35 family is the lack of tracer rounds for the cannons, while the cannons are good and have excellent damage, you wont be able to see your rounds in the air, and aiming is very hard and junky, it's recommended playing a little in AB matches to see how your gun behaves, before participating in RB or SB.
+The J35XS has a limited fuel load of 20 minutes, and while the afterburner is not very fuel hungry, it will still leave you without fuel in EC maps if not careful. Without the afterburner you will top at Mach 0.96 with 100% thrust. You will also loose a lot of speed while turning, of course, this means that you can pull very tight turns and surprise your opponents with shots or missile launches. One of the biggest inconvenient with the J35 family is the lack of tracer rounds for the cannons, while the cannons are good and have excellent damage, you wont be able to see your rounds in the air, and aiming is very hard and junky, it's recommended playing a little in AB matches to see how your gun behaves, before participating in RB or SB.
 
 The aircraft has access to only two air to ground options, the M/56D and M/57B rockets, the M/56D is the only useful against ground targets, since it has a HEAT warhead with good penetration values, but it's quite heavy and slow. The 57B in the other hand uses a HE warhead, but it's too small, with only 15mm of penetration and 1.14kgs of explosive mass, that wont kill anything at high BRs even with a direct hit.
 
@@ -213,7 +214,7 @@ The aircraft has access to only two air to ground options, the M/56D and M/57B r
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>== In-game description ===</nowiki></code>, also if applicable).'' -->
-Finland obtained the Swedish SAAB J35 Draken in 1970, as part of a collaboration between the two countries so that Sweden could provid3e the Finnish Air Force with J35 aircrafts of different variants. At the beginning Finland only received second hand models like the J35F, J35B and SK35C. However the J35XS variant was made by Finnish request and built as a kit assembled by Valmet in Finland. Valmet was also allowed to produce the spare parts for this aircrafts. The XS stands for Export Suomi (Export Finland).
+Finland obtained the Swedish SAAB J35 Draken in 1970, as part of a collaboration between the two countries so that Sweden could provide the Finnish Air Force with J35 aircrafts of different variants. At the beginning Finland only received second hand models like the J35F, J35B and SK35C. However the J35XS variant was made by Finnish request and built as a kit assembled by Valmet in Finland. Valmet was also allowed to produce the spare parts for this aircrafts. The XS stands for Export Suomi (Export Finland).
 
 The J35XS was highly based on the F variant, and could be considered an intermediate step between the more advanced J35J and the J35F. The new aircraft, fitted more weapon pylons, a better countermeasure suit and different radar model.
 
@@ -255,7 +256,7 @@ File:J35XS RM6C AB On.jpg|<small>J35XS afterburner on</small>
 * [[wikipedia:Saab_35_Draken|[Wikipedia] Saab 35 Draken]]
 * [https://aeroseum.se/j-35-flying-overseas/ <nowiki>[Aeroseum] J 35 flying overseas</nowiki>]
 * [https://www.milavia.net/aircraft/draken/draken.htm <nowiki>[Milavia] SAAB J 35 Draken - MILAVIA Aircraft</nowiki>]
-* [https://pickledwings.com/saab-j-35-draken-the-scandinavian-surprise/ <nowiki>[Pickled Wings] SAAB J-35 DRAKEN – THE SCANDINAVIAN SURPRISE</nowiki>]
+* [https://pickledwings.com/saab-j-35-draken-the-scandinavian-surprise/ <nowiki>[Pickled Wings] SAAB J-35 DRAKEN – THE SCANDINAVIAN SURPRISE</nowiki>]
 
 {{AirManufacturer Saab}}
 {{Sweden jet aircraft}}

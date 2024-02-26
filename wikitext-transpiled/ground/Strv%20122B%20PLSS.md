@@ -18,9 +18,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-r
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 The Strv 122B carries on all the good armour from the previous 122A model, but gains a 20 mm steel plate on the LFP and underbelly, as well as having a remodelled hull ammunition rack. The plate helps stop ricocheting shells, and can be a layer of defence against explosive and chemical penetration rounds. The new hull ammunition rack is wider but has an overall lower height - meaning that shells entering the LFP and passing through the bottom of the tank's interior may now pass under the shells without hitting the racks.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+* Rolled homogeneous armour (sides, back and roof of hull, back and roof of turret, turret ring, underbody, commander optics, driver cupola)
+* High hardness rolled armour (hull front, front and sides of turret, side skirts)
+* Structural steel (applique armour on turret roof)
+* Composite screen (turret cupolas, frontal part of side skirts, applique armour on hull front, external armour on front and sides of turret)
+* External composite armour with NERA elements (gun mantlet)
+* Cast homogeneous armour (upper front of turret)
 
 {| class="wikitable"
 |-
@@ -35,8 +39,31 @@ The Strv 122B carries on all the good armour from the previous 122A model, but g
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+{| class="wikitable"
+|-
+! Composite armour !! Frontal effective protection !! Sides
+|-
+| Hull
+| '''Upper glacis:''' <br> 600-1000 mm ''Kinetic'' / 800-1200 mm ''Chemical'' <br>'''Lower glacis:''' <br> 150-500 mm ''Kinetic'' / 200-800 mm ''Chemical''
+| '''Frontal part of top:''' <br> 220-260 mm ''Kinetic'' / 540-600 mm ''Chemical''
+|-
+| Turret
+| '''Cheeks:''' <br> 800-1000 mm ''Kinetic'' / 1300-1400 mm ''Chemical'' <br> '''Sides of gun mantlet:'''<br> 600-800 mm ''Kinetic'' / 600-1000 mm ''Chemical'' <br> '''Top of gun mantlet:'''<br> 300-600 mm ''Kinetic'' / 500-900 mm ''Chemical'' <br> '''Bottom of gun mantlet:'''<br> 300-400 mm ''Kinetic'' / 300-600 mm ''Chemical''
+| '''Front:''' <br> 250-350 mm ''Kinetic'' / 250-350 mm ''Chemical'' <br> '''Rear:''' <br> 60-70 mm ''Kinetic'' / 80-100 mm ''Chemical''
+|-
+|}
+
+'''Notes:'''
+
+* Suspension wheels and tracks are 20 mm thick, and the underbody is 20 mm thick.
+* There is an 8 mm thick internal RHA screen that separates the crew compartment from the engine. The two exterior fuel tanks at the frontal part of the hull sides are separated from the crew compartment by two 35 mm thick of internal RHA screens.
+* The ammo rack in the turret is separated by a 35 mm thick of internal RHA screen.
+* There are a few 10 mm thick attached tracks mounted on the rear of the turret. The left side of the turret rear is attached with a 20 mm thick track.
+* The external arrow-shaped armour at the turret cheeks is 80 mm thick and can be torn down.
+* There is 140 mm thick roof composite armour around two turret cupolas, and several 10 and 20 mm thick structural steel plates cover the composite armour inside.
+* The smoke dispensers are protected by a RHA shell.
+* With the modification of Mine Protection, a 30 mm thick external RHA plate is attached to the underbody.
+* There are several plates of spall liner at the frontal hull sides, top of turret, and around the hull ammo rack.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

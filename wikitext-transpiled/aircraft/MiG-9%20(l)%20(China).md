@@ -158,7 +158,6 @@ If there are no bombers to attack, either because they have all been destroyed o
 * All armour is in the front of the aircraft to protect against defensive weapons
 * Engines do not overheat at 100% throttle
 * Is able to land quite well on engines like the Me 262
-* Has two engines, can still return to base if one is critically damaged
 * High rip speed for an early Soviet jet (a little over 1,000 km/h)
 * Can outrun almost anything it fights
 
@@ -191,10 +190,12 @@ MiG-9s remained in PLAAF service till 1959 after its decommission order was effe
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-9_late_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

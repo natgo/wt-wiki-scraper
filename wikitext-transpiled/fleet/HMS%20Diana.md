@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+'''HMS Diana (D126)''' was a member of the [[Daring (Family)|Daring-class]] destroyers. She was designed and constructed amid World War II, incorporating experiences from the Pacific campaign, such as longer range and the ability to effectively replenish at sea. Yarrow and Co. Ltd. (Yard No. 1846) constructed HMS Diana in Clydebank, Glasgow. She was laid down on April 3, 1947, and launched on Thursday, May 8, 1952, by Lady McGrigor, the wife of Admiral of the Fleet Sir Rhoderick McGrigor. HMS Diana was first put into service on March 29, 1954. During construction, the originally planned name, HMS Druid, was renamed to HMS Diana. HMS Diana was almost as big as a pre-war light cruiser, so at its time, it was regarded as a large destroyer. Along with her sister ship, HMS Decoy, she was acquired by the Peruvian Navy in 1969 and served until 1993.
 
-Designed in the immediate aftermath of World War II, the Daring-class destroyers incorporated lessons learned during the war and reflect change of doctrine of the post-war Royal Navy. The class features an emphasis on operation range and armaments, intended to supplement and eventually supersede cruisers which were deemed too expensive to operate.
-
-Because of her unusually large size for a destroyer at that time, the class were initially called "Darings" in a similar manner to various battleship built after the [[HMS Dreadnought]]. Though they were not as revolutionary as its Great War counterparts, they represented the final evolution of the British "gun destroyer" before the advent of guided missile destroyers in the 60s.
+Introduced in [[Update "Fire and Ice"]], HMS Diana and her predecessor share certain characteristics. She is far more resilient and durable due to her design for far-reaching operations. Nevertheless, HMS Diana is not an exception to the rule that the majority of early British destroyers lacked armour protection. This is a fatal flaw that greatly increases the risk of ammunition detonation, as the hull lacks any armour plates and the ammunition rack is situated above the waterline. To avoid being targeted, players should maintain some distance from the enemy.
 
 == General info ==
 === Survivability and armour ===
@@ -103,6 +101,7 @@ In 1969, HMS Diana was sold to the Peruvian navy, renamed BAP Palacios, and refi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_destroyer_daring_class_diana Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

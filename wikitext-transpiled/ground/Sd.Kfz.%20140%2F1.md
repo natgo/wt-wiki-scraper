@@ -110,6 +110,8 @@ The 20 mm KwK38 autocannon is one of the most lethal low-rank guns.
 
 This tank has a coaxial 7.92 mm MG 42 machine gun that is a sufficient fallback to the FlaK 38. The MG42 is unlikely to be of help against other ground vehicles but is best used between reloads to maintain a semi-constant rate of fire on enemy aircraft.
 
+Considering the prevalence of open-topped/unarmored vehicles such as the [[GAZ-MM (72-K)]] at or around the Sd.Kfz. 140/1's battle rating, the MG42 may be a devastating weapon against certain ground targets as well. But this is a niche use case and the MG42 is probably best viewed as a secondary weapon/last-ditch resort (as fun as it is to hear the infamous GPMG go BRRRRRR). It does have significantly better sustained fire capabilities due to not having to reload after every 10 rounds so do feel free to use it liberally when it does apply.
+
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[MG42 (7.92 mm)|7.92 mm MG42]]

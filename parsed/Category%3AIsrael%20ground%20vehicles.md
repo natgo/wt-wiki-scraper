@@ -1,5 +1,5 @@
 {{DISPLAYTITLE:Israel ground vehicles}}
-{{Tree-Start|5}}
+{{Tree-Start|6}}
 
 {{Tree-Line|IV Rank}}
 |
@@ -10,22 +10,25 @@
 {{Tree-Arrow}}
 {{Tree-Unit|il_magach_2}}
 }}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|il_amx_13_75}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_aml_90}}
 {{Tree-Arrow}}
 {{Tree-Unit|il_centurion_mk_5_shot}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|il_tcm_20}}
 {{Tree-Arrow}}
+{{Tree-Unit|il_zsu_57_2}}
+{{Tree-Arrow|1}}
+|
 {{Tree-Unit|il_m109}}
 {{Tree-Arrow}}
-{{Tree-Unit|il_ss_11_halftrack}}
+{{Tree-Unit|il_m109a1}}
 {{Tree-Arrow}}
-{{Tree-Unit|il_zsu_57_2}}
+{{Tree-Unit|il_ss_11_halftrack}}
 {{Tree-Arrow}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|il_m_51_w}}
@@ -58,6 +61,8 @@
 |
 {{Tree-Unit|il_m163_vulcan}}
 {{Tree-Arrow|1}}
+|
+{{Tree-Arrow-Full|2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|il_magach_3}}
 {{Tree-Skip}}
@@ -98,6 +103,8 @@
 {{Tree-Arrow}}
 {{Tree-Unit|il_machbet}}
 {{Tree-Arrow|1}}
+|
+{{Tree-Unit|il_m113a1_tow}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|il_centurion_shot_kal_d}}
 {{Tree-Skip}}
@@ -108,7 +115,6 @@
 
 {{Tree-Line|VII Rank}}
 |
-{{Tree-Skip}}
 |
 {{Tree-Group|il_merkava_3_group|Merkava 3 B/C|
   {{Tree-Unit|il_merkava_mk_3b}}
@@ -116,6 +122,16 @@
 {{Tree-Unit|il_merkava_mk_3c}}
 }}
 {{Tree-Arrow}}
+|
+{{Tree-Unit|il_mim_72_chaparral}}
+|
+| style="border-left: solid 1px #cccccc;" |
+|
+
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Skip}}
+|
 {{Tree-Group|il_merkava_4_group|Merkava 4 B/LIC|
   {{Tree-Unit|il_merkava_mk_4b}}
 {{Tree-Arrow}}
@@ -125,7 +141,8 @@
 {{Tree-Unit|il_merkava_mk_4m}}
 {{Tree-Skip}}
 |
-{{Tree-Unit|il_mim_72_chaparral}}
+{{Tree-Skip}}
+|
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Skip}}

@@ -8,7 +8,7 @@
 }}
 {{Specs-Card
 |code=us_m1a2_sep_abrams
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_TUSK.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_TUSK.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -31,7 +31,7 @@ The improvements in M1A2 SEP from previous Abrams is that it has from the sides 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The M1A2 SEP uses 1,519 horsepower AGT-1500 gas turbine like previous Abrams variants, the tank has gained an additional 0.5 tons of weight from M1A2, putting the total mass of the tank at 62.2 tonnes. This causes a slight change from M1A2 which means that commanders should expect the vehicle to respond a bit slower to movement commands compared to previous modifications. However, the tank retains the same 68 km/h top speed and 40 km/h reverse speed as the M1A2 and is still fairly mobile. Without upgrades, the hull traverse is slow and acceleration is lacking as with previous Abrams, however those issues can be remedied by upgrading the tracks, filters, engine and transmission modifications.
 
-{{tankMobility|abMinHp=2,058|rbMinHp=1,343|AoAweight=3.25}}
+{{tankMobility|abMinHp=2,058|rbMinHp=1,343|AoAweight=3.25|weight=62.2}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -56,7 +56,7 @@ As with the previous Abrams tanks, the M1A2 SEP's gun handles very well, with an
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 42 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
+| rowspan="2" | 42 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 6.50 || rowspan="2" | 5.75 || rowspan="2" | 5.30 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0
@@ -152,6 +152,7 @@ While the M1A2 SEP was still in production, experiences from the US Invasion of 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1a2_sep_abrams Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 {{Skin-gallery

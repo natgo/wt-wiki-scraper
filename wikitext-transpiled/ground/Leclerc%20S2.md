@@ -66,10 +66,10 @@ Unlike most of its Western contemporaries (excluding the [[Type 90]] and the [[C
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
+| 23.8 || 28.0 || 34.0 || 37.6 || 40.0
 |-
 |}
 
@@ -156,10 +156,9 @@ The Leclerc Série 2 Tranche 6 was the 9th version of the Leclerc (counting prot
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Leclerc (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

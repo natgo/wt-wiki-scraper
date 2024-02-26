@@ -92,10 +92,30 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)|FAB-1000 (1,000 kg)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
+| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FAB-100sv (100 kg)|100 kg FAB-100sv]] bombs
+| || 9 ||
+|-
+! [[FAB-250sv (250 kg)|250 kg FAB-250sv]] bombs
+| 1 || 2, 4 || 1
+|-
+! [[FAB-500sv (500 kg)|500 kg FAB-500sv]] bombs
+| 1 || 1 || 1
+|-
+! [[FAB-1000 (1,000 kg)|1,000 kg FAB-1000]] bombs
+| 1 || 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 9 x 100 kg FAB-100sv bombs (900 kg total)
 * 4 x 250 kg FAB-250sv bombs (1,000 kg total)
@@ -106,26 +126,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 1 x 1,000 kg FAB-1000 bomb (1,000 kg total)
 * 2 x 1,000 kg FAB-1000 bombs (2,000 kg total)
 * 3 x 1,000 kg FAB-1000 bombs (3,000 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
-| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 100 kg FAB-100sv bombs
-| || 9 ||
-|-
-! 250 kg FAB-250sv bombs
-| 1 || 2, 4 || 1
-|-
-! 500 kg FAB-500sv bombs
-| 1 || 1 || 1
-|-
-! 1,000 kg FAB-1000 bombs
-| 1 || 1 || 1
-|-
-|}
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

@@ -76,15 +76,16 @@ The Tiger I should be played more as a bulky medium tank rather than a heavy tan
 |}
 
 ==== Ammunition ====
-* '''PzGr 39''' - The go-to shell for all Tiger drivers as this is arguably the best. It will do incredible damage to any tank shot by it, except SPAA, or any extremely thin armoured vehicles. Heavier tanks like the IS-1, IS-2, or American heavy tanks are able to resist the round at longer ranges, but well placed shots from close range or sides will do the job. All other medium and light tanks will be history as soon as this shell make a contact with them. This shell, however, will almost always over-penetrate all but the most armoured SPAA vehicles, so it is best to use HE or machine gun fire on thin-skinned vehicles.
-* '''PzGr. ''' - This shell is also very useful. It has very similar characteristics as PzGr 39, but sacrifices some penetration for about 50% more Explosive Filler, meaning even more damage than already powerful PzGr 39. It is recommended to carry some of these shells and use them regularly, as the penetration is still enough to deal with most targets (at least when being downtiered), and switch to PzGr 39 when shooting targets far away, or those that are heavily armoured.
+
+* '''PzGr 39''' - The standard shell for all Tiger drivers. It will do incredible damage to any tank shot by it, except SPAA, or any extremely thin armoured vehicles. Heavier tanks like the IS-1, IS-2, or American heavy tanks are able to resist the round at longer ranges, but well placed shots from close range or sides will do the job. All other medium and light tanks will be history as soon as this shell make a contact with them. This shell, however, will almost always over-penetrate all but the most armoured SPAA vehicles, so it is best to use HE or machine gun fire on thin-skinned vehicles.
+* '''PzGr. ''' - This shell is very useful, it has similar characteristics as PzGr 39, but sacrifices some penetration for about twice as more Explosive Filler, meaning it can overpressure enemies and one shot them. It is recommended to carry these shells and use them regularly, as the penetration is still enough to deal with most targets.
 * '''Sprgr. 39''' - The HE shell is completely ineffective against all but SPAA or the AI artillery on the Kursk and Ash River maps, and the machine gun mounted on the Tiger has proven quite capable of dealing with these. Keep a small supply of this shell on hand if planning to flank the enemy and take out their SPAA or artillery, but avoid them for everything else.
 * '''Hl.Gr. 39''' - On paper the HEAT rounds don't bring anything new to the table, however they can be used as a substitute for the HE shells due to the greater explosive mass and still gives you a fighting chance if you get caught with your pants down.
 
 {{:KwK36 (88 mm)/Ammunition|PzGr 39, Pzgr., Hl.Gr 39, Sprgr. L/4.5}}
 
 ==== [[Ammo racks]] ====
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.33.0.25''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -100,13 +101,13 @@ The Tiger I should be played more as a bulky medium tank rather than a heavy tan
 ! 10th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''92''' || 77&nbsp;''(+15)'' || 61&nbsp;''(+31)'' || 45&nbsp;''(+47)'' || 29&nbsp;''(+63)'' || 25&nbsp;''(+67)'' || 21&nbsp;''(+71)'' || 17&nbsp;''(+75)'' || 13&nbsp;''(+79)'' || 7&nbsp;''(+85)'' || 1&nbsp;''(+91)'' || No
+| '''92''' || 76&nbsp;''(+16)'' || 60&nbsp;''(+32)'' || 44&nbsp;''(+48)'' || 28&nbsp;''(+64)'' || 24&nbsp;''(+68)'' || 20&nbsp;''(+72)'' || 16&nbsp;''(+76)'' || 12&nbsp;''(+80)'' || 6&nbsp;''(+86)'' || 0&nbsp;''(+92)'' || No
 |-
 |}
 [[File:Ammoracks_TigerH1.png|right|thumb|x250px|[[Ammo racks]] of the [[Tiger H1]] (identical)]]
 '''Note''':
 
-* Large sides empty: 29&nbsp;''(+63)'' shells.
+* Large sides empty: 28&nbsp;''(+64)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -119,7 +120,7 @@ The Tiger I should be played more as a bulky medium tank rather than a heavy tan
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,400 (150) || 900 || N/A || N/A
+| Coaxial || 2,400 (150) || 900 || - || -
 |-
 |}
 
@@ -200,6 +201,7 @@ Payment by the Japanese for the Tiger tank came into Henschel on 28 February 194
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Tiger I (Family)]]
 
 == External links ==

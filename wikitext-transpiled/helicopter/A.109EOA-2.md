@@ -36,7 +36,7 @@ Outfitting the A.109 with general payload options (TOW ATGMs, rockets, gunpods) 
 {{Specs-Heli-Armour}}
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
 
-The A.109 is not very survivable. Like many helicopters above and below its battle rating, it is prone to exploding into many pieces after a hit from an anti-air missile or a barage of anti-air fire. It does not have any armor. If your enemy is not very accurate and manages to damage you without hitting key components of the helicopter, you might luck out and be able to make it back to the base to repair. It is advised that you stay away from machine gun fire too, generally just stay away from everything that poses a threat, this is the only way to truly maximize your survivability.
+The A.109 is not very survivable. Like many helicopters above and below its battle rating, it is prone to exploding into many pieces after a hit from an anti-air missile or a barrage of anti-air fire. It does not have any armour. If your enemy is not very accurate and manages to damage you without hitting key components of the helicopter, you might luck out and be able to make it back to the base to repair. It is advised that you stay away from machine gun fire too, generally just stay away from everything that poses a threat, this is the only way to truly maximize your survivability.
 
 === Modifications and economy ===
 {{Specs-Economy}}

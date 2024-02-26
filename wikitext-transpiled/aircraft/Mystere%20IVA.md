@@ -10,7 +10,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
+
+The Mystere IVA was a major milestone for France in their process to upgrade their Air Force to a global power status. The Mystere IV was the first aircraft capable of transonic speeds in service with the French Air Force. Based upon the lessons learned from the Mystere II, it had very important upgrades in avionics and aerodynamics, helping the aircraft reach the desired speeds. The first 50 Mystere IVA production aircraft were powered by British Rolls-Royce Tay turbojets, while the remainder had the French-built Hispano-Suiza Verdon 350 version of that engine. In total, France operated 6 squadrons of Mystere IVs, most of which were purchased under a United States Offshore Procurement contract.
+
+Introduced in [[Update "Red Skies"]], the '''{{Specs|name}}''' follows a similar principle to delta wing fighters in War Thunder. It has a good top speed and relatively good engine, as well as good agility for dogfights, good high speed handling and excellent AOA (angle of attack) but it also means that it loses speed very quickly in sharp turns and other manoeuvres of the kind. It is armed with a pair of 30 mm DEFA cannons that have easy to learn ballistics and good damage output, but lack the fire rate of other cannons such as the Colt 20 mm cannons or 12.7 mm Browning HMGs found in many American fighters. The aircraft should avoid prolonged fights at all costs, using its good agility at high speeds to quickly point your gun at the enemy, and then maintain a steady course to regain the lost speed.
 
 == General info ==
 === Flight performance ===
@@ -167,6 +170,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AA-20 Nord missiles
 * 12 x T10 151 rockets
@@ -183,7 +187,8 @@ The AA-20 Nord air-to-air missiles are manually guided and not very agile, so th
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-In air realistic battles, the Mystere is a very deadly aircraft in the hands of a good pilot.
+
+In Air Realistic battles, the Mystere is a very deadly aircraft in the hands of a good pilot.
 
 Due to its very bad energy retention in manoeuvres, it is best used in more of a "boom and zoom" role, where it dives on unsuspecting enemies and delivers a quick death with the lethal 30 mm cannons. If forced to engage another aircraft that the Mystere is unable to escape, it performs best enacting a reversal, as the very good roll rate and poor energy retention will make it easy to make other aircraft overshoot. This is especially effective against MiG-15s and 17s, who will easily win a sustained turn-fight, but will have a hard time getting guns on target. Against more agile American aircraft, it is recommended to lure the plane as close as possible due to the poor speed. The majority of aircraft will easily be able to extend away after overshooting, so it is vital to equalize your energy states as much as possible, and be as close as possible for a firing solution once the enemy overshoots.
 
@@ -223,7 +228,17 @@ The M.D.454 IVa is equipped with an AN/APG-30 rangefinding radar located in the 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The Mystere IVA was used extensively by Israel throughout the late 50s, notably during the Suez Crisis of 1956. During combat missions there, the aircraft utilized superior performance to claim multiple MiG fighters, as well as a few de Havilland Vampires.
+The '''Dassault MD.454 Mystère IV''' was developed in the 1950s, as France's first transonic fighter in service. The aircraft had a very similar appearence to other Dassualt designs of the time, like the Ouragan, Mystere II and the Mystere III, however the Mystere IV was a newer design, much more improved over its predecessors, that solidified France as a major weapons manufacturer in the global market.
+
+'''Development'''
+
+The aircraft itself was based upon the Mystere II rather than in the Mystere III, however the similarities ended with the airframe and the fuselage. The new aircraft was designed to reach high speeds capable of matching the Soviet MiG-15/17s and American F-86s Sabres that started to become more and more frequent. This included improvements to the aircrafts aerodynamic design, with a more aggressive swept wing design and redesigned nose, as well as improvements to the avionics, navigation equipment and the introduction of a more powerful Hispano-Suiza Verdon 350 turbojet engine, although the first 50 units of the Mystere IVA used British Rolls-Royce Tay turbojets instead.
+
+'''Service History'''
+
+* ''France'': It operated, at its peak, six squadrons of this fighter. Most of the fighters were acquired by the US under an Offshore Procurement contract, when said contract ended, most of the fighters were retired to the United States, however in 1953 the US procured another contract for France to operate a total of 227 Mystere IVs. The aircraft participated in the Suez Crisis of 1956 with the French Air Force.
+* ''Israel'': Originally intending to acquire Mystere IIs, Israel changed its order to 24 Mystère IVs in 1955, which were delivered from April to June 1956, equipping 101 Squadron. A further 36 were delivered in August 1956, with a final aircraft, equipped for reconnaissance duties, delivered in September 1956. The aircraft participated in the Suez Crisis with the IDF for both air and ground attack duties, the Mysteres managed to score several kills against enemy MiG-15s, Mig-17s, Vampires with only a single aircraft lost, due to AA fire. It also participated in the Six Days War of 1967, when it was being considered retiring it in favour of the A-4 Skyhawk, in this war it was relegated to only ground attack missions due to its old age. It claimed three kills at the cost of 7 Mystere IVAs lost, 5 to AA fire and 2 due to enemy fighters.
+* ''India'': India procured a large number of Mystere IVs during the Indo-Pakistani War of 1965 and some were also used in the Indo-Pakistani War of 1971. The Mystere IVs from India were vastly outmatched, facing much more modern F-104 Starfighters, thus most of their actions were in raids against enemy airbases, destroying several F-104s, F-86s and cargo aircrafts in the ground, and doing close air support missions. While it was being retired after the end of the war, some were still in service in 1971, participating but just in a minor role, at the end all fighters were retired in 1973.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

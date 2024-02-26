@@ -14,7 +14,7 @@ In 1953-1954, there was multiple programs involving modifying the [[MiG-15bis]] 
 
 Introduced in [[Update 1.85 "Supersonic"]] as a [[wt:en/news/5924-development-shop-jet-packs-en|premium pack]], the MiG-15bis-ISH is arguably the best Soviet MiG-15 in-game, being at the same battle rating as the normal [[MiG-15]], and lower than the tech tree [[MiG-15bis]], the bis-ISH has access not only to a lot more ground-striking ordnance, but the powerful engine of the MiG-15bis, which more than offsets the added weight and drag of the comically large wing pylons.
 
-The MiG-15bis ISH was removed from sale after the 2019 [[wt:en/news/6464-shop-war-thunder-birthday-sale-en|Birthday sale]]. The {{PAGENAME}} has since been made temporarily available for purchase in-game ({{GE}}) during the [[wt:en/news/7279-special-day-of-the-russian-aerospace-forces-en|2021]] and [[wt:ru/news/15850-akciya-den-vvs-rossii-ru|2022]] "Day of the Russian Aerospace Forces" mini-events. 
+The MiG-15bis ISH was removed from sale after the [[wt:en/news/6464-shop-war-thunder-birthday-sale-en|2019 Birthday sale]]. It was since made temporarily available for purchase in-game ({{GE}}) during the [[wt:en/news/7279-special-day-of-the-russian-aerospace-forces-en|2021]] and [[wt:ru/news/15850-akciya-den-vvs-rossii-ru|2022]] "Day of the Russian Aerospace Forces" mini-events. It was reintroduced permanently for purchase in-game for the [[wt:en/news/8679-special-the-mig-15bis-ish-is-back-for-its-maiden-flight-anniversary-and-is-here-to-stay-en|2023 anniversary of its maiden flight]].
 
 == General info ==
 [[File:CockpitImage_MiG-15.jpg|thumbnail|right|250px|The MiG-15bis ISH's instrument panel.]]

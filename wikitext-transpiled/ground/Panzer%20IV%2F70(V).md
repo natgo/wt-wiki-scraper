@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] '''Sd.Kfz. 162/1''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''Panzer IV/70(V)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 162/1''') is the third variant of the Panzer IV medium tank-based tank destroyer family. The initial (V) represents the designer, Vomag. Approximately 930 to 940 units of this variant were built between August 1944 and April 1945, making it the most produced variant. The Panzer IV/70(V) was a formidable opponent, armed with the powerful, long-range 75 mm Panzerjägerkanone 42 L/70 tank gun that could outrange most opposing Allied tank guns.
+
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer IV/70(V) offers much better protection than its rival design, the [[Panzer IV/70(A)]]. However, it should only be used in defensive roles. Even with the 42 L/70 tank gun and 75 mm Panzerjägerkanone mounted on it, it was still a casemate tank destroyer. Maintain a safe distance from the adversary and utilize its powerful penetration and muzzle velocity to take out targets at a distance. Avoid direct engagements and let the other players take care of the fighting so the player can decide when and how to engage.
 
 == General info ==
 === Survivability and armour ===
@@ -189,6 +191,7 @@ The powerful armament of these vehicles made them quite popular with the Wehrmac
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pz_IV_L70 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

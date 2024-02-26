@@ -1,3 +1,8 @@
+{{About
+| about = medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = M26 (Family)
+}}
 {{Specs-Card
 |code=fr_m26_pershing
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update "Kings of Battle"]].
+Seeking out a replacement to the ubiquitous M4 Sherman, the US Army produced the T26E3 heavy tank after a long production run fraught with delays. Later re-designated the M26 Pershing, its arrival late in 1945 meant that it had little effect in the course of World War II. Due to their late arrival, and a comparatively large production run of 2212 tanks meant that the US Army soon found itself with a surplus of tanks it had little need for. Thus, most Pershings were used for the Korean war, or lent out to allies such as Belgium and France. While other allies retained on to their M26 fleet for longer, Belgium retaining it till 1969, France quickly swapped them out for M47 Pattons.
+
+The '''Medium Tank M26 Pershing''' was made available in the French ground tree in [[Update "Kings of Battle"]] . In comparison to the lighter, faster nature of French tanks such as the [[AMX M4]], the Pershing's play style is a considerable departure from previous vehicles. Additionally, its specifications are fairly average, not excelling in any one area but doing well enough in most. The M26 , while not slow, lacks speed to be a quick responder. Armour is similar, and slightly better than the [[AMX M4]]'s, but many of the higher-velocity cannons employed by other tanks at its rank can penetrate its armour. The 90mm gun present on the Pershing is quite devastating, especially when the M82 APHE is used. The APHE shell contains over 137g of TNT filler, almost always resulting in one shots - a phenomenon not commonly experienced in the French ground tree. However, the Pershing's shells lack the punch needed to go through the front glacis of most enemies it faces, including the Panther and even other American tanks including itself. While HVAP can alleviate this somewhat, its lack of angled penetration forces it to be used only for thick, flat armour. Ultimately, while requiring a great deal of skill from the player, the M26 can prove to be a capable tank in the right hands and situations.
 
 == General info ==
 === Survivability and armour ===
@@ -37,7 +44,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-ra
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=775|rbMinHp=442}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -60,10 +67,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-ra
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 70 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 70 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 20.0 || 27.7 || 33.6 || 37.2 || 39.5 || rowspan="2" | 9.75 || rowspan="2" | 8.62 || rowspan="2" | 7.95 || rowspan="2" | 7.50
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 12.5 || 14.7 || 17.9 || 19.7 || 21.0
 |-
 |}
 
@@ -102,7 +109,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-ra
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 600 (200) || 575 || -10°/+50° || ±120°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -111,7 +118,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-ra
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 5,000 (250) || 500 || - || -
 |-
 |}
 
@@ -124,9 +131,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-ra
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -141,15 +150,16 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French medium tank {{Battle-ra
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[M26 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

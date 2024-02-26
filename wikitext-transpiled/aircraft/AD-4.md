@@ -11,11 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]].
+The AD-4 Skyraider was an enhanced version of the AD-3 with a more powerful R-3350-26WA engine, strengthened landing gear, increased armament, and a better radar. It played a significant role in the Navy's ground strike missions during the Korean War. One notable air-to-air kill was achieved by a USMC AD-4 in 1953. The Skyraiders, commonly painted blue, were nicknamed the "Blue Plane" by enemy forces in Korea. They were usually shot down due to ground fire during low-altitude attacks. The aircraft also saw action in the Cathay Pacific VR-HEU Incident and later in the Vietnam War. A total of 372 AD-4s were built.
 
-The AD-4 is a thorough-bred ground attacker. It can be armed with a slew of deadly anti-ground weaponry ranging from several high payload bombs and HVAR rockets to a massive 56 Mighty Mouse rockets capable of pinpoint precision and deadly effect. Though lacking in flight performance, the AD-4's armament allows the pilot to annihilate anything that ends up in front of his guns; destroying enemy planes in very few hits and being able to destroy even light pillboxes and light tanks with the right ammunition. If there are ground targets to be destroyed, the American tree can offer no better attacker aircraft.
-
-The AD-4 is generally a sluggish aircraft, which should come to no surprise considering the engine output and weight of the aircraft. In sustained horizontal turn fights and all energy fights, the AD-4 will be out-manoeuvred quickly. Whilst it has speed, the AD-4 has a surprisingly high turn rate, though the high weight causes energy retention to be perhaps one of the worst of any aircraft in War Thunder.
+It was introduced in [[Update 1.75 "La Résistance"]]. The AD-4 is a thoroughbred ground attacker. It can be armed with a slew of deadly anti-ground weaponry ranging from several high payload bombs and HVAR rockets to a massive 56 Mighty Mouse rockets capable of pinpoint precision and deadly effect. Though lacking in flight performance, the AD-4's armament allows the pilot to annihilate anything that ends up in front of his guns; destroying enemy planes in very few hits and being able to destroy even light pillboxes and light tanks with the right ammunition. If there are ground targets to be destroyed, the American tree can offer no better attacker aircraft. The AD-4 is generally a sluggish aircraft, which should come to no surprise considering the engine output and weight of the aircraft. In sustained horizontal turn fights and all energy fights, the AD-4 will be out-manoeuvred quickly. Whilst it has speed, the AD-4 has a surprisingly high turn rate, though the high weight causes energy retention to be perhaps one of the worst of any aircraft in War Thunder.
 
 == General info ==
 === Flight performance ===
@@ -177,6 +175,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 12 x HVAR rockets
 * 56 x FFAR Mighty Mouse rockets
@@ -247,7 +246,7 @@ The most important piece of information to keep in mind while attacking an AD-4;
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The AD-4 Skyraider was an improved model of the AD-3. The main improvement came with a more powerful R-3350-26WA engine. It also featured stronger landing gear and an improved radar. The armament was increased to four 20 90mm cannons. Provisions were added for 14 Aero rocket launchers. 372 AD-4 Skyraiders were built.
+The AD-4 Skyraider was an improved model of the AD-3. The main improvement came with a more powerful R-3350-26WA engine. It also featured stronger landing gear and an improved radar. The armament was increased to four 20mm cannons. Provisions were added for 14 Aero rocket launchers. 372 AD-4 Skyraiders were built.
 
 AD Skyraiders made up the bulk of the Navy's ground strike sorties. The only Skyraider air-to-air kill during the war occurred on 16 June 1953. A USMC AD-4 from VMC-1, piloted by Major George H. Linnemeier and CWO Vernon S. Kramer, shot down a Polikarpov Po-2 biplane in that action. Often painted blue, the Skyraider was nicknamed the "Blue Plane" by enemy forces during the Korean War. Many Skyraiders were shot down by ground fire during the war while flying low-altitude ground attack missions.
 
@@ -257,6 +256,7 @@ Skyraiders later participated in the Cathay Pacific VR-HEU Incident and the Viet
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=douglas_ad_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -268,9 +268,11 @@ Skyraiders later participated in the Cathay Pacific VR-HEU Incident and the Viet
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * Douglas [[A2D-1|A2D]] ''Skyshark''
 
 ;Aircraft of comparable role, configuration and era
+
 * Aichi [[B7A2|B7A]]
 * Martin [[AM-1|AM]] ''Mauler''
 * Westland [[Wyvern S4|Wyvern]]

@@ -99,7 +99,7 @@ The {{PAGENAME}}'s battlefield performance is greatly assisted by its SAG MPDR-1
 
 One issue with the above mentioned attack strategy is when encountering an aircraft with a radar-warning receiver (RWR). The {{PAGENAME}}'s searching and tracking function will trigger their RWR, leading them to know a radar-equipped SPAA is present and will perform evasive manoeuvre such as using the terrain to mask itself. To prevent this, the {{PAGENAME}}'s search radar can be configured to use the Infrared Search and Track (IRST) feature, which tracks the enemy by its heat instead of by radar. This benefits by not notifying the enemy that a radar has got it locked, but the IRST feature may produce less accurate tracking than radar.
 
-Once the {{PAGENAME}} has gotten an aerial target locked on by radar or IRST, fire a Roland 2/3 missile once the enemy aircraft has gotten into range. The missile is controlled by "semi-automatic command to line of sight" (SACLOS) which only requires the player to place the crosshair onto target and the missile will head towards the crosshair's center. Pointing directly at an aerial target will only be simple if attacking a hovering helicopter of a jet heading right towards the {{PAGENAME}}, however most of the time when fighting fast-moving jets, the player-controlled crosshair may be able to track the aircraft faster than the missile. This will require the player to lead ahead of the aircraft with the crosshair, keeping an eye on the trailing missile to make sure its tracer is hovering right on top of the aircraft so that once it reaches the aircraft's range, it will detonate and take out or cripple the aircraft.
+Once the {{PAGENAME}} has gotten an aerial target locked on by radar or IRST, fire a Roland 2/3 missile once the enemy aircraft has gotten into range. The missile is controlled by "semi-automatic command to line of sight" (SACLOS) which only requires the player to place the crosshair onto target and the missile will head towards the crosshair's center. Pointing directly at an aerial target will only be simple if attacking a hovering helicopter or a jet heading right towards the {{PAGENAME}}, however most of the time when fighting fast-moving jets, the player-controlled crosshair may be able to track the aircraft faster than the missile. This will require the player to lead ahead of the aircraft with the crosshair, keeping an eye on the trailing missile to make sure its tracer is hovering right on top of the aircraft so that once it reaches the aircraft's range, it will detonate and take out or cripple the aircraft.
 
 Note that the Roland missiles can be fired from the {{PAGENAME}} without a radar lock in case of emergencies, however this may require players to work a little harder to keep the {{PAGENAME}}'s turret continually pointing towards the enemy aircraft as the search/track radar does give some assistance in keeping the locked enemy in front of the {{PAGENAME}} turret. That said, the advantage of the {{PAGENAME}}'s ability to fire without a lock means that the enemy aircraft's countermeasures like flares or chaff will not affect the Roland missile flight, keeping the probability of a hit narrowed down to the player's skill and the enemy aircraft's ability to evade.
 
@@ -128,6 +128,7 @@ Note that the Roland missiles can be fired from the {{PAGENAME}} without a radar
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flarakpz_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -135,6 +136,7 @@ Note that the Roland missiles can be fired from the {{PAGENAME}} without a radar
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

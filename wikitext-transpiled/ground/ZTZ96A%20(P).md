@@ -46,14 +46,15 @@ In fact, both ZTZ96A prototypes installed a JD-3 IR jammer during testing; while
 {| class="wikitable"
 ! Composite armour !! Frontal effective protection
 |-
-| Hull || '''Upper glacis:'''<br>350 mm ''Kinetic'' / 480 mm ''Chemical''
+| Hull || '''Upper glacis (ERA counted):'''<br>540 mm ''Kinetic'' / 1,050 mm ''Chemical''
 |-
 | Turret || '''Turret front:'''<br>400 mm ''Kinetic'' / 520 mm ''Chemical''
 |}
+
 {| class="wikitable"
 ! Explosive Reactive Armour !! Frontal effective protection !! Sides effective protection
 |-
-| Hull || '''FY-4:''' 140 mm ''Kinetic'' / 450 mm ''Chemical'' || N/A
+| Hull || '''FY-4:''' 180 mm ''Kinetic'' / 550 mm ''Chemical'' || N/A
 |-
 | Turret || N/A || '''FY-4:''' 50 mm ''Kinetic'' / 350 mm ''Chemical''
 |-

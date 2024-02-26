@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+A timeless classic, and an icon of delta-wing fighter design, the Mirage 2000C-S5 is the penultimate production variant of the "C" variant of the Mirage 2000. Unlike the earlier production models of the Mirage 2000C, this version comes equipped with an upgraded SNECMA M53-P2 engine, an Eclair chaff-flare dispenser to increase the number of countermeasures available, as well as an improved Thomson-CSF RDI radar that allowed the use of the much improved Matra Super 530D missile. For the time, it was a very important upgrade alongside the [[Mirage 2000C-S4|C-S4]] variant, since it allowed the Mirage 2000 to be at the same level of the latest variants of the MiG-29 and F-16 in terms of technology and weapon systems.
 
-A timeless classic, and an icon of delta-wing fighter design, the Mirage 2000C-S5 is the penultimate production variant of the "C" variant of the Mirage 2000. Unlike the earlier production models of the Mirage 2000C, this version comes equipped with an upgraded SNECMA M53-P2 engine, an Eclair chaff-flare dispenser to increase the number of countermeasures available, as well as an improved Thomson-CSF RDI radar that allowed the use of the much improved Matra Super 530D missile.
+It was introduced in [[Update "Drone Age"]]. The '''{{Specs|name}}''' is a very capable air superiority fighter. Compared to its competitors, it has access to a smaller payload in terms of air-to-air missiles and ground ordnance. However it compensates this with excellent flight performance, with very powerful engine in a light airframe. It has very good acceleration and top speeds, while it does have poor energy retention due to the delta wing configuration, it pulls very good AOA and is competitive in sustained dogfights, the powerful engine and low speed acceleration also allows the Mirage 2000 C-S5 to regain its speed quickly if necessary. Since it has access to a small amount of air-to-air missiles, it is recommended to stay close to the ground, since the Matra R530Ds are not well-suited for BVR combat when compared to the latest versions of the AIM-7 and the R-27. The Matra Magic 2 has very good close range performance, and a seeker with IRCCM, but it should be used at distances not higher than 3 km due to the limited range.
 
 == General info ==
 === Flight performance ===
@@ -176,6 +176,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x Matra R550 Magic 1 missiles
 * 2 x Matra R550 Magic 2 missiles

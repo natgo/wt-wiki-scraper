@@ -1,3 +1,8 @@
+{{About
+| about = French strike aircraft '''{{PAGENAME}}'''
+| usage = the other version
+| link = Super Etendard
+}}
 {{Specs-Card
 |code=etndard_4m
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -5,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]]. It was first conceived as a fighter for NATO's NMBR-1 fighter competition, where it lost against the Italian [[G.91 pre-serie]]. The French Navy, requiring a carrier-borne attacker, adopted the design, which was christened as the Etendard IVM. This is reflected in the Etendard's capability to dogfight other jet fighters while designated as a Strike Aircraft.
+Following a collaborative effort between Dassault Aviation and Breguet Aviation in the late 1950s to develop a new strike fighter meeting the requirements of the French Navy, the '''Etendard IVM''' entered service in 1962. The aircraft boasted a delta wing configuration and was equipped with a single SNECMA Atar 8 engine, affording it respectable speed and range. The Etendard IV played a notable role during the Cold War era as a carrier-based platform, carrying a variety of munitions, including air-to-surface missiles and anti-ship weapons. Despite its service longevity, the Etendard IVM gradually succumbed to obsolescence, with its final retirement from active duty occurring in the early 2000s, marking the end of an era for this stalwart of French naval aviation.
 
-The many lessons learnt to use the Etendard will be crucial for future French jets, which includes the [[Mirage F1C]].
+Introduced in [[Update 1.95 "Northern Wind"]], the Etendard shines as a true "jack of all trades yet master of none" at its battle rating. The aircraft has incredible guided CAS ordnance for its BR in ground mixed battles, and in air-to-air engagements, the aircraft can take lower end missiles and the powerful DEFA 552 cannons to utilize its incredible unloaded performance in dogfights. The many lessons learnt using the Etendard will be crucial for future French jets, and players who enjoy the Etendard should look forward to the [[Super Etendard]] following it in the tree, which as the name implies, is better in almost every way.
 
 == General info ==
 === Flight performance ===
@@ -56,7 +61,7 @@ The Etendard has good acceleration up to 1050 km/h, after which the aircraft ten
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 1,300 || 389 || 389 || ~11 || ~4
+| 1,263 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 1,263 || 389 || 389 || ~11 || ~4
 |-
 |}
 
@@ -66,7 +71,7 @@ The Etendard has good acceleration up to 1050 km/h, after which the aircraft ten
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 920 || < 750 || < 600 || N/A
+| < 920 || < 750 || < 600 || -
 |-
 |}
 
@@ -120,11 +125,11 @@ The Etendard has good acceleration up to 1050 km/h, after which the aircraft ten
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Cross}} || {{Tick}} || {{Tick}} || {{Cross}}
+| {{Cross}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
 |-
 |}
 === Suspended armament ===
@@ -173,6 +178,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 30 mm DEFA 552 cannons (120 rpg = 240 total)
 * 2 x 30 mm DEFA 552 cannons + 2 x AIM-9B Sidewinder missiles
 * 2 x 30 mm DEFA 552 cannons + 72 x SNEB type 23 rockets
@@ -219,7 +225,7 @@ The Etendard also has access to a DRAA 3D radar. A radar at this BR is a really 
 * Better energy retention than the Super Mystere B2
 * Access to AS-30 Nord MCLOS-guided missiles
 * Has a Ballistic Computer for rockets and bombs, making it a capable and accurate attacker
-* Access to a radar capable of detecting and tracking an enemy 13 km away
+* Access to an IFF-enabled radar capable of detecting and tracking an enemy 15 km away
 
 '''Cons:'''
 

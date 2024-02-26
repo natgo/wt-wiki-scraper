@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]]. The Tzefa A is an AH-1G in Israeli service. It has no modifications to the helicopter, and has the same performance as the [[AH-1G]].
+During the Yom Kippur War of 1973, Israel saw a gap in their doctrine and armament. They realized that they lacked fast response units and that helicopters could be the way to go. The first batch of AH-1s (called Tzefa in Hebrew) arrived at Israel in 1977. During its early days, the Tzefa saw most of its actions in Lebanon, suppressing enemy uprisings, countering enemy armour and attacking entrenched infantry in buildings and fortifications. They also saw extensive use against Syria in the 1982 Lebanon War where several trucks and tanks were destroyed. The Tzefa had no modifications over the American AH-1G, but was upgraded over the years up to the Tzefa E variant. This helicopters were eventually fitted with TOW ATGMs and due to the US arms embargo they were used alongside [[Lahatut|MD-500 Defenders (Lahatut)]].
+
+Introduced in [[Update "Danger Zone"]], the AH-1G Tzefa A has the same exact model and performance of the American AH-1G, thus they have the same performance. It's a fast helicopter, at its BR, it's quite agile but it lacks ATGMs unlike many helicopters. Instead of that, it only has access to rocket pods without ballistics computers. It also has 2 x 7.62 mm minguns and a 20 mm rotary cannon, but those are not very useful even against lightly armored targets. In Arcade Battles, the helicopter can be a little hard to level up, it could be used against enemy columns and positions but SPAA is very lethal at short ranges, so it's a good idea waiting for slower helicopters armed with ATGMs to take them out. In ground RB or SB, the Tzefa A can rush the frontline really quickly, and destroy a few targets if its flown with careful planning. Since SPAA can destroy you in a single salvo, it's a good idea using buildings and hills as cover and get close while the enemy is not engaging you.
 
 == General info ==
 === Flight performance ===
@@ -82,6 +84,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 28 x FFAR Mighty Mouse rockets
 * 76 x FFAR Mighty Mouse rockets

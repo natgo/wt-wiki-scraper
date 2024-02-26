@@ -59,13 +59,13 @@ What the {{PAGENAME}} lacks in performance and durability, it makes up for in ar
 === Offensive armament ===
 {{Specs-Heli-Offensive}}
 <!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-{{main|A-12.7 (12.7 mm)}}
+{{main|TKB-481 (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 1 x 12.7 mm A-12.7 machine gun, nose turret (900 rpg)
+* 1 x 12.7 mm TKB-481 machine gun, nose turret (200 rpg)
 
-The {{PAGENAME}} is armed with a single flexible Afanasev A-12.7 machine gun. This gun has a limited arc of only +- 30° horizontally, -55° and 8° vertically. The gun possesses a decent amount of ammunition (900) and a high rate of fire (1,100 rounds per minute). This machine gun is mostly effective against soft vehicles and ground targets, such as artillery emplacements, armoured cars, trucks, and light vehicles. It lacks the penetration to damage anything heavier than some light tanks' roof armour.
+The {{PAGENAME}} is armed with a single flexible TKB-481 machine gun. This gun has a limited arc of only +- 30° horizontally, -55° and 0° vertically. The gun possesses a decent amount of ammunition (200) and a high rate of fire (1,100 rounds per minute). This machine gun is mostly effective against soft vehicles and ground targets, such as artillery emplacements, armoured cars, trucks, and light vehicles. It lacks the penetration to damage anything heavier than some light tanks' roof armour.
 
 Due to the limited arc and the relatively low calibre, air-to-air engagements relying on this machine gun can be difficult. It works best as a defensive armament against other light and poorly armoured helicopters such as the Franco–German [[Alouette (Family)]] and the American [[UH-1 (Family)|Hueys]].
 

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The Mirage F1C was a result of an experiment, when a smaller swept wing design of the Mirage outfitted with the latest and more powerful SNECMA Atar 9K-50 turbojet engine garnered the interest of Dassault engineers as a possible future replacement to the existing Mirage III and Mirage 5 fighters. Dassault began conducting further design work under the official name Mirage F1 as part of a private venture. In late 1966, the first prototype conducted its maiden flight and the initial test results were positive. Shortly after the French Air Force expressed interest in the aircraft and adopted the development program. Entering official service with the French Air Force in March 1974, the Mirage F1 took part in their first combat operations a decade later flying sorties against insurgent forces in Chad. Mirage F1s also took part in French operations during the Gulf War in 1990. It was also operated by several countries like Spain, Morocco, Qatar, and Iraq.
+
+It was introduced in [[Update "Wind of Change"]]. The Mirage F1C has relatively mediocre flight performance, it is able to pull high G manoeuvres at high speeds but the airframe is not suited for high angle of attack manoeuvres. However, the wing design does allow the Mirage F1C to retain energy relatively well. The armament is nothing special, you do have access to 2 x Matra Magic 2 air-to-air missiles that are very hard to flare since they use IRCCM, however the other missiles may seem mediocre for a top tier jet. Thus, the F1 is better suited for a support role, using your heavy long-range missiles to attack enemies at high altitudes or surprising them from long ranges, specially with the IR guided missiles, since the Mirage F1's radar is not consistently capable of acquiring targets at low altitudes.
 
 == General info ==
 === Flight performance ===
@@ -195,6 +197,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 72 x SNEB type 23 rockets
 * 144 x SNEB type 23 rockets
@@ -290,6 +293,7 @@ Mirage_F1C_WTWallpaper006.jpg
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Mirage F1CT]]
 
 == External links ==

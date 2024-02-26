@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. This aircraft has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The Lavochkin La-7 was developed as an improved version of the successful La-5 fighter. It featured a new metal airframe and improved much improved flight performance. Despite initial issues with armament and engine reliability, it proved to be faster and more manoeuvrable than its predecessor. It excelled in engagements against German aircraft such as the Bf 109 and Fw 190. The La-7 was a popular choice among Soviet pilots during World War II, with Soviet ace Ivan Kozhedub achieving notable success while flying it. Post-war, it was eventually replaced by the La-9 prop fighter. It was to be originally armed with three 20mm cannons, but problems in the procurement of said weaponry forced the aircraft to retain the same 2 x 20mm ShVAK cannos as the La-5.
 
-The La-7 is an effective mid-low altitude interceptor. It has many unique capabilities that make it an exceptional fighter. As the successor of the [[La-5 (Family)|La-5]], it has improved aerodynamics.
+This aircraft has been in the game since the start of the Open Beta Test prior to Update 1.27. This aircraft has been in the game since the start of the Open Beta Test prior to Update 1.27. The La-7 is an effective mid-low altitude interceptor. It has many unique capabilities that make it an exceptional fighter. As the successor of the [[La-5 (Family)|La-5]], it has improved aerodynamics and a more capable flight performance. Like most soviet fighters, the La-7 is good at boom and zoom and dogfights, like with all prop fighters, try to have an energy or altitude advantage over your opponent when starting a fight. The La-7 is a competitive dogfighter, but it wont win against aircrafts like the Spitfire.
 
 == General info ==
 === Flight performance ===

@@ -1,3 +1,8 @@
+{{About
+| about = US jet fighter '''{{PAGENAME}}'''
+| usage = the other version
+| link = F-8E(FN) (France)
+}}
 {{Specs-Card
 |code=f-8e
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The United States Navy showed clear interest in expanding the capabilities of the Crusader series of aircraft as quickly as possible to expand its role in maritime operations and offer primitive close-air support capabilities. This led to the development of the F8U-2NE (later renamed the F-8E), which featured a larger nose cone, new AN/APQ-94 fire control radar, detachable pylons, a more reliable J57-P-20 engine, and guidance equipment for the AGM-12 Bullpup missiles. The first prototype, a modified F8U-1 (No. 143710), was flown on June 30, 1961, and the aircraft was quickly approved for use by the Navy. During the Vietnam War, the Marine Corps made extensive use of the F-8E, with squadrons like VMFA-235 considered to be among the best at using the aircraft in combat. 
+The United States Navy showed clear interest in expanding the capabilities of the Crusader series of aircraft as quickly as possible to expand its role in maritime operations and offer primitive close-air support capabilities. This led to the development of the F8U-2NE (later renamed the F-8E), which featured a larger nose cone, new AN/APQ-94 fire control radar, detachable pylons, a more reliable J57-P-20 engine, and guidance equipment for the AGM-12 Bullpup missiles. The first prototype, a modified F8U-1 (No. 143710), was flown on June 30, 1961, and the aircraft was quickly approved for use by the Navy. During the Vietnam War, the Marine Corps made extensive use of the F-8E, with squadrons like VMFA-235 considered to be among the best at using the aircraft in combat.
 
-The F-8E Crusader was introduced in [[Update "Direct Hit"]] as the second Crusader variant in the American tech tree.  Compared to the preceding [[F8U-2]], it has largely the same flight performance but improved ordnance options. The infrared-guided AIM-9D Sidewinder returns as a good option for dogfights and sneak attacks, but it can now utilize the radar-guided AIM-9C, which may be useful during head-on engagements. The ground attack options are vastly superior because of the addition of wing pylons. While the F8U-2 was limited to cheek-mounted Zuni rockets and its internal FFAR rocket tray, the F-8E can carry a decent bombload and AGM-12 Bullpup air-to-ground missiles, making it more capable as a multirole fighter. The F-8E can really be considered "The Last Gunfighter" in War Thunder because the succeeding [[F-4J Phantom II|F-4J Phantom]] is a very different aircraft to cap off the US naval jet line: a heavy twin-engine fighter lacking an internal gun and relying on powerful long-range missiles.
+The F-8E Crusader was introduced in [[Update "Direct Hit"]] as the second Crusader variant in the American tech tree.  Compared to the preceding [[F8U-2]], it has largely the same flight performance but improved ordnance options. The infrared-guided AIM-9D Sidewinder returns as a good option for dogfights and sneak attacks, but it can now utilize the radar-guided AIM-9C, which may be useful during head-on engagements. The ground attack options are vastly superior because of the addition of wing pylons. While the F8U-2 was limited to cheek-mounted Zuni rockets and its internal FFAR rocket tray, the F-8E can carry a decent bombload and AGM-12 Bullpup air-to-ground missiles, making it more capable as a multirole fighter. The F-8E can really be considered "The Last Gunfighter" in War Thunder because the succeeding [[F-4J Phantom II|F-4J Phantom]] is a very different aircraft to cap off the US naval jet line: a heavy twin-engine fighter lacking an internal gun and relying on powerful long-range missiles.
 
 == General info ==
 === Flight performance ===
@@ -126,11 +131,10 @@ As with most high tier jets, the first modification you want to pick up will be 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, nose-mounted (144 rpg = 576 total)
-** 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons + 60 x countermeasures
+* 4 x 20 mm Browning-Colt Mk12 Mod 3 cannons, nose-mounted (125 rpg = 500 total)
+* 60 x countermeasures
 
-The offensive armament of the F-8E consists of 4 x 20 mm Browning-Colt Mk12 Mod 3 autocannons, grouped into 2 selectable groups. The guns replaced the 20 mm M3 commonly used from the end of WW2 until the Korean war, and has a quick fire rate of 1,000 rpm, outputting 7.30 kg of shells per second towards the enemy. With 144 rounds per gun, this gives pilots of the F-8E 8.64 seconds of trigger time. If ammo capacity is a concern, pilots can select one group of 20 mm to fire at a time, doubling their trigger time. The guns do reliable damage and have a good velocity of 1,012 m/s, only slightly less than the [[M61 (20 mm)|20 mm M61]] found on later jets. This makes getting reliable gun kills easy for pilots.
+The offensive armament of the F-8E consists of 4 x 20 mm Browning-Colt Mk12 Mod 3 autocannons, grouped into 2 selectable groups. The guns replaced the 20 mm M3 commonly used from the end of WW2 until the Korean war, and has a quick fire rate of 1,000 rpm, outputting 7.30 kg of shells per second towards the enemy. With 125 rounds per gun, this gives pilots of the F-8E 8 seconds of trigger time. If ammo capacity is a concern, pilots can select one group of 20 mm to fire at a time, doubling their trigger time. The guns do reliable damage and have a good velocity of 1,012 m/s, only slightly less than the [[M61 (20 mm)|20 mm M61]] found on later jets. This makes getting reliable gun kills easy for pilots.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -190,6 +194,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 2 x AIM-9C Sidewinder missiles
@@ -238,7 +243,7 @@ The way you start a battle in the F-8E will depend on what you think the likely 
 
 If you judge the enemy team to likely have jets equipped with CW signal missiles, then going to high altitude is very risky; in this case it is better to fly at a lower altitude, probably no more than 2,000 m. This gives you a little bit of altitude to play with and puts you in a position where you can potentially use your AIM-9C missiles against targets above you, while being somewhat protected against enemy CW missiles (aircraft with pulse-Doppler radars will still be able to hit you though, so stay vigilant and be prepared to dive or notch). At low altitude you can use the F-8Es great manoeuvrability and powerful armament to win out against many enemies in a dogfight, though you must always keep an eye out for enemy missiles.
 
-The flight performance of the {{PAGENAME}} is similar enough to the preceding [[F8U-2]] that similar tactics should apply in a dogfight. The F-8E's instantaneous turn isn't the best, but it has great energy retention and sustained turn rate. Avoid scissors or any turn radius fight as the {{PAGENAME}}'s energy retention ability in this case will put the plane at a disadvantage because in a scissors, you will bleed less speed than the enemy and will end up in front of their guns. The plane's low-speed maneouvrability also isn't a strong point, so avoid using the air brakes to bleed speed. Rate fighting makes the most of the {{PAGENAME}}'s ability as in these extended, longer-lasting dogfights, the F-8E's superior energy retention will see that it has kept more speed than an enemy aircraft. In this case, even if the enemy has a better initial turn rate, they will lose significantly more speed until they won't be able to keep up in a sustained turn. The {{PAGENAME}} will start gaining on them, and they will either be forced to pitch down to gain speed and try to gain on you, or they will run away. In these cases, you can simply pitch down too and stay on their tail. Eventually, the dogfight will move to a very low altitude, where there is no longer anywhere for the enemy to pitch down, and you will outrate them and get guns on them. If you haven't noticed yet, a rate dogfight like this will last a while depending on your position, so it is recommended not to engage in one when there are other enemies in the area.
+The flight performance of the {{PAGENAME}} is similar enough to the preceding [[F8U-2]] that similar tactics should apply in a dogfight. The F-8E's instantaneous turn isn't the best, but it has great energy retention and sustained turn rate. Avoid scissors or any turn radius fight as the {{PAGENAME}}'s energy retention ability in this case will put the plane at a disadvantage because in a scissors, you will bleed less speed than the enemy and will end up in front of their guns. The plane's low-speed maneuverability also isn't a strong point, so avoid using the air brakes to bleed speed. Rate fighting makes the most of the {{PAGENAME}}'s ability as in these extended, longer-lasting dogfights, the F-8E's superior energy retention will see that it has kept more speed than an enemy aircraft. In this case, even if the enemy has a better initial turn rate, they will lose significantly more speed until they won't be able to keep up in a sustained turn. The {{PAGENAME}} will start gaining on them, and they will either be forced to pitch down to gain speed and try to gain on you, or they will run away. In these cases, you can simply pitch down too and stay on their tail. Eventually, the dogfight will move to a very low altitude, where there is no longer anywhere for the enemy to pitch down, and you will outrate them and get guns on them. If you haven't noticed yet, a rate dogfight like this will last a while depending on your position, so it is recommended not to engage in one when there are other enemies in the area.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -256,6 +261,7 @@ The flight performance of the {{PAGENAME}} is similar enough to the preceding [[
 * Good acceleration and climb rate
 * Has an Infrared Search and Track (IRST) sensor which assists in locating targets by finding their heat signatures
 * Has a variety of suspended air-to-ground ordnance
+* Upgraded engine over F8U-2 allows higher acceleration and top speed
 
 '''Cons:'''
 
@@ -263,6 +269,7 @@ The flight performance of the {{PAGENAME}} is similar enough to the preceding [[
 * Very likely to set on fire because of the fuel tank placement
 * Below average low level top speed compared to other supersonic competitors; can barely break Mach 1 at low altitude
 * Lacks a ballistic computer, which greatly limits its ground attack potential
+* Carries less ammo compared to F8U-2
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -276,7 +283,7 @@ The flight performance of the {{PAGENAME}} is similar enough to the preceding [[
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-8e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|tQhEl042QE8|'''The Shooting Range #275''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|9SmcQee4_Vw|'''F-8E: A Basic Review''' - ''Tim's Variety War Thunder''|tQhEl042QE8|'''The Shooting Range #275''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

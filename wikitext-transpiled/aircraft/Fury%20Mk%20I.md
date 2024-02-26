@@ -12,18 +12,9 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->	
-The '''{{Specs|name}}''' is a reserve rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->The first {{PAGENAME}} prototype was presented in 1927, with the first flight of a production model in March 1931 and entered service with the RAF in May of the same year, together with the [[Nimrod Mk I]] (a naval version of the Fury). The {{PAGENAME}} was in service with Yugoslavia, Iran, South Africa, as well as participated in the Spanish Civil War and World War II. A total of 117 {{PAGENAME}} fighters were produced. In 1937 the [[Fury Mk II]] was introduced with a more powerful engine. It replaced the {{PAGENAME}} in production and on airfields. 
 
-The Fury Mk I is one of the three reserve fighters in the British tree - the other two being the [[Nimrod Mk I]], as well as the [[Fury Mk II]]. 
-
-[[File:Fury Mk1 an trn 26 001.png|350px|thumb|left|The {{PAGENAME}} tumbling in a dogfight with a He 51 B-1.]]
-
-The first {{PAGENAME}} prototype was presented in 1927, with the first flight of a production model in March 1931 and entered service with the RAF in May of the same year, together with the [[Nimrod Mk I]] (a naval version of the Fury). The {{PAGENAME}} was in service with Yugoslavia, Iran, South Africa, as well as participated in the Spanish Civil War and World War II. 
-
-In the game, the {{PAGENAME}} is a slow fighter with insufficient weapons and not the best rate of climb, but with quite great maneuverability. The turning speed is better than most other biplanes, which gives it an advantage, but during active maneuvers, the speed is used up very quickly. Thus, after one full circle, it is impossible to stay at the same height, it is necessary to descend to maintain controllability of the aircraft. 
-
-A total of 117 {{PAGENAME}} fighters were produced. In 1937 the [[Fury Mk II]] was introduced with a more powerful engine. It replaced the {{PAGENAME}} in production and on airfields. 
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Fury Mk I is one of the three reserve fighters in the British tree - the other two being the [[Nimrod Mk I]], as well as the [[Fury Mk II]]. In the game, the {{PAGENAME}} is a slow fighter with insufficient weapons and not the best rate of climb, but with quite great manoeuvrability. The turning speed is better than most other biplanes, which gives it an advantage, but during active manoeuvres, the speed is used up very quickly. Thus, after one full circle, it is impossible to stay at the same height, it is necessary to descend to maintain controllability of the aircraft.  
 
 == General info ==
 === Flight performance ===

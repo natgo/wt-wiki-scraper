@@ -12,12 +12,14 @@
 {{Tree-Arrow}}
 {{Tree-Unit|fury_mk2}}
 }}
+{{Tree-Skip}}
 |
 {{Tree-Unit|gladiator_mk2_france}}
 {{Tree-Skip}}
 {{Tree-Unit|gladiator_mk2_silver}}
 {{Tree-Skip}}
 {{Tree-Unit|gladiator_mk2}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|nimrod_mk1}}
 {{Tree-Arrow}}
@@ -219,7 +221,7 @@
 {{Tree-Unit|tempest_mkv}}
 {{Tree-Arrow}}
 {{Tree-Unit|tempest_mk2}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Group|spitfire_mk14e|Spitfire F|
   {{Tree-Unit|spitfire_mk14e}}
@@ -234,7 +236,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|spitfire_f24}}
 }}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Group|seafire_group|Seafire|
   {{Tree-Unit|seafire_mk17}}
@@ -243,10 +245,10 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|sea_fury_fb11}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|hornet_mk3}}
-{{Tree-Arrow|2}}
+{{Tree-Arrow|3}}
 |
 {{Tree-Group|lancaster_group|Lancaster|
   {{Tree-Unit|lancaster_mk1}}
@@ -259,13 +261,15 @@
 {{Tree-Arrow}}
 {{Tree-Unit|shackleton_mr_mk_2}}
 }}
-{{Tree-Arrow|1}}
+{{Tree-Arrow|2}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|mb_5}}
 {{Tree-Skip}}
 {{Tree-Unit|hornet_mk1}}
 {{Tree-Skip}}
 {{Tree-Unit|spitfire_ix_plagis}}
+{{Tree-Skip}}
+{{Tree-Unit|strikemaster_mk88}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|wyvern_s4}}
@@ -362,6 +366,7 @@
 {{Tree-Line|VII Rank}}
 |
 {{Tree-Unit|f-4m_fgr2}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Arrow-Full|2}}
 |
@@ -380,6 +385,7 @@
 
 {{Tree-Line|VIII Rank}}
 |
+{{Tree-Unit|saab_jas39c_south_africa}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|tornado_f3}}

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update 1.39]].
+The '''{{Specs|name}}''' was the last production model of the famous Supermarine Spitfire. A total of 54 Mk 24 were manufactured, with 27 rebuilt from [[Spitfire F Mk 22|Mk 22]] models. The Mk 24 was largely similar to the previous Mk 22, with the exception of having two rear fuselage fuel tanks installed as well as different rocket mountings allowing for installation of up to eight RP-3 rockets as opposed to six on the Mk 22. The main armament also differed, as the Mk 24 was armed with four 20 mm Hispano Mk.V cannons as opposed to Mk.II on the Spitfire Mk 22.
 
-The Spitfire F Mk 24's Rolls-Royce Griffon engine is the fighter's greatest asset, but it is still very agile at medium speeds of around 400-500 km/h. When the Mk 24 cannot make use of its Griffon engine it is highly vulnerable, so pilots should take care to avoid situations where speed and acceleration is a non-factor in victory.
+The Spitfire F Mk 24 was introduced in [[Update 1.39]]. It is the pinnacle of piston-powered aircraft, one of the first superprops. The playstyle of Mk 24 is very similar to the previous Griffon-powered Spitfires, with the exception of different armament as the Mk 24 is armed with four 20 mm Hispano cannons. Early jet aircraft that pilots may come across are at a severe disadvantage when encountering the Spitfire, as it can out-turn and also catch the majority of these in a dive. The Mk 24 also possesses higher engine power due to the usage of 150 octane fuel, which is unavailable for the previous Mk 22.
 
 == General info ==
 === Flight performance ===

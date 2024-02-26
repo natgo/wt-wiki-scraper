@@ -63,7 +63,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* Great agility - one of the most maneuverable helicopters in the game
+* Great agility - one of the most manoeuvrable helicopters in the game
 * Small profile
 * Access to Thermal Imaging
 * Great stock performance - comes with full missile payload stock

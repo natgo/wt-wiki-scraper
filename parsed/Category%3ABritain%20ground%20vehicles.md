@@ -106,7 +106,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|uk_a_34_comet}}
 }}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Group|uk_a_22b_mk_3_churchill_1942|Churchill III/NA75|
   {{Tree-Unit|uk_a_22b_mk_3_churchill_1942}}
@@ -115,10 +115,10 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_a_22f_mk_7_churchill_1944}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|uk_a30_sp_avenger}}
-{{Tree-Arrow|4}}
+{{Tree-Arrow|3}}
 |
 {{Tree-Group|uk_ystervark_spaa|Ystervark/Crusader AA|
   {{Tree-Unit|uk_ystervark_spaa}}
@@ -127,10 +127,10 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|uk_bosvark}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|uk_concept3_ngac}}
-{{Tree-Arrow|4}}
+{{Tree-Arrow|3}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|uk_17_pdr_m10_achilles_norfolk_yeomanry}}
 {{Tree-Skip}}
@@ -138,14 +138,14 @@
 {{Tree-Skip}}
 {{Tree-Unit|uk_ac4_thunderbolt}}
 {{Tree-Skip}}
+{{Tree-Unit|uk_a_34_comet_iron_duke}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|uk_a_33_excelsior}}
 {{Tree-Skip}}
 {{Tree-Unit|uk_a_22f_mk_7_churchill_crocodile}}
 {{Tree-Skip}}
 {{Tree-Unit|uk_tog_2}}
-{{Tree-Skip}}
-{{Tree-Unit|uk_a_34_comet_iron_duke}}
 {{Tree-Skip}}
 {{Tree-Unit|uk_ram_90mm_aa}}
 {{Tree-Skip}}
@@ -298,33 +298,46 @@
 {{Tree-Arrow}}
 {{Tree-Unit|uk_challenger_2_tes}}
 }}
-{{Tree-Arrow}}
-{{Tree-Group|uk_challenger_2_bn|Challenger 2BN/2E|
-  {{Tree-Unit|uk_challenger_2_bn}}
-{{Tree-Arrow}}
-{{Tree-Unit|uk_challenger_2e}}
-}}
-{{Tree-Skip}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|uk_vickers_mk7}}
-{{Tree-Skip}}
 |
-{{Tree-Skip}}
 |
 {{Tree-Unit|uk_stormer_hvm}}
-{{Tree-Arrow}}
-{{Tree-Unit|uk_adats_m113a3}}
-{{Tree-Skip}}
+{{Tree-Arrow|2}}
 |
 {{Tree-Unit|uk_ttd}}
-{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|uk_challenger_1_mk_3_gulf}}
 {{Tree-Skip}}
 {{Tree-Unit|uk_challenger_II_yt_cup_2019}}
 {{Tree-Skip}}
+{{Tree-Unit|uk_challenger_2_megatron}}
 |
 {{Tree-Unit|uk_t_90s_bheeshma}}
+
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Group|uk_challenger_2_bn|Challenger 2BN/2E|
+  {{Tree-Unit|uk_challenger_2_bn}}
+{{Tree-Arrow}}
+{{Tree-Unit|uk_challenger_2e}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|uk_challenger_2_lep}}
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Unit|uk_adats_m113a3}}
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Skip}}
+|
 {{Tree-Skip}}
 
 {{Tree-End}}

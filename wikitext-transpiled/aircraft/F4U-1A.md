@@ -188,7 +188,7 @@ Even slight damage to the engine will result in the Corsair's performance being 
 * Great top speed for its rank
 * Good high-speed manoeuvrability
 * Powerful armament with high ammo count
-* Can mount bombs for use against ground targets
+* Can mount bombs for use against ground targets and bases
 * M2 guns can penetrate pillboxes with AP bullets
 * Decently strong; can take a few hits
 * Great diving characteristics
@@ -205,6 +205,7 @@ Even slight damage to the engine will result in the Corsair's performance being 
 * Big target, easy to hit
 * Climb rate is a huge downgrade from the F4F-3 and F4F-4 when stock
 * Can be easily taken out by other players from behind
+* Airframe is relatively weak
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

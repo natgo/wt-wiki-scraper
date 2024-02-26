@@ -6,9 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The '''{{Specs|name}}''' was a subvariant of the D.500 series of aircraft developed by the French Air Ministry in the early 1930s. The D.501 used a different powerplant and armament compared to the D.500, instead of the regular Hispano-Suiza 12Xbrs engine, it used the 12Xcrs, that allowed mounting a more powerful armament, in the form of a 20 mm cannon as well as a couple of machine guns. For the time of its introduction, autocannons were very rare in regular fighters, since most used a pair of light machine guns, as such the armament could be considered one of the best for its time. A total of 160 D.501s were produced by the time of WWII, with a very limited service in the front line.
 
-The D.501 is an all-metal mono-wing aircraft with an open cockpit and fixed landing gear. Built in the mid 1930s, it was one of the main French fighter aircraft until it was replaced by Morane-Saulnier M.S.406 aircraft in 1939. When playing SB (or AB and RB in cockpit view) this aircraft offers excellent visibility, only limited by the position of the wings. This aircraft has 600 rounds of ammunition between two machine guns and 60 rounds of 20 mm ammunition. This aircraft can really do some damage when gun convergence is set between 250 and 350 m.
+It was introduced in [[Update 1.73 "Vive la France"]]. The D.501 is an all-metal mono-wing aircraft with an open cockpit and fixed landing gear. Built in the mid 1930s, it was one of the main French fighter aircraft until it was replaced by Morane-Saulnier M.S.406 aircraft in 1939. When playing SB (or AB and RB in cockpit view) this aircraft offers excellent visibility, only limited by the position of the wings. This aircraft has 600 rounds of ammunition between two machine guns and 60 rounds of 20 mm ammunition. This aircraft can really do some damage when gun convergence is set between 250 and 350 m.
 
 == General info ==
 === Flight performance ===
@@ -151,6 +151,7 @@ By the outbreak of WW2, aircraft of the D.500 series were more than outdated by 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=d_501 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -158,6 +159,7 @@ By the outbreak of WW2, aircraft of the D.500 series were more than outdated by 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

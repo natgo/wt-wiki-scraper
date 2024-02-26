@@ -49,34 +49,35 @@ Like many utility helicopters, Gazelle does not have any kind of extra protectio
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|HJ-8A|FS70|Type 57-1|QJK99-12.7-1 (12.7 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 36 x Type 57-1 rockets
-* 14 x FS70 rockets
-* 4 x HJ-8A missiles
-* 2 x 12.7 mm QJK99-12.7-1 machine guns (1,000 rpg = 2,000 total)
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="20%" | 1 !! width="20%" | 2
 | rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 12.7 mm QJK99-12.7-1 machine guns (1,000 rpg)
+! [[QJK99-12.7-1 (12.7 mm)|12.7 mm QJK99-12.7-1]] machine guns (1,000 rpg)
 | 1 || 1
 |-
-! FS70 rockets
+! [[FS70]] rockets
 | 7 || 7
 |-
-! Type 57-1 rockets
+! [[Type 57-1]] rockets
 | 18 || 18
 |-
-! HJ-8A missiles
+! [[HJ-8A]] missiles
 | 2 || 2
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 36 x Type 57-1 rockets
+* 14 x FS70 rockets
+* 4 x HJ-8A missiles
+* 2 x 12.7 mm QJK99-12.7-1 machine guns (1,000 rpg = 2,000 total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

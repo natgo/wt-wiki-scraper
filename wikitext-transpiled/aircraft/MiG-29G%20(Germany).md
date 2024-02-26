@@ -1,3 +1,8 @@
+{{About
+|about = jet fighter '''{{PAGENAME}}'''
+|usage = other versions
+|link = MiG-29 (Family)
+}}
 {{Specs-Card
 |code=mig_29_9_12g
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -78,7 +83,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Kings of Battle"]], is a major
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
+| colspan="2" | Klimov RD-33 series 2 || 2
 | colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -87,7 +92,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Kings of Battle"]], is a major
 ! Weight (each) || colspan="2" | Type
 ! _m fuel || __m fuel || __m fuel
 |-
-| ___ kg || colspan="2" | ___
+| 1,050 kg || colspan="2" | Jet
 | _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
@@ -127,7 +132,65 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
+
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-29.png]]</div>
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| || 4 || 4 || || 4 || 4 ||
+|-
+! [[FAB-250M-54 (250 kg)|250 kg FAB-250M-54]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[OFAB-250Sh (250 kg)|250 kg OFAB-250Sh]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[FAB-500Sh (500 kg)|500 kg FAB-500Sh]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[ZB-500 incendiary]] bombs
+| || 1 || 1 || || 1 || 1 ||
+|-
+! [[S-8KO]] rockets
+| || 20 || 20 || || 20 || 20 ||
+|-
+! [[S-24B]] rockets
+| || 1 || 1 || || 1 || 1 ||
+|-
+! [[R-27R1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-27T1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-27ER1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-27ET1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-73E]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
+! 1,520 l drop tanks
+| || || || 1 || || ||
+|-
+| colspan="8" | Maximum permissible loadout weight: 3,090 kg<br>Maximum permissible wing load: 1,545 kg<br>Maximum permissible weight imbalance: 1,200 kg
+|-
+|}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
@@ -157,49 +220,44 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The MiG-29G is a very efficient air superiority plane. It is based on the MiG-29A variants. One can say it is the same plane. The main difference between it and the early A variants is the addition of the R-73E and R-27ET missiles. The export R-73E is just an export of the R-73 with a few extra degrees of offbore, and the R-27ET is the longer range variant of the R-27T, similar to how the R-27ER is to the R-27R. It is a direct upgrade, comprised of the best of all worlds. 
+The MiG-29G is a very efficient air superiority plane. It is based on the MiG-29A variants.The main difference between it and the early A variants is the addition of the R-73E and R-27ET missiles. The export R-73E is just an export of the R-73 with a few extra degrees of off-bore, and the R-27ET is the longer range variant of the R-27T, similar to how the R-27ER is to the R-27R. It is a direct upgrade, comprised of the best of all worlds.
 
-In Air Realistic Battles, the MiG-29G has multiple possible playstyles, which it can easly fit into due to its overall versatility. It is not the best in Ground RB due to it's non existent guided munitions. However it can be used as a superiority fighter in GRB, where the Stealth and Close range playstyles that are described below would work best, due to the nature of GRB where there are no markers.
+In Air Realistic Battles, the MiG-29G has multiple possible playstyles, which it can easily fit into due to its overall versatility. It is not the best in Ground RB due to its non existent guided munitions. However it can be used as a superiority fighter in GRB, where the Stealth and Close range playstyles that are described below would work best, due to the nature of GRB where there are no markers.
 
-* Long Range BVR - This playstyle uses the famous R-27ER missile, capable of hitting enemies at up to 40km, and 30-35km reliably in Air RB matches. This playstyle can also work identically on MiG-29A's due to their similar weight, thrust, radar and armament.  If you want to play like this, you need to climb as much as you can during a match, and use your radar to find enemies high up and then fire the R-27ER upwards, so it gains more speed. The MiG-29SMT would technically be better at this due to its radar, which can look directly left and right, meaning you can notch while guiding missiles, but the additional weight of the SMT makes it arguably worse, since it can't climb as high and as fast as the MiG-29A or G, limiting the range and speed of the R-27ER, or how early you can fire them.  In general, this playstyle is quite hard to nail down, because for example, an enemy F-14B has powerful engines, and can launch AGM-54s before you can even see him on the MiG-29's radar. not to forget they can also guide onto you without the F-14 locking you.  After you have fired your R-27ER slightly upwards, you should start pulling to one side, so the enemy missiles start turning, and after around 5-10 seconds, you should pull the complete other direction, to further bleed the energy of enemy missiles coming at you. You need to do this while '''ensuring''' that the enemy remains locked. if you lose lock, it will be hard to re acquire lock due to the slightly primitive nature of the MiG-29G's radar. After you kill or miss, you should change direction again, and then continuing your match however you wish.
-* Close quarters - This playstyle is quite simple. It means taking 6x R-73E missiles, going straight into the "furball" and shooting missiles at enemies. There is not much theory or many tips about this one.   You should always try to lead the R-73E's even though they have thrust vectoring. You should always fire them from the sides or rear aspects only to maximize your chance of scoring a hit. Front Aspect can work at extreme close range, but in general above 500m one flare in front aspect is too much for the R-73E's IRCCM. it works best at below 1km in side aspect and 1.5km in rear aspect, where the missiles becomes nearly un-flareable. You should always check your surroundings and keep good situational awareness to survive in the furball.   The amazing manoeuvrability of the MiG-29G also makes gun kills quite easy. You should always try to use your gun wherever you can rather than missiles. the R-73's will have a very hard time hitting below 500m at low speed, during manoeuvering.
-* Another variation of the Close quarters playstyle - Taking 2x R-27ER missiles, and 4x R-73E missiles. You still don't need to have the radar on alerting enemies of your existance, but you should keep it on the "HMD" setting, letting you lock players without using "SRC".   Firing the R-27ER missiles at targets coming at you, which are not hugging the ground are generally free kills. just remember you should fire the R-27ER between 4.5km and 8km so the enemy has no chance to escape. If used correctly this can grant you 2 free kills.
-* Stealth - This is more of a "fun" playstyle, which increases the difficulty of getting kills. It involves using 2x R-27ET, along with the standard 4x R-73E missiles. In this playstyle you should only use the IRST of the MiG-29. Searching and Locking enemies with the IRST does not alert them, therefore you can find and sneak up on players who are flanking or are not paying attention.   This "playstyle" involves flanking while using the IRST to find enemies before they find you on the flanks. staying low ensures you won't be targeted by the enemies trying to do BVR (they can see you, but you are just not a good target. If they fire at you, staying low also ensures the proxi of the enemy missile won't detonate due to being too close to the ground). Due to how spotting works in this game, enemies can see you at around 6.84km for a lvl 75 expert pilot. Your IRST can see enemies in front aspect at a maximum range between 5km and 12km. 5km for a non afterburning target with low engine temperature, and about 12 for very hot targets, that are also afterburning. it becomes up to 35km in rear aspect.   After flanking the furball, you can climb to around 6km, and start firing R-27ET's from above enemies that are not fighting. This ensures they are unlikely to look directly up at you, unlikely to drop flares (the IRCCM of the R-27ET is good, but is useless at long range due to the FOV nature if it). The missile is also unlikely to lock onto a friendly players that passes to close aswell. keep in mind the R-27ET has the same flight performance of the R-27ER, it's range is limited by the seeker.  This playstyle is generally for when you are bored of firing easy missiles and want a bit of a switch, requiring a more interesting approach. This is not efficient or recommender if you want to spade the plane, or want to get as much RP as possible.
+* Long Range BVR - This play style uses the famous R-27ER missile, capable of hitting enemies at up to 40 km, and 30-35 km reliably in Air RB matches. This play style can also work identically on MiG-29A's due to their similar weight, thrust, radar and armament. If you want to play like this, you need to climb as much as you can during a match, and use your radar to find enemies high up and then fire the R-27ER upwards so it gains more speed. The MiG-29SMT would technically be better at this due to its radar, which can look directly left and right, meaning you can notch while guiding missiles, but the additional weight of the SMT makes it arguably worse, since it can't climb as high and as fast as the MiG-29A or G, limiting the range and speed of the R-27ER, or how early you can fire them. In general, this play style is quite hard to nail down because, for example, an enemy F-14B has powerful engines and can launch AGM-54s before you can even see him on the MiG-29's radar, not to mention they can also guide onto you without the F-14 locking you. After you have fired your R-27ER slightly upwards, you should start pulling to one side so the enemy missiles start turning and after around 5-10 seconds, you should pull the complete other direction, to further bleed the energy of enemy missiles coming at you. You need to do this while ensuring that the enemy remains locked. If you lose lock, it will be hard to re-acquire lock due to the slightly primitive nature of the MiG-29G's radar. After you hit the target or miss it, you should change direction again, and then continuing your match however you wish.
+* Close quarters - This playstyle is quite simple. It means taking 6 x R-73E missiles, going straight into the furball and shooting missiles at enemies. There is not much theory or many tips about this one. You should always try to lead the R-73E's even though they have thrust vectoring. You should always fire them from the sides or rear aspects only to maximize your chance of scoring a hit. Front Aspect can work at extreme close range, but in general above 500 m, one flare in front aspect is too much for the R-73E's IRCCM. It works best at below 1 km in side aspect and 1.5 km in rear aspect, where the missiles become nearly unflareable. You should always check your surroundings and keep good situational awareness to survive in the furball. The amazing manoeuvrability of the MiG-29G also makes using guns on target quite easy. You should always try to use your gun wherever you can rather than missiles at extreme close ranges. The R-73's will have a very hard time hitting below 500 m at low speed during manoeuvring.
+** Another variation of the Close quarters play style - Taking 2 x R-27ER missiles, and 4 x R-73E missiles. You still don't need to have the radar on alerting enemies of your existence, but you should keep it on the "HMD" setting, letting you lock players without using "SRC". Firing the R-27ER missiles at targets coming at you, which are not hugging the ground are generally free targets. Just remember you should fire the R-27ER between 4.5 km and 8 km so the enemy has no chance to escape. If used correctly this can grant you 2 targets destroyed.
+* Stealth - This is more of a "fun" play style, which increases the difficulty of destroying the enemies. It involves using 2 x R-27ET, along with the standard 4 x R-73E missiles. In this play style you should only use the IRST of the MiG-29. Searching and Locking enemies with the IRST does not alert them, therefore you can find and sneak up on players who are flanking or are not paying attention. This "play style" involves flanking while using the IRST to find enemies before they find you on their flanks. Staying low ensures you won't be targeted by the enemies trying to do BVR (they can see you, but you are just not a good target). If they fire at you, staying low also ensures the proximity fuse of the enemy missile won't detonate due to being too close to the ground). Due to how spotting works in this game, enemies can see you at around 6.84 km for a level 75 expert pilot. Your IRST can see enemies in front aspect at a maximum range between 5 km and 12 km. 5 km for a non-afterburning target with low engine temperature, and about 12 for very hot targets, and up to 35 km in rear-aspect if their hot engines are in afterburners. After flanking the furball, you can climb to around 6 km, and start firing R-27ET's from above enemies that are not fighting. This ensures they are unlikely to look directly up at you, unlikely to drop flares (the IRCCM of the R-27ET is good, but is useless at long range due to the FOV nature if it). The missile is also unlikely to lock onto a friendly players that passes to close as well. Keep in mind the R-27ET has the same flight performance of the R-27ER, its range is limited by the seeker. This play style is generally for when you are bored of firing easy missiles and want a bit of a switch, requiring a more interesting approach. This is not efficient or recommended if you want to spade the plane, or want to get as much RP as possible.
 
 The MiG-29G remains one very efficient and scary plane to face. It has a good arsenal of reliable weapons, along with good flight performance, an HMD, and IRST. It is a very fun plane to fly and a real apex predator that can fill most if not all air superiority roles.
 
-<nowiki>*</nowiki>The MiG-29G is the only MiG-29 in game that has the english voice "Betty". There are situations where Betty can tell you of an approaching enemy, missile, or is telling you useful things, which can help you in battle, so it might be a good idea to keep the RWR voice enabled.
+<nowiki>*</nowiki>The MiG-29G is the only MiG-29 in game that has the English voice "Betty". There are situations where Betty can tell you of an approaching enemy, missile, or is telling you useful things, which can help you in battle, so it might be a good idea to keep the RWR voice enabled.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-* Light Airframe - it has the same flight performance of the early MiG-29's
-* R-73E missiles - they are very superior and reliable. Best dogfighting and close range missile in game.
-* R-27 missiles - ER is very reliable at long range
-* Manoeuvrability - Easly one of the most manoeuvrable planes, which allow you to throw it in the air in ways other planes can't handle.
-* Engine power - Extremely powerful engines that allow you to climb fast, and stay in doghfights for however long you need.
-
-*
+* Retains the flight model of the MiG-29 9.12A, which gives it the best MiG-29 airframe for flight performance
+* Quick acceleration and high top speed thanks to the high Thrust to Weight ratio provided by the RD-33 engines and light airframe
+* Effective sensor suite with potent radar and IRST coupled with HMD slaving
+* Satisfactory amount of radar modes that allow the MiG-29G to track targets effectively at most closure rates and ranges
+* HMD system which allows the MiG-29G to make high off-bore missile launches and utilise its radar/IRST suite at close range with ease
+* Effective missile loadout with potent long range and short range options in the form of the R-27 and R-73E
 
 '''Cons:'''
 
-* Missiles - R-73E is not good at long range due to how it's IRCCM works. R-27ET can very easly go for flares or friendly targets when fired from long range.
-* Fuel - Very very fuel hungry. You need to use a drop tank if you wish to use the afterburner often, or if you want endurance.
-* Pilot - A low level pilot with low G-tolerance and stamina will severely handicap the MiG-29, making it hard to sustain turns at high speeds.
-* Radar - You don't have a radar that can compete with the Western fighters in range, features and SRC/ACM "zones".
-* Countermeasures - You are limited to 60 countermeasures total, which is very few when compared to other top tier planes.
-* RWR - Primitive RWR. Works with "zones" and doesn't tell you what is locking you, like western RWR's.
-
-*
+* IR missiles don't have any difficulty tracking the MiG-29G as the RD-33 engines burn very hot
+* High fuel consumption due to the RD-33 Series 2 engines, as much as the fuel efficiency is slightly improved over the regular RD-33 it is still poor at full afterburner
+* High energy bleed while turning and inability sustain a rate fight with other airframes at its BR like the F-16A, F-16C and even F-14B
+* Only 60 countermeasures, which can be too restricting for top-tier battles
+* The SPO-15 RWR found on the MiG-29G is very primitive and notably lacks sectors in the rear hemisphere. Additionally, the RWR does not display threat types and cannot detect J band radars. This leaves the MiG-29G particularly vulnerable to enemy MiG-23 aircraft as the RWR cannot detect any radar missile launches from them
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 The Mikoyan MiG-29G, a variant of the famed MiG-29 fighter jet, has a rich history marked by its development, deployment, and combat use, reflecting the evolving landscape of military aviation and geopolitical dynamics.
 
-The MiG-29, developed by the Soviet Union's Mikoyan Design Bureau in the 1970s, was a direct response to the American F-15 and F-16 fighters. It was designed to be a highly maneuverable air superiority fighter, boasting advanced avionics and weapons systems for its time. With a twin-engine setup and a distinctive leading-edge root extension (LERX), the MiG-29 quickly became known for its agility and speed.
+The MiG-29, developed by the Soviet Union's Mikoyan Design Bureau in the 1970s, was a direct response to the American F-15 and F-16 fighters. It was designed to be a highly manoeuvrable air superiority fighter, boasting advanced avionics and weapons systems for its time. With a twin-engine setup and a distinctive leading-edge root extension (LERX), the MiG-29 quickly became known for its agility and speed.
 
 The MiG-29G variant emerged in a unique context. After the reunification of Germany in 1990, the Luftwaffe inherited several MiG-29s from the East German Air Force. These aircraft, which were originally the MiG-29A variant, underwent substantial modifications to meet NATO standards, resulting in the designation MiG-29G. This transition symbolized a significant moment in military aviation history, as it marked the integration of a quintessentially Soviet fighter jet into a Western military alliance.
 
@@ -213,16 +271,19 @@ In conclusion, the story of the MiG-29G is not just about a fighter jet's techni
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mig_29_9_12g Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+
+* [[MiG-29 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

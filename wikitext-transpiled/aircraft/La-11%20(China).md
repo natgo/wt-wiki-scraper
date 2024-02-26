@@ -146,7 +146,7 @@ Overall, La-11 provides Chinese aviators with an alternative to ROCAF's US-built
 * High rate of fire and great 1-second burst mass make short bursts very lethal, suitable for deflection shots
 * Admirable low-altitude performance below 4,000 m
 * Light grey paint scheme is effective at hiding within clouds or close to a foggy ground
-* Fantastic rear view with minimal obstructions
+* Good rear view with minimal obstructions
 * Has a gyro gunsight
 
 '''Cons:'''

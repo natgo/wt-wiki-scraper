@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British motor gun boat {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test. With the split of the naval tech trees in [[Update "New Power"]], {{PAGENAME}} was moved to the coastal fleet tech tree.
+The '''Dark Aggressor (FPB 1102)''' was a Dark-class fast patrol boat built for the Royal Navy in the mid-1950s. The boats featured alloy framing and wooden decks and skin. 27 were ordered in 1954 but nine were cancelled a year later. The ships featured interchangeable armament which meant they could serve in both motor gun boat and motor torpedo boat roles, depending on their task. They were also the only diesel engine-powered fast patrol boats in the entire Royal Navy. Dark Aggressor was launched on 9th December 1954 and sold on 3rd October 1961.
+
+The Dark Aggressor was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test. With the split of the naval tech trees in [[Update "New Power"]], {{PAGENAME}} was moved to the coastal fleet tech tree. Unlike her sister Dark Adventurer which is depicted in the motor gun boat configuration featuring a single 114 mm gun on the bow and 40 mm Bofors autocannon on the stern with no torpedo launchers, the Dark Aggressor is depicted in the motor torpedo boat configuration with four 533 mm torpedo tubes and 40 mm autocannon on the bow.
 
 == General info ==
 === Survivability and armour ===

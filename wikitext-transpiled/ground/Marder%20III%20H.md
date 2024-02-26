@@ -45,6 +45,8 @@ Being a modified Pz.38(t) tank, it is one of the more mobile of the German tanks
 
 {{tankMobility|abMinHp=213|rbMinHp=133}}
 
+The Marder can gain a good amount of speed on flat ground (about 40-45 km/h). However, it does not take well to hills, even the slightest elevation can drop your top speed to 25 km/h or less, making you an easy target when trying to reach a firing position, especially in open areas. If faced with a large hill, go around it. It will take you the same or less time to find a way around then struggle up the hill. If there is no choice but the hill, perform a "zig-zag" up the hill to prevent the vehicle from getting bogged down.
+
 === Modifications and economy ===
 {{Specs-Economy}}
 

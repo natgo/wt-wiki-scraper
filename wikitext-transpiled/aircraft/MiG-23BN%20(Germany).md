@@ -239,12 +239,14 @@ If the enemy SPAAGs, interceptors or in some occasion, helicopters with AAMs (na
 
 * Lacks flares
 * Lacks AAMs
+* Bombs won't drop above Mach 1
 * Relatively small ammo pool for the fixed 23 mm cannon
 * Rather large size makes it easier to hit
 * RWR only shows radar pings and locks from 4 sides
 * Due to swept wing design it is hard to aim at high speeds
-* The plane can only reach up to mach 1 below 5000 meters
+* The plane can only reach up to Mach 1 below 5,000 m
 * At high altitudes the engine's performance drops significantly
+* Gunsight lacks information to effectively use CCRP in simulator battles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

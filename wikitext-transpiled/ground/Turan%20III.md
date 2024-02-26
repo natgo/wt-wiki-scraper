@@ -1,3 +1,8 @@
+{{About
+| about = Italian medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Turan (Family)
+}}
 {{Specs-Card
 |code=it_43m_turan_3
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -88,6 +93,10 @@ The 43M Turán III was a Hungarian medium tank of World War II. It was developed
 | 21&nbsp;''(+11)'' || ''15 (+17)'' || ''9 (+23)'' || 1&nbsp;''(+31)'' || __
 |-
 |}
+[[File:TuranIIIrack.PNG|thumb|420x420px|[[Ammo racks]] of the Turan III]]
+'''Notes''':
+
+* Turret empty: 21 (+11) shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -136,7 +145,10 @@ The 43M Turán III was a Hungarian medium tank of World War II. It was developed
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_43m_turan_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

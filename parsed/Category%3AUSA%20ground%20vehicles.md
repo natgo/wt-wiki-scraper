@@ -8,6 +8,7 @@
 {{Tree-Unit|us_m3_stuart}}
 {{Tree-Arrow}}
 {{Tree-Unit|us_m3a1_stuart}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|us_m2_medium}}
 {{Tree-Skip}}
@@ -15,6 +16,7 @@
 {{Tree-Unit|us_lvt_a_1}}
 {{Tree-Arrow}}
 {{Tree-Unit|us_m22_locust}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|us_halftrack_m13}}
 {{Tree-Arrow}}
@@ -26,6 +28,7 @@
 {{Tree-Unit|us_m8_scott}}
 {{Tree-Arrow}}
 {{Tree-Unit|us_halftrack_m3_75mm_gmc}}
+{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|us_m2a4_1st_armor_div}}
 {{Tree-Skip}}
@@ -284,10 +287,8 @@
 {{Tree-Unit|us_m3a3_bradley}}
 {{Tree-Arrow}}
 {{Tree-Unit|us_hstv_l}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|us_m1a1_hc_abrams}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|us_m1_abrams}}
 {{Tree-Arrow}}
@@ -296,23 +297,14 @@
 {{Tree-Arrow}}
 {{Tree-Unit|us_m1_ip_abrams}}
 }}
-{{Tree-Arrow}}
-{{Tree-Group|us_abrams_a2_group|M1 A2/A2 SEP|
-  {{Tree-Unit|us_m1a2_abrams}}
-{{Tree-Arrow}}
-{{Tree-Unit|us_m1a2_sep_abrams}}
-}}
-{{Tree-Skip}}
+{{Tree-Arrow|4}}
 |
 {{Tree-Unit|us_lav_ad}}
 {{Tree-Arrow}}
 {{Tree-Unit|us_xm_975_roland}}
-{{Tree-Arrow}}
-{{Tree-Unit|us_adats_bradley}}
-{{Tree-Skip}}
+{{Tree-Arrow|4}}
 |
 {{Tree-Unit|us_m1128_mgs}}
-{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|us_m1128_wolfpack}}
 {{Tree-Skip}}
@@ -320,6 +312,7 @@
 {{Tree-Skip}}
 {{Tree-Unit|us_m1a1_aim_abrams}}
 {{Tree-Skip}}
+{{Tree-Unit|us_m1a1_hc_usmc}}
 |
 {{Tree-Unit|us_losat_ccv}}
 {{Tree-Skip}}
@@ -332,6 +325,29 @@
 {{Tree-Unit|us_merkava_mk_3d}}
 {{Tree-Skip}}
 {{Tree-Unit|us_m1a1_abrams_yt_cup_2019}}
+
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Group|us_abrams_a2_group|M1 A2/A2 SEP|
+  {{Tree-Unit|us_m1a2_abrams}}
+{{Tree-Arrow}}
+{{Tree-Unit|us_m1a2_sep_abrams}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|us_m1a2_sep2_abrams}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|us_adats_bradley}}
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Skip}}
+|
 {{Tree-Skip}}
 
 {{Tree-End}}

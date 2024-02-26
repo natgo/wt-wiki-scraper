@@ -47,13 +47,15 @@ The Pr. 206 is armed with 2 double-barrel turrets, the AK-230. These weapons hav
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|53-56 (533 mm)|BB-1 depth charge}}
 
-The Pr. 206 is armed with 4 single-tube torpedo launchers. These are your main weapon against heavily armoured threats or when doing sneak attacks at distance. They have a max range of 8 km (13 km with torpedo mode) and can be used at almost point-blank, the torpedo must travel 50 m at minimum to be armed (most of the time "point-blank" engagements will be between 100-500 m). Depending on the map, game mode and captain's discretion, torpedo depth can be adjusted in order to achieve multiple tasks. However, the launchers are fixed to the hull, meaning the hull has to be turned in order to launch the torpedoes.
+The Pr. 206 is armed with 4 single-tube torpedo launchers with '''533 mm 53-56 torpedoes'''. These are your main weapon against heavily armoured threats or when doing sneak attacks at distance. They have a max range of 8 km (13 km with torpedo mode) and can be used at almost point-blank, the torpedo must travel 50 m at minimum to be armed (most of the time "point-blank" engagements will be between 100-500 m). Depending on the map, game mode and captain's discretion, torpedo depth can be adjusted in order to achieve multiple tasks. However, the launchers are fixed to the hull, meaning the hull has to be turned in order to launch the torpedoes.
 
 '''1-meter depth''' - This is the most universal depth used for all types of engagements, being in deep water or at shallow waters. This depth is capable of hitting all sorts of vessels, including PT boats. The main downside is that enemy ships can see the water trail made by the torpedo, which can make enemy vessels evade or fire at the torpedo.
 
 '''4-meter depth''' - This is the recommended depth when on deep water trying to do long range sneaky engagements to big ships (most of them have bulkheads more than 4 m under the waterline). This is one of the riskier techniques as there is no way to launch them on shallow waters (most shallow water maps have water depth of 2-3 m). Only the captain and the team will be able to see the torpedo symbol while traveling close to them, and it will not leave any visible water trail compared to the 1-meter depth torpedo.
 
-The Pr. 206 has access to BB-1 depth charges, but these are useless in the current state of the game.
+The Pr. 206 has access to '''BB-1 depth charges''', but these are all but useless in the current state of the game.
+
+Note: Near to the roll-off depth charge rack are 4 similar looking cylindrical objects in a side drop rack. These are actually MDSh smoke canisters (Морская дымовая шашка), which weigh 40-45 kg, have a diameter of 41 cm, and a length of 48 cm. There are 3 versions of the identical canister, BDSh-5, BDSh-15 or MDSh.
 
 === Radar ===
 [[File:Pr. 206 radars.png|thumb|Red: MR-102 search radarBlue: MR-104 fire control radar]]

@@ -122,23 +122,23 @@ Furthermore, even in the best circumstances, the high fuse sensitivity makes man
 '''Pros:'''
 
 * Accurate and decently powerful gun
-* Great gun depression
+* Good gun depression
 * Good mobility
-* APCR ammo has very high speed and good penetration, making shooting at long range easier
-* Armour is fairly decent, can protect reliably against lower-ranked tanks
+* APCR ammo has very high speed and good penetration, making shooting at long-range easier
+* Armour is fairly decent and can protect reliably against lower-calibre guns
 
 '''Cons:'''
 
-* Penetration is a bit lacking, as is post-penetration against things in up-tiers
-* Awful turret traverse speed
-* Flat armour with little slope, weak side armour
-* Large commander's cupola, often sticking out above the terrain, drawing enemy attention
-* Rather high fuse sensitivity for such a lacklustre cannon
+* Average to low armour penetration with regular ammunition
+* Poor turret traverse speed
+* Flat armour with little slope, thin side armour
+* Large commander's cupola which can stick out above the terrain and receive fire
+* Rather high shell fuse sensitivity relative to the cannon's power
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 ===Development===
-The '''Panzerkampfwagen III''' medium tank or the '''Panzer III''' was developed in the 1930s. Starting in early 1934, Heinz Guderian set down some specifications for a new tank, which Army Weapons Department took up to design the tank to weigh no more than 24,000 kilograms with a top speed of 35 km per hour. This tank's role was to be the main tank of the German army and was expected to destroy opposing tanks, as opposed as a tank made to destroy anti-tank guns and opposing infantrymen, which the [[Panzer IV]] took up in.
+The '''Panzerkampfwagen III''' medium tank or the '''Panzer III''' was developed in the 1930s. Starting in early 1934, Heinz Guderian set down some specifications for a new tank, which Army Weapons Department took up to design the tank to weigh no more than 24,000 kilograms with a top speed of 35 km per hour. This tank's role was to be the main tank of the German army and was expected to destroy opposing tanks, as opposed to a tank made to destroy anti-tank guns and opposing infantrymen, which the [[Panzer IV]] took up in.
 
 Daimler-Benz, Krupp, MAN, and Rheinmetall produced prototypes meeting the specifications and the Daimler-Benz model was chosen after testing in 1936-1937. The Panzer III model used a leaf-spring suspension in its early models (Ausf. A - Ausf. D) before utilizing a six-wheeled torsion-bar suspension in the [[Pz.III E|Ausf. E]] and beyond. The Panzer III had a crew of five people, the commander, gunner, loader, driver, and assistant driver. The best feature of the Panzer III during its introduction that is the most overlooked was the three-man turret, which was not as common at the time. This frees the commander to be able to effectively command the tank while maintaining situational awareness rather than be burdened by the role of a loader or gunner, improving the combat effectiveness of the tank. Despite this rather advanced design, the turret did not have a turret basket for the crew. It was a proven design and production began in May 1937. The total number of Panzer IIIs tanks constructed in its production life was 5,774 units (excluding [[StuG III F|StuG III]] variant).
 
@@ -146,16 +146,16 @@ Daimler-Benz, Krupp, MAN, and Rheinmetall produced prototypes meeting the specif
 The Panzer III started with only 15 mm of armour on all sides, this was quickly upgraded to 30 mm on the front, side, and rear on the Ausf. D, E, F, and G models. Then the Ausf. H placed an additional 30 mm of armour onto the front hull as an interim solution before the '''Panzer III Ausf. J''' gave the Panzer III a 50 mm armour thickness on the front and rear. The Panzer III Ausf. J still retained the 50 mm KwK 38 cannon from the [[Pz.III F|Ausf. F]], which provided much-needed firepower over the 37 mm KwK 36. The Panzer Ausf. J had a 300 PS Maybach HL 120 TRM engine that gave it a top speed of about 40 km/h (25 mph) with an operational range of 155 km (96 mi.).
 
 ===Combat usage===
-The Panzer III Ausf. J gave the German army better armour for their Panzer III and with a better gun. However, it was still considered under-gunned to the Soviet contemporary [[T-34 (1941)|T-34]] and [[KV-1 (L-11)|KV-1]] tanks as the 50 mm KwK 38 was not powerful enough to penetrate these tanks frontally with normal ammo. This requires the use of APCR, which was in low supply. The Soviet [[T-26]] and [[BT-5|BT series]] light tanks were still easily taken care of and there were still in larger quantities than the T-34s and KVs, but T-34 production was kicking off and it won't be long before the T-34 becomes the main tank of the Red Army.
+The Panzer III Ausf. J gave the German army better armour for their Panzer III and with a better gun. However, it was still considered under-gunned by the Soviet contemporary [[T-34 (1941)|T-34]] and [[KV-1 (L-11)|KV-1]] tanks as the 50 mm KwK 38 was not powerful enough to penetrate these tanks frontally with normal ammo. This requires the use of APCR, which was in low supply. The Soviet [[T-26]] and [[BT-5|BT series]] light tanks were still easily taken care of and they were still in larger quantities than the T-34s and KVs, but T-34 production was kicking off and it won't be long before the T-34 becomes the main tank of the Red Army.
 
-The Panzer III still needed improvements if it ever was to go up against the more modern tanks and Germany needed it to stay in service as long as possible as their new tanks are being developed. The next variant featured additional armour and a better 50 mm cannon, the 50 mm KwK 39, on the [[Pz.III J1|Panzer III Ausf. J1]]. The armour had an additional 20 mm offset armour in the front hull and turret, plus the 50 mm KwK 39 featured a longer barrel than the 50 mm KwK 38, increasing its penetration values.
+The Panzer III still needed improvements if it ever was to go up against the more modern tanks and Germany needed it to stay in service as long as possible as their new tanks were being developed. The next variant featured additional armour and a better 50 mm cannon, the 50 mm KwK 39, on the [[Pz.III J1|Panzer III Ausf. J1]]. The armour had an additional 20 mm offset armour in the front hull and turret, plus the 50 mm KwK 39 featured a longer barrel than the 50 mm KwK 38, increasing its penetration values.
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
 {{Navigation-First-Simple-Line}}
-One of the serial modification to the Pz.Kpfw.III light tank, 1,549 of these tanks were produced from March to October, 1941.
+One of the serial modifications to the Pz.Kpfw.III light tank, 1,549 of these tanks were produced from March to October 1941.
 
-The armour plating installed on tanks of the Ausf.H modification was a temporary measure. Tanks of the Pz.Kpfw.III Ausf.J modification began to be released in March, 1941. The thickness of the single-layer, homogeneous armour of the front and rear plates was 50 mm. The design of the spherical machine gun installation had to be modified due to the increase in the thickness of the armour plates. A large number of less significant changes were also made. The first vehicles released were added to the arsenal of the African Corps, but the overwhelming majority entered divisions that were performing combat operations in the incipient war with the Soviet Union.
+The armour plating installed on tanks of the Ausf. H modification was a temporary measure. Tanks of the Pz.Kpfw.III Ausf. J modification began to be released in March 1941. The thickness of the single-layer, homogeneous armour of the front and rear plates was 50 mm. The design of the spherical machine gun installation had to be modified due to the increase in the thickness of the armour plates. A large number of less significant changes were also made. The first vehicles released were added to the arsenal of the African Corps, but the overwhelming majority entered divisions that were performing combat operations in the incipient war with the Soviet Union. Towards the middle to late stages of the war, the Soviet Union captured large numbers of German vehicles including Pz.III Ausf. Js and would put them into use against their former owners.
 {{Navigation-End}}
 
 == Media ==
@@ -173,10 +173,16 @@ The armour plating installed on tanks of the Ausf.H modification was a temporary
 {{Youtube-gallery|UtpM_1j4G0c|'''The Shooting Range #338''' - ''Pages of History'' section at 04:01 relates the Soviet assessment of the German Pz.III J.}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+===== Other vehicles of the Panzer III series: =====
+
+* [[Pz.III (Family)]]
+** [[T-III (USSR)]]
+** [[Pz.III J1]]
+
+===== Vehicles of similar configuration: =====
+
+* [[Pz.IV (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

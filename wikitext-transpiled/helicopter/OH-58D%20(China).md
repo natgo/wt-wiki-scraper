@@ -1,3 +1,8 @@
+{{About
+| about = attack helicopter '''{{PAGENAME}}'''
+| usage = the other version
+| link = OH-58D
+}}
 {{Specs-Card
 |code=oh_58d_china
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -18,13 +23,13 @@ Introduced in [[Update "Sons of Attila"]] and marking the arrival of ROCA helico
 {| class="wikitable" style="text-align:center"
 |-
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 1,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 |-
 ! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}}
+| 215 || 203 || rowspan="2" | {{Specs|ceiling}}
 |-
 ! Upgraded
 | ___ || ___
@@ -96,26 +101,26 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=oh_58d_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
-{{Youtube-gallery|Vy3fyYWNToA|'''OH-58 kiowa Warrior ULTIMATE Review''' - ''Bob Dickinson''}}
+{{Youtube-gallery|Vy3fyYWNToA|'''OH-58 Kiowa Warrior Ultimate Review''' - ''Bob Dickinson''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[OH-58D]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8452-development-oh-58d-headwatch-en|[Devblog] OH-58D: Headwatch]]
 
 {{AirManufacturer Bell}}
 {{China helicopters}}

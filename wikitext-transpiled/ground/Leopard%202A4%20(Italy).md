@@ -1,3 +1,8 @@
+{{About
+| about = medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Leopard 2 (Family)
+}}
 {{Specs-Card
 |code=it_leopard_2a4
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -127,10 +132,19 @@ It's advisable to primarily rely on the best available APFSDS round for engaging
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|MG3A1 (7.62 mm)}}
+{{main|FN MAG 60-40 (7.62 mm)|MG3A1 (7.62 mm)}}
 
 The 2A4 is equipped with one pintle-mounted machine gun and one coaxial machine gun. These can be used as an anti-air deterrent or for clearing out light obstacles and crew from open vehicles.
 
+{| class="wikitable" style="text-align:center" width="50%"
+|-
+! colspan="5" | [[FN MAG 60-40 (7.62 mm)|7.62 mm FN MAG 60-40]]
+|-
+! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
+|-
+| Pintle || 2,000 (200) || 600 || -10°/+75° || ±180°
+|-
+|}
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[MG3A1 (7.62 mm)|7.62 mm MG3A1]]
@@ -138,8 +152,6 @@ The 2A4 is equipped with one pintle-mounted machine gun and one coaxial machine 
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
 | Coaxial || 4,600 (200) || 1,200 || N/A || N/A
-|-
-| Pintle || 2,000 (200) || 1,200 || -10°/+75° || ±180°
 |-
 |}
 
@@ -182,15 +194,17 @@ Considering the above, a Leopard 2A4 player should utilise its great mobility an
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_leopard_2a4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
 * [[Leopard 2 (Family)]]
-* [[Leopard 2A4]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

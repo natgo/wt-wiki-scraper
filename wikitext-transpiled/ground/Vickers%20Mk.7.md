@@ -23,6 +23,16 @@ The tank is not only well balanced in the 3 main categories, but is also armed w
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
+The stat card is a lie.
+[[File:Vickers 7 surviving but crippled.jpg|thumb|right|In good position Vickers 7 is near immortal, but remember that enemy can simply break the tank instead. Call friends!]]
+The tank actually has hardened RHA panels behind the front exterior and a lot of composite lists sandwiched between them. Even the gun mantlet has at least 250 mm RHA protection, UFP has at least 300 mm RHA and the turret has anywhere between 350 to 480 mm RHA against kinetic shells. While it isn't perfect, it will often deflect low quality APFSDS. 
+
+Protection against chemical ammunition is also very high, although not perfect, turret and UFP being almost always capable to deflect even superior USSR HEAT-FS (only really reliably penetrable at the bottom portion) and completely blocking the rest. 
+
+Armour profile is not perfect, so it is possible to fire at the hull roof from tall tank or high ground (200 mm RHA overall, but no chemical shielding), the turret neck (exposed weakspot with only 6 RHA, vulnerable to any overpressure and autocannons), optics (weird black square on top-left when looking at the tank from the front, 50-90 RHA), or simply fire any heavy chemical shell/ATGM at the very top (windows have poor overpressure shielding and are likely to give in to any amount of damage, at best having 35 RHA). The turret back is also poorly protected, with only 20 mm RHA and side fake panels shielding it, allowing any sufficiently strong HE or autocannon shell to obliterate turret crew. Although the ammo rack is easy to hit, it consists of inert part of the shells (darts), so it won't do much damage, if any, to the crew itself when hit.
+
+What makes {{PAGENAME}} really dangerous, is the ability to abuse high ground to become semi-indestructible. At 60 degrees, and especially at long range (above kilometer), the only places on the turret that are guaranteed to be penetrated by medium quality APFSDS like DM23 are the gun mantlet and the optics. It may even block weak ATGM at this point. Combined with high movement speed of this particular tank make it actually able to take a good position in time, unlike Challenger 1, making it a more worthy successor to the Chieftain 10, even if it's armour profile is less reliable.
+
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
@@ -62,6 +72,10 @@ The tank is not only well balanced in the 3 main categories, but is also armed w
 
 {{tankMobility|abMinHp=2,032|rbMinHp=1,327}}
 
+By British standards, the tank is extremely fast for how much armour it has. Firstly the tank quickly reaches 40 km/h, then accelerates towards 60 km/h (in AB quickly, in RB somewhat slowly). It can easily drive 60 km/h anywhere afterwards, and if not turned around or going uphill for a while it will accelerate to 80 km/h.
+
+It can also reverse quite quickly with -33 km/h (-36 km/h in AB), acceleration heavily depending on the driver crew skill.
+
 === Modifications and economy ===
 {{Specs-Economy}}
 
@@ -72,7 +86,11 @@ The tank is not only well balanced in the 3 main categories, but is also armed w
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|L11A5 (120 mm)}}
 
-The Mk.7 uses the same 120 mm L11A5 rifled gun as the [[Challenger Mk.3]]. Shell loadout is identical and works well for mid-Cold War era tanks such as the [[Type 90]], [[Leopard 2A4]], [[T-64B]]/[[T-72A]]/[[T-80B]], etc., but may struggle when fighting more modern vehicles such as the [[Leopard 2A5]], [[T-80U]], [[Leclerc]], etc.
+The Mk.7 uses the same 120 mm L11A5 rifled gun as the [[Challenger Mk.3]].
+
+The turret rotation speed is slightly faster, but vertical gun targeting speed is much slower. The base reload speed with first stage ammo rack is a second slower than the Challengers as well. While it isn't fatal, loss of the ready rack advantage may put the tank in a spot where others can fire back at it twice. When fighting over a capture point, immediate ready rack resupply on a cap is necessary to keep up with others.
+
+Shell loadout is identical, early shell works well for mid-Cold War era tanks such as the [[Type 90]], [[Leopard 2A4]], [[T-64B]]/[[T-72A]]/[[T-80B]], etc., but may struggle when fighting more modern vehicles such as the [[Leopard 2A5]], [[T-80U]], [[Leclerc]], etc. To properly fight in an uptier and to be able to penetrate these tanks at least at 500 m range the L26 shell is required.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -155,7 +173,9 @@ Due to the longer ranges compared to the urban combat, the Vickers Mk.7 is able 
 
 ''Sniper:''
 
-Thanks to the high velocity stock ammunition, the Vickers Mk.7 is able play as a sniper in long range maps. This, with the addition of the laser rangefinder and thermal imaging sights, makes the Vickers Mk.7 a fearful sniper as only certain tanks will be able to pierce your turret past 500 m. Be aware as, despite having a strong hull, always try to get in hulldown position in order to hide the frontal weakspots of your tank (lower frontal plate, turret ring). At longer ranges, enemies will take more time in order to hit and damage the Vickers Mk.7 if hulldown.
+Thanks to the high velocity stock ammunition, the Vickers Mk.7 is able play as a sniper in long range maps. This, with the addition of the laser rangefinder and thermal imaging sights, makes the Vickers Mk.7 a fearful sniper as only certain tanks will be able to pierce your turret past 500 m. Be aware and despite having a strong hull always try to get in hulldown position in order to hide the frontal weakspots of your tank (lower frontal plate, turret ring). At longer ranges, enemies will take even more time in order to hit and damage the Vickers Mk.7 when it is hulldown.
+
+You can always push your advantage by looking for any kind of high ground, be it a hill, an enormous dune that towers over the map, or any other. This will make Vickers 7 nearly impenetrable at its own BR and below, allowing you to take time to actually aim. Remember to move away after firing - although the turret armour is very tough, it is only barely able to stop APFSDS of your BR, giving shells with ~230+ mm penetration at 60 degrees to have a random low chance of penetrating the turret anyway. This is particularly important in AB, where enemies can see the yellow crosshair and may decide to "play the lottery" against you for the lack of better options. This tactic gives no real advantage against shells with extreme angled penetration of the Soviet or tanks of the next rank in general.
 
 ''Flanking:''
 
@@ -168,18 +188,19 @@ As much as crazy it sounds, the Vickers Mk.7 has an impressive speed of 75 km/h 
 
 * Accurate main gun with HESH and smoke as support rounds
 * Excellent mobility in all directions, also effective off-road mobility
-* Respectable turret armour compared to some tanks at the battle rating; fearful when in downtier
+* Respectable turret armour compared to some tanks at the battle rating; extremely powerful on high ground; fearful when in downtier
 * Decent stock APFSDS shell (394 mm at 100 m at 0°)
 * Powerful gun optics (4.0x - 12.0x FOV: 18-6), gun depression, TOGS and laser range finder: excellent tank hunting capabilities
 * Two-piece ammunition is stored separately; reduced risk of detonation
+** Inert ammo rack behind the turret
 
 '''Cons:'''
 
-* Large and tall profile; difficult to conceal from tanks, aircraft or helicopters
+* Large and tall profile; difficult to conceal from tanks, aircraft or helicopters, no ESS to evade guided missiles
 * Difficulties when fighting sloped armour at long distances, chiefly Soviet [[T-72 (Family)]] or [[Leopard 2A6]]
-* Ammo rack behind the turret with no blowout panels
-* Armour protection nearly useless against high velocity FIN-shells (e.g., [[Leopard 2A4|DM13]], [[T-64B|3BM42]], [[PTZ89|DYW1]])
-* Weak spots in hull and turret: gun mantlet, driver position and armourless sides and weak LFP inherent from [[Leopard 2 (Family)]]
+* Even turret armour will not block modern APFSDS of the similar BR (like DM23 or DM33) unless angled, tanks that have shells with over 250 mm penetration at 60° like [[T-64B]] with 3BM42 and [[PTZ89]] with DYW1 will penetrate even at long range anyway
+* Weak spots in hull and turret: gun mantlet, turret back, driver position and armourless sides and weak LFP inherent from [[Leopard 2 (Family)]]
+** Poor insulation against overpressure damage, can even be overpressured from behind through the ammo rack on top of "normal" weak spots
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

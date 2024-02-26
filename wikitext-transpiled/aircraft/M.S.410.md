@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The '''M.S.410''' was meant to be an upgrade over the M.S.406 after its introduction in 1939. The engineers included a new wing design, improved offensive armament and a new fixed radiator, among other minor upgrades. The changes were minor and the plane was not much different compared to its predecessor, the aircraft never managed to be used by the French Air Force since its production started just before France's capitulation in June 1940. The aircraft was however, was produced in limited numbers under German supervision in Vichy France, also a few M.S.406 airframes were converted to the 410.
+
+Introduced in [[Update 1.73 "Vive la France"]], the {{Specs|name}} behaves like many other French aircraft of its rank and BR, it has a relatively mediocre armament and good agility at the cost of top speed and durability. The M.S.410 has an acceptable climb rate that should be used to maintain initiative and energy fight slower opponents, since many fighters, specially German and American fighters will be able to outrun you. Due to its armament, the {{Specs|name}} is not well suited to pursuing bombers, instead, try saving the ammo of your 20 mm cannon for fighters and critical shots.
 
 == General info ==
 === Flight performance ===
@@ -141,11 +143,13 @@ Production of the M.S.410 was temporarily halted after the German occupation, bu
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ms_410c1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 {{Skin-gallery |market|ugcitem_1000285|M.S.410 (D-3801).jpg|Camo "D-3801 J-132, 13 Fliegerkompanie"}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

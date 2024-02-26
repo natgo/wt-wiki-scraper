@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]]. The Gepard 1A2 differs from the Gepard by the addition of 4 Stinger surface-to-air missiles.
+The '''Flugabwehrkanonenpanzer (Flakpanzer) Gepard 1A2''' is an improved modification of the standard [[Gepard|Flakpanzer Gepard]]. It has a new fire control system that increases engagement range while decreasing reaction time. Four Fliegerfaust 2 Stinger missiles, two on each side of the turret, were also added.
+
+Introduced in [[Update "Apex Predators"]], the Flakpanzer Gepard 1A2 is similar to the standard Flakpanzer Gepard in terms of gameplay. The addition of four Fliegerfaust 2 Stinger missiles extends its engagement range slightly but should not be relied on to hit aircraft as they are fairly easy to evade.
 
 == General info ==
 === Survivability and armour ===
@@ -135,7 +137,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Gepard performs best when stalking enemy aircraft, scanning the sky for a target and waiting until it gets in range of the radar, and only attacking when the radar can provide a lead estimation, thus preserving ammunition which is critical since the cannons will expend it quickly in combat situations. Helicopters will more than often chose to keep a reasonable distance, usually outside your radar's range but this can be countered by using the API-T rounds in short burst until the range of the enemy has been correctly guesssed, it only takes a few rounds to destroy an enemy aircraft.
+The Gepard performs best when stalking enemy aircraft, scanning the sky for a target and waiting until it gets in range of the radar, and only attacking when the radar can provide a lead estimation, thus preserving ammunition which is critical since the cannons will expend it quickly in combat situations. Helicopters will more than often chose to keep a reasonable distance, usually outside your radar's range but this can be countered by using the API-T rounds in short burst until the range of the enemy has been correctly guessed, it only takes a few rounds to destroy an enemy aircraft.
 
 Engaging ground vehicles comes with the risk of being destroyed without doing any significant damage so weigh this option carefully, unsuspecting light tanks are fair game but most tanks will pose a threat even when attacking their side without the appropriate ammunition belts. The Gepard 1A2 shouldn't get into any firefight with vehicles that aren't lightly-armoured since the MBT's protection is increased at this BR compared to the Gepard's BR.
 
@@ -148,10 +150,11 @@ Capturing points is also an option thanks to the good mobility of the vehicle, a
 
 * Has 4 IR-guided anti-air missiles mounted on the sides of the turret
 * Missiles can be fired on the move
+* Guns are effective agaisnt light tanks
 
 '''Cons:'''
 
-* Missiles can be easily countered by flares
+* Missiles can be easily countered by defensive manouvers
 * No thermal imager at a BR where it is commonly found
 * The lack of passive locking method alerts the enemy of your presence
 * The ammo count is scarce when taking into account the high rate of fire
@@ -165,6 +168,7 @@ Capturing points is also an option thanks to the good mobility of the vehicle, a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpz_1a2_Gepard Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -173,6 +177,7 @@ Capturing points is also an option thanks to the good mobility of the vehicle, a
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[LAV-AD]]
 * [[2S6]]
 * [[PGZ04A]]

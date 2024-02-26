@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test.
+The '''HMS Grafton (H89)''' is a member of the G-class destroyer family. She was constructed in the mid-1930s, when the HMS Grafton was stationed in Spanish waters from 1936 to 1939 to enforce the non-interventionist agreements reached by Britain and France during the Spanish Civil War. She was transferred from the Mediterranean Fleet to the UK for escort and contraband inspection duties after World War II began. When the Norwegian Campaign started in April 1940, the HMS Grafton was undergoing refit; after the work was finished, the HMS Grafton escorted convoys to Norway. In May, she rescued British troops from the bridgehead of Dunkirk; however, a German submarine sank her after she stopped to recover survivors from a destroyer.
 
-HMS Grafton, pennant number H89, part of the G-class, is a destroyer built for the Royal Navy during the 1930s. She had a relatively short, diverse and honourable operational history.
-
-It serves as a combat destroyer introduction to British captains. Grafton gives the chance to sense the game style of a combat-worthy destroyer. Unlike the [[HMS Churchill]] which are escort destroyers, she can stand its ground against similar or even superior enemies; thus providing a useful experience for the yet more powerful destroyers down the research tree.
+Introduced in [[Update 1.83 "Masters of the Sea"]], the HMS Grafton is equipped with heavy firepower for her size. However, she remains extremely vulnerable to most enemy destroyers. The HMS Grafton is most useful when employed as a quick-light support destroyer, evading enemy fire with its superior mobility. The HMS Grafton may be able to survive confrontation with other enemy destroyers thanks to her powerful main armament, but she will almost definitely come out of it severely damaged. Therefore, the best chances are to move or hide deep behind the enemy, attack first, and maintain the distance.
 
 == General info ==
 HMS Grafton performs excellently in the destroyer vs. destroyer area, thanks to her 4 x 120 mm 4.7 inch/45 Mk.XII main guns. Her mobility is also remarkable, but the less appealing aspects are her lacklustre anti-air defences and the yet below-average crew size. The ship surely stands out from the other low-rank destroyers because of her entirely dark-grey hull, with a maroon red deck. Although, she can be found using the completely different camouflage scheme of HMS bulldog (under the different pennant number H91) in western approaches' white tone. The ship features a completely raked bow and a hull with a lot of freeboard, similar to the [[Tribal (Family)|Tribal-class]] hull. Another way to differentiate her from other destroyers, is her four single turrets, two at the bow and two located in the stern.
@@ -205,10 +203,11 @@ Although severely damaged by the torpedo attack, HMS Grafton stayed afloat long 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_destroyer_g_grafton Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 File:G-class Vickers turret.png|<small>Fully elevated Vickers Mk.V turrets</small>
 </gallery>
 
@@ -218,12 +217,15 @@ File:G-class Vickers turret.png|<small>Fully elevated Vickers Mk.V turrets</smal
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[G-class (Family)|Related development]]
+
 * [[ORP Garland]]
 
 ;Shared operational history
+
 * [[HMS Arethusa]]
 
 ;Analogues of other nations
+
 * [[USS Barker]] (United States)
 * [[Leopard]] (Germany)
 * [[Frunze]] (USRR)

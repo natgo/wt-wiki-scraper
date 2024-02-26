@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+RN Giovanni Da Verazzano Laid down on 17 August 1927, launched on 15 December 1928 and delivered to the Regia Marina on 25 September 1930, she was converted to full armament in the summer of 1933 and assigned to the 2°Squadriglia  Esploratori della IV Divisione, 2°Squadra, in 1936-1937 took part in operations related to the Spanish civil conflict, in April 1939, RN Giovanni Da Verazzano was downgraded to a destroyer and assigned to the 15th Destroyer Squadron, at the outbreak of WW2 she was at La Spezia where she was undergoing hull enlargement works, which began on 1 May 1940 and was completed until 30 August, after which it joined the VII Divisione Navale and participated in the bombardment of the Greek-Albanian coast on 18 December 1940, on 17 October 1942 during an escort to Libya, it was sighted by enemy submarines, RN Giovanni Da Verazzano managed to dodge the first hull but the second copied the hull removing the stern with the rudder and the propellers, all attempts to save the ship were in vain as the sinking was only postponed, during her service the ship completed 148 Missions in the war covering 42. 713 Miles (68739.91 km) for a total of 2826 Hours of Motion.
+
+RN Giovanni Da Verazzano added with the [[Update "Drone Age"|"Drone Age" update]], is a balanced destroyer equipped with 120mm cannons with a moderate reload time, and with the ability to use AP shells for armoured targets or the target to be stowed away, these cannons are difficult to use so expect to miss immediately or struggle to destroy enemy targets, the survivability is quite good, also manoeuvrability and speed, the torpedoes available are quite good and can inflict serious damage or sink enemy ships immediately, in the end, the anti-air armament is mediocre as it does not offer long-range anti-air defence but at medium and low range it is excellent.
 
 == General info ==
 === Survivability and armour ===
@@ -84,6 +86,7 @@ Da Verazzano is a mid-to-long-range fighter. She has a low rate of fire so in th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_destroyer_navigatori_class_verazzano Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

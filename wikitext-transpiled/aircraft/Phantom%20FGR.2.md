@@ -183,14 +183,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[SNEB type 23]] rockets
 | 36 || 54 || || || || 54 || || || || 54 || 36
 |-
-! [[AIM-7E Sparrow]] missiles
-| || || || 1 || 1 || || 1 || 1 || || ||
-|-
 ! [[AIM-9D Sidewinder]] missiles
-| || || 1, 2 || || || || || || 1, 2 || ||
+| || || 1, 2|||||| |||||| 1, 2|| ||
 |-
 ! [[AIM-9G Sidewinder]] missiles
 | || || 2 || || || || || || 2 || ||
+|-
+! [[AIM-7E Sparrow]] missiles
+| || |||| 1|| 1|| || 1|| 1|||| ||
 |-
 ! [[Skyflash]] missiles
 | || || || 1 || 1 || || 1 || 1 || || ||

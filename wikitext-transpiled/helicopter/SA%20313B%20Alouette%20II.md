@@ -68,7 +68,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''Pros:'''
 
-* Gets access to rocket pods and machine guns, unlike the [[SA.316B Alouette III|Alouette III]]
 * Small size
 * Stock ATGMs
 

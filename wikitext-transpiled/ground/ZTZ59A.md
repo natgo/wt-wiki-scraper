@@ -164,7 +164,7 @@ The ZTZ59A does not bring anything drastically new to the table, but as a direct
 * Slow turret traverse and elevation speed limits targeting rate. Fatal in surprise engagements
 * Poor mobility overall, meaning low agility and responsiveness to changing situations
 * Armour is still inadequate to stop common HEATFS or APFSDS (e.g. [[Leopard 1 (Family)|Leopard 1]], [[T-55AM-1|T-55AM]], [[OF-40 (Family)|OF-40]])
-* Limiting gun depression of -4° hinders its capacity in uneven battlefield
+* Limiting gun depression of -5° hinders its capacity in uneven battlefield
 * Terrible reverse speed of -7 km/h prevents it from getting out of danger quickly
 * Smoke grenades discharge behind the tank, can't conceal the tank very well
 

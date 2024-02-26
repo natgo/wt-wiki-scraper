@@ -82,7 +82,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Like other available Strike UCAVs in the game, the Wing Long I is available to all players playing ground battles above a certain BR, and is beneficial to players who lack BR-appropriate aircraft or helicopter close air support options.
+Like other available Strike UCAVs in the game, the Wing Loong I is available to all players playing ground battles above a certain BR, and is beneficial to players who lack BR-appropriate aircraft or helicopter close air support options.
 
 You start off by spawning at an altitude of 4,000 m above the battlefield. Priority targets should be enemy SPAAs to allow your team's as well as your own safety from an express ticket back to the ground. Enemy SPAAs are usually found stationary at the enemy spawn, though be on your guard for players moving closer to the front lines as well. If there are no SPAAs around, your next target will be enemy tanks that are near/on the capture points. Once you fire both [[AKD-9]] missiles, you have three options:
 

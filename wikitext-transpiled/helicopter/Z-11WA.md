@@ -44,41 +44,42 @@ A very common feature of a scout helicopter like the Z-11WA is the lack of any f
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|HJ-8A|FS70|Type 57-1|QJK99-12.7-1 (12.7 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="20%" | 1 !! width="20%" | 2
+| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[QJK99-12.7-1 (12.7 mm)|12.7 mm QJK99-12.7-1]] machine guns (1,000 rpg)
+| 1 || 1
+|-
+! [[FS70]] rockets
+| 7 || 7
+|-
+! [[Type 57-1]] rockets
+| 18 || 18
+|-
+! [[HJ-8A]] missiles
+| 2 || 2
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 36 x Type 57-1 rockets
 * 14 x FS70 rockets
-* 2 x 12.7 mm QJK99-12.7-1 machine guns (1,000 rpg = 2,000 total)
 * 2 x HJ-8A missiles
 * 4 x HJ-8A missiles
+* 2 x 12.7 mm QJK99-12.7-1 machine guns (1,000 rpg = 2,000 total)
+{{Navigation-End}}
 
 The Z-11WA's primary anti-tank weapon is the HJ-8A missile. The HJ-8 is a Chinese man-portable ATGM system with comparable weight and statistics to the Soviet [[9M113 Konkurs]]. It weighs much less than typical starter helicopter ATGMs like the [[SS.11]] and [[9M17M Falanga]] and has a slightly faster flight speed, but the smaller size also limits penetration power and range. The single charge warhead with 480 mm of flat penetration is enough to get the job against most tanks but is easily stopped by ERA and the post-penetration damage can be inconsistent. The 3 km range puts the Z-11WA near the effective range of radar-guided SPAA. Finally, only four HJ-8As can be carried in total, but two can be carried as a stock loadout.
 
 Two types of rockets are available. The stock option is the Type 57-1 rocket carried in pods of 18. These have poor penetration, flight speed, and accuracy, the only selling point being their large capacity. The FS70 rockets have a much smaller capacity of only 7 per pod, but they hit much harder (same penetration and more explosive content than the BMP-1's main gun). Since the Z-11WA has only two pylons and lacks a ballistic computer, the rockets are mainly useful as backup ground attack weapons for stock grinding before the full HJ-8A loadout is unlocked, although players who are very comfortable with aiming rockets by eye may be able to use them for surprise attacks.
 
 The 12.7 mm machine gun pods are the only guns available to the Z-11WA. They are not powerful enough to be serious ground attack options but have enormous ammunition capacities and can be helpful in a helicopter dogfight. Pick belts with a high proportion of AP-I rounds, because they have a surprisingly high penetration for their calibre.
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="20%" | 1 !! width="20%" | 2
-| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 12.7 mm QJK99-12.7-1 machine guns (1,000 rpg)
-| 1 || 1
-|-
-! FS70 rockets
-| 7 || 7
-|-
-! Type 57-1 rockets
-| 18 || 18
-|-
-! HJ-8A missiles
-| 2 || 2
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

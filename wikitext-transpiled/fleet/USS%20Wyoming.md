@@ -117,7 +117,7 @@ Her first refit was completed around 1942, there all of her remaining 5-inch spo
 
 During her wartime career between 1942 - 1945, she trained over 35,000 gunners and officers, and fired over 1,700,000 rounds of ammunition of all types - the largest amount fired from any US warship at that time. She was nicknamed "Chesapeake Raider" by her crew due to primarily sailing in and out of the Chesapeake Bay during her gunnery session. Other than her training duties, ''Wyoming'' was also used as a testing ground for new technology (such as new fire control systems). One of the last group of her crew were then-Ensign Jimmy Carter, the future President of the United States, who came on board in summer of 1946.
 
-USS ''Wyoming'' was decommissioned following the end of the war on August 1, 1946. Her crew were transferred to USS ''Mississippi'' (AG-128), another battleship that was converted for anti-air training and experimental purposes, and she was sold for scrap on October 30, 1947.
+USS ''Wyoming'' was decommissioned following the end of the war on August 1, 1946. Her crew were transferred to [[USS Mississippi|USS ''Mississippi'' (AG-128)]], another battleship that was converted for anti-air training and experimental purposes, and she was sold for scrap on October 30, 1947.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -131,6 +131,7 @@ USS ''Wyoming'' was decommissioned following the end of the war on August 1, 194
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;[[Wyoming (Family)|Related development]]
 * [[USS Arkansas]]
 
 == External links ==

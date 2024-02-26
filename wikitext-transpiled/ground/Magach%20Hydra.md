@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+Very little is known about the '''{{Specs|name}}''' the vehicle-mounted two Hydra-70 rocket launchers with M261 rockets. Just a single prototype was built and tested, in this case, in Suez in 1981. The tank was built over the Magach 6R but strapped from its Blazer ERA. It carried a total of 38 rockets with the pods being mounted at a slight angle relative to the position of the gun.
+
+It was introduced in [[Update "La Royale"]]. The tank is nearly identical to the [[Magach 6R]] , except with a lack of ERA and the addition of [[Hydra-70 M247|Hydra-70 Rocket Pods]] to the turret, which traverse with the main armament. The Magach Hydra has above-average mobility and very mediocre protection against both APDS and HEAT projectiles, especially due to the lack of ERA. It should be played aggressively using its rockets since they have very poor precision at long ranges.
 
 == General info ==
 === Survivability and armour ===
@@ -26,9 +28,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 93 mm Top 
-137 mm Bottom 
-| 36-70 mm || 25-40 mm || 20-36 mm
+| Hull || 93 mm ''Top'' <br> 137 mm ''Bottom'' || 36-70 mm || 25-40 mm || 20-36 mm
 |-
 | Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
 |-

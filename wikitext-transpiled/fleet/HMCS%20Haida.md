@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced as a [[wt:en/news/5810-fleet-news-what-awaits-us-in-update-1-83-masters-of-the-sea-en|premium pack]] in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test and was removed from the store after the [[wt:en/news/6464-shop-war-thunder-birthday-sale-en|2019 Anniversary sale]].  It has been made available for purchase with Golden Eagles {{ge}} in-game briefly during the 2023 [[wt:en/news/8296-special-decal-and-destroyer-for-canadian-armed-forces-day-en|"Canadian Armed Forces Day"]] and [[wt:en/news/8524-special-trafalgar-day-a-decal-and-hmcs-haida-to-celebrate-en|"Trafalgar Day"]] mini-events.
+The '''HMCS Haida (41)''' is a member of the Tribal-class destroyers, named after the Haida tribe. She was a member of the Canadian Navy from 1943 to 1963, serving in both World War II and the Korean War. The HMCS Haida, as the only surviving Tribal-class destroyer out of 27 vessels, sank more enemy surface tonnage than any other Canadian vessel and is thus known as the "Fightingest Ship in the Royal Canadian Navy". She was designated a National Historic Site of Canada in 1984 and now serves as a museum ship in Hamilton, Ontario, next to HMCS Star, an active Royal Canadian Naval Reserve Division. The HMCS Haida was named the Canadian Navy's ceremonial flagship in 2018.
 
-The Haida is a Tribal-class destroyer in Canadian service, that has a unique layout of her primary, secondary and tertiary weaponry.
+Introduced in [[Update 1.83 "Masters of the Sea"]] as a [[wt:en/news/5810-fleet-news-what-awaits-us-in-update-1-83-masters-of-the-sea-en|premium pack]] as part of the British fleet closed beta test, the HMCS Haida is a powerful destroyer, equipped with lethal anti-aircraft armaments and powerful torpedoes. Players should use its powerful ammunition to engage enemy destroyers and cover allies with its excellent anti-aircraft capability. However, in comparison to many other destroyers, its speed remains below average. This, combined with the subpar muzzle velocity of its main armaments, makes engaging targets at long range difficult.
+
+The HMCS Haida was removed from the store after the [[wt:en/news/6464-shop-war-thunder-birthday-sale-en|2019 Anniversary sale]]. It has been made available for purchase with Golden Eagles {{ge}} in-game briefly during the 2023 [[wt:en/news/8296-special-decal-and-destroyer-for-canadian-armed-forces-day-en|"Canadian Armed Forces Day"]] and [[wt:en/news/8524-special-trafalgar-day-a-decal-and-hmcs-haida-to-celebrate-en|"Trafalgar Day"]] mini-events.
 
 == General info ==
 === Survivability and armour ===
@@ -143,6 +145,7 @@ File:HMCS Haida WTWallpaper006.jpg
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other Canadian naval vehicles present in the game
+
 * [[HMCS Brantford]]
 * [[HMCS Terra Nova]]
 

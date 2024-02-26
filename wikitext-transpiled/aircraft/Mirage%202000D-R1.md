@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}''' was the dedicated ground attack variant of the Mirage 2000, based in the Mirage 2000D, which in itself, was based in the Mirage 2000N, a nuclear strike variant. It had a conventional two-seat configuration, like most ground attackers, and incorporated a series of improvements to increase its survivability, like improved countermeasure pods, better electronic countermeasures, an improved RWR, and for increased accuracy against ground targets, it received the same weaponry as the [[Mirage 2000-5F]] would later receive, that being AS-30L air to ground missiles, laser guided bombs, and targeting pods. It still retained the same radar as the ones in the Mirage 2000C.
+
+It was introduced in [[Update "Apex Predators"]]. The '''{{Specs|name}}''' is the lowest BR Mirage 2000 variant, and for a good reason: while it has access to very precise ground ordnance, this comes in small numbers, being able to take 2 x GBU-12s and 2 x AS-30L Nords at the same time, however while doing this, it can also carry 2 x Matra Magic 2 IR missiles. It has a two seat configuration, with more weight, but it still has access to the powerful engine of the Mirage 2000C family, which means that it has good acceleration and low speeds and a high top speed, at the cost of a relatively high fuel consumption, especially when compared to the Mirage F1. In air battles, try using your ordnance to destroy a base, then switch to air targets using your Magic 2s. However, this vehicle is more suited for ground battle, staying at high altitude to drop laser-guided bombs, and then proceeding to the laser-guided ATGMs at a lower altitude. The AS-30L Nords are specially useful to destroy enemy SPAA from long distances before approaching the battlefield, since their HE warhead is not as reliable against armoured targets as a more conventional HEAT warhead.
 
 == General info ==
 === Flight performance ===
@@ -195,6 +197,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 1,300 l drop tank
 * 1 x 30 mm DEFA 554 cannon (600 rpg)
 * 5 x 250 kg SAMP Type 25 bombs (1,250 kg total)
@@ -250,7 +253,7 @@ The 2000D was involved with many different conflicts, primarily in Africa and th
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_2000d_r1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|UtpM_1j4G0c|'''The Shooting Range #338''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.|Tg7U16FE_eo|'''Mirage-2000D R1: A Basic Review''' - ''Tims Variety''}}
+{{Youtube-gallery|YpAvtM4iUWo|'''The Shooting Range #390''' - ''Arsenal'' section at 07:08 discusses the {{PAGENAME}}.|UtpM_1j4G0c|'''The Shooting Range #338''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.|Tg7U16FE_eo|'''Mirage-2000D R1: A Basic Review''' - ''Tims Variety''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

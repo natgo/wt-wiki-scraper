@@ -136,7 +136,7 @@ The mobility of the Panther A is greatly improved over that of the previous Pant
 
 As with all other Panther-series medium tanks, it is best played in a supporting role or as a front-line offensive tank due to its agility. The cannon mounted is more than forgiving and powerful enough to destroy any potential target, so use it to an advantage; long-range shooting is effective as the muzzle velocity is extremely high, owing to the long-barreled 75 mm, the penetration values are more than capable of punching through any opposing armour, and the shell weight will, if the shell penetrates, consistently deal decent amounts of crew and module damage, if not immediately make the target on combat ineffective.
 
-Sniping may be a fun and tempting strategy but you can get outmatched at those longer ranges where your fast turret reload and turret traverse no longer matter. A good strategy is to push objectives with the panther A considering it has the improved turret traverse and thus is able to fight in both the city and the plains, but it prefers the plains. Do not attempt to use the panther like a tiger, and that is being a meatshield breakthrough tank. Instead, Spearhead assaults on objectives and flank the enemy. Your gun will be able to take care of most targets medium to close range and your armour should do its job. If you move methodically behind cover or on flanking routes you should be able to destroy many tanks. You can brawl quite well if you watch your flanks and flank others.
+Sniping may be a fun and tempting strategy but you can get outmatched at those longer ranges where your fast reload and turret traverse no longer matter. A good strategy is to push objectives with the panther A considering it has the improved turret traverse and thus is able to fight in both the city and open ground. Do not attempt to use the panther like a tiger, and that is being a meatshield breakthrough tank. Instead, Spearhead assaults on objectives and flank the enemy. Your gun will be able to take care of most targets medium to close range and your armour should do its job. Make sure you check every corner and shoot and scoot. If you move methodically behind cover or on flanking routes you should be able to destroy many tanks. You can brawl quite well if you watch your flanks and flank others.
 
 Another viable strategy is ambushes. The good camouflage for the tank can hide you if you hide behind a bush. Hide near a choke point and hope an enemy tank comes by.
 
@@ -170,19 +170,18 @@ Like when fighting the previous Panther D variant head-on, fight the Panther A b
 * '''Strv 74:''' Again, poorly armoured HEAT shell user. Extremely high HEAT penetration but this time with a easy to spot tall profile.
 * '''FV4005:''' Possible to meet but very rare if not impossible. Never get hit by this thing. It is literally the size of a refrigerator there is no missing this thing. You can ammorack by going to the sides of the turret.
 * '''R3 T20 FA-HS:''' We have all grown to hate this thing and it can side shot you but it is very rare. Most used by players trying to be funny. Machine gun into oblivion on sight.
-* '''2S3M:''' Getting more and more common these days. It has a super dangerous HE shell and will snipe you. Also very easy to kill.
-* '''Ratel 90/20:''' Supposedly called 90/20 because that is the chance you will penetrate it. It has super thin armor but is very fast. Contrary to popular belief the 17 pounders are not anything to worry about except for luck front shots or side shots.
-* '''Any ISU or SU series tank destroyer 100mm gun and up:''' Shoot anywhere except gun mantlet. Be aware of the slow reload for the 122mm ones as well as their tall profile unless it is a SU-100. Impossible to miss.
+* '''2S3M:''' Getting more and more common these days. It has a super dangerous HE shell and will snipe you. Also very easy to kill. The rear hull houses a large ammorack
+* '''Any ISU or SU series tank destroyer 100mm gun and up:''' Shoot anywhere except gun mantlet. Be aware of the slow reload for the 122mm ones as well as their tall profile unless it is a SU-100.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Excellent cannon has a range of ammo for any type of enemy: great stock AP for common targets (eg. [[T-34-85]], [[M4 Sherman (Family)|M4 Sherman]] or even the [[M4A3E2]]), piercing APCR for early cold war tanks (e.g. [[M26 (Family)|M26]], [[T-44]], early [[Centurion (Family)|Centurions]]) and HE for light vehicles. Great accuracy and velocity allows easy long-range sniping. Plenty of ammo capacity allows flexible ammo setups
+* Excellent cannon has a range of ammo for any type of enemy: great stock AP for common targets (eg. [[T-34-85]], [[M4 Sherman (Family)|M4 Sherman]] or even the [[M4A3E2]]), piercing APCR for early cold war tanks (e.g. [[M26 (Family)|M26]], [[T-44]], early [[Centurion (Family)|Centurions]]) and HE for light vehicles. Great accuracy and velocity allows easy long-range sniping. Plenty of ammo capacity allows flexible ammo setups. It even has a fast reload.
 * Heavily armoured frontal hull is immune to most guns at 5.7 like the 85 mm D-5T and 76 mm M1
 * Almost 300% faster turret rotation than the previous D model. Is more responsive to flankers
-* Fast top speed, good hull traverse. Can get to positions in time
+* Fast top speed, good hull traverse. Can get to positions in time. unlike other tanks it has neutral steering.
 * Engine has 50 more horsepower compared to the D variant, acceleration is noticeably faster and is on par, if not slightly faster, than T-34s
 * Adequate gun depression of -8° adapts most terrains well
 * Reasonably cheap repair cost
@@ -191,13 +190,12 @@ Like when fighting the previous Panther D variant head-on, fight the Panther A b
 
 '''Cons:'''
 
-* Gun mantlet is only 100 mm thick, a huge and well-known weak spot to shoot at
-* 
+* Gun mantlet is only 100 mm thick, well-known weak spot to shoot at. The ball mg port that is 80 mm can also be penetrated albeit less frequently.
 * Terrible reverse speed of only -4 km/h, can get the player killed
 * Weak side armour gets penetrated easily by Soviet APHEBC. Cannot angle too much
-* Lower glacis often catches fire or breaks transmission when penetrated, leaving the tank immobile and vulnerable
+* Lower glacis often catches fire or breaks transmission when penetrated, leaving the tank immobile and vulnerable. The transmission does protect the crew at the cost of a lengthy repair.
 * High profile for a medium tank makes it harder to hide
-* Roof armour of 16 mm is vulnerable to [[M2 Browning (12.7 mm)|M2 Brownings]] which are widely seen on American planes
+* Roof armour of 16 mm is vulnerable to [[M2 Browning (12.7 mm)|M2 Brownings]] which are widely seen on American planes. Any autocannon can cause strafing damage.
 * Although heavily armoured, it can still get frontally penetrated easily by a rather common heavy tank: [[IS-2 (Family)|IS-2]]
 * Gun mantlet traps shots (shells may deflect into the hull roof weak armour). This is incredibly rare.
 

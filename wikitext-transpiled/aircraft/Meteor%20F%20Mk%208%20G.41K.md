@@ -10,7 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update 1.29]].
+The Meteor F Mk 8 G.41K, an illustrious British fighter, marked a significant evolution in the Meteor series with its introduction in the late 1940s. Designed to rectify the limitations of its predecessors, it boasted a reinforced airframe to withstand the rigors of high-speed flight and upgraded Derwent 8 engines, offering enhanced performance and reliability. This variant saw extensive service with the Royal Air Force and other allied forces, playing crucial roles from air defense to ground support across various theatres of the Cold War. 
+
+Distinct from earlier Meteors, the F Mk 8 G.41K was enhanced with better aerodynamic features, aligning with the era's strategic demands. Its service history is marked by adaptation to diverse combat roles, evidencing the versatility and technological advancement of British aerospace engineering at the time. In combat, pilots lauded its improved rate of climb and top speed, making it a formidable adversary against the threats it faces.
+
+In-game, the '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter that stands as a testament to British jet development's zenith. Sitting at a battle rating of {{Battle-rating}}and being the highest performance Variant of the Meteor family, It is a plane with extremely good flight performance, especially at it's Battle Rating. It is Armed with 4x 20mm Hispano V cannons, and can also take RP-3, HVAR rockets or 2x 1000lbs bombs. While it looks impressive on paper, it is a plane that hates high speed. It compresses heavily above 700km/h, and takes a very long time accelerating past 800km/h.
+
+Overall a very comfortable, easy to use and fun plane, that was introduced in [[Update 1.29]]. 
 
 == General info ==
 === Flight performance ===
@@ -219,6 +225,7 @@ Experience in the Korean War highlighted the fact that, even with significant up
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=meteor_fmk8 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

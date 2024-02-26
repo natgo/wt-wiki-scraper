@@ -121,6 +121,15 @@ A common misconception of lightweight aircraft is its protection. While F-5E is 
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="5" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+|-
+| {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -128,9 +137,8 @@ A common misconception of lightweight aircraft is its protection. While F-5E is 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
-** 2 x 20 mm M39A3 cannons + 45 x countermeasures
+* 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
+* 45 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

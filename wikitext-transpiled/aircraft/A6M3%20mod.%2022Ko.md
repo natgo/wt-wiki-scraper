@@ -10,9 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.37]].
+The '''A6M3 mod. 22Kō''', designated as the '''Type 0 Carrier-based Fighter Model 22A ({{Annotation|零式艦上戦闘機二二型甲|Rei Shiki Kanjō Sentōki, Ni Ni Gata Kō}})''', was a minor modification of the [[A6M3 mod. 22]], having the same fuselage, engine, and wings with the difference being a switch of main guns. The Model 22Kō comes with 20 mm [[Type 99 Model 2 (20 mm)|Type 99 Model 2]] cannons instead of [[Type 99 Model 1 (20 mm)|Model 1]].
 
-This variant of the [[A6M]] series is a small-scale variant over the [[A6M3 mod. 22]], having the same fuselage, engine and wings with the difference being a switch of main guns. The A6M3 Model 22A (Ko) comes with [[Type 99 Model 2 (20 mm)]] instead of [[Type 99 Model 1 (20 mm)]].
+It was introduced in [[Update 1.37]]. The Model 22Kō has a different main armament than the previous one, which makes a significant difference in combat. The main improvements of the Type 99 Model 2 over the Model 1 are a longer barrel, a longer chamber, and a longer cartridge, which increase the muzzle velocity from 600 m/s to 750 m/s. The Model 22Kō performs similarly to other models with full-sized wings, but has a more accurate and higher velocity main armament, which has less bullet drop and hits targets quicker, delivering the same lethal ammunition.
+
+;Nicknames
+* IJN Pilot nickname: ''Reisen'' (零戦) / ''Zerosen'' (ゼロ戦) <small>(Abbreviation of 0 - {{Annotation|戦|Fight(er aircraft)}})</small>.
+* Allied reporting name: ''Zeke / Zero''.
 
 == General info ==
 === Flight performance ===
@@ -173,14 +177,14 @@ To defend yourself from the rear, perform a split S, which consists of rolling a
 ::::* Easily sets fire to air targets
 :::* HEF(T):
 ::::* Tracer can help you aim on target
-::::* The few rounds in the belt can still wreck havoc on enemy planes with their HE filler 
+::::* The few rounds in the belt can still wreck havoc on enemy planes with their HE filler
 </div>
 ::* ''Stealth'': Great for Air battles
 <div class="mw-collapsible mw-collapsed">
 :::* No tracers
 :::* HEF:
 ::::* Near full HE belt
-::::* Wrecks havoc on enemy planes with HE filler 
+::::* Wrecks havoc on enemy planes with HE filler
 :::* AP-I:
 ::::* Easily sets fire to air targets
 </div>

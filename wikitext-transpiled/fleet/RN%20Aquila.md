@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+RN Aquila Set up as Vifor on 11 March 1914 for the Romanian Navy, after the outbreak of WWI during May 1915 she was taken by Italy and launched on 26 July 1916 and handed over to the Italian Navy as explorer RN Aquila, Assigned to the 3°Gruppo Esploratori  of the 4th Division, reporting to the Superior Naval Command at Brindisi, the first action in which the RN Aquila took part was on 15 May 1917, together with other Italian and British units, in a battle against 3 Austrian Explorers of the Novara Class during which she was hit by a shell from the Csepel, rendering the RN Aquila immobilised, in the last months of WWI she was used as a support unit for the bombardment of Durazzo, after WWI the RN Aquila carried out a total of 42 War Missions for a total of 433 of motion, while she remained ready to move for 2030 hours, on 14 September 1922 she was taken to the Arsenal in Naples and later to the Castellammare di Stabia shipyards for work, on 11 October 1937 she was handed over to the Spanish Nationalist Navy, which named her Melilla, but all this was done in secret for political reasons.
+
+'''RN Aquila''' introduced with the [[Update "Fire and Ice"|"Fire and Ice" Update]], is a particular destroyer that already can use AP projectiles and also has 152 guns at a very low level, the armament is quite good against other enemy destroyers instead for aerial targets this ship suffers due to the lack of anti-aircraft armament, the manoeuvrability and speed is decent, for survival however it is a little poor due to the little armour.
 
 == General info ==
 === Survivability and armour ===
@@ -60,13 +62,20 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rat
 ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
-'''Pros:'''
+* 152mm Cannons with SAP and AP at low tier
+* Adeguate manouvrability and speed
+* Good secondary armament for enemy coastal boats
+
 *
 
 '''Cons:'''
+
+* No anti-air Armament
+* Mediocre survivability
+* Slow reload speed of the primary armament
+
 *
 
 == History ==
@@ -77,6 +86,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rat
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_destroyer_vifor_class_aquila Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -84,6 +94,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rat
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -92,6 +103,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian destroyer {{Battle-rat
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

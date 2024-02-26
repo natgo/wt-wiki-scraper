@@ -97,7 +97,7 @@ The {{PAGENAME}} has a limited choice of ammunition:
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''84''' || 67&nbsp;''(+17)'' || 49&nbsp;''(+35)'' || 25&nbsp;''(+59)'' || 1&nbsp;''(+83)'' || No
+| '''84''' || 67&nbsp;''(+17)'' || 48&nbsp;''(+36)'' || 25&nbsp;''(+59)'' || 1&nbsp;''(+83)'' || No
 |-
 |}
 '''Note''':

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese bomber {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' ,aka Frances in Allied codename or by its Japanese name Ginga (銀河, lit. Galaxy), was the captured twin-engine bomber from IJNAF used very briefly by the ROCAF by the mid-1940s. As part of the defence deployment of Japanese islands and the colony of Taiwan in 1944, IJNAF deployed numbers of P1Y1 in Tainan as the main composition of bombers defending their soon-to-crumble empire; however, the bomber didn't achieve any significant victories against the US forces and was soon abandoned on the Taiwan Island alongside with other Japanese aircraft. Before the outbreak of the Chinese Civil War, ROCAF had to source their fleet from abandoned Japanese aircraft from both Mainland China and Taiwan Island, these 12 remaining P1Y1 became one of the bombers of ROCAF before more reliable US-built bombers replaced them as soon as 1946; according to the records in Taiwan, these aircraft were soon dismantled alongside with hundreds of Japanese aircraft to minimize the risk of armed riots or revolutions against the Nationalist government on Taiwan Island.
 
-The P1Y1 was nicknamed "Frances" by the Allied pilots, and "Ginga" (Galaxy) by Japanese pilots. The Ginga is known for being one of the fastest bombers and is played similarly to the German Ju 288 and Arado 234. The overall tactic - dive, drop payload, retreat, repeat. The P1Y1 can go a little over 675 km/h (400 mph) in a dive, which is very fast for the battle rating.
+Introduced in [[Update 1.91 "Night Vision"]] alongside with the Chinese tech tree, the Ginga is known for being one of the fastest bombers and is played similarly to the German Ju 288 and Arado 234. The overall tactic - dive, drop payload, retreat, repeat. The P1Y1 can go a little over 675 km/h (400 mph) in a dive, which is very fast for the battle rating.
 
 The P1Y1 is a rather fragile aircraft, specifically to its detriment it has poor defensive guns and sadly has no turret coverage for the underside of the aircraft. This typically results in a situation where the P1Y1 is easy prey to enemy fighters attacking from underneath without fear of reprisal.
 
@@ -212,6 +212,7 @@ In an attempt to seize weapons to launch an armed riot against the autocracy, th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p1y1_mod11_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

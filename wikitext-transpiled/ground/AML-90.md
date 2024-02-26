@@ -188,9 +188,10 @@ The AML-90 saw service in the French Army and in numerous armies around the worl
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+;Related development
+* [[AML-90 (Family)]]
 
 ;Other vehicles of similar configuration and role
-
 * [[AUBL/74]]
 
 == External links ==

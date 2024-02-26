@@ -94,6 +94,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 9 x 1,000 lb M.C. Mk.I bombs + 6 x 500 lb G.P. Mk.IV bombs (12,000 lb total)
 * 4 x 2,000 lb A.P. Mk.I bombs (8,000 lb total)
 
+Note: With the 9 x 1,000 lb + 6 x 500 lb load, the 500 lb bombs drop first from bays in the inner wings, then the 1,000 lb bombs from the ventral bomb bay.
+
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->

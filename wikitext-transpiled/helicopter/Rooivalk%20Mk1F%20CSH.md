@@ -1,14 +1,13 @@
 {{Specs-Card
 |code=ah_2_rooivalk
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_003.jpg}}
-|store=11446
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 In the early 1980s, the South African Defence Force realised the need during the South African Border War for a dedicated attack helicopter to conduct strike missions against armour and anti-air positions, and escort helicopter transports. However, under a UN arms embargo at the time, South Africa had to look to domestic designers to fulfil these requirements. Thus, in 1984, development of the Denel Rooivalk began, from the basis of the Aérospatiale SA 330 Puma. While it would have its first flight in 1990, budget limitations and desires for increasingly advanced capabilities would mean that it would only enter service in 2011. Originally also planned for export, new development was ceased after the design lost to the Italian [[T129|A129 Mangusta]] in Turkey in 2007. 11 helicopters are presently operated by the South African Air Force, flown by 16 Squadron from AFB Bloemspruit, Bloemfontein. They have seen service in a number of UN operations, including in the Democratic Republic of the Congo.
 
-Introduced in [[Update "Drone Age"]], the Rooivalk provides a fearsome attack helicopter addition to the British tech tree. Equipped with armaments and systems that rival the vaunted Apache helicopter family, with considerable air-to-air defensive capabilities and hard-hitting ground attack loadouts, the Roovialk Mk1F CSH can be a devastating asset available to employ by British helicopter pilots. Equipped with laser warning systems, MAWS systems, and NVG/thermal vision, pilots can focus on delivering hard-hitting ordnance without having to have their heads on a constant swivel. The deadly Mokopa ATGMs with tandem warheads provide an efficient means of dispatching enemy ground targets, while Mistral AAMs pose a serious threat to enemy aircraft within the Rooivalk's airspace, providing all-aspect IR missiles replete with ECCM features. Last but not least, a fast firing and reliable 20 mm gun mounted under the nose can be used to deal with softer targets and slow-moving enemy aircraft.
+Introduced in [[Update "Drone Age"]] but was removed from the Gaijin store after the [[wt:en/news/8580-shop-war-thunders-birthday-sale-in-the-gaijinnet-store-en|War Thunder 11th Anniversary sale]]. The Rooivalk provides a fearsome attack helicopter addition to the British tech tree. Equipped with armaments and systems that rival the vaunted Apache helicopter family, with considerable air-to-air defensive capabilities and hard-hitting ground attack loadouts, the Roovialk Mk1F CSH can be a devastating asset available to employ by British helicopter pilots. Equipped with laser warning systems, MAWS systems, and NVG/thermal vision, pilots can focus on delivering hard-hitting ordnance without having to have their heads on a constant swivel. The deadly Mokopa ATGMs with tandem warheads provide an efficient means of dispatching enemy ground targets, while Mistral AAMs pose a serious threat to enemy aircraft within the Rooivalk's airspace, providing all-aspect IR missiles replete with ECCM features. Last but not least, a fast firing and reliable 20 mm gun mounted under the nose can be used to deal with softer targets and slow-moving enemy aircraft.
 
 == General info ==
 === Flight performance ===
@@ -72,40 +71,40 @@ As a premium aircraft all modifications are unlocked upon purchase.
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm GI2 cannon, nose turret (700 rpg)
-** 1 x 20 mm GI2 cannon + 170 x countermeasures
+* 1 x 20 mm GI2 cannon, nose turret (700 rpg)
+* 120 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Mistral|ZT-6 Mokopa|FZ49}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="4" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FZ49]] rockets
+| || 19 || 19 || 19 || 19 ||
+|-
+! [[Mistral]] missiles
+| 2 || || || || || 2
+|-
+! [[ZT-6 Mokopa]] missiles
+| || 4 || 4 || 4 || 4 ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 76 x FZ49 rockets
 * 4 x Mistral missiles
 * 4 x Mistral missiles + 76 x FZ49 rockets
 * 16 x ZT-6 Mokopa missiles
 * 16 x ZT-6 Mokopa missiles + 4 x Mistral missiles
 * 8 x ZT-6 Mokopa missiles + 4 x Mistral missiles + 38 x FZ49 rockets
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="4" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! FZ49 rockets
-| || 19 || 19 || 19 || 19 ||
-|-
-! Mistral missiles
-| 2 || || || || || 2
-|-
-! ZT-6 Mokopa missiles
-| || 4 || 4 || 4 || 4 ||
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -153,7 +152,7 @@ As for the internal needs of South Africa, an ordered series of 12 aircraft bega
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_2_rooivalk Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|Ah9gpdy7IPI|'''The Shooting Range #333''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|moOQcE1Alb0|'''Rooivalk: A Daring Idea''' - ''War Thunder Official Channel''|Ah9gpdy7IPI|'''The Shooting Range #333''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

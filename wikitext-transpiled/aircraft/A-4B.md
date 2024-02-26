@@ -10,15 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The A-4B was a compact and lightweight attack aircraft designed by Ed Heinemann of Douglas Aircraft Company in response to the U.S. Navy's need for a cost-effective and agile attacker. It was a successful solution for the Navy, offering simplicity, low weight, and ease of maintenance. Despite its small size, the A-4 was a capable aircraft, equipped with two 20mm autocannons and various hardpoints for missiles, rockets, and bombs. It played a significant role in the Vietnam War as the primary light bomber for the Navy. With over 540 A-4Bs manufactured, it featured upgrades like improved navigation equipment and the AGM-12 Bullpup missiles. The A-4 remained in service for over 20 years and continues to be operational in some countries like Brazil and Argentina even after six decades since its inception
 
-The {{PAGENAME}} is an excellent aircraft for pilots who like to perform multiple roles without having to switch up aircraft. Possessing options to carry up to 5,000 lbs in bombs, 133 unguided rockets or five 20 mm autocannons with a total of 2,350 rounds of ammunition in what is effectively a "hot rod" of the jet world allows pilots to maximize their playstyle.
-
-[[File:A-4B an trn 26 006.png|350px|thumb|left|A view of the suspended ordnance racks. Just one of the many options for the {{PAGENAME}}.]]
-
-Though the manoeuvrability suffers when fully loaded, this jet attacker operates well at mid and lower altitudes, especially when unloading bombs and rockets on ground-based targets. The Skyhawk's air-to-air capabilities are not forgotten; however, as in actual usage, the missiles and internal 20 mm autocannons were more for defensive purposes or for taking out targets of opportunity. With the sheer amount of rockets when loaded, especially the Mighty Mouse variants, it is best to fire them off in salvos to ensure maximum damage inflicted.
-
-This aircraft's nickname is "Scooter" for a reason, though not the fastest aircraft in the battle, with its petite size and massive payload, it is not uncommon for the {{PAGENAME}} to scoot behind enemy lines and rain down destruction on ground targets before anyone realizes what is going on. Though small in size, the Skyhawk should not be underestimated and considered a significant threat.
+It was introduced in [[Update 1.97 "Viking Fury"]]. The {{PAGENAME}} is an excellent aircraft for pilots who like to perform multiple roles without having to switch up aircraft. Possessing options to carry up to 5,000 lbs in bombs, 133 unguided rockets or five 20 mm autocannons with a total of 2,350 rounds of ammunition in what is effectively a "hot rod" of the jet world allows pilots to maximize their playstyle. Though the manoeuvrability suffers when fully loaded, this jet attacker operates well at mid and lower altitudes, especially when unloading bombs and rockets on ground-based targets 
 
 == General info ==
 === Flight performance ===
@@ -211,6 +205,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 133 x FFAR Mighty Mouse rockets

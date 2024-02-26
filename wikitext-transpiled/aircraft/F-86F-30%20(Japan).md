@@ -181,7 +181,7 @@ It will automatically detect other planes within the scanning area and display t
 '''Cons:'''
 
 * Easy to rip off the wings with high-speed manoeuvres (realistic and simulator battles)
-* This plane can match up against higher tier jets with afterburner and air-to-air missiles, like MiG-21s, Harriers, Su-25s, etc.
+* This plane can match up against higher tier jets with afterburner and air-to-air missiles, like MiG-21s, Harriers etc.
 * Low ammo count equates to only 15-second burst
 
 == History ==

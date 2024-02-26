@@ -178,6 +178,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
@@ -202,12 +203,16 @@ As the F-5A does not have any radar-guided missiles (AIM-7s or equivalent), and 
 '''Pros:'''
 
 * Excellent manoeuvrability
-* Great amount of Countermeasures
+* Great amount of countermeasures
+* Easy to aim cannons
+* Access to relatively powerful ground ordnance (enough to destroy a base in air battles)
 
 '''Cons:'''
 
 * Relatively low top speed
-* No radar-guided missiles
+* No radar of any kind
+* Poor acceleration below Mach 1
+* Mediocre energy retention
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -170,17 +170,16 @@ The Challenger 2E has an advantage over most enemies at long range. While the ta
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
+* Drives as fast as [[Vickers Mk.7]] at 80 km/h on demand
 * Very survivable armour profile
-* Advanced fire control system
-** Modern night vision devices
-* Adequate firepower
-** Overwhelming rate of fire
-* Competitive mobility
+* Has a 12.7 mm machine gun
 
 '''Cons:'''
 
-* Large and vulnerable weak spots
-* Minimal anti-air capabilities
+* Does not carry over any super powerful upgrades of the Black Night or 2F, its just a basic, but fast Challenger 2
+* Large and vulnerable weak spots are present that cannot be hidden
+* Minimal anti-air capabilities despite new machine gun
+* Retains same ammunition as old Challengers, armour is not powerful enough to compensate when fighting top tanks on high ground
 * Reload rate slows down significantly once ready rack is emptied
 
 == History ==

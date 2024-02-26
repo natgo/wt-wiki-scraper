@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+Israel employed the Centurion (named ''Sho't'') since its early days. It was one of their first main battle tanks alongside the American M48 Patton (named ''Magach''). Just like with the Magach, the Sho't received a more capable firepower upgrade with the '''Sho't Kal Alef'''. This upgrade included the introduction of the American M68 105 mm cannon, and a new powerplant in the form of the Continental AVDS-1790-2A diesel engine and Allison CD-850-6A transmission that were also used by the Magach 3. The new cannon forced the Sho't to lose its stabilizer, but with access to APDS, HEAT, and HESH shells, it was much more capable of dealing with Soviet T-54/55s and T-62s as well as entrenched infantry.
 
-The Sho't Kal Alef is an upgraded version of Israel's Centurion fleet with an American 105 mm gun, powerplant, and new FCS. For players familiar to the British [[Centurion Mk 10]] or Swedish [[Strv 101]], the enhanced mobility will certainly help players to move around the battle. However, the Centurion Mk 5 chassis means the overall protection is inferior to competitors, where even APCBC can pose a lethal threat to the Alef's existence.
-
-The name "Sho't Kal Alef" can be roughly translated as ''Centurion tank (Sho't; lit. "Whip") with Continental engine (Kal) Model A'' (Alef is the 1st letter of the Hebrew alphabet).
+It was introduced in [[Update "Wind of Change"]]. The Sho't Kal Alef is an upgraded version of Israel's Centurion fleet with an American 105 mm gun, powerplant, and new FCS. For players familiar to the British [[Centurion Mk 10]] or Swedish [[Strv 101]], the enhanced mobility will certainly help players to move around the battle. However, the Centurion Mk 5 chassis means the overall protection is inferior to competitors, where even APCBC can pose a lethal threat to the Alef's existence. The Sho't Kal Alef does not have a stabilizer, unlike previous versions with inferior guns, however gun handling is still decent and it can be used to shoot while moving in hands of a skilled player.
 
 == General info ==
 === Survivability and armour ===
@@ -153,11 +151,7 @@ Players do have to keep in mind that, despite the upgraded gun, the armour itsel
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-'''Combat history'''
-
-The Sho't tank served in the Six-Day War in 1967 and the Yom Kippur war in 1973; one of them, belonging to the 188th Armored Brigade, was operated by Captain Zvika Greengold, an Israeli tank ace. However, as all tanks in the opening days of the 1973 Yom Kippur war, it proved exceedingly vulnerable to Soviet-made weapons such as the RPG-2, RPG-7, and briefcase Sagger guided missile, weapons which the Egyptians used in large numbers in the crossing of the Bar Lev line. It is estimated that the Israeli armed forces lost up to 40% of their southern armored groups during the first two days of the war, highlighting the necessity for infantry support to armoured groups, culminating in the Merkava main battle tanks being equipped with rear troop bays.
-
-The Sho't was also used in the 1978 and 1982 invasions of Lebanon.
+''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
 Images<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -178,10 +172,7 @@ Images<!-- ''Excellent additions to the article would be video guides, screensho
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[Sho't (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

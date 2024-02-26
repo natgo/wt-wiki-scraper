@@ -1,3 +1,8 @@
+{{About
+| about = French strike aircraft '''{{PAGENAME}}'''
+| usage = the other version
+| link = Etendard IVM
+}}
 {{Specs-Card
 |code=super_etendard_97
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -249,7 +254,9 @@ Exported to nations like Iraq and Argentina, it participated in various conflict
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=super_etendard_97 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -264,10 +271,8 @@ Exported to nations like Iraq and Argentina, it participated in various conflict
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8462-development-super-etendard-thirsty-for-battle-en|[Devblog] Super Etendard: Thirsty For Battle]]
 
 {{AirManufacturer Dassault}}
 {{France jet aircraft}}

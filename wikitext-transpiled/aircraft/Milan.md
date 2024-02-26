@@ -10,7 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]], however it was removed from the Gaijin store at the end of the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]]. It was briefly made available for purchase with Golden Eagles {{GE}} for the [[wt:en/news/8356-special-a-decal-and-two-aircraft-for-bastille-day-en|2023 "Bastille Day"]] mini-event.
+The '''{{Specs|name}}''' started being developed in 1968 after the Swiss Air Force presented its interest in acquiring a modified Mirage III with more manoeuvrability and specialized in tactical support. Thus, the Milan was built, with the Mirage III as a basis but with the weapon systems of the Jaguar. The biggest improvement came in the form of retractable whiskers located on the nose of the aircraft, which reduced takeoff distance and provided more lift. The Milan took its maiden flight on May 29, 1970, however, in 1972, the Swiss Air Force decided to upgrade its Hunters and instead buy the Northrop F-5.
+
+Introduced in [[Update "Danger Zone"]], the '''{{Specs|name}}''' is a capable multirole fighter for its BR, thanks mainly to its sizable payload for ground attacks and its powerful engine, as well as having access to a ballistics computer for bombs and rockets, is why is commonly used as a strike aircraft rather than a fighter in War Thunder. The Milan does suffer from a few issues compared to the Mirage IIIC/E or Mirage 5F, lacking access to the Matra Magic 1 or R530 missile, as well as lacking countermeasures. For air-to-air combat, it is more important than ever to stay fast and launch AIM-9B Sidewinders only at unsuspecting enemies from distances below 2 km, since the missile does not have a very long range.
+
+The Milan was removed from the Gaijin store at the end of the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]]. It was briefly made available for purchase with Golden Eagles {{GE}} for the [[wt:en/news/8356-special-a-decal-and-two-aircraft-for-bastille-day-en|2023 "Bastille Day"]] mini-event.
 
 == General info ==
 === Flight performance ===
@@ -179,6 +183,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 36 x SNEB type 23 rockets
@@ -236,6 +241,7 @@ The Mirage Milan represented in the game is a Mirage IIIR (reconnaissance varian
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mirage_milan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

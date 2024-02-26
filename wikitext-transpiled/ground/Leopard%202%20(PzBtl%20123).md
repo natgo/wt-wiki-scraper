@@ -42,7 +42,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The mobility of this vehicle is very good. It can usually travel 30-40 MPH (48-64 KPH) on level, flat ground and the down-slopes of hills. Otherwise, its mobility can range from 20-35 MPH (32-56 KPH) on rough terrain and the up-slopes of hills. It can go approximately 20 MPH backwards. It is very manoeuvrable and can make sharp turns easily.
+The mobility of this vehicle is very good. It can usually travel 48-64 km/h (30-40 mph) on level, flat ground and the down-slopes of hills. Otherwise, its mobility can range from 32-56 km/h (20-35 mph) on rough terrain and the up-slopes of hills. It can go approximately 20 MPH backwards. It is very manoeuvrable and can make sharp turns easily.
 
 {{tankMobility|abMinHp=2,032|rbMinHp=1,327}}
 

@@ -80,7 +80,7 @@ The M1A2's gun handles very well, with a very efficient stabilizer that allows a
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 42 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
+| rowspan="2" | 42 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 6.50 || rowspan="2" | 5.75 || rowspan="2" | 5.30 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0

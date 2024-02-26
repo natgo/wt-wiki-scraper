@@ -121,7 +121,7 @@ In Realistic battles, the Quadruplo is best used in the support role when tank h
 
 '''Cons:'''
 
-* Low reverse speed
+* Terrible reverse speed
 * HVAP-T PzGr 40 belt is a tier IV modification
 * Performance is inadequate when stock
 * Gap in the gunner's position of the turret armour

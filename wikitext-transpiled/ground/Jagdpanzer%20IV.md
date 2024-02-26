@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|German armoury designation:]] '''Sd.Kfz. 162''') , is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced in during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''Jagdpanzer IV''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 162''') is the first variant of the Panzer IV medium tank-based tank destroyer family. It was created as a successor to the [[StuG III (Family)|Sturmgeschütz III assault gun family]] against the wishes of Heinz Guderian, the inspector general of the Panzertruppen, and was the first casemate-style turretless tank destroyer built on a Panzer IV medium tank chassis. It is armed with a 75 mm Panzerjägerkanone 39 L/43 tank gun. The armour plates on the front are sloped. Internally, the ammunition racks and fuel tanks were moved to make room for the new superstructure. The auxiliary engine that drove the turret traverse mechanism was removed from the vehicle since it did not have a turret. The 80 mm thick sloping armour on the new superstructure provided effective protection equivalent to more than 100 mm of vertical armour. The superstructure was constructed from huge, interconnecting plates that were welded together to simplify the production process.
+
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Jagdpanzer IV is a heavily armoured tank destroyer that can be played in both offensive and defensive roles. Its strong frontal armour plates make it difficult for most adversaries to penetrate. However, since it lacks a turret, players should not use it on city maps with narrow streets. Nevertheless, it is a formidable vehicle with excellent defence and main armament. It should be easy for players to take the initiative and lead the attack or hold down choke points.
 
 == General info ==
 === Survivability and armour ===
@@ -216,6 +218,7 @@ The generally successful vehicle had a number of shortcomings. Its front armour 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_jgdpz_IV_L48 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -227,9 +230,11 @@ The generally successful vehicle had a number of shortcomings. Its front armour 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[Pz.IV (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[StuG III G]]
 * [[SU-85]]
 * [[75/46 M43]]

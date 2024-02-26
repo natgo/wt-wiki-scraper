@@ -201,7 +201,8 @@ The Challenger 2 is less agreeable in urban situations, where proper cover is mo
 * 36 km/h reverse speed, a far cry from the early poor reverse speed of other British MBTs
 * Has ESS, smoke shells and smoke grenades, a potential combat support tank
 * Excellent armour protection levels and can get upgraded chemical protection with Dorchester armour pack
-* Ammunition on the turret is inert; less vulnerable to overpenetrating shots by APFSDS, like on [[Ariete]]. (NATO tanks with "blowout panel" as [[IPM1]], get sniped through the turret)
+* Ammunition on the turret is inert; less vulnerable to overpenetrating shots by APFSDS. (NATO tanks with "blowout panel" as [[IPM1]], can get sniped through the turret and explode)
+* Only strongest HE ATGM can overpressure the driver port, effectively making it immune to the "HE to the turret neck" strategy that can instantly obliterate any other MBT (protects against certain kinds of players and ATGM tanks)
 
 '''Cons:'''
 
@@ -211,6 +212,7 @@ The Challenger 2 is less agreeable in urban situations, where proper cover is mo
 * Ammunition propellants are strewn inside the vehicle; hull or side penetrations often result in ammo detonation (Avoidable with only 16 shells loaded)
 * Sub-par acceleration and top speed relative to many other MBTs
 * Prior to mobility upgrades being researched, manual neutral gear selection is required for reasonable hull traverse
+* Can't fight well against high ground, particularly if enemy has superior APFSDS
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

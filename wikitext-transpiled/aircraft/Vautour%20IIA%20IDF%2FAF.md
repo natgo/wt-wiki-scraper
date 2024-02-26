@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French jet bomber {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]] as a [[wt:/en/news/6072-shop-update-1-87-pre-orders-en|premium pack]] in the Gaijin store and was removed from the store with the introduction of the [[Update "Winged Lions"]].
+The '''Vautour IIA''' was a jet-powered attack aircraft designed by France during the 1950s. It was operated by Israel alongside the IIN variant. Armed with cannons and rockets, it was used in aerial reconnaissance duties but had the capabilities to perform Close Air Support missions thanks to its large amount of anti-ground ordnance. A total of 25 Vautour IIAs were sold to Israel from the inventories of the French Air Force. The aircraft participated in the Six Days War and Yom Kippur War, and was retired shortly after.
+
+It was introduced in [[Update 1.87 "Locked On"]] as a [[wt:/en/news/6072-shop-update-1-87-pre-orders-en|premium pack]] in the Gaijin store and was removed from the store with the introduction of the [[Update "Winged Lions"]]. The Vautour IIA has very good flight performance compared to most bombers. The engines of the Vautour can beat most subsonic jets, both in top speed and acceleration. The aircraft has decent manoeuvrability for a bomber, and since it lacks any way to guide bombs precisely to its destination it's better used in low level attacks, flying close to the ground and dropping the bombs close to the target. These can be dangerous but is the most effective way to destroy enemy bases and ground units.
 
 == General info ==
 === Flight performance ===
@@ -140,11 +142,42 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|100/50 kg G.P. (100 kg)|250/50 kg G.P. (250 kg)|360/50 kg G.P. (360 kg)|500/50 kg G.P. (500 kg)}}
-{{main|Shafrir|SNEB type 23|T10 140|T10 151}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_S.O.4050_Vautour_IIA.png]]</div>
+|-
+! [[100/50 kg G.P. (100 kg)|100/50 kg G.P.]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[250/50 kg G.P. (250 kg)|250/50 kg G.P.]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[360/50 kg G.P. (360 kg)|360/50 kg G.P.]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[500/50 kg G.P. (500 kg)|500/50 kg G.P.]] bombs
+| 1 || 1 || 2 || 1 || 1
+|-
+! [[SNEB type 23]] rockets
+| 19 || 19 || || 19 || 19
+|-
+! [[T10 140]] rockets
+| 6 || 6 || || 6 || 6
+|-
+! [[T10 151]] rockets
+| 6 || 6 || || 6 || 6
+|-
+! [[Shafrir]] missiles
+| 1 || 1 || || 1 || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 10 x 100/50 kg G.P. bombs (1,000 kg total)
 * 4 x Shafrir missiles
 * 76 x SNEB type 23 rockets
@@ -153,38 +186,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 10 x 250/50 kg G.P. bombs (2,500 kg total)
 * 10 x 360/50 kg G.P. bombs (3,600 kg total)
 * 6 x 500/50 kg G.P. bombs (3,000 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_S.O.4050_Vautour_IIA.png]]</div>
-|-
-! 100/50 kg G.P. bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 250/50 kg G.P. bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 360/50 kg G.P. bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 500/50 kg G.P. bombs
-| 1 || 1 || 2 || 1 || 1
-|-
-! SNEB type 23 rockets
-| 19 || 19 || || 19 || 19
-|-
-! T10 140 rockets
-| 6 || 6 || || 6 || 6
-|-
-! T10 151 rockets
-| 6 || 6 || || 6 || 6
-|-
-! Shafrir missiles
-| 1 || 1 || || 1 || 1
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -213,7 +215,6 @@ Vautours: The Vautour's great performance means its greatest enemy is going to b
 
 '''Pros:'''
 
-* Normally able to reach bombing points before being intercepted
 * Good top speed, able to keep up with fighters at its rank
 * Good energy retention
 * Versatile, has access to a wide range of ordnance including air-to-air missiles

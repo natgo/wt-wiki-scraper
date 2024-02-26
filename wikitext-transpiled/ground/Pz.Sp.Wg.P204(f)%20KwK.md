@@ -71,26 +71,26 @@ As a wheeled vehicle, the Pz.Sp.Wg.P204(f) KwK is fast and has a good mobility o
 {{:KwK L/42 (50 mm)/Ammunition|PzGr 39, PzGr 40}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.31.1.37''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
-! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''26''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || No
+| '''26''' || 23&nbsp;''(+3)'' || 19&nbsp;''(+7)'' || 1&nbsp;''(+25)'' || No
 |-
 |}
+'''Notes''':
+* Shells are modelled individually and disappear from the rack after having been loaded into the breech.
+* If you pack 19&nbsp;''(+7)'' shells, it will keep the turret empty of ammo.
+{{Clear}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 With a lack of a coaxial machine gun and poor armor, players may find head on attacks against enemies difficult. Instead utilization of their speed and powerful cannon will be their main objective. Flank attacks and supporting fire for teammates are highly recommended. The high agility of the vehicle also allows for the capture of objectives quickly and efficiently while being able to avoid enemies. However a lack of ammunition does force the player to select their shots carefully as one too many missed or wasted shots can result in a quick return to the hanger. With the lack of a roof and armor in the rear it's highly recommended to always be facing the enemy. Despite being weak, the armor of the turret prevents mostly machine gun fire from harming the loader and gunner. The protection of these two members can be the factor between losing the vehicle or being able to limp back to a control point.
 
@@ -119,6 +119,9 @@ With a lack of a coaxial machine gun and poor armor, players may find head on at
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_amd_35_kwk Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|0k4QRAI_ILw|'''The Shooting Range #369''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}

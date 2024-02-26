@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''{{Specs|name}}''', also called ''Magach 6 Alef'' in some situations, was the earliest version of the Magach 6 family, which was just the name given by Israel to the American M60, M60A1 and M60A3 tanks. The Magach 6A was a modernized M60A1 with some modifications, including the low profile Urdan cupola and in some cases Blazer ERA. The tanks saw extensive use in combat in the Yom Kippur War, 1982 Lebanon War and against insurgent groups. All Magach 6As were eventually upgraded to the Magach 6B ''(6 Bet)'' standard.
+
+It was introduced in [[Update "Wind of Change"]]. The Magach 6A is very similar to the American M60A1, however unlike the American tank, it lacks any kind of gun stabilizer, so it needs to be played in a more passive role. Since pushing is not as easy as it is with a stabilizer, ambushing and flanking become better options, where the low profile of the M60 and its relative good mobility come in handy. The tank has access to APDS and HEAT-FS as its main anti tank rounds, and while the HEAT-FS have a higher penetration value, they are less effective at dealing with ERA and also have a less post penetration damage, however they are more effective at destroying critical components if you have good precision thanks to their more concentrated post-penetration damage.
 
 == General info ==
 === Survivability and armour ===
@@ -172,6 +174,7 @@ In closed quarters combat and urban environments, stick to nearby teammates if y
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_6a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

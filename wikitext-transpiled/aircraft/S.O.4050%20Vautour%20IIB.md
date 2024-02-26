@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The S.O.4050 Vautour II was a French project with the intention of creating a capable multirole twin-engined aircraft that could be used as a frontline bomber, close air support, or as an all-weather interceptor. With different variants developed, each one to fulfil a separate task, the '''Vautour IIB''' was the bomber of the family. Compared to the previous Vautour IIA, this one added an additional crew member at the front of the aircraft in a transparent nose, tasked with acquiring the target to release the bombs. A total of 40 Vautour IIBs were built, with some being sold to Israel in 1960.
+
+It was introduced in [[Update 1.73 "Vive la France"]]. The '''{{Specs|name}}''' acts as a bomber, as such, your main objective in air battles is to destroy enemy bases or destroy ground units to drain enemy tickets. Since it has a very good acceleration, it is one of the first to take off from the runway. When bombing, there are two main options: climbing to high altitudes and releasing the bombs from there works well but only in downtiers, since your lack of countermeasures makes it easy for enemy interceptors to attack you. The other option is rushing the enemy base, this works better and your acceleration makes it easier to be one of the first to reach the base, stay close to your team since you lack the agility or the countermeasures to avoid being hit by a missile or intercepted by a fighter.
 
 == General info ==
 === Flight performance ===
@@ -127,49 +129,50 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet bomber {{Battle-rat
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|M117 cone 45 (750 lb)|AN-M65A1 Fin M129 (1,000 lb)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 10 x 250 lb AN-M57 bombs (2,500 lb total)
-* 10 x 500 lb AN-M64A1 bombs (5,000 lb total)
-* 10 x 750 lb M117 cone 45 bombs (7,500 lb total)
-* 6 x 1,000 lb AN-M65A1 Fin M129 bombs (6,000 lb total)
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_S.O.4050_Vautour_IIA.png]]</div>
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_S.O.4050_Vautour_IIA.png]]</div>
 |-
-! 250 lb AN-M57 bombs
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
 | 1 || 1 || 6 || 1 || 1
 |-
-! 500 lb AN-M64A1 bombs
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
 | 1 || 1 || 6 || 1 || 1
 |-
-! 750 lb M117 cone 45 bombs
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
 | 1 || 1 || 6 || 1 || 1
 |-
-! 1,000 lb AN-M65A1 Fin M129 bombs
+! [[AN-M65A1 Fin M129 (1,000 lb)|1,000 lb AN-M65A1 Fin M129]] bombs
 | 1 || 1 || 2 || 1 || 1
 |-
 | colspan="6" | Maximum permissible weight imbalance: 1,000 kg
 |-
 |}
 
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 10 x 250 lb AN-M57 bombs (2,500 lb total)
+* 10 x 500 lb AN-M64A1 bombs (5,000 lb total)
+* 10 x 750 lb M117 cone 45 bombs (7,500 lb total)
+* 6 x 1,000 lb AN-M65A1 Fin M129 bombs (6,000 lb total)
+{{Navigation-End}}
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Vautour IIb has very good acceleration, after takeoff side climb to 5000 m. From there you have two options,
+Vautour IIB has very good acceleration, after takeoff side climb to 5000 m. From there you have two options,
 
-;Diving
+;'''Diving:'''
 
-One way of playing the Vautour IIb is diving, rushing into a base bombing point and bombing it. Doing this can guaranteed a chance to drop a bomb at the base if the map is small enough to reach it. Following the bombing, the plane will still have a high speed due to the dive and so it can quickly withdraw back to the base to land and reload. However; this tactic doesn't work as well on larger maps where it would take a longer time to reach a base to bomb. Not to mention that doing so will sacrifice altitude and cause the Vautour to be below many enemy fighters, which the Vautour cannot defend itself due to lack of armaments.
+One way of playing the Vautour IIB is diving, rushing into a base bombing point and bombing it. Doing this can guaranteed a chance to drop a bomb at the base if the map is small enough to reach it. Following the bombing, the plane will still have a high speed due to the dive and so it can quickly withdraw back to the base to land and reload. However; this tactic doesn't work as well on larger maps where it would take a longer time to reach a base to bomb. Not to mention that doing so will sacrifice altitude and cause the Vautour to be below many enemy fighters, which the Vautour cannot defend itself due to lack of armaments.
 
-;Keeping your altitude
+;'''Keeping your altitude:'''
 
-The other way of using the Vautour IIb is by keeping your altitude and climbing and then using your bombsight to bomb a base. Staying at a high altitude can prove safer as it can cause the Vautour to stay atop of many enemy fighters. However, bombing can be harder due to many more variables to keep account for when using the bomb sight. Getting up to altitude at standard speed can also make reaching the base harder, and so it would take a longer time to complete a bombing run. In some cases, more well-performing fighters like the F-100s can make this tactic moot as their speed will ensure they catch up and destroy the Vautour before it has a chance to drop its payload.
+The other way of using the Vautour IIB is by keeping your altitude and climbing and then using your bombsight to bomb a base. Staying at a high altitude can prove safer as it can cause the Vautour to stay atop of many enemy fighters. However, bombing can be harder due to many more variables to keep account for when using the bomb sight. Getting up to altitude at standard speed can also make reaching the base harder, and so it would take a longer time to complete a bombing run. In some cases, more well-performing fighters like the F-100s can make this tactic moot as their speed will ensure they catch up and destroy the Vautour before it has a chance to drop its payload.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -181,7 +184,6 @@ The other way of using the Vautour IIb is by keeping your altitude and climbing 
 * Energy retention is great
 * Airbrakes, you will need them to avoid compressing in a dive
 * Possesses a bombsight
-* Bomber airspawn (often above 3,000 m)
 
 '''Cons:'''
 

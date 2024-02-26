@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (妙高, [[Abbreviations#.28JP.29_Naval|namesake]]: Mount Myōkō) is a premium rank {{Specs|rank}} Japanese heavy cruiser {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The '''{{Specs|name}}''' (妙高, [[Abbreviations#.28JP.29_Naval|namesake]]: Mount Myōkō) was the lead ship of the four-member Myoko-class heavy cruiser, which was first Japanese vessel exceeding the Washington Naval Treaty limits. She was launched in 1927 and commissioned in 1929. She saw action in several battles during World War II, such as the Battle of the Java Sea, the Battle of Midway, and the Battle of Leyte Gulf. In 1944, she suffered severe damage from air strikes and could not return to Japan. She remained in Singapore as a floating anti-aircraft platform with another heavy cruiser, Takao. They both survived the war, but were handed over to the Royal Navy and sunk as target practice in 1946.
+
+She was introduced in [[Update "Apex Predators"]]. The Myoko is a cruiser with moderate armor and crew, powerful long-range cannons, and two quick floatplanes. She can take some hits, but she is better off fighting from a distance, using her forward turrets and angling her hull to protect herself. She can also capture points and ambush enemies by utilizing her speed and cover, but she has to watch out for her slow turret traverse and weak bridge. She is a versatile ship that can support the friendly fleet in different ways.
 
 == General info ==
 === Survivability and armour ===
@@ -104,6 +106,9 @@ It is also viable to utilize the speed of the Myoko to capture points and take a
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_cruiser_myoko Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|w9aNy0MJ914|'''IJN Myoko - The Ultimate Guide to Myoko-Class Cruisers''' - ''Cmdr. Tyrael''}}

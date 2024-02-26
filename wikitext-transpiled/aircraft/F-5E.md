@@ -118,6 +118,15 @@ The F-5E is a light fighter, as such it has no armour. If it loses its wing or t
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="5" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+|-
+| {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -211,18 +220,21 @@ If an enemy jet follows the {{PAGENAME}}, be prepared to defend against a missil
 '''Pros:'''
 
 * Great manoeuvrability
-* amazing energy retention above .90 Mach
+* Amazing energy retention above .90 Mach
 * Large selection of air-to-ground armaments, including Maverick air-to-ground missiles
 * Generous ammunition capacity for guns
 * Small target
-* improved engines over its predecessor, improving its speed and manoeuvrability
+* Improved engines over its predecessor, improving its speed and manoeuvrability
 * Efficient afterburner allows the use of lower fuel reserves, improving performance
+* EEGS (Enhanced Envelope Gun Sight) allows for more accurate shots
+* Modern RWR with IFF + track, launch and threat type detection
 
 '''Cons:'''
 
-* even though it has improved engines over the F5C, it still has a low top speed compared to the competition
-* M39A3 cannons don't deal as much damage as cannons like the M61 Vulcan, or the soviet GSh-23L
-* no BVR capabilities
+* Even though it has improved engines over the F-5C, it still has a low top speed compared to the competition
+* M39A3 cannons don't deal as much damage as cannons like the M61 Vulcan, or the Soviet GSh-23L
+* No BVR capabilities
+* Radar lacks IFF and different search angle modes
 * Can only carry a maximum of two air-to-air missiles, making this plane mostly a gun fighter
 * No ballistic computer
 * RWR cannot detect J-band radar, making it impossible to detect radar emissions from MiG-21s and MiG-23s
@@ -256,6 +268,9 @@ Back in 1972, the USAF realised the need for dissimilar aircraft combat training
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-5e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|Zxuj5qagO0Q|'''F-5E In War Thunder : A Basic Review''' - ''Tim's Variety War Thunder'''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

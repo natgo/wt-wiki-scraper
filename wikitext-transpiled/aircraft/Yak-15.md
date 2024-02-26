@@ -138,7 +138,9 @@ In Realistic battles, climbing with this aircraft at the start of a match is not
 
 Additionally, vertical manoeuvres should be used in favour of horizontal manoeuvres, especially when not actively engaging with an enemy. For example, if turning to approach an enemy, it is best to use a 180° vertical loop rather than a horizontal 180° turn, as this allows you to convert the potential energy gained from your height increase into horizontal speed as you dive. This is a key skill in flying the Yak-15 as speed losses from horizontal manoeuvres take a long time to recover, and should be employed whenever needing to adjust for a horizontal deviation of 30° or greater. Additionally, pilots should refrain from making high-G manoeuvres outside of combat, and should keep all control inputs smooth.
 
-However, the Yak-15 is severely hampered in its damage output due to its reliance on a single set of 23 mm NS-23 cannons, with 120 shells total. It is possible to expend this pool in seconds. The Yak-15 shares this downfall with aircraft like the [[Ki-200|Ki-200]], and the [[Me_163_B|Me-163]]. Firing in small, accurate bursts negates this and is the most efficient way of destroying enemies. The 23 mm shells these cannons fire are extremely deadly when they hit and often rip enemies apart.
+One tactic that you can employ is to "zoom climb" to 1,500 m, and then gain as much speed as possible (600+ km/h is best) and wait for another plane to attempt a head on attack. From there, at 1.2 km away, start to make yourself a mildly harder target, and at 600 m, start to commence a half-loop. Doing this will grant you the ability to get on your opponent's tail, and the already commenced turn for better turn times. If your opponent is foolish enough to commence a dogfight, then carefully use your 23 mm to hit them once you're around 400 m away and on their tail. This will work against all planes of all nations, including the [[Spitfire F Mk 24]] and Japanese fighters alike. If the opponent is smart enough to continue flying away, leave them to regain some altitude and speed, and attempt again. If the maneuver is also done incorrectly and your opponent manages to get their sights on you first, then try to outrun them, using your fantastic straight line energy retention and altitude.
+
+However, the Yak-15 is severely hampered in its damage output due to its reliance on a single set of 23 mm NS-23 cannons, with 120 shells total. It is possible to expend this pool in seconds. The Yak-15 shares this downfall with aircraft like the [[Ki-200]], and the [[Me 163 B]]. Firing in small, accurate bursts negates this and is the most efficient way of destroying enemies. The 23 mm shells these cannons fire are extremely deadly when they hit and often rip enemies apart.
 
 To use the guns most effectively, be close to your target. The reason for this is twofold: First, the limited ammo means you want your shots to count. Being close to your target will give your cannons the highest chance of hitting. The second reason is because of the ballistics of the 23 mm shells - their muzzle velocity is not very high, meaning you have to lead your targets by quite a bit. If you are closer to your target, you won't have to lead them by quite as much, although still more than most other cannons.
 
@@ -148,13 +150,13 @@ In Arcade battles, the Yak-15 is capable of breaking up a "furball" due to its i
 
 '''Enemies of note:'''
 
-[[Kikka]] - These are significantly faster than you, and climb better. Since they control the engagement, you cannot do much unless they decide to dogfight with you.
+* [[Kikka]] - These are significantly faster than you, and climb better. Since they control the engagement, you cannot do much unless they decide to dogfight with you.
 
-[[A2D-1]] -  These turboprops are some of the most common opponents you will see. You vastly outmanoeuvre them, but they can full surprisingly sharp turns and have extremely powerful armament.
+* [[A2D-1]] -  These turboprops are some of the most common opponents you will see. You vastly outmanoeuvre them, but they can full surprisingly sharp turns and have extremely powerful armament.
 
-[[F-84G-21-RE]] - Found in several nations, these fighters are extremely fast, well armed, and durable. Similar to the Kikka, it can control engagements with you so unless they make a mistake, they will be untouchable, as well as being able to take a few hits from your cannons.
+* [[F-84G-21-RE]] - Found in several nations, these fighters are extremely fast, well armed, and durable. Similar to the Kikka, it can control engagements with you so unless they make a mistake, they will be untouchable, as well as being able to take a few hits from your cannons.
 
-[[SK60B]] - Being slower than you, you can generally control the engagement. However, they are one of the few planes that can manoeuvre with you, so it will require a fair amount of dogfighting knowledge in order to shoot down, and mistakes will be punished-one hit from the 30 mm ADENs will result in critical damage.
+* [[SK60B]] - Being slower than you, you can generally control the engagement. However, they are one of the few planes that can manoeuvre with you, so it will require a fair amount of dogfighting knowledge in order to shoot down, and mistakes will be punished-one hit from the 30 mm ADENs will result in critical damage.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -169,7 +171,7 @@ In Arcade battles, the Yak-15 is capable of breaking up a "furball" due to its i
 
 '''Cons:'''
 
-* 2nd slowest jet fighter of the game
+* Slow jet fighter
 * Low ammunition count
 * Mediocre rate of climb
 * Poor acceleration

@@ -181,6 +181,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 2 x AIM-9J Sidewinder missiles
@@ -203,7 +204,7 @@ The Italian F-104G, unlike other F-104, carries chaff and flares so players also
 Recommended payloads:
 
 * 2 x AIM-9J for air battles
-* 1 x 2,000 lb, 2 x 1,000 lb, AIM-9J for mixed battles to shoot down planes and destroy tanks with the bombs tanks
+* 1 x 2,000 lb, 2 x 1,000 lb, AIM-9J for mixed battles to shoot down planes and destroy tanks with the bombs.
 
 '''Air RB:'''
 

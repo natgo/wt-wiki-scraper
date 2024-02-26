@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German tank destroyer {{Battle
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The UFP and LFP are invulnerable to heavy machine gun fire. However, that's about the most they can stop. The armour in the turret in front of gunner is extremely thin, at just 10 mm angled. It can stop rifle-calibre fire, but heavy machine guns will easily knock the gunner out.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -21,18 +21,15 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German tank destroyer {{Battle
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 20 mm (°55) ''Front glacis''
-20 mm (°45) ''Lower glacis''
-| 12.7 mm || 20 mm (°55) ''Front glacis''
-25 mm (°45) ''Lower glacis''
+| Hull || 30 mm (°55) ''Front glacis'' <br> 20 mm (°45) ''Lower glacis''
+| 12.7 mm || 20 mm (°55) ''Front glacis''<br> 25 mm (°45) ''Lower glacis''
 | 10 mm
 |-
 | Turret || 8 - 10 mm ''Turret front'' <br> 25 mm ''Gun mantlet'' || 10 mm || 10 mm || 10 mm
 |-
 |}
+'''Notes:'''
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 * Suspension wheels are 10 mm thick, tracks are 15 mm thick
 
 === Mobility ===

@@ -188,6 +188,7 @@ Due to the Yak-1's manoeuvrability and armament, the main role will be employed 
 * Good acceleration and top speed at low altitudes.
 * Even though its frame is constructed of wood, the Yak can take a lot of punishment and still perform well.
 * Powerful cannon with limited ammo/dual machine guns with an adequate amount of ammo.
+* Neutral gas pressurization makes hits to fuel tanks harder to set it on fire.
 
 '''Cons:'''
 

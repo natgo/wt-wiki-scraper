@@ -99,9 +99,9 @@ The Sd.Kfz.251/22 with its long 75 mm cannon is great for penetrating the heavil
 
 It can't be exposed directly to enemy fire but the vehicle is good for hanging behind larger tanks, assisting with supporting fire.
 
-Use the long range to your advantage, since this tank destroyer was designed to engage tanks from a safe distance. Being on a hill top or across a lake is perfect for this. Always take into account that the light armour is a downisde and you can be destroyed by even light armament aircraft with basic 7.62 mm machineguns, so try to find some cover when planes are around.
+Use the long range to your advantage, since this tank destroyer was designed to engage tanks from a safe distance. Being on a hill top or across a lake is perfect for this. Always take into account that the light armour is a downside and you can be destroyed by even light armament aircraft with basic 7.62 mm machineguns, so try to find some cover when planes are around.
 
-There are not many tanks to avoids in the BR for this tank, engaging more than one enemy at a time is not recommended due the light armor and open top exposing the crew.
+There are not many tanks to avoid in the BR for this tank, engaging more than one enemy at a time is not recommended due the light armor and open top exposing the crew.
 
 Penetrating tanks like the T-34s, KV1s, M4s, Matildas is very easy due to the cannon's high penetration power.
 

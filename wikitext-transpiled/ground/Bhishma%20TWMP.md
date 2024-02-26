@@ -88,7 +88,7 @@ Sharing the same 2A46M-5 from T-90A and later series Russian tanks, all performa
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''43''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || 24&nbsp;''(+19)'' || 1&nbsp;''(+42)'' || __&nbsp;''(+__)'' || __
+| '''43''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
 |-
 |}
 
@@ -161,6 +161,9 @@ Overall, T-90S offers a departure from NATO playstyle while maintaining the fire
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_t_90s_bheeshma Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Images
 <gallery mode="packed-hover" heights="200">
 File:Bhishma TWMP WTWallpaper005.jpg
@@ -170,17 +173,16 @@ File:Bhishma TWMP WTWallpaper005.jpg
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[T-72 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[wt:en/news/8427-development-squadron-vehicles-t-90-bhishma-en|[Devblog]T-90 Bhishma: Squadron vehicles]]
+* [[wt:en/news/8427-development-squadron-vehicles-t-90-bhishma-en|[Devblog] Squadron vehicles: T-90 Bhishma]]
 
 {{Britain medium tanks}}
 {{Squadron ground vehicles}}

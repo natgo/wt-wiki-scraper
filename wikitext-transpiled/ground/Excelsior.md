@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (or just '''{{Specs|name}}''') is a premium gift rank {{Specs|rank}} British heavy tank {{Battle-rating}}. It was introduced in [[Update 1.67 "Assault"]] as a reward for the [[wt:en/news/4648-special-war-thunder-chronicles-en|2017 "War Thunder Chronicles"]] event. Based off the [[Cromwell (Family)|Cromwell]] chassis, the Excelsior provides a substantial armour upgrade with speed.
+The '''{{Specs|name}}''' was developed after early combat experience with Churchill infantry tanks. These tanks had very poor reliability and were also very slow for the modern battlefield. Thus, while the prototype A27 Cromwell was being developed, it was decided to use the A27 as a basis for a new universal tank meant to replace the cruiser and infantry tanks and combine them into a single vehicle. In 1942, the project was approved and the '''A33 Excelsior''' was born. However, the issues with the Churchill were fixed by 1943 and cruiser tanks were replaced by American M4 Shermans, thus the Excelsior was no longer needed and the project was cancelled.
+
+It was introduced in [[Update 1.67 "Assault"]] as a reward for the [[wt:en/news/4648-special-war-thunder-chronicles-en|2017 "War Thunder Chronicles"]] event. The Excelsior is a weird tank, since it combines reliable armour, with good mobility and decent firepower for its BR. The gun is a [[OQF Mk.V (75 mm)|75 mm OQF Mk.V]] with good penetration values, although it lacks access to APHE shells like most British tanks of WWII, the gun handling is also great at -12 degrees of depression. The tank is also fairly survivable, especially if it is angled, and also has access to smoke launchers to easily retreat or change position. However the reverse speed is very poor and it should be taken into consideration, while the armour is decent, the Excelsior is a very large target and will easily be spotted from far away.
 
 == General info ==
 === Survivability and armour ===
@@ -175,6 +177,7 @@ Today, the second prototype can be seen at the Bovington Tank Museum.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_33_excelsior Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -186,6 +189,7 @@ Today, the second prototype can be seen at the Bovington Tank Museum.
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Churchill VII]]
 * [[Churchill III]] / [[Pz.Kpfw. Churchill (Germany)]]
 

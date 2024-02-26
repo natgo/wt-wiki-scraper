@@ -260,17 +260,24 @@ Barak II aircraft have taken part in almost every Israeli military campaign sinc
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f_16d_block_40_barak_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* F-16 and its variants: [[F-16 (Family)|F-16 (Family) - War Thunder Wiki]]
+;Related development
+* [[F-16 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
-* ''other literature.'' -->{{AirManufacturer General Dynamics}}
+* ''other literature.'' -->
+
+* [[wt:en/news/8479-development-barak-ii-lightning-over-the-desert-en|[Devblog] Barak II: Lightning Over The Desert]]
+
+{{AirManufacturer General Dynamics}}
 {{Israel jet aircraft}}

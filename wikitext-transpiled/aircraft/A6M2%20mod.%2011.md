@@ -10,9 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.39]].
+The '''{{Specs|name}}''', designated as the '''Type 0 Carrier-based Fighter Model 11 ({{Annotation|零式艦上戦闘機一一型|Rei Shiki Kanjō Sentōki, Ichi Ichi Gata}})''', was the pre-production model of the [[A6M]] series and was designed for combat evaluation over China. It differed from the later variants of the A6M in that it was not adapted for carrier operations; it lacked a tail hook, foldable wing tips, and the ability to carry external fuel tanks. The Navy was so impressed by the performance of the A6M1/2 prototypes that they ordered 15 units to be sent to China before official testing was completed. The A6M made its combat debut over China, where 13 A6M's shot down 27 Soviet-built I-15s and I-16s in three minutes without any losses, demonstrating the A6M's superiority over these aircraft. Once reports reached Navy HQ, they quickly authorized the mass production of the A6M as the [[A6M2|A6M2 mod. 21]].
 
-The very first production model of the [[A6M]] series was intended for evaluation combat over Chinese skies. Unlike the latter variants coming after the Model 11, it lacks a tail hook for carrier landings, foldable wing tips, and the ability to carry external fuel tanks.
+It was introduced in [[Update 1.39]]. The Model 11 is essentially a land-based prototype of the famous [[A6M]] series, without the necessary equipment for carrier operations. However, the A6M2 still retains the combat performance of a Zero. It has near unprecedented manoeuvrability, and deadly but limited and low-velocity 20 mm cannons. The A6M2 can dominate any dogfight at its own or lower altitude, depending on the pilot's skill, but it can be easily outrun by faster enemies. In that case, the pilot has to decide whether to take a final shot or break off the engagement, as pursuing the enemy may expose the Zero to interception by other fighters. If faced with a Boom-N-Zoom attack, the pilot must avoid the enemy's fire by using the Zero's agility, as the plane has no armour, self-sealing fuel tanks or robust airframe. Although the A6M2 is not the fastest plane in its tier, it can keep up with its opponents better than the later A6M5s, which encounter proportionally much faster aircraft more often.
+
+;Nicknames
+* IJN Pilot nickname: ''Reisen'' (零戦) / ''Zerosen'' (ゼロ戦) <small>(Abbreviation of 0 - {{Annotation|戦|Fight(er aircraft)}})</small>.
+* Allied reporting name: ''Zeke / Zero''.
 
 == General info ==
 === Flight performance ===

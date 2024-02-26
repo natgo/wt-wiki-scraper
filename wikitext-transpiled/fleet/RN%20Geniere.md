@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The RN Geniere laid down on 26 August 1937, launched on 27 February 1938, completed and commissioned on 15 December 1938, was assigned to the 11° Squadra Cacciatorpediniere and successively deployed to the 3°, 1°, 5°, 8° Divisione navale and, in 1942, to the Squadriglia Navale, in the pre-war period, the RN Geniere carried out training activities, participating in the Naval Review in Naples in 1939 and a cruise to the ports of North Africa and the Dodecannesso, and took part in the main naval actions of the Second World War, carrying out a very intense activity. The RN Geniere carried out 143 missions, of which 50 were escort missions and 13 search missions to the enemy, covering no less than 58,000 miles (93,341.952 km). The RN Geniere was destroyed on 1 March 1943 when she was in Palermo for alterations but fell victim to an enemy air attack that caused her to sink.
+'''RN Geniere''' was laid down on 26 August 1937, launched on 27 February 1938, completed and commissioned on 15 December 1938. She was assigned to the 11° Squadra Cacciatorpediniere and successively deployed to the 3°, 1°, 5°, 8° Divisione navale and, in 1942, to the Squadriglia Navale. In the pre-war period, Geniere carried out training activities, participating in the Naval Review in Naples in 1939 and a cruise to the ports of North Africa and the Dodecannesso. She also took part in the main naval actions of the Second World War, carrying out very intense activity. RN Geniere carried out 143 missions, of which 50 were escort missions and 13 were search missions, covering no less than 58,000 miles (93,000 km). RN Geniere was destroyed on 1 March 1943 when she was in Palermo for alterations but fell victim to an enemy air attack that caused her to sink.
 
-The RN Geniere was introduced as a [[wt:en/news/6690-development-italian-fleet-early-access-packs-en|premium pack]] in [[Update "Starfighters"]] and was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]]. It has been made available for purchase with Golden Eagles {{ge}} briefly during the [[wt:en/news/7733-special-italian-navy-day-en|2022]] and [[wt:en/news/7733-special-italian-navy-day-en|2023 "Italian Navy Day"]] mini-events. The RN Geniere is an excellent destroyer for its speed, manoeuvrability and torpedoes while, the armament is much less good, consisting of only 5 120mm cannons equipped only with AP and HE when used do not cause much damage, and for this reason, you have to learn to play very well with the AP to destroy enemy ships, the anti-aircraft armament is improved over  the other [[Soldati (Family)|soldati-class]] destroyers and allows you to destroy enemies coastal boats and planes at medium and short range.
+Introduced as a [[wt:en/news/6690-development-italian-fleet-early-access-packs-en|premium pack]] in [[Update "Starfighters"]], RN Geniere is an excellent destroyer for its speed, manoeuvrability, and torpedoes, while the main armament is not as good. It consists of only five 120 mm cannons equipped with AP and HE which do not cause much damage, making it vital to use the AP efficiently to destroy enemy ships. The anti-aircraft armament is improved over the other [[Soldati (Family)|Soldati-class]] destroyers and allows you to destroy enemy coastal boats and planes at medium and short range.
+
+RN Geniere was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]]. It has been made available for purchase with Golden Eagles {{ge}} briefly during the [[wt:en/news/7733-special-italian-navy-day-en|2022]] and [[wt:en/news/7733-special-italian-navy-day-en|2023 "Italian Navy Day"]] mini-events.
 
 == General info ==
 === Survivability and armour ===
@@ -80,7 +82,7 @@ The additional armament consists of six 533 mm [[S.I. 270/533,4X7,2 Tipo I (533 
 
 The torpedoes are placed in the center of the ship can only be launched when pointing left or right, due to the torpedo mode modification the torpedo range can be increased but the speed is reduced.
 
-Depth charges, on the other hand, are placed in launchers one on the left and one on the right, you have to use them in a certain way because they are not dropped into the water but are launched for a few tens of meters 
+Depth charges, on the other hand, are placed in launchers one on the left and one on the right, you have to use them in a certain way because they are not dropped into the water but are launched for a few tens of meters
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
@@ -117,13 +119,13 @@ Set up in Livorno by the OTO on August 26, 1937, and completed on December 15, 1
 
 On December 15, 1938, it entered service in the Regia Marina.
 
-On entry into the war was part of the XI Squadriglia Cacciatorpediniere,, which formed together with the twin 
+On entry into the war was part of the XI Squadriglia Cacciatorpediniere,, which formed together with the twin
 
 [[RN Aviere]], RN Artigliere and RN Camicia Nera.
 
 In 1940, was part of several patrol, enemy search and escort operations in the Sicilian Channel, areas near Libya and Malta.
 
-In 1941, the Geniere had its 120/15 illuminating gun replaced with a [[120 mm/50 O.T.O. Mod.1936 (120 mm)|120/50 OTO Mod.1936]] gun . The original AA armament of [[Breda Model 31 (13.2 mm)|13.2 mm Breda]] MGs was replaced by [[20 mm/65 Breda (20 mm)|20 mm/65 Breda]] cannons in 6 twin emplacements. 
+In 1941, the Geniere had its 120/15 illuminating gun replaced with a [[120 mm/50 O.T.O. Mod.1936 (120 mm)|120/50 OTO Mod.1936]] gun . The original AA armament of [[Breda Model 31 (13.2 mm)|13.2 mm Breda]] MGs was replaced by [[20 mm/65 Breda (20 mm)|20 mm/65 Breda]] cannons in 6 twin emplacements.
 [[File:RN Geniere combat I.png|thumb|RN Geniere during shotting exercises]]
 In 1942 I participated in some escorts with other destroyers and took part in the Battaglia di mezzo Agosto.
 

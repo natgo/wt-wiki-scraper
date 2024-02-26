@@ -79,11 +79,11 @@ The Ki-48 has above average armour for its BR and role. It has substantially mor
 '''Armour components include:'''
 
 * Three 16.5 mm steel plates:
-** One under the pilot, protecting him from attacks from enemy SPAAs
+** One as seat armour: protecting the pilot from small calibre rounds from behind
 ** One protecting the ventral gunner from fighters on your six
 ** One protecting the dorsal gunner from fighters on your six
 * One 12.5 mm steel plate: protecting the pilot from head-on attacks.
-* One 6.5 mm steel plate as seat armour: protecting the pilot from small calibre rounds from behind
+* Two 6.5 mm steel plates under the pilot, protecting him from attacks from enemy SPAAs
 
 The small self-sealing tanks, the armour, and the small engine cooling system make the Ki-48 a very survivable medium bomber, especially for Japanese standards.
 
@@ -106,11 +106,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-{{main|Type 98 (7.92 mm)}}
+{{main|Type 1 (7.92 mm)|Type 98 (7.92 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-* 1 x 7.92 mm Type 98 machine gun, dorsal turret (1,000 rpg)
+* 1 x 7.92 mm Type 1 machine gun, dorsal turret (1,000 rpg)
 * 1 x 7.92 mm Type 98 machine gun, ventral turret (675 rpg)
 
 == Usage in battles ==
@@ -121,22 +121,25 @@ The Ki-48-II Otsu can be used as a frontline bomber in Air Battles, owing to its
 For Naval and Ground Battles, the Ki-48-II Otsu has the ability to equip the [[Ki-148 I-Go Model 1B]], a manually-guided cruise missile with 130 kg of TNT. Mounted under the fuselage, the missile adds a large amount of weight and drag, meaning that the pilot needs to find a target as quickly as possible to avoid being a target for interception.
 
 ==== Using the Ki-148 ====
-One will note that it is rather difficult to control the missile due to its natural tendency to pitch up at its maximum speed. Additionally, the visual control because increasingly difficult as the missile gets farther away from the aircraft. The pilot must keep the line of sight on the missile at all times to ensure it hits the target. This prevents the Ki-48 from taking evasive action whilst guiding the cruise missile. One trick to keeping the line of sight on the missile is to go into the gunner view, hover the crosshair on the target, and direct the missile to the crosshair. Launching the missile is relatively complicated due to the missile being unable to stay in front of the aircraft when dropped at too low of a speed or too high of an angle. Your best bet is to launch the missile less than 2 miles (3.5 km) away from the target at speeds exceeding 225 mph (375 km/h) to avoid being the missile lagging behind. If there is anti-air defense up, prioritize targeting it from farther away, to avoid being hit whilst guiding the missile.
+One will note that it is rather difficult to control the missile due to its natural tendency to pitch up at its maximum speed. Additionally, the visual control because increasingly difficult as the missile gets farther away from the aircraft. The pilot must keep the line of sight on the missile at all times to ensure it hits the target. This prevents the Ki-48 from taking evasive action whilst guiding the cruise missile. One trick to keeping the line of sight on the missile is to go into the gunner view, hover the crosshair on the target, and direct the missile to the crosshair. Launching the missile is relatively complicated due to the missile being unable to stay in front of the aircraft when dropped at too low of a speed or too high of an angle. Your best bet is to launch the missile less than 2 miles (3.5 km) away from the target at speeds exceeding 225 mph (375 km/h) to avoid being the missile lagging behind. If there is anti-air defense up, prioritize targeting it from farther away, to avoid being hit whilst guiding the missile. It's a good idea to cut throttle to 50% or less, to allow the missile to overtake the plane and to avoid approaching the target too quickly. This is especially useful when attacking groups of SPAAs, as they usually congregate near spawn and are closely packed together. Launch even farther away than normal, so they won't be able to hit you while guiding the missile.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="7" | MEC elements
+! colspan="8" | MEC elements
 |-
 ! rowspan="2" | Mixer
 ! rowspan="2" | Pitch
 ! colspan="3" | Radiator
 ! rowspan="2" | Supercharger
 ! rowspan="2" | Turbocharger
+! rowspan="2" |Magneto
 |-
 ! Oil !! Water !! Type
 |-
 | Controllable || Controllable<br>Not auto controlled || Controllable<br>Not auto controlled || Controllable<br>Not auto controlled || Separate || Controllable<br>2 gears || Not controllable
+|Controllable
+Not auto controlled
 |-
 |}
 
@@ -179,23 +182,26 @@ About 180 Ki-148 Missiles were built to defend the Japanese mainland for the ant
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-{{Youtube-gallery|bzFaOt1Cc_U|'''Ki-48-II Otsu in War Thunder''' - ''Tim's Variety War Thunder''|MXCd8-LSYsc|'''Ki-48-II otsu Lowtier ATGM''' - ''CaptainTonyYT''|ytjEDa9-Jqg|'''Ki-48 Otsu II + HONOUR MISSILE!''' - ''demologic76''}}
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ki_48_2_otsu Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|iaufXbHC0VU|'''The Shooting Range #377''' - ''Pages of History'' section at 03:27 discusses the {{PAGENAME}}.|bzFaOt1Cc_U|'''Ki-48-II Otsu''' - ''Tim's Variety War Thunder''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[Ki-148 I-Go Model 1B]],  the Cruise Missile that the Ki-48 is able to carry
 * [[Ki-49-I|Ki-49]], a similar frontline bomber
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+
+* [[wt:en/news/8492-development-tokushu-heiki-ki-48-ii-otsu-ki-148-missile-en|[Devblog] Tokushu Heiki: Ki-48-II Otsu & Ki-148 Missile]]
 
 {{AirManufacturer Kawasaki}}
 {{Japan bombers}}

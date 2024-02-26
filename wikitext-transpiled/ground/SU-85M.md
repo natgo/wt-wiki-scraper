@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced in during the Closed Beta Test for Ground Forces before Update 1.41. The SU-85M is basically the beefed up version of the regular [[SU-85]] with an increased frontal armour thickness from 45 mm into 75 mm that can save it from shots that would've been lethal for the SU-85. It also has an APCR shell modification for increased lethality against enemy tanks.
+The '''SU-85M''' was an improved design (rather than a separate variant) of the [[SU-85]] self-propelled gun used by the Soviets during World War II. It has slightly thicker frontal armour and a better commander cupola. There were 315 units built in total.
 
-When taking the vehicle out the first time, two things will be instantly noticeable: The armour and slow movement of the gun. The former being welcome and the latter being very painful. With the right ammunition between APHE and the APCR, the SU-85M is a very good vehicle in the role of a sniper and ambusher. Weary tanks will pop out of corners, unhappy to see a SU-85M locked and loaded. The SU-85M can also be used as a long range sniper due to the 85 mm's good velocity and damage, which could destroy vehicles in just one shot. Range also comes at an advantage as the 75 mm of front sloped armour at a distance of more than 1,500 m is impervious to most tanks of its BR.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the SU-85M should be played as a long-range sniper due to its powerful gun. Its lack of a turret makes it unsuitable for close-quarters combat, even with the thickness of its frontal armour increased compared to SU-85. Moreover, the protection gain is negligible due to the advent of more advanced enemies. It is therefore not a good idea to be close to the front lines. To increase the effectiveness of armour, players should stay behind the main fighting zone and eliminate enemy targets from far away, making the best use of long-distance and low silhouettes to enhance survivability.
 
 == General info ==
 === Survivability and armour ===
@@ -101,7 +101,7 @@ However, the SU-85M's firepower is greatly limited by the traverse angles. The i
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''60''' || 46&nbsp;''(+14)'' || 31&nbsp;''(+29)'' || 13&nbsp;''(+47)'' || 1&nbsp;''(+59)'' || No
+| '''60''' || 46&nbsp;''(+14)'' || 31&nbsp;''(+29)'' || 12&nbsp;''(+48)'' || 1&nbsp;''(+59)'' || No
 |-
 |}
 '''Notes''':
@@ -188,6 +188,7 @@ In spite of all the SPG's advantages, its firepower was insufficient to combat e
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_su_85m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

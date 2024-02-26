@@ -14,6 +14,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|re_2000_ga}}
 }}
+{{Tree-Skip}}
 |
 {{Tree-Group|cr_32_group|CR.32|
   {{Tree-Unit|cr_32}}
@@ -43,6 +44,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|fc_20_bis}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|s_81_ar125}}
 {{Tree-Arrow}}
@@ -57,6 +59,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|sm_79_1939_italy}}
 }}
+{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|fiat_cr42_marcolin_italy}}
 {{Tree-Skip}}
@@ -230,7 +233,8 @@
 {{Tree-Unit|f-104s_asa}}
 {{Tree-Arrow}}
 |
-{{Tree-Arrow-Full|2}}
+{{Tree-Unit|amx}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Arrow-Full|2}}
 |

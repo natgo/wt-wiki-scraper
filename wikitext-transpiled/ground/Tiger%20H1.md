@@ -55,6 +55,8 @@ The commander cupola is tall and weak: this can lead APHE shells to detonate ins
 
 {{tankMobility|abMinHp= 839|rbMinHp= 575}}
 
+Speed is not the strong suit of the Tiger H1. While the Tiger H1 can generate speed on flat surfaces, it does this very slowly. When stopping, do not expect a burst of power when moving from a complete stop. Like most heavy tanks, the Tiger H1 does not take well to hills. Inclines can quickly bog down the heavy Tiger HI, so try to avoid then when ever possible. However, when on a hill, the Tiger H1 can use the hill's decline to your advantage to build up speed quickly in order to get across open areas.
+
 === Modifications and economy ===
 {{Specs-Economy}}
 
@@ -93,7 +95,7 @@ For Tier I modifications obtained the vital "Parts" and "Horizontal Drive" modif
 {{:KwK36 (88 mm)/Ammunition|PzGr 39, Pzgr., Hl.Gr 39, Sprgr. L/4.5}}
 
 ==== [[Ammo racks]] ====
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.33.0.25''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -109,14 +111,14 @@ For Tier I modifications obtained the vital "Parts" and "Horizontal Drive" modif
 ! 10th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''92''' || 77&nbsp;''(+15)'' || 61&nbsp;''(+31)'' || 45&nbsp;''(+47)'' || 29&nbsp;''(+63)'' || 25&nbsp;''(+67)'' || 21&nbsp;''(+71)'' || 17&nbsp;''(+75)'' || 13&nbsp;''(+79)'' || 7&nbsp;''(+85)'' || 1&nbsp;''(+91)'' || No
+| '''92''' || 76&nbsp;''(+16)'' || 60&nbsp;''(+32)'' || 44&nbsp;''(+48)'' || 28&nbsp;''(+64)'' || 24&nbsp;''(+68)'' || 20&nbsp;''(+72)'' || 16&nbsp;''(+76)'' || 12&nbsp;''(+80)'' || 6&nbsp;''(+86)'' || 0&nbsp;''(+92)'' || No
 |-
 |}
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes''':
 
 * As they are modeled by sets of 2, shells disappear from the rack only after you fire both shells in the set
-* Large sides empty: 29&nbsp;''(+63)'' shells.
+* Large sides empty: 28&nbsp;''(+64)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -143,7 +145,7 @@ The Tiger's hull has many flat areas that can be easily penetrated. To maximize 
 
 Mobility-wise the {{PAGENAME}} is pretty good for a heavy tank. It is much faster than a [[KV-1 (ZiS-5)|KV-1]] and about as equally fast as the [[IS-1]], although medium tanks like the [[T-34-85]] can easily outmanoeuvre all three at close range. Try to use the Tiger's mobility to keep a distance rather than for closing in on a target. Don't be afraid to use the speed to fall back if necessary as the Tiger cannot survive close range engagements on open terrain vs. mediums, due to the slow turret and the vulnerability to the 85 mm guns on Soviet medium tanks.
 
-The Tiger has a very bad turret traverse, it is recommended to get the "Turret Drive" traverse modification as fast as possible. Even then, the Tiger will have to turn the tank in the direction of the traverse to make the most of the time to quickly engage a target. This, together with very exposed ammo racks on both sides (though one side can be emptied by reducing the ammo stowage) means that facing multiple enemies at once is almost a certain end to the Tiger tank. The best option is to take cover from one tank and fire on the other.
+The Tiger has a very bad turret traverse, it is recommended to get the "Turret Drive" traverse modification as fast as possible. Even then, the Tiger will have to turn the tank in the direction of the traverse to make the most of the time to quickly engage a target. What makes this worse is the smoke grenade launchers in the hull, which would interfere with the gun depression at certain turret angles. This, together with very exposed ammo racks on both sides (though one side can be emptied by reducing the ammo stowage) means that facing multiple enemies at once is almost a certain end to the Tiger tank. The best option is to take cover from one tank and fire on the other.
 
 As far as ammo is concerned, the default PzGr 39 will be the standard AP rounds many players will use. The second AP round available, the Pzgr., is also a good round to use against the enemy as the shell contains more explosive filler than the default, but suffers from a lower penetration value compared to the PzGr 39. The HEAT rounds offer consistent penetration at all ranges including more than 2,000 m. However, they provide less damage upon penetration. HEAT rounds usually are usually not used as the primary ammunition type for this sole reason. Upgrading the tank should mainly be dedicated to turret traverse, hull traverse (as this is needed even with the turret traverse upgrade) and engine upgrades. The Tiger's 88 has massive destructive power. Unlike the other German tank of its rank, all armed with 75 mm guns, the Tiger can easily knock out all the mediums like the T-34s, M4 Shermans with a single shot, and still be a threat against heavy tanks like the IS-1s. If it doesn't destroy a tank in one hit, most of the enemy crew will be wounded or incapacitated. The best place to aim with the 88 is either at the gunner's side of the enemy turret to incapacitate an enemy's firepower, or between the driver and the gunner which would usually wound or knock out most of the enemy crew at once. Attacking from the side also presents a good shot opportunity, as the best shot placement is right below the turret on the hull where most of the tank ammunition are stored, giving a big chance for an ammo-rack explosion.
 

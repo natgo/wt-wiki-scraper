@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German self-propelled anti-aircraft (SPAA) vehicle {{Battle-rating}}. It was introduced in [[Update 1.43]].
+The '''Flakpanzer IV "Kugelblitz"''' is the third variant of the [[Flakpanzer IV (Disambiguation)|Flakpanzer IV self-propelled anti-aircraft gun family]]. The Panzer IV medium tank chassis is combined with a newly designed oscillating turret to provide complete protection for the crews. This turret was completely enclosed, with overhead protection and full traverse. The disruption caused by Allied bombing efforts prevented mass production from taking place.
+
+Introduced in [[Update 1.43]], the Flakpanzer IV "Kugelblitz" is an extremely competitive vehicle. Its twin-mounted 30 mm Maschinenkanone 103/38 provides high destructive power against enemy air and ground targets. The main armament is fast-firing and precise, requiring only one or two shells to bring down even a bomber. Players can also equip armour-piercing ammunition belts to target enemy ground units. This machine can quickly destroy a column of enemy targets with well-executed flanking manoeuvres.
 
 == General info ==
 === Survivability and armour ===

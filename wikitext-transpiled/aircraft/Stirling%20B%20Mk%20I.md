@@ -197,6 +197,9 @@ On May 7, 1940, the first production Stirling had its first flight, but introduc
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=stirling_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+{{Youtube-gallery|UcI5HuQH0A4|'''The Shooting Range #389''' - ''Pages of History'' section at 03:44 discusses the {{PAGENAME}}.}}
+
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''

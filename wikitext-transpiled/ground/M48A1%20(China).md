@@ -67,10 +67,10 @@ Introduced in [[Update 1.91 "Night Vision"]] alongside with the Chinese ground t
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 60 || rowspan="2" | -9°/+19° || rowspan="2" | ±180° || rowspan="2" | N/A || 22.85 || 31.62 || 38.40 || 42.47 || 45.18 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
+| rowspan="2" | 60 || rowspan="2" | -9°/+19° || rowspan="2" | ±180° || rowspan="2" | - || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
 |-
 ! ''Realistic''
-| 14.28 || 16.80 || 20.40 || 22.56 || 24.00
+| 14.3 || 16.8 || 20.4 || 22.6 || 24.0
 |-
 |}
 
@@ -112,7 +112,7 @@ Introduced in [[Update 1.91 "Night Vision"]] alongside with the Chinese ground t
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 600 (200) || 577 || -9°/+60° || ±180°
+| Pintle || 600 (200) || 575 || -9°/+60° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -121,7 +121,7 @@ Introduced in [[Update 1.91 "Night Vision"]] alongside with the Chinese ground t
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 6,000 (250) || 500 || N/A || N/A
+| Coaxial || 6,000 (250) || 500 || - || -
 |-
 |}
 

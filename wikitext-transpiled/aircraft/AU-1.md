@@ -6,11 +6,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced during [[Update 1.97 "Viking Fury"]] as a reward for the [[wt:en/news/6669-special-space-race-en|2020 "Space Race" event]].
 
-The AU-1 was a variant of the F4U Corsair developed from the F4U-5, and was originally designated as the F4U-6 but was renamed to AU-1. It was designed as a dedicated ground attack aircraft, unlike all the previous Corsairs which were designed as fighters. To fit that role the engine was optimized for low-altitude flight, additional armour was fitted, and the AU-1 had increased suspended armament capacity. Due to its design, the AU-1 is less manoeuvrable than its fighter counterparts and also has less high-altitude performance. With a large bomb load, the AU-1 can be incredibly heavy. Despite these factors, the AU-1 is still highly capable as a fighter at lower altitudes.
+The '''AU-1''' was a variant of the F4U Corsair developed from the F4U-5, and was originally designated as the F4U-6 but was renamed to AU-1. It was designed as a dedicated ground attack aircraft, unlike all the previous Corsairs which were designed as fighters. To fit that role the engine was optimized for low-altitude flight, additional armour was fitted, and the AU-1 had increased suspended armament capacity. The United States Marine Corps utilized the AU-1 in Korea starting in 1952, saw service in the Naval reserves from 1954 to early 1956 before it was officially retired in 1957.
 
-The AU-1 was delivered to the US Navy and Marine Corps starting in 1952, and was retired from both services by 1957 after seeing combat in the Korean War.
+Introduced during [[Update 1.97 "Viking Fury"]] as a reward for the [[wt:en/news/6669-special-space-race-en|2020 "Space Race" event]], the AU-1 is like a souped-up version of the Corsair for ground attack enthusiasts. It can carry a much larger payload than the typical Corsair due to additional pylons that can be installed under the airframe and wings. The AU-1 can still be used as a fighter in opportunistic moments against the enemy if they are distracted, but the overall weight penalty from the modifications make the AU-1 poor for dogfights.
 
 == General info ==
 === Flight performance ===
@@ -104,11 +103,40 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|AN-Mk 1 (1,600 lb)|AN-M66A2 (2,000 lb)}}
-{{main|HVAR|Tiny Tim}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="3%" | 1 !! width="3%" | 2 !! width="3%" | 3 !! width="3%" | 4 !! width="3%" | 5 !! width="3%" | 6 !! width="3%" | 7 !! width="3%" | 8 !! width="3%" | 9 !! width="3%" | 10 !! width="3%" | 11 !! width="3%" | 12 !! width="3%" | 13
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| 1 || 1* || 1 || 1* || 1 || || || || 1 || 1* || 1 || 1* || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1* || || 1* || || 1* || 1 || 1 || 1 || 1* || || 1* || || 1*
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || || || 1 || 1 || 1 || || || || ||
+|-
+! [[AN-Mk 1 (1,600 lb)|1,600 lb AN-Mk 1]] bombs
+| || || || || || 1 || 1 || 1 || || || || ||
+|-
+! [[AN-M66A2 (2,000 lb)|2,000 lb AN-M66A2]] bombs
+| || || || || || || 1 || || || || || ||
+|-
+! [[HVAR]] rockets
+| 1 || 1 || 1 || 1 || 1 || || || || 1 || 1 || 1 || 1 || 1
+|-
+! [[Tiny Tim]] rockets
+| || || || || || 1 || 1 || 1 || || || || ||
+|-
+| colspan="15" | * 500 lb bombs cannot be equipped in conjunction with adjacent 250 lb bombs on hardpoints 2/4/10/12
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 10 x HVAR rockets
 * 3 x Tiny Tim rockets
@@ -117,36 +145,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 3 x 1,000 lb AN-M65A1 bombs (3,000 lb total)
 * 3 x 1,600 lb AN-Mk 1 bombs (4,800 lb total)
 * 1 x 2,000 lb AN-M66A2 bomb (2,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="3%" | 1 !! width="3%" | 2 !! width="3%" | 3 !! width="3%" | 4 !! width="3%" | 5 !! width="3%" | 6 !! width="3%" | 7 !! width="3%" | 8 !! width="3%" | 9 !! width="3%" | 10 !! width="3%" | 11 !! width="3%" | 12 !! width="3%" | 13
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 250 lb AN-M57 bombs
-| 1 || 1* || 1 || 1* || 1 || || || || 1 || 1* || 1 || 1* || 1
-|-
-! 500 lb AN-M64A1 bombs
-| 1* || || 1* || || 1* || 1 || 1 || 1 || 1* || || 1* || || 1*
-|-
-! 1,000 lb AN-M65A1 bombs
-| || || || || || 1 || 1 || 1 || || || || ||
-|-
-! 1,600 lb AN-Mk 1 bombs
-| || || || || || 1 || 1 || 1 || || || || ||
-|-
-! 2,000 lb AN-M66A2 bombs
-| || || || || || || 1 || || || || || ||
-|-
-! HVAR rockets
-| 1 || 1 || 1 || 1 || 1 || || || || 1 || 1 || 1 || 1 || 1
-|-
-! Tiny Tim rockets
-| || || || || || 1 || 1 || 1 || || || || ||
-|-
-| colspan="15" | * 500 lb bombs cannot be equipped in conjunction with adjacent 250 lb bombs on hardpoints 2/4/10/12
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

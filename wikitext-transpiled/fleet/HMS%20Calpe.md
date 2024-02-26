@@ -5,13 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
+'''HMS Calpe (L71)''' is a member of the Type II [[Hunt (Family)|Hunt-class]] destroyers. HMS Calpe was constructed in response to the start of World War II and took part in the Dieppe Raid in addition to escorting convoys. On December 13, 1943, she worked with the USS Wainwright to help sink the German U-boat U-593. After being lent to and later purchased by the Danish Navy, HMS Calpe served there until 1966, when she was scrapped in Sweden in the end.
 
-HMS Calpe, pennant number L71, part of the Hunt class, is an Escort destroyer build for the Royal Navy during 1940. She was commissioned at the beginning of the Second World War, on 11 December 1941; to protect the vital supply and trade lines of the British isles.
-
-HMS Calpe is another positive gameplay leap in the British destroyers. Using superior fire rate and a vast amount of firepower to annihilate any aerial or seaborne threat, keeping secure all the friendly ships nearby.
-
-Despite not being the swiftest nor having a large intimidating destroyer shape, her cargo ship appearance allows to confuse anyone who devalues her combat capabilities!
+Introduced in [[Update 1.95 "Northern Wind"]], HMS Calpe is a slow destroyer, with fewer crews than average. Therefore, the destroyer is unable to exchange shots with other destroyers or move quickly enough to avoid danger. Players should practice their gunnery if they want to become proficient with HMS Calpe, as her potent main armament can deal a great deal of damage when fired correctly. HMS Calpe is most effective by staying near the coast and dealing with enemy light boats that are capturing the objectives. If an enemy destroyer is approaching, it is best to form a group with a friendly destroyer before engaging.
 
 == General info ==
 The Hunt class is reasonably slow and won't likely reach most of the distant capture zones alive. Her crew size is another unfavourable factor, since she is not fast enough to avoid the enemy artillery but also not strong enough to resists them.
@@ -208,10 +204,11 @@ In defiance of her original design limitations, HMS Calpe eventually served with
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_destroyer_hunt_2series Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 File:Hunt L71 Top View.png|<small>Deck view of HMS Calpe</small>
 </gallery>
 

@@ -54,18 +54,17 @@ As a last note, the GL-7 laser dazzler is physically modeled on the left side of
 {| class="wikitable"
 ! Composite armour !! Frontal effective protection
 |-
-| Hull ||'''Upper glacis (ERA counted):''' <br> 500-850 mm ''Kinetic'' / 700-1300 mm ''Chemical''
+| Hull ||'''Upper glacis (ERA counted):''' <br> 600-700 mm ''Kinetic'' / 1,050-1,300 mm ''Chemical''
 |-
-| Turret ||'''Turret front (ERA counted):''' <br> 400-700 mm ''Kinetic'' / 400-1200 mm ''Chemical'' <br> '''Gun mantlet:''' <br> 30-400 mm ''Kinetic'' / 60-400 mm ''Chemical''
+| Turret ||'''Turret front (ERA counted):''' <br> 550-750 mm ''Kinetic'' / 1,000-1,300 mm ''Chemical'' <br> '''Gun mantlet:''' <br> 30-400 mm ''Kinetic'' / 60-400 mm ''Chemical''
 |}
 
 {| class="wikitable"
 ! FY-4 Explosive reactive armour !! Front (Slope angle) !! Sides
 |-
-| Hull ||'''Upper glacis:''' <br> 140 mm ''Kinetic''/ 450 mm ''Chemical''
-!
+| Hull ||'''Upper glacis:''' <br> 180 mm ''Kinetic''/ 550 mm ''Chemical'' || N/A
 |-
-| Turret ||'''Turret front:''' <br> 140 mm ''Kinetic''/ 450 mm ''Chemical'' || '''Rear side:''' <br> 50 mm ''Kinetic'' / 350 mm ''Chemical''
+| Turret ||'''Turret front:''' <br> 180 mm ''Kinetic''/ 550 mm ''Chemical'' || '''Rear side:''' <br> 50 mm ''Kinetic'' / 350 mm ''Chemical''
 |-
 |}
 
@@ -74,6 +73,7 @@ As a last note, the GL-7 laser dazzler is physically modeled on the left side of
 * Suspension wheels, tracks, and torsion bars are 20 mm thick.
 * Side skirts are 8 mm thick, and slat armour on the turret sides is 10 mm thick.
 * A log placed at the rear of the hull is 100 mm thick.
+* A 5 mm thick internal RHA screen separates the engine compartment from the crew compartment.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

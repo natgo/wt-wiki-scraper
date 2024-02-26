@@ -10,13 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French bomber {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+After World War II, many [[Lancaster (Family)|Lancaster]] bombers were refitted into civilian roles, such as transport, mail delivery, and search and rescue. 59 Lancaster B.Is and B.VIIs were ordered by the French ''Aéronavale'' to be converted into a maritime patrol aircraft. The aircraft, later designated ''Lancaster MR.7'', were delivered by Avro during 1952-53. These would be the last direct variant of the Lancaster ever built. The MR.7 flew until the mid-1960s by four squadrons stationed in France and New Caledonia in the maritime reconnaissance and search-and-rescue roles.
+
+It was introduced in [[Update "La Royale"]]. The '''{{Specs|name}}''' in the French tech tree is not identical at all to the Lancaster in the British tech tree. While it still carries a very large payload, enough to deal with a base in air battles and carpet bomb a good chunk of the map, this one has a more limited defensive armament that covers only the back and front of the aircraft. It also has access to a radar. However, the main difference is its inability to carry the 12,000 lb bomb found on the British Lancasters, in fact, its largest bomb is a 1,000 lb bomb, paired with more smaller bombs in the bomb bay.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The aircraft has a great flight performance, a high wing rip speed and is a friendly take-off and landing aircraft. 
+The aircraft has a great flight performance, a high wing rip speed and is a friendly take-off and landing aircraft.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -118,7 +120,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 The best use of the Lancaster MR.7 is to fly at high altitudes, destroy the target bases with its massive payload.
 
-It is recommended to spawn at the long-range bomber spawn (normally 4,510 m) and as soon as you spawn you can climb between 5-10 degrees at 220-280 km/h IAS, by climbing at the angle of 5° you can get to the drop point in 4 to 5 minutes at almost 5,800 m. After you drop the bombs on the targets you should return to your airfield on a gentle descent of 15°. 
+It is recommended to spawn at the long-range bomber spawn (normally 4,510 m) and as soon as you spawn you can climb between 5-10 degrees at 220-280 km/h IAS, by climbing at the angle of 5° you can get to the drop point in 4 to 5 minutes at almost 5,800 m. After you drop the bombs on the targets you should return to your airfield on a gentle descent of 15°.
 
 If an enemy airplane is approaching, you should turn your back toward it (where the 2 x 12.7 mm machine guns are located), wait for it to get within 1 km of you and then begin to shoot him. If the enemy is approaching you from below or from above, pitch up or pitch down to get the best angle for your gunner.
 
@@ -128,31 +130,48 @@ If you are stock, the best loadout is the 14 x 500 lb bombs, with this loadout y
 
 The best use of the Lancaster MR.7 is to carpet bomb with its massive 14 x 1,000 lb payload.
 
-# Spawn with the Lancaster MR.7 with the 14 x 1,000 lb payload 
+# Spawn with the Lancaster MR.7 with the 14 x 1,000 lb payload
 # Maintain any altitude you want, it just needs to be higher than 140 m from the ground (shrapnel radius of your bomb), it is recommended to fly  high because of machine gun fire and SPAAs
 # Drop your bombs on the enemy
 # Get back to the airfield to reload
 # Rinse and repeat
 
+=== Manual Engine Control ===
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="7" | MEC elements
+|-
+! rowspan="2" | Mixer
+! rowspan="2" | Pitch
+! colspan="3" | Radiator
+! rowspan="2" | Supercharger
+! rowspan="2" | Turbocharger
+|-
+! Oil !! Water !! Type
+|-
+| Not controllable || Controllable<br>Not auto controlled || Controllable<br>Auto control available || Controllable<br>Auto control available || Separate || Controllable<br>2 gears || Not controllable
+|-
+|}
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-'''Pros:''' 
+'''Pros:'''
 
-* Has an amazing bomb load
-* Has powerful engines
-* Can fly on 3 engines
+* Very heavy bombloads
+* Powerful engines provides good acceleration and endurance
+* Overall very manoeuvrable, despite the size
 * Has an engine fire system to extinguish engine fires
-* Has a lot of empty space (bullets will just pass through without causing damage)
-* Has an H-tail
+* Can be used as an ad-hoc fast bomber due to its high wing rip speed
 
 '''Cons:'''
 
 * Relatively slow for the engines that it has
-* Big target
+* Very weak and large airframe, its tail in particular can be easily destroyed by autocannons
 * No armour behind the gunners
 * No turret coverage below or above
 * 7.7 mm MGs deal very little damage
+* Lacks access to the more powerful bombs of the British counterpart
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -51,18 +51,20 @@ Shimakaze's primary guns are shared with [[IJN Yugumo#Primary armament|Yugumo]] 
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|25 mm/60 Type 96 (25 mm)}}
 
-Unlike other early refits of Japanese destroyers, which have very little anti-air defence, the Shimakaze is refitted in her 1944 fit, which gives her tons of the infamous Type 96 25 mm AA gun, which in volume works well enough for air cover and decimates smaller patrol vessels up to a range of about 2-3 km. 
+Unlike other early refits of Japanese destroyers, which have very little anti-air defence, Shimakaze is refitted in her 1944 fit, which gives her tons of the infamous Type 96 25 mm AA gun, which in volume works well enough for air cover and decimates smaller patrol vessels up to a range of about 2-3 km.
 
-* Universal belts: a good balance between firepower and tracer contents, useful for newcomers to the Japanese 25 mm autocannon.
-* APT belts: Full of AP shells, good against small boats.
-* HEI belts: Trades tracer rounds for extra firepower, harder to aim but very good at knocking out aircraft.
+* '''Universal:''' {{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}{{-}}{{Annotation|HEF|High-explosive fragmentation}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEI|High-explosive incendiary}} - a good balance between firepower and tracer contents, useful for newcomers to the Japanese 25 mm autocannon.
+* '''25 mm APT belt:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF|High-explosive fragmentation}} - Full of AP shells, good against small boats.
+* '''25 mm HEIT belts:''' {{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}{{-}}{{Annotation|HEI|High-explosive incendiary}}{{-}}{{Annotation|HEI|High-explosive incendiary}}{{-}}{{Annotation|HEI|High-explosive incendiary}} - Trades tracer rounds for extra firepower, harder to aim but very good at knocking out aircraft.
+
+{{:25 mm/60 Type 96 (25 mm)/Ammunition|HEF-T*, HEF, AP-T, HEI}}
 
 === Anti-aircraft armament ===
 {{Specs-Fleet-AA}}
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|Type 93 (13.2 mm)}}
 
-The Shimakaze has a single 13.2 mm HMG on the stern which has little to nothing to bring to the table for additional firepower. Her 25 mm's are responsible for air cover and under manual control aren't grouped together with the 13 mm.
+Shimakaze has a single 13.2 mm HMG on the stern which has little to nothing to bring to the table for additional firepower. Her 25 mm's are responsible for air cover and under manual control aren't grouped together with the 13 mm.
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
@@ -75,7 +77,7 @@ Shimakaze uses the Type 93 Model 3 torpedoes, which have a reduced range of 15 k
 On top of having one of the best torpedoes, she racks a total of 15 torpedoes she can fire all at once due to her lengthened hull compared to the [[Yugumo (Family)|Yugumo-class]] allowing for heavier quintuple launchers and an extra 3rd torpedo turret due to the added buoyancy.
 
 {| class="wikitable" style="text-align:center" width="100%"
-! colspan="8" | '''Torpedo Characteristics'''
+! colspan="8" | Torpedo Characteristics
 |-
 ! Mass (kg) !! Maximum speed in water (km/h) !! Travel distance (km) !! Depth stroke (m) !! Arming distance (m) !! Explosive type !! Explosive mass (kg) !! TNT equivalent (kg)
 |-
@@ -89,13 +91,13 @@ The depth charges mounted on depth charge throwers are even more situational. Th
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 [[File:Shimakaze (6).png|thumb|Shimakaze launching all her 15 [[Type 93 Model 1, Mod 2 (610 mm)|Long Lance Torpedoes]] at once.]]
-The Shimakaze is one of the most formidable destroyers Japan can offer, owing largely to its outstanding torpedo armament of 3 quintuple launchers and only beaten by [[Tashkent (leader)|Tashkent]] as 2nd fastest ship in-game.
+Shimakaze is one of the most formidable destroyers Japan can offer, owing largely to its outstanding torpedo armament of 3 quintuple launchers and only beaten by [[Tashkent (leader)|Tashkent]] as 2nd fastest ship in-game.
 
-Otherwise, she has a well-rounded mix of survivability and firepower, lagging behind slightly due to the lack of AP ammunition options, making it cannon fodder for most cruisers if the manoeuvrability isn't made use of. On the contrary, cruisers only have to worry about the Shimakaze like any other Japanese destroyer for the arsenal of torpedoes that will most likely wall them off in a wave of torpedoes and sink them instantly.
+Otherwise, she has a well-rounded mix of survivability and firepower, lagging behind slightly due to the lack of AP ammunition options, making it cannon fodder for most cruisers if the manoeuvrability isn't made use of. On the contrary, cruisers only have to worry about Shimakaze like any other Japanese destroyer for the arsenal of torpedoes that will most likely wall them off in a wave of torpedoes and sink them instantly.
 
-The Long Lance is among the best torpedo in-game with excellent range, speed and explosive filler. Like all torpedo-centric destroyers, Shimakaze excels in Arcade Battles with the ability to re-spawn torpedoes mid-battle and is better than other Japanese destroyers, which have a 2nd reload for torpedoes which takes a few seconds between torpedo bursts, unlike the full burst the Shimakaze can do at once and instantly reload the full rack. Meanwhile, in realistic battles, torpedoes should be used sparing as you can't reload them out of the capture zone and only reloads one torpedo per torpedo turret.
+The Long Lance is among the best torpedo in-game with excellent range, speed and explosive filler. Like all torpedo-centric destroyers, Shimakaze excels in Arcade Battles with the ability to re-spawn torpedoes mid-battle and is better than other Japanese destroyers, which have a 2nd reload for torpedoes which takes a few seconds between torpedo bursts, unlike the full burst Shimakaze can do at once and instantly reload the full rack. Meanwhile, in realistic battles, torpedoes should be used sparing as you can't reload them out of the capture zone and only reloads one torpedo per torpedo turret.
 
-The Shimakaze is best used as a sniper of sorts, using her massive arsenal of powerful, long-range torpedoes and accurate, relatively high-velocity main armament to engage enemy ships at the range while using her speed and manoeuvrability to avoid return fire. At close range, the slow turret traverse and reload as well as her relatively average survivability make Shimakaze very vulnerable, especially against destroyers with harder-hitting main armament, like most American destroyers armed with the [[5 inch/38 Mk.12 (127 mm)]].
+Shimakaze is best used as a sniper of sorts, using her massive arsenal of powerful, long-range torpedoes and accurate, relatively high-velocity main armament to engage enemy ships at the range while using her speed and manoeuvrability to avoid return fire. At close range, the slow turret traverse and reload as well as her relatively average survivability make Shimakaze very vulnerable, especially against destroyers with harder-hitting main armament, like most American destroyers armed with the [[5 inch/38 Mk.12 (127 mm)]].
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -260,12 +262,12 @@ On December 1, 2017, the wreck of Shimakaze was found by RV Petrel in Ormoc Bay,
 ===Name===
 Shimakaze isn't the only vessel named Shimakaze ({{Annotation|島風|Kanji}}, {{Annotation|シマカゼ|Katakana}}, {{Annotation|しまかぜ|Hiragana}}, Island Wind);
 
-* 1st generation: Shimakaze (1920 - 1940), Minekaze-class destroyer (1919). 
-** Renamed to "Patrol Boat No. 1" ({{Annotation|第一号哨戒艇|Dai-ichi-gō Shōkaitei}}) in 1940. 
+* 1st generation: Shimakaze (1920 - 1940), Minekaze-class destroyer (1919).
+** Renamed to "Patrol Boat No. 1" ({{Annotation|第一号哨戒艇|Dai-ichi-gō Shōkaitei}}) in 1940.
 ** Sunk 12 January 1943
 * 2nd generation: Shimakaze (1942 - 1945), Shimakaze-class destroyer (1942).
 ** Sunk 11 November 1944
-* 3rd generation: Shimakaze (DDG-172) (1988 - 2021), Hatakaze-class guided missile destroyer (1988). 
+* 3rd generation: Shimakaze (DDG-172) (1988 - 2021), Hatakaze-class guided missile destroyer (1988).
 ** Converted to "Shimakaze (TV-3521)" as a training ship in March 2021.
 
 == Media ==

@@ -5,15 +5,15 @@
 }}
 {{Specs-Card
 |code=re_2000_int
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 |cockpit=cockpit_re_2000_int.jpg
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Re.2000 was a monoplane fighter developed in Italy during the mid 1930s. It was one of the first modern fighters used in the Regia Aeronautica and it also saw use in the Swedish Air Force by the name [[J20]]. The design team took inspiration from the American Seversky P-35. The aircraft was considered an outstanding dogfighter, proving superior to the more modern Macchi C.200s and Messerschmitt Bf 109 Es in flight trials. However, the aircraft was not deemed satisfactory by the Italian military, and its manufacturer exported most of the produced units to Hungary and Sweden. The aircraft served as a basis for future models like the [[Re.2001 (Family)|2001]], [[Re.2002 Early|2002]], 2003, 2004 and [[Re.2005 serie 0|2005]] fighters.
+The Re.2000 was a monoplane fighter developed in Italy during the mid-1930s. It was one of the first modern fighters used in the Regia Aeronautica. It also served in the Swedish Air Force as the [[J20]], and in the Hungarian Air Force as the MÁVAG Héja I, a modified version of the original model. The design team took inspiration from the American Seversky P-35. The aircraft was considered an outstanding dogfighter, proving superior to the more modern Macchi C.200s and Messerschmitt Bf 109 Es in flight trials. However, the aircraft was not deemed satisfactory by the Italian military, and its manufacturer exported most of the produced units to Hungary and Sweden. The aircraft served as a basis for future models like the [[Re.2001 (Family)|2001]], [[Re.2002 Early|2002]], 2003, 2004 and [[Re.2005 serie 0|2005]] fighters.
 
-Introduced in [[Update 1.77 "Advancing Storm"]], the Re.2000 serie 1 is a very good dogfighter. For its BR, it has a very good acceleration at top speeds and amazing climb rate, outperforming many early fighters like early Bf 109s. The Re.2000 can be used effectively in both energy fighting and turn fighting. For the former, it's better to have the energy advantage, and use the good dive performance of the aircraft to its advantage. To get good positions, it is a good idea to start climbing at the start of the match, to an altitude of around 3,000-4,000 m. The Re.2000 should look out for enemies like the Spitfire and I-16, since these two can outturn you while not sacrificing too much performance in level flight, like biplanes.
+Introduced in [[Update 1.77 "Advancing Storm"]], the Re.2000 serie 1 is a very good dogfighter. For its BR, it has very good acceleration at top speeds and an amazing climb rate, outperforming many early fighters like early Bf 109s. The Re.2000 can be used effectively in both energy fighting and turn fighting. For the former, it's better to have the energy advantage and use the good dive performance of the aircraft to its advantage. To get good positions, it is a good idea to start climbing at the start of the match, to an altitude of around 3,000-4,000 m. The Re.2000 should look out for enemies like the Spitfire and I-16, since these two can outturn you while not sacrificing too much performance in level flight, like biplanes.
 
 == General info ==
 === Flight performance ===
@@ -145,21 +145,14 @@ When going against the Re.2000 serie 1, one will find head-ons effective against
 * Great at energy fighting
 * Good at dogfighting (some enemy aircraft still can destroy you easily)
 * Good turn rate, amazing at 400-500 km/h (248-310 mph)
-* Full manual engine control + propeller feathering
 * Very good acceleration
-* Short distance to take off
-* Good multirole fighter (good in any battle condition except shooting down armoured ground units)
-* Good flap resistance
-* Has no problem fighting at high altitude
+* Decent high-altitude performance
 * Good energy retention
 * Good stall speed (below 45 km/h)
 
 '''Cons:'''
 
-* Average speed (450 km/h IAS)
-* Average roll rate at any speed
 * Underwhelming performance of the 2 x 12.7 Breda-SAFAT machine guns
-* Low ammunition count for machine guns (only 600 rounds total)
 * Overheats easily, even with 100% radiators, can only WEP for a few seconds before the engine overheats and destroys itself
 * Sensitive to battle damage (damage will usually result in the aircraft catching fire)
 * No armour
@@ -168,12 +161,17 @@ When going against the Re.2000 serie 1, one will find head-ons effective against
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The first project of the Reggiane design office was the Re.2000 which was designed by Italian engineers Alessio and Longhi. The first test flight was flown by Mario de Bernardi in 1939. With a superior engine in comparison to the FIAT powered MC.200, it was thought to be at least as manoeuvrable as the Bf 109 E in comparative trials, though the positioning of the fuel tank in an unarmoured wing centre section was found to be a fatal drawback and thus it was not accepted into Italian service, however, the Re.2000 was sold to both Sweden and Hungary to complement their air forces. During 1940, the Italian Navy ordered a modified version for carrier use with a Piaggio P.XI bis engine and structural strengthening for catapult launching and carrier landings.<ref>Thompson, Jonathan W., Italian Civil and Military Aircraft 1930-1945, Aero Publishers, Los Angeles (1963), 304 pages.</ref>
+The first project of the Reggiane design office was the Re.2000 which was designed by Italian engineers Alessio and Longhi. The first test flight was flown by Mario de Bernardi in 1939. With a superior engine in comparison to the FIAT-powered M.C.200, it was thought to be at least as manoeuvrable as the Bf 109 E in comparative trials, though the positioning of the fuel tank in an unarmoured wing centre section was found to be a fatal drawback and thus it was not accepted into Italian service, however, the Re.2000 was sold to both Hungary and Sweden to complement their air forces. During 1940, the Italian Navy ordered a modified version for carrier use with a Piaggio P.XI bis engine and structural strengthening for catapult launching and carrier landings.<ref>Thompson, Jonathan W., Italian Civil and Military Aircraft 1930-1945, Aero Publishers, Los Angeles (1963), 304 pages.</ref>
 
-Hungary bought 70 Re.2000s and built another 192. Sweden bought 60, where they stayed in service until 1946. Britain had actually put in an order for 300, as well, before the onset of war prevented it. Those few of the 188 that were built by the Reggiane company that were not sold to other countries were used by an Italian squadron on Sicily in 1941/42, or converted for catapult use.
+Hungary bought 70 Re.2000s, modifying them into MÁVAG Héja I's, and built 204 MÁVAG Héja II's which were upgraded versions based on the Héja I. Sweden bought 60, where they stayed in service until 1946. Britain had put in an order for 300, as well, before the onset of war prevented it. Those few of the 188 that were built by the Reggiane company that were not sold to other countries were used by an Italian squadron on Sicily in 1941/42, or converted for catapult use.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Re.2000 serie 1.png|<small>The Re.2000 serie 1 shot down a PBY-5A Catalina</small>
+</gallery>
 
 ;Skins
 

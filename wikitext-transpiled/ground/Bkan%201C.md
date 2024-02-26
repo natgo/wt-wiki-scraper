@@ -152,10 +152,12 @@ Many American rank V medium/heavy tanks receive upgraded roof armour, which is o
 '''Pros:'''
 
 * 3.2-second autoloader on a 155 mm weapon. There is no other big weapon reloading faster than this currently in the game
+** Can easily range find by main cannon, firing, checking where it lands and shooting again
 * It is difficult to take this SPG out with a single shot with kinetic shells from the front unless the ammo rack is detonated
 ** Crew is somewhat spread out, meaning single APDS and APFSDS shots are unlikely to hit all of them
 * HE shells have higher muzzle velocity than the ones of the competition, making them easier to aim
 * Can carry HE-VT shells, which, combined with the fire rate, make it extremely lethal at BR 8+ (rank VI for other nations), where the light tanks are abundant
+
 
 '''Cons:'''
 
@@ -167,6 +169,7 @@ Many American rank V medium/heavy tanks receive upgraded roof armour, which is o
 * Armour will not sustain autocannon fire, can be vulnerable to HMG at close to medium range, vulnerable to chemical rounds
 * No turret, which is a downside for a tank forced to fight at a close to medium range, and is very vulnerable when its tracks are destroyed
 * Many enemy tanks within natural BR range are built to survive HE attacks
+* sgr m/60 (PF) shells lack smart proximity fuse and can explode near the ground.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

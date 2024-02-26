@@ -54,39 +54,7 @@ Being large calibre guns, the Ikoma's shell choice is also considerably powerful
 
 As a pre-Great War design, the 305 mm gun's characteristics aren't exactly the best either, with a long reload time of 30 seconds (ace crew) and a mediocre dispersion radius.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 1,000 m !! 2,500 m !! 5,000 m !! 7,500 m !! 10,000 m !! 15,000 m
-|-
-| 12-inch HE || HE || 69 || 69 || 69 || 69 || 69 || 69
-|-
-| 12-inch APC || APC || 496 || 432 || 345 || 278 || 229 || 172
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(s)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (kg)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 12-inch HE || HE || 825 || 400.06 || 0 || 0.1 || 37.82 || 79° || 80° || 81°
-|-
-| 12-inch APC || APC || 825 || 400.06 || 0.035 || 17 || 13.64 || 48° || 63° || 71°
-|-
-|}
+{{:12-inch/45 Vickers (305 mm)/Ammunition|12-inch HE, 12-inch APC}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
@@ -98,6 +66,8 @@ The Ikoma has twelve 6-inch (152 mm) Type 41 cannons and twelve 4.7-inch (120 mm
 The 152 mm guns have two shell choices; a default HE shell with surprisingly high filler of 5.28 kg of TNT equivalent, and a researchable APC shell with poor penetration of only 74 mm at 10 km. Thus, it is advised to only uses the HE shell instead.
 
 Being such an antiquated guns does not come without downsides, however. Both guns suffer from the same downsides as the main guns; poor reload time of 12 seconds (ace crew), and having slow traverse and dispersion radius.
+
+{{:6-inch/45 Type 41 (152 mm)/Ammunition|6-inch HE, 6-inch APC}}
 
 === Anti-aircraft armament ===
 {{Specs-Fleet-AA}}

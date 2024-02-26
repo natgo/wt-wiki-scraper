@@ -1,3 +1,8 @@
+{{About
+| about = premium Italian medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Turan (Family)
+}}
 {{Specs-Card
 |code=it_41m_turan_2
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French dive bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The Curtiss SB2C Helldiver entered service with the US Navy in 1942, replacing the SBD Dauntless. It was a much larger aircraft that was capable of carrying much larger payloads, powered by the R-2600 Twin Cyclone engine and featuring an internal bomb bay for reduced drag. However, the Helldiver was not really successful, due to its poor survivability, and in many cases the F6F Hellcat fighter-bomber was capable of performing the same tasks. France purchased 110 SB2C-5 Helldivers in 1949 in replacement of their own SBD Dauntless dive bombers, these aircraft were used up until 1958 serving in the French Navy aboard aircraft carriers, and saw combat only in the First Indochina War.
 
-The SB2C-5 Helldiver dive-bomber was designed as a replacement for the [[SBD-3|SBD Dauntless]] in US Navy service. US pilots may be familiar with the [[SB2C-1c]] and [[SB2C-4]] and this plane is virtually identical besides its inability to carry the 1,000 lb Type A magnetic mine. While the Helldiver works well as a dive-bomber or attacker, its good armament and bomber spawn also allow it to hunt other aircraft. The good turning ability can be a lethal surprise during dogfights.
+It was introduced in [[Update 1.73 "Vive la France"]]. US pilots may be familiar with the [[SB2C-1c]] and [[SB2C-4]] and this plane is virtually identical besides its inability to carry the 1,000 lb Type A magnetic mine. While the Helldiver works well as a dive-bomber or attacker, its good armament and bomber spawn also allow it to hunt other aircraft. The good turning ability can be a lethal surprise during dogfights if no payload is being carried, since this will reduce its performance in air combat.
 
 == General info ==
 === Flight performance ===
@@ -152,6 +152,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 8 x HVAR rockets
 * 4 x 250 lb AN-M57 bombs (1,000 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
@@ -216,6 +217,7 @@ The SB2C-5 can be used to good effect in Ground RB, though it does not have an a
 * Good turn rate in the horizontal
 
 '''Cons:'''
+
 * Slow, poor climb and acceleration
 * Poor manoeuvrability, especially when laden with suspended ordnance
 * Bombload is not very good by bomber standards
@@ -233,15 +235,18 @@ France purchased 110 SB2C-5 Helldivers beginning in 1949 as a replacement for th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sb2c_5_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

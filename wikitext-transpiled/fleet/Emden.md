@@ -5,7 +5,12 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light cruiser {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]].
+
+As the German Weimar Republic was recovering from inflation in 1921 after the Great War, the Reichsmarine (Weimar Navy) was in a dire need of modernization. To replace the archaic cruisers that Germany had been allowed to keep and to comply with the tonnage restriction of the Treaty of Versailles, the new cruiser was to be built as soon as possible using the Imperial cruiser SMS ''Karlsruhe'' as a template and was armed with whatever Germany had left in their post-war stockpile. The new ship was named '''Emden''' after the famous ''Dresden''-class light cruiser - being the third ship to receive this name - and would be launched four years later in 1925.
+
+Throughout her service life, the ''Emden'' served as a foundation for the rebuilt Reichsmarine and later Kriegsmarine, being primarily used as a training ship for the slowly expanding and rearmed German navy. While the ship was largely obsolete by the start of World War II in 1939, the ''Emden'' would see extensive service both as a training ship and a support vessel, being frequently used for minelaying operations. As the tide of war turned against the Kriegsmarine, ''Emden'' would participate in the evacuation of the German Army from East Prussia in January 1945 before having to stay in port for the rest of the war. During this time, she would be frequently damaged by British bombers, and after her hull was critically damaged, ''Emden'' was grounded and scuttled on 3 May 1945 to prevent capture.
+
+Introduced in [[Update 1.83 "Masters of the Sea"]], the '''{{PAGENAME}}''' is a natural evolution of the Great War-era [[SMS Elbing]], featuring eight single 150 mm cannons placed along the length of the ship. While her design is rather outdated, the Emden is still capable of holding on her own against light cruisers and destroyers within her rank, being able to take considerable amount of damage, though she would struggle against any newer ships at higher ranks. Emden is in her 1942 configuration, and as such receives substantial anti-air improvements. This makes her quite effective at providing air coverage despite her unassuming appearance.
 
 == General info ==
 === Survivability and armour ===

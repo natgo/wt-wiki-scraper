@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]].
+The French Air Force was the first non-US air force to receive the F-100 Super Sabre, starting in 1958. A total of 85 F-100Ds and 15 F-100Fs (total of 100 aircraft) were delivered to France and assigned to the NATO 4th Allied Tactical Air Force. More famously, the French F-100s were used on combat missions flying from bases in France against targets in Algeria. When France withdrew from NATO's military command structure in 1967, deployed F-100s were transferred to bases in France vacated by the USAF. The last unit using the F100 was the 4/11 Jura Squadron, based in Djibouti, which kept the F-100 until 1978.
+
+The '''{{Specs|name}}''' was introduced in [[Update 1.93 "Shark Attack"]]. At first glance it appears to be a direct copy of the F-100D found in the US tech tree, but looks can indeed be deceiving. The French F-100Ds were tuned more towards ground attack, lacking a majority of the air-to-air avionics found on the American one, and also downgraded for export, meaning it lacks the AIM-9Es as well as some of the more advanced air-to-ground ordnance (such as the AGM-12 Bullpup) found on the American F-100D. The French F-100D, thanks to its ground attack oriented role, does have one unique perk to it however: the large calibre Zuni rockets, since the American F-100D was not cleared to carry them. The aircraft is best played as a BnZ aircraft when in the air-to-air role, but acts best as CAS in mixed ground battles.
 
 == General info ==
 === Flight performance ===
@@ -182,6 +184,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 4 x AIM-9B Sidewinder missiles
@@ -250,10 +253,12 @@ One model of the D type is conserved at the Musée de l'Air et de l'Espace museu
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-100d_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -265,6 +270,7 @@ One model of the D type is conserved at the Musée de l'Air et de l'Espace museu
 * [https://forum.warthunder.com/index.php?/topic/436416-f-100d-super-sabre/ Official data sheet - more details about the performance]
 
 === References ===
+
 * Baugher, J. (1999, November 27). F 100 Sabre with Foreign Air Forces. Retrieved January 04, 2021, from <nowiki>http://www.joebaugher.com/usaf_fighters/f100_9.html</nowiki>
 
 {{AirManufacturer NAA}}

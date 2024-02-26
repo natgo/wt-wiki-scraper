@@ -6,9 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced during [[Update 1.75 "La Résistance"]] in the [[wt:en/news/5224-special-festive-quest-en|2017 "Festive Quest"]] that took place between 22 December 2017 to 22 January 2018. It was obtained by completing 7 tanker's Christmas toys.
+The AEC Armoured Cars were a series of vehicles developed during World War 2. After the British experience against Italian armoured cars in the Western Sahara, AEC decided to develop their own vehicle while the [[Daimler Mk II|Daimler Armoured Car]] was still in development. A total of 629 units were built and entered service in 1941. Early versions tried to have the same firepower and armour as other British cruiser tanks but they failed. The Mk.II version used a larger turret for a three-man crew with a 6-pounder gun, redesigned front hull, and a 158 hp (118 kW) diesel engine.
 
-The AEC Mk II is similar to the [[AEC AA]], with a different turret housing a 57 mm 6-pounder cannon rather than two synchronized Oerlikon 20 mm anti-aircraft cannons. As such, the vehicle has a lower profile than its predecessor, which grants it more stealth capabilities. In addition, there is a 7.62 mm BESA machine gun for use, which is nice for dealing with lightly armoured targets such as open-topped anti-aircraft vehicles and SPGs.
+It was introduced during [[Update 1.75 "La Résistance"]] in the [[wt:en/news/5224-special-festive-quest-en|2017 "Festive Quest"]] that took place between 22 December 2017 to 22 January 2018. The AEC Mk II is similar to the [[AEC AA]], with a different turret housing a 57 mm 6-pounder cannon rather than two synchronized Oerlikon 20 mm anti-aircraft cannons. As such, the vehicle has a lower profile than its predecessor, which grants it more stealth capabilities. In addition, there is a 7.62 mm BESA machine gun for use, which is nice for dealing with lightly armoured targets such as open-topped anti-aircraft vehicles and SPGs.
 
 == General info ==
 === Survivability and armour ===
@@ -177,6 +177,7 @@ This would be followed by the Mark III, mounting the British 75 mm gun, making i
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_armored_car_aec_mk_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -189,9 +190,11 @@ This would be followed by the Mark III, mounting the British 75 mm gun, making i
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[AEC AA]]
 
 ;Other vehicles of similar configuration and role
+
 * [[T18E2]]
 * [[Sd.Kfz.234/2]]
 * [[Eland 90 Mk.7]]

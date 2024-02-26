@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Japanese medium bomber {{Battle-rating}}. It was introduced during [[Update 1.65 "Way of the Samurai"]] as a reward vehicle for the [[wt:en/news/4416-special-war-thunder-winter-holiday-en|2016 "Winter Holiday"]] event. It was later made available as a battle trophy vehicle in the Warbond shop from the [[Battle Pass: Season I, 75th Anniversary of the Great Victory]] until the end of the [[Battle Pass: Season IV, "Fearless Voltigeur"]].
+The '''Ki-21-Ic''', designated as the '''Type 97 Heavy Bomber ({{Annotation|九七式重爆撃機|Kyū Nana-Shiki Jū-Bakugekiki}})''', was the third variant of the Ki-21 production series. Following the improvements from the Ki-21-Ib to the control surfaces, it also came with more machine guns and larger fuel tanks increasing its range.
+
+The '''{{Specs|name}}''' was introduced during [[Update 1.65 "Way of the Samurai"]] as a reward vehicle for the [[wt:en/news/4416-special-war-thunder-winter-holiday-en|2016 "Winter Holiday"]] event. It was later made available as a battle trophy vehicle in the Warbond shop from the [[Battle Pass: Season I, 75th Anniversary of the Great Victory]] until the end of the [[Battle Pass: Season IV, "Fearless Voltigeur"]]. While on the surface, the Ki-21-Ic looks like another Ki-21 with a name change, the amount of machine guns was tripled, with two MGs added on each side of the plane and a remote-controlled gun directly in the tail which will destroy any plane directly on the six of the Ki-21.
 
 == General info ==
 === Flight performance ===

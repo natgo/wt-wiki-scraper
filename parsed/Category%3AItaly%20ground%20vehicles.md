@@ -19,6 +19,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|it_m14_41}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|it_as_42_metropolitana}}
 {{Tree-Skip}}
@@ -28,6 +29,7 @@
 {{Tree-Unit|it_semovente_l40}}
 {{Tree-Arrow}}
 {{Tree-Unit|it_lancia3ro_100}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|it_39m_csaba}}
 {{Tree-Skip}}
@@ -157,6 +159,8 @@
 {{Tree-Unit|it_2s1}}
 {{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|it_pzkpfw_VI_ausf_e_tiger}}
+{{Tree-Skip}}
 {{Tree-Unit|it_m26_ariete}}
 {{Tree-Skip}}
 |
@@ -224,7 +228,6 @@
 {{Tree-Line|VII Rank}}
 |
 {{Tree-Unit|it_centauro_mgs_120}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|it_c1_ariete_preserie}}
 {{Tree-Arrow}}
@@ -234,13 +237,10 @@
 {{Tree-Unit|it_c1_ariete}}
 }}
 {{Tree-Arrow}}
-{{Tree-Unit|it_ariete_amv_pt1}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|it_otobreda_sidam_25_mistral}}
 {{Tree-Arrow}}
 {{Tree-Unit|it_otomatic}}
-{{Tree-Skip}}
 |
 {{Tree-Group|it_dardo_group|Dardo/VCC|
   {{Tree-Unit|it_dardo_vcc}}
@@ -249,11 +249,24 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|it_freccia}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|it_leopard_2a4}}
 {{Tree-Arrow}}
 {{Tree-Unit|it_kf_41}}
+| style="border-left: solid 1px #cccccc;" |
+|
+
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Unit|it_ariete_amv_pt1}}
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Skip}}
@@ -266,6 +279,6 @@
 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|LcDWEzB8TKE|'''Italian ground forces: speed and firepower'''  - ''War Thunder Official Channel''|584AxCngmho|'''Italian ground forces Tier I - Review and Analysis''' - ''Oxy''|ajd08SXOFXk|'''Italian ground forces Tier II - Review and Analysis''' - ''Oxy''|Hj2A9I_nJ_A|'''Italian ground forces Tier III - Review and Analysis''' - ''Oxy''|yYOVd6rMmU4|'''Italian ground forces Tier IV - Review and Analysis''' - ''Oxy''|weVBbUvQfHo|'''Italian ground forces Tier V - Review and Analysis''' - ''Oxy''|V5u7dkD46-8|'''Italian ground forces Tier VI & VII - Review and Analysis''' - ''Oxy''|4zcqjXX_ZY4|'''Italian ground forces addendum''' - ''Oxy''}}
+{{Youtube-gallery|WREdX_q-Pw4|'''Hungarian Tanks: Big Ambitions''' - ''War Thunder Official Channel''|-Tw-uOo1pMg|'''The Shooting Range #380''' - ''Pages of History'' section at 03:49 discusses Hungarian armour.|LcDWEzB8TKE|'''Italian ground forces: speed and firepower''' - ''War Thunder Official Channel''|584AxCngmho|'''Italian ground forces Tier I - Review and Analysis''' - ''Oxy''|ajd08SXOFXk|'''Italian ground forces Tier II - Review and Analysis''' - ''Oxy''|Hj2A9I_nJ_A|'''Italian ground forces Tier III - Review and Analysis''' - ''Oxy''|yYOVd6rMmU4|'''Italian ground forces Tier IV - Review and Analysis''' - ''Oxy''|weVBbUvQfHo|'''Italian ground forces Tier V - Review and Analysis''' - ''Oxy''|V5u7dkD46-8|'''Italian ground forces Tier VI & VII - Review and Analysis''' - ''Oxy''|4zcqjXX_ZY4|'''Italian ground forces addendum''' - ''Oxy''}}
 
 [[Category:Ground vehicles by country]]

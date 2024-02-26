@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot; if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} American motor torpedo boat {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the release of fleet into open beta test.
+One of a few PT boats surviving to this day, the PT-3 was laid down on 18 April 1940 in Detroit for the United States Navy, Motor Torpedo Boat Squadron 1. In 1942 she was transferred to the Royal Canadian Air Force, designated ''Bras D'Or'' (M 413), serving in the rescue duty for the downed airplane pilots. In 1945 she was transferred to US Navy and stricken from the Naval Vessel Register in 1947. Currently it's stored by the Flanigan Brothers Boatyard in Fairton, New Jersey, undergoing restoration.
+
+The '''{{Specs|name}}''' was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the release of fleet into open beta test. It is a premium rank {{Specs|rank}} American motor torpedo boat, making it easier to unlock the boats in rank I and early rank II. Featuring a good survivability and a decent weaponry it's a fair competitor against its peers, but it will struggle to survive against any of the higher Battle Rating vessels.
 
 == General info ==
 === Survivability and armour ===
@@ -16,7 +18,7 @@ The PT-3 has no external armour to protect it, and as such cannot sustain much f
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-
+[[File:PT-3-manoeuvrability.jpg|thumb|'''PT-3''' can make a very sharp turns, making it possible to escape from tricky situations.]]
 {{NavalMobility}}
 
 The PT-3 has great mobility, and can achieve a top speed of 63 km/h. When compared to the [[PT-6]], the PT-3 with its shorter length overall can turn much sharper and can navigate narrow waters more easily, however it is slower than PT-6. It takes 19 seconds for the boat to make a complete circle in a turn. From a stop, it accelerates to its top speed of 63 km/h in 13 seconds. From its top speed of 63 km/h, it takes roughly 14 seconds to come to a full stop using the auto stop feature. Compared to other vehicles at its BR, it is slower than the [[LS 3]] and [[G-5]], but is faster than the [[Type T-14]] and the [[MTB-1(1)]].
@@ -29,6 +31,7 @@ The PT-3 has great mobility, and can achieve a top speed of 63 km/h. When compar
 === Primary armament ===
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
+[[File:PT-3-12 7 mm Browning.jpg|thumb|[[AN-M2 (12.7 mm)|AN-M2 Browning]] takes 14.6s to reload, which is slightly faster than on the [[PT-6]]]]
 {{main|AN-M2 (12.7 mm)}}
 
 The PT-3 is armed with 2 turrets containing a single AN-M2 12.7 mm machine gun located aft of the bridge. They are placed to overlap slightly when firing forward or aft, so as to ensure that all lateral angles can be covered from aircraft and surface threats. They are unable to target aircraft that are flying directly above the ship. The guns are suitable for taking down other similarly sized boats, yet may prove inadequate against more heavily armoured opponents.
@@ -45,6 +48,7 @@ Three different ammo belts are available:
 === Additional armament ===
 {{Specs-Fleet-Additional}}
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
+[[File:PT-3-18-inch Mk 7.jpg|thumb|The aft-launched [[18-inch Mk.7 (450 mm)|Mk.7 torpedoes]] are slow and short-ranged, but can sink any coastal vessel with a single hit.]]
 {{main|18-inch Mk.7 (450 mm)|Mk.6 depth charge}}
 
 2 x 450 mm Mk.7 torpedoes are located in tube launchers aft of the ship. They are guided by the direction that the ship is facing. They can be fired while the ship is stationary or reversing and require 50 m to arm before they will detonate. They are powerful enough to sink any ship within the PT-3s BR range, and have a range of 3.65 km.
@@ -106,6 +110,8 @@ The ship historically had a displacement of 25 t, a length of 58 ft, and a beam 
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+* [http://shipbuildinghistory.com/shipyards/emergencysmall/fisher.htm <nowiki>[Shipbuilding History]</nowiki> Fisher Boat Works]
+* [http://www.flanigan-bros.com/Projects.html <nowiki>[Flanigan Brothers Boatyard]</nowiki> Projects]
 
 === References ===
 

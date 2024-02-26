@@ -56,10 +56,10 @@ The Leclerc Serie 1 mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted w
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
+| 23.8 || 28.0 || 34.0 || 37.6 || 40.0
 |-
 |}
 
@@ -198,11 +198,12 @@ The Leclerc saw service as part of a number of UN peacekeeping missions, primari
 {{Youtube-gallery|wJkQW4kSJjM|'''French MBTs''' discusses the {{PAGENAME}} at 5:40 - ''War Thunder Official Channel''|p6cWlyUnJQA|'''Top 7 off-road beasts'''  discusses the {{PAGENAME}} at 3:27  - ''War Thunder Official Channel''|lBTQGGr-Kxs|'''The Shooting Range #149''' - ''Metal Beasts'' section at 00:39 discusses the {{PAGENAME}}.}}
 
 == See also ==
-<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''-->
+* ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[Leclerc S2]] - Succeeding variant in the French tech tree
+;Related development
+* [[Leclerc (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

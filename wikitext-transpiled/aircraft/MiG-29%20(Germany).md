@@ -1,7 +1,7 @@
 {{About
 |about = jet fighter '''{{PAGENAME}}'''
-|usage = the other version
-|link = MiG-29
+|usage = other versions
+|link = MiG-29 (Family)
 }}
 {{Specs-Card
 |code=mig_29_9_12_germany

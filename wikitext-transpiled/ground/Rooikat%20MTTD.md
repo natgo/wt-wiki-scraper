@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
+The '''Rooikat Medium Turret Technology Demonstrator (MTTD)''' was a prototype based on the [[Rooikat (Family)|Rooikat]] hull to test the possibility of an autoloading system mounted in a remote turret. The loader and commander positions were lowered into the hull, leaving a smaller turret occupied solely by the gun and autoloading bustle. A mock launcher for an active protection system was also installed on top of the turret, but not fitted with any of the equipment required to allow it to function.
+
+Introduced in [[Update "Ixwa Strike"]], the Rooikat MTTD is a powerful upgrade over the preceding [[Rooikat Mk.1D]]. Featuring a 105 mm cannon like the [[Rooikat 105]], it offers strong firepower coupled with the quick autoloader continuously reloading at rates matching those of other vehicles' ace crews. While it lacks the most powerful DM33 round of the Rooikat 105, the ammunition options are still generally sufficient for the opponents the MTTD will face, and it retains the excellent mobility of previous Rooikats that make them such versatile vehicles. However, with the addition of the autoloader and lower-profile turret, a compromise must be made — the MTTD lacks common features such as smoke grenades or machine guns, which players may come to rue in particular times of need.
 
 == General info ==
 === Survivability and armour ===

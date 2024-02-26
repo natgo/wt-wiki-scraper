@@ -13,6 +13,9 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the IS-
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+
+The IS-4M has very good armour although a very cramped crew compartment. Most shots will not be able to penetrate its frontal armour, and the turret is also very tricky to penetrate from the sides. However the crammed crew is very vulnerable to any shot that manages to penetrate, and in those situations surviving a hit is very unlikely.
+
 '''Armour type:'''
 
 * Rolled homogeneous armour (Hull, Turret roof, Hatch roof)
@@ -30,12 +33,15 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the IS-
 '''Notes:'''
 
 * Suspension wheels are 20 mm thick, torsion bars are 10 mm thick, and tracks are 30 mm thick.
+* Very angled turret, prone to bounce shots
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=968|rbMinHp=663}}
+
+The increased weight of the IS-4M compared to the [[IS-3]] means a decrease in overall mobility. Its top speed is quite mediocre and the tank suffers in harsh terrain; while the reverse speed is good, its acceleration is not the best. Overall, it's not very mobile, even for a heavy tank.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -46,6 +52,8 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the IS-
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|D-25T (122 mm)}}
+
+The IS-4M retains the the same 122 mm D-25T cannon found in the [[IS-2]]. It's a very capable cannon, with a good damage output and good penetration values for its BR-471D shell. However this means that its reload rate is very low, with 27 seconds when stock and 20.8 seconds with an Aced crew. That means that, even in a best case scenario, it's not capable of firing more than 3 shots per minute.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -147,10 +155,12 @@ The IS-4M is less painful to play when stock because at times you can get very l
 
 * Priority target for the enemy team due to its fearsome reputation
 * Long reload of 25 seconds
-* Frontal armour has small but noticeable weak spot below the gun barrel, where the turret meets the hull, and shots coming through it often one-shot IS-4M
+* Frontal armour has a small but noticeable weak spot below the gun barrel, where the turret meets the hull, and shots coming through it often one-shot IS-4M
 * Ammo rack in the back of the turret; if a shell penetrates, the ammo could detonate
-* Can be vulnerable to tanks equipped with HEAT and APFSDS, although early HEAT shells are often used by short light tanks and tend to land at a very high angle and may fail to penetrate, unlike late HEAT-FS
+* Can be vulnerable to tanks equipped with HEAT, APDS and APFSDS 
 * Armour penetration for the shells can be lacking at the rank
+* Packed crew can be knocked out easily in a single shot
+* Very little gun depression
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

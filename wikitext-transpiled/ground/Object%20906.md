@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]]. Combining a gun similar to that of the [[ASU-85]] on a turret, and the mobility from the [[PT-76B]], Object 906 is the perfect weapon system to flank with.
+The success of the [[PT-76B]] prompted the development of a more powerful version. The '''Object 906''' retained the same characteristics of the PT-76B: stabilized, amphibious and very light, but with a more powerful 85 mm cannon. It never went into service or serial production, but if it had, it would have received the designation PT-85. The tank carried a total of 40 shells with 8 armour-piercing and 32 HE projectiles. The protection was not the most important aspect, but it received enough armour to stop artillery fragments, 14.5 mm shots from 100 m, and it was protected against radioactive and nuclear fallout. While the tank was much superior to the PT-76B, it never went into service, it was deemed to complex to operate and produce en masse, so it was discarded and the PT-76 remained in service instead.
+
+Introduced in [[Update 1.65 "Way of the Samurai"]], the '''{{Specs|name}}''' is a very capable tank at its BR. With good mobility and little to no armour, it plays like most light tanks. It can use its good mobility to set up in sniping positions (however it does not have access to a rangefinder). Its biggest advantage is access to a two-plane stabilizer that works at all speeds, and with a very low profile, it's very easy to set up ambushes around capture points to take out dangerous opponents with ease, especially other light tanks that try to rush to the point. It suffers from a poor gun depression like many other Soviet tanks, but its powerful armament and mobility compensate that lack of gun handling. It's also amphibious, which may come in handy in case of an emergency.
 
 == General info ==
 === Survivability and armour ===
@@ -31,11 +33,20 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 * Suspension wheels are 10 mm thick while tracks are 15 mm thick.
 * Belly armour and hull underside above the tracks are 8 mm thick.
 
+Its armour is not enough to stop any important impact. In a best case scenario, it may stop 20 mm or 30 mm AP shots from IFVs or aircraft, but it won't be enough to stop most shots, and even artillery would be a great threat to this vehicle.
+
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=465|rbMinHp=265}}
+
+* Full reverse speed (74 km/h)
+* Fast to accelerate
+* Amphibious capability
+* Average mobility in irregular terrain
+
+The mobility of the '''Object 906''' is excellent. At its BR, seeing vehicles with full reverse speed is rare. That means that it is able to escape from dangerous situations or change position with ease and surprise enemy tanks.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -47,16 +58,18 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rat
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|D-58 (85 mm)}}
 
+The 85 mm gun of the '''Object 906''' is very capable at its BR, with access to HEAT and APHE shells, it has access to ammunition with good penetration and high damage output. It also has a very high reload rate, at 4.3 seconds thanks to the autoloader.
+
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[D-58 (85 mm)|85 mm D-58]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[D-58 (85 mm)|85 mm D-58]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -5°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.7 || rowspan="2" | 4.30 || rowspan="2" | 4.30 || rowspan="2" | 4.30 || rowspan="2" | 4.30
+| rowspan="2" | 40 || rowspan="2" | -5°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.7 || rowspan="2" | 4.30
 |-
 ! ''Realistic''
 | 11.9 || 14.0 || 17.0 || 18.8 || 20.0
@@ -141,13 +154,13 @@ Generally, your role should be taken as the set-up/clean-up tank. You will often
 
 Any tank is a threat that should be avoided, flanked, and destroyed. However, some tanks are impervious to these tactics:
 
-The [[Maus]] has thick flanks at nearly 200 mm that can absorb any shots if angled properly. Only fire at the Maus if it is unaware and showing its flat, unangled side, and at close range. The APHE on the Object 906 has just enough penetration to punch through the side armour. If facing the Maus head-on, the Object 906 has to worry about both the 128 mm and 75 mm cannon. If the Maus is keeping its turret faced at the Object 906, it is advised to use ESS and retreat. However, if one is defending a critical location and cannot retreat, one can use the HEAT-FS shell to penetrate the Maus at its weaker areas. Shoot the Maus on the right side of its turret face, as that will incapacitate the gunner. You will have to knock out each crew member separately. Watch out for other enemy vehicles that may be supporting the Maus. 
+The [[Maus]] has thick flanks at nearly 200 mm that can absorb any shots if angled properly. Only fire at the Maus if it is unaware and showing its flat, unangled side, and at close range. The APHE on the Object 906 has just enough penetration to punch through the side armour. If facing the Maus head-on, the Object 906 has to worry about both the 128 mm and 75 mm cannon. If the Maus is keeping its turret faced at the Object 906, it is advised to use ESS and retreat. However, if one is defending a critical location and cannot retreat, one can use the HEAT-FS shell to penetrate the Maus at its weaker areas. Shoot the Maus on the right side of its turret face, as that will incapacitate the gunner. You will have to knock out each crew member separately. Watch out for other enemy vehicles that may be supporting the Maus.
 
 [[T95]] (otherwise known as "Doom turtle") should not be engaged. Its good all-around bouncy armour will defeat most shots even from the Object 906 will take on the move. To defeat it, take some height at its flank and aim carefully, otherwise, it will just drag its attention. This worthy opponent has a very fast hull turning rate, turning it into an impervious wall even towards any adversary, including the 906 if it notices it. Engage only if necessary.
 
 With the [[Tortoise]], the same caution is advised but it is way easier to flank since its side armour is flat.
 
-Be cautious while aiming at [[IS-3]], [[IS-4M]] and [[T-10M]] since their sides can bounce the 85 mm shots. Aim at the flat side of the hull, between the roadwheels and the mudguard. That will have the best chance of knocking it out. 
+Be cautious while aiming at [[IS-3]], [[IS-4M]] and [[T-10M]] since their sides can bounce the 85 mm shots. Aim at the flat side of the hull, between the roadwheels and the mudguard. That will have the best chance of knocking it out.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -164,7 +177,7 @@ Be cautious while aiming at [[IS-3]], [[IS-4M]] and [[T-10M]] since their sides 
 ** The unlockable HEATFS shell lets the Object 906 comfortably fight heavier tanks
 * Two-plane stabilized gun allows to fire on the move and while braking on almost any terrain
 * Amphibious capability lets you move around maps with bodies of water more easily - rivers can also be easily crossed
-* Very fast reverse speed, about -45 km/h, with fast acceleration towards -70 km/h 
+* Very fast reverse speed, about -45 km/h, with fast acceleration towards -70 km/h
 * Has neutral steering
 * Immune to 50 .cal HMGs frontally
 

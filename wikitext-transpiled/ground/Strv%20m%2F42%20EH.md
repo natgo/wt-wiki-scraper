@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''{{Specs|name}}''' is a continued development of the AB Landsverk tanks designated [[Lago I]], that Hungary had requested back in the 1930s. When Sweden requested a new heavy tank armed with a 75 mm cannon, AB Landsverk saw the opportunity to use the existing [[Lago I]] as a basis for the new tank. Only 57 of the 282 Strv m/42 tanks ordered were produced to the EH standard, while the rest were the TH and TM variants. The tank was already outdated when it was introduced, with very thin armour, poor mobility, and a mediocre gun for the time. In the mid-1950s when Sweden bought in the [[Strv 81]], the Strv m/42 EH was repurposed for infantry support and redesignated as [[Ikv 73]] in 1957.
 
-It is a further development of the [[Lago I]] medium tank.
+It was introduced in [[Update 1.97 "Viking Fury"]]. The {{PAGENAME}} is a fairly conventional medium tank that distinguishes itself with its excellent gun depression. It thus excels in hull-down positions or ridge-fighting. However, the gun is quite weak and will struggle in uptiers against angled and well-armoured tanks. Heavy tanks are usually extremely hard to deal with for the {{PAGENAME}}. It's not a great flanker due to its large profile and mediocre mobility, instead, it relies on its gun handling in hull-down positions to ambush other tanks, which is a good tactic around capture points and important roads.
 
 == General info ==
 === Survivability and armour ===
@@ -129,6 +129,7 @@ The Strv m/42 EH is a fairly conventional medium tank that distinguishes itself 
 The Strv m/42 EH gun has got one of the worst penetration shells for a medium tank at its battle rating. The Slpprj m/40 (AP) and m/40B (APBC) rounds got a top penetration of 85 mm at 10 m range. It's enough when facing its own battle rating peers and when downtiered, but really lacks the penetration for an uptier battle. The Strv m/42 EH has also got a third shell, the slpgr m/39 (APHE) that will deal the most damage if it is able to penetrate the target. However, the Slpgr m/39 only has 63 mm penetration at 10 m range, which makes it efficient in a downtier and almost useless in a uptiered situation. But if the Strv m/42 EH manages to flank and hit the enemies from the side, the shells will be able to penetrate and destroy enemy targets with relative ease, although it might struggle against heavy tanks like [[KV-1 (Family)|KV-1]] and [[Churchill (Family)|Churchill]] still.
 
 Targets the Strv m/42 EH should be aware of are tanks like:
+
 * [[T-34 (Family)|T-34]]: With its 76 mm main gun and sloped front armour it can pose a big threat to the Strv m/42 in close-ranged combats where the T-34 got better acceleration and mobility.
 * [[M4 Sherman (Family)|M4 Sherman]]: With its 75 mm and sloped front will, like the T-34, pose a major threat at close range for the Strv m/42, mainly when forced in a frontal confrontation.
 * [[Pz.IV]] H/G/F2 and [[Panzer III (Family)|Panzer III]]'s with long barrels: These will be a threat for the Strv m/42 at medium to long range, but the flat frontal armour will make them a easy target for the Strv m/42 if it manages to get them into close range confrontations.
@@ -165,6 +166,7 @@ Only 57 of the 282 Strv m/42 tanks ordered were produced to the EH standard, TM 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_strv_m42_eh Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -189,6 +191,7 @@ File:Strv m 42 Sweden.png|Strv m/42 in Sweden
 === References ===
 
 ;Bibliography
+
 * David B. (2016, June 2). Stridsvagn m/42. Tank Encyclopedia. https://tanks-encyclopedia.com/ww2/sweden/stridsvagn-m42.php
 * Stridsvagn m/42. (2020, March 6). In ''Wikipedia''. https://en.wikipedia.org/w/index.php?title=Stridsvagn_m/42&oldid=944239000
 

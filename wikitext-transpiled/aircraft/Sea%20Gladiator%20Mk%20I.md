@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British naval fighter {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]].
+The Gloster Sea Gladiator was a naval modification of the Gladiator biplane fighter in use by the Royal Air Force (RAF). 98 Sea Gladiators were completed: 38 "interim" airframes were modified from the existing [[Gladiator Mk II]]. Differences from the Gladiator Mk IIs in service with the RAF included the planes being fitted with catapult attachment points and a tail hook, the airframe being strengthened to withstand carrier landings, and a dinghy lifeboat being made mountable to the underbelly of the plane. It was powered by a nine-cylinder Bristol Mercury VIIA radial engine rated at 840 hp and mated to a three-blade Fairey metal fixed pitch propeller, while retaining the same armament as the Gladiator Mk.II.
 
-The Sea Gladiator Mk I is the last of the Fleet Air Arm biplane naval fighters and, as the name suggests, is a naval modification of the regular [[Gladiator Mk II|Gladiator]] seen in the RAF tech tree. As a result, its handling characteristics are very similar to said plane type.
+It was introduced in [[Update 1.49 "Weapons of Victory"]]. The Sea Gladiator Mk I is the last of the Fleet Air Arm biplane naval fighters, and is a naval modification of the regular [[Gladiator Mk II|Gladiator]] seen in the RAF tech tree. As a result, its handling characteristics are very similar. This means it has good speed and acceleration for a biplane, and like most other biplanes is far better at turning than the monoplanes it faces. The Gladiator sits between the light biplanes design and the more advanced monoplanes, which means that it lacks the top speed and agility of either, but instead combines them to have a more balanced airframe.
 
 == General info ==
 === Flight performance ===
@@ -176,6 +176,7 @@ Sea Gladiators saw service in the Atlantic aboard Royal Navy carriers, and in th
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_mk2_navy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -183,6 +184,7 @@ Sea Gladiators saw service in the Atlantic aboard Royal Navy carriers, and in th
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

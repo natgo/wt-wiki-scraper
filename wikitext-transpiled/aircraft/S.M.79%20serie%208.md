@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=sm_79_1939_italy
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -171,7 +171,7 @@ Alessandro Marchettí was famous for creating record breaking and Schneider Trop
 
 You probably saw the very similar looking Italian S.81 in game, which was a militarized version of the successful S.73. The S.M.79 was new passenger version based on the planform of its predecessor; the most obvious difference was retractable landing gear. It was truly made first as a passenger version to compete with those being made by other countries. Needless to say, it immediately attracted attention of the Regina Italia and a bomber version was developed in parallel. For a few brief months it was considered the best transport and bomber in world and became a major point of pride in Fascist Italy and was sold to several countries in the years before WW2.
 
-Unlike nearly every bomber in War Thunder (and even in WW2), it was built mainly of steel a wood! The fuselage was a common for time welded steel tube design, with entire rear half being covered in cloth and plywood. The crew area to nose was duralumin-clad (which is very similar to Hawker Hurricane's construction). Most surprising the wings are completely wood! A major technical achievement for its size. During its production life several engines where tried, depending on power and reliability, one model even removing the nose engine.
+Unlike nearly every bomber in War Thunder (and even in WW2), it was built mainly of steel and wood. The fuselage was a common for time welded steel tube design, with entire rear half being covered in cloth and plywood. The crew area to nose was duralumin-clad (which is very similar to Hawker Hurricane's construction). Most surprising the wings are completely wood! A major technical achievement for its size. During its production life several engines where tried, depending on power and reliability, one model even removing the nose engine.
 
 To make the S.M.79 fast the wings are shorter than typical for its weight. To compensate for higher clean stall speed a number of advanced high lift devices were used to reduce stall speed for landing, being Handley-Page leading extending slats and drooping ailerons (also called "flaperons") in conjunction with uncommon slotted flaps. After trying a few engines, the Alfa Romeo 126 was used on the prototypes for testing and the record breaking flights soon after. As with the S.M.73/S.81, once again the Italian military wanted a bomber version and laid out proposed additions.
 

@@ -5,14 +5,14 @@
 }}
 {{Specs-Card
 |code=bf-109a_1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]]. The plane is painted after the camouflage scheme of Luftwaffe pilot Norbert Flegel in the Condor Legion of the Spanish Civil War. While available in-game for purchase with GE {{GE}}, Flegel's Bf 109A was given away during the [[wt:en/news/4994-special-german-unity-day-en|2017 German Unity Day]] event.
 
-Though capable in engagements against aircraft of similar BR, Flegel's Bf 109 A finds itself lacking in power, handling, and armament. As with later 109s, energy preservation is a must, and this aircraft should be used as a Boom and Zoom fighter against larger targets. This early Bf 109 is a definite collector's vehicle. With a two bladed wooden prop and a distinctive camouflage, this plane's visual looks give it most of its appeal to its owners. With an underwhelming armament of 2 x 7.92 mm MG 17 guns, it will find itself struggling to bring down heavy aircraft.
+Though capable in engagements against aircraft of similar BR, Flegel's Bf 109 A finds itself lacking in power, handling, and armament. As with later 109s, energy preservation is a must, and this aircraft should be used as a Boom and Zoom fighter against larger targets. This early Bf 109 is a definite collector's vehicle. With a two bladed wooden prop and a distinctive camouflage, this plane's visual looks give it most of its appeal to its owners. With an underwhelming armament of 2 x 7.92 mm MG 17 guns, it will find itself struggling to bring down heavy aircraft. 
 
 == General info ==
 === Flight performance ===
@@ -156,10 +156,11 @@ The Bf 109 had an important role participating during the Spanish Civil War and 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=bf-109a_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 Image:First battle bf 109a 1.jpg|<small>Flegel's Bf 109 A - A first battle graphic</small>
 </gallery>
 

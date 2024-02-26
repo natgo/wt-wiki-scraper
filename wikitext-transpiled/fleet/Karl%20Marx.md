@@ -58,13 +58,12 @@ The Karl Marx is a squadron vehicle equivalent of the [[Yenot]].
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-Compared to other frigates, the Karl Marx has better firepower than most with the exception of late Japanese and British frigates. The biggest downside this ship faces is the reload time. Most frigates such as SKRs and the Köln-class will outgun the Karl Marx. 
+Compared to other frigates, the Karl Marx has better firepower than most with the exception of late Japanese and British frigates. The biggest downside this ship faces is the reload time. Most frigates such as SKRs and the Köln-class will outgun the Karl Marx.
 
 The Karl Marx is best played at a range farther than most frigates. This will give the ship better time to respond to threats and keep it away from heavy enemy fire, almost like a mini-destroyer. Like many frigates, focus on small targets such as boats, then frigates, then destroyers. Do not rely heavily on AA as much as other ships such as the Köln as it traverses terribly and has no HE-VT shells. Instead, use any HE-VT or time-fused shells in advance.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective"''
 
 '''Pros:'''
 
@@ -80,7 +79,17 @@ The Karl Marx is best played at a range farther than most frigates. This will gi
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+Originally, the DDR (GDR) wanted to create its own "frigate" and build it in East Germany. In September 1952, Schiffsbautechnik in Wolgast began the development of "Projekt 10 Falke" (Hawk). However, the Project was canceled in 1955 in favour for Soviet imports. From 1956 until 1959, the Volksmarine received four ships of the Riga-class (Project 50) that were taken from the Baltic Fleet. Some problems emerged at the beginning of the training, simply because many signs were still in Russian and not in German.
+
+On January 16th 1961, the ships were given the names: Karl Marx, Ernst Thäleman, Friedrich Engels and Karl Liebknecht, after well-known German socialists.
+
+They were intended to combat sea and air targets, to hunt submarines, to provide escort, but also to support landing operations. In 1965/66, they conducted reconnaissance missions off the Norwegian coast and in the English Channel. The Karl Marx became particularly famous for her storm voyage in October 1967, as she survived one of the strongest hurricanes in the Baltic Sea since 1801, only slightly damaged thanks to the masterful efforts of the crew.
+
+The ships were decommissioned from 1968 to 1977. Their successor was the Koni class (Project 1159).
+
+'''Trivia'''
+
+Strictly speaking, the East German Navy never had frigates. The term was rarely used in the Volksmarine. Instead, in an allusion to the Russian classification, it was classified as "Küstenschutzschiff" (KSS) which can be translated to "Coastal protection ship".
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -103,7 +112,6 @@ The Karl Marx is best played at a range farther than most frigates. This will gi
 
 * ''topic on the official game forum;''
 * ''other literature.''
-
 
 {{ShipManufacturer Yantar Baltic Shipyard}}
 {{Germany frigates}}

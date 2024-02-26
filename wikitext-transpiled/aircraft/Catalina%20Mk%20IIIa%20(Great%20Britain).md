@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British bomber {{Battle-rating}}. It was initially introduced in [[Update 1.43]] as the Catalina Mk IVa, however, it was changed to its current version in [[Update 1.57 "Battle March"]].
+The Consolidated PBY Catalina was a twin-engined, multirole flying boat which was employed primarily as a maritime patrol aircraft. A development of Consolidated's P2Y flying boat. One of the most important changes was the introduction two 1,000 hp Twin Wasp engines. The Catalina I entered service with Nos.209 and 240 Squadrons of RAF Coastal Command in 1941. A popular and capable aircraft, orders were also secured for Canada, Australia, South Africa, and New Zealand. In the hands of Coastal Command crews, the Catalina proved to be an effective and much feared U-boat killer. The Catalina Mk IVa was the British designation for the PBY-5 variant; powered by two 1,200 hp Twin Wasps. Much like the Catalina I, it proved to be an excellent patrol aircraft while still retaining a reasonably large payload of up to 4,000 lb.
+
+It was initially introduced in [[Update 1.43]] as the Catalina Mk IVa, however, it was changed to its current version in [[Update 1.57 "Battle March"]]. The Catalina Mk IIIa can be easily identified, because, instead of the normal floats, this variant has access to a landing gear, extremely useful to land on the airfield. The Catalina is very large, and is also very slow, much like other bombers of its BR. Its defensive armament covers most of the aircraft, although an upgraded crew or a good manual aim will be necessary to survive attacks from other aircraft. However, with access to 4,000 lb of ordnance, with 2 x torpedoes, 4 x 1,000 lb bombs or 4 x Type A Mk.I naval mines, you can be a real threat to ground targets and specially early destroyers in naval battles.
 
 == General info ==
 === Flight performance ===
@@ -121,6 +123,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 16 x 100 lb AN-M30A1 bombs (1,600 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
 * 4 x 1,000 lb AN-M65A1 bombs (4,000 lb total)
@@ -198,15 +201,18 @@ The Catalina Mk IVa was the British designation for the PBY-5 variant; powered b
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=pby-5a_raf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -83,6 +83,8 @@ It was introduced in [[Update "New Power"]]. Besides the Settsu's plentiful main
 
 ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
 
+{{:6-inch/45 Type 41 (152 mm)/Ammunition|6-inch HE, 6-inch APC}}
+
 === Anti-aircraft armament ===
 {{Specs-Fleet-AA}}
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->

@@ -162,21 +162,23 @@ Brawling is an option, however, the TES is rather sluggish and will not last lon
 
 '''Pros:'''
 
-* Impressive chemical protection on the front and sides
-* Maintains the kinetic protection from previous variants, with improvements in places
-* Very accurate L30A1 120 mm gun
-* Fast reload
-* Roof mounted machine gun has access to thermal and can be used as a CITV
+* Retains pros from previous Challenger 2:
+** Impressive chemical protection on the front and sides
+** Maintains the kinetic protection from previous variants, with improvements in places
+** Very accurate 120 mm L30A1 gun
+** Fast reload
+* Roof mounted machine gun has access to thermal and can be used as a makeshift CITV for scouting (but not firing, unfortunately)
 
 '''Cons:'''
 
-* No composite plates behind the ERA panels on the turret sides
-* Heaviest MBT in the game with a very poor hp/ton ratio; very poor acceleration
-* Same ammunition options as the previous Challengers
-* Maintains the same weak spots from previous variants
-* L27A1 has low penetration compared to other top rank NATO ammunition
-* ERA is useless against tandem-charge warheads
-* Cannot maintain the short reload time after the first-stage ammo rack (4 rounds) has been depleted
+* No composite plates behind the ERA panels on the turret sides like with 2F model, and since ERA is useless against tandem-charge warheads it is bad to not have full coverage to at least be safe from normal tanks
+* The jammer is useless in-game and begs other tanks to scout it out or use HE on it
+* Also retains weaknesses of previous Challenger 2 models:
+** Heaviest MBT in the game with a very poor hp/ton ratio; very poor acceleration
+** Same ammunition options as the previous Challengers
+** Maintains the same weak spots from previous variants
+** L27A1 has low penetration compared to other top rank NATO ammunition and armour cannot compensate for it against high ground
+** Cannot maintain the short reload time after the first-stage ammo rack (4 rounds) has been depleted
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

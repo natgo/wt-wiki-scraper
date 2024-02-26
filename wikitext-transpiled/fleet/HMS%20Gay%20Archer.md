@@ -68,7 +68,9 @@ Built in the early 1950s, Gay-class patrol boats were intended to be a transitio
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Videos
+{{Youtube-gallery|vhWvNPi9LuQ|'''Battle Pass: Tropical Storm''' discusses the {{PAGENAME}} at 0:45 - ''War Thunder Official Channel''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

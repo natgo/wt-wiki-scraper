@@ -45,7 +45,7 @@ The Hunter F.58 performs similar to other Hunters, particularly the [[Hunter FGA
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X ||✓
 |-
 |}
 
@@ -123,6 +123,15 @@ This Hunter, however, unlike any other Hunter variant, features 60 countermeasur
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="5" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+|-
+| {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}} || {{Cross}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -188,7 +197,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Hunter F.58 is a transonic aircraft in level flight but can reach supersonic speed in a dive (but rated at exactly M1.0 before structural failure). That means that it is faster than other subsonic aircraft (one of the fastest subsonic jet, just behind the duo "Jump-jet": [[Yak-38M]] and [[AV-8C|US Harriers]]) it will face, but slower than early supersonic aircraft like the [[F-100D]] and the [[MiG-19PT]]. Thanks to the upgrades by Swiss in 1964, the F.58 received more self-defense equipment such as all-aspect RWR and 60 countermeasures onboard - it can be said that the jet is old but not obsolete. 
+The Hunter F.58 is a transonic aircraft in level flight but can reach supersonic speed in a dive (but rated at exactly M1.0 before structural failure). That means that it is faster than other subsonic aircraft (one of the fastest subsonic jet, just behind the duo "Jump-jet": [[Yak-38M]] and [[AV-8C|US Harriers]]) it will face, but slower than early supersonic aircraft like the [[F-100D]] and the [[MiG-19PT]]. Thanks to the upgrades by Swiss in 1964, the F.58 received more self-defense equipment such as all-aspect RWR and 60 countermeasures onboard - it can be said that the jet is old but not obsolete.
 
 ==== Air - the Swiss Patrol ====
 A thumb of rule for jet fighters is that: always maintain your energy for any situation. Thanks to its excellent design and sufficiently high engine power for such a huge jet, the energy retention is almost an order of magnitude higher than supersonic aircraft, which bleed speed in sharp turns, this can be both a blessing and a curse, when in a prolonged turning engagement, your energy retention advantage will allow you to pull away from a supersonic at the end of a turn; however, a plane such as the F-100D can trade its AoA with its speed to stay on your tail. In many situations, when you have a supersonic on your tail, making them overshoot is very difficult, but if you can, the [[Flz Lwf 63/80]] will make short work of them as finishing them off from afar is always better than being forced into a dogfight (where most subsonic fighters don't have countermeasures). When facing subsonic aircraft, simply outrun them with your superior speed and gain sufficient distance for a return; try not to engage in a turnfight with subsonic aircraft such as MiGs (15 and 17, both Russian and Chinese variants) and late variants of the F-86 Sabre (starting from F-86F-25 which feature slats; while F-86K or Canadair Sabres have better engine to keep up with Hunter), as they are often able to best you in a dogfight, especially at low speeds, where the Hunter really shows its weaknesses - its huge size and worse manoeuvrability at such speed. The plane, under most circumstances, does not rip it's wings, even under extended, high G turns; although if you combine a 9-10 G turn and roll or yaw, the plane can rip. Unlike some other planes, you have almost no chance of making it back to the airfield with a broken wing. This Hunter also has access to the Flz Lwf 63/80 air-to-air missiles, which work as [[AIM-9P Sidewinder]]; for players who have been used to AIM-9E or SRAAM on other Hunters, the 63/80 can make sure careless players who don't check their 6 o'clock meet their end quickly.
@@ -202,23 +211,19 @@ While Swiss purchased the F.58 variant which was based on the F.6 with ground-at
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
 * Sufficient ammo pool to take down multiple targets
-* One of the fastest subsonic jets, retains good maneuverability at higher speeds 
+* One of the fastest subsonic jets, retains decent manoeuvrability at higher speeds
 * Good energy retention for energy fights against subsonic or early supersonic jets
 * Access to more advanced missiles for both A2A/A2G missions
 * Advanced avionics over all its Hunter cousins
 ** All-aspect RWR for situational awareness
 ** Flares/chaff to help counter those types of missiles
 
-*
-
 '''Cons:'''
 
 * Huge target, can be easy prey to enemy gunfire
-* Not maneuverable at lower speeds due to its size
-* Lacks ballistic computer for precise ground attacks
+* Not manoeuvrable below 600 km/h
 * Relatively limited payload options due to pylon layouts
-
-*
+* Due to its advanced capabilities will face off against supersonic jets often, which renders the Hunter's subsonic capabilities futile
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

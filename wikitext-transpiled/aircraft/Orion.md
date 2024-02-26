@@ -67,7 +67,7 @@ The Orion has a low top speed. As a propeller-driven UCAV, its climb rate and ma
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-Being a strike drone, the Orion has no armour plating whatsoever. The only saving grace of the Orion is that it is still a relatively small target and hard to spot. Remember that being out of sight means a higher chance of survival.
+Aircraft survivability is quite an issue with most drone types, with drones being not only incredibly slow manoeuvring wise but also top speed wise.The structural integrity is also sub par with simple 7.7 mm MG's being able to take it out. One major benefit of drones is that you don't have a pilot to die as it is unmanned which means that you cant "black out: from G's either. There is no armour and the wings are quite fragile.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -115,7 +115,7 @@ The Orion fills a good niche as the "everyman's CAS". It is available to everyon
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-[[File:Orion UCAV- Army-2020-209.jpg|thumb|364.985x364.985px|Strike Version of the Orion in a demonstration]]
+[[File:Orion UCAV- Army-2020-209.jpg|thumb|Strike Version of the Orion in a demonstration]]
 The Orion UCAV (also known as '''Kronshtadt Orion''') is a family of unmanned vehicles developed by the Russian company Kronstadt Group. The development of the Orion platform can be traced to 2011 as part of the Russian MoD-funded Inokhodets program. The company later revealed the first layout of the Orion with its first flight being reported to happen in 2016. The Orion was idealized from the start to be a multipurpose weapon, capable of reconnaissance and strike missions.
 
 The armed variant, was developed to be able to carry a payload weight of 250 kg with a maximum payload of 4 missiles or bombs. It was meant to be fitted with the Vikhr-1V laser-guided anti-tank missile and when it's used for combat operations that is its primary loadout.

@@ -69,6 +69,7 @@ Located aft is a catapult with one E7K2 scout plane which provides unique offens
 '''Cons:'''
 
 * Low crew amount for its size
+* Almost all of her crew compartments were located on the deck, making them extremely vulnerable to HE shells 
 * Mediocre AA armament
 * Can't release all torpedoes to one side
 

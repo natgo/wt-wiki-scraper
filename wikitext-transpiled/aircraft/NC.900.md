@@ -13,7 +13,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The SNCAC NC.900 had its beginnings quite early in the war. Cravant, a chalk quarry, was abandoned until a French builder saw the quarry as a place for an aircraft factory. However, that plan wouldn't come to fruition due to the German invasion. The quarry was left alone for quite a while until the Germans utilized the quarry as a repair facility for their [[Fw 190 (Family)|Fw 190]]s. As the tides turned in the war and Germany was pushed back from France, the repairmen at the quarry had to destroy all the Fw 190s that would be left behind. That plan failed and left many Fw 190s intact, and they were soon discovered by French forces. Due to the large number of aircraft and parts, it was decided to utilize the Fw 190 and redesignate it as the NC.900. Many NC.900s were cobbled together from different Focke-Wulf variants and would prove consequential later. After the first unit was assigned to the NC.900, problems quickly began. Sabotage and reliability issues plagued the NC.900s. Furthermore, the squadron flying them, Normanie-Niemen, hated the Fw 190 due to fighting them earlier in the war. It was quickly removed from service, and many were scrapped.
+The SNCAC NC.900 had its beginnings quite early in the war. Cravant, a chalk quarry, was abandoned until a French builder saw the quarry as a place for an aircraft factory. However, that plan wouldn't come to fruition due to the German invasion. The quarry was left alone for quite a while until the Germans utilized the quarry as a repair facility for their [[Fw 190 (Family)|Fw 190]]s. As the tides turned in the war and Germany was pushed back from France, the repairmen at the quarry had to destroy all the Fw 190s that would be left behind. That plan failed and left many Fw 190s intact, and they were soon discovered by French forces. Due to the large number of aircraft and parts, it was decided to utilize the Fw 190 and redesignate it as the NC.900. Many NC.900s were cobbled together from different Focke-Wulf variants and would prove consequential later. After the first unit was assigned to the NC.900, problems quickly began. Sabotage and reliability issues plagued the NC.900s. Furthermore, the squadron flying them, Normandie-Niemen, hated the Fw 190 due to fighting them earlier in the war. It was quickly removed from service, and many were scrapped.
 
 Introduced during [[Update 1.75 "La Résistance"]] as a reward for the [[wt:en/news/5224-special-festive-quest-en|2017 "Festive Quest"]] event, the '''{{Specs|name}}''' is a very unique aircraft. Although plagued with issues in real life, in-game it is quite a decent aircraft. It features excellent weaponry and decent performance. It has four wing-mounted 20 mm [[MG 151/20 (20 mm)|MG 151]] cannons and two nose-mounted 13 mm machine guns. They can easily destroy enemy aircraft with a tiny burst with the air target belt. The guns also have plentiful ammunition, so players can be more generous with firing. As for performance, the NC.900 lacks climb rate and acceleration. It also has a poor turn rate, and flaps must be used to stay competitive with enemy fighters. However, it does make up for these deficiencies with an excellent roll rate and a structural speed limit of over 900 km/h (562 mph). Overall, the NC.900 is a decent aircraft, but it does take getting used to its unique playstyle.
 
@@ -194,10 +194,11 @@ Following the permanent flight ban of the NC.900s, the remaining airframes were 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fw-190a-8_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 File:NC.900 Alt Camo.png|<small>"Non-standard bicolor camouflage pattern", given during the event</small>
 File:NC.900 Tail.png|<small>Close-up on unique tail marking</small>
 </gallery>
@@ -206,7 +207,9 @@ File:NC.900 Tail.png|<small>Close-up on unique tail marking</small>
 <!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''-->
+
 ; Equivalent aircraft from the [[Fw 190 (Family)|Fw 190]] lineage:
+
 * [[Fw 190 A-8]]
 
 == External links ==

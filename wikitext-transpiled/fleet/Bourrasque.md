@@ -7,7 +7,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' was a French WWII destroyer and the lead ship of her class. The Bourrasque-class destroyers were smaller and slower than the preceding [[Jaguar (Destroyer) (Family)|Chacal-class destroyers]]. Bourrasque was laid down on 12th November 1923 and launched on 5th August 1925. The main armament consisted of four Canon de 130 mm Modéle 1919 in shielded single mounts covered by 10 mm thick antifragmentation armour plates on the front and sides. The secondary armament consisted of a pair of Canon de 37 mm Modéle 1925 for anti-aircraft protection and two triple launchers for 550 mm 23DT torpedoes. During her short war career, the ship participated in Operation Dynamo, where on 30th May 1940, while evacuating troops from Dunkerque, she struck a German naval mine and sunk with loss of about 500 out of the 1,100-1,200 crew and troops onboard.
 
-Bourrasque was introduced together with French navy in [[Update "La Royale"]]. The Bourrasque suffers from very slow turret rotation speed and abysmal reload of 11 seconds, which can be reduced down to 8 seconds when the crew is aced. The magazines and shell rooms are deep under the waterline, making them well-protected against detonation. Captains are advised to use SAP shells in the main guns for its penetration capability while aiming for enemy vessel weakspots such as magazines and shell rooms. The torpedoes are quite fast with max speed of 72 km/h while also having more than average range of 9 km and high explosive yield of 308 kg of TNT. The ship itself is quite mediocre, but when in good hands, it can be formidable foe, especially when relying on torpedo ambushes and close range brawls with her powerful 130 mm cannons.
+Bourrasque was introduced together with French navy in [[Update "La Royale"]]. The Bourrasque suffers from very slow turret rotation speed and abysmal reload of 11 seconds, which can be reduced down to 8 seconds when the crew is aced. The magazines and shell rooms are deep under the waterline, making them well-protected against detonation. Captains are advised to use SAP shells in the main guns for its penetration capability while aiming for enemy vessel weak spots such as magazines and shell rooms. The torpedoes are quite fast with max speed of 72 km/h while also having more than average range of 9 km and high explosive yield of 308 kg of TNT. The ship itself is quite mediocre, but when in good hands, it can be formidable foe, especially when relying on torpedo ambushes and close range brawls with her powerful 130 mm cannons.
 
 == General info ==
 [[File:Bourrasque X-Ray.png|thumb|The Bourrasque with X-Ray view enabled, showing the location of all modules]]
@@ -57,7 +57,7 @@ Both rounds have a velocity of 725 m/s, making it easy to adjust to the SAPBC on
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|37 mm/50 model 1933 (37 mm)}}
 
-Like most early French destroyers, the Bourrasque features a minimal load of secondary weapons, amounting to only 2 x 37 mm guns. These 37 mm guns are not automatic, meaning they have a low rate of fire and are ineffective against aircraft, especially due to the lack of a timed fuze or proximity fuze round. These guns also have very little explosive mass and no penetration, making them ineffective against everything except small coastal vessels.
+Like most early French destroyers, the Bourrasque features a minimal load of secondary weapons, amounting to only 2 x 37 mm guns. These 37 mm guns are not automatic, meaning they have a low rate of fire and are ineffective against aircraft, especially due to the lack of a timed fuse or proximity fuse round. These guns also have very little explosive mass and no penetration, making them ineffective against everything except small coastal vessels.
 
 {{:37 mm/50 model 1933 (37 mm)/Ammunition|37 mm OEA Mle 1925}}
 
@@ -70,7 +70,7 @@ The 37 mm OEA Mle.25 HE rounds have a muzzle velocity of 810 m/s, allowing it to
 
 The Bourrasque carries a deadly torpedo armament, having 2 x triple tube 550 mm torpedo launchers mounted amidships. This gives the captain access to an extremely dangerous torpedo volley for this tier, combining some very solid torpedoes in terms of both range, speed, and explosive mass. One thing to note about these launchers is, like other French destroyers, they have horrible firing angles, requiring the vessel to show its entire side to an enemy to fire a volley. These volleys do however, guarantee the destruction of any foe encountered within 1 or 2 hits, and allow captains of the Bourrasque to destroy enemy vessels that are outside its effective firing distance.
 
-The 550 mm Modèle 1923 DT torpedoes are extremely deadly, both with and without the Torpedo Mode modification. Without this modification, these torpedoes are lethal at short to medium ranges, having a top speed of 72 km/h and a range of 9 km, allowing it to easily intercept enemy vessels at short range. With the modification enabled, the speed is reduced to 65km/h, but gains 4 km range, allowing it destroy enemies well beyond the effective combat distance of enemy vessels.
+The 550 mm Modèle 1923 DT torpedoes are extremely deadly, both with and without the Torpedo Mode modification. Without this modification, these torpedoes are lethal at short to medium ranges, having a top speed of 72 km/h and a range of 9 km, allowing it to easily intercept enemy vessels at short range. With the modification enabled, the speed is reduced to 65 km/h, but gains 4 km range, allowing it destroy enemies well beyond the effective combat distance of enemy vessels.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
@@ -79,7 +79,7 @@ The Bourrasque is best used to support other friendly vessels, as the low top sp
 '''Enemies worth noting:'''
 Enemy vessels with autocannons, like the 40 mm [[2pdr QF Mk.VIII (40 mm)|Pom Pom]] or [[Bofors (40 mm) (Family)|Bofors]], or even 20 mm guns can easily strip the Bourrasque of crew and disable its internal and external components, so be mindful of these enemies. Guns of these type are usually not carried on ships at this tier, but there are a few exceptions, such as the British [[HMS Vega]] and [[HMS Calpe]], the German [[Type 1934A (Family)|Type 1934A-class]] destroyers, and all Soviet destroyers. The easiest way to avoid getting hit by these guns is to sit outside their firing range, at about 4 km, allowing you to fight on equal grounds with these vessels.
 
-As with any bluewater vessel, a single coastal vessel can spell doom for the Bourrasque. Always try to keep a small island or piece of wreckage between you and coastal vessels, so you can easily avoid being torpedoes. Do not rely on your 37mm guns to destroy these, as the lack of damage struggles even against some coastal boats. Instead, try to keep a bit of distance to allow your 130 mm guns to depress enough to dispatch the enemy boat.
+As with any bluewater vessel, a single coastal vessel can spell doom for the Bourrasque. Always try to keep a small island or piece of wreckage between you and coastal vessels, so you can easily avoid being torpedoes. Do not rely on your 37 mm guns to destroy these, as the lack of damage struggles even against some coastal boats. Instead, try to keep a bit of distance to allow your 130 mm guns to depress enough to dispatch the enemy boat.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -102,22 +102,23 @@ As with any bluewater vessel, a single coastal vessel can spell doom for the Bou
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-==== Bourrasque class ====
+==== Bourrasque-class ====
 The Bourrasque-class destroyers were a group of twelve ships built during the 1920s under a 1922 programme. This programme was a part of a larger programme designed to completely modernise the French Navy post-World War I, and while they were smaller and slower than the larger [[Chacal]] class, they were still comparable to contemporary destroyers. These ships reached 2,000 t under full load, and under standard load reached 1,319 t. The Bourrasque-class ships were 106 m (347ft, 9in) long, a beam of 9.64 m (31ft, 8in), and a 4.3 m (14ft, 1in) draught. Each ship was powered by two steam turbines, each turbine driving a propeller shaft. Both turbines were provided steam by three boilers each. The turbines were rated at a combined power of 31,000 horsepower, propelling the ships up to 33 knots (66 km/h), and with the fuel on board, could travel 5,600 km (3,000 nautical miles) at a speed of 15 kn (28 km/h). The armament of the Bourrasque-class consisted of 4 x 130 mm Mle. 19 for their main guns, 2 x 37 mm Mle. 25 for their secondary armament, and their anti-aircraft battery consisted of 4 x 13.2 mm machine guns in single mounts. They also had 2 x triple 550 mm torpedo launchers and 2 x depth charge chutes, allowing them to carry a total of sixteen 200 kg depth charges. The Bourrasque-class was in service from the mid-1920s all the way to the '50s, serving in both the Free French Navy and the Vichy French Navy, as well as serving in the Polish Navy and the Royal Navy.
-
-==== Bourrasque ====
 [[File:Bourrasque Dunkirk.jpg|right|thumb|Bourrasque sinking at Dunkirk]]
+==== Bourrasque ====
 The Bourrasque, the lead ship of the class, was laid down on 12<sup>th</sup> November 1923 and was completed on the 23<sup>rd</sup> September 1926, entering service on the same day of her completion. In 1931, the Bourrasque-class underwent a refit, adding 1 x 75 mm Mle. 24, 2 x 37 mm Mle. 25 cannons, and 2 x twin-mounted 13.2 mm machine guns. Another refit in 1939-1940 introduced the British Type 123 sonar to the vessels. Bourrasque participated in Operation Dynamo, the Dunkirk Evacuation, where she was struck by a French mine which then detonated the depth charges, resulting in a massive explosion, killing roughly 500 of the 1,100 troops onboard.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_destroyer_bourrasque_class_bourrasque Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-Similar ships from other nations:
+;Similar ships from other nations
 
 * [[USS Litchfield]]
 * [[Kerch (destroyer)|Kerch]]

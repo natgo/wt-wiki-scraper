@@ -34,70 +34,36 @@ The ship's top speed of 33 km/h is not very good due to its electric motors, goo
 
 RN Gabbiano as primary armament has a single 100mm/47 OTO Mod.1937 cannon placed in front, this cannon gives the RN Gabbiano the ability to damage enemy destroyers more easily thanks to its APHE and HE, capable of destroying enemy ship's components and diminishing the crew of the enemy ship, while for the anti-aircraft role, you could use the HE-FT but don't use them due to the reloading, speed of the cannon to turn on itself and for the Time fuze that makes it impractical.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 100 m !! 1,000 m !! 2,000 m !! 3,000 m !! 4,000 m !! 5,000 m
-|-
-| 100 mm HE Dirompente || HE || 17 || 17 || 17 || 17 || 17 || 17
-|-
-| 100 mm APHE Perforante || APHE || 152 || 130 || 110 || 93 || 79 || 67
-|-
-| 100 mm HE-TF Contro-aerea || HE-TF* || 17 || 17 || 17 || 17 || 17 || 17
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(s)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 100 mm HE Dirompente || HE || 855 || 13.2 || 0 || 0.1 || 1,300 || 79° || 80° || 81°
-|-
-| 100 mm APHE Perforante || APHE || 855 || 13.8 || 0.005 || 6 || 820 || 47° || 60° || 65°
-|-
-| 100 mm HE-TF Contro-aerea || HE-TF* || 855 || 13.2 || 0 || 0.1 || 1,300 || 79° || 80° || 81°
-|-
-|}
+{{:100 mm/47 O.T.O. Mod. 1937 (100 mm)/Ammunition|100 mm HE Dirompente, 100 mm APHE Perforante, 100 mm HE-TF Contro-aerea}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|20 mm/65 Breda (20 mm)|20 mm/70 Scotti-Isotta Fraschini mod.1939 (20 mm)}}
 
-The secondary armament consists of two twin 20mm Breda turrets positioned at the rear of the ship and three single 20mm Scotti-Isotta Fraschini mod.1939 turrets positioned on the sides and behind the 100mm gun, the secondary armament is very good against light targets and enemy aircraft so to save you from situations where there are enemy aircraft, torpedo bombers I recommend you use this armament instead of the main 100mm.
+The secondary armament consists of two twin 20 mm Breda turrets positioned at the rear of the ship and three single 20 mm Scotti-Isotta Fraschini mod.1939 turrets positioned on the sides and behind the 100 mm gun. The secondary armament is very good against light targets and enemy aircraft, so in situations where there are enemy aircraft, particularly torpedo bombers, this armament is recommended to be used instead of the main 100 mm.
 
-* Universal: {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
-* HE belt: {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}  {{Annotation|API-T|Armour-piercing incendiary tracer}}
-* AP belt: {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
+* '''Universal:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
+* '''20 mm HE belts:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}
+* '''20 mm AP belts:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 
-{{:20_mm/65_Breda_(20_mm)/Ammunition|HEFI-T*, API-T}}
+{{:20 mm/65 Breda (20 mm)/Ammunition|HEFI-T*, API-T}}
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|S.I.170/450X5,25 (450 mm)|WBG depth charge}}
 
-The additional armament on the RN Gabbiano consists of two single 450mm torpedo launchers placed on the sides of the ship, these torpedoes are the best armament versus the destroyer, at last of additional armament there are six depth charge launchers also placed on the sides, the torpedoes are always good for destroying enemy destroyers and others boats that are very slow or you can have a good aim and get a fast target while the depth charges will be difficult to use unless you are very close to the enemy ship but is a very rare situation.
+The additional armament on the RN Gabbiano consists of two single 450 mm torpedo launchers placed on the sides of the ship, these torpedoes are the best armament versus the destroyer, at last of additional armament there are six depth charge launchers also placed on the sides, the torpedoes are always good for destroying enemy destroyers and others boats that are very slow or you can have a good aim and get a fast target while the depth charges will be difficult to use unless you are very close to the enemy ship but is a very rare situation.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-The RN Gabbiano is a corvette with enough survivability thanks to the early battle spawn in the coastal one you can position yourself in great areas to destroy enemy coastal ships, and thus gain many research points and silver lions, however, use the secondary armament composed entirely of 20mm against coastal ships to maximise the damage inflicted on them and thus destroy them quickly without problems, while the 100mm uses APHE and HE against destroyers and don't use HE-FT's which are very ineffective against air and naval targets so only use HE and APHE against enemy destroyers and if you are close enough use your additional armament of torpedoes and depth charges to shoot down the enemy ship, and finally remember that due to the speed suit, you will struggle to dodge enemy hits and torpedoes so try to be careful around your surroundings.
+The RN Gabbiano is a corvette with enough survivability thanks to the early battle spawn in the coastal one you can position yourself in great areas to destroy enemy coastal ships, and thus gain many research points and silver lions, however, use the secondary armament composed entirely of 20 mm against coastal ships to maximise the damage inflicted on them and thus destroy them quickly without problems, while the 100 mm uses APHE and HE against destroyers and don't use HE-FT's which are very ineffective against air and naval targets so only use HE and APHE against enemy destroyers and if you are close enough use your additional armament of torpedoes and depth charges to shoot down the enemy ship, and finally remember that due to the speed suit, you will struggle to dodge enemy hits and torpedoes so try to be careful around your surroundings.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
 
 * Effective AA armament
 * Boat spawn
@@ -105,7 +71,7 @@ The RN Gabbiano is a corvette with enough survivability thanks to the early batt
 
 '''Cons:'''
 
-* Inadequate armament to fight dstroyers and bigger ships
+* Inadequate armament to fight destroyers and bigger ships
 * Very slow
 
 == History ==

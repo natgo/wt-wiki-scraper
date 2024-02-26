@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light cruiser {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+RN Raimondo Montecuccoli was the first one of [[Condottieri_(Family)#Raimondo Montecuccoli-class|Raimondo Montecuccoli-subclass]] of Condottieri cruisers. She was laid down in October 1931 and commissioned in June 1935, marking a major shift for the class by evolving into a proper cruiser rather than a destroyer-hunter. To achieve this transformation, the designers doubled the mass allocated to armour, upgraded the boilers, and increased the anti-aircraft armament. Her first assignment was to protect Italian shipping and troops in Tianjin during the Second Sino-Japanese War. Her initial combat encounter occurred at the Battle of Punta Stilo in the early stages of World War II, where she did not achieve any notable success. It was not until the battle in mid-June that she attained her first combat success by inflicting significant damage on HMS Bedouin, destroying her superstructure. She then engaged in an intense gunfight with HMS Ithuriel, an I-class destroyer, closing to within 7 kilometres of each other. During this engagement, Ithuriel suffered multiple shrapnel damages, and Montecuccoli was hit directly in the officers' quarters, prompting her to disengage. This battle represented the greatest combat success of her career. Following the armistice, she served as a troop transport, and after the end of World War II, she continued in the Italian Navy as a training cruiser for the next 20 years.
 
-Raimondo Montecuccoli was the namesake of the subclass of the [[Condottieri (Family)|Condottieri]] cruisers. She was laid down in October 1931 and commissioned in June 1935, marking a major shift for the class, becoming a proper cruiser instead of a destroyer-hunter. To fulfill the goal, designers doubled the mass committed to the armour, upgraded boilers and increased the anti-air armament.
+Introduced in [[Update "Starfighters"]] along with the initial release of the Italian navy, RN Raimondo Montecuccoli is one of the best light cruisers of her battle rating. Her biggest flaw is a lacklustre torpedo armament and ammo rack protection, but in the right hands, she can be an exceptional warship, able to play with the enemy vessels on her own terms and easily destroy enemy destroyers and light cruisers in any duel.
 
 == General info ==
 === Survivability and armour ===
@@ -95,6 +95,7 @@ The Raimondo Montecuccoli was designed in the third group of Condottieri-class l
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_cruiser_montecuccoli Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -105,6 +106,7 @@ The Raimondo Montecuccoli was designed in the third group of Condottieri-class l
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -112,9 +114,11 @@ The Raimondo Montecuccoli was designed in the third group of Condottieri-class l
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+
+* [[wikipedia:Italian cruiser Raimondo Montecuccoli|<nowiki>[wikipedia]</nowiki> Italian cruiser Raimondo Montecuccoli]]
+* ''Struggle for the Middle Sea. The Great Navies at War in the Mediterranean Theater, 1940-1945'' by Vincent P. O'Hara
+* ''Włoskie krazowniki lekkie typu Raimondo Montecuccoli'' by Andrzej Perepeczko - Morze Statki i Okręty 09/2009 (page 42-45)
+
 
 {{ShipManufacturer Ansaldo}}
 {{Italy light cruisers}}

@@ -27,7 +27,7 @@ Unfortunately, since the Mikuma was designed with the emphasis on high offensive
 {{Specs-Fleet-Mobility}}
 Despite her massive size and displacement, the Mikuma is tied with her sister ship [[IJN Suzuya|Suzuya]] and a smaller [[IJN Isuzu|Isuzu]] as the second fastest cruiser in the game (after a much smaller "scout cruiser" [[RN Attilio Regolo|Attilio Regolo]]) at 78 km/h (AB) or 67 km/h (RB). Owning to powerful 10 Kampon boilers powered four propeller shafts with 152,000 horsepower. With her high top speed, the Mikuma is capable of out-pacing almost every cruisers she will face and is able to closing in the gap at a faster rate.
 
-However, due to the large size and displacement, the Mikuma is quite slow to decelerate and slugglsh to handle at times. This can be detrimental, especially when it comes to dodging torpedoes and mines.
+However, due to the large size and displacement, the Mikuma is quite slow to decelerate and sluggish to handle at times. This can be detrimental, especially when it comes to dodging torpedoes and mines.
 
 {{NavalMobility}}
 
@@ -45,7 +45,7 @@ Mikuma's main armament consists of 15 x 155 mm/60 3rd Year Type cannons mounted 
 
 The 155 mm guns have three shell choice; a rudimentary HE shell with 3.39 kg of TNT equivalent, an APHEBC shell with high penetration (131 mm at 10 km) and a sizeable filler of 1.21 kg of TNT equivalent, and a HE-TF shell with the same filler as the HE shell, though is not useful due to the gun's slow reload and traverse. As with other similar guns, both shell has a high shell velocity at 920 m/s and thus were reasonably accurate at all ranges.
 
-The guns have a rather mediocre rate of fire for its calibre at 6 RPM (10 second reload with ace crew) compared to other 150-155 mm guns with 7-8 RPM as baseline. This is made up with the sheer volume of rounds it can deliver for each salvoes, with a well-aimed barrage capable of causing severe damage to the enemy ship.
+The guns have a rather mediocre rate of fire for its calibre at 6 RPM (10 second reload with ace crew) compared to other 150-155 mm guns with 7-8 RPM as baseline. This is made up with the sheer volume of rounds it can deliver for each salvo, with a well-aimed barrage capable of causing severe damage to the enemy ship.
 
 {{:155 mm/60 3rd Year Type (155 mm)/Ammunition|155 mm Type 0 HE, 155 mm Type 91 APHE, 155 mm Type 0 HE-TF}}
 
@@ -109,6 +109,8 @@ A common mistake made by many "heavy light cruiser" players is to venture too de
 * Wide hull makes evading enemy torpedoes difficult as it takes some time to manoeuvre the ship
 * External Long Lance torpedo storages can be detonated when being hit
 * Torpedo arcs are limited, have to show almost full broadside to launch torpedoes
+* The 155 mm guns lack the penetration and damage performance to reliably combat battleships or heavy cruisers Mikuma will face often
+* The importance of torpedoes makes Mikuma very map dependent: torpedoes are harder to use on maps with lots of cover, greatly reducing the potential of its most potent weapon
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

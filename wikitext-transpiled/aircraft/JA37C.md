@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+The JA37C was developed during the 1980s, with the JAS 39 Gripen still far away of being ready, the C variant of the Viggen extended the lifetime of the aircraft. The aircraft received access to countermeasures, a new signal processor, a new PS 46/A radar with the ability to follow multiple targets at once and display them for the pilot. The aircraft served up until the introduction of the JA37D, which was introduced in the 1990s, all JA37Cs were converted to the new D standard.
+
+It was introduced in [[Update "Direct Hit"]]. The '''{{Specs|name}}''' is a very peculiar aircraft for its BR, it does not have the best weapons, nor the best flight performance or the most amount of weapons. However, it does have a good radar and is a good jack of all trades, being able to dogfight heavier aircrafts such as the F-4 Phantom while having good weapons like the RB-24J and the RB71 (Skyflash). The radar is the PS-46/A having all aspect Pulse Doppler search and track, which is usually found only at higher ranks.
 
 == General info ==
 === Flight performance ===
@@ -143,9 +145,33 @@ The 30 mm cannon has a low ammo count, and also completely lacks tracers in any 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|RB24|RB24J|RB71|psrak m/70}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6 !! width="7%" | 7
+| rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints_JA37D.png]]</div>
+|-
+! [[psrak m/70]] rockets
+| || 6 || 6 || || 6 || 6 ||
+|-
+! [[RB24]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
+! [[RB24J]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
+! [[RB71]] missiles
+| || 1 || || || || 1 ||
+|-
+! 1,250 l drop tanks
+| || || || 1 || || ||
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 
 * 1 x 1,250 l drop tank
 * 2 x RB24J missiles
@@ -153,29 +179,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 6 x RB24J missiles
 * 2 x RB71 missiles
 * 24 x psrak m/70 rockets
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6 !! width="7%" | 7
-| rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints_JA37D.png]]</div>
-|-
-! psrak m/70 rockets
-| || 6 || 6 || || 6 || 6 ||
-|-
-! RB24 missiles
-| 1 || 1 || 1 || || 1 || 1 || 1
-|-
-! RB24J missiles
-| 1 || 1 || 1 || || 1 || 1 || 1
-|-
-! RB71 missiles
-| || 1 || || || || 1 ||
-|-
-! 1,250 l drop tanks
-| || || || 1 || || ||
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -207,7 +211,7 @@ Try to stay out of any extended dogfight, especially if your opponent has any su
 * Lacklustre performance at mid-to-low subsonic speeds and mediocre acceleration
 * Weak airbrakes
 * You are facing better-performing missiles at your BR
-* Radar locks onto chaff easily
+* Non Pulse-Doppler radar locks onto chaff easily 
 * Loses control if one aileron is lost
 * Low ammo count for the 30 mm cannon, which also completely lacks tracers in any of its belts
 * Unconventional flaps which are mostly only useful during landings

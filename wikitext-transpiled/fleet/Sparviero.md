@@ -35,60 +35,7 @@ The Sparviero is one of the few ships equipped with a hydrofoil, allowing the gu
 
 Sparviero is equipped with the amazing 76 mm/62 OTO-Melara Compact automatic gun in a single turret on the bow of the boat right before the bridge. The 76 mm gun comes stocked with HE-MOM, SAPOM, and HE-MOM with a variable time fuse. Both HE-MOM shells have 15 mm of pen at any range with an explosive mass of 750 g, while the SAPOM can pen 60 mm at a range of 100 m with an explosive mass of 455 g. The best loadout for the Sparviero is half a loadout (or more) or SAPOM, while the rest is dedicated to HE-MOM with variable time fuse. Both HE shells do the same damage towards ships, so it is more desirable to bring the more versatile shell that can also be used against aircraft.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 100 m !! 1,000 m !! 2,000 m !! 3,000 m !! 4,000 m !! 5,000 m
-|-
-| 76/62 HE-MOM || HE || 15 || 15 || 15 || 15 || 15 || 15
-|-
-| 76/62 SAPOM || SAP || 60 || 49 || 40 || 32 || 26 || 21
-|-
-| 76/62 HE-VT MOM || HE-VT* || 15 || 15 || 15 || 15 || 15 || 15
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 76/62 HE-MOM || HE || 925 || 6.35 || 0 || 0.1 || 1,080 || 79° || 80° || 81°
-|-
-| 76/62 SAPOM || SAP || 925 || 6.35 || 1.2 || 4 || 655.2 || 47° || 60° || 65°
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-! colspan="12" | Proximity-fused shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Arming distance<br>(m)
-! rowspan="2" | Trigger radius<br>(m)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 76/62 HE-VT MOM || HE-VT* || 925 || 6.35 || 0 || 0.1 || 500 || 6 || 1,080 || 79° || 80° || 81°
-|-
-|}
+{{:76 mm/62 OTO-Melara Compact (76 mm)/Ammunition|76/62 HE-MOM, 76/62 SAPOM, 76/62 HE-VT MOM}}
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->

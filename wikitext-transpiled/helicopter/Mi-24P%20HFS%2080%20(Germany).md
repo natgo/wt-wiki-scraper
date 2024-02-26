@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+In 1981, a dedicated anti-tank variant of the [[Mi-24V]] was devised, replacing the gunner-controlled, nose-mounted 12.7 mm turret with a pilot-controlled fixed [[GSh-30-2K (30 mm)|GSh-30-2K]] twin-barrel 30 mm cannon from an [[Su-25]] for anti-tank duties. The resulting variant, named the Mi-24P, would quickly enter service, and would also be exported alongside the Mi-24V to many countries. One of these countries was East Germany, where the Mi-24P quickly found itself in useful service. Even after the re-unification of Germany, the Mi-24P was one of the very few ex-NVA aircraft types that was deemed "good" enough to be used by the Bundeswehr in active service rather than being sold or scrapped. The Mi-24P would serve with the Bundeswehr for four years before being retired in favour of the EC-665 Tiger for the anti-tank role, with the remaining Mi-24Ps either [[Mi-24P (Italy)|sold to Hungary]] or sent to WTD-61 for further German evaluation and testing. One of the last Mi-24Ps to leave German service was part of Heeresfliegerstaffel 80 (HFS-80), being painted with a special "farewell livery" to commemorate its end of service. This specific helicopter would be sold to Hungary shortly after in 1995.
 
-Being the only Warsaw pact helicopter available to German pilots, ◄Mi-24P shows a radical shift of doctrine when compared to NATO helicopters. Big, heavily armoured yet fast, and armed with lethal payload when compared to its West German contemporaries, one can see why Hinds were nicknamed "Devil's Chariots" during their deployment in Afghanistan.
-
-This version differentiates from its [[Mi-24P (Germany)|tech tree counterpart]] only by premium bonuses and addition of livery belonging to Heeresfliegerstaffel 80 (Army Aviation Squadron 80) helicopter unit belonging to Unified Germany's Heer that continued to operate Soviet helicopters after reunification.
+The '''{{Specs|name}}''' (NATO reporting name: ''Hind-F'') was introduced in [[Update 1.91 "Night Vision"]] as a premium rank {{Specs|rank}} German attack helicopter. This version differentiates from its [[Mi-24P (Germany)|tech tree counterpart]] only by premium bonuses and addition of the retirement livery belonging to Heeresfliegerstaffel 80 (Army Aviation Squadron 80) helicopter unit belonging to Unified Germany's Heer that continued to operate Soviet helicopters after reunification. As such, its gameplay is exactly identical to all the other Mi-24Ps in-game. One must heed caution when deploying this aircraft due to its large size and cumbersome controls making it a easy target, but should not completely wimp out of an offensive playstyle thanks to its powerful gun and decent armour and survivability.
 
 == General info ==
 === Flight performance ===
@@ -171,6 +169,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x R-60 missiles
 * 4 x R-60 missiles

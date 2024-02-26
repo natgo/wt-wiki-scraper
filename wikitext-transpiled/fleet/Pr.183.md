@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet motor torpedo boat {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. This is the first Soviet MTB whose design was influenced by Western PT Boats.
+The '''{{Specs|name}}''' is a Soviet Motor Torpedo Boat designed and built after WW2. This MTB was intended to replace the [[Pr.123K|Pr.123 MTB]], which served as the main MTB for the Soviet Navy since WW2. The chief designer drew inspiration from American-built Motor Torpedo Boats received through the Lend-Lease program. In 1952, mass production of Pr.183 began. There were also some modifications for this MTB, such as the Missile boat variant equipped with anti-ship missiles and the Gun boat variant equipped with MRLS.
+
+This boat was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. With a maximum speed of 81 km/h, it can be used to capture strategic points quickly and flank the enemy when possible. The boat is equipped with two [[2M-3 (25 mm)]] guns, effective against lightly armoured targets and PT boats, and can also serve as anti-aircraft defense. Additionally, it carries two [[53-38 (533 mm)]] torpedoes, which, while slow, compensate with extended range and a substantial explosive payload. Furthermore, it features 12 [[BB-1 depth charge|BB-1 depth charges]], effective for destroying enemy ships and boats when used properly.
 
 == General info ==
 === Survivability and armour ===
@@ -48,7 +50,7 @@ The 25 mm 2M-3 is a frequently used naval autocannon among Soviet naval ships. I
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|53-38 (533 mm)|BB-1 depth charge}}
 
-The 533 mm 53-58 Torpedo is relatively slow and heavy in comparison to torpedoes used by other nations' MTBs. However, it compensates with extended range and a substantial explosive payload. Effectively employing this torpedo requires getting in very close proximity (approximately 1.5 km) to the enemy ship due to its slower speed.
+The 533 mm 53-38 Torpedo is relatively slow and heavy in comparison to torpedoes used by other nations' MTBs. However, it compensates with extended range and a substantial explosive payload. Effectively employing this torpedo requires getting in very close proximity (approximately 1.5 km) to the enemy ship due to its slower speed.
 
 The BB-1 depth charge is primarily designed for anti-submarine warfare. However, since there is no submarines, it can be repurposed for ship hunting by discreetly approaching enemy vessels and deploying it nearby. Additionally, it can serve in engagements with other boats; releasing the depth charges when pursued from behind can effectively deter chasing enemy boats.
 

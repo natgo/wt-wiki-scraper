@@ -149,16 +149,21 @@ Where playing at range is not an option, such as urban maps, care should be take
 
 '''Pros:'''
 
-* Has a highly effective APS (Active Protection System) which can defend against ATGMs
-* It has 20 smoke grenades with 5 salvos
+* Has a highly effective APS (Active Protection System) which can defend against ATGMs and sometimes can even snipe HE shell at point blank range
+* It has 20 smoke grenades with 5 salvos, smokes fire in a 360 degree pattern, protecting the entire tank from all directions
 * The Black Night has modern thermal systems equipped in the gunner view and commander view with a high resolution
 * It comes equipped with a laser warning system which can give an idea of where an enemy might be attacking from
+* Retains other Pros from base Challenger 2
 
 '''Cons:'''
 
+* Retains weaknesses of the base Challenger 2
+** Large weak spots in armour and poor placement of ammo and charges in the tank limit the survivability
+** Does not have ERA of the 2F model, so can be defeated by basic HEAT-FS sometimes
+** The engine is rather weak leading to poor acceleration and mobility despite not having too much of excessive weight
+** Same shell options as the previous Challengers 2 at a higher BR
+* Although APS is very powerful, it runs out of ammunition very quickly, cannot sustain against modern SAM/ATGM carriers and sometimes reacts to near unhittable things like APFSDS, which can be good or bad
 * Only 2 x rifle-calibre machine guns
-* The engine is rather weak leading to poor acceleration and mobility
-* Large weak spots in armour and poor placement of ammo and charges in the tank limit the survivability
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

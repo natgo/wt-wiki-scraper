@@ -160,7 +160,6 @@ If there are no bombers to attack, either because they have all been destroyed o
 * All armour is in the front of the aircraft to protect against defensive weapons
 * Engines do not overheat at 100% throttle
 * Is able to land quite well on engines like in the Me-262
-* Has two engines, can return to base if one is dead/critically damaged
 * High rip speed for an early Soviet jet (a little over 1,000 km/h)
 * Can outrun almost anything it fights
 

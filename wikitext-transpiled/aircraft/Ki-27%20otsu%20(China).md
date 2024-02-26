@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''', officially known as 中島 九七式戦闘機乙型 or by its Allies codename Nate, was one of the major type of fighters served in IJAAF during the early stages of 2nd Sino-Japanese War and been used by both factions of Chinese armed forces. As the replacement of previous Ki-10 biplane after IJAAF saw the potential of IJNAF's A6M, although still being manoeuvrable at the early stages, the major loss in Khalkhin Gol made IJAAF retired all Ki-27, leaving them as reserve aircraft of the puppet state of Manchuria; while the lack of spare parts and more advanced Japanese-captured/US Aid aircrafts didn't leave Ki-27 a chance as fighters for the Nationalist forces, the Communist side made good use of them as trainer aircrafts for engineers and pilots.
+
+Introduced in [[Update 1.91 "Night Vision"]] with the Chinese tech tree; it performs exactly like its Japanese counterpart with excellent maneuverability, but players need to pay extra caution on any aircrafts with better engine or with higher energy (i.e. at higher altitude), preying on targets which have been baited into lower altitude can earn quick victories on them or helping to disable them for kill assists.
 
 == General info ==
 === Flight performance ===
@@ -170,10 +172,12 @@ The remaining Ki-27 that survived the war were captured by both KMT and PLA forc
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki-27_otsu_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

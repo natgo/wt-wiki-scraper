@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese destroyer {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The '''{{Specs|name}}''' (初春, [[Abbreviations#.28JP.29_Naval|namesake]]: Early Spring) was the lead ship of her class, the first Japanese destroyer designed after the signing of the London Naval Treaty. Due to the displacement restrictions of the treaty, additional vessels of the most recent Fubuki-class destroyers were not allowed to be constructed, so a new design was proposed for future generations of destroyers. However, this didn't deter the Japanese naval design bureau from fitting the same amount of armament on a slightly shorter hull with one less gun, thereby pushing the capabilities of the hull. This resulted in a very top-heavy design, which only came in serious question following the "Tomozuru Incident" of 1934 and the "4th Fleet Incident" of 1935.
+
+She was introduced in [[Update "Drone Age"]]. Hatsuharu appears in her planned pre-refit configuration, featuring a densely packed and top-heavy structure that makes any hit likely to damage at least one or two critical components. Three 127 mm cannons are mounted on the bow of the ship, providing a higher amount of firepower in a head-on engagement compared to other Japanese destroyers. Additionally, the ship has three triple-mount torpedo launchers squeezed into the center, allowing for the ability to fire 9 torpedoes simultaneously. Though these torpedoes can be reloaded at sea, it poses a risk of an explosive ammo rack if the ship is hit.
 
 == General info ==
 === Survivability and armour ===

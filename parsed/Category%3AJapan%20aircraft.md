@@ -10,6 +10,7 @@
 {{Tree-Unit|f1m2}}
 {{Tree-Arrow}}
 {{Tree-Unit|a5m4}}
+{{Tree-Skip}}
 |
 {{Tree-Group|ki-10_group|Ki-10|
   {{Tree-Unit|ki_10_1}}
@@ -43,18 +44,21 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|ki_109}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|b5n2}}
 {{Tree-Arrow}}
 {{Tree-Unit|d3a1}}
 {{Tree-Arrow}}
 {{Tree-Unit|b6n1}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|ki_32}}
 {{Tree-Arrow}}
 {{Tree-Unit|ki_21_1ko}}
 {{Tree-Arrow}}
 {{Tree-Unit|h6k4}}
+{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|a5m4_hagiri}}
 {{Tree-Skip}}
@@ -329,6 +333,8 @@
 {{Tree-Line|VIII Rank}}
 |
 {{Tree-Unit|f-4ej_kai}}
+{{Tree-Arrow}}
+{{Tree-Unit|f_15j}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|f_16aj}}

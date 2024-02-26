@@ -189,7 +189,7 @@ In battles, the player can either use the LAV-AD as an AA or in a limited anti-t
 
 '''Against Aircraft'''
 
-The LAV's Stinger SAMs are a mixed bag. The Stingers have a decent maximum range of around 6 km, and once launched, powerful IRCCM (InfraRed counter-counter measures) makes it difficult for flares or IRCM to distract the missile. However, it has a mere 10G overload, meaning even basic defensive manoeuvres may defeat the missile. Upon launching, a conspicuous smoke trail makes the missile as well as your own position easy to notice. In addition, a small warhead makes for unreliable damage; more survivable aircraft may need two or more hits to bring down.
+The LAV's Stinger SAMs are a mixed bag. The Stingers have a decent maximum range of around 6 km, and once launched, powerful IRCCM (InfraRed counter-counter measures) makes it difficult for flares or IRCM to distract the missile. However, it has a mere 13G overload, meaning even basic defensive manoeuvres may defeat the missile. Upon launching, a conspicuous smoke trail makes the missile as well as your own position easy to notice. In addition, a small warhead makes for unreliable damage; more survivable aircraft may need two or more hits to bring down.
 
 The Stinger's maximum range of around 6 km is usually sufficient to lock onto the hot engines of jet aircraft. It is useful against aircraft at 2-4 km altitude, where their manoeuvrability will be reduced, making it easier for the Stinger to hit. The Stinger is particularly useful against helicopters near the battlefield (1-3 km). Helicopters are slow and have a difficult time kinetically evading even the 10G Stinger, and the Stinger's IRCCM sees that IRCM and flares are useless against it. In an uptier, however, helicopters are actually the Stinger's worst nightmare. Helicopters do not have particularly hot engines, and with long-range air-to-ground missiles, the Stinger cannot even get a lock on helicopters at long ranges. In these cases, the LAV simply cannot do anything but hide from the helicopter.
 
@@ -226,7 +226,7 @@ In the LAV-AD, anything above a 12.7 mm calibre poses a big threat to the player
 
 '''Cons:'''
 
-* Stinger SAMs only have a maximum overload of 10G and have difficulty overcoming even basic defensive manoeuvres
+* Stinger SAMs only have a maximum overload of 13G and have difficulty overcoming most defensive manoeuvres
 * Long reload for the 25 mm gun
 * Bringing the Hydra rocket pod reduces the number of available Stingers and gives them a lengthy reload time after 4 have been launched
 * Penetrable by heavy machine gun fire and prone to overpressure damage

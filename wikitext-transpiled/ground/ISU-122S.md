@@ -12,7 +12,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]]. Compared to the [[ISU-122]], the {{PAGENAME}} is equipped with a different 122 mm gun whose modified breech allows for a faster reload.
+The '''ISU-122S''' was an improved design (rather than a separate variant) of the [[ISU-122]] assault gun used by the Soviets during World War II, mostly in the anti-tank role. A semi-automatic breech block was fitted to the original 122 mm A-19S tank gun. The tank gun with this new design was designated as the 122 mm D-25S. The modification resulted in an increase in the fire rate to 3 rounds per minute from 1.5 rounds per minute. The ball-shaped gun mantlet and double-baffle muzzle brake of the ISU-122S are distinguishing features. The Germans coded the ISU-122S as Type 249 in their official reports.
+
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the ISU-122 is a long-range sniper that performs well in combat due to its high penetration, accuracy, and good reverse speed. Locate a good spot to snipe from and engage the enemy from a distance to keep them from approaching the objectives. Due to the tall profile and inadequate frontal armour, one should always stay away from the frontline to avoid being flanked or swarmed. Although there is a significant reduction in reload time, players should still make their shots count since most enemies reload much more quickly, making it rare to be able to take a follow-up shot if the initial shot misses.
 
 == General info ==
 === Survivability and armour ===
@@ -237,6 +239,7 @@ In the middle of the 1960s, the SPGs were removed from service in the Soviet Arm
 <!--''Excellent additions to the article would be video guides, screenshots from the game, and photos.''-->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_isu_122s Skins and Camouflages for the {{PAGENAME}} on live.warthunder.com].
 
 ;Videos

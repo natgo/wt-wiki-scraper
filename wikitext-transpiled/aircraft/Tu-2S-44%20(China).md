@@ -18,7 +18,9 @@ Introduced in [[Update 1.91 "Night Vision"]]. along with the Chinese air tech-tr
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+Built for speed in a level flight, the Chinese Tu-2S-44 performs reasonably well at low altitude (below 4000 m). The plane can reach its top speed of 547 km/h relatively quickly in a shallow dive, and even capable of reaching 720 km/h in a steep dive. At an altitude above 4000 m, the Tu-2 engine's WEP will stop working, resulting into deteriorating flight performance, as such, it is best used the plane in its intended role; as a fast bomber or even dive bomber when needed.
 
+Due to its high wing and dual tail design, the Tu-2 will often struggle to maintains its energy when its nose were leveled, and that an extra lift will often gets in the way while the plane tries to roll and turn, thus significantly hampers its maneuverability. Though, at lower speed of around 300 - 450 km/h, the Tu-2 can be handled with relative ease, which will help you into lining up your 20 mm autocannons on ground targets.
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
 ! colspan="2" | Max Speed<br>(km/h at 7,300 m)
@@ -140,6 +142,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 9 x 100 kg FAB-100M-43 bombs (900 kg total)
 * 4 x 250 kg FAB-250M-44 bombs (1,000 kg total)
@@ -185,7 +188,7 @@ These are constant opponents at the battle rating, so they should never be ignor
 
 '''Player-Controlled Flak ([[Kugelblitz]], [[Crusader AA Mk II]], etc.):'''
 
-These are the bane of bombers (especially medium-sized ones such as the Tu-2S-44). When the tracers fly, don't risk a dive. Circle around or find some unsuspecting flanker that is outside the cover of these AAA guns.
+These are the bane of bombers (especially medium-sized ones such as the Tu-2S-44). When the tracers fly, don't risk a dive. Circle around or find some unsuspecting flanker that is outside the cover of these AAA guns. If you are feeling lucky, there is the possibility to use the bomb sight while diving on an alerted SPAA to take them out to make the tasks of your fellow aviators easier.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -209,32 +212,21 @@ These are the bane of bombers (especially medium-sized ones such as the Tu-2S-44
 
 '''Pros:'''
 
-* Fast, for a medium bomber
-* High wing rip speed (over 700 km/h)
-* Air spawn in RB.
-* Very easy to land and take-off
-* Decent payload, 500 kg bombs are very useful in tank RB
-* Forward-firing ShVAK cannons, can be useful in a head-on engagement
-* Twin tail design leaves little restriction on back gunners
-* Decently agile for its size
-* Guaranteed to put out fires on fuel tanks due to pressurized gas system
-* Very efficient in taking out individual ground targets
-* Individual bomb drops, very effective in tank battles
-* Engines can cool down even with a 100% throttle
-* Can pretty much WEP indefinitely
+* Generally fast and relatively agile at low-to-medium altitude
+* High wing rip speed (over 700 km/h), allowing it to perform dive bombing with ease
+* Large payload size and option to choose from
+* Has two offensive 20 mm autocannons to attack ground targets and other aircrafts
+* Tough airframe allows the plane to take a considerable damage before going down
+* Pressurized gas system allows the plane to endure a lot of fire damage
 * Great all-round visibility for a bomber/attacker, even has a downward window in the nose, allowing you to scan target area
 
 '''Cons:'''
-
-* Matchmaking pits the Tu-2S against jets and late/post war props
-* Only two bombs when stock
-* Can extinguish fires but sometimes it will just burn out before the fuel tanks seal in time
-* Relatively small defensive armament
-* Only one pilot and is not protected by armour from the front
+* Very poor energy retention, any quick maneuver will bleeds a lot of airspeed away
+* Terrible roll rate, especially at higher speeds 
 * High stall speed (175 km/h, more of a pain when taking off/landing)
-* Although it is fast, everything else is faster
 * Performance starts to degrade with altitude
-* Low amount of cannon ammo (150 rounds per gun)
+* Only one pilot who is unprotected by armour from the front, head-ons are not advised
+* Relatively small defensive armament with restrictive coverage
 * While gunsight is well above the cockpit, it is still obstructed by the sight itself, limiting downward visibility in a lead
 
 == History ==

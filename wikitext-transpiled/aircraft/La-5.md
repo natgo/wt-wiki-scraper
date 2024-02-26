@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.35]].
+The La-5 Type 37 was a Soviet fighter plane powered by a 1,700 hp Shvetsov M-82A radial engine. It featured two 20 mm ShVAK cannons and had flight characteristics similar to the Bf.109F. However, it faced issues like cockpit heat, gas contamination, poor cockpit canopy quality, and low speeds due to canopy regulations. Despite these drawbacks, improvements were made throughout production. The La-5 Type 37 entered service in 1942 and a total of 1,021 were produced until the end of the year. Further enhancements were needed for it to match the performance of newer German fighters like the Bf.109G and FW.190
 
-The La-5 is an energy fighter. While having decent manoeuvrability, it is sluggish when flown at low speeds and suffers from the control surfaces locking up at higher velocities. It is best to gain altitude, stay around 2,000-3,000 m and make short dives on distracted or weaker enemy planes.
+It was introduced in [[Update 1.35]]. The La-5 is an energy fighter. While having decent manoeuvrability, it is sluggish when flown at low speeds and suffers from the control surfaces locking up at higher velocities. It is best to gain altitude, stay around 2,000-3,000 m and make short dives on distracted or weaker enemy planes. It has good armament, 2 x 20mm cannons, but a low ammo pool requires good trigger discipline to last the entire match
 
 == General info ==
 === Flight performance ===
@@ -59,7 +59,7 @@ The La-5 is an energy fighter. While having decent manoeuvrability, it is sluggi
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 431 || 406 || 280 || ~14 || ~14
+| 735<!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || 431 || 406 || 280 || ~14 || ~14
 |-
 |}
 
@@ -185,6 +185,7 @@ Throughout its series production, the aircraft's flaws were slowly corrected, bu
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=la-5_type37_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

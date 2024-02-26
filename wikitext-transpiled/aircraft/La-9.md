@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update 1.37]].
+The La-9 was a single-seat all-metal fighter aircraft developed by the Lavochkin Design Bureau in the late 1940s. It was a departure from previous wooden construction designs like the La-7, featuring an all-metal construction for increased performance and durability. The aircraft had added a pressurized cockpit to address heat issues for the pilot. It was powered by a Shvetsov ASh-82FN engine and armed with 4 x NS23 23mm cannons. A total of 1,882 La-9 planes were produced until 1949 and saw service with the Soviet Air Force, People's Liberation Army Air Force of China, and the Korean People's Army Air Force. It was eventually phased out as jet technology became prevalent in the early 1950s
+
+It was introduced in [[Update 1.37]]. The '''{{Specs|name}}''' has a good flight performance and is capable of a variety of tactics such as boom and zoom and regular low altitude flight, like most soviet fighters. Its engine performs better at altitudes below 4000m, and has a very powerful armament, however with a relatively low ammo pool, good trigger discipline is needed to stay in combat during the whole match. 
 
 == General info ==
 === Flight performance ===
@@ -238,6 +240,7 @@ In addition to flying with the Soviet Air Force, La-9 fighters remained in servi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=la-9 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -245,6 +248,7 @@ In addition to flying with the Soviet Air Force, La-9 fighters remained in servi
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

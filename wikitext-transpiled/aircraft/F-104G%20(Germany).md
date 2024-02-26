@@ -215,6 +215,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 4 x AIM-9B Sidewinder missiles
@@ -284,17 +285,16 @@ The F-104G is equipped with an NASARR search and tracking radar. The radar is mo
 * Great top speed and acceleration
 * Great rate of climb
 * Good roll rate
-* Decent high-speed manoeuvrability
-* Powerful M61 Vulcan cannon with a very high fire rate, great ballistics and high damage
+* Decent high-speed maneuverability
+* Powerful M61 Vulcan cannon with a very high fire rate, good damage, excellent velocity, and plenty of ammunition
 * Wide selection of secondary ordnance, including air-to-ground AS.20 guided missiles; much better than early F-104s
 * Access to four potent AIM-9J sidewinder air-to-air missiles
 * Access to 60 chaff/flare countermeasures
 
 '''Cons:'''
 
-* Very poor overall manoeuvrability and terrible low-speed manoeuvrability
+* Very poor overall maneuverability and terrible low-speed maneuverability
 * Bleeds energy quickly in sustained turn fights
-* Only 750 rounds of cannon ammo; with such a high rate of fire, trigger discipline is a must
 * Large turning radius due to small wing surface and high speed
 * High takeoff and landing speeds
 

@@ -14,6 +14,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|fiat_cr42_j11}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|saab_b17bs}}
 {{Tree-Arrow}}
@@ -22,10 +23,12 @@
 {{Tree-Arrow}}
 {{Tree-Unit|saab_b17a}}
 }}
+{{Tree-Skip}}
 |
 {{Tree-Unit|he_115a_2_sweden}}
 {{Tree-Arrow}}
 {{Tree-Unit|saab_b3c}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|fokker_d21_serie3_finland}}
 {{Tree-Skip}}
@@ -61,6 +64,8 @@
 {{Tree-Unit|fokker_d21_mod20}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|j9_early}}
+{{Tree-Skip}}
 {{Tree-Unit|vl_myrsky_2_late}}
 {{Tree-Skip}}
 
@@ -88,7 +93,6 @@
 {{Tree-Unit|pyorremyrsky}}
 {{Tree-Skip}}
 |
-{{Tree-Skip}}
 
 {{Tree-Line|IV Rank}}
 |
@@ -114,7 +118,6 @@
 {{Tree-Unit|bf-109g-6_finland}}
 {{Tree-Skip}}
 |
-{{Tree-Skip}}
 
 {{Tree-Line|V Rank}}
 |
@@ -144,7 +147,6 @@
 {{Tree-Unit|saab_j29d}}
 {{Tree-Skip}}
 |
-{{Tree-Skip}}
 
 {{Tree-Line|VI Rank}}
 |
@@ -160,10 +162,11 @@
 {{Tree-Unit|hunter_f50_sweden}}
 {{Tree-Arrow|1}}
 | style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|saab_a32a_red_adam}}
+{{Tree-Skip}}
 {{Tree-Unit|saab_j35a}}
 {{Tree-Skip}}
 |
-{{Tree-Unit|saab_a32a_red_adam}}
 
 {{Tree-Line|VII Rank}}
 |
@@ -185,6 +188,8 @@
 {{Tree-Line|VIII Rank}}
 |
 {{Tree-Unit|saab_ja37d}}
+{{Tree-Arrow}}
+{{Tree-Unit|saab_jas39a}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

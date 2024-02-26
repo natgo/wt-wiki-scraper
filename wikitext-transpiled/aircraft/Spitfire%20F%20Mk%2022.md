@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update 1.39]].
+The '''{{Specs|name}}''' was one of the last models of the famous Supermarine Spitfire. The Mk 22 was derived from the previous Mk 21, differing in lowered rear part of the fuselage and bubble canopy. However, this change led to stability problems, which in turn led to not having a fuselage fuel tank installed. The problem was solved in December 1945 when the entire rear fuselage and tail section of the then-developed Supermarine Spiteful was installed. The RAF initially ordered 627, however the end of war decreased the number to 260. Twenty Spitfires were sold to Egypt, eleven to Rhodesia, and ten to Syria.
+
+The Spitfire F Mk 22 was introduced in [[Update 1.39]]. The Spitfire F Mk 22 is the pinnacle of piston-powered aircraft, one of the first superprops. The playstyle of Mk 22 is very similar to the previous Griffon-powered Spitfires, with the exception of different armament as the Mk 22 is armed with four 20 mm Hispano cannons. Early jet aircraft that pilots may come across are at a severe disadvantage when encountering the Spitfire, as it can out-turn and also catch the majority of these in a dive.
 
 == General info ==
 === Flight performance ===

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light cruiser {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+Launched in 1930, Jeanne d'Arc was ''the'' training vessel of the French navy in the days leading up to World War Two and right after. During World War Two itself, she was modernized by the US engineers of the USS Vulcan repair ship, starting early 1943. This refit focused on upgrading anti-air guns with Bofors 40 mm and Oerlikon 20 mm. Following that, the vessel provided fire support for the Allied troops in amphibious landings on Corsica and Southern France. After the end of the war she returned to her service as a training vessel, conducting 27 post-war cruises all around the world, until being decommissioned in 1965. Throughout her career, she provided invaluable service for the French navies, training countless officers and sailors alike.
+
+Introduced along with the initial release of the French bluewater naval tech tree in [[Update "La Royale"]], Jeanne d'Arc has an interesting combination of a very high damage output from her four twin [[155 mm/50 model 1920 (155 mm)|155 mm/50]] main guns, very good anti-air guns, and lacklustre survivability, which is made worse by the overall very large silhouette of the vessel. It makes her an attractive, but somewhat tricky, target to enemy aircraft, torpedo boats and warships alike. She's best played as a glass cannon, assisting more resilient vessels from the second or even third line, and focusing on the soft targets, such as destroyers and unarmoured light cruisers.
 
 == General info ==
 === Survivability and armour ===
@@ -105,7 +107,9 @@ The vessel included aviation facilities for two CAMS 37 seaplanes, specifically 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=fr_cruiser_jeanne_darc Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

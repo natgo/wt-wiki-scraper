@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+Finland operated a very small number of FB 52A Vampires during the early Cold War. A total of 6 units were acquired from the United Kingdom in 1953 and they were nicknamed "''Vamppi''". Later, nine T.55 twin seat trainers were acquired in 1955. The aircrafts served with the 1st and 2nd Air Wing before being retired in 1965 in favour of more capable fighters.
+
+It was introduced in [[Update "Fire and Ice"]]. Being a Vampire, the '''{{Specs|name}}''' is a typical early jet, it has poor acceleration but when compared to its counterparts, it has less top speed in favour of a more capable flight performance in dogfights. The Vampire has a very tight turning radius which means that as long as it has enough speed it is capable of outperforming enemy aircrafts, however it loses speed with ease, and thus good precision and quick fights are needed in order to succed.
 
 == General info ==
 === Flight performance ===
@@ -161,6 +163,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=vampire_fb52_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -169,6 +172,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Vampire (Family)]]
 
 == External links ==

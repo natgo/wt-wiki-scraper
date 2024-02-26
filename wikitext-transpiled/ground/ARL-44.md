@@ -161,7 +161,6 @@ Fighting in close quarters require a great knowledge of your tank: when attackin
 '''Cons:'''
 
 * Large silhouette
-** Angling often doesn't help
 * Overall weak turret armour
 ** Turret armour is underwhelming at 100-110 mm of flat armour. Most 75 mm guns can penetrate at range.
 ** Weak gun mantlet is only 60 mm flat armour

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]].
+The '''{{Specs|name}}''' is an earlier iteration of the [[TKX]], serving as a prototype of the [[Type 10 (Family)|Type 10 MBT]]. As the Japanese Self-Defense Forces (JSDF) pursue ongoing advancements in tank technology, they've prioritized key enhancements over the [[Type 90]], These upgrades include a focus on reduced weight without compromising armour effectiveness, heightened integration of {{Annotation|C4I|command, control, communication, computer & intelligence}} capabilities, and the introduction of modular armour configurations. These modular slots allow for the seamless interchangeability of armour kits, ranging from lightweight to standard and even specialized war kits. The TKX (P) is the foundational platform for the Type 10 series, presenting a "barebones" configuration ready to accommodate various modular armour configurations tailored to specific operational requirements.
+
+It was introduced in [[Update "Sons of Attila"]]. The '''{{Specs|name}}''' comes as a supplement to the [[Type 90]] with the improved Gen 3 thermals as opposed to Gen 1 and a smaller mantlet at the cost of turret side protection and overall mobility. As an early prototype of the Type 10, it doesn't come with its distinct Type 10 APDSFS shell. This leaves the TKX (P) as a hybrid of the [[Type 16 (Family)|Type 16]] in overall manoeuvre paths and spotting visibility with the firepower of a [[Type 90]].
 
 == General info ==
 === Survivability and armour ===
@@ -118,6 +120,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese medium tank {{Battle-
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The TKX (P) is a prototype of the [[Type 10]] with the modular turret side armour not equipped and only able to fire JM33 as it's too early in development to fire the new Type 10 APDFS shell. With these missing upgrades, the TKX (P) bolsters the Type 90 line-up as a sidegrade trading these features:
+
 * <big>+</big> Stronger frontal protection
 * <big>+</big> Better thermals (Gen 3 instead of 1)
 * <big>-</big> Relatively slower, especially in acceleration
@@ -163,7 +166,10 @@ Finally, with the evaluations from JGSDF Fuji School, Ordnance School, and leake
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_10_prototype Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

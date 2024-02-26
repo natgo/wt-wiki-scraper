@@ -146,7 +146,7 @@ The ZUT-37 anti-air tank was an enhanced version of the project by B. Shpitalny 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_zut_37 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 7:28 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|DSEfQPcz7pw|'''The Shooting Range #370''' - ''Pages of History'' section at 03:24 discusses the {{PAGENAME}}.|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 7:28 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

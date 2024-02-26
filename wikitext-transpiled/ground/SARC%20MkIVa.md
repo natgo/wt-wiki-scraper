@@ -44,7 +44,9 @@ The SARC MkIVa's manoeuvrability and good reverse gear should be used to avoid g
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 The MkIVa does not accelerate quickly. In a city fight or in a sniping match, this is a liability.
 
-This is offset by its very high top speed of 80 km/h. This grants it unmatched speed on flat terrain. Combined with its smaller size, this gives the MkIVa the opportunity to sneak into a hidden location and get flanking shots on unsuspecting enemies.
+This is offset by its very high top speed of 80 km/h, granting it unmatched speed on flat terrain. Combined with its smaller size, this gives the MkIVa the opportunity to sneak into a hidden location and get flanking shots on unsuspecting enemies.
+
+In unflat or offroad conditions, the MkIVa's mobility is greatly reduced. The mediocre 15 hp/t power-to-weight ratio means that the vehicle might not even start on a slope and will slide down uncontrollably. Therefore, either avoid driving uphills, or gain some speed before reaching the hill. 
 
 {{tankMobility|abMinHp=147|rbMinHp=84}}
 
@@ -65,6 +67,8 @@ The QF 2-Pounder is a solid weapon for its tier. It can frontally penetrate most
 The slow rotation speed of the turret means that the gun should ideally used in an ambush role on the sides of enemy tanks. The relatively high fire rate also allows for consistent fires on enemy targets.
 
 Be advised that the QF 2-pounder loses accuracy over  500 meters, so it is ill advised to use the gun for this purpose: leave the sniping for the tank destroyers and concentrate on ambushing.
+
+The MkIVa doesn't have a vertical stabiliser or more than 5 degrees of gun depression, so it cannot utilise hills to ambush or respond quickly to a close quarter surprise encounter as good as some other vehicles like A13. This limits the opportunities it can maximise its firepower. However, with good situational awareness and map knowledge, this disadvantage can be countered to an extent.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -132,19 +136,19 @@ In an emergency, it can be used as an anti-aircraft weapon, but the poor damage 
 
 '''Pros:'''
 
-* Very small profile; difficult to hit at range
-* Small ammo rack size
-* High straight-line top speed on paved surfaces
+* Narrow profile; difficult to hit at range, can navigate tight spaces well
+* High top speed on paved surfaces; comparable to fast foes like [[BT-5]]
 * Quick reload speed
 * Fast acceleration; top speed can be reached fairly quickly
+* Access to smoke grenades
 
 '''Cons:'''
 
-* Can be easily penetrated by rifle-calibre rounds
-* Low survivability with only three crew members
+* Low survivability; poor armour can be easily penetrated by anything
 * Off-road mobility is lacklustre
 * Difficult to control at high speeds
-* Slow turret rotation and gun elevation
+* High centre of mass, can tip over when operating on uneven ground
+* No gun stabiliser compared to similar vehicles (e.g. [[Daimler Mk II]])
 * Below-average gun depression
 
 == History ==
@@ -169,6 +173,7 @@ This variant, the Mark IV, fitted a 40 mm 2-pdr. gun in an artillery mounting, n
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Marmon-Herrington Armoured Car (Family)]]
 
 == External links ==
@@ -176,11 +181,12 @@ This variant, the Mark IV, fitted a 40 mm 2-pdr. gun in an artillery mounting, n
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 
 === References ===
-<references/>
+<references />
 
 {{Britain light tanks}}
 [[Category:Wheeled ground vehicles]]

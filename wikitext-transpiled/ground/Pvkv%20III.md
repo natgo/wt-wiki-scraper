@@ -1,7 +1,9 @@
 {{About
 | about = Swedish tank destroyer '''{{PAGENAME}}'''
-| usage = the other version
-| link = Pvkv II
+| and
+| usage = other versions
+| link-1 = Pvkv II
+| link-2 = Pvkv IV
 }}
 {{Specs-Card
 |code=sw_pvkv_III

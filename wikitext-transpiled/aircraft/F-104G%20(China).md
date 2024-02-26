@@ -190,6 +190,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 4 x AIM-9B Sidewinder missiles
@@ -246,7 +247,7 @@ The F-104G is equipped with a PS-03 search and tracking radar. The radar is moun
 
 * Good top speed
 * Great rate of climb
-* Powerful M61 cannon with high fire rate, damage and velocity
+* Powerful M61 cannon with high fire rate, good damage, great velocity, and plenty of rounds
 * Significantly wider variety of payload options than early F-104s, including the potent AGM-12B Bullpup air-to-ground missiles
 * Good roll rate
 * Can carry a total of four effective AIM-9J missiles
@@ -255,7 +256,6 @@ The F-104G is equipped with a PS-03 search and tracking radar. The radar is moun
 
 * Very poor overall manoeuvrability and terrible low-speed manoeuvrability
 * Bleeds off airspeed quickly in sustained turns
-* Only 750 rounds of cannon ammo, trigger discipline is a must
 * Lack of countermeasures is a major handicap as the IR missiles the F-104G commonly faces are extremely difficult for it to dodge without flares
 
 == History ==

@@ -75,7 +75,7 @@ The reverse speed however is slightly better at a -9 km/h, it might sound nowher
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|ZPL94 (105 mm)}}
 
-The introduction of the Royal Ordnance 105 mm L7 cannon marked the transformation of PLAGF from Warsaw Pact armaments to Western ones. The ZPL94 mounted on the ZTZ88A has one of the longest barrels in the L7 family, giving it a higher muzzle velocity over its Western counterparts. In addition, the ZPL94 reloads more quickly than the [[ZTZ59D1]]'s Type 83 cannon by about 1 second. While it still doesn't reload quite as quickly as NATO tanks, the gap is significantly smaller.
+The introduction of the Royal Ordnance 105 mm L7 cannon marked the transformation of PLAGF from Warsaw Pact armaments to Western ones. The ZPL94 mounted on the ZTZ88A has one of the longest barrels in the L7 family, giving it a higher muzzle velocity over its Western counterparts. While ZTZ88A still doesn't reload quite as quickly as NATO tanks, the gap is significantly smaller.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -127,9 +127,9 @@ Although there are 23 shells in the ready rack, only 19 of them are protected by
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|Type 54 (12.7 mm)|SGMT (7.62 mm)}}
+{{main|Type 54 (12.7 mm)|Type 59 (7.62 mm)}}
 
-The ZTZ88A still uses the same machine guns from the obsolete T-54s despite its introduction date in the early 1990s. The Type 54 (DShK) is still sufficient to gun down strafing aircraft/helicopters or lighter vehicles but suffers from a small 50 round belt capacity, while the SGMT is only good for harassing enemies or sometimes targeting exposed crews.
+The ZTZ88A still uses the same machine guns from the obsolete T-54s despite its introduction date in the early 1990s. The Type 54 (DShK) is still sufficient to gun down strafing aircraft/helicopters or lighter vehicles but suffers from a small 50 round belt capacity, while the Type 59 (SGMT) is only good for harassing enemies or sometimes targeting exposed crews.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -142,7 +142,7 @@ The ZTZ88A still uses the same machine guns from the obsolete T-54s despite its 
 |}
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[SGMT (7.62 mm)|7.62 mm SGMT]]
+! colspan="5" | [[Type 59 (7.62 mm)|7.62 mm Type 59]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-

@@ -15,7 +15,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' was a specialised version of the Hawker-Siddeley Harrier, designed for naval operations. It joined the Royal Navy of the United Kingdom in 1978 and gained fame for its role in the Falklands War in 1982, where it defended the fleet from enemy aircraft attacks with great success. Despite being vastly outnumbered, the Sea Harriers shot down 21 Argentinean planes without losing any of their own, a remarkable accomplishment that demonstrated the superiority of the aircraft. In a subsequent upgrade, the Sea Harrier FRS.1 was equipped with a 2x2 Aim-9L configuration, further enhancing its air combat capabilities.
 
-The {{Specs|name}} was introduced in [[Update "Apex Predators"]]. The Sea Harrier is available as an option for rank VII through unlock as a squadron vehicle. It can present experienced pilots familiar with the GR.1/3 with a further improvement in the form of deadly AIM-9L Sidewinder missiles and a unique position as the only model of Harrier in-game with a search radar. Ultimately, the Sea Harrier builds on the strengths of the Harrier GR.3 with improved air-to-air combat capability. However this comes at a cost of being heavier and slightly more sluggish than its contemporaries. All in all, the Sea Harrier can be a powerful opponent in the hands of a veteran pilot and provides an almost preparatory experience for the [[Harrier GR.7]].
+The {{Specs|name}} was introduced in [[Update "Apex Predators"]]. The Sea Harrier is available as an option for rank VII through unlock as a squadron vehicle. It can present experienced pilots familiar with the GR.1/3 with a further improvement in the form of deadly AIM-9L Sidewinder missiles and a unique position since it is one of the few Harrier versions in game equipped with a radar. Ultimately, the Sea Harrier builds on the strengths of the Harrier GR.3 with improved air-to-air combat capability. However this comes at a cost of being heavier and slightly more sluggish than its contemporaries. All in all, the Sea Harrier can be a powerful opponent in the hands of a veteran pilot and provides an almost preparatory experience for the [[Harrier GR.7]].
 
 == General info ==
 === Flight performance ===
@@ -222,9 +222,15 @@ The Harrier can carry up to 72 RP rockets, these rockets are simple and can be a
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Use the Sea Harrier's quick takeoff and climb to ascend high above the normal altitude for battle, somewhere around 5-8 km depending on the map and approaching enemies. Due to the lacklustre turn capabilities and muzzle velocity of the cannons, it's not recommended to engage in dogfights. Instead, use your AIM-9Ls to your advantage and target enemies already engaged or simply oblivious to your presence above them. When done correctly and carefully, this can quietly get you 2-3 kills in a single flyout.
+Although the Pegasus engine can always ensure the >1.0 P/W ratio of Sea Harrier FRS.1, due to the heavy airframe and the engine, Sea Harrier can still be described as a "flying brick" and nowhere close to what it's named after - harriers. But planning for sudden strikes from high-altitude will make its life mush easier, the overall payload is still sufficient for CAS before players researched more dedicated and competent attackers in British tech tree.
 
-Your cannons are also effective at destroying ground targets which can provide extra RP and SL once your missiles are expended. The Sea Harrier may also carry unguided rockets or bombs for additional ground pounding at the further expense of performance. However, it's important to note that you are at a disadvantage at lower altitude since you cannot climb as fast as other jets at the BR, and it's hard to shake off and outrun an opponent once they're on your tail. MiG-21s, F-5s, and J35s will easily outmanoeuvre you, and A-10s, Su-25s and Su-22s, while slower, can still outturn you and easily put you in their sights.
+==== Air - Bricks Fly When Thrust is Enough ====
+One major advantage of Harrier family is their oddly high P/W ratio for jets due to the need to vertical take-off (to compensate for its weight), players can jump into the skies much faster than their supersonic counterparts thanks to the Pegasus engine; this is also the most crucial point of flying Harriers as launching sudden strikes on unaware enemies is the most common way to earn clean victories against enemy jets. As mentioned, due to the unpleasing maneuverability that can be referred as a brick and lacks of radar-homing missiles, heading straight for the battlefield is never a good idea even for players opting for ground-attacking payloads for bases. The Pegasus engine heats up very quickly from idle temperature at 420°C to overheating at 710°C within 15 seconds, the limited WEP also hinders its flying capability as abusing it at climbing phase also means there will not be any spare thrust for an escape in battlefield, therefore putting the throttle at around 80% is more than enough to maintain positive climb at acceptable overheating rate. When players hit the altitude at around 5-8 km (depending on the terrain and setting of map; seaside maps and plateau maps can have up to 3000 m AMSL differences) and no enemy interceptors with SARH missiles hunting players down, the Sea Harrier now becomes the overwatcher of team; be sure to pick careless enemy players, especially when using AIM-9G at grinding stages - always put enemies within 3 km radius to utilize its overload and thrust, be sure to turn off the radar for maximum concealment. When having AIM-9L as its A-A armament, it gives much more flexibility to the jet and enables attacks against enemies from any aspects, turning it into a somewhat competent interceptor.
+
+But players will have to remember the brick-like flight performance, due to the heavy and easily overheating engine, any dogfight will eventually turn down on Harriers and enemy fighters have an edge on players, especially at low altitude when players need the extra thrust to get back to altitude or exiting the battlefield; it will be a good idea to consider for letting enemy jets overshoot players, this tactic applies to other Harriers as well - when enemy eventually overshoots, the 30 mm ADEN autocannon will make sure enemy jets shatter in the sky. Utilizing the thrust-vectoring nozzles is also a viable but risky move, while it can vastly decrease its turn radius, a jet slowing down to propeller-like speed will become easy prey for other enemy jets even with their guns; therefore avoid dogfight at all cost unless in dire situation - even subsonic attackers can out-turn Sea Harrier.
+
+==== Ground - An Early Alternative ====
+When players have the need for an attacker with slightly better A-A payload while leaving some payload for enemy ground targets, FRS.1 is still a viable alternative thanks to its AIM-9L once researched, and the advanced RWR can warn players on enemy radar sources with all-aspect warnings to tell where the source from. Due to lacking any guided A2G weaponry, low-altitude flyovers against enemy targets can be said as the safest approach without concerning SAMs as they would likely lack the reaction time to engage players after bombing runs. If players opt for top-down assaults whatsoever, always consider for leaving enough altitude to disengage as FRS.1 needs rather high AoA to recover. In most cases, the 1000 lbs bombs are your best friend since the RP rocket pod is more of aesthetic purpose than hitting armored vehicles, it doesn't have sufficient explosives to take out open-top vehicles or SPAAs so always fire in multiple salvos to ensure a destruction.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -234,6 +240,7 @@ Your cannons are also effective at destroying ground targets which can provide e
 * Retains the great climb rate and thrust of earlier Harrier's
 * Addition of a search radar that can be used to slave the AAM's the Harrier can bring for off-angle shots
 * 4 powerful AIM-9L all-aspect missiles
+* Modern RWR with ability to detect track, launch and TWS modes
 
 '''Cons:'''
 
@@ -244,7 +251,9 @@ Your cannons are also effective at destroying ground targets which can provide e
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Hawker Siddeley Harrier "Jump-Jet" has been a successful attack aircraft for multiple users, most notably the RAF themselves as the quick-response aircrafts against possible Warsaw-Pact assaults in case of the destruction of NATO airbases as the Harrier could utilize its V/STOL capability to mobilize and attack enemy targets before the reinforcements arrived. After its commission in 1969, the Royal Navy's Fleet Air Arm also need the Harrier as they opted for a ski-jump style flight deck instead of conventional designs with catapult; the resulting jet was the Sea Harrier FRS.1 for the need to intercept Soviet AShM guidance aircrafts, 24 jets were ordered to the then-Hawker Siddeley, but the first prototype jet arrived in April 1978 after the Aircraft and Shipbuilding Industries Act 1977 and built by the merged British Aerospace, only to be declared operational by FAA in 1981. The jet achieved 20 recorded victories over Argentine aircrafts with no losses during the Falkland War and were saw action in the Bosnian War.
+
+These jets would be upgraded to F(A).2 standard with Blue Vixen PD radar and the capability of launch AIM-120 in 1988; the Sea Harrier retired from FAA in 2006 and was replaced by more advanced Sea Harrier II, while Indian Navy acquired some of these jets and used until 2016.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -254,12 +263,16 @@ Your cannons are also effective at destroying ground targets which can provide e
 * [https://live.warthunder.com/feed/camouflages/?vehicle=harrier_frs1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.'' -->
-;[[Harrier (Family)|Other Harriers:]]
+Hawker Siddeley Harrier
+
 * [[Harrier GR.1]]
 * [[Harrier GR.3]]
+* [[AV-8A]]
+* [[AV-8C]]
+
+British Aerospace (BAe) Sea Harrier and Sea Harrier II
+
+* [[Sea Harrier FRS.1 (e)]]
 * [[Harrier GR.7]]
 
 == External links ==

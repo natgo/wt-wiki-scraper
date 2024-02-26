@@ -138,10 +138,9 @@ The downside to this tank is its thin hull armour, especially on the sides. Ever
 * Excellent gun depression of -12°.
 * Very fast acceleration.
 * Very sensitive brakes enables Cromwell to land shots almost immediately after stopping.
-* Decent front turret armour of 64 mm.
+* Decent front turret armour of 64 mm, with overlapping plates adding up to around 150mm of armour
 * Exceptional speed for a medium tank.
 * Acceptable reload for 75 mm gun that allows a steady rate of fire.
-* Solid shot produces cone of shrapnel in post-penetration line of fire.
 * Armour can be compounded angled to the sides for extra effectiveness.
 * Very good flanker and rushing caps at early game.
 * Has neutral steering.
@@ -150,13 +149,12 @@ The downside to this tank is its thin hull armour, especially on the sides. Ever
 * Standard 5 crew members allow a margin of crew casualties before a decrease in combat performance.
 * Low profile.
 * Excellent climbing ability (both in reverse and forwards).
-* Still gains speed while climbing even the steepest of slopes.
 * Great turret rotation for a Rank 2 medium tank (beaten only by the T-34).
+* Quite survivable with the interior plates
 
 '''Cons:'''
 
-* Solid shot post-penetration damage still mediocre, with emphasis in precise targeting of critical modules and crew on the first shot.
-* Only solid shot ammunition for armour-piercing shells
+* Only solid shot ammunition for armour-piercing shells, which is not very amazing compared to APHE other tanks have
 * 75 mm gun only average in anti-tank capabilities.
 * The sensitive brakes can throw aim off in the instance, letting a prepared enemy fire first.
 * Armour is only supported by raw thickness due to its flat, boxy construction. Requires manual compound angling to improve effectiveness.

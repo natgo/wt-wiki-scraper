@@ -4,10 +4,12 @@
 {{Tree-Line|I Rank}}
 |
 {{Tree-Unit|cn_m8_greyhound}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|cn_t_26_1940}}
 {{Tree-Arrow}}
 {{Tree-Unit|cn_type_97_chi_ha}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|cn_sdkfz_222_early}}
 {{Tree-Skip}}
@@ -209,9 +211,7 @@
 {{Tree-Line|VII Rank}}
 |
 {{Tree-Unit|cn_mbt2000}}
-{{Tree-Arrow}}
-{{Tree-Unit|cn_wz_1001}}
-{{Tree-Skip}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Unit|cn_ztz_96a}}
 {{Tree-Arrow}}
@@ -221,21 +221,33 @@
 {{Tree-Unit|cn_ztz_99_w}}
 }}
 {{Tree-Arrow}}
+|
+{{Tree-Unit|cn_pgz_04a}}
+{{Tree-Arrow|1}}
+|
+{{Tree-Unit|cn_ztl_11}}
+| style="border-left: solid 1px #cccccc;" |
+{{Tree-Unit|cn_ztz_96a_prot}}
+|
+{{Tree-Unit|cn_qn506}}
+
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Unit|cn_wz_1001}}
+{{Tree-Arrow}}
+{{Tree-Unit|cn_vt_4b}}
+{{Tree-Skip}}
+|
 {{Tree-Unit|cn_ztz_99a}}
 {{Tree-Skip}}
 |
-{{Tree-Unit|cn_pgz_04a}}
-{{Tree-Arrow}}
 {{Tree-Unit|cn_tor_m1}}
 {{Tree-Skip}}
 |
-{{Tree-Unit|cn_ztl_11}}
 {{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
-{{Tree-Unit|cn_ztz_96a_prot}}
 {{Tree-Skip}}
 |
-{{Tree-Unit|cn_qn506}}
 {{Tree-Skip}}
 
 {{Tree-End}}

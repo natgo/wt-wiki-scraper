@@ -1,14 +1,13 @@
 {{Specs-Card
 |code=us_cruiser_des_moines_class
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_002.jpg}}
-|store=12049
 }}
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' is the lead ship of her class of three heavy cruisers, laid down in late May 1945 shortly before the end of World War 2. Derived from the earlier [[Baltimore (Family)|Baltimore-class]] heavy cruisers, she was the first ship in the US Navy to utilize autoloading {{Annotation|8-inch|203 mm}} guns. She would not see combat, only being commissioned in 1948, with a short service life of only 13 years, being decommissioned in 1961. Notably, she did serve as the flagship of the Mediterranean fleet for 7 of those years, and as the control center for American armed forces in the Lebanon crisis of 1958.
 
-Introduced in [[Update "Sky Guardians"]], USS Des Moines is in an earlier refit compared to her sister ship [[USS Newport News]], and actually has a much stronger anti-aircraft battery: increased from two double {{Annotation|3-inch|76 mm}} autocannon mounts on the Newport News, to a whopping 12 double mounts, plus an additional twelve double 20 mm mounts. This means that in addition to her impressive anti-ship capabilities with a 6-second reload for her main battery, she can also serve as a protective screen for battleships and less protected cruisers against air attack.
+Introduced in [[Update "Sky Guardians"]] but was removed from the Gaijin store after the [[wt:en/news/8580-shop-war-thunders-birthday-sale-in-the-gaijinnet-store-en|War Thunder 11th Anniversary sale]]. The USS Des Moines is in an earlier refit compared to her sister ship [[USS Newport News]] but has a much stronger anti-aircraft battery: increased from two double {{Annotation|3-inch|76 mm}} autocannon mounts on the USS Newport News to a whopping 12 double mounts, plus an additional twelve double 20 mm mounts. This means that in addition to her impressive anti-ship capabilities with a 6-second reload for her main battery, she can also serve as a protective screen for battleships and less protected cruisers against air attack.
 
 == General info ==
 === Survivability and armour ===
@@ -18,7 +17,7 @@ USS Des Moines, as the lead ship of the [[Des Moines (Family)|Des Moines class]]
 
 Des Moines has excellent armour on the turrets, with {{Annotation|8 inches|203.2 mm}} of armour on the turret face, angled at 34 degrees to provide extra protection. This renders the turret face essentially impervious to any cruiser or destroyer fire, so long as it is facing towards the enemy. The turret sides, with only {{Annotation|3.75 inches|95.25 mm}} of armour, can be penetrated by all cruiser calibre and many destroyer calibre guns at close range. The roof is better protected to defeat plunging fire, with {{Annotation|4 inches|101.6 mm}} of armour. The barbettes have less armour, with {{Annotation|6.1 inches|154.94 mm}} of protection. These will be knocked out regularly by other heavy cruisers and every battleship. These lead into the magazines, and the second turret magazine in particular. It is placed in an exposed position above the waterline unlike the Baltimores, so every precaution should be taken to avoid taking fire to this section. When fighting the Des Moines, this is the recommended area to hit.
 
-Similar to other American cruisers, she lacks torpedo bulges, instead relying on fuel tanks along the hull. These cover the entirety of the hull between the turrets, and can absorb some smaller torpedoes, though most will easily punch through. Captains should watch out for torpedo attacks at all times. If taking a hit is inevitable, manoeuvre the ship so that it takes the hit as close to the front of bow as possible, as the bow is mostly empty space and Des Moines can survive a hit here with just some flooding. Any hits below the turrets, especially the second, should be avoided at all costs.
+Similar to other American cruisers, she lacks torpedo bulges, instead relying on fuel tanks along the hull. These cover the entirety of the hull between the turrets and can absorb some smaller torpedoes, though most will easily punch through. Captains should watch out for torpedo attacks at all times. If taking a hit is inevitable, manoeuvre the ship so that it takes the hit as close to the front of bow as possible, as the bow is mostly empty space and Des Moines can survive a hit here with just some flooding. Any hits below the turrets, especially the second, should be avoided at all costs.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -39,9 +38,9 @@ The rudder takes roughly 2 seconds to cause the ship to begin a turn, and while 
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|8 inch/55 Mark 16 (203 mm)}}
 
-The primary armament of 3 x 8 inch/55 Mark 16 triple-gun mount cannons are the currently the undisputed best heavy cruiser cannons. Able to fire a volley every 6 seconds (10 rpm) allows for all vessels, cruisers or smaller to be destroyed with relative ease. Like most American cannons, the shell velocity is quite low, making very large shell arches, allowing for ships to be struck whilst still behind island cover. This does however making long range shooting a significant challenge.'
+The primary armament of 3 x 8 inch/55 Mark 16 triple-gun mount cannons is currently the undisputed best heavy cruiser cannons. Able to fire a volley every 6 seconds (10 rpm) allows for all vessels, cruisers or smaller to be destroyed with relative ease. Like most American cannons, the shell velocity is quite low, making very large shell arches, allowing for ships to be struck whilst still behind island cover. This does however make long-range shooting a significant challenge.'
 
-The Des Moines has 4 rounds types, a HE round, two SAP round types and a AP round. The explosive mass of all rounds are extremely powerful for their type. The AP round is able to successfully fight all heavy cruisers as well as some battlecruisers such as the HMS Glorious, SMS Von der Tan, HMS Invincible to name a few.
+The Des Moines has 4 round types, a HE round, two SAP round types and an AP round. The explosive mass of all rounds are extremely powerful for their type. The AP round can successfully fight all heavy cruisers as well as some battlecruisers such as the HMS Glorious, SMS Von der Tan, and HMS Invincible to name a few.
 
 {{:8 inch/55 Mark 16 (203 mm)/Ammunition|8 inch Mk.14 Common, 8 inch Mk.21 APCBC, 8 inch Mk.25 HC, 8 inch Mk.17 SP Common}}
 
@@ -50,7 +49,7 @@ The Des Moines has 4 rounds types, a HE round, two SAP round types and a AP roun
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|5 inch/38 Mk.12 (127 mm)}}
 
-The secondary armament are 6 x 5 inch/38 Mk/12 twin-mounted, dual-purpose cannons, with a max of 4 turret being able to fire during a broadside. The max fire rate is 15-22 rpm (depends on if the first stage ammunition is not depleted). There cannons have terrible muzzle velocity making distant shots against maneuvering targets a major challenge. Fortunately, when fighting light cruisers and destroyers, these secondaries are able to cause significant damage using HE and SAP rounds. These turrets also have access to proximity fuse shells, providing superb long to medium range defense against aircraft, including high altitude bombers.
+The secondary armament is 6 x 5 inch/38 Mk/12 twin-mounted, dual-purpose cannons, with a max of 4 turrets being able to fire during a broadside. The max fire rate is 15-22 rpm (depending on if the first-stage ammunition is not depleted). Their cannons have terrible muzzle velocity making distant shots against maneuvering targets a major challenge. Fortunately, when fighting light cruisers and destroyers, these secondaries can cause significant damage using HE and SAP rounds. These turrets also have access to proximity fuse shells, providing superb long to medium-range defence against aircraft, including high-altitude bombers.
 
 {{:5 inch/38 Mk.12 (127 mm)/Ammunition|5 inch AAC Mk.34, 5 inch AAVT Mk.31, 5 inch SP Common Mk.46}}
 
@@ -62,8 +61,8 @@ The secondary armament are 6 x 5 inch/38 Mk/12 twin-mounted, dual-purpose cannon
 ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.''
 
 == Usage in battles ==
-<!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+<!-- ''Describe the technique of using this ship, the characteristics of her use in a team and strategy tips. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
+''Describe the technique of using this ship, the characteristics of her use in a team and strategy tips. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents of this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -73,9 +72,8 @@ The secondary armament are 6 x 5 inch/38 Mk/12 twin-mounted, dual-purpose cannon
 * Adequate speed, on par with the rest of the American ships of this level
 * Decent main firepower with an excellent fire rate of 10 rounds per minute
 * Has access to a tracking radar
-* Powerful auxiliary and AA defense with decent range and effective against both aircraft and light naval targets
+* Powerful auxiliary and AA defence with decent range and effective against both aircraft and light naval targets
 * Large crew complement allows for a decent survivability
-* Ammo stowage rooms are located below the waterline
 * Decent ammo variety for both the 8-inch and 5-inch guns including HE-VT, HE and AP type rounds
 * Overall armour is above average for a cruiser
 
@@ -84,6 +82,7 @@ The secondary armament are 6 x 5 inch/38 Mk/12 twin-mounted, dual-purpose cannon
 * Large and long vessel, quite easy to hit especially with torpedoes
 * No torpedo protection
 * Doesn't have access to a scout plane
+* Front ammo rack is easily detonated by even 8-inch AP shells from cruisers
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

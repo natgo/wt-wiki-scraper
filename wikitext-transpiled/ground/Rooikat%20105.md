@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+In 1990, a programme was initiated by Reumech OMC to upgrade the [[Rooikat Mk.1D|Rooikat]] for the international market, with the intent of increasing its potency against other armoured vehicles. It was upgunned with the GT-7 105 mm cannon, a domestic variant of the ubiquitous Royal Ordnance L7 built by Denel, and made able to accept a range of NATO ammunition to improve compatibility with any potential customers. It was also equipped with updated features such as a new thermal imaging system. The Rooikat 105 was completed in 1994 and demonstrated to the SANDF, who decided that they were satisfied with the base model. The subsequent offering on the export market was also met with a lack of interest. Only a single prototype of the vehicle was ever constructed.
+
+Introduced in [[Update 1.97 "Viking Fury"]], the '''Rooikat 105''' builds upon its predecessor [[Rooikat Mk.1D]] with more powerful armament and ammunition, while retaining the latter's excellent mobility. Able to be equipped with the powerful DM33 APFSDS round, the Rooikat 105 has more than sufficient firepower for any opponent it may face — combined with its outstanding mobility both on and off road, and excellent gun handling characteristics, it can excel in any role, be it long-range sniping, flanking, or even close range brawling. Players will also greatly appreciate the new thermal sight for the gunner, making identifying enemy targets a cinch.
 
 == General info ==
 === Survivability and armour ===

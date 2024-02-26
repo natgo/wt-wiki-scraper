@@ -1,3 +1,8 @@
+{{About
+| about = Italian tank destroyer '''{{PAGENAME}}'''
+| usage = the premium version
+| link = Zrinyi I
+}}
 {{Specs-Card
 |code=it_40_43m_zrinyi_2
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -13,7 +18,14 @@ The '''{{Specs|name}}''' was introduced in [[Update "Sons of Attila"]] as part o
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+
+The Zrínyi II boasts robust survivability with its frontal armour averaging 75 mm, augmented by an additional 20 mm from tracks placed on the frontal section. This configuration enables confident frontal engagements against opponents, barring high-penetration tank destroyers.
+
+However, not all frontal armour is uniformly 75 mm thick, as the weaker spots include the driver port and gun mantlet each measuring 50 mm. The upper front plate (UFP), with a thickness of only 13 mm, angles at 75°. While this angle provides some protection, effectively safeguarding against impacts ranging from 20 to 50 mm, depending on the angle of impact. Increasing this angle involves cresting hills or other inclines, effectively hiding the LFP and maximizing protection for the UFP.
+
+While the frontal armour of the Zrínyi II provides substantial protection, the side and rear of the vehicle are equipped with a comparatively weaker 25 mm of armour, rendering them susceptible to penetration by most vehicles, excluding light machine guns. The inclusion of side skirts, 8 mm thick, offers additional defence. These side skirts can protect against low-end chemical shells (HE / HEAT) and slightly reduce the penetration of AP shells, effectively offering a combined protection of 29 mm.
+
+It is essential to note the vulnerability of the roof armour, measuring only 13 mm. This thin roof armour is susceptible to strafing attacks from aircraft armed with heavy machine guns or larger weaponry, posing a significant threat to the vehicle and its crew.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -89,7 +101,14 @@ The '''{{Specs|name}}''' was introduced in [[Update "Sons of Attila"]] as part o
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+The Zrínyi II tank features robust frontal armour, allowing for an assertive playstyle because of the ability to withstand most incoming shells from tanks within its BR range. Notably, the top speed of 40 km/h can be achieved both in forward and reverse, highlighting its agility in various manoeuvres. This versatility caters to both aggressive assault strategies and defensive positions.
+
+Positioning and awareness are key when engaging enemies; it is crucial to expose only the frontal armour and avoid revealing vulnerable side armour. Light tanks should not be underestimated, given their agility, which allows them to flank and attack from the side or rear.
+
+The Zrínyi stands out for its ability to eliminate adversaries with a single powerful shot, primarily when utilizing the High-Explosive Anti-Tank (HEAT) shell, which is the recommended option. This shell is capable of penetrating armour up to 120 mm, providing a more effective solution than the default High-Explosive (HE) shell. However, it's important to note that these shells have a low velocity, requiring careful aim, especially at longer ranges. Additionally, users should be mindful of the reload time on this large-calibre cannon, which ranges from 13 to 10 seconds. This aspect, combined with the low shell velocity, underscores the need for strategic positioning and accurate aiming during engagements.
+
+In summary, the Zrínyi II's strategic advantage lies in its well-armoured frontal profile, versatile speed in both directions and potent HEAT shell. Players should exercise caution, leveraging the tank's strengths while being mindful of potential vulnerabilities.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -120,7 +139,9 @@ The '''{{Specs|name}}''' was introduced in [[Update "Sons of Attila"]] as part o
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_40_43m_zrinyi_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -128,15 +149,13 @@ The '''{{Specs|name}}''' was introduced in [[Update "Sons of Attila"]] as part o
 * ''links to approximate analogues of other nations and research trees.'' -->
 '''Related development'''
 
+* [[Turan (Family)|Turán]]
 * [[Zrinyi I|Zrínyi I]]
 
 '''Other Hungarian vehicles'''
 
 * [[Csaba]]
 * [[Toldi IIA]]
-* [[Turan I|Turán I]]
-* [[Turan II|Turán II]]
-* [[Turan III|Turán III]]
 
 '''Similar vehicles'''
 

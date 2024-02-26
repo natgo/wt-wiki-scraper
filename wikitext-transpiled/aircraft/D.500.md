@@ -6,9 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The '''{{Specs|name}}''' was the replacement for the NiD-62 fighters that were still in operational service with France in the early 1930s. The French Air Ministry issued a new order for a fighter capable of replacing the aging NiD-62, an all-metal interceptor was developed, becoming the D.500. The aircraft was adopted in 1935, and it was a very competent fighter for its time, but it was quickly surpassed by superior designs such as the M.S.406. The aircraft never saw combat in the Battle of France, and was directly succeeded by the D.520.
 
-The D.500 is an all-metal mono-wing French aircraft with an open cockpit and fixed landing gear being built all through the mid-1930s. This fighter was France's primary fighter aircraft until the Morane-Saulnier M.S.406 fighter replaced it in 1939. When playing Simulator Battles (or Arcade and Realistic Battles in cockpit view), this aircraft offers excellent visibility only really limiting visibility where the wings protrude out of the fuselage. This aircraft boasts 1,200 rounds of ammunition split between four machine guns which can do severe damage especially when gun convergence is between 150 and 350 m.
+Introduced in [[Update 1.73 "Vive la France"]], the D.500 is an all-metal mono-wing French aircraft with an open cockpit and fixed landing gear being built all through the mid-1930s. This fighter was France's primary fighter aircraft until the Morane-Saulnier M.S.406 fighter replaced it in 1939. When playing Simulator Battles (or Arcade and Realistic Battles in cockpit view), this aircraft offers excellent visibility only really limiting visibility where the wings protrude out of the fuselage. This aircraft boasts 1,200 rounds of ammunition split between four machine guns which can do severe damage especially when gun convergence is between 150 and 350 m.
 
 == General info ==
 === Flight performance ===
@@ -153,10 +153,12 @@ At the start of the Second World War, the bulk of France's air force consisted o
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=d_500 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

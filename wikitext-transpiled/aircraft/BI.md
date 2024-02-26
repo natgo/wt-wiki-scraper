@@ -271,4 +271,5 @@ File:BI WTWallpaper 006.jpg|
 * [[wt:en/news/6873-development-crafting-event-strategist-bereznyak-isayev-en|[Devblog] Crafting Event "Strategist": Bereznyak-Isayev]]
 * [[wikipedia:Bereznyak-Isayev_BI-1|[Wikipedia] Bereznyak-Isayev BI-1]]
 
+{{AirManufacturer OKB-293}}
 {{USSR jet aircraft}}

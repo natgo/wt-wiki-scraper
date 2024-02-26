@@ -1,12 +1,11 @@
 {{Specs-Card
 |code=fr_destroyer_aigle_class_aigle
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_003.jpg}}
-|store=12045
 }}
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]] but was removed from the Gaijin store after the [[wt:en/news/8580-shop-war-thunders-birthday-sale-in-the-gaijinnet-store-en|War Thunder's 11th Anniversary sale]]. The vessel returned to sale on the [[wt:en/news/8748-shop-aigle-is-back-on-the-anniversary-of-its-launch-en|anniversary of its launch]].
 
 == General info ==
 === Survivability and armour ===

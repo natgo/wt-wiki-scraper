@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. It is a Swedish license-built version of the Czechoslovak TNHP light tank, and is thus quite similar to the German [[Pz.38(t) F|PzKpfw 38(t)]].
+In March of 1940, Sweden ordered about 90 TNH tanks (known as the Panzer 38(t) in German service). After negotiations, the Swedish manufacturer Scania-Vabis was allowed to produce them under license. The Stridsvagn m/41 was armed with a 37 mm Bofors m/38 gun and the design utilized riveted construction. In June of 1942, Sweden ordered 122 Strv m/41 S-II. The armour was increased from 25 mm to 50 mm thick. Because of the added weight of the armour, a more powerful engine was added, the Type L 603 engine. This meant the hull length needed to be increased by 65 mm. The Strv m/41 served until the late 1950s, when all Strv m/41 were converted to the [[Pbv 301|Pansarbandvagn (Pbv) 301]].
+
+It was introduced in [[Update 1.97 "Viking Fury"]]. The '''{{Specs|name}}''' has a very similar playstyle to the [[Pz.38(t) F]]. However it now has access to the Swedish 37 mm APDS round with more than 100 mm of penetration against flat surfaces. With a good aim, the {{Specs|name}} can even deal with heavier armoured vehicles like [[B1 bis]] and [[M4A3 (105)]] if it can get the first shell fired into a vital spot, like the crew or the ammo racks. The {{Specs|name}} shines if it gets to fight a vehicle on its terms, meaning to keep at a distance and wear the enemy down by using the APDS shells and fast reload rate. The 50 mm frontal armour can bounce or stop some shells in close quarters combat, but with the weak side armour it's best to keep distance as a sniper instead rushing in.
 
 == General info ==
 === Survivability and armour ===
@@ -19,6 +21,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 The Strv m/41 S-II's frontal armour is 50 mm thick both on the hull and turret, making the front the strongest armoured area of the vehicle. Compared to the [[Pz.38(t) F]], the Strv m/41 S-II has weaker side and rear armour making those areas easily penetrable by enemy guns. So the Strv m/41 S-II's strength in armour is by having the front pointing towards enemies at all times. The engine deck is only 10 mm thick, and is vulnerable to strafing aircraft with cannons or  heavy machine guns.
 
 '''Armour type:'''
+
 * Rolled homogeneous armour (hull, turret. cupola)
 * Cast homogeneous armour (MG ports, commander and gunner viewports, gun mantlet)
 
@@ -144,6 +147,7 @@ In March of 1940, Sweden ordered about 90 TNH tanks (known as the Panzer 38(t) i
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_strv_m41_s2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -154,9 +158,13 @@ In March of 1940, Sweden ordered about 90 TNH tanks (known as the Panzer 38(t) i
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 {{main|LT-38 (Family)}}
+
 ;Vehicles equipped with the same chassis
+
 * [[Strv m/41 S-I]]
+
 ;Related development
+
 * [[Spj fm/43-44]]
 * [[Sav m/43 (1944)]]
 * [[Sav m/43 (1946)]]
@@ -172,7 +180,9 @@ In March of 1940, Sweden ordered about 90 TNH tanks (known as the Panzer 38(t) i
 * [[wikipedia:Stridsvagn_m/41|[Wikipedia] Stridsvagn m/41]]
 
 === References ===
+
 ;Bibliography
+
 * David B. (2014, December 1). Stridsvagn m/41. Tank Encyclopedia. https://tanks-encyclopedia.com/ww2/sweden/Stridsvagn_M41.php
 * Stridsvagn m/41. (2020, April 4). In ''Wikipedia''. https://en.wikipedia.org/w/index.php?title=Stridsvagn_m/41&oldid=948984593
 

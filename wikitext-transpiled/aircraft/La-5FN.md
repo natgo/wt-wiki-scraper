@@ -13,9 +13,9 @@
 
 == Description ==
 <!--In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.-->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. This aircraft has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The  '''{{Specs|name}}''' was a fighter produced at the same time as the La-5F, rather than being its successor, the main improvement was the introduction of a fuel injected engine. This came in the form of the ASh-82FN engine that produced 1,850 HP for 10 mins. In combat tests against a Bf-109G-2, the La-5FN showed superiority in speed and manoeuvrability at low and medium altitudes. These results influenced Soviet tactics. It used the same twin 20mm ShVAK cannons as the La-5F, but with 200 rounds per gun.
 
-Being the last La-5 modification available, one can expect a similar playstyle to the previous variants, however, turn it up several notches to 11. Sporting accurate twin 20 mm cannons and amazing low altitude performance, the La-5FN is a plane with heart that can provide some blood pumping engagements.
+This aircraft has been in the game since the start of the Open Beta Test prior to Update 1.27. Being the last La-5 modification available, one can expect a similar playstyle to the previous variants, however, turn it up several notches to 11. Sporting accurate twin 20 mm cannons and amazing low altitude performance, the La-5FN is a plane with heart that can provide some blood pumping engagements. Just as the La-5  and La-5F, it has good performance in boom and zoom tactics, however, with an improved powerplant, it is more capable than ever in low-medium altitude fights.
 
 == General info ==
 === Flight performance ===

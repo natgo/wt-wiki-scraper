@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American Self-Propelled Anti-Aircraft (SPAA) {{Battle-rating}}. It was one of the first American vehicles to be released with the American ground tree in [[Update 1.45 "Steel Generals"]]. Unlike its predecessor, the [[M13 MGMC|M13 MGMC]], the M16 is equipped with not two, but four .50 calibre machine guns mounted on a Maxson M45 Quadmount to fight against enemy aircraft.
+The '''M16 Multiple Gun Motor Carriage (MGMC)''' is the second variant of the M3 half-track-based self-propelled anti-aircraft gun family. It was armed with four M2HB Browning heavy machine guns mounted on an M45 Quadmount. From May 1943 to March 1944, White Motor Company produced approximately 2700 units. As aircraft became more advanced, the utility of this vehicle diminished. During the Korean War, it was primarily used for ground support and was phased out of the U.S. Army in 1954. It was nicknamed the "Meat Chopper" due to its effectiveness against enemy low-flying aircraft and infantry, making it extremely popular among soldiers.
 
-The point of the vehicle is to protect the team against threatening aircraft, it does so quite unusual when compared to other nations SPAA of this rank. Other nations SPAA come equipped with cannons, like the Sd.kfz 6/2 of Germany that comes equipped with the lethal 37 mm Flak 18. The M16 MGC uses several HMGs to shoot down hostile aircraft with a hail of bullets that focuses on volume-of-fire rather than damage-per-round.
-
-Multiple heavy machine guns harmonized together to allow for surprisingly decent self-defence against poorly armoured enemy tanks and equipment.
+Introduced in [[Update 1.45 "Steel Generals"]], the M16 MGMC plays similarly to the [[M13 MGMC]]. Since it is lightly armoured, it is best not to engage enemy ground units directly. Concentrate on enemy aircraft, but do not engage until the plane is close enough for direct hits. The main armament is extremely powerful, frequently igniting planes. Always reposition yourself after firing to improve your chances of survival.
 
 == General info ==
 === Survivability and armour ===

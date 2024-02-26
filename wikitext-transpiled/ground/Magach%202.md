@@ -74,7 +74,7 @@ The most important upgrades are also the ones for the engine, since the Magach 2
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 64 || rowspan="2" | -9°/+19° || rowspan="2" | ±180° || rowspan="2" | N/A || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
+| rowspan="2" | 64 || rowspan="2" | -9°/+19° || rowspan="2" | ±180° || rowspan="2" | - || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
 |-
 ! ''Realistic''
 | 14.3 || 16.8 || 20.4 || 22.6 || 24.0
@@ -121,7 +121,7 @@ The most important upgrades are also the ones for the engine, since the Magach 2
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 1,400 (200) || 577 || -9°/+60° || ±180°
+| Pintle || 1,400 (200) || 575 || -9°/+60° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -130,7 +130,7 @@ The most important upgrades are also the ones for the engine, since the Magach 2
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 5,500 (250) || 500 || N/A || N/A
+| Coaxial || 5,500 (250) || 500 || - || -
 |-
 |}
 

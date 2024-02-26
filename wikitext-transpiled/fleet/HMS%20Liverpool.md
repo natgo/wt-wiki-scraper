@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a squadron rank {{Specs|rank}} British light cruiser {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
+The '''HMS Liverpool (C11)''' is a member of the Town-class light cruiser family. She served in the British Navy from 1938 to 1952. The HMS Liverpool received four battle honours during World War II and was severely damaged in two attacks by Italian torpedo bombers. She worked with naval stations in the East Indies and China, as well as the Mediterranean and Home Fleet. In January 1940, while serving as the flagship of the China Station, the HMS Liverpool caused a diplomatic incident with Japan when she intercepted the liner Asama Maru off the coast of Japan. The battles of the Espero Convoy and Calabria, the Arctic Convoys, and Operation Harpoon during the Malta Convoys were also fought by the HMS Liverpool. During Operation Harpoon on June 14, 1942, the HMS Liverpool suffered damage from an air raid and was forced to spend the rest of the war in Rosyth, Scotland, for repairs and refitting. She was recalled to service in 1945 and assigned as the Mediterranean Fleet's flagship. When Egyptian guerrillas campaigned against the British administration of the Suez Canal Zone in the early 1950s, the HMS Liverpool anchored in Port Said to support them. The HMS Liverpool was decommissioned in 1952, at a time when the British Navy's strength was rapidly dwindling. She was scrapped in Rosyth in 1958.
 
-The Liverpool is a member of the Gloucester sub-class of the so-called 'Town' class light cruisers. As such, she features some improvements to her overall protection compared to her sister ship, the [[HMS Southampton|Southampton]]. She is depicted in her late/post-war configuration, where her 'X' turret was removed and, in exchange, her anti-aircraft armament was substantially improved. 
+Introduced in [[Update "Red Skies"]], the HMS Liverpool is one of the best light cruisers in the British Navy's inventory. Players are advised to take advantage of her high rate of fire to damage and overwhelm enemy ships. Its main armament is extremely effective against other light cruisers and destroyers, causing significant damage to internal components. The HMS Liverpool also has thick belt armour and magazine protection, making her difficult to knock out quickly by other enemy vessels. She also has a respectable torpedo arsenal, allowing her to pose a threat to battleships as long as they are within effective torpedo range. The HMS Southampton's ammunition magazines are well-protected, making them difficult to destroy quickly. She is, however, very easy to disable due to her thin turret armour and unarmoured bridge, and she frequently loses many crew members during engagements. To avoid being isolated and targeted, it is best to stick with allies during battles. 
 
 == General info ==
 === Survivability and armour ===
@@ -137,6 +137,7 @@ Liverpool continued her service as flagship of the 15th Cruiser Squadron in the 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_cruiser_liverpool Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

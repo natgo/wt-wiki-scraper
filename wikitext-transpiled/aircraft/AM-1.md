@@ -1,20 +1,24 @@
 {{Specs-Card
 |code=am_1_mauler
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
 |cockpit=cockpit_am_1_mauler.jpg
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The '''Martin AM Mauler''' is a single-engine carrier-based attack aircraft built for the United States Navy. First ordered during World War II in 1944, it was designed to carry as much payload as possible while being capable of operating on an aircraft carriers. After delays due to the engine cooling and stability problem, the Mauler has entered service in 1948 on board carrier air groups.
 
-The {{PAGENAME}} is a classic American attack aircraft. As typical, it is heavy and cumbersome yet hard-hitting and versatile due to the weapons it can carry. Don't expect to effectively dogfight in the Mauler as the main purpose of this aircraft is to strike and eliminate the enemy's ground units. The {{PAGENAME}} has the option to outfit HVARS and Tiny Tims rockets and bombs of all sizes depending on the targets to be hit. Enemy fighters should be avoided as they will typically be faster, more manoeuvrable and better equipped for air-to-air combat at which the {{PAGENAME}} is at a significant disadvantage, however, when pressed into air combat some Mauler pilots end up working miracles and survive the encounter.
+Because of its impressive payload of up to 4.5 tons, the Mauler was initially nicknamed "Able Mable", however this was superseded by the more derogatory "Awful Monster" by its crews and those who were operated with it. This is because the Mauler suffered from problems stemmed from excessive torque that resulted into the plane being very sluggish to handle, very hard to land on an carrier (at one point even broke its tail during landing due to it being unable to handle its weight) and its hydraulic fluid that would leak very often, thus making it a maintenance nightmare. In the end, the Mauler was the plane that were built to what the USN wanted, but not what they were needed, and it would be retired just 5 years later, being superseded by the more capable and reliable [[AD Skyraider (Family)|AD Skyraider]].
+
+Introduced in [[Update 1.89 "Imperial Navy"]]. The {{PAGENAME}} is a classic American attack aircraft. As typical, it is heavy and cumbersome yet hard-hitting and versatile due to the weapons it can carry. Don't expect to effectively dogfight in the Mauler as the main purpose of this aircraft is to strike and eliminate the enemy's ground units. The {{PAGENAME}} has the option to outfit HVARS and Tiny Tims rockets and bombs of all sizes depending on the targets to be hit. Enemy fighters should be avoided as they will typically be faster, more manoeuvrable and better equipped for air-to-air combat at which the Mauler is at a significant disadvantage, however, when pressed into air combat some Mauler pilots may end up working miracles and survive the encounter should they timed their turn to face the enemy well enough.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The {{PAGENAME}} is a rather cumbersome and heavy aircraft. For pilots new to the aircraft, they will notice even without a payload, the aircraft feels sluggish and can be even more frustrating early on while the aircraft is still in its stock phase. At low speeds, this aircraft is an easy target to prey on. Despite the circumstances, it is decently manoeuvrable for a single-seated attack aircraft allowing for the targeting of ground targets, however, care must be taken when it is necessary to manoeuvre as this aircraft bleeds energy very quickly.
+The {{PAGENAME}} is a rather cumbersome and heavy aircraft. For pilots new to the aircraft, they will notice even without a payload, the aircraft feels sluggish and can be even more frustrating early on while the aircraft is still in its stock phase. With powerful Pratt & Whitney R-4360 "Twin Cyclone" engine, the Mauler can accelerate fairly quickly, especially in a dive with payloads. As such, it comes with an airbrakes to help slow down the plane and prevent it from being lawndarted into the ground.
+
+At low speeds, this aircraft is an easy target to prey on, especially with heavy payload. Despite the circumstances, it is decently manoeuvrable for a single-seated attack aircraft, especially at high speed, allowing for the targeting of ground targets or even catch the enemy fighter off-guard, however, care must be taken when it is necessary to manoeuvre as this aircraft bleeds energy very quickly.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -136,6 +140,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 12 x 250 lb AN-M57 bombs (3,000 lb total)
 * 3 x 500 lb AN-M64A1 bombs (1,500 lb total)
@@ -194,6 +199,7 @@ All in all, the AM-1 is a below-average fighter with incredible anti-ground capa
 * Poor acceleration
 * Bleeds energy quickly if manoeuvring
 * Engine overheats fairly quickly
+* Practice rounds in the ground targets belt have a much lower penetration than AP-T rounds, making them less capable at engaging armoured targets
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -216,6 +222,7 @@ The AM-1 was given to squadrons in the Atlantic Fleet. It served for a relativel
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=am_1_mauler Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]]. It is a French-captured example of the [[Panther G]] found in the German tree with a few cosmetic differences like missing side skirts and new French markings.
+Throughout the development of WWII after D-Day, French forces made an effort to capture and rearm as many German panzers as possible. Most of these tanks were Panzer IVs, however, a small number of Panthers and Tigers were also used by France. A number of Panthers were captured at the Battle of Dompaire after the French surrounded a Panzer Battalion, however not all the tanks captured during this encirclement were used due to logistical reasons. In the end, all tanks of this type were replaced shortly after the end of WWII.
+
+The {{PAGENAME}}  was introduced in [[Update 1.91 "Night Vision"]]. It is a French-captured example of the [[Panther G]] found in the German tree with a few cosmetic differences like missing side skirts and new French markings. The '''{{Specs|name}}''' behaves like any other Panther G, compared to the more common Panther D, it has improved turret armour around the gun, eliminating the ricochet area that caused many projectiles to be redirected to the top of the hull. It features a very powerful cannon, which is easier to use thanks to the increased turret rotation when compared to the Panther D, however like all Panthers, it suffers from very poor reverse speed, and thus it is hard to escape from difficult situations, use your front armour at hull down positions and long-range combat for better chances of survival.   
 
 == General info ==
 === Survivability and armour ===

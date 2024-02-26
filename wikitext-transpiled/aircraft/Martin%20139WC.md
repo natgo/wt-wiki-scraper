@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese bomber {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''', often referred as the 馬丁式轟炸機 (Martin Bomber), was the export version of Martin B-10 bomber for the NRAAF in 1936. As part of the 50th birthday cerebration of Chiang Kai-Shek's fundraising campaign, some of the funds raised were taken as the fund to purchase nine Martin 139W bombers to strengthen the NRAAF; these aircrafts were in service alongside with some He 111A series and SM.72 during the early days of the total outbreak of Sino-Japanese War but with minimal efficiency. The most famous operation carried out by Martin 139WC was the propaganda leaflet "bombing" to Kyushu on 20th May, 1938 with the help of long-range radio and US instructors, 4 years before the Doolittle Raid on April 1942; as the bomber was already obsolete and new Soviet/US-built bombers arrived in China, the Martins were soon phrased out and left as training aids for bomber crews as late as 1945.
+
+Introduced in [[Update 1.91 "Night Vision"]] with the Chinese tech tree, although having a rather peculiar aerodynamic design like a boat and less than desired self-defense firepower, Martin 139WC can still prove its worthiness with up to 600 kg bombs at its rank and deliver destruction to enemy stationary targets. 
 
 == General info ==
 === Flight performance ===

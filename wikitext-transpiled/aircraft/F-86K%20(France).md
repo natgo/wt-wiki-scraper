@@ -10,14 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The original F-86D was developed as a bomber interceptor and was outfitted with a retractable ventral rocket-rack which housed 24 x 2.75 in (70 mm) [[FFAR Mighty Mouse|Mighty Mouse]] folding-fin aerial rockets. Lacking cannons or air-to-air missiles, the F-86D was limited in role strictly as a bomber hunter. In 1953, Italy approached North American Aviation in an attempt to modify the existing F-86D into a fighter-interceptor, however, the proposed changes proved too costly. This cost overage required scaling back the requirements and from this was produced the '''F-86K''', a fighter-interceptor aircraft which was outfitted with 4 x 20 mm cannons and two AIM-9B Sidewinder missiles. Originally this aircraft was produced for the U.S., however, later the Italian manufacturer Fiat was licensed to also manufacture and produce this version of the fighter. France operated a total of 62 F-86Ks, built between 1956 and 1957 by Fiat, working as all-weather interceptors while the [[Mirage III (Family)|Mirage III]] was being developed.
 
-The original F-86D was developed as bomber interceptor and was outfitted with a retractable ventral rocket-rack which housed 24 x 2.75 in (70 mm) [[FFAR Mighty Mouse|Mighty Mouse]] folding-fin aerial rockets. Lacking cannons or air-to-air missiles, the F-86D was limited in role strictly as a bomber hunter.  In 1953 the Italians approached North American in an attempt to modify the existing F-86D into a fighter-interceptor, however, the proposed changes proved too costly. This cost overage required scaling back the requirements and from this was produced the F-86K, a fighter-interceptor aircraft which was outfitted with 4 x 20 mm cannons and two AIM-9B Sidewinder missiles. Originally this aircraft was produced for the U.S., however, later the Italian manufacturer Fiat was licensed to also manufacture and produce this version of the fighter.
-
-{{Quote
-|'''Fun Fact''': The Sabre Dog was initially to be designated F-95, but had its name changed to F-86D instead, in order to make it seem like a variant of the existing Sabre and not an entirely new aircraft. In reality, however, the F-86D was only about 25% similar to the original F-86 and the name change was only done to secure further support for the project.
-|  War Thunder Dev Blog
-}}
+It was introduced in [[Update 1.89 "Imperial Navy"]]. Developed as an interceptor, the F-86K is a relatively sluggish aircraft. It has a good top speed and climb rate for its BR thanks to the new engine, which features an afterburner. However this comes at the cost of manoeuvrability and acceleration, so, the F-86K is not a classic dogfighter like the other Sabres, instead it is more useful at combat in high altitude, intercepting enemy bombers and using its AIM-9Bs against slow enemies from above. In simulator battles, it is especially useful, as it features a powerful radar and a powerful engine, useful for detecting aircraft at very high altitudes like bombers and other interceptors. Unfortunately, its radar lacks BVR or ACM mode, so it is impossible to lock onto other aircraft.
 
 == General info ==
 === Flight performance ===
@@ -199,6 +194,11 @@ In January 1953, North American was approached by an offer from the Italian mili
 Initially, the F-86K was produced exclusively in the U.S., but would later also be manufactured under licence by the Italian Fiat company. The F-86 entered service in 1955 and apart from the Italian Air Force, the F-86K also served with many other operators worldwide including France, West Germany, the Netherlands, Norway, Honduras, Venezuela. Around 340 F-86Ks were produced out of over 2,800 Sabre Dogs built in total. Most of the F-86Ks would be decommissioned by the late '60s, while some even went on to serve into the '70s.
 
 ''- From [[wt:en/news/6176-development-f-86k-sabre-dog-the-grand-tourist-en|Devblog]]''
+
+{{Quote
+|'''Fun Fact''': The Sabre Dog was initially to be designated F-95, but had its name changed to F-86D instead, in order to make it seem like a variant of the existing Sabre and not an entirely new aircraft. In reality, however, the F-86D was only about 25% similar to the original F-86 and the name change was only done to secure further support for the project.
+|  War Thunder Dev Blog
+}}
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

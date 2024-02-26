@@ -1,3 +1,8 @@
+{{About
+| about = Soviet attack helicopter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Mi-8 (Family)
+}}
 {{Specs-Card
 |code=mi_8tv
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -18,13 +23,13 @@ The '''{{Specs|name}}'''(NATO reporting name: ''Hip''), introduced in [[Update "
 {| class="wikitable" style="text-align:center"
 |-
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 1,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 |-
 ! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}}
+| 251 || 243 || rowspan="2" | {{Specs|ceiling}}
 |-
 ! Upgraded
 | ___ || ___
@@ -96,30 +101,28 @@ This combat ready version of the Mi-8 was developed based on the Mi-8T model in 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
-
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mi_8tv Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|98kIbV_vNMI|'''Ultimate MI-8 (TV/TB) Guide''' -By Bob Dickinson }}
+{{Youtube-gallery|4jHIZqHq5FM|'''The Shooting Range #374''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.|98kIbV_vNMI|'''Mi-8 (TV/TB) Ultimate Review''' - ''Bob Dickinson''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Mi-8 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8442-development-mi-8tv-a-good-mate-to-have-en|[Devblog] Mi-8TV: A Good Mate To Have]]
+
 
 {{AirManufacturer Mil}}
 {{USSR helicopters}}

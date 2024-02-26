@@ -70,44 +70,45 @@ The AHS uses composite armour (kevlar boron carbide) to protect the crew from sh
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between three presets:
-** 1 x 30 mm M230E-1 cannon (1,200 rpg)
-** 1 x 30 mm M230E-1 cannon + 30 x countermeasures
+* A choice between two presets:
+** 1 x 30 mm M230E-1 cannon (1,200 rpg) + 30 x countermeasures
 ** 1 x 30 mm M230E-1 cannon + 30 x countermeasures + IRCM
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114B Hellfire|ATAS (AIM-92)|RB 74|Hydra-70 M247}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x RB 74 missiles
-* 4 x ATAS (AIM-92) missiles
-* 76 x Hydra-70 M247 rockets
-* 8 x AGM-114B Hellfire missiles
-* 16 x AGM-114B Hellfire missiles
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
 | rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
 |-
-! Hydra-70 M247 rockets
+! [[Hydra-70 M247]] rockets
 | || 19 || 19 || 19 || 19 ||
 |-
-! AGM-114B Hellfire missiles
+! [[AGM-114B Hellfire]] missiles
 | || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
 |-
-! ATAS (AIM-92) missiles
-|2|| || || || ||2
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || || || 2
 |-
-! RB 74 missiles
+! [[RB 74]] missiles
 | || 1 || || || 1 ||
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 2 x RB 74 missiles
+* 4 x ATAS (AIM-92) missiles
+* 76 x Hydra-70 M247 rockets
+* 4 x AGM-114B Hellfire missiles
+* 8 x AGM-114B Hellfire missiles
+* 16 x AGM-114B Hellfire missiles
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

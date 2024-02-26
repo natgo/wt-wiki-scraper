@@ -18,9 +18,9 @@ Introduced in [[Update 1.97 "Viking Fury"]], the ZTZ96A is an upgraded variant o
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The most noticeable change on the ZTZ96A is the new armour profile. The design of the ZTZ96A's turret is a further drastic departure from the traditional Chinese and Soviet dome turret design. The turret front is equipped with a wedge or arrowhead shaped block of applique armour, which is modeled as being made of FY-4 ERA tiles. It looks somewhat like the [[Leopard 2A5]]; however, the armour stops short at the coaxial gun port, providing a weak spot for the enemy to exploit. Shooting this area does not usually result in an instant knock-out as it will only disable the gun breech and take out the commander or gunner (depending on which side is shot). The protected areas of the turret cheeks are quite strong for the ZTZ96A's rank; total kinetic protection is around 500 mm of RHA equivalent, which is sufficient to resist any APFSDS fired by Rank VI tanks. Chemical protection is around 900 mm, enough to stop many ATGMs. ERA has also been added to the exterior of the storage racks on the turret sides, but there is not enough total protection to stop anything more than light autocannon fire or small HEAT rounds.
+The most noticeable change on the ZTZ96A is the new armour profile. The design of the ZTZ96A's turret is a further drastic departure from the traditional Chinese and Soviet dome turret design. The turret front is equipped with a wedge or arrowhead shaped block of applique armour, which is modeled as being made of FY-4 ERA tiles. It looks somewhat like the [[Leopard 2A5]]; however, the armour stops short at the coaxial gun port, providing a weak spot for the enemy to exploit. Shooting this area does not usually result in an instant knock-out as it will only disable the gun breech and take out the commander or gunner (depending on which side is shot). The protected areas of the turret cheeks are quite strong for the ZTZ96A's rank; total kinetic protection is around 600 mm of RHA equivalent, which is sufficient to resist any APFSDS fired by Rank VI tanks. Chemical protection is around 1,100 mm, enough to stop many ATGMs. ERA has also been added to the exterior of the storage racks on the turret sides, but there is not enough total protection to stop anything more than light autocannon fire or small HEAT rounds.
 
-As for the hull, the added FY-4 ERA on the upper glacis increases the survivability of the tank. Total kinetic protection is around 480 mm and chemical protection is upwards of 900 mm. Even a direct shot from most APFSDS can be resisted.
+As for the hull, the added FY-4 ERA on the upper glacis increases the survivability of the tank. Total kinetic protection is around 540 mm and chemical protection is upwards of 1,000 mm. Even a direct shot from most APFSDS can be resisted.
 
 It is worth remembering that ERA tiles are destroyed upon absorbing fire and can also be stripped off by autocannons. Without the FY-4 ERA, the base armour of the ZTZ96A is exactly the same as the ZTZ96 and can be easily penetrated by 105 mm DM33 rounds for example. The general weak spots of the ZTZ96 still exist; as mentioned before, the gun breech area does not enjoy the benefits of the new turret armour, and the lower glacis is still completely unprotected. Shots to the lower glacis will often detonate the ammunition in the autoloader and total the tank.
 
@@ -45,9 +45,9 @@ It is worth remembering that ERA tiles are destroyed upon absorbing fire and can
 {| class="wikitable"
 ! Composite armour !! Front (Slope angle) !! Sides
 |-
-| Hull ||'''Upper glacis:''' <br> 350 mm ''Kinetic'' <br> 480 mm ''Chemical'' <br> ''{{Annotation|FY-4|ERA}}'' <br> 140 mm ''Kinetic'' <br> 450 mm ''Chemical'' || N/A
+| Hull ||'''Upper glacis:''' <br> 350 mm ''Kinetic'' <br> 480 mm ''Chemical'' <br> ''{{Annotation|FY-4|ERA}}'' <br> 180 mm ''Kinetic'' <br> 550 mm ''Chemical'' || N/A
 |-
-| Turret || '''Turret front:''' <br> 400 mm ''Kinetic'' <br> 520 mm ''Chemical'' <br> ''{{Annotation|FY-4|ERA}}'' <br> 140 mm ''Kinetic'' <br> 450 mm ''Chemical'' || '''Rear:''' <br> ''{{Annotation|FY-4|ERA}}'' <br> 50 mm ''Kinetic'' <br> 50 mm ''Chemical''
+| Turret || '''Turret front:''' <br> 400 mm ''Kinetic'' <br> 520 mm ''Chemical'' <br> ''{{Annotation|FY-4|ERA}}'' <br> 180 mm ''Kinetic'' <br> 550 mm ''Chemical'' || '''Rear:''' <br> ''{{Annotation|FY-4|ERA}}'' <br> 50 mm ''Kinetic'' <br> 350 mm ''Chemical''
 |-
 |}
 '''Notes:'''
@@ -63,7 +63,7 @@ It is worth remembering that ERA tiles are destroyed upon absorbing fire and can
 
 {{tankMobility|abMinHp=1,240|rbMinHp=708}}
 
-The ZTZ96A's 12V150ZLD engine outputs an additional 70 horsepower compared to the ZTZ96's, which is a small but welcome improvement. It still will not win any speed races against most Western MBTs like the [[Leopard 2K]] or [[MBT-70]], and even the [[Challenger Mk.2]] can match the ZTZ96A's mobility; but its power-weight ratio is still on par with his Soviet/Russian counterparts. Oddly enough, due to the increased weight from applique ERAs, the reverse speed of -5 km/h is actually worse than the original ZTZ96, so be careful not to overextend.
+The ZTZ96A's 12V150ZLD engine outputs an additional 70 horsepower compared to the ZTZ96's, which is a small but welcome improvement. It still will not win any speed races against most Western MBTs like the [[Leopard 2K]] or [[MBT-70]], and even the [[Challenger Mk.2]] can match the ZTZ96A's mobility; but its power-weight ratio is still on par with his Soviet/Russian counterparts. Oddly enough, due to the increased weight from applique ERAs, the reverse speed of -6 km/h is actually worse than the original ZTZ96, so be careful not to overextend.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -131,6 +131,8 @@ It should be noted that the ZTZ96A's gun depression and gun elevation have decli
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
+
+The {{PAGENAME}} comes equipped with a 7.62mm coaxial machine gun as well as a roof mounted 12.7mm heavy machine gun. The [[QJC88A (12.7mm)|QJC88A 12.7mm]] machine gun has similar gun depression to the tank itself, and has a very wide angle of fire up to 85 degrees in the vertical. This lets the {{PAGENAME}} deal with close range aerial threats, such as low flying aircraft or helicopters, as well as lightly armored or open-top vehicles such as a side-on IFV or an anti-aircraft vehicle. Against enemy MBTs, however, the most the HMG will do is track them if you pepper their tracks insistently with a full belt of gunfire. The coaxial 7.62mm lacks penetration and is affixed to the tank's turret traverse, so its best use is marking targets on the map for your teammates to notice. 
 {{main|QJC88A (12.7 mm)|Type 86 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
@@ -160,11 +162,7 @@ Both of these playstyles benefit from the tank's strong armour protection, which
 
 The ZTZ96A also makes up for its mobility drawbacks with its powerful cannon. Its APFSDS shell has high penetration against both flat and angled armour, and can perform even at long ranges. The gun also makes use of a very powerful HE shell which can deal devastating damage if fired at the roofs of enemy tanks. This gun is reloaded by an autoloading system, which can get a new shell in the breech every 7.1 seconds. The reload speed is worse than that of many MBTs, and skilled players will be able to take advantage of this to destroy the ZTZ96A. It is important to try to destroy the enemy in one shot, or else there may not be enough time to try again. And, the slow reload means that dealing with multiple enemies in quick succession is more difficult than normal. Be careful about the gun's poor turret elevation speed. It can take longer than expected to get sights on a target. The ZTZ96A is equipped with thermal sights which help visibility in night battles or for spotting targets during daytime. Make good use of the thermal sights as they are one of the ZTZ96A's selling points; most contemporary Soviet tanks lack them.
 
-This vehicle is armed with a roof machine gun for use against aircraft and lightly-armoured ground targets.
-
-This tank is a good sniper thanks to its strong frontal armour and powerful gun. When sniping, poor mobility is not an issue and the long reload rate doesn't overly hurt the ZTZ96A's performance. It is also more difficult for enemies to target the ZTZ96A's weak spots. If firing from behind ridgelines, remember that the gun depression is below average, at only -5 degrees.
-
-The ZTZ96A is also effective in close-quarters brawls, where its armour provides a great advantage against the enemy. An opponent like the [[Leopard 2K]] or [[M1 Abrams]] will have to aim for the ZTZ96A's weak spots while the 125-I APFSDS can penetrate these tanks anywhere. Although the gun handling isn't outstanding, it's enough to get the job done with some situational awareness.
+This tank is a good sniper thanks to its strong frontal armour and powerful gun. When sniping, poor mobility is not an issue and the long reload rate doesn't overly hurt the ZTZ96A's performance. It is also more difficult for enemies to target the ZTZ96A's weak spots. If firing from behind ridgelines, remember that the gun depression is below average, at only -5 degrees. The ZTZ96A is also effective in close-quarters brawls, where its armour provides a great advantage against the enemy. An opponent like the [[Leopard 2K]] or [[M1 Abrams]] will have to aim for the ZTZ96A's weak spots while the 125-I APFSDS can penetrate these tanks anywhere. Although the gun handling isn't outstanding, it's enough to get the job done with some situational awareness.
 
 ===Assault mode===
 For players grinding the APFSDS in assault mode, it is recommended to bring full ammo, with around half HEAT and half HE. As the countdown goes at the start of the match, quickly find a spot where you will not get shot from every direction and stay there until you run out of ammo or get destroyed. The HEAT is great at knocking out weakly armoured Cold War tanks with a single shot, while the HE is capable of destroying those heavily protected top tier MBT. Given that you do not have APFSDS therefore lacking the ability to knock out some AI frontally, you will have to rely on assists to get scores. Firing HEAT/HE at tracks, roof mounted MG, turret ring, cannon barrel, etc can at least immobilise/disarm the AI, granting you an assist. The 7.1 second reload will be quite slow when facing a huge wave of AI so you must aim each shot carefully, but other times it is generally fast enough. The ZTZ96's armour can take quite some beating but is also prone to ammo rack explosion, or penetrating shots from the lower front plate and gun mantlet.
@@ -182,29 +180,26 @@ For players grinding the APFSDS in assault mode, it is recommended to bring full
 
 * Powerful gun with access to high-penetrating APFSDS (same as [[ZTZ96]])
 * Autoloader reloads the cannon even when putting out fires or replacing crew members
-* HE shell is extremely powerful (more than 5 kg TNT) for a MBT, can cripple or outright destroy enemies with overpressure
-* Low profile comparing to Western counterparts
+* HE shell is extremely powerful (more than 5 kg TNT) for a MBT, can cripple or outright destroy enemies via overpressure
+* Low profile compared to Western counterparts
 * FY-4 ERA cover turret cheeks and upper glacis, significantly improving protection against common foes (e.g. [[XM-1 (GM)|XM-1]], [[Leopard 2A4]])
 * Roof-mounted heavy machine gun is useful against aircraft and light targets
-* Relatively fast turret rotation speed, compared to contemporary Soviet tanks
-* 2nd generation TVD for gunner allows it to fight better in all conditions
+* Relatively fast turret rotation speed compared to contemporary Soviet tanks
+* 2nd generation TVD for gunner gives the vehicle noticeably better all-weather fighting capabilities as well as awareness
 * Slightly improved mobility over the preceding ZTZ96
 
 '''Cons:'''
 
-* Only 3 crew members, can get knocked out easily by a single round
+* Only 3 crew members, can be knocked out easily by a single round
 * Large weak spots
 ** Large and weak mantlet
-** Lower plate is very weak, with penetrating shells killing crew or exploding ammo
-* Higher BR tanks can still penetrate even through the ERA (e.g. [[Ariete (Family)|Ariete]])
+** Lower plate is very weak, with penetrating shells killing crew or detonating the autoloader's ammo carousel
 * Mobility is below average at its rank
 ** Poor reverse speed
 ** Heavier than the preceding ZTZ96 due to added FY-4 ERA - slightly lower reactive mobility
 * Poor gun handling characteristics
 ** Below average gun depression (-5°)
 ** Slow vertical gun aiming
-* Autoloader carousel is a giant ammo rack
-* No ATGM capability, unlike the T-64B and T-72B
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -61,9 +61,8 @@ The Peten is a very tough helicopter, and can usually take a couple of hits from
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between three presets:
-** 1 x 30 mm M230E-1 cannon, chin turret (1,200 rpg)
-** 1 x 30 mm M230E-1 cannon + 30 x countermeasures
+* A choice between two presets:
+** 1 x 30 mm M230E-1 cannon, chin turret (1,200 rpg) + 30 x countermeasures
 ** 1 x 30 mm M230E-1 cannon + 30 x countermeasures + IRCM
 
 The Peten has the same 30 mm cannon as the other Apaches in the game currently, and only has one belt choice. The belt carries only HEDP rounds, and can penetrate up to 51 mm of armour. The gun is fast firing, but relatively inaccurate, so shooting in close range is the best way to hit your target. If you don't mind the inaccuracy of the gun, it is a very good weapon all around. It can be locked in gunner and 3rd person view and will automatically track the target.
@@ -71,34 +70,35 @@ The Peten has the same 30 mm cannon as the other Apaches in the game currently, 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114B Hellfire|ATAS (AIM-92)|Hydra-70 M247}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 4 x ATAS (AIM-92) missiles
-* 76 x Hydra-70 M247 rockets
-* 8 x AGM-114B Hellfire missiles
-* 16 x AGM-114B Hellfire missiles
-
-The Peten can carry up to 16 Hellfire ATGMs with over 1,000 mm of pen, 76 Hydra rockets with over 200 mm of pen, or 4 Stinger AAMs. The weapons are carried on the stub wings and can be carried in several different variations. The Hellfires are excellent missiles, although since the player must keep "painting" a laser beam on the target, misses can occur if the target lock slips. The Hydra rockets are generally very effective, especially when used with the ballistic computer. 76 rockets is enough for 3-5 tanks if they are used by an experienced player. However, the Stinger AAMs are not the best in the game by any stretch, with relatively little explosive mass and only a 10G overload. They may take 2-3 hits to damage aircraft, and heavily armoured helicopters such as the Mi-28 may survive multiple hits.
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
 | rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
 |-
-! Hydra-70 M247 rockets
+! [[Hydra-70 M247]] rockets
 | || 19 || 19 || 19 || 19 ||
 |-
-! AGM-114B Hellfire missiles
+! [[AGM-114B Hellfire]] missiles
 | || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
 |-
-! ATAS (AIM-92) missiles
-|2|| || || || ||2
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || || || 2
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 4 x ATAS (AIM-92) missiles
+* 76 x Hydra-70 M247 rockets
+* 8 x AGM-114B Hellfire missiles
+* 16 x AGM-114B Hellfire missiles
+{{Navigation-End}}
+
+The Peten can carry up to 16 Hellfire ATGMs with over 1,000 mm of pen, 76 Hydra rockets with over 200 mm of pen, or 4 Stinger AAMs. The weapons are carried on the stub wings and can be carried in several different variations. The Hellfires are excellent missiles, although since the player must keep "painting" a laser beam on the target, misses can occur if the target lock slips. The Hydra rockets are generally very effective, especially when used with the ballistic computer. 76 rockets is enough for 3-5 tanks if they are used by an experienced player. However, the Stinger AAMs are not the best in the game by any stretch, with relatively little explosive mass and only a 10G overload. They may take 2-3 hits to damage aircraft, and heavily armoured helicopters such as the Mi-28 may survive multiple hits.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -155,7 +155,7 @@ Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cov
 '''Cons:'''
 
 * Stinger air-to-air missiles don't turn well, aren't reliable, and don't have enough explosive mass to guarantee a kill upon a hit
-* Hellfires are difficult to guide to air targets due to their trajectory 
+* Hellfires are difficult to guide to air targets due to their trajectory
 * 30 mm cannon only can access default belt
 * 30 mm cannon is relatively inaccurate
 

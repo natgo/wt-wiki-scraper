@@ -1,3 +1,8 @@
+{{About
+| about = tank destroyer '''{{PAGENAME}}'''
+| usage = the other version
+| link = 2S1
+}}
 {{Specs-Card
 |code=it_2s1
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -94,32 +99,41 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian tank destroyer {{Bat
 
 '''Pros:'''
 
-* Fairly mobile
-* Main armament able to deal with soft and medium targets
+* Fairly mobile with a short profile, decent for sneaking around the map
+* Main armament is able to obliterate light and medium tanks, particularly with hull shots
+* Has a backup shell to defeat targets that are difficult to destroy with HE
 * Great elevation angles
 
 '''Cons:'''
 
-* Long profile
-* Very weak armour
-* Crew placement not ideal
+* HE is unreliable against heavy tanks, many medium tanks can resist turret shots
+* Very weak armour without any compensation
+** If more than 12 shells is carried, it's almost impossible to survive a turret hit due to the weird ammo rack placement, but having such a low ammo load is bad for long-term gameplay
+** Crew placement is not ideal, any shot that didn't hit ammo racks will likely hit the gunner instead
+* Long profile, being hit while passing a crossing in a city might end badly
 * Extremely slow turret traverse
+* Commander scope is blocked by the IR spotlight, can be very annoying to deal with
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The 2S1 was used extensively by the Hungarian Army during the Cold War. These vehicles were produced in the USSR as Hungary did not possess the necessary equipment to produce these vehicles in large numbers. The 144 remaining 2S1s were phased out by the Hungarian army in 2004.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_2s1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
 * [[2S1]]
 * [[2S3M]]
+
+;Similar vehicles
 * [[Type 75 SPH]]
 
 == External links ==

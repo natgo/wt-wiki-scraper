@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British utility helicopter {{Battle-rating}}. It was introduced as a [[wt:en/news/6320-development-britain-s-top-lynx-ah-mk-1-and-premium-g-lynx-en|premium pack]] in [[Update 1.91 "Night Vision"]]. It was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]], and was reintroduced in [[Update "Hot Tracks"]] as a Golden Eagle {{ge}} purchasable vehicle.
+Following initial orders, Westland retained one unit of the [[Lynx AH.Mk.1|Lynx]] as a demonstrator and trial aircraft, which was given the civil registration '''G-LYNX'''. Built in 1978, it was taken on a range of demonstration tours across Europe and the Middle East, hoping to drive export sales. The helicopter was also used to test various equipment. Most notably, in mid-1986, G-LYNX underwent a short but extensive modification programme, including the installation of uprated Rolls-Royce Gem 60 engines and new British Experimental Rotor Programme (BERP) blades, significantly increasing its lift and power delivery. On 11 August 1986, G-LYNX, flown by Westland chief test pilot Trevor Eggington, sustained a speed of 400.87 km/h over the Somerset Levels, an FAI world speed record which it still holds to this day. Following its record-breaking flight, G-LYNX continued its role in demonstration and equipment trials until it was finally retired in 1992. In 1994, Westland agreed to entrust G-LYNX to The Helicopter Museum in Weston-super-Mare, UK, and in 2007 began restoration of G-LYNX to its record-breaking configuration using original and replacement components sourced by The Helicopter Museum. The restored G-LYNX was finally unveiled in 2011 and is now exhibited in the museum as a permanent display.
+
+It was introduced as a [[wt:en/news/6320-development-britain-s-top-lynx-ah-mk-1-and-premium-g-lynx-en|premium pack]] in [[Update 1.91 "Night Vision"]]. It was removed from the store after the [[wt:en/news/6924-shop-war-thunder-birthday-sale-in-gaijin-net-store-en|8th Anniversary Sale]], and was reintroduced in [[Update "Hot Tracks"]] as a Golden Eagle {{ge}} purchasable vehicle. The '''{{Specs|name}}''' is a very capable helicopter for its BR, featuring good flight performance, decent optics, and very capable armament. The engines on the G-LYNX are nothing special, however, it's very agile, being able to pull very tight turns that other helicopters simply can't do. The armament is great, with access to AGM-114 Hellfire ATGMs that prove very lethal. However the survivability is very poor, and also, even though it has access to thermals, the zoom on the optics is very mediocre: acquiring targets at long distance may be challenging.
 
 == General info ==
 === Flight performance ===
@@ -50,17 +52,38 @@ The G-LYNX lacks any armour protection for the crew, and due to the size and pla
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 192 x countermeasures
+* 192 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114B Hellfire|ATAS (AIM-92)|BGM-71D TOW-2|Hydra-70 M247|Oerlikon KAD-B (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[Oerlikon KAD-B (20 mm)|20 mm Oerlikon KAD-B]] cannons (570 rpg)
+| || || 1 ||
+|-
+! [[Hydra-70 M247]] rockets
+| 19 || || || 19
+|-
+! [[AGM-114B Hellfire]] missiles
+| 4 || || || 4
+|-
+! [[ATAS (AIM-92)]] missiles
+| || 2 || 2 ||
+|-
+! [[BGM-71D TOW-2]] missiles
+| 4 || || || 4
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 20 mm Oerlikon KAD-B cannon (570 rpg) + 38 x Hydra-70 M247 rockets
 * 4 x ATAS (AIM-92) missiles
 * 4 x AGM-114B Hellfire missiles
@@ -69,31 +92,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x BGM-71D TOW-2 missiles
 * 1 x 20 mm Oerlikon KAD-B cannon
 * 1 x 20 mm Oerlikon KAD-B cannon + 2 x ATAS (AIM-92) missiles + 8 x AGM-114B Hellfire missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 20 mm Oerlikon KAD-B cannons (570 rpg)
-| || || 1 ||
-|-
-! Hydra-70 M247 rockets
-| 19 || || || 19
-|-
-! AGM-114B Hellfire missiles
-| 4 || || || 4
-|-
-! ATAS (AIM-92) missiles
-| || 2 || 2 ||
-|-
-! BGM-71D TOW-2 missiles
-| 4 || || || 4
-|-
-| colspan="5" | Maximum permissible weight imbalance: 200 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

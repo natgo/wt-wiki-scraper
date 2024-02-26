@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]] and was removed from the French tech tree following the introduction of the [[Update "Winged Lions"]].
+During the Suez Crisis of 1956, the French Air Force deployed the F-84F Thunderstreak covertly with repainted Israeli markings to aid the IAF against Egypt. Employed primarily in a ground-attack role, the F-84F contributed to the military intervention force alongside British and Israeli forces. Operating from bases in the French territories in North Africa, the Thunderstreak executed bombing missions against Egyptian targets in the Sinai Peninsula. While the F-84F demonstrated its versatility in ground-attack capabilities, the conflict marked a transitional period in military aviation, with the advent of more advanced and specialized aircraft. The Suez Crisis ultimately highlighted both the strengths and limitations of the F-84F Thunderstreak in a rapidly evolving geopolitical landscape.
+
+The '''{{Specs|name}}''' was introduced in [[Update "Hot Tracks"]] and was removed from the French tech tree following the introduction of the [[Update "Winged Lions"]]. The aircraft is unobtainable today as a copy of the aircraft is now on sale in the Israeli tech tree. The aircraft plays completely the same as other F-84Fs, utilizing its airspawn to quickly pounce on targets or get to bombing points before the enemy has the time to intercept. As such, the aircraft in the bombing role can make a great SL and RP grinder due to its premium bonuses.
 
 == General info ==
 === Flight performance ===
@@ -173,6 +175,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 24 x HVAR rockets
 * 42 x FFAR Mighty Mouse rockets
@@ -243,6 +246,7 @@ The F-84F was also widely exported to NATO members. Chiefly among them were Germ
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * Skins and camouflages for the [[F-84F_(France)#Media|F-84F (France)]] can be used for the {{PAGENAME}}.
 
 == See also ==

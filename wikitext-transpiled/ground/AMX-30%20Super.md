@@ -6,14 +6,14 @@
 {{Specs-Card
 |code=fr_amx_30_super
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
-|store=6881
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''AMX-30 Super''' is the third upgraded subvariant of the [[AMX-30 (1972)|AMX-30B]], which is the second variant of the [[AMX-30 (Family)|AMX-30 main battle tank family]]. A consortium of West German companies designed the AMX-30 Super modernisation package for the AMX-30B (Model 1972) in the late 1980s. AEG, Krupp Atlas Elektronik, MTU, Wegmann & Co., Diehl, ZF Friedrichshafen, and GLS formed the consortium. The power packs were upgraded with a new MTU MB833 Ka501 diesel engine with 850 horsepower, a ZF LSG-3000 automatic transmission, a new engine cooling system, and a fuel capacity increase to 1,028 litres. Upgraded torsion bars, hydraulic shock absorbers, new somewhat wider road wheels, and Diehl Type 234 tracks are also part of the mobility upgrade. The fire control systems have been upgraded with Krupp Atlas Elektronik's MOLF-30 modular laser FCS, a two-plane fully automatic stabilization system, and modern gunner thermal imaging equipment. Additional turret armour is also available per buyer request. A single prototype was created, publicly displayed, and tested in Saudi Arabia. The upgrade was unable to find a customer.
 
-Introduced in [[Update 1.89 "Imperial Navy"]], the AMX-30 Super is the third and final upgrade of the base variant AMX-30B. The AMX-30 Super is equipped with a much-needed two-plane fully automatic stabilization system. Players can now take part in urban fights and lead assaults, which were previously impossible in practically all older variants of the AMX-30 main battle tanks. The familiar coaxial armament, the dual-purpose 20 mm GIAT M693 autocannon, has been removed, and the original M2HB Browning heavy machine gun has replaced it.
+Introduced in [[Update 1.89 "Imperial Navy"]] as a [[wt:en/news/6198-development-super-amx-30-the-stabilizer-is-ready-to-go-en|premium pack]], the AMX-30 Super is the third and final upgrade of the base variant AMX-30B. The AMX-30 Super is equipped with a much-needed two-plane fully automatic stabilization system. Players can now take part in urban fights and lead assaults, which were previously impossible in practically all older variants of the AMX-30 main battle tanks. The familiar coaxial armament, the dual-purpose 20 mm GIAT M693 autocannon, has been removed, and the original M2HB Browning heavy machine gun has replaced it.
+It was removed from the Gaijin store after the [[wt:en/news/8677-shop-the-new-year-sale-in-the-gaijinnet-store-en|2023 New Year sale]] and returned as a permanent premium vehicle you can buy with GE {{GE}} at the end of [[wt:en/news/8715-special-the-amx-30-super-is-returning-and-is-here-to-stay-en|January 2024]].
 
 == General info ==
 === Survivability and armour ===

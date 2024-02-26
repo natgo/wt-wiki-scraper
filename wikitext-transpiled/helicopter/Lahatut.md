@@ -108,6 +108,12 @@ In 1975 the Israeli Air Force received its first batch of 6 American Bell AH-1G 
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=md_500_tow_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:MD500 Taken at WMoK 2024-02-02.jpg|<small>MD500 on display at the War Memorial of Korea</small>
+</gallery>
+
 ;Videos
 {{Youtube-gallery|8JcG-_L0oLo|'''The Shooting Range #313''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.|0uTPOTTUKxY|'''The Shooting Range #309''' - ''Pages of History'' section at 04:03 discusses the MD500.}}
 

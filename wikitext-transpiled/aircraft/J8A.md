@@ -11,13 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced in [[Update 1.93 "Shark Attack"]] but was unavailable to be played in any game mode, however, it could be flown in test-flight and with the mission editor against NPC aircraft.  The aircraft was fully implemented in [[Update 1.95 "Northern Wind"]].
+The J8A was the service name adopted by Sweden for their Gloster [[Gladiator Mk II]] acquired from Great Britain. The first Gloster Gladiator was delivered to the Swedish Air Force on April 15th 1937 and locally designated as the 'Jaktplan 8' (J8). While the first few Swedish Gladiators were fitted with the Fairey three-bladed propeller, the decision was taken to switch back to the earlier fixed-pitch two-bladed wooden propeller. The new J8s would serve in a new Fighter Wing that was intended to provide an aerial defence to the Stockholm region and would consist of three squadrons operating the J8. The new Fighter Wing was created alongside 4 Bomber Wing due to the rising of tensions in Europe. The J8s saw combat in Finland as part of military aid, while the rest were transferred to training units until their eventual retirement in 1947.
 
-The {{PAGENAME}} or the original Gloster Gladiator Mk II was developed in an awkward time, in that it was an advancement in biplane technology over what was already in production, however, its time was almost up even before it rolled out the door as state-of-the-art monoplanes were beginning to take to the skies and outperform even the most advanced biplanes. Though a long future looked grim for the Gladiator, nevertheless it went into production and found a place in the Air Forces not only for the British but other nations such as the Swedish.
-
-Initially a private venture by Gloster, the SS.37 started by modifying an existing prototype, the Gloster Gauntlet and outfit it with a Bristol Mercury M.E.30 radial engine and streamline the existing structure and wings to increase aerodynamic efficiency. By the time trials started, the plane was outfitted with a Mercury IV engine and then retooled for the Mercury VIS engine. Later adjustments outfitted the aircraft with a Mercury IX engine and a two-blade wooden fixed-pitch propeller, though some later models switched to a three-bladed metal pitch-adjustable propeller.
-
-The Gladiator was the last British biplane to be produced, but it was the first one to feature a fully enclosed cockpit and though it entered service with the British, it almost immediately left the service being replaced by newer-generation fighters such as the Hawker [[Hurricane (Family)|Hurricane]] and Supermarine [[Spitfire (Family)|Spitfire]]. While the British no longer found use with the biplanes, other nations felt they would be a fine addition and countries such as Sweden and 12 other countries nabbed up 216 of the remaining Gladiators. Those picked up by Sweden were redesignated ''J8A'' (Jaktplan = fighter airplane).
+It was introduced in [[Update 1.93 "Shark Attack"]] but was unavailable to be played in any game mode, however, it could be flown in test-flight and with the mission editor against NPC aircraft. The aircraft was fully implemented in [[Update 1.95 "Northern Wind"]]. The J8A is quite average in terms of agility, and its roll rate is quite poor. However, its best asset is the high top speed of 400 km/h, one of the highest among biplanes, although it will still struggle against next-generation monoplanes like the [[I-16 (Family)|I-16]] and [[Flegel's Bf 109 A|Bf 109 A]]. Of course, against these aircraft, it will still have a turning advantage. It has access to four 8 mm MGs, which is a very standard armament for Rank I fighters, but they are very user friendly thanks to their large ammo pool and high rate of fire.
 
 == General info ==
 === Flight performance ===
@@ -26,7 +22,7 @@ The Gladiator was the last British biplane to be produced, but it was the first 
 [[File:J8a_an_trn_26_001.png|450px|thumb|right|'''{{PAGENAME}}''' on the tail of a [[Flegel%27s_Bf_109_A|Bf 109 A-1]].]]
 The {{PAGENAME}} is an average biplane in terms of manoeuvrability, however, it is very stiff to the controls when attempting to roll the aircraft. Though an excellent flyer at lower altitudes and at lower speeds, keeping its speed up will increase its effectiveness when engaging in turn battles with other aircraft. The Bristol Mercury-IX engine allows this aircraft to reach top speeds of over 400 km/h (~250 mph) and can be a contender with other biplanes, however it will start to struggle against early monoplanes such as the Heinkel [[He 112 (Family)|He 112]], Messerschmitt [[Flegel's Bf 109 A|Bf 109A]], Polykarpov [[I-16 (Family)|I-16]] and the Brewster [[F2A-1|F2A]] fighters. Though not as fast nor does it have the armament these do, it does have a turning advantage they do not and can sometimes make a quick turn around or tail-chase a faster fighter long enough to put guns on target and eliminate an enemy.
 
-The {{PAGENAME}} has a very low stall speed and with the throttle reduced to around 55%, this fighter can maintain level flight at a speed of about 80 km/h (50 mph) without nosing over. The vertical stabilizer is rather large for an aircraft of this type which lends itself to being an excellent aircraft for performing wing-over and hammerhead manoeuvres, especially when luring newer and unsuspecting enemy pilots into a rope-a-dope manoeuvre allowing for the {{PAGENAME}} to immediately change direction and pursue the tailing enemy fighter which may have themselves stalled out and set themselves up to be the perfect target for an inbound {{PAGENAME}}.  
+The {{PAGENAME}} has a very low stall speed and with the throttle reduced to around 55%, this fighter can maintain level flight at a speed of about 80 km/h (50 mph) without nosing over. The vertical stabilizer is rather large for an aircraft of this type which lends itself to being an excellent aircraft for performing wing-over and hammerhead manoeuvres, especially when luring newer and unsuspecting enemy pilots into a rope-a-dope manoeuvre allowing for the {{PAGENAME}} to immediately change direction and pursue the tailing enemy fighter which may have themselves stalled out and set themselves up to be the perfect target for an inbound {{PAGENAME}}.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -100,9 +96,9 @@ The {{PAGENAME}} has a very low stall speed and with the throttle reduced to aro
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-Like many aircraft just prior to the break out of World War II, the {{PAGENAME}} was not outfitted with any armour plating. The {{PAGENAME}} relied on its engine to get the aircraft where it needed to go and helped the aircraft get into a position where the guns should shoot down an enemy, any attempts to install armour plating would have only slowed down the already relatively slow biplane which would not have been worth the trade-off. 
+Like many aircraft just prior to the break out of World War II, the {{PAGENAME}} was not outfitted with any armour plating. The {{PAGENAME}} relied on its engine to get the aircraft where it needed to go and helped the aircraft get into a position where the guns should shoot down an enemy, any attempts to install armour plating would have only slowed down the already relatively slow biplane which would not have been worth the trade-off.
 
-To maintain the centre of balance for this fighter, the pilot, fuel tank and engine take up the fuselage from the middle to the front, any attacks on this aircraft in this zone risk hitting a critical component, ending the {{PAGENAME}}'s fight in the battle earlier than expected. Though a closed cockpit may offer the pilot protection from glancing shots, it will not do much for head-on or side attacks. 
+To maintain the centre of balance for this fighter, the pilot, fuel tank and engine take up the fuselage from the middle to the front, any attacks on this aircraft in this zone risk hitting a critical component, ending the {{PAGENAME}}'s fight in the battle earlier than expected. Though a closed cockpit may offer the pilot protection from glancing shots, it will not do much for head-on or side attacks.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -120,7 +116,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 * 2 x 8 mm Ksp m/22 machine guns, side-mounted (600 rpg = 1,200 total)
 * 2 x 8 mm Ksp m/22 machine guns, wing-mounted (400 rpg = 800 total)
 
-The Swedish Air Forces decided to not outfit their {{PAGENAME}} fighters with the standard .303 machine guns the British typically used, instead they opted to install four 8 mm Ksp m/22 machine guns, two mounted on each side of the pilot within arm's reach and the other two were mounted one under each side of the lower wing. It is important for pilots of this aircraft to determine at what distance they typically engage enemy aircraft at as convergence of the machine guns is a necessity to manage to effectively put as many bullets as possible into the enemy fighter. Typically in biplanes, a closer convergence setting of 100 to 250 m is best for close-in fighting, typically as one gets farther out from there, bullets lose some of their punch. 
+The Swedish Air Forces decided to not outfit their {{PAGENAME}} fighters with the standard .303 machine guns the British typically used, instead they opted to install four 8 mm Ksp m/22 machine guns, two mounted on each side of the pilot within arm's reach and the other two were mounted one under each side of the lower wing. It is important for pilots of this aircraft to determine at what distance they typically engage enemy aircraft at as convergence of the machine guns is a necessity to manage to effectively put as many bullets as possible into the enemy fighter. Typically in biplanes, a closer convergence setting of 100 to 250 m is best for close-in fighting, typically as one gets farther out from there, bullets lose some of their punch.
 
 Many ace pilots from all sides of the war stated that when the enemy filled the windscreen, there was no way you could not hit, thereby guaranteeing a hit and conserving ammunition. The {{PAGENAME}} does not have the machine-gun speed of those found on some Soviet biplanes as it is necessary to synchronize the firing of the guns in the fuselage to fire through the propeller arc. With 2,000 rounds of ammunition distributed between all four machine guns, it is recommended to fire in short bursts, mainly to prevent overheating and jamming of the machine guns. Typically you can continuously fire about 750 rounds of ammunition before the guns jam up and require a cool down before they can be used again.
 
@@ -207,6 +203,7 @@ In 1940, F8 Barkarby was re-equipped with the J9 (Seversky EP-1), with the J8s t
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_j8a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -219,6 +216,7 @@ In 1940, F8 Barkarby was re-equipped with the J9 (Seversky EP-1), with the J8s t
 * [[Gladiator (Family)]]
 
 ;Aircraft of comparable role, configuration and era
+
 * Grumman [[F3F-2|F3F]]
 * Polikarpov [[I-15 (Family)|I-15]]
 * Polikarpov [[I-153 M-62|I-153]]

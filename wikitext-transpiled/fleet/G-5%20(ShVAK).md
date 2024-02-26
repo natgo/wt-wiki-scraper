@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet motor torpedo boat {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the fleet release into open beta test. This is a nice modification to the regular reserve version. The 20 mm cannon has good fire rate and good penetration.
+The '''{{Specs|name}}''' was a further attempt to modify the [[G-5]] Motor Torpedo Boat, aiming to enhance its firepower in service with the Soviet Navy in 1940. The Soviet Navy replaced the traditional 12.7 mm [[DShK (12.7 mm)|DShK]] heavy machine gun with the 20 mm [[ShVAK (20 mm)|ShVAK]] autocannon, significantly improving its firepower.
+
+This boat was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the fleet release into open beta testing. Its 20 mm autocannon serves as a valuable asset on the boat, capable of shredding any lightly armoured boat with short bursts and even posing a threat to some heavily armoured vessels due to its AP belts. Additionally, its torpedoes can effectively target slower-moving vessels.
 
 == General info ==
 === Survivability and armour ===

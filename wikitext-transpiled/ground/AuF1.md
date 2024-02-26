@@ -127,12 +127,12 @@ The AuF1 has an almost unique ability to annihilate lightly armoured tanks that 
 
 '''Pros:'''
 
-* Speedy 7.5 s auto-loader, reloads faster than all Soviet that you will encounter such as the T44-100 and T54 and most other tanks
+* Speedy 7.5 s auto-loader, reloads faster than all Soviet that you will encounter such as the T-44-100 and T-54 and most other tanks
 * Unlimited ready rack,  the total ammo load (42 shells) is part of the first-stage auto-loaded ammo stowage
 * Relatively great mobility for an SPH with the same forward and reverse speed, thanks to a reversible gearbox
 * Possess modern smoke grenades that explode in the air, allowing to disengage a sticky situation quickly
 * Crew is relatively spaced out
-* High-explosive shell usually one shots any tank regardless of armour
+* High-explosive shell usually one shots any tank regardless of armour, and HE-VT shell can kill planes relatively easily
 
 '''Cons:'''
 

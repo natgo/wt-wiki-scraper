@@ -164,7 +164,7 @@ When intercepting planes, it is crucial to know what the target is. If it is a b
 '''Cons:'''
 
 * Engine overheat within a minute and a half with WEP without MEC; using 100% doesn't cool it down quickly enough
-* Very fragile with next to no protection. Will get shredded/set on fire easily, especially by any plane with M2 Brownings (e.g. F6F)
+* Very fragile with next to no protection. Will get shredded/set on fire easily, even by a single 7.62
 * Has Instructor issues. Rudder and ailerons are very unstable if the plane is banked or at low speed
 * Flaps cause the nose to pitch down hard if used below 150-200 km/h in a steep climb
 

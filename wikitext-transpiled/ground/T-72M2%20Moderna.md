@@ -11,17 +11,18 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced during [[Update "Wind of Change"]] as a reward for the [[wt:en/news/7640-event-the-battle-for-arachis-en|"Battle for Arachis"]] event.
+The '''{{Specs|name}}''' is a Slovakian upgrade of the Soviet T-72M1 main battle tank, developed in the aftermath of the dissolution of Czechoslovakia in 1992. The Slovakian tank manufacturer ZTS Dubnica, which faced a severe economic crisis and a shrinking domestic market after the split of the former federation, wanted to modernize the existing T-72M1 tanks to meet the demands of potential customers and improve the existing fleet of Slovakian armored vehicles. To achieve this, they joined forces with Belgian SABCA and French SFIM, two leading European companies in the field of systems integration. Together, they embarked on a comprehensive upgrade program, focusing on enhancing the tank’s firepower, protection, and mobility. This partnership resulted in the T-72M2 Moderna, which was equipped with an upgraded 2A46MS 125mm cannon, cutting-edge French electro-optical systems, an improved VEGA Plus fire control system, and a new modular armor package that increased the tank's protection level against kinetic and chemical threats. Other upgrades included a secondary 30mm 2A42 autocannon, a new PZL Wola S12U diesel engine, integration of Slovakian-made TAPNA APFSDS, and a new electronics package from SABCA. The T-72M2 Moderna made its debut at the IDET 1994 exhibition in Brno, Czech Republic, but failed to generate the interest of potential buyers. Later, in 1998, the Slovak Minister of Defense, Ján Sitek, signed a contract for the purchase and delivery of five T-72M2 Moderna tanks. However, only one incomplete prototype was demonstrated two years later, leaving the contract unfulfilled, and eventually the project was abandoned.
 
-The modernization of ex-Czechoslovakian license-built T-72M1 tanks with French thermal gun sights, new ERA packages, and new APFSDS, as well as an additional 30 mm autocannon for self-defence, the T-72M2 Moderna introduces Slovakia into the game with respectable firepower and overall higher mobility.
+The {{Specs|name}} was introduced during [[Update "Wind of Change"]] as a reward for the [[wt:en/news/7640-event-the-battle-for-arachis-en|"Battle for Arachis"]] event. As a modernization of ex-Czechoslovakian license-built T-72M1 tanks with French thermal gun sights, new ERA packages, and new APFSDS, the T-72M2 Moderna introduces Slovakia into the game with respectable firepower and overall higher mobility. It is also equipped with a secondary 30mm autocannon, identical to the cannon found on the BMP-2, which gives it additional firepower and utility compared to its counterparts in the [[T-72_(Family)|T-72 family.]]
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-Although it is named T-72M2, which might sound more advanced, the base model is still a T-72M which shares the same chassis as the stock [[T-72A]]. However, he M2 modification adds layers of DYNAS ERA blocks on UFP and turret front, each block can provide additional protection against up to 100 mm of kinetic penetration, making the T-72M2 tougher to be destroyed. While it might not be enough at higher tiers with an abundance of APFSDS shells which can go up to 500 mm penetration, the protection is enough to stop most tanks which have been up-tiered at longer ranges and the turret can stop up to 700 mm from kinetic penetrators.
+Although it is named the T-72M2 - which may sound more advanced than the contemporary T-72M1s - the base model is still a T-72M, which shares the same chassis as the stock [[T-72A]]. However, the M2 modification adds layers of DYNAS ERA blocks on the UFP and turret front, with each block providing additional protection of up to 100 mm of kinetic penetration, which makes the T-72M2 more survivable than the 72A. While it might not be enough to survive higher tier APFSDS that can go straight through the front plate, it is still fairly adequate protectionwise at range and the turret can stop up to 700 mm from kinetic penetrators from the front.
 
-But once again, this is still a T-72 series with a compact interior and the same AZ-172 autoloader; like any T-72 series tank, a solid penetration from enemy projectiles will very likely set it ablaze (sometimes even fuel explosion) or detonate the ammunition, launching the turret sky-high, so players need to pay extra caution to enemies just like other T-72s do.
+It is still, however, important to remember that as one of the members of the extensive T-72 family, the tank has a compact design (and as a result a compact interior as well) and shares the same AZ-172 autoloader - any penetrating hit has a high chance of setting off either the fuel tanks or ammunition, and even if you were lucky in that regard losing just two crew is an automatic vehicle loss. As such, it is best to exercise a level of caution when playing the vehicle, similar to its other cousins.
+
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -48,7 +49,7 @@ But once again, this is still a T-72 series with a compact interior and the same
 
 {{tankMobility|abMinHp=1317|rbMinHp=752}}
 
-Like later T-72s, the T-72M2 has its engine upgraded to a Polish PZL Wola S12U diesel engine with 850 hp output, which is a bit higher than T-72B's V-84S with 840 hp, though still the highest of the A and M series T-72s. The T-72M2 shares the same top speed of 60 km/h and infamous -4.2 km/h reverse speed, as well as the 44.5 ton weight of the later T-72B. Although 10 hp difference is not too much, the overall mobility is still worse than NATO counterparts.
+Like later T-72s, the T-72M2 has its engine upgraded to a Polish PZL Wola S12U diesel engine with an engine output of 850 HP, which is slightly higher than the T-72B's V-84S with 840 hp, and is the strongest engine in any A and M series T-72. The T-72M2 shares the same top speed of 60 km/h and infamous -4.2 km/h reverse speed, as well as the 44.5 ton weight, of the later T-72Bs. Although a 10 hp difference is not much, the overall mobility of the T-72M2 is still worse than its NATO counterparts. 
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -110,7 +111,7 @@ Like later T-72s, the T-72M2 has its engine upgraded to a Polish PZL Wola S12U d
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
 {{main|2A42 (30 mm)}}
 
-A very distinctive feature of the T-72M2 is the 2A42 30 mm autocannon mounted on the right side of the turret. The gun is highly destructive against light vehicles, low-flying aircraft, and vehicles showing their sides; alternatively, it can also be used to knock out enemies' barrels. It is considered as a "machine gun" and is operated by the vehicle gunner, sharing the same optics and thermals as the main gun.
+A very distinctive feature of the T-72M2 is the 2A42 30 mm autocannon mounted on the right side of the turret. The gun is highly destructive against light vehicles, low-flying aircraft, and vehicles showing their sides; alternatively, it can also be used to knock out enemies' barrels. It is considered as a "machine gun" and is operated by the vehicle gunner, sharing the same optics and thermals as the main gun. The gun uses the stock belt of the 2A42, and changing the belt to any other unlockable belt found on other vehicles (such as the [[BMP-2M]]) like the APDS and APDS-FS belts are unavailable. 
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -163,31 +164,33 @@ A very distinctive feature of the T-72M2 is the 2A42 30 mm autocannon mounted on
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The T-72M2 Moderna excels in mid- to long-range engagements with its powerful and accurate 125mm cannon. The recommended tactic is similar to most other Russian MBTs at this BR: find targets at range using the thermal sights, then use the laser rangefinder and well-endowed APFSDS or HEATFS projectiles to knock out the target from as far away from your vehicle as possible.
+The T-72M2 Moderna excels in mid- to long-range engagements with its powerful and accurate 125mm cannon. The recommended tactic is similar to most other Russian MBTs at this BR: find targets at range using the thermal sights, then use the laser rangefinder and highly capable APFSDS shells to knock out the target from as far away from your vehicle as possible. This is due to some inherent vehicle weaknesses, some of which will appear below, such as the slow turret traverse and poor reverse gear. At range, the T-72M2 suffers far less from these design drawbacks and with its 2nd generation thermal sights for both the gunner and commander, you can scour the battlefield quickly for enemy vehicles. NATO MBTs such as the [[Leopard 2A4]] and [[M1 Abrams]] this tier only have a 1st generation thermal sight for the gunner and lack thermals on the commander sight (or lack a commander sight entirely!), and as such have to rely on a much narrower FOV than your commander sight and with a lower resolution. However, do keep in mind that if your commander is knocked out, you will be unable to exploit this advantage.8
 
-When forced into close-range combat, this vehicle is very mediocre compared to NATO vehicles with its painful reverse speed, lack of neutral steering, and subpar turret traverse. However, the liberal application of ERA, slat armour, and the underlying composite armour can sometimes save you from smaller-calibre or poorly-aimed shells. IFVs in particular, even ones with high-penetrating APFSDS like the [[M3A3 Bradley]] and [[Strf 9040C]], will be almost helpless against the frontal protection of a Moderna.
+When forced into close-range combat, this vehicle is very mediocre compared to NATO vehicles with its painful reverse speed, lack of neutral steering, and subpar turret traverse. However, the liberal application of ERA, slat armour, and the underlying composite armour can sometimes save you from smaller-calibre or poorly-aimed shells. IFVs in particular, even ones with high-penetrating APFSDS like the [[M3A3 Bradley]] and [[Strf 9040C]], will be almost helpless against the frontal protection of a Moderna, while your 30mm autocannon can shred through them with little worry. 
 
-This vehicle will feel very reminiscent of the [[T-72AV (TURMS-T)]] with its almost identical gun and armour performance.
+Against enemy air units, your survivability is for the most part decent. You have a Laser Warning System (LWS), and this alerts you of both enemy tanks using their laser rangefinders near you as well as enemy laser guided munitions. Considering the fact that a sizable portion of enemy guided air to ground ordinance such as the [[AGM-114B Hellfire]] and [[AGM-114K Hellfire II]] are laser guided, you can use your LWS as an early warning for inbound ordinance, allowing you to deploy a smokescreen, turn around (as this is faster than reversing), and reposition to a safer spot. You can differentiate an airborne lock from a ground lock by the length of the warning - ground vehicles only need to rangefind once or twice, while air launched ATGMs from strike drones, helicopter and the odd aircraft continuously trigger the LWS. 
+
+This vehicle will feel very reminiscent of the [[T-72AV (TURMS-T)]] with almost identical gun and armour performance. The Moderna has around 1 more HP/t, but overall both vehicles traverse the map similarly and can go through similar spots.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* DYNAS ERA provides up to 100 mm of kinetic protection
+* DYNAS ERA provides up to 100 mm of additional kinetic protection
 * Has access 2nd generation thermals for both the gunner and commander, which are also only a Tier II modification
-* Powerful 30 mm autocannon tears through light vehicles and aircraft and is operated by the gunner
+* Powerful 30 mm autocannon tears through light vehicles and aircraft, and will operate even on 2 crew as the gunner controls it
 * Has commander fire control
-* Good situational awareness thanks to LWS
-* TAPNA APFSDS provides greater penetrative capabilities against enemies, even better than the 3BM42 Mango used by its Russian contemporaries
+* Good situational awareness thanks to LWS, especially against airborne guided munitions
+* TAPNA APFSDS provides greater penetrative capabilities against enemies, even better than the common 3BM42 round used by its Russian contemporaries
 * Launches 11 smoke grenades per charge (11/22)
 
 '''Cons:'''
 
 * Poor turret traverse and gun handling
-* * Somewhat sluggish with a horrible reverse speed
-* Fixed 8x gunsight make engagements a struggle
-* Hull and turret armour can easily be penetrated by most rounds it faces especially in uptiers
+* Somewhat sluggish compared to its NATO counterparts with a horrible reverse speed
+* Fixed 8x gunsight decreases vehicle versatility
+* Hull and turret armour can easily be penetrated by most contemporary rounds
 * 30 mm autocannon has no traverse of its own, can only move vertically
 * Does not have access to ATGMs
 

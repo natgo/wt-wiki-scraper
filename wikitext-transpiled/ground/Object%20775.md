@@ -41,7 +41,7 @@ The mobility is solidly average. The Object 775 is very similar to the T-62, wit
 
 The vehicle has acceptable terrain-crossing capability but doesn't have the best torque for going up bigger hills or for keeping speed up on bumpy terrain.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=994|rbMinHp=619}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -57,9 +57,9 @@ The 775 is armed with the [[D-126 (125 mm)|125mm D-126]] gun-launcher system. Th
 
 The Rubin ATGM is a very solid missile, providing users 500mm of penetration while having great speed (550 m/s) and decent range (2.49 miles). The only downside is that right after leaving the barrel, the missile dips down before coming back into the center of the sight, making firing from behind cover difficult.
 
-The BUR High-Explosive rocket is less functional but can be fun to surprise enemies with. The round drops very quickly and there is no laser rangefinder, making anything but point-blank shots an exercise in skill. The warhead contains the equivalent of 3.96kg of TNT, making it a serious threat to lightly armored targets.
+The BUR High-Explosive rocket is less functional but can be fun to surprise enemies with. The round drops very quickly and there is no laser rangefinder, making anything but point-blank shots an exercise in skill. The warhead contains the equivalent of 3.96kg of TNT, making it a serious threat to lightly armoured targets.
 
-Given how condensed the ammunition is, you can comfortably take a full loadout. The main ammo storage is in the front of the tank, protected by heavily sloped armor and internal fuel tanks. The central autoloader holds eight rounds, allowing you to fire a new projectile every . The autoloader also gets replenished extremely fast so running out of ammo in the carousel is not life-threatening, unlike many other ATGM vehicles.
+Given how condensed the ammunition is, you can comfortably take a full loadout. The main ammo storage is in the front of the tank, protected by heavily sloped armour and internal fuel tanks. The central autoloader holds eight rounds, allowing you to fire a new projectile every . The autoloader also gets replenished extremely fast so running out of ammo in the carousel is not life-threatening, unlike many other ATGM vehicles.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -70,10 +70,10 @@ Given how condensed the ammunition is, you can comfortably take a full loadout. 
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 24 || rowspan="2" | -5°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__
+| rowspan="2" | 24 || rowspan="2" | -5°/+18° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 17.6 || 24.4 || 29.6 || 32.7 || 34.8 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 11.9 || 14.0 || 17.0 || 18.8 || 20.0
 |-
 |}
 
@@ -103,7 +103,7 @@ Given how condensed the ammunition is, you can comfortably take a full loadout. 
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|PKT (7.62 mm)}}
 
-The only machine gun the 775 has available is a coaxial 7.62mm PKT. This weapon is next to useless as open-top vehicles are exceedingly rare and it doesn't have the targeting speed or power to hurt any air vehicles.
+The only machine gun the 775 has available is a coaxial 7.62 mm PKT. This weapon is next to useless as open-top vehicles are exceedingly rare and it doesn't have the targeting speed or power to damage any air vehicles.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -111,64 +111,65 @@ The only machine gun the 775 has available is a coaxial 7.62mm PKT. This weapon 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 2,000 (250) || 700 || - || -
 |-
 |}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-'''Gameplay Summary'''
 
-Object 775 plays very similarly to the [[IT-1]], another rocket only tank in the Soviet Tech tree. However, unlike IT-1, the 775 can also engage somewhat effectively in the CQC if needed. Like most ATGM tank destroyers, being only equipped with the Rubin anti-tank missile can put the 775 at a disadvantage in many situations when facing conventional enemies armed with a cannon, but it does have the capacity to excel in certain situations, like setting ambushes.
+The Object 775 plays very similarly to the [[IT-1]], another Soviet missile-only tank. However, unlike the IT-1, the Object 775 can also engage somewhat effectively in the CQC if needed. Like most ATGM tank destroyers, being only equipped with the Rubin anti-tank missile can put the Object 775 at a disadvantage in many situations when facing conventional enemies armed with a cannon, but it does have the capacity to excel in certain situations, like setting ambushes.
 
 '''Close Range Engagement'''
 
-Unlike [[IT-1]], 775 has some chance in CQC due to its very low profile and the adjustable suspension can help to "level" the battlefield. However, player should weight their options, because once committed to the attack, backing out is difficult due to the signature Soviet horrendous reverse speed.
+Unlike the [[IT-1]], the Object 775 has some chance in CQC due to its very low profile, and the adjustable suspension can help to "level" the battlefield. However, the player should carefully consider their options, because once committed to the attack, backing out is difficult due to the signature Soviet horrendous reverse speed.
 
-Needless to say, some attention must be paid to your team status as well, as sometimes an enemy might get very bold if all allies surrounding you have died, and since you only have one launcher, fear is all you have to protect the 775 from a large tank squad.
+Needless to say, some attention must be paid to your team status as well, as sometimes an enemy might get very bold if all allies surrounding you have died, and since you only have one launcher, fear is all you have to protect the Object 775 from a large tank squad.
 
 '''Mid to Long Range Engagement'''
 
-The mid to long range is the optimal engagement range for many ATGM tank destroyers and 775 is no exception. However, player must use terrain a bit differently, as unlike IT-1, the 775 doesn't have a top mounted launcher to shoot over the hills but a 125 mm D-126 rifled missile launcher.
+The mid to long range is the optimal engagement range for many ATGM tank destroyers and the Object 775 is no exception. However, player must use terrain a bit differently, as unlike the IT-1, the Object 775 doesn't have a top mounted launcher to shoot over the hills but a 125 mm D-126 rifled missile launcher.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
 
 * Extremely low profile, as well as an adjustable suspension
 * Mouse-guided ATGMs
-* Autoloaded
-* Decent frontal armor
-
-*
+* Fast auto-loader
+* Decent frontal armour
 
 '''Cons:'''
 
-* Only two crewmembers
+* Only two crew members
 * Autoloader is relatively large
 * Terrible reverse speed
 * Poor depression and elevation angles
-* No heavy caliber machine gun
-
-*
+* No heavy calibre machine gun
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-=== Devblog History ===
+
+=== [[wt:en/news/8543-development-object-775-the-flattened-pancake-en|Devblog]] ===
 In the early 1960s, the USSR began to develop a promising medium tank with guided missile weapons. Engineers from the Chelyabinsk Tractor Plant presented two prototypes for testing of the Object 775 tank, featuring Rubin anti-tank guided missiles, which are launched from the barrel of the tank. In 1968, the project was closed due to the concentration of efforts on the Object 434 tank project (which became the T-64A). The only surviving Object 775 is on display at the Patriot Park in Kubinka near Moscow.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+;Videos
+{{Youtube-gallery|avl9dE1525Y|'''The Shooting Range #379''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.'' -->'''Other vehicles with gun-launcher systems'''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+'''Other vehicles with gun-launcher systems'''
 
 * [[M551|M551 Sheridan]] - US light tank
 * [[M60A2|M60A2 Starship]] - US medium tank
 * [[KPz-70]]/[[MBT-70]]/[[XM-803]] - US/German main battle tanks
-* [[AMX-30 ACRA]]/[[AMX-10M]] - French tanks with the 142mm ACRA gun-launcher
+* [[AMX-30 ACRA]]/[[AMX-10M]] - French tanks with the 142m m ACRA gun-launcher
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

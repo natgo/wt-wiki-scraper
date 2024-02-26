@@ -37,7 +37,7 @@ The Type T-1 is equipped with two '''''[[Type 92 navy (7.7 mm)|Type 92 (7.7 mm)]
 
 * Universal- The stock belt, contains a split of armour piercing and armour piercing incendiary rounds
 * AP- Contains predominantly armour piercing rounds
-* API- Contains predominantly armour piercing incendiary rounds
+* API- Contains predominantly incendiary rounds
 
 Even if it's not by a large margin, the API rounds do deal the most damage, structurally and internally. They also do the most damage to aircraft as well, a good burst on target will usually take out most of the weak biplanes the {{PAGENAME}} will most likely be coming across in the low ranks. To maximise the effectiveness of the guns, stay at a close range, as past around 750 m or so the guns really struggle to do any meaningful damage. The firing arcs of the two turrets are not very versatile either, to fire with both turrets the {{PAGENAME}} needs to be shooting either directly ahead or behind, at either side of the boat only one turret will be able to fire, leading to a tiny amount of damage output.
 [[File:Type T-1 4.jpg|left|thumb|429x429px|The Type T-1, destroying an enemy boat with depth charges ]]
@@ -85,10 +85,12 @@ Boats of this type were developed in 1939 as part of the fourth construction pro
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_t1_1941 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

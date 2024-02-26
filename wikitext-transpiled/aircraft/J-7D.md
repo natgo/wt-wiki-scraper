@@ -11,7 +11,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The J-7D (Chinese: 歼-7D型歼击机, AKA J-7IIIA 歼-7IIIA; unified NATO codename: Fishcan) was an upgrade of the previous J-7C (J-7III), which was based on Egyptian MiG-21MFs with domestic avionics and HUD. The PLAAF obtained MiG-21MF aircraft from Egypt, and due to the slow progress of the J-8 development program and the need for interceptors to counter potential Soviet threats, there were plans to replace the J-8II series with a reverse-engineered variant. Although the development of the J-7D was successful and showed improved performance in some aspects, the J-8II program and the introduction of the Su-27SL Flanker-B to the PLAAF limited the demand for the J-7D, resulting in only a few orders being placed to utilize the prebuilt airframes.
+The J-7D (Chinese: 歼-7D型歼击机, AKA J-7IIIA 歼-7IIIA; unified NATO codename: Fishcan) was an upgrade of the previous J-7C (J-7III), which was based on Egyptian MiG-21MFs with domestic avionics and HUD. The PLAAF obtained MiG-21MF aircraft from Egypt, and due to the slow progress of the J-8 development program and the need for interceptors to counter potential Soviet threats, there were plans to replace the J-8II series with a reverse-engineered variant. Although the development of the J-7D was successful and showed improved performance in some aspects, the J-8II program and the introduction of the Su-27SK Flanker-B (and its licensed CKD/SKD variant, J-11A) to the PLAAF limited the demand for the J-7D, resulting in only a few orders being placed to utilize the prebuilt airframes.
 
 Introduced in [[Update "Apex Predators"]], the J-7D offers very similar performance to the late MiG-21 series but with a better engine and increased fuel capacity. While it lacks missiles for head-on/interception missions and large-calibre rockets like S-24s, its combat capabilities are still substantial with its IR AAMs and variety of Chinese ground-attack weaponries.
 
@@ -184,6 +184,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x PL-2 missiles
 * 4 x PL-5B missiles

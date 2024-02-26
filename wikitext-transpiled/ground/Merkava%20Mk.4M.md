@@ -64,7 +64,7 @@ Introduced in [[Update "Wind of Change"]], the Merkava Mk.4M is the ultimate sub
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 46 || rowspan="2" | -7°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 32.4 || 44.8 || 54.4 || 60.2 || 64.0 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
+| rowspan="2" | 46 || rowspan="2" | -7°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 32.4 || 44.8 || 54.4 || 60.2 || 64.0 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 20.2 || 23.8 || 28.9 || 32.0 || 34.0
@@ -103,7 +103,7 @@ Introduced in [[Update "Wind of Change"]], the Merkava Mk.4M is the ultimate sub
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,000 (200) || 577 || N/A || N/A
+| Coaxial || 1,000 (200) || 575 || - || -
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -112,9 +112,9 @@ Introduced in [[Update "Wind of Change"]], the Merkava Mk.4M is the ultimate sub
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 6,000 (200) || 600 || N/A || N/A
+| Coaxial || 6,000 (200) || 960 || - || -
 |-
-| Pintle || 1,800 (200) || 600 || -5°/+50° || -60°/+120°
+| Pintle || 1,800 (200) || 960 || -5°/+50° || -60°/+120°
 |-
 |}
 

@@ -222,53 +222,53 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 Two different tactics are recommended when flying the MiG-23M:
 
-* Low altitude, high speed, side of the map. Try to get as much speed as possible maintaining a very low altitude and go to the right if you want a more head-on engagement or to the left if you want a side/back of the enemy attack position (in a majority of maps players go to their left). Use boom and zoom tactics to minimize danger and revert to dogfighting with manually unswept wings when the enemy team thins out. Better used with a squadron, the MiG-23M can eliminate several enemy aircraft if played right with 3 teammates and using the all-aspect IR-guided R-23T missile. More applicable in uptiers, with a heavy emphasis on boom and zoom as the manuverability of the MiG-23M is poor compared to top tier aircraft.
-* High altitude, high speed, together with your team, BVR. Fly to the side of a map at an angle, accelerate up to Mach 1, then climbing up to 5-7km. Turn back to face the furball and use your radar to lock onto high altitude enemy targets (if any). Once all high altitude targets are eliminated or have dove down to the deck, dive down to the deck and use boom and zoom tactics with your R-60Ms to minimize danger. Once the enemy team has thinned out, manually unsweep your wings in order to enhance manuverability and dogfight individual planes in a ratefight. Not reccomended fighting this style when flying in an uptier, as the R-23R missile, radar, aircraft performance, and countermeasure count is not up to par for top tier BVR engagements or dogfighting.
+* Low altitude, high speed, side of the map. Try to get as much speed as possible maintaining a very low altitude and go to the right if you want a more head-on engagement or to the left if you want a side/back of the enemy attack position (in a majority of maps players go to their left). Use boom and zoom tactics to minimize danger and revert to dogfighting with manually unswept wings when the enemy team thins out. Better used with a squadron, the MiG-23M can eliminate several enemy aircraft if played right with 3 teammates and using the all-aspect IR-guided R-23T missile. More applicable in uptiers, with a heavy emphasis on boom and zoom as the manoeuvrability of the MiG-23M is poor compared to top tier aircraft.
+* High altitude, high speed, together with your team, BVR. Fly to the side of a map at an angle, accelerate up to Mach 1, then climbing up to 5-7 km. Turn back to face the furball and use your radar to lock onto high altitude enemy targets (if any). Once all high altitude targets are eliminated or have dove down to the deck, dive down to the deck and use boom and zoom tactics with your R-60Ms to minimize danger. Once the enemy team has thinned out, manually unsweep your wings in order to enhance manoeuvrability and dogfight individual planes in a ratefight. Not recommended fighting this style when flying in an uptier, as the R-23R missile, radar, aircraft performance, and countermeasure count is not up to par for top tier BVR engagements or dogfighting.
 
 No matter which tactic though, it is recommended to engage your enemy from their front hemisphere, since you can carry all-aspect IR missiles. This way it leaves your enemy less time to react and dodge the missiles.
 
 Also, since both the R-60Ms and the R-23Ts have a relatively wide FOV, it is recommended to lock the enemy using your IRST before engaging the missile lock to slave the missile, and better utilise their wide FOV.
 
-Only use the R-60Ms at close range, around 1.5 km. They perform best under such range, and it also gives your enemy less reaction time to release the countermeasures, since R-60Ms are easily tricked by flares. However, if the enemy target has no flares and you are closing in at high speed, ranges up to 2.5km can be reached even at the deck (under ideal conditions).
+Only use the R-60Ms at close range, around 1.5 km. They perform best under such range, and it also gives your enemy less reaction time to release the countermeasures, since R-60Ms are easily tricked by flares. However, if the enemy target has no flares and you are closing in at high speed, ranges up to 2.5 km can be reached even at the deck (under ideal conditions).
 
-When firing R-60Ms in headons, try to wait until the last possible moment to launch and pull off the head on (pull off when you see enemy tracers) to minimize the amount of time your enemy has to react to drop countermeasures, maximizing probability of a hit.
+When firing R-60Ms in head-ons, try to wait until the last possible moment to launch and pull off the head on (pull off when you see enemy tracers) to minimize the amount of time your enemy has to react to drop countermeasures, maximizing probability of a hit.
 
-When in a 1v1 situation, manually unsweep your wings and get into a ratefight to best utilize the performance if your aircraft. The MiG-23M is unable to pull off high AoA manuvers, so one circle fights are not reccomended unless it is against an unmanuverable enemy like a Phantom.
+When in a 1v1 situation, manually unsweep your wings and get into a ratefight to best utilize the performance if your aircraft. The MiG-23M is unable to pull off high AoA manoeuvres, so one circle fights are not recommended unless it is against a lesser manoeuvrable enemy like a Phantom.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Very high low-altitude top speed, could outrun any of your opponents.
-* Reasonably high acceleration for its size.
-* Very good high speed acceleration.
-* Variable swept-wing aircraft, allowing for decent performance at any speed.
-* Amazing energy retention if wings are fully unswept.
-* Contains IRST tracking system and decent radar that allows you to track aerial targets at ground level.
-* HUD displays speed and altitude information, most useful in simulator mode.
-* Varied armament preset selection.
-* R-23T and R-60M all-aspect missiles.
-* Good R-23R missiles for long range engagements.
-* Can carry 6 x R-60M AAMs.
+* Very high low-altitude top speed, could outrun any of your opponents
+* Reasonably high acceleration for its size
+* Very good high speed acceleration
+* Variable swept-wing aircraft, allowing for decent performance at any speed
+* Amazing energy retention if wings are fully unswept
+* Contains IRST tracking system and decent radar that allows you to track aerial targets at ground level
+* HUD displays speed and altitude information, most useful in simulator mode
+* Varied armament preset selection
+* R-23T and R-60M all-aspect missiles
+* Good R-23R missiles for long range engagements
+* Can carry 6 x R-60M AAMs
 
 '''Cons:'''
 
-* Underwhelming instantaneous turn rate, cannot pull some extreme windows easily.
-* Loses quite a lot of speed in turns if manual wing sweep is not properly utlized.
-* Low countermeasures count.
-* Low ammo count and low muzzle velocity for the GSh-23L cannon.
-* R-60Ms are easily distracted by flares.
-* R-23T/R-23R air-to-air missiles struggle in close combat.
-* Radar is not on par with NATO counterparts.
+* Underwhelming instantaneous turn rate, cannot pull some extreme windows easily
+* Loses quite a lot of speed in turns if manual wing sweep is not properly utlized
+* Low countermeasures count
+* Low ammo count and low muzzle velocity for the GSh-23L cannon
+* R-60Ms are easily distracted by flares
+* R-23T/R-23R air-to-air missiles struggle in close combat
+* Radar is not on par with NATO counterparts
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The [[MiG-21_(Family)|MiG-21]] was the main Soviet fighter jet from the 1960's onward. However, the jet left much to be desired. The nose cone radar was too small and weak to be useful for BVR engagements, and the range of the MiG-21 was notoriously small. Compared to the American [[F-4_Phantom_II_(Family)|F-4 Phantom]], the MiG-21 was far behind in avionics and missile armarment. To address these shortfalls, a new Soviet fighter jet was concived. The MiG 21 had a short take off run, which the Soviets were pleased by as it gave the MiG-21 the ability to use improvised runways in a potential Cold War gone hot situation, so the successor to the MiG-21 would also have to have a short takeoff run. One prototype of the MiG-23 was the Ye-8, which resembled a larger MiG-21 with canards, an underbelly air intake and a large radome. Another was the 23-01 or Izdeliye 92, which resembled a larger MiG-21 with side mouted air intakes, a large radome, and most notably, liftjets to shorten its takeoff run. In the end, a variable sweep wing system was chosen to give the MiG-23 a short takeoff run.
+The [[MiG-21_(Family)|MiG-21]] was the main Soviet fighter jet from the 1960's onward. However, the jet left much to be desired. The nose cone radar was too small and weak to be useful for BVR engagements, and the range of the MiG-21 was notoriously small. Compared to the American [[F-4_Phantom_II_(Family)|F-4 Phantom]], the MiG-21 was far behind in avionics and missile armament. To address these shortfalls, a new Soviet fighter jet was conceived. The MiG 21 had a short take off run, which the Soviets were pleased by as it gave the MiG-21 the ability to use improvised runways in a potential Cold War gone hot situation, so the successor to the MiG-21 would also have to have a short takeoff run. One prototype of the MiG-23 was the Ye-8, which resembled a larger MiG-21 with canards, an underbelly air intake and a large radome. Another was the 23-01 or Izdeliye 92, which resembled a larger MiG-21 with side-mounted air intakes, a large radome, and most notably, liftjets to shorten its takeoff run. In the end, a variable sweep wing system was chosen to give the MiG-23 a short takeoff run.
 
-The first variants of the MiG-23 inherited the same avionics system as the MiG-21, lacking look down radars. Later, the MiG-23 was equiped with the Sapfir-23L radar, allowing it to fire the considerably more capable R-23R missile (compared to the R-3R missile), yet the Sapfir-23L still lacked look-down capabilities. Finally, the Sapfir-23D was equipped to the MiG-23, changing its designation to the MiG-23M. The Sapfir-23D had look-down capabilities, greatly enhancing the performance of the radar.
+The first variants of the MiG-23 inherited the same avionics system as the MiG-21, lacking look down radars. Later, the MiG-23 was equipped with the Sapfir-23L radar, allowing it to fire the considerably more capable R-23R missile (compared to the R-3R missile), yet the Sapfir-23L still lacked look-down capabilities. Finally, the Sapfir-23D was equipped to the MiG-23, changing its designation to the MiG-23M. The Sapfir-23D had look-down capabilities, greatly enhancing the performance of the radar.
 
-Although the MiG-23M came with revolutionary features to the Soviet Air Force, the MiG-23 had its shortcomings. Primarily, the performance of the airframe. The wing sweep mechanism was difficult to near impossible to operate in a dogfight, so Soviet pilots used 3 settings: no sweep for takeoff and landings, a 45 degree sweep for standard flight and dogfights, and maximum sweep for high speed flight. The 45 degree sweep was used in dogfights, greatly reducing the agility of the MiG-23. More experienced pilots would reduce the wing sweep to 33 degrees, increasing lift and agility, but this made the aircraft unstable and difficult to fly, as well as hampering acceleration. Additionally, at high angles of attack, the MiG-23 would become very unstable and difficult to fly. Due to these shortcomings in performance, the MiG-23 pilots were relegated to hit and run tactics, ofte not even engaging in a dogfight when merging with an adversery. The only manuver the MiG-23 excelled at was vertical loops, as the engine power could allow for steep climbs.
+Although the MiG-23M came with revolutionary features to the Soviet Air Force, the MiG-23 had its shortcomings. Primarily, the performance of the airframe. The wing sweep mechanism was difficult to near impossible to operate in a dogfight, so Soviet pilots used 3 settings: no sweep for takeoff and landings, a 45 degree sweep for standard flight and dogfights, and maximum sweep for high speed flight. The 45 degree sweep was used in dogfights, greatly reducing the agility of the MiG-23. More experienced pilots would reduce the wing sweep to 33 degrees, increasing lift and agility, but this made the aircraft unstable and difficult to fly, as well as hampering acceleration. Additionally, at high angles of attack, the MiG-23 would become very unstable and difficult to fly. Due to these shortcomings in performance, the MiG-23 pilots were relegated to hit and run tactics, often not even engaging in a dogfight when merging with an adversary. The only manoeuvre the MiG-23 excelled at was vertical loops, as the engine power could allow for steep climbs.
 
 However, the MiG-23 was still a formidable aircraft in the right hands. The extreme acceleration and top speed allowed for great use of hit and run tactics, making it a formidable interceptor.
 

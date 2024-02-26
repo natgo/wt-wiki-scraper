@@ -10,11 +10,14 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
+The '''A6M5 mod. 52 Hei''', designated as the '''Type 0 Carrier-based Fighter Model 52C ({{Annotation|零式艦上戦闘機五二型丙|Rei Shiki Kanjō Sentōki, Go Ni Gata Hei}})''', was the third and last minor modification of the [[A6M5]]. It offers the most firepower of the [[A6M]] series, with the inclusion of a [[Type 3 (13.2 mm)]] HMG in each wing and 4 rocket racks underneath, and on top of that, the last [[Type 97 (7.7 mm)]] was removed. Next to armament changes, it also increases the survivability of the plane with thicker wing armour, and armour was installed behind the pilot seat. Because of the gain in weight, this variant was used mainly for intercepting B-29s and special attacks.
 
-The A6M5 mod. 52C (Hei) was the third and last minor modification of the [[A6M5|A6M5 mod. 52]], it offers the most firepower of the [[A6M]] series with the inclusion of 1 [[Type 3 (13.2 mm)]] HMG in each wing and 4 rocket racks underneath, and on top of that, the last [[Type 97 (7.7 mm)]] was removed. Next to armament changes it also increases the survivability of the plane with thicker wing armour, armour was put behind the pilot seat.
+It was introduced in [[Update "Ixwa Strike"]]. Together with the [[A6M6c|A6M6 mod.53]], the A6M5 mod. 52C is a heavy interceptor attacker variant of the [[A6M]] which deplete their manoeuvrability for more armament, ordnance and survivability. This A6M shouldn't be conventionally used like its previous models, being far heavier and less manoeuvrable leaves it to be forced in Boom-N-Zoom approaches, bomber interception and potentially ground attacking.
 
-Because of the gain in weight, this variant was used mainly for intercepting B-29s and special attack.
+;Nicknames
+* IJN Pilot nickname: ''Reisen'' (零戦) / ''Zerosen'' (ゼロ戦) <small>(Abbreviation of 0 - {{Annotation|戦|Fight(er aircraft)}})</small>.
+* Allied reporting name: ''Zeke / Zero''.
+
 == General info ==
 === Flight performance ===
 [[File:A6M51.png|thumb|A6M5 Hei cruising at tree top level]]

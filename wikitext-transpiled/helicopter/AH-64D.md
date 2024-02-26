@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-Following studies done in the late 1980's on the AH-64A/B Apache, and funding in 1991, the US army began to look at upgrading their existing fleet of aircraft, leading to the AH-64B+ and the subsequent '''{{Specs|name}}''' "Apache Longbow". Featuring the newer AN/APG-78 "Longbow" mast-mounted fire control radar (FCR) as well as upgraded avionics and weaponry, the '''{{Specs|name}}''' is a formidable attack helicopter and successor to the AH-64A. 
+Following studies done in the late 1980's on the AH-64A/B Apache, and funding in 1991, the US army began to look at upgrading their existing fleet of aircraft, leading to the AH-64B+ and the subsequent '''{{Specs|name}}''' "Apache Longbow". Featuring the newer AN/APG-78 "Longbow" mast-mounted fire control radar (FCR) as well as upgraded avionics and weaponry, the '''{{Specs|name}}''' is a formidable attack helicopter and successor to the AH-64A.
 
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. Although lacking the AIM-9Ls found on its predecessor, the '''{{Specs|name}}''' can carry up to 16 AGM-111K Hellfire II missiles. 
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. Although lacking the AIM-9Ls found on its predecessor, the '''{{Specs|name}}''' can carry up to 16 AGM-111K Hellfire II missiles.
 
 == General info ==
 === Flight performance ===
@@ -68,19 +68,43 @@ The AH-64D Apache longbow, has only limited armour protection installed with bul
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm M230E-1 cannon (1,200 rpg)
-** 1 x 30 mm M230E-1 cannon + 30 x countermeasures
+* 1 x 30 mm M230E-1 cannon, chin turret (1,200 rpg)
+* 30 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-[[File:AH-64D Countermeasures.jpg|thumb|300px|AH-64D dispenses flare series as a countermeasure against heat-seeking missiles.]]
-{{main|AGM-114K Hellfire II|APKWS II (M151)|APKWS II (M282)|ATAS (AIM-92)}}
-{{main|Hydra-70 M247}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
+|-
+! [[Hydra-70 M247]] rockets
+| || 19 || 19 || 19 || 19 ||
+|-
+! [[AGM-114K Hellfire II]] missiles
+| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
+|-
+! [[APKWS II (M151)]] missiles
+| || 7 || 7 || 7 || 7 ||
+|-
+! [[APKWS II (M282)]] missiles
+| || 7 || 7 || 7 || 7 ||
+|-
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || || || 2
+|-
+! Countermeasures
+| 60 || || || || || 60
+|-
+| colspan="8" | * Both countermeasure pods must be equipped together
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 4 x ATAS (AIM-92) missiles
 * 76 x Hydra-70 M247 rockets
@@ -90,43 +114,18 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x AGM-114K Hellfire II missiles
 * 16 x AGM-114K Hellfire II missiles
 * 120 x countermeasures
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
-|-
-! Hydra-70 M247 rockets
-| || 19 || 19 || 19 || 19 ||
-|-
-! AGM-114K Hellfire II missiles
-| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
-|-
-! APKWS II (M151) missiles
-| || 7 || 7 || 7 || 7 ||
-|-
-! APKWS II (M282) missiles
-| || 7 || 7 || 7 || 7 ||
-|-
-! ATAS (AIM-92) missiles
-|2|| || || || ||2
-|-
-! Countermeasures
-| 60 || || || || || 60
-|-
-| colspan="8" | * Both countermeasure pods must be equipped together
-|}
+{{Navigation-End}}
 
 === Defensive systems ===
 <!--''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.''-->
-The '''''{{PAGENAME}}''''' only has the following Defensive systems installed:
+[[File:AH-64D Countermeasures.jpg|thumb|300px|AH-64D dispenses flare series as a countermeasure against heat-seeking missiles.]]
+The '''''{{PAGENAME}}''''' has the following defensive systems installed:
 
 *'''Countermeasures''' - Up to 150 countermeasures can be installed.
 *'''AMASE''' - Apache Modular Aircraft Survivability Equipment.
 *'''AIM-92 Stinger''' - AIM 92 Stinger missiles
 
-When unlocked, countermeasures are not installed - this requires the Flares/Chaff module (tier I) to be researched and installed, this provides up to 30 countermeasures. The next module called AMASE (tier II) provides up to 150 countermeasures, the additional 110 countermeasures are installed on the wingtips of the helicopter. Then the last module called AIM-92 Stinger (tier III) allows for the installation of a maximum of four AIM-92 Stinger missiles, which two are mounted on each wing tip.
+When unlocked, countermeasures are not installed - this requires the Flares/Chaff module (tier I) to be researched and installed, this provides up to 30 countermeasures. The next module called AMASE (tier II) provides up to 150 countermeasures, the additional 120 countermeasures are installed on the wingtips of the helicopter. Then the last module called AIM-92 Stinger (tier III) allows for the installation of a maximum of four AIM-92 Stinger missiles, which two are mounted on each wing tip.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -204,11 +203,12 @@ The AH-64D also features improved electronics and avionics, including improved G
 
 '''Operational History'''
 
-Originally entering service in 1995, the US Army ordered 530 more AH-64A/B variants to be upgraded to the AH-64D variant in 1999. Other nations that had purchased or shown an interest in the Longbow Apache (new and/or upgraded 64A/Bs) are: the United Kingdom, the Netherlands, Singapore, Israel, Egypt and Kuwait.<ref name=":0" /> The AH-64D is in service with the United States, the United Kingdom, Egypt, Greece, Kuwait, Singapore, the UAE, Israel, and the Netherlands. 
+Originally entering service in 1995, the US Army ordered 530 more AH-64A/B variants to be upgraded to the AH-64D variant in 1999. Other nations that had purchased or shown an interest in the Longbow Apache (new and/or upgraded 64A/Bs) are: the United Kingdom, the Netherlands, Singapore, Israel, Egypt and Kuwait.<ref name=":0" /> The AH-64D is in service with the United States, the United Kingdom, Egypt, Greece, Kuwait, Singapore, the UAE, Israel, and the Netherlands.
 
 The Longbow Apache is flown by a two-person crew composed of a pilot and copilot gunner (CPG) and is capable of carrying the following weapons:<ref name=":3">(Ian and Seabridge 349)</ref>
+
 * Up to 16 AGM-114 Hellfire missiles (the 111K variant was used with dual seeker capability: pulsed radar or semi-active laser guidance with a range of >8km (5 miles).
-* Hydra 70 rocket pod 
+* Hydra 70 rocket pod
 * M 320 30mm 'chain gun' that could be slaved to the pilot/CPG's helmet sight
 
 Although there have been test firings of AIM-9 Sidewinders, AIM-28 stingers, and British Starstreaks, none have seen operational service. <ref name=":3" />

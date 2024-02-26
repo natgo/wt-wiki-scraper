@@ -6,20 +6,25 @@
 {{Tree-Unit|sw_strv_m31}}
 {{Tree-Arrow}}
 {{Tree-Unit|sw_bt_42}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|sw_strv_m38}}
 {{Tree-Arrow}}
 {{Tree-Unit|sw_strv_m40l}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|sw_pvlvv_fm42}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|sw_ikv_72}}
 {{Tree-Arrow}}
 {{Tree-Unit|sw_sav_m43_1944}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|sw_vickers_mk_e_37}}
 {{Tree-Arrow}}
 {{Tree-Unit|sw_t_28}}
+{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|sw_strv_m39}}
 {{Tree-Skip}}
@@ -207,17 +212,9 @@
 |
 {{Tree-Unit|sw_strf_90c}}
 {{Tree-Arrow}}
-{{Tree-Unit|sw_cv_90120}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|sw_strv_121}}
 {{Tree-Arrow}}
-{{Tree-Group|sw_strv_122_group|Strv 122/122 PLSS|
-  {{Tree-Unit|sw_strv_122}}
-{{Tree-Arrow}}
-{{Tree-Unit|sw_strv_122b_plss}}
-}}
-{{Tree-Skip}}
 |
 {{Tree-Group|sw_lvkv_asrad_group|Lvkv/ASRAD|
   {{Tree-Unit|sw_lvkv_90c}}
@@ -225,23 +222,42 @@
 {{Tree-Unit|sw_asrad_r}}
 }}
 {{Tree-Arrow}}
-{{Tree-Unit|sw_crotale_ng}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|sw_strf_9056}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|sw_leopard_2a4_fin}}
 {{Tree-Arrow}}
-{{Tree-Unit|sw_leopard_2a6nl}}
-{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|sw_cv_90105_tml}}
 {{Tree-Skip}}
+|
+{{Tree-Unit|sw_patria_amv_ctcv_105}}
+
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Unit|sw_cv_90120}}
+{{Tree-Skip}}
+|
+{{Tree-Group|sw_strv_122_group|Strv 122/122 PLSS|
+  {{Tree-Unit|sw_strv_122}}
+{{Tree-Arrow}}
+{{Tree-Unit|sw_strv_122b_plss}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|sw_strv_122b_plus}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|sw_crotale_ng}}
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Unit|sw_leopard_2a6nl}}
+{{Tree-Skip}}
+| style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|sw_t_80u}}
 {{Tree-Skip}}
 |
-{{Tree-Unit|sw_patria_amv_ctcv_105}}
 {{Tree-Skip}}
 
 {{Tree-End}}

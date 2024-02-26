@@ -9,16 +9,9 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]].
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->At the end of March 1952, the 5°Stormo was transferred to the base of Villafranca, after one month, the first F-84Gs were received, and the equipment of the 101°Gruppo and 102°Gruppo was completed with 25 aircraft each, the 103°Gruppo was also adopted and the 5°Stormo became an Aerobrigata on 1 February 1953, F-84s did not have a two-seat version for training, so the USA supplied about seventy T-33s. to recognise the F-84G belonging to other groups was the initiative of Maj. Antonio Palazzeschi, the "Red Lightning" was adopted for the first time in the 101°Gruppo, while the 102°Gruppo "Blue Lightning" and eventually the 103°Gruppo with "Yellow Lightning" the position of these lightings are present in the side of the wings, also in 1953 an aerobatic patrol called "Guizzo" was set up, they performed for 3 years (Rome, Soesterberg, Madrid, Cologne and Nuremberg), the "Guizzo" aerobatic patrol inspired the film "I 4 del Getto Tonante", then known to the public often as the Thundering Jets, which performed until mid-1956. In September 1955, the 101°Gruppo took part in the "Lago Maggiore" manoeuvres, training for a hypothetical enemy invasion.
 
-Republic Aircraft Company's jump into the jet fighter market was not as smooth as they would have liked. They experienced severe growing pains as they developed and produced the F-84 series aircraft, especially the B, C, D and E variants. Important upgrades and modifications included a more powerful turbine engine, strengthened wings, aerodynamically secure wing-tip fuel tanks and a strengthened structure. The resultant of these upgrades was the much improved F-84G fighter, which boasted new innovations such as improved avionics, radar, the capability of in-flight refuelling and ability to carry a Mark 7 nuclear bomb. Though the operationally longest lasting of the series with the United States (into the mid-1960s), several other nations continued to use it including France and Taiwan (Republic of China), however, Greece continued flying their fighters until 1991.<ref name="Burrows" />
-
-Even with the changes from earlier models, even in-game pilots will notice the quirkiness of the F-84G. Noted for its nickname "Lead Sled", the F-84G, like the B version in-game has an extremely long takeoff roll, around 1,500 m, typically due to the heavier payloads afforded to this aircraft. Though, once at altitude and during attack runs, the F-84G is an incredibly stable platform and can be outfitted with a number of various suspended armaments along with its six 12.7 mm M3 Browning machine guns. Each gun only has 300 rounds of ammunition, therefore trigger control is necessary or else the pilot will be left with empty guns in short order. Considered a multi-role aircraft, the F-84G can be utilised as a fighter-interceptor, bomber interceptor and ground attack fighter. The F-84G can be laden with a variety of bombs ranging from 100 lbs all the way up to two 1,000 lb bombs. [[HVAR]] and [[Tiny Tim]] rockets are a viable option alone or mixed with bombs to expand the options of targets to be attacked depending on the map the pilot is flying in.
-
-Like many jet fighters, flying slowly makes for an easy target and this is no exception for the F-84G. Speed is necessary to ensure manoeuvrability both to engage a target and to shake a tail. Though not the fastest fighter at this rank, the F-84G can hold its own and when pressed, the six centre lined M3 Browning machine guns can punch enough holes in an enemy fighter to bring it down. Don't expect this fighter when laden down with two 1,000 lbs bombs or two Tiny Tim and 24 HVAR rockets to excel in a dogfight as it won't with all that weight, however, after all that ordnance is released the F-84B can then mix it up, though it is preferable to maintain speed while performing Boom & Zoom manoeuvres.
-
-While dealing with mixed reviews over its positive and negative aspects, the F-84 series aircraft paved the way for a later aircraft which magnified all of the positive qualities of the F-84, being a stable firing platform, loaded to the gills with assorted suspended armaments and a main gun which rained destruction on the enemy, this aircraft would later be known as the Fairchild-Republic A-10 Thunderbolt II.
+The '''{{Specs|name}}''' is an Italian Strike aircraft introduced in [[Update 1.69 "Regia Aeronautica"|1.69 "Regia Aeronautica" Update]] with the initial release of the Italian air Tech tree, the F-84G in the game is one of the 101°Gruppo F-84Gs, you can identify the Group by the Red Lighting, the F-84G-21-RE is one of best early jets you can find, the plane has a good primary armament formed by six [[M3 Browning (12.7 mm)]], with a high rate of fire can destroy easily enemy aircraft, for the secondary armament composed by HVARs and American bombs, you have a good CAS for the Ground battles, the manoeuvrability and speed of this is aircraft is very good, but remember if you lose to much speed is gonna become a brick.
 
 == General info ==
 === Flight performance ===
@@ -143,6 +136,7 @@ When attacking an F-84G, aim for the centre of the aircraft where you have a goo
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
+[[File:F-84G_IT_News_01.jpg|425px|thumb|right|]]
 {{main|M3 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
@@ -157,12 +151,40 @@ For the F-84G, four of the 12.7 mm M3 Browning machine guns were mounted in the 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-[[File:F-84G_IT_News_01.jpg|425px|thumb|right|]]
-{{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
-{{main|HVAR|Tiny Tim}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[HVAR]] rockets
+| 6* || 3 || 3 || 4 || 4 || 3 || 3 || 6*
+|-
+! [[Tiny Tim]] rockets
+| || || || 1 || 1 || || ||
+|-
+| colspan="9" | Maximum permissible weight imbalance: 900 kg
+|-
+| colspan="10" | * HVAR rockets on hardpoints 1/8 may only be equipped simultaneously
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 12 x HVAR rockets
 * 32 x HVAR rockets
@@ -172,35 +194,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 2 x 500 lb AN-M64A1 bombs + 24 x HVAR rockets (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 100 lb AN-M30A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! 250 lb AN-M57 bombs
-| || || || 1 || 1 || || ||
-|-
-! 500 lb AN-M64A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! 1,000 lb AN-M65A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! HVAR rockets
-| 6* || 3 || 3 || 4 || 4 || 3 || 3 || 6*
-|-
-! Tiny Tim rockets
-| || || || 1 || 1 || || ||
-|-
-| colspan="9" | Maximum permissible weight imbalance: 900 kg
-|-
-| colspan="10" | * HVAR rockets on hardpoints 1/8 may only be equipped simultaneously
-|}
+{{Navigation-End}}
 
 The F-84G offers a range of bombs and rockets for destroying surface targets. Due to the more effective engine utilised in the F-84G, it could sport a larger number of suspended armaments compared to its older brother the [[F-84B-26|F-84B]], turning into a truly ground attack workhorse. In comparison, a fully-loaded single-seat {{PAGENAME}} had approximately the same loadout capability as an early 7 crew [[B-25J-1|B-25J]] bomber. The smaller bombs such as the AN-M30A1 and AN-M57 and HVAR rockets are useful against soft targets like anti-aircraft batteries, unarmoured vehicles, ships and some light tanks. The heavier hitters like the AN-M61A1, AN-M65A1 and Tiny Tim rockets are effective (more like overkill) for the softer targets, but also work well with bunkers, heavier armoured tanks, larger ships and can also be utilised against bases.
 
@@ -295,6 +289,7 @@ At least 13 other countries bought into the F-84 program, including Italy. Italy
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-84g_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

@@ -1,3 +1,8 @@
+{{About
+| about = gift Soviet medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = T-80 (Family)
+}}
 {{Specs-Card
 |code=ussr_t_80u_yt_cup_2019
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -163,20 +168,18 @@ As with most Russian MBTs, the reverse speed (-9.7 km/h (-6 mph)) does leave the
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
-'''Skins'''
+;Skins
 
-* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_t_80u Skins and camouflages for the T-80U from live.warthunder.com.]
+* Skins and camouflages for the [[T-80U#Media|T-80U]] can be used for the {{PAGENAME}}.
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* [[T-80U]]
-* [[T-80BVM]]
+;Related development
+* [[T-80 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

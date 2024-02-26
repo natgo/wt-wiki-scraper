@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+With the introduction of the first jet-powered domestically produced French aircraft, the French Air Force required a dedicated close air support and strike platform. With the Vautour II still in development and also being a very large aircraft for certain strike missions, France looked elsewhere for an aircraft capable of fulfilling this role. With the introduction of the United States of the Republic F-84F Thunderstreak, France negotiated the acquisition of this aircraft, already having experience operating the regular F-84. The aircraft was introduced in 1954 with the USAF, and by 1955 the first F-84Fs arrived, a total of 328 F-84Fs and 88 RF-84Fs were bought from the US.
+
+It was introduced in [[Update "Hot Tracks"]]. The '''{{Specs|name}}''' is a dedicated strike platform that is common amongst various tech trees in War Thunder. It features a sizable loadout, a good top speed, decent manoeuvrability, easy-to-use guns and a CCRP ballistic computer for its bombs with CCIP for the cannons. The F-84F lacks an air spawn being located at rank VI, and due to its below-average acceleration, it might be one of the last to reach the battlefield when armed with bombs. For air combat the F-84s performance is very good at high speeds, so try to gain altitude and keep your speed above Mach 0.8 in most situations.
 
 == General info ==
 === Flight performance ===
@@ -172,6 +174,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 24 x HVAR rockets
 * 42 x FFAR Mighty Mouse rockets

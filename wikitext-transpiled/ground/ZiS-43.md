@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet self-propelled anti-aircraft vehicle {{Battle-rating}}. This SPAAG was introduced in [[Update 1.65 "Way of the Samurai"]]. A 37 mm cannon placed in an anti-aircraft turret on a ZiS-42M half-track chassis, the ZIS-43 was a prototype built in November 1942 which underwent testing but never entered production.
+The '''ZiS-43''' is a self-propelled anti-aircraft gun prototype developed by the Soviets during World War II to improve anti-air capability against enemy aircraft. In 1942, a 37 mm 61K autocannon was mounted and tested on a half-track. Thin armour plates were installed throughout the vehicle to provide minor protection for the crews. It never progressed beyond the prototype stage.
+
+Introduced in [[Update 1.65 "Way of the Samurai"]], the ZiS-43 is a mediocre vehicle that takes a lot of practice to master. Despite its potent main armament, it is poorly armoured, tall, slow, and unstable. While the 37 mm 61K autocannon can penetrate most enemy ground targets from the side, it is too slow to perform any effective flanking manoeuvres. Due to the slow rate of fire requiring precision hits and accurate target leading, engaging enemy aircraft requires a steep learning curve as well.
 
 == General info ==
 === Survivability and armour ===
@@ -121,6 +123,7 @@ Despite the vehicle potent armament, it is not built for direct front-line comba
 '''Cons:'''
 
 
+
 * Very tall for self-propelled anti-aircraft vehicle
 * Slow rate of fire allows planes to fly between shots
 * High recoil causes the entire chassis to wobble, making continuous fire extremely inaccurate
@@ -150,6 +153,7 @@ The ZiS-43 never entered service thanks to its disappointing performance during 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_zis_43 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

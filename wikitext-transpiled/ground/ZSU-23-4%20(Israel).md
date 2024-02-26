@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli SPAA {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]]. The "Shilka" presents a higher rate of fire and more powerful ammunition than its predecessor [[Hovet]], allowing the user to saturate the airspace to increase the chance of hitting a low-flying aircraft.
+Israel captured a total of 60 ZSU-23-4 from Egypt and Syria, who acquired them from the Soviet Union shortly after its introduction, during the Yom Kippur War and other conflicts. While there is very limited data surrounding Israel's usage of ZSU-23-4s in combat or even in active service, some captured units were used for personal training in a very limited number. Currently there is a ZSU-23-4 in display at the Yad la-Shiryon Museum, Israel.
 
-ZSU-23-4s were captured from Egypt and Syria by Israel during the Yom Kippur War. It is identical in performance to the Soviet [[ZSU-23-4]].
+Introduced in [[Update "Fire and Ice"]], the '''{{Specs|name}}''' "Shilka" presents a higher rate of fire and more powerful ammunition than its predecessor [[Hovet]], allowing the user to saturate the airspace to increase the chance of hitting a low-flying aircraft. It has the same performance as the Soviet ZSU-23-4, thus it has a very good fire rate, a mediocre cannon for dealing with ground units and an average mobility. Like many other SPAAGs of its rank, it lacks access to any kind of guided missile to deal with air threats.
 
 == General info ==
 === Survivability and armour ===

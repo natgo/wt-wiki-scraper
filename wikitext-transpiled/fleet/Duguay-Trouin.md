@@ -1,12 +1,13 @@
 {{Specs-Card
 |code=fr_cruiser_dugauy_class_dugauy_trouin
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_001.jpg}}
-|store=12046
 }}
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French light cruiser {{Battle-rating}}, a lead ship of her [[Duguay-Trouin (Family)|class]]. She was introduced in [[Update "Sky Guardians"]].
+'''Duguay-Trouin''', the namesake of [[Duguay-Trouin (Family)|her class]], was developed as the first French post-WW1 cruiser, launched on 14 August 1923. During the interwar period, she served as a convoy escort and gunnery training ship. In WW2, she unsuccessfully attempted to intercept [[Admiral Graf Spee|Deutschland-class]] ships. After the French surrender, she joined Force X and became interned at Alexandria. After [[wikipedia:Case_Anton|Case Anton]], she joined Allied forces with the rest of Force X, and in 1943 underwent a refit. In 1944, she carried troops between Algeria, Corsica, and southern Italy. Following that, she participated in [[wikipedia:Operation Dragoon|Operation Dragoon]] - amphibious landings in Southern France. Finally, she assisted Allied forces by bombarding Axis positions along the Italian coast. As the war ended, she took part in [[wikipedia:Sétif and Guelma massacre|Sétif, Guelma and Kherrata massacres]] and ferried troops between France and Algeria. After a refit, she assisted French forces during the [[wikipedia:Malagasy Uprising|Malagasy Uprising]] in Madagascar and, from late October 1948 till September 1951 she was stationed in Singapore during the [[wikipedia:First Indochina War|First Indochina War]]. She finally arrived back in Toulon in November 1951, after travelling over 70,000 nautical miles in the last 4 years. The vessel was so worn out that a decision was made to decommission her in March 1952 and sell her for breaking up in 1953, after serving one of the longest careers of the warships of her time.
+
+The '''{{Specs|name}}''' was the second pre-order vessel, after [[Aigle]], announced for the introduction of the [[:Category:France ships|French navy]] to War Thunder. She was added to the game in [[Update "Sky Guardians"]]. Following the addition of the rest of the French navy in [[Update "La Royale"]] she was removed from the War Thunder store after the [[wt:en/news/8580-shop-war-thunders-birthday-sale-in-the-gaijinnet-store-en|11th Anniversary sale]]. She's best characterized by her excellent sustained firepower against enemy destroyers or light cruisers, along with relatively good survivability. She lacks the shells to counter heavily armoured warships or protection against a large volume of incoming High Explosive shells. Given the opportunity, she can be used to great effect in pushing the capture points or asserting the numeric advantage by dealing with the smaller vessels of the opposing force.
 
 == General info ==
 === Survivability and armour ===
@@ -74,11 +75,13 @@ The ship is best used for pushing enemy points, out-ranging enemy destroyers and
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Very good damage output from the main guns
 * Effective anti-air cover
 * Good survivability with very well protected ammo racks
 
 '''Cons:'''
+
 * Very limited armour protection
 * Very limited capability to deal with a heavily-armoured target due to the lack of AP shells
 * Lack of {{Annotation|HE-TF|High-explosive with time fuse}} or {{Annotation|HE-VT|High-explosive variable time fuse}} shells
@@ -88,7 +91,7 @@ The ship is best used for pushing enemy points, out-ranging enemy destroyers and
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 The Duguay-Trouin-class was developed from the 1915 proposal for a new class of cruisers, the first to be built domestically in France since 1906. Designated ''Project 171'' ships were originally to be much smaller and cheaper, armed with the 138.6 mm guns, but the reveal of the [[HMS Enterprise|British E-class]] along with the [[Omaha (Family)|American Omaha-class]] in 1920 forced French designers into a larger, better-armed and faster ships armed with the 155 mm guns. Just the increase in speed alone, from 30 to 34 knots, doubled the required shaft horse power from ~53 000 shp to ~100 600 shp.
 
-Typically for the Treaty cruisers it enjoyed a minimal protection, accounting for just 2% of displacement. Cruisers of the time were described as "eggshells armed with hammers", being able to stop WW1-era 4 inch guns, but inadequate for the guns of the interwar period. Cruisers of the time were designed to outrun the ships they couldn't outgun. That said though: Duguay-Trouin-class was built with survivability in mind. The double-shell hull was subdivided with 17 transverse watertight bulkheads. Each of the four boiler rooms enjoyed a fully redundant subsystems. Similarly steering gear was fully electrically powered, but it had a manual backup. Electrical systems were also highly redundant, with turbogenerators located in the aft engine room near rear turrets, central engine room and below the bridge superstructure. Generators could be run individually or coupled. Later ships of the class included an additional diesel generators for an even higher degree of redundancy. Petrol and aviation fuel was stored in a special isolated tanks high in the stern of the ship, ensuring that any damage to the tanks wouldn't impact the vessel. 
+Typically for the Treaty cruisers it enjoyed a minimal protection, accounting for just 2% of displacement. Cruisers of the time were described as "eggshells armed with hammers", being able to stop WW1-era 4 inch guns, but inadequate for the guns of the interwar period. Cruisers of the time were designed to outrun the ships they couldn't outgun. That said though: Duguay-Trouin-class was built with survivability in mind. The double-shell hull was subdivided with 17 transverse watertight bulkheads. Each of the four boiler rooms enjoyed a fully redundant subsystems. Similarly steering gear was fully electrically powered, but it had a manual backup. Electrical systems were also highly redundant, with turbogenerators located in the aft engine room near rear turrets, central engine room and below the bridge superstructure. Generators could be run individually or coupled. Later ships of the class included an additional diesel generators for an even higher degree of redundancy. Petrol and aviation fuel was stored in a special isolated tanks high in the stern of the ship, ensuring that any damage to the tanks wouldn't impact the vessel.
 
 The ship was praised for its excellent sea-keeping qualities, an exceptional turning circle of just 750 m at 28 knots, a low silhouette, spacious armoured bridge, along with the flexibility and reliability of the machinery. The key criticism of the vessel was its high centre of gravity once the fuel load was depleted, resulting in roll of up to 18° during turns.
 
@@ -100,6 +103,7 @@ The ship's namesake is [[wikipedia:René Duguay-Trouin|René Duguay-Trouin]] (16
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_cruiser_dugauy_class_dugauy_trouin Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -108,6 +112,7 @@ The ship's namesake is [[wikipedia:René Duguay-Trouin|René Duguay-Trouin]] (16
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Primauguet]]
 
 == External links ==

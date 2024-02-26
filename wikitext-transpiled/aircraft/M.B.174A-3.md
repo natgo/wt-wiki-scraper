@@ -148,7 +148,7 @@ In conclusion; the M.B.174 is a twin-engine strike aircraft disguised as a bombe
 '''Pros:'''
 
 * Superb speed for a bomber
-* Extremely maneuvreable for a bomber
+* Extremely manoeuvrable for a bomber
 * Has offensive armament which despite its weakness makes it relatively unique to other bombers
 * Can drop a very forgiving bomb with high precision in a ground attack role
 

@@ -61,6 +61,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Can land on water and land with its pontoons, which also makes it unique from other Alouette variants
 * Small profile, makes for a harder target to hit
 * Agile enough to dodge some autocannon fire or the occasional ATGM fired by ground vehicles
+* Gets airspawn  due to being amphibious
 
 '''Cons:'''
 
@@ -76,6 +77,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=hkp2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

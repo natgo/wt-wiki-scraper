@@ -15,7 +15,8 @@ This '''Ki-10-II (Commander)''', designated as '''Type 95 Fighter ({{Annotation|
 It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Ki-10-II C is no longer acquirable in the game but is retained by those who obtained it before its removal. The Ki-10-II has a good turn rate, fair climb, low speed, and minimal armour. It is faster and climbs better than other biplanes, but has weaker guns and protection. The Ki-10-II can turn-fight well at low altitudes, but should avoid stalls and spins. Its 7.7 mm guns have low fire rate and poor belts. Stealth belt is the best choice. The Ki-10 should not attack armoured targets or bombers, but focus on other biplanes or slow monoplanes. Aim for the wings, not the fuselage. Teamwork is essential for the Ki-10.
 
 ;Nicknames:
-* IJA Pilot Abbreviation: ''Kyū-Go Sen'' (九七戦, "9-5 Fighter")
+
+* IJA Pilot Abbreviation: ''Kyū-Go Sen'' (九五戦, "9-5 Fighter")
 * Allied reporting name: Perry
 
 == General info ==
@@ -213,6 +214,7 @@ But in general, despite a number of disadvantages, the Ki-10-II was regarded as 
 * [[Ki-10-II]]
 
 ;Planes of comparable role, configuration and era
+
 * [[He 51 (Family)|He 51]]
 * [[I-15 (Family)|I-15]]
 * [[Fury (Disambiguation)#Rank I - Aircraft|Fury]]

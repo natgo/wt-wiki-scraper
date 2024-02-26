@@ -1,3 +1,8 @@
+{{About
+| about = gift US medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = M1 Abrams (Family)
+}}
 {{Specs-Card
 |code=us_m1a1_abrams_yt_cup_2019
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

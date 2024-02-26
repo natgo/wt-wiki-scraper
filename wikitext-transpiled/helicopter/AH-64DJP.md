@@ -65,40 +65,41 @@ The AH-64D Apache longbow, has only limited armour protection installed with bul
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm M230E-1 cannon (1,200 rpg)
-** 1 x 30 mm M230E-1 cannon + 30 x countermeasures
+* 1 x 30 mm M230E-1 cannon, chin turret (1,200 rpg)
+* 30 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114K Hellfire II|ATAS (AIM-92)|Hydra-70 M247}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 8 x ATAS (AIM-92) missiles
-* 76 x Hydra-70 M247 rockets
-* 4 x AGM-114K Hellfire II missiles
-* 8 x AGM-114K Hellfire II missiles
-* 16 x AGM-114K Hellfire II missiles
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
 | rowspan="4" width="20%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
 |-
-! Hydra-70 M247 rockets
+! [[Hydra-70 M247]] rockets
 | || 19 || 19 || 19 || 19 ||
 |-
-! AGM-114K Hellfire II missiles
+! [[AGM-114K Hellfire II]] missiles
 | || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
 |-
-! ATAS (AIM-92) missiles
-| 4 || || || || || 4
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || || || 2
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+
+* Without load
+* 4 x ATAS (AIM-92) missiles
+* 76 x Hydra-70 M247 rockets
+* 4 x AGM-114K Hellfire II missiles
+* 8 x AGM-114K Hellfire II missiles
+* 16 x AGM-114K Hellfire II missiles
+{{Navigation-End}}
 
 === Defensive systems ===
 <!--''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.''-->
@@ -107,9 +108,11 @@ The '''''{{PAGENAME}}''''' only has the following Defensive systems installed:
 * '''Flares/Chaff''' - Up to 30 countermeasures can be installed.
 * '''AIM-92 Stinger''' - AIM-92 Stingers and Infrared Counter Measures.
 
-When unlocked, countermeasures are not installed - this requires the Flares/Chaff module (tier I) to be researched and installed, this provides up to 30 countermeasures. The last module called AIM-92 (tier III) allows for the installation of a maximum of four AIM-92 Stinger missiles, which two are mounted on each wing tip, 30 countermeasures & IRCM module.
+When unlocked, countermeasures are not installed - this requires the Flares/Chaff module (tier I) to be researched and installed, this provides up to 30 countermeasures. The last module called AIM-92 (tier III) allows for the installation of a maximum of four AIM-92 Stinger missiles, which two are mounted on each wing tip, 30 countermeasures & IRCM module. Flares launch in a back left pattern, keep that in mind when flaring missiles or turning away from the combat area whilst pre-flaring.
 
 Important note: unlike the American and British brothers, the AH-64DJP lacks a MAW (missile approach warning) system. This means that the AH-64JDP player should keep an extra eye on SPAAs and incoming SAMs by himself, as without MAW missiles must be spotted and countermeasures deployed manually.
+
+The AH-64DJP, like most of its siblings, has a fully digital RWR covering the full radar band spectrum. This means it will be able to see any (turned on) radar in the lobby with corresponding abbreviation.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -167,7 +170,8 @@ Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cov
 *** Range of approximately 9 km
 *** Can launch and guide several ATGMs at the same time
 ** Flexible 30 mm cannon
-*** Has 51 mm pen tops in a mono-type belt
+*** Has 51 mm pen to penetrate roof-top armour and light vehicles in a mono-type belt
+*** Devastating against any air target hit
 * Anti-air capabilities:
 ** 4 AIM-92 Stinger AAMs
 ** Flexible 30 mm cannon
@@ -186,6 +190,7 @@ Combatting enemy anti-aircraft vehicles can be a challenge. Always remain in cov
 * Lacks {{Annotation|MAW|Missile Approach Warning}} which is a very important system for top helicopters
 * Has only 30 flares
 * 30 mm cannon has high dispersion at longer range, making it inaccurate beyond 500 m
+* AIM-92 is inconsistent at hitting side/front aspect against manoeuvrable craft
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -194,7 +199,9 @@ The AH-64D was selected by the Japanese Ground Self-Defense Force (JGSDF) in 200
 
 In 2017, it was announced that the AH-64DJP helicopters were to have their targeting systems upgraded by the American Lockheed Martin defense firm. According to a press briefing from April 26 of 2017, the upgrade was to the Modernized Target Acquisition Designation Sight/Pilot Night Vision Sensor (M‑TADS/PNVS). The M-TADS is the laser designator that allows the targeting of the AGM-114 Hellfire missiles, while the PNVS assists with safe flight in day, night, and adverse weather missions. The contract was for the delivery of 14 Modernized Day Sensor Assembly (M-DSA) laser designator kits. The M-DSA increases the reliability of the laser designator and also increases the precision of the system. Additionally, Lockheed Martin's Apache sustainment team was to provide performance-based logistics support to the JGSDF under a separate three-year contract. Japan was the first Apache operator to receive the M-DSA upgrade.
 
-As of 2017, the JGSDF operated one squadron of ten AH-64DJP helicopters, with the other three acting as training helicopters. One AH-64DJP was destroyed in a crash in February 2018, resulting in the deaths of both crew members; this left a total of 12 AH-64DJP helicopters.
+The JGSDF operated one squadron of ten AH-64DJP helicopters, with the other three acting as training helicopters. One AH-64DJP was destroyed in a crash in February 2018, resulting in the deaths of both crew members; this left a total of 12 AH-64DJP helicopters.
+
+In late 2022, the Japanese Ministry of Defence in its plans of "Elimination of obsolete equipment" decided to largely replace its fleet of attack and observation helicopters with drone craft and loitering munitions. Part of this list includes the AH-64D. Officially resulting in its end of service by 2027.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -203,6 +210,7 @@ As of 2017, the JGSDF operated one squadron of ten AH-64DJP helicopters, with th
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ah_64d_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 {{Skin-gallery |market|ugcitem_1000607|AH-64DJP JG-4557.png|Camo "AH-64DJP, Bicolor winter"}}
+
 
 
 ;Videos
@@ -227,6 +235,7 @@ As of 2017, the JGSDF operated one squadron of ten AH-64DJP helicopters, with th
 * [[wikipedia:Boeing_AH-64_Apache|[Wikipedia] Boeing AH-64]]
 * [https://www.helis.com/database/model/AH-64DJP-Apache/ <nowiki>[Helis.com]</nowiki> Fuji AH-64DJP Apache]
 * [https://www.milavia.net/news/2006/first-ah-64djp-delivered-to-the-jgsdf.html <nowiki>[MILAVIA]</nowiki> First AH-64DJP Delivered to the JGSDF]
+* [https://www.mod.go.jp/j/approach/agenda/guideline/plan/pdf/plan_outline.pdf Japanese Ministry of Defence development plan December 2022]
 
 {{AirManufacturer Fuji}}
 {{Japan helicopters}}

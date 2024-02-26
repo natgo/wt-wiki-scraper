@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American medium t
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour on this vehicle is not very good. Most APFSDS at this rank will have no issue penetrating the armoured zones with ease. In a down-tier, you will be able to soak up some damage when being hit by weaker rounds, but not much.
+The armour on this vehicle is not very good. Most APFSDS at this rank will have no issue penetrating the armoured zones with ease. Despite there being spaced armor in the front of the tank, the driver is also located here behind and surrounded by three exterior fuel tanks, and can be fairly vulnerable to even APDS shells at lower tiered tanks, such as the M60 or T54E2. In a down-tier, you will be able to soak up some damage when being hit by weaker rounds, but not much.
 
 '''Armour type:'''
 
@@ -151,10 +151,6 @@ Some enemies to be concerned about:
 
 [[T-64B]]: Aim for the drivers hatch if you facing it frontally. If possible, get around its side and hit it dead under the turret, you will blow up its ammo racks this way.
 
-[[Leopard 2A4]], [[Leopard 2A5]] & [[Type 90]] is extremely potent against XM-1's seeing as their speed and mobility is similar but the Leo has a better gun. The 2K, however, lacks sufficient armour to defeat your ammunition so hit the lower front plate or turret with M735.
-
-[[Leopard 2A4]], [[Leopard 2A5]] & [[Type 90]]: The hull and gun mantlets are weak spots and can be penetrated with M735. The Type 90 also has a glaring turret ring that can easily be targeted and penetrated.
-
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -201,6 +197,7 @@ File:XM-1 (GM) and (C) Comparison.jpeg|<small>Side by side comparison between a 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

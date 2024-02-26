@@ -151,11 +151,40 @@ The F-84G has four 12.7 mm M3 Browning machine guns mounted in the forward fusel
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
-{{main|HVAR|Tiny Tim}}
-[[File:F-84G-21-RE_(China)_unloading_HVAR_rockets.jpg|450px|thumb|right|A '''{{PAGENAME}}''' descending on ground targets with 24 [[HVAR]] unguided rockets.]]
+
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84G-21-RE (Italy).png]]</div>
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[HVAR]] rockets
+| 6* || 3 || 3 || 4 || 4 || 3 || 3 || 6*
+|-
+! [[Tiny Tim]] rockets
+| || || || 1 || 1 || || ||
+|-
+| colspan="9" | Maximum permissible weight imbalance: 900 kg
+|-
+| colspan="10" | * HVAR rockets on hardpoints 1/8 may only be equipped simultaneously
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 12 x HVAR rockets
 * 32 x HVAR rockets
@@ -165,41 +194,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 2 x 500 lb AN-M64A1 bombs + 24 x HVAR rockets (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84G-21-RE (Italy).png]]</div>
-|-
-! 100 lb AN-M30A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! 250 lb AN-M57 bombs
-| || || || 1 || 1 || || ||
-|-
-! 500 lb AN-M64A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! 1,000 lb AN-M65A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! HVAR rockets
-| 6* || 3 || 3 || 4 || 4 || 3 || 3 || 6*
-|-
-! Tiny Tim rockets
-| || || || 1 || 1 || || ||
-|-
-| colspan="9" | Maximum permissible weight imbalance: 900 kg
-|-
-| colspan="10" | * HVAR rockets on hardpoints 1/8 may only be equipped simultaneously
-|}
+{{Navigation-End}}
 
 The F-84G offers a range of bombs and rockets for destroying surface targets. Unguided bombs are mounted only on two fuselage hardpoints and the best choices are clearly the heavy 1,000 lb bombs. They drop individually and do not require a huge amount of precision to obliterate a capture point. Unfortunately, the need to fly directly above the target renders the Thunderjet vulnerable to SPAA fire in Ground RB, and radar guided systems like the [[M163]] and [[ZSU-23-4]] can easily shred unaware pilots.
 
 Pilots who want something more adventurous can mount enormous Tiny Tim rockets on these pylons instead; the F-84G is the only aircraft in the Chinese tech tree with access to them. They have less explosive content than the 1,000 lb bombs but still enough to knock out tanks even on near misses, and can be launched from safer distances. The main drawback is that they take a lot of practice to aim effectively, especially because they drop from the pylon before the rocket motor ignites.
 
-The remaining pylons are reserved for HVAR rockets. Previous P-47D pilots may have overlooked them because they are difficult to aim and have less explosive power than an artillery shell, but the Thunderjet can carry and launch them in good numbers. Although HVARs have a hard time damaging armoured targets and the wing placement of the hardpoints increases spread, they can be surprisingly effective at clearing out SPAA vehicles from 1-2 kilometers away. Firing a salvo of rockets while rolling will produce a spiral pattern that impacts the ground in a circle, and the resulting rain of explosives can easily overpressure light vehicles in its radius. This is a useful tactic for clearing an enemy spawn of heavy SPAA coverage and then switching to bombs for destroying hard targets. Just be aware that the Thunderjet is still somewhat vulnerable when flying straight to aim rockets, and be prepared to break off from incoming fire.
+[[File:F-84G-21-RE_(China)_unloading_HVAR_rockets.jpg|450px|thumb|right|A '''{{PAGENAME}}''' descending on ground targets with 24 [[HVAR]] unguided rockets.]]
+The remaining pylons are reserved for HVAR rockets. Previous P-47D pilots may have overlooked them because they are difficult to aim and have less explosive power than an artillery shell, but the Thunderjet can carry and launch them in good numbers. Although HVARs have a hard time damaging armoured targets and the wing placement of the hardpoints increases spread, they can be surprisingly effective at clearing out SPAA vehicles from 1-2 kilometres away. Firing a salvo of rockets while rolling will produce a spiral pattern that impacts the ground in a circle, and the resulting rain of explosives can easily overpressure light vehicles in its radius. This is a useful tactic for clearing an enemy spawn of heavy SPAA coverage and then switching to bombs for destroying hard targets. Just be aware that the Thunderjet is still somewhat vulnerable when flying straight to aim rockets, and be prepared to break off from incoming fire.
 
 A special note is that equipping HVARs on the wingtip hardpoints will replace the fuel tanks that normally occupy them (with no ill effect to the F-84G's actual fuel capacity). Once the rockets are fired off or jettisoned, the flight performance is improved by a small amount, which some players will exploit even when preparing for air combat. Another benefit is that the Thunderjet will be less vulnerable to being set on fire by stray shots.
 

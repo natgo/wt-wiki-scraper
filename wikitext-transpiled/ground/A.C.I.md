@@ -11,7 +11,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium ta
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-In general, the A.C.I is very good at head-on engagements, due to its very well armoured front for its BR. The sides are with a thickness of only around 45 mm relatively good penetrable at 2.7. Tanks using large-calibre HE shells are dangerous, because of the overpressure mechanics that will often take out the driver and the machine gunner as well as the transmission. The lower front is quite vulnerable, if shot, the transmission will most likely break down, the crew won't take damage usually.
+In general, the A.C.I is very good at head-on engagements, due to its very well armoured front for its BR. The sides are with a thickness of only around 45 mm relatively easy to penetrate at its BR. Tanks using large-calibre HE shells are dangerous, because of the overpressure mechanics that will often take out the driver and the machine gunner as well as the transmission. The lower front is quite vulnerable, if shot, the transmission will most likely break down, the crew won't take damage usually.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)

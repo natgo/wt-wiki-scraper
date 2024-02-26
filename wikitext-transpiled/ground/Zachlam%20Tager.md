@@ -184,7 +184,7 @@ HE-wielding tanks -  An even worse idea is to annoy dedicated artillery tanks li
 * Missiles can deal significant damage to targets, especially if the explosion detonates ammo racks or fuel tanks
 * Can attack both directly and indirectly depending on the terrain and range
 * Relatively small profile and sight position allows this vehicle to stay low when hull down
-* Zachlam chassis is highly maneuverable with a high top speed when modified
+* Zachlam chassis is highly manoeuvrable with a high top speed when modified
 * Has access to scouting, which is especially useful if the vehicle runs out of missiles
 * Unassuming truck-like profile may trick enemies into ignoring the vehicle in urban environments
 * Missile can be guided without using the sniper sight in AB mode

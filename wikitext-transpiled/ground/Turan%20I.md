@@ -1,3 +1,8 @@
+{{About
+| about = Italian medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Turan (Family)
+}}
 {{Specs-Card
 |code=it_40m_turan_1
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -70,7 +75,6 @@ The Turán I was a Hungarian medium tank of World War II. Due to being forbidden
 {{:MAVAG 41.M 40/51 (40 mm)/Ammunition|36M, 39M, 43M}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
 <!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -85,15 +89,14 @@ The Turán I was a Hungarian medium tank of World War II. Due to being forbidden
 ! 8th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''101''' || 89&nbsp;''(+12)'' || 77&nbsp;''(+24)'' || 65&nbsp;''(+36)'' || 53&nbsp;''(+48)'' || 41&nbsp;''(+60)'' || 29&nbsp;''(+72)''
-|17&nbsp;''(+84)''
-|1&nbsp;''(+100)''|| __
+| '''101''' || 89&nbsp;''(+12)'' || 77&nbsp;''(+24)'' || 65&nbsp;''(+36)'' || 53&nbsp;''(+48)'' || 41&nbsp;''(+60)'' || 29&nbsp;''(+72)'' ||17&nbsp;''(+84)'' ||1&nbsp;''(+100)''|| No
 |-
 |}
-Note: Racks 1 and 2 are modeled in groups of three shells.  All others are modeled in groups of two shells.
-
-Turret empty: 41 (+60) shells.
-[[File:Turan I ammo layout.png|thumb|Ammunition layout of Turán I.  Racks 1 and 2 turret front, 3 lower hull, 4 and 5 turret rear, 6 and 7 hull sponsons, 8 lower hull.]]
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+'''Notes''':
+* Racks 1 and 2 are modeled in groups of three shells.  All others are modeled in groups of two shells.
+* Turret empty: 41 (+60) shells.
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -147,7 +150,9 @@ With the reload speed being at around 3 seconds, it is advised to use APBC (once
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_40m_turan_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

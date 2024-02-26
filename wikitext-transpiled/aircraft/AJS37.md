@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' was a Swedish fighter-bomber aircraft which originated from the [[AJ37]] due to a decision in 1992 to upgrade the AJ37, SH37, and SF37 to give them an extended service-life and limited JAS-capabilities. The majority of the upgrade was to the avionics in the Central Calculator, which received extensive modification. Giving more powerful computer power gave it the ability to carry new ordnance such as [[RB 74]] air-to-air missiles, RB 15F anti-ship missiles, and BK 90 cluster munitions. After the modification, the AJ 37 was redesignated to AJS 37. The AJS remained in service until 2001 when it was phased out in favour of the JAS 39 Gripen.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish strike aircraft {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
 
-The {{PAGENAME}} was introduced in [[Update "La Royale"]] as a fighter-bomber for Sweden, strengthening the Swedish aircraft choices both for air and ground battles with its increased multirole capabilities.
+The AJS37 was a Swedish fighter-bomber aircraft which originated from the [[AJ37]] due to a decision in 1992 to upgrade the AJ37, SH37, and SF37 to give them an extended service-life and limited JAS-capabilities. The majority of the upgrade was to the avionics in the Central Calculator, which received extensive modification. Giving more powerful computer power gave it the ability to carry new ordnance such as [[RB 74]] air-to-air missiles, RB 15F anti-ship missiles, and BK 90 cluster munitions. After the modification, the AJ 37 was redesignated to AJS 37. The AJS remained in service until 2001 when it was phased out in favour of the JAS 39 Gripen.
 
 == General info ==
 === Flight performance ===

@@ -131,11 +131,38 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M30A1 (100 lb)|AN-M57 (250 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)}}
-{{main|HVAR|Tiny Tim}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84G-21-RE_(Italy).png]]</div>
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || || || 1 || 1 || || ||
+|-
+! [[HVAR]] rockets
+| 6 || 3 || 3 || 4 || 4 || 3 || 3 || 6
+|-
+! [[Tiny Tim]] rockets
+| || || || 1 || 1 || || ||
+|-
+| colspan="9" | Maximum permissible weight imbalance: 900 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 12 x HVAR rockets
 * 32 x HVAR rockets
@@ -145,34 +172,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
 * 24 x HVAR rockets + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-84G-21-RE_(Italy).png]]</div>
-|-
-! 100 lb AN-M30A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! 250 lb AN-M57 bombs
-| || || || 1 || 1 || || ||
-|-
-! 500 lb AN-M64A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! 1,000 lb AN-M65A1 bombs
-| || || || 1 || 1 || || ||
-|-
-! HVAR rockets
-| 6 || 3 || 3 || 4 || 4 || 3 || 3 || 6
-|-
-! Tiny Tim rockets
-| || || || 1 || 1 || || ||
-|-
-| colspan="9" | Maximum permissible weight imbalance: 900 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -203,7 +203,9 @@ The delivery of this F-84G-31-RE was the No. 070 of the Thunder Tiger Aerobatics
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f-84g-31-re_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

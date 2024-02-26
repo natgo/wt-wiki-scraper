@@ -126,6 +126,13 @@ BMP-2 also has an ATGM launcher. Its guidance system is semi-automatic, so it's 
 
 The ATGM is able to penetrate most tanks BMP-2 will face at its BR and often above when aimed well. The 9M113 is also fairly useable at range, although it generally won't reach sniping helicopters. The BMP only has 4 ATGMs, so it's a good idea to be stringent with them.
 
+Unlike BMP-1, BMP-2 can directly aim with the ATGM launcher by using "select special weapon or ATGM" key, which also disables the main turret. The launcher can turn 15 degrees to the left or 38 degrees to the right. This may seem a bit redundant, as BMP is too short to directly fire over walls, but when the tank is using something as a stepping stone it can lean just enough to be able to see a bit of enemy tanks and to not lose control over the missile anymore. Since the missile is launched a bit up, if the target is about 90-150 m away, then hitting it would just require aiming the crosshair directly at it. Remember to use "reset weapon selection" key to return controls to normal.
+
+<gallery mode="packed-hover" heights="200px">
+BMP-2 firing atgm over a wall atgm scope.jpg|When the launcher is pulled high enough, all you need is to be far enough and to aim true.
+Example of bmp-2 leaning to fire over a wall 3PV.jpg|Anything can be used to make ATGM useable over a wall. Be creative!
+</gallery>
+
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[9M113 Konkurs]] ATGM || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)

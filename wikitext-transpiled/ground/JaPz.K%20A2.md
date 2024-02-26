@@ -117,7 +117,7 @@ The JaPz.K A2 has access to the [[MG3A1 (7.62 mm)|7.62 mm MG3A1]] machine gun. W
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-With 2nd generation thermals on gunner optics, a laser rangefinder and one of the best APFSDS rounds at its rank against sloped armour, the JaPz.K A2 is a very potent sniper. Stick to areas with long lines of sight and utilize your superior long range firepower. Do not attempt to brawl, ever. The lack of stabilizer combined with the low weight of the vehicle means your gun will jump all over the place and will be slow to bring on target compared to its peers. Shots fired on the move are achievable only through sheer luck and it is almost impossible to squeeze a first shot if coming to a stop from full speed. If forced to close quarters combat like on urban maps, avoid direct confrontation: flank or ambush. The latter can be done extremely well due to your small size, excellent mobility and 4-second reload time.
+With 3rd generation thermals on gunner optics, a laser rangefinder and one of the best APFSDS rounds at its rank against sloped armour, the JaPz.K A2 is a very potent sniper. Stick to areas with long lines of sight and utilize your superior long range firepower. Do not attempt to brawl, ever. The lack of stabilizer combined with the low weight of the vehicle means your gun will jump all over the place and will be slow to bring on target compared to its peers. Shots fired on the move are achievable only through sheer luck and it is almost impossible to squeeze a first shot if coming to a stop from full speed. If forced to close quarters combat like on urban maps, avoid direct confrontation: flank or ambush. The latter can be done extremely well due to your small size, excellent mobility and 4-second reload time.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -127,7 +127,7 @@ With 2nd generation thermals on gunner optics, a laser rangefinder and one of th
 * 12-round autoloader with a 4-second reload time
 * Strong APFSDS shells
 * Has a smoke grenade launcher with 2 salvos
-* Has access to night vision device and 2nd generation thermal imager on gunner optics
+* Has access to night vision device and 3rd generation thermal imager on gunner optics
 * Has access to a laser rangefinder with automatic sight adjustment
 * Commander gun controls, able to shoot back with an unconscious gunner
 

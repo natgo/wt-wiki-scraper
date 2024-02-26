@@ -5,12 +5,17 @@
 }}
 {{Specs-Card
 |code=hurricanemkii
-|images={{Specs-Card-Image|GarageImage_Hurricane_Mk_IIB_Trop.jpg}}
+|images={{Specs-Card-Image|GarageImage_Hurricane_Mk_IIB_Trop.jpg|ArtImage Hurricane Mk IIB-Trop.jpg}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+
+The '''{{PAGENAME}}''' is a tropicalized variant of the Hawker Hurricane Mk II. Compared to the [[Hurricane Mk I/L|Mark I]] version, the Mark II featured an addition of four 7.7 mm Browning machine guns in the outer leading edge of the wings along with bomb racks. The increase in number of small-calibre guns was due to the British still being reluctant to use the then notoriously jammable Hispano autocannons, and believing that adding more guns would compensate for lack of hard-hitting firepower that the Hispano could offer. While this only held true against lighter aircraft at closer range, the sheer number of guns and additional bomb racks allowed the Hurricane to find its new niche as a ground attacker during the Africa campaign, while leaving the air combat duties to the more nimble [[Spitfire (Family)|Spitfire]] instead.
+
+The '''{{Specs|name}}''' has been in the game since the start of the Open Beta Test prior to Update 1.27. Compared to the early Hurricane models such as the [[Hurricane Mk I/L]] or the [[Sea Hurricane Mk IB]], the Mk IIB/Trop is noticeably slower and less responsive than the Mk I version due to the addition of bomb racks and extra guns. While generally less agile, the Mk IIB can perform well enough as a fighter due to its agility. Though, like its predecessor, it is often held back by its slow top speed and acceleration.
+
+Though the addition of bombs and rockets slowed down the plane somewhat, this allows the Mk II to perform as a close air support better than its predecessor. With twelve of 7.7 mm Browning MGs and absurd amount of ammo, the Hurricane is capable of obliterating any thin-skinned biplanes it may come across, having more than enough ammo to rake a huge number of ground target kills, and to give a good beating against more durable monoplanes in uptiers.
 
 == General info ==
 === Flight performance ===

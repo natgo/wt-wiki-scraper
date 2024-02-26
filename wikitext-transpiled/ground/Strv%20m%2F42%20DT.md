@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. It is a development of the [[Strv m/42 EH|Strv m/42]] medium tank.
+The Strv m/42 was introduced during the Second World War as Sweden's primary medium tank. Different versions were developed, however, one of the most experimental ones was the '''Strv m/42 DT''' (''Delat Torn''; "split turret"). Unlike most designs of the time, the new variant used a new turret, with a 75 mm gun and an autoloader. The name comes from the fact that the autoloader forced the turret to be split in half. In 1944, a mockup was made, with a prototype constructed in 1945, however after being tested in different trials in 1946 the design was considered unsuccessful and the project was canceled.
+
+It was introduced in [[Update 1.97 "Viking Fury"]]. The Strv m/42 DT's most important asset is the reload rate, which can be as low as 3 seconds. The best round available is an APCBC shell that features similar penetration and explosive filler values to other rounds at its rank. The armour is almost non-existent, comparable more to a light tank, and the autoloader makes the tank more vulnerable to ammo detonations, since the ammo racks are more exposed. However, the tank has still a decent mobility to the point it can be used to flank, and the gun depression is also good at -10 degrees.
 
 == General info ==
 === Survivability and armour ===
@@ -56,7 +58,7 @@ Unsurprisingly, the mobility of the Strv m/42 DT is very similar to that of the 
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|pvkan m/43 (75 mm)}}
 
-The Strv m/42 DT is armed with the same 7,5 cm pvkan m/43 used by the [[Pvkv m/43 (1946)|Pvkv m/43]] tank destroyer. However, on the Strv m/42 DT, the gun is fed by a special semi-automatic loader with a four-round clip (similar to the Japanese [[Chi-Ri II|Chi-Ri]] medium tank), allowing for a fast five-round burst (including one pre-loaded in the gun barrel) after which the gun must be reloaded manually. 
+The Strv m/42 DT is armed with the same 7,5 cm pvkan m/43 used by the [[Pvkv m/43 (1946)|Pvkv m/43]] tank destroyer. However, on the Strv m/42 DT, the gun is fed by a special semi-automatic loader with a four-round clip (similar to the Japanese [[Chi-Ri II|Chi-Ri]] medium tank), allowing for a fast five-round burst (including one pre-loaded in the gun barrel) after which the gun must be reloaded manually.
 
 With the autoloader, the reload takes from 3.9 to 3 seconds, which otherwise would take around 8-6 seconds. This allows the tank to swap between kinetic and HE shells on the fly and to sometimes reload before enemy drives out of cover to retaliate.
 
@@ -85,9 +87,9 @@ Note that the gun breech is rather large and takes up a lot of room in the turre
 ==== Ammunition ====
 {{:pvkan m/43 (75 mm)/Ammunition|slpprj m/41, sgr m/38, slpgr m/43}}
 
-The Strv m/42 DT starts with the rather underwhelming stock '''slpprj m/41''' uncapped AP shot, which has no explosive filler. However, at Rank IV the excellent '''slpgr m/43''' APCBC shell becomes available. Not only does it ricochet less than the stock AP, has a higher muzzle velocity, and has better penetration, it also has a lethal 110 g TNT filler that is devastating when it penetrates. 
+The Strv m/42 DT starts with the rather underwhelming stock '''slpprj m/41''' uncapped AP shot, which has no explosive filler. However, at Rank IV the excellent '''slpgr m/43''' APCBC shell becomes available. Not only does it ricochet less than the stock AP, has a higher muzzle velocity, and has better penetration, it also has a lethal 110 g TNT filler that is devastating when it penetrates.
 
-The penetration of kinetic shells is not very good for a tank of this BR, but the Strv m/42 DT is quite tall and at close to medium range it can negate enemy angled armour with that alone. 
+The penetration of kinetic shells is not very good for a tank of this BR, but the Strv m/42 DT is quite tall and at close to medium range it can negate enemy angled armour with that alone.
 
 The '''sgr m/38''' is not to be ignored, as there are a lot of open-topped SPG at the rank, which are difficult to take out with kinetic ammunition, but will definitely fail to reload before HE is fired at them, should they survive the first shot.
 

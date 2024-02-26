@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+Greece agreed to acquire the American AH-64A Apache when they signed a contract in December 24, 1991 for 12 AH-64As, and another one in 1992 for 8 AH-64A+. The 20 AH-64As were delivered by 1995 and continue to serve with the Hellenic Air Force up to today, alongside 12 [[AH-64D]] ordered in 2003.
+
+Introduced in [[Update "Fire and Ice"]], the AH-64A (GR) is a premium vehicle in the US helicopter tech tree. Compared to the Israeli AH-64A also in the premium tech tree. the AH-64A (GR) shares the same loadout options as the [[AH-64A]] in the standard tech tree.  In addition to powerful Hellfires and Stingers, there is also the APKWS II missiles with a laser guidance system and a high-explosive/anti-tank warhead, capable of striking targets up to 11 km away, making them particularly effective against anti-aircraft systems. The AH-64A (GR) also comes with premium bonuses, which allows for faster progression through the American helicopter tech tree.
 
 == General info ==
 === Flight performance ===
@@ -58,26 +60,50 @@ The AH-64A Apache has armour that consists of bulletproof glass in the pilot's w
 |-
 |}
 === Offensive armament ===
-<!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 {{Specs-Heli-Offensive}}
-
+<!-- ''Describe the offensive armament of the helicopter, if any. Describe how effective the cannons and machine guns are in battle, also what ammunition belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 {{main|M230E-1 (30 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between three presets:
-** 1 x 30 mm M230E-1 cannon, chin turret (1,200 rpg)
-** 1 x 30 mm M230E-1 cannon + 30 x countermeasures
+* A choice between two presets:
+** 1 x 30 mm M230E-1 cannon, chin turret (1,200 rpg) + 30 x countermeasures
 ** 1 x 30 mm M230E-1 cannon + 30 x countermeasures + IRCM
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114B Hellfire|AIM-9L Sidewinder|APKWS II (M151)|APKWS II (M282)|ATAS (AIM-92)}}
-{{main|Hydra-70 M247}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
+|-
+! [[Hydra-70 M247]] rockets
+| || 19 || 19 || 19 || 19 ||
+|-
+! [[AGM-114B Hellfire]] missiles
+| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
+|-
+! [[AIM-9L Sidewinder]] missiles
+| || 1 || || || 1 ||
+|-
+! [[APKWS II (M151)]] missiles
+| || 7 || 7 || 7 || 7 ||
+|-
+! [[APKWS II (M282)]] missiles
+| || 7 || 7 || 7 || 7 ||
+|-
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || || || 2
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
 * 2 x AIM-9L Sidewinder missiles
 * 4 x ATAS (AIM-92) missiles
 * 76 x Hydra-70 M247 rockets
@@ -85,32 +111,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 28 x APKWS II (M282) missiles
 * 8 x AGM-114B Hellfire missiles
 * 16 x AGM-114B Hellfire missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
-|-
-! Hydra-70 M247 rockets
-| || 19 || 19 || 19 || 19 ||
-|-
-! AGM-114B Hellfire missiles
-| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
-|-
-! AIM-9L Sidewinder missiles
-| || 1 || || || 1 ||
-|-
-! APKWS II (M151) missiles
-| || 7 || 7 || 7 || 7 ||
-|-
-! APKWS II (M282) missiles
-| || 7 || 7 || 7 || 7 ||
-|-
-! ATAS (AIM-92) missiles
-|2|| || || || ||2
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

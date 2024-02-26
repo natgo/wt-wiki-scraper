@@ -63,10 +63,10 @@ The Object 685 has the same ballistics as the [[D-10T2S (100 mm)|D-10T2S]] 100 m
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.7 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -4°/+17° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.7 || rowspan="2" | 6.00 
 |-
 ! ''Realistic''
 | 11.9 || 14.0 || 17.0 || 18.8 || 20.0

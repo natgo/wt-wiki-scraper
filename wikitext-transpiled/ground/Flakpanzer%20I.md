@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]].
+The '''2 cm Flak 38 auf Panzer I Ausführung A (Flakpanzer I)''' is a self-propelled anti-aircraft gun built by Germany during World War II on existing Panzer I light tank chassis. During the Battle of France, it was recognized that motorized anti-air units were insufficiently armoured. The German Heereswaffenamt decided to combine light anti-aircraft cannons with a light tank chassis. Since the Panzer I light tank chassis was readily available, it was used for these conversions. Stoewer was in charge of the conversions. There was a total of 24 of these vehicles built.
 
-The {{PAGENAME}} is the first SPAA available to the Germans. It is equipped with a rapid-firing 20 mm autocannon on a Panzer I chassis. While the armament is adequate against the expected enemy planes, the vehicle's armour is very poor and can be knocked out by an enemy machine-gunning the gunner.
+Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Flakpanzer I is a highly flexible and powerful vehicle. It works best when used to assist teammates in engaging enemy ground units and against unaware enemy aircraft. Despite its primary mission of engaging enemy aircraft, the Flakpanzer I also excels in anti-ground roles. Turret traverse is extremely fast, allowing it to respond almost instantly to new threats.
 
 == General info ==
 === Survivability and armour ===
@@ -67,6 +67,7 @@ The {{PAGENAME}} is armed with the 20 mm FlaK38 cannon, which turns out to be fa
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''Sprgr.:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}
 * '''PzGr:''' {{Annotation|API-T|Armour-piercing incendiary tracer}}
@@ -145,6 +146,7 @@ The vehicle's biggest advantage was that the 20 mm anti-aircraft guns could be d
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpanzer_I_ausf_A Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -156,6 +158,7 @@ The vehicle's biggest advantage was that the 20 mm anti-aircraft guns could be d
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles of comparable role, configuration and era
+
 * [[Flakpanzer 38]]
 * [[Ta-Se]]
 

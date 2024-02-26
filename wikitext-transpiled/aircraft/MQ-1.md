@@ -66,7 +66,7 @@ The Predator was introduced in [[Update "Drone Age"]]. All nations besides Russi
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+Aircraft survivability is quite an issue with most drone types, with drones being not only incredibly slow to manoeuvre but also top speed wise. The structural integrity is also subpar with simple rifle-calibre MGs being able to take it out. One major benefit of drones is that it is unmanned which means that you cant black out from excessive G forces either. There is no armour and the wings are quite fragile.   
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -81,21 +81,41 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+; General Overview 
+
+As the MQ-1 has a limited payload, it is advised to use the drone for reconnaissance rather than to destroy the first two targets you see. This will ensure that your team is able to identify and deal with threats as best they can, while using the drone as a backup in case of emergency situations. 
+
+; Target Designation and Reconnaissance
+
+The MQ-1 is equipped with a highly effective targeting pod, boasting thermal vision and enhanced zoom. This allows the operator to scout targets from a long distance, and then being able to relay information to ground forces or close air support elements. Using the MQ-1 to survey the battlefield and relay targets is a tried and tested way of helping your team hold and capture objectives, critical for winning the game. 
+
+; SEAD (Suppression of Enemy Air Defence) 
+
+It can be said that due to the MQ-1's ability to somewhat hide from radar (due to its small size and high altitude) it can be used to destroy enemy Air Defence systems on the ground. This ensures that more well-armed teammates - such as the Apache helicopter - can operate more freely as there are less air defence systems in place to destroy them. This allows for teammates to destroy more vehicles and become more efficient in close air support. 
+
+; Redeployment and Withdrawal 
+
+Due to the nature of the MQ-1's spawning midair and slow speed, it is extremely slow to re-arm the vehicle. The speed of the MQ-1 can be compared to biplane aircraft. It is often easier to abandon the vehicle after the user has felt that its purpose has been served. 
+
+This being said, the redeployment of the vehicle is possible in the sense that the MQ-1 can orbit different parts of a map. The MQ-1 has no problems climbing and gaining altitude, able to change areas of surveillance and relay further information to the team. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* High altitude spawn, above most radars at its battle rating
+* Spawns close to battlefield
 * The Hellfire missiles are accurate and have a long range
 * Can carry a lot of fuel
+* Has extremely high visibility of the battlefield with thermal targeting pod
 
 '''Cons:'''
 
 * Limited payload, only two missiles
 * Slow
+* Extremely vulnerable to enemy SPAA
+* High spawn cost compared to vehicles with higher payloads 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -113,7 +133,7 @@ The Predator remained in limited US service up to 2018 when it was completely re
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+[[File:MQ-1 Drone Wallpaper.jpg|thumb|none|MQ-1 UCAV equipped with two AGM-114 'Hellfire' missiles. ]]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

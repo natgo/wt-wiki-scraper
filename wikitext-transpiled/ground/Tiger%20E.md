@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 181''') is a rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was introduced in [[Update 1.47 "Big Guns"]]. 
+The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 181''') is a rank {{Specs|rank}} German heavy tank {{Battle-rating}}. It was introduced in [[Update 1.47 "Big Guns"]].
 
 The Tiger E is the late production model of the Tiger I featuring steel road wheels and Zimmerit paste on the armour. The Tiger E also introduces the more powerful APCR ammunition for the 88 mm KwK 36 gun, a shorter commander cupola and the pintle-mounted MG.
 
@@ -94,7 +94,7 @@ Firepower-wise, the Tiger E gains the access to the new PzGr 40 APCR ammunition,
 {{:KwK36 (88 mm)/Ammunition|PzGr 39, PzGr 40, Pzgr., Hl.Gr 39, Sprgr. L/4.5}}
 
 ==== [[Ammo racks]] ====
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.33.0.25''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -110,13 +110,13 @@ Firepower-wise, the Tiger E gains the access to the new PzGr 40 APCR ammunition,
 ! 10th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''92''' || 77&nbsp;''(+15)'' || 61&nbsp;''(+31)'' || 45&nbsp;''(+47)'' || 29&nbsp;''(+63)'' || 25&nbsp;''(+67)'' || 21&nbsp;''(+71)'' || 17&nbsp;''(+75)'' || 13&nbsp;''(+79)'' || 7&nbsp;''(+85)'' || 1&nbsp;''(+91)'' || No
+| '''92''' || 76&nbsp;''(+16)'' || 60&nbsp;''(+32)'' || 44&nbsp;''(+48)'' || 28&nbsp;''(+64)'' || 24&nbsp;''(+68)'' || 20&nbsp;''(+72)'' || 16&nbsp;''(+76)'' || 12&nbsp;''(+80)'' || 6&nbsp;''(+86)'' || 0&nbsp;''(+92)'' || No
 |-
 |}
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Note''':
 
-* Large sides empty: 29&nbsp;''(+63)'' shells.
+* Large sides empty: 28&nbsp;''(+64)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -130,9 +130,9 @@ Firepower-wise, the Tiger E gains the access to the new PzGr 40 APCR ammunition,
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,350 (150) || 900 || N/A || N/A
+| Coaxial || 2,400 (150) || 900 || - || -
 |-
-| Pintle || 2,000 (150) || 900 || -10°/+25° || -55°/+160°
+| Pintle || 2,100 (150) || 900 || -10°/+25° || -55°/+160°
 |-
 |}
 
@@ -251,8 +251,9 @@ The design of the turret was altered: the thickness of the armour at the top of 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[Tiger H1]]
+* [[Heavy Tank No.6 (Japan)]]
+* [[Tigris]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

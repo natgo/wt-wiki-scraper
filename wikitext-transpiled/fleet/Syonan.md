@@ -36,6 +36,7 @@ The Syonan is a relatively slow ship, reaching a max of 36 km/h in RB modes and 
 {{main|120 mm/45 10th year type (120 mm)}}
 
 The Syonan is equipped with two 120 mm/45 10th year type cannons for its primary weapon. They do a good amount of damage to smaller boats and reload quickly at 12 rounds a minute on an average crew. The guns also traverse fairly slowly at around 8.5 degrees a second, because of this they're a fairly poor weapon at closer ranges when needing to track small fast boats. These guns do have viability against the larger patrol vessels and destroyers you'll come across and will be your go-to weapon at longer ranges.
+{{:120 mm/45 10th year type (120 mm)/Ammunition|120 mm Type 1 HE, 120 mm Type 0 HE}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}

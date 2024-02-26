@@ -56,22 +56,23 @@ The Hiyodori doesn't pack much armament and doesn't come with any armament upgra
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FFAR Mighty Mouse}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 38 x FFAR Mighty Mouse rockets
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="18%" | 1 !! width="18%" | 2
 | rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! FFAR Mighty Mouse rockets
+! [[FFAR Mighty Mouse]] rockets
 | 19 || 19
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 38 x FFAR Mighty Mouse rockets
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

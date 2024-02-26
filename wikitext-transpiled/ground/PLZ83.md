@@ -39,7 +39,7 @@ Some similarities can be found between the PLZ83 and later [[PTZ89]] - they are 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 For maximum compatibility (and also due to the limit of technology) to Chinese tracked vehicles, all vehicles based on the WZ321 tracked chassis used the same 12V150L engine from the [[Type 59]] and a revised planetary transmission for its workload, and PLZ83 is no exception; thus the mobility of the vehicle feels like a lighter Type 59 and shares identical speeds at different gears. Be sure not to over-extend, as it doesn't have sufficient reverse to retreat to cover.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=739|rbMinHp=460}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -62,10 +62,10 @@ To accommodate such a huge 152 mm howitzer onto the WZ321 chassis, Chinese engin
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 30 || rowspan="2" | -5°/+65° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 30 || rowspan="2" | -5°/+65° || rowspan="2" | ±180° || rowspan="2" | - || 8.8 || 12.2 || 14.8 || 16.4 || 17.4 || rowspan="2" | 17.29 || rowspan="2" | 15.30 || rowspan="2" | 14.10 || rowspan="2" | 13.30
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 5.9 || 7.0 || 8.5 || 9.4 || 10.0
 |-
 |}
 
@@ -109,7 +109,7 @@ The PLZ83 is armed with the later QJC88A 12.7x108 mm machine gun on the commande
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 600 (150) || 600 || -6°/+85° || -161°/+156°
 |-
 |}
 
@@ -172,4 +172,5 @@ Overall, although there are major flaws in terms of firepower without more power
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{TankManufacturer Norinco}}
 {{China tank destroyers}}

@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{specs|name}}''' is a rank {{specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41.
+The '''{{specs|name}}''' was a Soviet light tank, developed from the previous BT-5 light tank. Both designs shared the same 45 mm 20-K cannon aswell as coaxial DT machine gun. Unlike the BT-5, the BT-7s hull was welded and the shape of hull at front was also redesigned. The frontal armour protection was slightly increased from 13 to 20 mm of armour. New short-pitch tracks were installed and Mikulin M-17T engine which was a licensed copy of German BMW VI V-12 engine was used instead of the M-5-400 found in BT-5 and earlier BT series tanks. New turret turret featuring sloped armour was also adopted. The BT-7 was used during Winter War and Continuation war with Finland aswell as during the early stages of Operation Barbarossa. Their numbers greatly reduced due to combat losses after 1941, the BTs served for the remainder of war. One example in running condition is preserved to this day.
 
-The BT-7 was the last of the BT series of Soviet cavalry tanks that were produced in large numbers between 1935 and 1940, and successor to the [[BT-5]]. It was lightly armoured, but reasonably well-armed for its time. The BT tanks were known by the nickname Betka from the acronym, or its diminutive, Betushka.
-
-The BT-7 tank's successor would be the famous T-34 medium tank, introduced in 1940, which would replace all of the Soviet fast tanks, infantry tanks, and medium tanks then in service.
+The BT-7 was introduced during the Closed Beta Test for Ground Forces before Update 1.41. The BT-7 features a very powerful gun on a highly mobile chassis, at the cost of no valuable armour. The tank commanders should utilize the speed of the BT to flank their enemies and shoot them from sides and then quickly change position and perform another ambush as the vehicle itself is very lightly armoured and any hit is fatal.
 
 == General info ==
 === Survivability and armour ===

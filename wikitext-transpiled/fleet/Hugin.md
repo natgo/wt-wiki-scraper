@@ -5,13 +5,15 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German motor torpedo boat {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+The '''Hugin class''' was a set of small patrol boats designed for the post-war German Navy by a Norwegian designer. The two boats were ordered for evaluation since Germany decided to test a new hull shape different from their previous fast attack vessels, specifically designed to operate in narrow coastal waters. The two vessels were ordered in 1960 from the Norwegian company Båtservice Verft, of Mandal, that had already a decent experience with these sorts of designs. The experiment, however, failed and in 1964 the vessels were transferred to the Turkish Navy.
+
+It was introduced in [[Update "Fire and Ice"]]. The '''{{Specs|name}}''' works very well in most conditions at its BR, but it suffers from lack of armour, a mediocre armament and the fact that is very small. It will usually fight early destroyers and gun boats with far more powerful armament. However the Hugin is very fast, and has very capable mobility. The 40 mm Bofors L/70 model 1948 cannon has access to pretty capable ammo belts, a decently large ammo pool and enough penetration to deal with other torpedo boats and even heavier gun boats armed with more conventional cannons. Is a good idea sneaking through the coast and attacking unsuspected destroyers or frigates using your torpedoes, while using your good mobility to rush capture points at the start of the match.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+As expected for a vessel of its BR and class, the Hugin has rather poor survivability. Like most torpedo boats, the Hugin has a very exposed main armament and the ammo magazines are also very exposed to even 12.7 mm fire. Even small high explosive projectiles can set the boat afire and disable it or even destroy it by killing most of the crew in case of a direct hit to the crew compartment.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -50,19 +52,27 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German motor torpedo boat {{Ba
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+
+During German rearmament in the Cold War era, the West German Navy, the ''Bundesmarine'', had built a number of fast attack vessels mostly based on previous designs of World War 2. However since the Cold War era introduced much superior technology, these vessels were very outmatched by Soviet and East German designs.
+
+Thus, in the 1960s, the German Navy was interested in the adoption of a new concept for a completely different shape for vessels made for narrow coastal waters. A Norwegian company by the name ''Båtservice Verft'' was interested in providing Germany with these designs. This company already had experience in designing small motor boats and they provided Germany with a prototype fast patrol boat called the ''Nasty'', designed with a hard-chined planing hull.
+
+Germany acquired only two boats, named Hugin and Munnin after Odin's ravens in Norse mythology. The two vessels remained in service for almost four years, but the experiment was not successful and they were transferred to the Turkish Navy in 1964.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_type152_hugin Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -70,6 +80,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German motor torpedo boat {{Ba
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -78,6 +89,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German motor torpedo boat {{Ba
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

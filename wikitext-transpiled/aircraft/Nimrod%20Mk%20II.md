@@ -10,17 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British naval fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The Hawker Nimrod was a carrier-borne, biplane fighter which entered service with Britain's Fleet Air Arm in 1931. By 1934, full-scale production of Nimrod Mk I fighters was replaced by that of Mk II fighters. All Nimrod Mk IIs were fitted with an arrestor hook for carrier operations, their wings were modified with a slight sweep back and tail surfaces were slightly larger than those of the Nimrod Mk I. The powerplant was also improved in the Mk II; a 608 hp Rolls-Royce Kestrel V liquid cooled, in-line engine replaced the earlier 590 hp engine. The Hawker Nimrod fighter was replaced in first-line units by the Gloster Sea Gladiator and the Blackburn Skua before the start of World War II. Nimrods continued to be operated as training and liaison aircraft until July 1941. At the end only 30 units of the Mk.II variant were ever built.
 
-The Nimrod Mk II is a rank I plane for Britain. It is a biplane with 2 x 7.7 mm Vickers machine guns. The main difference between it and the Mk. I is the slightly swept wing and more powerful engine. Climb rate, turn rate, roll rate, and acrobatic ability are superb, mostly due to the Nimrod being a biplane.
-
-Being a biplane, the Nimrod is very forgiving and thus is very flexible in techniques and tactics. Turn rate provides players with a thrilling beginning in Arcade, and the roll rate and climb rate provides for some interesting acrobatics with the Nimrod. The armament is poor when compared to contemporaries.
-
-The endurance of the Nimrod Mk II is very good given the high ammunition count, turn, roll and climb rates. Realistic Battles (RB) with the Nimrod are a great first taste of actual RB play with more specialised planes.
-
-Simulator battles (SB) with the Nimrod provide a great chance for players to have their first taste of Simulator Battles. The open cockpit provides beginners with an open and clear view, and learning to use the gun sight provides unique gameplay for beginners.
-
-Overall, the Nimrod provides a solid and reliable foundation experience for players who have recently begun the game.
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Nimrod Mk II is a rank I plane for Britain. It is a biplane with 2 x 7.7 mm Vickers machine guns. The main difference between it and the Mk. I is the slightly swept wing and more powerful engine. Climb rate, turn rate, roll rate, and acrobatic ability are superb, mostly due to the Nimrod being a biplane. Being a biplane, the Nimrod is very forgiving and thus is very flexible in techniques and tactics. Turn rate provides players with a thrilling beginning in Arcade, and the roll rate and climb rate provides for some interesting acrobatics with the Nimrod. The armament is poor when compared to contemporaries. For Simulator Battles (SB) the Nimrod provides a great chance for players to have their first taste of Simulator Battles. The open cockpit provides beginners with an open and clear view, and learning to use the gun sight provides unique gameplay for beginners.
 
 == General info ==
 === Flight performance ===

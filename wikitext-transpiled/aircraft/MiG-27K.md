@@ -243,19 +243,59 @@ As mentioned before, the MiG-27K's arsenal is largely the same as the MiG-27M's.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+'''<u>General Tactics</u>''' 
+
+The user is able to utilise the MiG-27K's powerful ordinance and long range to eliminate many ground vehicles in a single pass. The MiG-27K can be used to destroy enemy vehicles from an extreme range. The pilot of the aircraft should ensure that they manage targets effectively to destroy as many enemies as possible and keeping themselves alive. It should be noted that a MiG-27K can single-handedly change the course of a game if handled correctly, avoiding SPAA and enemy jets by giving them a small window of opportunity to counter the MiG-27K.  
+
+From the perspective of the ground player, the MiG-27K can be rather terrifying. The capabilities of the vehicle come from its range, speed and potent weapons. This allows the MiG to only reveal itself for an extremely short amount of time, only appearing when striking targets from a distance. A main battle tank has a close to zero chance of being able to do ''anything'' against the MiG-27K, and that is what makes it so terrifying.  
+
+The pilot should, however, keep an eye out for other enemy aircraft, as the MiG-27K has a limited amount of chaff and flares and a poor selection of air-to-air missiles for its position in the tech tree. Avoiding SPAA is imperative as vehicles such as the notorious FlaRakRad will have a field day with a MiG if flown incorrectly.  
+
+<u>Using air-to-ground missiles</u>
+
+It is suggested to use air-to-ground missiles against targets such as SPAA and tanks. The KH-25ML, KH-29L and KH-29T rockets are excellent examples of powerful ordanance that can be employed to destroy multiple targets in a single pass. A massive advantage of using these missiles is that they are extremely potent, and therefore the pilot doesn't need to worry about where he is aiming, as long as he hits the target. 
+
+Firstly, the pilot must be aware of the current situation on the battlefield, and create a list of targets that are imperative to winning the battle. If enemies are overrunning a point, for example, the MiG-27K can be used to relieve pressure on the team and destroy targets capturing the point. In doing this, the pilot should manage their altitude in order to avoid SPAA fire as best they can, and using their targeting pod to guide missiles in to high-priority targets. 
+
+[[File:Mig 27.png|thumb|right|MiG-27k using high-zoom optics to seek a target at a range of almost 10 kilometres away. ]]
+
+This can be done from any altitude, but a lower one is more reliable as it gives the SPAA player a shorter time to react, lock and fire upon the MiG-27K. Use your high speed to evacuate the danger zone after a pass, re-evaluate the situation and go in for more targets. Once you are out of missiles, simply rush to the airfield and ensure that you re-arm and refuel. Take off once again and continue the process of evaluating targets, taking them out and re-positioning, keeping the enemies guessing as to where you are. The benefits of using guided missiles are the fact that they have high battlefield maneuverability, allowing them to be fired when the MiG-27K is not facing its target.   
+
+<u>Using guided bombs</u>
+
+Guided bombs such as the KAB-500L and KAB-500Kr bombs have an enhanced range due to them being unpowered and droppable from any height. 
+
+This means that the MiG-27K pilot can climb to extreme altitude, avoiding SPAA's attention, and carefully selecting targets based on the situation they find themselves in. However, an altitude of over 10,000 metres or 33,000 feet should be avoided, as several SPAAs are designed specifically for destroying high-flying aircraft. 
+
+Guided bombs can be used to quietly eliminate targets from such a distance that they were not even aware the MiG was in the area, allowing for multiple targets to be acquired and destroyed on a single pass. This allows them to take out targets and re-arm without any realistic threat from the ground. However, this leaves the MiG vulnerable to other aircraft that are capable of firing missiles that can destroy their vehicle from many miles away - namely the FlaRakRad and the ADATS weapon systems.  
+
+<u>Up Close & Personal</u>
+
+The MiG-27K has one final ace up its sleeve. The infamous GSh-6-30 cannon, mounted on the bottom of the vehicle. 
+
+It is not advised to use the cannon, as it leaves the pilot vulnerable to SPAA strikes. However, some situations call for a desperate attempt to thwart the enemy advance, and the GSh-6-30 is more than capable of doing this. Equipped with 300 rounds of ammunition, the 30 mm cannon will shred any lightly armoured vehicle with ease. Heavier armour, such as Leopard MBTs and Abrams MBTs can also be approached, albeit from the top. Getting rounds through the top of the turret will vaporise crew members and components inside, resulting in the temporary crippling of the vehicle or outright destruction. Ammo loads are often ignited by the cannon, rendering the tank useless unless it re-arms. 
+
+SPAA vehicles will have an extremely difficult time defending against the cannon if caught unaware, as it will easily destroy most SPAA vehicles with a few rounds. However, spawn invulnerability may play a large part into the demise of the "brawling" playstyle, as invincible SPAA will cause a large issue for the MiG-27K on the exit of the gunrun. 
+
+Another point should be made on overcommitting to the airstrike, as the MiG-27K is not as manoeuvrable as other aircraft. This means that the plane will not pull up as violently as one might want it to when in a dive, resulting the pilot ploughing into the ground at Mach 1. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-*
+* Ability to equip 4 devastating air-to-ground missiles
+* Supersonic aircraft capable of re-arming quickly
+* Access to guided bombs and effective munition, able to outrange some SPAA found at this rank
+* Effective targeting pod with high sight range, upwards of 15 km in good visibility
 
 '''Cons:'''
 
-*
+* Low amount of ordinance compared to more modern vehicles at the same rank
+* Lack of thermal targeting pod means vehicle is rendered inadequate in poor weather conditions
+* Poor selection of air-to-air missiles compared to other vehicles with more modern air-to-air capabilities
+* Less manoeuvrable than other vehicles that can be faced at this rank
+* Vulnerable to AAA due to its large radar signature
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

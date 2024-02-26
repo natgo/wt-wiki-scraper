@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' was one of the most iconic US naval fighter jets of the Cold War era. Developed after the US Navy's failed F-111B program, the F-14A was first deployed in 1974 wielding the advanced [[AN/AWG-9]] radar and up to eight missiles, including the iconic [[AIM-54A Phoenix|Phoenix missile]], to target and destroy enemy targets from extremely long ranges.
+One of the most iconic US naval fighter jets of the Cold War era, the two-seater '''F-14A''' was developed as the US Navy's fleet-defense fighter jet to protect their carrier groups over vast swathes of ocean against Soviet bombers carrying anti-ship missiles. Developed after the US Navy's failed F-111B program, the F-14A was first deployed in 1974 wielding the advanced [[AN/AWG-9]] radar and up to eight missiles, including the iconic [[AIM-54A Phoenix|Phoenix missile]], to target and destroy enemy targets from extremely long ranges. Although it introduced a host of new capabilities, the F-14A suffered from its TF30 engines, which were subject to frequent failures, and other issues with the aircraft's flight characteristics that caused regular accidents.
 
-It was introduced in [[Update "Danger Zone"]], the F-14A can engage enemy air targets at far greater distances than most enemy aircraft, allowing the F-14A to take the initiative and achieve air superiority by firing first. At long range, Phoenix missiles force enemy fighters to actively monitor the sky even when they cannot yet see or detect the F-14A. While Phoenix missiles may prove too sluggish to target enemy fighters in high-speed merges, its [[AIM-7F Sparrow|Sparrows]] can engage maneuvering targets at short and medium ranges before engaging at closer ranges with [[AIM-9H Sidewinder|Sidewinders]] and M61 Vulcan cannon fire.
+Introduced in [[Update "Danger Zone"]], the F-14A can engage enemy air targets at far greater distances than most enemy aircraft, allowing the F-14A to take the initiative and achieve air superiority by firing first. At long range, Phoenix missiles force enemy fighters to actively monitor the sky even when they cannot yet see or detect the F-14A. While Phoenix missiles may prove too sluggish to target enemy fighters in high-speed merges, its [[AIM-7F Sparrow|Sparrows]] can engage manoeuvring targets at short and medium ranges before engaging at closer ranges with [[AIM-9H Sidewinder|Sidewinders]] and M61 Vulcan cannon fire.
 
 == General info ==
 === Flight performance ===
@@ -288,7 +288,7 @@ In ground realistic battles, the F-14A can use its long-range missiles to clear 
 '''Enemies Worth Noting'''
 
 * '''F-16A:''' These planes have excellent acceleration and decent top speed. In addition, they have AIM-9Ls, which can sometimes be difficult to flare with the F-14's two very hot engines, as well as AIM-7Ms (except the "normal" US F-16A and Israeli Netz"), which can give competition to the F-14's AIM-7Fs. One weakness of the F-16 is its angle of attack limiter which effectively bricks the F-16 at high speeds. This means it will have trouble dodging the F-14's AIM-7Fs at higher speeds. In a dogfight, the F-16 outturns the F-14 with it's excellent maneuverability, but the angle of attack limiter can be exploited in a merge with an F-16, where air braking, down-throttling and pulling hard into the F-16 may let you park yourself on his tail. The F-16's excellent acceleration in contrast with the F-14's poor acceleration makes it ill-advised to engage in a vertical dogfight with the F-16. It is generally best to avoid dogfighting the F-16, but if needed, a rate fight is favoured by the F-14.
-* '''MiG-29''': The MiG-29 has excellent acceleration and top speed. Though its R-60Ms are a far cry from the F-16's AIM-9Ls, it does possess the extremely dangerous R-27ER long range SARH missile. These missiles are faster accelerating and more maneuverable than the F-14's AIM-7Fs while having the same listed maximum range of 100 km. However, the MiG-29 can only carry two of them. They can be outranged by your AIM-54s, but at closer ranges, even a single missile can mean death for you, so you will have to use missile jousting strategies to beat the R-27ER with your AIM-7Fs. In a dogfight, it's mostly the same story as with the F-16: the MiG-29 has excellent maneuverability, and while the F-14 can certainly keep up, vertical dogfights should be avoided due to the stark difference in acceleration between the MiG-29 and F-14A. The best way to dogfight the MiG-29 in the F-14 is to utilize the F-14's excellent turn rate in a rate fight; staying at around 750 km/h will let the F-14 slowly out-rate the MiG-29.
+* '''MiG-29''': The MiG-29 has excellent acceleration and top speed. Though its R-60Ms are a far cry from the F-16's AIM-9Ls, it does possess the extremely dangerous R-27ER long range SARH missile. These missiles are faster accelerating and more manoeuvrable than the F-14's AIM-7Fs while having the same listed maximum range of 100 km. However, the MiG-29 can only carry two of them. They can be outranged by your AIM-54s, but at closer ranges, even a single missile can mean death for you, so you will have to use missile jousting strategies to beat the R-27ER with your AIM-7Fs. In a dogfight, it's mostly the same story as with the F-16: the MiG-29 has excellent maneuverability, and while the F-14 can certainly keep up, vertical dogfights should be avoided due to the stark difference in acceleration between the MiG-29 and F-14A. The best way to dogfight the MiG-29 in the F-14 is to utilize the F-14's excellent turn rate in a rate fight; staying at around 750 km/h will let the F-14 slowly out-rate the MiG-29.
 * '''Mirage 2000C:''' Mirage 2000s have excellent acceleration and top speed, as well as powerful missiles. Like AIM-9Ls, the Magic 2 can be difficult to flare, and the Super 530D is comparable to the AIM-7F, but it should be noted that the Mirage 2000C only has two of each of these missiles. In a dogfight, the Mirage 2000 has excellent instantaneous turn rate, but due to its delta wing design bleeds speed quickly; in this case the F-14A's excellent rate speed should be used to drain the Mirage 2000 of energy and outrate it.
 * '''F-4J, F-4S, F-4EJ Kai, Kurnass 2000:''' These Phantoms can very easily be beaten in a dogfight by the F-14A, but beware of potent AIM-7Fs, and in the case of the EJ Kai and Kurnass 2000, a powerful radar and all-aspect AIM-9Ls.
 * '''MiG-23ML/MLA/MLD:''' These MiG-23s boast good R-24s which can compete with the AIM-7F, as well as dangerous R-24Ts which can lock on to the F-14's hot heat signature and stealthily destroy it. Good situational awareness is key to defeating these missiles. In a dogfight, MiG-23s have a surprisingly good rate speed which can keep up with the F-14. However, their instantaneous turn rate is poor, so a one circle or scissors can be used with the F-14A to easily gain an advantage over MiG-23s.
@@ -325,11 +325,18 @@ The last thing is using the combat flaps, but overusing them and doing it in the
 
 * Very effective dogfighter at any speed with its variable wing sweep which gives it great energy retention
 * Variable swept wings can help plane accelerate fast when swept back and turn better when the wing is less swept
+* Elevators behave like ailerons, maintaining a high roll rate at all speeds
 * High top speed (can cap out at 1500 km/h IAS at sea level)
 * Lethal M61 Vulcan cannon which has an extremely fast fire rate, great velocity, and great damage
 * Can carry up to 8 missiles maximum, with options of AIM-7s, AIM-9s, and [[AIM-54A Phoenix|AIM-54]]<nowiki/>s for versatile use
 * The AIM-54 has insane range (100 km max), its rocket booster lasts for a very long time, and it's an active radar homing missile (at closer ranges, it can automatically guide itself towards enemies using its own radar)
 * Multi-mode radar makes it effective in any situation (the TWS mode allows launching AIM-54s at multiple aircraft at once and provides amazing situational awareness)
+* Same RWR as F-4J and F-4S:
+** Has launch detection
+** Covers frequency bands E-J
+** Detects a wide variety of targets:
+*** AI LO, AI HI, AAA/AI
+*** SAM LO, SAM MID, SAM HI
 * The new [[AIM-9H Sidewinder|AIM-9H]] has much better flare resistance than previous AIM-9s (such as the [[AIM-9G Sidewinder|G]] or [[AIM-9J Sidewinder|J]] variants)
 
 '''Cons:'''
@@ -344,6 +351,11 @@ The last thing is using the combat flaps, but overusing them and doing it in the
 * The AIM-54A's rocket motor lasts for a very long time, giving plenty of time for enemies to spot and evade it
 * Requires lots of work and control binds related to the radar and variable wing sweep angle to make the most of the aircraft
 * The Damping SAS mode limits the AoA so much that it cannot be used in one-circle fights (scissors etc.) thus forcing the player to use the much harder to use the Manual SAS mode (SB with full-real controls)
+* RWR:
+** Lacks IFF
+** Lacks tracking detection
+** Cannot show target name
+** A significant number of targets are shows as "?"
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

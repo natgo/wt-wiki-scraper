@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (or just '''Tetrarch''') is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the initial British ground tree. A light tank with a [[Ordnance QF 2-pounder (40 mm)|2-pounder]], it fits the British light line of a fast tank with a powerful gun but weak armour.
+Development for this tank started in 1937 by Vickers-Armstrongs privately as the '''Light Tank Mk VII''' and nicknamed the ''Purdah''. The trials tested the tank's ability to act as a "light cruiser", but this failed as the [[A13 Mk I|A13 cruiser]] was much better at the task. Thus, it was suggested that the Mk VII be tested as a light tank instead and production to be started for the trials. The Tetrarch was first issued in November 1940 to the 1st and 6th Armoured Division, the 1st had lost most of their equipment in the Battle of France and the 6th was a newly formed unit. While these units were sent to North Africa, the defects in the engine cooling system forced the Tetrarchs to stay behind, until they were taken out of armoured divisions due to the "light tank" concept becoming obsolete. Most of the Tetrarchs were shipped overseas and the Soviet Union compared their role to that of the T-70 light tank, they were mainly used for reconnaissance and for airborne operations.
 
-The Tetrarch plays like any other Rank I vehicle in the game. Zip around with high speed to the destination and get a first shot off on the enemy tank (preferably the gunner). The 2-pounder can penetrate most enemy tanks at close range and the 40 mm shells can cause a decent amount of shrapnel that can damage most of the internals at the area of the penetration. The mobility is great with the adequate horsepower to propel the 7 ton tank around. The armour is barely adequate for Rank I, with its flat surfaces encouraging penetration with the cramped interiors making one-hit destruction a worrying situation for the Tetrarch.
+It was introduced in [[Update 1.55 "Royal Armour"]] along with the initial British ground tree. A light tank with a [[Ordnance QF 2-pounder (40 mm)|2-pounder]], it fits the British light line of a fast tank with a powerful gun but weak armour. The Tetrarch plays like any other Rank I vehicle in the game. Zip around with high speed to the destination and get a first shot off on the enemy tank (preferably the gunner). The 2-pounder can penetrate most enemy tanks at close range and the 40 mm shells can cause a decent amount of shrapnel that can damage most of the internals at the area of the penetration. The mobility is great with the adequate horsepower to propel the 7 ton tank around. The armour is barely adequate for Rank I, with its flat surfaces encouraging penetration with the cramped interiors making one-hit destruction a worrying situation for the Tetrarch.
 
 == General info ==
 === Survivability and armour ===
@@ -48,6 +48,7 @@ However, just like most of the WW2 tanks, the Tetrarch suffers from a slow rever
 
 === Modifications and economy ===
 {{Specs-Economy}}
+
 * The "Parts" and "FPE" modifications are important, even if this tank has poor survivability.
 * Since the turret traverse is dangerously slow for a light tank, one might want to research the "Horizontal Drive" first to get that extra few degrees of rotation.
 * Then, unlocking "Tracks" can give you a little bit smoother hull traverse.
@@ -84,6 +85,7 @@ The biggest drawback of the Tetrarch I's firepower is the painful turret travers
 |}
 
 ==== Ammunition ====
+
 * The default round is the Shot Mk.1 AP/T. This shell has a maximum penetration of 72 mm which is generally enough to frontally penetrate most if not all tanks at this BR. The trajectory is average. Its post-penetration effect is mediocre since it is a solid round, and it might only knock out tanks that are very cramped with a single shot, like the BT series, the M22, etc. For large targets like the LVT, this shot will struggle a lot. You might even have to target the crew members  one by one.
 * The researchable Shot Mk.IXB APCBC/T has the highest penetration, at a maximum of 89 mm. This makes it useful against heavy opponents like the B1 if you take the Tetrarch to a higher BR. The shell can only penetrate effectively with minimum or no angling from the target armour plate, any slopes tend to result in non-penetrations or ricochets.
 * The researchable Shell Mk.1 AP/T is perhaps the best choice, since it has an explosive filler. Its maximum penetration of 66 mm is adequate to frontally penetrate all light and medium vehicle within common combat range (0-600 m), and the explosive filler can do a great job at knocking out most if not all crew within the enemy vehicle. However against better armoured tanks (e.g. [[Ka-Chi]]) or large tanks (e.g. [[LVT(A)(1)|LVT(A)]]) the shell will start losing effectiveness and will not be able to take them out with a single shot or even effectively penetrate them.
@@ -150,6 +152,7 @@ Otherwise, anyone playing the Tetrarch should get back behind friendly lines if 
 
 === Enemies worth noting: ===
 As with any tank equipped with the [[Ordnance QF 2-pounder (40 mm)|QF 2-pounder]], little post-penetration damage makes large and crowded tanks a nightmare, thus, [[LVT(A)(1)]], [[T-28]] and the less common [[T-35]] should be avoided, although the Tetrarch's APHE shell can be rather quite effective against these vehicles. The fast rate of fire is also helpful to pinpoint their crew members one by one.
+
 * [[M3 Stuart (Family)|M3]]/[[M5 Stuart (Family)|M5]]: the Stuart series light tank have equally fast top speed both on road and off road, meaning they can rush a cap point or relocate just as swiftly as you can. They also have way faster turret traverse, allowing them to deal with close quarter combat much more efficiently, making them deadlier. Although their gun calibre is smaller at 37 mm, they can still cripple or knock you out with a single shot due to your cramped crew. They have a bouncy upper hull glacis and a sturdy gun mantlet, so avoid shooting there. Your APHE shell can frontally penetrate and cripple or knock them out in return. Try using your stabiliser to shoot first.
 * [[AS 42]]: this is a small and fast Italian SPAA car armed with a 20 mm autocannon. The gun has no problem piercing your thin armour from any angle, and the fast rate of fire means that it can quickly wipe out all your crew. Since it is small and fast, it can be challenging to target it given the Tetrarch I's extremely poor turret rotation. Rotate the hull to aim faster, and spray MG bullets towards it between reloads.
 * [[Ka-Chi]]: this amphibious Japanese tank can be quite strong. It has 50 mm frontal armour which can defeat most of the Tetrarch I's rounds when at a distance and/or angling. It also has spaced armour on the hull sides, and most noticeably the additional floaters at the hull front and back. The floaters will act as very effective spaced armour, absorbing HEAT, HE and even kinetic rounds. The Ka-Chi has 7 crew spread out inside, meaning it is pretty impossible to one-shot it using APHE. It is not advised to engage it from a distance, since the hull is quite thick especially with the floaters. To avoid the large hull and target the weaker turret it is best to get close, preferably within 400 m. The Tetrarch I's APHE can easily take out the Ka-Chi's turret crew. Only shoot when it is distracted or reloading though, as its 47 mm APHE can undoubtedly penetrate and knock out all 3 crew members in the Tetrarch at any range and angle.
@@ -164,14 +167,14 @@ As with any tank equipped with the [[Ordnance QF 2-pounder (40 mm)|QF 2-pounder]
 * Vertical [[Gun stabilizer|stabilizer]] available for the 2-pounder, an advantage in CQC
 * Small profile, is harder to get spotted and hit
 * Large gun depression of -15 degrees
+* 2 smoke grenade launchers
 
 '''Cons:'''
 
 * Rather slow turret traverse
 * High speed often makes the vehicle hard to control
 * Low survivability: incredibly thin armour, low crew count, and is vulnerable to overpressure or even ramming damage
-* Only reaches max speed when going down a slope
-* Does not have good post-penetration damage, often requiring follow-up shots to finish off the enemy
+* Terrible reverse speed
 * High shell dispersion at longer ranges
 * Short hull, has difficulty crossing ditches/trenches
 

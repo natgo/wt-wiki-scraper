@@ -169,6 +169,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x R-3S missiles
 * 32 x S-5K rockets
@@ -240,7 +241,7 @@ The MiG-19PT is equipped with an [[RP-5]] search and tracking radar. One radar a
 * Poor low-speed manoeuvrability
 * Engines are huge; can be easily disabled by enemy fire
 * Radar suite is not as good as the one fitted on the [[Javelin F.(A.W.) Mk.9]] and [[Mitsubishi T-2]]
-* No countermeasures or RWR
+* No countermeasures
 * Low ammo count
 
 == History ==

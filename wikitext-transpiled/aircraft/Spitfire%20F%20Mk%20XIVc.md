@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update 1.41]].
+The Spitfire F Mk XIVc was the product of installing a Rolls-Royce Griffon 60 engine into the fuselage of the existing Spitfire Mk VIII, which was an experimental series of about 100 Griffon-powered Spitfires. The fuselage was lengthened to 9.95 m and new wing fuel tanks had to be installed due to higher fuel consumption of the Griffon engine compared to the previous Merlin. The Mk XIVc also received a new five-blade Rotol propeller and a "C"-type wing with two 20 mm Hispano cannons and four 7.7 mm Browning machine guns. The Mk XIVs were primarily used as a V-1 flying bomb hunters due to their high speed while utilizing 150 octane fuel.
+
+The Spitfire F Mk XIVc was introduced in [[Update 1.41]]. Featuring much greater engine power due to its Griffon engine, the Mk XIVc is faster than the previous Merlin-powered variants, at the cost of decreased manoeuvrability. However, the Spitfire is still able to out-turn most of its opponents while retaining the great climb rate and speed.
 
 == General info ==
 === Flight performance ===

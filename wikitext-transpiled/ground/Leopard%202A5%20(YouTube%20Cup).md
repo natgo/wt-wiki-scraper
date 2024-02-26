@@ -1,3 +1,8 @@
+{{About
+| about = gift German medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Leopard 2 (Family)
+}}
 {{Specs-Card
 |code=germ_leopard_2a5_yt_cup_2019
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

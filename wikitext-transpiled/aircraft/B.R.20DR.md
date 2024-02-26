@@ -5,16 +5,14 @@
 }}
 {{Specs-Card
 |code=br_20_dr
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian bomber {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]] alongside the initial Italian aviation tree.
+The '''{{Specs|name}}''' was Italy's primary bomber during most of World War II and specially during the Africa Campaign. It was one of the most produced and widely used  variants of the BR.20, being introduced in 1936 and serving until 1945. In fact, the BR.20 also served with Japan during World War II, with 82 units sold to this nation, however the aircraft was highly criticized for the poor engine reliability and lacking firepower. In total 500 units of the BR.20 "Stork" were produced between 1936 and 1943.
 
-The BR.20 has a superb bomb load and is quite strong, being able to soak up a bit more damage than other comparable bombers. The defensive armament has excellent coverage; however, the dorsal gunner is quite exposed and commonly gets hit while in combat. It not only looks but also flies like a brick. This is a very slow plane and in Arcade and Realistic battles, and because these game modes are so short, by the time you reach your bombing target the match may almost be over! The BR.20 is still however quite a treat to fly and is stable and well suited to Simulator.
-
-Another very interesting strategy the BR.20 DR is capable of is ironically, attacking other bombers. When the top & front gunner are pointed forward, the combined firepower of three 7.7 machine guns makes for a nasty surprise, especially if loaded with the AP-I belt!
+It was introduced in [[Update 1.69 "Regia Aeronautica"]] alongside the initial Italian aviation tree The BR.20 has a superb bomb load and is quite strong, being able to carry more explosive ordinance than most other bombers. The defensive armament has excellent coverage; however, the dorsal gunner is quite exposed and commonly gets hit while in combat. It is very sluggish and the flight performance is inferior to most bombers at its BR. This is a very slow plane in Arcade and Realistic battles, and because these game modes are so short, by the time you reach your bombing target the match might even be over. The BR.20 is still however quite a treat to fly and is stable and well suited to Simulator. Another very interesting strategy the BR.20 DR is capable of is ironically, attacking other bombers. When the top & front gunner are pointed forward, the combined firepower of three 7.7 machine guns can surprise other bomber pilots especially if loaded with the AP-I belts.
 
 == General info ==
 === Flight performance ===
@@ -198,9 +196,11 @@ From 1937 to 1939 B.R.20s served in the Spanish Civil War. The model did less we
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[B.R.20M M1]]
 
 ;Aircraft of comparable role, configuration and era
+
 * [[B-10B]]
 * [[He 111 H-3]]
 * [[SB 2M (Family)]]

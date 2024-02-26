@@ -35,43 +35,8 @@ The speed of the RN Tigre is reasonable though not especially fast, she does rea
 The RN Tigre has a heavy gun armament (for a destroyer) of eight 120/45 Canet-Schneider-Armstrong Mod. 1918/19 main guns. These fire the same shells as the 120/45 OTO Mod. 1926 guns on the Italian reserve destroyer [[RN Turbine|Turbine]] and have generally identical performance to them as well. They are distributed in four twin mounts, one in the bow, one in the stern, and the other two amidships. Three of these mounts have unlimited traverse, but the one sited between the funnels cannot be traversed fully because of the fore funnel blocking the guns. The guns have a fairly low rate of fire of only 7 rounds/minute maximum with an aced crew.
 
 The 120 mm guns fire HE, HE-DF, and APHE shells. The HE (and identical HE-DF) shells have a large filler for a 120 mm shell at 2.39 kg of TNT, which is significantly more than those of the newer 120 mm HE shells used by the [[Dardo]] and Corazziere and even the larger 135 mm HE shells of the [[RN Comandante Margottini|Comandante Margottini]], [[RN Attilio Regolo|Attilio Regolo]], and [[RN Etna|Etna]]. However, her APHE has less filler than the APHE on those other ships. HE-DF explodes at the range set by the rangefinder, primarily for anti-aircraft usage, but the limited gun elevation makes the main guns quite hard to use in the anti-aircraft role.
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 1,000 m !! 2,500 m !! 5,000 m !! 7,500 m !! 10,000 m !! 15,000 m
-|-
-| 120 mm HE Dirompente || HE || 29 || 29 || 29 || 29 || 29 || 29
-|-
-| 120 mm APBC Perforante || APHE || 154 || 121 || 81 || 56 || 41 || 35
-|-
-| 120 mm HE-TF Contro-aerea || HE-TF || 29 || 29 || 29 || 29 || 29 || 29
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(s)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (kg)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 120 mm HE Dirompente || HE || 850 || 22.11 || 0 || 0.1 || 2.39 || 79° || 80° || 81°
-|-
-| 120 mm APBC Perforante || APHE || 850 || 23.15 || 0.025 || 6 || 1.16 || 47° || 60° || 65°
-|-
-| 120 mm HE-TF Contro-aerea || HE-TF || 850 || 22.11 || 0 || 0.1 || 2.39 || 79° || 80° || 81°
-|-
-|}
+
+{{:120 mm/45 Canet-Schneider-Armstrong mod.1918-19 (120 mm)/Ammunition|120 mm HE Dirompente, 120 mm APBC Perforante, 120 mm HE-TF Contro-aerea}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
@@ -80,55 +45,21 @@ The 120 mm guns fire HE, HE-DF, and APHE shells. The HE (and identical HE-DF) sh
 
 The Secondary armament is composed by Two 76 mm/40 Ansaldo mod.1917, these two cannons are positioned by one mount in both sides and this is the armament difference between RN Tigre and RN Leone (2x Twin 13,2mm), in addition to this these cannons are perfect for the anti-aircraft role using the HE-TF thanks to the option to choose targets with AI these cannons become really lethal against air targets, while for more anti-ship role I recommend using the APHE which allow you to damage both small boats and ships where in the small boats you can shoot anywhere and cause heavy damage while if you are against ships such as destroyers and light cruisers you have to shoot in the area of the engines to cause as much damage as possible.
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="8" | Penetration statistics
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! colspan="6" | Penetration @ 0° Angle of Attack (mm)
-|-
-! 100 m !! 1,000 m !! 2,000 m !! 3,000 m !! 4,000 m !! 5,000 m
-|-
-| 76 mm HE || HE || 10 || 10 || 10 || 10 || 10 || 10
-|-
-| 76 mm APHE || APHE || 69 || 32 || 14 || 7 || 6 || 6
-|-
-| 76 mm HE-TF || HE-TF || 10 || 10 || 10 || 10 || 10 || 10
-|-
-|}
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="10" | Shell details
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! rowspan="2" | Type of<br>warhead
-! rowspan="2" | Velocity<br>(m/s)
-! rowspan="2" | Projectile<br>mass (kg)
-! rowspan="2" | Fuse delay<br>(m)
-! rowspan="2" | Fuse sensitivity<br>(mm)
-! rowspan="2" | Explosive mass<br>(TNT equivalent) (g)
-! colspan="3" | Ricochet
-|-
-! 0% !! 50% !! 100%
-|-
-| 76 mm HE || HE || 690 || 6 || 0 || 0.1 || 650 || 79° || 80° || 81°
-|-
-| 76 mm APHE || APHE || 690 || 5.87 || 1.6 || 4 || 319 || 47° || 60° || 65°
-|-
-| 76 mm HE-TF || HE-TF || 690 || 6 || 0 || 0.1 || 650 || 79° || 80° || 81°
-|-
-|}
+{{:76 mm/40 Ansaldo mod.1917 (76 mm)/Ammunition|76 mm HE, 76 mm APHE, 76 mm HE-TF}}
 
 === Anti-aircraft armament ===
 {{Specs-Fleet-AA}}
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|40 mm/39 Vickers-Terni mod.1915/1917, Modif.1930 (40 mm)}}
 
-The AA armament is composed by two 40mm/39 Vickers-Terni mod.1915/1917, Modif.1930 (40mm), these 40mm cannons are more specific for anti-aircraft role but they still struggle to hit the enemy target even if they have HE-TFs but when they hit the enemy aircraft due to the framentation of the shot it causes the destruction of the aircraft, I strongly advise against using them against small naval targets in automatic because it already causes little damage and then the enemy boat might be armoured.
+The AA armament is composed by two 40 mm/39 Vickers-Terni mod.1915/1917, Modif.1930, these 40 mm cannons are more specific for anti-aircraft role but they still struggle to hit the enemy target even if they have HE-TFs but when they hit the enemy aircraft due to the framentation of the shot it causes the destruction of the aircraft, I strongly advise against using them against small naval targets in automatic because it already causes little damage and then the enemy boat might be armoured.
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
-{{main|S.I. 250/533,4X7,5 Tipo A (533 mm)}}The only additional armament that the RN Tigre carries are 4 S.I. 250/533.4X7.5 Type A Torpedoes, which have enough explosives to damage or destroy enemy ships except Battlecruisers and Battleships in one hit, using the torpedo modification you can increase torpedo range but lose torpedo speed, always try to target the holds in enemy ships which are almost always under the main towers.
+{{main|S.I. 250/533,4X7,5 Tipo A (533 mm)}}
+
+The only additional armament that the RN Tigre carries are 4 S.I. 250/533.4X7.5 Type A torpedoes, which have enough explosives to damage or destroy enemy ships except Battlecruisers and Battleships in one hit, using the torpedo modification you can increase torpedo range but lose torpedo speed, always try to target the holds in enemy ships which are almost always under the main towers.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The '''{{Specs|name}}''' was an all-weather interceptor variant of the Vautour II. For its time, it was a very capable interceptor, with almost supersonic speeds, it was capable of intercepting most Soviet bombers and other aircrafts at high altitude. For this task, it used the much improved SNECMA ATAR 101E5 engine, it also had 2 crewmembers, a pilot and a navigator in a two seat configuration. For interception, it was equipped with the DRAC-32A radar that was very powerful for its time of introduction, this came with access to carry AA-20 Nord MCLOS guided air-to-air missiles, as well as Matra R511 radar guided missiles later on. The Vautour IIN was used up until the 1970s, after which it was retired.
+
+Introduced in [[Update "Drone Age"]], the '''{{Specs|name}}''' has access to a set of very powerful engines. However this comes with the fact that the Vautour II is very sluggish and has access to only mediocre weapons. Its main armament is the R511 radar guided missile, and while most aircrafts at this rank don't have countermeasures, the missile is very slow and easy to avoid, it has also a mediocre guidance system, and it requires a few seconds to reach maximum maneuverability. Thus the Vautour IIN should be used at altitudes above 3000 m so that its radar can be effectively used against climbing enemies, like the F-104s in case of an uptier.
 
 == General info ==
 === Flight performance ===
@@ -129,27 +131,28 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AA-20 Nord|Matra R511}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 4 x AA-20 Nord missiles
-* 4 x Matra R511 missiles
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
 | rowspan="3" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! AA-20 Nord missiles
+! [[AA-20 Nord]] missiles
 | 1 || 1 || 1 || 1
 |-
-! Matra R511 missiles
+! [[Matra R511]] missiles
 | 1 || 1 || 1 || 1
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 4 x AA-20 Nord missiles
+* 4 x Matra R511 missiles
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -187,7 +190,9 @@ There are several big threats to the Vautour, take care around the [[Sea Vixen F
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=so_4050_vautour_2n_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

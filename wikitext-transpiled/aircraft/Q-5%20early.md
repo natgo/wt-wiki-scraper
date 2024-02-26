@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese strike aircraft {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]].
+The '''{{Specs|name}}''' (强-5型强击机; NATO codename: Fantan), also known as the {{Annotation|Eagle 302|雄鹰302}} project, was the first series of [[Q-5 (Family)|Q-5]] attackers produced from 1969. It was developed after the PLAAF captured some coastal islands from the Nationalist forces and observed the effectiveness of the [[IL-10 (1946) (China)|IL-10]] attackers in air-land operations. However, the propeller-driven IL-10 was outdated by the late 1950s, when the PLAAF had acquired supersonic jets like the MiG-19 and its license-built version, the J-6. The PLAAF approved a design for a jet attacker based on the MiG-19, but with a side intake, called the Dongfeng 106. The design process was delayed by the economic difficulties during the Great Leap Forward and took ten years to complete. The final Q-5 model was accepted by the PLAAF in 1969 and remained in production until 1979, with 515 units built. The [[Q-5A]] variant replaced it in 1983.
 
-A development of the [[J-6A|J-6]]/[[MiG-19PT|MiG-19]], the Nanchang Q-5 is the first jet aircraft in the Chinese tech tree of indigenous design. Its wings and rear fuselage still closely resemble the MiG-19 but the new forward fuselage with side-mounted air intakes and a pointed nose give it a distinctive sleek appearance. Designed as an attacker, this early version of the Q-5 has better ground attack ordnance than the J-6A with access to 90 mm rocket pods and up to four 250 kg bombs. It also works well in the air-to-air role, having toned-down flight characteristics and armament compared to the J-6A at a lower battle rating in Realistic Battles. The Q-5 is not the most beginner friendly of aircraft but skilled pilots can still enjoy this iconic piece of Chinese aviation history.
-
-Succeeding the Q-5 early is the improved [[Q-5A]], which boasts countermeasures, stronger rockets, and additional engine power.
+Introduced in [[Update "Raining Fire"]] as the first Chinese supersonic striker, the Q-5 early is the first jet aircraft of indigenous design in the Chinese tech tree. It is derived from the [[J-6A|J-6]]/[[MiG-19PT|MiG-19]], but it has a new forward fuselage with side-mounted air intakes and a pointed nose, giving it a sleek appearance. It is designed as an attacker, and it has better ground attack ordnance than the J-6A, including 90 mm rocket pods and up to four 250 kg bombs. It can also perform well in air-to-air combat, as it has similar flight characteristics and armament to the J-6A, but at a lower battle rating in Realistic Battles. The Q-5 is not very easy to fly, but skilled pilots can appreciate this iconic piece of Chinese aviation history.
 
 == General info ==
 === Flight performance ===
@@ -145,27 +143,28 @@ The default belt has an even mix of FI-T and AP-I rounds and should be satisfact
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Type 250-2 (250 kg)|Type 90-1}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 4 x 250 kg Type 250-2 bombs (1,000 kg total)
-* 14 x Type 90-1 rockets
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
 | rowspan="3" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 250 kg Type 250-2 bombs
+! [[Type 250-2 (250 kg)|250 kg Type 250-2]] bombs
 | || 1 || 2 || 1 ||
 |-
-! Type 90-1 rockets
+! [[Type 90-1]] rockets
 | 7 || || || || 7
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 4 x 250 kg Type 250-2 bombs (1,000 kg total)
+* 14 x Type 90-1 rockets
+{{Navigation-End}}
 
 The Q-5 early's suspended armaments are an improvement over the J-6A, but nothing spectacular. It can carry four 250 kg bombs, two mounted on fuselage hardpoints and two mounted in the internal bomb bay. These are small for the Q-5's battle rating and four of them is not enough to destroy a single base. In mixed battles, they require more precision against ground targets than the typical 1,000 lb/500 kg bombs used for CAS.
 
@@ -265,6 +264,7 @@ File:Q-5 Early WTWallpaper 006.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Q-5 (Family)]]
 
 == External links ==

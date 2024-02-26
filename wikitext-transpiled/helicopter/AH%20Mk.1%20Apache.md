@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''AH Mk.1 Apache''' is a British license-produced version of the American [[AH-64D]], assembled by AgustaWestland from Boeing-supplied kits and featuring more powerful Rolls-Royce Turbomeca engines. Entering service in 2005, the Apache replaced the [[Lynx AH.Mk.1|Lynx]] in British tactical operations, seeing combat in operations in Afghanistan from 2007 and Libya from 2011. Unlike their American counterparts, some AH Mk.1s were partially navalised, including a folding-blade mechanism, allowing them to operate from ships in addition to land-based roles. The existing AH Mk.1s in service are planned to be retired and refitted to the AH-64E standard from 2024.
+
+Introduced in [[Update 1.97 "Viking Fury"]], the AH Mk.1 is the pinnacle of the British helicopter tree, featuring more powerful armaments, advanced avionics, and better survivability over the preceding Lynx, while maintaining similar levels of speed and manoeuvrability. Even compared to its Apache brethren, the AH Mk.1 is distinguished by its Rolls-Royce Turbomeca engines, making it the fastest AH-64 variant in the game. Additionally, the domestic Starstreaks, while manually guided and lacking in explosive filler or proximity fuse, are certainly not a downgrade compared to the AIM-92 Stingers, as they are not decoyed by countermeasures, making them highly effective against other helicopters, and are able to run a dual purpose in the anti-tank role against lightly armoured targets with their high speed, low visibility, and reasonable armour penetration.
 
 == General info ==
 === Flight performance ===
@@ -63,17 +65,38 @@ The AH Mk.1, has only limited armour protection installed with bullet proof glas
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm M230E-1 cannon (1,200 rpg)
-** 1 x 30 mm M230E-1 cannon + 72 x countermeasures
+* 1 x 30 mm M230E-1 cannon, chin turret (1,200 rpg)
+* 72 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114K Hellfire II|Starstreak|CRV7 M247}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
+|-
+! [[CRV7 M247]] rockets
+| || 19 || 19 || 19 || 19 ||
+|-
+! [[AGM-114K Hellfire II]] missiles
+| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
+|-
+! [[Starstreak]] missiles
+| 2 || || || || || 2
+|-
+! Countermeasures
+| 60* || || || || || 60*
+|-
+| colspan="8" | * Both countermeasure pods must be equipped together
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 4 x Starstreak missiles
 * 76 x CRV7 M247 rockets
@@ -81,27 +104,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x AGM-114K Hellfire II missiles
 * 16 x AGM-114K Hellfire II missiles
 * 120 x countermeasures
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_AH-64A_(Israel).png]]</div>
-|-
-! CRV7 M247 rockets
-| || 19 || 19 || 19 || 19 ||
-|-
-! AGM-114K Hellfire II missiles
-| || 2, 4 || 2, 4 || 2, 4 || 2, 4 ||
-|-
-! Starstreak missiles
-| 2 || || || || || 2
-|-
-! Countermeasures
-| 60* || || || || || 60*
-|-
-| colspan="8" | * Both countermeasure pods must be equipped together
-|}
+{{Navigation-End}}
 
 === Defensive systems ===
 <!--''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.''-->
@@ -163,20 +166,27 @@ On the AH Mk.1, the Starstreak missile can also be used in the air-to-ground rol
 
 '''Pros:'''
 
-* Excellent ground attack armaments like the unique Hellfire missile and accurate 30 mm cannon, as well as the Starstreak missile against light targets
-* Decent anti-helicopter ability with the Starstreak, can compete with [[Ka-50]] and [[Ka-52]]
+* Every guided weapon, including AAM, is controlled by locking the weapon, which can be done both by pilot (who also controls radar) or gunner, so the only way to stop missiles from hitting is to completely destroy the Apache itself
+* Starstreak AAM can be used to destroy light tanks and SPAA, this Apache can be spawned at the start of an RB match with both rockets and AAM, effectively making it the cheapest and/or meanest early attack helicopter 
+* Decent anti-helicopter ability with the Starstreak, which does not care about flares, and can compete with [[Ka-50]] and [[Ka-52]]
 * Adequate speed and manoeuvrability
-* Advanced countermeasure system with Radar Warning Receiver and Missile Alert Warning
+* Advanced countermeasure system with Radar Warning Receiver and Missile Alert Warning, although MAW can easily drain all the flares
 * Good overall durability with two pilots
-* Longbow radar.
-* Can carry up to 16 Hellfire missiles
+* Longbow radar can locate tanks and sort-of warn about approaching enemy aircraft at a slow rate if needed
+* Can carry up to 16 Hellfire missiles in full late-game ATGM loadout
 * Better engines than the American AH-64D Apache - slight increase in speed
 
 '''Cons:'''
 
-* Easily destroyed by [[Ka-50]] and [[Ka-52]], and enemy airplanes
-* Hellfire missiles have a long time to target
-* Unreliably performing Starstreak missiles - cannot easily take down approaching jets or helicopters
+* Cannot be simply flown at 100% collective, especially when pilot needs to quickly turn around, can be very needy
+* Every weapon on this Apache, including AAM, is controlled by locking the weapon, so you can't multitask and can only fight one target at a time, can be easily overwhelmed
+* Cannon can only be controlled by the gunner, who is prone to being shot when helicopter is under heavy fire
+** If gunner is knocked out and the scope was off-set off the last target, the helicopter will continue to off-set weapons away from targets in the same manner and it will be impossible to fix, which can hinder performance due to the AAM also being laser guided
+* Easily destroyed by enemy aircraft if they are not detected beforehand
+** Unreliably performing Starstreak missiles - cannot easily take down approaching jets or helicopters if they are closer than 4 km away and/or do not approach Apache directly
+** Although the cannon is extremely lethal, the autopilot accuracy beyond 1 km range is rather bad and gets even worse when helicopter is moving around
+** Radar can only scan ground or air at the same time and anti-air radar is extremely slow 
+* The particular Hellfire missiles used on this helicopter have a long time to target and often waste time on upholding the launch protocol (going up to then fall down) even when target is at close range, unless the Apache is literally falling down onto the target
 
 == History ==
 <!--''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''-->

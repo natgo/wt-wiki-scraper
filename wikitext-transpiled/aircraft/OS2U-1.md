@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American hydroplane bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The OS2U-1 is the predecessor of the improved [[OS2U-3|OS2U-3 ''Kingfisher'']]. Beyond its position as a vehicle in the US aircraft tree, it can also be launched and flown from certain ships in naval battles as a reconnaissance aircraft.
+The OS2U Kingfisher was built by Vought-Sikorsky Aircraft Division as a catapult launched observation floatplane designed to be used by different cruisers and battleships employed by the US at the time. It was a revolutionary design, using spot welding construction, creating a smooth fuselage with less drag. The first prototype flew in 1938 and production started in early 1940. While the performance was modest, it soon replaced the Curtiss [[SOC-1|SOC Seagull]] thanks to the more capable airframe. The OS2U-1 was very similar to the XOS2U-1 that flew in 1938, it used a Pratt & Whitney R-985-48 radial engine. The aircraft had a limited range, at least when compared to the OS2U-3, this was fixed in said version with additional self sealing fuel tanks in the wings.
+
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The '''{{Specs|name}}''' is the predecessor of the improved [[OS2U-3|OS2U-3 ''Kingfisher'']]. Beyond its position as a vehicle in the US aircraft tree, it can also be launched and flown from certain ships in naval battles as a reconnaissance aircraft. The OS2U-1 is not a competitive aircraft at all, since it lacks the performance or the armament to be effective in ground and air RB. It is however very effective as a reconnaissance aircraft in naval matches, considering its small size and its ability to land on water, it can be used to gather information about the enemy fleet and if necessary, land in the water to avoid being fired by enemy AA. This task suits the OS2U-1 very well, since the cockpit has a relatively good view for simulator battles, and the performance issues are not that important in said situations.
 
 '''Ships that carry the OS2U-1 as a ship-launched reconnaissance aircraft'''
 
@@ -21,6 +23,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} American hydroplane bomber {{B
 * {{Specs-Link|us_cruiser_brooklyn_class_brooklyn}}
 * {{Specs-Link|us_cruiser_cleveland_class_cleveland}}
 * {{Specs-Link|us_cruiser_fargo_class}}
+* {{Specs-Link|us_battleship_mississippi}}
 * {{Specs-Link|us_battleship_nevada}}
 * {{Specs-Link|us_cruiser_omaha_class_trenton}}
 
@@ -126,7 +129,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Kingfisher is classified as a bomber and as such it spawns at altitude. Primarily, it should be used in the ground attack role across all game modes. If possible, stay out of sight of the enemy and try to take indirect routes to desired targets. While the single 7.62 mm gun is capable of destroying artillery, AAA (stationary and on trucks), landing craft, and armoured cars, this is ill-advised if any enemy aircraft is nearby. 
+Kingfisher is classified as a bomber and as such it spawns at altitude. Primarily, it should be used in the ground attack role across all game modes. If possible, stay out of sight of the enemy and try to take indirect routes to desired targets. While the single 7.62 mm gun is capable of destroying artillery, AAA (stationary and on trucks), landing craft, and armoured cars, this is ill-advised if any enemy aircraft is nearby.
 
 Since tanks and light pillboxes cannot be destroyed with such a small MG calibre, the player will have to resort to bombs. Cargo ships will require a single 100 lb hit on deck. It is not effective at downing planes, as even if the opponent has a level 1 pilot, it will take two direct hits to knock them out, even more if they have invested some crew points in vitality. As such, it is best to entirely avoid confrontations of any sort in the OS2U. If an opponent is approaching you from the rear, it is best to try to scare them off with the MG before they approach firing range.
 

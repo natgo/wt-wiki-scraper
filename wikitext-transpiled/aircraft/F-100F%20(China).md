@@ -116,7 +116,7 @@ Aside from the rear-seat, F-100F looks mostly identical to any other F-100 serie
 * 64 mm bulletproof glass: windscreen
 * 12.7 mm steel: behind pilots 
 
-Jets at the dawn of supersonic still have some extend of protection for the pilot even though the abundance of autocannons by the Warsaw-Pact jets; the protection of F-100F is mostly identical to other F-100 series other having additional protection for the Weapon System Officer (aka rear-pilot); while autocannons more than 20 mm caliber can tear down the pilots with ease, earlier jets with only machine guns will need more precise hits on pilots or sustained hits on F-100F airframe to send it to kingdom come.
+Jets at the dawn of supersonic still have some extend of protection for the pilot even though the abundance of autocannons by the Warsaw-Pact jets; the protection of F-100F is mostly identical to other F-100 series other having additional protection for the Weapon System Officer (aka rear-pilot); while autocannons more than 20 mm calibre can tear down the pilots with ease, earlier jets with only machine guns will need more precise hits on pilots or sustained hits on F-100F airframe to send it to kingdom come.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -223,7 +223,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''Cons:'''
 
-* Heavier airframe than earlier F-100 series thus less maneuverable 
+* Heavier airframe than earlier F-100 series thus less manoeuvrable 
 * Lacks a pair of autocannon than previous F-100 series
 * Control surfaces lock up at supersonic speeds
 * Any maneuvers will bleeds the energy severely 
@@ -237,25 +237,24 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f_100f_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[F-100 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8484-development-tokushu-heiki-f-100f-super-sabre-en|[Devblog] Tokushu Heiki: F-100F Super Sabre]]
 
 {{AirManufacturer NAA}}
 {{China jet aircraft}}

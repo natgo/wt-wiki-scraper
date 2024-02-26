@@ -1,3 +1,8 @@
+{{About
+| about = attack helicopter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Mi-24 (Family)
+}}
 {{Specs-Card
 |code=mi_24v_hungary
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian attack helicopter {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]].
+The Mi-24V was very similar to the Mi-24D already employed by most Warsaw Pact countries, however, this was introduced in 1976 and the most important upgrade was the introduction of the 9M114 Shturm (AT-6 Spiral) with 8 of these missiles mounted on the outer pylons. It was the most produced variant of the Mi-24 with a total of 1,500 units built. It served with Hungary starting in 1993 after Germany gifted 20 Mi-24D/Vs, since they could not operate both their NATO and Soviet equipment.
+
+It was introduced in [[Update "Sons of Attila"]]. The '''{{Specs|name}}''' is a major upgrade compared to the Mi-24D, it now has access to much more capable ATGMs, the 9M114 Shturm (AT-6 Spiral). The flight performance is still very good, being capable of reaching objectives and targets quickly, however it has very poor manoeuvrability compared to other helicopters. It has access to countermeasures but still retains the 12.7 mm HMG instead of a proper cannon, which makes harder dealing with targets at close ranges, specially in Helicopter AB.
 
 == General info ==
 === Flight performance ===
@@ -16,13 +23,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian attack helicopter {{Ba
 {| class="wikitable" style="text-align:center"
 |-
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 1,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 |-
 ! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}}
+| 311 || 292 || rowspan="2" | {{Specs|ceiling}}
 |-
 ! Upgraded
 | ___ || ___
@@ -109,6 +116,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
 * 2 x R-60 missiles
@@ -132,9 +140,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -143,21 +153,24 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mi_24v_hungary Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+* [[Mi-24 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

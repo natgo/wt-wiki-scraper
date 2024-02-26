@@ -152,6 +152,7 @@ M4A2/[[M4A4 (1st PTG)]]: these Sherman tanks are widely used by both the Allied 
 * Well angled frontal hull provides protection against small calibre / low-penetration guns (e.g. 75 mm M3, 50 mm KwK39), and even large calibre guns when angled correctly.
 * Adequate top speed allows it to get to positions in time, or to do tactical manoeuvres like flanking
 * Fitted with a vertical stabilizer, allowing more accurate fire on the move compared to other tanks, as well as better usage of shoot-n-scoot tactics
+* Missing the average Sherman MG weak spot
 
 '''Cons:'''
 
@@ -170,6 +171,7 @@ After World War II, Sweden purchased a few surplus Sherman tanks from Britain fo
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_sherman_3_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

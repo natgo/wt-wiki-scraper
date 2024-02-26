@@ -33,25 +33,18 @@ This vehicle is very easy to play while still in stock mode, as it has most esse
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 38.4 mm (69-70°) ''Upper Glacis''
-44.4 mm (41°) ''Lower Glacis''
-| 28.5 mm ''Top'' <br>44.4 mm ''Bottom'' || 44.4 mm ''Hull Rear''
-38.1 mm ''Door''
-| 28.5 mm ''Roof''
-10 mm ''Radiator Vents''
+| Hull || 38.4 mm (69-70°) ''Upper Glacis'' <br> 44.4 mm (41°) ''Lower Glacis'' || 28.5 mm ''Top'' <br> 44.4 mm ''Bottom'' || 44.4 mm ''Hull Rear'' <br> 38.1 mm ''Door'' || 28.5 mm ''Roof'' <br> 10 mm ''Radiator Vents''
 |-
 | Turret || 25.4 mm ''Turret front'' <br>25.4 mm +25.4 mm ''Gun mantlet'' || 25.4 - 12.7 mm (Front to rear) || 12.7 mm || 12.7 mm
 |-
 |}
-
 '''Notes:'''
 
 * Suspension and Tracks - 10 mm
 * Fenders and Storage Boxes - 4 mm
 
-[[File:Weakspot warrior.jpg|thumb|304x304px|While this construction outside of {{PAGENAME}} can sometimes stop HESH coming from behind, it will also often doom the tank by allowing chemical shells coming from the side to damage unprotected parts of the hull, triggering overpressure damage.]]
 '''Overview:'''
-
+[[File:Weakspot warrior.jpg|thumb|300px|While this construction outside of {{PAGENAME}} can sometimes stop HESH coming from behind, it will also often doom the tank by allowing chemical shells coming from the side to damage unprotected parts of the hull, triggering overpressure damage.]]
 The {{PAGENAME}} has a huge profile, and its armour is mostly made of aluminium alloys, which compromises its protection against medium tanks. While at the first glance the hull may seem uniform, and technically thick enough to survive hits of kinetic shells up to 120 mm and chemical shells of up to 105 mm, it has a lot of weak points, which trigger overpressure damage. For that reason, if artillery hit its hull or turret directly, the {{PAGENAME}} will not survive. Direct hit of explosive shells to the middle of the tank on any side, ATGM optics (commander sight) or turret hit in general is likely to instantly destroy the tank.
 
 When considering smaller weapons, the {{PAGENAME}} is well protected against heavy machine guns. The frontal ventilation is a glaring weak spot, but internal RHA screens will prevent any HMG fire from hitting the crew. However, its turret, side engine ventilation, hull's back and even sides themselves have weak spots, which can be penetrated by 12.7 mm and 14.5 mm heavy machine guns. At some angles, the gunner optics (left "ear") can also be penetrated by 14.5 mm to take out the gunner.
@@ -59,14 +52,12 @@ When considering smaller weapons, the {{PAGENAME}} is well protected against hea
 The hull frontal armour is sloped and can sustain light automatic cannon fire at best, allowing it to fight [[BMP-2]] or SPAA armed with 23 mm guns head-on in some scenarios, as long as they do not know where to fire. It is preferable to fight them from great distance or while employing high ground to increase their attack angle as close to 60 degrees as possible, rendering their main weapons useless. The engine and screens to the right of the driver add a sort of spaced armour effect by absorbing penetrating shells. This works well in addition to the add on armour, as it means that half the front is protected by the engine and the other half by composite armour.
 
 '''Add-on Armour:'''
-
+[[File:WarriorArmour ProtectionAnalysis HESH.jpg|x170px|thumb|right|Protection analysis view: frontal panel gives a 45% chance for the Warrior to not take any damage from frontal HESH shot by just being there. Side armour does the same thing for the entirety of the sides but is significantly weaker.]]
 The add-on panels defend the sides of the hull, with a piece of composite on the frontal plate covering the driver. These panels are geared towards protection against Chemical munitions and add surprisingly little armour against kinetic rounds.
 
 The side armour plates conceal weak spots on the {{PAGENAME}} hull and are effective against chemical rounds. In general, they prevent HMG bullets from getting into tank and stop overpressure damage from being hit by HESH and HEAT (including ATGM), efficiency against HE varies depending on the hit spot, but it generally helps against weak rockets. Angling can be an effective tactic with these panels installed, and it will also help the tank to survive some 30 mm kinetic rounds, as long as the screen is not destroyed (which usually doesn't take long). After being hit once by a big shell, these panels generally break off the tank and no longer protect it.
 
 The composite in front of the driver is much stronger and is capable of stopping weak HEAT rounds with about 400 mm of penetration, and will also add enough kinetic protection to stop most direct 20 mm autocannon round hits. It will not save the tank from direct 120 mm HE hit, as the explosion will reach tank's turret and likely annihilate vehicle via pressure damage.
-
-[[File:WarriorArmour ProtectionAnalysis HESH.jpg|x170px|thumb|right|Protection analysis view: frontal panel gives a 45% chance for the Warrior to not take any damage from frontal HESH shot by just being there. Side armour does the same thing for the entirety of the sides but is significantly weaker.]]
 
 These images show a Warrior surviving an ATGM fired from an IT-1 due to the additional armour:
 
@@ -144,7 +135,7 @@ There is virtually no reason to use the stock belts on the warrior. The stock be
 | '''37''' || 30&nbsp;''(+7)'' || 1&nbsp;''(+36)'' || No
 |-
 |}
-
+{{Clear}}
 === Additional armament ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|1}}
@@ -152,6 +143,7 @@ There is virtually no reason to use the stock belts on the warrior. The stock be
 {{main|MILAN|MILAN 2}}
 
 The Warrior carries MILAN missiles as a secondary weapon, although these function more as the primary armament due to the tank based gameplay in Warthunder.
+
  [[File:Warrior sneak attack on tank.JPG|220px|thumb|right|Warrior managed to launch MILAN 2 straight at the enemy tank, instantly destroying it.]]
 The MILAN 1 has 500 mm of RHA penetration. It is 103 mm in diameter.
 
@@ -159,9 +151,13 @@ The MILAN launcher can be upgraded to the MILAN 2, which has 730 mm of RHA penet
 
 The missile is launched via commander's optics (the ones on top of the turret), if commander optics get destroyed, the Warrior cannot launch ATGM anymore. They can only be repaired via "manual repair".
 
-The missile can be guided either by the gunner scope (located inside cannon itself in AB/RB) or commander scope (by activating "commander fire control" via a hotkey) unlike with the Striker. Use of the commander scope is preferable, as it exposes much less of the tank and confuses some people which expect you to drive out completely, but this is only possible if the commander is still alive.
+The missile can be guided either by the gunner scope (located inside cannon itself in AB/RB) or commander scope (by activating "commander fire control" via a hotkey), or even through controlling the launcher itself directly. Use of the commander scope or ATGM itself is preferable, as it exposes much less of the tank and confuses some people which expect you to drive out completely like other IFVs. Do note, that commander scope is only usable if the commander is still alive.
 
-If chosen scope cannot see the missile directly, the tank will lose control over it, so any indirect attacks should be aimed quickly after sending the missile as high as possible. Choosing the commander scope also allows to attack with missiles a bit like Swingfire - if binoculars are able to see the target on low ground, then it most likely can be hit by a curved missile, even if the scope cannot be directly aimed at it.
+To control the ATGM pole directly, player must press "Select special weapon or ATGM" hotkey or multi-function menu key. This will move the sniper scope to the ATGM, but also disable turret controls and the main gun. This sight has no NVD of any kind. The pole can turn 30 degrees to the sides of the turret. Since the turret cannot be moved in this aiming mode, sudden corrections would have to be made with the hull, which might affect the missile trajectory in bad ways. This specific IFV can still sort-of control the turret by swapping to the "commander scope", which will prompt him to immediately turn the turret exactly where the ATGM launcher was aiming at, allowing to quickly regain ability to aim. To properly regain controls of everything, use of "reset weapon selection" is recommended over any other option.
+
+{{Notice|Even when you directly use the launcher, the LOS of a missile is still calculated off the commander scope. The game is extremely lenient about it and launcher can be used to expose much less of a tank, or to snipe through tall obstacles that simply make seeing anything impossible, but are not actually "blocking" the target physically (like broken church windows). What you can't do is snipe with it when the commander is completely blind and blocked off. Maximum feasible attack range with just the launcher exposed is about 350 m.}}
+
+If the commander scope cannot see the missile directly, the tank will lose control over it, so any indirect attacks should be aimed quickly after sending the missile as high as possible. Choosing the commander scope also allows to attack with missiles a bit like Swingfire - if binoculars are able to see the target on low ground, then it most likely can be hit by a curved missile, even if the scope cannot be directly aimed at it.
 
 The MILAN can be used at close ranges, but cannot be fired point-blank (10 m or so), and if not careful it can overshoot (look at launcher itself in Third-person view to avoid this). The missile only has 2 km of range so it is not particularly useful against enemies at very long range, or more often against helicopters who are hovering far away from the battlefield.
 
@@ -211,7 +207,7 @@ For targets far away, it is recommended to use the laser rangefinder before laun
 | '''8''' || 5&nbsp;''(+3)'' || 1&nbsp;''(+7)'' || 0&nbsp;''(+8)'' || No
 |-
 |}
-
+{{Clear}}
 === Machine guns ===
 {{Specs-Tank-Weapon|4}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
@@ -250,6 +246,14 @@ Due to this, even in 9.0 arcade battle, the Warrior can call in ATGM helicopters
 
 Since MILAN has relatively good controls and there is 8 missiles total, the Warrior can try and fire it above hills and guide it down on people, much like Swingfire and Striker. It's harder to aim at the enemy without a straight visual firing line, but if it hits anywhere important, they could be knocked out anyway. Since the Warrior is considered a scout vehicle, mark them and ping them on the map, even if a shot lands a hit.
 
+If the map is urban in nature, keep in mind the ability to use the ATGM launcher directly. There are a lot of buildings that can be fired through, some windows are merely a suggestion, and some trash piles and containers are so giant that they protect you fully, but cannot protect your enemies from your ATGM launcher. Even if the cover is too tall even for Warrior's tracker and you lose ATGM control ability as your commander is completely blind, the missile will still go relatively straight for 200-300 m, so you can casually slap away any unwanted guests before they can even do anything to you. Remember, this is both a light tank and a tank destroyer, you need to think like both if you want to truly shine in such environment. Refer to the pictures to understand your advantage better:
+
+<gallery mode="packed-hover" heights="150px">
+Warrior looking at church window gunner sight.jpg|Gunner sight cannot even aim through the window. That's how most tanks are.
+Warrior looking at church window commander sight.jpg|Commander sight can aim through the window, but in RB it's quite impossible due to the glass being in the way. The glass doesn't actually exist, so it won't block the LOS. 
+Warrior looking at church window ATGM sight.jpg|ATGM sight can aim through the window, and will prevent the user from hitting a wall. Very neat.
+</gallery>
+
 In Arcade Battles (AB), it's best to fire the missile at tank's gunner, so in case if it didn't destroy the tank on its own, the Warrior can just circle around the enemy and use the main gun to destroy the engine, then proceed to incapacitate the crew. In Realistic battles (RB) even taking out cannon barrel or breech might be enough, as repairs in that mode take much more time, and field repair doesn't even guarantee, that gun won't just jam itself again or fire in a completely different direction.
 
 As with all light tanks playstyle, be very wary of people that have any kind of explosive ammo, as the Warrior has relatively low amount of armour on it and can be easily destroyed by overpressure damage. With Add-on armour, the Warrior can fight and take some hits, but the vehicle's turret, front and back are still a giant weak spot.
@@ -258,7 +262,7 @@ Usually, MBTs will carry AP ammo as their first shot, which may just over-penetr
 
 There is also a trick related to the Warrior - if baiting an enemy that is looking towards the Warrior, pull the Warrior's rear end out of cover first. Since the rear has very little critical components outside of the MILAN missile stowage, usually being shot there doesn't do anything too drastic for the overall tank health. After being fired at, drive out of cover and fire back at them. You also can pull out the front-right side of the hull instead, if you can afford sacrificing the driver and just want to bait the enemy shot for teammates. This trick probably won't work twice, indicating you should make the most out of the opportunity you have at hand. Nobody likes to be shot with ATGMs and the second shot coming will most certainly be HE of some kind. This tactic may backfire if your IFV gets shot with APHE, or APFSDS will enter the vehicle at a bad angle, but those types of ammunition have the potential of instantly destroying the Warrior regardless of the entry point.
 
-Finally, the Warrior can also repair any allies, so if in cover and not busy - do help them.
+Finally, the Warrior can also repair any allies faster, so if in cover and not busy - do help them.
 
 ====Specific enemies worth noting====
 <!--Some concerning vehicles to worry about if playing this tank and how to fight them in an encounter. (i.e. Tiger II - shoot the turret cheeks)-->
@@ -290,7 +294,7 @@ The Warrior can be destroyed by a fighter jet. However, do not just strafe it di
 '''Pros:'''
 
 * Equipped with 8 extremely powerful MILAN ATGMs
-* Can stop pushes if manages to get to good cover (scouting, laser rangefinder, artillery, ATGMs, good mobility and smoke)
+* Can stop pushes if manages to get to good cover (scouting, laser rangefinder, artillery, ATGMs, good mobility and smoke, can fire missiles over anything without even exposing much more than the launcher itself)
 * Can survive poorly aimed shots and even brawl with MBTs if armour mod is installed
 * Has gunner thermal (2nd generation) vision and commander/driver night vision
 * Exceptionally mobile both forward and backwards. True fresh airs for British tankers!
@@ -305,6 +309,7 @@ The Warrior can be destroyed by a fighter jet. However, do not just strafe it di
 * Engine exhaust placement (front right corner of tank) obscure gunners thermal vision when looking between approximately 45° and 80° to the right.
 * No stabilization for the turret greatly affects firing capacities. Disheartening performance on duels
 * Very weak stock belt
+* Although it can fire over anything by using ATGM launcher directly, it will lose control of the missile if commander scope cannot see it, sometimes limiting safe attack range to 200-300 m. The launcher also has no NVD or thermal sight
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

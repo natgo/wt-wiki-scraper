@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German Self-Propelled Anti-Aircraft (SPAA) vehicle {{Battle-rating}}. It was introduced in [[Update 1.63 "Desert Hunters"]]. An anti-aircraft vehicle based on the Leopard 1 chassis, it possesses 2 x 35 mm Oerlikon KDA cannons with 340 rounds each (680 in total, in 2 continuous belts of ammunition, one for each cannon). The Gepard is also equipped with a radar that can track and calculate the lead necessary to effectively engage a target. This is represented in the game by the ability to lock onto a target and display an arcade-style lead indicator on the target when they are within effective range, a trait that all radar-guided SPAAs possess. This allows the 35 mm cannons, which have a tendency to cripple enemy plane and helicopters alike with a single hit, to maximize its damage potential.
+The '''Flugabwehrkanonenpanzer (Flakpanzer) Gepard''' is a self-propelled anti-aircraft gun designed to operate in all weather conditions. It was created in the 1960s, deployed in the 1970s, and has since been updated several times with cutting-edge technologies to keep up with modern warfare. It is equipped with twin 35 mm Oerlikon KDA autocannons mounted on the chassis of a Leopard 1 main battle tank and has served as a cornerstone of air defence for the German Army and several other NATO countries. The turret has a full traverse, providing complete coverage for the system. The search and tracking radars are also mounted on the chassis, behind and in front of the turret, respectively.
+
+Introduced in [[Update 1.63 "Desert Hunters"]], the Flakpanzer Gepard is a capable weapon platform that can provide reliable cover from enemy air attacks for friendly ground units. This vehicle, outfitted with search and tracking radars, can actively scan the skies for hostile air units and provide a lead indicator once locked onto the target. It also has some minor anti-ground capabilities, but it is not recommended that it be used extensively in anti-ground roles. It is recommended to wait for enemy aircraft to approach before unleashing a barrage of shells to make it difficult to dodge and avoid. To conserve ammunition, always shoot in bursts rather than continuous firing.
 
 == General info ==
 === Survivability and armour ===
@@ -81,6 +83,7 @@ The armament consists of 2 x 35 mm Oerlikon KDA cannons with 340 RPG with a quic
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''DM11A1:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}
 * '''DM13:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
@@ -108,7 +111,9 @@ The armament consists of 2 x 35 mm Oerlikon KDA cannons with 340 RPG with a quic
 
 ===Radars===
 {{main|MPDR 12|Albis}}
-The Gepard is equipped with a [[MPDR 12]] search radar and an [[Albis]] tracking radar. Both radars are located on the turret, the MPDR 12 is mounted at the rear of the turret and folds back when not in use, the Albis is mounted on the front of the turret. The radar system is capable of tracking a target while scanning, but can only track targets within a 200° arc from the front of the turret.
+The Gepard is equipped with a [[MPDR 12]] search radar and an [[Albis]] tracking radar. Both radars are located on the turret, the MPDR 12 is mounted at the rear of the turret and folds back when not in use, the Albis is mounted on the front of the turret.
+
+The radar system is capable of tracking a target while scanning, but can only track targets within a 200° arc from the front of the turret. The radar is quite picky and may fail to lock onto a plane if attempt is made from third person view as opposed to manual lock from the gunner seat. However, due to it using pulse-doppler technology, it cannot be chaffed (countermeasures cannot distrupt aim).
 
 {| class="wikitable" style="text-align:center"
 ! colspan="5" | [[MPDR 12]] - Target Detection Radar
@@ -162,6 +167,7 @@ Against enemy threats:
 * Has stabilizer -  can shoot targets while on the move, air and ground ones alike
 * Good amount of ammo in reserve
 * Search and tracking radars, the search radar finds targets while the tracking radar gives a very accurate lead indicator
+** Tracking radar cannot be chaffed, so future CAS cannot ignore it by just firing countermeasures every few seconds 
 * Search radar dish can be folded when not in use to reduce vehicle height and visibility
 
 '''Cons:'''
@@ -192,6 +198,7 @@ The Gepards were successful in the export market. The first to order were Belgiu
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpz_I_Gepard Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

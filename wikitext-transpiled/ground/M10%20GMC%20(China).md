@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+In 1948, the Republic of China's party, Kuomintang, ordered the Armoured Forces Command to acquire abandoned military surplus specially from the Pacific theatre. A total of 34 '''M10 TDs''' were purchased from the US, which at the time was trying to dispose as much military surplus as possible. The vehicles never saw combat in mainland China, instead they were evacuated to Taiwan. In 1949, with the new government established in Taiwan, the vehicles received several modifications, some of which included the installation of a Japanese Type 91 105 mm howitzer, effectively transforming the vehicle into a self-propelled artillery piece. At the end, the vehicles were retired from said role, with the introduction of the more specialized M7 Priest in 1955-1957.
 
-This Chinese vehicle is identical to the US [[M10 GMC]], however it does not have access to the Add-on Armor modification.
+It was introduced in [[Update 1.91 "Night Vision"]]. This Chinese vehicle is identical to the US [[M10 GMC]], however it does not have access to the Add-on Armor modification. It is armed with a very powerful gun for its BR, but that comes with some downsides, mainly mobility and survivability. The turret has an extremely poor traverse, and the survivability against HE projectiles or artillery is not ideal, since it is open top. It should be played as a tank destroyer, waiting around corners and in defensive positions.
 
 == General info ==
 === Survivability and armour ===
@@ -208,6 +208,7 @@ M10s in ROC's service ultimately got decommissioned by the arrival of the US's M
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[M10 (Family)]]
 * [[M36 Jackson (Family)]]
 

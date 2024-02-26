@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American naval fighter {{Battle-rating}}. It was introduced in [[Update 1.33]].
+The F8F Bearcat was designed after the Battle of Midway. It was realized that an aircraft's rate of climb was extremely important, so it was decided to use the same Pratt & Whitney R-2800 radial used on the earlier [[F6F-5|F6F Hellcat]], but in a lighter airframe, capable of greater speed and climb rate. This came at the cost of range and armour for the pilot; the aircraft also featured a bubble canopy for all-around visibility. However, the fighter was developed too late for WWII. After the war, the introduction of naval jet aircraft like the [[F2H-2|F2H Banshee]] forced its early retirement; however, some of these fighters were used by France in Indochina against Viet Minh troops.
 
-The F8F-1B is truly a worthy aircraft to end the single engine fighter line of the USN branch. Nimble, fast, and with great acceleration, it is sight of fear for the foe's eye. Most of its enemies will be jets and they will shiver as the Bearcat faces them with a 2 km altitude  and (sometimes with) speed advantage. With WEP running (War Emergency Power), includes ADI (Water-Methanol Injection) for the big and hungry 2,300 horsepower Pratt & Whitney R-2800 Double Wasp) and modules maximized, the climb rate is well over 35 m/s. However, its main weakness is the Bearcat's very power source: the hot-running R-2800 Double Wasp.
+It was introduced in [[Update 1.33]]. The F8F-1B is truly a worthy aircraft to end the single engine fighter line of the USN branch. Nimble, fast, and with great acceleration, it is sight of fear for the foe's eye. Most of its enemies will be jets and they will shiver as the Bearcat faces them with a 2 km altitude and speed advantage. With WEP running (War Emergency Power), which includes ADI (Water-Methanol Injection) for the big and hungry 2,300 horsepower Pratt & Whitney R-2800 Double Wasp, and modules maximized, the climb rate is well over 35 m/s. However, its main weakness is the Bearcat's very power source: the hot-running R-2800 Double Wasp, which will quickly overheat if left unattended.
 
 == General info ==
 === Flight performance ===
@@ -131,6 +131,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x HVAR rockets
 * 2 x Tiny Tim rockets

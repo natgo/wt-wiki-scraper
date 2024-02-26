@@ -26,7 +26,7 @@ The only real armour protection on Akizuki is the thin 3.175 mm anti-fragmentati
 
 Akizuki has a crew complement of 263 people, which is roughly average for a destroyer. The ammunition magazines for the main battery are stored underneath each turret below the waterline, lowering the chance of an ammunition explosion from stray HE shells. There are 80-round first-stage ammo stowages directly beneath each turret, though these are small targets. Four extra torpedoes are also stored just aft of the torpedo launcher and are unarmoured.
 
-Most of Akizuki's internals are beneath the waterline. The most notable exception to this is are the large fuel tanks that line the entire height of the ship around the engines and transmission. Direct hits in this area almost always result in a fire. Akizuki has three smokestacks that converge at their top. This makes for a smaller target from stay hits, but it increases the chances for them to all be disabled at once.
+Most of Akizuki's internals are beneath the waterline. The most notable exception to this is are the large fuel tanks that line the entire height of the ship around the engines and transmission. Direct hits in this area almost always result in a fire. Akizuki has three smokestacks that converge at their top. This makes for a smaller target from stray hits, but it increases the chances for them to all be disabled at once.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -148,27 +148,11 @@ Akizuki has a total of 35 Type 96 25 mm cannons, 10 single mounts along each bro
 
 There are three belt options available:
 
-* Universal: HEF-T/HEF/AP-T/HEI
-* 25 mm APT: AP-T/AP-T/AP-T/HEF
-* 25 mm HEIT: HEF-T/HEI/HEI/HEI
+* '''Universal:''' {{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}{{-}}{{Annotation|HEF|High-explosive fragmentation}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEI|High-explosive incendiary}}
+* '''25 mm APT belt:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF|High-explosive fragmentation}}
+* '''25 mm HEIT belts:''' {{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}{{-}}{{Annotation|HEI|High-explosive incendiary}}{{-}}{{Annotation|HEI|High-explosive incendiary}}{{-}}{{Annotation|HEI|High-explosive incendiary}}
 
-{| class="wikitable sortable" style="text-align:center" width="100%"
-! colspan="7" | '''Penetration Statistics'''
-|-
-! rowspan="2" data-sort-type="text" | Ammunition
-! colspan="6" | '''Penetration @ 0° Angle of Attack (mm)'''
-|-
-! 10 m !! 100 m !! 500 m !! 1,000 m !! 1,500 m !! 2,000 m
-|-
-| HEF-T || 2 || 2 || 2 || 2 || 2 || 2
-|-
-| HEF || 2 || 2 || 2 || 2 || 2 || 2
-|-
-| AP-T || 56 || 54 || 44 || 37 || 32 || 28
-|-
-| HEI || 2 || 2 || 2 || 2 || 2 || 2
-|-
-|}
+{{:25 mm/60 Type 96 (25 mm)/Ammunition|HEF-T*, HEF, AP-T, HEI}}
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}

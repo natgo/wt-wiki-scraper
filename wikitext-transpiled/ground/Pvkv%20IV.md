@@ -1,3 +1,10 @@
+{{About
+| about = Swedish tank destroyer '''{{PAGENAME}}'''
+| and
+| usage = other versions
+| link-1 = Pvkv II
+| link-2 = Pvkv III
+}}
 {{Specs-Card
 |code=sw_pvkv_iv
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -15,19 +22,21 @@ Introduced in [[Update "Sons of Attila"]], the '''{{PAGENAME}} "Värjan"''' is a
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+
+* Rolled Homogeneous Armour (hull, turret, cupola)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull ||13 mm (47°) ''Lower Glacis''<br>13 mm (55-56°) ''Upper Glacis''<br>35 mm (18-27°) ''Upper Plate''
+| 13 mm (12-16°)<br> || 13 mm (33-34°) ''Lower''<br>9 mm (10-26°) ''Upper''
+| 5 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 20 mm ''Turret front'' <br> 20 mm ''Gun mantlet'' || 13 mm || 13 mm || 5 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 5 mm || 5 mm || 5 mm || 5 mm
 |-
 |}
 
@@ -70,8 +79,8 @@ Introduced in [[Update "Sons of Attila"]], the '''{{PAGENAME}} "Värjan"''' is a
 {{:Pvkan m/43 (57 mm)/Ammunition|slpprj m/43, sgr m/43, slpgr m/43, slpprj m/49}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.33.0.123''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -80,10 +89,9 @@ Introduced in [[Update "Sons of Attila"]], the '''{{PAGENAME}} "Värjan"''' is a
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 ! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''40''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''40''' || 33&nbsp;''(+7)'' || 25&nbsp;''(+15)'' || 17&nbsp;''(+23)'' || 9&nbsp;''(+31)'' || 1&nbsp;''(+39)'' || No
 |-
 |}
 
@@ -115,12 +123,14 @@ The {{PAGENAME}} has a few disadvantages, like the weak side and rear armour and
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * APDS rounds
 * Good cannon
 * Decent reload
 * Good mobility
 
 '''Cons:'''
+
 * Slow turret traverse
 * Cramped crew compartment
 * Light protection
@@ -131,7 +141,10 @@ The {{PAGENAME}} has a few disadvantages, like the weak side and rear armour and
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_pvkv_iv Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -147,6 +160,6 @@ The {{PAGENAME}} has a few disadvantages, like the weak side and rear armour and
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[wt:en/news/8416-development-pvkv-iv-the-last-effort-en|[Devblog] Pvkv IV: the Last Effort ]]
+* [[wt:en/news/8416-development-pvkv-iv-the-last-effort-en|[Devblog] Pvkv IV: the Last Effort]]
 
 {{Sweden medium tanks}}

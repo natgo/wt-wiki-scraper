@@ -149,7 +149,12 @@ The CT-CV turret mounts a Cockerill 105 mm L/50 cannon. For players who already 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_patria_amv_ctcv_105 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|nij7hfQK_MU|'''The Shooting Range #371''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

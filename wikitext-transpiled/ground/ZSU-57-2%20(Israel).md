@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' were captured by Israel from Egypt and Syria during the Six-Day War in 1967 and the Yom Kippur War in 1973. It is otherwise identical in all aspects to the Soviet [[ZSU-57-2]].
+During the Six-Day War of 1967 and the Yom Kippur War of 1973, Israel captured an unknown number of [[ZSU-57-2]] SPAAs from Egypt and Syria. These anti-aircraft vehicles served with the IDF after being adopted into service. They received Israeli camouflage patterns, painting, numbers, and designation. While they paraded in the Israeli Independence Day, it's still debated to this day whether or not they were used in combat or even if they were deployed by the IDF at some point. The Israeli Armor Museum states that they were never deployed with the IDF.
 
-It was introduced in [[Update "Fire and Ice"]]. An SPAA built on a heavily-modified T-54 chassis, the ZSU-57-2 features two powerful 57 mm guns, good mobility, and very light armour. It has proven to be more of a menace to ground vehicles than aircraft with its high-velocity cannons, but low sustained rate of fire and poor accuracy.
+It was introduced in [[Update "Fire and Ice"]]. An SPAA built on a heavily-modified T-54 chassis, the ZSU-57-2 features two powerful 57 mm guns, good mobility, and very light armour. It has proven to be more of a menace to ground vehicles than aircraft with its high-velocity cannons, but low sustained rate of fire and poor accuracy. It is still capable of taking out aircraft; if aimed well, a single hit of its 57 mm HE projectiles should disintegrate any kind of aircraft. At close ranges, it may be able to sustain a few hits to its chassis, since it derives from the T-54, that has a very good frontal armour.
 
 == General info ==
 === Survivability and armour ===
@@ -27,10 +27,10 @@ It was introduced in [[Update "Fire and Ice"]]. An SPAA built on a heavily-modif
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 13.5 mm (61°) ''Front glacis'' <br> 15 mm (54°) ''Lower glacis''|| 15 mm || 10 mm (17-49°) ''Top'' <br> 6 mm (73°) ''Bottom''
+| Hull || 13.5 mm (61°) ''Front glacis'' <br> 15 mm (54°) ''Lower glacis''|| 15 mm || 10 mm (17-49°) ''Top'' <br> 6 mm (73°) ''Bottom''
 | 15 mm
 |-
-| Turret || 15 mm (14-57°) ''Turret front'' <br> 15 mm (25-64°) ''Gun mantlet'' || 13.5 mm (9-61°) || 13.5 mm (4-59°) || N/A
+| Turret || 15 mm (14-57°) ''Turret front'' <br> 15 mm (25-64°) ''Gun mantlet'' || 13.5 mm (9-61°) || 13.5 mm (4-59°) || N/A
 |-
 |}
 
@@ -157,6 +157,7 @@ After being captured by Israel from Egypt and Syria during the 1967 war, they we
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[ZSU-57-2 (Family)]]
 
 == External links ==

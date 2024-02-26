@@ -332,3 +332,4 @@ The Su-25T project was an attempt to create an anti-tank aircraft that would be 
 
 {{AirManufacturer Sukhoi}}
 {{USSR jet aircraft}}
+[[Category:Aircraft with IRCM]]

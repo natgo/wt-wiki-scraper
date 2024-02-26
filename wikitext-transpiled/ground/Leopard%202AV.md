@@ -67,7 +67,7 @@ Start with Parts and FPE, then go for the APFSDS projectile.
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -9°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
+| rowspan="2" | 40 || rowspan="2" | -9°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0
@@ -114,9 +114,9 @@ There are 2 x 7.62 machine guns on the turret and 1 coaxial 7.62 machine gun. Th
 |-
 | Pintle (loader) || 2,000 (200) || 1,200 || -10°/+75° || ±180°
 |-
-| Pintle (commander) || 2,000 (200) || 1,200 || -10°/+75° || ±180°
+| Pintle (commander) || 2,000 (200) || 1,200 || -10°/+75° || ±45°
 |-
-| Coaxial || 4,600 (200) || 1,200 || N/A || N/A
+| Coaxial || 4,600 (200) || 1,200 || - || -
 |-
 |}
 
@@ -125,7 +125,9 @@ There are 2 x 7.62 machine guns on the turret and 1 coaxial 7.62 machine gun. Th
 ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
 
 * Basically a better armoured [[TTD]]
 ** Hull can block at least one HE hit from late game tanks without consequences (unless it was an SPG)
@@ -145,7 +147,7 @@ There are 2 x 7.62 machine guns on the turret and 1 coaxial 7.62 machine gun. Th
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
-The Leopard 2AV is a prototype tank design submitted to the US Army competition where it competed against the XM-1, predecessor of the Abrams MBT, at the Aberdeen Proving Ground. The tank is a further development of the Leopard 2K project. American Army specialists involved in the project advised to increase the tank’s protection, which by the beginning of the 70s was inadequate to meet modern challenges. In 1977, a version of the Leopard 2K with a modified hull and turret was submitted for testing in the United States under the designation Leopard 2AV. The prototype went overseas as two experimental chassis and three finished turrets. The tank was armed with the 105 mm L7A3 rifled gun, developed in Great Britain. After the tests ended, the tank was equipped with a 120-mm Rheinmetall gun, right there, at the Aberdeen Proving Ground in Maryland. It was this version that later went into series production under the designation Leopard 2.
+The Leopard 2AV is a prototype tank design submitted to the US Army competition where it competed against the XM-1, predecessor of the Abrams MBT, at the Aberdeen Proving Ground. The tank is a further development of the Leopard 2K project. American Army specialists involved in the project advised to increase the tank's protection, which by the beginning of the 70s was inadequate to meet modern challenges. In 1977, a version of the Leopard 2K with a modified hull and turret was submitted for testing in the United States under the designation Leopard 2AV. The prototype went overseas as two experimental chassis and three finished turrets. The tank was armed with the 105 mm L7A3 rifled gun, developed in Great Britain. After the tests ended, the tank was equipped with a 120-mm Rheinmetall gun, right there, at the Aberdeen Proving Ground in Maryland. It was this version that later went into series production under the designation Leopard 2.
 
 ''-From [[wt:en/news/7797-development-leopard-2av-en|Devblog]]''
 

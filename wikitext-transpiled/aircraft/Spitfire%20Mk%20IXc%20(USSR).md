@@ -176,7 +176,7 @@ The biggest threats you will have will be other Spitfires, which there will be m
 
 * [[wt:en/news/534--en|[Special] The uninterceptable interceptor]]
 * [[wt:en/news/4554-event-spitfire-day-in-honor-of-the-first-flight-en|[Event] Spitfire Day - In honor of the first flight]]
-* [https://forum.warthunder.com/index.php?/topic/341985-supermarine-spitfire-lfmkixce/ Official data sheet - more details about the performance]
+* [https://old-forum.warthunder.com/index.php?/topic/341985-supermarine-spitfire-lfmkixce/ Official data sheet - more details about the performance]
 
 {{AirManufacturer Supermarine}}
 {{USSR fighters}}

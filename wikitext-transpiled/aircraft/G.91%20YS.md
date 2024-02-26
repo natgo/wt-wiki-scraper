@@ -10,15 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
+The '''{{Specs|name}}''' was based in the earlier G.91 Y, which was a complete redesign of the G.91 series of aircraft, going from a small and light airframe to a heavier and more capable one, with two afterburning engines, a longer range, and a bigger payload for ground attack missions. The G.91 YS was a version of this fighter developed for Switzerland, the main difference was slightly modified avionics and the addition of more modern loadouts, such as AIM-9 Sidewinders. Though the country was interested in acquiring the G.91, the purchase was never completed.
 
-The {{PAGENAME}} is a multi-role fighter which first debuted in 1966. Based largely on earlier Fiat G.91 fighters, the G.91 YS was a complete redesign but kept the basic shape of the G.91 series. The biggest difference between the two types was the conversion from a single-engine to two General Electric J85 turbojets outfitted with afterburners. This conversion alone resulted in a 60% increase in the aircraft's thrust, however, it was not enough for this jet to become supersonic even when in a dive.
-
-In similar fashion to the earlier French fighter, the [[Super Mystere B2]], the {{PAGENAME}} was outfitted with dual 30 mm DEFA autocannons in the cheeks of the forward fuselage.  Also in the same vein, the {{PAGENAME}} was built to be a multi-role fighter as a fighter-interceptor or a fighter-bomber. Due to the increased power of the dual engines, this fighter when acting in a bomber role has the ability to carry up to 4,000 lbs of bombs, though configurations as low as 1,000 lbs is available. FFAR Mighty Mouse unguided rockets are another good option for taking out softer ground targets in which the larger 500 – 1,000 lb bombs would otherwise be overkill.
-
-The {{PAGENAME}} while lacking in the supersonic flight department is a feisty little fellow which can still hold its own in an air-to-air combat role. The dual autocannons can make quick work of any head-on attacks provided the pilot gets out of the way of incoming bullets in return. AIM-9B Sidewinder missiles prove themselves very effective especially against slower targets such as bombers and helicopters but are a bit more difficult to achieve success against other fighters due to their ability to pull high-G manoeuvres and break the missile lock and avoid them.
-
-The pilot has the option to change up the load-out of the aircraft due to the map he finds himself on and what they are comfortable with. Air-to-air and ground-attack options are both viable and can help change the tide of the battle by loading up on what the team needs more.
+It was introduced in [[Update 1.87 "Locked On"]]. In similar fashion to the French [[Super Mystere B2]], the {{PAGENAME}} was outfitted with dual 30 mm DEFA autocannons in the cheeks of the forward fuselage. Also in the same vein, the {{PAGENAME}} was built to be a multi-role fighter as a fighter-interceptor or a fighter-bomber. Due to the increased power of the dual engines, this fighter when acting in a bomber role has the ability to carry up to 4,000 lbs of bombs, though configurations as low as 1,000 lbs is available. FFAR Mighty Mouse unguided rockets are another good option for taking out softer ground targets, since they have the potential to destroy a higher number of enemies in the hands of a skilled pilot. For air combat, the G.91 YS lacks countermeasures but compensates this with a very good flight performance, however it has a mediocre top speed, in a BR when most fighters are already supersonic; keep your speed high at all times or else you might become vulnerable to missiles and fast interceptors like the MiG-21s and F-104s that start to be very common.
 
 == General info ==
 === Flight performance ===
@@ -188,6 +182,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x 500 lb LDGP Mk 82 bombs (1,000 lb total)
 * 4 x 500 lb LDGP Mk 82 bombs (2,000 lb total)

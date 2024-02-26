@@ -146,7 +146,7 @@ Wait for the dogfight to start, then fly in behind a distracted enemy. Shoot in 
 To sum up, this is merely a better version of the Yak-1, with similar tactics and strategy. Just remember that Soviet fighter aircraft in general count heavily on its pilot's accuracy, in this case only have two guns!
 
 === Realistic Battles ===
-Overheating has been much decreased sonce the early implementation. If not using MEC, take off at 100% throttle, then go to 97% after getting to 3000m to 4000m. If using MEC, open the radiators somewhat (~20-30%) and turn up the prop pitch (~90%). This will keep the engine cool, allow you to run the throttle at 100%, and also bring out extra propeller thrust for better climb and acceleration. '''Stay low at all costs!''' If you climb too high, four things will happen:
+Overheating has been much decreased since the early implementation. If not using MEC, take off at 100% throttle, then go to 97% after getting to 3000m to 4000m. If using MEC, open the radiators somewhat (~20-30%) and turn up the prop pitch (~90%). This will keep the engine cool, allow you to run the throttle at 100%, and also bring out extra propeller thrust for better climb and acceleration. '''Stay low at all costs!''' If you climb too high, four things will happen:
 
 # You will have run your engine out trying to climb, so your engine has less time before it overheats than usual.  Note: Overheating is much less prevalent now (mid 2023) than it used to be. (You also don't climb as fast as most other planes, in fact, there are better Soviet aircraft for climbing, such as the MiG-3 and the La-5).
 # You will be highly visible.

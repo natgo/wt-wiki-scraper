@@ -85,7 +85,7 @@ The M322 round offers up to 625 mm of penetration, it is able to penetrate most 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 46 || rowspan="2" | -7°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 32.4 || 44.8 || 54.4 || 60.2 || 64.0 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
+| rowspan="2" | 46 || rowspan="2" | -7°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 32.4 || 44.8 || 54.4 || 60.2 || 64.0 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 20.2 || 23.8 || 28.9 || 32.0 || 34.0
@@ -130,7 +130,6 @@ The unlockable M322 APFSDS round is a Tier 3 upgrade and functionally identical 
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 {{Specs-Tank-Weapon|4}}
-{{Specs-Tank-Weapon|5}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M2HB (12.7 mm)|FN MAG 60-40 (7.62 mm)}}
 
@@ -140,7 +139,7 @@ The unlockable M322 APFSDS round is a Tier 3 upgrade and functionally identical 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 1,000 (200) || 577 || N/A || N/A
+| Coaxial || 1,000 (200) || 575 || - || -
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -149,11 +148,11 @@ The unlockable M322 APFSDS round is a Tier 3 upgrade and functionally identical 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 6,000 (200) || 600 || N/A || N/A
+| Coaxial || 6,000 (200) || 960 || - || -
 |-
-| Commander's cupola || 1,800 (200) || 600 || -10°/+50° || -120°/+60°
+| Commander's cupola || 1,800 (200) || 960 || -10°/+50° || -120°/+60°
 |-
-| Loader's cupola || 1,800 (200) || 600 || -10°/+50° || ±120°
+| Loader's cupola || 1,800 (200) || 960 || -10°/+50° || ±120°
 |-
 |}
 

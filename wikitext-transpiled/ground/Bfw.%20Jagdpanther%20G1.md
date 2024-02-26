@@ -135,7 +135,7 @@ It is important to keep in mind that the Jagdpanther's armour is sloped. Using i
 * Front-mounted transmission can catch fire and immobilises vehicle when shot through lower frontal plate
 * Like most tank destroyers it lacks a turret, limiting its ability to respond to flankers like [[M18 GMC]]
 * A lot bigger than previous tank destroyers, so may need to get used to the size and how to conceal it
-* Penetration from the sides is often lethal as sides are littered with ammunition#
+* Penetration from the sides is often lethal as sides are littered with ammunition
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

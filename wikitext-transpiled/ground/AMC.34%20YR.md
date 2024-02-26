@@ -5,13 +5,9 @@
 
 == Description ==
 <!--''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.''-->
-The '''{{specs|name}}''' (combat machine gun car) is a rank {{specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. While originally a reserve vehicle, it was later superseded in status as a reserve vehicle in [[Update 1.93 "Shark Attack"]] by the AMD.35. It features a well-armoured turret on a fragile chassis with a subpar SA34 L/30 cannon as the main armament.
+The '''{{specs|name}}'''was a cavalry tank designed and fielded during the pre-war period. The tank fielded the same 47 mm SA 34 gun used by the Char B1 and was used on mainland France between 1936 and 1937. The tank was considered poorly armoured, even for a cavalry tank, and was re-armed with a 20mm gun turret and shipped to North Africa. The vehicle was later replaced by the H.39 in late 1939. It should be noted, that the earlier Char D1 and early Char D2 infantry tanks did see wide service, sharing the same gun as the AMC.34 but in a different body, with increased armour at the cost of mobility, 160 D1s were built and served in North Africa.
 
-Being not so fast, not so well-armoured and not so powerful, this tank is clearly not one to be bold with. Any other light tank you may encounter has a cannon that penetrates about 150% greater than yours and can fire twice as fast, so never engage an enemy head-on. Instead, as with most rank 1 French vehicles, stick with the team and follow flanking manoeuvres. Do not go out in an open field since your armour cannot protect you from incoming shots, your cannon cannot reliably engage an enemy, and your mobility does not allow for dodging. At best, this tank is a support brawler; at worse, it is a decoy for the enemy to shoot a round of ammunition at.
-
-This tank's turret is its best attire: thick, sloped, and small. It is nearly invincible in a hull-down position. Otherwise, any penetrating frontal shot has a good chance to knock your vehicle out: on the left side, a big ammo rack can be easily detonated while on the right side, your only 2 crew members are all lined-up. Its mobility is "Not the best but still good" in terms of characterization. With about 15 HP/ton, it can carry its user to a good position.
-
-Firepower is the main worry of early French tanks: they are subpar. With at most 27 mm of penetration at point-blank ranges, poor ballistics and an awful reload time, this the worst main reserve armament. This gun is best used in assisting allied flanking manoeuvres and close-quarter engagements.
+It was introduced in [[Update 1.75 "La Résistance"]].  While originally a reserve vehicle, it was later superseded in status as a reserve vehicle in [[Update 1.93 "Shark Attack"]] by the AMD.35. It features a well-armoured turret on a fragile chassis with a subpar SA34 L/30 cannon as the main armament. The vehicle features mediocre mobility, armour and firepower. The turret is well armoured, but with such a big chassis, is easy to get shot at the front or the sides. Aside from that, its SA 34 cannon has a very poor reload speed, lower than most tanks around its BR, and with 27mm of penetration at point-blank ranges, the vehicle is not beginner-friendly at all and can be considered inferior to most rank I tanks. It requires great skill and map knowledge to be used with effectiveness, try to engage at close quarters and with allied support for increased chances of survival..
 
 == General info ==
 === Survivability and armour ===
@@ -155,6 +151,7 @@ The earlier Char D1 and the early versions of the Char D2 infantry tanks, which 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amc_34 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -166,6 +163,7 @@ The earlier Char D1 and the early versions of the Char D2 infantry tanks, which 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[AMC.35 (ACG.1)]]
 
 == External links ==

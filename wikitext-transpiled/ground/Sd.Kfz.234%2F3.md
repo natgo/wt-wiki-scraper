@@ -141,7 +141,7 @@ Like its older brother, it is recommended to follow the exact same tactics, thos
 # Use your cover for great visibility (for you to view the enemy)
 # The ability to get deadly hits into the enemies
 
-In its battle rating of 1.7, the 234/3 will face anything and everything between 1.0 and 2.7, It can and will be destroyed by anything and everything here. But keep in mind that tanks can use Artillery and Air-Spawns to take you down if they can't directly see you, so get under a roof and/or likewise cover where they can't see you nor hit you.
+In its battle rating of 2.0, the 234/3 will face anything and everything between 1.0 and 3.0, It can and will be destroyed by anything and everything here. But keep in mind that tanks can use Artillery and Air-Spawns to take you down if they can't directly see you, so get under a roof and/or likewise cover where they can't see you nor hit you.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

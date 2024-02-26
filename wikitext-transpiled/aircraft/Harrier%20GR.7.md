@@ -116,7 +116,7 @@ With its agile and adaptable nature, this aircraft excels in evasive manoeuvres,
 === Modifications and economy ===
 {{Specs-Economy}}
 
-A prudent approach would be to focus on obtaining additional countermeasures and air-to-air missiles as promptly as possible. This strategic choice gains even more significance considering the Harrier GR.7's provision of 4 x AIM-9L missiles and an impressive stockpile of 700 countermeasures. This advantageous combination not only offers a heightened capacity to effectively neutralize incoming missile hazards but also affords the aircraft a formidable offensive potential. With this array of resources at your disposal, the Harrier GR.7 can seamlessly navigate the complex dynamics of aerial combat, ensuring a robust defense against missile threats while equipping you with a sufficiently potent arsenal to engage and dispatch enemy aircraft with a commendable level of efficiency.
+A prudent approach would be to focus on obtaining additional countermeasures and air-to-air missiles as promptly as possible. This strategic choice gains even more significance considering the Harrier GR.7's provision of 4 x AIM-9M missiles and an impressive stockpile of 700 countermeasures. This advantageous combination not only offers a heightened capacity to effectively neutralize incoming missile hazards but also affords the aircraft a formidable offensive potential. With this array of resources at your disposal, the Harrier GR.7 can seamlessly navigate the complex dynamics of aerial combat, ensuring a robust defense against missile threats while equipping you with a sufficiently potent arsenal to engage and dispatch enemy aircraft with a commendable level of efficiency.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -235,7 +235,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 The Harrier is a subsonic fighter fighting against a mostly supersonic opposition. However, as a weapons platform, it has access to some features that make it able to compete:
 
-You can carry up to 4 AIM-9L missiles that are all-aspect, have a maximum overload of 30 G, and a maximum launch range of 18 km. In realistic terms, that means that if you have an altitude advantage of 1-2 km over someone running away from you you are still able to lock them and fire at a distance of up to 5-6 km and the missile still has a good chance of reaching them. The AIM-9Ls have decent flare resistance if the enemy still has their afterburner on. However, you should avoid firing them in a frontal aspect as just a few flares will be able to decoy them.
+You can carry up to 4 AIM-9M missiles that are all-aspect, feature a seeker shut-off IRCCM, have a maximum overload of 30 G, and a maximum launch range of 18 km. In realistic terms, that means that if you have an altitude advantage of 1-2 km over someone running away from you you are still able to lock them and fire at a distance of up to 5-6 km and the missile still has a good chance of reaching them. The AIM-9Ms are almost impossible to dodge from side and rear aspects due to its IRCCM. However, you should avoid firing them in a frontal aspect as just a few flares will be able to decoy them.
 
 You will receive access to 60 countermeasures with the first countermeasure modification and with the second you unlock the option to carry 160 countermeasures on each of the Sidewinder pylons, totalling 4 x 160 + 60 = 700 countermeasures. It is highly recommended to run them mixed (both flares and chaff). This allows you to use the periodic countermeasures dispense function when you are in situations where your situational awareness will be limited, to prevent a missile from hitting the plane.
 
@@ -243,9 +243,9 @@ You also receive an RWR, which is a useful tool for roughly finding the location
 
 At the beginning of the match, you can climb to the side along the same flight path as the rest of your team. Try keeping a speed of above 800 km/h while climbing to maybe 5,000 to 7,000 m altitude. However, this playstyle leaves you open to some BVR misses being fired by enemies like the F-14. If you pick up a warning on your RWR and see a semi-active or active radar-guided missile, you will want to fly perpendicularly to the source of the enemy radar whilst deploying chaff.
 
-The general playstyle would be to wait for the proper opportunity to target vulnerable opponents. You are not the plane that will carry the match, you are a support aircraft. Almost all matches inevitably turn into a furball fight where enemies and allies will be located in a tight area. You can dive down from above on them and fire your AIM-9Ls on unsuspecting targets. Be careful not to fire your missiles when allies are very close to the enemy, as you can easily hit a teammate by mistake.
+The general playstyle would be to wait for the proper opportunity to target vulnerable opponents. You are not the plane that will carry the match, you are a support aircraft. Almost all matches inevitably turn into a furball fight where enemies and allies will be located in a tight area. You can dive down from above on them and fire your AIM-9Ms on unsuspecting targets. Be careful not to fire your missiles when allies are very close to the enemy, as you can easily hit a teammate by mistake.
 
-Another playstyle is to fly close to the ground, either along hills or other terrain. This allows you to approach from the side and engage from the side aspect, where the AIM-9Ls are less susceptible to flares. Flying close to the ground also leaves you less vulnerable to BVR missiles, although not immune.
+Another playstyle is to fly close to the ground, either along hills or other terrain. This allows you to approach from the side and engage from the side aspect, where the AIM-9Ms are almost un-flareable. Flying close to the ground also leaves you less vulnerable to BVR missiles, although not immune.
 
 When surrounded by enemies, turn on the automatic countermeasure dispenser and focus on the enemies' positions and who you can target and to where you can disengage. Try to avoid turning with enemies as even with the VTOL controls you will probably be outmatched. A turnfight should be your last resort.
 
@@ -275,7 +275,7 @@ To successfully use this weapon in ground battles, you will first need to stay w
 * It has a very large count of countermeasures (700 if all four BOL rails are equipped)
 * Even if only two BOL rails are equipped the amount of countermeasures is still very impressive at 380
 * Can carry up to four very effective [[AIM-9M Sidewinder]] missiles
-* Dedicated missile pylons ensure you can always carry at least two AIM-9Ls without sacrificing any ground attack ordnance
+* Dedicated missile pylons ensure you can always carry at least two AIM-9Ms without sacrificing any ground attack ordnance
 * Has built-in target tracker and FLIR even without targeting pod
 * Has pilot night vision
 * ADEN 25 cannons have very high rate of fire and velocity

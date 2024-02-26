@@ -1,3 +1,8 @@
+{{About
+|about = Soviet jet fighter '''{{PAGENAME}}'''
+|usage = other versions
+|link = MiG-29 (Family)
+}}
 {{Specs-Card
 |code=mig_29smt_9_19
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -78,7 +83,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Sons of Attila"]], brings a ne
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | Klimov RD-33 || 2
+| colspan="2" | Klimov RD-33 Series 3 || 2
 | colspan="2" | 11,670 kg || colspan="3" | 435 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -133,6 +138,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 * A choice between two presets:
 ** 1 x 30 mm GSh-30-1 cannon, cheek-mounted (150 rpg) + 60 x countermeasures
 ** 1 x 30 mm GSh-30-1 cannon + 60 x countermeasures + 56 x large calibre countermeasures
+
+Compared to the basic MiG-29, the SMT is capable of mounting supplementary large calibre countermeasures for better self-protection.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -225,6 +232,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x ZB-500 incendiary bombs
 {{Navigation-End}}
 
+The MiG-29SMT's upgraded arsenal is one of its main selling points. The obsolete R-60M has been removed and replaced with the superior R-73, which Soviet pilots may have seen earlier on the [[Su-25T]]. The R-73 has a much better seeker with IRCCM, a higher overload, better range, and a thrust vectoring system for constant manoeuvring. When combined with the MiG-29SMT's helmet-mounted display, they are a deadly option for dogfights and help compensate for the decreased manoeuvrability of the airframe.
+
+The R-27 missiles return, this time with a new offering in the R-27ET extended-range IR-guided variant. Although the R-27ER and R-27ET are both potent, the MiG-29SMT is still limited by the capacity of only two R-27s.
+
+The ground attack arsenal sees several improvements. In terms of unguided weapons, the bomb loadout remains the same but the older S-24 HE rocket has been replaced with the podded S-13OF, which has somewhat less HE power but five times the capacity per pylon. The inner pylons can now mount TV-guided munitions in the form of the Kh-29TD (functionally identical to the Kh-29T seen on other Soviet jets) and the KAB-500Kr, which are nice to have in mixed battles for standoff attacks against SPAA. However, the capacity of only two such munitions is much lower than comparable American jets like the [[F-16C]], which can not only carry three times as many air-to-ground missiles but also has a targeting pod and laser-guided bombs. Thus, while the MiG-29SMT is a useful multirole fighter, pilots shouldn't expect to be able to clear out an entire enemy team in one run.
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 '''Air Combat'''
@@ -251,12 +264,12 @@ You can also select traditional dumb bombs and rockets that, if used with precis
 * Unlike its predecessor, it has an improved digital RWR that increases awareness.
 * Great upgrade in CAS capabilities over its predecessors
 * "Rita" voice warning system
+* Unlike its predecessor, it has massive improvement of fuel, which dramatically increases duration of flight
 
 '''Cons:'''
 
 * Increased weight over previous variants; heavily downgraded manoeuvrability and acceleration
 * Bleeds energy dangerously fast during manoeuvres
-* Less countermeasures than majority of its adversaries
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -270,16 +283,22 @@ The MiG-29SMT (9.19) would first take to the skies in 2006, with deliveries to t
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mig_29smt_9_19 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|PRQujCYvU1k|'''The Shooting Range #372''' - ''Metal Beasts'' section at 00:26 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+
+* [[MiG-29 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

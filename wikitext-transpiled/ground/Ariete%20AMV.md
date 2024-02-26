@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The C1 Ariete was developed by OTO Melara during the late Cold War to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw Pact tanks. The AMV PT1 is a further development of the C1 Ariete, it being the first prototype of the AMV program which aims to upgrade several features to improve the tank and extend its life. The PT1 specifically features mobility improvements which allows the tank to be on par in terms of mobility with the rest of the top-tier MBTs.
+The C1 Ariete was developed by Consorzio Iveco OTO Melara (CIO) during the late Cold War to allow the Italian army to equip itself with a modern tank which could easily deal with Yugoslav and Warsaw Pact tanks. The AMV PT1 is a further development of the C1 Ariete, it being the first prototype of the AMV program which aims to upgrade several features to improve the tank and extend its life. The PT1 specifically features mobility improvements which allows the tank to be on par in terms of mobility with the rest of the top-tier MBTs.
 
-Introduced in [[Update "Sky Guardians"]], the C1 Ariete AMV is one of the staple tanks that you can add to your lineup. As a tier 1 mod you get access to the CL3143 APFSDS round which will greatly help you when grinding the vehicle. It's a great MBT when used by players who can work around its weaknesses, keep in mind that unlike the previous Ariete you don't have access to the WAR add-on armour kit.
+Introduced in [[Update "Sky Guardians"]], the C1 Ariete AMV is one of the staple tanks of the Italian tech tree, that you can add to your lineup. As a tier 1 mod you get access to the CL3143 APFSDS round which will greatly help you when grinding the vehicle. It's a great MBT when used by players who can work around its weaknesses, keep in mind that unlike the previous Ariete you don't have access to the WAR add-on armour kit.
 
 '''Fun fact''': this MBT is the newest vehicle in the game, first shown in February 2022 during testing for the C1 Ariete upgrade
 
@@ -142,7 +142,7 @@ The history of the C1 Ariete begins during the late stages of the Cold War, with
 
 The tank would feature a set of improvements from previous designs, for example the first C1 Ariete production models had access to the TURMS 3rd generation LTFCS made by Officine Galileo, which gave the capability to the Ariete to fire on the move, both during the day and at night. However later down the line, the last 50 Arietes would receive an upgrade of their sights, which resulted in many improvements, such as allowing the C1 Ariete commanders to have access to thermal imaging. In terms of armaments, the C1 Ariete (P) and C1 Ariete Production had access to a 120 mm smoothbore gun, made by OTO Melara, with similarities to the German made L44. The cannon would be suited to fire the majority of NATO standard munitions. Another improvement included better protection compared to the previous vehicles, it would be one of the more vital aspects of the Ariete. The tank would be delivered up until the early 2000s when the Ariete would begin to be the only official tank in service, while the Leopards and M60s would be fully phased out and put in storage.
 
-Since then however, the Ariete has had quite the bumpy ride when it came to upgrading the machine; the Italian army was not against upgrading it, but there was a common issue that would plague the development: costs. The first proposed upgrade for the C1 Ariete would be what is known as the "C2 Ariete". After the tank had finished being designed, many nations at the time already had better vehicles in service, for example Germany would already have the Leopard 2A5. The C2 Ariete would have featured a lot of improvements, which included new updated armour, an autoloader, new engine, and also new updated FCS. However this never ended up happening and as such the C2 Ariete would remain only a proposal on paper. Another potential upgrade for the C1 Ariete, the C1 Ariete Hitfact Mk2, was likely not even considered by the Italian army but it would still feature a set of advancements that technically speaking would make it still a better machine than the production vehicles, such as the new cannon and optics.
+Since then however, the Ariete has had quite the bumpy ride when it came to upgrading the machine; the Italian army was not against upgrading it, but there was a common issue that would plague the development: costs. The first proposed upgrade for the C1 Ariete would be what is known as the "C2 Ariete". After the tank had finished being designed, many nations at the time already had better vehicles in service, for example Germany would already have the Leopard 2A5. The C2 Ariete would have featured a lot of improvements, which included new updated armour, an autoloader, new engine, and also new updated FCS. However this never ended up happening and as such the C2 Ariete would remain only a proposal on paper. Another potential upgrade for the C1 Ariete, the C1 Ariete Hitfact Mk2, was likely not even considered by the Italian army but it would still feature a set of advancements that technically speaking would make it still a better machine than the production vehicles, such as the new cannon and optics. Also all Ariete's are equiped with a 7.62mm Beretta Mg 42/59 Machine gun.
 
 '''AMV upgrade'''
 
@@ -154,6 +154,7 @@ The improvements in the Ariete AMV PT1 are as follows: increase in power from 1,
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_ariete_amv_pt1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -162,6 +163,7 @@ The improvements in the Ariete AMV PT1 are as follows: increase in power from 1,
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Ariete (Family)|Related development]]
+
 * [[Ariete]]
 * [[Ariete PSO]]
 * [[Ariete (P)]]

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Batignolles-Chatillon Char 25T''' was a French early Cold War tank developed by the Batignolles-Chatillon company in 1954. The vehicle was never developed further than the two prototypes. It was built for a weight class of 25 tons, which is approximately double the weight of the AMX-13 light tanks. It was armed with a 90 mm D.911 APX tank gun and was manned by four crew members. Its top speed is 65 km/h. Despite the project being abandoned, several of the design ideas and technology were applied to subsequent French armoured vehicles. It never saw duty with the French Army.
+The '''Batignolles-Chatillon Char 25t''' was a French early Cold War tank developed by the Batignolles-Chatillon company in 1954. The vehicle was never developed further than the two prototypes. It was built for a weight class of 25 tons, which is approximately double the weight of the AMX-13 light tanks. It was armed with a 90 mm D.911 APX tank gun and was manned by four crew members. Its top speed is 65 km/h. Despite the project being abandoned, several of the design ideas and technology were applied to subsequent French armoured vehicles. It never saw duty with the French Army.
 
-Introduced in [[Update 1.81 "The Valkyries"]], the Char 25T is a fast tank with minimal armour, so it is important not to engage enemy tanks in frontal combat. It is strongly encouraged to take full advantage of its superb mobility for flanking manoeuvres during battle. The tank also has an acceptable reverse speed, allowing it to quickly disengage after firing. The Char 25t can engage all but the heaviest targets at close range, while at range, it can successfully hit targets from the flank. Players using the Char 25T should always stay out of the enemy's direct line of fire. The Char 25T, like other French light tanks, has a low-profile tank with a tiny autoloader turret in the back.
+Introduced in [[Update 1.81 "The Valkyries"]], the Char 25t is a fast tank with minimal armour, so it is important not to engage enemy tanks in frontal combat. It is strongly encouraged to take full advantage of its superb mobility for flanking manoeuvres during battle. The tank also has an acceptable reverse speed, allowing it to quickly disengage after firing. The Char 25t can engage all but the heaviest targets at close range, while at range, it can successfully hit targets from the flank. Players using the Char 25t should always stay out of the enemy's direct line of fire. The Char 25t, like other French light tanks, has a low-profile tank with a tiny autoloader turret in the back.
 
 == General info ==
 === Survivability and armour ===
@@ -59,7 +59,7 @@ The {{PAGENAME}} is very fast, both in top speed (even in reverse) and accelerat
 
 The gun is decent for its BR and role. Although it lacks a HEATFS shell like another vehicle near its BR, the AMX-13-90, the Char 25t carries the M82 APCBC and T33 APBC rounds.
 
-The reload time is short, 6.7 seconds between shots (even with a knocked out loader). It carries 12 shots in the drum, like the AMX M4, allowing for a sustained fire at multiple enemies. Although great at post-penetration damage, the M82 round used by the Char 25t has mediocre penetration for its BR, especially when taking into account the presence of HEATFS and APDS rounds.
+The reload time is short, 4 seconds between shots (even with a knocked out loader). It carries 12 shots in the drum, like the AMX M4, allowing for a sustained fire at multiple enemies. Although great at post-penetration damage, the M82 round used by the Char 25t has mediocre penetration for its BR, especially when taking into account the presence of HEATFS and APDS rounds.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -162,7 +162,7 @@ Mix and match the tactics above and of other French lights. Try to flank and don
 * The addition of the M82 round increases the tank's effectiveness.
 * Fast turret rotation.
 * Good gun depression value: high gun placement make hull-down positions very efficient.
-* Short reload time thanks to the 7-round autoloader: 1 shot every 6.7 seconds, comparable to reload times at low ranks.
+* Short reload time thanks to the 12-round autoloader: 1 shot every 4 seconds, comparable to reload times at low ranks.
 * Has scouting ability and teammate repair/firefighting function.
 
 '''Cons:'''

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
+Finland operated 43 T-54s and 73 T-55s, acquired from the Soviet Union shortly after their introduction with the Red Army. The existing '''T-54/55''' tanks were delivered between 1959 and 1972. At some point in their service, they were modernized, first to the T-55M standard and then to the T-55 AM variant. An additional 10 T-55AMs were bought from Poland and their chassis was used with the Marksman SPAAG turret to create the ITPSV 90. A total of 230 T-54/55s were in service by 2001 in different variants, 74 were in service by early 2003 and the rest remained in storage. During the 1960s, some T-54/55 turrets were used as coastal fortifications as the 100 56TK light coastal gun. The last variant of the T-54/55 (a mine roller known as KMT-5) was retired in 2022.
+
+Introduced in introduced in [[Update "Fire and Ice"]], the '''{{Specs|name}}'''  is an excellent brawler and frontline tank, compared to other early MBTs. With good frontal armour, firepower and mediocre mobility, it excels in close combat against other MBTs. While the armour is very good and will consistently stop conventional rounds, HEAT warheads can penetrate the tank with ease. The interior is also very cramped and the tank is vulnerable to one shot, especially by APHE shells. The tank is fitted with a 100mm D-10T cannon, that has access to a fairly powerful APDS shell, as well as a very capable APHE shell, while the APHE shell is not the best in close combat, it can be used to guarantee a kill in flanking manoeuvres, when the enemy tanks side is exposed.
 
 == General info ==
 === Survivability and armour ===
@@ -159,9 +161,7 @@ The T-54 has access to the powerful D-10T. As seen in prior vehicles and other v
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wikipedia:T-54/T-55_operators_and_variants|[Wikipedia] - T-54/55 Operators and Variants]]
 
 {{Sweden medium tanks}}

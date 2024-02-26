@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli attack helicopter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+After the introduction of the Cobra, several upgrade programs increased its capacity in order to expand its lifetime in the Israeli Air Force. The Tzefa D/E was the latest version of the Cobra in service with the IAF, it was basically an American AH-1F with minor modifications. In August 1996, a shipment of fourteen US Army surplus AH-1F Cobra helicopters arrived in Israel. These helicopters were meant to replace the aging MD500 Defenders that were already in service with the IAF. These new models were mostly active in Lebanon providing cover to ground forces and engaging pin-point targets in the Judea & Samaria district and the Gaza Strip. Some of the squadrons operating the Tzefa during this time period adopted the RAFAEL Spike ATGM, which was a fire and forget missile, much more superior to the TOW ATGM since it was more versatile and had a longer range. The Tzefa was eventually retired in 2013 after being replaced with the more advanced AH-64A, also known as the Apache.
+
+Introduced in [[Update "Danger Zone"]]. The Tzefa D/E has access to very decent ATGMs for its BR, alongside a good flight performance. While its top speed may not be the best, it is very agile and will turn and manoeuvre faster than most helicopters, even those with a light airframe. Its cannon is a 20 mm rotary cannon with a very high fire rate and low penetration values, this means that using it against MBTs even from the top is challenging, but SPAA and other lightly armoured targets are even more vulnerable to this cannon than what they would be to a 30 mm one, thanks to its much higher fire rate. It also has access to thermal imaging system as well as countermeasures, and it is recommended using both chaff and flares in a mixed load out to maximize chances of survival.
 
 == General info ==
 === Flight performance ===
@@ -43,7 +45,7 @@ Plan movements in advance, and when preparing to land gradually reduce your COLL
 === Survivability and armour ===
 {{Specs-Heli-Armour}}
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
-In terms of physical armour, a "bathtub" of steel and bulletproof glass protects both crew members. The armour is mostly resistant to gun rounds below 12.7mm.
+In terms of physical armour, a "bathtub" of steel and bulletproof glass protects both crew members. The armour is mostly resistant to gun rounds below 12.7 mm.
 
 The Tzefa D/E presents a very narrow target from the front, making it harder to hit with ground fire and missiles. Combined with excellent manoeuvrability at most speeds, the helicopter is able to evade enemy fire easily by weaving from side to side. Researching of the 60 countermeasures and IRCM should be prioritized, as these greatly increase the Tzefa's ability to survive anti-air missiles which become quite common around the Tzefa's battle rating.
 
@@ -106,6 +108,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 28 x Hydra-70 M247 rockets
 * 76 x Hydra-70 M247 rockets
@@ -131,9 +134,11 @@ If you are on an open map, this is the best situation to utilize your TOW missil
 
 To deal with SPAA, keep a good "buffer distance" of around 3.5 km as this is the optimal range to guide the TOW missiles and you will be able to take evasive manoeuvres and deploy countermeasures with plenty of warning time. Simply guide the missile to the target, and pop 2-4 countermeasures and adjust your position if a missile is fired. Stay low to the ground, as this sometimes interferes with enemy missile guidance and makes you a harder target to hit.
 
-'''To fight enemy jets:''' If you are approached by an enemy plane, get ready to deploy countermeasures as a missile may already have been fired at you if the enemy caught you by surprise. Disengage hover mode if enabled, reduce COLL to 70-80%, barrel roll and deploy countermeasures if a missile is in the air, and fire the 20 mm while you evade. While rolling, start turning the helicopter in the ''opposite'' direction so you can get the guns on the enemy plane once he passes you; use the rudder and move the mouse/joystick. Once turned, begin firing at the enemy plane and see if you can disengage by sticking low to the ground and by flying away. If the enemy plane is persistent, you may just have to wait for a teammate to assist as the Tzefa D/E has no air-to-air missiles.
+'''To fight enemy jets:''' If you are approached by an enemy plane, get ready to deploy countermeasures as a missile may already have been fired at you if the enemy caught you by surprise. Disengage hover mode if enabled, reduce COLL to 70-80%, barrel roll and deploy countermeasures if a missile is in the air, and fire the 20 mm while you evade. While rolling, start turning the helicopter in the opposite direction so you can get the guns on the enemy plane once he passes you; use the rudder and move the mouse/joystick. Once turned, begin firing at the enemy plane and see if you can disengage by sticking low to the ground and by flying away. If the enemy plane is persistent, you may just have to wait for a teammate to assist as the Tzefa D/E has no air-to-air missiles.
 
-'''To fight enemy helicopters:''' You will be utilizing your 20 mm M197 the most when fighting an enemy helicopter as it will be the most effective. If the enemy helicopter approaches and begins firing at you, start returning fire from around 1.5 km as your rounds are accurate enough at this distance to land some hits. Attempt to close the distance if circling and always strafe from left to right to evade incoming rounds. Rolling may be helpful but be wary as you have to reposition after straightening out. Continue to fire and use the tracers to adjust your aim. Aim for critical components like the cockpit, fuselage, and engines.
+'''To fight enemy helicopters:''' Firstly, keep in mind that the TOW missiles can be utilized against hovering/stationary helicopters that are not within optimal gun distance (over 1.5 km). The TOWs will deal with any helicopter quite easily with their very high explosive mass and damage, so don't be afraid to use them. 
+
+You will be utilizing your 20 mm M197 the most when fighting an enemy helicopter at closer ranges as it will be the most effective. If the enemy helicopter approaches and begins firing at you, start returning fire from around 1.5 km as your rounds are accurate enough at this distance to land some hits. Attempt to close the distance if circling and always strafe from left to right to evade incoming rounds. Rolling may be helpful but be wary as you have to reposition after straightening out. Continue to fire and use the tracers to adjust your aim. Aim for critical components like the cockpit, fuselage, and engines.
 
 It is helpful to have a teammate in this situation who can help you as prolonged battles increase the risk of the helicopter being shot down by SPAA or being targeted by enemy jets.
 
@@ -142,21 +147,22 @@ It is helpful to have a teammate in this situation who can help you as prolonged
 '''Pros:'''
 
 * Manoeuvrable, easily able to roll from side to side if COLL is set to 90-95%, excellent for evading gunfire from SPAA
-* Excellent top speed in near-level flight, able to get to battle quickly and run away from most other helicopters if needed.
-* Versatile, can carry TOW missiles along with rocket pods.
-* TOW-2 missiles lethal against ground targets (800 mm HEAT penetration) and have good speed (375 m/s).
-* Good 20 mm cannon, able to deal with air targets and ground targets effectively in both Realistic and PvE.
-* Has countermeasures and IRCM which increase survivability against missiles.
+* Excellent top speed in near-level flight, able to get to battle quickly and run away from most other helicopters if needed
+* Versatile, can carry TOW missiles along with rocket pods
+* TOW-2 missiles lethal against ground targets (800 mm HEAT penetration) and have good speed (375 m/s)
+* Good 20 mm cannon, able to deal with air targets and ground targets effectively in both Realistic and Helicopter PvE
+* Has countermeasures and IRCM which increase survivability against missiles
 
 '''Cons:'''
 
-* Maximum 3.75 km range for the TOW-2 missiles are less than USSR analogues (Shturm, Ataka) and put the helicopter in rather close proximity to the enemy.
-* Unable to stop quickly if needed at the penalty of an unintentional rollover.
-* Prone to rolling over and locking up if COLL is suddenly reduced, when pitching upwards at high speeds, and when enabling hover mode at high speeds.
-* Old airframe, prone to getting knocked out when exposed to ground fire.
-* Gunner cannot pilot the helicopter if pilot is knocked out, pilot cannot fire the 20 mm if gunner is knocked out.
-* 20 mm cannon doesn't have the penetration to deal with armoured vehicles head-on, attacking from the top is highly advised.
-* Researching takes quite a while even with boosters, especially with Tier III-IV modifications.
+* Maximum 3.75 km range for the TOW-2 missiles are less than USSR analogues (Shturm, Ataka) and put the helicopter in rather close proximity to the enemy
+* TOW missiles can be defeated by ERA by some tanks (especially CONTACT-5)
+* Unable to stop quickly if needed at the penalty of an unintentional rollover
+* Prone to rolling over and locking up if COLL is suddenly reduced, when pitching upwards at high speeds, and when enabling hover mode at high speeds
+* Old airframe, prone to getting knocked out when exposed to ground fire
+* Gunner cannot pilot the helicopter if pilot is knocked out, pilot cannot fire the 20 mm if gunner is knocked out
+* 20 mm cannon doesn't have the penetration to deal with armoured vehicles head-on, attacking from the top is highly advised
+* Researching takes quite a while even with boosters, especially with Tier III-IV modifications
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -165,6 +171,8 @@ It is helpful to have a teammate in this situation who can help you as prolonged
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ah_1f_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|zYbcq-KOpFE|'''AH-1 Cobra Ultimate Review''' - ''Bob Dickinson''}}
@@ -173,6 +181,7 @@ It is helpful to have a teammate in this situation who can help you as prolonged
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[AH-1 (Family)]]
 * Successor to the Tzefa D/E, the [[Peten|AH-64a Peten]].
 

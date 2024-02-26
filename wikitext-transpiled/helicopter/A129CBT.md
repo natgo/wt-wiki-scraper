@@ -207,6 +207,10 @@ The modern A.129 attack helicopter is successfully used by the Italian armed for
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=a_129_cbt Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+
+;Videos
+{{Youtube-gallery|aYYZFFfc_ic|'''Ultimate A-129 Mangusta Guide''' - ''Bob Dickinson''}}
+
 ;Images
 <gallery mode="packed" caption="A129CBT Devblog Images" heights="200">
 File:A.129 CBT WTWallpaper 001.jpg|

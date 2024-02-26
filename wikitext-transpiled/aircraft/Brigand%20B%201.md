@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light bomber {{Battle-rating}}. It was introduced in [[Update 1.63 "Desert Hunters"]].
+Development for the Brigand began as a successor to the Beaufighter, namely as a strike aircraft and torpedo bomber. Bristol used their existing Buckingham aircraft design as the basis, but development delays caused the plane to not be ready until after the war in 1946. Without a war to fight, the Brigand was utilized for training or lower-intensity conflicts such as the communist insurgency in Malaya.
 
-This plane is an effective bomber hunter and ground attack aircraft. If there are no bombers for you to hunt, switch to attacking fighters using the altitude advantage given by the bomber spawn. Should you survive to late match and find that the tickets will decide the match then you may load up air-to-ground weapons, but not before that.
+Introduced in [[Update 1.63 "Desert Hunters"]], the Brigand B 1 can utilize its engine performance and armament for high-altitude interceptions against enemy bombers. With four nose-mounted 20 mm cannons, it can engage bombers head-on very easily. However, the Brigand's less impressive agility and roll speed means it is not very useful against manoeuvrable targets, so it is only limited to large lumbering planes. If all bombers were shot down, the Brigand can move on to ground attack with its rockets and bombs and help the team whittle down the tickets needed for a victory.
 
 == General info ==
 === Flight performance ===
@@ -145,34 +145,35 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (500 lb)|G.P. Mk.I (1,000 lb)|RP-3}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 16 x RP-3 rockets
-* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
-* 4 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
-* 2 x 1,000 lb G.P. Mk.I bombs (2,000 lb total)
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
 | rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 500 lb G.P. Mk.IV bombs
+! [[G.P. Mk.IV (500 lb)|500 lb G.P. Mk.IV]] bombs
 | || || || || 1 || 2 || 1 || || || ||
 |-
-! 1,000 lb G.P. Mk.I bombs
+! [[G.P. Mk.I (1,000 lb)|1,000 lb G.P. Mk.I]] bombs
 | || || || || || 2 || || || || ||
 |-
-! RP-3 rockets
+! [[RP-3]] rockets
 | 2 || 2 || 2 || 2 || || || || 2 || 2 || 2 || 2
 |-
 | colspan="12" | Maximum permissible loadout weight: 1,690 kg<br>Maximum permissible weight imbalance: 500 kg
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 16 x RP-3 rockets
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 4 x 500 lb G.P. Mk.IV bombs (2,000 lb total)
+* 2 x 1,000 lb G.P. Mk.I bombs (2,000 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

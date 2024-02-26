@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+Based upon the civilian airliner Bloch M.B.160 already in service, the ''M.B.162'' was intended to be a heavy bomber, designed by the Société des Avions Marcel Bloch, later known as Dassault Aviation after the end of WWII. The Bloch M.B.162, although based on a civilian airliner, shared very little with its unarmed counterpart, the most important changes to the design were the different wing configuration and, since it was meant for military usage, the main cargo bay was remodelled to fit bombs and other payloads. The aircraft was never used, since it was captured by Germany before it could enter service.
+
+It was introduced in [[Update 1.73 "Vive la France"]]. The '''{{Specs|name}}''' is a very capable heavy bomber, considering the other indigenously designed bombers in the French tech tree. It works very similarly to the B-17, being relatively fast at high altitudes and carrying a large payload, enough to destroy a base in air battles or several ground targets, it can also be used in naval battles, but for this tasks, more agile torpedo and dive bombers work better. Its biggest issue however is the mediocre defensive armament, the 20 mm cannons only cover a small area, while the aircraft is also vulnerable to attacks from the entire frontal area, that lacks any sort of armament.
 
 == General info ==
 === Flight performance ===
@@ -154,6 +156,7 @@ Two versions of this plane existed: the MB.162.01 (prototype, one built) and the
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mb_162 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -161,6 +164,7 @@ Two versions of this plane existed: the MB.162.01 (prototype, one built) and the
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -174,12 +178,14 @@ Two versions of this plane existed: the MB.162.01 (prototype, one built) and the
 * [[Wikipedia:Bloch_MB.162|[Wikipedia] Bloch MB.162]]
 
 === References ===
+
 ;Citations
 <references>
 <ref name="dassault01">Dassault-aviation website (n.d.)</ref>
 </references>
 
 ;Bibliography
+
 * Dassault-aviation website [https://www.dassault-aviation.com/fr/passion/avions/bloch-militaires/mb-162/ L'avion MB 161, de taille légèrement inférieure et de performances comparable au B-17, ne possède que très peu d'éléments en commun avec les MB 160 et MB 161, son aile, notamment, est très différente.], Dassault-aviation website, On-line.
 * Dassault-aviation website [https://www.dassault-aviation.com/fr/passion/avions/bloch-militaires/mb-162/ La construction du prototype à Courbevoie est retardée jusqu'à la fin de 1939. Assemblé à Villacoublay après son transfert par route au printemps 1940, il effectue son premier vol le 1er juin 1940 équipé de quatre Gnôme et Rhône14 N 48/49de 1100 ch.], Dassault-aviation website, On-line.
 

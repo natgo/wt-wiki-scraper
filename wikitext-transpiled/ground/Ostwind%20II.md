@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German self-propelled anti-aircraft gun {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]], replacing the [[Flakpanzer 341]] in the German tech tree.
+The '''Flakpanzer IV "Ostwind II"''' is an up-gunned modification of the [[Ostwind|Flakpanzer IV "Ostwind"]], which is the second variant of the [[Flakpanzer IV (Disambiguation)|Flakpanzer IV self-propelled anti-aircraft gun family]]. To increase the firing rate, the Flakpanzer IV "Ostwind" was redesigned with two 37 mm Flugzeugabwehrkanone 43 cannons. A single prototype was built, but World War II ended before it could be fully completed.
 
-The {{PAGENAME}} is an average SPAAG which definitely has nothing to look for on the front line, however, there is a great advantage with its double cannon which becomes extremely dangerous for enemy aircraft which fly within range.
-
-The {{PAGENAME}} has sufficient penetrating power to destroy [[M18 GMC|M18]]s or other light armoured vehicles, however, one should rather concentrate on enemy aircraft. The reasoning behind this is because the turret is open from above and weakly armoured on the sides, so is vulnerable to enemy aircraft fire and vehicles that carry .50 calibre machine guns.
+Introduced in [[Update 1.91 "Night Vision"]], the Flakpanzer IV "Ostwind II" is an improvement over its predecessors. The increased firepower is useful against aircraft that are much faster in its rank. Due to the sheer destructive power of the ammunition, most enemy aircraft can be brought down with a single hit. The platform, however, remains lightly armoured and should only be used to engage enemy ground units if absolutely necessary.
 
 == General info ==
 === Survivability and armour ===

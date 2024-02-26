@@ -71,28 +71,6 @@ Much like its other Hawker brethren, the Sea Fury is very dependent on energy, b
 |-
 |}
 
-{| class="wikitable" style="text-align:center"
-|-
-! colspan="3" | Compressor (RB/SB)
-|-
-! colspan="3" | Setting 1
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 1,023 m || 2,160 hp || 2,484 hp
-|-
-! colspan="3" | Setting 2
-|-
-! Optimal altitude
-! 100% Engine power
-! WEP Engine power
-|-
-| 4,900 m || 1,975 hp || 2,226 hp
-|-
-|}
-
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
@@ -117,7 +95,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|S.A.P. Mk.II (500 lb)|RP-3|Triplex R.P.}}
+{{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|S.A.P. Mk.II (500 lb)|M.C. Mk.I (1,000 lb)}}
+{{main|RP-3|Triplex R.P.}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -125,6 +104,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 250 lb G.P. Mk.IV bombs (500 lb total)
 * 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
 * 2 x 500 lb S.A.P. Mk.II bombs (1,000 lb total)
+* 2 x 1,000 lb M.C. Mk.I bombs (2,000 lb total)
 * 12 x RP-3 rockets
 * 4 x Triplex R.P. rockets
 

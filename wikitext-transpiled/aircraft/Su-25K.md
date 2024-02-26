@@ -18,7 +18,8 @@ Introduced in [[Update "Drone Age"]], the Su-25K is the export version of the ba
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
-<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->Same as the base model in Soviet service, Su-25K is equipped with a pair of UMPO R-95SH non-afterburning turbofan engines on the sides of the airframe and is one of the last jets designed by Sukhoi with a straight wing. Since the Su-25K was designed as an attacker, it performs best at low altitude and taking it into high altitude engagements is not recommended. Another iconic feature of Su-25s are the extensive protection all-around for the pilot and critical components of the jet.  Although this adds to the survivability of the aircraft against smaller weapons, it also reduces the overall manoeuverability of the aircraft as a result of the added weight.
+<!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
+Same as the base model in Soviet service, Su-25K is equipped with a pair of UMPO R-95SH non-afterburning turbofan engines on the sides of the airframe and is one of the last jets designed by Sukhoi with a straight wing. Since the Su-25K was designed as an attacker, it performs best at low altitude and taking it into high altitude engagements is not recommended. Another iconic feature of Su-25s are the extensive protection all-around for the pilot and critical components of the jet.  Although this adds to the survivability of the aircraft against smaller weapons, it also reduces the overall manoeuvrability of the aircraft as a result of the added weight.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -129,11 +130,11 @@ The cockpit is very well armoured. The pilot is protected on the front and sides
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -143,7 +144,8 @@ The cockpit is very well armoured. The pilot is protected on the front and sides
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 1 x 30 mm GSh-30-2 cannon, chin-mounted (250 rpg) + 128 x countermeasures
+* 1 x 30 mm GSh-30-2 cannon, chin-mounted (250 rpg)
+* 128 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -216,7 +218,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! 800 l drop tanks
 | || || || || 1 || 1 || || || ||
 |-
-| colspan="11" | Maximum permissible weight imbalance: 1,500 kg
+| colspan="11" | Maximum permissible loadout weight: 4,400 kg<br>Maximum permissible wing load: 2,200 kg<br>Maximum permissible weight imbalance: 1,500 kg
 |-
 |}
 
@@ -240,6 +242,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x R-60MK missiles + 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
 * 2 x R-60MK missiles + 2 x 23 mm GSh-23L cannons + 120 x S-8KO rockets
 * 2 x R-60MK missiles + 4 x S-25O rockets + 4 x 500 kg FAB-500M-62 bombs (2,000 kg total)
+* 4 x Kh-25ML missiles
+* 2 x Kh-29L missiles
 {{Navigation-End}}
 
 == Usage in battles ==

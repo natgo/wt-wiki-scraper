@@ -5,7 +5,6 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-
 LÉ Orla, pennant number P41, is one of the five completed Peacock-class corvettes, originally built for Royal Navy use as HMS Swift (P243). Commissioned in 1985, she served in the waters around Hong Kong as part of the 6th Patrol Craft Squadron with the others of her class, undertaking training, search-and-rescue, and policing operations. In 1988, she was sold to the Irish Naval Service and renamed. She acted as a high-speed patrol vessel until her eventual decommission on 8 July 2022, to be replaced by new inshore patrol vessels purchased from New Zealand.
 
 Introduced in [[Update "Direct Hit"]], LÉ Orla has some nifty features; namely, the reliable 76 mm OTO-Melara Compact automatic gun, a unique punch of naval power for the veteran British captains in the coastal fleet and fans of the [[HMS Peacock]]'s dexterity, but also the addition of lighter yet useful auxiliary armament, in two sets of 20 mm/65 Rheinmetall autocannons on each side of the ship with a menacing fire rate and distinct sound. Much like her sister ship, Orla's playstyle is very dependent on her sole bow gun. Despite seeming like not enough firepower, she can be used to great effect in providing air defence and medium-range support against lighter crafts, defence of captured points, and can even combat destroyers by targeting their weakspots.
@@ -14,7 +13,7 @@ Introduced in [[Update "Direct Hit"]], LÉ Orla has some nifty features; namely,
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+As a larger coastal vessel, the LÉ Orla has a detailed damage model; this alone renders her hull impervious to most machine guns and autocannon fire from the PT boats it commonly faces. Though the ship has a low crew count of only 39, they are mostly located in a compact compartment at the stern and the engine room, and so are quite hard to hit. However, Orla inherits the same unarmoured bridge and turret weakness from her sister [[HMS Peacock]] and so these will be your obvious weakspots, as enough shots fired at these modules will inevitably disable them, causing crew loss that could be repeated over and over again if the enemy manages to disable them as soon as they are repaired.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -22,7 +21,7 @@ Introduced in [[Update "Direct Hit"]], LÉ Orla has some nifty features; namely,
 
 LÉ Orla's mobility is not great amongst the highly manoeuvrable fast attack crafts and torpedo boats of her rank. This should not be seen as a condemning drawback, but instead as an opportunity for a different paced gameplay: letting the enemies reach the LÉ Orla and not oppositely.
 
-In this ship, the reverse speed plays an important role. As firing and then retreating behind a smokescreen are key in ''LÉ Orla''<nowiki/>'s survival. Unfortunately, the reverse speed is not excellent but only just proper enough to retreat before the corvette gets destroyed. Thankfully, research of mobility modules is not an issue due to the premium status of the ship, hence the mobility concern will be alleviated.
+In this ship, the reverse speed plays an important role. As firing and then retreating behind a smokescreen are key in LÉ Orla's survival. Unfortunately, the reverse speed is not excellent but only just proper enough to retreat before the corvette gets destroyed. Thankfully, research of mobility modules is not an issue due to the premium status of the ship, hence the mobility concern will be alleviated.
 
 Keep in mind LÉ Orla is a huge corvette which spawns amongst patrol boats, this could be a problem on some maps as the shallow waters with rocky formations will often hit the ship and accidentally reduce the crew size. Notice the shallow water alert in the centre of the screen to change course immediately.
 
@@ -55,7 +54,7 @@ Due to the scarcity of ammo for all types of threats, the HE-VT ammo should repl
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|20 mm/65 Rh 202 (20 mm)}}
 
-''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
+Unlike her sister ship, Orla has access to a pair of 20 mm Rh 202 autocannons mounted in a single mount flanking the upper superstructure. The guns have very high rate of fire of 800 rpm and access to various high-velocity shell options (including powerful APDS rounds), making them easy to use and aim. These can be used as a backup weapon in case your 76 mm autocannons were disabled or to counter fast-moving enemy vessels and airvraft. However, trigger discipline is vital for using this weapon, as it can overheat very quickly in just a 2 second burst.
 
 * '''Universal:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
 * '''20 mm HEIT belts:''' {{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEFI-T*|High-explosive fragmentation incendiary tracer (self-destroying)}}{{-}}{{Annotation|HVAP-T|High-velocity armour-piercing tracer}}
@@ -69,7 +68,7 @@ Due to the scarcity of ammo for all types of threats, the HE-VT ammo should repl
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|FN MAG (7.62 mm)}}
 
-''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.''
+For additional close-range defence, Orla has four FN MAG machine guns mounted in a twin mounts at the stern. These guns do not deal much damage against even small PT boats, though they can be useful in tandem with the 20 mm autocannons against inbound aircraft.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
@@ -84,13 +83,15 @@ Due to the scarcity of ammo for all types of threats, the HE-VT ammo should repl
 * Radar capacities with a lead indicator for anti-air duties; great detection range
 * Guns ballistics are adequate and precise; easy to fire and accustom
 * Crew size is decent versus small boats, slightly superior than [[HMS Peacock]]
-* Additional armament able to counter aircraft and small boats
+* 20 mm high-velocity autocannons are capable of countering aircraft and small boats
 
 '''Cons:'''
 
 * Low ammo count for main gun; easily depleted without trigger discipline
 * Large and slow target for the faster and smaller patrol boats
+* Unarmoured bridge and turret will be frequently knocked out by incoming fire, slowly bleeds the ship's crew away
 * Flat trajectory of the gun's shell hinders fire behind cover; LÉ Orla bow must be exposed
+* Secondary 20 mm autocannon overheats very quickly
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

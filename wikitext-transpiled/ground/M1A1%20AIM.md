@@ -72,7 +72,7 @@ Since there were limits from the Non-Proliferation Treaty of nuclear-related wea
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 6.50 || rowspan="2" | 5.75 || rowspan="2" | 5.30 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0
@@ -112,7 +112,7 @@ Identical to the M1A1 and A1 HC, be sure to clear out all ammunition in the hull
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle (Commander) || 1,000 (200) || 577 || -9°/+65° || -160°/+180°
+| Pintle (Commander) || 1,000 (200) || 575 || -9°/+65° || -160°/+180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"

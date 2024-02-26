@@ -10,18 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''{{Specs|name}}''' was affectionately known as the "Stringbag" by the pilots, engineers and crews who operated her. Taking to the skies for the first time in 1934, the Swordfish was born into an era that ensured its time would be limited from its very conception, as just one year later in 1935, the Hawker Hurricane and Messerschmitt Bf 109 also made their debut. It was developed initially as a torpedo bomber/spotter/reconnaissance aircraft. It was powered by a radial air-cooled Bristol Pegasus Mk IIIM engine and was equipped with one synchronised, fuselage-mounted 0.303 inch Vickers Mk.II machine gun and one 0.303 inch Lewis or Vickers 'K' machine gun in the rear cockpit. The Swordfish became immortalised in the annals of naval aviation history when, on the night of 11th-12th November 1940, 21 Swordfish of 813 NAS, 815 NAS, 819 NAS, and 824 NAS carried out a daring attack on the Italian port of Taranto, crippling three Italian battleships and causing significant damage to smaller warships and coastal installations.
 
-The Swordfish is a plane often overlooked by new players, but it is common for more experienced players to hold a special love for "ugly ducklings". As such, the Swordfish is valued for providing a change of pace towards slower gameplay and simultaneously a challenge, being mostly staying alive.
-
-As with all torpedo bombers, maintaining low altitude, high speed, and fighter cover are all recommended. The optimal distance for launching a torpedo is 1 km from the target, though the Swordfish is slow enough to be able to drop torpedoes efficiently from shorter distances.  Targets should be engaged from directly ahead or astern, making "leading" the target much easier.
-
-If torpedo bombing is not an option, the plane can carry bombs for attacking ground targets. The aircraft's slow speed means it is great practice for aiming bombs. With practice, any pilot can make short work of tanks and light pillboxes with the Swordfish.
-
-The Swordfish is an in-game oddity because it can exceed its max altitude of 3,300 m and go up to about 4,000 m with the 4 x 250 lb bombs attached.
-
-[[File:BomberImage_Swordfish.jpg|thumbnail|right|Inside the Cockpit of the Swordfish]]
-A classic biplane design, thus offensive armament is limited. Restrained to only one machine gun offensively and defensively, the Swordfish's true strength is its payload.
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Swordfish is a plane often overlooked by new players, but it is common for more experienced players to hold a special love for "ugly ducklings". As such, the Swordfish is valued for providing a change of pace towards slower gameplay and simultaneously a challenge, being mostly staying alive. As with all torpedo bombers, maintain low altitude and a high speed. The optimal distance for launching a torpedo is 1 km from the target, though the Swordfish is slow enough to be able to drop torpedoes efficiently from shorter distances. Targets should be engaged from directly ahead or astern, making "leading" the target much easier. If torpedo bombing is not an option, the plane can carry bombs for attacking ground targets.
 
 == General info ==
 === Flight performance ===
@@ -222,7 +213,7 @@ After a career matched by no other naval strike aircraft in history, production 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=swordfish_mk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|FiEXsMxd5rc|'''The Shooting Range #56''' - ''Pages of History'' section at 07:00 discusses the Swordfish.}}
+{{Youtube-gallery|9ZA722l1aG8|'''The Shooting Range #383''' - ''Pages of History'' section at 03:23 relates the capture of an island by a single Swordfish.|FiEXsMxd5rc|'''The Shooting Range #56''' - ''Pages of History'' section at 07:00 discusses the Swordfish.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

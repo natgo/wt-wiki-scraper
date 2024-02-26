@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet medium bomber {{Battle-rating}}. It was introduced in [[Update 1.65 "Way of the Samurai"]].
+The '''{{Specs|name}}''' was a British medium bomber serving also as a torpedo bomber. On 4th September 1942, 32 [[Hampden TB Mk I]] torpedo bombers from 144th Squadron RAF and 455th Squadron RAAF took off from their bases in the Shetlands to take part in Operation Orator, protecting the Murmansk-bound convoy PQ 18. The Hampdens flew over 3,900 km over sea and enemy territory until they arrived in Vayenga. Eight Hampdens were lost en route or damaged beyond repair. The British and Australian crews conducted a few sorties from Vayenga and were supposed to return with their Hampdens to Shetlands; however, strong headwinds prevented this as the Hampdens would not be able to reach their bases. The British instead trained Soviet crews in using the Hampdens and returned home by ship. The Soviet Navy's 24th Mine-Torpedo Aviation Regiment then operated the Hampdens until mid-1943 when lack of replacements and suitable spare parts forced them to withdraw them from service and return back to their original IL-4/DB-3 series bombers.
 
-The Hampden TB is a lend-lease Soviet bomber of British design, and plays much as standard tree Soviet bombers do. Its good performance and respectable payload can destroy a bombing point in one go, and still have some to spare. It can also carry a torpedo, making it an effective anti-carrier craft. However, it is not well equipped to defend itself, and as such suffers in up-tiers.
+Introduced in [[Update 1.65 "Way of the Samurai"]], the Hampden features quite impressive bomb load for its size, being able to destroy more than two bases in air realistic battles. It also has access to the British Mark XII torpedo, having slightly higher drop speed than its Soviet 45-36AN counterpart. Unlike its British cousin, the Hampden in Soviet service had its defensive armament strengthened, as the dorsal twin 7.7 mm Vickers machine guns were replaced by single 12.7 mm Berezin UB machine gun in rotating turret.
 
 == General info ==
 === Flight performance ===
@@ -94,7 +94,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * 1 x 7.7 mm Browning machine gun, nose-mounted (300 rpg)
 
-The four machine guns are arranged in bundles of two mounted on the underside of the upper wing. Each are armed with the same amount of ammunition, which means that all guns will fire with each other until empty.
+The Hampden is also armed with single 7.7 mm machine gun in its nose, offering very limited offensive capabilities.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

@@ -130,6 +130,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 8 x HVAR rockets
 * 4 x 250 lb AN-M57 bombs (1,000 lb total)
@@ -187,7 +188,7 @@ You're best off engaging the F4U-4B at higher altitudes where its performance su
 '''Cons:'''
 
 * Does not turn well at lower speeds
-* Rudder loses rudder effectiveness at high speed, making it difficult to hit shots
+* Rudder loses effectiveness at high speed, making it difficult to hit shots
 * Rapidly loses performance at high altitude, should avoid engagements above 6,000 m if possible
 * Still fast at higher altitudes, but German planes (e.g. [[Bf 109 (Family)|Bf 109s]], [[Fw 190 (Family)|Fw 190 Ds]], [[Ta 152 C-3|Ta 152s]], and other similar aircraft) that are slower at low altitudes can outrun it at high altitude
 * Flaps deploy very quickly, which can lead to them breaking if not careful

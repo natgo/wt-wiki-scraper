@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+The '''{{Specs|name}}''' was part of the 107 P-47D series in NRAAF and the later ROCAF received in mid-1940s; before the Nationalist received any Thunderbolts from USAAF, the "razerback" series P-47D has already been an escort fighter for the USAAF bombers/transporters by the 14th Air Force. According to records in modern times, seven P-47D-23-RA were transferred to NRAAF in April 1945 with sparse records of their operation afterwards.
+
+Introduced in [[Update "New Power"]] alongside with other "razerback" P-47Ds in different tech trees, the D-23-RA batch of P-47D still retains its streamline airframe with its conventional canopy layout ''(post-D-25-RE series received its iconic bubble top canopy)'' and powerful enough engine; although lacking the impressive payload than the later series Thunderbolts, the overall firepower can still make sure it can take out enemy aircrafts with energy-based tactics or serving as a multi-role aircraft to strike ground targets.
 
 == General info ==
 === Flight performance ===
@@ -109,19 +111,18 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 1,000 lb AN-M65A1 bombs + 1 x 500 lb AN-M64A1 bomb (2,500 lb total)
 
 == Usage in battles ==
-<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The P-47 can perform base-bombing, ground pounding, bomber intercepting and traditional BnZ fighting. Sim is different from realistic, so discard the habit of bringing the least fuel. Bring at least 30 minutes of fuel, although it decreases the plane's performance a bit, it prevents constant refueling which saves time for patrolling and fighting.
+<!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->=== Simulator & Enduring Confrontation ===
+In Simulator & Enduring Confrontation, bulkier planes that suffer in AB & RB shine and that of course includes the P-47D-23. This plane is a great learning platform for new EC players since in Sim, the P-47 has great control handling, fast speed, and a wide range of additional armaments of bombs, plus the original 8 x .50 cals, meaning it is an excellent multi-role aircraft. However, comparing to the later Jugs with all-clear bubble canopy, the razorback P-47 has worse visibility. The front have quite some frames around the gunsight, but they are thin which is a good news. The sides are overall unaffected. The rear view, however, is greatly obstructed by the razorback, preventing the pilot from seeing what's on the tail which can be fatal.
+
+The P-47D-23 can perform base-bombing, ground pounding, bomber intercepting and traditional BnZ fighting. Sim is different from realistic, so discard the habit of bringing the least fuel. Bring at least 30 minutes of fuel, although it decreases the plane's performance a bit, it prevents constant refueling which saves time for patrolling and fighting.
 
 For base bombing, choose the maximum setup of 1 x 500 lbs and 2 x 1,000 lbs to maximise the damage. The fastest way to get to a base is to remain at tree-top level upon taking off. This way there is no need to climb so the P-47 can pick up quite some speed like that, even with the full bombload. It is also harder to be seen, since the P-47's dark colour will blend in with the ground for some maps. When approaching the base, check its position with the minimap to ensure it's the right target. When the base fills up the gunsight, pull up to around 500 m and then dive at the base at a rather shallow angle. When the gunsight slices past the furthest edge of the base, release all the bombs, bank to the direction of the nearest friendly airfield, descend back to tree-top level and fly back. If you are lucky, you might even catch some enemy bombers that just took-off from a nearby airfield. They will be some nice RP for you. Overall, base bombing is the safest way to get rewards but not the most efficient.
 
-For ground pounding, you can choose to take the full bombload if you want. Use the bombs to take out pillboxes and tanks. The aiming method for bombs is pretty similar to base bombing, but there are differences for the 500 lb and 1000 lb, as their drop are different and you want to adapt the aim to be more precise, because now the targets are much smaller. Dive at a shallow angle to approach the target, try to get as close as possible but avoid crashing into the ground. When the gunsight slices through and just above the target, drop the 1000 lbs. When the target is at the center of the gunsight and fills up around 1/3 of it, release the 500 lb. The 8 MGs are perfect for killing trucks, AA guns and artilleries as they have plenty of ammo. However, constantly watch your surrounding, especially your high 6 for any incoming enemies.
+For ground pounding, you can choose to take the full bombload if you want. Use the bombs to take out pillboxes and tanks. The aiming method for bombs is pretty similar to base bombing, but there are differences for the 500 lb and 1000 lb, as they drop differently and you want to adapt the aim to be more precise, because now the targets are much smaller. Dive at a shallow angle to approach the target, try to get as close as possible but avoid crashing into the ground. When the gunsight slices through and just above the target, drop the 1000 lbs. When the target is at the center of the gunsight and fills up around 1/3 of it, release the 500 lb. The 8 MGs are perfect for killing trucks, AA guns and artilleries as they have plenty of ammo. However, constantly watch your surrounding, especially your high 6 for any incoming enemies.
 
-You want to be more careful when hunting bombers, since with the Sim control (whether it be mouse joystick or a real stick) the plane will manoeuvre much more gently, making itself a great target for the bomber's gunners. DO NOT follow behind a bomber's 6 unless you are sure that its tail gunners are unconscious. Chasing behind a bomber makes yourself pretty much stationary for the tail gunners, and you will be showered with bullets. The big radial engine of the P-47 will usually get damaged. Instead, before launching an attack, get an altitude advantage over the bomber by flying around 2 km above it. The bomber should only fill up about 1/6 of your gunsight. The best position for an attack is at the bomber's high 6 so you can adjust the lead much easier. Dive at the bomber, but not directly at it, try to predict where you two will crash by imagining yourself as a missile, that's where you should aim at (deflection shooting). To maximise the damage it is better to aim for their wings and engines, as the fuselage usually soaks up quite some bullets. Only fire when the bomber passes in front of your guns. This short window might seems inadequate to do anything, but the 8 MG on the P-47 are actually quite destructive, as sometimes it only takes one bullet to set the target aflame.
+You want to be more careful when hunting bombers, since with the Sim control (whether it be mouse joystick or a real stick) the plane will manoeuvre much more gently, making itself a great target for the bomber's gunners. Don't follow behind a bomber's 6 unless you are sure that its tail gunners are unconscious. Chasing behind a bomber makes yourself pretty much stationary for the tail gunners, and you will be showered with bullets. The big radial engine of the P-47 will usually get damaged. Instead, before launching an attack, get an altitude advantage over the bomber by flying around 2 km above it. The bomber should only fill up about 1/6 of your gunsight. The best position for an attack is at the bomber's high 6 so you can adjust the lead much easier. Dive at the bomber, but not directly at it, try to predict where you two will crash by imagining yourself as a missile, that's where you should aim at (deflection shooting). To maximise the damage it is better to aim for their wings and engines, as the fuselage usually soaks up quite some bullets. You can open fire when the bomber fills up around 1/2 of your gunsight. This distance might seem a bit far, but the M2 machine guns have great velocity and flat trajectory, making them excellent at ranged shots. Firing too up close, the gun convergence can be an issue as the P-47's wing guns are very far apart.
 
-As for dogfighting, because almost all aerial battles in Sim occurs at below 3,000 m, the P-47 can easily climb to this altitude and gather up lots of speed before engaging a battle. The tactic is similar to the RB one above. If, unfortunately, you find yourself being chased at your 6 and you don't know how to do any defensive manoeuvres, do a large, smooth turn towards the nearest friendly airfield to avoid bleeding too much speed. Then shallow-dive towards your airfield. The P-47 can quite easily outrun opponents like the A6M or Bf-109 E, but struggles to outrun Bf-109 F/G, FW-190 A or other P-47. Another way of disengaging is to do a sudden split-S to dodge under the chaser. Average Sim players will now try and see where you went, if not immediately losing track of you. You can then run for your airfield or shallow climb for another attack.
-
-=== Simulator & Enduring Confrontation ===
-In Simulator & Enduring Confrontation, bulkier planes that suffer in AB & RB shine and that of course includes the P-47. This plane is a great learning platform for new EC players since in Sim, the P-47 has great control handling, fast speed, and a wide range of additional armaments of bombs, plus the original 8 x .50 cal, meaning it is an excellent multi-role aircraft. However, comparing to the later Jugs with all-clear bubble canopy, the razorback P-47 has worse visibility. The front have quite some frames around the gunsight, but they are thin which is a good news. The sides are overall unaffected. The rear view, however, is greatly obstructed by the razorback, preventing the pilot from seeing what's on the tail which can be fatal sometimes.
+For dogfighting, because almost all aerial battles in Sim occurs at below 3,000 m, the P-47 can easily climb to this altitude and gather up lots of speed before engaging a battle. The tactic is similar to RB. If, unfortunately, you find yourself being chased at your 6 and you don't know how to do any defensive manoeuvres, do a large, smooth turn towards the nearest friendly airfield to avoid bleeding too much speed. Then shallow-dive towards your airfield. The P-47 can quite easily outrun opponents like the [[A6M (Family)|A6M]] or [[Bf 109 E-1|Bf-109 E]], but struggles to outrun Bf-109 F/G, FW-190 A or other P-47. Another way of disengaging is to do a sudden split-S to dodge under the chaser. Average Sim players will now try and see where you went, if not immediately losing track of you. You can then run for your airfield or shallow climb for another attack.
 
 '''Enemies worth noting:'''
 
@@ -152,28 +153,19 @@ In Simulator & Enduring Confrontation, bulkier planes that suffer in AB & RB shi
 
 '''Pros:'''
 
-* Great bomber destroyer against a lone bomber
 * Excellent high altitude performance
-* If taken care of, can easily fly without half a wing
-* Muscle car with wings, excellent at Boom and Zoom tactics
-* 8 M2 Browning machine guns are accurate at a longer range than most cannons at its BR
+* Excel at Boom and Zoom tactics
+* 8 beginner-friendly M2 Browning machine guns: accurate, deadly, and have large ammo pool
 * High speed, even while stock
 * Very durable which semi-compensates with its lacklustre turn rate
-* Plenty of ammo which is forgiving for bad aimers / beginners
-* Can easily escape enemies with its high speed for its rank
 * Great multirole aircraft, can carry various bombs and rockets, acting as an interceptor or ground-attack aircraft
-* Is a nice platform to get use to the later P-47 with better speed & loadout
 
 '''Cons:'''
 
-* Frontal armour can easily be penetrated by 20 mm rounds
-* Can easily snap a wing when even the slightest gunfire hits it
-* Poor stall characteristics
-* Mediocre climb performance (side climbing recommended)
-* Slow and hard to manoeuvre at low altitudes
-* Larger than average fighter
-* Poor overall performance when mounting payloads
-* After attacking ground targets, the P-47 lacks the altitude to Boom & Zoom enemy fighters
+* High stall speed leading to poor low-speed performance
+* Mediocre climbrate (side climbing recommended)
+* Larger than average fighters like [[Fw 190 (Family)|Fw-190]], [[Yak-1]]
+* Payloads greatly reduce overall performance
 * Big engine easily hit during a head-on attack
 * Worse cockpit visibility than in the other bubble canopy P-47s
 * No armour protection for pilot from behind
@@ -207,3 +199,4 @@ The record for the "Razorback" P-47D series (pre D-25-RA) in Chinese service is 
 
 {{AirManufacturer Republic}}
 {{China fighters}}
+<references />

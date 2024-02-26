@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]]. Being identical to the American [[M48A1]] it offers the Israeli tree one of its first purebred MBTs to serve alongside the [[Sho't]].
+The '''Magach 1''' is the first variant of the [[Magach (Family)|Magach main battle tank family]], the Israeli designation and subsequent modification of the American [[M48 Patton (Family)|M48 Patton]] and [[M60 (Family)|M60]] MBT families. Israel first the received M48A2 variant in a secret arms deal with West Germany in the early 1960s. More vehicles were sent from the U.S. (the M48A1 variant) after the deal was exposed in 1965 and Germany cancelled further deliveries. The M48A1 variant was redesignated as Magach 1. The Magach 1 served in the 1967 Six-Day War but was quickly modernized and redesignated as the [[Magach 3]] afterwards.
+
+Introduced in [[Update "Wind of Change"]], the Magach 1 should stay close behind the more heavily armoured vehicles on the front lines, taking well-aimed shots with its 90 mm M41 tank gun to either destroy or damage the target to support enemy vehicle destruction. It should not be used in close-quarters combat since it lacks the firepower and mobility to win or escape a confrontation. If you find yourself in close-quarters combat nonetheless, use neutral steering to quickly get your aim on target.
 
 == General info ==
 === Survivability and armour ===
@@ -63,7 +65,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 60 || rowspan="2" | -9°/+19° || rowspan="2" | ±180° || rowspan="2" | N/A || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 9.75 || rowspan="2" | 8.63 || rowspan="2" | 7.95 || rowspan="2" | 7.50
+| rowspan="2" | 60 || rowspan="2" | -9°/+19° || rowspan="2" | ±180° || rowspan="2" | - || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 8.71 || rowspan="2" | 7.70 || rowspan="2" | 7.10 || rowspan="2" | 6.70
 |-
 ! ''Realistic''
 | 14.3 || 16.8 || 20.4 || 22.6 || 24.0
@@ -108,7 +110,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 600 (200) || 577 || -9°/+60° || ±180°
+| Pintle || 600 (200) || 575 || -9°/+60° || ±180°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
@@ -117,7 +119,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 6,000 (250) || 500 || N/A || N/A
+| Coaxial || 6,000 (250) || 500 || - || -
 |-
 |}
 

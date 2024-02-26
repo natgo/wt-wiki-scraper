@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French naval fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]]. The ▄F6F-5N (N stands for Night fighter variant) is the French variant of the Grumman F6F-5N Hellcat. The French Navy bought 124 F6F-5s and fifteen F6F-5Ns between 1950-1953.
+The '''{{Specs|name}}''' was acquired by France in the years following WWII. During the 1950s, France was still rebuilding its nation and its armed forces, and the easiest way to do so while domestic projects were developed was acquiring military surplus left after WWII. The F6F-5N was one of this cases, being a night fighter modified by Britain using the Hellcat as a basis. The aircraft was very similar to the original F6F-5 but this time, it included an AN/APS-6 search radar for interception at night and other inconvenient weather conditions. The French Navy bought 124 F6F-5s and fifteen F6F-5Ns between 1950-1953.
 
-This F6F is distinctly capable thanks to the combination of cannons, heavy machine guns, and the addition of a search radar while keeping the ability to provide ground and sea support with highly menacing payloads. It can defend itself admirably against no matter what; in skillful hands of course. An efficient jack-of-all-trades!
+It was introduced in [[Update 1.73 "Vive la France"]]. The ▄F6F-5N (N stands for Night fighter variant) is the French variant of the Grumman F6F-5N Hellcat. This F6F is distinctly capable thanks to the combination of cannons, heavy machine guns, and the addition of a search radar while keeping the ability to provide ground and sea support with bombs and a single torpedo. It can defend itself in dogfight too, however doing so with ordnance attached is not recommended, it is an efficient jack-of-all-trades. It does not have the most agile airframe or the strongest engine, but it is still very capable in air battles, since it can both destroy bases and dogfight other aircraft. For these situations, the F6F must have the speed advantage or a higher altitude, so make sure to climb to a desired altitude at the start of the match.
 
 == General info ==
 === Flight performance ===
@@ -155,6 +155,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 6 x HVAR rockets
 * 2 x Tiny Tim rockets
@@ -310,6 +311,7 @@ They served along with the more modern F8F Bearcats that later replaced them.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f6f-5n_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -337,7 +339,9 @@ They served along with the more modern F8F Bearcats that later replaced them.
 * [https://forum.warthunder.com/index.php?/topic/341959-f6f-5n-hellcat/ Official data sheet - more details about the performance]
 
 === References ===
+
 ;Bibliography
+
 * Jean-Pierre De Cock y Mister Kit, F6F Hellcat, Atlas,1981, p.34
 * Histoires de transformation des pilotes en Indochine, Le Piège, no 168,‎ mars 2002, p.39
 * Le choix du Bearcat, Le Piège, no 152,‎ mars 1998, p.39

@@ -172,6 +172,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 4 x 12.7 mm M3 Browning machine guns (300 rpg = 1,200 total)
 * 2 x 12.7 mm M3 Browning machine gun + 4 x AA-20 Nord missiles
 * 4 x 12.7 mm M3 Browning machine guns + 4 x AIM-9B Sidewinder missiles
@@ -184,7 +185,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 Featuring a wide range of ordnance, the G.91 R/4 can be equipped for any role from ground to air combat, though it prefers air superiority.
 
-The M3 Browning is a new weapon in the German arsenal at rank V and compared to the previous experiences a let down. The rate of fire is phenomenal, but the small calibre and ammo size put a serious damper to the mood, that is in comparison of course. In practise and with good aim, it can easily shred four fighters. The high bullet velocity and fire rate is quite the advantage in the fast pace world of jet combat, ensuring hits in deflection shots were the lower rate of fire found in the [[:Category:Fifth_rank_aircraft|Soviet jet fighters]] might have failed the pilot.
+The M3 Browning is a new weapon in the German arsenal at rank V and compared to the previous experiences a let down. The rate of fire is phenomenal, but the small calibre and ammo size put a serious damper to the mood, that is in comparison of course. In practise and with good aim, it can easily shred fighters. The high bullet velocity and fire rate is quite the advantage in the fast pace world of jet combat, ensuring hits in deflection shots were the lower rate of fire found in the [[:Category:Fifth_rank_aircraft|Soviet jet fighters]] might have failed the pilot.
 
 Yet one will always look onto greener pastures, especially as the Gina only has four guns unlike all other Browning armed jets. No matter how you turn it, the armament is only manageable with skill and outright bad for a beginner.
 

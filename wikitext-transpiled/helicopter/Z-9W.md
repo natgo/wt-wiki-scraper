@@ -60,11 +60,39 @@ A very bad news for the Z-9W is that, due to its design as a transport helicopte
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|HJ-8A|HJ-8C|TY-90}}
-{{main|Type 57-1|Type 90-1|Type 23-1 (23 mm)|QJK99-12.7-1 (12.7 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="20%" | 1 !! width="20%" | 2
+| rowspan="8" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[Type 23-1 (23 mm)|23 mm Type 23-1]] cannons (240 rpg)
+| 1 || 1
+|-
+! [[QJK99-12.7-1 (12.7 mm)|12.7 mm QJK99-12.7-1]] machine guns (1,000 rpg)
+| 1 || 1
+|-
+! [[Type 57-1]] rockets
+| 18 || 18
+|-
+! [[Type 90-1]] rockets
+| 7 || 7
+|-
+! [[HJ-8A]] missiles
+| 2 || 2
+|-
+! [[HJ-8C]] missiles
+| 2 || 2
+|-
+! [[TY-90]] missiles
+| 2 || 2
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 36 x Type 57-1 rockets
 * 2 x 12.7 mm QJK99-12.7-1 machine guns (1,000 rpg = 2,000 total)
 * 2 x HJ-8A missiles
@@ -73,6 +101,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x HJ-8C missiles
 * 4 x TY-90 missiles
 * 2 x 23 mm Type 23-1 cannons (240 rpg = 480 total)
+{{Navigation-End}}
 
 The Z-9W's anti-tank armament consists of the HJ-8 missile in two variants. The HJ-8A missile is still available, but it has worn out its welcome by now and should only be used when stock grinding. The improved HJ-8C is the Z-9W's main anti-tank weapon. It unfortunately does not have an improved rocket motor, so the 3 km range and 250 m/s flight speed leave much to be desired, but it has a new warhead with a tandem charge and 590 mm of penetration. Although the raw penetration is below average and may not be enough against composite armour, it is enough to consistently deal with steel-armoured tanks and the tandem warhead's anti-ERA properties give it a more mileage: it can actually penetrate the [[T-72B]]'s hull in situations where the [[HOT-2 TOW]] with 900 mm of penetration might have issues. The Z-9W's incredible camera zoom of up to 81.8x allows ATGMs to be aimed with very high precision, which makes it feasible to target weak points or even ammo racks.
 
@@ -81,37 +110,6 @@ The Z-9W is the earlier Chinese helicopter capable of carrying TY-90 air-to-air 
 Two types of rocket pods are again available. The stock Type 57-1 rockets are still underwhelming in damage and velocity, but the Z-9W has a ballistic computer and the CCIP functionality makes them far easier to use, and they are credible threats to lightly armoured ground targets. The Type 90-1 rockets (the same type seen on the [[Q-5 early]] attacker jet) are slightly weaker than the FS70 rockets seen on the Z-9W's predecessors in penetration and TNT equivalent, but their 700 m/s flight speed makes them easier to aim and they are still significantly more damaging than the 57 mm rockets.
 
 The Z-9W has two options for gun armament, both available stock: the unexciting 12.7 mm machine gun pods return for harassing lightly armored vehicles or enemy helicopters, but the 23 mm Type 23-1 cannons are new options. The cannon has less ammunition and fires more slowly, but its AP rounds have enough mass to generate spalling and cause significant module damage and are thus more effective against ground targets than the machine guns. It also has HEFI-T rounds that will make short work of enemy helicopters if they hit. Still, they are less powerful than the 20 mm cannons used by NATO helicopters and take up a hardpoint that could be used for rockets or missiles instead.
-
-
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="20%" | 1 !! width="20%" | 2
-| rowspan="8" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 23 mm Type 23-1 cannons (240 rpg)
-| 1 || 1
-|-
-! 12.7 mm QJK99-12.7-1 machine guns (1,000 rpg)
-| 1 || 1
-|-
-! Type 57-1 rockets
-| 18 || 18
-|-
-! Type 90-1 rockets
-| 7 || 7
-|-
-! HJ-8A missiles
-| 2 || 2
-|-
-! HJ-8C missiles
-| 2 || 2
-|-
-! TY-90 missiles
-| 2 || 2
-|-
-|}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

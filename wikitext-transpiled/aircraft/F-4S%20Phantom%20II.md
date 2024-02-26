@@ -83,7 +83,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Sky Guardians"]], is one of th
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | General Electric J79-GE-10 || 2
+| colspan="2" | General Electric J79-GE-10B || 2
 | colspan="2" | 14,205 kg || colspan="2" | 408 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics

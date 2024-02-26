@@ -100,8 +100,7 @@ The amphibious feature of the {{PAGENAME}} makes the vehicle more versatile, bro
 |}
 '''Note''':
 
-* Turret empty: 39 ''(+1)'' shells.
-* Rear ammo racks empty: 25 ''(+15)'' shells.
+* Turret rack and rear ammo rack empty: 25 ''(+15)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

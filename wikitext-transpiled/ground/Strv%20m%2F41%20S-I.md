@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish light tank {{Battle-rating}}. It was introduced during [[Update "Ixwa Strike"]].
+In 1939 and with the rise of tensions in Europe, Sweden purchased the production rights of TNH light tank from the Czech ČKD company, which is actually the export type of the LT-38 tank. The tank was produced in Sweden and named Strv m/41, with a total weight of 11 tons. The '''{{Specs|name}}''' was the first version of the tank made in Sweden, later an upgraded version was developed. Compared with the original Czech version, the Strv m/41 model had minor differences in appearance, the most noticeable modification is the addition of a periscope above the loader seat on the top of the turret. Once production started, the tank was quickly delivered between 1942 and 1943 and operated with the Third Armored Regiment.
 
-The {{PAGENAME}} is the first Swedish license-production variant of the Czech [[LT-38 (Family)|TNH tank design]]. It would be later improved in the second version: [[Strv m/41 S-II]].
+Introduced in [[Update "Ixwa Strike"]] and like other low BR Swedish tanks, it has access to the Bofors 37 mm kan m/38 gun that comes with an excellent APDS shell. The tank has armour comparable to the Panzer III J, and has decent mobility, although it is not as mobile as the BT-7 or M5A1. The quick reload time, excellent gun, and decent mobility make the {{PAGENAME}} a great support vehicle. It's capable of penetrating even heavy tanks, although the low calibre of the gun requires good aim to hit critical components or the crew.
 
 == General info ==
 === Survivability and armour ===
@@ -120,6 +120,7 @@ Similar to the [[Strv m/41 S-II]], its mobility is decent, but not the greatest 
 The Strv m/41 S-I, like most early Swedish light tanks, excels in an entrenched position or in an ambush position from a distance where it can depend on its APDS rounds to penetrate enemy targets at long distances. Though the APDS lacks in post-penetration damage, it can still out range most vehicles with a decent accuracy being able to even knock out vehicles like [[M10 Wolverine (Family)|M10 Wolverine]] at range with well-placed shells. The Strv m/41 also has excellent gun depression, making it very efficient at peeking over hills without exposing too much of the vehicle itself. Peeking over hills will also increase the armour protection due to the 50 mm armour being at an angle, which makes it a very efficient vehicle in higher positions.
 
 ;Enemies to be aware of:
+
 *[[M4A1]]
 *[[M4A3 (105)]]
 *[[Pz.IV H]]
@@ -156,6 +157,7 @@ In 1939, Sweden purchased the production right of TnH light tank from Czech ČKD
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_strv_m41_s1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Video
@@ -178,6 +180,7 @@ In 1939, Sweden purchased the production right of TnH light tank from Czech ČKD
 * [[Pbv 301]]
 
 ;Similar Role
+
 *[[Pz.38(t) F]]
 *[[M2A4]]
 *[[T-26 (Family)|T-26]]

@@ -136,6 +136,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x 50 kg GP 50 bombs (100 kg total)
 * 2 x 100 kg GP 100T bombs (200 kg total)
@@ -150,6 +151,8 @@ The Re.2005 is a classic dogfighter, with surprisingly amazing manoeuvrability t
 You should make use of energy-wasting manoeuvres such as vertical spirals and hammerheads to bleed the enemy of their speed advantage and force them to fight on your terms.
 
 Of course, the large underslung payload available means the Re.2005 can be a decent ground-pounder as well, being able to drop its bombs quickly and engage the furball. While the Italian bombs are nothing spectacular, they can get the job done fairly well. However, it is worth noting that carrying the largest payload available has a noticeable impact on performance and forces the aircraft into the area it suffers the most in, that being low altitude where its once decent speed becomes extremely poor, compounded by the fact its carrying bombs.
+
+In GRB, this thing can easily maul the enemy aircraft due to its great energy retention, cannons and turn rate. You should prioritise targets flying low with large payloads, such as the F4Us and the P-47s that carry full payloads. These aircraft are too heavily loaded to outpace you, which is their only way of evading you in regular circumstances, meaning picking these enemies off is as easy as it gets for 6.0 Italy.
 
 '''''Specific enemies worth noting:'''''
 

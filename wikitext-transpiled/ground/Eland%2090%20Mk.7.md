@@ -44,7 +44,7 @@ The armour of the Eland 90 Mk.7 is little to nonexistent. The fact it only has 1
 
 '''Notes:'''
 
-*Wheels are 10 mm thick and a spare wheel covers the left side of the hull.
+*Wheels are 10 mm thick.
 *Storage boxes and mudguards are 5 mm thick.
 *The belly is 8 mm thick.
 *The gun barrel is 20 mm thick.
@@ -187,6 +187,7 @@ Despite the optics not having a huge zoom, it is enough to be able to detect, ta
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles with similar chassis
+
 * [[AML-90 (Family)]]
 
 ;Related service history

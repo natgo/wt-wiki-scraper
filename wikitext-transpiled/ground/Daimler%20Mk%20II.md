@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update 1.71 "New E.R.A."]].
+The excellent performance of the turretless Daimler Scout Car led people to suggest that a larger armoured car version with a turret be built as well. The Daimler was similar in design but also introduced a rear-facing wheel for the commander to use in an emergency. The same turret used for the Tetrarch was employed by the Daimler. Most of their use was during the Africa Campaign, where armoured cars were crucial in the vast distances of the dessert, in situations where mobility was often more important than raw power. The tank was Britain's main reconnaissance vehicle during this time period, while it was also the heaviest of all the armoured cars fitted by the British.
 
-A [[QF 2-pounder (40 mm)|QF 2-pounder]] on 4x4 wheels. This vehicle is made to support infantry in a way similar to the cavalry. It is not made to withstand heavy fire. Notably, its wheeled configuration means the car will not get good fire when on the move and it will turn in an arc. Meanwhile, its good reverse speed could possibly save the car as long as the move happens before the enemy shoots.
-
-The Daimler is recognisable from other armoured cars by its hexagonal hull centre and its short length. It has 4 mm boxes scattered across the hull and a spare tire on the left side. Besides the main armament, it is equipped with a coaxial BESA machine gun (same MG as higher rank British vehicles), a decent gun to shower open-topped SPGs with lead.
+It was introduced in [[Update 1.71 "New E.R.A."]]. A [[QF 2-pounder (40 mm)|QF 2-pounder]] on 4x4 wheels, this vehicle is made to support infantry in a way similar to the cavalry. It is not made to withstand heavy fire. Notably, its wheeled configuration means the car does not fire well when on the move, and it will turn in an arc. Meanwhile, its good reverse speed could possibly save the car as long as the move happens before the enemy shoots. The Daimler is recognisable from other armoured cars by its hexagonal hull centre and its short length. It has 4 mm boxes scattered across the hull and a spare tire on the left side. Besides the main armament, it is equipped with a coaxial BESA machine gun (same MG as higher rank British vehicles), a decent gun to shower open-topped SPGs with lead.
 
 == General info ==
 === Survivability and armour ===
@@ -175,22 +173,19 @@ Do not forget to employ the artillery strike to tame enemy's advance in nearby a
 
 '''Pros:'''
 
-* Good reverse speed and acceleration.
-* Does not lose speed when turning, smooth driving
-* Decent turret traverse
+* Fast forward and reverse speed, and acceleration
 * Armour is thin enough to avoid detonating some APHE shells; some shells might pass through
-* Has smoke grenade launchers
+* Decent firepower: fast reload, good penetration and damage, -12° gun depression, stabiliser
+* 2 smoke grenade launchers
 * Many 4 mm boxes scattered on the hull, offering compact ammo rack protection against shrapnel and machine guns
-* -12° of gun depression
+* Relatively low profile compared to something like [[M3 Stuart (Family)|M3 Stuart]]
 
 '''Cons:'''
 
-* Armour is lacking overall and only three crewmen means poor survivability
-* Has no tracks, does not turn on point; limits mobility
+* Armour is lacking overall; only three crewmen means poor survivability
+* Wheels does not turn on point; limits mobility
 * Has difficulty reaching max speed off-road
-* Vulnerable to HMG, especially the tires
-* Has a tendency to tip over in sharp turns if not careful due to a high profile
-* Poor stock performance
+* Lacklusture power-to-weight ratio, hinders mobility in rough/uneven terrain
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

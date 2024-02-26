@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish jet fighter {{Battle-rating}}. It was introduced in [[Update "Apex Predators"]].
+The JA37D is an improvement made over the JA37C, the aircraft received improved avionics, electronic countermeasures in the form of external pods and navigation systems. The cockpit was also modernized. The JA37D retained the same PS 46/A radar from the JA37C, but received the ability to carry the RB 99 missile, which is the Swedish designation of the AIM-120AMRAAM, allowing the aircraft to serve until the JAS 39 Gripen was available.
 
-The JA37D is a modernized version of the [[JA37C]], introduced in the early 1990s, it served the purpose of modernizing the ageing fleet of Viggens in the Swedish air force and includes various improvements over the previous variant. In game, it includes various improvements, in favour of a better pilot experience as to further improve upon BVR (Beyond Visual Range) engagements and have a better overall combat efficiency rating.
+It was introduced in [[Update "Apex Predators"]]. The '''{{Specs|name}}''' plays very simmilarly to its predecessor, but it now has access to the RB 74, which is the Swedish designation for the AIM-9L, having access to a very capable short-medium range IR missile gives the Viggen the ability to fight at high altitudes and launch missiles to enemies below, however if this tactic is employed be aware of enemy radar missiles. The flight performance stays the same, with the JA37D being an aircraft with a below average acceleration and poor top speed, but with a good turning radius thanks to its delta wing configuration.
 
 == General info ==
 === Flight performance ===
@@ -168,6 +168,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 1,250 l drop tank
 * 2 x RB24J missiles
 * 6 x RB24J missiles
@@ -220,6 +221,7 @@ However one of the main changes for the D variant, were the compatibility to equ
 File:JA37D taking off.jpg|<small>JA37D taking off from airstrip on the Denmark test flight map</small>
 File:JA37D cockpit upper half.jpg|<small>Interior view of the JA37D cockpit</small>
 File:JA37D cockpit lower half.jpg|<small>Interior cockpit instruments view inside the JA37D cockpit</small>
+File:JA37D Thunder God.jpg|<small>JA37D Thunder God camouflage</small>
 </gallery>
 
 == See also ==

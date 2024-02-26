@@ -73,17 +73,30 @@ The AAC Mk.34 serves as the stock shell, a basic HE shell with 3.22 kg TNTe. Thi
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+
+The {{PAGENAME}} is devastating in downtiers. Her rapid-firing 6-inch and 5-inch guns have excellent damage output with their HE shells, which will rip apart destroyers in a few salvos and wear down the crew of cruisers in minutes. Her survivability is also good for a light cruiser, with decent armour, well-placed magazines, and a moderately sized crew, which will allow her to hold her own against same- or lower-tiered ships and last long enough to get behind cover when facing heavy cruisers and battleships. The {{PAGENAME}} is no heavy cruiser though, so bringing her into open waters against multiple enemies is dangerous unless there are teammates around to divert enemy fire.
+
+Conversely, the {{PAGENAME}} will struggle in uptiers. Her AP shells have relatively poor penetration and low explosive filler, which means that they won't do much damage unless hitting critical components like ammo racks or engine rooms, and they are completely ineffective against top-tier battleships and battlecruisers. In this case, finding cover is even more critical. The {{PAGENAME}} should hide among the hills in shallower waters and take out softer targets for the team. She also has radar and HE-VT shells in all guns, so she can protect teammates who lack AA armaments by taking out enemy aircraft from long range.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+
 
 '''Pros:'''
-*
+
+* Excellent firepower against less armored enemies
+** Fast firing primary and secondary armament
+** Base fuse HE does good damage upon penetration and can still effectively damage the exposed components of better armored ships
+* Good survivability for a light cruiser
+* Has radar (with lead calculation) and HE-VT shells, very effective against air targets
+* Adequate mobility, helps moving in and out of cover quickly
 
 '''Cons:'''
-*
+
+* AP shells are mostly ineffective in uptiers
+* AP shells have low explosive filler
+* Lacks SAP shells, which can be a problem when meeting moderately armored opponents that the HE shells can't penetrate and the AP shells do too little damage
+* Armor is non-existent in uptiers
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -93,6 +106,7 @@ The AAC Mk.34 serves as the stock shell, a basic HE shell with 3.22 kg TNTe. Thi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_cruiser_fargo_class Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -100,6 +114,7 @@ The AAC Mk.34 serves as the stock shell, a basic HE shell with 3.22 kg TNTe. Thi
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -108,6 +123,7 @@ The AAC Mk.34 serves as the stock shell, a basic HE shell with 3.22 kg TNTe. Thi
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

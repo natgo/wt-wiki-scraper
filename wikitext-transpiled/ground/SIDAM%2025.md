@@ -55,7 +55,17 @@ Introduced in [[Update 1.85 "Supersonic"]], the SIDAM 25 is equipped with 4 x 25
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Oerlikon KBA (25 mm)}}
 
-With only 60 APDS rounds available to fire, it is recommended to use them sparingly and only against light tanks/SPAA.
+The turret is the main selling point of the SIDAM 25.
+
+It houses four 25 mm cannons which can only fire pure HE or pure APDS belts. The guns all fire at once and while the fire rate isn't as overwhelming as with ZSU-23-4 or other "suppressing fire" SPAA, it more than makes that up with the turret handling and shells. 
+
+It has the fastest turret rotation in the game, even stock it turns as fast as maxed out turret of the Chieftain Marksman with decent crew, and as it is maxed out it can do a 180 turn in less than a second. This allows the user to actually pull off "reactionary" playstyle without having to give up their entire attention span to the skies. Additionally, the guns are completely stabilised, so even if SPAA is running away from something or chasing a helicopter, there is no need to think about movement affecting accuracy. 
+
+Spread out gun formation allows to compensate for inaccurate aim and shell velocity. While it may seem like an overkill to a decent player, the jets more than deserve "overwhelming fire" policy, particularly in the future ranks. Unfortunately, the Italian SPAA does not have as many shells as its peers, only carrying 660 of them at a maximum.
+
+The HE shells fly at 1100 m/s speed, which is only a bit slower than 30-35 mm calibre shells and significantly faster than shells of the ZSU-23-4. Unfortunately, they will self-destruct at about 2.5 km range, so even with the tracker  it is sometimes impossible to blow up the plane that is quickly leaving the premises (it will refuse to aim at the targets back past 2 km range), and some helicopters can be smart enough to avoid SPAA effective range. Since the tracker is absolutely accurate, it is rather easy to annihilate any aircraft that isn't changing their flight direction immediately. Any early helicopter unfortunate enough to appear within effective range of HE shells is probably going to be vaporized before they can even dodge, though it's not impossible.
+
+The APDS shells do not have the range restrictions, have no tracers and fly at 1330 m/s speed. They can be used to either shred some annoying tank, or to suddenly tear apart exceptionally annoying aircraft. Since SIDAM 25 is completely accurate and does not trigger any warnings, a single tap of APDS will almost certainly scrap any passive aircraft. Unfortunately, the APDS belt is very limited - with only 60 APDS rounds available to fire, it is recommended to use them sparingly and only against light tanks/SPAA or high priority air targets.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -92,8 +102,8 @@ With only 60 APDS rounds available to fire, it is recommended to use them sparin
 ===Sensors===
 {{main|3JB10}}
 
-The SIDAM 25 is equipped with a [[3JB10]] optronic tracking system, with no search radar. The tracking system does not trigger the radar warning receiver fitted to some helicopters.
-{{Notice|Although the tracker can track targets in an elevation range of -20°/+85° once locked on, it can only initially lock on to targets between -20°/+20° in elevation.}}
+The SIDAM 25 is equipped with a [[3JB10]] optronic tracking system, with no search radar, so it needs to be manually locked on from the sniper seat. The tracking system does not trigger the radar warning receiver fitted to some helicopters and planes. The lock-on scope also will not wobble, like with the radars, providing better aim assist.
+{{Notice|Although the tracker can track targets in an elevation range of -20°/+85° once locked on, it can be difficult to lock on to targets past +20° in elevation. Be patient!}}
 
 {| class="wikitable" style="text-align:center"
 ! colspan="5" | [[3JB10]] - Optronic Tracking System
@@ -104,7 +114,7 @@ The SIDAM 25 is equipped with a [[3JB10]] optronic tracking system, with no sear
 ! {{Annotation|Elevation Tracking<br/>Angle|How far up and down the radar can track a target}}
 ! {{Annotation|Minimum<br/>target speed|The minimum speed a target must be moving, relative to the radar, in order to be tracked by the radar}}
 |-
-| 5,000 m || 100 m || 360° || -20°/+85°<br />(lock between -20°/+20°) || 1 m/s (3.6 km/h)
+| 5,000 m || 100 m || 360° || -20°/+85°<br />(lock between -20°/+85°) || 1 m/s (3.6 km/h)
 |-
 |}
 
@@ -115,29 +125,29 @@ The SIDAM 25 can be quite deadly when used effectively thanks to its heavy anti-
 
 In case any vehicles breach your defenses you do have access to a small amount of APDS rounds. These will shred light vehicles and can disable heavier ones with precise aim. The SIDAM 25's APDS can penetrate up to 81 mm of armour. Do keep in mind that the APDS is a tier 3 modification so you'll have to research it before having access to it. Use the APDS strictly for self-defense, as the low ammunition count and characteristics of the hull severely limit its offensive ability. You can negate the low APDS count by staying near a capture point for rapid resupply. If able, play around capture points to keep your ammunition supplied.
 
-In the anti-air sector, the SIDAM 25 does not have access to a radar, unlike other nations' counterparts at the battle rating. What you do have access to however is an optronic tracking system, which allows targets to be tracked, and provides one of the most most accurate lead indicators for any vehicle. This will allow you to predict flight paths of any enemy air vehicles you'll be facing. Another great thing about the optronic system is that it cannot be detected by radar warning receivers on enemy aircraft, making it much easier for you to target them and hopefully take them out with a quick barrage of you main gun. Speaking of which, the SIDAM's main armament consists of 4 x 25 mm guns, with a combined firepower of 2200 rounds per minute; more than enough to deal with most of the aircraft you'll face. You also have access to a two-plane stabilizer, which will furthermore aid you in firefights against both ground and air vehicles.
+In the anti-air sector, the SIDAM 25 does not have access to a radar, unlike other nations' counterparts at the battle rating. What you do have access to however is an optronic tracking system, which allows targets to be tracked, and provides one of the most most accurate lead indicators for any vehicle. This will allow you to predict flight paths of any enemy air vehicles you'll be facing. Another great thing about the optronic system is that it cannot be detected by radar warning receivers on enemy aircraft, making it much easier for you to target them and hopefully take them out with a quick barrage of you main guns. Speaking of which, the SIDAM's main armament consists of 4 x 25 mm guns, with a combined firepower of 2200 rounds per minute; more than enough to deal with any aircraft foolish enough to fly directly at you. Even if they do not approach you directly or managed to surprise you, the turret can quickly snap in their direction to fire a lethal burst of APDS after them. Additionally, APDS can be used for stealthy assassinations of any long-range CAS, as long as you can actually spot them. You also have access to a two-plane stabilizer, which will furthermore aid you in firefights against both ground and air vehicles, as you don't really have to stay in one spot.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Has an optronic tracking system allowing targets to be tracked and providing a lead indicator
-* Optronic system cannot be detected by RWR on enemy aircraft, making it much easier for you to target them
+* Fastest turret traverse and incredibly quick gun elevation
+* Has an optronic tracking system allowing targets to be tracked and providing a better lead indicator than radar
+* Optronic system cannot be detected by RWR on enemy aircraft, making it much easier for user to snipe them, particularly with APDS
 * 550 RPM on the 25 mm guns, a combined 2200 RPM
-* Two-axis stabilizer which is very stable
-* Incredibly quick turret traverse and gun elevation
-* APDS can penetrate 81 mm, plenty to defend against enemy vehicles (once it is unlocked)
+* Two-axis stabilizer which works even when SIDAM is driving at its maximum speed
+* APDS can penetrate 81 mm and is invisible, plenty to defend against enemy vehicles (once it is unlocked)
 
 '''Cons:'''
 
 * Thin armour, very susceptible to overpressure
 * Relatively poor zoom/magnification, harder to spot small targets at range (especially scout helicopters)
+* HE rounds have a rather short range before they self-destruct
 * APDS rounds are a tier 3 modification - until then, anti-armour work is not possible given the low penetration of the HE rounds
 * Can only carry 60 APDS rounds
 * Not very mobile compared to other tanks and SPAA at its rank, has a hard time scaling hills
-* No search radar - only optronic targeting, meaning you need to have a visible target to lock on, and a clear line-of-sight to track it
-* Can only lock-on to targets -20°/+20° in elevation
+* No search radar - only optronic targeting, meaning user needs to have a visible target to lock on, and a clear line-of-sight to track it
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

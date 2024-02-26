@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The Magach 6B Gal was an important upgrade developed by Israel before the 1990s. Since it was obvious that the Merkava would not entirely replace the Magach in service it was deemed necessary an upgrade to older models like the Magach 6B and A that lacked any sort of modern military electronics and optics. As such, the "Gal" Fire Control System was created and then fitted into the Magach 6B and 6A models. It was not given to the C model since this used a more modern American fire control system. The Magach 6B Gal would later be upgraded to the Magach 6B Gal Batash with improvements to the protection and powerplant.
 
-It was introduced in [[Update "La Royale"]]. The Magach 6B Gal has a decent performance for it's BR, compared to very common tanks like the T-72M1 and Leopard 1A1, it lacks the mobility and protection of both vehicles, but it compensates this with a decent protection against HEAT projectiles and missiles, as well as autocannon ammunition. This is very important at it's BR and is thanks to the Blazer ERA, it would be enough to stop small rockets and missiles, which are very common at that BR with early ATGMs launched from rockets and different IFVs. The mobility, while poor, is not enough to make the vehicle slow, and the Magach 6B Gal has decent acceleration and top speed, it mostly lacks reverse speed like Soviet Tanks around it's BR.
+It was introduced in [[Update "La Royale"]]. The Magach 6B Gal has a decent performance for it's BR, compared to very common tanks like the T-72M1 and Leopard 1A1, it lacks the mobility of the former and the protection of the latter, but it compensates this with a decent protection against HEAT projectiles and missiles, as well as autocannon ammunition. This is very important at it's BR and is thanks to the Blazer ERA, it would be enough to stop small rockets and missiles, which are very common at that BR with early ATGMs launched from rockets and different IFVs. The mobility, while poor, is not enough to make the vehicle slow, and the Magach 6B Gal has decent acceleration and top speed, it mostly lacks reverse speed like Soviet Tanks around it's BR.
 
 == General info ==
 === Survivability and armour ===
@@ -129,15 +129,16 @@ The Magach 6B has the same amount of protection as the M60A1, that is, a weak hu
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-*
+* Very powerful cannon
+* Large ERA protection
 
 '''Cons:'''
 
-*
+* Mobility is lacking
+* Inadequate armour against most medium tanks at the same BR
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

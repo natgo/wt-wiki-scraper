@@ -14,7 +14,7 @@ Introduced in [[Update "Raining Fire"]] as a [[wt:en/news/6852-news-meet-major-u
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The upper glacis of the hull and the upper part of the turret are the only well-protected areas, which will give you good protection against most conventional rounds, especially from far ranges. However, the rest of the armour is very weak and can be easily penetrated by pretty much everything, and you will still be vulnerable against HEAT-FS, ATGMs, APFSDS and such. Your best bet is to flank the enemy and take them out with your auto-loading gun before they can get a hit on you. If an enemy spots you, face them so they can only hit the front of the tank, and hope that they don't hit the very weak bottom portion of your turret. Try not to angle your tank as the sides can easily be penetrated. Since you have 5 crew members, with 2 in the front of the hull and 3 in the turret, and come equipped with a handy autoloader, you can take a few hits and lose a couple of crew members without having to worry too much.
+The upper glacis of the hull and the turret (aside from an area beneath the gun) are the only well-protected areas, which will give you good protection against most conventional rounds, especially from far ranges. However, the rest of the armour is very weak and can be easily penetrated by pretty much everything, and you will still be vulnerable against HEAT-FS, ATGMs, APFSDS and such. Your best bet is to flank the enemy and take them out with your auto-loading gun before they can get a hit on you. If an enemy spots you, face them so they can only hit the front of the tank, and hope that they don't hit the very weak bottom portion of your turret. Try not to angle your tank as the sides can easily be penetrated. Since you have 5 crew members, with 2 in the front of the hull and 3 in the turret, and come equipped with a handy autoloader, you can take a few hits and lose a couple of crew members without much effect on combat performance. Additionally, the Somua SM features Commander Aiming, which allows your Commander to take over control of the gun quickly in the case that your Gunner is knocked out.
 
 '''Armour type:'''
 
@@ -27,7 +27,9 @@ The upper glacis of the hull and the upper part of the turret are the only well-
 |-
 | Hull || 150 mm (55°) ''Front glacis'' <br> 60 mm (55°) ''Lower glacis'' || 40 mm (25°) ''Top'' <br> 40 mm ''Bottom'' || 40 mm (30°) || 5 - 20 mm
 |-
-| Turret || 40 - 120 mm ''Turret front'' <br> 200 mm ''Gun mantlet'' || 40 - 60 mm || 40 mm || 30 mm
+| Turret || 120 mm ''Turret front'' and ring <br> 200 mm ''Gun mantlet'' || 40 - 60 mm ''Top''  
+120 mm ''Bottom'' 
+| 40 mm || 30 mm
 |-
 | Cupola || 30 mm || 30 mm || 30 mm || 30 mm
 |-

@@ -12,7 +12,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet motor torpedo boat {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game.
+The '''Pr.123-bis''' is a production variant of the Project 123 Komsomolet-class Torpedo Boat used by the Soviet Navy during World War II. Development of Project 123 originally began in 1939, but the urgent need to replace the previous model due to the unsatisfactory performance of the [[G-5]] motor torpedo boat arose in 1942. In 1943, the navy approved the production model of the project, resulting in the designation Project 123-bis. It was equipped with two twin 12.7 mm [[DShK (12.7 mm)|DShK]] heavy machine guns and utilized two American-supplied Packard petrol engines acquired through the Lend-Lease program.
+
+This boat was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. Its gameplay is similar to many other MTBs in the game, but its superior speed allows it to swiftly capture strategic points and eliminate enemy boats attempting to reach your capture point thanks to its armament who consist of two twin 12.7 mm DShK heavy machine guns. As a torpedo boat, it also carries two [[45-36NU]] torpedoes, useful for targeting slow-moving vessels or lower-ranked destroyers or frigates. Additionally, it can carry [[BM-1 small depth charge|BM-1]] small depth charges, although their explosive power is insufficient to destroy enemy destroyers or frigates outright, they can still damage or destroy enemy boats with one or two depth charges.
 
 == General info ==
 === Survivability and armour ===
@@ -57,7 +59,7 @@ The Pr.123bis carries two 450 mm wet-heating 45-36NU torpedoes. They have a rang
 
 ''Be careful with your torpedoes!'' Due to torpedoes being fired out of their tubes at an upwards angle, this means that your torpedoes might over-shoot (literally) any boats which are passing right in front of the Pr.123bis.
 
-The Pr.123bis can carry 6 x BB-1 depth charges, which can be used as timed mines to damage/destroy tougher enemies. You can place depth charges around a capture point if you get there first, or in front of an enemy.
+The Pr.123bis can carry 6 x BM-1 small depth charges, which can be used as timed mines to damage/destroy tougher enemies. You can place depth charges around a capture point if you get there first, or in front of an enemy.
 
 ''Remember'' to set your Depth Charge activation time before battle, if you carry depth charges. The default option of 3 seconds is too short to be useful, so it is advised to set it to something between 5-8 seconds to keep your options open.
 

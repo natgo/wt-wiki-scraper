@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
+The '''HMS Kelvin (F37)''' is a member of the K-class destroyer family. The Fairfield Shipbuilding and Engineering Company, Limited laid the HMS Kelvin down at Govan, Scotland, on October 5, 1937. She was launched on January 19, 1939, and put into service on November 27, 1939, bearing the pennant number F37. In World War II, the HMS Kelvin participated in combat in multiple theatres. She scuttled HMS Ivanhoe, which had struck a mine off Texel during the Texel Disaster, in September 1940 as a member of the 5th Destroyer Flotilla. She also bombarded Cherbourg in October while accompanying the battleship HMS Revenge in October 1940. The HMS Kelvin was one of the few destroyers of the J, K, and N classes to survive the war. It was broken up at Troon, Scotland, and sold for scrap on April 6, 1949.
 
-HMS Kelvin is a member of the trio of J, K, and N classes of destroyers. She is modeled as she was when originally completed in 1939, while her relatives [[HMAS Nepal]] and [[HMS Jervis]] are modeled with their wartime refits. Thus, the Kelvin has weaker anti-aircraft defences than her relatives, in exchange for a heavier torpedo broadside.
+Introduced in [[Update 1.95 "Northern Wind"]], the destroyer HMS Kelvin is incredibly fragile. The HMS Kelvin has very little armour protection throughout the ship, making it extremely vulnerable in close-quarters combat with other destroyers. With 208 crew members, the HMS Kelvin is a remarkably unimpressive vessel compared to its German and American counterparts. Ammunition detonation is a serious risk, as some ammunition racks are situated above the waterline. All things considered, playing the HMS Kelvin demands extreme caution. It works best as a support destroyer, engaging opponents from a distance.
 
 == General info ==
 === Survivability and armour ===
@@ -118,10 +118,12 @@ Later in 1942, Kelvin contributed to the sinking of the Italian torpedo boat Lup
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_destroyer_k_class Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

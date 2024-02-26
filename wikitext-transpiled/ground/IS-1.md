@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=ussr_is_1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -176,6 +176,11 @@ The IS-1 was deployed in battles from February 1944 up to and including the wint
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage IS-1.png
+</gallery>
 
 ;Skins
 

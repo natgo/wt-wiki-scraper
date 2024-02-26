@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British naval jet fighter {{Battle-rating}}. It was introduced in [[Update 1.57 "Battle March"]].
+Following the development of the [[Venom FB.4|de Havilland Venom]] for the RAF, the Royal Navy also expressed an interest in acquiring the aircraft for its Fleet Air Arm. The twin-seat night-fighter variant NF.2 was modified to be suitable for aircraft carriers, featuring a strengthened undercarriage, folding wings, and tailhook. This first navalised variant was designated the '''Sea Venom FAW.20''', operating as naval interceptors from 1951. It eventually began to be replaced by the [[Sea Vixen F.A.W. Mk.2|de Havilland Sea Vixen]] in 1959, with the final units withdrawn from second-line service in 1970.
 
-The Sea Venom FAW.20 is a carrier-based jet fighter located in the British naval line after the [[Sea Hawk FGA.6]]. The Sea Venom has very good diving characteristics, good roll rate making it a notable defensive flyer, and decent speed characteristics for a jet of its battle rating. It should be played as a Boom & Zoom aircraft, and it's very important to keep its speed up as the acceleration is somewhat lacklustre.
+Introduced in [[Update 1.57 "Battle March"]], the Sea Venom is a shadow of its land-based sibling, with remnants of its power and manoeuvrability marred by the significant increase in weight from the naval modifications. However, with its relatively advanced airframe and nonetheless powerful engine, the lower BR causes the Sea Venom to be one of the fastest aircraft at the BR. Unlike the Venom, turnfighting should be avoided, as the Sea Venom will lose significant amounts of energy while doing so and will soon end up floating in the air. Instead, use its speed to make fast passes against unsuspecting opponents, and quickly zoom away from danger before they can even think about giving chase.
 
 == General info ==
 === Flight performance ===

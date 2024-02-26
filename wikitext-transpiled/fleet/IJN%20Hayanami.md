@@ -17,7 +17,7 @@ Just like its sister-ship [[IJN Yugumo|Yugumo]], Hayanami upgrades over [[IJN Ay
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
 
-Hayanami comes spaded as a premium and has a max speed of 79 km/s. Overall its relatively comparable with equivalents in other nations, if not slightly slower, though the differences are within 5% range between most of the destroyers in the same BR. The maximum reverse speed is -31 km/h spaded.
+Hayanami comes spaded as a premium and has a max speed of 79 km/h. Overall its relatively comparable with equivalents in other nations, if not slightly slower, though the differences are within 5% range between most of the destroyers in the same BR. The maximum reverse speed is -31 km/h spaded.
 
 {{NavalMobility}}
 

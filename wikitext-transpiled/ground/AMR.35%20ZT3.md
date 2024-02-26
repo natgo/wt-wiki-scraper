@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (Reconnaissance Machine gun Car AMR 35 ZT3) is a rank {{Specs|rank}} French tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. Featuring a quick firing "stabilized" 25 mm gun, good mobility and bulletproof armour, it differs greatly from other rank 1 French tanks while offering similar gameplay to the Soviet [[ASU-57]]. It is arguably the best first French tank to research.
+The '''{{Specs|name}}''' was an upgraded version of the AMR.33 light tank, addressing issues with tracks and suspension. Despite being larger and heavier, it was faster and more manoeuvrable thanks to a bigger engine and improved suspension. During the Battle for France in 1940, 167 of these tanks were in service, many equipped with 13.2 mm machine guns. A subvariant called ZT3 was planned to carry a 25 mm anti-tank gun, but only ten were produced and issued before France surrendered.
+
+It was introduced in [[Update 1.75 "La Résistance"]]. Featuring a quick-firing "stabilized" 25 mm gun, good mobility and bulletproof armour, it differs greatly from other rank 1 French tanks while offering similar gameplay to the Soviet [[ASU-57]]. It is arguably the best first French tank to research. Due to its very poor all around protection the tank is not very survivable, and it's not armoured enough to withstand artillery barrages or heavy MG fire. However, with its 25 mm anti-tank gun, it can penetrate and destroy many other vehicles around its BR, specially if its good mobility is used in flanking manoeuvres.
 
 == General info ==
 === Survivability and armour ===
@@ -158,6 +160,7 @@ The Automitrailleuse de Reconnaissance (AMR) 35 was an improvement over the prev
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amr_35_zt3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -169,6 +172,7 @@ The Automitrailleuse de Reconnaissance (AMR) 35 was an improvement over the prev
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[L3/33 CC]]
 
 == External links ==

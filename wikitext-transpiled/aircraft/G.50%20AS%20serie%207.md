@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=fiat_g50_seria7as_italy
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

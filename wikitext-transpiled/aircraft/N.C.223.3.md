@@ -5,11 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The N.C.223.3, as a derivative of the Farman F.220 plane model, looks strikingly similar to the [[F.222.2]] bomber, yet different as well. The biggest difference in the design was the twin rudder on the tail that helped improve stability and yaw control. The plane's overall design was also made more aerodynamic as part of the improvement, the nose section was made shorter, and the plane introduced improved Hispano-Suiza 12Y-29 engines that replaced the previous Gnome Rhone model engines. Defensive armaments were also improved with two Hispano cannons as the rear ventral and dorsal turret armament. In 1940, with the capitulation of France, these bombers were transferred to North Africa to work as transport aircraft, to later be replaced by other cargo aircraft, such as the C-47 Skytrain.
 
-The N.C.223.3, as a derivative of the Farman F.220 plane model, looks strikingly similar to the [[F.222.2]] bomber, yet different as well. The biggest difference is the twin rudder on the tail that helps improve stability and yaw control. The plane's overall design was also made more aerodynamic as part of the improvement, the nose section is made a tad shorter, and the plane uses Hispano-Suiza 12Y-29 engines rather than the previous Gnome Rhone model. Defensive armaments were also improved with two Hispano cannons as the rear ventral and dorsal turret armament.
-
-The N.C.223.3 is made distinctive with its push-pull engine configuration, stacking the engine on each side in tandem for the effect where the forward engine "pulls" the plane while the rear engine "pushes" the plane. This lowered the amount of engines having to protrude from the wing, while keeping the engine centreline so that one failed engine in a side will not prevent the other from providing a similar thrust force.
+It was introduced in [[Update 1.73 "Vive la France"]]. The '''{{Specs|name}}''' works like many other bombers around its BR, being slow and relying on its altitude to stay alive in battles. It has access to a big payload even when compared to other heavy bombers, with 52 x 50 kg bombs that are enough to destroy a base or even destroy the enemy airfield in coordination with allied bombers. It features a strong airframe, capable of withstanding heavy damage without being destroyed, while also having a strong defensive armament in the rear in the form of 20 mm cannons. However the defensive armament only covers a few areas of the plane, and there are multiple blind spots, especially in the tail and vertical sections.
 
 == General info ==
 === Flight performance ===
@@ -144,6 +142,7 @@ Like its predecessor, the [[F.222.2]], the N.C.223.3 is a heavy hitting bomber w
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Huge payload, the stock payload of 52 x 50 kg bombs are highly efficient even in uptiers
 * Strong defensive firepower at the rear
 * Resilient airframe capable of taking numerous damage
@@ -152,6 +151,7 @@ Like its predecessor, the [[F.222.2]], the N.C.223.3 is a heavy hitting bomber w
 * Spawn at a very high altitude making it almost impossible for planes to get up to it before it drops the bombs
 
 '''Cons:'''
+
 * Huge size with lack of armour made the plane easy to spot and were prone to pilot snipes
 * Low overall top speed, manoeuvrability stiffens at high speeds
 * While the plane can do some sharp turns, in doing so will bleed a considerable amount of energy, especially with vertical manoeuvres
@@ -179,6 +179,7 @@ The one in-game was a bomber version with different, weaker engines than the ori
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=nc_223_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -186,6 +187,7 @@ The one in-game was a bomber version with different, weaker engines than the ori
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

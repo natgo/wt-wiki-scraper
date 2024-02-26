@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
+The '''{{Specs|name}}''' was a Soviet light tank, developed from the previous BT-5 light tank. Both designs shared the same 45 mm 20-K cannon aswell as coaxial DT machine gun. Unlike the BT-5, the BT-7s hull was welded and the shape of hull at front was also redesigned. The frontal armour protection was slightly increased from 13 to 20 mm of armour. New turret turret featuring sloped armour was also adopted. Unlike BT-7, the BT-7M features diesel powered V-2 engine giving it more horsepower, range and better acceleration unlike the gasoline powered BT-7.
 
-A variant of the BT-7 featuring a more powerful 500 hp diesel engine, the BT-7M accelerates far faster than its predecessors, allowing it to quickly find flanking spots, get to capture points or escape out of situations. Unfortunately, as it has a higher BR, it faces far more enemies that can easily penetrate it, and the 45 mm cannon starts to struggle against more armoured vehicles like the [[M4A3 (105)]] or the [[Matilda III]].
+BT-7M was introduced in [[Update "Ixwa Strike"]]. A variant of the BT-7 featuring a more powerful 500 hp diesel engine, the BT-7M accelerates far faster than its predecessors, allowing it to quickly find flanking spots, get to capture points or escape out of situations. Unfortunately, as it has a higher BR, it faces far more enemies that can easily penetrate it, and the 45 mm cannon starts to struggle against more armoured vehicles like the [[M4A3 (105)]] or the [[Matilda III]].
 
 == General info ==
 === Survivability and armour ===

@@ -183,20 +183,24 @@ During the early module research, the urban engagements can be done with some le
 '''Pros:'''
 
 * Effective side-ERA against air-to-ground missiles
-* Fast reload, particularly for a 120 mm (5 seconds aced)
-* Sights with high zoom, 2nd generation thermals and a wide FOV
-* High reverse of -40 km/h
-* The L30A1 120 mm gun is incredibly accurate, even at long range
-* Turret cheeks are invulnerable to all HEAT-FS and APFSDS, including the dreaded DM53 shell
+** Near impossible to damage with HEAT-FS and weak ATGM after installation of all of the rest of ERA
+* Retains the rest pros of the base tank:
+** Fast reload, particularly for a 120 mm (5 seconds aced)
+** Sights with high zoom, 2nd generation thermals and a wide FOV
+** High reverse of -40 km/h
+** The L30A1 120 mm gun is incredibly accurate, even at long range
+** Turret cheeks are invulnerable to all HEAT-FS and APFSDS, including the dreaded DM53 shell
+** Inert turret ammo rack
+** Turret neck is not vulnerable to HE 
 
 '''Cons:'''
 
-* Vulnerable commander's hatch and cannon breech
-* Accessible weak spots, especially the gun mantlet
-* Dorchester 2F only marginally increases LFP armour against APFSDS
-* Dorchester 2F adds 1,100 kg of weight to an already sluggish tank
-* No CITV (Commander Independent Thermal Viewer)
-* L27A1 has low penetration compared to other top rank NATO ammunition
+* Retains cons of the base tank in general:
+** Accessible weak spots, especially the gun mantlet
+** L27A1 has low penetration compared to other top rank NATO ammunition, armour is not good enought when fights against high ground
+** Dorchester 2F adds 1,100 kg of weight to an already sluggish tank
+** No CITV (Commander Independent Thermal Viewer)
+* Dorchester 2F only marginally increases LFP armour against APFSDS and autocannon tanks
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

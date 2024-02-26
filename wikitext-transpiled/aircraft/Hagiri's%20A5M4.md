@@ -148,6 +148,16 @@ The '''{{Specs|name}}''' was introduced in [[Update 1.31]] and translates exactl
 
 * 2 x 7.7 mm Type 89 machine guns, nose-mounted (500 rpg = 1,000 total)
 
+=== Suspended armament ===
+{{Specs-Avia-Suspended}}
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
+{{main|Navy Type 97 Number 6 (60 kg)}}
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+* Without load
+* 2 x 60 kg Navy Type 97 Number 6 bombs (120 kg total)
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 

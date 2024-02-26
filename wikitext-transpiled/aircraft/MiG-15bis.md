@@ -21,7 +21,7 @@ The '''{{Specs|name}}''' is one of the original Soviet top rank aircraft and was
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
-The MiG-15bis is an improved and definitive MiG-15 version, the main difference is the improved engine, the Klimov VK-1. Its level speed at sea level was increased by 26 km/h to 1,076 km/h, but it is still lower than many other jets like for example the F-86 series.
+The MiG-15bis is an improved and definitive MiG-15 version, the main difference is the improved engine, the Klimov VK-1. Its level speed at sea level was increased by 26 km/h to 1,076 km/h, still marginally lower than many other jets like for example the F-86 series.
 The other noticeable change is a huge improvement of thrust-to-weight ratio which increased the acceleration by ~10% and it also has a huge impact on its climb rate, it can reach up to 50 m/s at low altitude with full fuel tanks, making the MiG-15bis one of the best climbing planes compared to other planes at similar battle rating.
 Like the previous version, it can not fly at max power for too long or it will start overheating. While decreasing the power to 95% or lower will cool it down for a moment, if you increase it back to 100% it will immediately start overheating again.
 

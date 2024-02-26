@@ -1,3 +1,8 @@
+{{About
+| about = jet fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Harrier (Family)
+}}
 {{Specs-Card
 |code=av_8b_plus_italy
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -245,19 +250,17 @@ Italian Harriers participated in Operation "United Shield" in Somalia, performin
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=av_8b_plus_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[Harrier GR.1]]
-* [[Harrier GR.3]]
-* [[AV-8A]]
-* [[AV-8C]]
-
-* [[Harrier GR.7]]
+;Related development
+* [[Harrier (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

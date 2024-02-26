@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' was a Soviet Project 45-class destroyer. She was the only Projeect 45 ship built, and the first indigenously designed Soviet destroyer. Opytny was laid down on 26th June 1935 and commissioned on 11th September 1941. Originally she was named Sergo Ordzhonikidze, but was subsequently renamed Opytny in 1940. Due to issues with her boilers, she was not suited for fleet operations, but the German attack on the Soviet Union caused her to be accepted into service. She was assigned to the Baltic Fleet and saw a limited career as a floating battery during the Siege of Leningrad. She was taken out of service in March 1944 and scrapped in 1953.
+The '''{{Specs|name}}''' was a Soviet Project 45-class destroyer. She was the only Project 45 ship built, and the first indigenously designed Soviet destroyer. Opytny was laid down on 26th June 1935 and commissioned on 11th September 1941. Originally she was named Sergo Ordzhonikidze, but was subsequently renamed Opytny in 1940. Due to issues with her boilers, she was not suited for fleet operations, but the German attack on the Soviet Union caused her to be accepted into service. She was assigned to the Baltic Fleet and saw a limited career as a floating battery during the Siege of Leningrad. She was taken out of service in March 1944 and scrapped in 1953.
 
 Opytny was introduced in [[Update "Kings of Battle"]]. As the main armament is manually driven, the turrets suffer from poor traverse speed rendering these difficult when switching targets. The guns itself are also protected only by 13 mm thick antifragmentation armour covering sides, front and top side. As with most destroyers from other navies as well, Opytny features unarmoured magazines above waterline, which will lead to fatal explosion when hit. Unlike the [[Pr.7 (Family)|Project 7]] class, the propulsion elements are split in pairs, so a single hit cannot completely immobilize the ship.
 
@@ -39,11 +39,11 @@ Opytny was introduced in [[Update "Kings of Battle"]]. As the main armament is m
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
-{{main|45 mm/68 21-KM (45 mm)}}
+{{main|45 mm/46 21-K (45 mm)}}
 
 ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
 
-{{:45 mm/68 21-KM (45 mm)/Ammunition|45 mm OR-73A HET, 45 mm BR-240}}
+{{:45 mm/46 21-K (45 mm)/Ammunition|45 mm OR-73A HET, 45 mm BR-240}}
 
 === Anti-aircraft armament ===
 {{Specs-Fleet-AA}}
@@ -68,9 +68,11 @@ Opytny was introduced in [[Update "Kings of Battle"]]. As the main armament is m
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -86,6 +88,7 @@ Opytny was introduced in [[Update "Kings of Battle"]]. As the main armament is m
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -94,6 +97,7 @@ Opytny was introduced in [[Update "Kings of Battle"]]. As the main armament is m
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

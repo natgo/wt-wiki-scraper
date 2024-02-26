@@ -191,6 +191,10 @@ File:A-129 WTWallpaper 005.jpg|
 File:A-129 WTWallpaper 006.jpg|
 </gallery>
 
+
+;Videos
+{{Youtube-gallery|aYYZFFfc_ic|'''Ultimate A-129 Mangusta Guide''' - ''Bob Dickinson''}}
+
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 

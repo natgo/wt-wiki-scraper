@@ -12,7 +12,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' was introduced into German service in 2005 as a multi-role fire support helicopter. It is a variant of the Eurocopter Tiger, which was developed by a joint venture of France and Germany in response to a requirement for an advanced anti-tank helicopter. The development of the Tiger started in 1984 and lasted until 2003, when the first production model flew. The Tiger UHT is equipped with a mast-mounted sight, which allows it to operate from behind cover and engage targets with precision-guided missiles. The Tiger UHT has also participated in several overseas deployments, such as Afghanistan and Mali, where it provided reconnaissance and fire support for ground forces. The Tiger UHT is one of the four versions of the Eurocopter Tiger, along with the HAP, HAD and ARH models used by France, Spain, and Australia, respectively. The UHT stands for Unterstützungshubschrauber Tiger, which means "support helicopter Tiger" in German. The UHT differs from the other variants by having a different armament configuration, which includes PARS 3 LR fire-and-forget missiles and HOT 3 anti-tank missiles. In 2018, an upgrade program was contemplated that would enhance its performance and survivability, as well as enable it to fire the new Spike ER2 anti-tank missile; however, no final decision has been made regarding the implementation of the upgrade program. 
+The '''{{Specs|name}}''' was introduced into German service in 2005 as a multi-role fire support helicopter. It is a variant of the Eurocopter Tiger, which was developed by a joint venture of France and Germany in response to a requirement for an advanced anti-tank helicopter. The development of the Tiger started in 1984 and lasted until 2003, when the first production model flew. The Tiger UHT is equipped with a mast-mounted sight, which allows it to operate from behind cover and engage targets with precision-guided missiles. The Tiger UHT has also participated in several overseas deployments, such as Afghanistan and Mali, where it provided reconnaissance and fire support for ground forces. The Tiger UHT is one of the four versions of the Eurocopter Tiger, along with the HAP, HAD and ARH models used by France, Spain, and Australia, respectively. The UHT stands for Unterstützungshubschrauber Tiger, which means "support helicopter Tiger" in German. The UHT differs from the other variants by having a different armament configuration, which includes PARS 3 LR fire-and-forget missiles and HOT 3 anti-tank missiles. In 2018, an upgrade program was contemplated that would enhance its performance and survivability, as well as enable it to fire the new Spike ER2 anti-tank missile; however, no final decision has been made regarding the implementation of the upgrade program.
 
 The {{Specs|name}} was introduced in [[Update 1.91 "Night Vision"]]. It has a unique advantage over most other helicopters in its ability to engage targets from behind cover using its mast-mounted sight and fire-and-forget missiles. The mast-mounted sight allows the pilot to scan the battlefield without exposing the helicopter too much, while the fire-and-forget missiles can be launched without maintaining a lock on the target. Unfortunately, the fire-and-forget missiles are not very reliable, as they frequently lose their lock due to obstacles and smoke.  They are also slow and have a fairly limited range, which means that the target could be destroyed by other players or move out of range before the missile hits. Therefore, the pilot should always be aware of the situation and choose the best moment to fire and withdraw.
 
@@ -66,18 +66,46 @@ The fuel and transmission sit in the middle of the aircraft, between the gunner 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 64 x countermeasures
+* 64 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|APKWS II (M151)|APKWS II (M282)|ATAS (AIM-92)|HOT-3|PARS 3 LR}}
-{{main|FFAR Mighty Mouse|FN M3P (12.7 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[FN M3P (12.7 mm)|12.7 mm FN M3P]] machine guns (250 rpg)
+| || 1* || 1* ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| || 3*, 19 || 3*, 19 ||
+|-
+! [[APKWS II (M151)]] missiles
+| || 7 || 7 ||
+|-
+! [[APKWS II (M282)]] missiles
+| || 7 || 7 ||
+|-
+! [[ATAS (AIM-92)]] missiles
+| 2 || || || 2
+|-
+! [[HOT-3]] missiles
+| || 2, 4 || 2, 4 ||
+|-
+! [[PARS 3 LR]] missiles
+| || 4 || 4 ||
+|-
+| colspan="6" | * Gunpods can be carried concurrently with triple FFAR rockets on the same hardpoint
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 38 x FFAR Mighty Mouse rockets
 * 14 x APKWS II (M151) missiles
 * 14 x APKWS II (M282) missiles
@@ -87,36 +115,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total)
 * 2 x 12.7 mm FN M3P machine guns + 6 x FFAR Mighty Mouse rockets
 * 4 x ATAS (AIM-92) missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 12.7 mm FN M3P machine guns (250 rpg)
-| || 1* || 1* ||
-|-
-! FFAR Mighty Mouse rockets
-| || 3*, 19 || 3*, 19 ||
-|-
-! APKWS II (M151) missiles
-| || 7 || 7 ||
-|-
-! APKWS II (M282) missiles
-| || 7 || 7 ||
-|-
-! ATAS (AIM-92) missiles
-| 2 || || || 2
-|-
-! HOT-3 missiles
-| || 2, 4 || 2, 4 ||
-|-
-! PARS 3 LR missiles
-| || 4 || 4 ||
-|-
-| colspan="6" | * Gunpods can be carried concurrently with triple FFAR rockets on the same hardpoint
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -166,7 +165,7 @@ When deployed properly, the Tiger UHT is a great addition to any line-up. What i
 * Has RWR and MAW
 * Low thermal signature
 * Thermal sight
-* Very high Zoom on the optics 
+* Very high Zoom on the optics
 * PARS-3 can be used against aircraft
 
 '''Cons:'''

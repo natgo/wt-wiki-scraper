@@ -1,3 +1,8 @@
+{{About
+| about = gift French jet fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Mystere (Family)
+}}
 {{Specs-Card
 |code=md_460_yt_cup_2019
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced during [[Update 1.89 "Imperial Navy"]] as a grand prize for the [[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|2019 YouTube Cup]].
+The French '''Super Mystère B2''' was designed, developed and manufactured by Dassault Aviation as a multi-role fighter-bomber, a niche which would later encompass such aircraft as the [[F-105D|F-105 Thunderchief]] and the [[F-4C Phantom II|F-4C Phantom]] which could not be pigeon-holed into one type of combat role. The multi-role function created a combat multiplier with just one aircraft instead of needing several specialized aircraft to do certain jobs. A last-minute change of targets could allow for weapons change or multiple types of ordnance can be carried to take on one or more roles during a combat run. The Super Mystère is the culminating aircraft in a series of four other predecessors before it. Initially starting with the [[M.D.450B Ouragan|Dassault Ouragan]], modifications and upgrades led to the Mystère II, Mystère III and [[Mystere IVA|Mystère IV]]. The Mystère series fighters while quick could not go supersonic except during a dive whereas, like many of the newer aircraft of the time, the Super Mystère had swept wings which allowed it to achieve supersonic flight during level flight. The Super Mystere B2 was France's first aircraft capable of reaching supersonic speeds in level flight, which meant that it also was very attractive to other nations in the weapons market, it was exported to Israel, El Salvador and Honduras, and it helped solidify France as a major weapons producer.
+
+It was introduced during [[Update 1.89 "Imperial Navy"]] as a grand prize for the [[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|2019 YouTube Cup]]. The Super Mystere B2 can fulfil a multi-role function by either being a fighter-interceptor or a fighter-bomber. Outfitted with the afterburner, this fighter can easily become an interceptor either going after fighters or bombers. This fighter is outfitted with two 30 mm DEFA 552 autocannons as its main weapon and also can be fitted with SNEB type 23 rockets, T10 151 rockets, AA-20 Nord missiles or AIM-9B Sidewinder missiles for air to air combat. Though the rockets and missiles are not a guarantee that the enemy will be hit and go down, always be ready to follow up with the DEFA 552 as the enemy fighter will most likely be in an energy-drained situation and a relatively easy target to mop up with the autocannon.Though relatively nimble and quick when outfitted for air-to-air combat, things change when switched to ground-pounding. The speed and manoeuvrability trade-off is worth it as this fighter converted to a bomber can carry a hefty payload for an aircraft of its size. Ground-attack rockets are a good option especially with the T10 151 or SNEB type 23 to focus on attacking lighter clustered targets. For direct bomb-to-target ordnance, the aircraft has the choice of outfitting either 1,000 or 2,000 lbs of bombs, enough to do serious damage to larger ships, hardened targets and bases.
 
 == General info ==
 === Flight performance ===
@@ -162,6 +169,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 2 x AA-20 Nord missiles
@@ -183,9 +191,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -201,6 +211,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -209,6 +220,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

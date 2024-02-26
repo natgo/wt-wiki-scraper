@@ -10,12 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+The '''{{Specs|name}}''' is an export version of the Soviet [[T-72A]], carrying mostly the same characteristics of the original version in terms of armament, mobility, and armour, though the latter has some slight changes with applique armour on the front glacis. Finland bought a total of 162 T-72s from the Soviet Union and Eastern Germany to be used by the Finnish army. They entered service in 1984 and remained as their primary Main Battle Tank until 2004 when they were phased out for the Leopard 2A4.
 
-The '''{{Specs|name}}''' an export version of the Soviet [[T-72A]], the T-72M1 carries mostly the same characteristics of the original version in terms of armament, mobility, and armour, though the latter has some slight changes with an applique armour on the front glacis. Finland bought a total of 162 T-72's from the Soviet Union and Eastern Germany to be used by the Finnish army and were not entering service till 1984 and were remaining in service as their primary Main Battle Tank till 2004 where they got phased out for the Leopard 2A4's.
-
-The '''{{Specs|name}}''' is an Swedish medium tank. It was introduced in [[Update "Fire and Ice"]] as part of the Finnish line in the Swedish tech tree bolstering the line up. being an export version of the [[T-72A]] gives it a similar playstyle to it among with the other nations '''T-72M1'''. Due to the [[T-72 (Family)|T-72]]s low profile that makes it a smaller target to hit which gives it advantages and disadvantages, due to the small size it's a vehicle easier to take cover behind objects and landscapes but it will also come at the cost of crew compartment being narrow making it easier for enemy vehicles to take out the crew with a well placed shot. Like most T-model tanks the {{Specs|name}} comes with an autoloader making the loss of the loader not as devastating as a normal loaded tank due to the reload process being automated, but it also comes with the cost of all ammunition being stored beneath the turret in a so called ammo carousel making them prone to ammo detonating with ease if the lower part of the hull being hit by an enemy shell. T-72M-1 got great mobility when moving forward and can navigate through the maps with relative ease, but due to its poor performing reverse speed makes it difficult to reverse its way out from dangerous situations to get behind cover, making it an unforgiving tank if make the mistake of advancing too far out of coverage. But overall it's a well balanced vehicle and will get the work done when get the grip around the characteristic of the {{Specs|name}}.
-
-
+The '''{{Specs|name}}''' was introduced in [[Update "Fire and Ice"]] as part of the Finnish line in the Swedish tech tree bolstering the line up. Being an export version of the [[T-72A]], it has a similar playstyle to the T-72s of other nations. Its low profile makes it a smaller target to hit which gives it advantages and disadvantages, due to the small size it's easier to take cover behind objects and terrain, but it will also come at the cost of crew compartment being narrow making it easier for enemy vehicles to take out the crew with a well-placed shot. Like most T-model tanks, the {{Specs|name}} comes with an autoloader making the loss of the loader not as devastating as a normal loaded tank due to the reload process being automated, but it also comes with the cost of all the ammunition being stored beneath the turret in an ammo carousel, making them prone to ammo detonating with ease if the lower part of the hull is hit by an enemy shell. The T-72M-1 has great mobility when moving forward and can navigate across maps with relative ease, but due to its poor performing reverse speed, it can be difficult to reverse its way out from dangerous situations to get behind cover, making it an unforgiving tank if it advances too far out of cover.
 
 == General info ==
 === Survivability and armour ===
@@ -95,7 +92,7 @@ The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce 
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''44''' 
+| '''44'''
 |''Projectiles''<br>''Propellants''
 | 40 ''(+4)''<br>40 ''(+4)''
 | 29 ''(+15)''<br>29 ''(+15)''
@@ -143,7 +140,7 @@ The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-One of the key strengths of the T-72M1 is its armour. The quartz core composed turret will bounce many shots and can even eat up some ATGMs. In terms of armament, the T-72M1 boasts the very powerful and accurate [[2A46M (125 mm)|125 mm 2A46M]] gun that Soviet T-72A tankers will already be familiar with. Make sure to research the 3BM15 APFSDS round as soon as you can (after Parts and FPE), as the stock HEATFS round has some shortcomings. 
+One of the key strengths of the T-72M1 is its armour. The quartz core composed turret will bounce many shots and can even eat up some ATGMs. In terms of armament, the T-72M1 boasts the very powerful and accurate [[2A46M (125 mm)|125 mm 2A46M]] gun that Soviet T-72A tankers will already be familiar with. Make sure to research the 3BM15 APFSDS round as soon as you can (after Parts and FPE), as the stock HEATFS round has some shortcomings.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

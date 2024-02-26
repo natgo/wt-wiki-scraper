@@ -11,11 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (nicknamed ''"Gina"'') is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]] along with the initial Italian aviation tree.
+The '''{{Specs|name}}''' was a light subsonic fighter developed by Fiat in the late 1950s, it was a great success being introduced in the Italian, German and Portuguese air force. The objective of said fighter was to create a cheap, light fighter-bomber capable of becoming the standard between all NATO nations, this was due to the experience of the US and UN forces in the Korean War, and the introduction of more capable jet engines, that pushed the NATO Command to set a competition for this role. A total of 756 aircraft were built in a span of 19 years. The first preproduction variant of this aircraft was employed to test wing slats and disposable fuel tanks in the wings, and lacked many of the specialized features of future models, like reconnaissance and CAS equipment.
 
-A mid 1950s transonic fighter (< Mach 0.98) with ground attack abilities. Very manoeuvrable, but with a light offensive armament makes the G.91 with its young age a difficult starter aircraft into the jet era. Especially as it will fly in fierce competition in the sky, facing every sub- and transonic aircraft and being smack in the middle performance wise.
-
-There is little change between the Pre-serie, [[G.91 R/1|R/1]], [[G.91 R/3|R/3]] and the [[G.91 R/4|R/4]], and this guide can be considered universal for all listed aircraft.
+It was introduced in [[Update 1.69 "Regia Aeronautica"]] along with the initial Italian aviation tree. The '''{{Specs|name}}''' is a mid 1950s transonic fighter (< Mach 0.98) with ground attack abilities. Very manoeuvrable, but with a light offensive armament, the G.91 with is a difficult starter aircraft into the jet era. Especially as it will fly in fierce competition in the sky, facing both sub- and transonic aircraft and being smack in the middle performance-wise. Since it lacks offensive air-to-air missiles and a powerful enough engine, it should be used in a support role but it can also find very good use on the frontline in the hands of a skilled pilot.
 
 == General info ==
 === Flight performance ===
@@ -162,6 +160,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 4 x 12.7 mm M3 Browning machine guns (300 rpg = 1,200 total)
 * 4 x 12.7 mm M3 Browning machine guns + 38 x FFAR Mighty Mouse rockets
 * 4 x 12.7 mm M3 Browning machine guns + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
@@ -212,6 +211,7 @@ Critics said Fiat had just copied the F-86 Sabre, which it was manufacturing und
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fiat_g91_ps Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

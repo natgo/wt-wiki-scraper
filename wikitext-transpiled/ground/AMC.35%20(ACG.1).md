@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (Renault combat machine gun car AMC.35 (ACG.1)) is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. The {{PAGENAME}} has a good armament but a poor mobility for a lightly armoured vehicle. It is one of the few French vehicles in rank I to have a 2-man turret.
+The '''{{Specs|name}}''' was an improved version of the earlier AMC.34 light tank. It faced issues with mechanical reliability and lack of armour, leading to its rejection by the French army. Initially armed with a 25mm gun, it was later upgraded to a 47mm gun. The Belgian Army bought 12 ACG.1 tanks, equipped them with Belgian guns, but they were destroyed or captured during the fall of Belgium. In France, production continued at a slower pace, with less than 50 vehicles made. These tanks saw limited service due to mechanical issues and were pressed into emergency action during WWII.
+
+It was introduced in [[Update 1.75 "La Résistance"]]. The AMC.35 (ACG.1) features mediocre armour and poor mobility, but decent firepower. Thanks to an additional loader in the turret, the vehicle has a good reload speed, especially when compared to the AMC.34, however it also has less turret armour, being now easily penetrated from any part of the vehicle. The tank has good penetration power, but the gun's ballistics are worse than other reserve tanks such as the [[M2A4]] and the [[BT-5]]. A good thing about the vehicle is its access to a vertical stabilizer, which makes taking shots while moving at low speeds easier.
 
 == General info ==
 === Survivability and armour ===
@@ -154,6 +156,7 @@ Meanwhile in France, production had resumed at a reduced rate, with something le
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amc_35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -165,6 +168,7 @@ Meanwhile in France, production had resumed at a reduced rate, with something le
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with a similar chassis
+
 * [[AMC.34 YR]]
 
 == External links ==

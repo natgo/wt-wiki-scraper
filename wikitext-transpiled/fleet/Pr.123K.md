@@ -12,7 +12,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet motor torpedo boat {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game.
+The '''Pr.123K''' represents an upgraded iteration of the [[Pr.123-bis]] MTB. In 1950, the Soviet Navy required reinforcement of the Pr.123-bis hull due to the transition from American Packard petrol engines to domestic M-50 diesel engines. The original hull structure couldn't withstand the demands imposed by these new engines. Moreover, with the discontinuation of the production of the [[DShK (12.7 mm)|DShK]] 1938 heavy machine gun, the designers opted to replace it with twin 14.5 mm [[KPV (14.5 mm)|KPV]] heavy machine guns. Additionally, these upgrades included advancements in electronics, encompassing navigation, target acquisition, and a friend-or-foe identification system.
+
+This vessel was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was introduced into the game. The model was equipped solely with twin 14.5 mm KPV heavy machine guns, contrasting the earlier model's configuration of two twin 12.7 mm DShK heavy machine guns. Despite having half the number of machine guns compared to the previous model, the KPV proved formidable as a heavy machine gun, capable of inflicting significant damage on enemy boats and certain armored vessels due to its API ammunition. Furthermore, it carried two [[45-36NU (450 mm)|45-36NU]] torpedoes, ideal for targeting slower-moving vessels or lower-ranked destroyers and frigates. Additionally, it carried four [[BB-1 depth charge|BB-1]] depth charges, which, if used correctly, could destroy enemy boats and cause massive damage to enemy destroyers.
 
 == General info ==
 === Survivability and armour ===
@@ -98,15 +100,18 @@ In total, 205 Pr.123K boats were built between 1949 and 1951, several years afte
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_pr_123k Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

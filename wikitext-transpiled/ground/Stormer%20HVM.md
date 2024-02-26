@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a variant of the Alvis Stormer AFV that was designed to provide short-range air defense for British ground forces. It was created in response to the growing danger of attack helicopters, such as the Soviet Mi-24 Hind. The British Army opted for the Starstreak missile due to its three-dart warhead, which can overcome both armour and countermeasures. The Stormer's chassis offered excellent crew protection and mobility, making it a suitable platform for the Starstreak missile. The vehicle can hold a maximum of 12 Starstreak missiles, which can destroy low-flying targets, including helicopters, jets, and drones, up to 7 km away. The Stormer HVM entered service in 1997 and was later deployed to Iraq. Oman also purchased some for their own defense needs, while Ukraine received some of the units. As air threats to Western forces diminished, the British Army retired the Stormer HVM in 2009 and sought more advanced alternatives like the Sky Sabre.
 
-The {{Specs|name}} was introduced in [[Update 1.89 "Imperial Navy"]]. It is a unique and powerful vehicle that can challenge any airborne opponent with its missiles. However, despite its capabilities, the Stormer HVM does have some drawbacks. One of the main drawbacks is its limited range. With a maximum range of 7 km, it will not be able to engage targets that are located further away. Additionally, the Stormer HVM's effectiveness may be reduced against highly maneuverable and fast-moving aerial threats. Overall, it is best used as an early-spawn vehicle to quickly neutralize helicopters and possibly engage lightly armoured targets.
+The {{Specs|name}} was introduced in [[Update 1.89 "Imperial Navy"]]. It is a unique and powerful vehicle that can challenge any airborne opponent with its missiles. However, despite its capabilities, the Stormer HVM does have some drawbacks. One of the main drawbacks is its limited range. With a maximum range of 7 km, it will not be able to engage targets that are located further away. Additionally, the Stormer HVM's effectiveness may be reduced against highly manoeuvrable and fast-moving aerial threats. Overall, it is best used as an early-spawn vehicle to quickly neutralize helicopters and possibly engage lightly armoured targets.
 
 == General info ==
 === Survivability and armour ===
@@ -64,11 +64,11 @@ Do not race against Japanese [[Type 90]] and Italian scout tank [[Centauro ROMOR
 
 The {{PAGENAME}} uses surface-to-air Starstreak missiles and their unique properties make it hard to use them for anything else. There are 8 of them mounted on the turret and there are 8 more spares in the back of the tank.
 
-The missiles are launched in two stages - the carrier missile and the "darts". The information in the stat-card is presented for the carrier missile and differs from the actual payload unleashed after ~580 m of flight.
+The missiles are launched in two stages - the carrier missile and the "darts". The information in the stat-card is presented for the carrier missile and differs from the actual payload unleashed after ~450 m of flight. The main missile has a very bright engine flare, while the mini missiles are very dim and difficult to follow without thermal sight. 
 
 In spite of the indicated top speed, Starstreaks bleed their speed very fast when forced to chase jets at an angle, so consider practising fire discipline or look for spots from which you can hit them head-on or in the back.
 
-The missiles are guided by a laser, which makes them trigger LWS upon launch, but also allows to guide multiple launches at once and renders jammers and most countermeasures useless.
+The missiles are guided by a laser, which makes them trigger LWS upon launch, but also allows to guide multiple launches at once (generally, up to two) and renders jammers and most countermeasures useless.
 
 ==== Ammunition ====
 {{:Starstreak/Ammunition|Starstreak HVM}}
@@ -98,13 +98,14 @@ The missiles are guided by a laser, which makes them trigger LWS upon launch, bu
 
 ===Radars===
 
-Stormer HMV uses special infrared search devices to detect targets. While they have a significantly shorter range than "normal" radar and cannot tell the range towards target until specifically locked onto it, they can tell which targets are friendly and do not target them, or at least specifically mark them as "friendly". They also scan Stormer HVM surroundings approximately 6 times a second even when locked on, which makes bypassing it next to impossible.
+Stormer HMV uses special infrared search devices to detect targets. They have a significantly shorter range than "normal" radar and cannot tell the range towards target until specifically locked onto it. They also scan Stormer HVM surroundings approximately 6 times a second even when locked on, which makes bypassing it next to impossible. 
 
-Infrared detectors are invisible to "radar detectors" and will not alert helicopters or supersonic jets of your presence. There is no benefit in powering it down as of now.
+It is so sensitive, that it may spot random shells when they are fired and fly across the battlefield. The search system will react to flares launched during night battles, flooding it with fake targets and can lock onto rockets or flares launched by helicopters. It is possible to lock onto them by accident from sniper seat as well, but once the enemy aircraft was locked onto, the tracker will ignore everything else.
+
+Infrared detectors are invisible to "radar detectors" and will not alert helicopters or supersonic jets of SPAA presence. There is no benefit in powering it down as of now.
 
 Trees and smokes can completely block IRST system - if you cannot see your opponent yourself through thick forest, neither will the system.
 
-The search system will react to flares launched during night battles and flares launched by helicopters. It is possible to lock onto them by accident as well, but once the enemy aircraft was locked onto, the tracker will ignore everything else.
 
 {| class="wikitable" style="text-align:center"
 ! colspan="5" | Thales ADAD - Passive Infared Search
@@ -132,7 +133,7 @@ The search system will react to flares launched during night battles and flares 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-It is best to hide from sight of others when using this SPAA - move around battlefield and use terrain and caves as a hiding spot for yourself. Exploit mobility upgrades to stand on mountain edges, if necessary.
+It is best to hide from sight of others when using this SPAA - move around battlefield and use terrain and caves as a hiding spot for yourself. At the same time, you want to have at least some form of high ground so that when enemy aircraft accidentally exposes itself, you can put an end to it immediately. Exploit mobility upgrades to stand on mountain edges, if necessary.
 
 Avoid participating in direct combat with medium tanks at any cost, as you definitely will not help in winning the fight directly and they might use the gigantic ammo rack as a way to destroy your allies. The only logical exception is if you are supporting allied ATGM tank by removing hostile tank ERA and turning their attention towards you, then immediately retreat. Any attempts to do sneaky shots on medium tanks should only be done if you are sure it's worth it.
 
@@ -156,7 +157,7 @@ At short ranges other SPAA, SPG and light tanks are fair game and it is preferab
 
 ;After ~450 m
 
-Three missiles disassemble from carrier missile and start increasing their speed to the extreme, easily reaching 1178 m/s. To not lose control over their movement due to speed, they constantly spiral. Missiles have acceptable agility and will instantly react to any scope movements, so aim them using sniper mode. Be quick and precise, if possible.
+Three missiles disassemble from carrier missile and start increasing their speed to the extreme, easily reaching 1178 m/s in a straight line. To not lose control over their movement due to speed, they constantly spiral. Missiles have acceptable agility and will instantly react to any scope movements, so aim them using sniper mode. Be quick and precise, if possible.
 
 They have minimal penetration and, mostly due to their spiralling nature, aiming them at ground forces is practically pointless, unless you try to disintegrate tanks which have little to no armour, like other SPAA or ATGM tanks - in the case of such tanks, if you somehow hit their weak spot, they still can be destroyed by smaller missiles, so it is worth trying.
 
@@ -165,18 +166,18 @@ Medium tanks will shrug off Starstreaks and usually it does little more than jus
 [[File:Stormer HMV passive system lock on.jpg|right|thumb|325px|Make sure there aren't any trees around or the lock will become unstable.]]
 '''Against air targets:'''
 
-To helicopters, the missiles usually are fatal, as they are almost bound to get hit by at least one of Starstreaks, and explosion either tears off the tail or knocks out the pilot. However, even in the case of this missile, there are cases when Support helicopters somehow survived a direct hit, so you might want to launch two attacks at once just to be sure.
+To helicopters, the missiles usually are fatal, as they are almost bound to get hit by at least one of Starstreaks, and explosion either tears off the tail or knocks out the pilot. However, even in the case of this missile, there are cases when Support helicopters somehow survived a direct hit, so you might want to launch two attacks at once just to be sure. You might want to stay a bit closer to the middle of the battlefield just because top ATGM helicopters have a 1 km range advantage over Starstreak missiles, but such positioning will also make you easier to find.
 
-To use the missiles against moving aircraft (mainly, planes) properly, you need to lock on to an aerial target. The IRST system cannot tell you where the targets really are, just the direction they're in. Instead of wasting time while looking for them manually, simply lock onto any target on your "radar" display via hotkeys like with [[Chieftain Marksman]] and turret will near instantaneously turn towards them by itself.
+To use the missiles against moving aircraft (mainly, planes) properly, you need to lock on to an aerial target. The IRST system cannot tell you where the targets really are, just the direction they're in, so if you already see the plane, it's probably better to lock on from the sniper sight. If you don't already see them, instead of wasting time while looking for them manually, simply lock onto any target on your "radar" display via hotkeys from third person view like with [[Chieftain Marksman]] and the turret will near instantaneously turn towards them by itself. Keep in mind that the system can target allies and random things like shells, fires and flares, so don't immediately fire if turret turns towards your airfield.
 [[File:Stormer HVM hit with weird lock-on data.jpg|right|thumb|325px]]
 
 As could be seen on the screenshots, in full IRST mode sniper crosshair tries to imitate the drag of missile as it tracks the aircraft, and by keeping sniper crosshairs on plane or helicopter you can guide your missiles towards an aircraft. Keeping '''an actual missile''' on target is more important, however, as system accuracy is generally far from stellar and it shouldn't be trusted too much.
 
 {{Notice| "Targeting" and "leadership" on your crew should be maxed out. This SPAA cannot track targets properly without it and should not be used by a level 1 crew. You have been warned.|!}}
 
-Do note, that a plane approaching at a sharp angle will mess with turret automatic guidance, due to it passing by too fast.
+Do note, that a plane approaching at a sharp angle will mess with turret automatic guidance, due to it passing by too fast. It is also very difficult for the darts to catch up to jets not flying straight away from or towards the Stormer HVM at speeds above 600 km/h, as the missiles either bleed their speed very fast or just pass them by as they gain a sudden speed boost. Due to this, Stormer HVM struggles with manoeuverable CAS planes.
 
-It is also very difficult for the darts to catch up to jets not flying straight away from or towards the Stormer HVM at speeds above 600 km/h, as the missiles bleed their speed very fast. It's better to attack when jet is further than 3 km away, slows down or flies in a straight line, so that you can attempt to adjust the shot yourself.
+It's better to attack when jet is further than 3 km away, slows down or flies in a straight line, so that you can attempt to adjust the shot yourself. If you want to attack planes at shorter ranges, you must acquire thermal sight to be able to comprehend what happens during the missile launch, as otherwise the missiles are too difficult to properly see and it becomes nigh impossible to "catch" the moment when they get the sudden speed boost, which generally happends at exactly 1 km range. Even with thermal sights calibrated to the user preference, without rigorous practice such attack will probably result in a miss more than once.
 
 The Stormer HVM has huge gaps in optics: 10-40X optics, which can be manually adjusted during AA duty, simply hitting "maximum zoom" will probably result in a miss at some angles of attack.
 

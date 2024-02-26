@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French bomber {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]].
+The '''{{Specs|name}}''' was an adaptation of the Bloch MB.170 for naval purposes. After WWII, France had to use any aircraft to its disposal to rearm their air force; thus the {{Specs|name}} was created, the most important upgrade being the introduction of a single F5W torpedo, which, paired with the aircraft's long range, made it suitable for maritime patrol. The aircraft was retired in 1950 with the introduction of more modern fighter-bombers like the F6F.
 
-Although called a "bomber", with its hard-hitting armament of two 20mm [[MG 151/20 (20 mm)|MG 151/20]] cannons, this plane should be used in a more aggressive role as an attacker, or even a bomber interceptor. The HVAR rockets and the MG 151/20s make it a perfect counter to the much-feared [[BV 238]].
+It was introduced in [[Update 1.83 "Masters of the Sea"]]. Although called a "bomber", with its hard-hitting armament of two 20 mm [[MG 151/20 (20 mm)|MG 151/20]] cannons, this plane can be used in a more aggressive role as an attacker, or even a bomber interceptor. The HVAR rockets and the MG 151/20s make it a perfect counter to the much-feared [[BV 238]]. Meanwhile, for naval battles, having access to an F5W torpedo gives you the chance to destroy a single ship with a good launch, however the aircraft's large size makes it easy for enemy AA to target you and shoot you down.
 
 == General info ==
 === Flight performance ===
@@ -149,7 +149,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 '''Pros:'''
 
-* Has air brakes 
+* Has air brakes
 * Quite manoeuvrable for its size
 * 12 x HVAR rockets as basic payload
 * Armed with two powerful 20 mm MG 151 with a large ammo pool for each

@@ -159,6 +159,8 @@ For maps with little to no cover, your best bet is to find some ASAP, even if it
 
 A recommendation is to use all M344A1 HEAT till you have got used to aiming the weapon then perhaps try using the HESH approach to see if you get better results. There is no specific enemy for the Type 60 SPRG due to the extremely light armour and in some place absence of armour, a gap between the dual 106 mm M40 and the hull in front of the commander, makes the Type 60 SPRG extremely vulnerable to even return machine gun fire.
 
+When using M361A1 HESH rounds, try to aim for cupolas and exposed upper/side surfaces. Typically this will let you destroy or disable an opposing vehicle in one or two shots, even from the front. While the round has mediocre penetration, it only ricochets at extreme angles so aim for weak spots, even if they're at an angle. Furthermore, the low muzzle velocity aids in this strategy, with the arc making it easier to land shots on the top surfaces of enemy tanks, especially at range. Due to the very high lethality, using one barrel to range instead of the MG is often viable, and can result in a quicker kill. If taking it into higher battle ratings, your shots will need to be more precise due to the prevalence of reactive and composite armour, but the same overall strategy applies.
+
 If at all possible you should approach an opposition target from the left as this will allow the driver's viewing port to extend past the gap in the armour prevent the opposition targets from machine-gunning directly into the interior of the tank.
 
 === Pros and cons ===
@@ -167,6 +169,7 @@ If at all possible you should approach an opposition target from the left as thi
 '''Pros:'''
 
 * HEAT rounds have impressive penetration which can hit and destroy a majority of tanks with one or two rounds
+* HESH rounds have exceptional lethality against even hull-down tanks, as top surface weak spots are common
 * Alternating guns usage typically leads to a faster reload rate compared to other tanks it will face
 * Quite nimble
 * Low profile

@@ -88,7 +88,7 @@ If engaging an enemy destroyer which has not noticed the VS-8, come along side t
 
 Without mines installed, the VS-8 becomes an gunship, its lighting fast speed, its four MG 151 cannons, and its good manoeuvrability at high speed allow for it to sneak up to the capture points and take them before the enemy. It also allows for the ship to set up ambushes by heading full speed into places that conceal the ship i.e. caves, buildings, behind walls or rocks.
 One of the competitive advantages of the VS-8 is its size, since the ship is long most enemy players will shoot its aft section. When the mines have not been equipped, most of the bullets will pass though the ship since this section is empty and contains no critical elements. The only rounds that will cause a major issue are HE rounds since they explode on or just after contact with a surface. Even a few shots could penetrate the rear ammunition storage room, which is located in the mid-section and set it off. 
-The VS-8 is a great coastal ship hunter in this configuration, the lack of mines allows for it to get close without the fear of denotating without warning in combat. 
+The VS-8 is a great coastal ship hunter in this configuration, the lack of mines allows for it to get close without the fear of detonating without warning in combat. 
 
 '''How to defeat another VS-8 in combat'''
 

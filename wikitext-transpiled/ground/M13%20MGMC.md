@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American Self-Propelled Anti-Aircraft (SPAA) vehicle {{Battle-rating}}. It was one of the first American tanks to be released with the American ground tree in [[Update 1.45 "Steel Generals"]].
+The '''M13 Multiple Gun Motor Carriage (MGMC)''' is the first variant of the M3 half-track-based self-propelled anti-aircraft gun family. The White Motor Company produced it between July 1942 and May 1943 in response to a requirement for a mobile anti-aircraft vehicle. It evolved from a series of unsuccessful prototypes tested between 1940 and 1942. It was only used in combat once, when the U.S. Army landed at Anzio in January 1944, before being replaced by the more heavily armed [[M16 MGMC|M16 Multiple Gun Motor Carriage (MGMC)]] in April 1944.
 
-The M13 MGMC is an M3 half-track with a dual-mounted .50 calibre M2 Browning machine guns on the rear. The .50 calibre machine guns are mounted in a Maxson M33 Twin Mount. Each machine gun has 200 rounds each, giving it a total of 400 rounds before reloads. Due to this armament, the M13 is foremost an SPAA that relies on its mobility and fire rate to destroy aircraft, or very thinly-armoured tanks. However, when compared to other tanks of its rank, the M13 is a relatively weak vehicle. The MG-only armament gives the M13 exceptional AAA potential, but not much else.
+Introduced in [[Update 1.45 "Steel Generals"]], the M13 MGMC is a lightly armoured vehicle. The armour on the M13 MGMC is very thin, and the lack of sloping makes it an easy target. As a result, rely on its exceptional maneuverability, handling, and speed to stay in cover at all times. Although the main armament can penetrate some light tanks, engaging them as the primary objective is not recommended. When confronted with an artillery barrage, always reposition, as the fragments can easily destroy this vehicle.
 
 == General info ==
 === Survivability and armour ===
@@ -155,6 +155,7 @@ The M13 MGMCs joined the US army's AA battalions. By the time the allies landed 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_halftrack_m13 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

@@ -1,3 +1,8 @@
+{{About
+| about = SPAA '''{{PAGENAME}}'''
+| usage = the other version
+| link = Imp.Chaparral
+}}
 {{Specs-Card
 |code=il_mim_72_chaparral
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -93,15 +98,14 @@ Introduced in [[Update "Sons of Attila"]], the Israeli Chaparral is equipped wit
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-*
+* Smokeless motor missile makes enemy aircraft unable to detect incoming launch
 
 '''Cons:'''
 
-* 4 exposed crew with only one protected crew inside the turret, susceptible to even 7.62mm machine gun fire which can lead to a crew knockout
+* 4 exposed crew with only one protected crew inside the turret, susceptible to even 7.62 mm machine gun fire which can lead to a crew knockout
 * Open top vehicle, very vulnerable to overpressure from HE shells, rockets, artillery strikes, and bombs
 
 == History ==
@@ -119,24 +123,23 @@ These new Chaparral vehicles would only serve in the IDF for another 4 years aft
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_mim_72_chaparral Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Imp.Chaparral]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wt:en/news/8445-development-improved-chaparral-oppa-chaparral-style-en|[Devblog] Improved Chaparral: Oppa Chaparral Style!]]
 
 {{Israel anti-aircraft vehicles}}

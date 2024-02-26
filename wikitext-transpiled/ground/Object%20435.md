@@ -86,8 +86,8 @@ The 3OF11 is an ordinary HE shell containing 2.64 kg of TNT. While it's enough t
 {{:U-5TS (115 mm)/Ammunition|3BM4, 3BM3, 3BK4, 3OF11}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_Object_435.png|right|thumb|x250px|[[Ammo racks]] of the Object 435]]
+<!-- '''Last updated: 2.33.0.90''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -96,12 +96,17 @@ The 3OF11 is an ordinary HE shell containing 2.64 kg of TNT. While it's enough t
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 ! 5th<br>rack empty
-! 6th<br>rack empty
-! Visual<br>discrepancy
+!Visual<br>Discrepancy 
 |-
-| '''37''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''37''' || 37&nbsp;''(+0)'' || 35&nbsp;''(+2)'' || 11&nbsp;''(+26)'' || 9&nbsp;''(+28)'' || 1&nbsp;''(+36)'' || No 
 |-
 |}
+Notes:
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Rack 5 is a first stage ammo rack. It totals 8 shells and gets filled up first when loading up the tank.
+** This rack is also emptied early: the depletion order at full capacity is: 5 - 1 - 2 - 3 - 4.
+** Simply not firing when the gun is loaded will move ammo from racks 1-4 into rack 5. Firing will interrupt the restocking of the ready rack.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

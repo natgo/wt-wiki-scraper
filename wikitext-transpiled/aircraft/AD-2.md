@@ -11,11 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.49 "Weapons of Victory"]].
+The '''{{Specs|name}}''' Skyraider was designed during WWII for the US Navy but didn't see action in that war, for said purpose it was meant to carry bombs and torpedoes just like the dive and torpedo bombers in service. It had a more powerful Wright engine. The aircraft never served in WWII, but it did serve during the Korean and Vietnam War. There were very few differences between the AD-1, AD-2 and AD-3, with the AD-4 being the first with very major improvements in the Skyraider series.
 
-The Skyraider is one of the most iconic propeller-driven ground attack aircraft of the Korean and Vietnam wars. Likewise, its armament certainly lives up to that. Even early on, the 12 HVARs you have can be devastating when used against light pillboxes and medium tanks, quickly turning a very tidy profit with a total of 8 possible launches. Generally your job is to inflict as much damage on the enemy tickets as possible, through pillboxes, ships and tanks.
-
-The AD-2 Skyraider is a high rank American monoplane strike aircraft with a perfect combination of flight performance and payload. It has decent performance and guns, and can carry a massive payload of well over 4,000 lb of equipment, including rockets, bombs, and torpedoes. The Skyraider has a far forward cockpit, improving visibility and an airbrake capable enough of dealing with steep dives for maximum time on target.
+It was introduced in [[Update 1.49 "Weapons of Victory"]]. The Skyraider is one of the most iconic propeller-driven ground attack aircraft of the Korean and Vietnam wars. Likewise, its armament certainly lives up to that. Even early on, the 12 HVARs you have can be devastating when used against light pillboxes and medium tanks, quickly turning a very tidy profit with a total of 8 possible launches. Generally your job is to inflict as much damage on the enemy tickets as possible, through pillboxes, ships and tanks. The AD-2 Skyraider is a high rank American monoplane strike aircraft with a perfect combination of flight performance and payload. It has decent performance and guns, and can carry a massive payload of well over 4,000 lb of equipment, including rockets, bombs, and torpedoes. The Skyraider has a far forward cockpit, improving visibility and an airbrake capable enough of dealing with steep dives for maximum time on target.
 
 == General info ==
 === Flight performance ===
@@ -146,6 +144,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 12 x HVAR rockets
 * 2 x Tiny Tim rockets
@@ -216,6 +215,7 @@ The piston-engine Skyraider was designed during World War II to meet United Stat
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=douglas_ad_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -227,9 +227,11 @@ The piston-engine Skyraider was designed during World War II to meet United Stat
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * Douglas [[A2D-1|A2D]] ''Skyshark''
 
 ;Aircraft of comparable role, configuration and era
+
 * Aichi [[B7A2|B7A]]
 * Martin [[AM-1|AM]] ''Mauler''
 * Westland [[Wyvern S4|Wyvern]]

@@ -1,7 +1,9 @@
 {{About
 | about = Swedish tank destroyer '''{{PAGENAME}}'''
-| usage = the other version
-| link = Pvkv III
+| and
+| usage = other versions
+| link-1 = Pvkv III
+| link-2 = Pvkv IV
 }}
 {{Specs-Card
 |code=sw_pvkv_II
@@ -10,7 +12,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+The '''{{Specs|name}}''' a prototype tank destroyer designed by Landsverk in the late '40s, representing one of the concepts aimed at repurposing the ageing [[Strv m/41 S-II]] chassis, as the 37 mm armament was deemed obsolete at that time. {{PAGENAME}} was equipped with a Lvkan m/37A, chosen for its superior anti-tank performance and suitability for anti-tank combat compared to the [[Kan m/38 (37 mm)|Kan m/38]]. While undergoing trials alongside the [[Pvkv III]], both concepts were regarded as outdated, leading to the decision not to deploy either into service.
+
+Introduced in [[Update 1.97 "Viking Fury"]] as an early tank destroyer boasting formidable firepower, the Pvkv II has a trade-off with its limited protection due to minimal armour and an open-top design, rendering it vulnerable to various threats. The Pvkv II excels in long-distance combat, utilizing its extended 75 mm range to function effectively as a sniper while minimizing exposure. Additionally, it serves well as a support tank, particularly when allied units encounter heavily armoured targets that the Pvkv II is adept at handling.
 
 == General info ==
 === Survivability and armour ===

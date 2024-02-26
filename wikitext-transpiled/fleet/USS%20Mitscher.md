@@ -50,7 +50,7 @@ The Mitscher has three type of shells; an HE shell with similar damage output to
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|3-inch Mk.34 (76 mm)}}
 
-''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
+The Mitscher also has four rapid firing 3-inch guns, placed in two turrets, that provide valuable supplementary firepower. However, the small calibre causes them to lose accuracy over long ranges, which, coupled with their tendency to slowly overheat, means that they are best used in close-range melees to help quickly eliminate threats. The HE-VT shell has less explosive filler than the regular HE shell, so captains should evaluate which one to use as their primary shell, depending on whether they want to focus more on surface or aerial threats 
 
 {{:3-inch Mk.34 (76 mm)/Ammunition|76 mm HC Mk.27, 76 mm HE-VT}}
 
@@ -59,7 +59,7 @@ The Mitscher has three type of shells; an HE shell with similar damage output to
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|20 mm/70 Oerlikon Mk.II (20 mm)}}
 
-''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.''
+With only four 20 mm Oerlikons, the Mitscher's dedicated anti-aircraft armament is quite average for its BR. Although useful as a last line of defense, in most cases these AA guns will only destroy enemy planes after they have dropped their weapons. It's much more advisable to keep an eye on the radar and eliminate aerial threats with the main guns from long range instead.
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
@@ -72,7 +72,8 @@ The Mitscher also has access to two 320 mm Alfa antisubmarine rocket launchers. 
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+
+Despite her post-war main guns, the Mitscher still has the lowest damage output among other US destroyers at this BR, especially at long ranges, in which case the [[USS Gearing]] and [[USS Sumner]] would be better choices. Nevertheless, she is an excellent support vessel and overall a fun ship to play with. Stay behind cover or teammates and help eliminate targets that they may have trouble dealing with. Her fast rangefinder allows the Mitscher to deal with agile vessels like torpedo boats with more ease, and her radar and HE-VT shells will keep the skies clear. Even if forced into combat with other bluewater ships, the Mitscher can still hold her own with her large crew count and very high-penetrating SAP shells.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -83,6 +84,9 @@ The Mitscher also has access to two 320 mm Alfa antisubmarine rocket launchers. 
 * Main turrets have good coverage and is fully traversable
 * Wide range of autocannons to deal against surface and aerial targets
 * Rockets can prove devastating at close range
+* Radar can calculate lead for anti-air duties with the main guns
+* Very fast rangefinding, only 6 seconds to measure and 3 seconds to update
+* SAP shell can penetrate all ships in her BR range
 
 '''Cons:'''
 

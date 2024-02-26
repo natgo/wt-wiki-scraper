@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The [[Fury Mk I|Hawker Fury]] entered service in 1931 and was the first RAF fighter to exceed 200 mph (320 km/h) in level flight. The Mark II was even faster and both types of Furies remained in service with various air forces right up to the start of WWII. A special version fitted with a Bristol radial engine was built for Iran/Persia, but most 'normal' Furies had a Rolls-Royce Kestrel of 525 hp or 640 hp. Many other versions of the Hawker Fury were made, including the Yugoslav, Persian, Norwegian, Portuguese and Spanish Furies. The Fury Mark II entered service in 1936, remaining with RAF fighter command until January 1939, replaced by other planes such as the Gladiator and Hurricane.
 
-The Hawker Fury Mk II is a slightly improved version of the Mk I, this time featuring WEP. Both of them are reserve planes for the British tree. They also have the same armament, 2 x 0.303 in (7.7 mm) Vickers Mk IV machine guns. Unlike the other Hawker reserve planes, both Furies are land-based fighters.
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Hawker Fury Mk II is a slightly improved version of the Mk I, this time featuring WEP. Both of them are reserve planes for the British tree. They also have the same armament, 2 x 0.303 in (7.7 mm) Vickers Mk IV machine guns. Unlike the other Hawker reserve planes, both Furies are land-based fighters. Like most biplanes, the Fury Mk II is very slow, but features very good handling, and is capable of very tight turns when compared to monoplanes, although it loses speed faster
 
 == General info ==
 === Flight performance ===
@@ -203,7 +203,7 @@ Nearly 300 Hawker Furies of all variants were built. Whilst obsolete as a fighte
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-* [https://en.wikipedia.org/wiki/Hawker_Fury [Wikipedia<nowiki>]</nowiki> Hawker Fury] 
+* [https://en.wikipedia.org/wiki/Hawker_Fury [Wikipedia<nowiki>]</nowiki> Hawker Fury]
 * [https://www.baesystems.com/en/heritage/hawker-fury [BAE Systems<nowiki>]</nowiki> Hawker Fury]
 * [https://haa-uk.aero/hawker-fury-beautiful-biplane-ever-built/ [Historic Aircraft Association<nowiki>]</nowiki> HAWKER FURY, THE MOST BEAUTIFUL BIPLANE EVER BUILT]
 

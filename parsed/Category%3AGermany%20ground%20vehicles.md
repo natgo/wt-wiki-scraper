@@ -12,6 +12,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|germ_pzkpfw_38t_na}}
 }}
+{{Tree-Skip}}
 |
 {{Tree-Group|germ_prewar_pz_iii_group|Pz.III B/E|
   {{Tree-Unit|germ_pzkpfw_III_ausf_E}}
@@ -22,6 +23,7 @@
 {{Tree-Unit|germ_pzkpfw_III_ausf_F}}
 {{Tree-Arrow}}
 {{Tree-Unit|germ_pzkpfw_III_ausf_J_L42}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|germ_pzkpfw_IV_ausf_C}}
 {{Tree-Arrow}}
@@ -36,6 +38,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|germ_pzkpfw_IV_ausf_F}}
 }}
+{{Tree-Skip}}
 |
 {{Tree-Group|germ_flakpanzer_1_group|FlakPz I/38(t)|
   {{Tree-Unit|germ_flakpanzer_I_ausf_A}}
@@ -367,21 +370,11 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|germ_schutzenpanzer_puma}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|germ_leopard_2k}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|germ_leopard_2a4}}
-{{Tree-Arrow}}
-{{Tree-Group|germ_leopard_2_group|Leopard 2 A5/A6|
-  {{Tree-Unit|germ_leopard_2a5}}
-{{Tree-Arrow}}
-{{Tree-Unit|germ_leopard_2a6}}
-}}
-{{Tree-Arrow}}
-{{Tree-Unit|germ_leopard_2a5_pso}}
-{{Tree-Skip}}
+{{Tree-Arrow|1}}
 |
 {{Tree-Group|germ_wiesel_gepard_group|Ozelot/Gepard 1A2|
   {{Tree-Unit|germ_wiesel_2_adwc}}
@@ -391,22 +384,44 @@
 {{Tree-Arrow}}
 {{Tree-Unit|germ_flarakpz_1}}
 {{Tree-Arrow}}
-{{Tree-Unit|germ_flarakrad}}
-{{Tree-Skip}}
 |
 {{Tree-Unit|germ_wiesel_1_tow}}
-{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|germ_leopard_2a4_pzbtl_123}}
 {{Tree-Skip}}
+{{Tree-Unit|germ_vilkas}}
+|
+{{Tree-Unit|germ_leopard_2_pt14}}
+{{Tree-Skip}}
+{{Tree-Unit|germ_leopard_2av}}
+
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+|
+{{Tree-Group|germ_leopard_2_group|Leopard 2 A5/A6|
+  {{Tree-Unit|germ_leopard_2a5}}
+{{Tree-Arrow}}
+{{Tree-Unit|germ_leopard_2a6}}
+}}
+{{Tree-Arrow}}
+{{Tree-Unit|germ_leopard_2a5_pso}}
+{{Tree-Arrow}}
+{{Tree-Unit|germ_leopard_2a7v}}
+{{Tree-Skip}}
+|
+{{Tree-Unit|germ_flarakrad}}
+{{Tree-Skip}}
+|
+{{Tree-Skip}}
+| style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|germ_leopard_2pl}}
 {{Tree-Skip}}
 {{Tree-Unit|germ_leopard_2a5_yt_cup_2019}}
 {{Tree-Skip}}
 |
-{{Tree-Unit|germ_leopard_2_pt14}}
-{{Tree-Skip}}
-{{Tree-Unit|germ_leopard_2av}}
 {{Tree-Skip}}
 
 {{Tree-End}}
@@ -415,6 +430,6 @@
 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|CBAvompXsWQ|'''The Shooting Range #319''' - ''Pages of History'' section at 03:24 discusses German heavy tank building.|zSQjqu6dcg8|'''Climbing the ranks with German tanks'''  - ''War Thunder Official Channel''|ECz5ah4dMvQ|'''Germany ground forces Tier I - Review and Analysis''' - ''Oxy''|fMjYjmXwzwA|'''Germany ground forces Tier II - Review and Analysis''' - ''Oxy''|GsCIbQ6TKIQ|'''Germany ground forces Tier III - Review and Analysis''' - ''Oxy''|XHXnRCjJI6g|'''Germany ground forces Tier IV - Review and Analysis''' - ''Oxy''|UH1uxsgZle8|'''Germany ground forces Tier V - Review and Analysis''' - ''Oxy''|Htx2jqp0aEA|'''Germany ground forces Tier VI & VII - Review and Analysis''' - ''Oxy''}}
+{{Youtube-gallery|8-G-l8eu_z8|'''Climbing the ranks with GERMAN TANKS, 2023 edition''' - ''War Thunder Official Channel''|CBAvompXsWQ|'''The Shooting Range #319''' - ''Pages of History'' section at 03:24 discusses German heavy tank building.|zSQjqu6dcg8|'''Climbing the ranks with German tanks''' - ''War Thunder Official Channel''|ECz5ah4dMvQ|'''Germany ground forces Tier I - Review and Analysis''' - ''Oxy''|fMjYjmXwzwA|'''Germany ground forces Tier II - Review and Analysis''' - ''Oxy''|GsCIbQ6TKIQ|'''Germany ground forces Tier III - Review and Analysis''' - ''Oxy''|XHXnRCjJI6g|'''Germany ground forces Tier IV - Review and Analysis''' - ''Oxy''|UH1uxsgZle8|'''Germany ground forces Tier V - Review and Analysis''' - ''Oxy''|Htx2jqp0aEA|'''Germany ground forces Tier VI & VII - Review and Analysis''' - ''Oxy''}}
 
 [[Category:Ground vehicles by country]]

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian fighter {{Battle-rating}}. It was introduced in [[Update 1.79 "Project X"]]. It is the first domestic-produced Romanian plane in the game, added into the Italian tree.
+The '''{{Specs|name}}''' was a Romanian fighter that was developed before but served in World War II. Developed from the IAR-80, the vehicle went through several modifications until reaching the IAR-81C standard, which was the latest wartime variant of the IAR-81. The C variant was requested by the Romanian Air Force in 1942, with a couple of improvements, mostly, improved offensive armament. The first order for 100 airframes was delivered, like all of the prior updates to the 81 series, with the centreline bomb rack removed to be used as fighters. An additional order for 35 was placed in February 1943, and then another 15 in January 1944. These aircraft were primarily to replace losses in earlier models while production of the Bf 109 G ramped up.
 
-This variant is the up-gunned version, designated 81C and it excels at ground support. Boasting good offensive firepower and decent payload options for a converted fighter, the IAR-81 is capable of multiple roles. Harassing enemy ground forces only to follow up by securing the air space is among tactics typical for this type of fighter. While there are no obvious shortcomings to this fighter, neither does it excel in any category. The combat role flexibility is a force multiplier especially on early maps as it opens another crew slot for specialist vehicles.
+It was introduced in [[Update 1.79 "Project X"]]. It is the first domestic-produced Romanian plane in the game, added into the Italian tree. This variant is the up-gunned version, designated 81C and it excels at ground support. Boasting good offensive firepower and decent payload options for a converted fighter, the IAR-81 is capable of multiple roles. Harassing enemy ground forces only to follow up by securing the air space is among tactics typical for this type of fighter. While there are no obvious shortcomings to this fighter, neither does it excel in any category. The combat role flexibility is a force multiplier especially on early maps as it opens another crew slot for specialist vehicles.
 
 == General info ==
 === Flight performance ===
@@ -121,6 +121,7 @@ A big downside is the wing-mounted position of all firearms. This location drast
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x Wfr.Gr.21 rockets
 * 2 x 50 kg SC50JA bombs (100 kg total)

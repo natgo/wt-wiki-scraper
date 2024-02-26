@@ -8,7 +8,7 @@
 }}
 {{Specs-Card
 |code=fiat_g50_seria2_italy
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ('''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} French tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]].
+France operated a number of '''{{Specs|name}}''' tank destroyers between 1943 and 1945. A total of 227 units of this tank destroyer were received by Free French forces during that time period. The tanks participated in actions in Italy, France, and Western Germany. Particularly remarkable was the M10's role with the French 2nd Armored Division at the Battle of Dompaire, destroying a total of 60 tanks, with the coordination of the TDs, Shermans, and American CAS. It was regarded at the time as the fastest destruction of a Panzer Unit on the western front, with the French forces taking few casualties. The M10s were crucial in the preparation for the battle, attacking German positions at Damas-et-Bettegney.
 
-The M10 GMC takes much from the [[M4A2]] which it was derived from. The drivetrain is identical with the drive shaft running from the engine in the rear to the front transmission and sprockets. The hull is sloped to a larger degree. The [[M7 (76 mm)|76 mm M7 cannon]] originally mounted on the experimental M6 Heavy Tank lacks the muzzle brake of the 76 mm M1A2 gun used on the later Rank III Sherman's and the [[M18 GMC]]. The turret is a pentagonal shaped M5 Mount type.
+Introduced in [[Update 1.75 "La Résistance"]], the M10 GMC takes much from the [[M4A2]] which it was derived from. The drivetrain is identical with the drive shaft running from the engine in the rear to the front transmission and sprockets. The hull is sloped to a larger degree. The [[M7 (76 mm)|76 mm M7 cannon]] originally mounted on the experimental M6 Heavy Tank lacks the muzzle brake of the 76 mm M1A2 gun used on the later Shermans and the [[M18 GMC]]. The turret is a pentagonal shaped M5 Mount type. The M10 suffers from a mediocre turret rotation, but has access to a powerful cannon, it is powerful in defensive positions and in situations with the support of allied units, but its mediocre mobility makes it an uncompetitive brawler.
 
 == General info ==
 === Survivability and armour ===
@@ -180,6 +180,7 @@ The M10 GMC was provided officially to the Free French Forces mostly through the
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_m10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''{{Specs|name}}''' (Bet) was an Israeli upgraded M60A1 tank, equipped with an AVDS-1790-2C RISE (Reliability Improved Selected Equipment) engine instead of the AVDS-1790-2A. The tank itself also received a thermoinsulating coating for the barrel and tracks from the Merkava Mk.1 MBT. An Urdan low profile commander cupola was also installed, preventing the installation of the 12.7 mm machine gun previously used in the original one. The Magach 6B instead featured an additional 12.7 mm M2HB machine gun above the barrel and a 7.62 mm FN MAG 60-40 machine in front of the commander's cupola.
+
+The Magach 6B was introduced in [[Update "Wind of Change"]]. The Magach is very similar in playstyle to the M60A1 RISE featuring same level of protection with the commander cupola weakspot partially removed by the installation of the low profile one. The ammo is also slightly superior as the M111 shell offers 191 mm penetration at 60 degrees angle at 500 m compared to 164 mm at 60 degrees at 500 m found on the M735 that can be found on RISE. The Blazer ERA can save the user from some chemical rounds, however it has no effect in stopping kinetic rounds and any APFSDS round will have no issue penetrating the armour.
 
 == General info ==
 === Survivability and armour ===

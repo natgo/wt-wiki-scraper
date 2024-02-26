@@ -15,12 +15,14 @@
 {{Tree-Unit|fr_hotchkiss_h39}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_somua_s35}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|fr_fcm_36}}
 {{Tree-Skip}}
 {{Tree-Unit|fr_renault_r39}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_renault_d2}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|fr_citroen_kegresse_p4t}}
 {{Tree-Skip}}
@@ -30,6 +32,7 @@
 {{Tree-Unit|fr_lorraine_37l}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_somua_sau40}}
+{{Tree-Skip}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|fr_hotchkiss_h39_cambronne}}
 {{Tree-Skip}}
@@ -90,7 +93,9 @@
 {{Tree-Arrow}}
 |
 {{Tree-Unit|fr_amx_13_dca_40}}
-{{Tree-Arrow|1}}
+{{Tree-Arrow}}
+{{Tree-Unit|fr_tpk_641_vpc}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|fr_arl_44}}
 {{Tree-Arrow}}
@@ -218,7 +223,6 @@
 
 {{Tree-Line|VII Rank}}
 |
-{{Tree-Skip}}
 |
 {{Tree-Group|fr_leclerc_group|Leclerc S1/S2|
   {{Tree-Unit|fr_leclerc_s1}}
@@ -226,6 +230,18 @@
 {{Tree-Unit|fr_leclerc_s2}}
 }}
 {{Tree-Arrow}}
+|
+|
+{{Tree-Unit|fr_amx_30_roland}}
+{{Tree-Arrow}}
+|
+| style="border-left: solid 1px #cccccc;" |
+|
+
+{{Tree-Line|VIII Rank}}
+|
+{{Tree-Skip}}
+|
 {{Tree-Unit|fr_leclerc_sxxi}}
 {{Tree-Arrow}}
 {{Tree-Unit|fr_leclerc_azur}}
@@ -233,8 +249,6 @@
 |
 {{Tree-Skip}}
 |
-{{Tree-Unit|fr_amx_30_roland}}
-{{Tree-Arrow}}
 {{Tree-Unit|fr_crotale_ng}}
 {{Tree-Skip}}
 |

@@ -6,7 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. It was introduced during [[Update "Red Skies"]] as a reward for the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]]. In a simple comparison to the similar-performing vehicle, the [[BMP-3]], the {{PAGENAME}} has less armour, higher mobility and faster ATGM reload.
+The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Soviet light tank {{Battle-rating}}. The BMD-4 is a Russian airborne infantry fighting vehicle developed after the collapse of the Soviet Union as a new entrant in the long-running BMD series. It uses the hull of the BMD-3, a limited production vehicle with a new chassis superior to the vintage BMD-1 chassis represented by the [[BTR-ZD]] in War Thunder, and a new Bakcha-U turret with the same 100 mm + 30 mm cannon armament used by the full-size [[BMP-3]] IFV, giving it an exceptionally heavy armament for its weight and role. Accepted into Russian service in 2004, BMD-4 production was stopped after a short initial production run due to economic difficulties. Years later, the streamlined BMD-4M with increased BMP-3 part commonality reentered production and service.
+
+The BMD-4 was introduced during [[Update "Red Skies"]] as a reward for the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]]. In a simple comparison to its non-airborne relative with the same guns, the [[BMP-3]], the {{PAGENAME}} has less armour, higher mobility, and a faster ATGM reload. It is extremely speedy in both forward and reverse and can easily make it to lucrative flank or overwatch positions, splashing multiple targets with its tandem ATGMs or hosing them down with its autocannon, but suffers from incredibly light protection: while the BMP-3 can often shrug off autocannon fire from the front, the BMD-4's front armour is not even proof to heavy machine guns. As such, it's best reserved for fearsome ambush attacks against unaware or distracted enemies.
 
 == General info ==
 === Survivability and armour ===
@@ -179,7 +181,7 @@ In terms of what types of ammunition to bring in, two types of combination can b
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-;Arcade mode<nowiki>:</nowiki>
+'''Ground AB''':
 
 There are two main ways to use BMD-4 efficiently, both involve using its high movement speed.
 
@@ -191,27 +193,33 @@ The reason why rushing in such a fragile tank is even a viable option is because
 
 Second way is to deliberately give up working on a capture point and instead to do a deep flank around enemy team and unload BMD-4s entire arsenal onto enemy snipers. This works because BMD-4 moves insanely fast for a Soviet light tank and has ATGM which reloads almost as fast as the gun on the [[Object 906]], while being absolutely lethal regardless of the enemy tank armour level. If the range between your firing position and an enemy is more than 400 m, it is also possible to continue annoying them by launching 3OF32 at them over cover (swap main weapon towards 100 mm to acquire proper aim assist on the HE).
 
+'''Ground RB'''
+
+The BMD-4 is quite similar to the BMP-3 in terms of armament, but its ATGM autoloader and lightweight chassis lend it to more aggressive playstyles. 33 hp/ton and 70 km/h top speed in forward and reverse allow it to outrun almost any other tracked vehicle and it is not uncommon to be nearly halfway across the map by the time other vehicles have left their spawn zones. The best situation is to launch a surprise attack against enemies who are distracted by teammates and looking in other directions. Powerful, rapid-fire ATGMs and good optics allow the BMD-4 to clean up multiple targets before they understand what is happening and the BMD-4 can reverse out of trouble just as fast as it came the moment it attracts any attention. The reliable 30 mm autocannon is an effective supplement for side shots and light targets and should not be disregarded, especially as self protection when the ATGM is reloading. Knocking out a MBT's tracks, damaging its barrel, and destroying pintle-mounted HMGs will allow the BMD-4 to take its time with a follow up shot.
+
+Avoid incoming fire at all costs. This is common advice for IFVs but even more so for the BMD-4, whose armour is not even completely immune to rifle-caliber machine guns. Just about any vehicle with an autocannon or HEAT rounds can knock out the BMD-4 instantly. This makes it less suitable for defensive roles than the BMP-3, whose decent frontal armour allows it to more comfortably engage targets aware of its presence.
+
+Another factor to note is that the BMD-4 only carries four ATGMs total, compared to the capacity of eight for the BMP-3, and these can be depleted in potentially no time at all. Make every shot count, as the BMD-4 is much less formidable without its 9M117M1s, and head back to a capture point to reload before engaging in heated combat again.
+
+Like the BMP-3, the BMD-4 can also be used as an ad-hoc mortar vehicle by using its HE shells for long-range indirect fire with the assistance of the scout UAV. When controlling the UAV, use the squad marker or drone target designation UI features to point at a static target of interest, then switch back to controlling the BMD-4 to line up the crosshairs with the bearing of the marker. Obtain an estimate of the distance by studying the game map or comparing the target position relative to the objective markers, then fire off a few HE rounds (typically 3OF70 due to its higher muzzle velocity and explosive yield) and return to the drone view to observe the impacts; make corrections for the next salvo as needed. Use cases where this method could be worth the effort include taking down SPAA vehicles hiding in the enemy spawn and light tanks/ATGM carriers that are entrenched in tricky positions. It may also be cathartic to rain shells on contested or occupied objective points because most of the distance is already known. The BMP-3 is slightly more effective for bombardment because its autoloader can reload HE shells in just 4 seconds compared to the BMD-4's 5 seconds, but the BMD could use its enhanced mobility to sneak into better or closer positions.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Moves quite fast even when stock, can drive fast in either direction unlike BMPs
-* Autoloader with a 5-second reload for ATGMs (fastest ATGM reload, reloads faster than most conventional tanks as well)
-* Can fire on the move without restrictions
-* ATGMs start at near maximum speed, do very high damage on direct hit and have a wide blast and overpressure area
-* Commander can still fire weapons even if the gunner was shot
-* Also can fire HE at enemy tank roofs by using laser rangefinder or AB aim assist
-* Also has an autocannon which can be fired along with the main weapon
-* Can act as a scout and also has thermal scope, smoke grenades and ESS, which can be used to scout or fight
-* Is amphibious, allowing safe travels over waterways
+* Moves quite fast even when stock, can drive equally fast in either direction unlike BMPs
+* Autoloader with a speedy 5 second ATGM reload, faster than most conventional tank cannons as well
+* ATGMs are quick, powerful, and can be fired on the move
+* HE rounds can overpressure turret roofs or be used to bombard static targets with indirect fire
+* Commander has CITV with thermal optics, can still fire weapons even if the gunner was shot
+* Amphibious, safe if not particularly fast travel over waterways
 
 '''Cons:'''
 
 * Low armour protection, hull upper front plate can be penetrated even by a 12.7 MG until movement modules are researched, which will protect BMD-4 from some frontal shots or even block overpressure
+* Autoloader HE reload is slightly slower than BMP-3
 * Only 3 crew members
-* Extremely awkward sight controls for HE - to even access it, user must swap main weapon to "secondary weapon" which disables the autocannon and MG completely
-* While missiles high launch speed is good for sudden encounters and ambushes, it is near impossible to land a vertical shot with them, and HE needs quite some range to get on target, so if someone does area denial strategy at close range, BMD-4 can't do anything about it
 * In AB, ATGM cannot be rearmed outside of a capture point, as BMD-4 counts as a normal tank
 
 == History ==

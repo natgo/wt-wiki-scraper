@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British fighter {{Battle-rating}}. It was introduced in [[Update 1.41]].
+Although visually similar to the Mk XIV, the '''Spitfire Mk XVIIIe''' was purpose-built from scratch as a new project, unlike the Mk XIV which was a Spitfire Mk VIII fuselage with a Griffon engine. The Mk XVIIIe received strengthened fuselage, gear, and airframe due to the added weight of the additional wing and fuselage fuel tanks. 299 of the Mk XVIIIe were made, the first 99 being in fighter configuration, with the remaining 200 for photo reconnaissance. The Mk XVIIIe was equipped with a type "E" wing, featuring two 20 mm Hispano cannons and two 12.7 mm Browning M2 machine guns. The Mk XVIIIe came too late to take part in WWII. Instead, between 1948 and 1949, they engaged in fighting Egyptian and Israeli Spitfires with 32nd and 208th Squadron RAF in Palestine.
+
+The Spitfire F Mk XVIIIe was introduced in [[Update 1.41]]. Featuring much greater engine power due to its Griffon engine, the Mk XVIIIe is faster than the previous Merlin-powered variants, at cost of decreased manoeuvrability. However the Spitfire is still able to out-turn most of its opponents, while retaining the great climb rate and speed as well as superior armament.
 
 == General info ==
 === Flight performance ===

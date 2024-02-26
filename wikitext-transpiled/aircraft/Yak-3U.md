@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The Yak-3U is the pinnacle of the Yakovlev piston engine fighter design, combining the amazing agility of the Yak-3 airframe with the excellent Shvetsov M-82FN engine acquired from the Lavochkin line, increasing its top speed tremendously. One can expect a similar playstyle to the feared [[Yak-3P]] but turned up a few notches due to the improvement in speed. However, the big elephant in the room is the woefully inadequate armament for the tier; two B-20S 20 mm cannons mounted in the nose are unable to compete with other aircraft in the BR 6.3 range, or even other Soviet aircraft at the same tier such as the [[I-225]]. Thus, the pilot should aim for critical components (engines, wings or pilot) in order to secure a kill.
+The Yak-3U is the pinnacle of the Yakovlev piston engine fighter design, combining the amazing agility of the Yak-3 airframe with the excellent Shvetsov M-82FN engine acquired from the Lavochkin line, increasing its top speed tremendously. One can expect a similar playstyle to the feared [[Yak-3P]] but turned up a few notches due to the improvement in speed. Armament is two B-20S 20 mm cannons mounted in the nose, with a low ammo count, so conserve ammo. The pilot should aim for critical components (engines, wings or pilot) in order to secure a kill.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics

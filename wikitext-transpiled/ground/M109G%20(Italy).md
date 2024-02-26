@@ -1,3 +1,8 @@
+{{About
+|about = tank destroyer '''{{PAGENAME}}'''
+|usage = other versions
+|link = M109 (Family)
+}}
 {{Specs-Card
 |code=it_m109g
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -11,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian tank destroyer {{Battl
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick aluminium alloy 5083, which effectively comes down to 13-20 mm RHA. This leaves the vehicle vulnerable to even light machine gun fire from any angle. The weakness of the armour turns into a strong-suit against AP shells that will pass straight through, unable to fuse or create enough spall to inflict major damage. Direct hits from HE and other chemical shells will most likely leave the M109 a burning wreck. The 6 crew members are pretty spaced apart in the turret, giving a plus to crew survivability.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -37,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian tank destroyer {{Battl
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=575|rbMinHp=358}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -47,28 +52,28 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian tank destroyer {{Battl
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|M126 (155 mm)}}
+{{main|M126E1 (155 mm)}}
 
 ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[M126 (155 mm)|155 mm M126]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[M126E1 (155 mm)|155 mm M126E1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 28 || rowspan="2" | -3°/+75° || rowspan="2" | ±180° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 28 || rowspan="2" | -3°/+70° || rowspan="2" | ±180° || rowspan="2" | - || 9.7 || 13.4 || 16.3 || 18.0 || 19.1 || rowspan="2" | 17.29 || rowspan="2" | 15.30 || rowspan="2" | 14.10 || rowspan="2" | 13.30
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 6.5 || 7.7 || 9.4 || 10.3 || 11.0
 |-
 |}
 
 ==== Ammunition ====
-{{:M126 (155 mm)/Ammunition|M107, M107 (PF), M110}}
+{{:M126E1 (155 mm)/Ammunition|M107, M107 (PF), M110}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -101,7 +106,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian tank destroyer {{Battl
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 600 (200) || 575 || -10°/+45° || ±180°
 |-
 |}
 
@@ -114,17 +119,18 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian tank destroyer {{Battl
 
 '''Pros:'''
 
-* Powerful 155 mm cannon
+* Powerful 155 mm cannon, can take out heavy tanks rather effortlessly
 * Great elevation angles
 * Access to proxy munitions
+* (RB) Slightly faster shell velocity than other short-barrelled artillery tanks, may be easier to aim
 
 '''Cons:'''
 
 * Slow turret traverse speed
-* Low survivability due to thin armour and munition placement
-* Long reload
-* Slow shell velocity
-* Bad optics zoom, inadequate for sniping at long distances
+* Low survivability due to thin armour and munition placement, cannot sustain even 12.7 mm HMG
+* Long reload when compared to normal tanks
+* (mostly AB) Shell velocity does not let the tank to fire over a hill at short to medium range 
+* (RB) Bad optics zoom, inadequate for sniping at long distances
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -139,9 +145,6 @@ The M109 has been combat proven in many theatres of war all around the world. Th
 
 Besides the upgrades done by the Italian army, Leonardo created an upgrade for the M109 which added a new cannon able to fire projectiles at a longer range, alongside with the integration of the new Italian-made guided Vulcano munitions.
 
-=== [[wt:en/news/8537-development-m109-the-king-of-battle-en|Devblog]] ===
-Development of the M109 began in the early 1950s under a U.S. program to develop a common chassis for a number of different SPH designs. Upon entering service, the M109 was immediately deployed to the Vietnam War. However, its operational service during the conflict was cut short due to serious mechanical malfunctions which rendered the fleet inoperable. Nonetheless, after being addressed and receiving its first upgrade to the A1 standard, the M109 would continue service with U.S. forces for decades to come, taking part in virtually all military conflicts where U.S. forces were deployed in. Once its design eventually matured, the M109 successfully resisted replacement on multiple occasions and continuously received upgrades until the present day.
-
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
@@ -151,10 +154,9 @@ Development of the M109 began in the early 1950s under a U.S. program to develop
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[M109 (Israel)]]
-* [[M109A1 (Great Britain)]]
-* [[M109A1]]
-* [[M109G]]
+;Related development
+
+* [[M109 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

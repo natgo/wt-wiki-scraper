@@ -191,6 +191,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 600 gal drop tank
 * 2 x AIM-9P Sidewinder missiles
 * 4 x AIM-9P Sidewinder missiles
@@ -218,12 +219,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ** Comes with 2 x AIM-9Ps stock instead of 2 x AIM-9Bs
 ** 4 x AIM-9Ps is a tier I mod without the need of AIM-9Es
 * A wide range of suspended armaments, suitable for any playstyle
-** Powerful AIM-7F SARH missiles
-** Top-of-the-line AIM-9L missiles, having excellent manoeuvrability of 30G, long range, great all-aspect tracking, and being somewhat flare resistant
+** Powerful AIM-7F SARH missiles, with very long range, manoeuvres straight off the rails and have 25G of max overload
+** Top-of-the-line AIM-9L missiles, having excellent manoeuvrability of 30G, long-range, great all-aspect tracking, and being pretty flare resistant when firing rear-aspect
+** Can carry 8 missiles in total
 * Deadly frontal armament with high burst mass
-* Makes use of a ballistic computer for assisting in the aim of cannons, rockets, and bombs against ground targets
+* Makes use of a ballistic computer to assist in the aim of cannons, rockets, and bombs against ground targets
 * Large reserve of countermeasures
-* AN/APG-66 radar - has diverse scan and tracking modes, very high resistance to notching and chaff, very long range
+* AN/APG-66 radar - has diverse scan and tracking modes, very high resistance to notching and chaff, very long-range
 
 '''Cons:'''
 

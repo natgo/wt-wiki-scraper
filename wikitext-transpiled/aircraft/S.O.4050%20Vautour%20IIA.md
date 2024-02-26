@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet bomber {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The S.O.4050 Vautour II was a French project with the intention of creating a capable multirole twin-engined aircraft that could be used as a frontline bomber, close air support, or as an all-weather interceptor. With different variants developed, each one to fulfil a separate task, the '''Vautour IIA''' was the one designed for the CAS role, and the first one to be developed. The Vautour IIA was built between 1956 and 1959 and with a single crewmember, the pilot. Being the first variant of the Vautour II, some things needed improvements, like the SNECMA ATAR 101E3 engines, that were improved to the E5 version in the other variants, with access to more thrust and WEP.
+
+It was introduced in [[Update 1.73 "Vive la France"]]. The '''{{Specs|name}}''' is a very fast ground attack aircraft; it works very well as a bomber, being fast and relatively agile for a subsonic bomber. It uses the SNECMA ATAR 101E3 engine, which does not have access to WEP like the engines on the other Vautour II variants. However, it is still very fast, and has enough payload to destroy a full base and a half in air realistic battles. For ground battles, it lacks any kind of ballistics computer, and the mediocre agility makes harder dropping bombs at moving targets, so, using the SNEB type 23 rockets while also carrying a small amount of bombs in the bomb bay is recommended.
 
 == General info ==
 === Flight performance ===
@@ -138,11 +140,41 @@ The four machine guns are arranged in bundles of two mounted in the nose of the 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M57 (250 lb)|AN-M64A1 (500 lb)|M117 cone 45 (750 lb)|AN-M65A1 Fin M129 (1,000 lb)}}
-{{main|SNEB type 23|T10 140|T10 151}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
+| 1 || 1 || 6 || 1 || 1
+|-
+! [[AN-M65A1 Fin M129 (1,000 lb)|1,000 lb AN-M65A1 Fin M129]] bombs
+| 1 || 1 || 2 || 1 || 1
+|-
+! [[SNEB type 23]] rockets
+| 19 || 19 || || 19 || 19
+|-
+! [[T10 140]] rockets
+| 6 || 6 || || 6 || 6
+|-
+! [[T10 151]] rockets
+| 6 || 6 || || 6 || 6
+|-
+| colspan="6" | Maximum permissible weight imbalance: 1,000 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 10 x 250 lb AN-M57 bombs (2,500 lb total)
 * 76 x SNEB type 23 rockets
 * 24 x T10 140 rockets
@@ -150,37 +182,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 10 x 500 lb AN-M64A1 bombs (5,000 lb total)
 * 10 x 750 lb M117 cone 45 bombs (7,500 lb total)
 * 6 x 1,000 lb AN-M65A1 Fin M129 bombs (6,000 lb total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 250 lb AN-M57 bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 500 lb AN-M64A1 bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 750 lb M117 cone 45 bombs
-| 1 || 1 || 6 || 1 || 1
-|-
-! 1,000 lb AN-M65A1 Fin M129 bombs
-| 1 || 1 || 2 || 1 || 1
-|-
-! SNEB type 23 rockets
-| 19 || 19 || || 19 || 19
-|-
-! T10 140 rockets
-| 6 || 6 || || 6 || 6
-|-
-! T10 151 rockets
-| 6 || 6 || || 6 || 6
-|-
-| colspan="6" | Maximum permissible weight imbalance: 1,000 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -229,6 +231,7 @@ The II-N prototype, with two crew, had made its first flight in October, 1952, f
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=so_4050_vautour_2a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

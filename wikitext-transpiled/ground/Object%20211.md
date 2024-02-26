@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Object 211''' is a prototype designed by the Chinese People's Liberation Army in the late 1950s to produce an effective amphibious tank. By 1957, the structure of the Chinese People's Liberation Army had been revised, and the Chinese Marines were integrated into the Chinese Army. The southeast coastal areas remained unstable as the Chinese Nationalist Army in Taiwan, led by the Kuomintang, has not abandoned the goal of "counterattacking the mainland." Since Southern China is mountainous and has a lot of rice fields with water networks and rivers, it was considered that medium and heavy tanks would be unsuitable and amphibious vehicles would play an indispensable role during defence. In July 1958, a development code called "Project 211" was assigned, and China purchased the Soviet Union's [[PT-76 (Family)|PT-76]] amphibious tank to acquire the technologies. The program initially encountered various challenges due to the Chinese tank industry's inadequate technologies at the time, primarily as a result of World War II and the Civil War. Nonetheless, by the early 1960s, the program had proven to be a success, and it was ready for production as the [[Type 63-I|Type 63-I amphibious light tank]]. The model in-game represented the 4th prototype with new Type 62 85 mm cannon now displayed at Block 4 of family housings at Institute 201 (aka China North Vehicle Research Institute, 中国北车研究所).
+The '''Object 211''' is a prototype designed by the Chinese People's Liberation Army in the late 1950s to produce an effective amphibious tank. By 1957, the structure of the Chinese People's Liberation Army had been revised, and the Chinese Marines were integrated into the Chinese Army. The southeast coastal areas remained unstable as the Chinese Nationalist Army in Taiwan, led by the Kuomintang, has not abandoned the goal of "counterattacking the mainland." Since Southern China is mountainous and has a lot of rice fields with water networks and rivers, it was considered that medium and heavy tanks would be unsuitable and amphibious vehicles would play an indispensable role during defence. In July 1958, a development code called "Project 211" was assigned, and China purchased the Soviet Union's [[PT-76 (Family)|PT-76]] amphibious tank to acquire the technologies. The program initially encountered various challenges due to the Chinese tank industry's inadequate technologies at the time, primarily as a result of World War II and the Civil War. Nonetheless, by the early 1960s, the program had proven to be a success, and it was ready for production as the [[Type 63-I|Type 63 amphibious light tank]]. The model in-game represented the 4th prototype with new Type 62 85 mm cannon now displayed at Block 4 of family housings at Institute 201 (aka China North Vehicle Research Institute, 中国北车研究所).
 
-Introduced in [[Update "La Royale"]], Object 221 is a unique tank that can provide players with significant insights into the Chinese tank development philosophies that were influenced by the Soviet Union during the late 1950s. Due to the diversity of landscapes in China at the time, several tank designs were needed to effectively defend the mainland against potential adversaries. Since the prototype was intended to be amphibious, it was lightly armoured and offered low protection only against light machine guns and artillery shrapnel. However, due to its low profile and high top speed, Object 211 will give players the advantage of taking strategic areas early in the battle. The 85 mm Type-62-85-TC tank gun has excellent firepower and can readily engage and dispatch adversaries with a single well-placed shot.
+Introduced in [[Update "La Royale"]], Object 211 is a unique tank that can provide players with significant insights into the Chinese tank development philosophies that were influenced by the Soviet Union during the late 1950s. Due to the diversity of landscapes in China at the time, several tank designs were needed to effectively defend the mainland against potential adversaries. Since the prototype was intended to be amphibious, it was lightly armoured and offered low protection only against light machine guns and artillery shrapnel. However, due to its low profile and high speed, Object 211 will give players the advantage of taking strategic areas early in the battle. The 85 mm Type-62-85-TC tank gun has excellent firepower and can readily engage and dispatch adversaries with a single well-placed shot.
 
 == General info ==
 === Survivability and armour ===
@@ -52,7 +52,7 @@ Like its in-service cousin Type 63, the tank is also equipped with the same 1215
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Type-62-85-TC (85 mm)}}
 
-After previous domestic 76 mm was proved unviable in the 1960s and was rather unreliable, while the other prototype with ZIS-S-53 has high recoil to the chassis on water, Chinese engineers eventually opted for the new Type 62 85 mm cannon for Object 211. Previous players of Type 62 and 63 will be very familiar to its performance minus the HEAT or even APFSDS rounds; while new players will certainly enjoy the 85 mm gun that packs a punch and high magnification at up to 12x, they will have to be extra careful with the slow turret traverse speed.
+After previous domestic 76 mm was proved unviable in the 1960s and was rather unreliable, while the other prototype with ZIS-S-53 has high recoil to the chassis on water, Chinese engineers eventually opted for the new 85 mm cannon for Object 211. Previous players of Type 62 and 63 will be very familiar to its performance minus the HEAT or even APFSDS rounds; while new players will certainly enjoy the 85 mm gun that packs a punch and a magnification at up to 7x, they will have to be extra careful with the slow turret traverse speed.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -125,14 +125,13 @@ Once players have clear information on these flaws, they can now utilize the tan
 * Devastating 85 mm cannon with high-end 85 mm APCBC
 * Low profile
 * Faster than most tracked light tanks at its tier
-* Rather versatile optic magnification at 4x-12x
+* Good optic magnification at 3.5x-7x
 * Amphibious with high on-water speed at 11 km/h
 
 '''Cons:'''
 
 * Thin overall protection is not ideal, only rated to .50 machine guns
 * Slow turret traverse speed
-* Crew of 3 gives less flexibility if any of the crew is knocked-down
 * Lacks APCR/HEAT for well-protected targets
 * Relatively low reload time
 * Rather low depression angle
@@ -152,9 +151,10 @@ Once players have clear information on these flaws, they can now utilize the tan
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[PT-76 (China)|PT-76]] - The inspiration to Object 211 and future ZTS63 series
 * ZTS63 family
-** [[Type 63-I]] - The first variant of the family with revised turret design from prototype
+** [[Type 63-I|Type 63]] - The first variant of the family with revised turret design from prototype
 ** [[ZTS63]] - Post-1980 upgrade with LRF and access to APFSDS
 
 == External links ==

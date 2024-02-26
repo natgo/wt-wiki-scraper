@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+During its service with Israel, the M48 Patton was heavily modified and upgraded to the point that it was much superior to the base version. The Magach 3 was the first big upgrade plan for the M48, including the introduction of the American M68 105 mm gun, with access to APFSDS. This upgrade was deemed necessary after mediocre results during the Six-Day War and the Yom Kippur War. Eventually, the Magach 3 received Blazer ERA to deal with RPGs and ATGMs that were starting to be fielded in large numbers by Egyptian and Syrian forces. The tank was meant to be a match to the Soviet-made T-54/55 and T-62. The tank also received improvements to the mobility, with the engine of the [[M60]], a new transmission, and a low-profile commander's cupola.
 
-First introduced in the [[Magach_3_(USA)|United States tech tree]], the Magach 3 was moved to the [[wt:en/news/7573-development-zachlam-m3-tager-half-track-abroad-en|Israeli ground tech tree]]. It is an improved [[M48A1|M48 Patton]] tank with a 105 mm M68 cannon and an [[M60]] engine installed.
+Introduced in [[Update "Danger Zone"]], the Magach 3 is an improved [[M48A1|M48 Patton]] tank with a 105 mm M68 cannon and the [[M60]]'s engine installed. It has very similar mobility to the Magach 1 and 2, but it features a much more powerful cannon. Its primary ammunition would be either the HEAT or APDS shell. It has enough firepower to deal with pretty much any enemy, it has also access to ERA at a very low BR, which makes it very resistant against HEAT warheads, like rockets, HEAT shells or ATGMs that are very common. This also gives it more protection against autocannon shots, specially from 20 or 25 mm autocannons without APDS belts.
 
 == General info ==
 === Survivability and armour ===

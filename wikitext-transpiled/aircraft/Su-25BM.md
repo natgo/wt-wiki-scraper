@@ -86,8 +86,9 @@ For long-time players of the Su-25(K), the overall flight performance is very si
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" |UMPO R-95SH
+| 2
+| colspan="2" | _,___ kg || colspan="2" | 584 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
 ! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
@@ -95,7 +96,7 @@ For long-time players of the Su-25(K), the overall flight performance is very si
 ! Weight (each) || colspan="2" | Type
 ! _m fuel || __m fuel || __m fuel
 |-
-| ___ kg || colspan="2" | ___
+| 990 kg || colspan="2" | Jet
 | _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
@@ -132,7 +133,7 @@ Fuel tanks are self-sealing, which means that in case of any fuel tank fire, the
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -210,7 +211,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Kh-29L]] missiles
 | || || || || 1 || 1 || || || ||
 |-
-! [[Kh-29T]] missiles
+! [[Kh-29TE]] missiles
 | || || || || 1 || 1 || || || ||
 |-
 ! [[R-60MK]] missiles
@@ -223,9 +224,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | || || 1 || 1 || || || 1 || 1 || ||
 |-
 ! 800 l drop tanks
-| || || || || 1 || 1 || || || ||
+| || || || ||1||1|| || || ||
 |-
-| colspan="11" | Maximum permissible weight imbalance: 1,500 kg
+| colspan="11" | Maximum permissible loadout weight: 4,400 kg<br>Maximum permissible wing load: 2,200 kg<br>Maximum permissible weight imbalance: 1,500 kg
 |-
 |}
 
@@ -250,19 +251,19 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x S-25L missiles
 * 4 x Kh-25ML missiles
 * 2 x Kh-29L missiles
-* 2 x Kh-29T missiles
+* 2 x Kh-29TE missiles
 * 4 x 23 mm GSh-23L cannons (250 rpg = 1,000 total)
 {{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-As the modernized Su-25K of Eastern Bloc/CIS countries, players will get used to its performance very quickly if they owned other Frogfoots, enjoying the upgraded features of Su-25BM both at aerial combats and pounding ground targets at safer distance. Making Su-25BM a versatile jet at its tier.
+Being essentially a modernized Su-25K, players will get used to this aircraft's performance very easily if they own other Frogfoots. With upgraded weaponry in both aerial combat and ground attack, the Su-25BM can be quite a versatile jet.
 
-==== Air - Heavy but Packs A punch ====
-One thing players will soon notice is the identical airframe of early series of Su-25, not only it retains the identical engine from these jets, the airframe is still equally heavy. While the weight in this case is due to the extra protections around the cockpit, this might not be a good news to players of Su-25BM; the thrust of Su-25 can still push the jet to its structural limits even at level flight, if enemy fighters have intentions to take players out with different ordnances, chances are you could not make it out of the frontline without suffering severe damages. The 256 countermeasures can still make sure players can evade missiles, but at such speed, they will need extra launches to evade missiles. To say at least - taking an attacker as a fighter is never, ever a good idea, especially for such a heavy jet; but a good news for Su-25BM players is that it is also the first jet to officially introduce R-73 in game. In case of players coming too close to your radius at around 3 km, the all-aspect R-73 with high overload can make sure enemy jets will face their end quickly; it can also serve as a mean to deter enemies from taking you as the target. As long as the skies are clear from enemy jets, use your weapons of choice to earn extra incomes on ground AI targets or bases; the guns are powerful enough to gun down even MBTs with precise hits from higher angle of attack.
+==== Air - Heavy but Packs a Punch ====
+One thing players will soon notice is the identical airframe to preceding Su-25 variants. Not only does it retain the same engine from these jets, but the airframe is equally as heavy. 256 countermeasures is more than enough to evade missiles, but at such a slow speed, extra launches of countermeasures may be necessary. Using an attack aircraft as a fighter is never a good idea, and this especially applies to the Su-25BM. If any enemies come close, the all-aspect R-73 is enough to destroy or at least deter them. When enemies aren't present, attacking ground targets and bases is a viable option, as the guns are powerful enough to destroy MBTs with precise hits using the ballistic computer.
 
 ==== Ground - The Overwatcher ====
-All the previous weaponries on Su-25 are available on the BM variant, thanks to the upgrade from Belarus, it can also use safer standoff weapons like KAB-500Kr or Kh-29T to take out high value targets; it will be a good idea to take out enemy SPAAs before heading for the battlefield. After these targets have been cleared, players can unleash unguided bombs and rockets to finish-off remaining ground vehicles and clearing the path for victory; if enemy jets think otherwise, the onboard IR AAMs could still make sure they have to think twice before heading for your team. 
+In addition to the original ground attack armament retained from preceding Su-25 variants, the BM is also provided with safer standoff weapons such as the KAB-500Kr or Kh-29T. Prioritizing the elimination of enemy SPAAs at a distance, players can then use unguided bombs and rockets to finish off remaining ground targets. R-73s are usually sufficient to eliminate any enemy air opposition.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -271,7 +272,7 @@ All the previous weaponries on Su-25 are available on the BM variant, thanks to 
 
 * Mounts R-73 missiles, which are extremely effective
 * Capable of equipping a large amount of air-to-ground armament
-* Powerful chin-mounted GSh-30-2  autocannon
+* Powerful chin-mounted GSh-30-2 autocannon
 * Access to more advanced, fire and forget standoff A2G armaments
 * Could take additional hits thanks to the well-protected airframe
 * Integrated avionics for better awareness in SB battles
@@ -282,6 +283,7 @@ All the previous weaponries on Su-25 are available on the BM variant, thanks to 
 * Low ammo count for the 30 mm cannon
 * Low manoeuvrability due to the weight and obsolete engine
 * Inferior SPO-15 RWR with worse situational awareness to radar sources
+* R-60MK is rather ineffective due to no flare resistance.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -303,8 +305,12 @@ The default livery in-game represents 02 of the 602nd Airbase stationed at Chimk
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=su_25_558arz Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
-{{Youtube-gallery|jBm6zmFL7Os|'''SU-25 BM Vehicle Overview''' - ''Bob Dickinson''}}
+{{Youtube-gallery|DSEfQPcz7pw|'''The Shooting Range #370''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.|jBm6zmFL7Os|'''SU-25 BM Vehicle Overview''' - ''Bob Dickinson''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

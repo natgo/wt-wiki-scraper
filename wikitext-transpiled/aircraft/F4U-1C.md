@@ -168,7 +168,7 @@ The F4U-1C is an excellent plane in all game modes, however, be aware of the ver
 
 The F4U-1C was based on the F4U-1D. The F4U-1D Corsair was designed in order to meet the Navy's requirement for capable carrier-based fighter-bombers. To meet this need, the -1D incorporate a Pratt and Whitney R-2800-8W water injection engine, increasing the engine power and the plane's speed from that of the F4U-1A. This gave it the increased performance necessary to carry a larger armament. Two pylons were added to the center wing section, that could hold 154 gallon fuel tanks, bombs up to 1,000 lbs, or napalm bombs. Because of the ability to carry more fuel externally, the 63 gallon fuel tanks in the wing tips were removed. Later in production, the ability to carry four 5 in rockets under each wing was added. In addition, the propeller diameter was reduced from 13 ft 4 in to 13 ft 1 in.
 
-The F4U-1C was basically the same as the F4U-1D, except in primary armament. The -4D had a primary armament of six .50 in machine guns, as was standard for most Corsair variants. The F4U-1C replaced the .50 in machine guns with four 20 mm cannons. When rocket tabs were added to the F4U-1D, they were also added to the F4U-1C. This allowed it to carry eight 5 in rockets, along with the bombs and/or fuel tanks. All of the F4U-1Cs were fitted with the smaller propeller, with a diameter of 13 ft 1 in, whereas the -1D did not change the propeller size until after production had already started.
+The F4U-1C was basically the same as the F4U-1D, except in primary armament. The -1D had a primary armament of six .50 in machine guns, as was standard for most Corsair variants. The F4U-1C replaced the .50 in machine guns with four 20 mm cannons. When rocket tabs were added to the F4U-1D, they were also added to the F4U-1C. This allowed it to carry eight 5 in rockets, along with the bombs and/or fuel tanks. All of the F4U-1Cs were fitted with the smaller propeller, with a diameter of 13 ft 1 in, whereas the -1D did not change the propeller size until after production had already started.
 
 {{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
@@ -186,6 +186,7 @@ The F4U-1C was produced on a relatively small scale. Only 200 were made.
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f4u-1c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -210,7 +211,9 @@ File:Reworked F4U-1C Model.jpg|<small>Reworked model of the {{PAGENAME}}</small>
 * [https://forum.warthunder.com/index.php?/topic/325083-f4u-1ausmccd/ Official data sheet - more details about the performance]
 
 === References ===
+
 ;Bibliography
+
 * "[https://www.jdsf4u.be/f4u-1c-vought-corsair F4U-1C Vought Corsair]", ''F4U Corsair - The Bent Wing Bird plane site'', Retrieved on 28 March 2020.
 * "[https://www.jdsf4u.be/type-of-plane-f4u Types of Plane F4U - Variants]", ''F4U Corsair- The Bent Wing Bird plane site'', Retrieved on 28 March 2020.
 

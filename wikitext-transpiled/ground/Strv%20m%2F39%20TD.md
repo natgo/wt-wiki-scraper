@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Swedish light tank {{Battle-rating}}. It was introduced during [[Update "Starfighters"]] as a reward for [[wt:en/news/6751-watch-streams-on-twitch-get-rewards-en|watching War Thunder streams on Twitch.tv]] along with a unique skin for the vehicle. This vehicle shouldn't be confused as a tank destroyer (TD) by its designation, TD in this case stands for '''T'''witch '''D'''rop.
+The '''Stridsvagn m/39''' was ordered in 1939 by KAF, that saw how new tank designs were shaping the battlefield, and the m/38 was considered to be too weak in terms of armour. The m/39 would have been a minor upgrade to its predecessor, with upgraded armour and other minor changes. AB Landsverk was against it however, since the m/38s hull was not able to sustain the increased weight. In the end, the turret was slightly modified, it included a new fire control system, as well as a lever steering system which was more favourable. While the m/38 was named L-60-S, the Stridsvagn m/39 was designated L-60-S/II.
+
+It was introduced during [[Update "Starfighters"]] as a reward for [[wt:en/news/6751-watch-streams-on-twitch-get-rewards-en|watching War Thunder streams on Twitch.tv]] along with a unique skin for the vehicle. This vehicle shouldn't be confused as a tank destroyer (TD) by its designation, TD in this case stands for '''T'''witch '''D'''rop. It has the same exact gameplay style as the [[Strv m/39]], with access to good mobility and excellent firepower in the form of a good APDS shell. The turret's armour is increased to 50 mm of thickness, the gun depression is great with -15 degrees but the hull armour and cramped crew compartment make the tank extremely vulnerable to even autocannon fire.
 
 == General info ==
 === Survivability and armour ===
@@ -151,6 +153,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Swedish light tank {{Batt
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_strv_m39_td Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -165,6 +168,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} Swedish light tank {{Batt
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

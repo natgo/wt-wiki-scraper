@@ -5,15 +5,17 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''E13A1''', designated as '''Type 0 Reconnaissance Seaplane ({{Annotation|零式水上偵察機|Rei Shiki Minakami Teisatsu-ki}})''', was a long-range reconnaissance floatplane and was the most numerous seaplane of the IJN. It was developed in response to a naval staff specification issued in 1937 and entered service in 1941. It participated in various missions, including the attack on Pearl Harbor, the Battle of Midway, coastal patrols, strikes against navigation, liaison, officer transports, castaway rescues, and some kamikaze attacks.
+The '''E13A1''', designated as '''Type 0 Reconnaissance Seaplane ({{Annotation|零式水上偵察機|Rei Shiki Suijijō Teisatsuki}})''', was a long-range reconnaissance floatplane and was the most numerous seaplane of the IJN. It was developed in response to a naval staff specification issued in 1937 and entered service in 1941. It participated in various missions, including the attack on Pearl Harbor, the Battle of Midway, coastal patrols, strikes against navigation, liaison, officer transports, castaway rescues, and some kamikaze attacks.
 
 It was introduced in [[Update "Winged Lions"]] as a ship-launched reconnaissance aircraft. The E13A1 is a versatile plane that can be launched from ships with catapults. It can perform different roles in combat, such as scouting, bombing, capping, and smoking. Unlike regular planes, it has no ammo options or cockpit views. It has a [[Type 97 navy (7.7 mm)|7.7 mm Type 97 machine gun]] for self-defense and 4 x 60 kg bombs for attacking. It can also capture zones and create smoke screens (up to 3 times) to help allies. The E13A1 has more bombs than most scout planes, so it can damage or destroy enemy boats and even destroyers. The best way to use the E13A1 depends on the situation, but it can offer many tactical advantages.
 
 ;Nicknames
-* IJN Pilot nickname: ''{{Annotation|Reimizu|Zero Water}}'' <small>(零水, Abbriviation of {{Annotation|'''零'''式'''水'''上偵察機 ('''Rei''' Shiki '''Mizu'''kami teisatsu-ki)|Type 0 Reconnaissance Seaplane}})</small>.
+
+* IJN Pilot nickname: ''{{Annotation|Reisui|Zero Water}}'' <small>(零水, Abbriviation of {{Annotation|'''零'''式'''水'''上偵察機 ('''Rei''' Shiki '''Sui'''jō Teisatsuki)|Type 0 Reconnaissance Seaplane}})</small>.
 * Allied reporting name: ''Jake''.
 
 '''Ships that carry the E13A1'''
+
 * {{Specs-Link|jp_cruiser_agano}}
 * {{Specs-Link|jp_cruiser_mogami}}
 * {{Specs-Link|jp_battlecruiser_kongo}}

@@ -143,7 +143,7 @@ The 2PL playstyle is identical to the 2A4 and subsequent German MBTs. However, t
 *[[M1 Abrams (Family)|M1 Abrams]]: Good turret protection, but dead in the water if you fire anything at the UFP.
 *[[Strv 121]]: Hull and turret face can be penetrated by DM33.
 *[[Strv 122A]]/[[Strv 122B PLSS]]: Hull front impenetrable by DM33 unless MEXAS armour package is destroyed. Turret can be penetrated if additional composite screens are blown off
-*[[Leclerc]]/[[Leclerc S2]]: Literally penetrable anywhere by APFSDS.
+*[[Leclerc]]/[[Leclerc S2]]: Avoid aiming at the commander side of the turret even with DM43 APFSDS.
 *[[Challenger 2]]: LFP, breech, and driver's port.
 
 === Pros and cons ===

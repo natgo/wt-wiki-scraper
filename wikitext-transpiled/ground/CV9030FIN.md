@@ -71,7 +71,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 |}
 
 ==== Ammunition ====
-* '''Default:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEI-T|High-explosive incendiary tracer}}{{-}}{{Annotation|HEI-T|High-explosive incendiary tracer}}
+* '''Default:''' {{Annotation|APDS|Armour-piercing discarding sabot}}
 * '''MK266:''' {{Annotation|HEI-T|High-explosive incendiary tracer}}
 * '''MK258:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}
 

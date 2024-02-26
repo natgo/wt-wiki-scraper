@@ -125,17 +125,19 @@ This tank is a captured Pz.III J, and plays similarly. While it does have signif
 '''Pros:'''
 
 * Accurate and decently powerful gun
-* Great -10° gun depression, useful amongst hills
+* Good -10° gun depression
 * Decent mobility
 * APCR ammo has very high speed and good penetration, making shooting at long range easier
-* Armour can protect reliably against lower-ranked tanks like [[Ha-Go]], [[Pz.II (Disambiguation)|Pz.II]]
+* Armour can reliably protect against low caliber guns
+* Panzer III profile may trick some enemies into ignoring this vehicle
 
 '''Cons:'''
 
-* Penetration is lacking, as is post-penetration damage against enemies in up-tiers (e.g. [[M4A3 (105)]])
-* Awful turret traverse speed, cannot target flankers quickly
-* Flat unsloped armour and weak side armour get penetrated easily by common tanks like [[Pz.III F|Pz.III]], [[T-50]], [[SU-76M]]
-* Large and weak armour commander's cupola, often sticks out above the terrain, drawing the enemies' attention
+* Relatively low armor penetration for regular ammunition
+* Slow turret traverse speed
+* Flat frontal armour and thin side armour
+* Large commander's cupola can attract enemy fire
+* Panzer III profile will attract friendly fire in Simulator gamemodes
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

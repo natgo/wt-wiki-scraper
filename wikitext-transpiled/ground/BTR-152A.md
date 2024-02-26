@@ -1,7 +1,7 @@
 {{About
 | about = Soviet SPAA '''{{PAGENAME}}'''
-| usage = the other Soviet SPAA
-| link = BTR-ZD
+| usage = the other version
+| link = BTR-152D
 }}
 {{Specs-Card
 |code=ussr_btr_152a
@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}'''  (shortened to '''{{Specs|pseudonym}}''') is a rank {{Specs|rank}} Soviet Self-Propelled Anti-Aircraft gun {{Battle-rating}}. It was introduced in [[Update 1.71 "New E.R.A."]]. As with any APC, it features light armour on a spacey vehicle, a good crew count, a decent gun and good mobility. Since there is no infantry to fight, the BTR is used as an AA in-game.
+The '''BTR-152A''' is the first variant of the BTR-152-based self-propelled anti-aircraft gun family. Two 14.5 mm KPVT heavy machine guns are mounted in a turret on a BTR-152 and are manually operated by a single soldier. The turret is installed inside the troop compartment and is manually reloaded by other soldiers. The BTR-152 is a Soviet armoured personnel carrier (APC) with six wheels based on the chassis and drive train of a ZIS-151 utility truck. Beginning in 1950, it saw service with several Warsaw Pact member states and served as the mainstay of Soviet motor rifle battalions until the 1960s.
 
-The BTR-152 is an Armoured Personnel Carrier (APC) on a six-wheeled, open-topped truck chassis, meaning unlike the Soviet truck-mounted anti-aircraft vehicles, it can survive low-calibre MG fire from ground vehicles. However, anything above 30 calibre doesn't have much trouble taking this vehicle down. It features a top-mounted twin [[KPVT (14.5 mm)|KPVT]] gun mount with good traverse and elevation rate. Something to note is the presence of the two spare loaders in the back. Inexperienced players, or those who don't know the structure of the BTR-152A, tend to repeatedly shoot the cab of the truck, leaving these two crew members relatively unharmed.
+Introduced in [[Update 1.71 "New E.R.A."]], the BTR-152A offers strong anti-air capability during battles. Despite being armed with only two 14.5 mm KPVT heavy machine guns, they can cause significant damage to enemy aircraft. Some lightly armoured ground vehicles can also be destroyed or damaged by players. Overall, this is a strong and mobile anti-air platform that can protect teammates on the ground from enemy air strikes.
 
 == General info ==
 === Survivability and armour ===
@@ -161,8 +161,7 @@ File:CrewSpots BTR-152A.jpeg|X-ray view showing the positions of crew members
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[BTR-152D]] same chassis but with 4 [[KPVT (14.5 mm)]] instead of 2
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

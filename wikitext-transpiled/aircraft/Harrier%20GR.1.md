@@ -178,6 +178,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x SRAAM missiles
 * 108 x SNEB type 23 rockets
@@ -216,7 +217,7 @@ In Ground RB, usually planes have to fly back to their airfield to rearm/repair.
 * Exceptional thrust to weight ratio; high altitude climb is achieved with ease
 * Extremely good acceleration
 * Thrust vectoring VTOL aircraft: in Ground RB, it can rearm on helicopter pads and nozzles can be deflected in-flight for improved manoeuvring
-* Four powerful [[SRAAM]] missiles; four confirmed frags if used correctly.
+* Four [[SRAAM]] missiles; useful in dogfighting
 * Has a Ballistic Computer for all types of armament available
 * Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and weapon aiming functionality
 * Able to spawn from aircraft carriers and land/take off from anywhere.
@@ -226,7 +227,8 @@ In Ground RB, usually planes have to fly back to their airfield to rearm/repair.
 * Limited WEP duration of ~90 seconds because of rapid engine overheating
 * Although deflecting nozzles in flight can help with manoeuvrability, doing so bleeds a lot of speed
 * Weaker engine than other later [[Harrier (Family)|Harriers]]; engine performance declines as the altitude increases
-* Countering the [[SRAAM]] is possible with flares and by outrunning their ~1.5 km effective range.
+* Countering the [[SRAAM]] is extremely easy with flares due to missile's wide inner FoV and by outrunning their ~1.5 km effective range
+* The Harrier's low top speed massively limits usage of SRAAM missiles as it can't get close enough to the majority of its enemies from behind to launch its missiles
 * Has no radar nor RWR; the player won't easily notice incoming planes and missiles
 * No countermeasures; evading IR and SARH missiles requires skills and anticipation
 

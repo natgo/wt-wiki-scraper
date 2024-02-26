@@ -10,13 +10,17 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]]. In its early development, the Dewoitine D.520 was marred by official interference. The D.520 was the best fighter France had during the German invasion of 1940 and it was a fair match for the German Bf 109, with it having the manoeuvrability the faster German fighters lacked. Its pilots fought with great bravery and skill to bring respectability to the type during the Battle of France and the plane served along both sides in the war, with both the Vichy and Free French air forces possessing a number of the aircraft.
+The '''Dewoitine D.520''' was a French monoplane fighter employed during WWII and is considered by many as one of the best French-made fighters to be produced during WWII. The aircraft was powered by either the Hispano-Suiza 12Y-45 or 12Y-49 engines. The aircraft featured one Hispano-Suiza 20 mm cannon and four wing-mounted MAC 1934 7.5 mm LMGs. The plane served along both sides in the war, with both the Vichy and Free French air forces possessing a number of the aircraft, employed during the Battle of France with good results against the Luftwaffe and against the Italian Air Force, as well as in Syria in 1941 against British and Free French Forces alongside the German Luftwaffe.
+
+Introduced in [[Update 1.73 "Vive la France"]], the {{Specs|name}} has a mediocre handling in air battles. It has a decent turn time, but suffers from a low rate of climb and low top speed. Because of that the aircraft is best suited for Boom and Zoom, maintaining altitude and/or speed as a plan B in case you need to escape from an enemy. The aircraft requires good trigger discipline, at least for its 20 mm cannon, that only carries 60 rounds, meanwhile the 7.5 mm MGs have enough ammo to last for an entire match if used carefully, however, many times the MGs might be ineffective against heavier aircraft, like twin engine fighters and bombers.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 Due to the D.520's mediocre handling, each scenario must be exploited to the best for the maximum efficiency from the plane. However, maintaining a high speed with the aircraft is essential to do well in common dogfighting tactics such as Boom & Zoom and Turn & Burn.
+
+The best climb rate can be obtained with 220 km/h IAS and then slowly decreasing this speed to 180 km/h after 6000 m. For better cooling, 230 or 240 km/h are good too.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -97,7 +101,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-This fighter is the classic "jack of all trades, master of none". It can be an energy fighter, bomber hunter, or even a turn-fighter. It depends on your playstyle, and the kinds of enemy aircraft that are encountered.
+
+This fighter is the classic "jack of all trades, master of none". It can be an energy fighter, bomber hunter, or even a turn-fighter. It depends on your playstyle, and the kinds of enemy aircraft that are encountered. During the battle you have to keep in mind your best climb speed is 220 km/h (IAS) allowing you to reach a good 18 m/s. Your engine power will always increase due to the linear compressor giving you your best flight performance at 4000 m.
 
 The main purpose of the D.520 is the role of an interceptor/fighter. It has no bombing capability and thus stands limited to aerial combat. In this respect there are a few things to consider, first and foremost that this is a fighter that does not do great away from a squad. It has mediocre flight characteristics as far as speed, climb and turn is concerned. It is however quite well armoured to compensate for such, meaning that it will stay air-worthy where other aircraft would crash, and instead stands a fighter which is effective in engagements where it has support to rely on. Without such support, it is a very situational plane which can engage certain enemies depending on advantage in altitude, speed, or sometimes even a turning radius. It has a respectable armament of one powerful Hispano 20 mm cannon with a very limited ammunition load (60 rounds), and four 7.5 mm guns with a good deal of ammunition which makes it competitive in Realistic battles. Its strong airframe is able to withstand significant wind resistance making it potent in a longer dive. Despite its limited attributes it handles fairly comfortably and thus can be a real asset to a pilot which employs situational awareness combined with an in depth understanding of the enemy aircraft he will choose to either engage or avoid. It has a potent incendiary tracer round for its machine guns and the Hispano makes it pack a fairly significant punch despite its limited cannon ammunition. The D.520 is best considered a heavier single-seat fighter aircraft which can out-endure other enemy squads due to its armour, but not out-turn, out-run, or out-gun many other types of aircraft on its own rank.
 
@@ -107,7 +112,7 @@ The D.520 is capable for bomber hunting. It has good armour, not too bad climb r
 
 Enemies worth noting:
 
-* [[Bf 109 (Family)|Bf 109s]]: This plane is one of the D.520's most dangerous enemies. They can out-run you in level flight, but your turn rate is better, even without using combat flaps. So, the classic dogfight is the only way to counter them.
+* [[Bf 109 (Family)|Bf 109s]]: This plane is one of the D.520's most dangerous enemies. They can out-run you in level flight, but your turn rate is better, even without using combat flaps. So, the classic dogfight is the only way to counter them. Bf 109s have more engine power at all altitude, but the difference is almost gone at 4000 m where D.520 have the most power and then increase with altitude. A good way to deal with Bf 109 is to climb around 5000-6000 m and then bring the enemy plane to this altitude with a dogfight.
 
 * [[A6M2]]/[[A6M3]]: As always, never go in a turnfight with them. The D.520 can easily out-run the Zero in a shallow dive or even in level flight. Head-ons are recommended, because the Hispano cannon can have devastating impact on their weak airframes, and the MGs are capable of causing fires.
 
@@ -181,6 +186,7 @@ The D.520 fought with great distinction during the Battle of France. There were 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[D.520 (Family)]]
 
 == External links ==
@@ -191,6 +197,7 @@ The D.520 fought with great distinction during the Battle of France. There were 
 * [https://warisboring.com/42448-2/ <nowiki>[War is Boring]</nowiki> France's D.520 Fighter Flew for Many Sides in World War II] ([https://web.archive.org/web/20210511184017/https://warisboring.com/42448-2/ Web Archive])
 * [https://www.aviastar.org/air/france/dewoitine_d-520.php <nowiki>[aviastar.org]</nowiki> Dewoitine D 520] ([https://web.archive.org/web/20210511184204/https://www.aviastar.org/air/france/dewoitine_d-520.php Web Archive])
 * [http://www.historyofwar.org/articles/weapons_dewoitine_d520.html <nowiki>[History Of War]</nowiki> Dewoitine D.520] ([https://web.archive.org/web/20210511184404/http://www.historyofwar.org/articles/weapons_dewoitine_d520.html Web Archive])
+* [https://www.avialogs.com/aircraft-d/dewoitine/item/113528-notice-descriptive-et-d-utilisation-dewoitine-d520 [Avialogs<nowiki>]</nowiki> Descriptive and Usage Notice for the D.520.] (in French)
 
 {{AirManufacturer Dewoitine}}
 {{France fighters}}

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update "Ground Breaking"]]. The A-7E Corsair II is among the most capable ground attack aircraft in the game, sporting a variety of air-to-ground payloads including large calibre rotary cannon pods, unguided bombs and rockets, and medium range guided bombs. Additionally, CCIP and CCRP can be used for accurate usage of unguided weaponry, while an optional FLIR pod grants night vision and thermal sights to easily spot targets. This supreme air-to-ground capability comes with a hefty price; the A-7E is strictly limited to that ground attack role, as it has very slow speed and poor manoeuvrability which leaves it basically helpless in air-to-air combat.
+The A-7E was the last version of the Corsair II series used by the US armed services, operational from 1968 until retirement in 1991. Thailand, Portugal, and Greece continued to use the A-7E, with Greece retiring it in 2014.  It was a modified A-7D for naval operations with features like an arrestor hook, heavy-duty landing gear, and foldable wings for carrier operations. Upgrades included AN/APN-190 and AN/APQ-128 radars for ground-hugging flight, the aircraft also added hardpoints for the AIM-9D Sidewinder and retained the same capabilities of the A-7D in terms of ground attack.
+
+It was introduced in [[Update "Ground Breaking"]]. The A-7E Corsair II is among the most capable ground attack aircraft in the game, sporting a variety of air-to-ground payloads including large calibre rotary cannon pods, unguided bombs and rockets, and medium range guided bombs. Additionally, CCIP and CCRP can be used for accurate usage of unguided weaponry, while an optional FLIR pod grants night vision and thermal sights to easily spot targets. This supreme air-to-ground capability comes with a hefty price; the A-7E is strictly limited to that ground attack role, as it has very slow speed and poor manoeuvrability which leaves it basically helpless in air-to-air combat.
 
 == General info ==
 === Flight performance ===
@@ -204,6 +206,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9D Sidewinder missiles
 * 2 x AIM-9G Sidewinder missiles
@@ -296,7 +299,7 @@ The A-7E is effectively a modified version of the A-7D upgraded for Naval operat
 * [https://live.warthunder.com/feed/camouflages/?vehicle=a_7e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|OuL1L0FhblE|'''The Shooting Range #277''' - ''Metal Beasts'' section at 00:29 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|OuL1L0FhblE|'''The Shooting Range #277''' - ''Metal Beasts'' section at 00:29 discusses the {{PAGENAME}}.|A8B5w3Qb1AI|'''A-7E In War Thunder : A Basic Review''' - ''Tim's Variety War Thunder''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

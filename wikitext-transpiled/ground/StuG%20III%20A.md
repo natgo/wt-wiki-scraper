@@ -82,7 +82,7 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Stu
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.31.1.37''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -91,12 +91,14 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Stu
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''44''' || 30&nbsp;''(+14)'' || 15&nbsp;''(+29)'' || 1&nbsp;''(+43)'' || No
+| '''44''' || 21&nbsp;''(+23)'' || 16&nbsp;''(+28)'' || 0&nbsp;''(+44)'' || No
 |-
 |}
-'''Note''':
+'''Notes''':
 
-* Left side empty: 30&nbsp;''(+14)'' shells.
+* Racks disappear after you've fired all shells in the rack.
+* Bigger rack in the front right empty: 21&nbsp;''(+23)'' shells.
+* Right side completely empty: 16&nbsp;''(+28)'' shells.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

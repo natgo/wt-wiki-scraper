@@ -103,7 +103,15 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. index:]
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Elefant's natural role is as a long-range sniper thanks to its excellent firing range and frontal armour of more than 200 mm. Due to the frontal armour, this tank destroyer should always face the enemy to make use of it. Even though the Elefant is a heavy tank destroyer, it can rapidly drive backwards, which allows it to reposition more quickly than Soviet tank destroyers like the the SU-152 and the ISU-152.
+
+In a team, the Elefant acts as a heavy sniper, taking out enemies from afar while being almost immune to any tank shells. However, don't get too close to frontlines, since an enemy tank could slip through and flank the Elefant, which would put it in real danger.
+
+Another possibility is as a frontline brawler once most of the enemies have been cleared out. While it is not recommended, with flanking support of allies, the Elefant can venture further into enemy lines and take out everything that comes your way, but still watching for light tanks that will try to exploit the limited gun traverse to hit from the sides.
+
+The most dangerous enemies of the Elefant are medium tanks and light tanks which can slip behind the Elefant since the back armour is weak. The Elefant has bad manoeuvrability and turning around is very slow.
+
+IS-2 heavy tanks are a real threat to Elefant, as well as TDs of the same rank when firing sideways. Always face your armour frontally and take cover when possible.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -111,7 +119,7 @@ The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. index:]
 
 '''Pros:'''
 
-* Long 88 mm gun
+* Long 88 mm gun with high penetration
 * Good frontal armour
 * Good forward and reverse speed
 * Defensive MG, great for taking out open-topped vehicles

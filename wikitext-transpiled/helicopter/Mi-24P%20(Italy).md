@@ -1,3 +1,8 @@
+{{About
+| about = attack helicopter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Mi-24 (Family)
+}}
 {{Specs-Card
 |code=mi_24p_hungary
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO Code: Hind-F) is a premium rank {{Specs|rank}} Italian attack helicopter {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]].
+Hungary began to operate the Mi-24 in 1993 after receiving 20 Mi-24D/Vs as a gift from Germany. However, they realized that they were already obsolete by the time they were sent into service. An upgrade program was started to refit the Mi-24Ds and upgrade them to the Mi-24V and Mi-24P variant, which included the new GSh-30-2 fixed twin-barrel cannon, 9K114 Shturm (AT-6 "Spiral") radio-guided anti-armour missiles, integrated navigations and communications, and an English-language display/computer system.
 
-The Mi-24P is very similar to the [[Mi-24V (Italy)|Mi-24V]], having the same airframe, technology, and weapons. The only difference is the gun armament: the chin-mounted Yak-B gatling gun has been replaced with a fixed GSh-30-2 cannon mounted on the right side of the nose. This is the same type of cannon mounted on the [[Su-25]] attack jet, another Soviet "flying tank". Although it is difficult to aim, a quick burst from the cannon can shred lightly armoured vehicles. Thus, the Mi-24P is a sidegrade to the Mi-24V, having more anti-ground ability at the cost of a minor amount of anti-air capability.
+It was introduced in [[Update "Sons of Attila"]]. The Mi-24P is very similar to the [[Mi-24V (Italy)|Mi-24V]], having the same airframe, technology, and weapons. The only difference is the gun armament: the chin-mounted Yak-B Gatling gun has been replaced with a fixed GSh-30-2 cannon mounted on the right side of the nose. This is the same type of cannon mounted on the [[Su-25]] attack jet, another Soviet "flying tank". Although it is difficult to aim, a quick burst from the cannon can shred lightly armoured vehicles. Thus, the Mi-24P is a sidegrade to the Mi-24V, having more anti-ground ability at the cost of a minor amount of anti-air capability.
 
 == General info ==
 === Flight performance ===
@@ -110,6 +115,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 40 x S-8KO rockets + 4 x 9M114 Shturm missiles
 * 2 x R-60 missiles
 * 4 x R-60 missiles
@@ -158,16 +164,17 @@ Keep in mind that the kind of light vehicles that the Mi-24P's cannon is most ef
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mi_24p_hungary Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Mi-24 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

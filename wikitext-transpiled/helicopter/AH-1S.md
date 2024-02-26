@@ -71,15 +71,35 @@ The AH-1S compensates with its small size compared to the [[Mi-24 (Family)|Mi-24
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 1 x 20 mm M197 cannon (750 rpg)
+* 1 x 20 mm M197 cannon, chin turret (750 rpg)
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|BGM-71C Improved TOW|BGM-71D TOW-2|FFAR Mighty Mouse|M134 Minigun (7.62 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="5" width="20%" | <div class="ttx-image">[[File:Hardpoints_AH-1G_(Israel).png]]</div>
+|-
+! [[M134 Minigun (7.62 mm)|7.62 mm M134 Minigun]] machine guns (1,500 rpg)
+| || 1 || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 7, 19 || 7, 19 || 7, 19 || 7, 19
+|-
+! [[BGM-71C Improved TOW]] missiles
+| 2, 4 || || || 2, 4
+|-
+! [[BGM-71D TOW-2]] missiles
+| 2, 4 || || || 2, 4
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 28 x FFAR Mighty Mouse rockets
 * 76 x FFAR Mighty Mouse rockets
@@ -88,26 +108,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x BGM-71D TOW-2 missiles
 * 8 x BGM-71D TOW-2 missiles
 * 2 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 3,000 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="5" width="20%" | <div class="ttx-image">[[File:Hardpoints_AH-1G_(Israel).png]]</div>
-|-
-! 7.62 mm M134 Minigun machine guns (1,500 rpg)
-| || 1 || 1 ||
-|-
-! FFAR Mighty Mouse rockets
-| 7, 19 || 7, 19 || 7, 19 || 7, 19
-|-
-! BGM-71C Improved TOW missiles
-| 2, 4 || || || 2, 4
-|-
-! BGM-71D TOW-2 missiles
-| 2, 4 || || || 2, 4
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

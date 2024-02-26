@@ -15,6 +15,8 @@ The V.G.33 can adequately deal with planes with similar BR. It is quick, nimble 
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
+The aircraft flies well, as would be expected of a light fighter. Although its rate of climb is not the best, it is fast and retains energy well, allowing it to be used as a successful energy fighter. It has a good enough turn time, although it's not good enough to compete with the British and Japanese fighters at the BR. It is usually fast enough to outturn common foes such as Fw-190s and Bf109s. 
+
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
 ! colspan="2" | Max Speed<br>(km/h at 4,500 m)
@@ -75,6 +77,8 @@ The V.G.33 can adequately deal with planes with similar BR. It is quick, nimble 
 
 * 3 mm Steel plate between engine and oil cooling system.
 
+Due to the plane's general lack of armour, except for a 3mm steel plate between the engine and the oil cooling system, it's survivability is limited. . Although its airframe can survive more punishment than would be expected of such a lightweight wooden structure, it should not be relied on as an asset of this aircraft. Think of a hit survived as a lucky roll of the dice. The best policy for survival in this aircraft is to not be hit.
+
 === Modifications and economy ===
 {{Specs-Economy}}
 
@@ -89,6 +93,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * 1 x 20 mm Hispano 404 cannon, nose-mounted (60 rpg)
 * 4 x 7.5 mm MAC 1934 machine guns, wing-mounted (500 rpg = 2,000 total)
+
+The aircraft's armament can be powerful, but only in the right circumstances and when used correctly. As with many French aircraft, it possesses a potent propeller-hub mounted Hispano cannon, but it has very limited ammo. This is both a blessing and a curse, as while it does help with learning to conserve ammo and improving leading, it can be a steep learning curve, especially for those with less capable aim. The 20mm is supported by 4 x 7.5 mm MAC 1934 machine guns. These machine guns are also found on many French planes. While they have poor damage when stock, once the tracer belt is unlocked, these guns are quite potent, although they should not be relied on for larger targets such as bombers. It is recommended to use weapon selection to conserve 20mm ammunition for only when a hit is guaranteed, to make the most of the limited ammunition supplies.  
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -138,12 +144,13 @@ In mixed ground battles, your anti-tank capabilities are limited as the penetrat
 * The engine overheats quickly at low altitude (below 4,000 m / 12,000 ft)
 
 == History ==
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The VG33 C-1 was a member of the VG series that was designed in 1936. It was aimed to provide a solution to the French Airforce's lack of modern fighter aircraft. To achieve this, it used a wooden structure, which could utilise France's forests, alleviating the shortages in aluminium. It was designed to the same contract as the [[C.R.714]] and the Bloch MB.700. The Vg.30 was originally intended to be powered by a Potez 12Dc inline engine, but due to development issues with the engine, the prototype first flew in October 1938 with a Hispano-Suiza 12Xcrs. The VG 33 itself was a modified version of the VG-31, which used the  Hispano-Suiza 12Y-31 and which first flew in 1939, with great success. 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=vg_33 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -151,6 +158,7 @@ In mixed ground battles, your anti-tank capabilities are limited as the penetrat
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

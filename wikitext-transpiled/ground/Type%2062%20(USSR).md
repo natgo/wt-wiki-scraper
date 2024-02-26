@@ -100,7 +100,7 @@ While playing the Type 62, it is important to stay hidden from your enemy at all
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|Type 54 (12.7 mm)|SGMT (7.62 mm)}}
+{{main|Type 54 (12.7 mm)|Type 59 (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -113,7 +113,7 @@ While playing the Type 62, it is important to stay hidden from your enemy at all
 |}
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[SGMT (7.62 mm)|7.62 mm SGMT]]
+! colspan="5" | [[Type 59 (7.62 mm)|7.62 mm Type 59]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
@@ -140,7 +140,7 @@ The hardest tanks to destroy in the Type 62 will be the T29 and Tiger II (H), as
 * Good acceleration, can reach fast travel speed quickly
 * Small profile, smaller than the [[T-44]]
 * 85 mm is similar to the one on T-44, with access to superior shells
-* Access to 3BK2 HEATFS round, capable of penetrating 300 mm of armour
+* Access to Type 56 HEAT-FS round, capable of penetrating 300 mm of armour
 * Pintle-mounted 12.7 mm MG can provide AA defences
 * Decent ammo reserve for its size, 47 shells
 * Looks like a [[T-54 (1951)|T-54]], may cause opponents in RB and SB to take a pause to figure out what you really are
@@ -152,7 +152,7 @@ The hardest tanks to destroy in the Type 62 will be the T29 and Tiger II (H), as
 * Slow turret traverse
 * Rather long reload
 * Cramped crew and scattered ammo all over ensures easy knock-outs if penetrated
-* Gun depression is -4°
+* Gun depression is -5°
 * Gun is difficult to use in uneven terrain, as it takes a long time to depress / elevate the gun
 * Will rarely reach more than 50 km/h off-road
 
@@ -175,6 +175,7 @@ The Type 62 also saw exportation to many countries, ranging from Albania, Bangla
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_type_62 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

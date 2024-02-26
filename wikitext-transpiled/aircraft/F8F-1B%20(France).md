@@ -12,7 +12,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French naval fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+Shortly after WWII, France was in dire need of relatively modern military equipment, since conflicts in their colonies started to become more and more violent. Many allied nations like the US and Great Britain supplied France with surplus military vehicles left after WWII, like M4 Shermans, Spitfires, and other vehicles. The '''F8F-1B Bearcat''' was one of these aircraft, designed with the lessons learned during the Battle of Midway, it was developed too late to enter WWII. 200 were sent to France; even though they were already obsolete for 1951, they were enough to deal with small groups of guerrilla fighters like the Viet Minh, because they did not have access to any kind of air force. The Bearcats were used only in close air support.
+
+It was introduced in [[Update 1.73 "Vive la France"]]. The '''{{Specs|name}}''' is a very competent multirole fighter, with the ability to carry a large payload of bombs and rockets while still being competitive in air to air combat. It uses the same engine as the F6F-5 but in a much lighter airframe, which translates into a higher top speed and much better rate of climb, being better in this sense than all previous carrier-borne fighters of the US, like the F4F and F6F, or even the F-4U Corsair. In air battles, a good idea is climbing to high altitude at the start of the match, then diving into unsuspecting enemies or intercepting aircraft climbing slower than you. Since the Bearcat uses 20 mm cannons instead of conventional 12.7 mm HMGs, it is also better suited to dealing with large enemy bombers.
 
 == General info ==
 === Flight performance ===
@@ -129,6 +131,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x HVAR rockets
 * 2 x Tiny Tim rockets

@@ -1,3 +1,8 @@
+{{About
+| about = light tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = M41 Walker Bulldog (Family)
+}}
 {{Specs-Card
 |code=cn_m41_a3_walker_bulldog
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -137,9 +142,9 @@ Once players know the limits of M41A3, players will have to plan for a safe appr
 '''Cons:'''
 
 * Large profile for a light tank
-* The armour is thin and more than enough to trigger delay fuse of shells
-* Lacks HEATFS and APDS compared to other M41s
-* Very cramped combat compartment, all crews are literary sitting on/next to ammunition
+* While the armour is thin, it's more than enough to trigger the fuse of most shells
+* Lacks HEATFS and APDS compared to other M41s; however, much lower battle rating negates this
+* Very cramped combat compartment, all crews are sitting on/next to ammunition
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -149,16 +154,17 @@ By the last decade of the 20th century, after the failure to acquire the M8 AGS 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m41_a3_walker_bulldog Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[M41 Walker Bulldog (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

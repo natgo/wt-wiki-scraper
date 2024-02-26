@@ -27,12 +27,14 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|i-153_m62_china}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|hs-123a-1_china}}
 {{Tree-Arrow}}
 {{Tree-Unit|v_11g}}
 {{Tree-Arrow}}
 {{Tree-Unit|v_12d}}
+{{Tree-Skip}}
 |
 {{Tree-Unit|martin_139wc}}
 {{Tree-Skip}}
@@ -224,6 +226,8 @@
 {{Tree-Skip}}
 |
 {{Tree-Unit|j_8f}}
+{{Tree-Arrow}}
+{{Tree-Unit|j_11}}
 {{Tree-Skip}}
 |
 {{Tree-Unit|jh_7a}}
@@ -236,5 +240,12 @@
 {{Tree-Skip}}
 
 {{Tree-End}}
+
+== Media ==
+
+<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Videos
+{{Youtube-gallery|zvQ7luCQQi4|'''Chinese Aircraft: Long Road to Perfection''' - ''War Thunder Official Channel''}}
 
 [[Category:Aircraft by country]]

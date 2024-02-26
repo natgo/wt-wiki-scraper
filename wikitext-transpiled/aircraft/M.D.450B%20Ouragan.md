@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The '''{{Specs|name}}''' was a fighter jet developed in France by Dassault Aviation and introduced in 1952. It was a very important milestone for France at the time, since it was the first French-built jet powered aircraft, serving for decades and functioning as a fighter-bomber. It participated in several conflicts, being exported to nations such as Israel, India and El Salvador. The '''{{Specs|name}}''' was the second variant of the Ouragan to enter production, it used an improved Hispano-Suiza Nene 104B engine and had a revised landing gears, since the aircraft's guns were prone to damage the frontal doors of the landing gear when the cannons were fired.
+
+It was introduced in [[Update 1.73 "Vive la France"]]. The Ouragan is a very capable air superiority fighter for its rank, like many other early jet fighters, it should be played very different compared to previous prop fighters. For instance, it has a slow acceleration, even when compared to other jets, but it has a very good top speed and energy retention below 700 km/h thanks to the wing design, that allow good control at high and low speeds. The aircraft however compresses a lot above 850 km/h, and this should be noted for dogfights and other engagements. For ground attacks, the Ouragan is fitted with 1000 lb bombs and rockets as its main secondary armament, it can be used to destroy a small group of enemy tanks in ground battles and then switch to an air superiority role, destroying enemy aircrafts and helicopters.
 
 == General info ==
 === Flight performance ===

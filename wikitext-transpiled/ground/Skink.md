@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British SPAA {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The Canadian Army requested a self-propelled anti-aircraft utilizing a 20 mm autocannon to help protect mobile units. Utilizing their local productions of M4 Shermans (known locally as "Grizzly"), work began to adapt the Grizzly to be equipped with 20 mm anti-aircraft guns in March 1943. A prototype design was ready by January 1944, and in February the design was designated as the '''Skink'''. However, later in the year, the Skink production was cancelled due to lack of orders from the Allied partners, leaving with only 3 prototype models produced. One Skink was sent to Great Britain for evaluation, eventually sent it to combat theater and saw limited use. 
 
-A British and Canadian project for a self-propelled anti-aircraft gun to protect their armoured force, the Skink was a step above the [[Crusader AA Mk II|Crusader AA options]] with four 20 mm autocannons in an enclosed mount. While the Skink never got a chance to shoot down an enemy aircraft during World War II, players would have the chance to light up the skies to shoot down enemy pilots.
+Introduced in [[Update "Drone Age"]], the memetic Skink does bring some beneficial design choices to the British tech tree. Its enclosed turret has decent armour, protecting the crew from strafing aircraft and the M4 Sherman hull gives decent protection against other tanks. The four 20 mm Polsten guns also improve the chance of hitting aircraft, compared to the two on the Crusader AA. The downside in this firepower is that each gun only has a 30-round magazine, so it is best only in bursts rather than in sustained firing. While the Skink never got a chance to shoot down an enemy aircraft during World War II, players would have the chance to light up the skies to shoot down enemy pilots.
 
 == General info ==
 === Survivability and armour ===

@@ -128,7 +128,7 @@ The M24 (Japan) is a very good tank with a fairly interesting playstyle. Instead
 
 The tank offers a 75 mm M6 gun, which has a slower reload than the [[M4|Sherman]]'s 75 mm M3 gun but is otherwise the same. Its shells come in handy for certain tanks; they generally penetrate armour very well. It is rare to experience a ricochet or be to unable to penetrate any armour.
 
-Do not continuously shoot at a tank without backing up/moving. The vehicle's armour is very thin and will most likely be destroyed if it stays in one position and does not stop changing positions. Always try to get the first shot off in a head-on attack. Typically, the best shell to use is the M61 shell but it can also be beneficial to have M72 shells as well.
+Do not continuously shoot at a tank without backing up/moving. The vehicle's armour is very thin and will most likely be destroyed if it stays in one position and does not stop changing positions. Always try to get the first shot off in a head-on attack. Typically, the primary shell to use is the M61 APCBC-HE shell but it can also be beneficial to have M48 HE shells as well for soft targets.
 
 Another way to go around is to flank the enemy. If attacking with a more direct approach, keep hidden behind a building or boulder and pop out every now and then to take a shot at the enemy. Also, prioritize targets who are busy fighting others and cannot retaliate. Usually, after the first shot, it may disable their tank depending on what it is. Disabling the enemy tank's crew, tracks, engine, etc. allows for retaliation without the risk of any incoming enemy shells.
 
@@ -136,7 +136,7 @@ Another way to go around is to flank the enemy. If attacking with a more direct 
 
 * [[Sd.Kfz.234 (Family)|Sd.Kfz.234]] series (mixed ground battles) - The M24, although agile, is still not the fastest tank at its rank. When your opposite team has Germany, you might want to reconsider the option of capping a point straight away, since the German Sd.Kfz.234 series are very likely to be there first. The [[Sd.Kfz.234/2]] (also known as the Puma) is a turreted 8-wheel vehicle with a small profile, extremely high on-road speed and a powerful 50 mm gun. But it cannot turn in place, has a very slow turret traverse and only 8 mm of side hull armour, so a good tactic is to circle with it and utilise your stabiliser, fast turret and the piercing .50 cal. In an intense brawl, you might miss your shots. Don't worry, your reliable .50 cal got you! It can penetrate the sides, or even the front of the puma easily. The [[Sd.Kfz.234/3]] and [[Sd.Kfz.234/4]], although being equally deadly, are turretless. You can use some quick turns to avoid their guns or tear through the thin armour plate protecting their gunners with your .50 cal.
 * [[KV-1]], [[KV-1E]], [[KW I C 756 (r) (Germany)|KW I C 756 (r)]] - The famous KV series can cause a bit of troubles too. They are well know for their well-protected hull and turrets. The M24 can manoeuvre to point-blank range, line up your gun so it's pointing dead flat at the armour and fire. The 104 mm penetration of the M61 shell should punch a hole in the KV's armour with ease. If you are close enough but do not have the space to manoeuvre, shoot their gun barrel to prevent them from getting a shot off, then go for their turret ring or the vertical part on their gun mantlet, which is only 90 mm. For the KV-1E, do not fire at its turret from the front and side, as they are 105 mm thick and will never get penetrated. For the KV I C 756, aim for the cupola (50 m) or the gun mantlet (50 mm) to knock out the turret crew or the gun breech. Don't shoot at anywhere else, the shell won't penetrate.
-* [[Churchill (Family)|Churchill]] heavy tanks - The Churchills, with their complex hulls and sturdy turrets, can be quite hard to kill at range. Again, manoeuvre as close to them as possible, the idea distance being no more than 200 m. If they are angling their hull but facing their turret at you, only go for the turret. For the Mk I Churchills, aim at the near-vertical part of their rounded cheeks to ensure successful penetrations. For the Mk III and the German Churchill, also aim for their flat turret which is at most 89 mm. The shell should go in easily and knock out most, if not all of the crew. Only when you are facing their hull without any angles should you shoot the hull, otherwise shoot the turret only, as their big tracks can easily get in front of the frontal hull. The side hull have multiple layers of armour, some of which are weirdly angled and can absorb plenty of shells.
+* [[Churchill (Family)|Churchill]] heavy tanks - The Churchills, with their complex hulls and sturdy turrets, can be quite hard to kill at range. Again, manoeuvre as close to them as possible, the ideal distance being no more than 200 m. If they are angling their hull but facing their turret at you, only go for the turret. For the Mk I Churchills, aim at the near-vertical part of their rounded cheeks to ensure successful penetrations. For the Mk III and the German Churchill, also aim for their flat turret which is at most 89 mm. The shell should go in easily and knock out most, if not all of the crew. Only when you are facing their hull without any angles should you shoot the hull, otherwise shoot the turret only, as their big tracks can easily get in front of the frontal hull. The side hull have multiple layers of armour, some of which are weirdly angled and can absorb plenty of shells.
 * [[M4A2]]/[[M4A4 (1st PTG)|A4]] - These Sherman tanks are widely used by over 3 nations that spread across both the Allied and the Axis side, so no matter which nation you play they can be quite tough to destroy in the hands of a skilled tanker. Given the rather weak penetration of your short 75 mm gun, their hull can be almost impossible to penetrate when angled, hull down or 300 m away. For a M4A4, there are 2 apparent bulges on the upper front plate, a penetration through there is a guaranteed kill most of the times. But in case the opponent covers them up or when it's an M4A2, aim for the middle parts of the gun mantlet or the turret armour unprotected by the mantlet, you can at least make them defenseless.
 * [[StuG III G]], [[StuH 42 G]], [[Jagdpanzer 38(t)]] - These German tank destroyers could either be lethal ambushes or heavily armoured "heavy tanks". They have low profiles which make them harder to be recognised especially in vegetative/hilly environments. Additionally they have extremely thick frontal protection for their BRs. Specifically, the StuG and StuH can have a greatest frontal thickness of 100 mm with extra tracks, making them almost invincible for the M24's short 75 mm gun. Therefore M24 ought to stay away from direct battle with them as they are hard to be frontally penetrated and can without much of a stretch destroy the M24. Luckily, all 3 don't have a turret and are inadequately protected in terms of side armour, so flanking become an effective way to finish them off. Nonetheless, know that StuG and StuH can turn their hull quite fast in response to flankers, so be careful when circling them.
 
@@ -182,12 +182,13 @@ On July 1st, 1954, after the 1954 Self-Defense Forces Act [Act No. 165 of 1954],
 
 While the M24 was already outdated for the Cold War against the Soviet's [[T-34-85]], they would still see limited use in the SDF considering no active war was being fought and Japan still had to develop its own tank arsenal.
 
-Only until 1974, with the introduction of the [[Type 74 (Family)|Type 74]], would the M24s be completely be phased out as a relic of the past.
+Only in 1974, with the introduction of the [[Type 74 (Family)|Type 74]], would the M24s be completely be phased out as a relic of the past.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_m24_chaffee Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -199,10 +200,12 @@ Only until 1974, with the introduction of the [[Type 74 (Family)|Type 74]], woul
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[AMX-13 (FL11)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

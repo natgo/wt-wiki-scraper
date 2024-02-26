@@ -207,6 +207,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 20 mm Mk 11 mod 5 cannon (750 rpg)
 * 1 x 600 gal drop tank
 * 2 x AIM-9D Sidewinder missiles + 1 x 20 mm Mk 11 mod 5 cannon
@@ -252,7 +253,7 @@ Although the gunpod hurts performance, it is worth equipping in Air RB. The F-4J
 
 '''Pros:'''
 
-* Equipped with a pulse-Doppler radar, allowing targets close to the ground to be tracked and engaged
+* Equipped with a Pulse-Doppler radar, allowing targets close to the ground to be tracked and engaged
 * Large selection of unguided munitions for ground attack
 * Has a helmet mounted sight to launch AIM-9Gs off-boresight and slew the radar
 * Good air-to-air missile combinations
@@ -267,6 +268,10 @@ Although the gunpod hurts performance, it is worth equipping in Air RB. The F-4J
 * No internal gun, external gunpod negatively affects performance
 * Has poor manoeuvrability as it lacks the F-4E's leading-edge slats
 * Top speed and acceleration, while decent, isn't nearly enough to outrun the majority of opponents
+* RWR
+** Lacks IFF
+** Lacks tracking detection
+** Limited threat types
 * Lower countermeasure capacity than other Phantoms
 
 == History ==

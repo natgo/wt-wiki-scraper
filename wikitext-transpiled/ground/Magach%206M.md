@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The '''{{Specs|name}}''' was part of the Israeli fleet of M60 tanks acquired from the United states that served alongside Centurion MBTs and other light tanks. This specific variant of the vehicle was the latest variant developed by Israel for the M60A3, it was identical to the Magach 6R but has a new Nachal Oz fire control system fitted. Other than that, the vehicle remained very similar to others in Israeli service with Blazer ERA blocks, but the tank was not very liked by the crew members since the reliability was relatively poor. With the introduction of more capable Magach tanks like the Magach 7, the Magach 6M quickly became obsolete and no further modifications were installed.
+
+It was introduced in [[Update "Drone Age"]]. This tank suffers from very poor survivability with its a mediocre armour and a lacklustre mobility. However it is still very competitive around its rank thanks to the much improved fire control system with thermal imaging system for the gunner. Unlike other M60 tanks, this one has the smaller commander cupola without the 12.7 mm heavy machine gun, which is a great plus since it was an easy target for HE shells. The Magach 6M is a tank that should not be played aggressively, instead, stay behind your teammates and, when you have possibility, flank the enemy under the cover of more capable frontline tanks like the Merkava. Another option is using your gun depression to stay back and play as a sniper, picking off enemies at long ranges with your thermal sight, this strategy works very well specially in downtiers when most tanks lack any sort of modern fire control systems.
 
 == General info ==
 === Survivability and armour ===
@@ -89,6 +91,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 |}
 '''Notes'''
+
 * Shells are modelled to deplete in groups of two or three
 * The last shell in rack 2 is grouped with the last shell in rack 3, and only disappears once rack 3 is depleted
 
@@ -129,9 +132,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -142,6 +147,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_6m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -150,6 +156,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Magach (Family)]]
 
 == External links ==
@@ -157,6 +164,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The PBY-5 Catalina was one of the most widely produced and used seaplanes in WWII, with a lifetime so extended, that some can be found today being used for civilian applications. Before the start of WWII, many critics said that the era of the seaplane had ended, because of their low speed. However the Catalina managed to grab the attention of the United States thanks to its amazing range, durability, and very large payload, meaning that it could be equipped to do several missions in a single run. The Catalina was largely used in the Atlantic and in the Pacific region, it was also exported to several Allied nations, including the Soviet Union, in which it gained an excellent reputation. It was mostly used for reconnaissance, however it was also used to hunt German U-Boats in the Atlantic, many times flying alongside convoy groups.
 
-The plane is overall good but, when using it in air arcade or custom, it was easy to get shot down even with the AI gunners on the side protecting you. When bombing with it, you will get 16 100 lb (pounds) bombs. The first module unlock is the 100 lb bombs. Beyond that, you can research torpedoes weighing 2216 lbs and are very effective against long boats and ships in general. One torpedo is often enough to sink pretty much anything in the game save AI carriers which require two. Also there are two more unlockable bomb loadouts. In order to get the 1000 lb bomb, you need to get the improved torpedo, and once your done with that you can research it, with the 1000 lb bomb you can destroy 3 tanks at once, possibly even more if it lands in the center of a cluster of enemy tanks. You can also attach 500 lb bombs but they are only limited to four bombs, same with the 1000 lb bombs. The PBY-5 is easy to get shot down or burnt down because it is slow, and most fighter planes could take it down easily, so just stay at high altitude. Overall, it is hard to bomb without getting shot from AAA's or other planes but a fairly decent starter bomber.
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The '''{{Specs|name}}''' is a capable bomber thanks to its very large payload, however it is a very large target, so it can be easily shot down by fighters without much trouble. The payload of the Catalina is one of the bests for its rank, being capable of carpet bombing large areas of ground battles or destroy entire ships in naval battles, of course it can also destroy several bases in air battles. One torpedo is often enough to sink pretty much anything in the game except carriers that require two. The flight performance of the Catalina leaves a lot to be desired, it is slow to accelerate and has a slow top speed, making it an even easier target for fighters and AA. It has a decent defensive armament, with the sides being covered by 12.7 mm HMGs and the rest by 7.62 mm, this can be enough to deal with a single biplane, but it will not hold against groups of two or three enemies at once.
 
 == General info ==
 === Flight performance ===
@@ -125,6 +125,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 16 x 100 lb AN-M30A1 bombs (1,600 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)

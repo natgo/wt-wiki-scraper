@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
+Following the acceptance of the Attacker aircraft into the Fleet Air Arm in August 1951, changes followed along to improve the aircraft. First was the [[Attacker FB 1]], which added pylon under the wings to mount ordnance. Next along was the '''{{PAGENAME}}''', which saw the use of a new Rolls-Royce Nene engine among other redesigns. 84 units of the {{PAGENAME}} would be produced. However, as the first of its kind, the Attacker was soon outpaced by more powerful jet engine designs and was quickly replaced by 1954.
+
+Introduced in [[Update "Ixwa Strike"]] as a premium vehicle, the {{PAGENAME}} does not differ much from its tech tree version, the FB 1, presenting the same first-gen jet aircraft characteristics of having a quality engine to get the Attacker into positions to jump onto enemy aircraft or rain down ordnance onto ground targets. It can be a good starting place to understand the transition from piston-engine aircraft to jet-engine aircraft.
 
 == General info ==
 === Flight performance ===

@@ -1,6 +1,7 @@
 {{Specs-Card
 |code=strikemaster_mk88
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|market=id50244_strikemaster_mk_88_great_britain
 }}
 
 == Description ==
@@ -15,7 +16,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British strike ai
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 6,096 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -24,10 +25,10 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British strike ai
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | 1,200
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 810 || 776 || 24.8 || 25.0 || 31.2 || 26.0
 |-
 |}
 
@@ -38,7 +39,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British strike ai
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -53,7 +54,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British strike ai
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| 875 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 340 || 292 || ~12 || ~4
 |-
 |}
 
@@ -76,7 +77,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British strike ai
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
+| colspan="2" | Rolls Royce Viper Mk.535 || _
 | colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -85,7 +86,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British strike ai
 ! Weight (each) || colspan="2" | Type
 ! _m fuel || __m fuel || __m fuel
 |-
-| ___ kg || colspan="2" | ___
+| 350 kg || colspan="2" | Jet
 | _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
@@ -148,24 +149,30 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-*
+* Various secondary weapon loadouts
+* Small profile makes for a small target
+* High top speed
 
 '''Cons:'''
 
-*
+* Mediocre manoeuvrability
+* Slow acceleration
+* Small calibre guns
 
-== History ==<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+== History ==
+<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 === Devblog History ===
 The concept of the Strikemaster light attack jet came to fruition after the successful conversion of the Jet Provost trainer aircraft by some foreign operators into a strike aircraft, ready to use in combat against insurgents. The British Aircraft Corporation (BAC) began to equip the aircraft with a more powerful engine, front-facing machine guns, and weapon mounts for export sales, so that even countries with modest economies could afford an inexpensive attack aircraft. The Mk.88 was specifically designed for the New Zealand Air Force — with the first aircraft of this modification being delivered in 1972, which remained in service until 1993. The Strikemaster set a world record as the most frequently ordered aircraft for export, and was in service with the air forces of 10 foreign countries!
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Videos
+{{Youtube-gallery|V5mtjVXLry0|'''The Shooting Range #384''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.|vhWvNPi9LuQ|'''Battle Pass: Tropical Storm''' discusses the {{PAGENAME}} at 2:16 - ''War Thunder Official Channel''|avl9dE1525Y|'''The Shooting Range #379''' - ''Pages of History'' section at 03:46 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

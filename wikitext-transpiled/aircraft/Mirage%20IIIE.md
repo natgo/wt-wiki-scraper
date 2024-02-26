@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French jet fighter {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]]. Contrary to its older sibling, the Mirage IIIC, the Mirage IIIE represents a successful attempt to integrate air-to-ground capabilities into the Mirage III line of aircraft. These capabilities are achieved by the addition of a ballistic computer to aid in the destruction of ground assets with guns, bombs, and rockets. The aircraft also receives numerous improvements, such as a new version of the Atar 9 engine, which is not only slightly more powerful, but also much more responsive. An RWR system and a countermeasure dispenser is also installed.
+The '''{{Specs|name}}''' was designed to be closer to a multirole fighter compared to the interception-focused [[Mirage IIIC]]. It featured a British-made pulse-Doppler navigation radar located below the cockpit, as well as increased fuel capacity, a more modern SNECMA ATAR 09 turbojet engine, and improved avionics located directly behind the cockpit. A total of 192 aircraft were built by Dassault for the French Air Force, by 1971 it had become the most widely produced variant of the Mirage III.
+
+It was introduced in [[Update "Ixwa Strike"]]. Contrary to its older sibling, the Mirage IIIC, the Mirage IIIE represents a successful attempt to integrate air-to-ground capabilities into the Mirage III line of aircraft. These capabilities are achieved by the addition of a ballistic computer to aid in the destruction of ground assets with guns, bombs, and rockets. The aircraft also receives numerous improvements, such as a new version of the Atar 9 engine, which is not only slightly more powerful, but also much more responsive. An RWR system and a countermeasure dispenser is also installed.
 
 == General info ==
 === Flight performance ===
@@ -207,6 +209,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 30 mm DEFA 552A cannon (250 rpg)
 * 2 x AIM-9B Sidewinder missiles
 * 2 x Matra R550 Magic 1 missiles

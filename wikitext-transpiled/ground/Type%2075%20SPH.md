@@ -10,9 +10,14 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Type 75 {{Annotation|SPH|Self Propelled Howitzer}}''' is an armoured artillery vehicle used exclusively by the Japan Ground Self-Defence Force. It is based on the  [[Type 73 (Family)|Type 73 APC]] chassis and has a 155 mm howitzer with an autoloader.
+The '''Type 75 155 mm {{Annotation|SPH|Self Propelled Howitzer}}''' (75式自走155mmりゅう弾砲) belonged to the second generation of Japanese self-propelled howitzers, along with the Type 74 105 mm SPH. These models were designed to replace the US-leased M44 155mm SPH and M52 105mm SPH, respectively. Development kicked off in 1965, aligning with the initiation of development phases for the [[Type 74 (Family)|Type 74 MBT]] and [[Type 73 (Family)|Type 73 APC]], resulting in shared component usage. 
+Following NATO standardization, the calibre of the new SPH was set at 155 mm. The prototype stage, initiated in 1969 under the 155HSP program, saw {{Annotation|MHI|Mitsubishi Heavy Industries}} developing the hull, while {{Annotation|JSW|Japan Steel Works}} worked on the domestic 155 mm cannon. Various iterations of the 155HSP, testing barrel lengths (L/24 & L/30), auto-loader mechanics, and additional features, culminated in the finalization of the vehicle in December 1974 as the Type 75 155 mm SPH, equipped with the domestic JSW L/30.
 
-It was introduced in [[Update 1.91 "Night Vision"]]. The autoloader allows a consistent 10s reload rate regardless of crew number, and can fire high-explosive shells with different fuses, as well as smoke shells. The best strategy is to aim for turret roofs or close to the turret base to maximise splash damage. The Type 75 SPH has weak aluminium armour and can be easily destroyed by heavy machine calibres and up.
+It was introduced in [[Update 1.91 "Night Vision"]]. The standout feature of the Type 75, when compared to counterparts like the [[M109 (Family)|M109]], [[2S3M]], and similar vehicles, is the use of an automated 10-second loading feed. The L/30, while reasonably sized, provides slightly higher velocity than the 155 L/24 of the [[M109 (Family)|M109(G)]] but exhibits a greater drop than the 155 L/39 of the [[M109A1]] or 152 mm Warsaw Pact cannons. However, this drop can be mitigated by loading the domestic Type 75 HE shell, albeit at the expense of lower HE filler for increased velocity. The armour, typical of many self-propelled howitzers, only offers protection against distant rifle calibre fire and explosion fragments, rendering it unreliable in direct combat.
+
+;Nicknames
+
+* JGSDF Abbreviation: 75HSP / SP - <small>(Howitzer) Self-Propelled</small>
 
 == General info ==
 === Survivability and armour ===
@@ -91,6 +96,7 @@ When compared to the clearly similar artillery tanks, the {{PAGENAME}}'s weapon 
 |}
 
 ==== Ammunition ====
+
 * '''M107''': Your stock HE shell. It can essentially destroy almost any tank that doesn't have ERA shielding in one hit. As with other HE tanks, like the [[Ho-Ro]], it can't penetrate armour directly on many tanks, so one has to aim for cupolas, machine guns, chassis and other weak spots. For example the [[M103]] have great frontal armour, but it can be simply shot at the turret base, and the shockwave will breach hull roof armour and hit the ammo rack located just below the turret in the hull, resulting in instant destruction.
 * '''M107 (PF)''': Also an HE shell like the M107, but with a 3 m proximity fuse, so it does not explode upon impact but earlier instead, when the radio fuse (inside the shell) detects an obstacle nearby. Notice that this is a proximity fuse, and not a radio fuse. This means that the fuse will not detect the aircraft unless in immediate proximity (3 m radius). 
 * '''Type 75''': This HE shell doesn't have a proximity fuse, but its muzzle velocity is faster, which make it more reliable at over 1 km range and allows for significantly easier and faster aim in RB. It was achieved by reducing its penetration power.
@@ -116,14 +122,18 @@ When compared to the clearly similar artillery tanks, the {{PAGENAME}}'s weapon 
 '''Notes''':
 
 * Projectiles and propellant bags are modeled individually and disappear after having been shot or loaded.
+
 Projectiles:
+
 * Racks 2 and 3 (autoloader magazines) are first stage ammo racks. They total 18 shells.
 * These racks get filled first when loading up the tank and are also emptied first.
 * As it is equipped with an autoloader, manual reloading of the gun is not possible.
 * Once the autoloader magazines have been depleted, you can't shoot until the loader has restocked the autoloader. The restocking time is longer than the normal reload time of the gun. Take this into account when playing.
 * Simply not firing when the gun is loaded will move ammo from rack 1 into racks 2 and 3. Firing will interrupt the restocking of the ready racks.
 * The depletion order at full capacity is: 2 - 3 - 1.
+
 Propellants:
+
 * Rack 2 contains 18 propellant bags (14 from the forward rack + 4 from the rear rack)
 * Rack 1 contains only 10 bags on the rear rack.
 * Simply not firing when the gun is loaded will move ammo from rack 1 into rack 2. Firing will interrupt the restocking of the ready racks.
@@ -146,7 +156,7 @@ Propellants:
 ! {{Annotation|Noise Level|How much noise is present in the image (how grainy the image is)}}
 |-
 ! Gunner's Sight
-| X8 - X16 || N/A || N/A || N/A || Not Fitted ||
+| X4 || N/A || N/A || N/A || Not Fitted ||
 |-
 ! Commander's View
 | X6 || N/A || N/A || N/A || Not Fitted ||
@@ -155,14 +165,6 @@ Propellants:
 | X1 / 3PV || 800X600 || ___ || high || Not Fitted || Only useable with an upgrade
 |-
 |}
-
-* Zoom level specified in X-ray. Type 75 SPH has optics similar to [[ST-A1]] and they are same as the German sniper scopes of the rank.
-
-While optics are very powerful on this tank, they may be inconvenient to use in RB until the type 75 shell is researched due to low velocity of the standard shell. In arcade mode, unless you are trying to launch the top shell at a distance over 1,000 m it rarely matters.
-
-Even in the worst cases, the excessive magnification power can still be exploited if the user manually zero-in gun scope to 300-X m distance, so they can directly aim at tanks even with maximum zoom. This helps to target out their weak spots and launch HE exactly where it hurts when the tank is spaded. This comes with a disadvantage of the scope being too high for close combat, so keep the "reset" button or third-person view aim ready.
-
-Use Rangefinder and zero-in the gun distance manually wherever necessary to make operating the tank easier. For example, to use proximity shell against a tank in cover, range-find the object which they hide behind, set scope distance to that exact number and intentionally overshoot it by a few meters.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -207,7 +209,6 @@ Not every tank should be attacked with a proximity shell, as it's not always ben
 * Unlike almost all other heavy demolition tanks, like the [[FV4005]] and the [[2S3M]], the Type 75 has a fully automatic autoloader and will always reload about as fast as a medium tank
 * The low velocity of the stock shell makes it possible to fire from behind some hills while keeping most of the Type 75 hidden
 * Has the privilege of the proximity fuse shell, which allows tank destroyers to take out enemies behind cover and exploit their normally untouchable weaknesses
-* 8X to 16X zoom can be used to locate and annihilate hostile tanks, however, rangefinding and manual gun scope adjustments are necessary for comfortable use
 * Angled turret can sustain a point-blank fire of 12.7 mm and some damage can be taken without instantly exploding the tank or reducing reload speed down to 1.5 minutes like in the case of [[FV4005]], although an enemy should be kept on the left side to have a chance of survival
 
 '''Cons:'''

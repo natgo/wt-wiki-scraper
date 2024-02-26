@@ -13,7 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light tank {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
+France operated a large number of M3A3s leased from the United States, part of the 651 light tanks operated by Free France. The 2nd Armored Division was the largest user of this tanks, meanwhile the 1st and 5th divisions operated a mix of M3A3s and M5A1s. The tanks were usually designated for recon roles and sometimes infantry support, although regular Shermans or self propelled howitzers were preferred for this. The units were kept available in Recon Armored units at the battalion level. The tanks were operated from D-Day to the end of World War II.
+
+It was introduced in [[Update 1.97 "Viking Fury"]]. The M3A3 offers a good platform with a mediocre firepower for its BR. Being a Stuart, it has a very good mobility, but it has a lacklustre cannon, while the penetration is not usually a problem the tank does suffer from mediocre ammunition, and the Stuart's high speed makes it hard to aim with the stabilizer, since this stops working at high speeds. The tank however is very fast and nimble, and because of its small size, it is able to evade danger in most situations.
 
 == General info ==
 === Survivability and armour ===

@@ -20,6 +20,7 @@
 {{Tree-Arrow}}
 {{Tree-Unit|i-16_type24}}
 }}
+{{Tree-Skip}}
 |
 {{Tree-Group|i-15_group|I-15|
   {{Tree-Unit|i-15_1934}}
@@ -55,6 +56,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|yak_2_kabb}}
+{{Tree-Skip}}
 |
 {{Tree-Group|sb_group|SB|
   {{Tree-Unit|sb_2m_100}}
@@ -205,17 +207,17 @@
 {{Tree-Arrow}}
 {{Tree-Unit|yak-9u}}
 }}
-{{Tree-Arrow|4}}
+{{Tree-Arrow|5}}
 |
 {{Tree-Unit|i_185_m82}}
 {{Tree-Arrow}}
 {{Tree-Unit|i_185_m71_standard}}
-{{Tree-Arrow|4}}
+{{Tree-Arrow|5}}
 |
 {{Tree-Unit|la-5fn}}
 {{Tree-Arrow}}
 {{Tree-Unit|la-7}}
-{{Tree-Arrow|4}}
+{{Tree-Arrow|5}}
 |
 {{Tree-Group|il-2m_group|IL-2M|
   {{Tree-Unit|il_2m_1943}}
@@ -224,7 +226,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|su-6_m71}}
-{{Tree-Arrow|4}}
+{{Tree-Arrow|5}}
 |
 {{Tree-Group|er-2_group|Yer-2|
   {{Tree-Unit|er-2_m105_mv3}}
@@ -243,7 +245,7 @@
 }}
 {{Tree-Arrow}}
 {{Tree-Unit|pe-8_m82}}
-{{Tree-Arrow|3}}
+{{Tree-Arrow|4}}
 | style="border-left: solid 1px #cccccc;" |
 {{Tree-Unit|a_20g_30_ussr}}
 {{Tree-Skip}}
@@ -263,6 +265,8 @@
 {{Tree-Unit|yak-9m}}
 {{Tree-Skip}}
 {{Tree-Unit|pe-2-205}}
+{{Tree-Skip}}
+{{Tree-Unit|il_8_1944}}
 {{Tree-Skip}}
 {{Tree-Unit|tu-2_early}}
 {{Tree-Skip}}
@@ -464,6 +468,7 @@
 {{Tree-Unit|su_17m2}}
 {{Tree-Arrow}}
 {{Tree-Unit|su_17m4}}
+{{Tree-Arrow}}
 |
 {{Tree-Unit|su_25t}}
 |
@@ -491,6 +496,7 @@
 {{Tree-Unit|mig_29smt_9_19}}
 {{Tree-Skip}}
 |
+{{Tree-Unit|su_27}}
 {{Tree-Skip}}
 |
 {{Tree-Skip}}

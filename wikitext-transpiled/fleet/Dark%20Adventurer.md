@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British motor gun boat {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test. With the split of the naval tech trees in [[Update "New Power"]], {{PAGENAME}} was moved to the coastal fleet tech tree.
+The '''{{Specs|name}}''' was the lead ship of the Dark-class fast patrol boats built for the Royal Navy in the mid-1950s. The boats featured alloy framing and wooden decks and skin. 27 were ordered in 1954, but nine were cancelled a year later. The ships featured interchangeable armament which meant they could serve in both motor gun boat and motor torpedo boat roles, depending on their task. They were also the only diesel engine-powered fast patrol boats in the entire Royal Navy. Dark Adventurer was launched on 28th October 1954 and sold in January 1970.
+
+The Dark Adventurer was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test. With the split of the naval tech trees in [[Update "New Power"]], {{PAGENAME}} was moved to the coastal fleet tech tree. The Dark Adventurer is depicted in the motor gun boat configuration featuring a single 114 mm gun on the bow and 40 mm Bofors autocannon on the stern with no torpedo launchers. Her sister [[Dark Aggressor]] is depicted in the motor torpedo boat configuration with four 533 mm torpedo tubes and 40 mm autocannon on the bow.
 
 == General info ==
 === Survivability and armour ===
@@ -20,17 +22,17 @@ Dark Adventurer has the following armour layout:
 
 [[File:{{PAGENAME}}_internals.png|thumb|{{PAGENAME}} internals (starboard side). Note the ammo racks below the forward gun.]]
 
-Like most coastal vessels, Dark Adventurer has no practical armour. The gunshields are largely superficial; while they may stop low-calibre machine guns, heavy machine guns and cannons will easily penetrate them at any range. The hull and superstructure are unarmoured and will not stop any sort of gunfire. 
+Like most coastal vessels, Dark Adventurer has no practical armour. The gunshields are largely superficial; while they may stop low-calibre machine guns, heavy machine guns and cannons will easily penetrate them at any range. The hull and superstructure are unarmoured and will not stop any sort of gunfire.
 
-The hull is split into four hull sections. Starting from the bow and working towards the stern, the first section starts at the bow and ends just in front of forward gun; the second ends just after the bridge; the third ends where the fuel tanks end, just in front of the engines; and the fourth ends at the stern. 
+The hull is split into four hull sections. Starting from the bow and working towards the stern, the first section starts at the bow and ends just in front of forward gun; the second ends just after the bridge; the third ends where the fuel tanks end, just in front of the engines; and the fourth ends at the stern.
 
 Any round with a large enough diameter and explosive mass can hull break Dark Adventurer. In general, this is limited to HE rounds greater with a diameter greater than or equal to 4 inches (102 mm) and with an explosive mass greater than 1.5 kg. At Dark Adventurer's own battle rating, there is only one gun capable of hull-breaking her:
 
 * the [[8cwt QF Mk I (114 mm)|114 mm 8cwt QF Mk I]], found on Dark Adventurer herself.
 
-There is one ammunition storage that holds ammunition for both the primary and secondary gun turrets. It is located directly behind the forward gun turret just above the waterline. Destroying it will instantly destroy Dark Adventurer. 
+There is one ammunition storage that holds ammunition for both the primary and secondary gun turrets. It is located directly behind the forward gun turret just above the waterline. Destroying it will instantly destroy Dark Adventurer.
 
-Dark Adventurer has a crew complement of 15. With a stock crew, Dark Adventurer is knocked out when 10 crew are lost; with an aced crew, this is increased to 11. Overall, the survivability is average. 
+Dark Adventurer has a crew complement of 15. With a stock crew, Dark Adventurer is knocked out when 10 crew are lost; with an aced crew, this is increased to 11. Overall, the survivability is average.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -54,7 +56,7 @@ Dark Adventurer has a crew complement of 15. With a stock crew, Dark Adventurer 
 |TurnSpeedSpadedRB = 40.57
 }}
 
-Dark Adventurer has a displacement of 64 tons. 
+Dark Adventurer has a displacement of 64 tons.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -79,7 +81,7 @@ After that, prioritize the rest of the seakeeping modifications first, then fini
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|8cwt QF Mk I (114 mm)}}
 
-The primary armament consists of a single 114 mm 8cwt QF Mk I cannon mounted forwards, with a maximum ammunition load of 100 rounds. Stock, the mount can traverse horizontally at a rate of 26°/s and vertically at a rate of 21°/s; with the "Primary Armament Targeting" modification installed, this is increased to 30°/s and 25°/s respectively. The gun is single-shot with a nominal rate of fire of 12 rounds/min. With a stock crew, it can be reloaded in 6.5 seconds; with an aced crew, this is decreased to 5 seconds. 
+The primary armament consists of a single 114 mm 8cwt QF Mk I cannon mounted forwards, with a maximum ammunition load of 100 rounds. Stock, the mount can traverse horizontally at a rate of 26°/s and vertically at a rate of 21°/s; with the "Primary Armament Targeting" modification installed, this is increased to 30°/s and 25°/s respectively. The gun is single-shot with a nominal rate of fire of 12 rounds/min. With a stock crew, it can be reloaded in 6.5 seconds; with an aced crew, this is decreased to 5 seconds.
 
 {| class="wikitable" style="text-align:center" width="25%"
 ! colspan="2" | Primary armament guidance
@@ -120,7 +122,7 @@ There are three ammunition types available:
 
 {{:QF Mark VII (40 mm)/Ammunition|HEFI-T, AP-T}}
 
-The best ammunition is the 40 mm HE clips because it has the highest ratio of HE rounds to AP rounds. Take mostly 40 mm HE clips along with several 40 mm AP clips for armoured targets. Because of the gun's seamless reload, there is no reason to use the Universal belt once the others are unlocked. 
+The best ammunition is the 40 mm HE clips because it has the highest ratio of HE rounds to AP rounds. Take mostly 40 mm HE clips along with several 40 mm AP clips for armoured targets. Because of the gun's seamless reload, there is no reason to use the Universal belt once the others are unlocked.
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}

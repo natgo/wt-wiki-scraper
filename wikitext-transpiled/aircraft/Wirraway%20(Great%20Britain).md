@@ -5,15 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British strike aircraft {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27. This Wirraway represents a version serving in the Australian Air Force.
+In 1936, the Royal Australian Air Force began evaluating foreign-designed aircraft for local production and established the Commonwealth Aircraft Corporation to oversee production. Based on the NA-16 airframe obtained from the United States, the CAC CA-1 Wirraway entered production in March 1939 following the new requirement for a fighter produced locally in Australia placed in 1936, although actual production proceeded at a leisurely pace. When the war started in September, the RAAF had only six Wirraways. The Wirraway was manufactured right up to the end of the war in several series. The first series CA-1 (Mk 1) was built from March 1939 to February 1940; a total of 40 aircraft. Throughout 1942, Wirraways were pressed into combat from the New Britain Islands to the Eastern tip of New Guinea, being used as light bombers. Once the Allied forces took the offensive in the Pacific theatre, the requirement for Wirraways began to diminish rapidly. The aircraft were transferred back to training units and after the war served as civilian aircraft. The Royal Australian Air Force finally flew its last Wirraway flight in 1959.
 
-The Wirraway is characterised by its heavy payload, high manoeuvrability, and very low speed. It is an easy handling aircraft, effective for its rank and is affordable with Golden Eagles {{ge}}, which makes it a good starting plane for beginners.
-
-The two machine guns are very accurate and have very fast rates of fire. This, combined with the plane's low speed and good stability, makes the Wirraway ideal for strafe attacks on lightly armoured ground targets, while the plane's heavy bomb load can destroy more heavily defended ground targets. The lack of a bombing reticle, in realistic battles, makes level bombing very inaccurate and impractical.
-
-It has an impressive payload of 2 x 500 lb bombs and 2 x 250 lb bombs, making it devastating to ground units. In realistic, use it as a dive bomber as it has no aiming reticle. However, long fast dives in the Wirraway are not recommended, as the plane will quickly exceed the never exceed speed (V<sub>NE</sub>) for the airframe, which is between 380-420 km/h. If a Wirraway is going faster than 400 km/h, it has likely already lost one or both of its wings, or is about to.
-
-Additionally, the Wirraway's cockpit offers great visibility, but little pilot protection. Wirraway pilots must be wary against pilot sniping.
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The '''{{Specs|name}}''' represents a version serving in the Australian Air Force. The Wirraway is characterised by its heavy payload, high manoeuvrability, and very low speed. It is an easy handling aircraft, effective for its rank and is affordable with Golden Eagles {{ge}}, which makes it a good starting plane for beginners. The two machine guns are very accurate and have very fast rates of fire. The Wirraway is ideal for strafe attacks on lightly armoured ground targets, while the plane's heavy bomb load can destroy more heavily defended ground targets. The lack of a bombing reticle, in realistic battles, makes level bombing very inaccurate and impractical. It has an impressive payload of 2 x 500 lb bombs and 2 x 250 lb bombs, making it devastating to ground units. Additionally, the Wirraway's cockpit offers great visibility which is great for simulator battles, but has little pilot protection.
 
 == General info ==
 === Flight performance ===
@@ -188,6 +182,7 @@ Throughout 1942, Wirraways were pressed into combat from the New Britain Islands
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=wirraway Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -199,6 +194,7 @@ Throughout 1942, Wirraways were pressed into combat from the New Britain Islands
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;<nowiki>Other Australian aircraft</nowiki>
+
 * [[Boomerang_Mk_I_(Great_Britain)|▄Boomerang Mk I]]
 * [[Boomerang_Mk_II_(Great_Britain)|▄Boomerang Mk II]]
 
@@ -208,9 +204,11 @@ Throughout 1942, Wirraways were pressed into combat from the New Britain Islands
 * ''other literature.''-->
 
 ;War Thunder Forums
+
 * [https://forum.warthunder.ru/index.php?/topic/120079-pasport-cac-wirraway/ Official data sheet - more details about the performance [Russian Forum]]
 
 ;Other websites
+
 * [https://www.navy.gov.au/aircraft/cac-ca-16-wirraway [Royal Australian Navy<nowiki>]</nowiki> CAC CA-16 Wirraway] ([https://web.archive.org/web/20210508154900/https://www.navy.gov.au/aircraft/cac-ca-16-wirraway Web Archive])
 * [https://www.fighterworld.com.au/az-of-fighter-aircraft/series-2/cac-wirraway [Fighter World<nowiki>]</nowiki>CAC Wirraway] ([https://web.archive.org/web/20210508155215/https://www.fighterworld.com.au/az-of-fighter-aircraft/series-2/cac-wirraway Web Archive])
 * [https://www.t6harvard.com/cac-wirraway/ [T6 Harvard Aviation<nowiki>]</nowiki> NA-16 Wirraway: From Trainer to Fighter] ([https://web.archive.org/web/20210508155205/https://www.t6harvard.com/cac-wirraway/ Web Archive])

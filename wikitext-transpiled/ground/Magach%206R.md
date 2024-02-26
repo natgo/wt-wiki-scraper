@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The '''{{Specs|name}}''' was a major modification compared to previous Magach 6s, featuring the same Blazer ERA but including a new AVDS-1790-2AG engine, with more electric power output when compared to the previous AVDS-1790-2A. Later modifications included the Magach 6R*, that prepared the vehicle to use the Nachal Oz fire control system.
+
+It was introduced in [[Update "Drone Age"]]. The Magach 6R is very similar to other Magach 6 tanks in the Israeli Tech Tree, it features Blazer ERA, subpar protection against APDS and APFSDS shells, and above average mobility and agility. The tank features a competent 105 mm cannon and a stabilizer but lacks access to a thermal sight. It does however have a large amount of smoke launchers and grenades, so it can use them to cover allied movements or to escape from situations with ease.
 
 == General info ==
 === Survivability and armour ===
@@ -89,6 +91,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 |-
 |}
 '''Notes'''
+
 * Shells are modelled to deplete in groups of two or three
 * The last shell in rack 2 is grouped with the last shell in rack 3, and only disappears once rack 3 is depleted
 
@@ -138,9 +141,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -151,9 +156,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_magach_6r Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
+
 *[https://live.warthunder.com/post/1035654/en/ Caff_Gunner's (Israel) Historical and semi-historical gun reticles.]
 
 == See also ==
@@ -162,6 +169,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Magach (Family)]]
 
 == External links ==
@@ -169,6 +177,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Israeli medium tank {{Battle-r
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

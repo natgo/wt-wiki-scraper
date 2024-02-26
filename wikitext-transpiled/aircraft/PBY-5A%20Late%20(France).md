@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French bomber {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+In the early 1940s, France placed an order for 30 PBY-5 Catalinas soon after the British placed their first production order for the aircraft. However, the delivery was never fulfilled since France capitulated before the aircraft could be delivered. France also acquired 3 PBY-5A Catalinas from the Royal Canadian Air Force to serve in the Caribbean since their islands lacked proper airfields. These PBY-5As lacked the armament of the Catalina and were used in civil roles, mainly moving passengers.
+
+Introduced in [[Update "La Royale"]], the French PBY-5A behaves just like its American counterpart, offering a very large bomb load at the cost of speed, manoeuvrability, and survivability for its BR. It can be used with effectiveness in all gamemodes, air, ground and naval battles thanks to its versatility. Its bomb load is capable of destroying several ground targets with carpet bombing or destroying bases in air battles, meanwhile it has access to torpedoes for naval combat.
 
 == General info ==
 === Flight performance ===
@@ -122,6 +124,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 16 x 100 lb AN-M30A1 bombs (1,600 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
 * 4 x 1,000 lb AN-M65A1 bombs (4,000 lb total)
@@ -138,6 +141,7 @@ The PBY-5A features a massive payload: a whopping 4 x Type A Mark I mines (that 
 {{main|M2 Browning (12.7 mm)|Browning (7.62 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
+
 * 1 x 12.7 mm M2 Browning machine gun, 2 x beam turrets (478 rpg)
 * 2 x 7.62 mm Browning machine guns, nose turret (1,050 rpg = 2,100 total)
 * 1 x 7.62 mm Browning machine gun, ventral turret (500 rpg)
@@ -148,7 +152,7 @@ The armament in the PBY-5A (Late) is a significant step up. For starters, the no
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 Although the PBY-5A technically is a medium bomber, it is best to fly high, as flying low will make you an easy target for fighters and AA. The best tactic for fending off enemy fighters is to use the rudders to direct one of the side gunners towards the attacking plane. It is also smart to use the guns manually in this situation, as the AI is often very inaccurate and will refuse to fire beyond a certain distance. In the worst case scenarios, a dive can be used to greatly increase the plane's speed to get to attack a ground target before a pursuing enemy fighter shoots it down.
 
-The plane is quite unmanageable, and its wings are very weak, being able to snap just by turning just a little too tight at higher speeds in realistic battles. It's also a huge target. Although the PBY-5A Catalina is slow and clunky, it offers a heavy payload that is sure to be a game changer if used properly. 
+The plane is quite unmanageable, and its wings are very weak, being able to snap just by turning just a little too tight at higher speeds in realistic battles. It's also a huge target. Although the PBY-5A Catalina is slow and clunky, it offers a heavy payload that is sure to be a game changer if used properly.
 
 The armament on the PBY-5 Catalina is what makes up for its clunky movement. The plane is capable of carrying a heavy payload of bombs or torpedoes and has defensive gunners on all sides. The two side gunners have .50 cal machine guns, making it more than capable of destroying enemy aircraft that stay within their range.
 
@@ -173,7 +177,10 @@ The armament on the PBY-5 Catalina is what makes up for its clunky movement. The
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=pby-5a_late_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -181,6 +188,7 @@ The armament on the PBY-5 Catalina is what makes up for its clunky movement. The
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[PBY-5 (Family)]]
 
 == External links ==

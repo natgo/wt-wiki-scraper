@@ -11,11 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (nicknamed ''"Gina"'') is a rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]] along with the initial Italian aviation tree.
+The G.91 was a light subsonic fighter developed by Fiat in the late 1950s, it was a great success being introduced in the Italian, German, and Portuguese air force. The objective of said fighter was to create a cheap, light fighter-bomber capable of becoming the standard between all NATO nations, this was due to the experience of the US and UN forces in the Korean War, and the introduction of more capable jet engines, that pushed the NATO Command to set a competition for this role. A total of 756 aircraft were built in a span of 19 years. The '''G.91 R/1''' was the first light attack/reconnaissance version of the G.91; compared to previous versions, it featured the same armament and powerplant, but added the capability to launch MACLOS guided AA-20 and AS-20 Nord missiles, as well as three cameras mounted on the nose.
 
-A mid 1950s transonic fighter (< Mach 0.98) with ground attack abilities. Very manoeuvrable, but with a light offensive armament makes the G.91 with its young age a difficult starter aircraft into the jet era. Especially as it will fly in fierce competition in the sky, facing every sub- and transonic aircraft and being smack in the middle performance-wise.
-
-There are little changes between the [[G.91 pre-serie|Pre-serie]], [[G.91 R/1|R/1]], [[G.91 R/3|R/3]] and the [[G.91 R/4|R/4]] and this guide can be considered universal for all listed aircraft.
+It was introduced in [[Update 1.69 "Regia Aeronautica"]] along with the initial Italian aviation tree. The '''{{Specs|name}}''' is a very light and nimble aircraft, it features some decent air-to-air and air-to-ground capabilities, thanks mainly to the AA-20 and AS-20 Nord missiles and its flight performance. For air combat, the AA-20 missiles are very hard to guide, but compensate by being extremely good in last minute launches in head-ons, in situations when the enemy can't properly dodge, they are also a very good way of destroying bombers without getting too close or from awkward angles. The G.91's ground ordnance consists of AS-20 missiles as well as rockets, the AS-20 Nords are the best option and can reliably destroy most targets, but they require good aim to be used.
 
 == General info ==
 === Flight performance ===
@@ -169,6 +167,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 4 x 12.7 mm M3 Browning machine guns (300 rpg = 1,200 total)
 * 4 x 12.7 mm M3 Browning machine guns + 38 x FFAR Mighty Mouse rockets
 * 2 x 12.7 mm M3 Browning machine gun + 2 x AS-20 Nord missiles

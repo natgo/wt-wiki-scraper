@@ -17,7 +17,17 @@ Introduced as a [[wt:en/news/7383-development-israel-a-new-gaming-nation-coming-
 
 == General info ==
 === Flight performance ===
-{{Specs-Avia-Flight}}
+The '''Spitfire LF Mk.IXe Weizman''' in the Israeli tech tree excels due to its superior maneuverability and climb rate, making it a formidable opponent in dogfights across all game modes—Arcade, Realistic, and Simulator.
+
+In '''Arcade mode''', its agility is enhanced, allowing for tighter turns and quick reactions, although pilots must beware of high-speed maneuvers that could lead to structural failure. The quick reload times in this mode keep the Spitfire in the action longer.
+
+'''Realistic mode''' demands careful energy management, where the aircraft's ability to climb and accelerate quickly allows pilots to engage and disengage effectively. The realism of flight physics means pilots must manage ammunition carefully and avoid overcommitting in dives to prevent wing damage.
+
+'''Simulator mode''' challenges pilots with a realistic cockpit view and flight model, emphasizing the importance of rudder control and awareness to avoid stalls and spins. The Spitfire's maneuverability is key, but requires skilled handling.
+
+For '''new players''', focusing on altitude advantage and the Spitfire's turning capabilities is crucial, while avoiding head-on confrontations. Veteran pilots can leverage energy fighting techniques and precise engagement control for dominance.
+
+Overall, the '''Spitfire LF Mk.IXe Weizman''' is a versatile aircraft that rewards pilots with its agility and tactical flexibility, making it a rewarding choice for both newcomers and experienced players alike.{{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
 {| class="wikitable" style="text-align:center" width="70%"

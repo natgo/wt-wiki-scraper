@@ -148,40 +148,51 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[DEFA 552 (30 mm)|30 mm DEFA 552]] cannons (125 rpg)
 | || || 1 || 1* || ||
 |-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| 1 || 1 || || || 1 || 1
+|-
 ! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
 | 1 || 1 || || || 1 || 1
 |-
 ! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
-| || 1 || || || 1 ||
+| 1 || 1 || || || 1 || 1
 |-
 ! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
-| || 1 || || || 1 ||
+| 1 || 1 || || || 1 || 1
 |-
 ! [[Aerea 559G1 incendiary]] bombs
 | || 1 || || || 1 ||
 |-
+! [[M116A2 incendiary]] bombs
+| || 1 || || || 1 ||
+|-
+! [[FFAR Mighty Mouse]] rockets
+| 19 || 19 || || || 19 || 19
+|-
 ! [[SNEB type 23]] rockets
-| 19 || || || || || 19
+| 19 || 19 || || || 19 || 19
 |-
 ! [[AS-20 Nord]] missiles
 | 1* || 1* || || || 1* || 1*
 |-
-| colspan="7" | Maximum permissible weight imbalance: 270 kg
+| colspan="7" | Maximum permissible loadout weight: 1,250 kg<br>Maximum permissible weight imbalance: 370 kg
 |-
-| colspan="8" | * MCLOS missiles cannot be carried in conjunction with cannons on hardpoint 4
+| colspan="8" | * MCLOS missiles cannot be carried in conjunction with a cannon on hardpoint 4
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-
 * 2 x 30 mm DEFA 552 cannons (125 rpg = 250 total)
-* 2 x 30 mm DEFA 552 cannons + 38 x SNEB type 23 rockets
+* 2 x 30 mm DEFA 552 cannons + 76 x SNEB type 23 rockets
+* 2 x 30 mm DEFA 552 cannons + 76 x FFAR Mighty Mouse rockets
 * 1 x 30 mm DEFA 552 cannon + 4 x AS-20 Nord missiles
 * 2 x 30 mm DEFA 552 cannons + 4 x 250 lb AN-M57 bombs (1,000 lb total)
-* 2 x 30 mm DEFA 552 cannons + 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
-* 2 x 30 mm DEFA 552 cannons + 2 x 500 lb Mk 82 Snakeye bombs (1,000 lb total)
+* 2 x 30 mm DEFA 552 cannons + 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
+* 2 x 30 mm DEFA 552 cannons + 4 x 500 lb Mk 82 Snakeye bombs (2,000 lb total)
+* 2 x 30 mm DEFA 552 cannons + 4 x 250 kg SAMP Type 25 bombs (1,000 kg total)
 * 2 x 30 mm DEFA 552 cannons + 2 x Aerea 559G1 incendiary bombs
+* 2 x 30 mm DEFA 552 cannons + 2 x M116A2 incendiary bombs
 {{Navigation-End}}
 
 Featuring a wide range of ordnance, the G.91 R/3 can be equipped for any role from ground to air combat, though it prefers air superiority.

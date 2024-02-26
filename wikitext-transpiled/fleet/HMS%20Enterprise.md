@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light cruiser {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet closed beta test.
+The '''HMS Enterprise (D52)''' is a member of the Emerald-class light cruiser family. On June 28, 1918, the keel of the vessel built by John Brown & Company was laid down. Launched on December 23, 1919, she was put into service on April 7, 1926. She served as the fourteenth ship in the British Navy to be assigned the name HMS Enterprise, a name that is still in use today. The HMS Enterprise was part of Home Fleet in April 1940, having patrolled the Atlantic Ocean since the start of World War II. She participated in another deployment in the Indian Ocean in 1941, escorting numerous convoys through areas patrolled by Japanese warships. As part of Operation Neptune, the HMS Enterprise was assigned to the A-bombing force in May 1944. It began firing on the German landings on the American landing beach on June 6, 1944, specifically targeting Saint-Martin-de-Varreville and heading toward Utah Beach. It took part in the fire support of Allied land forces in Normandy in the days after Operation Overlord began, particularly during the encirclement of Cherbourg. The HMS Enterprise assisted in the repatriation of British soldiers from Asia and Africa beginning in May 1945. She made her last trip back to the UK on January 13, 1946. She was turned over to British Iron & Steel Corporation on April 11 for scrapping, and on April 21 she arrived at J Cashmore in Newport, Wales, for dismantling.
 
-HMS Enterprise was the second of the so-called Emerald-class cruisers. Unlike her sister, the lead ship HMS Emerald, Enterprise was completed with a prototype twin 6-inch gun turret instead of two single 6-inch mounts. Designed during World War I for speed first and foremost, the two Emerald-class cruisers were still the fastest British cruisers in service at the outbreak of World War II, more than a decade after they were first commissioned.
+Introduced in [[Update 1.83 "Masters of the Sea"]], the HMS Enterprise is one of the first British light cruisers. It has excellent short-range anti-aircraft armament, good maneuverability, good speed, and a well-distributed armour arrangement to protect most of the important components. The main armament configuration of the HMS Enterprise is typical for a light cruiser from World War I. The main armament is dispersed throughout the ship, primarily in single mounts. This makes it more difficult to take out every gun on board, but it also means that the main armament's ammunition magazines are dispersed throughout the ship's length, above the waterline. It is recommended that players accompany ally destroyers and assist them in fighting against enemy vessels.
 
 == General info ==
 === Survivability and armour ===
@@ -138,10 +138,12 @@ Her age and obsolescence made her useless to a rapidly shrinking, post-war Royal
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_cruiser_enterprise_d52 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

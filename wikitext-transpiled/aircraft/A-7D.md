@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American strike aircraft {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+In the early 1960s, the US Navy needed a new naval strike aircraft to replace the A-4 Skyhawk. Ling-Temco-Vought (LTV) developed the A-7 based on the F-8 Crusader, but smaller and subsonic to reduce costs. The A-7 won the competition and was named A-7 'Corsair II' in homage to the F4U Corsair. The A-7A started production in 1966 and saw action in Vietnam.  The USAF developed the A-7D in 1968 with improved avionics, a stronger engine, and an M61 Vulcan cannon. Over 450 A-7D units were produced from 1968 to 1975. The A-7D served until the early 1990s before retirement. The A-7D included a new M61A1 rotatory gun instead of the regular 20mm cannons of the A-7, a new TF-41 engine and a different central computer.
 
-The {{PAGENAME}} is a light subsonic attack aircraft built by the Vought Aeronautics Division of LTV Aerospace Corporation. Military requirements specified that these aircraft be all-weather capable. This aircraft features a single nose-mounted M61 rotary cannon, six wing-mounted pylons and two fuselage-mounted pylons to which various bombs, missiles and rockets are mounted in a multitude of configurations to suit the pilot in command. Even though explicitly built for close air support and bombing missions, in a pinch, the {{PAGENAME}} attacker can scrap with any aircraft it may end up tangling with.
+It was introduced in [[Update "Hot Tracks"]]. The {{PAGENAME}} is a light subsonic attack aircraft featuring a single nose-mounted M61 rotary cannon, six wing-mounted pylons and two fuselage-mounted pylons to which various bombs, missiles, and rockets are mounted in a multitude of configurations to suit the pilot in command. Even though explicitly built for close air support and bombing missions, in a pinch, the {{PAGENAME}} attacker can scrap with any aircraft it may end up tangling with. Being subsonic at a BR were supersonic interceptors are very common, the aircraft is not the best for air battles, instead it is better at ground attack with its wide array of precision-guided weapons.
 
 == General info ==
 === Flight performance ===
@@ -214,6 +214,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9E Sidewinder missiles
 * 2 x AIM-9J Sidewinder missiles
