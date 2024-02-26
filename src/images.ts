@@ -47,22 +47,23 @@ interface imageinfo {
   descriptionshorturl: string;
 }
 
-function imageLoop(vehicles: VehicleProps[]) {
+async function imageLoop(vehicles: VehicleProps[]) {
   const imquery =
     "https://wiki.warthunder.com/api.php?action=query&format=json&prop=images&imlimit=max";
   const iiquery =
     "https://wiki.warthunder.com/api.php?action=query&format=json&prop=imageinfo&iiprop=url";
 
-  vehicles.forEach(async (topelement) => {
+  for (const topelement of vehicles) {
     if (!topelement.wikiname) {
-      return;
+      continue;
     }
+    console.log(topelement.wikiname);
 
     const response: pageimages = await axios.get(
-      `${imquery}&titles=${encodeURI(topelement.wikiname)}`,
+      `${imquery}&titles=${encodeURIComponent(topelement.wikiname)}`,
     );
-    Object.entries(response.data.query.pages).forEach(async (element) => {
-      const images: { ns: number; title: string }[] = element[1].images;
+    for (const element of Object.entries(response.data.query.pages)) {
+      const images: image[] = element[1].images;
       const match = images.find((value) => {
         return value.title.match(
           new RegExp("File:GarageImage.*(?<!Blazer).jpg|File:GarageImage.*.png", "gi"),
@@ -73,9 +74,9 @@ function imageLoop(vehicles: VehicleProps[]) {
         console.log(images);
       } else {
         const download: imageinforesponse = await axios.get(
-          `${iiquery}&titles=${encodeURI(match.title)}&*`,
+          `${iiquery}&titles=${encodeURIComponent(match.title)}&*`,
         );
-        Object.entries(download.data.query.pages).forEach(async (element) => {
+        for (const element of Object.entries(download.data.query.pages)) {
           if (element[1].imageinfo) {
             const downloadlink = element[1].imageinfo[0].url;
             fs.writeFileSync(
@@ -85,13 +86,13 @@ function imageLoop(vehicles: VehicleProps[]) {
           } else {
             console.log(`no image for ${element[1].title}`);
           }
-        });
+        }
       }
-    });
-  });
+    }
+  }
 }
 
-async function main() {
+function main() {
   const final: Final = JSON.parse(fs.readFileSync("./data/data/final.json", "utf-8"));
 
   imageLoop(final.aviation);

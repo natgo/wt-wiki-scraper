@@ -47,25 +47,28 @@ async function download(vehicles: CategorymembersPart[], type: string) {
   const parsequery = "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=text";
   const wikiparsequery =
     "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=wikitext";
-  vehicles.forEach(async (element) => {
+  for (const element of vehicles) {
     try {
       const response: ParsedPage = await axios.get(parsequery + `&pageid=${element.pageid}`);
       const wikiresponse: ParsedWikiPage = await axios.get(
         wikiparsequery + `&pageid=${element.pageid}`,
       );
-      //console.info(element.title);
+      console.info(element.title);
       const out: modernparse = {
         title: response.data.parse.title,
         pageid: response.data.parse.pageid,
       };
+
       fs.writeFileSync(
         `./wikitext/${type}/${encodeURIComponent(element.title)}.json`,
         await format(JSON.stringify(out), { parser: "json" }),
       );
+
       fs.writeFileSync(
         `./wikitext-transpiled/${type}/${encodeURIComponent(element.title)}.md`,
         wikiresponse.data.parse.wikitext["*"],
       );
+
       fs.writeFileSync(
         `./wikitext-transpiled/${type}/${encodeURIComponent(element.title)}.html`,
         decomment(response.data.parse.text["*"]),
@@ -73,7 +76,7 @@ async function download(vehicles: CategorymembersPart[], type: string) {
     } catch (error) {
       throw new Error(JSON.stringify(element));
     }
-  });
+  }
 }
 
 async function categorymembers(categorymembers: CategorymembersPart[]) {
@@ -137,14 +140,15 @@ async function main() {
   const fleet = await getVehicles(fleetQuery);
 
   // download all vehicle pages
-  await download(aircraft, "aircraft");
-  await download(ground, "ground");
-  await download(helicopter, "helicopter");
-  await download(fleet, "fleet");
   console.info("Downloading Wikitexts");
+  Promise.all([
+    download(aircraft, "aircraft"),
+    download(ground, "ground"),
+    download(helicopter, "helicopter"),
+    download(fleet, "fleet"),
+  ]);
 
-  getTechTree();
-  console.info("Downloading Techtrees");
+  await getTechTree();
 }
 
 main();
