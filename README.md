@@ -24,7 +24,7 @@ Most of the data in final.json currently comes from game files
 
 Prerequisites:
 - POSIX Shell
-- pnpm
+- bun
 
 Clone the repo with submodules:
 ```bash
@@ -35,25 +35,25 @@ git clone --recursive https://github.com/natgo/wt-wiki-scraper.git
 Install dependencies:
 
 ```bash
-pnpm install # or npm install
+bun install
 ```
 
 In order to run building in watch mode, run:
 
 ```bash
-pnpm build --watch # or npm run build --watch
+bun run build --watch
 ```
 
 To prettify source code, run:
 
 ```bash
-pnpm pretty # or npm run pretty
+bun pretty
 ```
 
 In order to do a build, run:
 
 ```bash
-pnpm build # npm run build
+bun run build
 ```
 
 ## Running
@@ -61,7 +61,7 @@ pnpm build # npm run build
 Just run 
 
 ```bash
-pnpm start # npm run start
+bun start
 ```
 
 the output will be in data/data/ directory
@@ -71,5 +71,3 @@ the output will be in data/data/ directory
 - [ ] Create a pipeline to [wt-app](https://github.com/natgo/wt-app)
 - [ ] Improve the file structure
 - [x] Complete the scrape module
-- [x] Driver thermal
-- [x] Add machineguns
