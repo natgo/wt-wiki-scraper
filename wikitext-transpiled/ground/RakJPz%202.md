@@ -50,13 +50,13 @@ The Raketenjagdpanzer 2 shares a hull with the [[JPz 4-5]], but as the vehicle i
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|LFK SS.11}}
+{{main|SS.11}}
 
 The RakJPz 2's primary armament consists of SS.11 ATGMs positioned in a twin launcher configuration over the hull roof. The launchers reload independently, which means you can run out of one side's ammunition before expending the other. The ATGMs will swivel a fairly wide arc horizontally per each launcher (90° each per launcher) as well as a 10 degree vertical traverse, which is adequate for its role. When firing the missiles, until the ATGM impacts a target or self-detonates at its maximum range, your movement keys will act as your ATGM control keys, meaning you have to choose when to fire your missiles strategically.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | Dual [[LFK SS.11]] ATGM || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | Dual [[SS.11]] ATGM || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
@@ -71,7 +71,7 @@ The RakJPz 2's primary armament consists of SS.11 ATGMs positioned in a twin lau
 |}
 
 ==== Ammunition ====
-{{:LFK SS.11/Ammunition|LFK SS.11}}
+{{:SS.11/Ammunition|LFK SS.11, LFK SS.11B}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -115,7 +115,7 @@ For long ranged maps, many of the points above apply. Constant vigilance should 
 
 If you're feeling particularly feisty, you may also play this vehicle like its other cousin, the [[JPz 4-5]], or its ancestor, the [[SPz 12-3 LGS]], at close range. This is not recommended for inexperienced players, as this vehicle is specifically tailored to longer range combat, but the purpose of this section is to simply detail that this alternative gameplay route is ''possible''. You can use the fact that, for the first second or two the SS.11s fly after being fired, they will automatically try to home in to your crosshairs before switching to MCLOS guidance, and basically use the vehicle as a SACLOS ATGM carrier at close range. This usually involves ambushing an enemy, hiding behind an unexpected hill or terrain feature as your enemy passes by unaware, only to be hit by two near-point blank SS.11s to the side or rear. As the self correcting trajectory of the missiles assist the flight path and as the range the missiles are being fired at are near point blank, your missiles will often hit directly where you want them to with minimal course corrections. This is also an advantage the RakJPz 2 has over its successor, the [[RakJPz 2 (HOT)]], as the HOT only has 1 missile tube and cannot engage targets in quick succession or follow up with another shot if the first missile was insufficient.
 
-Due to the addition of SACLOS SS.11Bs to the Raketenjagdpanzer 2, one of the vehicle's main negatives (its MCLOS missile guidance) was effectively nullified upon this change. As the successor vehicle in the form of the RakJPz 2 (HOT) loses a significant amount of gun depression, gun traverse angles in general as well as a slower rate of fire, for the ambush/long range fire role the RakJPz 2 is now far more flexible than it once was with only MCLOS ATGMs. The SS.11Bs are fairly maneuverable and respond to controls well, and as the missiles fly slower than the HOT missiles they can be easier to correct them mid flight as well. Ultimately, the addition of these SACLOS ATGMs greatly improve the vehicle's flexibility and general usage, and unlocking this modification should be a priority to improve performance across the board for no real downsides.
+Unlocking the SACLOS SS.11B missiles nullifies one of the vehicle's main negatives (its MCLOS missile guidance). As the successor vehicle in the form of the RakJPz 2 (HOT) loses a significant amount of gun depression, gun traverse angles in general, as well as having a slower rate of fire, the RakJPz 2 is far more flexible for the ambush/long range fire role. The SS.11Bs are fairly manoeuvrable and respond to controls well, and as the missiles fly slower than the HOT missiles they can be easier to correct mid-flight as well. Ultimately, the addition of these SACLOS ATGMs greatly improve the vehicle's flexibility and general usage, and unlocking this modification should be a priority to improve performance across the board for no real downsides.
 
 Overall, the Raketenjagdpanzer 2 is a good addition to Germany's Cold War doctrine of high mobility with thin armour. Its long ranged advantages are definitely there, but may be overshadowed by direct-fire cannons like the [[Leopard 1]] and its L7 105 mm, or its successor vehicle which has SACLOS guided missiles instead of the MCLOS missiles of the RakJPz 2. In spite of this, the vehicle has its uses at the Battle Rating it is at, and can serve as a good fallback vehicle on more specific maps as a utility vehicle.
 
@@ -126,15 +126,15 @@ Overall, the Raketenjagdpanzer 2 is a good addition to Germany's Cold War doctri
 
 * Missiles can penetrate 600 mm of armour, more than other wire guided missiles (which generally have up to 500 mm penetration)
 * Missiles have a 180 degree firing arc and can be used as close-range weapons if necessary
-* Two missiles on top allow for rapid follow-up shots•Can potentially curve the missiles into targets behind cover, as missiles have great horizontal mobility
+* Two missiles on top allow for rapid follow-up shots
+* Can potentially curve the missiles into targets behind cover, as missiles have great horizontal mobility
 * Shares the same chassis as the [[JPz 4-5|Kanonenjagdpanzer]], inheriting its mobility and low profile
 * Can fire its ATGMs with only the missiles and periscope exposed, almost completely hiding the vehicle behind cover
 * Has a machine gun (unlike many ATGM carriers) so small fences are not a problem
 * SS.11B modification gives the vehicle SACLOS guided missiles, improving consistency and ease of use
 
-
 '''Cons:'''
-.
+
 * Controls for missiles use an inverted Y-axis for default controls - which may not be intuitive for newer players
 * Thin armour
 * Missiles on top act as exterior ammo racks and can be detonated

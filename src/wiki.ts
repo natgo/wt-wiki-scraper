@@ -79,51 +79,6 @@ async function download(vehicles: CategorymembersPart[], type: string) {
   }
 }
 
-async function categorymembers(categorymembers: CategorymembersPart[]) {
-  const wikiparsequery =
-    "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=wikitext";
-  const parsequery = "https://wiki.warthunder.com/api.php?action=parse&format=json&prop=text";
-
-  categorymembers.forEach(async (element) => {
-    const wikiresponse: ParsedWikiPage = await axios.get(
-      wikiparsequery + `&pageid=${element.pageid}`,
-    );
-    const response: ParsedPage = await axios.get(parsequery + `&pageid=${element.pageid}`);
-    const out: modernparse = {
-      title: response.data.parse.title,
-      pageid: response.data.parse.pageid,
-    };
-    fs.writeFileSync(
-      `./techtree/ground/${encodeURIComponent(element.title)}.json`,
-      await format(JSON.stringify(out), { parser: "json" }),
-    );
-    fs.writeFileSync(
-      `./parsed/${encodeURIComponent(element.title)}.md`,
-      await format(wikiresponse.data.parse.wikitext["*"], { parser: "markdown" }),
-    );
-    fs.writeFileSync(
-      `./parsed/${encodeURIComponent(element.title)}.html`,
-      await format(decomment(response.data.parse.text["*"]), { parser: "html" }),
-    );
-  });
-}
-
-async function getTechTree() {
-  const groundQuery: Categorymembers = await axios.get(
-    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category:Ground_vehicles_by_country&cmlimit=max&format=json&cmtype=subcat",
-  );
-  const aircraftQuery: Categorymembers = await axios.get(
-    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category:Aircraft_by_country&cmlimit=max&format=json&cmtype=subcat",
-  );
-  const helicopterQuery: Categorymembers = await axios.get(
-    "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category:Helicopters_by_country&cmlimit=max&format=json&cmtype=subcat",
-  );
-
-  await categorymembers(groundQuery.data.query.categorymembers);
-  await categorymembers(aircraftQuery.data.query.categorymembers);
-  await categorymembers(helicopterQuery.data.query.categorymembers);
-}
-
 async function main() {
   const airQuery =
     "https://wiki.warthunder.com/api.php?action=query&list=categorymembers&cmtitle=Category%3AAviation&cmlimit=max&format=json&cmtype=page";
@@ -147,8 +102,6 @@ async function main() {
     download(helicopter, "helicopter"),
     download(fleet, "fleet"),
   ]);
-
-  await getTechTree();
 }
 
 main();

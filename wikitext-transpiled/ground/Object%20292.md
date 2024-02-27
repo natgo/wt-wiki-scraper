@@ -6,18 +6,18 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' was the among one of the most ambitious attempts during the final days of the Soviet Union as a next-generation tank cannon testbed; The Kirov Plant and Mobile Vehicle Engineering Institute planned to introduce the very high-caliber smoothbore cannon to enable Soviet MBTs to disable equivalent NATO MBTs at the longest possible distance. This meant choosing a caliber of 152 mm instead of the conventional 125 mm or slightly larger 130 mm, which were still common calibers in Warsaw-Pact countries, and mounting it onto a hybrid between the T-80BV and T-80U's turret. Due to a severe lack of funding as the Soviet Union was struggling with financial debt, although the cannon was proved effective during field tests, the prototype was eventually shelved. However, experiences learned during the program would be further iterated on for future MBT prototypes.
+The '''{{Specs|name}}''' was the among one of the most ambitious attempts during the final days of the Soviet Union to create a next-generation tank cannon testbed. The Kirov Plant and Mobile Vehicle Engineering Institute planned to introduce a high-calibre smoothbore cannon to enable Soviet MBTs to be able to disable equivalent NATO MBTs at the longest possible distance. This meant choosing a calibre of 152 mm instead of the conventional 125 mm or slightly larger 130 mm, which were still common calibres in Warsaw-Pact countries, and mounting it onto a hybrid between the T-80BV and T-80U's turret. Due to a severe lack of funding as the Soviet Union was struggling with financial debt, although the cannon proved effective during field tests, the prototype was eventually shelved. However, experiences learned during the program would be further iterated on for future MBT prototypes.
 
-Object 292 is a reward for the [[wt:en/news/8709-event-call-of-the-dragon-earn-the-object-292-en|2024 Call of the Dragon event]] during [[Update "Air Superiority"]]. While the Object 292 looks like a T-80U without the ERA packages, the lack of an anti-aircraft machine gun and the significantly larger cannon gives it away quite easily. It's not the best protected tank at its tier, but the sheer penetration and damage from the monstrous 152 mm cannon more than makes up for any potential shortcomings by sending the source of the damage back to the hangar in a single shot; however, make sure to make every shot count, as a missed/ineffective shot will most likely the death sentence of Object 292.
+The Object 292 was introduced during [[Update "Air Superiority"]] as a reward for the [[wt:en/news/8709-event-call-of-the-dragon-earn-the-object-292-en|2024 Call of the Dragon event]]. While it may look like a T-80U without the ERA packages, the lack of an anti-aircraft machine gun and the significantly larger cannon gives it away quite easily. It's not the best protected tank at its tier, but the sheer penetration and damage from the monstrous 152 mm cannon more than makes up for any potential shortcomings by sending the source of the damage back to the hangar in a single shot; however, make sure to make every shot count, as a missed/ineffective shot will most likely be the death sentence of the Object 292.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-If players do not recall the chassis and design of Object 292, the engine sound will certain gives it away; in this case, the chassis is T-80BV without its Kontakt-1 ERA blocks while the turret is from T-80U without the Kontakt-5 ERA blocks. It can be said that Object 292's hull is somewhat like a T-80U with T-80BV's composite armor layout (T-80U has a revised composite armor based on T-80BV's design), but the lack of Kontakt-5 also means its ufp only has the base armor at around 550 mm KE. The armour efficiency of UFP is quite inconsistent, reducing the closer the hit came to the driver viewport or the LFP. The LFP isn't going to stop anything, much like with the majority of SU medium tanks. 
+If players do not recall the chassis and design of Object 292, the engine sound will certain gives it away; in this case, the chassis is T-80BV without its Kontakt-1 ERA blocks while the turret is from T-80U without the Kontakt-5 ERA blocks. It can be said that Object 292's hull is somewhat like a T-80U with T-80BV's composite armor layout (T-80U has a revised composite armor based on T-80BV's design), but the lack of Kontakt-5 also means its ufp only has the base armor at around 550 mm KE. The armour efficiency of UFP is quite inconsistent, reducing the closer the hit came to the driver viewport or the LFP. The LFP isn't going to stop anything, much like with the majority of SU medium tanks.
 
-The turret is another story though, since it used a revised T-80U turret, it will have better protection than T-80B series thanks to the new composite armor layout with high protection; this also leads to redesign of mantle thus it has much smaller area than conventional designs, the area around the gun can go up to 500 mm KE protection, making it much harder for lower-tier tanks to penetrate the turret. Commander should be careful for lucky shots on the mantle around the barrel as it can also lead to disablement of the turret system or sometimes quick knock-out to the turret crews. The shields on the sides of the turret can block HEAT-FS completely. 
+The turret is another story though, since it used a revised T-80U turret, it will have better protection than T-80B series thanks to the new composite armor layout with high protection; this also leads to redesign of mantle thus it has much smaller area than conventional designs, the area around the gun can go up to 500 mm KE protection, making it much harder for lower-tier tanks to penetrate the turret. Commander should be careful for lucky shots on the mantle around the barrel as it can also lead to disablement of the turret system or sometimes quick knock-out to the turret crews. The shields on the sides of the turret can block HEAT-FS completely.
 
 Turret has multiple of weaknesses ranging from understandable to weird. Anything above turret shields is vulnerable to direct APFSDS hits (causing the dart to hit at least one crew member and possibly the turret ammo rack) and HESH, with random parts of the roof causing the entire tank to implode when hit by any amount of overpressure damage. Bottom of gun mantlet sides right under the gun have 0 to 1 RHA protection, causing the tank to implode when hit by exposives. Whether it's a bug or a feature is not known, but it makes the tank very easy to parry.
 
@@ -37,8 +37,8 @@ As a last note, the tank doesn't have smoke grenades, only ESS. ESS allows to br
 |-
 | Hull || 260 mm (69°) || 55 - 70 - 80 mm ''Top'' <br> 20 (32°) [+ 20 mm] ''Bottom'' || 10-20-50 mm || 30 - 20 mm
 |-
-| Turret || ~250 - ~550 - ~1000 mm (Variable thickness) + 495mm (Composite) ''Turret front'' <br>~130 - ~250 - ~1000mm (Variable thickness) mm ''Gun mantlet'' || ~650 - ~400 - ~160 mm (Variable thickness) + 495mm - 265 mm (Composite) ''Turret'' 
-45 mm (0°) ''Ammo Rack'' 
+| Turret || ~250 - ~550 - ~1000 mm (Variable thickness) + 495mm (Composite) ''Turret front'' <br>~130 - ~250 - ~1000mm (Variable thickness) mm ''Gun mantlet'' || ~650 - ~400 - ~160 mm (Variable thickness) + 495mm - 265 mm (Composite) ''Turret''
+45 mm (0°) ''Ammo Rack''
 | 45 (0°) - 45 (78°) mm || 45 mm - ~500 (Variable thickness + composite) mm ''Turret''
 30 - 45 mm ''Ammo Rack''
 |-
@@ -63,11 +63,11 @@ To boost the tank with its larger gun, the engine is upgraded from the original 
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|LP-83 (152 mm)}}To engage and destroy NATO MBTs from the longest possible distance with a single shot, Soviet engineers came up with their ultimate solution: instead for opting missiles or 125 mm gun with longer barrel, they decided to opt of enlarging the caliber to 152.4 mm which is still currently the '''largest smoothbore cannon''' ''(aside from 2A83 on Object 195 with identical caliber)'' both in-game and reality. 
+{{main|LP-83 (152 mm)}}To engage and destroy NATO MBTs from the longest possible distance with a single shot, Soviet engineers came up with their ultimate solution: instead for opting missiles or 125 mm gun with longer barrel, they decided to opt of enlarging the caliber to 152.4 mm which is still currently the '''largest smoothbore cannon''' ''(aside from 2A83 on Object 195 with identical caliber)'' both in-game and reality.
 
 Although the installation of such a huge cannon into T-80U's turret is not a major problem and it could retain identical, relatively slow turret traverse speed for Soviet-era MBTs, the tank also replaced the 6eTS series autoloader into an unique design specifically for this very cannon, thus the reload rate was drastically decreased to 10 seconds per shot (consecutive shots without changing type of ammunition) - the firepower itself is fearsome indeed, eclipsing even [[Ariete AMV]], with only very few MBT being able to survive a shot onto their UFP, but missed shots are also likely to be the end of Object 292 as many enemies could fire up to 2 shots during the 10 seconds reload.
 
-As already mentioned, the tank doesn't have thermal sights, so it is required to look for enemies very carefully. While the shells can turn most tanks into scrap with anything suggesting a direct hit, the commander has to own it by being vigilant and avoiding panic shots. Due to the shell velocity, aiming shots by hand is easy even at extreme distances, but the tank has laser rangefinder anyway, just in case. 
+As already mentioned, the tank doesn't have thermal sights, so it is required to look for enemies very carefully. While the shells can turn most tanks into scrap with anything suggesting a direct hit, the commander has to own it by being vigilant and avoiding panic shots. Due to the shell velocity, aiming shots by hand is easy even at extreme distances, but the tank has laser rangefinder anyway, just in case.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -126,7 +126,7 @@ Overall, while Object 292 brings unique experience to players with its devastati
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-'''Pros:''' 
+'''Pros:'''
 
 * 152mm main gun enables this tank to engage targets from long distances and the damage is nearly impossible to survive in case of a critical hit
 * Autoloader configuration and blow out panel help with survivability (beware that the blow out panel is only for the first-stage charge storage)
@@ -137,7 +137,7 @@ Overall, while Object 292 brings unique experience to players with its devastati
 
 * Weakspots such as LFP and unreliable fuel tank still haunts the protection of hull
 ** Lacks any ERA for extra protection and having driver's visor exposed to incoming attacks
-* No smoke grenades, so losing attention of aircraft is difficult 
+* No smoke grenades, so losing attention of aircraft is difficult
 * No thermal sight while everyone at the rank has one, ESS is not very useful at this point as a consequence as well
 * Only three crew members
 * Longest reload time for autoloader MBTs at 10 seconds per consecutive shot

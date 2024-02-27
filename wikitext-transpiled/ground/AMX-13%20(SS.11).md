@@ -124,7 +124,7 @@ The AMX-13 SS.11 is a quite speedy light. Not [[Ru 251]] levels, but still fast 
 |}
 
 ==== Ammunition ====
-{{:SS.11/Ammunition|SS.11}}
+{{:SS.11/Ammunition|LFK SS.11}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
