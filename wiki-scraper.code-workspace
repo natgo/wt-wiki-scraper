@@ -24,6 +24,10 @@
     "[json]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
       "editor.formatOnSave": true
-    }
+    },
+    "conventionalCommits.scopes": [
+      "deps"
+    ],
+    "eslint.experimental.useFlatConfig": true
   }
 }
