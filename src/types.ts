@@ -252,7 +252,7 @@ export interface Turret {
 export interface GameBaseMod {
   tier?: number;
   prevModification?: string;
-  modClass?: string;
+  modClass?: string | string[];
   invertEnableLogic?: string;
   deactivationIsAllowed?: boolean;
   reqModification?: string;
@@ -1754,20 +1754,23 @@ export interface Mods {
 
 export interface Modification {
   image?: string;
+  modClass?: GameModClass;
+  group?: string;
+  tier?: number;
+  isReserve?: boolean;
+  deactivationIsAllowed?: boolean;
+  requiresModelReload?: boolean;
+  isHidden?: boolean;
+  invertEnableLogic?: boolean;
+  effects?: Effects;
   valueMul?: number;
   costGold?: boolean;
   reqModification?: string;
-  group?: string;
-  effects?: Effects;
-  modClass?: GameModClass;
-  tier?: number;
+  animation?: string;
   caliber?: number;
-  deactivationIsAllowed?: boolean;
-  invertEnableLogic?: boolean;
   modOverdriveType?: ModEType;
   modUpgradeType?: ModEType;
   isTurretBelt?: boolean;
-  requiresModelReload?: boolean;
   autoMod?: boolean;
   premAir?: boolean;
   commonAir?: boolean;
@@ -1778,13 +1781,31 @@ export interface Modification {
   dontDecreaseAirRCost?: boolean;
   overdriveEffect?: { [key: string]: number };
   upgradeEffect?: { [key: string]: number };
-  isReserve?: boolean;
+  animationByUnit?: AnimationByUnit;
   turn_it_off?: boolean;
+  disableModEffects?: DisableModEffects;
   maxCount?: number;
-  isHidden?: boolean;
+  nimation?: string;
+}
+
+export interface AnimationByUnit {
+  unitType: number;
+  src: string;
+}
+
+export interface DisableModEffects {
+  extinguisherAutomatic?: boolean;
+  extinguisherActivationCount?: number;
+  extinguisherMinTime?: number;
+  extinguisherMaxTime?: number;
+  extinguisherCrewBusyTime?: number;
+  extinguisherCooldown?: number;
+  repairAvailable?: boolean;
+  speedMultiplier?: number;
 }
 
 export interface Effects {
+  additiveBulletMod?: string;
   bulletMod?: string;
   weaponMod?: string;
   mulCdmin?: number;
@@ -1807,7 +1828,6 @@ export interface Effects {
   damageReceivedMult?: number;
   mulMass?: number;
   cutProbabilityMult?: number;
-  additiveBulletMod?: string;
   allowSupportPlane?: boolean;
   mulMaxDeltaAngle?: number;
   mulMaxDeltaAngleVertical?: number;
@@ -1862,6 +1882,9 @@ export interface Effects {
   diggingLevel?: number;
   digMaxSpeed?: number;
   digMaxRevSpeed?: number;
+  lootImagerMaxDist?: number;
+  rageScannerCooldown?: number;
+  rageScannerActiveTime?: number;
   killStreakExtraJoin?: boolean;
   scoutingScoreMultiplier?: number;
   improvedOpticsMult?: number;
@@ -1882,6 +1905,9 @@ export interface Effects {
   mainSpeedYawK?: number;
   mainSpeedPitchK?: number;
   shipDistancePrecisionErrorMult?: number;
+  sonarDetectionRadius?: number;
+  sonarDetectionDepth?: number;
+  sonarTimeStep?: number;
   mulCdminMainRotor?: number;
   mulOswEffNumberMainRotor?: number;
   addThrustVecAzimuth?: number;
@@ -1895,17 +1921,28 @@ export interface DamagePartsOverride {
 
 export interface DamagePartsOverrideTracks {
   hpMult: number;
+  track_l_01_dm?: TrackDm;
+  track_r_01_dm?: TrackDm;
+  track_r_dm?: TrackDm;
+  track_l_dm?: TrackDm;
 }
+
+export interface TrackDm {}
 
 export interface HideNodes {
   node: string[];
 }
 
 export interface ModSensors {
-  sensor: SensorElement[] | SensorElement;
+  sensor: SensorElement[] | PurpleSensor;
 }
 
 export interface SensorElement {
+  blk: string;
+  turretWeaponIndex?: number;
+}
+
+export interface PurpleSensor {
   blk: string;
 }
 
@@ -1916,11 +1953,11 @@ export interface EffectsTracks {
 }
 
 export type GameModClass =
+  | "firepower"
   | "weapon"
   | "premium"
   | "lth"
   | "armor"
-  | "firepower"
   | "mobility"
   | "protection"
   | "expendable"

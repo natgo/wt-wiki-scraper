@@ -1,6 +1,6 @@
 import fs from "fs";
 import { format } from "prettier";
-import { AirVehicle, GroundVehicle, LangData, Mods, ShipVehicle } from "types";
+import { AirMod, AirVehicle, GroundMod, GroundVehicle, LangData, Mods, ShipVehicle } from "types";
 
 import { Final, VehicleProps } from "../../data/types/final.schema";
 import {
@@ -87,6 +87,8 @@ async function main(dev: boolean) {
       ),
     );
     //const vehicleEconomy = economy[element.intname];
+    console.log(element.intname);
+
     const mods = modificationLoop(
       element,
       vehicleData,
@@ -208,138 +210,144 @@ function modificationLoop(
     baseModArr[modClassName.parse(key)].push([], [], [], []);
   });
 
-  Object.entries(vehicleData.modifications).forEach(([key, value]) => {
-    const gameMod = modifications.modifications[key];
-    if (gameMod.image && gameMod.turn_it_off !== true) {
-      const mod: BaseMod = {
-        intname: key,
-        displayname: parseLang(modification_lang, "modification/" + key)?.English,
-        image: gameMod.image.split("#")[gameMod.image.split("#").length - 1],
-        reqMod: gameMod.reqModification,
-      };
-      let rank = gameMod.tier;
+  Object.entries(vehicleData.modifications).forEach(
+    ([key, value]: [string, GroundMod | AirMod]) => {
+      const gameMod = modifications.modifications[key];
+      if (gameMod.image && gameMod.turn_it_off !== true) {
+        const mod: BaseMod = {
+          intname: key,
+          displayname: parseLang(modification_lang, "modification/" + key)?.English,
+          image: gameMod.image.split("#")[gameMod.image.split("#").length - 1],
+          reqMod: gameMod.reqModification,
+        };
+        let rank = gameMod.tier;
 
-      if (value.tier) {
-        rank = value.tier;
-      }
-      if (value.reqModification) {
-        mod.reqMod = value.reqModification;
-      }
-      if (value.image) {
-        mod.image = value.image.split("#")[value.image.split("#").length - 1];
-      }
-
-      if (key.includes("_ammo_pack") && vehicle.type === "army") {
-        const findMod = Object.values(modifications.modifications).filter((value) => {
-          return value.reqModification === key && !value.tier;
-        });
-        if (findMod.length === 0) {
-          throw new Error(`not found mod: ${key}`);
+        if (value.tier) {
+          rank = value.tier;
+        }
+        if (value.reqModification) {
+          mod.reqMod = value.reqModification;
+        }
+        if (value.image) {
+          mod.image = value.image.split("#")[value.image.split("#").length - 1];
         }
 
-        let displayname: string | undefined;
+        if (key.includes("_ammo_pack") && vehicle.type === "army") {
+          const findMod = Object.values(modifications.modifications).filter((value) => {
+            return value.reqModification === key && !value.tier;
+          });
+          if (findMod.length === 0) {
+            throw new Error(`not found mod: ${key}`);
+          }
 
-        vehicle.weapons?.cannon?.findIndex((element) => {
-          if (!element || "dummy" in element) {
+          let displayname: string | undefined;
+
+          vehicle.weapons?.cannon?.findIndex((element) => {
+            if (!element || "dummy" in element) {
+              return false;
+            }
+
+            const findShell = element.shells?.find((element) => {
+              return findMod.find((modElement) => {
+                return element.modname === modElement.effects?.additiveBulletMod;
+              });
+            });
+            const findBelt = element.belts?.find((element) => {
+              return findMod.find((modElement) => {
+                return element.modname === modElement.effects?.additiveBulletMod;
+              });
+            });
+
+            if (findShell) {
+              displayname = findShell.name;
+              return true;
+            } else if (findBelt) {
+              displayname = findBelt.name;
+              return true;
+            }
             return false;
-          }
-
-          const findShell = element.shells?.find((element) => {
-            return findMod.find((modElement) => {
-              return element.modname === modElement.effects?.additiveBulletMod;
-            });
-          });
-          const findBelt = element.belts?.find((element) => {
-            return findMod.find((modElement) => {
-              return element.modname === modElement.effects?.additiveBulletMod;
-            });
           });
 
-          if (findShell) {
-            displayname = findShell.name;
-            return true;
-          } else if (findBelt) {
-            displayname = findBelt.name;
-            return true;
-          }
-          return false;
-        });
+          vehicle.weapons?.machineGun?.findIndex((element) => {
+            if (!element) {
+              return false;
+            }
+            const findShell = element.shells?.find((element) => {
+              return findMod.find((modElement) => {
+                return element.modname === modElement.effects?.additiveBulletMod;
+              });
+            });
+            const findBelt = element.belts?.find((element) => {
+              return findMod.find((modElement) => {
+                return element.modname === modElement.effects?.additiveBulletMod;
+              });
+            });
 
-        vehicle.weapons?.machineGun?.findIndex((element) => {
-          if (!element) {
+            if (findShell) {
+              displayname = findShell.name;
+              return true;
+            } else if (findBelt) {
+              displayname = findBelt.name;
+              return true;
+            }
             return false;
-          }
-          const findShell = element.shells?.find((element) => {
-            return findMod.find((modElement) => {
-              return element.modname === modElement.effects?.additiveBulletMod;
-            });
-          });
-          const findBelt = element.belts?.find((element) => {
-            return findMod.find((modElement) => {
-              return element.modname === modElement.effects?.additiveBulletMod;
-            });
           });
 
-          if (findShell) {
-            displayname = findShell.name;
-            return true;
-          } else if (findBelt) {
-            displayname = findBelt.name;
-            return true;
+          if (!displayname) {
+            console.log(`no lang for: ${key}`);
           }
-          return false;
-        });
 
-        if (!displayname) {
-          console.log(`no lang for: ${key}`);
+          mod.displayname = displayname;
         }
 
-        mod.displayname = displayname;
-      }
+        if (key.endsWith("_belt_pack") && !mod.displayname) {
+          if (!gameMod.caliber) {
+            throw new Error(`${key} does not have caliber`);
+          }
 
-      if (key.endsWith("_belt_pack") && !mod.displayname) {
-        if (!gameMod.caliber) {
-          throw new Error(`${key} does not have caliber`);
+          if (key.endsWith("_turret_belt_pack")) {
+            mod.displayname = `Turret ${gameMod.caliber} mm`;
+          } else {
+            mod.displayname = `Offensive ${gameMod.caliber} mm`;
+          }
+        } else if (key.endsWith("_new_gun") && !mod.displayname) {
+          if (!gameMod.caliber) {
+            throw new Error(`${key} does not have caliber`);
+          }
+
+          if (key.endsWith("_turret_new_gun")) {
+            mod.displayname =
+              gameMod.caliber >= 15
+                ? `New ${gameMod.caliber} mm cannons (turret)`
+                : `New ${gameMod.caliber} mm MGs (turret)`;
+          } else {
+            mod.displayname =
+              gameMod.caliber >= 15
+                ? `New ${gameMod.caliber} mm cannons`
+                : `New ${gameMod.caliber} mm MGs`;
+          }
         }
 
-        if (key.endsWith("_turret_belt_pack")) {
-          mod.displayname = `Turret ${gameMod.caliber} mm`;
-        } else {
-          mod.displayname = `Offensive ${gameMod.caliber} mm`;
-        }
-      } else if (key.endsWith("_new_gun") && !mod.displayname) {
-        if (!gameMod.caliber) {
-          throw new Error(`${key} does not have caliber`);
+        if (!mod.displayname) {
+          mod.displayname = parseLang(weaponry_lang, "modification/" + key)?.English;
         }
 
-        if (key.endsWith("_turret_new_gun")) {
-          mod.displayname =
-            gameMod.caliber >= 15
-              ? `New ${gameMod.caliber} mm cannons (turret)`
-              : `New ${gameMod.caliber} mm MGs (turret)`;
-        } else {
-          mod.displayname =
-            gameMod.caliber >= 15
-              ? `New ${gameMod.caliber} mm cannons`
-              : `New ${gameMod.caliber} mm MGs`;
+        if (!mod.displayname && rank) {
+          console.log("no displayname for:", key);
+        }
+
+        if (value.modClass && rank) {
+          console.log(value.modClass, key);
+
+          baseModArr[
+            modClassName.parse(Array.isArray(value.modClass) ? value.modClass[0] : value.modClass)
+          ][rank - 1].push(mod);
+        } else if (gameMod.modClass && rank) {
+          baseModArr[modClassName.parse(gameMod.modClass)][rank - 1].push(mod);
         }
       }
-
-      if (!mod.displayname) {
-        mod.displayname = parseLang(weaponry_lang, "modification/" + key)?.English;
-      }
-
-      if (!mod.displayname && rank) {
-        console.log("no displayname for:", key);
-      }
-
-      if (value.modClass && rank) {
-        baseModArr[modClassName.parse(value.modClass)][rank - 1].push(mod);
-      } else if (gameMod.modClass && rank) {
-        baseModArr[modClassName.parse(gameMod.modClass)][rank - 1].push(mod);
-      }
-    }
-  });
+    },
+  );
 
   const finalModArr: ModClass = {};
   let anyExisit = false;
