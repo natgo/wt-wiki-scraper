@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' (विजयंता; lit. Victorious) was the first MBT built in India as the licensed variant of the British [[Vickers Mk.1]]. As the export tank designed by the Vickers-Armstrong, Vickers Mk.1 were designed to be a lighter yet as powerful medium tank as the Centurion series in British service; the design of this tank was acquired by India in 1961 and development soon started in UK. The development was completed by 1964 with a prototype delivered to India and joined the Indian Army a year later under the name Vijayanta. The tank was saw in action during the Bangladesh Liberation War in 1971 and Indo-Pakistan War of 1999; although planned for decommission by 2008, the introduction of Russian-built/licensed MBTs and complications on the domestic Arjun MBT however didn't fully phrase-out all Vijayanta with were still spotted as late as 2019, serving as batteries for border troops.
 
-Introduced in [[Update "La Royale"]] as a premium British medium tank and the first Indian ground vehicle to be introduced in game. The Vijayanta is essentially a Vickers Mk.1 with M456 105 mm HEAT-FS, other than the additional ammunition option, both tanks can be utilize with same tactics as a supporting tank while players have to pay extra caution to avoid frontline battles at all cost since the protection is rather poor for its tier.
+Introduced in [[Update "La Royale"]] as a premium British medium tank, the Vijayanta is essentially a Vickers Mk.1 with M456 105 mm HEAT-FS, other than the additional ammunition option, both tanks can be utilize with same tactics as a supporting tank while players have to pay extra caution to avoid frontline battles at all cost since the protection is rather poor for its tier.
 
 == General info ==
 === Survivability and armour ===
@@ -20,6 +20,7 @@ For the internal layout, like Vickers Mk.1, the crews are rather cramped and thr
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+
 * Rolled homogeneous armour (Hull, Turret roof)
 * Cast homogeneous armour (Turret)
 
@@ -46,6 +47,7 @@ For the internal layout, like Vickers Mk.1, the crews are rather cramped and thr
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+
 * Suspension wheels and tracks are 20 mm thick.
 
 === Mobility ===

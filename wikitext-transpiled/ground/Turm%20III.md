@@ -50,14 +50,14 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[L7A3 (105 mm)|105 mm L7A3]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[L7A3 (105 mm)|105 mm L7A3]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 47 || rowspan="2" | ±12° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00
+| rowspan="2" | 47 || rowspan="2" | ±12° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 5.00 
 |-
 ! ''Realistic''
 | 14.3 || 16.8 || 20.4 || 22.6 || 24.0
@@ -157,10 +157,9 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 
 '''Pros:'''
 
-* Huge first stage ammo rack   
+* First stage ammo rack houses all of the ammo   
 * Has a fast autoloader for the main armament
 * Has an autocannon for coaxial weapon that can defeat even some MBTs through the side armour
-* Extremely good mobility, can easily get up to 66 kilometres per hour in RB
 * Two-axis stabilizer, unlike its equivalent counterpart, the [[Leopard I]]
 * Weak armour can cause some shells to over-penetrate and do almost nothing
 * Familiar Leopard 1 chassis
@@ -180,6 +179,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_erprobungstrager_3_achs_turm Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -188,6 +188,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Leopard 1 (Family)]]
 
 == External links ==

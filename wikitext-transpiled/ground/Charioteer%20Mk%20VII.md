@@ -53,7 +53,7 @@ The few advantages of this vehicle are: internal shields (to ensure that at leas
 
 {{tankMobility|abMinHp=930|rbMinHp=531}}
 
-As said earlier, the {{PAGENAME}} share the hull of a typical Cromwell tank featuring 5 wheels on each side (not like the [[Avenger]] or [[Challenger]], which have the lengthened 6-wheeled chassis). For any experimented British tanker, this tank will be very familiar as it shares the mobility with its predecessors, with maybe a little loss in power due to heavier weight. A negative aspect of the {{PAGENAME}} is its extremely poor reverse speed: only -3 km/h.
+As said earlier, the {{PAGENAME}} share the hull of a typical Cromwell tank featuring 5 wheels on each side (not like the [[Avenger]] or [[Challenger]], which have the lengthened 6-wheeled chassis). For any experienced British tanker, this tank will be very familiar as it shares the mobility with its predecessors, with maybe a little loss in power due to heavier weight. A negative aspect of the {{PAGENAME}} is its extremely poor reverse speed: only -3 km/h.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -65,6 +65,10 @@ As said earlier, the {{PAGENAME}} share the hull of a typical Cromwell tank feat
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|20pdr OQF Mk.I (84 mm)}}
 
+The {{PAGENAME}} carries an 84 mm 20pdr gun in a lightly armoured turret protected only with 30 mm RHA box. As the gun is very consequent, the turret traverse is quite slow so one should have to preventively aim towards a corner before going around it. The high penetration power of the gun compensates the poor slewing rate. Plus, even the stock shells has as much penetration as the [[QF 17-pounder (76 mm)|76 mm QF 17pdr]]'s APDS shell found on other Rank III tanks, this only gets better with the upgraded APDS shot, which can pierce up to 363 mm of armour at 500 m distance (or a [[Tiger II (H)]]'s UFP at point-blank range).
+
+The tank commander has the ability to control the weapon if the gunner is knocked out, which is very unusual at the rank and might allow to aggressively trade shots, or even straight up rush some tanks in AB.
+
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[20pdr OQF Mk.I (84 mm)|84 mm 20pdr OQF Mk.I]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -74,16 +78,12 @@ As said earlier, the {{PAGENAME}} share the hull of a typical Cromwell tank feat
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 25 || rowspan="2" | -5°/+10° || rowspan="2" | ±180° || rowspan="2" | N/A || 17.1 || 23.7 || 28.8 || 31.9 || 33.9 || rowspan="2" | 8.19 || rowspan="2" | 7.25 || rowspan="2" | 6.68 || rowspan="2" | 6.30
+| rowspan="2" | 25 || rowspan="2" | -5°/+10° || rowspan="2" | ±180° || rowspan="2" | - || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 8.19 || rowspan="2" | 7.25 || rowspan="2" | 6.68 || rowspan="2" | 6.30
 |-
 ! ''Realistic''
-| 10.7 || 12.6 || 15.3 || 16.9 || 18.0
+| 11.9 || 14.0 || 17.0 || 18.8 || 20.0
 |-
 |}
-
-The {{PAGENAME}} carries an 84 mm 20pdr gun in a lightly armoured turret protected only with 30 mm RHA box. As the gun is very consequent, the turret traverse is quite slow so one should have to preventively aim towards a corner before going around it. The high penetration power of the gun compensates the poor slewing rate. Plus, even the stock shells has as much penetration as the [[QF 17-pounder (76 mm)|76 mm QF 17pdr]]'s APDS shell found on other Rank III tanks, this only gets better with the upgraded APDS shot, which can pierce up to 363 mm of armour at 500 m distance (or a [[Tiger II (H)]]'s UFP at point-blank range).
-
-The tank commander has the ability to control the weapon if the gunner is knocked out, which is very unusual at the rank and might allow to aggressively trade shots, or even straight up rush some tanks in AB.
 
 ==== Ammunition ====
 {{:20pdr OQF Mk.I (84 mm)/Ammunition|Shot Mk.1, Shot Mk.3, Shell Mk.1, 20pdr Shell SS Mk.1}}
@@ -111,22 +111,22 @@ The tank commander has the ability to control the weapon if the gunner is knocke
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|L3A1 (7.62 mm)}}
 
+The small calibre of the L3A1 machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
+
 {| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[L3A1 (7.62 mm)|7.62 mm L3A1]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 5,000 (250) || 500 || N/A || N/A
+| Coaxial || 5,000 (250) || 500 || - || -
 |-
 |}
-
-The small calibre of the L3A1 machine gun makes it largely ineffective against all armoured vehicles but the ones with an open compartment. It still can be used to ping targets as a rangefinding help or to mow down minor obstacles blocking your line of sight.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Charioteer, as with most western tank destroyer, is fitted with a very powerful gun, has good mobility, but is very lightly armoured. As such, it is best to play with its mobility to evade the enemy until the opportune moment. As it uses the same hull as a Cromwell, the reverse speed is atrocious that can make any withdrawal very hard once discovered by the enemy. It is recommended that the Charioteer be used with the forward movement more often, and back up by rotating the entire vehicle before whistling away since the armour back and front is inadequate to deal with any of the tanks you face at its battle rating.
+The Charioteer, as with most western tank destroyers, is fitted with a very powerful gun, has good mobility, but is very lightly armoured. As such, it is best to play with its mobility to evade the enemy until the opportune moment. As it uses the same hull as a Cromwell, the reverse speed is atrocious that can make any withdrawal very hard once discovered by the enemy. It is recommended that the Charioteer be used with the forward movement more often, and back up by rotating the entire vehicle before whistling away since the armour back and front is inadequate to deal with any of the tanks you face at its battle rating.
 
 '''Flanking'''
 

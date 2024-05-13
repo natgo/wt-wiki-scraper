@@ -97,14 +97,14 @@ Repairs, damage and firefighting do not reset reload timers, so as long as the m
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[3M7]] missile || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[3M7]] missile || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 15 || rowspan="2" | -9°/+17° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.0 || 30.5 || 37.0 || 40.9 || 43.5 || rowspan="2" | 10.00 || rowspan="2" | 10.00 || rowspan="2" | 10.00 || rowspan="2" | 10.00
+| rowspan="2" | 15 || rowspan="2" | -9°/+17° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.0 || 30.5 || 37.0 || 40.9 || 43.5 || rowspan="2" | 10.00 
 |-
 ! ''Realistic''
 | 14.9 || 17.5 || 21.3 || 23.5 || 25.0
@@ -227,6 +227,7 @@ Though the missile tanks concept failed, many more attempts were made to incorpo
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_it_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -5,9 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''HMS London (69)''' is a member of the County-class heavy cruiser family. The HMS London was laid down on February 23, 1926, at Portsmouth Dockyard, launched on September 14, 1927, and commissioned on January 31, 1929. The HMS London served with the 1st Cruiser Squadron until March 1939 and was Admiral Max Horton's flagship during his command of the 1st Cruisers. She was undergoing extensive reconstruction at the Chatham Dockyard beginning in March 1939, and her appearance was significantly altered. She was given a new superstructure above the main deck and resembled a Fiji-class light cruiser in many ways. In March 1941, the reconstruction work was finally completed. In May 1941, the HMS London was involved in the pursuit of the German battleship Bismarck. The HMS Amethyst was trapped by advancing Chinese forces up the Yangtze River in the spring of 1949. The HMS London sailed up the river to help free the HMS Amethyst but was hit several times as a result. The HMS London returned to Hong Kong for repairs, which lasted until the end of July. The HMS London remained in Chinese waters until August 1949, when she was relieved by the HMS Kenya, after which she returned to the UK in the autumn of 1949. She was retired to a reserve in the Fal until she was scrapped in 1950.
-
-Introduced in [[Update 1.97 "Viking Fury"]], the HMS London is a true glass cannon, and players should treat her as such. Players should position themselves in areas where they can continuously fire on enemy vessels. However, in open maps, this is not a good strategy as the main armaments are rather inaccurate beyond 10 km. When it comes to accomplishing this, having map knowledge is extremely beneficial. Use cover to get closer while keeping an eye out for potential enemies. Find defensive positions near objectives where players can camp while also supporting the frontline of the team. However, unless there is an emergency, do not push into the objective. The HMS London is better suited to assisting teammates rather than leading the assault.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} British heavy cruiser {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]].
 
 == General info ==
 === Survivability and armour ===
@@ -257,7 +255,6 @@ In 1941, HMS London took part in the hunt for the battleship Bismarck, after whi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_cruiser_london Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -274,7 +271,6 @@ File:HMS London WTWallpaper 05.jpg|
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -286,7 +282,6 @@ File:HMS London WTWallpaper 05.jpg|
 * [[wt:en/news/6626-development-hms-london-anticipated-calibre-en|[Devblog] HMS London: Anticipated Calibre]]
 
 === References ===
-
 ;Citations
 <references>
 <ref name="Ballantyne">Ballantyne, I. (2002). ''HMS London: Warships of the Royal Navy''. Casemate Publishers.</ref>
@@ -299,7 +294,6 @@ File:HMS London WTWallpaper 05.jpg|
 </references>
 
 ;Bibliography
-
 * Anderson, P. (2019). British Government Maritime Evacuations in the Spanish Civil War, 1936–1939. ''War in History'', ''26''(1), 65-85.
 * Beesly, P. (1990). Convoy PQ 17: A study of intelligence and decision‐making. ''Intelligence and National Security'', ''5''(2), 292-322.
 * Chen, C. (2007, May). Heavy Cruiser London. Retrieved November 17, 2020, from <nowiki>https://ww2db.com/ship_spec.php?ship_id=326</nowiki>

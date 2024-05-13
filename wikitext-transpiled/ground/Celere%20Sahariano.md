@@ -22,7 +22,7 @@ Introduced in [[Update "New Power"]], the Carro Armato M Celere Sahariano is the
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 35 mm + 15 mm (55°) ''Upper Glacis'' <br> 35 mm (55°) ''Driver's Hatch'' 20 mm (55°) ''Upper Glacis (Lower Portion)'' <br> 20 mm (35°) ''Lower Glacis'' || 15 mm ''Main''<br>8 mm ''Upper Engine Compartment'' ||15 mm ''Lower Part'' <br> 8 mm ''Upper Part'' || 10 mm ''Crew Compartment'' <br> 8 mm ''Engine Compartment''
+| Hull || 35 mm + 15 mm (55°) ''Upper Glacis'' <br> 35 mm (55°) ''Driver's Hatch'' <br> 20 mm (55°) ''Upper Glacis (Lower Portion)'' <br> 20 mm (35°) ''Lower Glacis'' || 15 mm ''Main''<br> 8 mm ''Upper Engine Compartment'' || 15 mm ''Lower Part'' <br> 8 mm ''Upper Part'' || 10 mm ''Crew Compartment'' <br> 8 mm ''Engine Compartment''
 |-
 | Turret || 30 mm (12°) ''Turret front'' <br> 30 mm + 40 mm (Curved) ''Gun mantlet'' || 25 mm || 25 mm || 10 mm
 |-

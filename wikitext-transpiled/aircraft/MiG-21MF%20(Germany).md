@@ -139,21 +139,50 @@ Your main priority is to get to the R-60s as soon as possible, this will require
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
-** 1 x 23 mm GSh-23L cannon + 64 x countermeasures
+* 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|S-5K|S-24}}
-{{main|R-3R|R-3S|R-60}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x R-3S missiles
-* 2 x R-3R missiles
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || 1 || || 1 || 1
+|-
+! [[S-5K]] rockets
+| 16 || 16, 32 || || 16, 32 || 16
+|-
+! [[S-24]] rockets
+| 1 || 1 || || 1 || 1
+|-
+! [[R-3R]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-3S]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-60]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! Countermeasures
+| || || 64 || ||
+|-
+! 490 l drop tanks
+| 1 || || 1 || || 1
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 3 x 490 l drop tanks
+* 2 x 490 l drop tanks + 64 x countermeasures + 2 x R-3S missiles
+* 2 x 490 l drop tanks + 64 x countermeasures + 2 x R-3R missiles
 * 4 x R-3S missiles
 * 4 x R-3R missiles
 * 4 x R-60 missiles
@@ -161,32 +190,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 64 x S-5K rockets
 * 64 x S-5K rockets
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
-|-
-! 250 kg OFAB-250sv bombs
-| 1 || 1 || 1 || 1
-|-
-! S-5K rockets
-| 16 || 16, 32 || 16, 32 || 16
-|-
-! S-24 rockets
-| 1 || 1 || 1 || 1
-|-
-! R-3R missiles
-| 1 || 1 || 1 || 1
-|-
-! R-3S missiles
-| 1 || 1 || 1 || 1
-|-
-! R-60 missiles
-| 1 || 1 || 1 || 1
-|-
-|}
+* 64 x countermeasures
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

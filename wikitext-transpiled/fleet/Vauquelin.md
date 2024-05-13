@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "Air Superiority"]].
+The '''Vauquelin''' was a lead ship of her class, laid down in March 1930 and launched on 29 September 1932. During her trials, she damaged her propeller and struck a rock, delaying the introduction to service. In 1934, she made her first trans-Atlantic trip to Canada. With the beginning of World War Two, she was assigned to Force X and escorted allied convoys on the Atlantic and Mediterranean, being based in Toulon. With the fall of France, Vauquelin was assigned to the Vichy French High Sea Forces, with her first notable mission being successful transport of the 138.6 mm ammunition to Beirut, where she was bombed on 22nd of June 1940 by Bristol Blenheim bombers, which scored 6 bomb hits on the vessel killing 5 men, but without any significant damage to the vessel. A week later she sailed for Lebanon, but failing to reach the destination undetected, she turned for Thessaloniki and eventually returned to Toulon. With the Case Anton, German military occupation of Vichy France, French sailors scuttled Vauquelin along with the rest of the French fleet at Toulon on 27 November 1942. Her burnt out wreck was scrapped after the war.
+
+Vauquelin is a French destroyer introduced in [[Update "Air Superiority"]]. In gameplay terms, she's very comparable to the destroyers of [[Aigle (Family)|Aigle-class]], with the most notable difference being added mines at the expense of significantly worse anti-air weaponry. On her own, she's a very fast destroyer with a very good broadside, excellent torpedoes and a decent survivability, at the expense of a very slow turret traverse and lower rate of fire, making her prone to ambushes, especially by coastal vessels, and difficult to operate in narrow straits between the islands, where ability to quickly change targets is of the essence.
 
 == General info ==
 === Survivability and armour ===
@@ -87,9 +89,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wikipedia:French destroyer Vauquelin (1931)|[Wikipedia] French destroyer Vauquelin (1931)]]
+* [http://www.navypedia.org/ships/france/fr_dd_vauquelin.htm <nowiki>[Navypedia]</nowiki> VAUQUELIN destroyers (1933 - 1934)]
+* [https://uboat.net/allies/warships/ship/6044.html <nowiki>[uboat.net]</nowiki> FR Vauquelin - Large destroyer of the Vauquelin class]
+* ''French Destroyers: Torpilleurs D'escadre and Contre-Torpilleurs, 1922-1956'' by John Jordan and Jean Moulin
 
 {{ShipManufacturer Ateliers et Chantiers de France}}
 {{France destroyers}}

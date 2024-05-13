@@ -36,7 +36,7 @@ Players of the Chinese tech tree might think that the chassis of AFT09 looks ver
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-Since AFT09 is based on the WZ551 chassis but reduced into a 4x4 instead of 6x6, WZ551 family mostly shares the same Detuz BF8L413F engine (albeit at a slightly reduced power output) and ZF 5S-111GPA transmission; this reduction in size also means that it goes faster than its other cousins (at 95 km/h)while has a slightly better but still horrible -8 km/h reverse, so make sure to plan your route to cover; the overall mobility is also good so make sure to utilize it for getting into a shooting position before the enemy does.
+Since AFT09 is based on the WZ551 chassis but reduced into a 4x4 instead of 6x6, WZ551 family mostly shares the same Detuz BF8L413F engine and ZF 5S-111GPA transmission; this reduction in size also means that it goes faster than its other cousins (at 95 km/h)while has a slightly better but still horrible -8 km/h reverse, so make sure to plan your route to cover; the overall mobility is also good so make sure to utilize it for getting into a shooting position before the enemy does.
 
 {{tankMobility|abMinHp=412|rbMinHp=256}}
 
@@ -56,14 +56,14 @@ Although the HJ-9 is often said to be a laser beam-riding missile, it in fact us
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[HJ-9]] missile || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[HJ-9]] missile || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 12 (4) || rowspan="2" | ±10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 13.2 || 18.3 || 22.2 || 24.5 || 26.1 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00
+| rowspan="2" | 12 (4) || rowspan="2" | ±10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 13.2 || 18.3 || 22.2 || 24.5 || 26.1 || rowspan="2" | 15.00 
 |-
 ! ''Realistic''
 | 8.9 || 10.5 || 12.8 || 14.1 || 15.0

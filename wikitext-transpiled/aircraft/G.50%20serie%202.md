@@ -8,7 +8,7 @@
 }}
 {{Specs-Card
 |code=fiat_g50_seria2_italy
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -149,6 +149,11 @@ At the start of World War Two there were 118 G.50s in Italian service in two fig
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage G.50 serie 2.png|<small>G.50 Serie 2 in El-Alemain</small>
+</gallery>
 
 ;Skins
 

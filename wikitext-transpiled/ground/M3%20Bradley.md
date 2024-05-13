@@ -152,10 +152,9 @@ One last note: the TOW missiles should be your primary weapon, not your autocann
 '''Pros:'''
 
 * Excels at urban combat, as the gun can be effective when engaging MBTs, except for the Russian MBTs
-* Massive radiator makes tank hull semi-invulnerable to APHE from the right side, can even survive 3 direct hits from the [[Maus]] if lucky enough
 * Outclasses stock 35 mm autocannon tanks which use API or APHE as long as long-range (about 1.1 km) and moderate front armour angle is kept, can even sustain low calibre APDS and HVAP hits from spaded light tanks if it has the high ground
 * Can fire missiles at "combat" cruise control, albeit only at about 5 km/h (can be considered as a downgrade after [[M551]], but still usable when compared to its peers)
-* 25mm autocannon can easily tear through light vehicles
+* 25 mm autocannon can easily tear through light vehicles and is useful for engaging helicopters
 * TOW missiles capable of penetrating many tanks from the front with ease
 * Has a fast turret traverse and two-plane stabilizer, allowing for quick reaction times and accurate fire on the move
 * Slow ATGM allows for easier aiming onto target
@@ -165,7 +164,7 @@ One last note: the TOW missiles should be your primary weapon, not your autocann
 '''Cons:'''
 
 * Additional side armour plates and turret frontal slope protect against 12.7 machine guns, but will always set off APHE, so caution is required
-* Low fire rate on the autocannon; faster than the British 30mm RARDEN but slower than the Russian 30mm 2A42 and most SPAA autocannons
+* Low fire rate on the autocannon; faster than the British 30 mm RARDEN but slower than the Russian 30 mm 2A42 and most SPAA autocannons
 * Survivability is poor as with other IFVs; its autocannon belt is easy to hit and the vehicle is prone to overpressure
 * Relatively slow, especially in reverse
 * Large size makes it easy to spot
@@ -206,7 +205,7 @@ Image:M3 Bradley Explosion (2).jpg|<small>M3 Bradley hit by enemy fire</small>
 </gallery>
 
 ;Videos
-{{Youtube-gallery|2h5kFyznXKU|'''Best IFVs''' discusses the {{PAGENAME}} at 1:24 - ''War Thunder Official Channel''|p6_wtLInMRc|'''{{PAGENAME}} - I Expected More''' - ''Napalmratte''|wpm0DcBWhIA|'''The Shooting Range #126''' - ''Pages of History'' section at 05:52 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|EqBcQom4ilU|'''M3(A3) Bradley Ultimate Review''' - ''Bob Dickinson''|2h5kFyznXKU|'''Best IFVs''' discusses the {{PAGENAME}} at 1:24 - ''War Thunder Official Channel''|p6_wtLInMRc|'''{{PAGENAME}} - I Expected More''' - ''Napalmratte''|wpm0DcBWhIA|'''The Shooting Range #126''' - ''Pages of History'' section at 05:52 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

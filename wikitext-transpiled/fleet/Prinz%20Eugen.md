@@ -8,7 +8,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German heavy cruiser {{Battle-rating}}. It was introduced in [[Update 1.95 "Northern Wind"]].
 
-The {{PAGENAME}} is perhaps one of the most famous cruisers of World War II. She is best known for her long and fanciful career, from fighting alongside the battleship Bismarck in the Battle of the Denmark Strait in 1941, to the breakthrough between the British channel in 1942, and providing fire support for the retreating German army on the Eastern Front in 1945. The {{PAGENAME}}'s career literally ended with a bang when she was used as one of the targets for Operation Crossroads nuclear tests in 1946.
+The {{PAGENAME}} is perhaps one of the most famous cruisers of World War II. She is best known for her long and storied career, from fighting alongside the battleship Bismarck in the Battle of the Denmark Strait in 1941, to the breakthrough between the British channel in 1942, and providing fire support for the retreating German army on the Eastern Front in 1945. The {{PAGENAME}}'s career literally ended with a bang when she was used as one of the targets for Operation Crossroads nuclear tests in 1946.
 
 == General info ==
 === Survivability and armour ===
@@ -141,6 +141,7 @@ After the ceasefire in Europe, Prinz Eugen was handed over to the U.S. Navy as a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_cruiser_prinz_eugen Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -168,9 +169,11 @@ File:Prinz Eugen WTWallpaper 08.jpg|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;[[Admiral Hipper (Family)|Related development]]
+
 * [[Admiral Hipper]]
 
 ;Vessels of a similar role, configuration or era
+
 * [[IJN Mogami]]
 * [[USS Northampton (CA-26)|USS Northampton]]
 * [[Kirov]]
@@ -185,6 +188,7 @@ File:Prinz Eugen WTWallpaper 08.jpg|
 * [[wt:en/news/6498-development-prinz-eugen-steaming-into-the-atomic-age-en|[Devblog] Prinz Eugen: Steaming Into the Atomic Age]]
 
 === References ===
+
 ;Citations
 <references />
 

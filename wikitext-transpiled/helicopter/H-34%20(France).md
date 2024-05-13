@@ -10,17 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
+The Sikorsky H-34 was manufactured as a piston-engined military helicopter originally intended for anti-submarine warfare, however, it also has seen service as a medium transport helicopter and as a combat helicopter. This tail dragging helicopter has the radial reciprocating engine mounted in the nose of the aircraft, with the driveshaft traversing through the cockpit. French aviation company Sud-Aviation assembled a total of 135 H-34's built in the U.S. along with a total of 166 H-34s produced by Sud-Aviation under licence from Sikorsky for use in the French Air Force, Navy, and Army Aviation (ALAT). Due to the ruggedness of the H-34, it had an impressive track record under French command in the Algerian War where it garnered over 190,000 flying hours evacuating French troops from combat locations, including many night-time operations.
 
-The Sikorsky H-34 was manufactured as a piston-engined military helicopter originally intended for anti-submarine warfare, however, it also has seen service as a medium transport helicopter and as a combat helicopter. This tail dragging helicopter has the radial reciprocating engine mounted in the nose of the aircraft, with the driveshaft traversing through the cockpit.
-
-The initial flight of this helicopter took place in March 1954 and the first to enter service with the U.S. Navy took place only six months later.  The U.S. Army and Marine Corps also placed orders for this helicopter in 1955 and 1957.  Other designations of this helicopter include SH-34, UH-34 and CH-34.  For transport purposes, this helicopter can be configured to carry between 12 and 16 troops or, if utilized in the role of MedEvac, up to eight stretchers.
-
-French aviation company Sud-Aviation assembled a total of 135 H-34's built in the U.S. along with a total of 166 H-34s produced by Sud-Aviation under licence from Sikorsky for use in the French Air Force, Navy, and Army Aviation (ALAT).
-
-Due to the ruggedness of the H-34, it had an impressive track record under French command in the Algerian War where it garnered over 190,000 flying hours evacuating French troops from combat locations, including many nighttime operations.
-
-Production of the H-34 terminated in 1968 by Sikorsky after building a total of 1,821 of these helicopters.
+It was introduced in [[Update 1.87 "Locked On"]]. Unlike other helicopters, the '''{{Specs|name}}''' has a very large size, this comes with severe drawbacks, being not agile at all and a very big target for enemy anti-aircraft fire. It is, however, quite fast, being able to consistently maintain 300 km/h in level flight. With no access to guided missiles, its bombs and rockets are the only way to consistently destroy enemy vehicles, this, paired with the large size of the H-34, translates into low chances of survival against enemy SPAA.
 
 == General info ==
 === Flight performance ===

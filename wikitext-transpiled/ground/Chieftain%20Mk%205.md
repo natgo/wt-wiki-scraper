@@ -200,8 +200,8 @@ Be wary of the Chieftain's width, often its weak points are exposed when trying 
 
 * Turret armour strong enough to bounce APDS, HEATFS and even some APFSDS shells
 * Upper frontal plate is heavily sloped, providing adequate protection against same tier rounds
-* Excellent reload time for a 120 mm (7.5s - 9.5s)
-* Access to 320 mm penetrating APDS shells and HESH shells immediately
+* Excellent reload time for a 120 mm cannon (7.5s - 9.5s)
+* Access to high-penetrating APDS shells and HESH shells immediately
 * 10 degrees of gun depression
 * Has access to a dual plane stabilizer
 * Includes an additional range finding .50 calibre machine gun that can be separately bound

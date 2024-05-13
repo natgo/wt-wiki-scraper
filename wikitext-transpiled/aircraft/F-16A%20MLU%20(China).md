@@ -18,7 +18,7 @@ Introduced in [[Update "Apex Predators"]], the F-16A MLU is a hybrid version bet
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-Instead of [[F-16A|Block 10]] or [[F-16A ADF|Block 15 ADF]], in ROCAF's case, their F-16A MLU (Block 20) has major differences in terms of thrust and appearance: to tell a Block 20 and others apart, there are two parts to differentiate- IFF antenna and the tail; while Block 10 has no antenna and ADF has the "bird-slicer" antenna, MLU received  AN/APX-113 IFF with a rounded antenna. The tail in this case also received a drogue chute for highway strip operations. Other than that, the MLU performs mostly identically to its counterparts with slightly less military thrust. The F-16s are known to be one of the most manoeuvrable jets with their impressive engine thrust and design features for dogfights. In most cases, jets that are an era behind the F-16 will very likely having a hard time biting onto the tail of F-16, since their relatively light weight does help in dogfights and acceleration. The F-16 is also the first mass-produced fighter to use FBW (Fly-by-wire) 
+Instead of [[F-16A|Block 10]] or [[F-16A ADF|Block 15 ADF]], in ROCAF's case, their F-16A MLU (Block 20) has major differences in terms of thrust and appearance: to tell a Block 20 and others apart, there are two parts to differentiate- IFF antenna and the tail; while Block 10 has no antenna and ADF has the "bird-slicer" antenna, MLU received  AN/APX-113 IFF with a rounded antenna. The tail in this case also received a drogue chute for highway strip operations. Other than that, the MLU performs mostly identically to its counterparts with slightly less military thrust. The F-16s are known to be one of the most manoeuvrable jets with their impressive engine thrust and design features for dogfights. In most cases, jets that are an era behind the F-16 will very likely having a hard time biting onto the tail of F-16, since their relatively light weight does help in dogfights and acceleration. The F-16 is also the first mass-produced fighter to use FBW (Fly-by-wire)
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -123,9 +123,9 @@ Other than the airframe and alloy skins, the F-16 MLU has no extra protection fo
 |-
 ! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Cross}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -135,9 +135,8 @@ Other than the airframe and alloy skins, the F-16 MLU has no extra protection fo
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
-** 1 x 20 mm M61A1 cannon + 90 x countermeasures
+* 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
+* 90 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -148,7 +147,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-16A.png]]</div>
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-16A.png]]</div>
 |-
 ! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
 | || || 3 || 3 || || 3 || 3 || ||
@@ -174,12 +173,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! 300 gal drop tanks
 | || || || || 1 || || || ||
 |-
+! 370 gal drop tanks
+| || || || 1 || || 1 || || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 300 gal drop tank
+* 2 x 370 gal drop tanks + 1 x 300 gal drop tank
 * 2 x AIM-9P Sidewinder missiles
 * 6 x AIM-9P Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles
@@ -214,6 +216,7 @@ The introduction of the F-16A MLU means the Chinese tech tree finally has the up
 * Impressive payload for interception missions with up to 6 x AAMs
 * Impressive manoeuvrability at almost all speeds
 * Equipped with a drogue chute for shorter landing distance
+* Has 90 countermeasures unlike the 60 found on other early F16 variants
 
 '''Cons:'''
 

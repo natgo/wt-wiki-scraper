@@ -27,12 +27,15 @@ Mississippi utilizes the "all or nothing" armour scheme. This armour philosophy 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
+As with other standard-type battleship, the Mississippi is awfully slow. With a top speed at only 47 km/h (AB)/40 km/h (RB), she would often be left behind even by some other battleship. Her agility is also quite lacking, and as such it would be nearly impossible to dodge torpedoes if spotted too late.
 
 {{NavalMobility}}
 
 === Modifications and economy ===
+
 {{Specs-Economy}}
+
+'''Researching the APCBC first is a must.''' While stock, the Mississippi is nothing but a pinata due to how weak her stock shells is, especially for a ship with such a long reload time. After getting rank II modification, researching HE-VT shell for the secondary is highly recommended as it allowed the Mississippi to finally damage the surface vessel with her 5-inch guns. Then you can either upgrade her mobility of turret rotation so that it wouldn't feel as sluggish as before. The rest can be chosen at your own liking.
 
 == Armament ==
 {{Specs-Fleet-Armaments}}
@@ -40,7 +43,15 @@ Mississippi utilizes the "all or nothing" armour scheme. This armour philosophy 
 {{Specs-Fleet-Primary}}
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|14 inch/50 Mk.11 (356 mm)}}
-''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
+The Mississippi features 12 x 14 inch/50 Mk.11 cannons, arranged in A-Bs-Xs-Y triple turrets as her main armament. This is essentially an improved version of the [[14 inch/45 Mk.12 (356 mm)|14 inch/45 Mk.12]] cannons found on the [[USS Nevada]] and [[USS Arizona]] with longer barrels, resulting in an improved accuracy.
+
+However, like other "standard" battleships, the Mississippi still has cramped turret design, resulting in the same excruciating reload time of 40 seconds at best, meaning that any missed salvoes will seriously cut into the damage output. This can be partially mitigated by firing the turrets separately; this can be especially effective against light targets such as destroyers and light cruisers, and allow some ability to engage multiple targets.
+
+Like the other "standard" battleships, the Mississippi has only two shell options. First is the Mk. 19 HE, a lightweight version of the Mk. 9 HE found on the Arizona and Nevada, with significantly lighter shell weight but with the same 46.67 kg TNT equivalent, giving it marginally better shell velocity at 861 m/s compared to 823 m/s of the Mk. 9. The shell can cause flooding and fire on any ship taking a hit, the damage may be severe enough from a concentrated salvo for many destroyers and sometimes even cruisers to roll over and capsize. It should be noted, however, that USN ammunition has historically contained less filler than other nations' navies. While containing more filler than the Japanese and German 12-inch shells, it does not compare favourably even against the 12-inch shells on Russian/Soviet capital ships, let alone against the monstrous 88.11 kg explosive mass found on the 13.5-inch of [[HMS Marlborough]]. Given how absurdly slow the Mississippi's rate of fire is, the shell are not recommended, especially against capital ships. 
+
+The other shell option of the Mississippi is the Mk. 16 APCBC round. The shell has relatively low filler at ~10 kg of TNT equivalent, but is offset by its absurd penetration value at 714 mm at point blank, and 493 mm at 10 km range. The shell can easily pierce any battleship's citadel current in the game from the flat angles, and allowed any captain with good aim to "one-shot" any ship they may face. Because of this, it is highly recommended to unlock the APCBC shell as soon as possible to unlock the Mississippi's true potential.
+
+While there seems to be no other reason to load the HE shell when the APCBC shell is unlocked, due to how slow the Mississippi's rate of fire its, the gun suffered from a harsh reload penalty while you're repairing the damage. As such, it is recommended to load only a few of HE shell so that you can switch the shell back-and-forth to reset the reload time and remove the reload penalty timer, significantly improves the gun's rate of fire in the process.
 
 {{:14 inch/50 Mk.11 (356 mm)/Ammunition|14 inch Mk.19 HC, 14 inch Mk.16 APCBC}}
 
@@ -48,7 +59,9 @@ Mississippi utilizes the "all or nothing" armour scheme. This armour philosophy 
 {{Specs-Fleet-Secondary}}
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|5 inch/25 Mk.13 AA (127 mm)}}
-''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
+The Mississippi has 16 x 5 inch/25 Mk.13 AA cannons as its secondary armament. Mounted in a single turret, with eight guns on the port and starboard side of the superstructure each. Due to the gun being an older version of the 5 inch/38 dual-purposes gun with shorter barrel, it generally perform worse as a result. The gun has a significantly worse shell velocity compared to the main gun at around 657 m/s, resulting into an offset shell trajectory that became apparent when using it simultaneously with the main guns. Given the long reload time of the main guns, it is recommended to manually control these guns yourself with the "secondary armament" selection to eliminate the discrepancy and allowed the shell to hit the target.
+
+Being designed first as an AA gun, the 5 inch/25 cannons has only two shell choice; a default HE-TF shell and an unlockable HE-VT shell, both with the same amount of filler. Since there is no option for the plain HE shell while stock, the 5 inch with HE-TF are effectively useless against surface targets, as the shell would detonate around the ship's vicinity instead of on contact, dealing little to no damage as a result. This, combined with mediocre stock HE shell for the main guns, resulting into the Mississippi having abysmal damage output while stock. As such it is highly recommended to replace the HE-TF shell with an HE-VT shell as soon as possible, as this will allow you to finally deal damage against surface targets, and making it a true "dual-purposes" armament.
 
 {{:5 inch/25 Mk.13 AA (127 mm)/Ammunition|5 inch Mk.36 AAC, 5 inch Mk.28 AAC-VT}}
 
@@ -56,15 +69,15 @@ Mississippi utilizes the "all or nothing" armour scheme. This armour philosophy 
 {{Specs-Fleet-AA}}
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|Bofors L/60 Mark 2 (40 mm)|20 mm/70 Oerlikon Mark 24 (20 mm)}}
-''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.''
+Being in the late war configuration, the Mississippi features a heavy anti-air suite of 48 x 40 mm Bofors autocannons in twelve quadruple turrets and 34 x 20 mm Oerlikon autocannons in seventeen dual turrets covering every angle of the ship. These AA guns are more than enough to deter any would-be attackers and bombers from approaching the ship, be it an aircraft or PT boats, especially when combined with the 5 inch guns.
 
+However, as with any other ships with plenty of AA guns, these AA mounts are highly vulnerable from explosive damage, and would be gradually knocked out as the time went on. As such, it is not recommended to repair them under firefight, lest you feed the fresh crew to man the guns for the enemy to kill them off again.
 === Scout plane ===
 {{Specs-Fleet-Plane}}
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
-
+Due to the heavily armoured nature and large gun calibre of this battleship, it is recommended that you stay on the front lines, angling your ship by 45 degrees so that the effective armour thickness of your armour is thicker. Provide supporting fire to destroyers and cruisers and always take out other battleships first.
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -75,12 +88,14 @@ Mississippi utilizes the "all or nothing" armour scheme. This armour philosophy 
 * Twelve 14-inch guns with high-power APCBC shells
 * Heavy anti-air armaments at all ranges
 * Has an access to air search radar
+* One scout seaplane
 
 '''Cons:'''
 
-* Weak default shell for both the main and secondary guns, thus greatly limiting its damage output
+* Terrible stock grind due to weak default shell for both the main and secondary guns
 * Incredibly slow top speed and poor maneuverability, extremely vulnerable to large bombs and torpedoes
 * The main guns have very slow rate of fire
+* Secondary guns has much lower velocity than the main guns, which results in a significant shell drop-off discrepancy when used together
 * Poorly-protected bridge, expect it to be knocked out often
 * Open-mount AA suite are highly vulnerable to explosive blasts
 

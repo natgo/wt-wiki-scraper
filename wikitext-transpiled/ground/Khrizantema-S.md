@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+A few years after the fall of the USSR, efforts were restarted to develop an anti-tank guided missile with dual-control modes. The program was officially restarted and spearheaded in 1996 by the Konstruktorskoye Byuro Mashynostroyenia Engineering Design Bureau, or KBM for short. The project resulted in the 9M123 Khrizantema missile, which was available in both laser-beam riding and radar-beam riding variants. The design philosophy behind this was for new attack helicopters being designed during the '90s, such as the [[Ka-52]] and the [[Mi-28N]], to be able to launch two separate 9M123 missiles at two separate targets in different locations; one guided by radar while the other is guided with conventional laser optics. However, due to multiple reasons, chiefly delays and budget cuts during development of the Ka-52 and Mi-28N respectively, a new cheaper platform was devised for the 9M123 missile. This cheap platform was envisioned through a heavily modified version of the existing [[BMP-3]] chassis, named the '''9P157-2 Khrizantema-S'''. The Khrizantema-S launcher vehicle was hastily designed with simplicity but effectiveness in mind, touted by the manufacturer with the promise that ''"Only three defending [Khrizantema-S] tank destroyers are able to engage 14 attacking tanks and destroy at least sixty percent of the attacking force".'' The 9P157-2 Khrizantema-S had a few developmental delays and teething issues during testing, which were not ironed out for a few years, allowing it to finally enter service in 2005. Trials for an upgraded "Khrizantema-SM" version with better radar, electronics, and upgraded variants of the Khrizantema missile were officially completed in 2016, although it is not known if a full production order was issued for the upgraded model.
 
-The Khrizantema-S is an amphibious ATGM carrier based on the chassis of the [[BMP-3]] IFV. In some sense it is the spiritual successor to the previous [[Shturm-S]], which was an amphibious ATGM carrier based on the chassis of the MT-LB, but the Khrizantema-S is far more modern. It is equipped with a ground-based radar system for its titular 9M123 "Khrizantema" (Chrysanthemum) missiles, which can be guided by both radar and laser beams. Despite its delicate name, the 9M123 is the most powerful Russian ATGM in War Thunder with a tandem warhead penetrating 1,200 mm of RHA and a fast flight speed of 550 m/s. It suffices to say that a Khrizantema-S in a good position is a deadly tank hunter capable of obliterating even top-tier MBTs. However the platform also has many drawbacks: the armour protection is very poor and it has no gun armament whatsoever, making it a specialist vehicle that requires caution and relies on teammate support.
+Introduced in [[Update "Starfighters"]], the '''{{Specs|name}}''' is essentially an amphibious ATGM carrier based on the chassis of the familiar [[BMP-3]]. It is the spiritual successor to the previous [[Shturm-S]], which was also an amphibious ATGM carrier based on the chassis of the MT-LB that requires good positioning behind lines to perform well. However, unlike the Shturm, the Khrizantema-S is equipped with a ground-based radar system for its 9M123 "Khrizantema" (Chrysanthemum) missiles, which can be guided by both radar and laser beams. Despite its delicate name, the 9M123 is the most powerful Russian ATGM in War Thunder with a tandem warhead penetrating 1,200 mm of RHA and a fast flight speed of 550 m/s. However the platform also has many drawbacks: the armour protection is very poor and it has no gun armament whatsoever, making it a specialist vehicle that requires caution and relies on teammate support. The Khrizantema-S is best played as a back-line  sniper with its incredible optics and radar to pick off targets with its fast and punchy missiles. Effectiveness of this vehicle will rely on player's knowledge of the terrain along with anticipation of "choke points" and hot-spots on certain maps.
 
 == General info ==
 === Survivability and armour ===
@@ -95,14 +95,14 @@ Missiles can fly up to 6 km before running out of fuel. It makes them useful aga
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[9M123]] missile || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[9M123]] missile || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 16 (2) || rowspan="2" | -5°/+15° || rowspan="2" | ±85° || rowspan="2" | N/A || 35.2 || 48.8 || 59.2 || 65.5 || 69.7 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00
+| rowspan="2" | 16 (2) || rowspan="2" | -5°/+15° || rowspan="2" | ±85° || rowspan="2" | N/A || 35.2 || 48.8 || 59.2 || 65.5 || 69.7 || rowspan="2" | 15.00 
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0
@@ -184,6 +184,7 @@ To decide whether to spawn this ATGM carrier or not, a few questions should be a
 * Is your team being steamrolled so hard that an enemy team can afford an endless air support?
 * Is it necessary to rush something down to win, at least right now? If so, is enemy position vulnerable to the attacks of Khrizantema-S and are you comfortable enough with the weapon controls to do it?
 * Are there close air support planes in this round? If so, are you good with hitting them without any help?
+
 [[File:Khrizanetma-s firing over cover.jpg|thumb|right|Although it is clunky, radar can still allow to hit enemy tanks over a hill. Do not expose the hull for it is generally unnecessary.]]
 If any of these questions are a concern to you, it is probably better to spawn a different tank. Against proximity missiles, some medium tanks with ERA on the turret might be better. In some general combat situations, even the Shturm-S might be better due to its anti-air capability and lesser vulnerability to HEAT, but it has to use HE to fight NERA tanks and has to reload more often.
 
@@ -193,7 +194,7 @@ At the very start of the match, turn your radar off and drive straight towards s
 
 If you have the Dozer Blade modification, you can try to reinforce a firing position in some unusual spot. But, whatever you choose, the launcher must be able to aim straight at the enemy tank (even if you fire from behind cover, the radar cannot lock beyond launcher aiming angles), so you are limited to only flat ground. Ideally, you want to be standing right next to your cover, as otherwise enemy might accidentally hit the hull by flinging shells, ATGM or even SAM over terrain (although radar or launcher hit would be equally fatal, it is slightly more difficult to pull off).
 
-After taking the position and cleaning it up for missile launching, wait for the enemies to appear. It won't take long, since many players around rank VII have fast tanks. After seeing one, enter binoculars mode, press fire button to turn turret towards enemy, adjust aim, then try to lock onto enemy tank. Entering binocular scope is necessary to ensure that the radar is actually aimed at your target and not somewhere else. 
+After taking the position and cleaning it up for missile launching, wait for the enemies to appear. It won't take long, since many players around rank VII have fast tanks. After seeing one, enter binoculars mode, press fire button to turn turret towards enemy, adjust aim, then try to lock onto enemy tank. Entering binocular scope is necessary to ensure that the radar is actually aimed at your target and not somewhere else.
 
 Upon locking onto tank, enter sniper scope, aim above your cover and fire. If the tank in question is some sort of ATGM light tank or SPAA, you can immediately double tap them, even if you are generally sure of your aim, as to avoid being shot back into the launcher (which can be fatal if they use default belts or ATGM). Both missiles can be guided at the same time, so the second shot is not entirely wasted and can be redirected into the next tank.
 [[File:Khrizantema-S desert hulldown AB.jpg|thumb|right|Zone other ATGM carriers and sniper tanks out, punish any assault onto a capture point, use the radar to finish off tanks behind smoke screens, as they can't see you anyway.]]

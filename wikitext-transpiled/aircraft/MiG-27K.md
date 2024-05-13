@@ -243,33 +243,33 @@ As mentioned before, the MiG-27K's arsenal is largely the same as the MiG-27M's.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-'''<u>General Tactics</u>''' 
+;General Tactics 
 
-The user is able to utilise the MiG-27K's powerful ordinance and long range to eliminate many ground vehicles in a single pass. The MiG-27K can be used to destroy enemy vehicles from an extreme range. The pilot of the aircraft should ensure that they manage targets effectively to destroy as many enemies as possible and keeping themselves alive. It should be noted that a MiG-27K can single-handedly change the course of a game if handled correctly, avoiding SPAA and enemy jets by giving them a small window of opportunity to counter the MiG-27K.  
+The user is able to utilise the MiG-27K's powerful ordnance and long range to eliminate many ground vehicles in a single pass. The MiG-27K can be used to destroy enemy vehicles from an extreme range. The pilot of the aircraft should ensure that they manage targets effectively to destroy as many enemies as possible and keeping themselves alive. It should be noted that a MiG-27K can single-handedly change the course of a game if handled correctly, avoiding SPAA and enemy jets by giving them a small window of opportunity to counter the MiG-27K.
 
-From the perspective of the ground player, the MiG-27K can be rather terrifying. The capabilities of the vehicle come from its range, speed and potent weapons. This allows the MiG to only reveal itself for an extremely short amount of time, only appearing when striking targets from a distance. A main battle tank has a close to zero chance of being able to do ''anything'' against the MiG-27K, and that is what makes it so terrifying.  
+From the perspective of the ground player, the MiG-27K can be rather terrifying. The capabilities of the vehicle come from its range, speed and potent weapons. This allows the MiG to only reveal itself for an extremely short amount of time, only appearing when striking targets from a distance. A main battle tank has a close to zero chance of being able to do anything against the MiG-27K, and that is what makes it so terrifying.
 
-The pilot should, however, keep an eye out for other enemy aircraft, as the MiG-27K has a limited amount of chaff and flares and a poor selection of air-to-air missiles for its position in the tech tree. Avoiding SPAA is imperative as vehicles such as the notorious FlaRakRad will have a field day with a MiG if flown incorrectly.  
+The pilot should, however, keep an eye out for other enemy aircraft, as the MiG-27K has a limited amount of chaff and flares and a poor selection of air-to-air missiles for its position in the tech tree. Avoiding SPAA is imperative as vehicles such as the notorious FlaRakRad will have a field day with a MiG if flown incorrectly.
 
-<u>Using air-to-ground missiles</u>
+;Using air-to-ground missiles
 
-It is suggested to use air-to-ground missiles against targets such as SPAA and tanks. The KH-25ML, KH-29L and KH-29T rockets are excellent examples of powerful ordanance that can be employed to destroy multiple targets in a single pass. A massive advantage of using these missiles is that they are extremely potent, and therefore the pilot doesn't need to worry about where he is aiming, as long as he hits the target. 
+It is suggested to use air-to-ground missiles against targets such as SPAA and tanks. The Kh-25ML, Kh-29L and Kh-29T rockets are excellent examples of powerful ordnance that can be employed to destroy multiple targets in a single pass. A massive advantage of using these missiles is that they are extremely potent, and therefore the pilot doesn't need to worry about where he is aiming, as long as he hits the target. 
 
 Firstly, the pilot must be aware of the current situation on the battlefield, and create a list of targets that are imperative to winning the battle. If enemies are overrunning a point, for example, the MiG-27K can be used to relieve pressure on the team and destroy targets capturing the point. In doing this, the pilot should manage their altitude in order to avoid SPAA fire as best they can, and using their targeting pod to guide missiles in to high-priority targets. 
 
-[[File:Mig 27.png|thumb|right|MiG-27k using high-zoom optics to seek a target at a range of almost 10 kilometres away. ]]
+[[File:Mig 27.png|thumb|right|MiG-27k using high-zoom optics to seek a target at a range of almost 10 kilometres away.]]
 
-This can be done from any altitude, but a lower one is more reliable as it gives the SPAA player a shorter time to react, lock and fire upon the MiG-27K. Use your high speed to evacuate the danger zone after a pass, re-evaluate the situation and go in for more targets. Once you are out of missiles, simply rush to the airfield and ensure that you re-arm and refuel. Take off once again and continue the process of evaluating targets, taking them out and re-positioning, keeping the enemies guessing as to where you are. The benefits of using guided missiles are the fact that they have high battlefield maneuverability, allowing them to be fired when the MiG-27K is not facing its target.   
+This can be done from any altitude, but a lower one is more reliable as it gives the SPAA player a shorter time to react, lock and fire upon the MiG-27K. Use your high speed to evacuate the danger zone after a pass, re-evaluate the situation and go in for more targets. Once you are out of missiles, simply rush to the airfield and ensure that you re-arm and refuel. Take off once again and continue the process of evaluating targets, taking them out and re-positioning, keeping the enemies guessing as to where you are. The benefits of using guided missiles are the fact that they have high battlefield manoeuvrability, allowing them to be fired when the MiG-27K is not facing its target.
 
-<u>Using guided bombs</u>
+;Using guided bombs
 
 Guided bombs such as the KAB-500L and KAB-500Kr bombs have an enhanced range due to them being unpowered and droppable from any height. 
 
 This means that the MiG-27K pilot can climb to extreme altitude, avoiding SPAA's attention, and carefully selecting targets based on the situation they find themselves in. However, an altitude of over 10,000 metres or 33,000 feet should be avoided, as several SPAAs are designed specifically for destroying high-flying aircraft. 
 
-Guided bombs can be used to quietly eliminate targets from such a distance that they were not even aware the MiG was in the area, allowing for multiple targets to be acquired and destroyed on a single pass. This allows them to take out targets and re-arm without any realistic threat from the ground. However, this leaves the MiG vulnerable to other aircraft that are capable of firing missiles that can destroy their vehicle from many miles away - namely the FlaRakRad and the ADATS weapon systems.  
+Guided bombs can be used to quietly eliminate targets from such a distance that they were not even aware the MiG was in the area, allowing for multiple targets to be acquired and destroyed on a single pass. This allows them to take out targets and re-arm without any realistic threat from the ground. However, this leaves the MiG vulnerable to other aircraft that are capable of firing missiles that can destroy their vehicle from many miles away - namely the FlaRakRad and the ADATS weapon systems.
 
-<u>Up Close & Personal</u>
+;Up close & personal>
 
 The MiG-27K has one final ace up its sleeve. The infamous GSh-6-30 cannon, mounted on the bottom of the vehicle. 
 
@@ -291,7 +291,7 @@ Another point should be made on overcommitting to the airstrike, as the MiG-27K 
 
 '''Cons:'''
 
-* Low amount of ordinance compared to more modern vehicles at the same rank
+* Low amount of ordnance compared to more modern vehicles at the same rank
 * Lack of thermal targeting pod means vehicle is rendered inadequate in poor weather conditions
 * Poor selection of air-to-air missiles compared to other vehicles with more modern air-to-air capabilities
 * Less manoeuvrable than other vehicles that can be faced at this rank
@@ -320,6 +320,13 @@ The MiG-27K followed the previous MiG-27M as the ultimate variant of the MiG-27 
 ;Related development
 
 * [[MiG-23 (Family)]]
+
+;Other jet planes with variable sweep wings
+
+* [[Tornado (Family)]]
+* [[Su-17/22 (Family)]]
+* [[F-14 (Family)]]
+* [[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

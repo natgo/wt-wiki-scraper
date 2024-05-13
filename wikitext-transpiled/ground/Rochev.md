@@ -8,7 +8,7 @@
 
 The '''Rochev''' was the name given by the IDF to the M109 self-propelled howitzer gun. They received the M109 before the Yom Kippur War of 1973, and the nickname  was associated with the variants from M109 to M109A2. Most of differences between all of these variants were internal and especially regarding the shell loading system. While the early M109 was used during the Yom Kippur War and Lebanon War of 1982, by the 2006 Lebanon War, only the longer barrel M109s with the new M185 cannon were still in service, with some field modifications to improve quality of life and or survivability of the crew, like extra machine guns or outside storage compartments.
 
-Introduced in [[Update "Air Superiority"]], the '''{{Specs|name}}''' is very similar to the normal M109 in the Israeli tech tree. It features a new cannon specifically the M185 cannon that is of the same 155 millimetre calibre of the regular gun of the M109. This means that the penetration is not improved but the shows have actually a longer range and the higher speed so aiming is much easier with this vehicle. The addition of more machine guns increase the ability of this vehicle to deal with close air support and light attack planes like the P-51 and BF 109 that can be relatively easily destroyed with a precise shot of heavy machine gun. Still the tank has relatively poor survivability and the reload time is quite large, however the high explosive shell is powerful enough to deal with most MBTs if aimed properly. No need to mention that like tanks like the AML-90 and the AMX-13 stand very little chance against your high explosive shells since their lack of farmer make them extremely vulnerable to this kind of projectiles.
+Introduced in [[Update "Air Superiority"]], the '''{{Specs|name}}''' is very similar to the normal M109 in the Israeli tech tree. It features a new cannon specifically the M185 cannon that is of the same 155 mm calibre of the regular gun of the M109. This means that the penetration is not improved but the shows have actually a longer range and the higher speed so aiming is much easier with this vehicle. The addition of more machine guns increase the ability of this vehicle to deal with close air support and light attack planes like the P-51 and BF 109 that can be relatively easily destroyed with a precise shot of heavy machine gun. Still the tank has relatively poor survivability and the reload time is quite large, however the high explosive shell is powerful enough to deal with most MBTs if aimed properly. No need to mention that like tanks like the AML-90 and the AMX-13 stand very little chance against your high explosive shells since their lack of armour make them extremely vulnerable to this kind of projectiles.
 
 == General info ==
 === Survivability and armour ===
@@ -127,6 +127,7 @@ The HE shell in the Rochev is powerful enough to deal with most enemies, however
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Powerful 155mm HE shell, capable of dealing with most tanks
 * Decent mobility for an SPG
 * Access to smoke shells and a long range, useful to create smoke screens in the middle of the map
@@ -134,6 +135,7 @@ The HE shell in the Rochev is powerful enough to deal with most enemies, however
 * Longer range and thus easier aim, compared to the smaller barrel M109s
 
 '''Cons:'''
+
 * Very little armour against anything higher than 20 mm shots
 * Crammed crew compartment, which translates to poor survivability
 * Low fire rate at less than 4 rounds per minute
@@ -145,16 +147,17 @@ The HE shell in the Rochev is powerful enough to deal with most enemies, however
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_m109a1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[M109 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

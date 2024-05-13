@@ -5,25 +5,25 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-'''HMS Calpe (L71)''' is a member of the Type II [[Hunt (Family)|Hunt-class]] destroyers. HMS Calpe was constructed in response to the start of World War II and took part in the Dieppe Raid in addition to escorting convoys. On December 13, 1943, she worked with the USS Wainwright to help sink the German U-boat U-593. After being lent to and later purchased by the Danish Navy, HMS Calpe served there until 1966, when she was scrapped in Sweden in the end.
+'''HMS Calpe (L71)''' is a member of the Type II [[Hunt (Family)|Hunt-class]] destroyers. HMS Calpe was constructed in response to the start of World War II and took part in the Dieppe Raid in addition to escorting convoys. On December 13, 1943, she collaborated with the USS Wainwright to help sink the German U-boat U-593. After being lent to and later purchased by the Danish Navy, HMS Calpe served there until 1966 when she was scrapped in Sweden.
 
-Introduced in [[Update 1.95 "Northern Wind"]], HMS Calpe is a slow destroyer, with fewer crews than average. Therefore, the destroyer is unable to exchange shots with other destroyers or move quickly enough to avoid danger. Players should practice their gunnery if they want to become proficient with HMS Calpe, as her potent main armament can deal a great deal of damage when fired correctly. HMS Calpe is most effective by staying near the coast and dealing with enemy light boats that are capturing the objectives. If an enemy destroyer is approaching, it is best to form a group with a friendly destroyer before engaging.
+Introduced in [[Update 1.95 "Northern Wind"]], HMS Calpe is a slow destroyer with fewer crew members than average. Consequently, the destroyer is unable to exchange shots with other destroyers or move quickly enough to avoid danger. Players should practice their gunnery skills if they aim to become proficient with HMS Calpe, as her potent main armament can deal significant damage when fired correctly. HMS Calpe is most effective when staying near the coast and engaging enemy light boats that are capturing objectives. If an enemy destroyer approaches, it is best to form a group with a friendly destroyer before engaging.
 
 == General info ==
-The Hunt class is reasonably slow and won't likely reach most of the distant capture zones alive. Her crew size is another unfavourable factor, since she is not fast enough to avoid the enemy artillery but also not strong enough to resists them.
+The Hunt class is reasonably slow and is unlikely to reach most of the distant capture zones alive. Another unfavorable factor is her crew size, as she is not fast enough to avoid enemy artillery and not strong enough to resist it.
 
-Players using the Calpe should practice their gunnery skills if they want to master this escort destroyer. As her powerful 4 inch/45 Mark XVI cannons will cause a lot of unstoppable damage if fired accurately.
+Players using the Calpe should practice their gunnery skills if they want to master this escort destroyer. Her powerful 4-inch/45 Mark XVI cannons will cause significant damage if fired accurately.
 
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-Unlike her extremely fast destroyer adversaries, HMS Calpe relies on quick firepower and covered positioning as the best means of defence.
+Unlike her extremely fast destroyer adversaries, HMS Calpe relies on quick firepower and covered positioning as the best means of defense.
 
-The compact and unaggressive silhouette scarcely resembles a regular British destroyer of early World War II epoch, such as the G-class or the K-class; this is because the ship was built to accompany and oftentimes disappear amongst the cargo ships.
+The compact and unaggressive silhouette scarcely resembles a regular British destroyer of the early World War II epoch, such as the G-class or the K-class; this is because the ship was built to accompany and often disappear among the cargo ships.
 
-This concealment plays a relevant role in the survivability of the Calpe. As with the slow top speed and small size, one of the best ways to survive in the Calpe is to hide with the coastal borders area or near land formations; awaiting for any vulnerable patrol boat or aircraft to reach within firing range.
+This concealment plays a relevant role in the survivability of the Calpe. With its slow top speed and small size, one of the best ways to survive in the Calpe is to hide within the coastal borders area or near land formations, awaiting any vulnerable patrol boat or aircraft to reach firing range.
 
-Calpe's moderate crew size won't allow any direct combat with dedicated destroyers, whose crew size numbers are often double. Destroyers such as the German [[Z12 Erich Giese]], the Japanese [[IJN Yugumo]] and the Italian [[RN Comandante Margottini]], fit very well in this class. Their equally powerful firepower and yet adequate crew size are a challenge for the slow Calpe.
+Calpe's moderate crew size won't allow direct combat with dedicated destroyers, whose crew size numbers are often double. Destroyers such as the German [[Z12 Erich Giese]], the Japanese [[IJN Yugumo]] and the Italian [[RN Comandante Margottini]] fit very well in this class. Their equally powerful firepower and yet adequate crew size pose a challenge for the slow Calpe.
 
 '''Armour'''
 
@@ -35,9 +35,9 @@ The turret's antifragmentation armour protects against any HE shell, but they re
 
 '''Ammo racks'''
 
-The ammunition is well placed just under the waterline, however, there's a large amount of ready-use ammo racks inside steel containers near all the main turrets, each of them with 40 rounds. It only takes a single direct hit with a powerful shell to cause major damage to the destroyer.
+The ammunition is well placed just under the waterline; however, there's a large amount of ready-use ammo racks inside steel containers near all the main turrets, each containing 40 rounds. It only takes a single direct hit with a powerful shell to cause major damage to the destroyer.
 
-If the players want to decrease the chances of this ammo to detonate, they can simply engage at will using the high rate of fire until all the ready-use ammo rack is spent.
+If players want to decrease the chances of this ammo detonating, they can simply engage at will using the high rate of fire until all the ready-use ammo rack is spent.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -192,13 +192,16 @@ Upon the appearance of the submarine, it was received by fire from both sides, w
 
 HMS Calpe and USS Wainwright were awarded a shared submarine elimination because of the fine teamwork, taking into account no previous joint drill were executed.
 [[File:Hunt L71.jpg|thumb| HMS Calpe in Malta, Nov 6th 1945.]]
- ''"A pleasure to work with" - "She turned in a polished performance, always being in the proper place, always being ready and she was quick to grasp the intentions of this ship."''  - Commander Walter W. Strohbehn
-
+{{Quote
+|''"A pleasure to work with" - "She turned in a polished performance, always being in the proper place, always being ready and she was quick to grasp the intentions of this ship."''<br>- Commander Walter W. Strohbehn
+}}
 '''Fate'''
 
 The experienced HMS Calpe was then transferred to Malta from where she participated in even more operations of allied landings and close shore support in the Mediterranean theatre, until the end of the war.
 
 In defiance of her original design limitations, HMS Calpe eventually served with a flotilla in the Indian ocean until November 1946, then returned to Britain. She was loaned and eventually sold to Denmark in 1952 under the name of HDMS Rolf Krake. She remained active until October 1966, ultimately being scrapped in Denmark and Sweden.
+
+After scrapping, members of the ship's company, the Royal Naval Reserve Unit HMS Calpe salvaged a capstan from HM Dockyard. An HMS Calpe plaque can be found as heritage artifacts at the HM Government of Gibraltar Ministry of Heritage, highlighting the historical significance of the ship. The salvaged capstan from HM Dockyard was used to haul ships into dry docks for repairs and was built in 1902 by Cowans, Sheldon and Co., Ltd. This particular capstan, identified as Yard No. 1021, commemorates the Royal Naval Reserve Unit HMS Calpe's presence in Gibraltar from 1965 to 1993.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

@@ -5,13 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (40 tons battle tank), also known as the '''{{specs|pseudonym}}''' (Lorraine is both a region of France and the company that made this tank), is a rank {{Specs|rank}} French medium tank {{Battle-rating}}. It was introduced in [[Update 1.75 "La Résistance"]]. Introducing tremendous firepower at its BR with its 100 mm SA46 L/58 gun on a highly mobile chassis. Unfortunately, it is plagued with poor armour, which encourages a battle role more similar to that of a light tank.
+In the late 1940s, French engineers initiated the development of the Lorraine 40t, a lighter tank project intended to complement the AMX-50 heavy tank. Mounted on the chassis of the Canon d'Assaut Lorraine, the tank featured an oscillating turret and utilized advanced technologies from previous experimental projects like the CA Lorraine and the AMX-50 prototype, including the revolver autoloader. Despite its maximum 45 mm armour thickness, the Lorraine 40t compensated with cleverly angled armour and a distinctive chevron-shaped front hull design that effectively provided the equivalent protection of 90 mm armour. The strategic use of lighter armour facilitated increased speed and manoeuvrability, paired with steel roller wheels and bulletproof tires powered by an 850 horsepower German Maybach engine, enabling the tank to reach speeds of 60 km/h. Although two prototypes were completed in 1952, the Lorraine 40t never entered production due to geopolitical shifts linked to the formation of NATO, France's integration into the alliance, and the supply of M47 Patton tanks by the US during the Korean War.
 
-The Lorraine is one of the best representative of rank IV French medium tanks: it has good mobility, an oscillating turret (fitted with an autoloader), sloped armour in front and back, high hull, high gun placement, good gun depression, 4 crew member, a coaxial MAC 31 machine gun and large tracks. Specifically, the Lorraine distinguishes itself by having a pike nose, similar to that of an [[IS-3]], road wheels instead of metal ones and it is the first French vehicle to be able to consistently pierce more than 200 mm of armour at standard combat ranges and it can do it seven times a minute.
-
-Even if its armour pattern is very efficient, with strong and well-designed angles, it is only at most 40 mm thick, meaning it will only bounce HMG fire. The best way to protect this tank is staying away from the action and taking down its foes as far as possible.
-
-This "medium" tank actually behaves as a light one: high top speed and acceleration, good turning rate (neutral steering) and awesome hill climbing capacity. Use its mobility to follow light tanks into large flanking manoeuvres, providing them an extra punch for scouted targets. In a more "static" usage (i.e. once in good position), its good reverse speed should get it fast enough into cover and out of bad situations if required.
+It was introduced in [[Update 1.75 "La Résistance"]]. The Lorraine is one of the best representative of rank IV French medium tanks: it has good mobility, an oscillating turret (fitted with an autoloader), sloped armour in front and back, high hull, high gun placement, good gun depression, 4 crew member, a coaxial MAC 31 machine gun and large tracks. The Lorraine distinguishes itself by having a pike nose, similar to that of an [[IS-3]], road wheels instead of metal ones and it is the first French vehicle to be able to consistently pierce more than 200 mm of armour at standard combat ranges and it can do it seven times a minute. This tank offers high top speed and acceleration, good turning rate (neutral steering) and awesome hill climbing capacity. Use its mobility to follow light tanks into large flanking manoeuvres, providing them an extra punch for scouted targets. In a more passive playstyle, its good reverse speed should get it fast enough into cover and out of bad situations if required.
 
 == General info ==
 === Survivability and armour ===
@@ -56,14 +52,14 @@ This "medium" tank actually behaves as a light one: high top speed and accelerat
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[SA47 L/58 (100 mm)|100 mm SA47 L/58]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[SA47 L/58 (100 mm)|100 mm SA47 L/58]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 49 || rowspan="2" | -8°/+15° || rowspan="2" | ±180° || rowspan="2" | N/A || 28.6 ||39.5||48.0||53.1||56.5|| rowspan="2" | 4.00 || rowspan="2" | 4.00 || rowspan="2" | 4.00 || rowspan="2" | 4.00
+| rowspan="2" | 49 || rowspan="2" | -8°/+15° || rowspan="2" | ±180° || rowspan="2" | N/A || 28.6 ||39.5||48.0||53.1||56.5|| rowspan="2" | 4.00 
 |-
 ! ''Realistic''
 | 17.9 ||21.0||25.5||28.2||30.0

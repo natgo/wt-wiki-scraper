@@ -91,7 +91,7 @@ The depth charges mounted on depth charge throwers are even more situational. Th
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 [[File:Shimakaze (6).png|thumb|Shimakaze launching all her 15 [[Type 93 Model 1, Mod 2 (610 mm)|Long Lance Torpedoes]] at once.]]
-Shimakaze is one of the most formidable destroyers Japan can offer, owing largely to its outstanding torpedo armament of 3 quintuple launchers and only beaten by [[Tashkent (leader)|Tashkent]] as 2nd fastest ship in-game.
+Shimakaze is one of the most formidable destroyers Japan can offer, owing largely to its outstanding torpedo armament of 3 quintuple launchers and only beaten by the Italian built [[Tashkent (leader)|Tashkent]] and French [[Le Fantasque (Family)|Le Fantasque-class]] for fastest ship.
 
 Otherwise, she has a well-rounded mix of survivability and firepower, lagging behind slightly due to the lack of AP ammunition options, making it cannon fodder for most cruisers if the manoeuvrability isn't made use of. On the contrary, cruisers only have to worry about Shimakaze like any other Japanese destroyer for the arsenal of torpedoes that will most likely wall them off in a wave of torpedoes and sink them instantly.
 
@@ -268,7 +268,7 @@ Shimakaze isn't the only vessel named Shimakaze ({{Annotation|島風|Kanji}}, {{
 * 2nd generation: Shimakaze (1942 - 1945), Shimakaze-class destroyer (1942).
 ** Sunk 11 November 1944
 * 3rd generation: Shimakaze (DDG-172) (1988 - 2021), Hatakaze-class guided missile destroyer (1988).
-** Converted to "Shimakaze (TV-3521)" as a training ship in March 2021.
+** Renamed to "Shimakaze ({{Annotation|TV-3521|Training Vessel}})" in 2021.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -294,13 +294,6 @@ File:Shimakaze (9).png|Shimakaze leading in front of the fleet
 
 ;Related development
 * [[Yugumo (Family)|Yugumo-class]] <small>(parallel predecessor)</small>
-
-;Ships of comparable role, configuration and era
-* [[USS Fletcher]] <small>([[Fletcher (Family)|Fletcher-class]])</small>
-* [[Z15 Erich Steinbrinck]] <small>([[Type 1934A (Family)|Type 1934A-class]])</small>
-* [[Tashkent]] <small>(Tashkent-class)</small>
-* [[HMCS Haida]] <small>([[Tribal (Family)|Tribal-class]])</small>
-* [[RN Corazziere]] <small>([[Soldati (Family)|Soldati-class]])</small>
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -111,5 +111,6 @@ The Pr.123K (A-11) was built by the Krasnoye Sormovo plant (chief designer RE Al
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{ShipManufacturer Feodosiya Shipyard}}
 {{USSR boats}}
 {{USSR premium ships}}

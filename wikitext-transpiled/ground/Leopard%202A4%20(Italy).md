@@ -1,5 +1,5 @@
 {{About
-| about = medium tank '''{{PAGENAME}}'''
+| about = main battle tank '''{{PAGENAME}}'''
 | usage = other versions
 | link = Leopard 2 (Family)
 }}

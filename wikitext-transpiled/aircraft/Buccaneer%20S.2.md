@@ -1,7 +1,7 @@
 {{About
-| about = British strike aircraft '''{{PAGENAME}}'''
-| usage = the gift version
-| link = Buccaneer S.1
+| about = strike aircraft '''{{PAGENAME}}'''
+| usage = other versions
+| link = Buccaneer (Family)
 }}
 {{Specs-Card
 |code=buccaneer_s2

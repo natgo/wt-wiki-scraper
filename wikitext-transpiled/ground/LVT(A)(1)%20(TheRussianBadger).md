@@ -115,9 +115,10 @@ The deadliest threats are HMG and autocannon mounted vehicles such as the Pz.IIs
 Use the LVT(A)(1)'s ability to sneak up waterways to work around the enemy lines, and ambush when possible. If that is not a option, come at them head on, either taking their vehicle out or disabling it long enough to get around and finish it with a side shot. Once done, do not take the waterways back as the LVT(A)(1) is much faster on land. This tank has the capability to work as an early assault tank, not as fast as the Stuarts, BTs and other light tanks. Another tactic that can be done against lightly armoured vehicles is to drive backwards towards the enemy. The combined firepower of 3 machine guns and the cannon increases the chance of take out the enemy before they can take out the LVT(A)(1). The big thing to keep in mind is that the LVT(A)(1) is big. It is a large target that is hard to hide, but the spacious interior makes it harder for enemies to take out all of the crew members. At the same time, keep in mind that the LVT(A)(1) is an easy target for aircraft, as the vehicle presents as very easy target for anything .50 cal and up.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+'''Pros:'''
 
-* Very fast and manoeuverable on most terrain
+* Very fast and manoeuvrable on most terrain
 * 6 crew members
 * Fast-firing and accurate 37 mm gun
 * Crew members are spread out, less likely to get knocked out in one shot
@@ -127,25 +128,21 @@ Use the LVT(A)(1)'s ability to sneak up waterways to work around the enemy lines
 * Small engine makes it hard to hit
 * Reserve tank (no repair costs)
 * Amphibious (the first reserve floating tank)
-* Spaced Crew
-
-*
+* Spaced crew
 
 '''Cons:'''
 
-* Huge (shell magnet)
+* Huge target
 * Barely any armour to speak about
 * Exposed lower glacis
 * Weak armour and huge size makes it vulnerable to artillery
-* Can easily be destroyed by HE shells (overpressure).
+* Can easily be destroyed by HE shells (overpressure)
 * Very slow reverse speed can prevent it from retreating back to cover in time
 * Unstable aim while moving
 * Bad suspension makes it unstable at humps
 * Very slow speed when traveling in water
 * Water rocks the tank when moving, making it unstable during and a while after movement in the water
-* Poor Gun Depression in the rear in combination with it´s size makes it hard to hit smaller tanks who attack from the rea
-
-*
+* Poor gun depression in the rear in combination with its size makes it hard to hit smaller tanks who attack from the rear
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

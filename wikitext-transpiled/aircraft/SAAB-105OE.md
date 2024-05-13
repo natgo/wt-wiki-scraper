@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Swedish strike aircraft {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+The '''Saab 105OE''' was an improved version of the Saab 105XT export demonstrator prototype designed for the Austrian Air Force, which itself was an improved version of the [[SK60B|Sk 60B]] with General Electric J85 turbojets instead of the Turbomeca Aubisque used in the Sk 60. The first Austrian Saab 105OE was delivered in July 1970 where they replaced the Saab 29 Tunnan and de Havilland Vampire. Austria received 40 aircraft in total, and they were finally retired after 50 years of service on 31st December 2020.
+
+Introduced in [[Update "Hot Tracks"]], the Saab 105OE is a variant of the Saab 105G found in the Swedish tech tree, though representing its service with the Austrian Air Force. The main difference between the two aircraft however is the modified wing found on the 105G, as well as a slightly more powerful variant of the GE J85 engines. Unlike the Saab 105G, the Austrian version also does not have access to any bombs, this is offset by the ability to mount Rb05A missiles. This ability is missing on the Saab 105G. In terms of flying characteristics, the plane is quite manoeuvrable, although not very fast with poor acceleration due to its turbofan engines.
 
 == General info ==
 === Flight performance ===
@@ -150,6 +152,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 30 mm Akan m/55 cannons, wing-mounted (gunpods) (150 rpg = 300 total)
 * 22 x srak m/55 Frida rockets
 * 12 x m/56D rockets
@@ -179,7 +182,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Fairly poor acceleration
 * Does not turn very well
 * No armour and exposed pilots
-* Lacks tracer rounds for the gunpods
+* No integrated offensive armament, requiring gunpods
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -189,6 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=saab_105oe Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

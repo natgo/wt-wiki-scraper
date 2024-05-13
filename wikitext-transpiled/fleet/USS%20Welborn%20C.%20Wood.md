@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=us_destroyer_clemson_welborn_c_wood
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

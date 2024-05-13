@@ -175,7 +175,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[FAB-500Sh (500 kg)|500 kg FAB-500Sh]] bombs
 | || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 ||
 |-
-! [[KAB-500Kr (500 kg)|500 kg KAB-500Kr]] bombs
+! [[KAB-500Kr-E (500 kg)|500 kg KAB-500Kr-E]] bombs
 | || || || 1 || 1 || 1 || 1 || || ||
 |-
 ! [[ZB-500 incendiary]] bombs
@@ -223,8 +223,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[S-25L]] missiles
 | || || 1 || 1 || || || 1 || 1 || ||
 |-
-! 800 l drop tanks
-| || || || ||1||1|| || || ||
+! 820 l drop tanks
+| || || 1 || || 1 || 1 || || 1 || ||
 |-
 | colspan="11" | Maximum permissible loadout weight: 4,400 kg<br>Maximum permissible wing load: 2,200 kg<br>Maximum permissible weight imbalance: 1,500 kg
 |-
@@ -233,7 +233,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 2 x 800 l drop tanks
+* 4 x 820 l drop tanks
 * 2 x R-60MK missiles
 * 2 x R-73 missiles
 * 32 x 100 kg OFAB-100 bombs (3,200 kg total)
@@ -241,7 +241,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 8 x 250 kg OFAB-250Sh bombs (2,000 kg total)
 * 8 x 500 kg FAB-500M-62 bombs (4,000 kg total)
 * 8 x 500 kg FAB-500Sh bombs (4,000 kg total)
-* 4 x 500 kg KAB-500Kr bombs (2,000 kg total)
+* 4 x 500 kg KAB-500Kr-E bombs (2,000 kg total)
 * 8 x ZB-500 incendiary bombs
 * 256 x S-5K rockets
 * 160 x S-8KO rockets

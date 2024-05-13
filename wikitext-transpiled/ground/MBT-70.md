@@ -111,14 +111,14 @@ The rest of the modifications can be researched in any order, as none of the rem
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[XM150E5 (152 mm)|152 mm XM150E5]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[XM150E5 (152 mm)|152 mm XM150E5]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate rounds (seconds) || Reloading rate ATGM (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader !! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 48 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 34.3 || 47.4 || 57.6 || 63.7 || 67.8 || rowspan="2" | 7.50 || rowspan="2" | 7.50 || rowspan="2" | 7.50 || rowspan="2" | 7.50
+| rowspan="2" | 48 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 34.3 || 47.4 || 57.6 || 63.7 || 67.8 || rowspan="2" | 7.50 || rowspan="2" | 10.00
 |-
 ! ''Realistic''
 | 21.4 || 25.2 || 30.6 || 33.8 || 36.0

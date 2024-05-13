@@ -94,6 +94,7 @@ The Turán I was a Hungarian medium tank of World War II. Due to being forbidden
 |}
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes''':
+
 * Racks 1 and 2 are modeled in groups of three shells.  All others are modeled in groups of two shells.
 * Turret empty: 41 (+60) shells.
 {{Clear}}
@@ -141,7 +142,7 @@ With the reload speed being at around 3 seconds, it is advised to use APBC (once
 * Angling the hull makes some spots no longer angled, making them into weakspots
 * Armour is average and can be defeated by tanks with good penetration
 * Somewhat low power-to-weight ratio of around 14 makes climbing hills a struggle
-* 40 mm cannon performs poorly in ranged combat, as its penetration drops drastically
+* 40 mm cannon performs poorly in combat, as its penetration is insufficient to penetrate most vehicles below its BR, such as the M3 or M22
 * Lacklustre turret traverse speed
 
 == History ==
@@ -152,6 +153,7 @@ With the reload speed being at around 3 seconds, it is advised to use APBC (once
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_40m_turan_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

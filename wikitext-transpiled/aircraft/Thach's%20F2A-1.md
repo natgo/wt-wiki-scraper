@@ -240,9 +240,12 @@ File:FighterImage Thach F2A-1 Decal.jpg
 {{Youtube-gallery|aBGRGu-o9us|'''The Shooting Range #3''' - ''Pages of History'' section at 04:06 discusses {{PAGENAME}}.}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[F2A (Family)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

@@ -202,16 +202,15 @@ Being anti-submarine weapons and with the present lack of submarines in the game
 
 '''Pros:'''
 
-* High survivability
-* Cannot be hull-broken by any guns in the game
-* Primary armament: excellent SAP round
+* High survivability due to detailed damage model
+* Primary armament: excellent SAP round and can hull break PT boats
 * Secondary armament: great damage output; large magazine capacity
 * Stable firing platform
 
 '''Cons:'''
 
-* Very low top speed and very bad manoeuvrability
-* Extremely susceptible to torpedoes, artillery, and aircraft attacks
+* Very low top speed and very bad manoeuvrability, susceptible to torpedoes, artillery, and aircraft attacks
+* Ammo rack are stored directly on the bow of the boat making it very vulnerable
 * Relatively weak armament
 * Primary armament: poor traverse rates; poor accuracy
 * Secondary armament: only 2/3 guns can be brought to bear at once

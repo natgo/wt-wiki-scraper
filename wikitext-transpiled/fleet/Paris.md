@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French battleship {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+Battleship '''Paris''' was the third of the [[Courbet (Family)|Courbet class]], a third dreadnought launched for the French Navy in September 1912. She spent World War One assisting the army of the Montenegro with shore bombardments and blockading the Strait of Otranto. Following the end of the war she assisted Spanish forces in Morocco during the French intervention in the Rif War. In 1931, she became a training ship and underwent two modernisations before the beginning of the Second World War. With the outbreak of the war she was transferred to the Atlantic, and, following the German invasion, she assisted the French forces at the Somme river front. She then moved to defend the port of Le Havre in Normandy from Luftwaffe attacks until she was hit by a bomb on 11 June 1940. She moved under her own power to Brest, but as the French surrender neared, she sailed to Plymouth in the UK with 2,800 men onboard. Until the end of the war she served as a depot ship for the British navy and as a barracks ship for the Polish navy. In August 1945 she was towed into Brest where she continued her service as a depot ship until her scrapping in 1956.
+
+The Paris was introduced in [[Update "La Royale"]]. Compared to the direct counterparts, she has a better damage output in exchange for a somewhat worse armour protection. Her biggest highlight is the damage output of the AP shells, if those shells manage to penetrate the target. She's best used in a typical role for a World War One-origin battleships: pushing the capture points and fighting with her direct counterparts.
 
 == General info ==
 === Survivability and armour ===
@@ -52,17 +54,22 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French battleship {{Battle-rat
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+Paris is best used much in the same way other BR 6.3 battleships are - to push the capture points and eliminate counterparts or heavy cruisers. Due to the inadequate penetration of the AP shells it will struggle against the battleships in the higher BRs, thus they are best avoided. A decent number of the anti-air guns can provide a great protection against torpedo boats, while the SAP-equipped casemate guns are relatively good at countering enemy destroyers. Still, the vessel at its core is still a World War One-era battleship, making it vulnerable to enemy airplanes and concentrated enemy fire.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+* Exceptional damage per minute with the AP shells, though they lack penetration to deal with some of the more heavily armoured targets
+* Above average damage per minute with the HE shells
+* Above average anti-air armament for a World War One-era battleship
+* High crew count
+* Bow magazines are deep below the waterline protected by two layers of armour
 
 '''Cons:'''
-*
+* Overall average or below average armour compared to the contemporaries
+* A very narrow angle (only 5°) in which both wing turrets can be used to shoot at the enemy directly ahead or behind the ship
+* Aft and central [[Ammo racks#Modules|magazines]] are right below the water line, making them more likely to explode
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -86,9 +93,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French battleship {{Battle-rat
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wikipedia:French battleship Paris|[Wikipedia] French battleship Paris]]
+* [https://uboat.net/allies/warships/ship/5967.html <nowiki>[uboat.net]</nowiki> FR Paris]
+* [http://navypedia.org/ships/france/fr_bb_courbet.htm <nowiki>[NAVYPEDIA]</nowiki> COURBET battleships (1913 - 1914)]
 
 {{Manufacturer FCM}}
 {{France battleships}}

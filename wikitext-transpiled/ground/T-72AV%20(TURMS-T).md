@@ -73,18 +73,18 @@ The T-72AV is a modernized version of the Soviet-made main battle tank T-72A. Th
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|2A46M (125 mm)}}
+{{main|2A46 (125 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A46M (125 mm)|125 mm 2A46M]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[2A46 (125 mm)|125 mm 2A46]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 44 || rowspan="2" | -6°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10
+| rowspan="2" | 44 || rowspan="2" | -6°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 7.10
 |-
 ! ''Realistic''
 | 11.9 || 14.0 || 17.0 || 18.8 || 20.0
@@ -92,10 +92,9 @@ The T-72AV is a modernized version of the Soviet-made main battle tank T-72A. Th
 |}
 
 ==== Ammunition ====
-{{:2A46M (125 mm)/Ammunition|3BK12M, 3OF26, 3BM22, 3BM42}}
+{{:2A46 (125 mm)/Ammunition|3BK12M, 3OF26, 3BM22, 3BM42}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_T-72A.png|right|thumb|x450px|[[Ammo racks]] of the [[T-72A]] (identical).]]
 <!-- '''Last updated: 2.15.1.65''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -110,7 +109,7 @@ The T-72AV is a modernized version of the Soviet-made main battle tank T-72A. Th
 | '''44''' || ''Projectiles'' <br> ''Propellants'' || 40&nbsp;''(+4)'' <br> 40&nbsp;''(+4)'' || 29&nbsp;''(+15)'' <br> 29&nbsp;''(+15)'' || 23&nbsp;''(+21)'' <br> 23&nbsp;''(+21)'' || 1&nbsp;''(+43)'' <br> 1&nbsp;''(+43)'' || No
 |}
 '''Notes''':
-
+[[File:Ammoracks_T-72A.png|right|thumb|x450px|[[Ammo racks]] of the [[T-72A]] (identical).]]
 * The {{PAGENAME}} uses two-piece ammunition, composed of propellant bags (orange) and projectiles (yellow). Both have separate racks.
 * Shells are modelled individually and disappear after having been shot or loaded.
 * A propellant charge remains in rack 2 after it is emptied and is later fired as part of rack 3. For the purpose of clarity, rack 2 is considered empty even if that charge is still present.

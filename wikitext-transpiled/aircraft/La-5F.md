@@ -135,7 +135,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 ;Realistic Battles
 
-Before engaging in aerial combat, it is essential to have a strategic plan to maximize your chances of success. One of the first steps in this process is to gain altitude and get an overview of the battlefield. Climbing to a height of 3,000-3,500 meters provides a good vantage point to spot any potential threats and allows you to identify any enemy planes that might be flying at the same altitude or higher. These planes are potential hazards and must be dealt with immediately.
+Before engaging in aerial combat, it is essential to have a strategic plan to maximize your chances of success. One of the first steps in this process is to gain altitude and get an overview of the battlefield. Climbing to a height of 3,000-3,500 m provides a good vantage point to spot any potential threats and allows you to identify any enemy planes that might be flying at the same altitude or higher. These planes are potential hazards and must be dealt with immediately.
 
 If you spot an enemy plane at the same altitude or higher, you have two options. You can either eliminate the threat by attacking the enemy plane or fly towards your allies if there are more than one fighter. It is essential to keep in mind that the presence of an enemy fighter at the same altitude or higher can significantly affect your chances of success in aerial combat. Thus, it is crucial to deal with them as quickly and efficiently as possible.
 
@@ -170,12 +170,12 @@ Overall, having a strategic plan and being aware of your surroundings is crucial
 * Good at evading fire from gunners, rolling and turning can usually get you in close enough to engage an enemy aircraft
 * Sturdy airframe that can take more damage than other fighters at the same BR
 * The sturdy airframe and resistant engine will usually let you return to the airfield and repair after having been damaged
-* The engine can perform in WEP for a long time until it reaches it´s cruising altitude
-* ShVAKs cannons have little bullet drop and therefore a predictable trajectory, making eliminations up to one and a half kilometers possible with some practice
+* The engine can perform in WEP for a long time until it reaches its cruising altitude
+* ShVAKs cannons have little bullet drop and therefore a predictable trajectory, making eliminations up to one and a half kilometres possible with some practice
 
 '''Cons:'''
 
-* The 20 mm cannons only have 340 rounds of ammunition (2 x 170)
+* The 20 mm cannons only have 340 rounds of ammunition (170 rpg)
 * Can be outmanoeuvred by more agile fighters, like Spitfires and Zeroes notorious for their exceptional turn rate
 * Head-on fights will usually result poorly in the La-5F with many other enemy aircraft with superior weapon configurations for head-on attacks
 

@@ -265,6 +265,13 @@ The Bundeswehr Navy used the variants IDS, Recce, and ECR.
 * [[Tornado IDS ASSTA1 (Germany)]]
 * [[Tornado IDS (1995) (Italy)]]
 
+; '''Other jet planes with variable sweep wings'''
+
+* [[MiG-23 (Family)]]
+* [[Su-17/22 (Family)]]
+* [[F-14 (Family)|F14 (Family)]]
+* [[F-111A]]
+
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''

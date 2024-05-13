@@ -25,7 +25,7 @@ On the other hand, the AuF1's weak armour may sometimes survive solid shot shell
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 30+8 mm (68°-76°) ''Upper'' <br> 30 mm (45°) ''Lower'' || 20+4-20 mm ''Top'' <br> 30 mm ''Bottom'' || 30 mm || 10 - 15 mm
+| Hull || 30+8 mm (68°-76°) ''Upper'' <br> 30 mm (45°) ''Lower'' || 20-24 mm ''Top'' <br> 30 mm ''Bottom'' || 30 mm || 10 - 15 mm
 |-
 | Turret || 20 mm (35°) ''Turret front'' <br> 20-30 mm ''Gun mantlet'' || 20 mm || 20 mm || 20 mm (79°-90°)
 |-

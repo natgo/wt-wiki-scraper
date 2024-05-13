@@ -1,3 +1,8 @@
+{{About
+| about = strike aircraft '''{{PAGENAME}}'''
+| usage = other versions
+| link = Tornado (Family)
+}}
 {{Specs-Card
 |code=tornado_ids_de_wtd61
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -208,16 +213,23 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=tornado_ids_de_wtd61 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Tornado (Family)]]
+
+;Other jet planes with variable sweep wings
+* [[F-111A]]
+* [[F-14 (Family)]]
+* [[MiG-23 (Family)]]
+* [[Su-17/22 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

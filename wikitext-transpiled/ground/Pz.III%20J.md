@@ -75,7 +75,7 @@ Introduced in [[Update 1.45 "Steel Generals"]], the Panzer III J is the next add
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 1.101.0.44''' -->
+<!-- '''Last updated: 2.35.1.80'''-->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -83,15 +83,17 @@ Introduced in [[Update 1.45 "Steel Generals"]], the Panzer III J is the next add
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
+! 5th<br>rack empty
+! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''99''' || 74&nbsp;''(+25)'' || 48&nbsp;''(+51)'' || 33&nbsp;''(+66)'' || 1&nbsp;''(+98)'' || No
+| '''99'''  || 78&nbsp;''(+21)'' || 63&nbsp;''(+36)'' || 43&nbsp;''(+56)'' || 35&nbsp;''(+64)'' || 23&nbsp;''(+76)'' || 1&nbsp;''(+98)'' || No
 |-
 |}
 '''Notes''':
 
-* Racks disappear when all shells in the rack have been loaded/shot.
-* Racks 1 to 3 emptied: 33&nbsp;''(+66)'' shells.
+* Shells are individually modeled.
+* Ready rack only: 23&nbsp;''(+76)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

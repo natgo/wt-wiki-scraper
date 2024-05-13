@@ -298,6 +298,7 @@ File:Lightning F.6 WTWallpaper 006.jpg|
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+* [[Lightning (Family)]]
 * [[Phantom FG. Mk1|Phantom FG.1]]
 * [[Phantom FGR.2]]
 * [[MiG-21MF (Germany)|MiG-21MF]]
@@ -310,6 +311,7 @@ File:Lightning F.6 WTWallpaper 006.jpg|
 
 * [[wt:en/news/6615-development-lightning-f-6-saddled-to-a-skyrocket-en|[Devblog] Lightning F.6: Saddled to a Skyrocket!]]
 * [https://forum.warthunder.com/index.php?/topic/479190-lightning-f6/ [Forums<nowiki>]</nowiki> Aircraft Data Sheets: Lightning F.6]
+* [https://www.rafmuseum.org.uk/about-us/media-vault/podcasts/cold-war-lectures-english-electric-lightning-evo/ Cold War Lectures RAF museum podcast: English Electric Lightning: Evolution of the Concept of the All-Weather Fighter]
 
 ===References===
 

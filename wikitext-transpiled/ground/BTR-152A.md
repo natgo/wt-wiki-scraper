@@ -159,9 +159,12 @@ File:CrewSpots BTR-152A.jpeg|X-ray view showing the positions of crew members
 </gallery>
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the aircraft;''
+* ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[BTR-152D]] same chassis but with 4 [[KPVT (14.5 mm)]] instead of 2
+;Related development
+* [[BTR-152D]] - Same chassis but with 4 x [[KPVT (14.5 mm)|14.5 mm KPVT]] instead of 2
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

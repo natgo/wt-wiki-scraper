@@ -159,7 +159,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1 || || || || 1
 |-
 ! [[ZB-500 incendiary]] bombs
-| 1 || || || || 1
+| || 1 || || 1 ||
 |-
 ! [[S-5K]] rockets
 | 16, 32 || 16 || || 16 || 16, 32
@@ -191,7 +191,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Delta-NG targeting pod
 | || 1* || || ||
 |-
-! 800 l drop tanks
+! 820 l drop tanks
 | || || 1<sup>‡</sup> || ||
 |-
 | colspan="7" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles <br> <sup>†</sup> R-23R and R-23T missiles cannot be mixed, only one type may be carried across hardpoints <br> <sup>‡</sup> The drop tank cannot be equipped in conjunction with quad bombs on adjacent hardpoints
@@ -201,9 +201,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 800 l drop tank
+* 1 x 820 l drop tank
 * 12 x large calibre countermeasures
-* 2 x R-13M1 missiles
+* 2 x R-60MK missiles
 * 4 x R-13M1 missiles
 * 4 x R-3S missiles
 * 6 x R-60MK missiles
@@ -283,6 +283,17 @@ The MiG-23MF had several notable production issues. The aircraft had a short ser
 
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+
+*[[MiG-23 (Family)]]
+
+; '''Other jet planes with variable sweep wings'''
+
+* [[Tornado (Family)]]
+* [[Su-17/22 (Family)]]
+* [[F-14 (Family)|F14 (Family)]]
+* [[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -136,7 +136,6 @@ If a tank comes up to you, don't try to fight it as the tanks are built to be re
 * Has a great rate of fire thanks to the four fast firing maxim guns
 * Aircraft at early ranks are very common, meaning there will be plenty of aircraft for to be picked off
 * Good at setting aircraft on fire
-* Unique ability to fire tracer-less rounds. This allows you to pick off enemy planes without them even realizing that they are being shot at
 * The fact that you cannot kill tanks will mean that you focus on enemy aircraft rather than stray and hunt tanks
 
 '''Cons:'''

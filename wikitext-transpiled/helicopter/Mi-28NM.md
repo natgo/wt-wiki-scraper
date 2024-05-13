@@ -177,8 +177,10 @@ The Mi-28NM is a gunship and should be used as such. It holds a very capable arr
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mi_28nm Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|yH6Ifk7g_KU|'''The MI-28 Ultimate Guide''' - ''Bob Dickinson''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

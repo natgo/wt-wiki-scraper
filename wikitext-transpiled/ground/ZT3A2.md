@@ -73,7 +73,7 @@ Researching "Horizontal Drive" might make controlling missiles in RB slightly ea
 
 There are two main missiles on the {{PAGENAME}}, the ZT3A1 and ZT3A2. Both missiles are laser-guided, which makes them immune to jamming by IRCM and allows the carrier to guide them all at once. Both missiles have reasonably strong vertical drive and rather sluggish horizontal drive, allowing the operator to quickly shift them up or down, as long as they do not try to change their flight direction, in which case the missiles will start to lose control and wiggle, only stabilizing after at least 400 m. These missiles also can cause overpressure damage through more RHA than would be expected from a normal HEAT warhead, meaning they can destroy many medium tanks by hitting their turret's rooftop.
 
-The missiles are loaded in magazines of 3 missiles with 4 magazines or 12 missiles total. They aren't reloaded if the launcher is damaged. Each shot forces a 0.6s reload. Missiles fire off in order from the right to the left. Missiles struggle to take off and initially take a vertical stance, sometimes even obscuring the gunner's vision, so attempts to launch them downward while having the launcher peek over an object is likely to make them explode on launch.
+The missiles are loaded in magazines of 3 missiles with 5 magazines or 15 missiles total. They aren't reloaded if the launcher is damaged. Each shot forces a 0.6s reload. Missiles fire off in order from the right to the left. Missiles struggle to take off and initially take a vertical stance, sometimes even obscuring the gunner's vision, so attempts to launch them downward while having the launcher peek over an object is likely to make them explode on launch.
 
 In AB/RB the guiding "camera" is located in the launcher, which means that it can fire and guide straight after exposing the launcher. In SB, missiles are guided by the gunner's optics under the launcher, which means that the hull must also be exposed.
 
@@ -92,7 +92,7 @@ Both missiles are easier to aim by using the sniper scope, even in arcade mode a
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 12 (3) || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 35.2 || 48.8 || 59.2 || 65.5 || 69.7 || rowspan="2" | 19.50 || rowspan="2" | 17.25 || rowspan="2" | 15.90 || rowspan="2" | 15.00
+| rowspan="2" | 15 (3) || rowspan="2" | -5°/+15° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 35.2 || 48.8 || 59.2 || 65.5 || 69.7 || rowspan="2" | 19.50 || rowspan="2" | 17.25 || rowspan="2" | 15.90 || rowspan="2" | 15.00
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0
@@ -116,7 +116,7 @@ Both missiles are easier to aim by using the sniper scope, even in arcade mode a
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''4''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''5''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
 |-
 |}
 

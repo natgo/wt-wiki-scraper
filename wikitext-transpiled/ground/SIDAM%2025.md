@@ -1,10 +1,7 @@
 {{About
 | about = Italian SPAA '''{{PAGENAME}}'''
-| other
-| usage-1 = the version equipped with [[Mistral SATCP]] missiles
-| link-1 = SIDAM 25 (Mistral)
-| usage-2 = other versions
-| link-2 = M113 (Family)
+| usage = the version equipped with [[Mistral SATCP]] missiles
+| link = SIDAM 25 (Mistral)
 }}
 {{Specs-Card
 |code=it_otobreda_sidam_25
@@ -21,6 +18,13 @@ Introduced in [[Update 1.85 "Supersonic"]], the SIDAM 25 is equipped with 4 x 25
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+
+The armour, as with all M113 based tanks, is poor. At best it will withstand 12.7 mm MG when heavily angled or at 600 m range. Aircraft will easily destroy it, if they actually try. However, the tank has a turret and therefore isn't open-topped, so it can sustain weak explosive damage.
+
+The crew is spaced out, each third of a tank only having one of them. A single diagonal hit from the front-left or from back-right will hit all three crew members, so enemy should be kept on the front-right or back-left to maximize survival chance. Any hit to the middle of the tank hull can detonate ammunition belt, so hull hits are best avoided.
+
+A very notable detail is that the person sitting in the turret is the tank commander and he does not control the turret. The gunner is sitting in the very back, so it is possible to "tank" kinetic shells with the turret and then respond to enemy tanks, without necessarily dooming the entire SPAA. Unfortunately, sometimes shrapnel will hit the ammo rack anyway, or enemy might decide to fire HE next, so simply standing under direct fire is still a bad idea.
+
 '''Armour type:'''
 
 * Aluminium Alloy 7039
@@ -43,6 +47,8 @@ Introduced in [[Update 1.85 "Supersonic"]], the SIDAM 25 is equipped with 4 x 25
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
+It is a very sluggish tank which will generally drive 40 km/h even at its best. The mobility suffers greatly on hilly terrain, slowing the tank further. Advertised maximum speed is only reachable when driving forward on flat ground without trying to turn for a significant amount of time. Roads do not seem to help with acceleration. Reverse speed is -12 km/h on demand with micropause for gear switch into -16 km/h (depending on driver skill).
+
 {{tankMobility|abMinHp=301|rbMinHp=188}}
 
 === Modifications and economy ===
@@ -61,11 +67,7 @@ It houses four 25 mm cannons which can only fire pure HE or pure APDS belts. The
 
 It has the fastest turret rotation in the game, even stock it turns as fast as maxed out turret of the Chieftain Marksman with decent crew, and as it is maxed out it can do a 180 turn in less than a second. This allows the user to actually pull off "reactionary" playstyle without having to give up their entire attention span to the skies. Additionally, the guns are completely stabilised, so even if SPAA is running away from something or chasing a helicopter, there is no need to think about movement affecting accuracy. 
 
-Spread out gun formation allows to compensate for inaccurate aim and shell velocity. While it may seem like an overkill to a decent player, the jets more than deserve "overwhelming fire" policy, particularly in the future ranks. Unfortunately, the Italian SPAA does not have as many shells as its peers, only carrying 660 of them at a maximum.
-
-The HE shells fly at 1100 m/s speed, which is only a bit slower than 30-35 mm calibre shells and significantly faster than shells of the ZSU-23-4. Unfortunately, they will self-destruct at about 2.5 km range, so even with the tracker  it is sometimes impossible to blow up the plane that is quickly leaving the premises (it will refuse to aim at the targets back past 2 km range), and some helicopters can be smart enough to avoid SPAA effective range. Since the tracker is absolutely accurate, it is rather easy to annihilate any aircraft that isn't changing their flight direction immediately. Any early helicopter unfortunate enough to appear within effective range of HE shells is probably going to be vaporized before they can even dodge, though it's not impossible.
-
-The APDS shells do not have the range restrictions, have no tracers and fly at 1330 m/s speed. They can be used to either shred some annoying tank, or to suddenly tear apart exceptionally annoying aircraft. Since SIDAM 25 is completely accurate and does not trigger any warnings, a single tap of APDS will almost certainly scrap any passive aircraft. Unfortunately, the APDS belt is very limited - with only 60 APDS rounds available to fire, it is recommended to use them sparingly and only against light tanks/SPAA or high priority air targets.
+Spread out gun formation allows to compensate for inaccurate aim and shell velocity. While it may seem like an overkill to a decent player, the jets more than deserve "overwhelming fire" policy, particularly in the future ranks. This also allows the SPAA to destroy scout drones that are flying towards SPAA, as there isn't enough space for them to squeeze through shell walls. Unfortunately, the Italian SPAA does not have as many shells as its peers, only carrying 660 of them at a maximum, so it needs to stick to a capture point, which can be very dangerous.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -85,6 +87,17 @@ The APDS shells do not have the range restrictions, have no tracers and fly at 1
 
 ==== Ammunition ====
 {{:Oerlikon KBA (25 mm)/Ammunition|M792, M791}}
+[[File:SIDAM 25 impossible kill.jpg|thumb|right|If backed into a corner, fight till the better end. Sometimes miracles happen.]]
+The HE shells fly at 1,100 m/s speed, which is only a bit slower than 30-35 mm calibre shells and significantly faster than shells of the ZSU-23-4. Unfortunately, they will self-destruct at about 2.5 km range, so even with the tracker it is sometimes impossible to blow up the plane that is quickly leaving the premises (it will refuse to aim at the targets back past 2 km range), and some helicopters can be smart enough to avoid SPAA effective range. Since the tracker is absolutely accurate, it is rather easy to annihilate any aircraft that isn't changing their flight direction immediately. Any early helicopter unfortunate enough to appear within effective range of HE shells is probably going to be vaporized before they can even dodge, though it's not impossible.
+
+The APDS shells do not have the range restrictions, have no tracers and fly at 1,330 m/s speed. They can be used to either shred some annoying tank, or to suddenly tear apart exceptionally annoying aircraft. Since SIDAM 25 is completely accurate and does not trigger any warning, a single tap of APDS will almost certainly scrap any passive aircraft. Unfortunately, the APDS belt is very limited - with only 60 APDS rounds available to fire, it is recommended to use them sparingly and only against light tanks/SPAA or high priority air targets. Sitting directly on a capture point might allow to use them more often at a cost of being extremely easy to find and bomb.
+
+When rearming belts on a capture point, the belt on the first slot in "ammo distribution" menu (left one) will be loaded first. APDS belt is loaded within 1 second unlike HE-I which takes about 15, and is recommended to be first because that would allow SPAA to practically instantly tear apart any chasing opponents.
+
+Even considering the near instant reload of APDS, commanders need to pay attention to certain problems:
+* When using capture points for "technically infinite APDS belt", pause fire to avoid spending last 4 APDS shells (and thus be forced to use HE-I belt). This is necessary, as otherwise SPAA will attempt to rearm HE-I belt and glitch the SPAA when APDS is being spent again. Basically, the SPAA will take 15 seconds to rearm APDS belt instead of HE-I. If that happens, leave the capture point circle and enter it again to quickly rearm APDS.
+* It is possible to run out of APDS belts, so try to not antagonize the entire enemy team.
+* The guns can overheat, which will put the SPAA on a forced reload for about 20 seconds.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -98,11 +111,11 @@ The APDS shells do not have the range restrictions, have no tracers and fly at 1
 | '''8''' || 0&nbsp;''(+8)'' || No
 |-
 |}
-
+{{Clear}}
 ===Sensors===
 {{main|3JB10}}
 
-The SIDAM 25 is equipped with a [[3JB10]] optronic tracking system, with no search radar, so it needs to be manually locked on from the sniper seat. The tracking system does not trigger the radar warning receiver fitted to some helicopters and planes. The lock-on scope also will not wobble, like with the radars, providing better aim assist.
+The SIDAM 25 is equipped with a [[3JB10]] optronic tracking system, with no search radar, so it needs to be manually locked on from the sniper seat. The tracking system does not trigger the radar warning receiver fitted to some helicopters and planes. The lock-on scope also will not wobble, like with the radars, providing better aim assist. The aim solution is perfect, but it does not account for aircraft turning or changing speed, so trusting it's prediction completely is still not always wise, and sometimes firing a burst ahead of it helps.
 {{Notice|Although the tracker can track targets in an elevation range of -20°/+85° once locked on, it can be difficult to lock on to targets past +20° in elevation. Be patient!}}
 
 {| class="wikitable" style="text-align:center"
@@ -123,7 +136,7 @@ The SIDAM 25 is equipped with a [[3JB10]] optronic tracking system, with no sear
 
 The SIDAM 25 can be quite deadly when used effectively thanks to its heavy anti-aircraft firepower and powerful, if limited, APDS rounds. The best way to play the SIDAM 25 is to play very defensively. Due to being based on the widespread M113 chassis, the SIDAM features mediocre mobility and small inclines will challenge it severely. It is best to stick to flat ground where your vehicle can be much easier to control. The SIDAM lacks effective armour protection, and nearly any round will penetrate you with ease. Artillery will also be able to pressure damage you so in that case you should try your best to move away and avoid getting hit by it in the first place.
 
-In case any vehicles breach your defenses you do have access to a small amount of APDS rounds. These will shred light vehicles and can disable heavier ones with precise aim. The SIDAM 25's APDS can penetrate up to 81 mm of armour. Do keep in mind that the APDS is a tier 3 modification so you'll have to research it before having access to it. Use the APDS strictly for self-defense, as the low ammunition count and characteristics of the hull severely limit its offensive ability. You can negate the low APDS count by staying near a capture point for rapid resupply. If able, play around capture points to keep your ammunition supplied.
+In case any vehicles breach your defenses you do have access to a small amount of APDS rounds. These will shred light vehicles and can disable heavier ones with precise aim. The SIDAM 25's APDS can penetrate up to 81 mm of armour. Do keep in mind that the APDS is a tier 3 modification so you'll have to research it before having access to it. Outside of a capture point, use the APDS strictly for self-defense, as the low ammunition count and characteristics of the hull severely limit its offensive ability. If able, play around capture points to keep your ammunition constantly supplied.
 
 In the anti-air sector, the SIDAM 25 does not have access to a radar, unlike other nations' counterparts at the battle rating. What you do have access to however is an optronic tracking system, which allows targets to be tracked, and provides one of the most most accurate lead indicators for any vehicle. This will allow you to predict flight paths of any enemy air vehicles you'll be facing. Another great thing about the optronic system is that it cannot be detected by radar warning receivers on enemy aircraft, making it much easier for you to target them and hopefully take them out with a quick barrage of you main guns. Speaking of which, the SIDAM's main armament consists of 4 x 25 mm guns, with a combined firepower of 2200 rounds per minute; more than enough to deal with any aircraft foolish enough to fly directly at you. Even if they do not approach you directly or managed to surprise you, the turret can quickly snap in their direction to fire a lethal burst of APDS after them. Additionally, APDS can be used for stealthy assassinations of any long-range CAS, as long as you can actually spot them. You also have access to a two-plane stabilizer, which will furthermore aid you in firefights against both ground and air vehicles, as you don't really have to stay in one spot.
 
@@ -133,11 +146,13 @@ In the anti-air sector, the SIDAM 25 does not have access to a radar, unlike oth
 '''Pros:'''
 
 * Fastest turret traverse and incredibly quick gun elevation
+* Actually can destroy scout drones with decent aim
 * Has an optronic tracking system allowing targets to be tracked and providing a better lead indicator than radar
 * Optronic system cannot be detected by RWR on enemy aircraft, making it much easier for user to snipe them, particularly with APDS
 * 550 RPM on the 25 mm guns, a combined 2200 RPM
 * Two-axis stabilizer which works even when SIDAM is driving at its maximum speed
 * APDS can penetrate 81 mm and is invisible, plenty to defend against enemy vehicles (once it is unlocked)
+* Turret can be controlled without a person sitting in it
 
 '''Cons:'''
 
@@ -145,7 +160,7 @@ In the anti-air sector, the SIDAM 25 does not have access to a radar, unlike oth
 * Relatively poor zoom/magnification, harder to spot small targets at range (especially scout helicopters)
 * HE rounds have a rather short range before they self-destruct
 * APDS rounds are a tier 3 modification - until then, anti-armour work is not possible given the low penetration of the HE rounds
-* Can only carry 60 APDS rounds
+* Can only carry 60 APDS rounds, has to stay next to a capture point to remain viable
 * Not very mobile compared to other tanks and SPAA at its rank, has a hard time scaling hills
 * No search radar - only optronic targeting, meaning user needs to have a visible target to lock on, and a clear line-of-sight to track it
 
@@ -170,8 +185,8 @@ Sadly the SIDAM 25 lived a short life, in total 276 of such systems were produce
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[SIDAM 25 (Mistral)]]
-* [[M163]]
+;Related development
+* [[M113 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

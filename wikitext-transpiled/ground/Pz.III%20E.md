@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_III_ausf_E
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png|ArtImage3_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -44,7 +44,7 @@ The Panzer III E has improved protection over the [[Pz.III B|Ausf. B]]. The armo
 
 {{tankMobility|abMinHp= 465|rbMinHp= 265|<!--AoAweight=(optional) -->}}
 
-The {{PAGENAME}} does have improved mobility over the B model, the top speed is listed as 71 km/h in RB mode, and 79 km/h in AB mode. However, the {{PAGENAME}} can only reach these speeds if travelling down a hill or a decline in the terrain, in RB mode it will struggle to pass 40 km/h off road, and in AB it will rarely pass the early 50 km/h. So the mobility is upgraded, but it's not really enough of an upgrade to be considered a huge advantage. A big positive though is that the {{PAGENAME}} can reverse a lot faster, meaning that if it gets into trouble, it can quickly retreat.
+The {{PAGENAME}} does have improved mobility over the B model, with the top speed being listed as 71 km/h in RB mode, and 79 km/h in AB mode. While for RB this vehicle rarely cruises off-road faster than 45 km/h, it has very impressive mobility in AB, able to sustain speeds from 65 up to 80 km/h even on slightly hilly ground, making this tank hard to pin down in the hands of a skilled driver. In AB, this is a substantial upgrade in mobility over the B model, allowing for a more aggressive flanking play style that can be very rewarding with good map knowledge. Another big positive in both AB and RB is that the {{PAGENAME}} can reverse a lot faster, meaning that if it gets into trouble it can quickly retreat and reposition.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -72,10 +72,10 @@ It's best to consider taking a mix of both types of ammunition, the APHE has the
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 131 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 5.24 || 7.25 || 8.80 || 9.73 || 10.35 || rowspan="2" | 3.77 || rowspan="2" | 3.33 || rowspan="2" | 3.07 || rowspan="2" | 2.90
+| rowspan="2" | 131 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 11.4 || 15.8 || 19.2 || 21.2 || 22.6 || rowspan="2" | 3.77 || rowspan="2" | 3.33 || rowspan="2" | 3.07 || rowspan="2" | 2.90
 |-
 ! ''Realistic''
-| 3.27 || 3.85 || 4.67 || 5.17 || 5.50
+| 7.1 || 8.4 || 10.2 || 11.3 || 12.0
 |-
 |}
 
@@ -84,7 +84,7 @@ It's best to consider taking a mix of both types of ammunition, the APHE has the
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.3.0.117''' -->
+<!-- '''Last updated: 2.35.0.19''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -95,13 +95,13 @@ It's best to consider taking a mix of both types of ammunition, the APHE has the
 ! 5th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''131''' || 114&nbsp;''(+17)'' || 76&nbsp;''(+55)'' || 58&nbsp;''(+73)'' || 20&nbsp;''(+111)'' || 1&nbsp;''(+130)'' || Yes
+| '''131''' || 113&nbsp;''(+18)'' || 75&nbsp;''(+56)'' || 57&nbsp;''(+74)'' || 19&nbsp;''(+112)'' || 0&nbsp;''(+131)'' || Yes
 |-
 |}
 '''Notes''':
 
-* Racks disappear after you've fired all shells in the rack.
-* Visual discrepancy concerns rack n°5: it is modeled to contain 8 shells but you have to fire 19 shells in order to empty it.
+* Racks only disappear after all shells in the rack have been fired.
+* Visual discrepancy concerns rack n°5: it is modeled to contain 8 shells but you have to fire 18 shells in order to empty it.
 
 <!--
 ==== [[Optics]] ====
@@ -143,9 +143,15 @@ Like its predecessor, the Pz. III E is equipped with two coaxial 7.92 mm MG34 ma
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Pz.III E, despite its upgrades, functions almost exactly the same as the previous B model, the armour and mobility are improved, but not to the point where these aspects are reliable, or warrant a change in playstyle to take advantage of them. Because of the slow turret traverse and unimpressive firepower, consider playing the E in a more passive role. You can't comfortably rush around the map using your extra mobility as if you push to the point where enemies could get on your sides, you'll likely be knocked out very quickly. The largest drawbacks the E model has are its armour, turret traverse and firepower. The firepower can't be buffed in any way, but the negative effects of the armour and traverse can be somewhat negated by playing hull down and covering a narrow sight line. The turret armour can't be completely relied on, but it is the most consistent. Additionally, if you take fire into the turret, you'll likely only lose a couple of crew members. In order to increase the effectiveness of the hull armour, you can sharply angle the tank at about 45 degrees, since the side armour is equally as thick as the front armour. That means there is no risk of exposing a weaker flank, and a steeply angled hull can even deflect the 37 mm. cannon shells fired by most tanks of its tier (it will not always deflect them, but your odds increase at longer ranges). The E model has a fairly effective reverse rate, so you can easily retreat from combat, repair and reengage. You also have access to five rear drop smoke grenades to aid this purpose. Another advantage of covering a narrow sight line is that you don't really need to traverse your gun much to be able to fire on enemy vehicles.
+The Pz.III E is in essence, an upgraded Pz.III B, however the upgrades provided are substantial enough to allow the Pz.III E to have a much more varied role on the battlefield compared to the previous version. It has substantially improved armor, although not enough to consistently deflect enemy shells, and a much more impressive mobility. This improved mobility allows a skilled player to play in a much more aggressive fashion than what is possible in the Pz.III B. That being said, the issues that the Pz.III B has with its armament do carry over to this tank as well, which must be kept in mind. With these considerations, there are two primary play styles that this tank excels in.
 
-If possible, try to remain somewhat sedentary, because the Pz.III E lacks a short stop stabiliser, if you run into an enemy allied tank on the move, they will likely be able to level off their gun and fire at you first, and as the armour of the E is very inconsistent, you will likely be knocked out. If you stay somewhat still and wait in ambush, you should be able to avoid this drawback. The E model works best at mid ranges, at long range the armour is effective but the gun isn't, whereas at close range the gun is effective but the armour isn't - at mid range you have the potential to maximise both. Aim to angle or hide your hull and take a decent mix of APHE and APCR depending on the battle rating you're playing at. The E model isn't the most effective Panzer III, but if played in the right spot it can do a decent job.
+;Mid range support
+
+While the Pz.III B is mostly locked into this role, the Pz.III E can excel in it, due to its armor improvements being more valuable at longer ranges and its mobility, especially the improved reverse speed, helps it get out of bad situations and reposition much easier. Being at longer ranges helps minimize the downsides of the poor turret traverse and lack of a stabilizer, which can be a hindrance in brawls and close range fighting. Additionally, the dual machine guns mounted on the turret can act as a pseudo SPAA and shoot down low BR planes that get a little too close to the ground. when taking fire, if retreat isn't an option, the tank should be angled at a 45 degree angle as its armor is the same on the front and the sides. Additionally, this take has smoke grenades, which can provide cover for long enough to repair damage or move out of the line of fire.it is reccomended to take several rounds of APCR as the APHE shell loses penetration at longer ranges.
+
+;Ambush
+
+Alternatively, provided the driver has enough skill and map knowledge, this tank can be an extremely rewarding ambush predator, relying on well above average mobility to slip through the cracks in the enemy lines and ambush players traveling to the front lines. Because the gun will one shot most vehicles in its BR at close ranges, the Pz.III E will often be able to take out enemies who are not expecting it, and then move to a new location before the next wave of tanks respawn. This playstyle works best on maps with hills and ridges to hide between, as opposed to the more exposed and flat city maps where hiding can be more difficult. Be mindful that when lying in wait, the Pz.III E does still make some engine noise so if there is someone coming around a corner shortly, turning off the engine will increase the chance of an ambush. However, if the ambush goes poorly, the Pz.III E often does not have enough armor to survive. Smoke grenades may help, however the primary goal at all times should be remaining out of the line of fire and not attracting the attention of multiple enemies at once. Enemies that are unable to be easily destroyed in one hit, such as the LVT series of tanks, should be avoided at all costs. Because this play style typically results in the Pz.III E destroying several vehicles quickly and then dying, particularly low ammo counts can be sustainable which reduces the chance of a death due to ammo explosions.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -154,7 +160,7 @@ If possible, try to remain somewhat sedentary, because the Pz.III E lacks a shor
 
 * Very fast reload
 * Access to APCR
-* Decent overall mobility
+* Very good mobility
 * Immune to heavy machine gun fire
 * Tougher than other reserve tanks if angled
 
@@ -189,8 +195,12 @@ This tank's main disadvantage was that its armament was relatively weak for a me
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-;Skins
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Pz.III E.png|<small>DESCRIPTION</small>
+</gallery>
 
+;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_III_ausf_E Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

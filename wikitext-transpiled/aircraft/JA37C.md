@@ -213,7 +213,7 @@ Try to stay out of any extended dogfight, especially if your opponent has any su
 * You are facing better-performing missiles at your BR
 * Non Pulse-Doppler radar locks onto chaff easily 
 * Loses control if one aileron is lost
-* Low ammo count for the 30 mm cannon, which also completely lacks tracers in any of its belts
+* Low ammo count for the 30 mm cannon
 * Unconventional flaps which are mostly only useful during landings
 
 == History ==

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (shortened as '''{{Specs|pseudonym}}''') is a premium gift rank {{Specs|rank}} French tank destroyer {{Battle-rating|1}}. It was introduced in [[Update 1.77 "Advancing Storm"]] as a reward during the [[wt:en/news/5453-special-chronicles-of-world-war-ii-in-war-thunder-en|2018 WW2 Chronicles]].
+The '''{{Specs|name}}''' was a French prototype for a new self-propelled artillery piece, developed after WWII with the intent of providing France with a domestic artillery system. The prototypes were finished in the 1950s but never reached production. The vehicle was equipped with the Obusier de 155 mm Modèle 50 alongside a roof-mounted 20 mm autocannon for anti-aircraft defence. A new project emerged in the early 1950s, the Batignolles Chatillon 155 mm. The Lorraine 155 mm project was deemed to be redundant and all work on the project was discontinued.
+
+It was introduced in [[Update 1.77 "Advancing Storm"]] as a reward during the [[wt:en/news/5453-special-chronicles-of-world-war-ii-in-war-thunder-en|2018 WW2 Chronicles]]. The '''{{Specs|pseudonym}}''' is a very interesting self propelled artillery, featuring a 155 mm Howitzer at a relatively low BR, alongside a 20 mm autocannon that can be used to some extent against enemy tanks, but is especially useful against enemy aircraft. The biggest issue with this vehicle is the ability to be easily overpressured by enemy HE shells and the slow reload, with 20 seconds minimum using an aced crew.
 
 == General info ==
 === Survivability and armour ===
@@ -151,6 +153,7 @@ Prototypes of the Lorraine 155 Mle.50 passed trials in 1950, but never reached p
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_lorraine_155 Skin and Camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -162,9 +165,11 @@ Prototypes of the Lorraine 155 Mle.50 passed trials in 1950, but never reached p
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[CA Lorraine]]
 
 ;Other vehicles of similar configuration and role
+
 * [[Brummbar|Brummbär]]
 * {{Specs-Link|germ_kv_2_754r}}
 * [[KV-2 (1939)]] / [[KV-2 (1940)]]

@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=us_destroyer_fletcher
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -20,7 +20,7 @@ As for armour, her main belt consists of antifragmentation armour {{Annotation|0
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-USS Fletcher reaches a flank speed of {{Annotation|35 kn|65 km/h,40 mph}} at full steam. This places her middle of the pack compared to other American destroyers, being slower than the [[Porter (Family)|Porter-class]] which it precedes in the tech tree, but fractionally faster than the [[USS Sumner]] also at her rank. This speed will allow Fletcher to take objectives and key locations; however captains should be wary since other, faster destroyers such as the [[IJN Shimakaze]] may arrive before USS Fletcher is capable of doing so. USS Fletcher only takes 30 seconds to accelerate to flank speed, and 34 seconds to come to a halt. She is very responsive to engine and rudder commands, the latter only taking around 2 seconds to come full over. Speed falls to around {{Annotation|24 kn|45 km/h,28 mph}} in a sustained turn; fractionally faster than other American destroyers, but this still leaves Fletcher vulnerable to enemy fire and prolonged manoeuvers are advised against.
+USS Fletcher reaches a flank speed of {{Annotation|35 kn|65 km/h,40 mph}} at full steam. This places her middle of the pack compared to other American destroyers, being slower than the [[Porter (Family)|Porter-class]] which it precedes in the tech tree, but fractionally faster than the [[USS Sumner]] also at her rank. This speed will allow Fletcher to take objectives and key locations; however captains should be wary since other, faster destroyers such as the [[IJN Shimakaze]] may arrive before USS Fletcher is capable of doing so. USS Fletcher only takes 30 seconds to accelerate to flank speed, and 34 seconds to come to a halt. She is very responsive to engine and rudder commands, the latter only taking around 2 seconds to come full over. Speed falls to around {{Annotation|24 kn|45 km/h,28 mph}} in a sustained turn; fractionally faster than other American destroyers, but this still leaves Fletcher vulnerable to enemy fire and prolonged manoeuvres are advised against.
 
 {{NavalMobility
 |SpeedForwardStockAB = 58
@@ -50,7 +50,7 @@ USS Fletcher uses the same ammunition as other {{Annotation|5-inch|127 mm}}/38 a
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|Bofors L/60 Mark 1 (40 mm)}}
 
-USS Fletcher's secondary battery consists of one dual mount 40 mm  Bofors mount, mounted in an elevated position between the 3rd and 4th turrets in the aft of the ship. The Bofors serves as both an excellent addition to the anti-aircraft battery, and a quick way to dispatch any coastal vessels nearby, as the mixture of HEFI-T and AP-T shells will quickly shred any plane or lightly-armoured coastal vessel. The Universal belt is recommended in most cases, as its composition of half AP, half HE rounds is excellent for any situation. Since the Fletcher only has the one double mount, it's not recommended to rely on it for anti-aircraft duties, and supplement the fire with volleys of proximity-fused HE from the main battery.
+USS Fletcher's secondary battery consists of one dual mount 40 mm Bofors mount, mounted in an elevated position between the 3rd and 4th turrets in the aft of the ship. The Bofors serves as both an excellent addition to the anti-aircraft battery, and a quick way to dispatch any coastal vessels nearby, as the mixture of HEFI-T and AP-T shells will quickly shred any plane or lightly-armoured coastal vessel. The Universal belt is recommended in most cases, as its composition of half AP, half HE rounds is excellent for any situation. Since the Fletcher only has the one double mount, it's not recommended to rely on it for anti-aircraft duties, and supplement the fire with volleys of proximity-fused HE from the main battery.
 
 The 40 mm Bofors L/60 Mark 1 has three available belts:
 
@@ -124,10 +124,12 @@ The last Fletcher Class destroyer was decommissioned in 2001 from the Mexican Na
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''-->
 
-;[[Fletcher (Family)|Related development]]
+;Related development
+* [[Fletcher (Family)]]
 
-* [[USS Cowell]]
-* [[USS Bennion]]
+;Other vehicles of similar configuration and role
+* [[USS Aylwin]]
+* [[Harukaze|JDS Harukaze]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

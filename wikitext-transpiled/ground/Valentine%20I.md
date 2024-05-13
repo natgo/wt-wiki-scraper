@@ -91,8 +91,7 @@ The player should be familiar with the ammunition choices, with the most used on
 {{:QF 2-pounder (40 mm)/Ammunition|Shot Mk.1 AP/T, Shot Mk.IXB APCBC/T, Shot Mk.1 APHV/T, Shell Mk.1 AP/T}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks_ValentineMkI.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+[[File:Ammoracks Valentine I.png|thumb|295x295px|[[Ammo racks]] of the {{PAGENAME}}]]<!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -100,12 +99,12 @@ The player should be familiar with the ammunition choices, with the most used on
 ! 2nd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''61''' || 31&nbsp;''(+30)'' || 1&nbsp;''(+60)'' || Yes
+| '''61''' ||53 ''(+8)''||0 ''(+61)''|| Yes
 |-
 |}
 '''Notes''':
 
-* Pack 31&nbsp;''(+30)'' shells to remove the large ring of ammunition.
+* The large ring of ammunition is present until all rounds are expended, so there is little reason not to take full ammo.
 
 ==== [[Optics]] ====
 {| class="wikitable" style="text-align:center"

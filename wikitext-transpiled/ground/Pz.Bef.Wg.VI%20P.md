@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=germ_panzerbefelhswagen_VI_P
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -174,6 +174,11 @@ However, several (at least ten) bodies of the future Porsche tank were built in 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Pz.Bef.Wg.VI P.png|
+</gallery>
 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panzerbefelhswagen_VI_P Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]

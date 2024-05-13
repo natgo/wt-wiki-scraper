@@ -42,7 +42,7 @@ The primary armament is roughly the same as the Pr. 1124, and offers no new shel
 
 Use HE whenever possible, especially at longer ranges, because the APHE needs a solid hit to damage anything.
 
-{{:D-56TS (76 mm)/Ammunition|OF-350M naval, 53-BR-354 naval}}
+{{:76 mm/52 D-56TS (76 mm)/Ammunition|OF-350M, BR-354}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}

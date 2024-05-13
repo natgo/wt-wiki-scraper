@@ -1,6 +1,6 @@
 {{About
 | about = French premium fighter '''{{PAGENAME}}'''
-| usage = other uses
+| usage = other versions
 | link = Yak-3 (Family)
 }}
 {{Specs-Card
@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 Normandie-Nieman was a Free French Air Force squadron that was created in 1942 and is quite famous. After Operation Barbarossa started, Soviet officials wanted their diplomats in France to return to the Soviet Union. This, along with Charles de Gaulle's ambition for French pilots to serve on all fronts of the war, led to the squadron also serving on the Eastern Front. The squadron arrived at Ivanovo Air Base in November 1942 and was trained with several Yak variants. Over the years, the squadron grew its kill tally to an impressive 200+ kills claimed. Nearing the end of the war, the squadron's main fighter was the Yak-3, which would also be used after the war. However, due to the lack of spare parts, many French Yak-3s were cannibalized to keep others airworthy until the situation was untenable. Soon after, they were retired, with one surviving in an airport to this day. The squadron still lives as well and now flies Dassault Rafales.
 
-The '''{{Specs|name}}''' was introduced as a premium fighter during [[Update 1.77 "Advancing Storm"]]. The Yak-3 is an incredibly dangerous aircraft with its excellent performance, handling, and guns. Like many Yakolev fighters, the Yak-3 is no exception to being able to manoeuver well. It has very good manoeuvring energy retention, and the climb rate is also quite high at over 21 m/s. However, Soviet fighters were typically suited for low altitude, and the Yak-3 drops off in power at 5,000 metres and above (16,200 feet). Furthermore, since the Yak-3 is made out of wood, it has a low structural limit of 685 km/h (425 mph), so players need to be extra careful when going into dives. The Yak-3 is an excellent fighter for players to learn energy fighting and basic dogfighting tactics.
+The '''{{Specs|name}}''' was introduced as a premium fighter during [[Update 1.77 "Advancing Storm"]]. The Yak-3 is an incredibly dangerous aircraft with its excellent performance, handling, and guns. Like many Yakovlev fighters, the Yak-3 is no exception to being able to manoeuvre well. It has very good manoeuvring energy retention, and the climb rate is also quite high at over 21 m/s. However, Soviet fighters were typically suited for low altitude, and the Yak-3 drops off in power at 5,000 metres and above (16,200 feet). Furthermore, since the Yak-3 is made out of wood, it has a low structural limit of 685 km/h (425 mph), so players need to be extra careful when going into dives. The Yak-3 is an excellent fighter for players to learn energy fighting and basic dogfighting tactics.
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
@@ -98,7 +98,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Yak-3 is the pinnacle of the piston engine Yakovlev design, with a much more powerful engine, the addition of a second MG (meaning the MGs are viable now!), though metal wings were not yet added until the Yak-9.  The coolant system, now actually somewhat effective, has been moved to the wing roots (no "smiley face" below the nose), making the plane more streamlined. The cannon - the same old 20 mm ShVak - receives a pleasant upgrade: very effective Air Targets belts.
+The Yak-3 is the pinnacle of the piston engine Yakovlev design, with a much more powerful engine, the addition of a second MG (meaning the MGs are viable now!), though metal wings were not yet added until the Yak-9. The coolant system, now actually somewhat effective, has been moved to the wing roots (no "smiley face" below the nose), making the plane more streamlined. The cannon - the same old 20 mm ShVak - receives a pleasant upgrade: very effective Air Targets belts.
 
 Boasting incredible engine performance on a light and agile airframe, you can easily climb with, or even outclimb your contemporary fighters, allowing you maintain an energy advantage over some at the start of a match. Unlike some of the other energy-fighters you will come across (Bf-109s and such), the Yak-3 has incredible maneuverability compared to them, found in its roll rate and turn radius. Its energy retention and engine power alone allow you to almost indefinitely hold a horizontal turn, making this plane an excellent dogfighter and can let you play both as a turn-fighter of sorts or a dedicated energy-fighter.
 
@@ -167,7 +167,7 @@ The new fighter quickly became very popular with Soviet pilots. They highly prai
 * [https://live.warthunder.com/feed/camouflages/?vehicle=yak-3_france Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|DWfx4FGgO50|'''Premium Review: {{PAGENAME}} [Brilliant Beauty!]"'''  - ''Jengar''|A5zB4uwfnsk|'''Premium Review. {{PAGENAME}}. An effective Bruiser''' - ''Joseph 2000''|ZQ0XIBPcF4E|'''The Shooting Range #73''' - ''Pages of History'' section at 08:54 discusses the {{PAGENAME}} and the Nomandie-Niemen Regiment.}}
+{{Youtube-gallery|DWfx4FGgO50|'''Premium Review: {{PAGENAME}} [Brilliant Beauty!]"''' - ''Jengar''|A5zB4uwfnsk|'''Premium Review. {{PAGENAME}}. An effective Bruiser''' - ''Joseph 2000''|ZQ0XIBPcF4E|'''The Shooting Range #73''' - ''Pages of History'' section at 08:54 discusses the {{PAGENAME}} and the Nomandie-Niemen Regiment.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -26,6 +26,36 @@ Where this tank shines though is how it fixes the lower frontal plate issue. Thi
 
 Stick to facing the front armour towards the enemies. The side and rear armour are thin to the point of non-existence, and the rear of the tank has all the ammunition, so anyone able to aim there will get a clean one-hit knock-out. That, or they will knock out most, if not all, of the crew, which is still a knock-out.
 
+{| class="wikitable"
+!Armour
+!Front (Slope angle)
+!Sides
+!Rear
+!Roof
+|-
+|Hull
+|60 mm (67-76°) ''Front glacis'' 
+60 - 90 mm (30-57°) ''Lower glacis''
+|50 + 10 mm ''Top''
+50 + 20 mm (Composite Screens) ''Bottom''
+|30 mm (12-44°) + 200 - 600 mm (air) + 30 mm
+|20 - 30 mm
+|-
+|Turret
+|30 - 65 mm (1-71°) + 45 mm (Spaced armour) + 100 mm ( Cast Homogenous armour near mantlet) + 25 mm (Composite Screens) ''Turret front''
+Variable thickness armour (0-75°) ''Gun mantlet''
+|65 mm +  45 mm (Spaced armour) + 25 mm (Composite Screens) ''Upper turret armour'' 
+Variable Thickness Armour mm (0-60°) ''Lower turret armour''
+|65 mm (11° - 66°) + 45 mm (Spaced armour) + 20 mm (Tracks)
+|30 mm
+|-
+|Cupola
+|30 mm
+|30 mm
+|30 mm
+|30 mm
+|}
+
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->

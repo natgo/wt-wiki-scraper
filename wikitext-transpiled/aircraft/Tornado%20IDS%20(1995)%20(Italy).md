@@ -180,6 +180,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 1,500 l drop tanks
 * 56 x large calibre countermeasures
 * 2 x AIM-9L Sidewinder missiles
@@ -241,6 +242,13 @@ Their more famous usage would be during Operazione Locusta, and would also be th
 * [[Tornado IDS ASSTA1 (Germany)]]
 * [[Tornado GR.1]]
 * [[Tornado IDS (Germany)]]
+
+; '''Other jet planes with variable sweep wings'''
+
+* [[MiG-23 (Family)]]
+* [[Su-17/22 (Family)]]
+* [[F-14 (Family)|F14 (Family)]]
+* [[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

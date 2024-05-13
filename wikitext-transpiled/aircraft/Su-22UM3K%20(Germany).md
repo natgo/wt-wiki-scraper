@@ -134,9 +134,8 @@ The '''{{Specs|name}}''' was introduced in [[Update "Wind of Change"]]. Being es
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm NR-30 cannon, wing-mounted (80 rpg)
-** 1 x 30 mm NR-30 cannon + 128 x countermeasures
+* 1 x 30 mm NR-30 cannon, wing-mounted (80 rpg)
+* 128 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -147,7 +146,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="21" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="22" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
 | || || 1 || || || 1 || ||
@@ -197,14 +196,17 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[R-60]] missiles
 | || 1 || 2 || || || 2 || 1 ||
 |-
+! [[R-60MK]] missiles
+| || 1 || 2 || || || 2 || 1 ||
+|-
 ! [[S-25L]] missiles
 | 1 || || || || || || || 1
 |-
 ! Delta-NG targeting pod
 | || || 1 || || || || ||
 |-
-! 800 l drop tanks
-| || || || 1 || 1 || || ||
+! 820 l drop tanks
+| 1 || || || 1 || 1 || || || 1
 |-
 | colspan="9" | Maximum permissible weight imbalance: 700 kg
 |-
@@ -215,8 +217,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 2 x 800 l drop tanks
+* 4 x 820 l drop tanks
 * 2 x R-60 missiles
+* 6 x R-60MK missiles
 * 20 x 100 kg OFAB-100 bombs (2,000 kg total)
 * 10 x 250 kg OFAB-250sv bombs (2,500 kg total)
 * 10 x 250 kg OFAB-250Sh bombs (2,500 kg total)
@@ -261,6 +264,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Very good energy retention, can maintain 800-900 km/h in a turn with wings swept forward and afterburner in use
 * Excellent supply of countermeasures
 * Has 2 pilots
+* Variable sweep wing
 * Versatile S-25 rockets with both unguided and laser-guided variants
 * Unlike the Su-22M3, can mount S-5K rockets
 
@@ -291,6 +295,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
+
+;;Related Development
+;*[[Su-17/22 (Family)]]
+
+; '''Other jet planes with variable sweep wings'''
+
+* [[Tornado (Family)]]
+* [[MiG-23 (Family)]]
+* [[F-14 (Family)|F14 (Family)]]
+* [[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

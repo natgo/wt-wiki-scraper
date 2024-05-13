@@ -78,19 +78,23 @@ At least some care should be taken when firing the HEAT round as it has relative
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A28 (73 mm)|73 mm 2A28]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[2A28 (73 mm)|73 mm 2A28]] || colspan="5" | Turret rotation speed (°/s) 
+! Reloading rate (seconds) || colspan="4" | Reloading rate BMP-1P (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
+! Autoloader
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -4°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || 19.04 || 26.35 || 32.00 || 35.39 || 37.65 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -4°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || 19.04 || 26.35 || 32.00 || 35.39 || 37.65 
+| rowspan="2" | 6.00 || rowspan="2" | 6.50 || rowspan="2" | 5.75 || rowspan="2" | 5.30 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 11.90 || 14.00 || 17.00 || 18.80 || 20.00
 |-
 |}
+The BMP-1 will be manually loaded once the upgrade "BMP-1P" is unlocked.
 
 ==== Ammunition ====
 {{:2A28 (73 mm)/Ammunition|PG-9, OG-9}}
@@ -153,7 +157,7 @@ Improved penetration values and significantly increased explosive mass will also
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 4 || rowspan="2" | -5°/+10° || rowspan="2" | -15°/+37° || rowspan="2" | N/A || 19.04 || 26.35 || 32.00 || 35.39 || 37.65 || rowspan="2" | 8 || rowspan="2" | 8 || rowspan="2" | 8 || rowspan="2" | 8
+| rowspan="2" | 4 || rowspan="2" | -5°/+10° || rowspan="2" | -15°/+37° || rowspan="2" | N/A || 19.04 || 26.35 || 32.00 || 35.39 || 37.65 || rowspan="2" | 8.58 || rowspan="2" | 7.59 || rowspan="2" | 7.00 || rowspan="2" | 6.60
 |-
 ! ''Realistic''
 | 11.90 || 14.00 ||17.00 ||18.80 ||20.00

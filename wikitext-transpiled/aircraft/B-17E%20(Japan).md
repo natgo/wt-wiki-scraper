@@ -170,14 +170,14 @@ In Simulator mode, the Japanese B-17E offers the same playstyle as the American 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 [[File:Japanese captured B-17D.jpg|alt=Japanese captured B-17D in the air on its way to the home islands. Picture taken from the ground looking up as it passes overhead.|thumb|250px|Captured B-17D on its way to the Japanese home islands]]
-After the successful invasion of the Philippines, a team of Japanese engineers from the IJAAF "Koku Gijutsu Kenkyujo" (Army Aviation Technical Research Institute) discovered multiple B-17 wrecks at Clark Field. Salvaging parts from the various wrecks, the engineers managed to piece together a working B-17D, which was flown back to the Japanese home islands in early 1942 for evaluation.
+After the successful invasion of the Philippines, a team of Japanese engineers from the IJAAS "Koku Gijutsu Kenkyujo" (Army Aviation Technical Research Institute) discovered multiple B-17 wrecks at Clark Field. Salvaging parts from the various wrecks, the engineers managed to piece together a working B-17D, which was flown back to the Japanese home islands in early 1942 for evaluation.
 
 The Japanese soon captured Madioen Field, Java, in March. There, they found multiple B-17E wrecks in repairable condition. Eager to get their hands on a working aircraft, Japanese engineers used the piles of spare parts and captured Allied mechanics to rebuild the B-17s. In early 1943, two rebuilt B-17Es took to the air. Through Singapore, the aircraft flew to the home islands escorted by a fighter squadron and a Nakajima L2D transport, the license-produced DC-3. They were careful to alert AAA gunners along the route so they did not get shot down. The squadron arrived safely in the home islands at Tachikawa airfield in mid-1943.
 [[File:Captured Japanese B-17s over mount Fuji.jpg|alt=Two Japanese captured B-17Es and one B-17D flying in front of Mount Fuji.|thumb|Squadron of captured B-17s over Mount Fuji]]
 
 Aeronautical engineer Major Kazuyuki Saito and his team of engineers and test pilots oversaw evaluation of the American bombers. Since the Japanese had also obtained complete instruction manuals, every component of the B-17 was thoroughly examined and evaluated. Japanese aeronautical engineers such as Mitsubishi engineer Hisanojo Ozawa, dismissed the B-17E as "merely modifications made to an old design" and so the technological systems were deemed more important than the aircraft itself. Of special interest was the famous Norden bombsight, the automatic flight control system, the engine turbochargers and the Sperry Automatic Computing Gunsight. Despite the lack of strategic materials, the Japanese would try to copy what they could to improve their designs.
 
-The IJAAF (Army) would implement turbochargers in various aircraft such as the [[Ki-83]] and the [[Ki-87]], while the IJNAS (Navy) would use an improved bombsight and an advanced fire-control system in the [[G8N1]] Renzan.
+The IJAAS would implement turbochargers in various aircraft such as the [[Ki-83]] and the [[Ki-87]], while the IJNAS (Navy) would use an improved bombsight and an advanced fire-control system in the [[G8N1]] Renzan.
 [[File:B-17 Japan, CW-21B, and SNC-1.jpg|alt=Captured B-17E on the ground on display with a captured CW-21B fighter and SNC-1 trainer|thumb|Captured B-17E displayed with a captured CW-21B and an SNC-1]]
 
 The B-17s were frequently repainted with American colors and featured in Japanese war films, sometimes with a captured P-40E as escort.
@@ -199,10 +199,12 @@ The postwar records of military vehicles discovered during the Allied Occupation
 {{Youtube-gallery|JR-Yx4DojKg|'''Japanese B-17 Squadron''' - ''Mark Felton Productions''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[B-17 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

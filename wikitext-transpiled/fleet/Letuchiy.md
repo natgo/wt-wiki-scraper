@@ -39,7 +39,7 @@ The Letuchiy was introduced in [[Update "Apex Predators"]]. Unlike her contempor
 
 ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
 
-{{:120 mm/50 Mk.4 Bofors M1924 (120 mm)/Ammunition|120 mm HE Bofors}}
+{{:120 mm/50 Mk.4 Bofors M1924 (120 mm)/Ammunition|120 mm sgr M/25 HE, 120 mm stgr M/39 SAP}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}

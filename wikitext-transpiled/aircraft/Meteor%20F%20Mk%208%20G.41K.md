@@ -10,13 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Meteor F Mk 8 G.41K, an illustrious British fighter, marked a significant evolution in the Meteor series with its introduction in the late 1940s. Designed to rectify the limitations of its predecessors, it boasted a reinforced airframe to withstand the rigors of high-speed flight and upgraded Derwent 8 engines, offering enhanced performance and reliability. This variant saw extensive service with the Royal Air Force and other allied forces, playing crucial roles from air defense to ground support across various theatres of the Cold War. 
+The Meteor F Mk 8 G.41K, an illustrious British fighter, marked a significant evolution in the Meteor series with its introduction in the late 1940s. Designed to rectify the limitations of its predecessors, it boasted a reinforced airframe to withstand the rigours of high-speed flight and upgraded Derwent 8 engines, offering enhanced performance and reliability. This variant saw extensive service with the Royal Air Force and other allied forces, playing crucial roles from air defence to ground support across various theatres of the Cold War.
 
 Distinct from earlier Meteors, the F Mk 8 G.41K was enhanced with better aerodynamic features, aligning with the era's strategic demands. Its service history is marked by adaptation to diverse combat roles, evidencing the versatility and technological advancement of British aerospace engineering at the time. In combat, pilots lauded its improved rate of climb and top speed, making it a formidable adversary against the threats it faces.
 
-In-game, the '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter that stands as a testament to British jet development's zenith. Sitting at a battle rating of {{Battle-rating}}and being the highest performance Variant of the Meteor family, It is a plane with extremely good flight performance, especially at it's Battle Rating. It is Armed with 4x 20mm Hispano V cannons, and can also take RP-3, HVAR rockets or 2x 1000lbs bombs. While it looks impressive on paper, it is a plane that hates high speed. It compresses heavily above 700km/h, and takes a very long time accelerating past 800km/h.
-
-Overall a very comfortable, easy to use and fun plane, that was introduced in [[Update 1.29]]. 
+The '''{{Specs|name}}''' was introduced in [[Update 1.29]] and stands as a testament to British jet development's zenith. Being the highest performance variant of the Meteor family, the Mk.8 has extremely good flight performance, especially for its battle rating. It is armed with four 20 mm Hispano Mk.V cannons, and can also take RP-3, HVAR rockets, or two 1,000 lb bombs. While it looks impressive on paper, it is a plane that hates high speed. It compresses heavily above 700 km/h and takes a very long time accelerating past 800 km/h.
 
 == General info ==
 === Flight performance ===
@@ -170,7 +168,7 @@ The ordnance the Meteor carries is enough to do some ground striking, destroying
 
 '''As a bomber:'''
 
-Due to being a jet, it is able to be a lighting strike bomber. This means to fly the Meteor at a really low altitude (also known as lawn-mowing) with bombs (1,000 lb H.E. M.C. Mk.13 bombs are recommended for base bombing) with a 2-4 second time fuse. When the Meteor is on a base, the pilot should drop the bombs really low to the ground to ensure accuracy as no bombsight is able to be used. It may require practice on how and when to drop the bombs. The 2-4 second fuse makes the plane be able to move to a safe zone away from the blast zone. When no time fuse is set, the Meteor will be forced to drop the bombs at a higher altitude or be prompt to be killed in the blast zone with assault fuse.
+Due to being a jet, it is able to be a lighting strike bomber. This means to fly the Meteor at a really low altitude (also known as lawn-mowing) with bombs (1,000 lb H.E. M.C. Mk.13 bombs are recommended for base bombing) with a 1.5-2.5 second time or assault fuse. When the Meteor is on a base, the pilot should drop the bombs really low to the ground to ensure accuracy as no bombsight is able to be used. It may require practice on how and when to drop the bombs. The 1.5-2.5 second time or assault fuse makes the plane be able to move to a safe zone away from the blast zone. When no time fuse is set, the Meteor will be forced to drop the bombs at a higher altitude or be prompt to be killed in the blast zone.
 
 '''When in ground battles:'''
 
@@ -187,15 +185,12 @@ When it comes to just the 20 mm cannons, it should be noted that most vehicles t
 * Great at turning below 650 km/h
 * Good climb rate
 * Controllable roll rate
-* Able to carry suspended payloads (unlike other Meteors)
-* The flight performance is still good when carrying bombs
+* Able to carry RP-3 or HVARs (unlike other Meteors)
 
 '''Cons:'''
 
-* Compression
-* Hispano Mk V cannons have poor accuracy, and are borderline unusable when stock
+* Hispano Mk V cannons have poor accuracy
 * Wing controls tend to lose control ability at higher speeds
-* Poor energy retention, struggles to keep up with some aircraft
 * Limited visibility out of the rear of the cockpit
 
 == History ==

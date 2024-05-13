@@ -137,7 +137,7 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
-** 2 x 30 mm DEFA 554 cannons, belly-mounted (125 rpg = 250 total)
+** 2 x 30 mm DEFA 554 cannons, belly-mounted (125 rpg = 250 total) + 36 x countermeasures
 ** 2 x 30 mm DEFA 554 cannons + 90 x countermeasures
 
 === Suspended armament ===
@@ -149,7 +149,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
-| rowspan="8" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="9" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
 | || 1 || 1 || 1 || 1 || 1 || 1 || 1 ||
@@ -172,12 +172,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Matra Super 530F]] missiles
 | || 1 || || || || || || 1 ||
 |-
+! 1,300 l drop tanks
+| || || || || 1 || || || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 1 x 1,300 l drop tank
 * 2 x Matra R550 Magic 1 missiles
 * 2 x Matra R550 Magic 2 missiles
 * 72 x SNEB type 23 rockets

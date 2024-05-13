@@ -175,6 +175,7 @@ If you are not very experienced in Sim, you can also go for even bigger targets 
 * Not the best climber
 * Bleeds speed in turns, especially when using flaps
 * In Simulator mode, upper wing blocks a significant amount of the forward view
+* Extremely weak roll, combined with the lack of rudder authority leads to extreme difficulty aiming
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -185,10 +186,11 @@ On the 7th July 1937, fighting broke out between Chinese and Japanese forces, st
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_mk1_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 File:Gladiator-China an trn 26 003.png
 File:Gladiator-China an trn 26 005.png
 File:Gladiator-China an trn 26 007.png
@@ -203,9 +205,11 @@ File:Gladiator-China an trn 26 007.png
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Gladiator (Family)]]
 
 ;Aircraft of comparable role, configuration and era
+
 * Grumman [[F3F-2|F3F]]
 * Polikarpov [[I-15 (Family)|I-15]] & [[I-153 (Family)|I-153]]
 * Fiat [[CR.32 (Family)|CR.32]]
@@ -220,6 +224,7 @@ File:Gladiator-China an trn 26 007.png
 * [[Wikipedia:Gloster_Gladiator|[Wikipedia] Gloster Gladiator]]
 
 === References ===
+
 ;Citations
 <references />
 

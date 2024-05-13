@@ -9,9 +9,10 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->The ARL-44 (ACL-1) bears very distinctive characteristics, with a WWI-style track system (similar to the Churchill) which runs across the whole side of its chassis. This tank is a mix of different inspirations, mainly late war German tank technology such as the [[Panther D|Panther series]] or the [[Tiger II (H)|Tiger II]], from which it takes its slope frontal armour and tall profile. As France was reviving from WW2, its engineers were hard at work to catch up with tank technology, the ARL-44 series was a training ground for them. This is why this tank has rather weird design choices, coming from both experience and experimentation. Originally armed with a 75mm cannon, an ACL-1 turret and a 60mm sloped front plate in 1944, the design was deemed to weak, and many considered that it would quickly be outdated, for this reason the design was improved with its regular 90 SA45 gun with 37 rounds, a 120mm front plate and a redesigned slopped turret.
+<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+The ARL-44 (ACL-1) bears very distinctive characteristics, with a WWI-style track system (similar to the Churchill) which runs across the whole side of its chassis. This tank is a mix of different inspirations, mainly late-war German tank technology such as the [[Panther D|Panther series]] or the [[Tiger II (H)|Tiger II]], from which it takes its sloped frontal armour and tall profile. As France was reviving from WW2, its engineers were hard at work to catch up with tank technology, the ARL-44 series was a training ground for them. This is why this tank has rather weird design choices, coming from both experience and experimentation. Originally armed with a 75 mm cannon, an ACL-1 turret, and a 60 mm sloped front plate in 1944, the design was deemed to weak, and many considered that it would quickly be outdated. It was later improved with a 90 mm SA45 gun with 37 rounds, a 120 mm front plate and a redesigned sloped turret ([[ARL-44]]).
 
-It was introduced in [[Update 1.75 "La Résistance"]]. The ARL-44 (ACL-1) is the second heavy tank in the French tree. It is a well-rounded foe more suited for a medium tank role than an heavy one due to lacking armour (which is still decent). It distinguishes from previous French heavy tanks for having a potent gun. The ARL-44 (ACL-1) is a prototype design that would be finalized as the [[ARL-44]]. The vehicle features a good set of trades, an adequate cannon, although with a limited ammo selection, good frontal and side armour that allows for limited angling, and a -10 degree gun depression. However the tank does have a very large profile and the turret ammo storage is very exposed and lightly armoured.
+It was introduced in [[Update 1.75 "La Résistance"]]. The ARL-44 (ACL-1) is a well-rounded vehicle more suited for a medium tank role than an heavy one due to lacking armour (which is still decent). It distinguishes from previous French heavy tanks for having a potent gun. The vehicle features an adequate cannon (although with a limited ammo selection), good frontal and side armour that allows for limited angling, and -10 degrees of gun depression. However, the tank does have a very large profile and the turret ammo storage is very exposed and lightly armoured.
 
 == General info ==
 === Survivability and armour ===
@@ -84,23 +85,24 @@ When compared to other Medium or Heavy tanks at the same battle rating, the gun 
 {{:SA44 (75 mm)/Ammunition|75 mm OR Mle.44, 75 mm OE Mle.28}}
 
 ==== [[Ammo racks]] ====
-<!--NEEDS NEW PICTURE-->
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.1.0.110''' -->
+<!-- '''Last updated: 2.35.0.56''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
-! 1st<br>rack empty
-! 3rd<br>rack empty
+!1st<br>rack empty
+!2nd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''37''' || 25&nbsp;''(+12)'' || 1&nbsp;''(+36)'' || No
+| '''37''' || 25&nbsp;''(+12)'' 
+|1 ''(+36)''|| No
 |-
 |}
 '''Notes''':
 
-* Rack 1 is a first-stage ammo rack. It totals 24 shells and will get replenished over time when not interrupted by firing.
-* Shells are modelled individually and disappear after having been shot or loaded.
+* Rack 2 is a first-stage ammo rack. It totals 24 shells will get replenished over time when not interrupted by firing.
+** The restocking time is longer than the normal reload time of the gun (about 19 seconds). Take this into account when playing.
+* Shells are modelled individually and disappear after having being fired or loaded.
 * Hull empty: 25&nbsp;(+12) shells
 
 === Machine guns ===

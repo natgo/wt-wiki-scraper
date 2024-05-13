@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet armoured gun boat {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. '''{{PAGENAME}}''' stands for Russian: бронированный Mалый Охотник, ''Bronirovannyj Malyj Okhotnik''; English: Small Armoured Hunter.
+The '''{{Specs|name}}''' (бронированный Mалый Охотник; "Small Armoured Hunter") was a class of Soviet armoured gun boats produced from 1943-1945 in Leningrad. Originally designed for anti-submarine operations, the BMO and earlier MO-class ships also took on a variety of other roles such as mine warfare, convoy escort, and amphibious support. The BMO featured improved armour compared to earlier models, as well as the replacement of one of the 45 mm guns with a faster-firing 37 mm cannon to better engage aircraft. A total of 66 BMO boats were produced by the end of World War II.
+
+Introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game, the BMO's primary strengths lie in its armament: it features a 37 mm main gun, a secondary 45 mm gun, and numerous heavy machine guns for anti-aircraft defence, enabling it to engage various targets ranging from small enemy boats to aircraft. However, the BMO's armour is relatively thin, rendering it susceptible to incoming fire. Its mobility, though satisfactory, is not outstanding. Therefore it is most effective for the BMO to be utilised in a capacity leveraging its firepower to aid allies from range, rather than attempting to act as a spearhead in an offensive manoeuvre.
 
 == General info ==
 === Survivability and armour ===

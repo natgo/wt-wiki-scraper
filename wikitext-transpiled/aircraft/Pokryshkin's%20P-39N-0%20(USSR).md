@@ -27,9 +27,9 @@ Overall, the plane will prove to be reliable during mid-low altitude manoeuvres 
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
-This Soviet P-39N-0 is a low altitude fighter. Its Allison V-1710-85 engine can produce up to 1200 HP, however, it has only a single-stage, single-speed supercharger. Because of that, the plane performs optimally at low altitude (<4,000 m): at sea level, it can reach up to 575 km/h, with a maximum level speed of 644 km/h at 3,048 m. Thanks to that, it can outperform many other fighters like the early versions of Bf 109 or other American planes at that altitude range. The climb performance is decent, getting to 4,500 m should take about 4 minutes when flying with WEP enabled and full fuel tanks; below 1,000 m it can reach ~23 m/s. That puts it almost on par with some Bf 109 versions or the Yak-9, but only up to a certain altitude. Due to the engine limits, after flying for 5 minutes with WEP enabled it might start to overheat, especially with closed radiators. Reducing the propeller pitch to 90-95% and opening its radiators to 15-20% or more will significantly increase the length of time it can fly at full power.
+This Soviet P-39N-0 is a low altitude fighter. Its Allison V-1710-85 engine can produce up to 1,350 HP on WEP, however, it has only a single-stage, single-speed supercharger. Because of that, the plane performs optimally at low altitude (<4,000 m): at sea level, it can reach up to 575 km/h, with a maximum level speed of 644 km/h at 3,048 m. Thanks to that, it can outperform many other fighters like the early versions of Bf 109 or other American planes at that altitude range. The climb performance is decent, getting to 4,500 m should take about 4 minutes when flying with WEP enabled and full fuel tanks; below 1,000 m it can reach ~23 m/s. That puts it almost on par with some Bf 109 versions or the Yak-9, but only up to a certain altitude. Due to the engine limits, after flying for 5 minutes with WEP enabled it might start to overheat, especially with closed radiators. Reducing the propeller pitch to 90-95% and opening its radiators to 15-20% or more will significantly increase the length of time it can fly at full power.
 
-Manoeuvrability-wise the Cobra is a decent plane. It can perform a full horizontal circle at 1,000 m in 18 seconds, but once it climbs above the altitude where its engine performs the best, the sustained turn rate will be getting worse due to insufficient power. However, even at low altitudes, it will not be able to outturn any [[Bf 109 E-3|Bf 109 E]] or F version, the [[P-40F-10|P-40F]] or [[Yak-9]] are also much better at dogfighting. The plane also locks up quite a lot above 600 km/h IAS, although it is very good at diving, its structural speed is {{Specs|destruction|body}} km/h, which is excellent compared to the other fighters at similar battle rating. Its roll rate is slightly improved compared to the American [[P-39N-0|N-0]] version because of the removal of the wing-mounted machine guns, at 400 km/h IAS it can reach ~90°/s, and 75°/s at 600 km/h IAS. The turn rate performance can be improved by using flaps, depending on the situation up to even ~20% at the cost of much higher drag. They can be extended to combat, take-off, or landing position, but their speed limit is quite low, up to 425 km/h IAS, losing them during the fight will significantly decrease the plane's dogfighting capabilities.
+Manoeuvrability-wise the Cobra is a decent plane. It can perform a full horizontal circle at 1,000 m in 18 seconds, but once it climbs above the altitude where its engine performs the best, the sustained turn rate will be getting worse due to insufficient power. However, even at low altitudes, it will not be able to outturn most Japanese fighters. The plane also locks up quite a lot above 600 km/h IAS, although it is very good at diving, its structural speed is {{Specs|destruction|body}} km/h, which is excellent compared to the other fighters at similar battle rating. Its roll rate is slightly improved compared to the American [[P-39N-0|N-0]] version because of the removal of the wing-mounted machine guns, at 400 km/h IAS it can reach ~90°/s, and 75°/s at 600 km/h IAS. The turn rate performance can be improved by using flaps, depending on the situation up to even ~20% at the cost of much higher drag. They can be extended to combat, take-off, or landing position, but their speed limit is quite low, up to 425 km/h IAS, losing them during the fight will significantly decrease the plane's dogfighting capabilities.
 
 '''Simulator performance'''
 
@@ -203,6 +203,7 @@ As this variant, Bell produced 2,095 aircraft. Most of these were sent to the So
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p-39n_su Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -214,11 +215,13 @@ As this variant, Bell produced 2,095 aircraft. Most of these were sent to the So
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Aircraft of comparable role, configuration and era
+
 * [[P-63 (Family)]]
 * [[Yak-9 (Family)]]
 * [[Yak-1 (Family)]]
 
 ;Other US-supplied Soviet fighters
+
 * [[P-40E-1 (USSR)]]
 * [[P-47D-27 (USSR)]]
 

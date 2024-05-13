@@ -58,17 +58,20 @@ She was introduced during [[Update "La Royale"]] as a [[wt:en/news/8405-a-sound-
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+In arcade battles, the best way to start the match is by taking out the light boats (torpedo boats, etc.). Those are going to be your main problem: you can take quite a few hits from guns but a few torpedoes will take you out of the match. Use your fire control system to your advantage: snipe the enemy boats from far away. Since the guns are quite easy to aim, so you won't have a hard time.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
-*
+
+* Easy to aim guns
+* Timed shells for anti-aircraft role
+* Good armour
 
 '''Cons:'''
-*
+
+* Painfully slow, pretty average turn rate
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -76,13 +79,16 @@ She was introduced during [[Update "La Royale"]] as a [[wt:en/news/8405-a-sound-
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Videos
+{{Youtube-gallery|9jYudkO5B1U|'''HE Hailstorm - IJN Hatsuzuki, 1942''' - ''Napalmratte''}}
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -91,6 +97,7 @@ She was introduced during [[Update "La Royale"]] as a [[wt:en/news/8405-a-sound-
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

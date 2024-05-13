@@ -248,7 +248,7 @@ The {{PAGENAME}} plays similarly to the Mk 3/Mk 5 - ideally taking long-ranged e
 
 * Stillbrew composite armour does not provide particularly good chemical protection against upgraded rank VI ATGM, which means, that while it can often allow {{PAGENAME}} to ignore ATGM attacks from tanks like [[Begleitpanzer 57]], [[KPz-70]] or [[M551]] and maybe even some attacks from unskilled [[IT-1]] operator, in up-tier or against specialized rank VI ATGM tanks and tanks, which can carry advanced ATGM ( like [[BMP-1]], [[BMP-1 (DDR)]], [[BMP-2]], [[Type 89]], [[Warrior]], Etc.), the tank commander must be much more cautious
 * While turret is near invulnerable to shells with poor flight characteristics, it still retains a glaring weak spot in form of cupola, which can be penetrated and obliterated by almost any APHE, sometimes even from light tanks such as [[Begleitpanzer 57]], resulting in full crew knock-out. Because of this, the {{PAGENAME}} is usually forced to keep their enemies away, even when going to the frontline
-* Very poor mobility characteristics, much slower than most medium tanks it have to face
+* Very poor mobility characteristics, much slower than most medium tanks it has to face
 * Hull armour is negligible, comprised only of cast homogeneous armour, which means that it is even weaker, than what it looks like
 * Hull penetration will often result in ammunition detonation as ammo is strewn throughout it
 

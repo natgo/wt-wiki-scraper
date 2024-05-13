@@ -192,7 +192,7 @@ It is important to remember that the {{PAGENAME}} is incredibly vulnerable to SP
 
 The {{PAGENAME}} gets the luxury of spawning at around 1,000 metres from the start, as the plane is classified as an attacker. Just like the [[A-4B|A-4B Skyhawk]], the {{PAGENAME}} can use this advantage to gain the upper hand during the first few minutes of the game. Although many players are purely playing the {{PAGENAME}} for ground battles, diving to the deck will overall limit the {{PAGENAME}}'s success, as the plane has no opportunity to gain speed back at low altitudes. At altitude however, the {{PAGENAME}} can be played more like a piston-engine fighter, using Boom & Zoom tactics to eliminate opponents. This is useful considering the {{PAGENAME}} performs incredibly well at altitude, having a maximum altitude of over 10,000 metres. The {{PAGENAME}} should still try to remain fairly fast, however, as many opponents, such as the [[F-89B]] or [[F-84 (Family)|F-84G]], can easily reach the Saab's altitude by zooming towards it. Keeping the {{PAGENAME}} at a 10° will result in airspeeds around 400 km/h, giving it some room to manoeuvre in case an opponent wants to take care of it. This speed can be maintained for a long time, but keeping the {{PAGENAME}} at an altitude below 5,000 m will result in the most efficiency, as most opponents will stay below that threshold. After diving on opponents several times over, the {{PAGENAME}} can afford to be aggressive if the opportunity arises. The {{PAGENAME}} can force most opponents into dogfights, where they have no chance of defeating its superior turn-rate.
 
-However, the lack of tracer ammunition can make aiming the guns at manoeuvring enemy players quite difficult, so if you aren't confident in your aim, or otherwise just dissatisfied with the {{PAGENAME}}'s stock performance, using it as a regular attacker is also fine. Create a custom preset with the two cannons and, once you unlock them, 8 m/56D rockets. Once spawned, push the throttle to 102% (the {{PAGENAME}} can fly almost indefinitely on this throttle setting) and fly towards the ground targets that are furthest away from the enemy airfield. Prioritise light targets like machine guns and howitzers; rockets can take one out even with a near miss, and it only takes a very short burst from the cannons to destroy them. Once you've expended all your ordinance (preferably saving about a hundred rounds in the cannons for emergencies), fly straight back to the airfield. Don't try to stay and fight, because you would've lost most of your speed by now even with careful energy management, making you a sitting duck for enemies.
+On the other hand, using the {{PAGENAME}} as a regular attacker is also fine. Create a custom preset with the two cannons and, once you unlock them, 8 m/56D rockets. Once spawned, push the throttle to 102% (the {{PAGENAME}} can fly almost indefinitely on this throttle setting) and fly towards the ground targets that are furthest away from the enemy airfield. Prioritise light targets like machine guns and howitzers; rockets can take one out even with a near miss, and it only takes a very short burst from the cannons to destroy them. Once you've expended all your ordnance (preferably saving about a hundred rounds in the cannons for emergencies), fly straight back to the airfield. Don't try to stay and fight, because you would've lost most of your speed by now even with careful energy management, making you a sitting duck for enemies.
 
 If the {{PAGENAME}} gets to face off against the US in a down-tier, it can be recommended to use the Rb05A AGM missile. This weapon system is originally meant for tanks and is indeed highly lethal in ground battles. But a hidden quirk of the missile is a proximity fuse, similar to the [[AA-20 Nord]] found on French aircraft. This is guaranteed to be lethal against planes like the [[B-29A-BN|B-29 Superfortress]], which is commonly found at this BR. The missile works incredibly well against fighters as well, as nobody expects the {{PAGENAME}} to fire a 48 kg warhead in a head-on engagement. The only downside is that the {{PAGENAME}} can only carry two of these, and is completely defenceless afterward. It's more of a fun gimmick at the beginning of a game, but can be quite useful when dealing with the last opponent camping in space.
 
@@ -237,7 +237,6 @@ Because the SK60B has reverse thrusters it makes it possible to land and capture
 * Lack of cockpit protection: pilot knock-out is incredibly common in head-on engagements
 * Slow acceleration
 * No integral offensive armament, requiring gun pods
-* No tracers in any belt - It can be tricky to lead the guns at first
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -295,19 +294,16 @@ File:SK60B WTWallpaper 007.jpg|
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Similar aircraft in terms of performance and BR
+;Related development
+* [[SAAB-105 (Family)]]
 
-* [[A2D-1]]
-* [[F-84G-21-RE|F-84G]]
-* [[Sea Hawk FGA.6]]
+;Aircraft of a similar configuration and role
+* [[F-84 (Family)]]
+* [[A-4 (Family)]]
 * [[G.91 R/3 (Germany)|G.91 R/3]]
-
-;Similar Swedish Aircraft
-
-* [[J35D]]
-* [[A21RB]]
-* [[T18B-1]]
-* [[J21RA]]
+* [[Alpha Jet (Family)]]
+* [[Strikemaster Mk.88]]
+* [[Sea Hawk FGA.6]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

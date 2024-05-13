@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Panzerkampfwagen III Ausführung F (Panzer III F)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is the sixth variant of the [[Pz.III (Family)|Panzerkampfwagen III medium tank family]]. The Panzer III F, which succeeded the [[Pz.III E|Panzer III E]] as the next medium tank in the Panzer III medium tank family, was largely an improved variant with a few crucial upgrades and adjustments. Notably, in addition to the Panzer III E's new torsion bar suspension system, making it easier and cheaper to build and repair in combat, it also mounted a new 50 mm Kampfwagenkanone (KwK) 38 L/42 tank gun which significantly increased its firepower. The Panzer III F saw a greater quantity of production than the Panzer III E, with over 400 units produced between 1939 and 1941. As a result, it was one of the most numerous Panzer IIIs, and it played an important part in the early phases of World War II, beginning with the invasion of the West in May 1940.
+The '''Panzerkampfwagen III Ausführung F (Panzer III F)''' ([[Abbreviations#.28DE.29 Sd.Kfz. Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is the sixth variant of the [[Pz.III (Family)|Panzerkampfwagen III medium tank family]]. The Panzer III F, which succeeded the [[Pz.III E|Panzer III E]] as the next medium tank in the Panzer III medium tank family, was largely an improved variant with a few crucial upgrades and adjustments. Notably, in addition to the Panzer III E's new torsion bar suspension system, making it easier and cheaper to build and repair in combat, it also mounted a new 50 mm Kampfwagenkanone (KwK) 38 L/42 tank gun which significantly increased its firepower. The Panzer III F saw a greater quantity of production than the Panzer III E, with over 400 units produced between 1939 and 1941. As a result, it was one of the most numerous Panzer IIIs, and it played an important part in the early phases of World War II, beginning with the invasion of the West in May 1940.
 
 Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer III F variant is a completely novel design that replaces the earlier Panzer III E variant. First, it was outfitted with the new 50 mm KwK38 L/42 tank gun, which considerably increased its firepower and put it on pace with other nations at the time. Second, with the addition of torsion bar suspension, the Panzer III F became far more reliable. The tank is made up of armour plates ranging in thickness from 20 to 30 mm. Despite their vulnerability, higher firepower allows players to take more risks and engage foes with more dependability and ease. However, since almost no Panzer IIIs had their turret traverse upgraded to an electric power drive system, it is advised not to be too aggressive on the battlefield.
 
@@ -68,10 +68,10 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Pan
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 99 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 5.24 || 7.25 || 8.80 || 9.73 || 10.35 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
+| rowspan="2" | 99 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 11.4 || 15.8 || 19.2 || 21.2 || 22.6 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
 |-
 ! ''Realistic''
-| 3.27 || 3.85 || 4.67 || 5.17 || 5.50
+| 7.1 || 8.4 || 10.2 || 11.3 || 12.0
 |-
 |}
 
@@ -93,12 +93,13 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Pan
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''99''' || 75&nbsp;''(+24)'' || 50&nbsp;''(+49)'' || 25&nbsp;''(+74)'' || 1&nbsp;''(+98)'' || Yes
+| '''99''' || 73&nbsp;''(+26)'' || 47&nbsp;''(+52)'' || 32&nbsp;''(+67)'' || 0&nbsp;''(+99)'' || No
 |-
 |}
 '''Note''':
 
-* Turret empty: 50&nbsp;''(+49)'' shells.
+* Racks only disappear after all shells in the rack have been fired.
+* Turret empty: 32&nbsp;''(+67)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

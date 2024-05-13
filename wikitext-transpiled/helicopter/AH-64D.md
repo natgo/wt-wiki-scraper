@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 Following studies done in the late 1980's on the AH-64A/B Apache, and funding in 1991, the US army began to look at upgrading their existing fleet of aircraft, leading to the AH-64B+ and the subsequent '''{{Specs|name}}''' "Apache Longbow". Featuring the newer AN/APG-78 "Longbow" mast-mounted fire control radar (FCR) as well as upgraded avionics and weaponry, the '''{{Specs|name}}''' is a formidable attack helicopter and successor to the AH-64A.
 
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. Although lacking the AIM-9Ls found on its predecessor, the '''{{Specs|name}}''' can carry up to 16 AGM-111K Hellfire II missiles.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.97 "Viking Fury"]]. Although lacking the AIM-9Ls found on its predecessor, the '''{{Specs|name}}''' can carry up to 16 AGM-114K Hellfire II missiles.
 
 == General info ==
 === Flight performance ===
@@ -105,6 +105,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x ATAS (AIM-92) missiles
 * 76 x Hydra-70 M247 rockets

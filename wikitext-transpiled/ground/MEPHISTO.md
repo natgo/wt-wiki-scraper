@@ -63,14 +63,14 @@ The MEPHISTO has an advantage over some missile carriers, as the missile launche
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[HOT]] missile || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[HOT]] missile || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 12 (4) || rowspan="2" | ±10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 26.4 || 36.5 || 44.4 || 49.1 || 52.2 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00 || rowspan="2" | 15.00
+| rowspan="2" | 12 (4) || rowspan="2" | ±10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 26.4 || 36.5 || 44.4 || 49.1 || 52.2 || rowspan="2" | 15.00 
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0

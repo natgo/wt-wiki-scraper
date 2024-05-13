@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_II_ausf_F
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -179,12 +179,15 @@ The tank was used extensively until the end of 1942. Self-propelled anti-aircraf
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-;Skins
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Pz.II F.png|
+</gallery>
 
+;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_II_ausf_F Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Sights
-
 * [https://live.warthunder.com/post/675135/en/ RideR2's Realistic gunsight (TZF4a, TZF 5a/b/d/e/f/f2, TZF 9b/b1/c/d, TZF 12/a) for Pzkpfw II, Pzkpfw III, Pzkpfw IV, Pzkpfw V, Pzkpfw VI]
 
 == See also ==

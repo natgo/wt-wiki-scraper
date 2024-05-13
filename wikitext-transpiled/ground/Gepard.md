@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''Flugabwehrkanonenpanzer (Flakpanzer) Gepard''' is a self-propelled anti-aircraft gun designed to operate in all weather conditions. It was created in the 1960s, deployed in the 1970s, and has since been updated several times with cutting-edge technologies to keep up with modern warfare. It is equipped with twin 35 mm Oerlikon KDA autocannons mounted on the chassis of a Leopard 1 main battle tank and has served as a cornerstone of air defence for the German Army and several other NATO countries. The turret has a full traverse, providing complete coverage for the system. The search and tracking radars are also mounted on the chassis, behind and in front of the turret, respectively.
 
-Introduced in [[Update 1.63 "Desert Hunters"]], the Flakpanzer Gepard is a capable weapon platform that can provide reliable cover from enemy air attacks for friendly ground units. This vehicle, outfitted with search and tracking radars, can actively scan the skies for hostile air units and provide a lead indicator once locked onto the target. It also has some minor anti-ground capabilities, but it is not recommended that it be used extensively in anti-ground roles. It is recommended to wait for enemy aircraft to approach before unleashing a barrage of shells to make it difficult to dodge and avoid. To conserve ammunition, always shoot in bursts rather than continuous firing.
+Introduced in [[Update 1.63 "Desert Hunters"]], the Flakpanzer Gepard is a capable weapon platform that can provide reliable cover from enemy air attacks for friendly ground units. This vehicle, outfitted with search and tracking radars, can actively scan the skies for hostile air units and provide a lead indicator once locked onto the target. It also has some minor anti-ground capabilities, but it is not recommended that it be used extensively in anti-ground roles. It is recommended to wait for enemy aircraft to approach before unleashing a barrage of shells to make it difficult to dodge and avoid. To conserve ammunition and prevent overheating of the cannons, always shoot in bursts.
 
 == General info ==
 === Survivability and armour ===
@@ -111,9 +111,7 @@ The armament consists of 2 x 35 mm Oerlikon KDA cannons with 340 RPG with a quic
 
 ===Radars===
 {{main|MPDR 12|Albis}}
-The Gepard is equipped with a [[MPDR 12]] search radar and an [[Albis]] tracking radar. Both radars are located on the turret, the MPDR 12 is mounted at the rear of the turret and folds back when not in use, the Albis is mounted on the front of the turret.
-
-The radar system is capable of tracking a target while scanning, but can only track targets within a 200° arc from the front of the turret. The radar is quite picky and may fail to lock onto a plane if attempt is made from third person view as opposed to manual lock from the gunner seat. However, due to it using pulse-doppler technology, it cannot be chaffed (countermeasures cannot distrupt aim).
+The Gepard is equipped with a [[MPDR 12]] search radar and an [[Albis]] tracking radar. Both radars are located on the turret, the MPDR 12 is mounted at the rear of the turret and folds back when not in use, the Albis is mounted on the front of the turret. The radar system is capable of tracking a target while scanning, but can only track targets within a 200° arc from the front of the turret.
 
 {| class="wikitable" style="text-align:center"
 ! colspan="5" | [[MPDR 12]] - Target Detection Radar
@@ -167,7 +165,6 @@ Against enemy threats:
 * Has stabilizer -  can shoot targets while on the move, air and ground ones alike
 * Good amount of ammo in reserve
 * Search and tracking radars, the search radar finds targets while the tracking radar gives a very accurate lead indicator
-** Tracking radar cannot be chaffed, so future CAS cannot ignore it by just firing countermeasures every few seconds 
 * Search radar dish can be folded when not in use to reduce vehicle height and visibility
 
 '''Cons:'''

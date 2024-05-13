@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle-rating}}. It was introduced in [[Update "New Power"]].
+During WWII, France armoured forces were decimated, suffering heavy losses against German units and especially against their tanks. One of the attempts made to overcome this issue was the conversion of a Lorraine 37L tractor into a tank destroyer, fitted with a 47 mm SA37 anti-tank gun. Even though construction of the prototype was finished quickly, by the time it was ready for production France had already capitulated.
+
+It was introduced in [[Update "New Power"]]. Considering the characteristics of this vehicle, mobility of a tractor and no armour at all, the Lorraine 37L is best used in sniping positions, behind hills or bushes. It does have a small size, so in hidden positions it is hard to observe, especially when surrounded by foliage and vegetation. The tank features an SA37 anti-tank gun, with very good penetration values for its BR, and as such, this tank should be played passively, it is a good anti-tank complement for any French rank I line-up.
 
 == General info ==
 === Survivability and armour ===

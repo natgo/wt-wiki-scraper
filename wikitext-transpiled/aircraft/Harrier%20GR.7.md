@@ -122,11 +122,11 @@ A prudent approach would be to focus on obtaining additional countermeasures and
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -146,7 +146,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[ADEN 25 (25 mm)|25 mm ADEN 25]] cannons (100 rpg)
 | || || || || 1 || || 1 || || || ||
@@ -178,21 +178,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[AGM-65D]] missiles
 | || 1 || || 1 || || || || 1 || || 1 ||
 |-
+! [[AGM-65G]] missiles
+| || 1 || || 1 || || || || 1 || || 1 ||
+|-
 ! [[AIM-9L Sidewinder]] missiles
 | 1<sup>†</sup> || || 1<sup>†</sup> || || || || || || 1<sup>†</sup> || || 1<sup>†</sup>
 |-
-![[AIM-9M Sidewinder]] missiles
-|1<sup>†</sup>
-|
-|1<sup>†</sup>
-|
-|
-|
-|
-|
-|1<sup>†</sup>
-|
-|1<sup>†</sup>
+! [[AIM-9M Sidewinder]] missiles
+| 1<sup>†</sup> || || 1<sup>†</sup> || || || || || || 1<sup>†</sup> || || 1<sup>†</sup>
 |-
 ! Countermeasures
 | 160<sup>†</sup> || || 160<sup>†</sup> || || || || || || 160<sup>†</sup> || || 160<sup>†</sup>
@@ -212,11 +205,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 25 mm ADEN 25 cannons (100 rpg = 200 total)
 * 2 x AIM-9L Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles
-
 * 4 x AIM-9L Sidewinder missiles + 640 x countermeasures
-
 * 4 x AIM-9M Sidewinder missiles
-
 * 4 x AIM-9M Sidewinder missiles + 640 x countermeasures
 * 108 x SNEB type 23 rockets
 * 114 x CRV7 M247 rockets
@@ -227,6 +217,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x 546 kg Mk.13 bombs (2,184 kg total)
 * 2 x 2,000 lb GBU-24 Paveway III bombs (4,000 lb total)
 * 4 x AGM-65D missiles
+* 4 x AGM-65G missiles
 {{Navigation-End}}
 
 == Usage in battles ==
@@ -272,28 +263,28 @@ To successfully use this weapon in ground battles, you will first need to stay w
 
 '''Pros:'''
 
-* It has a very large count of countermeasures (700 if all four BOL rails are equipped)
-* Even if only two BOL rails are equipped the amount of countermeasures is still very impressive at 380
+* It has a very large count of countermeasures (700 with four BOL rails equipped, 380 with two BOL rails equipped)
 * Can carry up to four very effective [[AIM-9M Sidewinder]] missiles
 * Dedicated missile pylons ensure you can always carry at least two AIM-9Ms without sacrificing any ground attack ordnance
 * Has built-in target tracker and FLIR even without targeting pod
 * Has pilot night vision
 * ADEN 25 cannons have very high rate of fire and velocity
-* Access to a very diverse range of ground attack ordnance including 610 lb, 1,200 lb and 2,000 lb laser-guided bombs and [[AGM-65D|AGM-65D Mavericks]]
+* Access to a very diverse range of ground attack ordnance including 610 lb, 1,200 lb and 2,000 lb laser-guided bombs and AGM-65D/G Mavericks
 * Can carry six laser-guided bombs at the same time
-* TIALD pod (which has far better zoom and resolution than the missile seeker) can be used to lock [[AGM-65D|AGM-65Ds]] onto targets.
+* TIALD pod (which has far better zoom and resolution than the missile seeker) can be used to lock anti-ground weapons
 * It is very hard to rip the wings due to excessive speed or G overload, thanks to the very high G overload limit and the wing rip speed being above what the aircraft can typically achieve
 * CR7V M247 rockets are very effective at destroying SPAAs from range due to very high speed and explosive mass being much better than SNEB rockets
+* Advanced RWR with IFF and PD detection
 
 '''Cons:'''
 
 * The exceptional rate of fire and low ammo count of the gun pods gives you very limited trigger time before running out of ammo
 * 25 mm belts have no tracer rounds, making it hard to learn the unique ballistics of the ADEN cannon
 * No radar
-* Subsonic
-* Engine overheats if used at 100% or WEP - about 90-95% throttle is the most you can use for extended periods of time (depending on map temperature)
-* Limited WEP time
 * Lower top speed than first-generation Harriers
+* Subsonic
+* Engine overheats if used at 100% or WEP for extended periods of time (90-95% throttle is safe, depending on map temperature)
+* RWR lacks target name detection and can only detect target type
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

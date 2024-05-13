@@ -234,6 +234,9 @@ The Marine Corps used PBJ Mitchells as land-based bombers. By the end of 1943, t
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
+* [[B-25 (Family)]]
+
 ;Aircraft of comparable role, configuration and era
 
 * Douglas [[A-26 (Family)|A-26]] Invader

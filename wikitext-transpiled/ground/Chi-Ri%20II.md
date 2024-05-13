@@ -177,12 +177,13 @@ At BR 5.0, the Chi-Ri starts to face some tanks that are quite resistant to its 
 * First Stage Ammo Storage enables the tank to reload in less then 6 seconds even when the auto-loader is empty
 * With the First Stage Ammo Storage mechanic, the auto-loader is reloaded when not firing the gun
 * Exceptional burst damage potential
-* Shell performance similar to the [[T-34-85|T-34-85's]] [[D-5T (85 mm)|85 mm]]
 * Very competitive gun depression (-10°)
 * Secondary 37 mm armament allows for engaging weaker enemy without wasting 75 mm shells, and can be used to trick inattentive enemy players into thinking the main gun has fired
 * Decent mobility, even with stock engine
 
 '''Cons:'''
+
+* Atrocious optics
 
 * With the First Stage Ammo Storage mechanic, the 4 ammo racks in the back of the turret will be the last to be depleted, increasing the chance of ammo racking
 * Actually reloading the autoloader takes a very long time
@@ -194,7 +195,7 @@ At BR 5.0, the Chi-Ri starts to face some tanks that are quite resistant to its 
 * Angled hull front cheek sections make armour angling useless
 * 37 mm can only aim forwards and is very weak for Rank 3
 * Average accuracy
-* Maximum of 157 mm of penetration with the best shell, can have trouble penetrating same and higher-rank heavy tanks
+* Maximum of 151 mm of penetration with the best shell, can have trouble penetrating same and higher-rank heavy tanks
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -215,6 +216,7 @@ However, like many late-war tanks of Japan, they would never see any battle serv
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_5_chi_ri Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -222,6 +224,7 @@ However, like many late-war tanks of Japan, they would never see any battle serv
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

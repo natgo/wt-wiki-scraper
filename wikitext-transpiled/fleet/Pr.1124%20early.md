@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet armoured gun boat {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game.
+The '''Pr.1124''' was a class of River Gun Boats of the Soviet Navy. Development began in 1931 when the Soviet Army needed a new type of armoured vehicle for river patrols armed with 76 mm guns. They demanded a vessel that could perform multiple tasks such as fire support, combating enemy river crossings, reconnaissance, convoying, landing operations, patrolling, and most importantly, fighting enemy boats. The initial development of the boat was equipped with turrets from the [[T-28 (Family)|T-28 tank]]. However, during a modernization in the 1940s, many parts were changed. Mainly, additional armour was added for the cabin and a tower on top of it with twin 12.7 mm [[DShK (12.7 mm)|DShK]] heavy machine guns. The most noticeable change was the replacement of the turrets with [[T-34 (Family)|T-34 tank]] turrets.
+
+This boat was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. It is one of the most armoured boats in its BR. Its low silhouette, good armour, and larger crew complement make this boat hard to destroy. With a top speed of 39 km/h in RB, this boat is relatively fast for its class, but it is still slow compared to MTBs that this boat will most likely encounter. The main selling point of this boat is that it is equipped with the familiar [[F-34 (76 mm)|76 mm F-34]] cannon in the familiar T-34 turret. This boat has two main turrets and it only has two types of shells, HE and APHE. On the other hand, it is also equipped with twin 12.7 mm [[DShK (12.7 mm)|DShK]] heavy machine guns located on top of the cabin/bridge, which can serve as anti-aircraft defences if needed.
 
 == General info ==
 === Survivability and armour ===
@@ -150,6 +152,7 @@ Finally, the Pr. 1124 suffers from a rather mediocre manoeuvrability, with a poo
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_1124_art Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

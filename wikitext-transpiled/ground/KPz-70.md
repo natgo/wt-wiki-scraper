@@ -99,19 +99,22 @@ The recommended research order of modules is Parts, FPE, the XM578E1 APFSDS shel
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[XM150E5 (152 mm)|152 mm XM150E5]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[XM150E5 (152 mm)|152 mm XM150E5]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate rounds (seconds) || Reloading rate ATGM (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader !! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 48 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 34.3 || 47.4 || 57.6 || 63.7 || 67.8 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 48 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 34.3 || 47.4 || 57.6 || 63.7 || 67.8 || rowspan="2" | 6.00 
+| rowspan="2" |15.00
 |-
 ! ''Realistic''
 | 21.4 || 25.2 || 30.6 || 33.8 || 36.0
 |-
 |}
+The KPz-70 can only take 6 ATGMs in total.
+
 The most important feature that makes a tank is the cannon. In this department, the KPz-70 is no slouch. The 152 mm gun launcher system (the same one used on the [[M551|M551 Sheridan]]), but with a longer barrel and is capable of firing a variety of munition types including an experimental APFSDS round, a traditional HEAT round (with high penetration), an experimental smoke round, and lastly the very capable and proven MGM-51C Shillelagh. This wide range of munition choices gives the operator a variety of options in a pre-combat configuration which can greatly either hinder or enhance the tankers capability on the battlefield. The benefit of a longer barrel compared to its Sheridan counterpart ensures the KPz-70 is much more accurate at range and that the rounds leave the barrel at higher velocities thus increasing their overall damage-dealing capabilities. Additionally, the 152 mm gun launcher gets equipped with an autoloader, greatly reducing its time between follow-up shots on a target.
 
 For targeting, the option to equip an incredibly accurate laser range finder is available. Additionally, the 7.62 mm machine gun mounted in the turret can be used for range finding as well. Because of the elevated engine deck, gun depression is decreased significantly when firing or aiming the gun over the rear of the tank. 

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet medium tank {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''{{Specs|name}}''' was a further development of the ubiquitous T-55 main battle tank, outfitted with the Drozd hard-kill active protection system (APS) as a countermeasure against anti-tank guided missiles (ATGMs). Originally, the Drozd APS was developed by the Soviet military in the late 1970s to provide protection for their T-55 and T-62 tanks against the growing threat of portable ATGMs and handheld unguided anti-tank rocket launchers. Around 250 T-55A tanks were subsequently converted to the T-55AD standard, with the Drozd APS installed.
 
-The T-55AMD-1 is a modification of the premium [[T-55AM-1]] at the same battle rating. It has the same upgrades to the firepower, fire control system, engine, and hull armour compared to the original [[T-55A]]. However, what sets it apart is the "Drozd" hard-kill active protection system, a first for Soviet tanks. It replaces the add-on "brow" composite armour and intercepts incoming ATGMs with explosive charges. Because the turret is no longer capable of resisting contemporary tank guns, the T-55AMD-1 effectively trades turret armour for vastly improved protection against ATGMs, making it easier to counter IFVs and helicopters.
+Introduced in [[Update "Wind of Change"]], the T-55AMD-1 is essentially a side-grade of the premium [[T-55AM-1]]. It has the same upgrades to the firepower, fire control system, engine, and hull armour made on the [[T-55A]] to bring it up to the T-55AM-1 standard, but the T-55AMD-1 trades the add-on "brow" composite armour for the Drozd APS, which can effectively intercept incoming ATGMs within a 80° frontal arc. This makes the T-55AMD-1 better equipped to deal with ATGM-equipped IFVs, tank destroyers, and helicopters than the T-55AM-1, though the turret armour cannot reliably resist penetration from contemporary tank guns. The T-55AMD-1 retains the potent 100 mm D-10T2S cannon with access to various ammunition types, including APFSDS, APHE, and ATGMs. Its mobility, while not exceptional, is adequate for its role. The combination of the versatile D-10T2S gun with competent mobility allows the T-55AMD-1 to perform well, even in situations where the Drozd APS is irrelevant.
 
 == General info ==
 === Survivability and armour ===
@@ -48,19 +48,19 @@ The T-55AMD-1 is a modification of the premium [[T-55AM-1]] at the same battle r
 
 * Tracks and suspension wheels are 20 mm thick
 
-The armour is not legendary, it will rarely block a serious shot. However, it is very thorough, with no real weak spots. The T-55AMD-1 can take a frontal beating from larger autocannons without losing anything important.
+The armour of the T-55AMD-1 is not infallible, and will rarely block fatal shots. However, the armour scheme is comprehensive and lacks serious weak spots. While vulnerable in tank-on-tank engagements, the T-55AMD-1 can typically take a frontal beating from larger autocannons without being penetrated or losing critical components.
 
-The turret armour is not sufficient at this rank, nor at any rank from even rank IV upwards. The composite armour seen in the [[T-55AM-1]]'s turret has been completely removed, however this grants access to the 'Drozd' hard-kill Active Protection System. The gun shield itself mostly offers a 110-160 mm protection, which is mediocre at the battle rating.
+The turret armour is unimpressive, as the composite armour on the [[T-55AM-1]]'s turret has been completely removed to make room for the 'Drozd' hard-kill Active Protection System. APDS, APFSDS, and HEAT rounds found around the T-55AM-1's battle rating have no difficulty penetrating the turret from the front if shots are aimed around the gun, though exceptionally poorly-aimed shots can still bounce off the rounded sides and roof of the turret. The mantlet has 110-160 mm of protection which, while impotent against tank rounds, will stop autocannon fire easily.
 
-The frontal glacis is in two parts, the upper area that is 100 mm RHA sloped at 59 degrees and the lower one being 100 mm RHA sloped at 56 degrees. Both the upper and lower plates will not stop anything but SPAA munitions at the battle rating. The lower glacis plate is not as strong since it is not sloped as much as the front plate, but penetrating this plate will often result in colossal damage.
+The frontal hull protection consists of two 100 mm plates; an upper front plate sloped at 59°, and a lower front plate sloped at 56 degrees. The UFP is additionally protected by add-on composite armour composed of 30 mm of RHA sandwiching a 120 mm metal-polymer block against the basic 100 mm of the UFP. The add-on composite armour offers good protection against chemical energy penetrators such as HEATFS, ATGMs and anti-tank grenades, with a protection of roughly 400 mm. This allows the tank to resist hits of almost all HEATFS of the BR (most of them penetrate between 320 mm to 430 mm) and even some ATGMs (between 400 mm to 650 mm). The hull can be angled to increase the effectiveness of the frontal protection, which can increase the effective armour up to 703 mm against CE penetrators. Moreover, the good 80 mm side armour allows angling to be performed without excessive fear of side penetration.
 
-Hull additional armour remains with its effectiveness against chemical munitions. The hull, however, is unlikely to stop penetration of most ATGMs. Also, it is noted that there is a fuel tank in the front of the tank protecting the ammo rack, which sometimes penetrating rounds will just set afire. The difference compared to its counterparts is that this rack is the first-stage rack, meaning there is no way to empty it to increase survivability. This is one of the main problems of post-war era Soviet MBTs. The composite armour offers a really good protection for chemical energy penetrators such as HEATFS, ATGMs and anti-tank grenades, having a protection of roughly 400 mm. This makes the tank capable of withstanding hits of almost all HEATFS of the BR (most of them penetrate between 320 mm to 430 mm) and even some ATGMs (between 400 mm to 650 mm). It is also able to reduce the penetration or stop ATGM like the [[9M113 Konkurs]] (ATGM of the [[BMP-2]]) and 9M112 (ATGM of the [[T-64B]]) although do not expect it to happen all the time, it depends on your angling and where the missile impacts. The chassis should be angled most of the time to maximise the effectiveness with the 100 mm thick steel plate, capable of making the armour reach 703 mm of effective armour against CE penetrators.
+It should be noted that there is a fuel tank in the front of the tank that protects some stowed ammunition, and sometimes penetrating rounds will just set the fuel tank on fire instead of detonating the ammunition. Unfortunately, this rack is the first-stage rack, so there is no way to empty it to increase survivability. This is one of the main problems of post-war era Soviet MBTs.
 
 === 'Drozd' Active Protection System ===
 [[File:Druzd block 1.png|thumb|417x417px|T-55AMD-1 neutralizing missile from Type 60 ATM]]
-The T-55AMD-1 has access to a [[Active protection systems|hard-kill protection system]], the Drozd APS. It is a constantly active APS which provides protection against a wide variety of threats. It is composed of three major pieces: a Doppler radar array for target detection, eight launchers (four per side) on the sides of the turret, and an electronics piece on the turret's rear. It detects targets inside a 60° frontal arc and engages them inside a 7 m distance. The main disadvantage of this system is that it follows the direction of the turret, meaning it can only successfully destroy targets that are in the line of sight.
+The T-55AMD-1 has access to a [[Active protection systems|hard-kill protection system]], the Drozd APS. It is a constantly active APS which provides protection against a wide variety of threats. It is composed of three major pieces: a Doppler radar array for target detection, eight launchers (four per side) on the sides of the turret, and an electronics piece on the turret's rear. It detects targets inside a 80° frontal arc and engages them inside a 7 m distance. The main disadvantage of this system is that it follows the direction of the turret, meaning it can only successfully destroy targets that are in the line of sight.
 
-Drozd can be used while on the move (although the turret must be facing the target as stated before). While on the move (especially horizontally), the detected ATGM has a risk of escaping the activation range of the Drozd. When moving towards an enemy who fired an ATGM, it will be affected by the APS but due to momentum, the ATGM can still damage the T-55 if when destroyed. Drozd must have a clear line-of-sight with the enemy threat (at least APS must be exposed). The T-55AMD-1 has no access to a Laser Warning Receiver (LWR), so the player must rely on visual contact with the ATGM and the launcher (no LWR makes the helicopter lock-on invisible). Thankfully, the usual attack angle of enemy projectiles are inside the protection arc when in LOS.
+Drozd can be used while on the move (although the turret still must be facing the target). While on the move (especially horizontally), the detected ATGM has a risk of escaping the activation range of the Drozd. When moving towards an enemy that fired an ATGM, it will be affected by the APS but the ATGM can still damage the T-55 when destroyed due to momentum. Moreover, exceptionally high-penetrating ATGMs like the HJ-9 can still penetrate the tank even if intercepted by Drozd. The T-55AMD-1 has no access to a Laser Warning Receiver (LWR), so the player must rely on visual contact with the ATGM and the launcher (no LWR makes the helicopter lock-on invisible). Thankfully, the usual attack angle of enemy projectiles are inside the protection arc when in LOS.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -149,7 +149,7 @@ Drozd can be used while on the move (although the turret must be facing the targ
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Do not be afraid to trust your armour, particularly when hull-down or against autocannons. However, avoid straying from your allies, as your reload can mean that a missed or poor shot is fatal. Do not count on knocking out crew to cripple opponents as your reload is long enough for knocked out members to be replaced. If you are reloading while under fire, remember to keep your gun moving to evade shots at it. The combination of APS and reliable armour means that IFVs such as the Begleitpanzer, Bradley, and Marder can do little to you without catching you off guard or getting a luck shot on your gun.
+Do not be afraid to trust your armour, particularly when hull-down or against autocannons. However, avoid straying from your allies, as your slow reload can mean that a missed or poor shot is fatal. Do not count on knocking out crew to cripple opponents as your reload is long enough for knocked out members to be replaced. If you are reloading while under fire, remember to keep your gun moving to evade shots at it. The combination of APS and reliable armour means that IFVs such as the Begleitpanzer, Bradley, and Marder can do little to you without catching you off guard or getting a luck shot on your gun.
 
 '''Notable opponents'''
 
@@ -165,14 +165,15 @@ Do not be afraid to trust your armour, particularly when hull-down or against au
 * Consistent armour
 * Very resistant to autocannons
 * Drozd APS to block missiles
-* APS has plenty of charges
+* APS has several charges
 * Adequate penetration on APDS and APFSDS rounds
+* Access to APHE with fantastic post-penetration damage
 * Decent mobility
 
 '''Cons:'''
 
-* Below average reload time 
-* Low post-penetration damage
+* Below average reload time
+* Low APFSDS post-penetration damage
 * Slow gun and turret traverse
 * Disappointing gun depression
 * APS only protects 40 degrees to each side of the gun.

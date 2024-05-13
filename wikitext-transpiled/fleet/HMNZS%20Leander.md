@@ -5,9 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''HMNZS Leander (75)''' is a member of the Leander-class light cruiser family. Serving with the New Zealand Navy during World War II, she was formerly known as HMS Leander. Launched at Devonport on September 24, 1931, the HMNZS Leander was the lead ship of her class. On March 24, 1933, she received her commission as HMS Leander in the British Navy. She was a member of the British Navy's New Zealand Division, serving alongside HMS Achilles. She was renamed as HMNZS Leander in September 1941, when the New Zealand Division changed its name to the New Zealand Navy. On its way from Europe to New Zealand in August 1937, the HMS Leander conducted an aerial survey of Henderson, Oeno, and Ducie, and on each island, a British flag was planted and an inscription proclaiming "This island belongs to H.B.M. King George VI" was nailed up. When the New Zealand Division was renamed the New Zealand Navy in September 1941, she was renamed HMNZS Leander. During World War II, the HMNZS Leander initially served in the Pacific and Indian Oceans. The HMNZS Leander was transferred to the Mediterranean Fleet in June 1941 and participated in the Syria-Lebanon Campaign against the Vichy French. In September 1941, the HMNZS Leander returned to the Pacific Ocean after serving in the Mediterranean. However, during the subsequent Battle of Kolombangara, the HMNZS Leander was hit by a torpedo and was severely damaged, forcing her to abandon the war. She was first repaired in Auckland before being completely rebuilt in Boston. On August 27, 1945, she was returned to the British Navy. She was involved in the Corfu Channel Incident in 1946. She was decommissioned in 1950.
-
-Introduced in [[Update 1.87 "Locked On"]], the HMNZS Leander is very similar to the [[HMS Arethusa]], its predecessor, but has some upgrades over the former. First off, compared to the former, it has an all-around armour upgrade that greatly boosts its survival in battles. Second, it has an additional gun turret, which can provide the HMNZS Leander with some deadly firepower with good accuracy. Finally, it has more crew members and is faster than the HMS Arethusa. However, compared to the HMS Arethusa, it has a weaker anti-aircraft armament, so players are advised to be particularly alert for enemy aircraft during battles. To enhance survivability, it is advised to stay near allies to provide more anti-aircraft fire.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light cruiser {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
 
 == General info ==
 === Survivability and armour ===
@@ -206,7 +204,6 @@ HMNZS Leander only had a very short post-war service life. The warship was offic
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_cruiser_leander Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

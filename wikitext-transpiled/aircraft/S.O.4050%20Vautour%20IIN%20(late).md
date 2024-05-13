@@ -31,10 +31,10 @@ The Vautour IIN boasts a top speed of just under Mach 1 and adequate acceleratio
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1,094 || 1,091 || rowspan="2" | {{Specs|ceiling}} || 32.6 || 33.2 || 43.1 || 41.0 || rowspan="2" | 900
+| 1,101 || 1,098 || rowspan="2" | {{Specs|ceiling}} || 32.6 || 33.2 || 42.9 || 38.8 || rowspan="2" | 900
 |-
 ! Upgraded
-| 1,106 || 1,100 || 31.4 || 32.0 || 62.7 || 52.0
+| 1,113 || 1,107 || 31.5 || 32.0 || 69.0 || 55.0
 |-
 |}
 
@@ -149,6 +149,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x AA-20 Nord missiles
 * 4 x Matra R511 missiles
@@ -178,7 +179,7 @@ There are several big threats to the Vautour, take care around the [[Sea Vixen F
 
 * The engines overheat quickly at 110%
 * Incredibly poor manoeuvrability in any manoeuvre and speed
-* It's the Vautour with the less turning capacity compared to any variant, as the Flight Model is shared with the [[S.O.4050 Vautour IIA]], not having an all-flying tail while the extra thrust increases the already extreme compression 
+* It's the Vautour with the less turning capacity compared to any variant, as the Flight Model is shared with the [[S.O.4050 Vautour IIA]], not having an all-flying tail while the extra thrust increases the already extreme compression
 * Although manoeuvrable, the R.511 is one of the slowest missiles in the game, it is not able to catch enemies with considerable speed in a tail chase
 * The R.511 produces a pretty visible smoke from kilometres away, and many planes can see and evade pretty easily
 * Entirely lacks air-to-ground options, making it a one-dimensional vehicle.
@@ -192,6 +193,7 @@ There are several big threats to the Vautour, take care around the [[Sea Vixen F
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=so_4050_vautour_2n_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

@@ -87,13 +87,13 @@ The gun on the Churchill is also excellent, as it has very high penetration and 
 ! 5th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''85''' || 82&nbsp;''(+3)'' || 43&nbsp;''(+42)'' || 22&nbsp;''(+63)'' || 5&nbsp;''(+80)'' || 1&nbsp;''(+84)'' || No
+| '''85''' || 81&nbsp;''(+4)'' || 42&nbsp;''(+43)'' || 21&nbsp;''(+64)'' || 4&nbsp;''(+81)'' || 0&nbsp;''(+85)'' || No
 |-
 |}
 '''Notes''':
 
 * Racks disappear after all shells in the rack have been shot or loaded.
-* Turret empty: 82&nbsp;''(+3)'' shells.
+* Turret empty: 81&nbsp;''(+4)'' shells.
 
 ==== Optics ====
 {| class="wikitable" style="text-align:center" width="50%"
@@ -135,7 +135,7 @@ In city maps, you should be careful not to expose the side armour, as it is quit
 
 There are some tanks that the Churchill III doesn't even need to worry about them penetrating the Churchill from the front, the most prominent of these being the Panzer III. Angling the armour will make the tank tough against even high-penetration tanks like the Panzer IV F2, though don't rely on that armour only as the F2 has a high-velocity cannon. Against those cannons, it is advised to take cover, angle, or destroy them first. Shermans are not much concern since they won't really penetrate the Churchill armour unless flanking or hitting one of the few weak points.
 
-Most enemy tanks are easy to deal with the 57 mm gun that can punch straight through. Despite the small calibre, it can create enough post-penetration damage to one-shot medium tanks if aimed properly.
+Most enemy tanks are easy to deal with as the 57 mm gun can punch straight through. Despite the small calibre, it can create enough post-penetration damage to one-shot medium tanks if aimed properly.
 
 Overall, the Churchill III is a very powerful Rank III vehicle that is capable of holding off an entire flank, while destroying tanks easily in quick succession. If the Churchill III is not in an up-tiered situation, it can effectively enter a battle and act as a shell magnet for enemy rounds which could've been fired at weaker teammates, and then either engage the enemy with the 57 mm cannon or let teammates return fire. Companion vehicles such as the [[Pz.IV F2|Panzer IV F2]], the [[8,8 cm Flak 37 Sfl.]] and other German vehicles possess superior firepower compared to the other country vehicles in rank III (Except for other special TDs, such as the American [[M10 GMC|M10]] and British [[Achilles]]) and can in most cases hold their own.
 

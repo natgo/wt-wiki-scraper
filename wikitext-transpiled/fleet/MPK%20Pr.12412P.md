@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet motor torpedo gun boat {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+During the mid 1970s, the Soviet Navy saw the need for a new anti-submarine corvette for patrolling the Black sea. The resulting vessel from Project 12412 was named the "Molniya-2", or per its NATO reporting name, the Pauk class. The Molniya-2 was based on the larger Project 1241 Molniya-1 (NATO reporting name: Tarantul class) corvettes, being a lighter anti-submarine variant of the Molniya hull. '''Pr.12412P''' is a semi-official designation applied to the initial prototype, which used the larger M-507A diesel engines from the Pr.1241 Molnyia-1 corvette, giving it a small increase in engine power and top speed over the [[MPK Pr.12412|production variant]].
+
+Introduced in [[Update "Wind of Change"]], the '''{{Specs|name}}''' (Molnyia-2) bolsters an already incredible line-up of coastal vessels at that rank of the Soviet tech tree. Joining the likes of other formidable vessels of similar tonnage such as its sister [[MPK Pr.12412]] in the tech tree and the powerful [[SKR-7]], the "Molnyia-2" brings more to the table than some of its contemporaries. The Pr.12412 has access to a rapid firing autoloaded 76 mm turret with access to two kinds of HE shells, including a HE-VT proximity-fuse shell for dealing with aerial targets (with the help of its radar-aided fire control system), along with a rotary AK-630 CIWS in the rear for dealing with closer and lower flying targets by filling the air with lead at 5,000 RPM. The diverse armament does not end there, as the Pr.12412 also has access to mortars, depth chargers, and decent torpedos all at once, making it a true "jack of all trades, yet master of none" for its class. One must be cautious when playing the Pr.12412 due to its sub-par armour (which becomes even more useless when uptiered to face bluewater destroyers), and to not be too trigger happy with the AK-630 CIWS due to its tendency to jam under sustained fire, and its insane rate of fire depleting ammo supplies very quickly when left unchecked.
 
 == General info ==
 === Survivability and armour ===
@@ -87,6 +89,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet motor torpedo g
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_mpk_pr12412p Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -94,6 +97,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet motor torpedo g
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -102,6 +106,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet motor torpedo g
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

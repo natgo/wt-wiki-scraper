@@ -1,10 +1,7 @@
 {{About
 | about = American main battle tank '''{{PAGENAME}}'''
-| other
-| usage-1 = other versions
-| link-1 = M1 Abrams (Family)
-| usage-2 = other uses
-| link-2 = M1 (Disambiguation)
+| usage = other versions
+| link = M1 Abrams (Family)
 }}
 {{Specs-Card
 |code=us_m1a1_hc_usmc
@@ -92,7 +89,7 @@ The '''{{Specs|name}}''' was introduced in [[Update "Air Superiority"]]. Besides
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''40''' || 35&nbsp;''(+5)'' || 18&nbsp;''(+22)'' || 1&nbsp;''(+39)''  || No
+| '''40''' || 35&nbsp;''(+5)'' || 18&nbsp;''(+22)'' || 1&nbsp;''(+39)'' || No
 |-
 |}
 
@@ -133,13 +130,13 @@ The '''{{Specs|name}}''' was introduced in [[Update "Air Superiority"]]. Besides
 
 '''Pros:'''
 
-* Powerful and versatile ammunition selection between kinetic sabots, HEATFS, and a proximity-fuzed round
+* Powerful and versatile ammunition selection between kinetic sabots, HEATFS, and a proximity-fused round
 * Has an active protection system that can provide some protection against older ATGMs
 * Has better turret protection than older versions of the Abrams
 
 '''Cons:'''
 
-* Has a big weak spot under cannon breach and also the turret ring
+* Has a big weak spot under the cannon breech and also the turret ring
 * No commander's sight
 * The softkill active protection system is visible through night vision devices
 * The antennas are tall can can easily be spotted by an enemy
@@ -150,7 +147,9 @@ The '''{{Specs|name}}''' was introduced in [[Update "Air Superiority"]]. Besides
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1a1_hc_usmc Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

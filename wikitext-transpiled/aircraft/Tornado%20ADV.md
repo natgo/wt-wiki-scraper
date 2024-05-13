@@ -229,6 +229,13 @@ In terms of the Italian ADV, during the late stages of the cold war Italy realis
 * [[Tornado IDS ASSTA1 (Germany)]]
 * [[Tornado IDS (Germany)]]
 
+; '''Other jet planes with variable sweep wings'''
+
+* [[MiG-23 (Family)]]
+* [[Su-17/22 (Family)]]
+* [[F-14 (Family)|F14 (Family)]]
+* [[F-111A]]
+
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''

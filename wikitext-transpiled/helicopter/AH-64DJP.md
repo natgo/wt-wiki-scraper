@@ -135,7 +135,7 @@ Additionally, it is important to know when to use flares. Flares are extremely e
 
 '''Using the Longbow Radar:'''
 
-The radar of the Apache should be used as a secondary tool when engaging ground targets. As of update 1.99.1.45, the radar is not effective in obtaining target lock for ground vehicles. The AGM-114L radar guided Hellfire is not in the game, so guidance of Hellfires should be done by using the FLIR thermal imaging camera to lase targets. However, the radar is still useful in detecting enemy aircraft. By using the multi-function menu to switch radar mode, the radar will begin to search for air rather than ground targets. Keeping track of enemy aircraft is vital to survival in the Apache, as any plane can make quick work of the Apache if the helicopter is unprepared.
+The radar of the Apache should be used as a secondary tool when engaging ground targets. The radar is not effective in obtaining target lock for ground vehicles. The AGM-114L radar guided Hellfire is not in the game, so guidance of Hellfires should be done by using the FLIR thermal imaging camera to lase targets. However, the radar is still useful in detecting enemy aircraft. By using the multi-function menu to switch radar mode, the radar will begin to search for air rather than ground targets. Keeping track of enemy aircraft is vital to survival in the Apache, as any plane can make quick work of the Apache if the helicopter is unprepared.
 
 '''Air-to-Air (Stinger and Gun):'''
 

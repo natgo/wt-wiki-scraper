@@ -78,6 +78,9 @@ The Le Fantasque series of destroyers were designed to operate in homogeneous fo
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_destroyer_le_fantasque_class_le_triomphant Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+{{Youtube-gallery|BsdJAECpIuw|'''Battle Pass: Airborne General''' discusses the {{PAGENAME}} at 0:53 - ''War Thunder Official Channel''}}
+
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''

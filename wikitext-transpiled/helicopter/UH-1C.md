@@ -94,6 +94,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 38 x FFAR Mighty Mouse rockets
 * 76 x FFAR Mighty Mouse rockets
 * 6 x AGM-22 missiles
@@ -144,6 +145,7 @@ During the Vietnam War, the UH-1 earned several other nicknames other than "Huey
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uh_1c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -158,12 +160,16 @@ File:UH-1C WTWallpaper 007.jpg
 </gallery>
 
 ;Videos
-{{Youtube-gallery|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 01:01 discusses the UH-1 Huey.}}
+{{Youtube-gallery|_xUPs-rPK3g|'''UH-1 Huey Ultimate Guide''' - ''Bob Dickinson''|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 01:01 discusses the UH-1 Huey.}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[UH-1 (Family)]]
+** [[UH-1C XM-30]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

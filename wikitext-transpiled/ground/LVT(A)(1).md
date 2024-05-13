@@ -120,7 +120,7 @@ The M1919 machine guns are mostly an afterthought on the LVT. The rear machine g
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-A tactic is to try facing down a street while hiding the massive unarmored hull. Try to only have the small turret stick out from behind the cover or angle the tank's hull such that only the turret and a small part of the hull/crew is exposed. Next, patiently wait for a target to turn onto the street then use the quick firing and accurate 37mm to destroy them. As the 37mm gun has little explosive filler, it will most often take a minimum of 2 shots to destroy a tank, so try to immobilise the enemy first and then take out the crew. When the gunner gets taken out by return fire, the best case scenario is to retreat back to cover if available, or else sit it out and call for artillery in the meantime. Always prioritise [[15cm sIG 33 B Sfl]], [[Chi-Ha]] and [[Pz.IV C]] when there are multiple enemies as these tanks are the bane of the LVT(A)(1). If under artillery fire, immediately get out of the area as the splash damage from the artillery will destroy the tank. When there are no enemies, always clear the frontage with the main gun and the machine guns so as to spot the enemy first and have the first shot advantage. 
+A tactic is to try facing down a street while hiding the massive unarmoured hull. Try to only have the small turret stick out from behind the cover or angle the tank's hull such that only the turret and a small part of the hull/crew is exposed. Next, patiently wait for a target to turn onto the street then use the quick firing and accurate 37 mm to destroy them. As the 37 mm gun has little explosive filler, it will most often take a minimum of 2 shots to destroy a tank, so try to immobilise the enemy first and then take out the crew. When the gunner gets taken out by return fire, the best case scenario is to retreat back to cover if available, or else sit it out and call for artillery in the meantime. Always prioritise [[15cm sIG 33 B Sfl]], [[Chi-Ha]] and [[Pz.IV C]] when there are multiple enemies as these tanks are the bane of the LVT(A)(1). If under artillery fire, immediately get out of the area as the splash damage from the artillery will destroy the tank. When there are no enemies, always clear the frontage with the main gun and the machine guns so as to spot the enemy first and have the first shot advantage. 
 
 Another tactic is to use the LVT(A)(1)'s ability to sneak up waterways to work around the enemy lines, and ambush when possible. If that is not a option, come at them head on, either taking their vehicle out or disabling it long enough to get around and finish it with a side shot. Once done, do not take the waterways back as the LVT(A)(1) is much faster on land.
 
@@ -136,16 +136,16 @@ At the same time, keep in mind that the LVT(A)(1) is an easy target for aircraft
 
 * [[15cm sIG 33 B Sfl]] - Armed with a massive 15cm calibre gun that will obliterate the LVT(A)(1) if the shell lands a hit on any part of the tank. When facing this tank frontally, always aim for the right side of the gun to take out the gunner. Use the quick firing gun to then take out any remaining crew.
 
-* [[Chi-Ha]] -  The stock APHE with its abysmal penetration will take out the tank in one shot not to mention the upgraded HEAT shell. Immediate priority is to take out the gunner.
+* [[Chi-Ha]] - The stock APHE with its abysmal penetration will take out the tank in one shot not to mention the upgraded HEAT shell. Immediate priority is to take out the gunner.
 
-* [[Pz.IV C]] - Will one shot the LVT(A)(1) with any shell. Aim for the flat hull armor plate directly below the turret to take out the gunner.
+* [[Pz.IV C]] - Will one shot the LVT(A)(1) with any shell. Aim for the flat hull armour plate directly below the turret to take out the gunner.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Very fast and manoeuverable on most terrain
+* Very fast and manoeuvrable on most terrain
 * 6 crew members
 * Fast-firing and accurate 37 mm gun
 * Crew members are spread out, less likely to get knocked out in one shot
@@ -159,7 +159,7 @@ At the same time, keep in mind that the LVT(A)(1) is an easy target for aircraft
 
 '''Cons:'''
 
-* Huge (shell magnet)
+* Huge target
 * Barely any armour to speak about
 * Exposed lower glacis
 * Weak armour and huge size makes it vulnerable to artillery
@@ -206,8 +206,10 @@ After World War II, the LVTs continued to see action in the multiple conflicts i
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Other vehicles of similar configuration and role
+;Related development
+* [[LVT (Family)]]
 
+;Other vehicles of similar configuration and role
 * [[Ka-Mi]]
 
 == External links ==

@@ -33,7 +33,7 @@ As with the AMX-30, the AMX-30 DCA has a decent top and reverse speed of 65 km/h
 
 However, note that the DCA lacks neutral steering and is somewhat slow to accelerate stock, meaning that it is possible to get caught off-guard and react too slowly.
 
-{{tankMobility|abMinHp=994|rbMinHp=619}}
+{{tankMobility|abMinHp=1,023|rbMinHp=637}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -60,7 +60,7 @@ The armament consists of 2 x 30 mm HSS 831A cannons with 300 RPG with a quick, f
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 1,200 (300) || rowspan="2" | 600 || rowspan="2" | -5°/+85° || rowspan="2" | ±180° || rowspan="2" | N/A || 70.4 || 97.5 || 118.4 || 130.9 || 139.3 || rowspan="2" | 65.00 || rowspan="2" | 57.50 || rowspan="2" | 53.00 || rowspan="2" | 50.00
+| rowspan="2" | 1,200 (300) || rowspan="2" | 650 || rowspan="2" | -8°/+85° || rowspan="2" | ±180° || rowspan="2" | - || 70.4 || 97.5 || 118.4 || 130.9 || 139.3 || rowspan="2" | 39.00 || rowspan="2" | 34.50 || rowspan="2" | 31.80 || rowspan="2" | 30.00
 |-
 ! ''Realistic''
 | 47.6 || 56.0 || 68.0 || 75.2 || 80.0

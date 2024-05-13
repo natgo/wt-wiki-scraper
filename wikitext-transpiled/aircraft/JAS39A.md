@@ -1,7 +1,7 @@
 {{About
 | about = Swedish jet fighter '''{{PAGENAME}}'''
-| usage = the other version
-| link = JAS39C
+| usage = other versions
+| link = SAAB 39 Gripen (Family)
 }}
 {{Specs-Card
 |code=saab_jas39a
@@ -192,7 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | || || || 1<sup>†</sup> || || || ||
 |-
 ! 1,100 l drop tanks
-| || || || || 1 || || ||
+| || || 1 || || 1 || 1 || ||
 |-
 | colspan="9" | Maximum permissible weight imbalance: 1,250 kg
 |-
@@ -202,7 +202,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 1,100 l drop tank
+* 3 x 1,100 l drop tanks
 * 2 x RB 74 missiles
 * 6 x RB 74 missiles
 * 6 x RB 74 missiles + 640 x countermeasures
@@ -224,7 +224,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-Gripens needs to be played in one way which is very different from all the other top-tier jets. The JAS39A has an underwhelming radar-guided missile out of all its opponents, meaning it will not play ever in BVR engagements, since it will always end up loosing. Instead, the Gripen shines in the furballs, where the chaos prevents anyone from being totally aware of its surroundings. There, it can use its two best assets: the RB 74(M) (AIM-9M copy-paste) and the nearly-unlimited flares loadout the plane can carry. When approaching the danger zone, activate the automatic countermeasure release, set to cycle 1 sec with 0.5 sec between each release and 2 releases per cycle. You have about 4:30 minutes of pure adrenaline before you run out of flares (using flares and chaff should half the time, but sticking to the deck makes radar-guided missiles easily dodgeable). Now the player can pay less (not none) attention to their surroundings and focus on launching the RB 74(M) missiles. Do not focus too much on one target, lock on with radar so the missile won't go for the flares during the lock-on phase and prefer targets that are showing you their side: this way even if they flare the missile will be less likely to notice the flares at all.
+Gripens needs to be played in one way which is very different from all the other top-tier jets. The JAS39A has an underwhelming radar-guided missile out of all its opponents, meaning it will not play ever in BVR engagements, since it will always end up losing. Instead, the Gripen shines in the furballs, where the chaos prevents anyone from being totally aware of its surroundings. There, it can use its two best assets: the RB 74(M) (a Swedish Version of the AIM-9M ) and the nearly-unlimited flares loadout the plane can carry. When approaching the danger zone, activate the automatic countermeasure release, set to cycle 1 sec with 0.5 sec between each release and 2 releases per cycle. You have about 4:30 minutes of pure adrenaline before you run out of flares (using flares and chaff should half the time, but sticking to the deck makes radar-guided missiles easily dodgeable). Now the player can pay less (not none) attention to their surroundings and focus on launching the RB 74(M) missiles. Do not focus too much on one target, lock on with radar so the missile won't go for the flares during the lock-on phase and prefer targets that are showing you their side: this way even if they flare the missile will be less likely to notice the flares at all.
 The Gripen is also a good dogfighter, use the air brake until you get into the 700-850 km/h, that way you will pull like a monster.
 
 === Pros and cons ===
@@ -233,7 +233,7 @@ The Gripen is also a good dogfighter, use the air brake until you get into the 7
 '''Pros:'''
 
 * High speed; good acceleration gets you back in the fight after losing speed in turns or climbs
-* Extreme manoeuvrability - currently possibly the most agile fighter in the game, outturns even F-16s!
+* Extreme manoeuvrability - currently possibly the most agile fighter in the game, outturns even F-16s!
 * High amount of countermeasures available; a total of 720 when carrying four BOL rails on the wings
 * Well balanced loadouts available, ranging from dumb bombs and rockets to F&F AGMs and laser guided bombs
 * Helmet mounted sight lets the pilot slew both IR missile seekers as well as the radar onto off-bore targets
@@ -252,6 +252,10 @@ The Gripen is also a good dogfighter, use the air brake until you get into the 7
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=saab_jas39a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|YpAvtM4iUWo|'''The Shooting Range #390''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}
 

@@ -117,11 +117,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
 <!-- ''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.'' -->
-{{main|Vickers K (7.7 mm)}}
+{{main|Browning (7.7 mm)}}
 
 The '''''{{PAGENAME}}''''' is defended by:
 
-* 1 x 7.7 mm Vickers K machine gun, dorsal turret (1,000 rpg)
+* 1 x 7.7 mm Browning machine gun, dorsal turret (1,000 rpg)
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

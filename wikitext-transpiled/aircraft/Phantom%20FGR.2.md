@@ -270,7 +270,8 @@ In theory, the ideal playstyle for the Phantom is to play as a support fighter a
 * Poor turn rate
 * Equipping the M61 gunpod adds a significant amount of drag, while a missile-only loadout is inadequate for high aspect and close range attacks
 * Spey engines produce less thrust than J79-GE-17 engines at very high altitudes
-* Has limited ground attack loadouts compared to other Phantoms
+* It does not have any type of laser or TV-guided ground attack weaponry, which makes it limited for CAS in realistic ground battles
+* Does not have all-aspect IR missiles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

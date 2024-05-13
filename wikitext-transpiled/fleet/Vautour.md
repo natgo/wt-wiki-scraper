@@ -1,3 +1,8 @@
+{{About
+| about = French destroyer '''{{PAGENAME}}'''
+| usage = other uses
+| link = Vautour (Family)
+}}
 {{Specs-Card
 |code=fr_destroyer_aigle_class_vautour
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

@@ -279,6 +279,17 @@ The MiG-23ML is very versatile and has usefulness in nearly every combat situati
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
+;Related development
+
+*[[MiG-23 (Family)]]
+
+; '''Other jet planes with variable sweep wings'''
+
+* [[Tornado (Family)]]
+* [[Su-17/22 (Family)]]
+* [[F-14 (Family)|F14 (Family)]]
+* [[F-111A]]
+
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''

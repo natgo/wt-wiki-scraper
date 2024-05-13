@@ -125,7 +125,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+;Videos
+{{Youtube-gallery|aX8nq3hSmiM|'''J9 Early - A Flying Wing-Ripping Chainsaw''' - ''Tankenstein''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

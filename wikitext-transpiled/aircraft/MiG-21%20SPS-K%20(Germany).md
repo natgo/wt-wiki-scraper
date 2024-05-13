@@ -132,12 +132,55 @@ The aircraft gets 60 mm bulletproof glass in front of the pilot and 10 mm of ste
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|S-5K|S-24|GSh-23L (23 mm)}}
-{{main|R-3R|R-3S|R-13M1|R-60}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| || 1 ||
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || || 1
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| 1 || || 1
+|-
+! [[S-5K]] rockets
+| 16, 32 || || 16, 32
+|-
+! [[S-24]] rockets
+| 1 || || 1
+|-
+! [[R-3R]] missiles
+| 1*, 2 || || 1*, 2
+|-
+! [[R-3S]] missiles
+| 1*, 2 || || 1*, 2
+|-
+! [[R-13M1]] missiles
+| 1 || || 1
+|-
+! [[R-60]] missiles
+| 1 || || 1
+|-
+! Countermeasures
+| || 64 ||
+|-
+! 490 l drop tanks
+| || 1 ||
+|-
+| colspan="5" | * Single R-3R missiles can only be equipped in conjunction with a single R-3S missile on the same hardpoint
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 23 mm GSh-23L cannon (250 rpg)
+* 2 x R-60 missiles + 1 x 490 l drop tank
 * 4 x R-3S missiles
 * 4 x R-3R missiles
 * 2 x R-3R missiles + 2 x R-3S missiles
@@ -149,45 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 1 x 23 mm GSh-23L cannon + 2 x R-60 missiles
 * 1 x 23 mm GSh-23L cannon + 2 x R-3S missiles + 2 x R-3R missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| || 1 ||
-|-
-! 250 kg OFAB-250sv bombs
-| 1 || || 1
-|-
-! 500 kg FAB-500M-54 bombs
-| 1 || || 1
-|-
-! S-5K rockets
-| 16, 32 || || 16, 32
-|-
-! S-24 rockets
-| 1 || || 1
-|-
-! R-3R missiles
-| 1*, 2 || || 1*, 2
-|-
-! R-3S missiles
-| 1*, 2 || || 1*, 2
-|-
-! R-13M1 missiles
-| 1 || || 1
-|-
-! R-60 missiles
-| 1 || || 1
-|-
-! Countermeasures
-| || 64 ||
-|-
-| colspan="5" | * Single R-3R missiles can only be equipped in conjunction with a single R-3S missile on the same hardpoint
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

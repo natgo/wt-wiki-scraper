@@ -131,9 +131,9 @@ It should be noted that the ZTZ96A's gun depression and gun elevation have decli
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-
-The {{PAGENAME}} comes equipped with a 7.62mm coaxial machine gun as well as a roof mounted 12.7mm heavy machine gun. The [[QJC88A (12.7mm)|QJC88A 12.7mm]] machine gun has similar gun depression to the tank itself, and has a very wide angle of fire up to 85 degrees in the vertical. This lets the {{PAGENAME}} deal with close range aerial threats, such as low flying aircraft or helicopters, as well as lightly armored or open-top vehicles such as a side-on IFV or an anti-aircraft vehicle. Against enemy MBTs, however, the most the HMG will do is track them if you pepper their tracks insistently with a full belt of gunfire. The coaxial 7.62mm lacks penetration and is affixed to the tank's turret traverse, so its best use is marking targets on the map for your teammates to notice. 
 {{main|QJC88A (12.7 mm)|Type 86 (7.62 mm)}}
+
+The {{PAGENAME}} comes equipped with a 7.62mm coaxial machine gun as well as a roof mounted 12.7 mm heavy machine gun. The QJC88A 12.7 mm machine gun has similar gun depression to the tank itself, and has a very wide angle of fire up to 85 degrees in the vertical. This lets the {{PAGENAME}} deal with close range aerial threats, such as low flying aircraft or helicopters, as well as lightly armored or open-top vehicles such as a side-on IFV or an anti-aircraft vehicle. Against enemy MBTs, however, the most the HMG will do is track them if you pepper their tracks insistently with a full belt of gunfire. The coaxial 7.62 mm lacks penetration and is affixed to the tank's turret traverse, so its best use is marking targets on the map for your teammates to notice. 
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-

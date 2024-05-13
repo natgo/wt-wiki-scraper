@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 In 1972, in parallel to the [[MiG-21SMT]] and ST variants, a full overhaul of the MiG-21 airframe was being developed around the new Tumansky R-25 engine, which promised a thrust-to-weight ratio of over 1 on full second-stage afterburner when mated to a lightened MiG-21 airframe. The resulting design was given updated avionics and other modernizations, before entering service as the MiG-21bis, the ultimate culmination of the third-generation Fishbed. The MiG-21bis was quickly adopted in the USSR by both the PVO and the VVS, with one minor difference for the two operators. The PVO-flown MiG-21bis was fitted with a Lazur-M GCI (Ground Controlled Interception) guidance system, whereas the VVS-operated variant had a Polyot-OI instrument landing and guidance system outfitted, with the only visual difference between the two variants being a single small antenna under the forward fuselage. The two variants in export were respectively designated as the [[MiG-21 "Lazur-M" (Germany)|MiG-21bis Lazur-M]] (Fishbed-L) and the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]] (Fishbed-N) to differentiate them.
 
-Introduced in [[Update "New Power"]], the MiG-21bis is the ultimate Soviet development of the MiG-21. It looks roughly the same as the [[MiG-21S (R-13-300)|MiG-21S]] and [[MiG-21MF (Germany)|MiG-21MF]], both being third-generation MiG-21 models with search radars, internal [[GSh-23-2 (23 mm)|GSh-23]] cannons, and pronounced fuselage spines. However, the similarities end there, as under the hood, the MiG-21bis is a completely new beast. The most important upgrades are the new addition of the new R-25-300 engine, giving this aircraft increased thrust over it's older variants. The other major upgrade to the MiG-21bis is its fire control system, which now allows it to not only use the [[R-13M1]] missile, but also the ability to mount the APU-60-2 pylons which can carry twice as many [[R-60M]]s on one hardpoint. All in all, people who enjoyed previous Fishbeds for their incredible dogfight performance, and built upon the mastery of working around both the disadvantages and advantages of the Fishbed airframes, will find this aircraft to be very enjoyable to fly, as what it lacks in BVR and strong missiles at its battle rating, are easily outweighed by the lightened airframe and relatively powerful engine allowing it to punish most planes that engage it in unconditional close-range dogfighting at low altitude, bar some specific planes.
+Introduced in [[Update "New Power"]], the MiG-21bis is the ultimate Soviet development of the MiG-21. It looks roughly the same as the [[MiG-21S (R-13-300)|MiG-21S]] and [[MiG-21MF (Germany)|MiG-21MF]], both being third-generation MiG-21 models with search radars, internal [[GSh-23-2 (23 mm)|GSh-23]] cannons, and pronounced fuselage spines. However, the similarities end there, as under the hood, the MiG-21bis is a completely new beast. The most important upgrades are the new addition of the new R-25-300 engine, giving this aircraft increased thrust over its older variants. The other major upgrade to the MiG-21bis is its fire control system, which now allows it to not only use the [[R-13M1]] missile, but also the ability to mount the APU-60-2 pylons which can carry twice as many [[R-60M]]s on one hardpoint. All in all, people who enjoyed previous Fishbeds for their incredible dogfight performance, and built upon the mastery of working around both the disadvantages and advantages of the Fishbed airframes, will find this aircraft to be very enjoyable to fly, as what it lacks in BVR and strong missiles at its battle rating, are easily outweighed by the lightened airframe and relatively powerful engine allowing it to punish most planes that engage it in unconditional close-range dogfighting at low altitude, bar some specific planes.
 
 == General info ==
 === Flight performance ===
@@ -139,23 +139,64 @@ The {{PAGENAME}} has above-average acceleration and high-speed performance. Firs
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 23 mm GSh-23L cannon, belly-mounted (250 rpg)
-** 1 x 23 mm GSh-23L cannon + 64 x countermeasures
+* 1 x 23 mm GSh-23L cannon, belly-mounted (250 rpg)
+* 64 x countermeasures
 
 The 23 mm GSh-23L are adequate cannons, firing at a high rate of fire. However, the individual rounds from the cannons have a low stopping power, necessitating many hits on target to destroy them.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary}}
-{{main|R-3R|R-3S|R-13M1|R-60M}}
-{{main|S-5K|S-24}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x R-13M1 missiles
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| || 4 || || 4 ||
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| || 1 || || 1 ||
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| || 1 || || 1 ||
+|-
+! [[ZB-500 incendiary]] bombs
+| || 1 || || 1 ||
+|-
+! [[S-5K]] rockets
+| 16 || 16, 32 || || 16, 32 || 16
+|-
+! [[S-24]] rockets
+| 1 || 1 || || 1 || 1
+|-
+! [[R-3R]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-3S]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-13M1]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-60M]] missiles
+| 1, 2 || 1 || || 1 || 1, 2
+|-
+! 490 l drop tanks
+| 1 || || 1 || || 1
+|-
+| colspan="6" | Maximum permissible weight imbalance: 570 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+
+* 3 x 490 l drop tanks
+* 1 x 490 l drop tank + 2 x R-60M missiles
 * 4 x R-3S missiles
 * 4 x R-3R missiles
 * 4 x R-13M1 missiles
@@ -168,65 +209,27 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 250 kg FAB-250M-62 bombs (500 kg total)
 * 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
 * 2 x ZB-500 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 100 kg OFAB-100 bombs
-| || 4 || 4 ||
-|-
-! 250 kg FAB-250M-62 bombs
-| || 1 || 1 ||
-|-
-! 500 kg FAB-500M-62 bombs
-| || 1 || 1 ||
-|-
-! ZB-500 incendiary bombs
-| || 1 || 1 ||
-|-
-! S-5K rockets
-| 16 || 16, 32 || 16, 32 || 16
-|-
-! S-24 rockets
-| 1 || 1 || 1 || 1
-|-
-! R-3R missiles
-| 1 || 1 || 1 || 1
-|-
-! R-3S missiles
-| 1 || 1 || 1 || 1
-|-
-! R-13M1 missiles
-| 1 || 1 || 1 || 1
-|-
-! R-60M missiles
-| 1, 2 || 1 || 1 || 1, 2
-|-
-| colspan="5" | Maximum permissible weight imbalance: 570 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The main things to remember about this plane is that it is fairly manoeuvrable at high speeds and it accelerates quickly and climbs pretty well. In a combat situation, you should avoid flying slower than 800 km/h, as your plane loses a significant amound of thrust and manoeuverbality at speeds lower than that.
+The main things to remember about this plane is that it is fairly manoeuvrable at high speeds and it accelerates quickly and climbs pretty well. In a combat situation, you should avoid flying slower than 800 km/h, as your plane loses a significant amount of thrust and manoeuvrability at speeds lower than that.
 
-Here's how you would want to use this plane to it's advantages depending of the state of the game you're in:
+Here's how you would want to use this plane to its advantages depending of the state of the game you're in:
 
 At the beginning, climb at a low angle (around 5-10 degrees) and watch your radar for any enemies flying high, it is recommended you stay at lower altitudes and keep a relatively high speed (between 900 to 1300 km/h) so that you can turn away from an enemy locking you with their radar/shooting a missile at you. If the enemy you have located is isolated/not paying attention, engage it and use either your missiles or gun to engage it. Try not to lose too much speed as your plane relies on it. don't forget to look around for any incoming threat.
 
 Towards the mid or end-game, keep flying fast and avoid wasting speed in turns. Use Boom-N-Run tactics (fly towards a target at high speed, engage them quickly and run away) and assist the team with any problematic enemies. If you find a lonely target you can dogfight with, go for it as long as you don't have any other enemy nearby, as extended dogfights with the MiG-21bis tend to leave it very vulnerable to enemy fire.
 
-In summary: the MiG-21bis is best used in Boom-N-Run tactics for most of the game unless your target is not very manoeuverable, then you can turnfight with them.
+In summary: the MiG-21bis is best used in Boom-N-Run tactics for most of the game unless your target is not very manoeuvrable, then you can turnfight with them.
 
 Since your main missiles will usually be R-60Ms, try to fire them relatively close to the enemy (between 2 km to 0.5 km). If you're engaging a target flying at high speeds, the minimum distance of engagement will be < 2 kilometres, if your enemy is farther/flying away, try using R-13M1s instead.
 
 '''Enemies to beware of:'''
-* F-16A early (Block 10): Amongst the highest BR enemy you can fight if you're in a maximum downtier. This plane is your absolute nemesis as it can counter you in every way. It flies faster than you, it turns better than you and climbs better than you. If you spot an F-16A Block 10, your best strategy would be to try to destroy it from a surprise angle or team up on it with your teammates to destroy it. If you find yourself being targeted by an F-16A Block 10, try to stay fast and do short periodical vertical manoeuvers to throw its aim off. Don't forget to pre-flare if you're flying too slowly as its AIM-9L missiles can spell doom to you. Try to have teammates back you up in these situations, as it is unlikely you will be able to defeat a F-16A Block 10 in a 1v1 dogfight.
-* F-14 (A Early/B): Another nemesis you can frequently encounter, but you can beat it. Its AIM-54 Phoenix missiles can destroy you at extreme ranges if you're not paying attention, if you find yourself in BVR range against a F-14, you can be easy prey to it's AIM-7F missiles unless you counter them (either by flying very close to the ground or by notching and chaffing). When engaging in close-quarters fights against a F-14, one should take notice that the F-14 is rather manoeuverable and can beat the MiG-21bis in a continuous turnfight. The best strategy against a F-14 is to make it lose its speed by doing burst climbs and re-descending upon it when it is at its slowest.
+
+* F-16A early (Block 10): Amongst the highest BR enemy you can fight if you're in a maximum downtier. This plane is your absolute nemesis as it can counter you in every way. It flies faster than you, it turns better than you and climbs better than you. If you spot an F-16A Block 10, your best strategy would be to try to destroy it from a surprise angle or team up on it with your teammates to destroy it. If you find yourself being targeted by an F-16A Block 10, try to stay fast and do short periodical vertical manoeuvres to throw its aim off. Don't forget to pre-flare if you're flying too slowly as its AIM-9L missiles can spell doom to you. Try to have teammates back you up in these situations, as it is unlikely you will be able to defeat a F-16A Block 10 in a 1v1 dogfight.
+* F-14 (A Early/B): Another nemesis you can frequently encounter, but you can beat it. Its AIM-54 Phoenix missiles can destroy you at extreme ranges if you're not paying attention, if you find yourself in BVR range against a F-14, you can be easy prey to its AIM-7F missiles unless you counter them (either by flying very close to the ground or by notching and chaffing). When engaging in close-quarters fights against a F-14, one should take notice that the F-14 is rather manoeuvrable and can beat the MiG-21bis in a continuous turnfight. The best strategy against a F-14 is to make it lose its speed by doing burst climbs and re-descending upon it when it is at its slowest.
 * F-4E: Whilst not being as nimble, a skilled F-4E player can easily destroy you. At BVR ranges, you are prey to the F-4E's radar missiles (as you would with any other enemy) but at close ranges, the F-4E can keep up with you in turns as long as it is flying at medium to high speeds (800-1200 km/h).It is possible to beat an F-4E in a sustained dogfight, just make sure you're alone to do it. Overall, the best strategy again an F-4E is, yet again, to bleed its speed with burst climbs and re-engage when it is at its slowest.
 
 === Radars ===

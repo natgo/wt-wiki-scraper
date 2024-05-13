@@ -109,6 +109,7 @@ The available ammunition offers a wide range of shells to engage all types of ta
 '''Note''':
 
 * Shells are modeled individually and disappear after having been shot or loaded.
+* Right flank empty: 33&nbsp;''(+5) shells.''
 {{Clear}}
 
 == Usage in battles ==

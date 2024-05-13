@@ -10,9 +10,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''HMS Leopard (F14)''' is a member of the Leopard-class frigate family. She was built primarily to provide anti-aircraft protection for convoys. As such, they were outfitted with heavy anti-aircraft armament but did not need to be fast. Upon commission, the HMS Leopard, first commanded by Commander R.G. Gaunt, was to serve as part of the 7th Frigate Squadron in the South Atlantic and South America. Following a volcanic eruption, Leopard sailed for the island of Tristan da Cunha in 1961. Her crew helped with the relief effort and the recovery of personal belongings left behind by the island's residents. During exercises off Cape Point in 1963, the HMS Leopard collided with the South African minesweeper Pietermaritzburg, causing serious damage. She also took part in the Cod Wars with Iceland in 1973, patrolling for one week. In 1977, she was scrapped at Dartford.
-
-Introduced in [[Update "Red Skies"]], the HMS Leopard has excellent anti-aircraft armament for its size, which is consistent with its historical intended role. However, when compared to its cousin, the [[HMS Blackpool]], it has a lower top speed. This is also reflected in history, as its primary mission is to escort convoys against aircraft rather than duel with other enemy vessels. Players are advised to use the HMS Leopard in coastal areas, engaging enemy fast coastal vessels that are capturing the objectives with its fast-firing armaments. As the HMS Leopard does not perform well against larger enemy vessels, it is critical to use cover at all times.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} British frigate {{Battle-rating}}. It was introduced in [[Update "Red Skies"]].
 
 == General info ==
 === Survivability and armour ===

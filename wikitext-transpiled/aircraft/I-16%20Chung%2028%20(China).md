@@ -162,13 +162,13 @@ Just like the [[SB 2M (Family)|SB 2M]], the I-16 can still fly when it's extreme
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 The Chung 28 (忠28) is an unlicensed I-16 built from the spare parts of I-16s provided to ROCAF. There are few documents mentioning its existence; but most of the remaining documents still give some insight of this aircraft.
 
-After the outbreak of the Sino-Japanese War, the Nanchang Central Aircraft Factory (now AVIC Hongdu) moved to caves in Nanchuan, Chongqing. Earlier in the war, the Soviets had provided parts of I-16s to ROCAF for further assembly. In the caves, an I-16 was put together using the remaining spare parts from the Soviets and mounted with an American piston engine and Soviet PV-1 machine guns, while some rumour that a pair of M2 machine guns could also be mounted. Originally built as a fighter, the I-16 had already proved useless against the IJAAF and IJNAF roaming across the Chinese skies, and thus only 3 of the fighter version were built and the remaining airframes were converted into trainers.
+After the outbreak of the Sino-Japanese War, the Nanchang Central Aircraft Factory (now AVIC Hongdu) moved to caves in Nanchuan, Chongqing. Earlier in the war, the Soviets had provided parts of I-16s to ROCAF for further assembly. In the caves, an I-16 was put together using the remaining spare parts from the Soviets and mounted with an American piston engine and Soviet PV-1 machine guns, while some rumour that a pair of M2 machine guns could also be mounted. Originally built as a fighter, the I-16 had already proved useless against the IJAAS and IJNAS roaming across the Chinese skies, and thus only 3 of the fighter version were built and the remaining airframes were converted into trainers.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
+* [https://live.warthunder.com/feed/camouflages/?vehicle=i-16_chung_28 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 * Skins and camouflages for the [[I-16 type 28#Media|I-16 type 28]] can be used for the {{PAGENAME}}.
 
 == See also ==

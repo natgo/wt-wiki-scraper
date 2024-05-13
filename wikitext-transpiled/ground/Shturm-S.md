@@ -28,6 +28,7 @@ The {{Specs|name}} was introduced in [[Update 1.89 "Imperial Navy"]]. This parti
 '''Notes:'''
 
 * Suspension wheels are 10 mm thick while tracks are 15 mm thick.
+
 [[File:Shturm-S obliterated by IT-1 missing shot from 20 m.jpg|thumb|right|The side armour of the carrier might as well not exist. It should always fight while using cover or distraction of some sort.]]
 Pretty much every enemy tank in the game will be able to destroy the Shturm-S including rank I anti-air.
 
@@ -71,14 +72,14 @@ The carrier can swim like most of the other Soviet light tanks.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[9M114 Shturm]] ATGM || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[9M114 Shturm]] ATGM || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 12 || rowspan="2" | -5°/+15° || rowspan="2" | ±85° || rowspan="2" | N/A || 22.0 || 30.5 || 37.0 || 40.9 || 43.5 || rowspan="2" | 8.30 || rowspan="2" | 8.30 || rowspan="2" | 8.30 || rowspan="2" | 8.30
+| rowspan="2" | 12 || rowspan="2" | -5°/+15° || rowspan="2" | ±85° || rowspan="2" | N/A || 22.0 || 30.5 || 37.0 || 40.9 || 43.5 || rowspan="2" | 8.30 
 |-
 ! ''Realistic''
 | 14.9 || 17.5 || 21.3 || 23.5 || 25.0
@@ -159,6 +160,7 @@ Since Shturm-S is essentially countered by AB mechanics and every tank only need
 [[File:Shturm-S obliterated by CM25.jpg|thumb|right|Punishment for not following the harsh rules of AB is an instant countersnipe.]]
 
 To understand, whether to even spawn Shturm-S or not, follow these questions:
+
 #Can you even make it to the sniper point before being shot by a hypothetical [[Leopard (Family)|Leopard]]?
 #Can you fire through or over obstacles at your sniping spot, and how many of them is there?
 #Is it physically impossible to snipe you from any other side, but front (so that you can see it coming in third person view and dodge)?
@@ -267,6 +269,7 @@ The MT-LB, also known as "Mnogotselevoy Tyagach Legky Bronirovanny" in Russian (
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_9p149 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -274,6 +277,7 @@ The MT-LB, also known as "Mnogotselevoy Tyagach Legky Bronirovanny" in Russian (
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

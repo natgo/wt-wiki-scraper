@@ -1,8 +1,3 @@
-{{About
-| about = Japanese light tank '''{{PAGENAME}}'''
-| usage = equipment of the same adoption year
-| link = Type 89 (Disambiguation)
-}}
 {{Specs-Card
 |code=jp_type_89b_i_go_otsu
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
@@ -103,7 +98,7 @@ Much like the armour, the {{PAGENAME}} leaves something to be desired in the mob
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|Type 91 (6.5 mm)}}
 
-The Type 91 machine gun is mounted in the hull with limited traverse. With a limited magazine capacity, slow traverse speed, and small calibre, this machine gun usually doesn't serve much use in combat except as a tool against open-topped SPAA or tank destroyers, or to ping enemies on the map for teammates to see.  As is common with many Japanese tanks, the turret is not fitted with a forward facing coaxial machine gun, so this machine gun is the I-Go Ko's only other weapon option if the main gun is incapacitated.
+The Type 91 machine gun is mounted in the hull with limited traverse. With a limited magazine capacity, slow traverse speed, and small calibre, this machine gun usually doesn't serve much use in combat except as a tool against open-topped SPAA or tank destroyers, or to ping enemies on the map for teammates to see. As is common with many Japanese tanks, the turret is not fitted with a forward facing coaxial machine gun, so this machine gun is the I-Go Ko's only other weapon option if the main gun is incapacitated.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -119,11 +114,11 @@ The Type 91 machine gun is mounted in the hull with limited traverse. With a lim
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The Type 89b I-Go Ko, despite its rather tractor-esque look, is a mobile tank that could use its speed to get to an enemy's flanks and cause some serious damage. The 57 mm cannon is unfortunately rather pitiful even in Rank I, with a penetration value of between 20 to 30 mm with APHE at standard combat ranges. Therefore, it is usually best to catch enemies unaware and go for flanking shots against their weaker side armour by driving around, instead of directly toward them. The 57 mm low-velocity shell does have an advantage of a rather prominent parabolic trajectory so it is possible to lob shells over hills to hit unsuspecting enemies behind it.
 
-The gun's poor penetration will change when using the High Explosive Anti-Tank (HEAT) shell. This shell has 55 mm of penetration at any range but still has considerable drop-off due to the low velocity of the gun. It's a good enough anti-everything shell that can penetrate most targets you will meet, especially those pesky French tanks, which tend to be quite well armoured. The Type 3 HEAT shell, fortunately, has just enough penetration to get through them, although it is generally recommended to try to aim for weak spots and be prepared for the shell to non-pen. This shell will also most likely destroy any truck or open-topped vehicle with a good hit.
+The gun's poor penetration will change when using the High Explosive Anti-Tank (HEAT) shell. This shell has 55 mm of penetration at any range but still has considerable drop-off due to the low velocity of the gun. It's a good enough anti-everything shell that can penetrate most targets you will meet, especially those pesky French tanks, which tend to be quite well armoured. The Type 3 HEAT shell, fortunately, has just enough penetration to get through them, although it is generally recommended to try to aim for weak spots and be prepared for the shell to not penetrate. This shell will also most likely destroy any truck or open-topped vehicle with a good hit.
 
 '''Specific enemies worth noting:'''
 
-Pretty much everything is a threat to this vehicle due to its mediocre mobility and poor armour. Fast vehicles like the [[M2A4]], [[BT-5]], [[A13 Mk I]], and [[AMD.35]] in particular are a difficult encounter; the I-Go Ko is reasonably fast at close quarters, but not that fast. The tank's sluggish turret traverse makes tracking a close target difficult and at long range the slow shells are difficult to aim precisely at a moving target. The [[20-K (45 mm)|45mm 20-K]] gun that the commonly encountered BT series have can easily destroy you at any range with a well-aimed shot.
+Pretty much everything is a threat to this vehicle due to its mediocre mobility and poor armour. Fast vehicles like the [[M2A4]], [[BT-5]], [[A13 Mk I]], and [[AMD.35]] in particular are a difficult encounter; the I-Go Ko is reasonably fast at close quarters, but not that fast. The tank's sluggish turret traverse makes tracking a close target difficult and at long range the slow shells are difficult to aim precisely at a moving target. The [[20-K (45 mm)|45 mm 20-K]] gun that the commonly encountered BT series have can easily destroy you at any range with a well-aimed shot.
 
 Vehicles with autocanons and heavy machine guns like the [[M2A2]], [[GAZ-AAA (DShK)]], [[Pz.II C]], and [[T-60]], are the I-Go Ko's worst nightmare. Their high volume of fire and good mobility coupled with the I-Go Ko's lack of a coaxial or pintle-mounted MG puts the I-Go Ko at a large disadvantage. SPAAs generally should be considered by the I-Go Ko to be just as deadly, if not more so, than conventional tanks.
 
@@ -203,14 +198,17 @@ ArtImage I-Go Ko.png|Type 89 I-Go assaulting on White Rock Fortress.
 </gallery>
 
 ;Videos
-{{Youtube-gallery|p9_XD0TgdiA|'''TOP 5 Reserve Tanks'''  discusses the {{PAGENAME}} at 2:23  - ''War Thunder Official Channel''|c8WHPgdkdOc|'''Type 89 medium tank - Imperial Japanese Army Armored Forces Exercise - September 1941''' - ''
+{{Youtube-gallery|p9_XD0TgdiA|'''TOP 5 Reserve Tanks''' discusses the {{PAGENAME}} at 2:23 - ''War Thunder Official Channel''|c8WHPgdkdOc|'''Type 89 medium tank - Imperial Japanese Army Armored Forces Exercise - September 1941''' - ''
 kinsei1560''|LBM3eMJJRjg|'''Type 89 tank Imperial Japanese Army''' - ''MrHofner5001''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Equipment of the same adoption year
+* [[Type 89 (Disambiguation)]]
+
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

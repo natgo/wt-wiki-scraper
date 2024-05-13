@@ -156,8 +156,10 @@ The Tzefa B could be equipped with rockets, a cannon/MG turret, infrared sights 
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Related Development
+;Related development
+
 * [[AH-1 (Family)]]
+** [[Tzefa A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

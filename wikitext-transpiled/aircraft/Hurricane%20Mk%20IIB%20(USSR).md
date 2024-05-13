@@ -231,7 +231,7 @@ To sum up this analysis of the Hurricane, it was a fighter whose combat, and fly
 * ''other literature.'' -->
 
 * [[wt:en/news/3361--en|[Vehicle Profile] Soviet Hurricane Mk. IIB]]
-* [[wt:en/devblog/current/798|[Devblog] Hurricane Mk. IV and Mk. IIB]]
+* [[wt:en/devblog/current/4008|[Devblog] Hurricane Mk. IV and Mk. IIB]]
 
 === References ===
 <references />

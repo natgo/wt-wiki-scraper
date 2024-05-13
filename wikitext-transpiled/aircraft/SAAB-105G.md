@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish strike aircraft {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+The '''{{Specs|name}}''' was a Swedish twin engine jet trainer that could also serve in a role of light attack and reconnaissance aircraft. The aircraft itself entered service in 1967 to replace the ageing fleet of de Havilland Vampires used until then. The SAAB-105G was a modification of the SAAB-105XT export demonstrator of the SK 60B powered by General Electric J85 turbojets instead of the Turbomeca Aubisque, and featuring new avionics, precision navigation/attack system, and modified wing. One example was built.
+
+Introduced in [[Update "Hot Tracks"]], the SAAB-105G is similar to the [[SAAB-105OE]]. The main difference between the two is in the suspended armament, where the SAAB-105G is able to carry various free-fall bombs and unguided rockets, while the SAAB-105OE is able to carry Rb05A MCLOS missiles and unable to carry bombs. In terms of flying characteristics, the plane is quite manoeuvrable, although not very fast with poor acceleration due to its turbofan engines.
 
 == General info ==
 === Flight performance ===
@@ -213,7 +215,6 @@ As a CAS aircraft in Ground RB you need to be aware of the airspace conditions b
 * RB24 missiles are very unreliable on targets with any turning ability
 * Heavier bomb/AAM loads put massive strain on the wings, flying at high speed or making any sharp turns can rip the wings off very suddenly
 * Stiff elevator handling at high speed, hard to pull off from a high-speed dive
-* Tracer munitions are not available on the Akan m/55 cannons
 * Thrust reversal not available unlike on the SK60
 
 == History ==

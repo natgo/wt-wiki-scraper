@@ -144,7 +144,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
-| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-16C.png]]</div>
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-16C.png]]</div>
 |-
 ! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
 | || || 4 || 4 || || || 4 || 4 || ||
@@ -191,6 +191,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! 300 gal drop tanks
 | || || || || || 1 || || || ||
 |-
+! 370 gal drop tanks
+| || || || 1 || || || 1 || || ||
+|-
 | colspan="11" | Maximum permissible weight imbalance: 2,000 kg
 |-
 | colspan="12" | * LITENING II pod must be equipped when carrying Paveway guided bombs
@@ -199,7 +202,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 300 gal drop tank
+* 2 x 370 gal drop tanks + 1 x 300 gal drop tank
 * 2 x AIM-9L Sidewinder missiles
 * 6 x AIM-9P Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles

@@ -81,7 +81,7 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Pan
 {{:KwK37 (75 mm)/Ammunition|K.Gr.rot Pz., Hl.Gr 38B, Sprgr. 34, K.Gr.Rot Nb.}}
 
 ==== [[Ammo racks]] ====
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.35.0.20''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -96,14 +96,15 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Pan
 ! 9th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''80''' || 72&nbsp;''(+8)'' || 66&nbsp;''(+14)'' || 57&nbsp;''(+23)'' || 51&nbsp;''(+29)'' || 43&nbsp;''(+37)'' || 35&nbsp;''(+45)'' || 27&nbsp;''(+53)'' || 4&nbsp;''(+76)'' || 1&nbsp;''(+79)'' || No
+| '''80''' || 71&nbsp;''(+9)'' || 65&nbsp;''(+15)'' || 56&nbsp;''(+24)'' || 50&nbsp;''(+30)'' || 42&nbsp;''(+38)'' || 34&nbsp;''(+46)'' || 26&nbsp;''(+54)'' || 3&nbsp;''(+77)'' || 0&nbsp;''(+0)'' || No
 |-
 |}
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes''':
 
-* Racks disappear after you've fired all shells in the rack.
-* To go into battle with flank racks depleted, pack 27&nbsp;''(+53)'' shells (racks 1 to 7 emptied).
+* Racks only disappear after all shells in the rack have been fired.
+* Turret empty: 50 ''(+30)'' shells.
+* Flank empty: 26&nbsp;''(+54)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

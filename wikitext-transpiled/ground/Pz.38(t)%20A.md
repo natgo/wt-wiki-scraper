@@ -94,7 +94,7 @@ The ammunition available to the {{PAGENAME}} allows for engaging all types of ta
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 1.101.0.44''' -->
+<!-- '''Last updated: 2.35.0.19''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -103,14 +103,15 @@ The ammunition available to the {{PAGENAME}} allows for engaging all types of ta
 ! 3rd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''90''' || 61&nbsp;''(+29)'' || 31&nbsp;''(+59)'' || 1&nbsp;''(+89)'' || Yes
+| '''90''' || 75&nbsp;''(+15)'' || 59&nbsp;''(+31)'' || 1&nbsp;''(+89)'' || Yes
 |-
 |}
 '''Notes''':
 
-* The visual discrepancy concerns the number of shells per rack as well as the total number of sells (72 shells modeled for 90 available).
-* Rack 1 & 2 are modeled as 16 shells each and rack 3 as 40 shells. However, each rack will disappear after you've fired 30 shells from it.
-* Turret empty: 31&nbsp;''(+59)'' shells.
+* Visual discrepancy concerns rack n°3: it is modeled to contain 40 shells but you have to fire 58 shells in order to empty it.
+* The visual discrepancy also concerns the total number of shells (72 shells modeled for 90 available).
+* Rack n°1 & rack n°2 disappear after you've fired all shells in the rack.
+* Turret empty: 59&nbsp;''(+31)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -217,6 +218,7 @@ The tank's main disadvantages were the riveted joints between its armour plates 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_38t_ausf_A Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

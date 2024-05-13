@@ -16,15 +16,13 @@ An inherent weakness of italian light tanks, the lack of reliable armour, is one
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-The tank's armour is best described as "glass cannon", as it can be damaged even by 7.62 mm machine guns at close range, particularly in the engine area. It will, however, still protect the crew and easily sustain LMG fire from the front, as long as enemy isn't firing at the weakspots specifically. Any tanks with 12.7+ mm HMG should be avoided like plague or attacked from blind angles only.
-
-To compensate, the tank has 3 smoke shell groups on the hull itself, which can be used at any time to disrupt enemy aim and give the car a chance to escape or even attack (ab only). To block sniper aim, cannon smoke shells could be used while approaching the nest.
+The tank's armour is best described as "glass cannon", as it can be damaged even by 7.62 mm machine guns at close range, particularly in the engine area. It will, however, still protect the crew and easily sustain LMG fire from the front, as long as enemy isn't firing at the weakspots specifically. Any tanks with 12.7+ mm HMG should be avoided like plague or attacked from blind angles only. To compensate, the tank has 3 smoke shell groups on the hull itself, which can be used at any time to disrupt enemy aim and give the car a chance to escape or even attack (AB only). To block sniper aim, cannon smoke shells could be used while approaching the nest.
 
 Due to poor armour, survival against aircraft or artillery is not guaranteed even on a glancing hit, but for tankers that forget to take their chemical shells destroying AUBL/74 isn't as trivial as many people believe, as quite often only 1 crew member suffers from any kinetic shot, and the extremely thin armour won't detonate APHE. It can be extra annoying for the enemy when the tank has crew replenishment modification in AB, allowing it to just randomly survive and shoot its enemy back.
 
 Lastly, AUBL/74 should avoid detonating enemy tanks literally infront of itself, as otherwise the blowback will destroy it. Standing next to allies is also sometimes fatal for the same reason.
 
-For AUBL drivers it is better to approach enemy at a slight angle to avoid centre of mass shots, as those generally instantly put it down even in AB. As an enemy, if you don't have a 12.7 HMG you do not toy with the AUBL and fire main weapon to kill it, as otherwise you will regret it.
+For AUBL drivers it is better to approach enemy at a slight angle to avoid centre of mass shots, as those generally instantly put it down even in AB. As an enemy, if you don't have a 12.7 HMG you do not toy with the AUBL and fire the main weapon to destroy it, as otherwise you will regret it.
 
 '''Armour Type:'''
 
@@ -58,9 +56,7 @@ This is one of the fastest tanks in the rank, being mildly slower than the FIAT 
 
 In AB, it can slowly accelerate to 80 km/h practically anywhere if driven properly and can go up to 110 km/h on a road. Driving past 60 km/h will significantly stiffen its controls, so sometimes slowing down is faster than starting again from 0.
 
-It hates driving onto sharp hills and trenches, failing to climb them from a standstill, but it can rush them with a head start.
-
-Since this is a car with no tracks, it has no neutral steering. The turn circle is not too wide, but it needs to be accounted for when brawling.
+It hates driving onto sharp hills and trenches, failing to climb them from a standstill, but it can rush them with a head start. Since this is a car with no tracks, it has no neutral steering. The turn circle is not too wide, but it needs to be accounted for when brawling.
 
 Due to the tank being very light, sometimes the concern isn't even the road itself, but allies trying to hog the road for themselves. A light tap from any heavy tank can send this car flying into a building, so some care should be taken on a round start.
 
@@ -162,7 +158,7 @@ Using AUBL/74 as a lightning fast brawler is possible in a 1v1 scenario, but dif
 ;Flanking
 The AUBL's high speed allows it to secure a reliable over-watch position early in the match and makes it possible to scout enemies and take potshots if the opportunity arises. The flanking approach will be mainly directed towards spotting and opportunistic medium-ranged ambushes, whilst long range sniping is the last choice and the one requiring most of the skill and luck, because the rather small calibre HEAT rounds and the gun ballistics might not perform as desired at long distances and could just reveal your location to enemies for superficial damage dealt.
 
-Therefore, playing this vehicle like an [[M18 GMC|M18]] Hellcat or any other fast vehicles with shells as the APCBC is ill-advised, because often it won't be able to kill flanked enemies in one reliable shot, leaving the car open to retaliation fire. It still can be a great light tank hunter with the addition of overpressure damage, particularly with HESH, as it can not only obliterate unarmoured SPG, but even other light tanks on a decent hit.
+Therefore, playing this vehicle like an [[M18 GMC|M18 Hellcat]] or any other fast vehicles with shells as the APCBC is ill-advised, because often it won't be able to destroy flanked enemies in one reliable shot, leaving the car open to retaliation fire. It still can be a great light tank hunter with the addition of overpressure damage, particularly with HESH, as it can not only obliterate unarmoured SPG, but even other light tanks on a decent hit.
  
 Try to use strong features of the car to your advantage. The amphibious ability increases drastically the possibilities of ambushes and locations that can be exploited by this light tank, on maps like [[Kuban (Ground Forces)|Kuban]], [[Eastern Europe (Ground Forces)|Eastern Europe]] or [[Tunisia]]. Another thing to note is the inferior performance on rough terrains and superior performance on roads. this should be taken into account when deciding to spawn in a snowy map like [[Frozen Pass (Ground Forces)|Frozen pass]] for example as one of the best advantages of the AUBL, the speed, will be hampered, switching the vehicle into a more sluggish support light tank than an energetic flanker. Paved roads and urban maps like [[Maginot Line (Ground Forces)|Maginot line]], on the other hand, bring a lot of possibilities to this light tank but could lead to unwanted frontal engagements. Players should contemplate all this when operating the AUBL.
 

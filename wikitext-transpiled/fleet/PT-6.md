@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=us_pt6
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

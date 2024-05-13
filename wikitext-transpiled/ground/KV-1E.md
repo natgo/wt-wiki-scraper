@@ -118,6 +118,8 @@ The small calibre of the DT machine gun makes it largely ineffective against all
 
 In game, this tank is possesses great armour and an adequate gun. However, it may not be able to destroy the enemy from the front at times. As such, the tank may require being at a very close distance or a flank shot to disable certain targets. The defining characteristic of this tank is its armour. It can be a tough tank to destroy, given that most of the weak spots from the predecessor have been armoured and, from the front, the only weak spot is the centre of the upper hull. When using this tank, do not be afraid to advance towards the enemy, especially against tanks such as the 75 mm M4s and T-34s since they will find it very difficult to penetrate your thick armour. This tank can also be used for long-range support, since when the armour is properly angled, almost no tank that it faces can pierce its armour.
 
+The KV-1E's frontal turret protection is not as reliable as its other uparmoured locations. As such, it may be a good idea to angle the turret along with the hull when not firing at the enemy.
+
 === Combat tactics ===
 
 ;Urban environment

@@ -195,9 +195,8 @@ When playing the Black Prince, it is often best to find a well-protected and con
 '''Cons:'''
 
 * The vehicle's side armour is weak and ammunition is stored in the sides of the tank
-* The turret machine gun port is only 10 mm thick, and can be penetrated easily
 * It struggles to climb hills without losing significant speed
-* Max speed of 17 km/h (10 mph) and max reverse speed of -2 km/h (-1 mph)
+* Max speed of 18 km/h (12 mph) and max reverse speed of -7.3 km/h (-4.5 mph)
 * The vehicle cannot climb steep hills
 * The turret traverse is slow compared to others at only 10.5/s
 * Lacks any form of top-mounted anti-aircraft weaponry

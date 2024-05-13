@@ -1,3 +1,8 @@
+{{About
+| about = German medium tank '''{{PAGENAME}}'''
+| usage = other versions
+| link = Leopard 2 (Family)
+}}
 {{Specs-Card
 |code=germ_leopard_2a7v
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -138,7 +143,12 @@ The Leopard 2A7V, as it became known, featured improved protection thanks to a m
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_2a7v Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|JynFzP5cOdk|'''The Shooting Range #391''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

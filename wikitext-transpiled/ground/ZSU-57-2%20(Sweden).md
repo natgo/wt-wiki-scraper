@@ -119,6 +119,10 @@ Even though the ZSU-57-2 was designed as an SPAA, it is not very good at destroy
 
 Using the 57 mm cannons in an anti-tank role is possible and have been exploited by many players. Using BR-281 ammo, the guns can effectively pierce the sides and rear of any tank (excluding the Maus). Remember the ZSU-57-2's armour does not compare to other tanks armour so one shot could be the end of the SPAA. Play cat-and-mouse and wait for the enemy to go into an engagement with another target and then jump out into the open and fire upon them while they are distracted. It is recommended to the first aim for their rear to disable their engine and cause a fire, they will have to stop what they are doing and put it out. During this time they won't be able to move or fire upon the ZSU-57-2, allowing a chance to finish off the crewmen inside by unloading the 57 mm cannons into the side of the enemy tank. Any shot from the 57 mm cannons into an enemies' ammo load will also instantly kill them. Almost all British tanks have very weak side armour, and your BR-281 ammo will easily rip through even at an angle. Aim for the front portion of their tank, where their driver is. Their ammo rack is located right next to the driver, meaning that you can easily ammo rack them.
 
+'''Fighting the ZSU-57-2'''
+
+The ZSU-57-2 poses a real threat to most vehicles in its BR bracket, especially side-on, but even frontally. If you have the advantage of surprise, aim for the right side of the turret as this has a high chance of knocking out the gunner or detonating the ammunition. If you'd don't manage to disable the ZSU in your first shot, or are being actively engaged by a ZSU, loading an HE/HEAT projectile should allow you to overpressure it. It's advisable to cautiously engage the ZSU, unless you are confident that the 57mm guns cannot penetrate you frontally at all. If you are playing a vehicle that does not allow you to confidently engage the ZSU, mark it's position on the map for your teammates and, if possible, call artillery fire on the ZSU's location.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -129,12 +133,14 @@ Using the 57 mm cannons in an anti-tank role is possible and have been exploited
 * 57 mm guns will destroy or cripple aircraft with one hit, and can easily take out tanks from the sides too
 * Very high penetration for an SPAA at 151 mm
 * Very effective against lightly armoured vehicles like the [[Leopard 1]] or [[AMX-30]]
+* Guns will sometimes even manage to penetrate even the frontal plates of contemporary medium and heavy tanks
 
 '''Cons:'''
 
 * Large vehicle size
 * Very vulnerable turret (ammo on all sides of turret + very thin armour)
 * Crew is very crowded in the turret (1 shot has the potential to knock out 5 crew members with ease)
+* Low turret walls allow for taller vehicle (especially ones with roof-mounted machine guns) to gun down the crew inside.
 * Shells have bad accuracy after consecutive shots
 * Sub-par anti-air capability due to low rate of fire and poor accuracy
 

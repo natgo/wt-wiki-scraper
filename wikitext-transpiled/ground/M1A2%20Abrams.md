@@ -1,10 +1,7 @@
 {{About
 | about = American main battle tank '''{{PAGENAME}}'''
-| other
-| usage-1 = other versions
-| link-1 = M1 Abrams (Family)
-| usage-2 = other uses
-| link-2 = M1 (Disambiguation)
+| usage = other versions
+| link = M1 Abrams (Family)
 }}
 {{Specs-Card
 |code=us_m1a2_abrams

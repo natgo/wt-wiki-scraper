@@ -224,9 +224,15 @@ The M3 Lee served fine as a stop gap solution for the American tank development.
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_m3c Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[M3 Medium (Family)]]
+
+;Other American ground vehicles under Lend-Lease
+* [[M4A2 (USSR)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

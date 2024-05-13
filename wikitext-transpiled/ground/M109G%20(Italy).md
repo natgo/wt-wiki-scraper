@@ -18,7 +18,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian tank destroyer {{Battl
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick aluminium alloy 5083, which effectively comes down to 13-20 mm RHA. This leaves the vehicle vulnerable to even light machine gun fire from any angle. The weakness of the armour turns into a strong-suit against AP shells that will pass straight through, unable to fuse or create enough spall to inflict major damage. Direct hits from HE and other chemical shells will most likely leave the M109 a burning wreck. The 6 crew members are pretty spaced apart in the turret, giving a plus to crew survivability.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+'''Armour type:'''
+
+* Aluminium alloy 5083 (Hull, turret)
+* Rolled homogeneous armor (Radiator covers)<!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -26,15 +29,19 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 32 mm (27-74°) ''Upper Glacis''<br>32 mm (0-49°) ''Lower Glacis'' 
+| 32 mm ''Top'' <br> 32 mm ''Bottom'' || 32 mm || 32 mm ''Hull Roof''<br>10 mm ''Radiator Covers''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 32 mm (28-73°) ''Turret front'' <br> 32 mm (4-56°) ''Gun mantlet'' || 32 mm (23-50°) || 32 mm || 32 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || colspan="3" style="text-align:center" | 32 mm || 32 mm
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
+'''Notes:'''
+
+* Suspension wheels - 20 mm (Structural steel of chassis)
+* Tracks - 15 mm<!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
 
 === Mobility ===
@@ -75,23 +82,36 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 ==== Ammunition ====
 {{:M126E1 (155 mm)/Ammunition|M107, M107 (PF), M110}}
 
+[[File:M109G Ammorack.png|thumb|[[Ammo racks]] of the {{PAGENAME}}]]
+
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
 <!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
+!Ammo part
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''28''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''28''' 
+|Projectiles<br>Propellants
+| 24&nbsp;''(+4)''<br>23&nbsp;''(+5)'' 
+| 19&nbsp;''(+9)''<br>17&nbsp;''(+11)'' 
+| 17&nbsp;''(+11)''<br>1&nbsp;''(+27)'' 
+| 1&nbsp;''(+27)''<br>N/A 
+| No
 |-
 |}
+'''Notes''':
+
+* {{PAGENAME}} uses two-piece ammunition, composed of propellant bags (orange) and projectiles (yellow). Both have separate racks.
+* Projectiles and propellant bags are modeled individually and disappear after having been shot or loaded.
+* 4th rack (for the projectiles) and 3rd rack (for the propellants) are first stage ammo rack. It totals 16 shells and gets filled first when loading up the tank.
+* Loading 17 (''+11'') shells will keep the hull floor and part of both sides empty of ammo.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -139,7 +159,7 @@ The story of the M109 begins during the late stages of the Cold War, it would be
 
 Italy comes into play also, post-war they were lacking in a lot of sectors, so America would be generous enough to supply the Italian army with M44 self-propelled howitzers. However, they also soon desired a heavy SPH that would be mobile enough and be able to be operated in multiple types of environments. Eventually after a lot of discussions, the first batches of M109 is would be acquired by the Italian army in 1962. Initially, part of the deal with Italy included 221 M109s equipped with 155 mm cannons. Other part of the deal saw Italy purchase up to 62 versions of the M109A1B. Some of the original M109s were later upgraded by OTO Melara to the M109L standard which had been modified to utilize the 155 mm cannon made by OTO Melara. Italy improved the combat effectiveness of their M109s by adding a "rammer" which heavily reduced operator fatigue while also increasing the rate of fire of the vehicle.
 
-In terms of survivability, the M109 is not the most armoured vehicle there is, but it is said that it could withstand the majority of small arms fire and shell splinters that may happen to hit the vehicle when an enemy performs a counter artillery attack. However, that said, even the weakest HE or HEAT rounds would make short work of the M109, the platform houses its munitions at the back of the turret, so it is safe to say that it would not be able to hold its own against most ground vehicle threats if shot there. In terms of mobility, depending on the version, most M109s can reach speeds of up to 35 km/h, with an overall range of 216 miles. It is powered by a Detroit Diesel 8V71T engine which produces 450hp.
+In terms of survivability, the M109 is not the most armoured vehicle there is, but it is said that it could withstand the majority of small arms fire and shell splinters that may happen to hit the vehicle when an enemy performs a counter artillery attack. However, that said, even the weakest HE or HEAT rounds would make short work of the M109, the platform houses its munitions at the back of the turret, so it is safe to say that it would not be able to hold its own against most ground vehicle threats if shot there. In terms of mobility, depending on the version, most M109s can reach speeds of up to 35 km/h, with an overall range of 216 miles. It is powered by a Detroit Diesel 8V71T engine which produces 450 hp.
 
 The M109 has been combat proven in many theatres of war all around the world. The Italian army would mostly use the M109 for various missions and peacekeeping operations, for example during the Kosovo War, where it provided much needed artillery fire for the troops on the ground. Most sources however state that the majority if not all M109s that the Italian army had used, have been phased out during the early 2000s for the more modern and stronger PzH 2000 artillery piece.
 
@@ -147,7 +167,10 @@ Besides the upgrades done by the Italian army, Leonardo created an upgrade for t
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=it_m109g Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

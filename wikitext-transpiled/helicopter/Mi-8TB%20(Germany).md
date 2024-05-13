@@ -16,7 +16,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German attack helicopter {{Bat
 === Flight performance ===
 {{Specs-Heli-Flight}}
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+The Mi-8TB shares its speed with the Soviet [[Mi-8TV]] having a decent top speed of 260 km/h. This lets the Mi-8TB fly faster than most other helicopters seen at its BR. So getting into the battlefield (and away from it) fast shouldn't be a problem!
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -37,7 +37,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German attack helicopter {{Bat
 === Survivability and armour ===
 {{Specs-Heli-Armour}}
 <!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
-''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.''
+The Mi-8TB has almost no armour to speak of, except some 8 mm steel and a small 50 mm bulletproof glass protecting the crew, making it very vulnerable to even small-calibre machine guns.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -80,23 +80,20 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''This helicopter can carry a variety of weapons such as its main gun, rockets, AGMs and bombs to deal with every kind of ground vehicles you can possibly face; Choose the loadout according to the situation of the battle, if there are no enemy SPAA on the battlefield you can feel free to take rockets or bombs and get close to enemy tanks to unleash your bombs or rockets on them but if there are enemy SPAA or aircrafts present on the battlefield take caution and try to use AGMs to launch them at the enemy SPAA from a distance so it is harder for them to spot you but be aware that most of the SPAA vehicles at this battle rating have access to radars and can know of your presence so always try to keep your profile low and use objects on the map to hide yourself behind them like trees and mountains, it is also a good practice to fly down after launching each AGM because being afloat on the sky and not moving at all will make you easy to hit for enemy tanks, try to have a pick-a-boo style of play always fly down only come up to launch a missile and immediately go down behind a mountain or tree to avoid getting hit after the missile has reached the target and come back up only after making sure that it is safe.''
+This helicopter can carry a variety of weapons such as its main gun, rockets, AGMs and bombs to deal with every kind of ground vehicles you can possibly face; Choose the loadout according to the situation of the battle, if there are no enemy SPAA on the battlefield you can feel free to take rockets or bombs and get close to enemy tanks to unleash your bombs or rockets on them but if there are enemy SPAA or aircraft present on the battlefield take caution and try to use AGMs to launch them at the enemy SPAA from a distance so it is harder for them to spot you but be aware that most of the SPAA vehicles at this battle rating have access to radars and can know of your presence so always try to keep your profile low and use objects on the map to hide yourself behind them like trees and mountains, it is also a good practice to fly down after launching each AGM because being afloat on the sky and not moving at all will make you easy to hit for enemy tanks, try to have a pick-a-boo style of play always fly down only come up to launch a missile and immediately go down behind a mountain or tree to avoid getting hit after the missile has reached the target and come back up only after making sure that it is safe.
 
 Try to avoid enemy aircraft as it requires a lot of luck or skill to hit the enemy aircraft manually with only your main gun because you do not have any kind of anti-aircraft missiles to protect yourself but thanks to your powerful main gun you can easily hunt enemy helicopters since they fly slow and it is easy to get a lead on them.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
-'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
 * Can carry a relatively large amount of different kinds of weapons at its rank
-* The main gun has a large amount of ammo and is powerful enough to easily knock out most of the light vehicles at this battle rating
+* The main gun has a large amount of ammo and is powerful enough to easily knock out most light vehicles at this battle rating
 
 '''Cons:'''
 
 * Does not have any weapons to deal with aircraft except its main gun which must be manually aimed and cannot lock on and follow enemy aircraft's lead
-* Does not have [[Ballistic Computer]] so the gun and rocket reticles are not 100% accurate
+* Does not have a [[Ballistic Computer]] so the gun and rocket reticles are not 100% accurate
 * A relatively large profile makes it easy to hit this helicopter even for non-SPAA vehicles
 
 == History ==
@@ -111,6 +108,7 @@ The German Mi-8TB is an export version capable of carrying up to 6 "Malyutka" AT
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mi_8tb Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -122,6 +120,7 @@ The German Mi-8TB is an export version capable of carrying up to 6 "Malyutka" AT
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Mi-8 (Family)]]
 
 == External links ==

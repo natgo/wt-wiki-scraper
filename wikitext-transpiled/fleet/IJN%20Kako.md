@@ -106,6 +106,7 @@ The Kako's playstyle mostly depends on the opponent she faces. In a match with t
 '''Cons:'''
 
 * Fixed torpedo launchers
+* Easily blows up if the ammo rack gets hit (poorly protected)
 * Weak anti-air capability
 * Poorly protected turrets can be easily knocked out
 * Slow turret traverse
@@ -135,10 +136,13 @@ Fighting at close ranges with searchlights, flares, and star shells, Japanese na
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-''Paste links to sources and external resources, such as:''
+<!-- ''Paste links to sources and external resources, such as:''
 
 * ''topic on the official game forum;''
-* ''other literature.''
+* ''other literature.'' -->
+* [[wikipedia:Japanese_cruiser_Kako|Japanese cruiser Kako - Wikipedia]]
+* [https://ww2db.com/photo.php?source=all&color=all&list=search&foreigntype=S&foreigntype_id=47 <nowiki>[World War II Database]</nowiki> Kako Photographs]
+* [https://www.coatneyhistory.com/Kako.htm <nowiki>[Lou Coatney's Military and Naval Historical Chess Games/Brettspiller, Writings, and Models]</nowiki> Kako class Heavy Cruisers]
 
 {{ShipManufacturer Kawasaki Shipyard Co.}}
 {{Japan heavy cruisers}}

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (NATO Code: Havoc) is a Russian attack helicopter designed with the intent of overcoming the limitations found in its predecessor, the Mi-24. It was developed in the 2000s and entered service with the Russian military in 2009. While the Hind can be considered a "flying IFV" combining armament and troop transport capability, the Havoc mostly abandons the latter in order to become a dedicated attack helicopter. It maintains the Mil Mi tradition of heavy weight, strong armor protection (by helicopter standards), and inelegant looks, but without the volume required to ferry troops, the airframe does not feel as bulky in flight.
+The '''{{Specs|name}}''' (NATO Code: Havoc) is a Russian attack helicopter designed with the intent of overcoming the limitations found in its predecessor, the Mi-24. It was developed in the 2000s and entered service with the Russian military in 2009. While the Hind can be considered a "flying IFV" combining armament and troop transport capability, the Havoc mostly abandons the latter in order to become a dedicated attack helicopter. It maintains the Mil Mi tradition of heavy weight, strong armour protection (by helicopter standards), and inelegant looks, but without the volume required to ferry troops, the airframe does not feel as bulky in flight.
 
 The {{Specs|name}} was introduced in [[Update 1.93 "Shark Attack"]]. Its suspended ordnance is almost the same as the preceding [[Mi-35M]], relying mostly on Ataka ATGMs and unguided rockets for tank busting and Igla MANPADS for air defence, but it is capable of carrying two times as many ATGMs. The cherry on the top is the massive chin turret carrying a 30 mm 2A42 autocannon, the same model used by the [[BMP-2]], with wide firing angles, APDS rounds, and an auto-tracker. Although sniping tanks with ATGMs is much safer in the face of enemy SAMs, pilots brave enough to bring the {{Specs|name}} into close combat can indeed wreak havoc on unsuspecting opponents.
 
@@ -46,14 +46,14 @@ The {{Specs|name}} was introduced in [[Update 1.93 "Shark Attack"]]. Its suspend
 * 22 mm Bulletproof glass - Side windows
 * 10 mm Aluminium alloy - Cockpit front, middle, rear and bottom
 * 10 mm Aluminium alloy - Cockpit sides and doors
-* 16 mm Ceramic  - Cockpit sides
+* 16 mm Ceramic - Cockpit sides
 * 8 mm Steel - Canopy framing
 
-The gunner and the pilot are protected frontally and laterally by bulletproof glass. The front, rear, lower side and bottom of the cockpit are protected by aluminium alloy plates and there is an additional protection plate between the pilot and the gunner. The lower sides of the cockpit are protected by aluminum alloy superposed to ceramic while the canopy cockpit is protected by steel and bulletproof glass. The fuel tanks are also located at the bottom of the craft behind the crew. Both crewmembers can control the machine.
+The gunner and the pilot are protected frontally and laterally by bulletproof glass. The front, rear, lower side and bottom of the cockpit are protected by aluminium alloy plates and there is an additional protection plate between the pilot and the gunner. The lower sides of the cockpit are protected by aluminium alloy superposed to ceramic while the canopy cockpit is protected by steel and bulletproof glass. The fuel tanks are also located at the bottom of the craft behind the crew. Both crewmembers can control the machine.
 
-The helicopter currently uses an SPO-15 Radar Warning Receiver. This RWR can pick up radar frequencies from the G-I Band. In practical terms this means it will be functionally blind to almost any Search Radar found on systems it can fight. When facing Sweden, you will be notified of the ASRAD search radar. It uses IRST tracking for its missiles, thus attention still needs to be paid. Aircraft Radars currently search and track on I band (with notable exception being the Mig-23 on J-Band). This way the Mi-28N will not be entirely oblivious to close air patrol fighters, that have their Radar turned on.
+The helicopter uses an SPO-15 Radar Warning Receiver. This RWR can pick up radar frequencies from the G-I band, which means that it will not detect many of the search radars equipped on SPAA that it faces. Additionally, even on the systems that it is able to detect, IRST tracking is commonly used which is also undetectable, thus attention still needs to be paid to watch for potential missile launches. Most aircraft radars search and track on I band, so the Mi-28N will not be entirely oblivious to close air patrol fighters that have their radar turned on.
 
-It is equipped with 128 Countermeasures. Flares launch to the sides from the wingtips. When flaring ground based IR SAMs, dodge by pointing the sides at the missile. Pre-flaring generally is an option if the situation calls for it, but using the environment and staying aware is key. The helicopter is quite a bit more manoeuvrable than the Mi-24 series.
+The Mi-28N can be equipped with 128 countermeasures. Flares launch to the sides from the wingtips. When flaring ground-based IR SAMs, dodge by pointing the sides at the missile. Pre-flaring generally is an option if the situation calls for it, but using the environment and staying aware is key. The helicopter is quite a bit more manoeuvrable than the Mi-24 series.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -76,22 +76,43 @@ It is equipped with 128 Countermeasures. Flares launch to the sides from the win
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm 2A42 cannon, chin turret (250 rpg)
-** 1 x 30 mm 2A42 cannon, chin turret (250 rpg) + 128 x countermeasures
+* 1 x 30 mm 2A42 cannon, chin turret (250 rpg)
+* 128 x countermeasures
 
-The 30 mm 2A42 is the strongest helicopter cannon in War Thunder, with a high rate of fire and punchy APDS rounds that can rip through roof armor and turn light vehicles into Swiss cheese. Although it can be seen on Kamov helicopters such as the [[Ka-29|Ka-29 Helix]] and [[Ka-50|Ka-50 Hokum]], their cannons are mounted on the fuselage sides with limited articulation, forcing the pilot to point the helicopter's nose close to the target. The Mi-28N's chin turret holds less ammunition but has much better articulation, so once a target is acquired by the auto tracker, the pilot hold down the trigger and otherwise continue flying normally.
+The 30 mm 2A42 is the strongest helicopter cannon in War Thunder, with a high rate of fire and punchy APDS rounds that can rip through roof armour and turn light vehicles into Swiss cheese. Although it can be seen on Kamov helicopters such as the [[Ka-29|Ka-29 Helix]] and [[Ka-50|Ka-50 Hokum]], their cannons are mounted on the fuselage sides with limited articulation, forcing the pilot to point the helicopter's nose close to the target. The Mi-28N's chin turret holds less ammunition but has much better articulation, so once a target is acquired by the auto tracker, the pilot hold down the trigger and otherwise continue flying normally.
 
 The Mi-28N noticeably lacks the HIRSS and IRCM systems of the previous Mi-35M, which reduces its protection against IR missiles somewhat, but at its battle rating there are typically much greater threats to look out for.
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|9M39 Igla|9M120 Ataka|S-8KO|S-13OF|GSh-23L (23 mm)}}
-[[File:Mi-28N suspended armament.png|thumb|350px|Mi-28N armed with Ataka ATGMs and S-8KO unguided rockets]]
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| || 1 || 1 ||
+|-
+! [[S-8KO]] rockets
+| 20 || 20 || 20 || 20
+|-
+! [[S-13OF]] rockets
+| 5 || 5 || 5 || 5
+|-
+! [[9M39 Igla]] missiles
+| 4 || || || 4
+|-
+! [[9M120 Ataka]] missiles
+| 4, 8 || || || 4, 8
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 8 x 9M39 Igla missiles
 * 80 x S-8KO rockets
@@ -100,39 +121,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x 9M120 Ataka missiles
 * 16 x 9M120 Ataka missiles
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| || 1 || 1 ||
-|-
-! S-8KO rockets
-| 20 || 20 || 20 || 20
-|-
-! S-13OF rockets
-| 5 || 5 || 5 || 5
-|-
-! 9M39 Igla missiles
-| 4 || || || 4
-|-
-! 9M120 Ataka missiles
-| 4, 8 || || || 4, 8
-|-
-| colspan="5" | Maximum permissible weight imbalance: 480 kg
-|-
-|}
+{{Navigation-End}}
 
 The Mi-28N's weapons and even hardpoints will feel very familiar to players who have spaded the [[Mi-35M]]. The only differences are that the obsolete 9M114 Shturm is completely dropped from the arsenal and that both outboard hardpoints can support Ataka racks, not just the right side.
+[[File:Mi-28N suspended armament.png|thumb|350px|Mi-28N armed with Ataka ATGMs and S-8KO unguided rockets]]
 
 Although the Mi-28N's ability to carry two racks of Atakas is a great boon for tank hunting, this introduces a new conundrum: Atakas and Iglas now compete for hardpoint space. Although it is nice to have some all-aspect MANPADS for warding off enemy aircraft, cutting the ATGM capacity in half is a considerable tradeoff for a missile with poor overload and a small warhead. If there are teammates with contemporary SAM systems like the [[2S6|2S6 Tunguska]], it is usually better to go all-in on Atakas. The Atakas themselves are actually quite effective in helicopter jousts due to their high flight speed and the chin-mounted 2A42 will happily shred planes, so a Havoc without Iglas is not exactly helpless against enemy aircraft either.
 
 The inner two hardpoints should be used to carry unguided rockets, and again there is a choice between S-8KO HEAT rockets and S-13OF HE rockets. At the Havoc's battle rating, most MBTs have good composite armour that can stop the HEAT warheads from the front, so the HE rockets tend to be more practical: they will easily obliterate light targets even with near misses, and it is often more reliable to score an overpressure kill on an MBT, especially with side attacks, than it is to fire a huge rocket swarm and hope that some of them get lucky. Pilots can also choose to forego these to save on weight.
-
-As a historical note, the Mi-28N was introduced to War Thunder with the [[S-13DF]], a variant of the S-13 rocket with a thermobaric warhead and phenomenal explosive power, but it was replaced with the S-13OF in [[Update "Red Skies"]] due to balance reasons.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -142,15 +138,15 @@ The Mi-28N is a fast, heavily armed and armoured, but not very manoeuvrable heli
 
 '''With ATGMs'''
 [[File:Mi-28N firing a missile.png|thumb|350px|Mi-28N firing an Ataka ATGM]]
-At a comfortable range, 16 Atakas is more than enough ATGMs to deal with any and all threats that your team faces. It's suggested to go for priority targets first, the targets that your team is struggling to eliminate, like an enemy tank in a hull-down position, or for you, any SPAAs that may be in the area. This will be very useful for your team. If you run out of Atakas, it is advised to return to base and rearm for a second run. 
+At a comfortable range, 16 Atakas is more than enough ATGMs to deal with any and all threats that your team faces. It's suggested to go for priority targets first, the targets that your team is struggling to eliminate, like an enemy tank in a hull-down position, or for you, any SPAAs that may be in the area. This will be very useful for your team. If you run out of Atakas, it is advised to return to base and rearm for a second run.
 
 It's advised to watch for SPAAs first before you get down to business. At this battle rating, SAMs are incredibly deadly. Once one fires on you, you've run out of options if you're unable to terrain mask. Their missiles can reach you in seconds from kilometres away, so always be sure you are clear of enemy air defence before engaging the rest of the enemy team. If at low altitude, you could play whack-a-mole with the enemy SPAA, in hopes to drain their ammunition reserves, though letting your team get to them first is a better strategy.
 
-Atakas can double as an AA platform as well. Unlike the Hellfires seen on many Western helicopters, the Atakas don't go straight up, as they are beam-riding ATGMs. This means you can lock an enemy aircraft, of course under the Ataka's maximum range of 6 km, fire, and watch it go to the target. If the target is manoeuvering, be sure to hit your sight stabilization (lock) key again so that you can give some control to the missile while it's locked on to the enemy. Not doing this could lead to the Ataka missing. As the Atakas don't feature a proximity fuse like the Vikhr missiles, a direct hit is required. 
+Atakas can double as an AA platform as well. Unlike the Hellfires seen on many Western helicopters, the Atakas don't go straight up, as they are beam-riding ATGMs. This means you can lock an enemy aircraft, of course under the Ataka's maximum range of 6 km, fire, and watch it go to the target. If the target is manoeuvring, be sure to hit your sight stabilization (lock) key again so that you can give some control to the missile while it's locked on to the enemy. Not doing this could lead to the Ataka missing. As the Atakas don't feature a proximity fuse like the Vikhr missiles, a direct hit is required.
 
 '''With rockets + AAM'''
 
-The Havoc's first spawn loadout is an effective combination of rockets and air-to-air missiles. The gun alone is enough to destroy many targets. The rockets are great for disabling enemy tanks at range, and destroying them when up close. The Iglas, while not the best AAMs, are able to be mounted in racks of four - two on each side -  making a grand total of eight air-to-air missiles. This gives you a lot of opportunity to engage enemy air units, especially helicopters; whether they spawn in first or they come into the game later with ATGMs: if you happen to survive to the mid-game, you can be an essential air defence platform for your team.
+The Havoc's first spawn loadout is an effective combination of rockets and air-to-air missiles. The gun alone is enough to destroy many targets. The rockets are great for disabling enemy tanks at range, and destroying them when up close. The Iglas, while not the best AAMs, are able to be mounted in racks of four - two on each side - making a grand total of eight air-to-air missiles. This gives you a lot of opportunity to engage enemy air units, especially helicopters; whether they spawn in first or they come into the game later with ATGMs: if you happen to survive to the mid-game, you can be an essential air defence platform for your team.
 [[File:Mi-28N firing its gun.png|thumb|350px|Mi-28N firing the 2A42 autocannon]]
 It's recommended to climb directly above the battlefield if there are no enemy SPAAs. If there are, stick to the lower ground and let them be destroyed later on in the match; it's not worth it to poke out and attempt to duel it, especially if it knows your exact location. Rushing in and hoping to see a group of enemies is not the best strategy; your chopper will be easily shot down this way. Knowledge is power. Above the battlefield, and with the thermal imaging, you can essentially scout every enemy for your team by shooting a couple of rounds.
 
@@ -164,7 +160,7 @@ Oftentimes you'll note that enemies you've killed will spawn an SPAA to remove y
 
 '''Arcade Ground Assault'''
 
-The best loadout to take in Arcade Ground Assault is the 16 Atakas and the S-13OFs, or the 16 Atakas and 40 S-8KOs, if you're a sharpshooter. 16 Atakas is a more fitting number for this mode, and you can destroy the enemy planes that come in at the start, and the pesky SPAA that spawn later a few rounds in. The turret works wonders in this mode too! Use it to destroy transmissions and engines to stop the enemy tanks from approaching the base too quickly. 
+The best loadout to take in Arcade Ground Assault is the 16 Atakas and the S-13OFs, or the 16 Atakas and 40 S-8KOs, if you're a sharpshooter. 16 Atakas is a more fitting number for this mode, and you can destroy the enemy planes that come in at the start, and the pesky SPAA that spawn later a few rounds in. The turret works wonders in this mode too! Use it to destroy transmissions and engines to stop the enemy tanks from approaching the base too quickly.
 [[File:Mi-28N flyover.png|thumb|350px|Mi-28N armed to the teeth]]
 The S-13OFs can basically guarantee kills as they're so powerful. However, you have 10 shots, then you must return to rearm. Paired with 16 Atakas along with the cannon and you have a deadly loadout.
 
@@ -218,7 +214,8 @@ File:Mi-28N WTWallpaper 008.jpg
 </gallery>
 
 ;Videos
-{{Youtube-gallery|MH--YaXl17g|'''Mi-28N Havoc - "Russian Sledgehammer" Review & Gameplay (Helicopters)''' - ''BaconGaming''|bxalaBFUfb8|'''The Shooting Range #174''' - ''Metal Beasts'' section at 00:32 discusses the Mi-28N.}}
+;Videos
+{{Youtube-gallery|yH6Ifk7g_KU|'''The MI-28 Ultimate Guide''' - ''Bob Dickinson''|MH--YaXl17g|'''Mi-28N Havoc - "Russian Sledgehammer" Review & Gameplay (Helicopters)''' - ''BaconGaming''|bxalaBFUfb8|'''The Shooting Range #174''' - ''Metal Beasts'' section at 00:32 discusses the Mi-28N.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -107,6 +107,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Without load
 * 3 x 500 lb G.P. Mk.IV bombs (1,500 lb total)
 * 3 x 1,000 lb M.C. 1,000 lb Mk.I bombs (3,000 lb total)
+* 1 x 2000 lb A.P. Mk.I Bomb
+* 3 x 500 lb S.A.P. Mk.II Bomb
 * 8 x AP Mk I rockets
 * 8 x RP-3 rockets
 * 16 x AP Mk I rockets
@@ -160,6 +162,7 @@ In Naval Battles, the Wyvern can be used as a fighter-bomber. The 3 x 1,000 lb b
 * In addition to carrying 3 x 1,000 lb bombs, you can release them separately from one another
 * It has an airbrake, a rare item at its BR
 * Highly versatile, serving as both an attack aircraft, or fighter capable of opportunistic kills and a bomber with its bomb capability
+* Good visibility around the cockpit
 
 '''Cons:'''
 
@@ -171,6 +174,8 @@ In Naval Battles, the Wyvern can be used as a fighter-bomber. The 3 x 1,000 lb b
 * Poor engine response to throttle adjustment
 * Distinctive engine sound, unlike any other aircraft
 * Extremely loud propulsion system allows for easy detection
+* Despite being able to throw the 3 x 1000 lb bombs independently, if only one bomb is dropped the weight load would be uneven and affect turning and rolling performance
+* No mirrors in cockpit to look behind, forcing the player to constantly look behind for enemies in simulation mode
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

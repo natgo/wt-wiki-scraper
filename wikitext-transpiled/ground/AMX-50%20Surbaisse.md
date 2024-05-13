@@ -57,14 +57,14 @@ It was introduced in [[Update 1.75 "La Résistance"]]. On the battlefield, the v
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[SA46 (120 mm)|120 mm SA46]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[SA46 (120 mm)|120 mm SA46]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 38 || rowspan="2" | -8°/+14° || rowspan="2" | ±180° || rowspan="2" | N/A || 24.3 || 33.6 || 40.8 || 45.1 || 48.0 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 38 || rowspan="2" | -8°/+14° || rowspan="2" | ±180° || rowspan="2" | N/A || 24.3 || 33.6 || 40.8 || 45.1 || 48.0 || rowspan="2" | 6.00 
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0

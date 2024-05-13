@@ -81,14 +81,14 @@ After tier 4 is unlocked and the priority modifications there are unlocked it is
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[XM274 (75 mm)|75 mm XM274]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[XM274 (75 mm)|75 mm XM274]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 26 || rowspan="2" | -17°/+45° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 54.3 || 75.1 || 91.2 || 100.9 || 107.3 || rowspan="2" | 1.5 || rowspan="2" | 1.5 || rowspan="2" | 1.5 || rowspan="2" | 1.5
+| rowspan="2" | 26 || rowspan="2" | -17°/+45° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 54.3 || 75.1 || 91.2 || 100.9 || 107.3 || rowspan="2" | 1.50 
 |-
 ! ''Realistic''
 | 33.9 || 39.9 || 48.5 || 53.6 || 57.0

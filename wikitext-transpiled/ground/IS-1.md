@@ -24,7 +24,7 @@ The IS-1 has an excellent armour overall: its strong well sloped turret can boun
 |-
 ! Armour !! Front !! Sides !! Rear !! Roof
 |-
-| Hull || 120 mm (35°) ''Front plate'' <br> 60 mm (75°) ''Front glacis'' <br> 100 mm (28-36°) ''Lower glais'' || 100 mm (11-27°)''Top front'' <br> 90 mm (11°) ''Top rear'' <br> 90 mm ''Bottom'' || 60 mm (48°) ''Top'' <br> 60 mm (35°) ''Lower'' || 30 mm
+| Hull || 120 mm (35°) ''Front plate'' <br> 60 mm (75°) ''Front glacis'' <br> 100 mm (28-36°) ''Lower glacis'' || 100 mm (11-27°)''Top front'' <br> 90 mm (11°) ''Top rear'' <br> 90 mm ''Bottom'' || 60 mm (48°) ''Top'' <br> 60 mm (35°) ''Lower'' || 30 mm
 |-
 | Turret || 100 mm (0-89°) ''Turret front'' <br> 100 mm (4-59°) ''Gun mantlet'' || 100 mm (19-21°) || 100 mm (2-36°) || 30 mm <br> 35 mm ''Turret hatches''
 |-

@@ -169,6 +169,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x SRAAM missiles
 * 4 x SRAAM missiles
@@ -191,7 +192,7 @@ The aircraft does have a rangefinding [[Airborne radars|radar]], but it is near 
 === Counterplay ===
 This aircraft is an extremely potent aircraft at its tier, but it has its weaknesses. For one, it does not turn very well, most supersonics and nearly all subsonic aircraft can outturn it. Secondly, it has good energy retention, so even supersonics may find it hard to disengage from a turning engagement. To attack this aircraft, come in from behind it, and preferably from the top or bottom. Do not attack from the front, as the quad 30 mm cannons will make short work of anything in their path. If your initial attack is unsuccessful, do not attempt to extend out in front of the Hunter; rather go into the vertical, as you will get caught by an SRAAM if you extend horizontal. If you suspect that a Hunter is nearby, do not allow your speed to drop below 800-1,000 km/h, as anything below these speeds will allow the Hunter to catch and kill you.
 
-If you have one on your tail, and if you are in a supersonic, you should try to out-accelerate them, if they launch an SRAAM within 1km, you will not be able to dodge. If you are in an subsonic, do not attempt to extend, rather bring the Hunter to your teammates to get rid of them. If they launch a missile, there is very little you can do, but a hard roll while fully pitching up may allow you to dodge an SRAAM. In a subsonic, the Hunter can outrun you, so the best play would be to stay out of range of the Hunter, with teammate cover. In a supersonic, you are faster than the Hunter, so stay out of its range, while looping around and making passes at it, remember to never venture in front of it.
+If you have one on your tail, and if you are in a supersonic, you should try to out-accelerate them, if they launch an SRAAM within 1km, you will not be able to dodge. If you are in a subsonic, do not attempt to extend, rather bring the Hunter to your teammates to get rid of them. If they launch a missile, there is very little you can do, but a hard roll while fully pitching up may allow you to dodge an SRAAM. In a subsonic, the Hunter can outrun you, so the best play would be to stay out of range of the Hunter, with teammate cover. In a supersonic, you are faster than the Hunter, so stay out of its range, while looping around and making passes at it, remember to never venture in front of it.
 
 ===Radars===
 <!--{{main|AN/APG-30}}-->
@@ -228,9 +229,9 @@ It will automatically detect other planes within the scanning area and display t
 * No RWR
 * Heavily dependent on the missiles to perform well
 * No afterburner
-* No drogue chute: landing can be difficult on short runways
-* As with most jets, not very manoeuvrable at low speeds
-* Can rip wings when pitch and roll are combined with New Boosters equipped
+* No drogue chute: landings can be difficult on shorter runways
+* As with most jets, the Hunter is not very manoeuvrable at low speeds
+* Can rip its wings when pitch and roll are combined with New Boosters equipped
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

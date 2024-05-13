@@ -5,7 +5,11 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British sub-chaser {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet Closed Beta Test.
+The '''{{Specs|name}}''' was one of the 294 British ''Flower''-class corvettes, a class of British small convoy escort ship designed in 1939 based on an existing civilian whaler ship design in order to simplify and hastened the production in order to protect the Atlantic convoy from Germany's U-boat fleets. Due to the urgent need for an escort, the Admiralty also placed orders for a ''Flower''-class from a Canadian shipyard, of which some were later transferred back to the Royal Canadian Navy. After the war ended, several surplus ''Flower''-class were sold off either to the other navies or being converted into a civilian ship.
+
+''Brantford'' was laid down in 1941 and commissioned a year later. She would serve uneventfully as a part of the Atlantic convoy until 1944 when she was relegated into a training ship. After the war ended in 1945, ''Brantford'' was decommissioned and sold off as a civilian ship. In a rather amusing case of coming into full circle, ''Brantford'' was converted into a Honduran-flagged whaler ship ''Olympic Arrow''. She would later be sold in 1956 to Japanese whalers as ''Otori Maru No. 14'' and again as ''Kyo Maru No. 21'' before finally being scrapped in 1976.
+
+The {{PAGENAME}} was introduced in [[Update 1.83 "Masters of the Sea"]] as part of the British fleet Closed Beta Test. The Brantford, like her predecessor [[HMS Liscomb]], is an unusually tough nut to crack even against higher-tier coastal boats due to her having a detailed damage model to absorb most machine guns and autocannons. The Brantford is a direct step up from the Liscomb in every aspect, featuring twice the crew count, much less vulnerable ammo storage, improved secondary armaments, and a higher (but still low) top speed. As such, the Brantford can be effectively used as a bullet sponge to push for the capture points. However, due to her slow speed and large profile, she is still highly vulnerable to torpedoes and artillery strikes, and often requires teammates to cover her flanks.
 
 == General info ==
 === Survivability and armour ===
@@ -22,15 +26,13 @@ The {{PAGENAME}} has the following armour layout:
 * Hull: 6 mm, steel
 * Superstructure: 4 mm, steel
 
+As with her predecessor the [[HMS Liscomb|Liscomb]], the Brantford is notable for being one of only two rank 2 coastal vessels to have a "detailed" damage model, having separate crew compartments modelled instead of a simplified "hull section" like smaller coastal boat. This alone renders her hull completely immune to most low-calibre machine guns, and highly resilient against 20 mm autocannons that are quite common at her BR.
+
+With a crew complement of 85 distributed evenly along the ship, HMCS Brantford's overall survivability is unusually high, even when compared to the larger coastal vessels at rank 5. However, due to the lack of armouring on the hull, the Brantford's crew compartments and engines are still relatively vulnerable against 40 mm autocannons that have enough penetration to damage them. As such, avoid exposing your side profile when possible.
+
 While the gunshields may stop low-calibre machine guns, heavy machine guns and cannons will have no trouble with them at any range. The hull and superstructure are cannot stop gunfire of any sort.
 
-There is currently no gun in the game that can hull-break HMCS Brantford.
-
-The HMCS Brantford's hull is split into five compartments. The first compartment starts at the bow and ends in front of the 102 mm BL Mark IX cannon. The second starts at the 102 mm BL Mark IX cannon and ends in front of the fuel tanks. The third starts at the fuel tanks and ends where the fuel tanks end. The fourth starts at the end of the fuel tanks and ends at the aft 40 mm 2pdr QF Mk.VIII cannon. The fifth starts at the aft 40 mm 2pdr QF Mk.VIII cannon and ends at the stern. HMCS Brantford is notable for being one of the only rank I boats to have the "Shrapnel Protection" modification, though this doesn't affect survivability much.
-
-The HMCS Brantford has two types of ammunition storages: a "Shells room", located in the second hull compartment, and an "Ammunition storage", located in the fifth hull compartment. The "Shells room" contains ammunition for the 102 mm BL Mark IX cannon, and the "Ammunition storage" contains ammunition for both the 40 mm 2pdr QF Mk.VIII and 20 mm/70 Oerlikon Mk.II cannons. Destroying either will cause any remaining ammunition for the respective guns to be destroyed, but doing so will not immediately destroy HMCS Brantford.
-
-With a crew complement of 85, HMCS Brantford's overall survivability is very high.
+The Brantford has two types of ammunition storages: a "Shells room", located in the second hull compartment, and an "Ammunition storage", located in the fifth hull compartment. The "Shells room" contains ammunition for the 102 mm BL Mark IX cannon, and the "Ammunition storage" contains ammunition for both the 40 mm 2pdr QF Mk.VIII and 20 mm/70 Oerlikon Mk.II cannons. Destroying either will cause any remaining ammunition for the respective guns to be destroyed, but doing so will not immediately destroy the Brantford.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -52,7 +54,7 @@ With a crew complement of 85, HMCS Brantford's overall survivability is very hig
 |TurnSpeedSpadedRB = 21
 }}
 
-The HMCS Brantford has a displacement of 1,030 tons.
+Although it is a step up from the Liscomb, the Brantford's mobility is still very poor. She still takes quite a long time to accelerate and decelerate and is quite difficult to turn at times. This often leaves her vulnerable to torpedoes, especially at close ranges.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -192,19 +194,20 @@ The recommended loadout option is "Without load".
 
 '''Pros:'''
 
-* Very high survivability
-* Cannot be hull-broken by any guns in the game
-* 102 mm BL Mark IX: excellent SAP round
-* 40 mm 2pdr QF Mk.VIII and 20 mm/70 Oerlikon Mk.II: great damage output; amove-average magazine capacity
-* Stable firing platform
+* Incredible survivability especially for its BR due to detailed damage model and high crew count
+* The hull is completely imprevious to most low-calibre machine guns it usually faces
+* 102 mm gun offer decent damage output against most targets, with access to SAP rounds
+* Has access to Pom-Pom and Oerlikon autocannons with good coverage and damage output
+* Stable firing platform allows it to perform fire support duties at longer range
 
 '''Cons:'''
 
 * Poor top speed and very bad manoeuvrability
-* Very susceptible to torpedoes, artillery, and aircraft attacks
-* Relatively weak armament
-* 102 mm BL Mark IX: poor traverse rates; poor accuracy; cannot hull-break
-* No access to artillery support
+* Very susceptible to torpedoes and artillery strike due to the size and speed
+* Side profile are vulnerable to large autocannons (40 mm+)
+* Only one 102 mm gun that can be easily disabled and effectively cut off the damage output
+* 102 mm gun has mediocre accuracy (especially at longer ranges) and shell filling, especially against larger targets
+* Can be easily outclassed and outgunned by early destroyer it often faces
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

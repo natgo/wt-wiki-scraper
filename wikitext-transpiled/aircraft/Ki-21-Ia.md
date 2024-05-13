@@ -14,6 +14,17 @@ The '''Ki-21''', designated as the '''Type 97 Heavy Bomber ({{Annotation|九七�
 
 Introduced in [[Update 1.49 "Weapons of Victory"]], the '''Ki-21-I ko''' is a versatile low-altitude medium bomber renowned for its impressive manoeuvrability for a bomber, although hindered by a low total bomb capacity, it excels in targeting ground targets such as pillboxes and tanks, with preferred naval targets being destroyers and cargo ships, while its light turret armament suggests optimal performance at higher altitudes, its different bomb layouts offer versatility, with 20 x 50 kg bombs effective against multiple ground targets and 2 x 500 kg bombs recommended for bases, making it a competent early-rank bomber despite its low total bomb tonnage.
 
+;Nicknames
+
+* IJA Pilot abbreviation: 
+** ''Kyu-Nana Shiki Jū Baku (九七式重爆, Type 97 Heavy Bomb)''
+** ''Kyu-Nana Jū Baku (九七重爆, 97 Heavy Bomb)''
+** ''Kyu-Nana Jū (九七重, 97 Heavy)''
+* Allied reporting name:
+** ''Jane'' <small>- Objected by Gen. Douglas MacArthur (same name as his wife)</small> 
+** '''Sally'''
+** ''Gwen'' <small>- Ki-21-IIb misreported as separate model</small>
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}

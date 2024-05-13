@@ -70,7 +70,7 @@ The survivability of the BMP-3 is very low. It has only 3 crew members who are c
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 500 (250) || rowspan="2" | 330 || rowspan="2" | -6°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 33.3 || 46.1 || 56.0 || 61.9 || 65.9 || rowspan="2" | 1.00 || rowspan="2" | 1.00 || rowspan="2" | 1.00 || rowspan="2" | 1.00
+| rowspan="2" | 500 (250) || rowspan="2" | 330 || rowspan="2" | -6°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 33.3 || 46.1 || 56.0 || 61.9 || 65.9 || rowspan="2" | 1.30 || rowspan="2" | 1.15 || rowspan="2" | 1.06 || rowspan="2" | 1.00
 |-
 ! ''Realistic''
 | 20.8 || 24.5 || 29.8 || 32.9 || 35.0
@@ -78,6 +78,7 @@ The survivability of the BMP-3 is very low. It has only 3 crew members who are c
 |}
 
 ==== Ammunition ====
+
 * '''30 mm HE:''' {{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 * '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 * '''30 mm APDS:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
@@ -109,14 +110,18 @@ The survivability of the BMP-3 is very low. It has only 3 crew members who are c
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="4" | [[2A70 (100 mm)|100 mm 2A70]] || colspan="4" | Reloading rate (seconds)
+! colspan="4" | [[2A70 (100 mm)|100 mm 2A70]] 
+! Reloading rate rounds (seconds)
+! Reloading rate ATGM (seconds)
 |-
 ! Capacity !! Vertical !! Horizontal !! Stabilizer
-! Stock !! Full !! Expert !! Aced
+! Autoloader !! Autoloader
 |-
-| 48 || N/A || N/A || Two-plane || 4.00 || 4.00 || 4.00 || 4.00
+| 48 || N/A || N/A || Two-plane 
+| 4.00 || 20.00
 |-
 |}
+The BMP-3 can only take 8 ATGMs in total.
 
 ==== Ammunition ====
 {{:2A70 (100 mm)/Ammunition|3OF32, 3OF70, 9M117, 9M117M1}}
@@ -212,6 +217,7 @@ The vehicle successfully underwent testing in this state, and in 1987, was accep
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_bmp_3 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -219,6 +225,7 @@ The vehicle successfully underwent testing in this state, and in 1987, was accep
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -232,6 +239,7 @@ The vehicle successfully underwent testing in this state, and in 1987, was accep
 === References ===
 
 ;Bibliography
+
 * David B. (2017, June 18). BMP-3. Tank Encyclopedia. https://tanks-encyclopedia.com/coldwar/soviet/bmp-3.php
 * BMP-3. (2020, April 19). In ''Wikipedia''. https://en.wikipedia.org/w/index.php?title=BMP-3&oldid=951891576
 

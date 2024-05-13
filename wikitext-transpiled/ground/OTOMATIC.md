@@ -51,14 +51,14 @@ The OTOMATIC is armed with the most famous naval autocannon, the OTO Breda Canno
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[OTO Breda Cannone da 76/62 (76 mm)|76 mm OTO Breda Cannone da 76/62]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[OTO Breda Cannone da 76/62 (76 mm)|76 mm OTO Breda Cannone da 76/62]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 90 || rowspan="2" | -5°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 61.6 || 85.3 || 103.6 || 114.6 || 121.9 || rowspan="2" | 0.50 || rowspan="2" | 0.50 || rowspan="2" | 0.50 || rowspan="2" | 0.50
+| rowspan="2" | 90 || rowspan="2" | -5°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 61.6 || 85.3 || 103.6 || 114.6 || 121.9 || rowspan="2" | 0.50 
 |-
 ! ''Realistic''
 | 41.6 || 49.0 || 59.5 || 65.8 || 70.0

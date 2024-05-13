@@ -44,7 +44,7 @@ Introduced in [[Update 1.45 "Steel Generals"]], the Canberra B (I) Mk 6 is an in
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
+| X || X || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -59,7 +59,7 @@ Introduced in [[Update 1.45 "Steel Generals"]], the Canberra B (I) Mk 6 is an in
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 990 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 498 || 469 || 320 || ~6 || ~4
+| 990 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || 320 || ~6 || ~4
 |-
 |}
 
@@ -69,7 +69,7 @@ Introduced in [[Update 1.45 "Steel Generals"]], the Canberra B (I) Mk 6 is an in
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 590 || < 550 || < 500 || N/A
+| < 590 || < 550 || < 500 || -
 |-
 |}
 

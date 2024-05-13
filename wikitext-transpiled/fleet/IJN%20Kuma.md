@@ -106,6 +106,8 @@ IJN Kuma is a relatively weak cruiser, requiring more skill to play than the maj
 
 The best strategy is to be a strong team player. Use vastly superior anti-aircraft armament of the friendly warships to provide you with an anti-aircraft cover, pick equal or weaker targets with your guns, use your torpedoes on larger groups of enemies or AI targets. If playing arcade, you should drop torpedoes frequently, and if it's not convenient to make a 180° turn to attack with the other side (e.g. because you'd break the formation), just drop them into the water without any target, and wait for an automatic reload. Kuma's main speed is higher than the one of other ships, so you can perform evasive action while keeping decently close to a group of friendlies. When concentrated by multiple enemy ships, you should attempt to break contact and flee, or at least put 1 friendly between you and them.
 
+One way to use it is to stay at medium or long range and suppress the enemy with the high rate of fire. Either using the 140mm HE weaponry to cause deck fires or the 140mm SAP to disable turrets.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -115,7 +117,8 @@ The best strategy is to be a strong team player. Use vastly superior anti-aircra
 * Able to reload torpedoes in battle
 * Good maximum speed for the BR
 * Very long-range torpedoes (although relatively slow)
-* One scout plane.
+* One scout plane
+* Ability to stay afloat with 2 bulkheads completely flooded.
 
 '''Cons:'''
 
@@ -123,11 +126,14 @@ The best strategy is to be a strong team player. Use vastly superior anti-aircra
 * Poor AA armament
 * Poor forward and rear-facing weaponry compared to the counterparts
 * SAP shells offer a very poor penetration and a relatively low explosive filler
+* Tendency to catch fire easily. (However, it has the ability to put out the fire very quickly)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 
 Kuma (球磨) was laid down in August 1918 in Sasebo Navy Yard on the southernmost Japanese main island, Kyushu. She was completed in 10 months and launched in July 1919. She did not see any action during the interwar period, being kept out of the Second Sino-Japanese War. In 1929 she had rainwater protection devices added to the top of her funnels, making them characteristically bulbous (this missing is but one of several issues with the in-game model of Kuma which most closely reminds a 1942 refit of her sister ship, Tama (多摩)).
+
+This class of light cruisers was composed of five members: Kuma, Abukuma, Kitakami, Tama, Ōi and Kiso. They were developed from the previous Tenryū class and stood out for being the fastest units of their type at the time.
 
 Her first combat action was Operation M (M作戦), invasion of the Philippines, where she faced her first fight, being attacked by US airplanes ([[PBY-5 Catalina|Catalinas]] and [[B-17 (Family)|B-17]]s) while covering the landings in the northern part of the Philippines. She proceeded further south assisting invasion forces, where she fired her guns at the Cebu harbor, sinking coastal trading vessels. Following that she was ordered to secure the city of Zamboanga, where Kuma assisted with amphibious landings, shelled armed resistance on land and, in the evening of 3 March 1942, has sunk 12 ships in the Sulu Sea, marking it the most successful day in the ship's history. During the night of 8 April 1942 she was attacked by two US torpedo boats ([[Elco 77 ft PT-20|Elco 77 ft]]) while escorting an invasion force. She suffered a direct hit from an [[Mk.8-3 C/D (533 mm)|Mk. 8 torpedo]] in the bow, though it failed to detonate saving the ship. She continued her role as a cover of further landings, ending with the battle of Corregidor Island on 6 May 1942.
 
@@ -138,6 +144,19 @@ In November 1943 the ship underwent a significant refit of the armament. Dry-doc
 Early morning of 11 January 1944, during the naval exercises at the Malacca Strait, a lookout on Kuma spotted a periscope-like object. Called in Fubuki-class destroyer Uranami identified it as a false periscope, presuming it to be released by one of the friendly submarines (Japanese used floating devices made of wood and bamboo to lure US aircraft into wasting bombs). This periscope, however, belonged to the British submarine HMS Tally-Ho that at 11:43 fired a spread of 7 torpedoes, Kuma spotted them and attempted evasive action, however, it suffered a hit with two torpedoes to the stern, tearing off a large part of it and igniting fires across decks. Seven minutes into the action depth charges detonated on the quarterdeck. Captain called to abandon ship and within the following seven minutes Kuma has sunk, stern-first, with 138 lives lost. Survivors were rescued by the Uranami, including the captain.
 
 She rested on her starboard, 46 m underwater, with her stern missing all the way to the port propeller. She met an unusually sad fate, being looted for scrap with a use of floating cranes. In 2014 it was reported that looters have cleared up nearly the entire wreck, metal likely being sold to China at the price of roughly 600 Malaysian Ringgit per tonne (125 € / $140 / ¥15,000). Large pieces of Kuma's wreck [https://www.reddit.com/r/WarshipPorn/comments/26b3rq/plundered_remains_of_the_wreck_of_the_ijn_light/ were photographed] in May 2014, later that month Malaysian Marine Depart­ment managed to [https://www.thestar.com.my/news/nation/2014/05/23/sea-salvage-work-halted-dept-sinks-its-teeth-into-vessel-illegally-stripping-wrecks-for-scrap capture the group] responsible for the lootings.
+
+History: Unfortunately, only one of the five members of the class, the Kitakami, survived World War II. The other four cruisers were lost during the conflict. For example, the Kuma was torpedoed by the British submarine HMS Tally-Ho in 1944, while the Tama was torpedoed by the American submarine USS Jallao. Kiso was bombed by American aircraft, and Ōi was converted into a cruiser with multiple torpedo tube mounts.
+
+=== Interesting facts ===
+
+* Displacement: Varied between 5,588 tons and 5,926 tons fully loaded.
+* Length: It measured 162.1 meters.
+* Armament: Included 140 mm guns, 80 mm anti-aircraft guns, torpedoes and depth charge mines.
+* Propulsion: It had 12 Kanpon boilers and a power of 90,000 HP.
+* Speed: Reached 36 knots.
+* Range: It could navigate up to 9,000 nautical miles at 10 knots.
+* Crew: Required 450 crew members.
+* Aircraft: Carried a scout floatplane, usually a Kawanishi E7K1
 
 === [[wt:en/news/6171-development-kuma-the-fighting-bear-en|Devblog]] ===
 Due to the expectation that the Tenryū-class cruiser wouldn't perform to the satisfaction of the naval command in its role of leader and the appearance of newer and faster destroyer types, with which the Tenryū wasn't able to keep up with, the shortcomings of the Japanese small cruiser concept became evident. These shortcomings were further emphasized with the advent of the large American Omaha-class light cruiser, capable of easily outgunning the Tenryū-class.
@@ -156,10 +175,12 @@ In January 1944, Kuma came under torpedo attack from the British submarine HMS T
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_cruiser_kuma Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -169,6 +190,8 @@ In January 1944, Kuma came under torpedo attack from the British submarine HMS T
 * ''other literature.'' -->
 
 * [[wt:en/news/6171-development-kuma-the-fighting-bear-en|[Development] Kuma: The Fighting Bear]]
+* [https://es.wikipedia.org/wiki/Clase_Kuma Clase Kuma - Wikipedia, la enciclopedia libre]
+* [https://hmn.wiki/es/Kuma-class_cruiser Crucero clase Kuma (hmn.wiki)]
 
 {{ShipManufacturer Sasebo Naval Arsenal}}
 {{Japan light cruisers}}

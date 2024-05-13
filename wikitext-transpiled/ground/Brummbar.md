@@ -20,7 +20,7 @@ However, one frontal weak spot is the 20 mm upper glacis. Although well angled i
 
 The side and rear armour range from 20 to 50 mm, which is not enough to stop any rounds without significant angling. They can only stop HE shells, rifle-calibre bullets, or some autocannon shells.
 
-The post-penetration survivability of the Brummbär is quite bad. Similar to the StuG series tank destroyers, the Brummbär has 3 crew members sitting tightly in a column at the right side of the fighting compartment (when looking at its front), and 2 on the left. This means that a frontal penetrating shot through the right side can take out 3 men if the shell is solid, or even all 5 crw members if it is explosive. Frontal penetration through the hull can destroy the transmission, leaving the tank immobile. It may also hurt the driver.
+The post-penetration survivability of the Brummbär is quite bad. Similar to the StuG series tank destroyers, the Brummbär has 3 crew members sitting tightly in a column at the right side of the fighting compartment (when looking at its front), and 2 on the left. This means that a frontal penetrating shot through the right side can take out 3 men if the shell is solid, or even all 5 crew members if it is explosive. Frontal penetration through the hull can destroy the transmission, leaving the tank immobile. It may also hurt the driver.
 
 '''Armour type:'''
 
@@ -150,6 +150,7 @@ Whenever you arrive at a fighting spot it is good to range-find the areas where 
 * Poor mobility, greatly limiting its positioning speed
 * Is a big target
 * Frontal 20 mm plate, though extremely sloped, can still get overmatched by Sherman 75 mm and Soviet 57 and 76 mm guns
+* No machine gun to help clear obstacles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -173,6 +174,7 @@ Today, four Sturmpanzers are known to have survived in intact conditions. Each o
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_sturmpanzer_IV_brummbar Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

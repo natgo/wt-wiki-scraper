@@ -208,7 +208,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+The F-4EJ Kai is the ultimate Japanese package of the [[F-4 Phantom II (Family)|F-4 "Phantom II"]] serving as the most advanced Phantom II to serve in-game.
+
+Equipped with the same Pulse-Doppler radar as on the [[F-16 (Family)|F-16 "Fighting Falcon"]], the EJ Kai possess the ability to use a fantastic radar for its air-frame, battle rating and missile arsenal to employ it in the best possible way, allowing it to quickly lock targets for the AIM-9L's and AIM-7F's which can guarantee aerial kills above ~20 m ground clearance. 
+
+While the radar and cockpit avionics get a whole upgrade package (which greatly enhance its simulator capabilities due to its cockpit HUD), the air-frame is still a Phantom II after-all, lacking any real manouverability without access to the "Agile Eagle" modification found on the American [[F-4E Phantom II]], the F-4EJ Kai is utmost a missile bus which hits hard.
+
+As all [[F-4 Phantom II (Family)|Phantom IIs]], the EJ Kai is a multi-role fighter with the capability to carry plenty of rockets, gun pods and bombs, but due to it serving under the Japanese JASDF and its defensive doctrine, it lacks GBUs, AGMs and Napalm bombs found on other (late) model Phantoms. While it certainly is a possibility to go multi-role, due to its large amount of carry capacity, it will turn its missile bus experience into a freight train towards bases or ground targets which is only really advised for quick carpet passes in ground battles or when trying to unlock later modules in air battles with priority towards guided AAMs, as the enemies facing the F-4EJ Kai won't have any issue intercepting a loaded Phantom.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

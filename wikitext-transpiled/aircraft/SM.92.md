@@ -154,11 +154,11 @@ In Ground RB and Naval RB, you can do dive attacks or sea level attacks on ships
 
 For a dive attack, climb  to the altitude of 2,000 m, dive to increase your speed and drop the bombs to the enemy ground vehicles, use 1,5 secs of time fuse. In Naval RB, use Assault fuse and drop the bomb to the enemy ships at circa 300-400 m so you can escape from the enemy AA and your explosion blast wave. After you've spent the bombs, you can destroy little ships and armoured boats with your guns.
 
-For a hedgehopping attack, approach enemy ground vehicles sideways and drop the bombs, the attack is more accurate as you drop altitude but when you do, enemy AA vehicles can kill you more easily. In naval RB, use the 1,5 secs fuse so you can bounce the bomb in water and hit the target precisely. After you dropped the bombs you can use the [[SM.92]] as a interceptor and take down enemy planes, so you can protect your team by achieving an air superiority.
+For a hedgehopping attack, approach enemy ground vehicles sideways and drop the bombs, the attack is more accurate as you drop altitude but be careful, enemy AA could kill you more easily. In naval RB, use the 1,5 secs fuse so you can bounce the bomb in water and hit the target precisely. After you dropped the bombs you can use the [[SM.92]] as a interceptor and take down enemy planes, so you can protect your team by achieving an air superiority.
 
 ;Interceptor
 
-After you climbed at 3,000 m, chase enemy bombers: attack them frontally or from. If there are enemy fighters under you, do a boom and zoom attack on them, you can use combat flaps for more manoeuvrability. But your flaps have a rip speed of 535 km/h so don't destroy them or you'll lose speed and manoeuvrability. There are some enemy fighters that you can't easily kill easily because are very manoeuvrable and will evade your BnZ attacks (for example "Zeros" A6M2/A6M5 and Spitfires). In that case, use your attacks as deterrent to prevent them from reaching your altitude.
+After you climbed at 3,000 m, chase enemy bombers: attack them frontally or from. If there are enemy fighters under you, do a boom and zoom attack on them, you can use combat flaps for more manoeuvrability. But your flaps have a rip speed of 535 km/h so don't destroy them or you'll lose speed and manoeuvrability. Some fighters are very manoeuvrable, and if played correctly will evade your BnZ attacks (for example "Zeros" A6M2/A6M5 and Spitfires). In that case, use your attacks as deterrent to prevent them from reaching your altitude.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"

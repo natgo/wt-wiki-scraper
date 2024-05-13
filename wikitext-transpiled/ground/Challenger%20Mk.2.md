@@ -82,7 +82,7 @@ The FPE module should be a priority, since the fuel tanks are located all around
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|L11A5 (120 mm)}}
 
-The Challenger bears the 120 mm L11A5, an updated but essentially identical version of the gun found on the Chieftains. It has access to the same rounds as the Chieftain Mk 10, with the notable addition of the L23A1 APFSDS ammunition. L23A1 penetrates angled armour much more efficiently than its predecessor L23, making it especially useful for dealing with Russian late T-series hulls.
+The Challenger bears the 120 mm L11A5, an updated but essentially identical version of the gun found on the Chieftains. It has access to the same rounds as the Chieftain Mk 10, with the notable addition of the L23A1 APFSDS ammunition. Despite having worse flat plate penetration (24 mm less than L23 at 1 km), L23A1 penetrates angled armor much more efficiently than its predecessor (29 mm more than L23 at 1 km at 60°), making it especially useful for dealing with Russian late T-series hulls.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -167,9 +167,9 @@ New drivers of the Challenger 1 will appreciate a similar playstyle to the earli
 
 When encountering common enemies:
 
-* [[T-64B]]: L23A1 APFSDS can theoretically penetrate the UFP, but it is difficult. The drivers port weak spot is the recommended target from the front. If not possible, aim for the breech/cannon barrel to eliminate the threat of return fire
-* [[T-64A (1971)]]: APFSDS will go right through the front of this tank, but the Challenger can still be penetrated by the top APFSDS (3BM12) in the weak spot on the turret's leading edge.
-* [[Leopard 2K]]: Probably the most dangerous opponent, as its APFSDS can go right through the upper front plate and parts of the turret. Shoot anywhere but the front of the turret, unless trying to take out the Leo's cannon barrel.
+* [[T-64B]]: L23A1 can theoretically penetrate the UFP, but it is very difficult. The drivers port weak spot is the recommended target from the front. If not possible, aim for the breech/cannon barrel to eliminate the threat of returning fire.
+* [[T-64A (1971)]]: L23 will go right through the hull even at 2 km, but the Challenger can still be immobilized and disarmed if even 3BK12M (stock HEATFS) is fired at the breech, which will break the turret ring, the breech and possibly the engine.
+* [[Leopard 2K]]: Shoot anywhere honestly. Shooting its right cheek will knock out the gunner and TC.  Shooting the UFP under its left cheek detonates the turret ammo storage. Shooting just left of the driver's port can even cause a total crew knock-out instantly, even with L23 at 1000 m. Just be aware that DM13 and DM23 will have no issues penetrating your hull either.
 * [[Leopard A1A1]]: Its APFSDS poses a risk to the weak spot on the turret, but only if it gets the first shot off. Shoot anywhere near hull centre or low turret area.
 
 === Pros and cons ===

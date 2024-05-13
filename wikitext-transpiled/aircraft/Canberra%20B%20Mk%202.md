@@ -44,7 +44,7 @@ Introduced in [[Update 1.43]], the Canberra B Mk 2 can be a very effective early
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| ✓ || ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
+| X || X || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -59,7 +59,7 @@ Introduced in [[Update 1.43]], the Canberra B Mk 2 can be a very effective early
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 990 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 498 || 469 || 320 || ~7 || ~3
+| 990 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || 320 || ~7 || ~3
 |-
 |}
 
@@ -69,7 +69,7 @@ Introduced in [[Update 1.43]], the Canberra B Mk 2 can be a very effective early
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 590 || < 550 || < 500 || N/A
+| < 590 || < 550 || < 500 || -
 |-
 |}
 
@@ -125,13 +125,13 @@ Introduced in [[Update 1.43]], the Canberra B Mk 2 can be a very effective early
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|H.E. M.C. Mk.II (500 lb)|H.E. M.C. Mk.13 (1,000 lb)|H.C. Mk.II (4,000 lb)}}
+{{main|H.E. M.C. Mk.II (500 lb)|H.E. M.C. Mk.13 (1,000 lb)|H.C. Mk.IV (4,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 9 x 500 lb H.E. M.C. Mk.II bombs (4,500 lb total)
 * 6 x 1,000 lb H.E. M.C. Mk.13 bombs (6,000 lb total)
-* 1 x 4,000 lb H.C. Mk.II bomb + 2 x 1,000 lb H.E. M.C. Mk.13 bombs (6,000 lb total)
+* 1 x 4,000 lb H.C. Mk.IV bomb + 2 x 1,000 lb H.E. M.C. Mk.13 bombs (6,000 lb total)
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

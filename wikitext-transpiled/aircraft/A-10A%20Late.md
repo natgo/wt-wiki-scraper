@@ -237,6 +237,7 @@ With the AIM-9L, it is important to keep in mind its effective launch/lock range
 
 * Very poor climb rate and moderate acceleration
 * Extremely poor top speed makes the A-10 easy prey, especially to SAMs and SPAA
+* The GAU-8 cannon will drain the already slow speed of the A-10
 * Does not have access to gunpods or guided bombs which the premium A-10 gets
 * Engine can potentially overheat when running at or near 100% throttle unless on a winter map
 * Engines are heavily exposed and vulnerable
@@ -260,7 +261,13 @@ The A-10A Late was a minor upgrade in the A-10. It featured the new and improved
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[A-10A]]
+;Related development
+
+* [[A-10 (Family)]]
+
+;Aircraft of comparable role, configuration and era
+
+* [[Su-25 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

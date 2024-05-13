@@ -10,15 +10,15 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->In the mid 1970s, the East German Airforce would start recieving their first [[MiG-21bis]] aircraft, to update their fighter-interceptor fleet from the aging [[MiG-21MF (Germany)|MiG-21MF]]<nowiki/>s and PFMs. East Germany would recieve exactly 46 of the type, with 14 of them being the "Fishbed-L" variant, equipped with the Lazur-M GCI (Ground Controlled Intercept) guidance system. The other 32 would be the "Fishbed-N" variant, equipped with the Polyot-OI guidance system instead. To diffrenciate the two variants, the aircraft recieved unique names in East German service, being called the '''MiG-21bis Lazur-M''' and the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]] respectively.
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+In the mid 1970s, the East German Airforce would start receiving their first [[MiG-21bis]] aircraft, to update their fighter-interceptor fleet from the aging [[MiG-21MF (Germany)|MiG-21MF]]<nowiki/>s and PFMs. East Germany would receive exactly 46 of the type, with 14 of them being the "Fishbed-L" variant, equipped with the Lazur-M GCI (Ground Controlled Intercept) guidance system. The other 32 would be the "Fishbed-N" variant, equipped with the Polyot-OI guidance system instead. To differentiate the two variants, the aircraft received unique names in East German service, being called the '''MiG-21bis Lazur-M''' and the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]] respectively.
 
-Introduced in [[Update "Apex Predators"]] as the first Rank 7 pack premium for the German tech tree, the '''{{Specs|name}}''' may sound like it has a fancy name, but is virtually identical to its tech tree brother, the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]], with the only difference between these aircraft being the type of guidance system used, which has no effect on the plane or its gameplay in War Thunder. Like its tech tree copy, the MiG-21bis Lazur still very much plays as you would except from the Fishbed family; that being the ability to hit hard and fast against unsuspecting targets, and punishing most aircraft that decide to dogfight you at high speeds. The Lazur-M, just as with the other Fishbeds of this battle rating, relies alot more on its great flight performance and strong engine providing quick acceleration to win its engagements, rather than relying on its avionics, radar, and missile selection, which are underwhelming compared to its adversaries at this tier.
+Introduced in [[Update "Apex Predators"]], the '''{{Specs|name}}''' may sound like it has a fancy name, but is virtually identical to its tech tree brother, the [[MiG-21bis-SAU (Germany)|MiG-21bis-SAU]], with the only difference between these aircraft being the type of guidance system used, which has no effect on the plane or its gameplay in War Thunder. Like its tech tree copy, the MiG-21bis Lazur still very much plays as you would except from the Fishbed family; that being the ability to hit hard and fast against unsuspecting targets, and punishing most aircraft that decide to dogfight you at high speeds. The Lazur-M, just as with the other Fishbeds of this battle rating, relies a lot more on its great flight performance and strong engine providing quick acceleration to win its engagements, rather than relying on its avionics, radar, and missile selection, which are underwhelming compared to its adversaries at this tier.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -121,11 +121,11 @@ Introduced in [[Update "Apex Predators"]] as the first Rank 7 pack premium for t
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
+| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -135,73 +135,74 @@ Introduced in [[Update "Apex Predators"]] as the first Rank 7 pack premium for t
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 23 mm GSh-23L cannon, belly-mounted (250 rpg)
-** 1 x 23 mm GSh-23L cannon + 64 x countermeasures
+* 1 x 23 mm GSh-23L cannon, belly-mounted (250 rpg)
+* 64 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|R-3R|R-3S|R-13M1|R-60MK}}
-{{main|OFAB-100 (100 kg)|FAB-250M-62 (250 kg)|FAB-500M-62 (500 kg)|ZB-500 incendiary}}
-{{main|S-5K|S-24}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| || 4 || || 4 ||
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| || 1 || || 1 ||
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| || 1 || || 1 ||
+|-
+! [[ZB-500 incendiary]] bombs
+| || 1 || || 1 ||
+|-
+! [[S-5K]] rockets
+| 16 || 16, 32 || || 16, 32 || 16
+|-
+! [[S-24]] rockets
+| 1 || 1 || || 1 || 1
+|-
+! [[R-3R]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-3S]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-13M1]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-60MK]] missiles
+| 1, 2 || 1 || || 1 || 1, 2
+|-
+! 490 l drop tanks
+| 1 || || 1 || || 1
+|-
+| colspan="6" | Maximum permissible loadout weight: 1,300 kg<br>Maximum permissible wing load: 650 kg<br>Maximum permissible weight imbalance: 570 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 3 x 490 l drop tanks
 * 2 x R-13M1 missiles
 * 4 x R-13M1 missiles
 * 4 x R-3S missiles
 * 4 x R-3R missiles
-* 6 x R-60MK missiles
 * 4 x R-60MK missiles
+* 6 x R-60MK missiles
+* 64 x S-5K rockets (2 x 32)
+* 64 x S-5K rockets (4 x 16)
+* 4 x S-24 rockets
 * 8 x 100 kg OFAB-100 bombs (800 kg total)
 * 2 x 250 kg FAB-250M-62 bombs (500 kg total)
 * 2 x 500 kg FAB-500M-62 bombs (1,000 kg total)
 * 2 x ZB-500 incendiary bombs
-* 4 x S-24 rockets
-* 2 x 32 S-5K rockets (64 total)
-* 4 x 16 S-5K rockets (64 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
-|-
-! 100 kg OFAB-100 bombs
-| || 4 || 4 ||
-|-
-! 250 kg FAB-250M-62 bombs
-| || 1 || 1 ||
-|-
-! 500 kg FAB-500M-62 bombs
-| || 1 || 1 ||
-|-
-! ZB-500 incendiary bombs
-| || 1 || 1 ||
-|-
-! S-5K rockets
-| 16 || 16, 32 || 16, 32 || 16
-|-
-! S-24 rockets
-| 1 || 1 || 1 || 1
-|-
-! R-3R missiles
-| 1 || 1 || 1 || 1
-|-
-! R-3S missiles
-| 1 || 1 || 1 || 1
-|-
-! R-13M1 missiles
-| 1 || 1 || 1 || 1
-|-
-! R-60MK missiles
-| 1, 2 || 1 || 1 || 1, 2
-|-
-| colspan="5" | Maximum permissible loadout weight: 1,300 kg<br>Maximum permissible wing load: 650 kg<br>Maximum permissible weight imbalance: 570 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

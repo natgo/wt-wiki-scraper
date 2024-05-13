@@ -32,7 +32,7 @@ At its BR, the Valentine's protection starts to let it down a bit, uptiers can b
 | Turret || 65 mm (0-66°) ''Turret front'' <br> 65 mm (0-62°) ''Gun mantlet'' || 60 mm || 65 mm (1-57°) || 20 mm
 |-
 |}
-Flat on the Valentine's hull is pretty weak, it consists mainly of a flat 60 mm front plate, with an even weaker driver's vision port, so even Rank I guns can punch through there. The sides are 50 mm thick, so angling can be effectively done. The turret is a lot better, featuring both 60 mm turret cheeks sloped forwards, there is still a breach weak spot, where the armour is flat, the sides of the turret are still pretty strong at 60 mm but flat, however turret angling should not be done as it will normalize the cheeks.
+Flat on the Valentine's hull is pretty weak, it consists mainly of a flat 60 mm front plate, with an even weaker driver's vision port, so even Rank I guns can punch through there. The sides are 50 mm thick, so angling can be effectively done. The turret is a lot better, featuring both 60 mm turret cheeks sloped forwards, there is still a breech weak spot, where the armour is flat, the sides of the turret are still pretty strong at 60 mm but flat, however turret angling should not be done as it will normalize the cheeks.
 
 As for post-pen survivability it is fairly poor, as there is only three crewmates, a driver in the hull, a gunner and a loader in the turret, so a hull pen will practically always result in a one shot, a turret armour breach might knock out only one of the turret crew, but can one shot as well.
 

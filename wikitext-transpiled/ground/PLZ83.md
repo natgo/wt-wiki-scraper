@@ -148,20 +148,27 @@ Overall, although there are major flaws in terms of firepower without more power
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+
+By 1960s, although the trends of Cold War aimed for SPH systems with enclosed turret system, PLAGF was rather lacking for such vehicles with only [[SU-76M (China)|SU-76M]] and [[ISU-122 (China)|ISU-122]]/[[ISU-152 (China)|152]] serving as the SPG for the Army; further development of Type 70 SPH based on ZSD63's stretched B531 chassis and WWII era 122 mm Model 1938 M-30 (as Type 54), considering the combat compartment with no extra protection outside the vehicle, this would not be a long-term solution for PLAGF especially after late-1970s economic reform and military modernization. In 1978, PLAGF Artillery Corps delivered the request to the General Staff for a new 152 mm and waited for the theorizing from 5th Ministry of Machine Building. The development of the new SPH was handed to Factory 674 ''(NORINCO Harbin First Machinery Group Corp.)'' for the chassis systems'','' Factory 127 ''(NORINCO Qiqihar Heping Heavy Industries)'' for the gun systems and Xingguang Instrument Factory at Dexing, Jiangxi for the gunnery instruments. The overall design was then theorized for another half year and passed for development in June 1979, which only took Factory 674 another half year to deliver the first prototype to PLAGF by February 1980. The SPH incorporated with a redesigned PL66-152 howitzer for vehicular use and originally planned for an autoloader, but eventually ditched due to technical difficulties for a simplified assisted loader. The result of the certified PLZ83 also set the foundation for the future WZ321 universal chassis for the future [[PTZ89]] and PHZ89, as well as the foundation of future howitzers with completely domestic solutions; due to the introduction of Bull's GC-45 155 mm howitzer and the development of PLZ45, only 79 PLZ83(A) was produced and now serving as one of the artillery systems in PLAGF service which would very likely to be replaced by PLZ05 series or PCL181 in near future.
+
+An export solution was shown in 1987 NORINCO's catalogue with a PL59-130 howitzer, dubbed the PLZ83-130 but earned no export orders since then.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_plz_83 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+'''Cold War SPHs'''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[2S3M]] - the Soviet SPH that PLZ83 aimed for
+* [[M109 (Family)|M109]] series - NATO SPH system with very long service life and upgrades
+* [[Bkan 1C]] - Swedish SPH with sophisticated autoloader system
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

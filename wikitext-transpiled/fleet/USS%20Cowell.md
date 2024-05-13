@@ -230,13 +230,16 @@ In August 1971, the ship was ultimately decommissioned from U.S. service and was
 {{Youtube-gallery|zCiYZGT9Ipc|'''The Shooting Range #102''' - ''Pages of History'' section at 04:56 discusses the Cowell (DD-547).|xcZUL5_9HhM|'''Premium Destroyer Comparison''' - ''Napalmratte''}}
 
 == See also ==
-<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.'' -->
+<!--''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the ship;''
+* ''links to approximate analogues of other nations and research trees.''-->
 
 ;Related development
-
 * [[Fletcher (Family)]]
+
+;Other vehicles of similar configuration and role
+* [[USS Aylwin]]
+* [[Harukaze|JDS Harukaze]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

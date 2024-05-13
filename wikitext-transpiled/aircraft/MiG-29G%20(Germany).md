@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-After the re-unification of Germany, the Luftwaffe liquidated or scrapped almost all of the Soviet-made NVA aircraft they had inherited. The notable exception was the MiG-29s, which not only were a valuable asset for NATO in dissimilar combat training, but as testing shortly afterwards showed, were superior to most fighters in service with NATO at the time. As such, it was decided to keep the MiG-29s in Luftwaffe service, and to extend their life by replacing parts and upgrading avionics to meet NATO standards and certifications. The resulting project was the MiG-29G. To integrate these aircraft into NATO operations, The MiG-29G had been upgraded with NATO-compatible communication and navigation systems, making it fully interoperable with NATO forces. The MiG-29G was also equipped with Western avionics. The aircraft was designed to operate in a multi-role capacity, capable of both air-to-air and air-to-ground missions. This German MiG-29 variant, with its blend of Eastern airframe prowess and Western technology, represented a unique fusion of capabilities that set it apart from its older Soviet counterparts and made it a valuable asset for NATO.
+After the re-unification of Germany, the Luftwaffe liquidated or scrapped almost all of the Soviet-made NVA aircraft they had inherited. The notable exception were the MiG-29s, which not only were a valuable asset for NATO in dissimilar combat training, but as testing shortly afterwards showed, were superior to most fighters in service with NATO at the time. As such, it was decided to keep the MiG-29s in Luftwaffe service, and to extend their life by replacing parts and upgrading avionics to meet NATO standards and certifications. The resulting project was the MiG-29G. To integrate these aircraft into NATO operations, The MiG-29G had been upgraded with NATO-compatible communication and navigation systems, making it fully interoperable with NATO forces. The MiG-29G was also equipped with Western avionics. The aircraft was designed to operate in a multi-role capacity, capable of both air-to-air and air-to-ground missions. This German MiG-29 variant, with its blend of Eastern airframe prowess and Western technology, represented a unique fusion of capabilities that set it apart from its older Soviet counterparts and made it a valuable asset for NATO.
 
 The '''{{Specs|name}}''', introduced in [[Update "Kings of Battle"]], is a major step in advancement from its counterparts in War Thunder. The main upgrade in this variant is the availability of the [[R-27ET1]] and [[R-73E]] missiles which its older predecessor, the [[MiG-29 (Germany)|MiG-29 (9.12)]] lacked. The true advantage in this model lies in its airframe type; while the older East German MiG-29 and its Soviet counterpart, the [[MiG-29|MiG-29 (9.13)]] lack the advanced R-73 and R-27ET missiles in-game, the MiG-29G acts as a "next generation" equivalent (and direct sidegrade) to the Russian [[MiG-29SMT]]. While the MiG-29G lacks the upgraded ground ordnance, increased countermeasure count, expanded fuel capacity, and new radar system of the MiG-29SMT, it also lacks the main drawback of the SMT: the massive increase in weight turning the SMT into a "missile bus" compared to previous MiG-29s. The MiG-29G as such is essentially just the older 9.12 that players are already familiar with, but now with new and upgraded missiles to enhance its lethality in aerial combat.
 
@@ -18,7 +18,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Kings of Battle"]], is a major
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+The MiG-29G is, like its predecessor, very manoeuvrable and fast, making it a lethal fighter to come across.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -45,7 +45,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Kings of Battle"]], is a major
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -112,7 +112,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Kings of Battle"]], is a major
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The MiG-29G has no armour whatsoever thus making it very vulnerable to enemy shots, especially from the front. Due to this, head-ons should be avoided at all times since the pilot is not protected.
 
 === Modifications and economy ===
 {{Specs-Economy}}

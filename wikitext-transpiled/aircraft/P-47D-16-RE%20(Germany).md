@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German fighter {{Battle-rating}}. It was introduced in [[Update "New Power"]], replacing the [[P-47D (Germany)]].
+The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} German fighter {{Battle-rating}}. It was introduced in [[Update "New Power"]], replacing the ahistorical [[P-47D (Germany)]], a bubble-canopy model. Germany captured and tested a few P-47 "razorback" models during WWII. This model represents the aircraft designated T9+LK in Luftwaffe service.
 
 == General info ==
 === Flight performance ===
@@ -98,26 +98,45 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+;Air Battles
 
-As with the other P-47's in-game, this aircraft should be primarily played using Boom and Zoom tactics. You may need to side climb in order to get into a viable position, given that Allied aircraft will be at a higher altitude than you a good amount of the time. It is highly recommended to not try and turn with the aircraft you are tailing, as this is how you will quickly lose energy and become easy pickings. Instead, after your first pass, initiate a relatively steep climb. This will allow you to once again take the altitude advantage on the enemy, which will further give more opportunities for BnZing. When climbing back up, however, pay attention to what aircraft may be around. You are essentially a free kill for anyone in the vicinity if you are not aware of what is around.
+As with the other [[P-47 (Family)|P-47]]s, it is highly recommended to primarily use [[Boom & Zoom]] (BnZ) tactics for this aircraft. You may need to side climb in order to get into a viable position, given that many Allied aircraft, especially P-47s have similar or better climb rates and can gain an altitude advantage on you a good amount of the time. 
 
-This variant of the P-47 does not offer any payload options, so using it in a CAS (Close Air Support) role may not be as effective versus the other P-47 variants.
+It is highly recommended to not try and turn with the aircraft you are tailing, as doing so will quickly bleed energy and cause the P-47D-16-RE (Germany) to become easy pickings. Due to the relatively heavy weight of the aircraft, it will usually maneuver slower than enemy aircraft turnfights. Instead, using Boom and Zoom tactics, after your first pass initiate a relatively steep climb. This will allow you to once again take the altitude advantage on the enemy, which will give more opportunities for BnZing. When climbing back up, however, it is advisable to pay attention to what enemy aircraft may be around. Not being vigilant during the climb out can allow enemies to get into killing positions and destroy you before you can react.
 
-'''Simulator/EC'''
+;Ground Battles
 
-In Simulator/Enduring Confrontation, bulkier planes that suffer in AB & RB shine and that of course includes the P-47. Sitting at BR 3.7, the lowest BR for rank 3 EC, it can respawn infinitely which makes it a great learning platform for new EC players. In Sim, the P-47 has a stable control handling, all-round unobstructed vision and fast speed. However, as mentioned above, this German P-47 has no suspended armaments, limiting its use to bomber intercepting, traditional BnZ fighting and maybe ground pounding.
+The P-47D-16-RE (Germany) does not offer any secondary payload options, so its capabilities in the [[Close Air Support]] (CAS) role is reduced compared to Allied P-47 variants. 
 
-Be very careful when hunting bombers, since with the Sim control (whether it be mouse joystick or a real stick) the plane will manoeuvre much more gently, making itself a great target for the bomber's gunners. DO NOT follow behind a bomber's 6 unless you are sure that its tail gunners are unconscious. Chasing behind a bomber makes yourself pretty much stationary for the tail gunners, and you will be showered with bullets. The big radial engine of the P-47 will usually get damaged. Instead, before launching an attack, get an altitude advantage over the bomber by flying around 2 km above it. The bomber should only fill up about 1/6 of your gunsight. The best position for an attack is at the bomber's high 6 so you can adjust the lead much easier. Dive at the bomber, but not directly at it, try to predict where you two will crash by imagining yourself as a missile, that's where you should aim at (deflection shooting). To maximise the damage it is better to aim for their wings and engines, as the fuselage usually soaks up quite some bullets. Only fire when the bomber passes in front of your guns. This short window might seems inadequate to do anything, but the 8 MG on the P-47 are actually quite destructive, as sometimes it only takes one bullet to set the target aflame.
+;Simulator/EC
 
-As for dogfighting, because almost all aerial battles in Sim occurs at below 3,000 m, the P-47 can easily climb to this altitude and gather up lots of speed before engaging a battle. The tactic is similar to the RB one above. If, unfortunately, you find yourself being chased at your 6 and you don't know how to do any defensive manoeuvres, do a large, smooth turn towards the nearest friendly airfield to avoid bleeding too much speed. Then shallow-dive towards your airfield. The P-47 can quite easily outrun opponents like the I-16 or IL-2, but might struggle to outrun F6F, P-38 or other P-47. Another way of disengaging is to do a sudden split-S to dodge under the chaser. Average Sim players will now try and see where you went, if not immediately losing track of you. You can then run for your airfield or shallow climb for another attack.
+In Simulator/Enduring Confrontation, bulkier planes that may struggle in AB & RB can shine. Sitting at BR 3.7, the lowest BR for Rank 3 EC, it can respawn infinitely which makes it a great learning platform for new EC players. In Sim, the P-47D-16-RE (Germany) has very stable control handling and fast speed. However, as mentioned above, this aircraft has no suspended armaments, relegating its use to traditional BnZ fighting, light ground pounding and bomber hunting.
 
-For ground pounding, dive at a shallow angle to approach the target, try to get as close as possible but avoid crashing into the ground. The 8 MGs are perfect for killing trucks, AA guns and artilleries as they have plenty of ammo. However, constantly watch your surrounding, especially your high 6 for any incoming enemies.
+''Bomber Hunting''
 
-'''Enemies worth noting:'''
+It is recommended to be careful when hunting bombers, since with the Simulator control (whether using mouse joystick or a real stick) will cause the plane will manoeuvre much more gently than other gamemode's controls, making itself an easier target for the bomber's gunners. Following behind a bomber's tail with active gunners will likely ensure your destruction. The large radial engine of the P-47D-16-RE (Germany) will often get damaged when taking fire from the front. 
 
-*[[Me 264]] (mixed battle): This giant is one of the few bombers who get air spawns in Sim, so it usually flies higher than you think. On top of this, the Me 264 is armed with large calibre machine guns and cannons all over it, therefore tailing a 264 is basically suicide unless all of their gunners are knocked out. You can treat the 264 almost like a B-29 or B-17 as they are very similar in both design and defensive capabilities. It is best to head-on the 264 if you can as you can easily knock out the pilots due to its glazed nose while also taking minimal damage. However the bomber lacks a ventral turret on its belly, making it easy to deal damage from below, but be wary of the downwards facing rear 20 mm cannon near the tail. The safest way to attack is from a higher altitude, dive at an oblique angle and focus fire on the wings and nose. Never engage if you have no altitude advantage.
+Instead of launching an attack directly behind the bomber, it is recommended to gain an altitude advantage over the bomber by flying around 2 km above it. The most advantageous position for an attack is above and behind the bomber so that you can adjust for lead easier and retain speed for maneuverability. To maximise damage it is recommended to aim for a bomber's wings and engines, as the fuselage usually soaks up large amounts of bullets without taking critical damage. Although the window for attack might seem inadequate, the 8x [[M2 Browning (12.7 mm)|M2 Browning]] heavy machine guns on the P-47D-16-RE (Germany) are quite destructive. Sometimes, it only takes one bullet to set critical components of the target aflame.
 
-*[[Bf 110 (Family)|Bf 110]], [[Ki-45 (Family)|Ki-45]], [[A-26 (Family)|A-26]]: As mentioned before, those twin engine aircraft are a big threat since their lack of manoeuvrability comparing to single engine fighters are minimised in Sim. They are usually armed with heavy guns & cannons in the nose, so an accurate burst will tear any plane apart, including the P-47. The P-47 manoeuvres rather sluggishly and you might get out-turned from even those heavy fighters, so engage them with either altitude or speed advantage to avoid being targeted. If they are not manoeuvring aggressively, aim for their wings or engines. If the fight is intense and you cannot smooth the aim, just burst anywhere as long as you hit them, the 12.7 mm bullets will damage their flight models quite a bit.
+''Dogfighting''
+
+As for dogfighting, because almost all aerial battles in Simulator battles occurs at or below 3,000 m, the P-47D-16-RE (Germany) can easily climb to this altitude and gather plenty of speed before engaging. Most dogfighting tactic are similar to the tactics mentioned above. 
+
+If, unfortunately, you find yourself being chased and you are unfamiliar with defensive manoeuvres, you can do a large, smooth turn towards the nearest friendly airfield. Following this turn, you can go into a shallow dive towards the airfield. The P-47D-16-RE (Germany) can easily outrun opponents like the [[I-16 (Family)|I-16]] or [[IL-2 (Family)|IL-2]], but might struggle to outrun faster aircraft such as the [[P-51 (Family)|P-51]], [[P-38 (Family)|P-38]] or other [[P-47 (Family)|P-47]]<nowiki/>s. 
+
+Another way of disengaging from a dogfight is to do a sudden split-S turn to dodge under the pursuer. Average Sim players will generally try to look for you in the direction of the initial turn. If performed quickly enough, they may immediately lose track of you. After successfully breaking away, you can then either run for your airfield or initiate a shallow climb to set up an attack.
+
+''Ground Attack''
+
+For ground pounding, you can dive at a shallow angle to approach the target. This will allow you to get as close as possible to the target without crashing into the ground. The M2 Browning machine guns are very good for killing unarmored trucks, AA guns and artillery pieces. However, while attacking ground targets it is recommended to be on high alert for enemies, especially ones in your blind spots behind and above you.
+
+;Enemies worth noting
+
+*[[Me 264]]: This giant is one of the few bombers who get air spawns in Sim, so it usually flies at very high altitudes. On top of this, the Me 264 is armed with large calibre machine guns and cannons covering almost all angles. Therefore, tailing an Me 264 is basically suicide unless all of their gunners are knocked out. You can treat the Me 264 almost like a [[B-17 (Family)|B-17]] or [[B-29A-BN|B-29]] as they are similar in both design and defensive capabilities. It is highly recommended to attack the Me 264 in a head-on, as you can easily knock out the pilots due to the Me 264's unarmored cockpit while also taking minimal risk of damage. Another thing to note is that the Me 264 lacks a ventral turret on its belly, making it easy to deal damage from below. However, be wary of the downwards facing rear 20 mm [[MG 151 (20 mm)|MG 151]] cannon near the tail. As mentioned above, the most recommended way to attack this bomber is from a higher altitude, diving at an oblique angle and focusing fire on the wings and nose. It is inadvisable to attack this bomber if you have no altitude advantage.
+
+*[[Bf 110 (Family)|Bf 110]], [[Ki-45 (Family)|Ki-45]], [[A-26 (Family)|A-26]]: Twin engine aircraft can be a big threat since their lack of manoeuvrability compared to single engine fighters are minimised in Sim. They are usually armed with heavy guns & cannons in the nose, so an accurate burst will tear any plane apart. The P-47D-16-RE (Germany) manoeuvres rather sluggishly and you might get out-turned from even these heavy fighters. It is recommended to engage them with either an altitude or speed advantage to avoid taking a bad position. If they are not manoeuvring aggressively, you can aim for their wings or engines. If the fight is intense and you cannot aim well, you can fire bursts anywhere. As long as you hit them, the 12.7 mm bullets can cause significant damage to aircraft modules.
+*[[A6M (Family)]]: The A6M "Zero" family of Japanese fighters are excellent turnfighters and will easily be able to outmaneuver the P-47D-16-RE (Germany) at low speeds. Many variants of these aircraft will also carry cannons that can make short work of your aircraft. It is recommended to always maintain an altitude advantage over these aircraft and perform BnZ attacks. One advantage that your armament has is that incendiary rounds from the Browning M2 machine guns can easily set Zeroes on fire. Although Sim battles will gaurantee that the Japanese are friendlies, it also means you may possibly encounter captured Zeroes on the Allied team such as the [[A6M2 (USA)]] and [[A6M2 (China)]]. These may not be easily recognizeable as enemy fighters until you get close enough to study their roundels. However, they may be confused about your identity as well, as the P-47D-16-RE (Germany) is of Allied origin.
+*[[Spitfire (Family)]]: Similarly to the A6M Zero family, the Spitfire family are also all excellent turnfighters and will beat the P-47D-16-RE (Germany) at low speeds. It is recommended to employ the same BnZ tactics against these as other fighters.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -141,47 +160,51 @@ For ground pounding, dive at a shallow angle to approach the target, try to get 
 
 '''Pros:'''
 
-* Great bomber destroyer against a lone bomber
 * Excellent high altitude performance
-* If taken care of, can easily fly with one wing
-* Muscle car with wings, excellent at Boom and Zoom tactics
-* 8 M2 Browning machine guns are accurate at a longer range than most cannons at its BR
-* High speed, even while stock
-* Very durable which semi-compensates with its lacklustre turn rate
-* Plenty of ammo
-* Can easily escape enemies with its high speed for its rank
+* High top speed
+* Effective in Boom and Zoom tactics
+* 8x M2 Browning machine guns can output significant damage, quickly
+* Guns are accurate at long ranges
+* Large ammo capacity
+* Tough airframe that can take significant damage
+* Can confuse Allied players in Simulator battles due to being a captured P-47
+* Bright yellow underbelly and large German roundels can notify friendly units to your alliance
 
 '''Cons:'''
 
 * Frontal armour can easily be penetrated by 20 mm rounds
-* Can easily snap a wing when even the slightest gunfire hits it
+* No armour protection for the pilot from behind
+* Mediocre climb performance; side climbing is recommended
+* Heavy and can struggle to manoeuvre at low altitudes
 * Poor stall characteristics
-* Mediocre climb performance (side climbing recommended)
-* Slow and hard to manoeuvre at low altitudes
-* Larger than average fighter
-* Big engine easily hit during a head-on attack
-* Worse cockpit visibility than in the other bubble canopy P-47s
-* No armour protection for pilot from behind
-* Unlike other P-47s, lacks the ability to carry payloads, limiting its usefulness in battles
+* Larger than the average fighter; large radial engine can be easily damaged during a head-on attack
+* Poorer cockpit visibility than bubble-canopy P-47s
+* No suspended armaments
+* Can confuse friendly Axis players in Sim battles into shooting it down due to being a captured P-47
+* Bright yellow underbelly increases visibility for enemies
 
 == History ==
-<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-There are a few instances of captured P-47s having been used by the Luftwaffe. On 7 November 1943, a P-47 piloted by U.S. 2nd Lt. William E. Roach made an emergency landing on a German airfield. The pilot was made prisoner and the Thunderbolt was given German markings T9+LK, presumably having been used for reconnaissance over England before D-Day. This plane was recaptured later by the Americans when they took the airfield it was based at. At least two other captured P-47s saw service in the German ranks, being used for reconnaissance, testing and propaganda.
+<!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->[[File:P-47D-16-RE (T9+LK) Germany.jpg|alt=Captured German P-47 in a hangar, designated T9+LK|left|thumb|Captured German P-47 in a hangar, designated T9+LK]]
+There are a few instances of captured P-47s having been used by the Luftwaffe. 
 
+On 7 November 1943, a P-47 piloted by U.S. 2nd Lt. William E. Roach made an emergency landing on a German airfield. The pilot was made prisoner and the Thunderbolt was given German markings T9+LK, presumably having been used for reconnaissance over England before D-Day. This plane was recaptured later by the Americans when they took the airfield it was based at. 
+
+At least two other captured P-47s saw service in the German ranks, being used for reconnaissance, testing and propaganda.
+{{break}}
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p-47d_16_re_germany Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[P-47 (Family)]]
+** [[P-47D-22-RE]]
+** [[P-47D (Germany)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

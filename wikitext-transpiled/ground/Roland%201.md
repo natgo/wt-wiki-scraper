@@ -57,14 +57,14 @@ Almost every MBT in the game will have absolutely no difficulty destroying you w
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[Roland|Roland SAM]] (x2) || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[Roland|Roland SAM]] (x2) || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 10 (2) || rowspan="2" | -10°/+35° || rowspan="2" | ±180° || rowspan="2" | N/A || 74.9 || 103.6 || 125.8 || 139.1 || 148.0 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00
+| rowspan="2" | 10 (2) || rowspan="2" | -10°/+35° || rowspan="2" | ±180° || rowspan="2" | N/A || 74.9 || 103.6 || 125.8 || 139.1 || 148.0 || rowspan="2" | 5.00 
 |-
 ! ''Realistic''
 | 50.6 || 59.5 || 72.3 || 79.9 || 85.0

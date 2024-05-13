@@ -99,6 +99,7 @@ The Ersatz "M10" turret is also a good indicator in distinguishing the M10 from 
 |-
 |}
 Notes:
+
 * As they are modeled by sets of 2 or 3, shells disappear from the rack only after you fire all shells in the set.
 * Right side empty: 50&nbsp;''(+32)'' shells.
 * Both sides empty: 22&nbsp;''(+60)'' shells.
@@ -147,12 +148,10 @@ Any British tank that fires APDS can penetrate the upper glacis. The 17 pounder 
 
 * Excellent mobility and top speed.
 * Fantastic 75mm gun. Has great accuracy, fire rate, penetration, and damage potential.
-* Unlike the [[Panther D|Panther D,]] this tank has a really good turret traverse speed.
 * Strong frontal armour.
 * Has an additional 3.5 mm of spaced armour encasing the entire tank.
 * Additional steel plates can screen the prominent turret weak points from easy targeting by the enemy
 * The removal of the commander's cupola removes a potential weak spot when going hull-down.
-* Is flat out superior to the standard Panther D despite being at the same BR.
 
 '''Cons:'''
 
@@ -188,10 +187,12 @@ Despite Panzer Brigade 150's failure to achieve its objectives, the overall obje
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_pzkpfw_V_ersatz_m10 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

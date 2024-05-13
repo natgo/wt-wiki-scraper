@@ -63,6 +63,10 @@ The few advantages of this vehicle are: internal shields (to ensure that at leas
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|20pdr OQF Mk.I (84 mm)}}
 
+The {{PAGENAME}} carries an 84 mm 20pdr gun in a lightly armoured turret protected only with 30 mm RHA box. As the gun is very consequent, the turret traverse is quite slow so one should have to preventively aim towards a corner before going around it. The high penetration power of the gun compensates the poor slewing rate. Plus, even the stock shells has as much penetration as the [[QF 17-pounder (76 mm)|76 mm QF 17pdr]]'s APDS shell found on other Rank III tanks, this only gets better with the upgraded APDS shot, which can pierce up to 363 mm of armour at 500 m distance (or a [[Tiger II (H)]]'s UFP at point-blank range).
+
+The tank commander has the ability to control the weapon if the gunner is knocked out, which is very unusual at the rank and might allow to aggressively trade shots, or even straight up rush some tanks in AB.
+
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[20pdr OQF Mk.I (84 mm)|84 mm 20pdr OQF Mk.I]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -72,16 +76,12 @@ The few advantages of this vehicle are: internal shields (to ensure that at leas
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 25 || rowspan="2" | -5°/+10° || rowspan="2" | ±180° || rowspan="2" | - || 17.1 || 23.7 || 28.8 || 31.9 || 33.9 || rowspan="2" | 8.19 || rowspan="2" | 7.25 || rowspan="2" | 6.68 || rowspan="2" | 6.30
+| rowspan="2" | 25 || rowspan="2" | -5°/+10° || rowspan="2" | ±180° || rowspan="2" | - || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 8.19 || rowspan="2" | 7.25 || rowspan="2" | 6.68 || rowspan="2" | 6.30
 |-
 ! ''Realistic''
-| 10.7 || 12.6 || 15.3 || 16.9 || 18.0
+| 11.9 || 14.0 || 17.0 || 18.8 || 20.0
 |-
 |}
-
-The {{PAGENAME}} carries an 84 mm 20pdr gun in a lightly armoured turret protected only with 30 mm RHA box. As the gun is very consequent, the turret traverse is quite slow so one should have to preventively aim towards a corner before going around it. The high penetration power of the gun compensates the poor slewing rate. Plus, even the stock shells has as much penetration as the [[QF 17-pounder (76 mm)|76 mm QF 17pdr]]'s APDS shell found on other Rank III tanks, this only gets better with the upgraded APDS shot, which can pierce up to 363 mm of armour at 500 m distance (or a [[Tiger II (H)]]'s UFP at point-blank range).
-
-The tank commander has the ability to control the weapon if the gunner is knocked out, which is very unusual at the rank and might allow to aggressively trade shots, or even straight up rush some tanks in AB.
 
 ==== Ammunition ====
 {{:20pdr OQF Mk.I (84 mm)/Ammunition|Shot Mk.1, Shot Mk.3, Shell Mk.1, 20pdr Shell SS Mk.1}}
@@ -152,12 +152,13 @@ In urban maps, pre-aim before getting around corners since turret slewing rate i
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Finnish Army bought 38 Charioteers; 3 in 1958 and a further 35 in 1960. They were removed from frontline service in 1972 but remained in use as training vehicles until 1980<ref>https://www.doria.fi/bitstream/handle/10024/172850/Ylijohdon_reservi-Petteri-Jouko.pdf</ref>. 15 were kept in storage until they were auctioned off in 2007.<ref>https://www.mtvuutiset.fi/artikkeli/vanhaa-panssarikalustoa-myyntiin/2002044#gs.891lka</ref> 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_charioteer_mk_7 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -169,6 +170,7 @@ In urban maps, pre-aim before getting around corners since turret slewing rate i
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;British variant of the same vehicle
+
 * [[Charioteer Mk VII]]
 
 == External links ==

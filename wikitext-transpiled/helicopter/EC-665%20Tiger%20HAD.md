@@ -1,9 +1,7 @@
 {{About
 | about = French attack helicopter '''{{PAGENAME}}'''
-| and
 | usage = other versions
-| link-1 = EC-665 Tiger HAP
-| link-2 = EC-665 Tiger UHT
+| link = Tiger Eurocopter (Family)
 }}
 {{Specs-Card
 |code=tiger_had_france
@@ -12,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-During the late '80s and early '90s, Airbus, DASA, and Aérospatiale formed Eurocopter to create the next generation of European helicopters. Their most famous example was the Tiger helicopter, earning notorious on-screen fame after starring as an important plot point in the 1995 James Bond movie "''Goldeneye''". The Tiger and its derivatives would go on to have a long and prosperous life with many european countries, and were adapted into different variants to suit the needs of each operator. The Eurocopter Tiger family would be renamed to the Airbus EC665 Tiger after Eurocopter was renamed to Airbus Helicopters SAS. The HAD variant, standing for ''Hélicoptère d'Appui Destruction'', or "Helicopter for Support and Destruction", is a specially made version for the French air force which favours heavy frontline support and anti-tank duties over the older [[EC-665 Tiger HAP|HAP]] model. In 2022, Airbus and France reached an agreement to upgrade the existing Tiger HADs into [[Tiger HAD Block 2|a new block]], allowing them to carry better ordnance and avionics.
+During the late '80s and early '90s, Airbus, DASA, and Aérospatiale formed Eurocopter to create the next generation of European helicopters. Their most famous example was the Tiger helicopter, earning notorious on-screen fame after starring as an important plot point in the 1995 James Bond movie "''Goldeneye''". The Tiger and its derivatives would go on to have a long and prosperous life with many European countries, and were adapted into different variants to suit the needs of each operator. The Eurocopter Tiger family would be renamed to the Airbus EC665 Tiger after Eurocopter was renamed to Airbus Helicopters SAS. The HAD variant, standing for ''Hélicoptère d'Appui Destruction'', or "Helicopter for Support and Destruction", is a specially made version for the French air force which favours heavy frontline support and anti-tank duties over the older [[EC-665 Tiger HAP|HAP]] model. In 2022, Airbus and France reached an agreement to upgrade the existing Tiger HADs into [[Tiger HAD Block 2|a new block]], allowing them to carry better ordnance and avionics.
 
 Introduced in [[Update 1.91 "Night Vision"]], the Tiger HAD provides a great CAS option for the French tech tree in top rank tank battles, thanks to its great avionics (MAW), optics (Thermals), and decent selection of various missiles for various jobs, including Mistrals and Stingers for the air-to-air role, along with HOT-3 ATGMs and AGM-114K Hellfire missiles to provide longer range ground support. The HAD is a popular pick both for mixed battles and helicopter enduring confrontation PvE battles where it can make short work of targets from a safe distance thanks to its decent missile selection and great optics.
 

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French tank destroyer {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The '''{{Specs|name}}''' was one of the main armored actives of the French Armed Forces in their efforts to combat the constant rebellions and revolutions in Indochina. The vehicle was acquired by the French after the Second World War, at this point, the US had a very large stockpile of surplus military vehicles that were no longer needed. As such, the French obtained a large number of M36s. These tanks operated under the ''Régiment Blindé Colonial d'Extrême Orient'' alongside M24 Chaffes and other tanks obtained from the US. The M36B2 proved very successful in dealing with fortifications, Vietnamese light vehicles, and as a support vehicle, conducting direct fire support.
+
+It was introduced in [[Update "Drone Age"]]. The M36B2 is the spiritual successor to the M10 and an improvement over the M36, although it is very similar in playstyle. The M36B2 GMC performs extremely similarly to the original M36 GMC. Armoured turret cover shields were added to the M36B2, providing some modest protection against small artillery shrapnel and strafing by small-calibre aircraft machine guns. Despite this, the vehicle remains poorly armoured, leaving it vulnerable to strafing by large-calibre aircraft heavy machine guns or aircraft cannons. For the M36B2 variant, new HEAT-FS ammunition has become available, allowing it to engage strongly armoured enemy vehicles at a significantly greater range with reliability.
 
 == General info ==
 === Survivability and armour ===

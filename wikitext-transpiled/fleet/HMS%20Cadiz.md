@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''HMS Cadiz (D79)''' is a member of the Tribal-class destroyer family. The HMS Cadiz was built by Fairfield Shipbuilding and Engineering Company. She was commissioned on April 12, 1946, after being launched on September 16, 1944. She was named after the Battle of Cadiz, a French siege of the Spanish town in 1810 that was eventually lifted in 1812 following the French defeat at the Battle of Salamanca. In 1956, she was transferred to the Pakistan Navy and commissioned as PNS Khaibar. During the 1971 Indo-Pakistan war, she was sunk off the coast of Karachi by the Indian Navy missile boat INS Nirghat.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British destroyer {{Battle-rating}}. It was introduced during [[Update "Wind of Change"]] as a reward for [[Battle Pass: Season VII, "Armoured Elephant"]].
 
-Introduced in [[Update "Wind of Change"]] as a reward for [[Battle Pass: Season VII, "Armoured Elephant"]], the HMS Cadiz is a fast destroyer equipped with powerful main armaments mounted in the bow. She, like the HMAS Tobruk, possesses superior secondary armament and a high sustained rate of fire. As a result, aircraft and fast-attack vessels may view the HMS Cadiz as a potentially dangerous target. Keep the HMS Cadiz close to the coast, given that she is a lethal opponent for fast coastal craft. Use her to protect allied coastal vessels as they capture objectives to win the battle.
+A Battle-class destroyer, HMS Cadiz is very similar to its Australian sister [[HMAS Tobruk]]. It has only 4 forward-mounted main guns that have a high rate of fire and can rotate 360°, a large AA battery of effective 40 mm guns, and 10 torpedoes that have somewhat awkward launch angles. Unfortunately, like other members of its class, it suffers from having a very easy to hit ammo rack, right under the main turrets.
 
 == General info ==
 === Survivability and armour ===
@@ -64,14 +64,12 @@ Introduced in [[Update "Wind of Change"]] as a reward for [[Battle Pass: Season 
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
-
 * Guns have a high rate of fire
 * Main guns have access to an HE-VT round
 * Main guns can rotate 360°
 * Large and strong anti-aircraft battery of 14 40 mm guns
 
 '''Cons:'''
-
 * Very easy to hit ammo rack under the main guns
 * Only forward-mounted guns mean that it is vulnerable to flanking
 
@@ -86,7 +84,6 @@ The destroyer HMS Cadiz (D79) was laid down at the Scottish shipyard of the Fair
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_destroyer_battle_cadiz Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -98,7 +95,6 @@ The destroyer HMS Cadiz (D79) was laid down at the Scottish shipyard of the Fair
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
 * [[Battle (Family)]]
 
 == External links ==

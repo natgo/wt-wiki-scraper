@@ -134,6 +134,16 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * 4 x 20 mm Hispano Mk.V cannons, nose-mounted (200 rpg top-left + 190 rpg bottom-left + 190 top-right + 200 rpg bottom-right = 780 total)
 
+=== Suspended armament ===
+{{Specs-Avia-Suspended}}
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
+{{main|H.E. M.C. Mk.13 (1,000 lb)}}
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+* Without load
+* 2 x 1,000 lb H.E. M.C. Mk.13 bombs (2,000 lb total)
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The Meteor F Mk 4 G.41F flies very similarly to the [[Sea Meteor F Mk 3]], maintaining the Sea Meteor's good acceleration, speed and climb rate. Flying the Meteor F Mk 4 G.41F feels a lot like flying the Sea Meteor and two should be played in the much the same way. Where the Meteor F Mk 4 G.41F excels over the sea meteor is in high speed flight , the wing ripping speed has been substantially improved, a high speed handling is better. The wings are also stronger, so while you do still have to be careful at higher speeds you can feel more confident in your manoeuvres than in the Sea Meteor.

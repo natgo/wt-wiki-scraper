@@ -26,7 +26,7 @@ The Tu-14T can be considered a slow and heavy jet like most bombers. However, ev
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 817 || 793 || rowspan="2" | {{Specs|ceiling}} || 52.4 || 53.3 || 11.6 || 10.8 || rowspan="2" | 1,500
+| 817 || 807 || rowspan="2" | {{Specs|ceiling}} || 52.4 || 53.4 || 11.6 || 11.4 || rowspan="2" | 1,500
 |-
 ! Upgraded
 | 901 || 856 || 49.7 || 51.0 || 18.7 || 15.0
@@ -159,7 +159,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-50sv (50 kg)|FAB-100M-43 (100 kg)|FAB-250M-46 (250 kg)|FAB-500M-46 (500 kg)|FAB-1000 (1,000 kg)}}
+{{main|FAB-50sv (50 kg)|FAB-100M-43 (100 kg)|FAB-250M-46 (250 kg)|FAB-500M-46 (500 kg)|FAB-1000M-43 (1,000 kg)}}
 {{main|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)|45-36MAN (450 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
@@ -168,7 +168,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 16 x 100 kg FAB-100M-43 bombs (1,600 kg total)
 * 12 x 250 kg FAB-250M-46 bombs (3,000 kg total)
 * 6 x 500 kg FAB-500M-46 bombs (3,000 kg total)
-* 1 x 1,000 kg FAB-1000 bomb (1,000 kg total)
+* 1 x 1,000 kg FAB-1000M-43 bomb (1,000 kg total)
 * 2 x 1,500 kg FAB-1500M-46 bombs (3,000 kg total)
 * 1 x 3,000 kg FAB-3000M-46 bomb (3,000 kg total)
 * 1 x 450 mm 45-36MAN torpedo

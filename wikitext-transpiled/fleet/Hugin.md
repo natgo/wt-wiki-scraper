@@ -18,12 +18,14 @@ As expected for a vessel of its BR and class, the Hugin has rather poor survivab
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
+Like most small vessels, the ''Hugin'' has a good top speed and acceleration, being able to reach capture points with ease. This mobility is best used to ambush stronger enemies or to rotate positions quickly.
 
 {{NavalMobility}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
+
+The most important upgrades for this vessel are the "Smokescreen", "Torpedo Mode", and "Artillery Support".
 
 == Armament ==
 {{Specs-Fleet-Armaments}}
@@ -32,7 +34,7 @@ As expected for a vessel of its BR and class, the Hugin has rather poor survivab
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|Bofors L/70 model 1948 (40 mm)}}
 
-''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
+The Hugin's main armament consists of two 40 mm L/70 m1948 Bofors cannons, which offer good firepower against light targets, but they are not so good against heavier opponents or small aircraft due to their low rate of fire.
 
 {{:Bofors L/70 model 1948 (40 mm)/Ammunition|40 mm M-DN51 HE-T, 40 mm HE-T-PF}}
 
@@ -41,23 +43,28 @@ As expected for a vessel of its BR and class, the Hugin has rather poor survivab
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|G7a (533 mm)}}
 
-''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.''
+For dealing with strong foes, the Hugin has access to four 533 mm torpedoes. These are fixed to the hull and are thus quite hard to aim; as such, use the superior mobility of the Hugin to point your front to the enemy ship and quickly retreat to cover behind islands or other ships after launching.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+The Hugin is best used as a support vessel, its superior speed and mobility gives it the ability to quickly reach capture points. Considering its primary armament, it has enough firepower to defend itself against lighter vessels that may only have .50 cal MGs or small autocannons. However, the Hugin should stay on the move to avoid being targeted by destroyers and heavier vessels with powerful cannons.
+
+To deal with these enemies, use the terrain to your advantage, closing distances with your target when they enter the areas of the map with hills and islands around them. As you close distance, try to quickly appear behind or beside your target, launch your torpedoes and retreat to cover.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-*
+* Adequate top speed and agility
+* Good primary armament against light vessels
+* Access to torpedoes to deal with heavier vessels such as destroyers
 
 '''Cons:'''
 
-*
+* Poor survivability
+* No secondary armament to deal with enemy aircraft
+* Fixed torpedoes limit launch opportunities
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

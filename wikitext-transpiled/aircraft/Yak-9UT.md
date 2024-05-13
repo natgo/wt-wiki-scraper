@@ -19,7 +19,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet fighter {{Battle-rating
 
 The Yak-9UT has an extremely high acceleration rate which is enhanced compared to earlier Yaks due to using the new Klimov M-107 engine. Unfortunately, like all Yaks, it has a poor engine performance at high altitude, though not as bad as VK-105 powered Yaks. It also has good manoeuvrability that gets better at higher speeds (above 400 km/h), but you will still be outmanoeuvred by Zeroes and Spitfires. Keep in mind that the ailerons will start to compress above 500 km/h
 
-The Yak-9UT doesn't have any the ability to carry bombs, however, it does have access to other gun configuration options many other aircraft do not have. By default, you have twin B-20S 20 mm cannons mounted on the top of the nose cowling and a single 23 mm cannon mounted in the propeller shaft, you have also access to the twin B-20S and an N-37 37 mm cannon with higher damage but less ammo and fire rate. Finally, the last gun setting, a single B-20S and an N-45 45 mm cannon with only HEFI-T rounds (High Explosive Fragmentation Incendiary Tracers) that has a benefit of higher bullet speed and an additional round of ammo over the 37 mm configuration.
+The Yak-9UT doesn't have the ability to carry bombs, however, it does have access to other gun configuration options many other aircraft do not have. By default, you have twin B-20S 20 mm cannons mounted on the top of the nose cowling and a single 23 mm cannon mounted in the propeller shaft, you have also access to the twin B-20S and an N-37 37 mm cannon with higher damage but less ammo and fire rate. Finally, the last gun setting, a single B-20S and an N-45 45 mm cannon with only HEFI-T rounds (High Explosive Fragmentation Incendiary Tracers) that has a benefit of higher bullet speed and an additional round of ammo over the 37 mm configuration.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -193,6 +193,7 @@ The Yak-9 was a further modification of the Yak-1 and Yak-7. In its core design,
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Yak-9 (Family)]]
 
 == External links ==

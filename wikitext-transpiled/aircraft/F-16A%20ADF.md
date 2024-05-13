@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-After the USAF Air Defense Command was dissolved, the Air National Guard (ANG) took up the task of defending American airspace in the mid-1980s. The F-16, which was introduced only several years prior, was selected, and 270 F-16A/B airframes were converted to the ADF (Air Defense Fighter) standard. The first production variants of the F-16 could not utilize the AIM-7 Sparrow, so the ADF included that feature. It also featured the AN/APX-109 IFF system and a spotlight for illumination during nighttime operations. Conversions were conducted at Ogden Air Logistics Center and carried on for 3 years. After the threat of Soviet bombers was over, many of the F-16 ADFs were either reconverted back into F-16A/Bs, placed into storage or sold off to other countries.
+After the USAF Air Defense Command was dissolved, the Air National Guard (ANG) took up the task of defending American airspace in the mid-1980s. The F-16, which had only been introduced several years prior, was selected, and 270 F-16A/B airframes were converted to the ADF (Air Defense Fighter) standard. The first production variants of the F-16 could not utilize the AIM-7 Sparrow, so the ADF included that feature. It also featured the AN/APX-109 IFF system and a spotlight for illumination during nighttime operations. Conversions were conducted at Ogden Air Logistics Center and carried on for 3 years. After the threat of Soviet bombers was over, many of the F-16 ADFs were either reconverted back into F-16A/Bs, placed into storage or sold off to other countries.
 
 Introduced in [[Update "Apex Predators"]], the '''{{Specs|name}}''' is a very powerful fighter thanks to its radar missile capability, dogfighting abilities, and overall performance. Firstly, the F-16A ADF can carry the [[AIM-7M Sparrow]], which is useful for medium to long-range engagements. The ADF can also equip all-aspect [[AIM-9L Sidewinder]]s, which have a decently long range for an infrared missile. Since the ADF was simply a conversion of the regular [[F-16A]] variant, it features the same engine and mostly the same airframe. However, the extra weight added by the various electronics and systems does increase the weight by around 280 kg (617 lb). Also, since the ADF was intended for interception, it lacks suspended armament and is mainly relegated to air duties. Nonetheless, the F-16A ADF is still overall an excellent aircraft.
 
@@ -123,7 +123,7 @@ The F-16A ADF is not very survivable because it has no armour plates. It becomes
 |-
 ! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
 | {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
@@ -146,23 +146,26 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="4" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
+| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_F-16A.png]]</div>
 |-
 ! [[AIM-7M Sparrow]] missiles
-| || || 1 || || 1 || ||
+| || || 1 || || || || 1 || ||
 |-
 ! [[AIM-9L Sidewinder]] missiles
-| 1 || 1 || 1 || || 1 || 1 || 1
+| 1 || 1 || 1 || || || || 1 || 1 || 1
 |-
 ! 300 gal drop tanks
-| || || || 1 || || ||
+| || || || || 1 || || || ||
+|-
+! 370 gal drop tanks
+| || || || 1 || || 1 || || ||
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-* 1 x 300 gal drop tank
+* 2 x 370 gal drop tanks + 1 x 300 gal drop tank
 * 2 x AIM-9L Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles
 * 2 x AIM-7M Sparrow missiles
@@ -194,7 +197,7 @@ The MiG-29 at high altitude can be dangerous if the opponent utilizes [[R-27ER]]
 * Excellent manoeuvrability at low to medium speeds
 * Decent top speed
 * 20 mm Vulcan cannon has high velocity and rate of fire
-* Able to carry the [[AIM-7 Sparrow]] SARH missile, allowing the {{PAGENAME}} to engage targets outside of the range of your 9Ls
+* Able to carry the [[AIM-7M Sparrow]] SARH missile, allowing the {{PAGENAME}} to engage targets outside of the range of your 9Ls
 * Six powerful missiles: up to six all aspect AIM-9Ls and up to two potent SARH AIM-7Ms
 * Drop tank available to extend range
 * Bubble canopy with excellent unobstructed 360° visibility gives great situational awareness in simulator mode

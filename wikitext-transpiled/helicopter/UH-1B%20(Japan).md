@@ -108,6 +108,9 @@ The JGSDF quickly realized the potential of combat manoeuvres between helicopter
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uh_1b_japan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
+;Videos
+{{Youtube-gallery|_xUPs-rPK3g|'''UH-1 Huey Ultimate Guide''' - ''Bob Dickinson''}}
+
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''

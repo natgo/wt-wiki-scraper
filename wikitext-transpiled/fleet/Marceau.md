@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+Formerly German Z31 destroyer of the Type 1936A, provided to France as a part of war reparations, '''Marceau''' had a short history in the French navy. After 2 years of service under the tricolour ensign, she underwent a major refit, where she was up-gunned to 150 mm main guns, 40 mm Bofors, and equipped with an American radar. She was based in Toulon, and participated in multiple Cold War-era exercises of the French Navy without any major incidents. In 1953, she was retired and sold for scrap in 1958.
+
+Introduced in [[Update "La Royale"]], '''Marceau''' is similar to her sister-ship [[Z32]], featuring excellent firepower against both surface targets and aircraft alike. Her SAP rounds are able to counter cruisers, while a unique setup of anti-air armament makes her able to effectively deal with enemy aircraft at medium and short range - a significant upgrade over the Z32. Her major weakness is the rear ammo rack, making her prone to explosions.
 
 == General info ==
 === Survivability and armour ===
@@ -101,9 +103,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wikipedia:German destroyer Z31|[Wikipedia] German destroyer Z31]]
+* [http://www.navypedia.org/ships/france/fr_dd_marceau.htm <nowiki>[Navypedia]</nowiki> MARCEAU destroyer (1942 / 1946)]
 
 {{ShipManufacturer DeSchiMAG}}
 {{France destroyers}}

@@ -91,6 +91,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 38 x FFAR Mighty Mouse rockets
 * 44 x TDA rockets
 * 2 x 7.62 mm M134 Minigun machine guns (1,500 rpg = 3,000 total)
@@ -169,6 +170,7 @@ Planes and other helicopters also pose significant threat to player as ▀UH-1D 
 * Cannot equip any guns together with missile/rockets and the only gun modification allowed is the fixed M134 Minigun pods
 * Night vision is essentially useless
 * Lacks any sort of armour or countermeasures
+* Stock unguided mighty mouse rockets.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -204,6 +206,9 @@ File:UH-1D Germany WTWallpaper 004.jpg
 File:UH-1D Germany WTWallpaper 005.jpg
 File:UH-1D Germany WTWallpaper 006.jpg
 </gallery>
+
+;Videos
+{{Youtube-gallery|_xUPs-rPK3g|'''UH-1 Huey Ultimate Guide''' - ''Bob Dickinson''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

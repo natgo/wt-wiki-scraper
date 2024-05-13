@@ -8,7 +8,7 @@
 
 Shortly after the introduction of the M113, Israel became one of the largest users of this vehicle. With over 6,000 vehicles acquired over the years from the US, the M113 became one of the most common vehicles in IDF service, being capable of fulfilling multiple roles such as APC, IFV, ATGM carrier, and Short Range Air Defence vehicle. '''Giraf''' was the name given by the Israeli Defence Force to the M113A1 carrying a TOW missile launcher. Countries like the United States, Italy, and Taiwan were already experienced with this system and many M113 were modified to serve as tank destroyers using the TOW missile. The vehicle served with Israel until the introduction of the Spike anti-tank guided missile, which was also fitted to the M113 under the name "Hafiz".
 
-It was introduced in [[Update "Air Superiority"]]. The '''{{Specs|name}}'''is very similar to other ATGM carriers in-game. It uses the BGM-71C I-TOW anti-tank guided missile as its main armament. With access to a coaxial 12.7 mm heavy machine gun and 10 rounds for its main armament, it has a very good gun depression with -20° and the missiles have a good speed of almost 300 metres per second and a decent range of almost 4 kilometres. Like most M113s, the Giraf is not very mobile and in fact is outmatched by many other ATGM carriers like the [[AMX-13 (HOT)]], and the protection is nothing special, being very vulnerable to 20 mm or 14.5 mm autocannon shots. Thus, it should be played very passively, staying behind the cover of hills and teammates.
+It was introduced in [[Update "Air Superiority"]]. The '''{{Specs|name}}''' is very similar to other ATGM carriers in-game. It uses the BGM-71C I-TOW anti-tank guided missile as its main armament. With access to a coaxial 12.7 mm heavy machine gun and 10 rounds for its main armament, it has a very good gun depression with -20° and the missiles have a good speed of almost 300 metres per second and a decent range of almost 4 kilometres. Like most M113s, the Giraf is not very mobile and in fact is outmatched by many other ATGM carriers like the [[AMX-13 (HOT)]], and the protection is nothing special, being very vulnerable to 20 mm or 14.5 mm autocannon shots. Thus, it should be played very passively, staying behind the cover of hills and teammates.
 
 == General info ==
 === Survivability and armour ===
@@ -40,7 +40,7 @@ Like other anti-tank guided missile carriers on the M113 platform, this vehicle 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=305|rbMinHp=190}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -57,32 +57,17 @@ Like other anti-tank guided missile carriers on the M113 platform, this vehicle 
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[BGM-71B TOW]] missile || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[BGM-71B TOW]]/[[BGM-71C I-TOW]] missile || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 10 || rowspan="2" | -20°/+25° || rowspan="2" | ±45° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 10 || rowspan="2" | -20°/+25° || rowspan="2" | ±45° || rowspan="2" | - || 26.4 || 36.5 || 44.4 || 49.1 || 52.2 || rowspan="2" | 13.00 || rowspan="2" | 11.50 || rowspan="2" | 10.60 || rowspan="2" | 10.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
-|-
-|}
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! colspan="5" | [[BGM-71C I-TOW]] missile || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
-|-
-! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
-! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
-|-
-! ''Arcade''
-| rowspan="2" | 10 || rowspan="2" | -20°/+25° || rowspan="2" | ±45° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
-|-
-! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
 |-
 |}
 
@@ -121,7 +106,7 @@ Like other anti-tank guided missile carriers on the M113 platform, this vehicle 
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Pintle || 1,000 (200) || 575 || -10°/+50° || ±120°
 |-
 |}
 
@@ -131,22 +116,17 @@ Like other anti-tank guided missile carriers on the M113 platform, this vehicle 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
 * Powerful ATGM, can penetrate most tanks at the BR range
-* ATGM can overpressure lightly armored tanks and open-tops
+* ATGM can overpressure lightly armoured tanks and open-tops
 * ATGM can be manually guided to destroy helicopters
-
-*
 
 '''Cons:'''
 
-* Very weak armor, extremely vulnerable to 12.7mm and autocannons
+* Very weak armour, extremely vulnerable to 12.7mm and autocannons
 * ATGM cannot go through fences and other obstacles due to HEAT warhead
-
-*
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -154,16 +134,17 @@ Like other anti-tank guided missile carriers on the M113 platform, this vehicle 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_m113a1_tow Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[M113 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

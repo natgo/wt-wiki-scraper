@@ -143,23 +143,60 @@ The {{PAGENAME}} is a light fighter and its survivability reflects that. It lack
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
-** 1 x 23 mm GSh-23L cannon + 64 x countermeasures
+* 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
 
 The GSh-23L fires at a rate of 3,396 rounds per minute, which leaves the plane with a 3.53 second firing time.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|OFAB-250sv (250 kg)|FAB-500M-54 (500 kg)|ZB-500 incendiary}}
-{{main|R-3R|R-3S|R-60|S-5K|S-24}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x R-3S missiles
-* 2 x R-3R missiles
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
+|-
+! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
+| 1 || 1 || || 1 || 1
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || 1 || || 1 ||
+|-
+! [[ZB-500 incendiary]] bombs
+| || 1 || || 1 ||
+|-
+! [[S-5K]] rockets
+| 16 || 16, 32 || || 16, 32 || 16
+|-
+! [[S-24]] rockets
+| 1 || 1 || || 1 || 1
+|-
+! [[R-3R]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-3S]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! [[R-60]] missiles
+| 1 || 1 || || 1 || 1
+|-
+! Countermeasures
+| || || 64 || ||
+|-
+! 490 l drop tanks
+| 1 || || 1 || || 1
+|-
+| colspan="6" | Maximum permissible weight imbalance: 570 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 3 x 490 l drop tanks
+* 64 x countermeasures + 2 x R-3S missiles
+* 64 x countermeasures + 2 x R-3R missiles
 * 4 x R-3S missiles
 * 4 x R-3R missiles
 * 4 x R-60 missiles
@@ -169,40 +206,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 4 x 250 kg OFAB-250sv bombs (1,000 kg total)
 * 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 * 2 x ZB-500 incendiary bombs
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="10" width="25%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
-|-
-! 250 kg OFAB-250sv bombs
-| 1 || 1 || 1 || 1
-|-
-! 500 kg FAB-500M-54 bombs
-| || 1 || 1 ||
-|-
-! ZB-500 incendiary bombs
-| || 1 || 1 ||
-|-
-! S-5K rockets
-| 16 || 16, 32 || 16, 32 || 16
-|-
-! S-24 rockets
-| 1 || 1 || 1 || 1
-|-
-! R-3R missiles
-| 1 || 1 || 1 || 1
-|-
-! R-3S missiles
-| 1 || 1 || 1 || 1
-|-
-! R-60 missiles
-| 1 || 1 || 1 || 1
-|-
-| colspan="5" | Maximum permissible weight imbalance: 570 kg
-|-
-|}
+{{Navigation-End}}
 
 The {{PAGENAME}} can be armed with both anti-air missiles and ground strike ordnance on its four hard-point pylons under the wing. While most of the weapons can be seen on other aircraft, the unique weapon that this aircraft can carry is R-60 IR air-to-air missile. Compared to R-3S which can be found on most Soviet aircraft capable of launching missiles, R-60 has a much more sophisticated IR tracking system, allowing it to track targets up to 5 km away, and keep them on its sights at a much faster pace, which results in a reliable lock that not many targets can shake off. R-60 can also be fired in a wider range of situations, as the missile can track targets while on the pylon. This is critical to how the missile works which means that the missile has a much higher launch load factor and is able to intercept targets immediately after being launched. This is much different than the R-3S which tracks targets only half a second after launch and needs the platform to stay still in order to track the target, leaving the aircraft vulnerable to attacks. R-60 is a much smaller missile than R-3S, weighing at 44 kg instead of 77 kg that an R-3S weighs. Missile's explosive payload is also significantly smaller, weighing at 3.5 kg. Rocket motors on R-60 are much smaller than on R-3S and this means that R-60 is much slower than R-3S, and even though it can lock on targets at 5 km, it has a lower range than R-3S. In practice, R-60 is a reliable and potent anti-aircraft weapon that excels at taking out even nimble targets in dogfights at ranges from 300 m to 2 km but is unable to reach targets beyond 3 km due to its less powerful rocket motors. R-3S, however, can only be used reliably at targets which are not paying attention or are unable to react quickly to a missile launch, but they can also be used to intercept targets at much further ranges than R-60.
 

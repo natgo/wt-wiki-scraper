@@ -47,11 +47,14 @@ Ammunition is stored in the very back of the vehicle, at the very bottom and is 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 60 mm (67-76°) ''Front glacis'' <br> 60 - 90 mm (30-57°) ''Lower glacis''
+| 50 + 10 mm ''Top'' <br> 50 + 10 mm ''Bottom'' || 30 mm (12-44°) mm || 20 - 30 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 30 - 65 mm (1-71°) ''Turret front'' <br> Variable thickness armour (0-75°) ''Gun mantlet'' || 65 mm ''Upper turret armour'' 
+Variable Thickness Armour mm (0-60°) ''Lower turret armour'' 
+| 65 mm (11° - 66°) || 30 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 30 mm || 30 mm || 30 mm || 30 mm
 |-
 |}
 

@@ -68,10 +68,10 @@ Iron Duke IV was the tank of Lieutenant-Colonel Pat Hobart, commander of the 1st
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 61 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 9.62 || rowspan="2" | 8.51 || rowspan="2" | 7.84 || rowspan="2" | 7.40
+| rowspan="2" | 61 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 20.0 || 27.7 || 33.6 || 37.2 || 39.5 || rowspan="2" | 9.62 || rowspan="2" | 8.51 || rowspan="2" | 7.84 || rowspan="2" | 7.40
 |-
 ! ''Realistic''
-| 8.9 || 10.5 || 12.8 || 14.1 || 15.0
+| 12.5 || 14.7 || 17.8 || 19.7 || 21.0
 |-
 |}
 
@@ -182,20 +182,22 @@ Although your gun can counter anything within the Comets BR range, you should co
 '''Pros:'''
 
 * Excellent manoeuvrability and speed - second only by a little to the [[T-34-85 (D-5T)]] and [[Panther D]]
-* Good gun, precise and with good penetration values (vertical armour)
 * Access to APDS shot
 * Great turret armour
 * Low profile
 * Great gun depression
 * 5 crew members
+* Has neutral steering
 
 '''Cons:'''
 
 * Bad penetration values against sloped armour without APDS
-* Bad gun damage (without APDS), you'll need to aim at the enemy gunner to have a fighting chance
-* The 17-pdr does not have as much penetration as other variants
-* Overall bad armour for its rank,only the turret front has some chance to bounce some hits
+* Bad gun damage, you'll need to aim precisely
+* The 77mm HV does not have as much penetration as the 17-pounder gun
+* Overall bad armour for its rank, only the turret front has some chance to bounce some hits
 * Awful reverse speed of only -3 km/h (-2 mph)
+* APDS has less post-penetration damage than the other AP rounds
+* Slower reload than the 17-pounder gun
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -215,6 +217,7 @@ The Comet I saw service after World War II during the Korean War when it started
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_34_comet_iron_duke Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -227,6 +230,7 @@ File:GarageImage Iron Duke IV Side.jpg|<small>The "Iron Duke IV" name is inscrib
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

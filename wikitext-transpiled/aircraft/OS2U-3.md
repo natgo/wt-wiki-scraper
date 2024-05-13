@@ -13,7 +13,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The OS2U-3 Kingfisher is the successor of the [[OS2U-1]] and the OS2U-2, which was a version equipped with a regular landing gear. Compared to this previous versions, it uses a slightly different engine, the same Pratt & Whitney R-985-48 but with a different version, it also has increased range, thanks to the addition of two extra self sealing fuel tanks in the wings while also featuring improved armour for the pilot. The OS2U-3 was the most produced variant of the Kingfisher family with 1000 units built. This aircraft first flew in 1941 and it was the only exported variant of all the Kingfishers, it served in many countries from Uruguay to Australia including the Soviet Union aboard cruiser Murmansk (USS Milwaukee). The last Kingfishers were withdrawn from service in Cuba in 1959.
 
-It has been in the game since the start of the Open Beta Test prior to Update 1.27, however, the vehicle was removed from the American air forces tree in [[Update 1.57 "Battle March"]]. The players who acquired the aircraft before it was removed still have access to it. It can be researched by players who unlock the [[OS2U-1]] via reaching rank II for the American naval tree. Much like its predecessor, the OS2U-3 is a mediocre plane for ground and air battles. With an armament consisting of only a single 7.62 mm MG for offensive actions and another for defence operated by a gunner, it is very vulnerable to other fighters, this is also exacerbated thanks to the mediocre flight performance. However it is very capable as a reconnaissance aircraft in naval battles, being capable of spotting targets from the distance, and then land in water if it is no longer necessary or if you are starting to be targeted by enemy AA guns. The increased ascend rate compared to the OS2U-1, means that it is better at reaching a comfortable altitude, which is very important in naval battles.
+It has been in the game since the start of the Open Beta Test prior to Update 1.27, however, the vehicle was removed from the American air forces tree in [[Update 1.57 "Battle March"]]. But was later added back to the tech tree during update 14.11.18. It can be researched by players who unlock the [[OS2U-1]] via reaching rank II for the American naval tree. Much like its predecessor, the OS2U-3 is a mediocre plane for ground and air battles. With an armament consisting of only a single 7.62 mm MG for offensive actions and another for defence operated by a gunner, it is very vulnerable to other fighters, this is also exacerbated thanks to the mediocre flight performance. However it is very capable as a reconnaissance aircraft in naval battles, being capable of spotting targets from the distance, and then land in water if it is no longer necessary or if you are starting to be targeted by enemy AA guns. The increased ascend rate compared to the OS2U-1, means that it is better at reaching a comfortable altitude, which is imperative for success in Naval Battles.
 
 == General info ==
 === Flight performance ===
@@ -297,10 +297,13 @@ Altogether, including the NAF OS2N-1 aircraft, 1306 examples of the OS2U-3 were 
 {{Youtube-gallery|45AO5KkhqKM|'''The Kingfishers'''  - ''TheEuropeanCanadian''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+
+* [[OS2U-1]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -126,7 +126,7 @@ The Leclerc is less comfortable in urban combat situations, although still more 
 * [[M1A1 Abrams|M1A1]]/[[M1A2 Abrams]] - The Abrams is a deadly opponent, and thanks to the crew and module spacing will often survive multiple shots. In any engagement, first try to disable the cannon breech - this avoids the Abrams firing back and with your quick reload you'll frequently have time to disable its mobility entirely.
 * [[Leopard 2A5]]/[[Leopard 2A6|2A6]] - The Leopard 2A5 and 2A6 is a dangerous opponent, with a small gun mantlet weak spot and impenetrable turret cheeks. Fortunately, the OFL 120 F1 round can punch straight through the hull. If the opportunity for a hull shot does not arise, try to shoot through the gun mantlet or turret ring where possible.
 * [[Ariete (Family)|Ariete]] -Although its armour protection won't stop your APFSDS, almost all the tank is vulnerable to Ariete's firepower, in fact its rounds can easily penetrate most of the frontal section of the Leclerc even at 2,000 m. It is better to disable its gun before trying to destroy the tank, or just shooting at the left turret cheek, killing the gunner and the commander leaving the target harmless.
-* [[Type 10]] / [[Type 90]] - The Type 10 and Type 90 are the only other autoloaded tanks currently in the game that can load faster than you, with reload of 4.0 seconds compared to your 6.0 seconds.  Getting your first shot off and disabling this tank is top priority as they will out load you.
+* [[Type 10]] / [[Type 90]] - The Type 10 and Type 90 are the only other autoloaded tanks currently in the game that can load faster than you, with reload of 4.0 seconds compared to your 5.0 seconds.  Getting your first shot off and disabling this tank is top priority as they will out load you.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -165,6 +165,7 @@ Leclerc S2 main battle tanks were produced in France from 1997 to 2003. The vehi
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Leclerc (Family)]]
 
 == External links ==

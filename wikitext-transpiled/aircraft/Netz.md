@@ -13,7 +13,7 @@ It was introduced in [[Update "Apex Predators"]]. Compared to the [[F-16A ADF|Bl
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-The F-16A Netz is very strong in a dogfight due to its excellent TWR and energy retention, its highly manoeuvrable and can easily reach its top speed even when climbing. 
+The F-16A Netz is very strong in a dogfight due to its excellent TWR and energy retention, its highly manoeuvrable and can easily reach its top speed even when climbing.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -119,7 +119,7 @@ The F-16A Netz is not very armoured, so enemy aircraft can easily tear into your
 |-
 ! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
 | {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
@@ -131,9 +131,8 @@ The F-16A Netz is not very armoured, so enemy aircraft can easily tear into your
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
-** 1 x 20 mm M61A1 cannon + 60 x countermeasures
+* 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -144,7 +143,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-16A.png]]</div>
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-16A.png]]</div>
 |-
 ! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
 | || || 3 || 3, 6 || 1 || 3, 6 || 3 || ||
@@ -176,6 +175,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! 300 gal drop tanks
 | || || || || 1 || || || ||
 |-
+! 370 gal drop tanks
+| || || || 1 || || 1 || || ||
+|-
 | colspan="10" | Maximum permissible weight imbalance: 2,000 kg
 |-
 |}
@@ -183,7 +185,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 300 gal drop tank
+* 2 x 370 gal drop tanks + 1 x 300 gal drop tank
 * 2 x AIM-9P Sidewinder missiles
 * 6 x AIM-9P Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles
@@ -208,14 +210,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 20 mm Vulcan cannon has high velocity and rate of fire
 * Able to carry a drop tank to extend flight time
 * Has access to a wide range to air-to-ground loadouts
-* Access to 6 x AIM-9L Sidewinder  or 6 x Python 3 missiles 
-* Python 3 missiles are very potent IR-guided missiles 
+* Access to 6 x AIM-9L Sidewinder  or 6 x Python 3 missiles
+* Python 3 missiles are very potent IR-guided missiles
 * Bubble canopy with excellent unobstructed 360° visibility gives great situational awareness in simulator mode
 
 '''Cons:'''
 
 * Consumes fuel quickly
 * No radar-guided AAMs
+* The AGM 65 B does not have access to a thermal camera, which limits its use due to weather conditions
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

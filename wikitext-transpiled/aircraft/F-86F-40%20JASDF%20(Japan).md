@@ -145,12 +145,13 @@ The F86F-40 JASDF were U.S. airframes assembled by Mitsubishi in Japan, and they
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AN-M65A1 Fin M129 (1,000 lb)|AIM-9B Sidewinder|HVAR}}
+{{main|M117 cone 45 (750 lb)|AN-M65A1 Fin M129 (1,000 lb)|AIM-9B Sidewinder|HVAR}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 16 x HVAR rockets
+* 2 x 750 lb M117 cone 45 bombs (1,500 lb total)
 * 2 x 1,000 lb AN-M65A1 Fin M129 bombs (2,000 lb total)
 * 2 x AIM-9B Sidewinder missiles
 

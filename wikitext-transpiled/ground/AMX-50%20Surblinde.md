@@ -64,14 +64,14 @@ The {{PAGENAME}} has a very good speed (around 40 km/h on flat land when fully u
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[SA46 (120 mm)|120 mm SA46]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[SA46 (120 mm)|120 mm SA46]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 50 || rowspan="2" | -6°/+10° || rowspan="2" | ±180° || rowspan="2" | N/A || 19.4 || 26.9 || 32.6 || 36.1 || 38.4 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 50 || rowspan="2" | -6°/+10° || rowspan="2" | ±180° || rowspan="2" | N/A || 19.4 || 26.9 || 32.6 || 36.1 || 38.4 || rowspan="2" | 6.00 
 |-
 ! ''Realistic''
 | 14.3 || 16.8 || 20.4 || 22.6 || 24.0

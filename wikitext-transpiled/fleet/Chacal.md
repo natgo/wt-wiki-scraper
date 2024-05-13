@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+The '''Chacal''' was a French contre-torpilleur of the [[Jaguar (Destroyer) (Family)|Jaguar class]], launched as the second vessel of her class in September 1924. Her first assignment after the commissioning was as a show-the-flag mission to Finland for the Hanko Regatta and then through Baltic ports, which was later followed by further missions of the same character through various locations. In 1932, she was reassigned to the role of the training ship based in Salins d'Hyères and later Brest. With the beginning of World War Two, she escorted 21 convoys between Brest, Gibraltar, Casablanca, and Le Verdon, notably with her spotters rescuing Bourrasque-class destroyer Mistral on 28 October 1939 from being hit by a torpedo. In the night of 22 May 1940, she carried demolition teams to the port of Calais, followed by providing fire support in defence of Boulogne-sur-Mer until the night of 23-24 May. On that night she was hit by four bombs from [[He 111 (Family)|He 111s]] which started numerous fires, making her an obvious target for the German artillery, which lit her up. She was beached between the nearby villages of Wimereux and Ambleteuse and abandoned. Her wreck survives to this day, being submerged only 2 metres below the surface around 600 metres from the shore.
+
+The Chacal is a French destroyer introduced in [[Update "La Royale"]]. She has an excellent combination of great firepower and high mobility with a decent survivability for the BR, lacking any particular weak points. That said, she is a small vessel compared to most of her counterparts, making it best to avoid taking damage, and using powerful main guns to cripple enemy vessels before they do substantial damage. Similarly, enemy aircraft should be avoided at all cost, as she lacks any short-range anti-air guns. She is best played in a support role or as an ambusher, picking off lone targets and being the one to make the first, crippling salvo. Her gameplay highly rewards gunnery and positioning skills, but this also makes her a very difficult ship to handle for inexperienced players.
 
 == General info ==
 === Survivability and armour ===
@@ -124,6 +126,8 @@ The Chacal-class ships were born out of a 1922 requirement for a large destroyer
 
 * [[wikipedia:French_destroyer_Chacal|[Wikipedia] French destroyer Chacal]]
 * [http://www.navypedia.org/ships/france/fr_dd_chacal.htm <nowiki>[Navypedia]</nowiki> Chacal destroyers (1925 - 1927)]
+* [https://uboat.net/allies/warships/ship/5995.html <nowiki>[uboat.net]</nowiki> FR Chacal - Large destroyer of the Chacal class]
+* ''French Destroyers: Torpilleurs D'escadre and Contre-Torpilleurs, 1922-1956'' by John Jordan and Jean Moulin
 
 {{ShipManufacturer Ateliers et Chantiers de Penhoët}}
 {{France destroyers}}

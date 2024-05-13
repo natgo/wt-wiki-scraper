@@ -148,6 +148,7 @@ If you need to do a quick turn, set combat flaps and reduce the power of the eng
 * Good turn rate for it size
 * Good cockpit visibility (important for simulator battle players)
 * Can fly well with one engine, improving its chance to limp back to the airfield for repairs
+* Gets an airspawn
 
 '''Cons'''
 

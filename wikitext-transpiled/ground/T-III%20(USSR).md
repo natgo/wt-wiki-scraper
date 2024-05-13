@@ -77,7 +77,7 @@ With only a vertical 50 mm armour plate at the front, even some rank I guns can 
 {{:KwK L/42 (50 mm)/Ammunition|PzGr 39, PzGr 40}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks Pz.III J.png|right|thumb|x250px|[[Ammo racks]] of the Pz.III J (Identical to {{PAGENAME}}).]]
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated: 1.101.0.44''' -->
 {| class="wikitable" style="text-align:center"
 |-

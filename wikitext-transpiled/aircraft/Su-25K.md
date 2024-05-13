@@ -215,8 +215,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[S-25L]] missiles
 | || || 1 || 1 || || || 1 || 1 || ||
 |-
-! 800 l drop tanks
-| || || || || 1 || 1 || || || ||
+! 820 l drop tanks
+| || || 1 || || 1 || 1 || || 1 || ||
 |-
 | colspan="11" | Maximum permissible loadout weight: 4,400 kg<br>Maximum permissible wing load: 2,200 kg<br>Maximum permissible weight imbalance: 1,500 kg
 |-
@@ -225,7 +225,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 2 x 800 l drop tanks
+* 4 x 820 l drop tanks
 * 2 x R-60MK missiles + 32 x 100 kg OFAB-100 bombs (3,200 kg total)
 * 2 x R-60MK missiles + 8 x 250 kg OFAB-250sv bombs (2,000 kg total)
 * 2 x R-60MK missiles + 8 x 250 kg OFAB-250Sh bombs (2,000 kg total)

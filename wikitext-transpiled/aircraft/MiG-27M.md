@@ -316,6 +316,13 @@ The MiG-27M is a great aircraft for ground RB because of its decent manoeuvrabil
 
 * [[MiG-23 (Family)]]
 
+; '''Other jet planes with variable sweep wings'''
+
+* [[Tornado (Family)]]
+* [[Su-17/22 (Family)]]
+* [[F-14 (Family)|F14 (Family)]]
+* [[F-111A]]
+
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''

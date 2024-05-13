@@ -61,14 +61,14 @@ The E.B.R. (1954) can reach 105 km/h on roads, 60 km/h on dirt tracks and 40 km/
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[SA50 L/57 (75 mm)|75 mm SA50 L/57]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[SA50 L/57 (75 mm)|75 mm SA50 L/57]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 36 || rowspan="2" | -6°/+10° || rowspan="2" | ±180° || rowspan="2" | N/A || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00
+| rowspan="2" | 36 || rowspan="2" | -6°/+10° || rowspan="2" | ±180° || rowspan="2" | N/A || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 5.00 
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0

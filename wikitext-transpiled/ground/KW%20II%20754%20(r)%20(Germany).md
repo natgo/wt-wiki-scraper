@@ -153,6 +153,7 @@ Shooting a KV-2 from the side is much easier, just one massive turret reaching i
 * Able to destroy higher rank tanks (although not advised)
 * Bouncy hull and turret, the chassis may effectively absorb shots as well
 * As is the case with all Soviet 152 mm armed tanks, the KW II can knock out any tank in the game with a single HE shell to the turret or rear hull
+* Has a coaxial machine gun, useful for clearing obstacles such as fences to prevent HE shells from detonating prematurely
 
 '''Cons:'''
 
@@ -188,6 +189,7 @@ Only one KV-2 is left intact as a survivor of the war, it is housed at the Centr
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_kv_2_754r Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' was the last production model of the famous Supermarine Spitfire. A total of 54 Mk 24 were manufactured, with 27 rebuilt from [[Spitfire F Mk 22|Mk 22]] models. The Mk 24 was largely similar to the previous Mk 22, with the exception of having two rear fuselage fuel tanks installed as well as different rocket mountings allowing for installation of up to eight RP-3 rockets as opposed to six on the Mk 22. The main armament also differed, as the Mk 24 was armed with four 20 mm Hispano Mk.V cannons as opposed to Mk.II on the Spitfire Mk 22.
+The '''{{Specs|name}}''' was the last production model of the famous Supermarine Spitfire. A total of 54 Mk 24 were manufactured, with 27 rebuilt from [[Spitfire F Mk 22|Mk 22]] models. The Mk 24 was largely similar to the previous Mk 22, with the exception of having two rear fuselage fuel tanks installed as well as different rocket mountings allowing for installation of up to eight RP-3 rockets as opposed to six on the Mk 22. The main armament also differed, as some later production Mk 24s were armed with four 20 mm Hispano Mk.V cannons as opposed to Mk.II on the Spitfire Mk 22 or early and reserve variants of the Mk 24. The in-game model is a recreation of VN318, which was armed with Mk.II cannons.
 
 The Spitfire F Mk 24 was introduced in [[Update 1.39]]. It is the pinnacle of piston-powered aircraft, one of the first superprops. The playstyle of Mk 24 is very similar to the previous Griffon-powered Spitfires, with the exception of different armament as the Mk 24 is armed with four 20 mm Hispano cannons. Early jet aircraft that pilots may come across are at a severe disadvantage when encountering the Spitfire, as it can out-turn and also catch the majority of these in a dive. The Mk 24 also possesses higher engine power due to the usage of 150 octane fuel, which is unavailable for the previous Mk 22.
 
@@ -235,6 +235,7 @@ Contra-rotating propellers were tested on the Mk.21, 22 and 24 Spitfires but wer
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Spitfire (Family)]]
 
 == External links ==

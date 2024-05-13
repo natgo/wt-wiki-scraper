@@ -57,14 +57,14 @@ It was introduced in [[Update "Fire and Ice"]]. Providing the same great firepow
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[TKG (120 mm)|120 mm TKG]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[TKG (120 mm)|120 mm TKG]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 35 || rowspan="2" | -7°/+10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 4.00 || rowspan="2" | 4.00 || rowspan="2" | 4.00 || rowspan="2" | 4.00
+| rowspan="2" | 35 || rowspan="2" | -7°/+10° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 4.00 
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0
@@ -178,6 +178,7 @@ Finally, with the evaluations from JGSDF Fuji School, Ordnance School, and leake
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_tkx_prot Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

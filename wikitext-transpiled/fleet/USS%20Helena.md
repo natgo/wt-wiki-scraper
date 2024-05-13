@@ -72,8 +72,11 @@ As well, USS Helena gets access to twelve single 20 mm Oerlikon cannons. The 20 
 
 Located on the stern are two catapults with one SOC-1 scout plane each which provide unique offensive and defensive abilities, expanding tactical options. Ship-launched scout planes fly just like regular tree units but lack munition choices and cockpit views. Alongside the typical abilities of strafing, dropping 2 x 100 lb bombs, and capturing zones, the SOC-1 and other scout planes have the added ability to lay down smoke cover (up to 3 times). Captains will be wise to remember to utilise the aircraft and consider when best to use it, for example to cap a point early or late in the match, to create a smoke screen to stymie enemy bombardment and repair, to attack enemy units directly, or perhaps something completely new! With two scout planes one can risk a cap attempt at the beginning of the match, saving the second for any opportunity that presents itself.
 
+'''Note:''' Because the catapult is directly behind the rear turret the aircraft would block the guns, so it will not be visible until you launch it.
+
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
+
 ;;Against PTs:
 
 HE should be the only shells used against boats as the AP and SAP will punch straight through without any further damage, assuming that you decide to use your primaries at all. In general, just tasking the secondary guns or AA suite (using X+2 and X+3 on a selected enemy respectively) to the PT boat will almost always make short work of it.
@@ -106,6 +109,7 @@ The anti-air complement on Helena is expansive comparing her to other factions b
 * Two scout seaplanes
 
 '''Cons:'''
+
 * AP shell have lacklustre penetration at longer ranges, thus limiting the damage output against heavily-armoured opponents
 * While well-protected, detonation of forward magazines will cause a chain reaction, potentially cause lethal damage
 * Auxiliary turrets have their first stage ammo stowages unprotected, so unlucky hits may cause heavy fires or even chain detonation

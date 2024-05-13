@@ -133,26 +133,13 @@ Damages to the engine are also not sustainable, as there will be significant los
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
+| {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}}
 |-
 |}
-=== Offensive armament ===
-{{Specs-Avia-Offensive}}
-<!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-{{main|GSh-23L (23 mm)}}
-
-The '''''{{PAGENAME}}''''' is armed with:
-
-* 1 x 23 mm GSh-23L cannon, belly-mounted (200 rpg)
-
-The 23 mm GSh-23L cannon is attached to the {{PAGENAME}} as a gunpod at the belly, similar to the [[M61 (20 mm)|20 mm M61]] cannon on the [[F-4C Phantom II|F-4C]]. Unlike the F-4C, however, there is no option to remove the gunpod to focus on suspended armaments.
-
-Despite the odd configuration, the armament firepower is not any lacking compared to the other MiG-21 variants, having more ammunition than the [[MiG-21F-13]]'s 30 mm and identical to the [[MiG-21SMT]]'s identical 23 mm in an internal mount. As such, new pilots simply need to compensate the odd firing angle of the belly-mounted gunpod to make the {{PAGENAME}} work in a dogfight.
-
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
@@ -161,39 +148,48 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="23%" | 1 !! width="23%" | 2
-| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21F-13.png]]</div>
+! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21_SPS-K_(Germany).png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (200 rpg)
+| || 1 ||
 |-
 ! [[OFAB-250sv (250 kg)|250 kg OFAB-250sv]] bombs
-| 1 || 1
+| 1 || || 1
 |-
 ! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
-| 1 || 1
+| 1 || || 1
 |-
 ! [[S-5K]] rockets
-| 16 || 16
+| 16 || || 16
 |-
 ! [[S-24]] rockets
-| 1 || 1
+| 1 || || 1
 |-
 ! [[Kh-66]] missiles
-| 1 || 1
+| 1 || || 1
 |-
 ! [[R-3S]] missiles
-| 1 || 1
+| 1 || || 1
+|-
+! 490 l drop tanks
+| || 1 ||
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-* Without load
-* 2 x R-3S missiles
-* 32 x S-5K rockets
-* 2 x S-24 rockets
-* 2 x Kh-66 missiles
-* 2 x 250 kg OFAB-250sv bombs (500 kg total)
-* 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+* 1 x 23 mm GSh-23L cannon (200 rpg)
+* 1 x 490 l drop tank + 2 x R-3S missiles
+* 1 x 23 mm GSh-23L cannon + 2 x R-3S missiles
+* 1 x 23 mm GSh-23L cannon + 32 x S-5K rockets
+* 1 x 23 mm GSh-23L cannon + 2 x S-24 rockets
+* 1 x 23 mm GSh-23L cannon + 2 x Kh-66 missiles
+* 1 x 23 mm GSh-23L cannon + 2 x 250 kg OFAB-250sv bombs (500 kg total)
+* 1 x 23 mm GSh-23L cannon + 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
 {{Navigation-End}}
+
+The 23 mm GSh-23L cannon is attached to the {{PAGENAME}} as a gunpod at the belly, similar to the [[M61 (20 mm)|20 mm M61]] cannon on the [[F-4C Phantom II|F-4C]]. Despite the odd configuration, the armament firepower is not any lacking compared to the other MiG-21 variants, having more ammunition than the [[MiG-21F-13]]'s 30 mm and identical to the [[MiG-21SMT]]'s identical 23 mm in an internal mount. As such, new pilots simply need to compensate the odd firing angle of the belly-mounted gunpod to make the {{PAGENAME}} work in a dogfight.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

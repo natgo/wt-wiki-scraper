@@ -66,16 +66,18 @@ The Ryany was introduced in [[Update "Apex Predators"]] as a GE premium ship. As
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+Be mindful that the turrets have poor traverse speed making it difficult when switching targets. The guns itself are only protected with 8 mm of anti-fragmentation armor. It has unarmored magazines that are above the waterline, that when hit will cause a fatal explosion. The boilers and transmission take up almost everything  past the bridge to the stern. Making it easy to lose propulsion to enemy fire and becoming floating hulk worthy of Warhammer 40k Orks to use in their Wargs.  
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -91,6 +93,7 @@ The Ryany was introduced in [[Update "Apex Predators"]] as a GE premium ship. As
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -99,6 +102,7 @@ The Ryany was introduced in [[Update "Apex Predators"]] as a GE premium ship. As
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -131,21 +131,18 @@ Introduced in [[Update "Drone Age"]], the Merkava Mk.3C received yet another imp
 
 '''Pros:'''
 
-* Effective Armor
+* Good armor against most HEAT and some APFSDS rounds
 
-* Superior Crew Layout
-
-* High amount of Smokes
+* Excellent post-penetration survivability with good ammo storage and crew layout
+* Generous quantity of smoke grenades 
+* APFSDS round is one of the best sabot rounds for the battle rating
 
 '''Cons:'''
 
-* Large Weak Spots
+* Overall armor layout is vulnerable to APFSDS, able to be penetrated with ease from most places
+* Mediocre mobility
 
-* Slow
-
-* Large Profile
-
-* Very weak hull
+* Large/tall profile, easily spotted
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

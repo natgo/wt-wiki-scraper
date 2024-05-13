@@ -12,9 +12,9 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 Towards the end of WWII, the United States refused the request of the USSR to recieve [[B-29A-BN|B-29]]<nowiki/>s under the Lend-lease program multiple times. Lacking the technology to create a proper strategic long range bomber to replace their aging (and limited) fleet of [[Pe-8]] bombers, the USSR started looking for other solutions to modernize their bomber fleet. Their solution fell to them from the sky... multiple times, as three different B-29s would divert or crash land in the far Eastern USSR, and due to the USSR's neutrality in the Pacific War against Japan at that point, these bombers were kept despite demands from the US to return them. Stalin quickly ordered the reverse engineering of the three bombers into a new Soviet heavy bomber, and assigned the daunting task to Andrei Tupolev. The first aircraft was disassembled down to each screw to be studied, the second was repaired for flight testing, and the third, being the most minimally damaged, was left as a standard reference for the designers. In total, 900 factories and research institutes were involved in the project. The most significant change was in the engine department and armament, with the Tu-4 being powered by Soviet-built copies of the Wright R-3350 engines used in the B-29 and the .50 cal turrets replaced with NS-23 cannon turrets. After four years of hard work, alot of bureaucratic hurdles, and technological rushes, the first Tu-4 would take to the skies on May 19, 1947, with serial production being authorized to start immediately.
 
-On the 3rd of August 1947 at the Tushino Aviation Day parade, three large B-29s overflew the crowd watching the air show. Western reporters quickly dismissed these three aircraft as the "stolen" B-29s from before. It was only a few minutes later, when a fourth aircraft joined the formation, that the Western analysts had realized their worst fear had come true: the Soviets have successfully reverse engineered the B-29 and now had the capability of striking European and American major targets from their home.
+On the 3rd of August 1947 at the Tushino Aviation Day parade, three large B-29s overflew the crowd watching the air show. Western reporters quickly dismissed these three aircraft as the "stolen" B-29s from before. It was only a few minutes later, when a fourth aircraft joined the formation, that the Western analysts had realized their worst fear had come true: the Soviets have successfully reverse engineered the B-29 and now had the capability of striking European and American major targets from their home.
 
-The '''{{Specs|name}}''', introduced in [[Update 1.59 "Flaming Arrows"]], is the last and most advanced propeller driven bomber in the Soviet tech tree. At first appearing to be a copy of the [[B-29A-BN|B-29]] in the US tech tree, the aircraft in actuality has many major differences upon closer inspection, which warrant its higher battle rating over its American brother. For starters, the aircraft's offensive and defensive capabilities are further bolstered by a larger bomb load utilizing larger Soviet bombs than its US counterpart, and the 12.7 mm turrets around the aircraft were all replaced with 23 mm turrets which pack a harder punch and extended range. The Tu-4 also differs over the B-29 by having stronger and more reliable engines, which counteract the added weight of the increased bomb load and stronger turrets. One must be wary when flying the B-29 however, as it often faces jets and early air-to-air missiles at its tier which can easily dispatch it. But when left unchecked, a fully loaded Tu-4 can completely annihlate enemy bombing targets and cripple their ticket count severely, swaying the match in favor of its team.
+The '''{{Specs|name}}''', introduced in [[Update 1.59 "Flaming Arrows"]], is the last and most advanced propeller driven bomber in the Soviet tech tree. At first appearing to be a copy of the [[B-29A-BN|B-29]] in the US tech tree, the aircraft in actuality has many major differences upon closer inspection, which warrant its higher battle rating over its American brother. For starters, the aircraft's offensive and defensive capabilities are further bolstered by a larger bomb load utilizing larger Soviet bombs than its US counterpart, and the 12.7 mm turrets around the aircraft were all replaced with 23 mm turrets which pack a harder punch and extended range. The Tu-4 also differs over the B-29 by having stronger and more reliable engines, which counteract the added weight of the increased bomb load and stronger turrets. One must be wary when flying the Tu-4 however, as it often faces jets and early air-to-air missiles at its tier which can easily dispatch it. But when left unchecked, a fully loaded Tu-4 can completely annihlate enemy bombing targets and cripple their ticket count severely, swaying the match in favor of its team.
 
 == General info ==
 === Flight performance ===
@@ -107,16 +107,16 @@ Do not engage the Tu-4 from the six. Engaging the Tu-4 at its tail, especially f
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)}}
-{{main|FAB-1000 (1,000 kg)|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)}}
+{{main|FAB-100sv (100 kg)|FAB-250M-46 (250 kg)|FAB-500M-46 (500 kg)}}
+{{main|FAB-1000M-44 (1,000 kg)|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 40 x 100 kg FAB-100sv bombs (4,000 kg total)
-* 40 x 250 kg FAB-250sv bombs (10,000 kg total)
-* 12 x 500 kg FAB-500sv bombs (6,000 kg total)
-* 20 x 500 kg FAB-500sv bombs (10,000 kg total)
-* 8 x 1,000 kg FAB-1000 bombs (8,000 kg total)
+* 40 x 250 kg FAB-250M-46 bombs (10,000 kg total)
+* 12 x 500 kg FAB-500M-46 bombs (6,000 kg total)
+* 20 x 500 kg FAB-500M-46 bombs (10,000 kg total)
+* 8 x 1,000 kg FAB-1000M-44 bombs (8,000 kg total)
 * 8 x 1,500 kg FAB-1500M-46 bombs (12,000 kg total)
 * 4 x 3,000 kg FAB-3000M-46 bombs (12,000 kg total)
 

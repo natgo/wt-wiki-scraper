@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=uk_sarc_mk4_a
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -159,6 +159,11 @@ This variant, the Mark IV, fitted a 40 mm 2-pdr. gun in an artillery mounting, n
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage SARC MkIVa.png|
+</gallery>
 
 ;Skins
 

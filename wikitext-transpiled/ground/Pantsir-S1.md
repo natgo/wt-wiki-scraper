@@ -151,6 +151,8 @@ As much as it is an upgrade over the 2S6 Tunguska in the relevant fields, it doe
 * 28x zoom gunner optics combined with 2nd+ gen thermal sight and a longer range IRST tracking, reducing dependence on radar tracking as needed
 * 2A38M autocannons as installed on the Tunguska, allowing Pantsir-S1 some attack capability at close range against both AFVs and planes
 * 50% more missiles than the 2S6 Tunguska (12 vs 8) means that the Pantsir-S1 can shoot down more aircraft before having to reload
+* Has the ability to track, target and fire upon multiple targets within its tracking radar's azimuth simultaneously.
+* Can reliably detect and intercept air to ground weaponry, namely the AGM-65 Maverick.
 
 '''Cons:'''
 

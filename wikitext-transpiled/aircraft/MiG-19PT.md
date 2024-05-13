@@ -235,7 +235,7 @@ The MiG-19PT is equipped with an [[RP-5]] search and tracking radar. One radar a
 '''Cons:'''
 
 * Compresses badly
-* Will be outrun by 10.7s easily
+* Will easily be outrun by other jets in an uptier
 * Wings can rip when rolling and turning at high speed
 * Only 2 rather underwhelming air-to-air missiles
 * Poor low-speed manoeuvrability

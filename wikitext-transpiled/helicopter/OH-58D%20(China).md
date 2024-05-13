@@ -18,7 +18,9 @@ Introduced in [[Update "Sons of Attila"]] and marking the arrival of ROCA helico
 === Flight performance ===
 {{Specs-Heli-Flight}}
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''
+The OH-58D is a reasonably nimble machine, fully researched it will be able to fly at a reasonable straight-line speed of up to 220 km/h in neutral flight and climb up to 7 m/s. While this is completely sufficient for use without notable shortcomings, it pales in comparison to the opposition at its BR, both within its own tech tree and outside. Though in turn this means when freshly bought, players may find its performance lacking.
+
+One point of note is the Kiowa Warrior's ability fly evasive or performative manoeuvres. While it can make some impressive turns and even fly upside down, its flight model fails to compare against what players might have become used to on the first Z-9 model or any of its successors. All in all the OH-58D is a very average machine in terms of flight performance, by no means bad, but also nothing outstanding.
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -64,6 +66,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 12.7 mm GAU-19 machine gun (550 rpg)
 * 4 x ATAS (AIM-92) missiles
 * 2 x AGM-114K Hellfire II missiles
@@ -102,6 +105,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=oh_58d_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -113,6 +117,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[OH-58D]]
 
 == External links ==

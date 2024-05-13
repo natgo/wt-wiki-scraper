@@ -116,7 +116,7 @@ Trees and smokes can completely block IRST system - if you cannot see your oppon
 ! {{Annotation|Max Elevation<br/>Scan Angle|How far up and down the radar can scan (widest search mode)}}
 ! {{Annotation|Minimum<br/>relative speed|The minimum speed a target must be moving, relative to the radar, in order to be detectable by the radar}}
 |-
-| ~8,000 m || N/A || 360° || -__°/+__°  || N/A
+| ~8,000 m || N/A || 360° || -__°/+__° || N/A
 |-
 ! colspan="5" | Thales ADAD - Passive Infared Track
 |-
@@ -126,7 +126,7 @@ Trees and smokes can completely block IRST system - if you cannot see your oppon
 ! {{Annotation|Elevation Tracking<br/>Angle|How far up and down the radar can track a target}}
 ! {{Annotation|Minimum<br/>target speed|The minimum speed a target must be moving, relative to the radar, in order to be tracked by the radar}}
 |-
-| ~8,000 m || N/A || 360° || -__°/+__°  || N/A
+| ~8,000 m || N/A || 360° || -__°/+__° || N/A
 |-
 |}
 
@@ -175,9 +175,9 @@ As could be seen on the screenshots, in full IRST mode sniper crosshair tries to
 
 {{Notice| "Targeting" and "leadership" on your crew should be maxed out. This SPAA cannot track targets properly without it and should not be used by a level 1 crew. You have been warned.|!}}
 
-Do note, that a plane approaching at a sharp angle will mess with turret automatic guidance, due to it passing by too fast. It is also very difficult for the darts to catch up to jets not flying straight away from or towards the Stormer HVM at speeds above 600 km/h, as the missiles either bleed their speed very fast or just pass them by as they gain a sudden speed boost. Due to this, Stormer HVM struggles with manoeuverable CAS planes.
+Do note, that a plane approaching at a sharp angle will mess with turret automatic guidance, due to it passing by too fast. It is also very difficult for the darts to catch up to jets not flying straight away from or towards the Stormer HVM at speeds above 600 km/h, as the missiles either bleed their speed very fast or just pass them by as they gain a sudden speed boost. Due to this, Stormer HVM struggles with manoeuvrable CAS planes.
 
-It's better to attack when jet is further than 3 km away, slows down or flies in a straight line, so that you can attempt to adjust the shot yourself. If you want to attack planes at shorter ranges, you must acquire thermal sight to be able to comprehend what happens during the missile launch, as otherwise the missiles are too difficult to properly see and it becomes nigh impossible to "catch" the moment when they get the sudden speed boost, which generally happends at exactly 1 km range. Even with thermal sights calibrated to the user preference, without rigorous practice such attack will probably result in a miss more than once.
+It's better to attack when jet is further than 3 km away, slows down or flies in a straight line, so that you can attempt to adjust the shot yourself. If you want to attack planes at shorter ranges, you must acquire thermal sight to be able to comprehend what happens during the missile launch, as otherwise the missiles are too difficult to properly see and it becomes nigh impossible to "catch" the moment when they get the sudden speed boost, which generally happens at exactly 1 km range. Even with thermal sights calibrated to the user preference, without rigorous practice such attack will probably result in a miss more than once.
 
 The Stormer HVM has huge gaps in optics: 10-40X optics, which can be manually adjusted during AA duty, simply hitting "maximum zoom" will probably result in a miss at some angles of attack.
 
@@ -224,7 +224,7 @@ The armoured personnel carrier Stormer was created by using the propulsion syste
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_stormer_hvm Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|VNoalq4WIt4|'''The Shooting Range #151''' - ''Metal Beasts'' section at 00:32 discusses the Stormer HVM.|luvhoX8Ht1I|'''New anti-air defence'''  discusses the {{PAGENAME}} at 6:16  - ''War Thunder Official Channel''}}
+{{Youtube-gallery|VNoalq4WIt4|'''The Shooting Range #151''' - ''Metal Beasts'' section at 00:32 discusses the Stormer HVM.|luvhoX8Ht1I|'''New anti-air defence''' discusses the {{PAGENAME}} at 6:16 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

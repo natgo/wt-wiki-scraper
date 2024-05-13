@@ -112,7 +112,7 @@ The 75 mm OQF Mk.V behaves quite similarly to the American 75 mm M3 cannon, and 
 ! 5th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''45''' || 37&nbsp;''(+8)'' || 28&nbsp;''(+17)'' || 19&nbsp;''(+26)'' || 10&nbsp;''(+35)'' || 1&nbsp;''(+44)'' || Yes
+| '''45''' || 37&nbsp;''(+8)'' || 28&nbsp;''(+17)'' || 18&nbsp;''(+27)'' || 10&nbsp;''(+35)'' || 1&nbsp;''(+44)'' || Yes
 |-
 |}
 
@@ -218,6 +218,7 @@ About forty Valentines and vehicles based off the Valentine chassis exist in var
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_valentine_mk_11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

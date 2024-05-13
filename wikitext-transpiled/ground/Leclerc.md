@@ -152,7 +152,7 @@ The Leclerc is less comfortable in urban combat situations, although still more 
 
 '''Pros:'''
 
-* Six second autoloader is very competitive
+* Five second autoloader is very competitive
 * Extremely good composite protection on turret cheeks and centre frontal plate
 * Well-spaced crew and modules
 * Blow-out contained primary ammunition storage
@@ -203,6 +203,7 @@ The Leclerc saw service as part of a number of UN peacekeeping missions, primari
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Leclerc (Family)]]
 
 == External links ==

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update "Sons of Attila"]]. Whilst serving with the same armament as its predecessor, it features enhanced targeting optics, access to countermeasures and improved warning systems. The OH-58D Kiowa Warrior serves as a stop gap between the less modern AH-6M Little Bird and the MH-60L DAP.
 
 A single-engined helicopter originally used for reconnaissance purposes, now armed with offensive equipment. The OH-58 was originally developed during the 1960s as a military use version of the Bell 206A "Jet Ranger", where it was entered for submission for the Light Observation Helicopter Program against contemporaries like the OH-6 "Cayuse". The decision fell to the latter. Bell decided to pick up the pieces and resubmit the OH-58A for when the competition reopened a few years later.
 

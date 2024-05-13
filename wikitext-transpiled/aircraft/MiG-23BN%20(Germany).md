@@ -266,10 +266,17 @@ If the enemy SPAAGs, interceptors or in some occasion, helicopters with AAMs (na
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;'''Related development'''
+
+*[[MiG-23 (Family)]]
+
+;'''Other jet planes with variable sweep wings'''
+
+*[[Tornado (Family)]]
+*[[Su-17/22 (Family)]]
+*[[F-14 (Family)|F14 (Family)]]
+*[[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

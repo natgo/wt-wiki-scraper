@@ -12,6 +12,7 @@ Introduced in [[Update "Winged Lions"]], the Ro.43 is the only catapult-able air
 '''Ships that carry the {{PAGENAME}}'''
 
 * [[RN Bartolomeo Colleoni]]
+* [[RN Bolzano]]
 * [[RN Raimondo Montecuccoli]]
 * [[RN Eugenio di Savoia]]
 * [[RN Trento]]

@@ -229,7 +229,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * All-round great ground-pounding ordnance, including 4 types of laser guided bombs, 2 types of unguided bombs, and the vastly powerful AS-30L laser guided missiles
 * Thermal camera pod lets you find ground targets with ease in combined battles
 * External gunpod has access to 600 rounds, providing plenty of trigger time
-* Being a strike aircraft does not increase the necessary spawn point in Ground RB
+* Being an attack aircraft does not increase the spawn point of other Mirage 2000s on Ground RB
 
 '''Cons:'''
 

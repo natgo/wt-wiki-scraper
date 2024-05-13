@@ -63,13 +63,13 @@ V-46-6 12-cylinder diesel engine is still the only option for T-72A series and t
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|2A46M (125 mm)}}
+{{main|2A46 (125 mm)}}
 
 Like all T-72A series in game, T-72M1 uses the standard 2A46M 125 mm smoothbore cannon as the older D-81T on T-64A or T-72 Ural couldn't fulfill the combat needs of 1970s; the gun is known for its devastating firepower against enemy vehicles with varieties of ammunition of HEATFS, HEFS and APFSDS. While a precise hit on enemy components is very likely to disable them or knock them out right away, players will need to pay extra attention on its rather inferior turret traverse speed and make every shot count as the 7.1 second fixed reload time can be a dual-edge sword - while losing a crew in the tank will not halt the autoloader, aced tank crews can reload at least a second faster than autoloader does.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A46M (125 mm)|125 mm 2A46M]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
+! colspan="5" | [[2A46 (125 mm)|125 mm 2A46]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
@@ -84,7 +84,7 @@ Like all T-72A series in game, T-72M1 uses the standard 2A46M 125 mm smoothbore 
 |}
 
 ==== Ammunition ====
-{{:2A46M (125 mm)/Ammunition|3BK12M, 3OF26, 3BM9, 3BM15, 3BM22}}
+{{:2A46 (125 mm)/Ammunition|3BK12M, 3OF26, 3BM9, 3BM15, 3BM22}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

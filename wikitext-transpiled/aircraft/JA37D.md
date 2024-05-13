@@ -198,8 +198,7 @@ If an enemy positions themselves directly behind you, do not hesitate to use you
 
 '''Cons:'''
 
-* No tracer rounds making it hard to hit enemy aircraft without prior practice
-* Very limited ammo supply with only 150 rounds with no tracer belt options
+* Very limited ammo supply with only 150 rounds
 * No bombs or guided air-to-ground missiles
 * The afterburner's fuel consumption is overwhelmingly fast
 

@@ -240,7 +240,12 @@ These fighters played a significant role as ground attackers in the Six-Day War 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-{{Youtube-gallery|gUaHVb9TP0g|UNDERPOWERED! Mystere IVA - Israel - War Thunder Review! ""Jengar""}}
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=md_454_mystere_4a_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|gUaHVb9TP0g|'''Underpowered! Mystere IVA - Israel - Review!''' - ''Jengar''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

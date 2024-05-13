@@ -118,6 +118,15 @@ Meanwhile, the JH-7A has 84 countermeasures installed; for most cases, these lar
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="5" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
+|-
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -131,27 +140,80 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
+
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
+| rowspan="16" width="30%" | <!-- <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div> -->
+|-
+! [[250-3 (250 kg)|250 kg 250-3]] bombs
+| || 1 || 4 || 6 || || 6 || 4 || 1 ||
+|-
+! [[250-4 (250 kg)|250 kg 250-4]] bombs
+| || 1 || 4 || 6 || || 6 || 4 || 1 ||
+|-
+! [[500-3 (500 kg)|500 kg 500-3]] bombs
+| || || 2 || 2 || || 2 || 2 || ||
+|-
+! [[500-4 (500 kg)|500 kg 500-4]] bombs
+| || || 2 || 2 || || 2 || 2 || ||
+|-
+! [[GB250 (260 kg)|260 kg GB250]] bombs
+| || 1* || 1* || 1* || || 1* || 1* || 1* ||
+|-
+! [[GB500 (570 kg)|570 kg GB500]] bombs
+| || || 1* || 1* || || 1* || 1* || ||
+|-
+! [[GB1000 (1,090 kg)|1,090 kg GB1000]] bombs
+| || || 1* || 1* || || 1* || 1* || ||
+|-
+! [[Type 90-1]] rockets
+| || 7 || 7 || 7 || || 7 || 7 || 7 ||
+|-
+! [[Type 130-2]] rockets
+| || || 4 || 4 || || 4 || 4 || ||
+|-
+! [[Kh-29T]] missiles
+| || || || 1 || || 1 || || ||
+|-
+! [[PL-5B]] missiles
+| 1 || 1 || || || || || || 1 || 1
+|-
+! [[PL-5C]] missiles
+| 1 || 1 || || || || || || 1 || 1
+|-
+! [[PL-8]] missiles
+| || 1 || || || || || || 1 ||
+|-
+! K/ADC03A targeting pod
+| || || || || 1* || || || ||
+|-
+| colspan="10" | Maximum permissible weight imbalance: 1,500 kg
+|-
+| colspan="11" | * The K/ADC03A targeting pod must be carried when equipping laser-guided bombs
+|-
+|}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-
 * Without load
 * 2 x PL-5C missiles
-* 4 x PL-5C missiles
+* 12 x 250 kg 250-3 bombs (3,000 kg total)
 * 4 x PL-5B missiles
+* 4 x PL-5C missiles
 * 2 x PL-8 missiles
-* 16 x Type 130-2 rockets
 * 42 x Type 90-1 rockets
+* 16 x Type 130-2 rockets
 * 22 x 250 kg 250-3 bombs (5,500 kg total)
 * 22 x 250 kg 250-4 bombs (5,500 kg total)
 * 8 x 500 kg 500-3 bombs (4,000 kg total)
 * 8 x 500 kg 500-4 bombs (4,000 kg total)
 * 2 x Kh-29T missiles
-* 4 x 260 kg GB250 bombs + 1 x K/ADC03A targeting pod (1,040 kg total)
-* 4 x 570 kg GB500 bombs + 1 x K/ADC03A targeting pod (2,280 kg total)
-* 4 x 1,090 kg GB1000 bombs + 1 x K/ADC03A targeting pod (4,360 kg total)
-
+* 6 x 260 kg GB250 bombs (1,560 kg total)
+* 4 x 570 kg GB500 bombs (2,280 kg total)
+* 4 x 1,090 kg GB1000 bombs (4,360 kg total)
 {{Navigation-End}}
 
 As a fighter-bomber modernized into a precision strike fighter, the JH-7A has a wide variety of ordnance available to it.

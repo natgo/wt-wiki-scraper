@@ -27,10 +27,10 @@ Introduced in [[Update "Apex Predators"]], the premium A-6E TRAM is one of the m
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1,063 || 1,055 || rowspan="2" | {{Specs|ceiling}} || 48.0 || 49.0 || 58.3 || 44.0 || rowspan="2" | 1,100
+| 1,047 || 1,041 || rowspan="2" | {{Specs|ceiling}} || 50.2 || 51.2 || 35.1 || 32.4 || rowspan="2" | 1,100
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 1,063 || 1,055 || 48.1 || 49.0 || 53.9 || 44.0
 |-
 |}
 
@@ -198,6 +198,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 6 x 500 lb LDGP Mk 82 bombs + 2 x AIM-9L Sidewinder missiles + 2 x 957 kg GBU-10 Paveway II guided bombs (7,220 lb total)
 * 960 x countermeasures
 * 4 x 20 mm Mk 11 mod 5 cannons (750 rpg = 3,000 total)

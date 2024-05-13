@@ -62,25 +62,29 @@ Despite the lack of armour, however, the SPz BMP-1 will, on occasion, survive hi
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|2A28 (73 mm)}}
 
-The 2A28 main cannon, despite being the 'main' armament will more often than not act more as secondary armament, at least once the BMP-1P upgrade is researched, due to the 9M113 ATGM proving significantly more controllable and effective at all engagement ranges. Despite this, the PG-9 HEAT round proves valuable in a pinch, with well-placed shots able to disable critical components on most vehicles the {{PAGENAME}} will face. Keep in mind that the {{PAGENAME}} does not feature any sort of stabilisation at all, and due to its light weight, the gun is near impossible to get on target at speed.
+The 2A28 main cannon, despite being the main armament will more often than not act more as secondary armament, at least once the BMP-1P upgrade is researched, due to the 9M113 ATGM proving significantly more controllable and effective at all engagement ranges. Despite this, the PG-9 HEAT round proves valuable in a pinch, with well-placed shots able to disable critical components on most vehicles the {{PAGENAME}} will face. Keep in mind that the {{PAGENAME}} does not feature any sort of stabilisation at all, and due to its light weight, the gun is near impossible to get on target at speed.
 
 The main cannon's primary drawback is its mediocre ballistic performance, with the HEAT round travelling at only 665 m/s and the HE round travelling at an abysmal 290 m/s.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A28 (73 mm)|73 mm 2A28]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[2A28 (73 mm)|73 mm 2A28]] || colspan="5" | Turret rotation speed (°/s) 
+! Reloading rate (seconds) || colspan="4" | Reloading rate BMP-1P (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
+! Autoloader
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -4°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || 19.04 || 26.35 || 32.00 || 35.39 || 37.65 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -4°/+30° || rowspan="2" | ±180° || rowspan="2" | N/A || 19.04 || 26.35 || 32.00 || 35.39 || 37.65 
+| rowspan="2" | 6.00 || rowspan="2" | 6.50 || rowspan="2" | 5.75 || rowspan="2" | 5.30 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 11.90 || 14.00 || 17.00 || 18.80 || 20.00
 |-
 |}
+The SPz BMP-1 will be manually loaded once the upgrade "BMP-1P" is unlocked.
 
 ==== Ammunition ====
 When stock, all available ammunition for the weapon are unlocked - HEAT and HE.

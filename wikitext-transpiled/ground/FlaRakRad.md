@@ -49,14 +49,13 @@ As the FlaRakRad is the largest ground vehicle in game, and an SPAA, it is not h
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="6" | [[Roland|Roland SAM]] (x2) || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="6" | [[Roland|Roland SAM]] (x2) || colspan="4" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
-! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Stock !! Upgraded !! Full !! Expert !! Aced!!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 10 (2) || rowspan="2" | -10°/+80° || rowspan="2" | ±180° || rowspan="2" | N/A || 74.9 || 103.6 || 125.8 || 139.1 || 148.0 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00
+| rowspan="2" | 10 (2) || rowspan="2" | -10°/+80° || rowspan="2" | ±180° || rowspan="2" | N/A || 74.9 || 103.6 || 125.8 || 139.1 || 148.0 || rowspan="2" | 5.00 
 |-
 ! ''Realistic''
 | 50.6 || 59.5 || 72.3 || 79.9 || 85.0

@@ -41,9 +41,9 @@ Furthermore, the Challenger 3 (TD) gets two more toys to play with in the form o
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The Challenger 3 (TD) uses a similar engine to the Challenger 2E, the Perkins CV12-6A. This engine pumps out 1500HP of power on a chassis slightly heavier than the 2E, accounting for the new 120mm gun. This is the same as the Euro Power Pack you have in the Challenger 2E, which also has 1500HP. Mobility is much the same as the 2E, you may notice a slight decrease in acceleration and top speed, but ultimately the  difference is trivial.
+The Challenger 3 (TD) uses a similar engine to the Challenger 2E, the Perkins CV12-6A. This engine pumps out 1,500 HP of power on a chassis slightly heavier than the 2E, accounting for the new 120 mm gun. This is the same as the Euro Power Pack in the Challenger 2E, which also has 1,500 HP. Mobility is much the same as the 2E, you may notice a slight decrease in acceleration and top speed, but ultimately the difference is trivial.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=2,325|rbMinHp=1,327}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -55,7 +55,7 @@ The Challenger 3 (TD) uses a similar engine to the Challenger 2E, the Perkins CV
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Rh120 L/55 A1 (120 mm)}}
 
-Challenger users will be pleased to know the Challenger 3 (TD) has a new trick up its sleeve in comparison to the previous Challenger line - the Rh120mm L/55 A1 gun. This is a Rheinmetall 120mm smoothbore cannon, the same as found on the Leopard 2A7V. This allows the Challenger 3 (TD) to use NATO standard ammunition, and more pointedly, DM53 ammunition once unlocked. DM53 is a dramatic improvement over the previous L27A1, and you will notice a stark difference in your ability to punch through even the heaviest armour effectively. The gun is an upgrade in virtually all areas - velocity, penetration power on both flat and angled surfaces, the amount of spalling generated, accuracy, etc. 
+Challenger users will be pleased to know the Challenger 3 (TD) has a new trick up its sleeve in comparison to the previous Challenger line - the Rh120mm L/55 A1 gun. This is a Rheinmetall 120 mm smoothbore cannon, the same as found on the Leopard 2A7V. This allows the Challenger 3 (TD) to use NATO standard ammunition, and more pointedly, DM53 ammunition once unlocked. DM53 is a dramatic improvement over the previous L27A1, and you will notice a stark difference in your ability to punch through even the heaviest armour effectively. The gun is an upgrade in virtually all areas - velocity, penetration power on both flat and angled surfaces, the amount of spalling generated, accuracy, etc.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -66,10 +66,10 @@ Challenger users will be pleased to know the Challenger 3 (TD) has a new trick u
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 37 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 37 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 29.5 || 40.8 || 49.6 || 54.9 || 58.4 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 18.4 || 21.7 || 26.4 || 29.2 || 31.0
 |-
 |}
 
@@ -93,6 +93,7 @@ Challenger users will be pleased to know the Challenger 3 (TD) has a new trick u
 | '''37''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
 |-
 |}
+
 The other, more hidden benefit, of the Challenger 3 (TD) as mentioned above is the ready rack. Gone are the much-maligned 4 shell racks of the previous Challengers, this one has a ready rack of 15 shells! Not only that, they are positioned neatly at the back of the turret, with blowout panels behind. Taking 16 shells will mean none whatsoever in the hull, and the ones in the turret will be much more survivable to kill-shots compared to any previous Challenger model.
 
 === Machine guns ===
@@ -100,7 +101,7 @@ The other, more hidden benefit, of the Challenger 3 (TD) as mentioned above is t
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|L94A1 (7.62 mm)}}
 
-The Challenger 3 TD only comes with a single 7.62 coaxial machinegun operated by the gunner/commander.
+The Challenger 3 TD only comes with a single 7.62 mm coaxial machine gun operated by the gunner/commander.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -108,7 +109,7 @@ The Challenger 3 TD only comes with a single 7.62 coaxial machinegun operated by
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| || ___ (___) || ___ || __° || __°
+| Coaxial || 4,000 (2,000) || 600 || - || -
 |-
 |}
 
@@ -118,11 +119,11 @@ Use of the Challenger 3 TD is effectively the same as all preceding Challengers 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-'''Pros:''' 
+'''Pros:'''
 
 * Gains German gun seen on Leopard 2A7V with corresponding ammunition (significantly better than default ammunition of challenger 2)
-* Retains some features from Black Night - the LWS and commander thermal scope 
-* Retains most pros of the base challenger 2, except for the inert ammo rack and spall liners on the turret roof 
+* Retains some features from Black Night - the LWS and commander thermal scope
+* Retains most pros of the base challenger 2, except for the inert ammo rack and spall liners on the turret roof
 ** Slightly better acceleration than the base challenger 2, but same speed
 * No random ammo racks everywhere in the hull, major ammo racks are placed behind the toughest plates in the entire tank (at least, when attacked from the front)
 
@@ -130,7 +131,7 @@ Use of the Challenger 3 TD is effectively the same as all preceding Challengers 
 
 * Vast majority of HE can obliterate it by hitting the constructs below commander optics which isn't too difficult to hit. In fact, the turret roof can be overpressured even by the weakest HEAT ATGM due to the lack of HE protection
 * No longer immune to overpenetrating turret ammo rack shot, as ammunition is no longer inert, either destroying it instantly or burning all of its ready ammo rack
-** The reload after emptying ready rack is 31 seconds (assuming the loader is still alive) and the ready rack will not start filling up until the gun reload is completed (effectively putting the tank out of order for a minute), unless assisted by a capture point 
+** The reload after emptying ready rack is 31 seconds (assuming the loader is still alive) and the ready rack will not start filling up until the gun reload is completed (effectively putting the tank out of order for a minute), unless assisted by a capture point
 * Retains some of the weaknesses of the base challenger 2:
 ** Same unreliable mantlet armour
 ** Majority of top tanks can penetrate it from high ground
@@ -146,6 +147,10 @@ The Challenger 3 TD was first announced in 2020 as a project which the British a
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_2_lep Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|OHeVZEC8Szc|'''The Shooting Range #388''' - ''Pages of History'' section at 03:51 discusses the {{PAGENAME}}.|4juJrYOVpCQ|'''The Shooting Range #386''' - ''Metal Beasts'' section at 00:54 discusses the {{PAGENAME}}.}}
 

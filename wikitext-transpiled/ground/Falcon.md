@@ -210,6 +210,6 @@ The Falcon has questionable accuracy at 2 km range, but it still can force you t
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[wt:en/devblog/current/866/|[Devblog] Falcon AA: Britain's foremost anti-air gun]]
+* [[wt:en/devblog/current/4078/|[Devblog] Falcon AA: Britain's foremost anti-air gun]]
 
 {{Britain anti-aircraft vehicles}}

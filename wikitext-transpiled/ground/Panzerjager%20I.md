@@ -69,7 +69,7 @@ Any enemies at this rank can pierce your armour. However, the biggest threats ar
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated: 2.3.0.117''' -->
+<!-- '''Last updated: 2.35.0.31''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -80,13 +80,14 @@ Any enemies at this rank can pierce your armour. However, the biggest threats ar
 ! 5th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''86''' || 77&nbsp;''(+9)'' || 43&nbsp;''(+43)'' || 28&nbsp;''(+58)'' || 18&nbsp;''(+68)'' || 1&nbsp;''(+85)'' || No
+| '''86''' || 76&nbsp;''(+10)'' || 42&nbsp;''(+44)'' || 27&nbsp;''(+59)'' || 17&nbsp;''(+69)'' || 0&nbsp;''(+86)'' || No
 |-
 |}
 '''Notes''':
 
 * Racks disappear after you've fired all shells in the rack.
-* Pack 18&nbsp;''(+68)'' shells or fewer to keep the right flank empty of ammo.
+* Turret empty: 76 ''(+10)'' shells.
+* Right flank empty: 17&nbsp;''(+69)'' shells.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -131,6 +132,7 @@ After the Battle of France, the Panzerjäger I's in Anti-Tank Battalion 605 were
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_panzerjager_1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

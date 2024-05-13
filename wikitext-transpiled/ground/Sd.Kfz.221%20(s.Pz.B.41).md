@@ -79,7 +79,7 @@ The 28/20 mm s.Pz.B.41 squeeze-bore cannon fires only one ammo type, the 2.8/2 c
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.35.0.31''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -103,6 +103,7 @@ The 28/20 mm s.Pz.B.41 squeeze-bore cannon fires only one ammo type, the 2.8/2 c
 |}
 '''Note''':
 
+* Racks only disappear after all shells in the rack have been fired.
 * Rearmost ammo racks empty: 37&nbsp;''(+23)'' shells.
 
 == Usage in battles ==
@@ -156,10 +157,13 @@ The Sd.Kfz.221 served mainly in the Aufklärungsabteilung (reconnaissance battal
 {{Youtube-gallery|_L5i_oupaCU|'''Sd.Kfz.221 (s.Pz.B.41)''' - ''TheEuropeanCanadian''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Vehicles of a similar configuration or role
+* [[AB 41]]
+* [[Csaba]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

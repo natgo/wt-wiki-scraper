@@ -8,7 +8,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' is the 4th ship of the [[Somers (Family)|Somers-class]] of American destroyers. Laid down in July of 1936, she wouldn't be commissioned until November of 1938. Notably, DD-395 is the 3rd USN ship to be named after Rear Admiral Charles Henry Davis, and wasn't the last either. She would go on to serve in WW2, not seeing much action. Beginning the conflict in the Neutrality patrol, once the United States entered the war would continue to serve in the Caribbean and Atlantic theaters of operation. While patrolling for the Normandy landings, she would repel a German E-boat attack, before suffering damage from a mine and having to be repaired. She would go back to convoy escort duties for the remainder of the war, before being decommissioned in 1945 after the close of the war.
 
-Introduced as an event reward for [[wt:en/news/7640-event-the-battle-for-arachis-en|"Battle for Arachis"]], USS Davis shares many similarities with other US destroyers of the rank. This includes the main armament of 8x {{Annotation|5-inch|127 mm}}/38, which is some of the strongest for destroyers, with good damage and excellent fire rate. It does have a smaller belt than the [[Porter (Family)|Porter-class]], but in exchange it has much more crew, greatly increasing its survivability overall. This combination of firepower and survivability makes the Davis a menace when facing other destroyers and even many light cruisers. Additionally, the silver lion gain with the USS Davis is also extremely high;  it has the highest modifier possible at 1800%.
+Introduced as an event reward for [[wt:en/news/7640-event-the-battle-for-arachis-en|"Battle for Arachis"]], USS Davis shares many similarities with other US destroyers of the rank. This includes the main armament of 8x {{Annotation|5-inch|127 mm}}/38, which is some of the strongest for destroyers, with good damage and excellent fire rate. It does have a smaller belt than the [[Porter (Family)|Porter-class]], but in exchange it has much more crew, greatly increasing its survivability overall. This combination of firepower and survivability makes the Davis a menace when facing other destroyers and even many light cruisers. Additionally, the silver lion gain with the USS Davis is also extremely high; it has the highest modifier possible at 1,800%.
 
 == General info ==
 === Survivability and armour ===
@@ -19,7 +19,7 @@ Introduced as an event reward for [[wt:en/news/7640-event-the-battle-for-arachis
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-With a flank speed of {{Annotation|37 kn|69 km/h;43 mph}}, USS Davis is a quick and nimble destroyer for USN captains. Responding to rudder commands within two seconds, captains should feel at ease manoeuvering near terrain, as in most cases rudder response will be quick enough to avoid grounding. Her speed falls to {{Annotation|26 kn|48 km/h;30 mph}} in a turn: captains should be prudent to avoid sustained turns, as Davis will be more liable to be hit and sustain damage at these lower speeds. USS Davis also responds well to engine room commands, taking 33 seconds to come to a halt and 29 seconds to accelerate to flank speed. 
+With a flank speed of {{Annotation|37 kn|69 km/h;43 mph}}, USS Davis is a quick and nimble destroyer for USN captains. Responding to rudder commands within two seconds, captains should feel at ease manoeuvring near terrain, as in most cases rudder response will be quick enough to avoid grounding. Her speed falls to {{Annotation|26 kn|48 km/h;30 mph}} in a turn: captains should be prudent to avoid sustained turns, as Davis will be more liable to be hit and sustain damage at these lower speeds. USS Davis also responds well to engine room commands, taking 33 seconds to come to a halt and 29 seconds to accelerate to flank speed. 
 
 {{NavalMobility}}
 
@@ -82,7 +82,7 @@ With a flank speed of {{Annotation|37 kn|69 km/h;43 mph}}, USS Davis is a quick 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_destroyer_somers_davis Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 USS_Davis_WTWallpaper001.jpg
 USS_Davis_WTWallpaper002.jpg
 USS_Davis_WTWallpaper003.jpg

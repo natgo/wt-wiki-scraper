@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-In the late 1970s, under the Peace Fox I program, Israel recieved its first shipment of the latest [[F-15A|F-15A Eagle]] air superiority fighters, and shortly after, the second shipment was temporarily embargo'd as a result of the 1982 Lebanon War. However, that did not matter to the Israelis, as even a single F-15 was a landslide advantage in the air wars of the Middle East, making short work of 30 year old Syrian MiG-21s that tried to face it. The Israeli F-15A, nicknamed the Baz ("Falcon") would score the premiere kill for the F-15 in aerial combat, against a Syrian MiG-21, in 1978, and would start the totem pole of air dominance that defines the F-15's service record. Of the 103+ confirmed aerial kills the F-15 has scored during its service life, Israeli F-15s are responsible for over 80 of them, and the Baz is the concrete starting ground for this long lasting legacy.
+In the late 1970s, under the Peace Fox I program, Israel received its first shipment of the latest [[F-15A|F-15A Eagle]] air superiority fighters, and shortly after, the second shipment was temporarily embargoed as a result of the 1982 Lebanon War. However, that did not matter to the Israelis, as even a single F-15 was a landslide advantage in the air wars of the Middle East, making short work of the 30-year-old Syrian MiG-21s that tried to face it. The Israeli F-15A, nicknamed the Baz ("Falcon"), would score the first kill for the F-15 in aerial combat, against a Syrian MiG-21, in 1978, and would start the totem pole of air dominance that defines the F-15's service record. Of the 103+ confirmed aerial kills the F-15 has scored during its service life, Israeli F-15s are responsible for over 80 of them, and the Baz is the concrete starting ground for this long-lasting legacy.
 
-The '''{{Specs|name}}''', introduced in [[Update "Air Superiority"]], is Israel's counterpart to the F-15s found in the [[F-15A|American]] and [[F-15J|Japanese]] tech trees. As a result, the Baz plays almost identically to its Eagle brothers in the other trees, with a few minor differences. The main difference, is that unlike the American and Japanese Eagles, the Baz has access to the [[Python 3]] missile, in addition to the usual selection of [[AIM-9L Sidewinder|AIM-9L]] and [[AIM-9M Sidewinder|M]]. The Baz is best played to the same advantages as the other Eagles; do not get too slow, as high-AoA fighters like the [[JAS39A|JAS39]] and the [[Su-27]] will utilize their low speed dogfighting advantages (HMD missiles and high AoA control) against you. Instead, rely on your own advantages, such as the absurd thrust-to-weight ratio from the powerful engines and the very stable airframe, to set up high-speed engagements in scenarios that favor the Eagle's high speed performance.
+The '''{{Specs|name}}''', introduced in [[Update "Air Superiority"]], is Israel's counterpart to the F-15s found in the [[F-15A|American]] and [[F-15J|Japanese]] tech trees. As a result, the Baz plays almost identically to its Eagle brothers in the other trees, with a few minor differences. The main difference, is that unlike the American and Japanese Eagles, the Baz has access to the [[Python 3]] missile, in addition to the usual selection of [[AIM-9L Sidewinder|AIM-9L]] and [[AIM-9M Sidewinder|M]]. The Baz is best played to the same advantages as the other Eagles; do not get too slow, as high-AoA fighters like the [[JAS39A|JAS39]] and the [[Su-27]] will utilize their low speed dogfighting advantages (HMD-slaved missiles and high AoA control) against you. Instead, rely on your own advantages, such as the absurd thrust-to-weight ratio from the powerful engines and the very stable airframe, to set up high-speed engagements in scenarios that favour the Eagle's high speed performance.
 
 == General info ==
 === Flight performance ===
@@ -231,16 +231,17 @@ From 1976 onward, Israel continued purchasing F-15s of various models for almost
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=f_15a_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[F-15 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

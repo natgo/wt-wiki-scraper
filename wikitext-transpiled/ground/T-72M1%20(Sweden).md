@@ -58,18 +58,18 @@ The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce 
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|2A46M (125 mm)}}
+{{main|2A46 (125 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A46M (125 mm)|125 mm 2A46M]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[2A46 (125 mm)|125 mm 2A46]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 44 || rowspan="2" | -6°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10
+| rowspan="2" | 44 || rowspan="2" | -6°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 7.10
 |-
 ! ''Realistic''
 | 11.9 || 14.0 || 17.0 || 18.8 || 20.0
@@ -77,7 +77,7 @@ The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce 
 |}
 
 ==== Ammunition ====
-{{:2A46M (125 mm)/Ammunition|3BK12M, 3OF26, 3BM9, 3BM15, 3BM22}}
+{{:2A46 (125 mm)/Ammunition|3BK12M, 3OF26, 3BM9, 3BM15, 3BM22}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -140,7 +140,7 @@ The hull and turret of the T-72M1 are strong enough to somewhat reliably bounce 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-One of the key strengths of the T-72M1 is its armour. The quartz core composed turret will bounce many shots and can even eat up some ATGMs. In terms of armament, the T-72M1 boasts the very powerful and accurate [[2A46M (125 mm)|125 mm 2A46M]] gun that Soviet T-72A tankers will already be familiar with. Make sure to research the 3BM15 APFSDS round as soon as you can (after Parts and FPE), as the stock HEATFS round has some shortcomings.
+One of the key strengths of the T-72M1 is its armour. The quartz core composed turret will bounce many shots and can even eat up some ATGMs. In terms of armament, the T-72M1 boasts the very powerful and accurate 125 mm 2A46 gun that Soviet T-72A tankers will already be familiar with. Make sure to research the 3BM15 APFSDS round as soon as you can (after Parts and FPE), as the stock HEATFS round has some shortcomings.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

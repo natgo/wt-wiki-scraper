@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French battleship {{Battle-rating}}. It was introduced in [[Update "Air Superiority"]].
+The lead ship of [[Courbet (Family)|her class]], '''Courbet''' was the first dreadnought built for the French Navy, launched in September 1911, but commissioned only 8 months before the beginning of the World War One. She was a flagship during the Battle of Antivari, where she participated in a sinking of the Austrian protected cruiser SMS Zenta. During the rest of the war, she prevented the Austro-Hungarian fleet from attempting to break out of the Adriatic. During the interwar years she served as a gunnery training ship and underwent multiple modernisations, which included changes to the main battery turrets, machinery, fire control, and more. Due to the time in dock and service as a training ship, she rarely left port. After the German invasion of France, she was mobilised to defend French ports along the coast of La Manche and to participate in Operation Aerial. Soon after, she sailed to Portsmouth in England and joined the Free French Navy as an anti-aircraft battery and later accommodation ship. Later, she was reassigned as a target ship, in order to test the secret bombs which were later used in the Dambuster Raid. After the Normandy landings, she was pulled by tugboats to be used as a part of the breakwater for the improvised harbour off Sword Beach. In that role, she was attacked by a secret German manned torpedoes, Negers, becoming the first vessel to suffer damage from secret weapons of both the Allies and Axis. After the war, her scrapping took until 1970.
+
+The Courbet was introduced in [[Update "Air Superiority"]]. Compared to the direct counterparts, she has a better damage output in exchange for somewhat worse armour protection. Her biggest highlight is the damage output of the AP shells, though only if those shells manage to penetrate the target, which is something they might struggle with, especially against higher BR vessels. She's best used in a typical role for a World War One-origin battleship: pushing the capture points and fighting with her direct counterparts.
 
 == General info ==
 === Survivability and armour ===
@@ -89,6 +91,10 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French battleship {{Ba
 * ''other literature.'' -->
 
 * [[wt:en/news/8666-development-premium-battleships-courbet-and-leonardo-da-vinci-en|[Devblog] Premium Battleships Courbet and Leonardo da Vinci]]
+* [[wikipedia:French battleship Courbet (1911)|[Wikipedia] French battleship Courbet (1911)]]
+* [[wikipedia:Courbet-class battleship|[Wikipedia] Courbet-class battleship]]
+* [https://uboat.net/allies/warships/ship/5966.html <nowiki>[uboat.net]</nowiki> FR Courbet of the French Navy - French Battleship of the Courbet class - Allied Warships of WWII]
+* [http://navypedia.org/ships/france/fr_bb_courbet.htm <nowiki>[Navypedia]</nowiki> COURBET battleships (1913 - 1914)]
 
 {{ShipManufacturer Arsenal de Lorient}}
 {{France battleships}}

@@ -99,7 +99,7 @@ Finally, note that Portland does not have great anti-aircraft defence. While the
 * Improved armour protection from HE shrapnel compared to the Brooklyn
 * Main guns hit relatively hard, being of a large calibre
 * Thicker armour over main magazines than the Brooklyn
-* Crew of 848 is above average
+* Above average crew count
 * Relatively good anti-aircraft protection for a pre-war American heavy cruiser
 * Two scout seaplanes.
 
@@ -123,6 +123,7 @@ Firepower was provided from 3 triple 8" guns in Mk. 14 turrets. This design was 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_cruiser_portland_class Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

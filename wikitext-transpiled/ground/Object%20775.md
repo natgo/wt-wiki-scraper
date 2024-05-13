@@ -53,11 +53,11 @@ The vehicle has acceptable terrain-crossing capability but doesn't have the best
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|D-126 (125 mm)}}
 
-The 775 is armed with the [[D-126 (125 mm)|125mm D-126]] gun-launcher system. This weapon will be very familiar to tankers who have played the M551 Sheridan before, as the primary ammunition is an ATGM and an HE round. The barrel is very short, helping maintain the stealth of the vehicle. The turret traverse is not very fast so care will need to be taken to pre-aim the gun around any expected enemy avenues of approach.
+The 775 is armed with the [[D-126 (125 mm)|125 mm D-126]] gun-launcher system. This weapon will be very familiar to tankers who have played the M551 Sheridan before, as the primary ammunition is an ATGM and an HE round. The barrel is very short, helping maintain the stealth of the vehicle. The turret traverse is not very fast so care will need to be taken to pre-aim the gun around any expected enemy avenues of approach.
 
-The Rubin ATGM is a very solid missile, providing users 500mm of penetration while having great speed (550 m/s) and decent range (2.49 miles). The only downside is that right after leaving the barrel, the missile dips down before coming back into the center of the sight, making firing from behind cover difficult.
+The Rubin ATGM is a very solid missile, providing users 500 mm of penetration while having great speed (550 m/s) and decent range (4,000 m / 2.49 miles). The only downside is that right after leaving the barrel, the missile dips down before coming back into the center of the sight, making firing from behind cover difficult.
 
-The BUR High-Explosive rocket is less functional but can be fun to surprise enemies with. The round drops very quickly and there is no laser rangefinder, making anything but point-blank shots an exercise in skill. The warhead contains the equivalent of 3.96kg of TNT, making it a serious threat to lightly armoured targets.
+The BUR High-Explosive rocket is less functional but can be fun to surprise enemies with. The round drops very quickly and there is no laser rangefinder, making anything but point-blank shots an exercise in skill. The warhead contains the equivalent of 3.96 kg of TNT, making it a serious threat to lightly armoured targets.
 
 Given how condensed the ammunition is, you can comfortably take a full loadout. The main ammo storage is in the front of the tank, protected by heavily sloped armour and internal fuel tanks. The central autoloader holds eight rounds, allowing you to fire a new projectile every . The autoloader also gets replenished extremely fast so running out of ammo in the carousel is not life-threatening, unlike many other ATGM vehicles.
 
@@ -156,6 +156,11 @@ In the early 1960s, the USSR began to develop a promising medium tank with guide
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_object_775 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|avl9dE1525Y|'''The Shooting Range #379''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.}}
 
@@ -169,7 +174,7 @@ In the early 1960s, the USSR began to develop a promising medium tank with guide
 * [[M551|M551 Sheridan]] - US light tank
 * [[M60A2|M60A2 Starship]] - US medium tank
 * [[KPz-70]]/[[MBT-70]]/[[XM-803]] - US/German main battle tanks
-* [[AMX-30 ACRA]]/[[AMX-10M]] - French tanks with the 142m m ACRA gun-launcher
+* [[AMX-30 ACRA]]/[[AMX-10M]] - French tanks with the 142 mm ACRA gun-launcher
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

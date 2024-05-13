@@ -10,12 +10,18 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-rating}}. It was introduced in [[Update 1.77 "Advancing Storm"]].
+
+The forerunner to the Leopard 2 was in many ways a return to form of what the Leopard 1 was designed as: the sacrifice of armour for incredible speed and firepower. The '''Leopard 2K''' started life as a project after the US-German [[MBT-70|MBT]]/[[KPz-70]] program fell apart in 1970, as an urgent program to replace the now aging [[Leopard 1]]. There had been prior attempts at modernization and development, such as the "vergoldeter Leopard" (gilded Leopard) program in 1967 which aimed to install an autoloader and coaxial autocannon to the Leopard 1, and the Bundeswehr decided to re-use parts of this development in a series of vehicles nicknamed "Keiler", or "tusker". This resulted in two separate vehicles being prototyped and tested: The Leopard 2FK, which was armed with a gun/launcher system similar to the [[KPz-70]]'s, and the Leopard 2K, armed with a smoothbore 105 mm cannon. The Bundeswehr declared the 2K as the superior design in 1971, and development of the 2FK was abandoned as a result.
+
+There were 16 Leopard 2K prototypes produced (the 17th hull was cancelled), the first 10 equipped with the 105 mm smoothbore gun and the later 6 with the 120 mm smoothbore. These prototypes went through technical tests in between 1972 and 1975, but were ultimately held back due to development of the EMES-13 rangefinder stalling and the MLC 50 requirements (roughly 47.5 tons), which were insufficient in providing adequate protection against enemy tank fire. Unfortunately for the Leopard 2K, the lessons learned during the Yom Kippur War in 1973 alerted the Bundeswehr to the fact that armour was still very much relevant in tank engagements, which led to the easing of restrictions on weight to MLC 60 (55 tons). Coupled with the EMES-13 system finishing development, development moved on to produce what became the [[Leopard 2AV]], while the Leopard 2K was rejected due to its perceived inadequate armour against potential threats, ending its development.
+
+Introduced in [[Update 1.77 "Advancing Storm"]], the Leopard 2K is what the Leopard 2 could have been, following up on the Leopard 1's design choices in low armour in exchange for near unmatchable mobility and firepower. A titular glass cannon, the Leopard 2K is not heavily armoured and can be penetrated almost anywhere by contemporary tank rounds. However, what the 2K lacks in armour it more than makes up for in the other two areas; speed and firepower. The 120 mm smoothbore cannon has enough penetration to simply point and click at the upper plate of very common enemies at this BR such as the [[T-72AV (TURMS-T)]], and coupled with the laser rangefinder can accurately fire shells at extreme ranges with adequate zoom on its optics. The vehicle is also equipped with an [[Rh202 (20 mm)|Rh202]] autocannon on the roof, which is operated by the gunner, which lets the vehicle still fire the gun even when on 2 crew. The autocannon has a high traverse rate and has a high rate of fire, and can engage both enemy light vehicles, barrels, tracks and aircraft ubiquitously. The mobility is the standout feature of this tank, with an eye-watering 30 hp/t power-to-weight ratio that lets it barrel across the map faster than almost anyone else. Even the extremely mobile [[XM1 (GM)]] is just shy of 30 at 28.9 hp/t, and outside of vehicles such as the [[VT1-2]] with its horrifying 50.6 hp/t it can outpace just about all MBTs it can face in the positioning game. This combination of the 20 mm autocannon, high damaging 120 mm smoothbore cannon and mobility that is almost unmatched by any other means the Leopard 2K is a beast of a tank that performs best when used to the extreme, going from firing position to firing position and always being unexpected.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+The Leopard 2K has what can mostly be described as superficial armour. It can stop some autocannon fire to the upper plate and some areas of the turret but most contemporary rounds be they autocannon or tank caliber will go straight through. The vehicle should be treated as having almost no armour, and taking any sort of enemy fire should ideally be avoided at all costs to increase survivability.
 
 {| class="wikitable"
 |-
@@ -38,7 +44,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German medium tank {{Battle-ra
 
 {{tankMobility|abMinHp=2,032|rbMinHp=1,327}}
 
-The mobility of the {{PAGENAME}} is astonishing, making it one of the most agile MBTs at its BR, able to reach a speed of 70 km/h (RB) on road.
+The mobility of the {{PAGENAME}} is astonishing, making it one of the most agile MBTs at its BR if not in the entire game. A HP/t of 30 means that it easily outruns the sluggish T-72s in the Soviet tree, and it can even give the [[XM1 (GM)]] a run for its money while being significantly up-armed in terms of firepower. You will almost always be the front of the vanguard on your team, and very few vehicles on either side will be able to compete with you to advantageous positions.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -50,7 +56,7 @@ The mobility of the {{PAGENAME}} is astonishing, making it one of the most agile
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Rh120 L/44 (120 mm)}}
 
-The Leopard 2K's gun is a 120 mm Rheinmetall L44. It can be found on the later models of the tank, such as the [[Leopard 2A4]] and [[Leopard 2A5]]. The rounds that the Leopard 2K gets are DM12 HEATFS, DM13 APFSDS, and DM23 APFSDS just like the [[Leopard 2A4]]. Being fitted with a 120 mm Rheinmetall gun it is effective at all ranges, capable of penetrating tanks even 1,000 m away
+The Leopard 2K's gun is a 120 mm Rheinmetall L44. It can be found on the later models of the tank, such as the [[Leopard 2A4]] and [[Leopard 2A5]], and shares round types with the [[Leopard 2A4]] which are: DM12 HEATFS, DM13 APFSDS, and DM23 APFSDS. Being fitted with a 120 mm Rheinmetall gun, it is effective at all ranges, capable of penetrating tanks at range in tandem with the laser rangefinder.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -123,7 +129,7 @@ As with any vehicle, the Leopard 2K finds itself at a serious disadvantage while
 
 '''Spaded gameplay:'''
 
-The Leopard 2K is a powerful tank. The DM23 APFSDS round has adequate penetration, and it should be easy to destroy most enemy vehicles. The gun, ammo, and reload rate are comparable to other main battle tanks of the battle rating. The Leopard 2K does however struggle in some regards against top of the line tanks such as the [[Leopard 2A5]] and [[M1A2 Abrams]]. The armour on the Leopard 2K is rather limited, only effective against autocannon fire. Additionally, the lack of thermals means that it will be difficult for Leopard 2K players to spot enemy tanks before they are spotted. The biggest advantage is the speed of the 2K.
+The Leopard 2K is a powerful tank. The DM23 APFSDS round has adequate penetration, and it should be easy to destroy most enemy vehicles. The gun, ammo, and reload rate are comparable to other main battle tanks of the battle rating. The Leopard 2K does however struggle in some regards against tanks in higher battle ratings such as the [[Leopard 2A5]] and [[M1A2 Abrams]]. The armour on the Leopard 2K is rather limited, only effective against autocannon fire. Additionally, the lack of thermals means that it will be difficult for Leopard 2K players to spot enemy tanks before they are spotted. The biggest advantage is the speed of the 2K.
 
 '''Long range engagements:'''
 

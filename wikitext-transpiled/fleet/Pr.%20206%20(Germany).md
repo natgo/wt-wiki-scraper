@@ -113,4 +113,5 @@ The first boat of the class was completed and commissioned with the Soviet Navy 
 
 * [[wt:en/news/5617-fleet-development-project-206-the-red-german-en|[Devblog] Project 206: The Red German]]
 
+{{ShipManufacturer Yaroslavl Shipyard}}
 {{Germany boats}}

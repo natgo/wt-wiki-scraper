@@ -19,6 +19,8 @@ The thickest armour on the vehicle is only 14 mm, the rest is 7 mm. This is bare
 
 The interesting part of the 9A35M2 is its relatively uncluttered interior that can make hasty enemy shots ineffective. Two of the three crew members sit in the very front of the hull (commander and driver), with the third (gunner) towards the rear underneath the launcher assembly. The engine sits in the middle of the vehicle, with the rear section holding a few spare missiles. Therefore, when enemy fire strikes the middle of the vehicle (which many players instinctively aim for), it will often knock out the gunner and/or the turret assembly but leave the front two crew members, and sometimes even the engine, unscathed, allowing the 9A35M2 to get away.
 
+In arcade mode, normally every aircraft is able to see SPAA from the get go due to their high "visibility", but in the case of this tank, the visibility % is so low, that as long as helicopters and bombers didn't spawn within 2.5 km range of it, they are likely to not even see the SPAA marker. This creates an unprecedented ability of being always able to fire first and leave opponents with 10 seconds or less to trace the smoke trail and fire back before they themselves just die (which is hardly avoidable due to the weapon of the tank), a situation which only a handful of players can deal with, even if they prepare beforehand (by seeing this SPAA on leaderboard tab and trying to predict where it is for example). This doesn't make the SPAA immortal by any means, as angry players can keep shovering SPAA position with bombs and rockets until one of them finally hits, so moving away from fire is still required.
+
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
@@ -60,7 +62,9 @@ The 9A35M2 {{PAGENAME}}'s mobility is solidly average. The engine can propel the
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|9M37M}}
 
-The 9M37M missile is a worthy analogue to the Stinger-type missiles found on Western IR SAM vehicles such as the [[Ozelot]], [[Type 93]], and [[LAV-AD]]. It has both Infrared homing and contrast-seeking guidance methods, which make it very formidable in all-aspect engagements. Furthermore, it has a brilliant overload of 20G, almost double any contemporary ground-based IR SAM system. Against highly manoeuvrable targets, these missiles are far easier to score hits with.
+The 9M37M missile is a superior analogue to the Stinger-type missiles found on Western IR SAM vehicles such as the [[Ozelot]], [[Type 93]], and [[LAV-AD]]. It has both Infrared homing and contrast-seeking guidance methods, which make it very formidable in all-aspect engagements, so long as the sky is clear. 
+
+Furthermore, it has a brilliant overload of 20G, almost double any contemporary ground-based IR SAM system. Against highly manoeuvrable targets, these missiles are far easier to score hits with.
 
 There are no missile upgrades available, the stock missile is the top missile. The proximity fuse and warhead weight are both sufficient for destroying or crippling any aerial target it connects with.
 
@@ -140,19 +144,26 @@ As a powerful SPAA, the 9A35M2 {{PAGENAME}} has a very irritating weakness. Due 
 
 The contrast-seeking mode of 9M37M allows the {{PAGENAME}} to successfully lock any helicopter from 4 to 5 km. Sometimes, even a scout UAV is no exception. This mode also has high resistance against flares and HIRSS. The 9M37M has good mobility and endurance, but the field of vision of its seeker is a bit limited. Some players will aim the further place of the target to save the energy of the missile. However, such a method is more likely to cause the missing target instead in this case. Although the {{PAGENAME}} can scout the enemy, it cannot also fight the ground threats. Avoid getting close to the frontline, and help the allies find the enemies if possible.
 
+In arcade mode it is best to spawn in mid to late game (or, at least, as a second vehicle) and stay in your spawn as you won't need to worry about replenishing your missiles at a cap point as you can do so right from your spawn. Additionally, it is far less likely for enemy aircraft to see you if you stay far away from their spawn points (Usually, it's really far away from your spawn, though it could be right behind you on some maps). You also usually don't have to worry about spotting aircraft in arcade mode as they are usually marked for you and most of the times you can get a lock and launch before enemy aircraft is able to even notice you, let alone decide to engage you. If you see an aircraft launch a rocket or drop a bomb just drive in a straight line perpendicular to the flight path of the enemy aircraft and unless the enemy has a large bomb you should survive with minimal damage (just make sure to also launch a missile at them). If you are facing helicopters do the same if they have rockets but if they have ATGMs then prioritize killing the target rather than dodging the missile as if you kill them the missile will usually not hit you as the helicopter will no longer be able to laser guide the missile. It's still best to move a little bit just in case the missile is still heading to your last known position. Due to your ability to engage multiple targets simultaneously and the close proximity that aircraft and helicopters spawn in arcade mode, they have almost no chance of surviving your attacks, and due to the low visibility stat they are extremely unlikely to destroy the {{PAGENAME}} back, which makes it one of the best, if not actually THE best of AA vehicles in arcade mode.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
-* The missiles have a high overload factor, more than any other ground-launched IR missile
+
+* The missiles have a high overload factor
+* (AB) literally invisible to aircraft past about 2.5-3 km range
 * Due to contrast-locking, the range is on par with Stingers
 * Except for the launcher assembly, the rest of the vehicle is very low to the ground which allows it to easily hide behind rocks, bushes, or buildings
 * Amphibious, can reach a few places other vehicles cannot
+* In arcade mode you can replenish your missiles without being on a cap zone
 * More survivable than it seems due to crew placement and empty space in the rear of the vehicle
 
 '''Cons:'''
+
 * No search radar. Detecting targets relies on manual spotting
 * Engine suffers on inclines. Hills are not your friend
+* Short firing range in front-aspect when contrast mode cannot be used
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -174,7 +185,9 @@ The vehicle was first introduced in 1976 and has been in service ever since. Com
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.'' -->
+* ''links to approximate analogues of other nations and research trees.'' -->Similar Vehicles
+
+* [[ZSU-23-4M4]]
 
 ;Western counterparts
 

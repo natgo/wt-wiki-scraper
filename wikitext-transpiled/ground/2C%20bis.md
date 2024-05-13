@@ -67,7 +67,11 @@ Lastly, given the tall position of the idler wheel, the 2C bis is excellent at d
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Schneider 155 C (155 mm)}}
 
-The 2C bis has a 155 mm Schneider howitzer in its two man cast turret. Its velocity is extremely low and its reload rate is abysmal. The armament takes time and practice to utilize effectively, especially with its limited elevation and depression angles. However, with 7.7 kg of explosive filler, the Mle1915 shell will obliterate whatever it touches at the BR of the 2C bis. As long as the shell makes contact anywhere, it is almost guaranteed to knock a vehicle out. Open-topped vehicles can even be knocked out by splash damage, as this is basically an artillery piece on tracks.
+The 2C bis has a 155 mm Schneider howitzer in its two man cast turret. Its velocity is extremely low and its reload rate is abysmal. The armament takes time and practice to utilize effectively, especially with its horrible shell velocity and curved trajectory. So, engaging targets further than 300 meters can take some practice. Given the extreme shell drop, the cannon often needs to aim up a lot to hit targets at normal fighting distance (~500m), but it just happens to have very limited elevation angle (+10°), severely limiting the cannon's effective range. 
+
+This cannon is housed inside a front turret that gets obstructed by the commander's position behind, preventing the gun to aim towards the rear. Thus it is important to angle the hull such that the turret's firing arc contains all dangerous directions within.  
+
+On the plus side, with 7.7 kg of explosive filler, the Mle1915 shell will obliterate whatever it touches at the BR of the 2C bis, and even many way more advanced tanks. As long as the shell makes contact anywhere, it is almost guaranteed to knock a vehicle out. Open-topped vehicles can even be knocked out by splash damage, as this is basically an artillery piece on tracks. Lastly, the gun has a good -10° gun depression, allowing it to fight on hills with relative ease.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -128,11 +132,16 @@ The rear turret has decent horizontal arcs but suffers from rather poor vertical
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-As stated before, angling the hull around 40 degrees at longer ranges can increase survivability and make the armour somewhat useful. If you are not sure about how far a target is, use the rangefinder, even at close range, since a miss will have you waiting almost half a minute to reload. The dreadful top speed will sometimes work in your favour, being that the first "wave" of enemy vehicles has already been dealt with. The 2C bis does not do well against multiple vehicles. The quick reverse acceleration can work in your favour in urban environments.
+As stated before, angling the hull around 40 degrees at any range can increase survivability and make the armour somewhat useful. If you are not sure about how far a target is, use the rangefinder, even at close range, since a miss will have you waiting almost half a minute to reload. The dreadful top speed will sometimes work in your favour, being that the first "wave" of enemy vehicles has already been dealt with. The 2C bis does not do well against multiple vehicles. The quick reverse acceleration can work in your favour in urban environments.
 
 Sitting in the rear and lobbing artillery at the enemy is a possible strategy, but the low velocity and high arc of the rounds make this difficult. Eventually, a dedicated anti-tank SPG will likely disable or knock out the vehicle. The 2C bis performs better at mid-range (100-400 m) encounters where tracking targets can be easier. Surprisingly, despite its size, getting "Shadow Strikes" is possible in urban areas. 
 
 Use your machine guns to clear obstacles that may trigger the HE shell's fuse prematurely. The 2C bis doesn't have a coaxial machine gun, which can be a problem when clearing obstacles as the hull guns have limited firing arcs. Turning the entire hull to shoot down fences and trees can be quite tedious, so always do it ASAP when you arrive at a comfortable position.
+
+=== Enemies worth noting: ===
+
+* [[BT-5|BT]]-5/7: those light tanks can be very threatening in the hands of an experienced tanker. They are very fast and agile, so they can show up at any location surprisingly fast. Their cannons are also powerful enough to penetrate the 2C bis' armour at any range, and usually knock out a few crews. Luckily, their armour is poor so a hit anywhere (or sometimes a near miss) can disable them. If the 2C is under their attack, angling the hull can help increase protection: while the effective thickness still won't be enough to stop a 45 mm AP, the 2C's large tracks and wheels can sometimes weaken the shell's kenetic energy. 
+* [[15cm sIG 33 B Sfl]], [[Ho-Ro]], [[Spj fm/43-44]]: these tanks are armed with a large caliber howitzer just like the 2C bis, posing a huge threat with HE overpressure. Usually 1-2 shots from them can completely destroy a 2C bis. But they have weak protection, so a direct hit or a near miss (especially close to their open compartment) can wipe them out. If you are aware of their presence, it is best not to engage unless they are reloading or distracted.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -173,10 +182,10 @@ One 2C, No. 99 "Champagne", was given a new two-man cast turret with a 155 mm ho
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+
+* [[2C]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

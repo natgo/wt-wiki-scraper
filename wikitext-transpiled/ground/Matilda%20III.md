@@ -92,7 +92,7 @@ The Matilda is a great character on the battlefield. The name and its historical
 ! 8th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''93''' || 87&nbsp;''(+6)'' || 79&nbsp;''(+14)'' || 64&nbsp;''(+29)'' || 53&nbsp;''(+40)'' || 41&nbsp;''(+52)'' || 29&nbsp;''(+64)'' || 15&nbsp;''(+78)'' || 1&nbsp;''(+92)'' || No
+| '''93''' || 87&nbsp;''(+6)'' || 79&nbsp;''(+14)'' || 64&nbsp;''(+29)'' || 53&nbsp;''(+40)'' || 41&nbsp;''(+52)'' || 28&nbsp;''(+65)'' || 15&nbsp;''(+78)'' || 1&nbsp;''(+92)'' || No
 |-
 |}
 '''Notes:'''
@@ -185,6 +185,7 @@ After being taken out of service in a front-line role, the Matilda II still saw 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_a_12_mk_2_matilda_2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -192,11 +193,13 @@ After being taken out of service in a front-line role, the Matilda II still saw 
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

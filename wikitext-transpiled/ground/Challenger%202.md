@@ -202,7 +202,6 @@ The Challenger 2 is less agreeable in urban situations, where proper cover is mo
 * Has ESS, smoke shells and smoke grenades, a potential combat support tank
 * Excellent armour protection levels and can get upgraded chemical protection with Dorchester armour pack
 * Ammunition on the turret is inert; less vulnerable to overpenetrating shots by APFSDS. (NATO tanks with "blowout panel" as [[IPM1]], can get sniped through the turret and explode)
-* Only strongest HE ATGM can overpressure the driver port, effectively making it immune to the "HE to the turret neck" strategy that can instantly obliterate any other MBT (protects against certain kinds of players and ATGM tanks)
 
 '''Cons:'''
 

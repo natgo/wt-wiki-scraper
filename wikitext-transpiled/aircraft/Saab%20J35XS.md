@@ -141,13 +141,12 @@ Flight characteristics are also heavily damaged with even minor damage to the wi
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm Akan m/55 cannon, wing-mounted (120 rpg)
-** 1 x 30 mm Akan m/55 cannon + 12 x large calibre countermeasures
+* 1 x 30 mm Akan m/55 cannon, wing-mounted (120 rpg)
+* 12 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
-<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.' -->
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -168,11 +167,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[RB24J]] missiles
 | 1 || || 1 || 1 || 1 || 1 || || 1
 |-
+! 510 l drop tanks
+| || || || 1 || 1 || || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-* Without load
+
+* 2 x 510 l drop tanks
 * 6 x RB24J missiles
 * 12 x m/56D rockets
 * 76 x srak m/57B rockets
@@ -209,7 +212,6 @@ The aircraft has access to only two air to ground options, the M/56D and M/57B r
 * Inadequate performance in uptiers
 * Very limited count of flares/chaffs
 * Average turn speed above ~900 km/h
-* No tracers in any of the gun belts
 * No RWR
 
 == History ==

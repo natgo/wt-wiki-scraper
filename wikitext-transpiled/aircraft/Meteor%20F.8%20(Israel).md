@@ -1,3 +1,8 @@
+{{About
+| about = jet fighter '''{{PAGENAME}}'''
+| usage = other versions
+| link = Meteor (Family)
+}}
 {{Specs-Card
 |code=meteor_fmk8_iaf
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -176,7 +181,8 @@ However, it proved insufficient against superior fighters such as the MiG-15 tha
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-{{Youtube-gallery|Qs_QXHOLLU0|'''BEST JET So Far! Meteor F.8 - Israel''' - ''Jengar''}}
+;Videos
+{{Youtube-gallery|Qs_QXHOLLU0|'''Best Jet So Far! Meteor F.8 - Israel''' - ''Jengar''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

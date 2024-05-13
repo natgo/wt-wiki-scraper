@@ -103,7 +103,7 @@ Introduced in [[Update 1.55 "Royal Armour"]], the Crusader III Anti-Aircraft Mar
 
 Despite being an SPAA vehicle, the Crusader struggles in an AA role. The gun is slow firing and fires at quite a low velocity, meaning that you will struggle to target fast moving enemy aircraft. Granted, a single hit will often spell doom for an enemy aircraft. Therefore, it is important to hide and wait for an opportune moment to open fire on an enemy aircraft. A low flying aircraft within 1km, flying at low speed, should be easier to hit. However, higher ranked and faster planes will can be a much harder target to his with the slow turret traverse for tracking and the slow fire rate of the gun.
 
-The Crusader AA Mk I can also serve in an anti tank role. With armour piercing rounds, the Crusader performs better than most SPAA in this role. With 76 mm of penetration, you can penetrate the frontal armour of light and some medium tanks and the side or rear armour of some heavy tanks. Poor post penetration damage means that you will need to target various sections of an enemy tank in order to destroy it. Some tanks will be almost invulnerable to your rounds, and while tanks KV-1 ZiS-5 can be dealt at point-blank range on the side or rear, there are many other heavy tanks that the 40 mm cannon will not penetrate.
+The Crusader AA Mk I can play in a style similar to gun-centric IFVs at higher BRs. The gun is not dissimilar in performance to the gun on the [[Churchill I]], and thus is perfectly serviceable for performing duties in the anti-tank role. With the AP belts equipped and with the use of high mobility, it is relatively easy to disable anything short of a heavy tank from the front (with the exception of a few tanks that're encountered in uptiers). You are quite dangerous to Panzers especially, as side-on it is possible to destroy them two or three well-placed shots. Avoid playing the vehicle in this role in uptiers against USSR however, as the gun in not powerful enough to penetrate or even disable KV-1s and T-34s. Be especially aware of the French heavy tanks, too, as their armour is deceptively thick. The [[2C]] and [[2C bis]] can be engaged with caution, as the 40mm cannon can dispatch them quickly at extremely close-range. On the contrary, do not attempt to engage either B1s, as their in practice is nigh-impossible to penetrate.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -121,7 +121,7 @@ The Crusader AA Mk I can also serve in an anti tank role. With armour piercing r
 * Cannon slot in front turret armour allows machine gun bullets to go through and injure/kill the crew
 * Against attacker and bombers, 40 mm cannon is not a one-hit kill and repeated hits are necessary
 * Exposed top leave crew vulnerable
-* Slow rate of fire and muzzle velocity
+* Slow rate of fire and poor muzzle velocity
 * Limited ammo, which could be a problem since the gun requires leading of shots
 
 == History ==

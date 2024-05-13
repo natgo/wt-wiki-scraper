@@ -48,26 +48,26 @@ The most well protected side of the tank is the front, even though it has not mu
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|LOSAT/MGM-166A}}
+{{main|LOSAT/MGM-166}}
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[LOSAT/MGM-166A]] missile || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[LOSAT/MGM-166]] missile || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
 |-
 ! Mode !! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 12 (12) || rowspan="2" | - || rowspan="2" | ±110° || rowspan="2" | - || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 12 (12) || rowspan="2" | - || rowspan="2" | ±110° || rowspan="2" | - || 26.4 || 36.5 || 44.4 || 49.1 || 52.2 || rowspan="2" | 19.50 || rowspan="2" | 17.25 || rowspan="2" | 15.90 || rowspan="2" | 15.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
 |-
 |}
 
 ==== Ammunition ====
-{{:LOSAT/MGM-166A/Ammunition|MGM-166A}}
+{{:LOSAT/MGM-166/Ammunition|MGM-166}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -135,8 +135,10 @@ The missile's specifications and design made it very different to most ATGM syst
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_losat_ccv Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|NUuKlydTMUc|'''The Shooting Range #392''' - ''Pages of History'' section at 03:31 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

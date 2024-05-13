@@ -137,6 +137,8 @@ In summary, the Tzefa A should be played cautiously. With correct usage, it can 
 ;Related development
 
 * [[AH-1 (Family)]]
+** [[AH-1G]]
+** [[Tzefa B]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

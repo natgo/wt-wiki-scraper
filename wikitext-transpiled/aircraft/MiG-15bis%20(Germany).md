@@ -155,6 +155,8 @@ The most common enemies of the MiG-15bis are, of course, the F-86 Sabres, althou
 
 The MiG's hard-hitting cannons (2 x 23 mm and 1 x 37 mm) are a hard learning curve if the players are untrained in the low velocity cannons. Although the damage output is a large benefit.
 
+Turning and fighting in the vertical is the MiG-15bis' strength. Drawing in enemies with bad energy retention allows MiG-15bis players to score an easy kill, finishing them off with the powerful cannons. Early missiles can also be found at this battle rating, so players should always be cautious, checking their 6 frequently. 
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 

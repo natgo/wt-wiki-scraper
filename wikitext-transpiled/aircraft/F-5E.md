@@ -111,7 +111,10 @@ The F-5 series is known to be small, lightweight, and nimble. The F-5E Tiger II,
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-The F-5E is a light fighter, as such it has no armour. If it loses its wing or tail it becomes incredibly difficult to fly. While it cannot tank a missile hit, it is surprisingly durable and can often survive a few hits from common cannons at its BR.
+
+The F-5E is a light fighter, so as such it lacks any kind armour. If it loses its wing or tail it becomes incredibly difficult to fly. Surprisingly though, it can take a significant amount of punishment for its size. It can often survive a few hits from 20 and 23 mm cannons, and in the right circumstances, even tank a single infrared missile, though in the latter case it will likely still leave you critically damaged, such as being down an engine and / or missing one or multiple control surfaces. Despite the razorback-like hump of the fuselage being loaded with fuel tanks, fires are uncommon unless a direct hit to one of the engines occurs.
+
+Flaring off incoming infrared missiles is very easy with the F-5E due to the low operating temperature of the engines even at full WEP to the point it's unnecessary, and maybe even wasteful to use the ''Flares Reinforced'' or ''Flare Priority'' setup for the countermeasures. While the E model only carries 45 countermeasures compared to the 60 on the A & C, they deploy one at a time and straight down, instead of deploying two at a time and completely rearwards, meaning your effective total is greater than the earlier F-5s, as well as being better at guiding infrareds away from you, ''except'' at ultra-low altitudes where the countermeasures may hit the ground.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -237,7 +240,6 @@ If an enemy jet follows the {{PAGENAME}}, be prepared to defend against a missil
 * Radar lacks IFF and different search angle modes
 * Can only carry a maximum of two air-to-air missiles, making this plane mostly a gun fighter
 * No ballistic computer
-* RWR cannot detect J-band radar, making it impossible to detect radar emissions from MiG-21s and MiG-23s
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -276,10 +278,9 @@ Back in 1972, the USAF realised the need for dissimilar aircraft combat training
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[F-5 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

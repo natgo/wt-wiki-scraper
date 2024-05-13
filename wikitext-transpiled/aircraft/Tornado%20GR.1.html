@@ -12,9 +12,7 @@
   <div class="specs_card_main" data-code="tornado_gr1">
     <div class="specs_card_mobile_info">
       <div class="general_info_name">Tornado GR.1</div>
-      <div class="general_info_neighbors">
-        <div class="prev"><a href="/Buccaneer_S.2" title="Buccaneer S.2">Buccaneer S.2</a></div>
-      </div>
+      <div class="general_info_neighbors"></div>
     </div>
     <div class="specs_card_main_slider">
       <div class="specs_card_main_slider_container"></div>
@@ -44,9 +42,7 @@
     </div>
     <div class="specs_card_main_info">
       <div class="general_info_name">Tornado GR.1</div>
-      <div class="general_info_neighbors">
-        <div class="prev"><a href="/Buccaneer_S.2" title="Buccaneer S.2">Buccaneer S.2</a></div>
-      </div>
+      <div class="general_info_neighbors"></div>
       <div class="general_info">
         <div class="general_info_nation">
           <a href="/Category:Britain_aircraft" title="Category:Britain aircraft"
@@ -2464,8 +2460,9 @@
     <tr>
       <td>
         <img
-          alt="Icon GreenCheckmark.png"
+          alt="alt={{{alt}}} "
           src="/images/thumb/9/96/Icon_GreenCheckmark.png/20px-Icon_GreenCheckmark.png"
+          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/9/96/Icon_GreenCheckmark.png 1.5x"
@@ -2475,8 +2472,9 @@
       </td>
       <td>
         <img
-          alt="Icon RedXCross.png"
+          alt="alt={{{alt}}} "
           src="/images/thumb/5/5e/Icon_RedXCross.png/20px-Icon_RedXCross.png"
+          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/5/5e/Icon_RedXCross.png 1.5x"
@@ -2486,8 +2484,9 @@
       </td>
       <td>
         <img
-          alt="Icon GreenCheckmark.png"
+          alt="alt={{{alt}}} "
           src="/images/thumb/9/96/Icon_GreenCheckmark.png/20px-Icon_GreenCheckmark.png"
+          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/9/96/Icon_GreenCheckmark.png 1.5x"
@@ -2497,8 +2496,9 @@
       </td>
       <td>
         <img
-          alt="Icon GreenCheckmark.png"
+          alt="alt={{{alt}}} "
           src="/images/thumb/9/96/Icon_GreenCheckmark.png/20px-Icon_GreenCheckmark.png"
+          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/9/96/Icon_GreenCheckmark.png 1.5x"
@@ -2508,8 +2508,9 @@
       </td>
       <td>
         <img
-          alt="Icon GreenCheckmark.png"
+          alt="alt={{{alt}}} "
           src="/images/thumb/9/96/Icon_GreenCheckmark.png/20px-Icon_GreenCheckmark.png"
+          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/9/96/Icon_GreenCheckmark.png 1.5x"
@@ -2859,12 +2860,12 @@
   <p>
     TIALD itself has 20 km maximum range, has thermal vision and can lock onto targets, much like on
     Jaguar GR.1A. Installation of TIALD unlocks installation of up to 4 small laser guided bombs or
-    1 big and 2 small laser ones or 2 big TV ones (the plane will still be able to carry 2 more dumb
-    bombs in any case). The ballistic computer does not calculate maximum drop potential for these
-    bombs, as they are more aerodynamic and can glide much further than the UI implies. The small
-    laser bombs are quite stupid and will not continue to correct their course if TIALD lock was
-    lost (in case plane was destroyed or had to retreat), the big one has IOG and will continue
-    falling towards last painted location even if the plane is gone.
+    1 big laser bomb with 2 small laser ones or 2 big TV ones (the plane will still be able to carry
+    2 more dumb bombs in any case). The ballistic computer does not calculate maximum drop potential
+    for these bombs, as they are more aerodynamic and can glide much further than the UI implies.
+    The small laser bombs are quite stupid and will not continue to correct their course if TIALD
+    lock was lost (in case plane was destroyed or had to retreat), the big one has IOG and will
+    continue falling towards last painted location even if the plane is gone.
   </p>
   <p>
     A unique feature for British bomber Tornado is the ability to install TV bombs. The TV bombs do
@@ -2883,8 +2884,9 @@
     higher than current target spot and cruise at about MACH 0.93 (which is one of height/speed
     combinations generally necessary for them to even reach a target 23 km away), so they cannot be
     used for base bombing outside of enemy fighters range (even though 3 PGM 2000 is enough for 1
-    base). These bombs also have issues with launching during evening and night time, so sometimes
-    laser or even dumb bombs should be used in a loadout instead.
+    base). These bombs also have issues with launching during evening and night time (regardless of
+    the TIALD or plane itself having NVD), so sometimes laser or even dumb bombs should be used in a
+    loadout instead.
   </p>
   <h2>
     <span class="mw-headline" id="Usage_in_battles">Usage in battles</span
@@ -2919,6 +2921,18 @@
     be helpful, as to not fall victim to a random IR missile from the sky.
   </p>
   <p>
+    Although taking only 3 TV bombs and firing them akin to cruise missiles to avoid interacting
+    with enemy fighters at all sounds like a decent idea, as the plane will be able to fly
+    significantly faster and fire much earlier, it's generally not worth doing in an uptier due to
+    the randomness of the TV bomb behaviour - on some maps they will fire from 25 km, allowing you
+    to just barely evade 12.3 planes and their SARH missiles (and the F14 with ARH could
+    theoretically be countered by chaff spam), more often than not they will have you to fly closer
+    to about 18 km close, which will be way too close and too late. The TV bombs don't work at long
+    range during evening, further reducing viability of this strategy. Moreover, the problem of
+    teammates getting the base first remains, as the bombs can't fly faster than MACH 1.0 at all, as
+    opposed to the Tornados or the ever present Phantoms.
+  </p>
+  <p>
     Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance
     is not very suited to it, especially with bombs, and you'll most likely be shot down very
     quickly. So keep in mind that although the Tornado is fast, its not very manoeuvrable at high
@@ -2926,11 +2940,13 @@
     <a href="/F-16_(Family)" title="F-16 (Family)">F-16</a> or the
     <a href="/F-14A_Early" title="F-14A Early">F-14</a>. In the case of 1-to-1 confrontation the
     best option is to blast them away in a head-on by using aim assisted guns, then run behind a
-    mountain to drop speed to around 800-900 m/s (via reverse thrust) to use flaps and drop bombs in
-    a less exposed enviroment. Against superior fighters like the F-16, MiG-29, Viggen, F-14, and
-    Mirage 2000 you don't stand a chance in a turnfight, unless the enemy pilot is extremely
-    inexperienced. With countermeasures you are able to survive for longer if you can time their use
-    and can dodge without losing too much of your speed, but their number is very limited.
+    mountain. If there is no choice, drop bombs and fuel tanks, then drop speed to around 800-900
+    m/s (via reverse thrust) to use flaps, which will grant you a turn speed of an average
+    fighter-bomber (maybe even higher, if you only have 18 minutes of fuel). Against superior
+    fighters like the F-16, MiG-29, Viggen, F-14, and Mirage 2000 you don't stand a chance in a
+    turnfight, unless the enemy pilot is extremely inexperienced, but you may waste enough of their
+    time to get saved. With countermeasures you are able to survive for longer if you can time their
+    use and can dodge without losing too much of your speed, but their number is very limited.
   </p>
   <p>
     In GRB, if you only have dumb bombs you're going to need to stick to the ground as much as
@@ -3098,6 +3114,15 @@
       >
     </li>
   </ul>
+  <dl>
+    <dt><b>Other jet planes with variable sweep wings</b></dt>
+  </dl>
+  <ul>
+    <li><a href="/MiG-23_(Family)" title="MiG-23 (Family)">MiG-23 (Family)</a></li>
+    <li><a href="/Su-17/22_(Family)" title="Su-17/22 (Family)">Su-17/22 (Family)</a></li>
+    <li><a href="/F-14_(Family)" title="F-14 (Family)">F14 (Family)</a></li>
+    <li><a href="/F-111A" title="F-111A">F-111A</a></li>
+  </ul>
   <h2>
     <span class="mw-headline" id="External_links">External links</span
     ><span class="mw-editsection"
@@ -3247,6 +3272,10 @@
           href="/Buccaneer_S.2"
           title="Buccaneer S.2"
           >Buccaneer S.2</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a
+          href="/Buccaneer_S.2B"
+          title="Buccaneer S.2B"
+          >Buccaneer S.2B</a
         >
       </td>
     </tr>
@@ -3370,7 +3399,7 @@
           padding-right: 7px;
         "
       >
-        <a href="/Vampire_FB_5" title="Vampire FB 5">Vampire FB 5</a
+        <a href="/Vampire_F.B.5" title="Vampire F.B.5">Vampire F.B.5</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/Venom_FB.4" title="Venom FB.4"
           >Venom FB.4</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a
@@ -3447,6 +3476,8 @@
           href="/Jaguar_GR.1A"
           title="Jaguar GR.1A"
           >Jaguar GR.1A</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/Jaguar_IS" title="Jaguar IS"
+          >Jaguar IS</a
         >
       </td>
     </tr>

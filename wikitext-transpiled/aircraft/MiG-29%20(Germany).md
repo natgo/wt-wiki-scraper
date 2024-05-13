@@ -264,6 +264,7 @@ The MiG-29 can be used as a fast interceptor of enemy targets in Ground Realisti
 
 * High fuel consumption on afterburner; as little as 4 minutes without a drop tank
 * The twin engines burn hot, producing a large signature for enemy IR missiles
+* Low ammo count for the 30 mm cannon
 * R-60MK IR missiles have a rather short range
 * Can easily G-LOC due to high manoeuvrability
 * Relatively narrow radar search width of 30°, inferior to the 120°+ found on F-14s and F-16s

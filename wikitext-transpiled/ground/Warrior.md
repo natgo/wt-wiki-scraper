@@ -7,15 +7,15 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' (or just the '''{{specs|pseudonym}}''') is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
 
-Warrior is basically a big box with a round turret, which has a little gun in middle, "ears" (ATGM cameras), and the ATGM launcher itself on the right side. Front of the hull is sloped to decrease small firearms damage. IFV hull is huge compared to even medium tanks of some factions (about double the size of [[T-62]]) and looks even bigger when carrying additional armour.
+The Warrior's shape is comprised of a large box and a small turret, which houses a 30mm L21A1 autocannon and a 7.62 mm L94A1 machine gun. On the outside, there are 2 ATGM cameras and the ATGM launcher itself. The front of the hull is sloped to increase armour protection without sacrificing weight. The hull is quite large, considerably taller than even some nation's main battle tanks. This should be taken into account when adjusting to its play style.
 
 If the vehicle has add-on armour, it's easily identified for its riveted plates on sides of the vehicle. Usually, after being shot with a high velocity round, they break off. Plates do not protect the rear of the vehicle.
 
-The Warrior is mostly played as an aggressive ATGM tank or ambush scout tank, though it can fulfil any role that doesn't involve it being constantly shot at.
+The Warrior is mostly played as an aggressive ATGM tank or ambush scout tank, though it can fulfill any role that doesn't involve it being under heavy fire due to its limited armour protection.
 
-It's best described as a combination of [[Crusader AA Mk I]] and [[M113A1 (TOW)|M113A1]], with benefits of both and downsides of neither. Armour is relatively poor, but can be upgraded via a modification to partially protect from hazards that normally annihilate light tanks. The weapon combo is potent enough to destroy even modern MBTs, and with add-on armour, the Warrior can bully even heavy tanks in close range, though the turret is still very vulnerable.
+It's best described as a combination of [[Crusader AA Mk I]] and [[M113A1 (TOW)|M113A1]], with benefits of both and downsides of neither. Armour is relatively poor, but can be upgraded via a modification to partially protect from certain hazards such as some autocannons and low-calibre HEAT shells. The weapon combo is potent enough to destroy even modern MBTs, and with add-on armour, the Warrior can bully even heavy tanks in close range, though the turret is still very vulnerable.
 
-The Warrior can be played defensively (mostly around hills and mountains), or aggressively (on flat terrains and in towns), given that there is enough cover for the Warrior. In realistic battles, Warrior can also hide relatively well and use either of its weapons to punish unsuspecting people, or just scout them.
+The Warrior can be played defensively (mostly around hills and mountains), or aggressively (on flat terrains and in towns), given that there is enough cover for the Warrior. In realistic battles, Warrior can also hide relatively well and use either of its weapons to punish unsuspecting enemies, or just scout them.
 
 This vehicle is very easy to play while still in stock mode, as it has most essentials available at stock or unlocked early on, however, every upgrade only makes it even stronger.
 
@@ -95,9 +95,9 @@ Accidentally hitting something on max speed, especially explosive decorations, l
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|L21A1 (30 mm)}}
 
-The 30 mm L21A1 RARDEN cannon is an effective autocannon, although its rate of fire is sub-par. The 30 mm APDS belt is capable of penetrating the front armour of most light vehicles, and the sides of almost any tank that the warrior will face. The sub-par rate of fire and low post-penetration effects mean that gunners will need to pick out individual crew members or modules in each well-placed shot. While not technically stabilized, warrior gunners can manage to fire with some accuracy on the move if they are skilled. The shell velocity in the RARDEN APDS belt and laser rangefinder allows the warrior to lay down effective fire on light enemy targets up to about 2 km (at any range in AB), although it will be difficult to hit moving targets past about 1.5 km.
+The weapon is virtually same as on the [[Fox]], but on a much better turret, which makes using it easier. 
 
-There is virtually no reason to use the stock belts on the warrior. The stock belt uses half HE and half AP rounds, but only the HE rounds have tracers. The lack of tracers causes awkward gunnery, and the penetration on the AP shell is not satisfactory. Meanwhile, the APDS belt has tracers with every round and is very effective against enemy vehicles.
+The 30 mm L21A1 RARDEN cannon is an effective autocannon, although its rate of fire is sub-par. Unlike other autocannons, it requires to aim first and fire later, but it does have enough punch to scare majority of sniper tanks at close range.  While cannon is not technically stabilized, Warrior gunners can manage to fire with some accuracy on the move if they are skilled, enough to make it virtually stabilised in AB.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -116,11 +116,13 @@ There is virtually no reason to use the stock belts on the warrior. The stock be
 |}
 
 ==== Ammunition ====
+{{:L21A1 (30 mm)/Ammunition|30x170 APHE-I, 30x170 HE-I-T, 30x170 APDS-T}}
 
-* '''Default:''' {{Annotation|SAP-I|Semi-armour-piercing incendiary}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}} - This belt can be used against other light tanks and certain lightly armoured medium tanks. However, it also includes anti-air round (HEI-T), which does increase damage to air targets but is useless against tanks at rank 5. The low rate of fire of Warrior doesn't compliment this dual belt.
-* '''30x170 APDS-T:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}} - This belt can be used against sides of most medium tanks of rank 5 and 6, and even some heavy tanks can be damaged by it. Performance of this belt deteriorates much slower than of AP-I belt, but it does less damage the more armour it had to penetrate, resulting in an inability to set off enemy ammo racks in 1 hit if it was behind any good armour. If used against planes, it can damage or rip off wings, or snipe out the pilot.
+The 30 mm APHE is slightly more useful at the BR of the Warrior, as it will face much more rank VI lightly armoured cars and tanks, with occasional SPAA roaming on the field. APHE shells have no tracers and are invisible even on thermal camera, which makes it somewhat difficult for opponents to understand where their tank is being attacked from. Aiming is made easier by the laser rangefinder, so sniping with APHE is now a valid option in RB, although most medium tanks are unlikely to be penetrated. In terms of the damage, if APHE manages to land in the middle of enemy tank crew compartment, the tank will undoubtedly explode due to a high shrapnel amount, but some knowledge of weakspots will be required.
 
-{{:L21A1 (30 mm)/Ammunition|SAP-I, HEI-T*, HEI*, APDS}}
+The HE-I-T is an anti-air shell, which can tear a wing off the plane, assuming it hits. It isn't good for anything else, but could in theory be used as a rangefinder shell in combination with APHE belt until the actual rangefinder or APDS-T were unlocked. Outside of Warrior BR, it could be used to destroy open topped ATGM carriers, such as Khrizantema, or SAM tanks with no armour around missiles.
+
+APDS-T belt is capable of penetrating the front armour of most light vehicles and some medium tanks, and the sides of almost any tank that the Warrior will face. The sub-par rate of fire and low post-penetration effects mean that gunners will need to pick out individual crew members or modules in each well-placed shot. Direct hit on ammo rack may or may not be lethal depending on how much armour shell had to penetrate beforehand. The shell velocity in the RARDEN APDS belt and laser rangefinder allows the Warrior to lay down effective fire on light enemy targets up to about 2 km (at any range in AB), although it will be difficult to hit moving targets past about 1.5 km. The APDS belt has tracers, so it will be visible to everyone.
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -136,6 +138,7 @@ There is virtually no reason to use the stock belts on the warrior. The stock be
 |-
 |}
 {{Clear}}
+
 === Additional armament ===
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|1}}

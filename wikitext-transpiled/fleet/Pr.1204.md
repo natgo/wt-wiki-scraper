@@ -30,9 +30,11 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet armoured gun bo
 {{Specs-Fleet-Armaments}}
 === Primary armament ===
 {{Specs-Fleet-Primary}}
-{{main|D-56TS (76 mm)}}
+{{main|76 mm/52 D-56TS (76 mm)}}
 
 ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.''
+
+{{:76 mm/52 D-56TS (76 mm)/Ammunition|OF-350M, BR-354}}
 
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}

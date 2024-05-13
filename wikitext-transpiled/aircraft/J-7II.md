@@ -150,31 +150,35 @@ The {{PAGENAME}} has been outfitted with dual 30 mm Type 30-1 cannons (Chinese v
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-500M-54 (500 kg)|PL-2|Type 57-1}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
-* 64 x Type 57-1 rockets
-* 2 x PL-2 missiles
-
-==== Custom loadout options ====
-{| class="wikitable" width="100%" style="text-align:center"
+{| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="25%" | 1 !! width="25%" | 2
-| rowspan="4" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
+| rowspan="5" width="25%" | <div class="ttx-image">[[File:Hardpoints_MiG-21_SPS-K_(Germany).png]]</div>
 |-
-! 500 kg FAB-500M-54 bombs
-| 1 || 1
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| 1 || || 1
 |-
-! Type 57-1 rockets
-| 32 || 32
+! [[Type 57-1]] rockets
+| 32 || || 32
 |-
-! PL-2 missiles
-| 1 || 1
+! [[PL-2]] missiles
+| 1 || || 1
+|-
+! 490 l drop tanks
+| || 1 ||
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 1 x 490 l drop tank
+* 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+* 2 x PL-2 missiles
+* 64 x Type 57-1 rockets
+{{Navigation-End}}
 
 The PL-2 infrared air-to-air missile is the most important ordnance for air combat and should be familiar to users of the previous J-6A. Although it is a primitive weapon that can be easily dodged or flared, it is useful for picking off distracted or stalled targets and can force supersonic enemies to turn and lose speed. For ground attack, the J-7II's suspended armaments are more limited than the original [[MiG-21F-13]]: it does not have napalm bombs, or more importantly, S-24 heavy rockets with ballistic computer assistance. The 57 mm HEAT rockets are inaccurate and deal relatively little damage. Players who find themselves needing to use the J-7II for CAS in Ground RB are better off with the 500 kg unguided bombs, which are nothing fancy but at least pack a punch.
 

@@ -209,6 +209,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 171 x FFAR Mighty Mouse rockets
@@ -235,6 +236,8 @@ In Air Realistic battles, one can use this plane in a wide array of roles due to
 One role the A-4E can serve is as an air-to-air fighter. The A-4E can equip either the 2 x [[AIM-9B Sidewinder]]s, the 2 x [[AIM-9B Sidewinder|AIM-9Bs]] and the 20 mm gunpod, or triple gunpods for this role. The A-4E's standard 20 mm cannons can easily shred any plane in the sky with a handful of well-placed rounds, however it only comes with 200 bullets, so short controlled bursts must be used, and only should be fired sparingly. The missiles can easily supplement the cannon, however these early missiles have a narrow tracking cone, and can easily miss targets that fly erratically, so they too must be used sparingly. If one prefers to be a gun fighter, a single gunpod (or three) can be attached to spray down targets, however they drag down the plane's climb and turn performance (especially the triple gunpods, which eliminate this plane's climbing ability in a fight).
 
 General tactics with the A-4E is to keep altitude until one finds a target to pounce on, preferably fighters trying to climb, low flying aircraft, or distracted aircraft. Always attempt to fight aircraft flying alone; attacking an aircraft within a group is risky, as your low energy retention will make it hard to escape if the attack goes unfavourably. It is also best to turn off if your target starts to evade; If you try to chase, you can quickly bleed energy. However, when uptiered, especially versus planes like the British [[Harrier GR.1]], fighting offensively may not work at all, as these planes can easily outclimb and outrun you, and they will bounce you. In cases like these, it is best to stay back and play as a supporting fighter to your team, or simply switch to ground attack roles.
+
+Another great Air RB tactic is to fly close to the ground to keep speed but don't climb so to not be spotted by sight or radar. Minimize your presence with the terrain so that enemies don't see you or are forced to trade their height advantage to come after the A-4E, which would expose them to allies who can support. Although since this flight pattern leaves the A-4E in a rather low energy state without height to trade for speed, this should only be used for bombing runs directly at high-value targets or bases. It is recommended to only bring enough payload for a target as excessive bombs would slow down the A-4E and leave it more open to the enemies.
 
 Your best defense is to not engage in fights where you are clearly outnumbered. However, if you are chased, there are little options for evasive manoeuvring. The plane's high roll rate will make it incredibly easy to dodge bullets, and the flares will help the plane dodge missiles. However, the low energy retention will make it extremely hard to escape the fight altogether, especially if perused by multiple aircraft. In such situations, your best bet is to have a friendly plane to pounce the chasing enemy fighters, which can give you a window to escape or fight back or to hide behind any hills or terrain that might cover you lower towards the ground.
 

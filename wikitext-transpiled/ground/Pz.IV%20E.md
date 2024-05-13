@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_IV_ausf_E
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -101,14 +101,14 @@ The gun remains the same as the [[Pz.IV C]], a short 7.5 cm KwK 37 L/24 cannon. 
 ! 9th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''80''' || 75&nbsp;''(+5)'' || 69&nbsp;''(+11)'' || 60&nbsp;''(+20)'' || 51&nbsp;''(+29)'' || 43&nbsp;''(+37)'' || 35&nbsp;''(+45)'' || 27&nbsp;''(+53)'' || 4&nbsp;''(+76)'' || 1&nbsp;''(+79)'' || No
+| '''80''' || 75&nbsp;''(+5)'' || 69&nbsp;''(+11)'' || 60&nbsp;''(+20)'' || 51&nbsp;''(+29)'' || 43&nbsp;''(+37)'' || 35&nbsp;''(+45)'' || 26&nbsp;''(+54)'' || 4&nbsp;''(+76)'' || 1&nbsp;''(+79)'' || No
 |-
 |}
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 '''Notes''':
 
 * Racks disappear after you've fired all shells in the rack.
-* To go into battle with flank racks depleted, pack 27&nbsp;''(+53)'' shells (racks 1 to 7 emptied).
+* To go into battle with flank racks depleted, pack 26&nbsp;''(+54)'' shells (racks 1 to 7 emptied).
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

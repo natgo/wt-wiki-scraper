@@ -136,9 +136,8 @@ Other than the airframe and aluminium alloy skin, the J-7D has no additional pro
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 23 mm Type 23-3 cannon, belly-mounted (200 rpg)
-** 1 x 23 mm Type 23-3 cannon + 72 x countermeasures
+* 1 x 23 mm Type 23-3 cannon, belly-mounted (200 rpg)
+* 72 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -148,44 +147,47 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21bis.png]]</div>
 |-
 ! [[250-3 (250 kg)|250 kg 250-3]] bombs
-| 1 || 1 || 1 || 1
+| 1 || 1 || || 1 || 1
 |-
 ! [[250-4 (250 kg)|250 kg 250-4]] bombs
-| 1 || 1 || 1 || 1
+| 1 || 1 || || 1 || 1
 |-
 ! [[500-3 (500 kg)|500 kg 500-3]] bombs
-| || 1 || 1 ||
+| || 1 || || 1 ||
 |-
 ! [[500-4 (500 kg)|500 kg 500-4]] bombs
-| || 1 || 1 ||
+| || 1 || || 1 ||
 |-
 ! [[Type 90-1]] rockets
-| 7 || 7 || 7 || 7
+| 7 || 7 || || 7 || 7
 |-
 ! [[Type 130-2]] rockets
-| 4 || 4 || 4 || 4
+| 4 || 4 || || 4 || 4
 |-
 ! [[PL-2]] missiles
-| 1 || 1 || 1 || 1
+| 1 || 1 || || 1 || 1
 |-
 ! [[PL-5B]] missiles
-| 1 || 1 || 1 || 1
+| 1 || 1 || || 1 || 1
 |-
 ! [[PL-7]] missiles
-| 1 || 1 || 1 || 1
+| 1 || 1 || || 1 || 1
 |-
-| colspan="5" | Maximum permissible weight imbalance: 570 kg
+! 490 l drop tanks
+| 1 || || 1 || || 1
+|-
+| colspan="6" | Maximum permissible weight imbalance: 570 kg
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 3 x 490 l drop tanks
 * 4 x PL-2 missiles
 * 4 x PL-5B missiles
 * 4 x PL-7 missiles

@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_destroyer_class1924_leopard1932
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

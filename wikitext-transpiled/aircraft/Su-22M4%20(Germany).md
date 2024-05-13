@@ -22,7 +22,7 @@ Introduced in [[Update "La Royale"]] as a continuation of the fighter-bomber lin
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 11,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -31,7 +31,7 @@ Introduced in [[Update "La Royale"]] as a continuation of the fighter-bomber lin
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,027 || 2,011 || rowspan="2" | {{Specs|ceiling}} || 27.3 || 27.5 ||167.9|| 161.3 || rowspan="2" | 850
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -204,8 +204,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[R-60MK]] missiles
 | || 1 || 2 || || || 2 || 1 ||
 |-
-! 800 l drop tanks
-| || || || 1 || 1 || || ||
+! 820 l drop tanks
+| 1 || || || 1 || 1 || || || 1
 |-
 | colspan="9" | Maximum permissible loadout weight: 4,160 kg<br>Maximum permissible wing load: 2,100 kg<br>Maximum permissible weight imbalance: 700 kg
 |-
@@ -214,7 +214,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 2 x 800 l drop tanks
+* 4 x 820 l drop tanks
 * 2 x R-60MK missiles
 * 6 x R-60MK missiles
 * 20 x 100 kg OFAB-100 bombs (2,000 kg total)
@@ -260,6 +260,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=su_22m4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -270,6 +271,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
+
+;;Related Development
+;*[[Su-17/22 (Family)]]
+
+; '''Other jet planes with variable sweep wings'''
+
+* [[Tornado (Family)]]
+* [[MiG-23 (Family)]]
+* [[F-14 (Family)|F14 (Family)]]
+* [[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

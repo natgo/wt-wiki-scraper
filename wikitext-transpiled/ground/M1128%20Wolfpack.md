@@ -154,6 +154,7 @@ M1128 Wolfpack is a very competent light vehicle. It works brilliantly as a snip
 * Narrow profile turret
 * High resolution thermal sights
 * High forward mobility
+* High penetration with its M900 APFSDS rounds
 
 '''Cons:'''
 

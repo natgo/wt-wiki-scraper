@@ -132,6 +132,16 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 The 4 x 20 mm Hispano Mk.V cannons can cause massive damage if properly aimed. However, their muzzle velocity is somewhat average and the air targets belt (easily the best one) does not contain tracers at all, so you must get used to the lead angles while grinding the ammo upgrade.
 
+=== Suspended armament ===
+{{Specs-Avia-Suspended}}
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
+{{main|H.E. M.C. Mk.13 (1,000 lb)}}
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+* Without load
+* 2 x 1,000 lb H.E. M.C. Mk.13 bombs (2,000 lb total)
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 

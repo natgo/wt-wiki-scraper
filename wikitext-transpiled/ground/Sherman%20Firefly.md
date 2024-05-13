@@ -168,11 +168,12 @@ The Sherman Firefly can dish out the punishment necessary for heavy tanks, but c
 
 * Uses the tried and tested Sherman chassis. Experienced players will find this tank easy to use
 * Fast turret traverse speed
-* The 17-Pounder gun has high penetration 
+* The 17-pounder gun has high penetration 
 * Fast and very mobile
 * Access to [[Add-on Armor|additional armour]] that covers most of the front and sides
 * Has a powerful .50 cal machine gun on the roof
 * Despite having no shells with explosive filler, post-penetration damage tends to be enough to knock out crews clustered together
+* 17-pounder makes the tank useful in uptiers. Useful especially against [[Tiger H1]], [[Panther D]] and [[IS-1]]
 
 '''Cons:'''
 

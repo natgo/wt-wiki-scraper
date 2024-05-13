@@ -20,19 +20,22 @@ The '''{{Specs|name}}''', introduced in [[Update "La Royale"]], follows the tren
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+'''Armour type:'''
+<!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
-
+* High hardness rolled armor (Front, sides, rear, roof, turret)
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 10 mm (57°) ''Upper plate''  
+12mm (55°) ''Lower plate''  
+| 8 mm (36°)''Top'' <br>8 mm ''Bottom'' || 6 mm || 8 mm - 6 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Gun mount || 23 mm - 19mm ''Base front'' (35°) || 23 mm || 12 mm - 13 mm || 23 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 19 mm ''Cupola is turret front'' || - mm || - mm || 19 mm
 |-
 |}
 
@@ -156,6 +159,7 @@ The BTR-80 armored personnel carrier was developed with experience from using th
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[BTR-80A (Italy)]]
 
 == External links ==

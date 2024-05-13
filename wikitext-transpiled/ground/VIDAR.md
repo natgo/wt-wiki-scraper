@@ -6,21 +6,21 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a self-propelled artillery system employed by Norway since 2022. The system is an export version of the South Korean K9 Thunder Self-Propelled Artillery Gun. Norway acquired the system to replace its aging M109A3GNMs of American origin. Norway acquired a total of 24 K9 Thunder artillery systems. The deliveries started in 2019 and concluded in 2021. The system has some differences compared to the South Korean version, like a combined NBC protection and air conditioning situated at the rear of the turret. This system was given to the ''Artilleribataljonen'' of the ''Brigade Nord'', the only artillery unit in the Norwegian army.
 
-Introduced in [[Update "Sons of Attila"]], the VIDAR is fitted with excellent optics and fire control system. At its BR, it is one of the few vehicles with both thermal imaging system and a laser rangefinder. However, the VIDAR lacks substantial armour. Its best round is a 155 mm HE shell that is capable of destroying most tanks but requires very good aiming when it faces heavily armoured targets like the T-55AMD. The vehicle also has a poor turret rotation speed and no stabilizer, and, being an artillery system, the gun depression is very mediocre. However, it has good mobility for a vehicle of its size, and a very good reverse speed of 42 km/h.
+The '''{{Specs|name}}''' is a self-propelled artillery system fielded by Norway since 2019. The system is an export version of the South Korean K9 Thunder Self-Propelled Artillery Gun, which Norway acquired the system to replace its aging M109A3GNMs of American origin. The orders so far have been in two batches, the initial 2017 contract for 24 K9s and an extra order in 2022 for 4 more systems. The system has some differences compared to the South Korean version, most notably the ODIN fire control system developed domestically and direct-fire enabling equipment. This system was given to the ''Artilleribataljonen'' of the ''Brigade Nord'', the only artillery unit in the Norwegian army. 
+
+Introduced in [[Update "Sons of Attila"]], the VIDAR is fitted with excellent optics and fire control system. At its BR, it is one of the few vehicles with both a thermal imaging system and a laser rangefinder. Its best round is a 155 mm HE shell that is capable of destroying most tanks, but requires very good aiming when it faces heavily armoured targets like the [[T-55AM-1]]. The vehicle also has a fairly poor turret rotation speed and no stabilizer, and, being an artillery system, the armor protection is fairly thin and its gun depression limited. However, it has good mobility for a vehicle of its size, and a very good reverse speed of 42 km/h. The VIDAR is best suited for highly mobile warfare, moving around rapidly after firing a few accurate shells towards your enemies.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The VIDAR is based on ROKA's K9A1 Thunder SPH, although the vehicle can be said as one of the most modern vehicle in-game, the overall survivability is still not for frontline operations due to its nature of a SPH. The purpose of protection for SPH is for stopping close-call shrapnel from injuring the crew, supporting vehicles like such are usually deployed at the rear of battlefield to support the assault forces - this is no exception for VIDAR.
 
-Thanks to the overall improved armor technology, the hardened armor on both the chassis and turret can now make sure even basic 20 mm ammunition (generally used by non-combat SPAA or as auxiliary weapon by some medium tanks) cannot harm the crew from any direction at ranges of 300 m or above, but do not take it as a medallion to go for the frontline - even weakest autocannons can still tear down the vehicle with relative ease through the turret neck or at point blank range. 
+The VIDAR is a variant of the ROKA's K9A1 Thunder SPH, making it one of the newest vehicles in the game. However, even a modern SPH is still a SPH, so the vehicle does not sport armour thick enough to deflect anything above heavy MG fire at range. This is not a major issue in real life, as SPHs aren't meant to engage enemy armor directly, but in War Thunder is definitely something to keep note of. The vehicle can deflect 20 mm autocannon fire from the common [[Rh202 (20 mm)]] or similar cannons on various vehicles at this tier from mid to long range as well, but at close range it can most definitely give you a bad day.
 
-The SPG is extremely sturdy and will not take overpressure damage unless obliterated by another artillery tank or hit into three very specific weak spots - the belly right above the tracks next to the turret (not going to happen under normal circumstances), the turret ring (while not impossible, might be difficult to hit before VIDAR fires) or the gun breech (only vulnerable to 105+ mm HE and poses risk of the cannon catching the shell), so anyone trying to parry VIDAR with HESH/HE/ATGM thinking "it's just another SPG" is going to have a very bad time. The kinetic shells will easily penetrate, so having a teammate to cover the flank against random snipers is always a good idea to extend VIDAR's service life for as long as possible.
+The SPG is extremely sturdy and will not take overpressure damage unless hit by an enemy howitzer / large caliber HE shell or hit in three very specific weak spots - the belly right above the tracks next to the turret (very low likelihood), the turret ring or the gun breech (only vulnerable to 105+ mm HE and poses risk of the cannon barrel catching the shell), so anyone trying to fire a poorly placed chemical round at the VIDAR may find their shell doing surprisingly little before being blasted back to the hangar. Kinetic shells however will easily penetrate the vehicle anywhere, so positioning yourself so that teammates cover the flanks against enemy advances is always a good idea to stay in the fight for longer.
 
-As for the crews, thanks to the long hull and large engine block, shrapnel from enemy shots to the hull might have a hard time to cause lethal damage to the turret crew (but costs the driver); if enemy players are aware of the huge turret, the crew of four can rotate as generally only two of them will be knocked down by the projectile, unless the detonation of up to 48 shells at the rear of the turret happens, in which case there will be huge fireworks as the turret flies hundreds of meters away.
+As for the crews, thanks to the long hull and large engine block, shrapnel from enemy shots to the hull generally have a hard time causing lethal damage to the turret crew (but costs the driver); if enemy players shoot the turret instead, if the spalling reaches your ammunition racks stationed in the turret rear you may experience what is known as a 'significant emotional event'.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -45,7 +45,8 @@ As for the crews, thanks to the long hull and large engine block, shrapnel from 
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-{{tankMobility|abMinHp=1,420|rbMinHp=884}}To drive the K9 series at its enormous size and up to 48 t in mass, ROKA seek STX Engine-MTU joint-venture for the MTU 881Ka-500 V8 engine and SNT Dynamics-Allison joint-venture for the X1100-5A3 transmission, which pushes the vehicle at up to 68 km/h while maintaining a very fast reverse speed (at -38 km/h), making it a very mobile SPH for its size.
+{{tankMobility|abMinHp=1,420|rbMinHp=884}}
+To drive the K9 series and its ~47 ton weight up to a max speed of 67 km/h, the K9 uses a powerpack with 1,000 HP.The STX Engine-MTU joint-venture for the MTU 881Ka-500 V8 engine and SNT Dynamics-Allison joint-venture for the X1100-5A3 transmission enables the vehicle to have a HP/t ratio of over 20, which is almost unheard of for a SPH in this weight class. This was due to the 'shoot-and-scoot' battle doctrine, and as a result the VIDAR is incredibly mobile for its size while also having high reverse to boot as well. Even other SPHs considered mobile like the [[2S3M]] top out at 18.9 HP/t and have less armour, lack the initial rate of fire and fire their shells at a noticeably lower velocity, giving the K9 and by extension the VIDAR a distinct niche.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -56,7 +57,8 @@ As for the crews, thanks to the long hull and large engine block, shrapnel from 
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|CN98 (155 mm)}}
-For countering possible enemies, Hyundai WIA developed the domestic 155 mm CN98 L/52 howitzer for K9 Thunder using NATO standard 155 mm ammunition, it is no exception for the export VIDAR for Norway; thanks to its rather fast reload rate (for the first three shells on the "ready-rack") the and varieties of ammunition, CN98 makes VIDAR a fearsome SPH even against "doomsday tank" and early-Cold War tanks, enemy aircraft will also fall victim of it if VT shell is loaded, turning it into a 155 mm anti-aircraft cannon. Do note that the gun does not have an autoloader and upon severe crew loss the reload speed advantage is lost.
+
+To provide credible and powerful deterrence against potential foreign adversaries, Hyundai WIA developed the domestic 155 mm CN98 L/52 howitzer for the K9 Thunder, while keeping it compatible with NATO standard 155 mm ammunition. This most certainly helped export the VIDAR to Norway; thanks to its rather fast reload rate (for the first three shells on the "ready-rack") the and a wide variety of compatible ammunition, the CN98 cannon makes the VIDAR a fearsome SPH against all enemies it faces, be it something hardened against nuclear war like the [[Object 279]] or something very modern such as the [[M1 Abrams]] if you hit their weakspots. 
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -78,37 +80,31 @@ For countering possible enemies, Hyundai WIA developed the domestic 155 mm CN98 
 {{:CN98 (155 mm)/Ammunition|M107, M110, M107 (PF), 155mm OE F3}}
 
 ==== [[Ammo racks]] ====
-[[File:Hager's X-Ray view with Vidar.png|thumb]]
-[[File:Hager's X-Ray view with Vidar - 2.png|thumb]]<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
+[[File:Ammoracks_{{PAGENAME}}_1.png|right|thumb|250px|[[Ammo racks]] of the {{PAGENAME}}]]
+[[File:Ammoracks_{{PAGENAME}}_2.png|right|thumb|250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-
-! '''Full<br>ammo'''
-!'''Ammo'''
-'''Type'''
-! '''1st<br>rack empty'''
-! '''2nd<br>rack empty'''
-! '''3rd<br>rack empty'''
-! '''4th<br>rack empty'''
-! '''5th<br>rack empty'''
-! '''Visual<br>discrepancy'''
+! Full<br>ammo
+! Ammo<br>type
+! 1st<br>rack empty
+! 2nd<br>rack empty
+! 3rd<br>rack empty
+! 4th<br>rack empty
+! 5th<br>rack empty
+! Visual<br>discrepancy
 |-
 | '''48''' 
-|''Projectiles''
-''Propellants''
-| ''34(+14)'' 
-31(+17) 
-| ''19(+29)'' 
-21(+27) 
-| ''10(+38)'' 
-3(+45) 
-| ''3(+45)'' 
-1(+47) 
-| ''1(+47)'' 
-N/A 
-| Yes
+| Projectiles <br> Propellants 
+| 34&nbsp;''(+14)'' <br> 31&nbsp;''(+17)''
+| 19&nbsp;''(+29)'' <br> 21&nbsp;''(+27)''
+| 10&nbsp;''(+38)'' <br> 3&nbsp;''(+45)''
+| 3&nbsp;''(+45)'' <br> 1&nbsp;''(+47)''
+| 1&nbsp;''(+47)'' <br> N/A 
+| No
 |-
 |}
+{{Clear}}
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -147,6 +143,7 @@ The choice of HE-VT means the VIDAR can successfully engage aircraft. Using the 
 * 35 mm average all-around armour
 ** Can't be overpressured from <120 mm HE
 ** Cannot be penetrated by HMGs
+** Can't set off some APHE rounds
 
 '''Cons:'''
 
@@ -157,18 +154,23 @@ The choice of HE-VT means the VIDAR can successfully engage aircraft. Using the 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The '''{{Specs|name}}''' is an export version of the South Korean K9 Thunder Self Propelled Artillery System, in service with the Norwegian Army. Norway decided to acquire a total of 24 K9 Thunder systems as well as 6 K10 resupply vehicles to replace their aging American-made M109A3GNM.
+The '''{{Specs|name}}''' is an export version of the South Korean K9 Thunder Self Propelled Artillery System, in service with the Norwegian Army. Norway decided to acquire a total of 24 K9 Thunder systems as well as 6 K10 ammo resupply vehicles in 2017 to replace their aging American-made M109A3GNM. The K9 won out in the competition which consisted of the CAESAR wheeled artillery system, the K9, German PzH2000 and M109G, with the M109G and K9 being the final two contenders before the K9 was selected in December of 2017 as the winner. 
 
-The VIDAR is operated by the only artillery unit in the Norwegian Army, the ''Artilleribataljonen'' of the ''Brigade Nord.'' The vehicle was manufactured by the company Hanwha Land Systems, deliveries started in 2019 and finished between 2020 and 2021. All units were considered operational by the Norwegian Army by January 1st, 2022.
+The VIDAR is operated by the only artillery unit in the Norwegian Army, the ''Artilleribataljonen'' of the ''Brigade Nord.'' The vehicle was manufactured by the company Hanwha Land Systems, deliveries started in 2019 and finished between 2020 and 2021. All units were considered operational by the Norwegian Army by January 1st, 2022. In November of 2022, Norway inked an additional deal to import 4 more K9 SPHs and 8 more K10 ammo resupply vehicles, raising the total to 28 VIDARs and 14 K10s soon to be in service.
 
-The K9 Thunder was developed by South Korea, inspired by the American M109 Paladin. The vehicle was meant to be compatible with NATO projectiles and have good mobility to counteract counterbattery fire and change positions quickly and safely. The K9's first prototype was unveiled in 1996. The contract for its development was awarded to Samsung Aerospace Industries and just 3 years later in 1999 the ROK Army started to receive its first units of the vehicle. The first nation to acquire the production rights for the system was Turkey.
+The K9 Thunder was developed by South Korea, based on experiences with the K55 license-produced M109 howitzer. The vehicle was developed to be fully compatible with NATO ammunition, and to have good mobility to perform counterbattery fire and change positions rapidly. The K9's first prototype was unveiled in 1996. The contract for its development was awarded to Samsung Aerospace Industries and just 3 years later in 1999 the ROK Army started to receive its first units of the vehicle. The first nation to acquire the production rights for the system was Turkey.
 
-The K9 has only seen action in the Yeonpyeong bombardment of 2010, an artillery exchange between South Korean and North Korean soldiers. In this incident, 6 K9 systems from the South Korean Marine Infantry opened fire against North Korean positions.
+The K9 has seen combat action in the Yeonpyeong bombardment of 2010, an artillery exchange between South Korean and North Korean soldiers. In this incident, 6 K9 systems from the South Korean Marine Infantry opened fire against North Korean positions. During the incident, some criticism was leveled at the K9 due to its return rate of fire being 1 round every 90 seconds - however, this was due to the fact that the K9's ammunition reserves were empty from the military exercise just minutes prior, meaning soldiers were running to the ammunition depots to fetch shells to fire back. The Korean Army deemed the K9's protection during the incident to be adequate against North Korean field gun shrapnel, and increased production of the K9 by a hundred extra units by 2011. This led to the K9s positioned near the border also retaining internal ammunition at all times, in case of a similar incident in the future.
 
-The K9 has received very good export deals. Competing in the international markets with very powerful systems like the American M109 and German Pzh 2000, it has sold more than 1,700 units, including those for South Korea. Turkey has also fitted their own version of the system, the T-155 Firtina, with 300 units expected to be deployed.
+The K9 has received very good export deals. Competing in the international markets with very powerful systems like the American M109 and German Pzh2000, it has sold more than 1,700 units, including those for South Korea. Turkey has also fitted their own version of the system, the T-155 Firtina, with 300 units expected to be deployed.
+
+In December of 2013, the program to improve the K9's performance was passed, which led to the K9A1. The K9A1 modification upgraded the FCS of the K0 up to K55A1 standard, added GPS navigation on top of the original INS system, the addition of an APU and a night vision periscope for the driver as well as a rear view camera. The software was also updated from a DOS based framework up to a Windows based digital FCS, to provide a graphics based fire control system for the crew to enhance performance.  
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+<gallery mode="packed-hover" heights="200">
+File:XK-9 Prototype Taken At WMoK 2023-06-24.jpg|<small>XK-9 (The predecessor to the K9/K9A1, produced in 1995 for testing) on display at the War Memorial of Korea</small>
+</gallery>
 
 ;Skins
 

@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=uk_eland_90_mk_7
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -176,6 +176,12 @@ Despite the optics not having a huge zoom, it is enough to be able to detect, ta
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Eland 90 Mk.7.jpg|
+</gallery>
 
 ;Skins
 

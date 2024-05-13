@@ -53,14 +53,14 @@ Introduced in [[Update "Drone Age"]] as a reward for the 2022 [[wt:en/news/7882-
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[M68A1 (105 mm)|105 mm M68A1]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[M68A1 (105 mm)|105 mm M68A1]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 43 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 40.0 || 55.3 || 67.2 || 74.3 || 79.1 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00
+| rowspan="2" | 43 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 40.0 || 55.3 || 67.2 || 74.3 || 79.1 || rowspan="2" | 5.00 
 |-
 ! ''Realistic''
 | 25.0 || 29.4 || 35.7 || 39.5 || 42.0

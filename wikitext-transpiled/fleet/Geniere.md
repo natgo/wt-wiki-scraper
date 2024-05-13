@@ -162,12 +162,16 @@ Due to the ship's worn-out condition, the Italian Navy only intended to operate 
 {{Youtube-gallery|GLdachyN8Aw|'''RN Geniere - D555 Fante-class Destroyer''' - ''Cmdr. Tyrael''}}
 
 == See also ==
-<!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!--''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.'' -->
+* ''links to approximate analogues of other nations and research trees.''-->
 
-* [[JDS Yūgure (DD-184)]]
+;Related development
 * [[Fletcher (Family)]]
+
+;Other vehicles of similar configuration and role
+* [[USS Aylwin]]
+* [[Harukaze|JDS Harukaze]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet motor torpedo gun boat {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+During the mid 1970s, the Soviet Navy saw the need for a new anti-submarine corvette for patrolling the Black sea. The resulting vessel from '''Project 12412''' was named the "Molniya-2", or per its NATO reporting name, the Pauk class. Unlike the [[MPK Pr.12412P|pre-production prototype]], the serial production Pr.12412 has slightly weaker (but more reliable) engines, having replaced the M-507A diesel engines from the original Tarantul class with the new M-521-TM5 engines with almost 1,000 horsepower less each. The Molniya-2 saw a production span from 1977 to 1989, when it was built for multiple branches of the Soviet forces (namely the Navy and the Coast Guard), along with multiple export customers around the world including Cuba, India, and Bulgaria. After the fall of the USSR, the Monlyia-2s in Soviet service were passed on to successor states, namely the Ukrainian and Russian navy. As of 2022, at least one Pr.12412 is still in active service with each of these countries.
+
+Introduced in [[Update "Hot Tracks"]], the '''{{Specs|name}}''' bolsters an already incredible line-up of coastal vessels at that rank of the Soviet tech tree. Joining the likes of other formidable vessels of similar tonnage such as its GE premium sister [[MPK Pr.12412P]] and the powerful [[SKR-7]], the "Molnyia-2" brings more to the table than some of its contemporaries at this battle rating, as it has access to a rapid firing autoloaded 76 mm turret with access to two kinds of HE shells, including a HE-VT proximity-fuse shell for dealing with aerial targets (with the help of its radar-aided fire control system), along with a fearsome rotary AK-630 CIWS in the rear for dealing with closer and lower flying targets by filling the air with lead at 5,000 RPM. The diverse armament does not end there, as the Pr.12412 also has access to mortars, depth chargers, and decent torpedoes all at once, making it a true "jack of all trades, yet master of none" for its class. One must be cautious when playing the Pr.12412 due to its sub-par armour (which becomes even more useless when uptiered to face bluewater destroyers), and to not be too trigger happy with the AK-630 CIWS due to its tendency to jam under sustained fire, and its insane rate of fire depleting ammo supplies very quickly when left unchecked.
 
 == General info ==
 === Survivability and armour ===
@@ -119,6 +121,7 @@ The Pr. 12412 Molniya-2 small anti-submarine ship is the coastal patrol and insh
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_mpk_pr12412 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

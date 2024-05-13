@@ -1,9 +1,7 @@
 {{About
 | about = German attack helicopter '''{{PAGENAME}}'''
-| and
 | usage = other versions
-| link-1 = EC-665 Tiger HAD
-| link-2 = EC-665 Tiger HAP
+| link = Tiger Eurocopter (Family)
 }}
 {{Specs-Card
 |code=tiger_uht

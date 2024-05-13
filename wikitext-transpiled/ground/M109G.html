@@ -344,6 +344,10 @@
     your vehicle no matter what. Overall, try not to be hit, and break cover only to fire.
   </p>
   <p><b>Armour type:</b></p>
+  <ul>
+    <li>Aluminium alloy 5083 (Hull, turret)</li>
+    <li>Rolled homogeneous armor (Radiator covers)</li>
+  </ul>
   <table class="wikitable">
     <tr>
       <th>Armour</th>
@@ -354,33 +358,29 @@
     </tr>
     <tr>
       <td>Hull</td>
-      <td>___ mm</td>
-      <td>
-        ___ mm <i>Top</i> <br />
-        ___ mm <i>Bottom</i>
-      </td>
-      <td>___ mm</td>
-      <td>___ - ___ mm</td>
+      <td>32 mm (27-74°) <i>Upper Glacis</i><br />32 mm (0-49°) <i>Lower Glacis</i></td>
+      <td>32 mm <i>Top</i><br />32 mm <i>Bottom</i></td>
+      <td>32 mm</td>
+      <td>32 mm <i>Hull Roof</i><br />10 mm <i>Radiator Covers</i></td>
     </tr>
     <tr>
       <td>Turret</td>
-      <td>
-        ___ - ___ mm <i>Turret front</i> <br />
-        ___ mm <i>Gun mantlet</i>
-      </td>
-      <td>___ - ___ mm</td>
-      <td>___ - ___ mm</td>
-      <td>___ - ___ mm</td>
+      <td>32 mm (28-73°) <i>Turret front</i><br />32 mm (4-56°) <i>Gun mantlet</i></td>
+      <td>32 mm (23-50°)</td>
+      <td>32 mm</td>
+      <td>32 mm</td>
     </tr>
     <tr>
       <td>Cupola</td>
-      <td>___ mm</td>
-      <td>___ mm</td>
-      <td>___ mm</td>
-      <td>___ mm</td>
+      <td colspan="3" style="text-align: center">32 mm</td>
+      <td>32 mm</td>
     </tr>
   </table>
   <p><b>Notes:</b></p>
+  <ul>
+    <li>Suspension wheels - 20 mm (Structural steel of chassis)</li>
+    <li>Tracks - 15 mm</li>
+  </ul>
   <h3>
     <span class="mw-headline" id="Mobility">Mobility</span
     ><span class="mw-editsection"
@@ -2227,6 +2227,30 @@
       <td>50</td>
     </tr>
   </table>
+  <div class="thumb tright">
+    <div class="thumbinner" style="width: 302px">
+      <a href="/File:Ammoracks_M109.png" class="image"
+        ><img
+          alt=""
+          src="/images/thumb/e/ee/Ammoracks_M109.png/300px-Ammoracks_M109.png"
+          width="300"
+          height="264"
+          class="thumbimage"
+          srcset="
+            /images/thumb/e/ee/Ammoracks_M109.png/450px-Ammoracks_M109.png 1.5x,
+            /images/thumb/e/ee/Ammoracks_M109.png/600px-Ammoracks_M109.png 2x
+          "
+          data-file-width="639"
+          data-file-height="563"
+      /></a>
+      <div class="thumbcaption">
+        <div class="magnify">
+          <a href="/File:Ammoracks_M109.png" class="internal" title="Enlarge"></a>
+        </div>
+        <a href="/Ammo_racks" title="Ammo racks">Ammo racks</a> of the M109G
+      </div>
+    </div>
+  </div>
   <h4>
     <span class="mw-headline" id="Ammo_racks"
       ><a href="/Ammo_racks" title="Ammo racks">Ammo racks</a></span
@@ -2248,25 +2272,41 @@
   <table class="wikitable" style="text-align: center">
     <tr>
       <th>Full<br />ammo</th>
+      <th>Ammo part</th>
       <th>1st<br />rack empty</th>
       <th>2nd<br />rack empty</th>
       <th>3rd<br />rack empty</th>
       <th>4th<br />rack empty</th>
-      <th>5th<br />rack empty</th>
-      <th>6th<br />rack empty</th>
       <th>Visual<br />discrepancy</th>
     </tr>
     <tr>
       <td><b>28</b></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__&#160;<i>(+__)</i></td>
-      <td>__</td>
+      <td>Projectiles<br />Propellants</td>
+      <td>24&#160;<i>(+4)</i><br />23&#160;<i>(+5)</i></td>
+      <td>19&#160;<i>(+9)</i><br />17&#160;<i>(+11)</i></td>
+      <td>17&#160;<i>(+11)</i><br />1&#160;<i>(+27)</i></td>
+      <td>1&#160;<i>(+27)</i><br />N/A</td>
+      <td>No</td>
     </tr>
   </table>
+  <p><b>Notes</b>:</p>
+  <ul>
+    <li>
+      M109G uses two-piece ammunition, composed of propellant bags (orange) and projectiles
+      (yellow). Both have separate racks.
+    </li>
+    <li>
+      Projectiles and propellant bags are modeled individually and disappear after having been shot
+      or loaded.
+    </li>
+    <li>
+      4th rack (for the projectiles) and 3rd rack (for the propellants) are first stage ammo rack.
+      It totals 16 shells and gets filled first when loading up the tank.
+    </li>
+    <li>
+      Loading 17 (<i>+11</i>) shells will keep the hull floor and part of both sides empty of ammo.
+    </li>
+  </ul>
   <h3>
     <span class="mw-headline" id="Machine_guns">Machine guns</span
     ><span class="mw-editsection"
@@ -2421,7 +2461,7 @@
     <li>
       Almost nonexistent armour
       <ul>
-        <li>Thin enough that LMG fire potentially penetrates</li>
+        <li>.50 cal's and above can pen turret (Even though the armor value is 32mm)</li>
       </ul>
     </li>
     <li>Long reload</li>
@@ -2471,12 +2511,17 @@
       ><span class="mw-editsection-bracket">]</span></span
     >
   </h2>
-  <p>
-    <i
-      >Excellent additions to the article would be video guides, screenshots from the game, and
-      photos.</i
-    >
-  </p>
+  <dl><dt>Skins</dt></dl>
+  <ul>
+    <li>
+      <a
+        rel="nofollow"
+        class="external text"
+        href="https://live.warthunder.com/feed/camouflages/?vehicle=germ_m109g"
+        >Skins and camouflages for the M109G from live.warthunder.com.</a
+      >
+    </li>
+  </ul>
   <h2>
     <span class="mw-headline" id="See_also">See also</span
     ><span class="mw-editsection"

@@ -200,14 +200,16 @@ After the war, the USS Bennion was sent to the Puget Sound Navy Yard on 21 Octob
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-<!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!--''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.'' -->
+* ''links to approximate analogues of other nations and research trees.''-->
 
-;[[Fletcher (Family)|Related development]]
+;Related development
+* [[Fletcher (Family)]]
 
-* [[USS Fletcher]] - Sister ship, the lead ship of the Fletcher-class
-* [[USS Cowell]] - Sister ship
+;Other vehicles of similar configuration and role
+* [[USS Aylwin]]
+* [[Harukaze|JDS Harukaze]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -107,7 +107,7 @@ However, it far outclasses the 57 mm gun in terms of lethality when using the AP
 
 The SU-76M is particularly well-suited for setting up ambushes or flanking shots in urban combat, which tends to occur at short ranges and where the poor gun depression is less of an issue. The ready availability of hard cover also helps to offset the poor armour of the SU-76M, although its poor reverse speed is a distinct drawback. In more open maps, the SU-76M is very dependent on concealment using trees and bushes, as the armour is generally not reliable and the open crew compartment makes it a very common target for aircraft strafing runs if it is spotted.
 
-Not only does it not have a rotating turret, it has an open top and practically no protection from behind. Therefore, when an engagement's complexity evolves and the Su-76 is surrounded, there is little that can be done to survive. One well placed hit to its rear will knock out a good part of the exposed crew, even machine guns can do the job of eliminating both loader and gunner.
+When an engagement's complexity evolves and the Su-76 is surrounded, there is little that can be done to survive. One well placed hit to its rear will knock out a good part of the exposed crew, even machine guns can do the job of eliminating both loader and gunner.
 
 It is crucial to remain at a distance from the enemy, perhaps even seek the cover of trees for protection against low-level attack aircraft, and to only ever give the front side to an enemy. The fact that this vehicle does not have a turret not only means that it is not effective when fighting more mobile enemies attempting to flank, it also means that placing the armour at an angle is not a viable strategy to increase relative armour thickness and stay more protected, since the gun's limits for horizontal traverse mean that any significant angle of the hull towards an enemy will make make it harder to keep the enemy in sight. What can be done is to fire a shot and, immediately after, angle the hull whilst reloading, to then return to facing the enemy to fire another shot. However, hiding whilst reloading is the most sensible choice.
 
@@ -117,7 +117,7 @@ The gun in itself is what makes the SU-76M a good vehicle, all its other charact
 
 '''Enemies worth noting:'''
 
-[[M4A3 (105)]]: This low-rank Sherman posts a huge threat to every of its opponents due to its superior armour and destructive firepower. Its armour is overall quite tough to penetrate with your short 76 mm gun, but it can be solved by careful aiming. If the M4 is within 200 m, use default APHE to shoot at the vertical part of its gun mantlet or its side if exposed. If it's hull down within 100 m, only target the gun mantlet with either APHE or APCR to disarm it. When the M4 is further than 400 m away, all of your shells will perform poorly at penetrating its armour, so disengage or wait until it gets closer. Remember to not get hit by it, its HE or HEAT is likely to knock the SU-76 out with ease.
+[[M4A3 (105)]]: This low-rank Sherman poses a huge threat to all of its opponents due to its superior armour and destructive firepower. Its armour is overall quite tough to penetrate with your short 76 mm gun, but it can be solved by careful aiming. If the M4 is within 200 m, use default APHE to shoot at the vertical part of its gun mantlet or its side if exposed. If it's hull down within 100 m, only target the gun mantlet with either APHE or APCR to disarm it. When the M4 is further than 400 m away, all of your shells will perform poorly at penetrating its armour, so disengage or wait until it gets closer. Don't get hit, as the HE and HEAT can overpressure you easily.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -176,6 +176,7 @@ After the war, the vehicles served in the Soviet Army until the beginning of the
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_su_76m_1943 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -187,6 +188,7 @@ After the war, the vehicles served in the Soviet Army until the beginning of the
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Ikv 72]]
 
 == External links ==

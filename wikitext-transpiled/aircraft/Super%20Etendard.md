@@ -199,6 +199,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 180 x countermeasures
 * 2 x Matra R550 Magic 1 missiles
@@ -235,13 +236,18 @@ You should always destroy all other air superiority fighters before engaging in 
 
 * Lots of flares
 * Easy to flare missiles due to lack of afterburner
-* Forgivable airframe. It can be thrown into a lot of situations and still come out on top even against more manoeuvrable targets
-* Can use countermeasures, AAMs, and AGMs at the same time.
-* Modern Avionics. Full Digital RWR, and gets access to modern HUD in the cockpit, helping players hit their target WAY easier in first person.
+* Forgivable airframe. It can be thrown into a lot of situations and still come out on top even against more manoeuvrable targets.
+* Access to the famous Magic 1 missiles.
+* Can use countermeasures, AAMs, and guided bombs at the same time.
+* Access to ATLIS II targeting pod.
+* Modern Avionics
+** Fully digital RWR with IFF, target name, and launch detection.
+** Gets access to a modern HUD that makes targeting in first person view a lot easier
+*Can reach supersonic speeds in a dive and at medium and above altitudes.
 
 '''Cons:'''
 
-* Lack of afterburner, making it a trans-sonic plane at most.
+* Lack of afterburner, making it a transonic plane in most situations.
 * Slightly unstable airframe due to flight model, making it wobbly in certain manoeuvres.
 
 == History ==
@@ -256,6 +262,7 @@ Exported to nations like Iraq and Argentina, it participated in various conflict
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=super_etendard_97 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

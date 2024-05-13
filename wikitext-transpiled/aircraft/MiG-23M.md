@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 During the 1960s, due to the advent of low altitude, high speed tactical delivery of nuclear weapons on modified fighters, namely F-104s and F-100s at the time, the MiG-21's lack of good ballistic armaments and "look-down, shoot-down" (LDSD) radar made it incapable of intercepting such threats. Mikoyan OKB quickly started work on an advanced fighter-interceptor with powerful missiles and a strong LDSD radar. The fighter was also required to have a low takeoff/landing speed and the capability to operate from makeshift/quickly paved runways. For this, two "MiG-23" designs were envisioned. The first, MiG-23-01, had a large, MiG-21 style delta wing and lift jets in the fuselage to give the aircraft STOL capability. The other prototype, MiG-23-02, had a variable geometry "swing wing" design. The heavy weight of the lift jets heavily degraded the delta wing flight performance when they were not in use, instantly putting the 01 prototype out of competition. This led to the MiG-23-02 prototype with the sweep wings to move forward. After a few modifications to the wing shape and overall structural design, the aircraft would enter service in 1970 as the MiG-23S, but due to delays with the Sapphire-23 radar, the MiG-23S had the older Sapphire-22, a modified version of the RP-21 found on older MiG-21s. The MiG-23M followed shortly after as the "true" first production variant, equipped with the Sapphire-23D radar and TP-23 IRST system, enabling it to fire the R-23R and R-23T medium range missiles.
 
-The '''{{Specs|name}}''', introduced in [[Update "Red Skies"]], is a complete departure from the previous doctrine and playstyle learned from the MiG-21 airframes. Unlike the Fishbeds which lagged behind technologically and relied on their flight performance to compensate, the Flogger is far more reliant on its avionics and weapon systems. The MiG-23M has a lacklustre radar system compared to its adversaries, but a radar system with look down-shoot down nonetheless, a massive improvement over the Fishbeds. Another improvement over previous aircraft is the weapon systems; the MiG-23 is the first fighter in the soviet tech tree with medium-range radar missiles for BVR engagement. On top of that, the MiG-23M as a fighter provides many unique quirks which almost none of its adversaries have, such as the variable geometry wings and the IRST system for its R-23T medium range IR missiles. While the aircraft is limited by a flimsy construction that rips its wings when pushed too hard, and a comically small amount of countermeasures, the MiG-23M still improves vastly over previous aircraft, both in flight performance and weapon systems. Pilots who master this unique aircraft will be very pleased with the succeeding [[MiG-23MLD]] which is an improvement over the MiG-23M in every way.
+The '''{{Specs|name}}''', introduced in [[Update "Red Skies"]], is a complete departure from the previous doctrine and playstyle learned from the MiG-21 airframes. Unlike the Fishbeds which lagged behind technologically and relied on their flight performance to compensate, the Flogger is far more reliant on its avionics and weapon systems. The MiG-23M has a lacklustre radar system compared to its adversaries, but a radar system with look down-shoot down nonetheless, a massive improvement over the Fishbeds. Another improvement over previous aircraft is the weapon systems; the MiG-23 is the first fighter in the Soviet tech tree with medium-range radar missiles for BVR engagement. On top of that, the MiG-23M as a fighter provides many unique quirks which almost none of its adversaries have, such as the variable geometry wings and the IRST system for its R-23T medium range IR missiles. While the aircraft is limited by a flimsy construction that rips its wings when pushed too hard, and a comically small amount of countermeasures, the MiG-23M still improves vastly over previous aircraft, both in flight performance and weapon systems. Pilots who master this unique aircraft will be very pleased with the succeeding [[MiG-23MLD]] which is an improvement over the MiG-23M in every way.
 
 == General info ==
 === Flight performance ===
@@ -157,7 +157,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1 || || || || 1
 |-
 ! [[ZB-500 incendiary]] bombs
-| 1 || || || || 1
+| || 1 || || 1 ||
 |-
 ! [[S-5K]] rockets
 | 16, 32 || 16 || || 16 || 16, 32
@@ -189,7 +189,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Delta-NG targeting pod
 | || 1* || || ||
 |-
-! 800 l drop tanks
+! 820 l drop tanks
 | || || 1<sup>‡</sup> || ||
 |-
 | colspan="7" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles <br> <sup>†</sup> R-23R and R-23T missiles cannot be mixed, only one type may be carried across hardpoints <br> <sup>‡</sup> The drop tank cannot be equipped in conjunction with quad bombs on adjacent hardpoints
@@ -199,10 +199,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 800 l drop tank
+* 1 x 820 l drop tank
 * 12 x large calibre countermeasures
 * 4 x R-3S missiles
-* 2 x R-13M1 missiles
+* 2 x R-60M missiles
 * 4 x R-13M1 missiles
 * 6 x R-60M missiles
 * 2 x R-23R missiles
@@ -290,6 +290,17 @@ However, the MiG-23 was still a formidable aircraft in the right hands. The extr
 
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
+
+;Related development
+
+*[[MiG-23 (Family)]]
+
+; '''Other jet planes with variable sweep wings'''
+
+* [[Tornado (Family)]]
+* [[Su-17/22 (Family)]]
+* [[F-14 (Family)|F14 (Family)]]
+* [[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

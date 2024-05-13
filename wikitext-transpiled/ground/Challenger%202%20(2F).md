@@ -191,7 +191,6 @@ During the early module research, the urban engagements can be done with some le
 ** The L30A1 120 mm gun is incredibly accurate, even at long range
 ** Turret cheeks are invulnerable to all HEAT-FS and APFSDS, including the dreaded DM53 shell
 ** Inert turret ammo rack
-** Turret neck is not vulnerable to HE 
 
 '''Cons:'''
 

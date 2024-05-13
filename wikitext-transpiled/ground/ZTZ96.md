@@ -187,10 +187,10 @@ For players grinding the APFSDS in assault mode, it is recommended to bring full
 * Autoloader reloads the cannon even when putting out fires or replacing crew members
 * HE shell is currently the most powerful of any MBT, can cripple or outright destroy enemies with a good shot
 * Low profile
-* First Chinese tank equipped with composite armour, resistant to early APFSDS rounds
+* First Chinese tank equipped with composite armour in both turret and hull, resistant to early APFSDS rounds
 * Roof mounted heavy machine gun is useful against aircraft and light targets
 * Relatively-faster turret rotation speed, compared to contemporary Soviet tanks
-* Enjoys commander duplication of cannon which helps to fight back in heat of battle
+* Enjoys commander takeover of cannon, which helps to fight back in the heat of battle
 
 '''Cons:'''
 

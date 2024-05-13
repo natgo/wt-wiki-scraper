@@ -201,7 +201,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Substandard energy retention during turns, made worse by the mediocre acceleration at low speeds
 * Afterburner consumes a lot of fuel
 * Mediocre airbrakes
-* No internal mounted cannon, only external 30 mm cannons without tracers
+* No internal mounted cannon, only external 30 mm cannons
 * Flaps only useful during landings
 * Very limited loadout options as guns, countermeasures, air-to-air and air-to-ground missiles all compete for the same slots
 * AGM-65A as only guided air-to-ground ordnance, with a lock-on-range on moving targets of only 4km or less

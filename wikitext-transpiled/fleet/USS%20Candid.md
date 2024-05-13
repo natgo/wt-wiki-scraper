@@ -13,17 +13,19 @@ It was introduced in [[Update "Red Skies"]]. The USS Candid works as a gun boat,
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-The USS Candid has a poor survivability and armour, while its armour is enough to make it stop 12.7mm HMG in critical areas, it is not enough to stop 40mm autocannon shots, the depth charges are a big weak point, and can cause an explosion in the rear of the vehicle if impacted directly, damaging vehicle propulsion. Its good crew size however, improves survivability against catastrophic explosions and destruction of a particular section.
+The USS Candid has poor survivability and armour. While its armour is enough to stop 12.7 mm HMG rounds in critical areas, it is not enough to stop 40 mm autocannon shots. The depth charges are a big weak point, and can cause an explosion in the rear of the vessel if impacted directly, damaging the propulsion systems. Its good crew size however, improves survivability against catastrophic explosions and destruction of a particular section.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-In terms of mobility, the USS Candid is quite slow, since it was designed as a minesweeper. It is lighter than a destroyer but heavier than PT boats, however it manages to be slower than all of them, with a top speed of 24KM/h, while most other US ships have top speeds above 30-40KM/h.
+In terms of mobility, the USS Candid is quite slow, since it was designed as a minesweeper. It is lighter than a destroyer but heavier than PT boats, however it manages to be slower than all of them, with a top speed of 24 km/h, while most other US ships have top speeds above 30-40 km/h.
 
 {{NavalMobility}}
 
 === Modifications and economy ===
-{{Specs-Economy}}Most important modifications for the USS Candid are the mobility, the 76mm APCBC and HE shells, the smoke curtain and the telemeter, for better target acquisition.
+{{Specs-Economy}}
+
+Most important modifications for the USS Candid are the mobility, the 76 mm APCBC and HE shells, the smoke screen, and the range finder, for better target acquisition.
 
 == Armament ==
 {{Specs-Fleet-Armaments}}
@@ -32,7 +34,7 @@ In terms of mobility, the USS Candid is quite slow, since it was designed as a m
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|3-inch Mark 10 (76 mm)}}
 
-The main armament of the USS Candid is its 76mm Mark 10 cannon, with APCBC and HE as its main shells. The HE shells can be used with a time fuse, which increases effectiveness against aircrafts. The only problem is that it only has 1 cannon of this type, which is not the best option to deal with heavier opponents.
+The main armament of the USS Candid is its 76 mm Mark 10 cannon, with APCBC and HE as its main shells. The HE shells can be used with a proximity fuse, which increases effectiveness against aircraft. The only problem is that it only has 1 cannon of this type, which is not the best option to deal with heavier opponents.
 
 {{:3-inch Mark 10 (76 mm)/Ammunition|76 mm HC Mk.27, 76 mm AP Mk.29, 76 mm HE-VT}}
 
@@ -41,7 +43,7 @@ The main armament of the USS Candid is its 76mm Mark 10 cannon, with APCBC and H
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|Bofors L/60 Mark 3 (40 mm)}}
 
-The USS Candid has two 40mm Bofors cannons as its secondary armament, one on each side of the ship and located on the rear. This can be effectively used against lighter ships, like torpedo boats, and cause a lot of damage.
+The USS Candid has two 40 mm Bofors cannons as its secondary armament, one on each side of the ship and located at the rear. These can be used effectively against lighter ships, such as torpedo boats, and cause a lot of damage.
 
 * '''Universal:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}
 * '''40 mm HE clips:''' {{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|HEFI-T|High-explosive fragmentation incendiary tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}
@@ -54,27 +56,29 @@ The USS Candid has two 40mm Bofors cannons as its secondary armament, one on eac
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|20 mm/70 Oerlikon Mk.II (20 mm)}}
 
-For Anti-Aircraft armament the USS Candid relies on its 4 x Oerlikon 20mm cannons, although the rest of the armament can also be used for anti aircraft duties. The Oerlikon cannons offer good enough protection against slow aircrafts at close ranges, but are not powerful enough to consistently destroy them at long range, instead, they are better used against scout aircrafts or torpedo bombers flying low and slow.
+For anti-aircraft armament the USS Candid relies on its four Oerlikon 20 mm cannons, although the rest of the armament can also be used for anti-aircraft duties. The Oerlikon cannons offer good enough protection against slow aircraft at close ranges, but are not powerful enough to consistently destroy them at long range, instead, they are better used against scout aircraft or torpedo bombers flying low and slow.
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
-{{main|Mk.6 depth charge|Mk.10 Hedgehog mortar|Mk.6 mortar depth charge}}
+{{main|Mk.6 depth charge|Mk.6 mortar depth charge|Mk.10 Hedgehog mortar}}
 
-The USS Candid lacks torpedoes, which does hamper its ability to engage heavier targets such as destroyers or light cruisers. It does have however depth charges and can be fitted with a Mk.10 ''Hedgehog'' mortar and a MK.6 mortar depth charge, which can be used to some extent against light targets, but are not as effective against heavier cruisers.
+The USS Candid lacks torpedoes, which does hamper its ability to engage heavier targets such as destroyers or light cruisers. It does however have depth charges and can be fitted with a Mk.10 ''Hedgehog'' mortar and a Mk.6 mortar depth charge, which can be used to some extent against light targets, but are not as effective against heavier cruisers.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
-The USS Candid is a good support ship, is not the fastest nor the most armed, it has enough armament to deal with torpedo boats and protect more important assets like destroyers or cruisers from light targets. It can also provide decent anti aircraft coverage for the fleet, however it struggles against heavy opponents due to its lack of heavy armament or torpedoes, for that reason, is highly recommended that you stay close to your team and don't engage with the main enemy fleet.
+The USS Candid is a good support ship, is not the fastest nor the most armed, it has enough armament to deal with torpedo boats and protect more important assets like destroyers or cruisers from light targets. It can also provide decent anti-aircraft coverage for the fleet, however it struggles against heavy opponents due to its lack of heavy armament or torpedoes, for that reason, is highly recommended that you stay close to your team and don't engage with the main enemy fleet.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
 
 * Powerful secondary armament
 * Large crew for increased survivability
 * Spaced interior which decreases the chances of critical damage
 * Good anti aircraft armament for close ranges
-* Immune to HMG fire and resistant to 20mm autocannons
+* Immune to HMG fire and resistant to 20 mm autocannons
 
 '''Cons:'''
 
@@ -82,8 +86,6 @@ The USS Candid is a good support ship, is not the fastest nor the most armed, it
 * No torpedoes
 * Poor main armament
 * Poor top speed for its BR
-
-*
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

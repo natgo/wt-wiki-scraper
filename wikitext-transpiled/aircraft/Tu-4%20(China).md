@@ -37,6 +37,12 @@ Introduced in [[Update 1.91 "Night Vision"]] as one of the bombers of the newly-
 |-
 |}
 
+For a piston-engined bomber of this size, the Chinese Tu-4 has a decent performance, with sluggish but manageable turn rate and reasonable flatline energy retention and top speed. However, being one of the only few piston-engined aircraft in the midst of Korean War jets, the Tu-4 is hopelessly outclassed in every aspects. Almost every jet aircraft the Tu-4 will face has twice the top speed of an average speed that the Tu-4 can reach, and can easily catches up with the Tu-4 in a minute or less. Even enemy jet bombers are a huge threat to the Tu-4, as they can also try and hunt you down after they've finished the bombing run.
+
+However due to how agonizingly slow the Tu-4 is compared to any other planes at its BR, this can be both a blessing and a curse. A sortie with the Tu-4 would either ended with you getting shot down as soon as you were detected, or that most (if not all) of the enemy team would descend into the lower altitude to fight your teammates below while your lumbering plane only covers a quarter of distance between the spawn point and the base, thus giving you a plenty of time to take down enemy bases. As such, it is recommended to sideclimb a bit at the start of the match, so that even though you would never outclimb any of the enemies, your teammates would act as a distraction long enough for you to begin the bombing run.
+
+Situational awareness is a key to survive in the Tu-4, as any enemy who detect and attempting to catch up with you will be able to easily do so within a minute, even if they are over 10 km away. As soon as you noticed that someone is heading towards you, turn your plane back ''immediately'' to prepare to defend yourself, or else you will be easily shot down from the sky. 
+
 ==== Details ====
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -104,20 +110,20 @@ While flying the Sabres, try to aim for the fuel tanks in the wings. Most of the
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100sv (100 kg)|FAB-250sv (250 kg)|FAB-500sv (500 kg)|FAB-1000 (1,000 kg)}}
-{{main|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)}}
+{{main|FAB-100sv (100 kg)|FAB-250M-46 (250 kg)|FAB-500M-46 (500 kg)}}
+{{main|FAB-1000M-44 (1,000 kg)|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * 40 x 100 kg FAB-100sv bombs (4,000 kg total)
-* 40 x 250 kg FAB-250sv bombs (10,000 kg total)
-* 12 x 500 kg FAB-500sv bombs (6,000 kg total)
-* 20 x 500 kg FAB-500sv bombs (10,000 kg total)
-* 8 x 1,000 kg FAB-1000 bombs (8,000 kg total)
+* 40 x 250 kg FAB-250M-46 bombs (10,000 kg total)
+* 12 x 500 kg FAB-500M-46 bombs (6,000 kg total)
+* 20 x 500 kg FAB-500M-46 bombs (10,000 kg total)
+* 8 x 1,000 kg FAB-1000M-44 bombs (8,000 kg total)
 * 8 x 1,500 kg FAB-1500M-46 bombs (12,000 kg total)
 * 4 x 3,000 kg FAB-3000M-46 bombs (12,000 kg total)
 
-The Chinese Tu-4 has the same bomb loadouts as its Soviet counterpart, giving it a very impressive maximum load of 12,000 kg, with a wide selection of different bomb sizes. If you are looking to destroy bases in air battles then the 8 x 1,500 kg option is best as it allows more drops than the 4 x 3,000 kg bombs while still being able to destroy bases. If you are looking to do damage to the main airfield then the 4 x 3,000 kg option will give you slightly more TNT equivalent, but offers less flexibility.
+The Chinese Tu-4 has the same bomb loadouts as its Soviet counterpart, giving it a very impressive maximum load of 12,000 kg, with a wide selection of different bomb sizes. If you are looking to destroy bases in air battles then the 20 x 500 kg option is best as it allows up to 5 bases to be destroyed. If you are looking to do damage to the main airfield then the 4 x 3,000 kg option will give you slightly more TNT equivalent, but offers less flexibility.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -181,21 +187,19 @@ Do not consider any enemy bomber or attacker as a neutral or even friendly party
 
 '''Pros:'''
 
-* This aircraft currently has the highest payload in the game of up to 12,000 kg (26,455 lbs)
-* Very strong and fast climber once flight performance modifications have been purchased (compressor, engine, and engine injection)
+* Second highest payload in the game (after the [[F-111A]]) of up to 12,000 kg (26,455 lbs)
+* Decent climber once flight performance modifications have been purchased (compressor, engine, and engine injection)
 * Very effective defensive 23 mm turrets that have little dead zones, lots of ammo and great damage
-* All payload options are internal and does not create additional drag
 * Gunners are located separately from the gun turret with the exception of the tail turret, increasing their survivability
 * Tricycle landing gears, does not have to worry about propeller strike
+* The plane is so slow that most enemies would often descended to fight your teammates while you're underway, leaving a plenty of space and time for you to perform a bombing run
 
 '''Cons:'''
-
-* Prone to fires and wing damage, hindering the plane's control
-* Will be ripped to shreds by cannons with the calibre of >=20 mm, especially the [[MK 108 (30 mm)|MK 108]] and the [[ADEN (30 mm)|ADEN]]/[[DEFA 541 (30 mm)|DEFA 541]]
-* Can face top rank jets such as the [[F-86F-2|Sabre]], [[Hunter F 1|Hunter]] and the [[S.O.4050 Vautour IIA|Vautour]]
-* Unable to reliably defend itself from opponents attacking at once from multiple directions
+* Agonizingly slow and sluggish, took awhile to reach the targets and can be easily intercepted even by jet bombers
 * Huge aircraft, making it easy to spot from distance and making it close to impossible to miss
-* Takes a while to reach an optimal altitude
+* Prone to fires and wing damage, hindering the plane's control
+* Can face supersonic jets or air-to-air missile, the latter of which the plane is completely defenseless against
+* Unable to reliably defend itself from opponents attacking at once from multiple directions
 * Hard to handle/correct direction during landing, due to its low roll rate, slow-responding rudder and slow landing gear movement
 
 == History ==

@@ -5,9 +5,7 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''HMCS Terra Nova (DDE 229)''' is a member of the Restigouche-class destroyer family. She was a member of the Canadian Navy from 1959 to 1997. The HMCS Terra Nova was the sixth ship in her class and the first Canadian warship to bear the name. The ship's badge honours the Terra Nova River in Newfoundland as well as an earlier civilian ship, Terra Nova, which rose to prominence during a scientific expedition to Antarctica. On the ship's badge, they are depicted as a river and the Antarctic (represented by a penguin). The HMCS Terra Nova was decommissioned on July 11, 1997, and paid off on July 1, 1998. In October 2009, she and the HMCS Gatineau were sold to Aecon Fabco for scrapping. In mid-November 2009, they were towed to Pictou, Nova Scotia, for dismantling.
-
-Introduced in [[Update "Sky Guardians"]], the HMCS Terra Nova is a fast and manoeuvrable vessel for her size. It is strongly advised to use her close to the coast to engage enemy fast coastal vessels while using cover to avoid enemy destroyers. The main armament has an extremely fast firing rate, making it extremely effective at destroying enemy vessels from a long distance. Players can also engage enemy aircraft with the main armament. The ammunition magazine, like most other vessels in her class, is located directly below the main armament, making her vulnerable to detonation from a well-placed shot. As a result, it is recommended that players find a location on the battlefield where they can see other enemy vessels but have difficulty firing back.
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} British frigate {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
 
 == General info ==
 === Survivability and armour ===

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Panzerkampfwagen III Ausführung B (Panzer III B)''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is the second variant of the [[Pz.III (Family)|Panzerkampfwagen III medium tank family]]. The Panzer III A variant's arrival into service provided the Germans with a foundation for the construction of an excellent medium tank. While the Germans were largely pleased with the overall concept and design, there was still plenty of space for enhancements and changes. The most serious flaw with the Panzer III A version was its unstable suspension. As a result, the Germans introduced a new variant, the Panzer III B, with the intention of improving the vehicle's suspension and other minor components. The commander's cupola was additionally enhanced by the addition of a new two-part hatch opening. The 37 mm Kampfwagenkanone (KwK) 36 L/46.5 tank gun with 121 rounds of ammo was the main armament of the Panzer III B variant. The secondary armament consisted of three 7.92 mm MG 34 light machine guns, two of which were mounted coaxially with the main gun and one in the hull. Despite being produced in small numbers, the Panzer III B variant saw service during the beginning of World War II. The Germans had no choice but to utilize the Panzer III B during the invasion of Poland in 1939 due to a lack of more advanced tanks.
+The '''Panzerkampfwagen III Ausführung B (Panzer III B)''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 141''') is the second variant of the [[Pz.III (Family)|Panzerkampfwagen III medium tank family]]. The Panzer III A variant's arrival into service provided the Germans with a foundation for the construction of an excellent medium tank. While the Germans were largely pleased with the overall concept and design, there was still plenty of space for enhancements and changes. The most serious flaw with the Panzer III A version was its unstable suspension. As a result, the Germans introduced a new variant, the Panzer III B, with the intention of improving the vehicle's suspension and other minor components. The commander's cupola was additionally enhanced by the addition of a new two-part hatch opening. The 37 mm Kampfwagenkanone (KwK) 36 L/46.5 tank gun with 121 rounds of ammo was the main armament of the Panzer III B variant. The secondary armament consisted of three 7.92 mm MG 34 light machine guns, two of which were mounted coaxially with the main gun and one in the hull. Despite being produced in small numbers, the Panzer III B variant saw service during the beginning of World War II. The Germans had no choice but to utilise the Panzer III B during the invasion of Poland in 1939 due to a lack of more advanced tanks.
 
 Introduced in [[Update 1.59 "Flaming Arrows"]], the Panzer III B is a basic medium tank that will eventually evolve into more advanced Panzer III variants later in World War II. It is significantly weaker than many other tanks of its rank, being armed with a 37 mm KwK36 L/46.5 tank gun. The tank is made of light armour plates and will struggle to protect the tank crew even from close-range heavy machine guns fire. As a result, this tank is practically weak to almost all vehicles in its rank from any angle. Nonetheless, it is a fairly ordinary medium tank with very few advantages and should be used with caution in battle.
 
@@ -90,7 +90,7 @@ It's best to consider taking a mix of both types of ammunition. The APHE has the
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- '''Last updated:''' -->
+<!-- '''Last updated: 2.35.0.20''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -103,12 +103,13 @@ It's best to consider taking a mix of both types of ammunition. The APHE has the
 ! 7th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''121''' || 117&nbsp;''(+4)'' || 99&nbsp;''(+22)'' || 79&nbsp;''(+42)'' || 61&nbsp;''(+60)'' || 41&nbsp;''(+80)'' || 21&nbsp;''(+100)'' || 1&nbsp;''(+120)'' || No
+| '''121''' || 116&nbsp;''(+5)'' || 98&nbsp;''(+23)'' || 78&nbsp;''(+43)'' || 60&nbsp;''(+61)'' || 40&nbsp;''(+81)'' || 20&nbsp;''(+101)'' || ''0 (+121)'' || No
 |-
 |}
 '''Note''':
 
-* Racks disappear after you've fired all shells in the rack.
+* Racks only disappear after all shells in the rack have been fired.
+* Turret empty: 116 ''(+5)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -133,9 +134,9 @@ This vehicle is equipped with two coaxial 7.92 mm MG34 machine guns. As there ar
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 [[File:Pz.III B 1.jpg|thumb|300px]]
-Overall, the Pz.III B doesn't have many reliable advantages, both the armour and firepower leave a lot to be desired, although its mobility is somewhat functional. However, it just doesn't have any decent aggressive aspects to it that good mobility benefits, meaning that although it is the Pz.III B's most functioning asset, it's still not reliable to play aggressively on the move. The Pz.III B isn't equipped with a short stabiliser, meaning that the gun will be very unstable when coming to a stop, whereas the majority of allied vehicles do have this feature. So if you were to run into one of these vehicles on the move, your enemy will likely get the first shot off, and as your armour protection is so poor they will likely deal critical damage.
+Overall, the Pz.III B doesn't have many reliable advantages, especially over the E variant. Both the armour and firepower leave a lot to be desired, although its mobility is somewhat functional. However, it just doesn't have any decent aggressive aspects to it that good mobility benefits, meaning that although it is the Pz.III B's most functioning asset, it's still not reliable to play aggressively on the move. The Pz.III B isn't equipped with a short stabiliser, meaning that the gun will be very unstable when coming to a stop, whereas the majority of allied vehicles do have this feature. So if you were to run into one of these vehicles on the move, your enemy will likely get the first shot off, and as your armour protection is so poor they will likely deal critical damage.
 
-A somewhat reliable way to stay alive in this tank is to play hull-down, a lot of the rounds you'll be taking will be small calibre AP shots. If only your turret is exposed, these rounds will only usually take out 2 crew members at most, allowing for you to back off, repair and re-engage. Try not to play too far away from your enemies. The performance of the gun is overall very poor at distances, so even though survivability will be increased by playing at range, firepower will be very inconsistent, so try to find a spot that isn't too far away from combat.
+A somewhat reliable way to stay alive in this tank is to play hull-down, a lot of the rounds you'll be taking will be small calibre AP shots. If only your turret is exposed, these rounds will only usually take out 2 crew members at most, allowing for you to back off, repair and re-engage. Find a spot, take a few shots, and reposition before being spotted, as escaping a bad position is nearly impossible once compromised. The performance of the gun is overall very poor at distances, so even though survivability will be increased by playing at range, firepower will be very inconsistent, so try to find a spot that isn't too far away from combat.
 
 The turret traverse of the Pz.III B is also very poor, at 4.2 degrees a second in RB mode, because of this it's a good idea to use the hull traverse to swing the turret around faster. The hull traverse itself is fairly fast, so utilising this is a decent habit to get in to. The situation you most want to avoid is losing your driver or engine, as your mobility is the only thing that will keep you in the fight, and the way to ensure this primarily is to stay in cover and not advance too far into the map. If an enemy gets on your side or rear, there's nothing you can really do as your turret traverse is disappointingly poor, so watch your flanks and try to minimise the possibility of an enemy getting behind you.
 
@@ -156,6 +157,7 @@ The turret traverse of the Pz.III B is also very poor, at 4.2 degrees a second i
 * Small calibre gun lacks the damage to quickly destroy large tanks like the [[LVT(A)(1)]]
 * Very slow turret traverse, may not be able the gun on fast targets
 * Profile is quite large and tall, making it easier to be seen and shot at, and harder to conceal behind bushes or cover
+* Poor reverse speed
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

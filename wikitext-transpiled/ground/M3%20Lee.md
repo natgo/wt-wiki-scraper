@@ -265,10 +265,12 @@ The M3 Lee launched its combat career in North Africa in 1942. Deliveries were a
 {{Youtube-gallery|ly9JS6errQQ|'''Best secondary armaments''' discusses the {{PAGENAME}} at 5:41 - ''War Thunder Official Channel''|RyA5KcS2hAw|'''Multi-turreted Tanks'''  discusses the {{PAGENAME}} at 2:31  - ''War Thunder Official Channel''|tiyrrgXGIc4|'''You said tank? it's more like a mobile fortress - M3 Lee''' - ''HowToPlay1337''|oy_Bs1tbsQ4|'''M3 Lee, American Tier-1 / Rank-1, Medium Tank''' - ''Angry Nerd Gaming''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[M3 Medium (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

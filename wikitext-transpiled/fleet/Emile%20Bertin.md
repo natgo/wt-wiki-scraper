@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French light cruiser {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+The '''Emile Bertin''' was designed in the late interwar period as a minelaying cruiser and a destroyer flotilla leader, the only vessel of the class. She could carry up to 200 mines and move at a speed of up to 40 knots, extremely fast for a cruiser. Her first big assignment was a covert mission to move 57 tonnes of Polish state gold reserves from Beirut to Toulon in September 1939. Following that she became a part of Group Z, and operated off the Norwegian Coast where she was hit by the Luftwaffe on 19 April 1940. After repairs, in May 1940, she was delegated to carry French state gold reserves from Brest to the city of Halifax in Canada. However, the signing of the Armistice on 22 June 1940 caught her with the gold still onboard, and she was ordered to Martinique. Following that, she joined Allied forces and underwent a refit in Philadelphia. She participated in Operation Dragoon, conducting naval bombardments against Axis troops along the Italian coast. Following the end of the war she was deployed as a flagship to Indochina, as a training ship, gunnery target and was finally retired in October 1959.
+
+Introduced in [[Update "La Royale"]] along with the first release of the researchable French tech tree, Emile Bertin is a very versatile cruiser with excellent guns and high speed, but lacks any notable armour protection, and with a large exposed bridge she often loses control. She's best used as a glass cannon-style of warship, able to outgun nearly any enemy in her BR or lower.
 
 == General info ==
 === Survivability and armour ===
@@ -132,6 +134,9 @@ Key enemies:
 * ''other literature.'' -->
 
 * [[wt:en/news/8315-development-%C3%A9mile-bertin-light-cruiser-hit-and-run-en|[Devblog] Émile Bertin light cruiser: hit and run]]
+* [[wikipedia:French cruiser Émile Bertin|[Wikipedia] French cruiser Émile Bertin]]
+* [https://uboat.net/allies/warships/ship/5988.html <nowiki>[uboat.net]</nowiki> FR Emile Bertin]
+* [http://navypedia.org/ships/france/fr_cr_emile_bertin.htm <nowiki>[NAVYPEDIA]</nowiki> ÉMILE BERTIN light cruiser (1935)]
 
 {{ShipManufacturer Ateliers et Chantiers de Penhoët}}
 {{France light cruisers}}

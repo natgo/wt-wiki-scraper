@@ -61,6 +61,7 @@ This tank has a respectable top speed and can get into strategic positions faste
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|OQF Mk.II (77 mm)}}
+
 The OQF Mk.II is a good gun with a wide range of ammunition options for various situations. The Comet I has a very good gun depression of -12 degrees. In general, the turret transverse speed is poor: brawling in narrow streets is not recommended unless absolutely necessary. The reload speed is rather slow.
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -72,10 +73,10 @@ The OQF Mk.II is a good gun with a wide range of ammunition options for various 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 61 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 9.62 || rowspan="2" | 8.51 || rowspan="2" | 7.84 || rowspan="2" | 7.40
+| rowspan="2" | 61 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 20.0 || 27.7 || 33.6 || 37.2 || 39.5 || rowspan="2" | 9.62 || rowspan="2" | 8.51 || rowspan="2" | 7.84 || rowspan="2" | 7.40
 |-
 ! ''Realistic''
-| 8.9 || 10.5 || 12.8 || 14.1 || 15.0
+| 12.5 || 14.7 || 17.8 || 19.7 || 21.0
 |-
 |}
 

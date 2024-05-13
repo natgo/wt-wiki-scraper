@@ -56,8 +56,6 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|M126 (155 mm)}}
 
-''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[M126 (155 mm)|155 mm M126]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -114,26 +112,26 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The M109 should be played as a manually-aimed artillery unit that engages enemies while they are distracted. It is important to stick close to allies and avoid being flanked by faster tanks. The M109's mobility is decent enough to allow it to get to a position in time.
+The M109 should be played as a manually-aimed artillery unit that engages enemies while they are distracted. It is important to stick close to allies and avoid being flanked by faster tanks. The M109's mobility is decent enough to allow it to get to a position in time. Acknowledging the lengthy reload time of this TD, along with the short barrel with a heavy shell and high shell drop, it is recommended to stay at a medium to short range and engage targets with one hit angles. Should one be incapable of neutralizing the enemy at once (heavy armour, bad angle, etc.), it is recommended to leave them to be finished by teammates.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Powerful weapon: M109 has a powerful 155 mm howitzer that can deal significant damage to enemy vehicles
-* Long range: M109 can fire up to 30 km, allowing it to engage enemies from a safe distance
-* Decent mobility: M109's mobility is decent enough to allow it to get to a position in time
-* Effective against tanks: M109 can be used to destroy tanks
-* Good support unit: M109 can be used to support team tanks
+* Powerful 155 mm howitzer that can deal significant damage to enemy vehicles
+* Can fire up to 30 km, allowing it to engage enemies from a safe distance
+* The M109's mobility is decent enough to allow it to get to a position in time
+* Effective against any tank
+* Good unit to support teammates
 
 '''Cons:'''
 
-* Low rate of fire: M109 has a low rate of fire, which can make it difficult to engage multiple targets quickly
-* Poor armour: M109 is not well-armoured and can be easily destroyed by enemy fire
-* Vulnerable to flanking: M109 is vulnerable to flanking by faster tanks
-* Requires manual aiming: M109 is a manually-aimed artillery unit, which can make it difficult to hit moving targets
-* Limited ammunition: M109 has a limited number of rounds, which can make it difficult to sustain fire for extended periods of time
+* Low rate of fire, which can make it difficult to engage multiple targets quickly
+* Poor armour: not well-protected and can be easily destroyed by enemy fire
+* Vulnerable to flanking by faster tanks
+* Slow turret traverse speed, which can make it difficult to hit moving targets
+* Limited ammunition count, which can make it difficult to sustain fire for extended periods of time
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -141,7 +139,9 @@ The M109 should be played as a manually-aimed artillery unit that engages enemie
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=il_m109 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -78,16 +78,18 @@ The 90 mm D915 cannon is unsuited for long range due to the poor ballistics of t
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
-! 1st<br>rack empty
+!1st<br>rack empty
+! 2st<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''36''' || 1&nbsp;''(+35)'' || No
+| '''53''' 
+|35 (+18)|| 1&nbsp;''(+52)'' || No
 |-
 |}
 '''Notes''':
 
 * Shells are modeled individually and disappear after having been shot or loaded.
-* The ELC bis has only one ammo rack, located at the rear of the tank, just before the fuel tank. As such, there is no real survivability decrease by taking a full ammo load.
+* The ELC bis has two ammo racks, the first located in the turret behind the gunner and driver and the second located at the rear of the tank, just before the fuel tank.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

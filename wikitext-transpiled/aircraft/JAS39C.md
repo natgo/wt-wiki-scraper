@@ -1,7 +1,7 @@
 {{About
-| about = British jet fighter '''{{PAGENAME}}'''
-| usage = the other version
-| link = JAS39A
+| about = Fighter aircraft '''{{PAGENAME}}'''
+| usage = other versions
+| link = SAAB 39 Gripen (Family)
 }}
 {{Specs-Card
 |code=saab_jas39c_south_africa
@@ -22,7 +22,7 @@ The {{Specs|name}} was introduced in [[Update "Air Superiority"]]. As the first 
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 11,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -31,7 +31,7 @@ The {{Specs|name}} was introduced in [[Update "Air Superiority"]]. As the first 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,169 || 2,134 || rowspan="2" | {{Specs|ceiling}} || 24.1 || 24.1 || 213.2 || 202.8 || rowspan="2" | 500
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -189,7 +189,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | || || || 1<sup>†</sup> || || || ||
 |-
 ! 1,100 l drop tanks
-| || || || || 1 || || ||
+| || || 1 || || 1 || 1 || ||
 |-
 | colspan="9" | Maximum permissible weight imbalance: 1,250 kg
 |-
@@ -200,7 +200,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 1,100 l drop tank
+* 3 x 1,100 l drop tanks
 * 2 x AIM-9L Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles + 640 x countermeasures
@@ -219,11 +219,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The {{PAGENAME}} is the crown jewel of the British Aviation tech tree, sitting at one whole Battle Rating above any and all other planes. It is the most capable fighter, ground striker, dogfighter and interceptor out of the British tree, and one of the most capable planes in game, thanks to its amazing manoeuvrability, low speed flight characteristics and suite of ordinance. While it can use a combination of IR missiles, radar missiles, guided bombs and AGMs, it does not feature more than 4 fully customizable hardpoints, along with the 2x AIM-9Ms from the wingtips. this means that you can have one radar missile, one IR missile with Countermeasures pod, one guided bomb and one AGM, ontop of fuel and a LITENING II targetting pod. The ability to take such custom loadouts makes this plane very versatile and suitable for a large number of roles in Air-to-Air combat and Air-to-Ground combat.
+The {{PAGENAME}} is the crown jewel of the British Aviation tech tree, sitting at one whole Battle Rating above any and all other planes. It is the most capable fighter, ground striker, dogfighter and interceptor out of the British tree, and one of the most capable planes in game, thanks to its amazing manoeuvrability, low speed flight characteristics and suite of ordnance. While it can use a combination of IR missiles, radar missiles, guided bombs and AGMs, it does not feature more than 4 fully customizable hardpoints, along with the 2x AIM-9Ms from the wingtips. this means that you can have one radar missile, one IR missile with Countermeasures pod, one guided bomb and one AGM, ontop of fuel and a LITENING II targetting pod. The ability to take such custom loadouts makes this plane very versatile and suitable for a large number of roles in Air-to-Air combat and Air-to-Ground combat.
 
 ;Air Realistic battles:
 
-This plane should carry 6 missiles. Two wingtip AIM-9M which should always be carried. On the remaining 4 hardpoints, the {{PAGENAME}} can take any combination of AIM-9M, AIM-9M on Countermeasure pods (which is strongly preferred over the AIM-9M with no countermeasure pods), and Skyflash Radar missiles. Do note that the Skyflash missiles, while capable when used correctly, are not as good as the competition. Each AI<-9M is increasing the number of small countermeasures by x160 with each pylon. therefore, you should always include at least one Aim-9M with a CM pod on the 4 pylons, so you can more than double the amount of countermeasures. The best combination is decided by the user. However you should always include at least one AIM-9M or one Skyflash, so you can have a good number of countermeasures, and be able to engage targets further than the AIM-9M can. 
+This plane should carry 6 missiles. Two wingtip AIM-9M which should always be carried. On the remaining 4 hardpoints, the {{PAGENAME}} can take any combination of AIM-9M, AIM-9M on Countermeasure pods (which is strongly preferred over the AIM-9M with no countermeasure pods), and Skyflash Radar missiles. Do note that the Skyflash missiles, while capable when used correctly, are not as good as the competition. Each AIM-9M is increasing the number of small countermeasures by x160 with each pylon. therefore, you should always include at least one AIM-9M with a CM pod on the 4 pylons, so you can more than double the amount of countermeasures. The best combination is decided by the user. However you should always include at least one AIM-9M or one Skyflash, so you can have a good number of countermeasures, and be able to engage targets further than the AIM-9M can.
 
 The Gripen is a very fuel efficient plane. You can fly it extra light at minimum fuel (9 minutes) along with the fuel pod if you do not plan to afterburn all the way to the middle of the map. This fuel loadout ensures you are the lightest possible, while giving you enough fighting time. You can always drop the fuel tank to become insanely nimble, however you should not drop below 2 minutes of fuel. You can get back to base with around 1 minute if you climb, keep your speed and start from high speed from the middle of the map, however 2 minutes insures you can also defend yourself in case anyone chases you. You can take any combination of fuel + fuel pod, however you should not have more than 30 minutes of total fuel. Flight performance suffers with more than 25 minutes of total fuel.
 
@@ -231,46 +231,46 @@ It should be noted that the Gripen, as a very small fighter with an efficient en
 
 The Gripen can be used in multiple ways:
 
-* Furball Fighter - Taking a full load of 6x AIM-9M missiles and countermeasures. Periodic flares can be used this way along with the relatively cold engine of the Gripen, making you almost invulnerable to IR missiles. This however means than you want to be as light as possible, so taking minimum fuel and dropping the fuel pod as you enter the fight is very crucial. You should then target enemies that are not spamming flares. If the AIM-9M has at least 2-3 seconds of flight without seeing one flare, it is pretty much a guaranteed to hit. You can also take one Skyflash missile to guarantee you a hit head-on if used at the right time. Using your HMD is crucial in this situation.
-* Interceptor - This involves taking one to three Skyflash missiles and trying to pick off targets in headons, or climbing targets at a maximum of 8-11 km range depending on altitudes. It is a very strong a well rounded loadout. You should keep your speed with this loadout, and try to play in more of a support role. 
+* Furball Fighter - Taking a full load of 6 x AIM-9M missiles and countermeasures. Periodic flares can be used this way along with the relatively cold engine of the Gripen, making you almost invulnerable to IR missiles. This however means than you want to be as light as possible, so taking minimum fuel and dropping the fuel pod as you enter the fight is very crucial. You should then target enemies that are not spamming flares. If the AIM-9M has at least 2-3 seconds of flight without seeing one flare, it is pretty much a guaranteed to hit. You can also take one Skyflash missile to guarantee you a hit head-on if used at the right time. Using your HMD is crucial in this situation.
+* Interceptor - This involves taking one to three Skyflash missiles and trying to pick off targets in head-ons, or climbing targets at a maximum of 8-11 km range depending on altitudes. It is a very strong a well rounded loadout. You should keep your speed with this loadout, and try to play in more of a support role.
 
-The Gripen is one of, if not the best, Air Realistic Planes due to its low heat signature, low fuel consumption, HMD, and strong IR missiles, However this does not mean it is not as good in:
+The Gripen is one of Air Realistic planes due to its low heat signature, low fuel consumption, HMD, and strong IR missiles, However this does not mean it is not as good in:
 
 ;Ground Realistic Battles:
 
-The Gripen has access to a good variety of guided munitions. You can chose between using GBU-12s, GBU-16s and GBU-24s (only on the inner-most pylons) and AGM-65B's which can all be guided with the LITENING II targetting pod. One of the best Targetting pods in war thunder, with good thermal sight resolution. This gives the Gripen the ability to take out any ground target effectively, and still be able to engage enemy Air due to its wingtip AIM-9M missiles, which effectiveness is much greater in ground battles due to the AIM-9M's smokeless motors, meaning it is effectively invisible as it approaches the target so the enemy may not be able to pop countermeasures soon enough to wave it off.
+The Gripen has access to a good variety of guided munitions. You can chose between using GBU-12s, GBU-16s and GBU-24s (only on the inner-most pylons) and AGM-65Bs which can all be guided with the LITENING II targetting pod. One of the best targetting pods in war thunder, with good thermal sight resolution. This gives the Gripen the ability to take out any ground target effectively, and still be able to engage enemy Air due to its wingtip AIM-9M missiles, which effectiveness is much greater in ground battles due to the AIM-9M's smokeless motors, meaning it is effectively invisible as it approaches the target so the enemy may not be able to pop countermeasures soon enough to wave it off.
 
-When using this plane in GRB, taking one to two AGM's is a good idea, in order to take out enemy SPAA as quickly as possible. AGMs are preferred over GBUs due to their fire and forget nature, and higher speed.
+When using this plane in GRB, taking one to two AGMs is a good idea, in order to take out enemy SPAA as quickly as possible. AGMs are preferred over GBUs due to their fire and forget nature, and higher speed.
 
-Taking out enemy SPAA's such as the Pantsir-S1 is the first thing you should do when you spawn in. The AGMs should be fired from a maximum of 8 km, and if possible 6 km. If more than 5-10 seconds pass and you have not fired an AGM at an enemy SPAA, you should instantly dive while turning the other way. After going outside of the enemy SPAA range (18km max) you should sideclimb and get to a comfortable altitude. Try to take out the the enemy SPAA again with the AGMs. do note that they have higher range if fired from higher altitude. 
+Taking out enemy SPAAs such as the Pantsir-S1 is the first thing you should do when you spawn in. The AGMs should be fired from a maximum of 8 km, and if possible 6 km. If more than 5-10 seconds pass and you have not fired an AGM at an enemy SPAA, you should instantly dive while turning the other way. After going outside of the enemy SPAA range (18 km max) you should sideclimb and get to a comfortable altitude. Try to take out the the enemy SPAA again with the AGMs. do note that they have higher range if fired from higher altitude.
 
-After dealing with SPAA, You can start dropping GBU's, but you need to keep in mind that another SPAA can spawn in at any moment and lock you in the IRST mode, so you should always look at the ground, and always fly defensively if possible, putting objects or terrain between you and the enemy ground spawns, keeping your speed up or not flying into straight lines for too long.
+After dealing with SPAA, You can start dropping GBUs, but you need to keep in mind that another SPAA can spawn in at any moment and lock you in the IRST mode, so you should always look at the ground, and always fly defensively if possible, putting objects or terrain between you and the enemy ground spawns, keeping your speed up or not flying into straight lines for too long.
 
 ;Simulator Battles:
 
-The Gripen is a very strong plane to use in simulator battles. It gets access to a lot of countermeasures, smokeless missiles, making them quite invisible even if enemies look at you when you fire in the right conditions. You get access to a good HUD that gives good information, the HMD which is amazing in SIM, a targetting pod on it's own hardpoint, which is good for spotting, and a pretty good radar, with good search sectors, range and modes. TWS should be used rather than PD simple PD. 
+The Gripen is a very strong plane to use in simulator battles. It gets access to a lot of countermeasures, smokeless missiles, making them quite invisible even if enemies look at you when you fire in the right conditions. You get access to a good HUD that gives good information, the HMD which is amazing in SIM, a targetting pod on its own hardpoint, which is good for spotting, and a pretty good radar, with good search sectors, range and modes. TWS should be used rather than PD.
 
-The only downside is that the gripen has a black line running in the middle of the glass canopy, effectively cutting your visibility when in a dogfight, and the fact that it only has access to 6 missiles.
+The only downside is that the Gripen has a black line running in the middle of the glass canopy, effectively cutting your visibility when in a dogfight, and the fact that it only has access to 6 missiles.
 
 It is one of the best SIM planes due to its very stable canard design, smokeless motors and HMD. Flight performance is a bonus.
 
-The British variant of the Gripen is identical to the Swedish Gripen, other than name and camouflages, and is one of if not the best plane in War Thunder As of the Update "Air Superiority" due to its insanely good flight performance, good ordinance variety, strong Air-to-Air IR missiles and large amount of countermeasures on top of other smaller strengths. It is a plane that has very high potential and can win any situation. This is not a plane that will limit the one who is piloting it.
+The British variant of the Gripen is identical to the Swedish Gripen, other than name and camouflages, and is one of the best planes in War Thunder due to its insanely good flight performance, good ordnance variety, strong air-to-air IR missiles and large amount of countermeasures on top of other smaller strengths. It is a plane that has very high potential and can win any situation. This is not a plane that will limit the one who is piloting it.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Missiles - Very capable AIM-9M missiles, which include a seeker shutoff IRCCM and smokeless motor.
-* Flight performance - Extremely nimble and capable plane, which can pull off one-of-a-kind manoeuvers.
-* Ordinance - High variety of ordinance including GBUs, AGMs, Countermeasure pods and a good Targetting Pod.
-* Engine - High performance, Low temperature, Efficient Engine making it hard to lock you, giving you long flight time and enough thrust.
-* Avionics - Access to HMD, a good radar, lots of countermeasures, 19km ACM Radar range.
+* Very capable AIM-9M missiles, which include a seeker shutoff IRCCM and smokeless motor
+* Extremely nimble and capable plane, which can pull off one-of-a-kind manoeuvres
+* High variety of ordnance including GBUs, AGMs, Countermeasure pods and a good targetting pod
+* High performance, Low temperature, Efficient Engine making it hard to lock you, giving you long flight time and enough thrust
+* Access to HMD, a good radar, lots of countermeasures, 19 km ACM Radar range
 
 '''Cons:'''
 
-* Can only take a maximum of 6 missiles. 
-* AGMs are B variant.
+* Can only carry a maximum of 6 missiles
+* AGMs are B variant
 * Flight performance suffers greatly if damaged
 
 == History ==
@@ -279,12 +279,16 @@ In the late 1990s, South Africa found a need to replace its aging fleet of Mirag
 
 South Africa received their first Gripen in 2006. The aircraft, a two-seater Gripen-D, was sent to the Test Flight Development Centre in the Southern Cape for full testing and integration of South African avionics and weapons for the country. Once fully tested and handed over to the South African Air Force (SAAF) in 2008, deliveries of Gripens directly to the South African Air Force began in the same year. By 2011, 17 Gripen-Cs and 9 Gripen-Ds have been delivered to the SAAF and equipped the 2 Squadron, located at AFB Makhado in the Limpopo province.
 
-Although the Gripens have not yet been involved with any heavy fighting in South Africa, they have been integral to maintaining the country's air superiority. Gripens were deployed during several high-profile events in South Africa, such as during the 2010 FIFA World Cup to maintain airspace security and protection and in 2013 to escort Nelson Mandela's remains to his funeral processions and maintain no-fly zones during the funeral. 
+Although the Gripens have not yet been involved with any heavy fighting in South Africa, they have been integral to maintaining the country's air superiority. Gripens were deployed during several high-profile events in South Africa, such as during the 2010 FIFA World Cup to maintain airspace security and protection and in 2013 to escort Nelson Mandela's remains to his funeral processions and maintain no-fly zones during the funeral.
 
 However, financial constraints have cast a shadow over the fleet's operational sustainability, leading to a notable incident in September 2021 when the Gripens were grounded due to lack of funding and maintenance and support contracts not being renewed in time. This would be resolved by September 2022, enabling the Gripens to fly again, though concerns remain on the pilot readiness after a year of grounding.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=saab_jas39c_south_africa Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|YpAvtM4iUWo|'''The Shooting Range #390''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}

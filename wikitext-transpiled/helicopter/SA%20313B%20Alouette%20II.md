@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French utility helicopter {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
+The Alouette II is a versatile and reliable light helicopter used for reconnaissance, and training purposes. It first flew in 1955, featuring Turbomeca Artouste I turbine engines, setting altitude records. Originally produced by Sud-Est, it later became part of Sud-Aviation and then Aérospatiale. The helicopter has a small fuselage with great visibility and seating for 3-4. The SE 313B variant used a new powerplant, specifically a Turbomeca Artouste IIC5 or IIC6 engine rated at 300 kW (400 hp) for takeoff, which increased the maximum takeoff weight to 1600 kg.
+
+It was introduced in [[Update 1.87 "Locked On"]]. The SA 313B Alouette II is quite a versatile helicopter. Compared to other low tier helicopters, it has access to stock ATGMs, which means that spading it is not as hard as on other helicopters. However, like all helicopters with ATGMs at this BR, the missiles are slow and not very manoeuvrable. The aircraft only has 4 missiles and only 4 x 7.62 mm MGs, while the lack of armour means that critical components and even the pilots are very exposed to enemy fire even from roof-mounted MGs.
 
 == General info ==
 === Flight performance ===
@@ -35,7 +37,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French utility helicopter {{Ba
 
 === Survivability and armour ===
 {{Specs-Heli-Armour}}
-''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.''
+<!-- ''Examine the survivability of the helicopter. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical systems.'' -->
+This helicopter has very little armour, the design is not the best suited close quarters combat, and it means that pilots and critical components are very exposed to anti-aircraft fire.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -75,6 +78,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Only 4 anti-tank missiles
 * Low maximum speed means that it is slow to react
+* Poor armour
+* Poor offensive armament
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -93,11 +98,14 @@ The helicopter, while appearing frail, is quite robust as well as versatile in i
 {{Youtube-gallery|2RX3Y1-HJHE|'''The Shooting Range #142''' - ''Pages of History'' section at 04:25 discusses the SUD Aviation Alouette.}}
 
 == See also ==
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the helicopter;''
+* ''links to approximate analogues of other nations and research trees.'' -->
 
-* '''Rotor craft of the same family'''
-** [[SA 313B Alouette II (Germany)]]
+'''Rotor craft of the same family'''
+* [[SA 313B Alouette II (Germany)]]
 
-* '''Rotorcraft of comparable role, configuration and era'''
+'''Rotorcraft of comparable role, configuration and era'''
 * [[Scout AH.Mk.1]]
 
 == External links ==

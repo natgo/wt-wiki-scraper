@@ -77,7 +77,7 @@ The 43M Turán III was a Hungarian medium tank of World War II. It was developed
 {{:43.M (75 mm)/Ammunition|43.M pancelgranat, 43.M repeszgranat, 43.M pancelrobbantogranat}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
 <!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
 |-
@@ -93,7 +93,6 @@ The 43M Turán III was a Hungarian medium tank of World War II. It was developed
 | 21&nbsp;''(+11)'' || ''15 (+17)'' || ''9 (+23)'' || 1&nbsp;''(+31)'' || __
 |-
 |}
-[[File:TuranIIIrack.PNG|thumb|420x420px|[[Ammo racks]] of the Turan III]]
 '''Notes''':
 
 * Turret empty: 21 (+11) shells.
@@ -141,7 +140,8 @@ The 43M Turán III was a Hungarian medium tank of World War II. It was developed
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+
+Before production, there were two Turan III tanks built, one prototype, and one fully functional vehicle for testing. The Turan III has not seen too much action in World War II, though, having not been produced enough to make a lasting impact. It is not known if it has ever seen combat. This is because when the tank was developed, Hungary had low resources, and in March 1944, after the invasion of Hungary, the Germans limited the production of tanks.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

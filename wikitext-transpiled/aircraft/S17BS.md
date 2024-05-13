@@ -78,14 +78,23 @@ It was introduced in [[Update "Raining Fire"]]. The '''{{Specs|name}}''' is a sl
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
-* 10mm Steel plate in pilot's seat
-* 10mm Steel plate in front of gunner*
+* 10 mm Steel plate in pilot's seat
+* 10 mm Steel plate in front of gunner*
 * Self-sealing fuel tanks (4 in each wing)
 
 <nowiki>*</nowiki>Note that the gunner is rear-facing
 
 === Modifications and economy ===
 {{Specs-Economy}}
+
+As the S17BS is a relatively simple aircraft, the progress of obtaining its modifications is also quite simple. One recommended order of research is as follows:
+
+* Offensive 8 mm: researching this modification can allow the player to choose between different ammunition belts, including Armored Targets belts which will increase the amount of armour-piercing rounds present in the belt, over the Default ammunition. Stealth belts can also be used, which can allow the machine guns to fire ammunition that does not contain tracer rounds. Players can use these to attack ground targets or unsuspecting enemy aircraft.
+* Airframe: this modification will increase the aircraft's durability, giving it a higher chance to return to the airfield even if damaged.
+* Turret 8 mm: this modification is very similar to the previous modification and will give the player access to other ammunition belt types. It is recommended to take Armored Targets belts for increased damage against aircraft with armour or solid structures.
+* Flight Performance modifications: the S17BS is relatively slow and sluggish. These modifications will help to remedy this issue by increasing its performance. As with all modifications, players can hover over each modification to see exactly how they will affect the vehicle when equipped.
+* Cover: this modification will both improve the aircraft's performance and durability.
+* New 8 mm MGs and New 8 mm MGs (turret): equipping these modifications will improve the aircraft's weaponry for increased reliability and accuracy.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
@@ -119,7 +128,11 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The B17BS has two forward facing machine guns, allowing you to dispatch lone enemies or lightly armoured ground targets. With the option to load 9 50 kg bombs, the B17BS becomes a potent ground attacker for its battle rating. The pilot should not rely on this plane's manoeuvrability or speed. It is a slow and methodical plane that requires to gear down from faster and more potently armed planes. In arcade battles, the bombs allow for liberal aiming at specific targets, ideally columns of lightly-armoured vehicles. Having a bomb sight means you can stay relatively high without endangering yourself. Should an enemy attempt an attack on you, dive away as quickly as possible. You do not have the turn speed nor the firepower for head-on attacks. The rear gunner, especially if armed with armour-piercing bullets, might prove enough of a deterrent for fabric biplanes. If the enemy plane persists in its desire to shoot down the B17BS, evade the shots by wiggling around. The plane has a sturdy enough construction to resist rifle-calibre rounds and has the strength to withstand a few poorly placed 20 mm cannon shots. Overall, the plane is a serviceable light attacker.
+The B17BS is fitted with two forward facing machine guns, allowing players to dispatch lightly-armoured ground targets and lone enemy aircraft. With the option to load 9 x 50 kg bombs, the B17BS becomes a potent ground attacker for its battle rating. The pilot should not rely on this plane's sluggish manoeuvrability and low maximum speed. Unlike faster and more potently armed planes, this aircraft is often played methodically, away from the centre of the battlefield. In Arcade battles, the bombsight allows for liberal aiming at specific targets, ideally columns of lightly-armoured vehicles. Having a bombsight means you can stay at relatively high altitudes without endangering yourself. 
+
+Should an enemy attempt to attack you, you can dive away in order to gain speed for an escape. The S17BS's firepower is adequate but not excellent, meaning head-on attacks can be dangerous. If the enemy is attacking from the rear, players can utilize the rear gunner. This gunner may be able to deter or destroy enemy fighters, especially if they are biplanes which are often unarmoured. If the enemy aircraft presses the attack, you can evade shots by wiggling the aircraft around in order to throw off their aim. The S17BS has a sturdy enough construction to resist rifle-calibre rounds and can even withstand a few 20 mm cannon rounds. 
+
+Overall, the plane is a serviceable light attacker.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -142,16 +155,17 @@ The B17BS has two forward facing machine guns, allowing you to dispatch lone ene
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 '''Pros:'''
 
-* Can land/float on water, unlike its [[B17 (Family)|brothers]]
-* Great for bombing anti-aircraft vehicles and light pillboxes
-* The 9 x 50 kg sb m/42 bombs perform well in Ground RB
+* Relatively durable against light machine guns
+* Can land and float on water
+* 9 x 50 kg sb m/42 bombs for bombing ground targets
+* Bombsight can increase bombing accuracy
 
 '''Cons:'''
 
 * Slow and large target profile
 * Poor manoeuvrability
-* Small bomb load
-* Has weak defensive armament
+* Can only carry small bombs 
+* Very light defensive armament with limited firing angles
 * Floats create more drag, making the B-17BS slower than the [[B17B]] and the [[B17A]]
 
 == History ==
@@ -172,10 +186,12 @@ The B17BS has two forward facing machine guns, allowing you to dispatch lone ene
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+;Related development
+* [[B17 (Family)]]
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Aircraft of similar configuration or role
+
+* [[Ar 196 A-5 (Sweden)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

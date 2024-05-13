@@ -113,6 +113,10 @@ The Mi-8AMTSh does lack HIRSS, RWR and IRCM Dazzler than its Mi-24 cousins so be
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=mi_8amtsh Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|jttH2id3KsY|'''The Shooting Range #382''' - ''Metal Beasts'' section at 00:25 discusses the {{PAGENAME}}.}}
 

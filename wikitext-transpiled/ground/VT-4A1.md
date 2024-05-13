@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' , previously known as MBT3000 during development, is one of the export MBT produced by NORINCO as their high-end MBT solution to customers, where the A1 upgrade was first shown in 2022 Zhuhai Airshow in NORINCO's exhibition hall. After the development of Sino-Pakistani [[MBT2000]] (Al-Khalid) in 2001, [[WZ1001(E) LCT|PLAGF's new 3rd Generation MBT]] were also in progress of development by early 2000s, thus plans for a completely domestic export MBT was suggested as Pakistan held half of the shares of any sales of MBT2000 as signed in a referendum. The original design of MBT3000 in 2009 planned for Ukrainian 6TD-2 engine pack, but threats from Ukroboronprom for not providing power packs to intervein the sales of NORINCO MBTs over T-84 to Peru, thus NORINCO has to source the components completely from NORINCO subsidies; thanks to the commission of [[ZTZ99A]] by 2010 and new full-electric gun laying system developed in 2000s, the new MBT3000 utilized a new power pack based on ZTZ99A; its prototype was completed by 2012 and the scaled mock-up was first shown in Eurosatory 2012,  then the prototype was first shown during an armored vehicle show day for military attaché in Mainland China, then the Zhuhai Airshow of 2014 known as the VT-4. VT-4A1 introduced GL-6 hard-kill APS and a micro-drone for extra situational awareness, while VT-4 has been exported to Thailand, Pakistan (VT-4A; locally produced as Al-Haider) and Nigeria respectively, VT-4A1 has yet to earn its place in military sales.
+The '''{{Specs|name}}''' , previously known as MBT3000 during development, is one of the export MBTs produced by NORINCO as their high-end MBT solution to customers, where the A1 upgrade was first shown in 2022 Zhuhai Airshow in NORINCO's exhibition hall. After the development of Sino-Pakistani [[MBT2000]] (Al-Khalid) in 2001, [[WZ1001(E) LCT|PLAGF's new 3rd Generation MBT]] were also in progress of development by early 2000s, thus plans for a completely domestic export MBT was suggested as Pakistan held half of the shares of any sales of MBT2000 as signed in a referendum. The original design of MBT3000 in 2009 planned for Ukrainian 6TD-2 engine pack, but threats from Ukroboronprom to not provide the necessary power packs (due to them also offering the T-84s to Peru, in competition with NORINCO's offering), meant that NORINCO has to source the components completely from NORINCO subsidies; thanks to the commission of [[ZTZ99A]] by 2010 and new full-electric gun laying system developed in 2000s, the new MBT3000 utilized a new power pack based on ZTZ99A; its prototype was completed by 2012 and the scaled mock-up was first shown in Eurosatory 2012,  then the prototype was first shown during an armored vehicle show day for military attaché in Mainland China, then the Zhuhai Airshow of 2014 known as the VT-4. VT-4A1 introduced GL-6 hard-kill APS and a micro-drone for extra situational awareness, while VT-4 has been exported to Thailand, Pakistan (VT-4A; locally produced as Al-Haider) and Nigeria respectively, the VT-4A1 has yet to secure export orders.
 
 Introduced in [[Update "Air Superiority"]] as the end-of-line MBT, VT-4A1 marked the apex of current capabilities of Chinese tank designs as the most advanced export MBT from NORINCO. For players who seek for a more low-profile alternative to WZ1001 series while maintaining their excellent protection and mobility, VT-4A1 can be said as "tailor-fit" design for them; all the ammunition options are identical to PLAGF MBTs, with the help of hard-kill APS, VT-4A1 can prove to be a very lethal opponents to take care of.
 
@@ -62,6 +62,7 @@ As for the crew, the layout resembles ZTZ99 series with a centerline driver seat
 |}
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+
 * Rubber side skirts are at 8 mm
 * Suspension wheels, tracks, and torsion bars are 20 mm thick.
 * Turret side slat armor is at 10 mm
@@ -94,7 +95,7 @@ Most export MBTs in NORINCO catalogue opt for the better ZPT98 cannon which has 
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 38 || rowspan="2" | -5°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 36.2 || 50.1 || 60.8 || 67.2 || 71.5 || rowspan="2" | 7.1
+| rowspan="2" | 38 || rowspan="2" | -5°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 36.2 || 50.1 || 60.8 || 67.2 || 71.5 || rowspan="2" | 7.10
 |-
 ! ''Realistic''
 | 22.6 || 26.6 || 32.3 || 35.7 || 38.0
@@ -206,7 +207,9 @@ The A1 variant was first shown during the 2022 Zhuhai Airshow in NORINCO hall as
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=cn_vt_4b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -171,6 +171,9 @@ The concept of the Strikemaster light attack jet came to fruition after the succ
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=strikemaster_mk88 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|V5mtjVXLry0|'''The Shooting Range #384''' - ''Metal Beasts'' section at 00:27 discusses the {{PAGENAME}}.|vhWvNPi9LuQ|'''Battle Pass: Tropical Storm''' discusses the {{PAGENAME}} at 2:16 - ''War Thunder Official Channel''|avl9dE1525Y|'''The Shooting Range #379''' - ''Pages of History'' section at 03:46 discusses the {{PAGENAME}}.}}
 

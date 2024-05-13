@@ -10,37 +10,38 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American medium tank {{Battle-rating}}. It was introduced during [[Update 1.89 "Imperial Navy"]] as a grand prize for the [[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|2019 YouTube Cup]].
+The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American medium tank {{Battle-rating}}. It was introduced during [[Update 1.89 "Imperial Navy"]] as a grand prize for the [[wt:en/news/6286-esport-war-thunder-youtube-cup-results-en|2019 YouTube Cup]]. It was given to Rotorhead7. It is essentially the same as the M1A1 but has a different skin and name.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The armour is made of composite armour which is mainly good for chemical rounds and will not do much to kinetic rounds.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+'''Armour type:'''  <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
 {| class="wikitable"
 |-
-! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
+! Armour !!Front!! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull ||133mm||60mm||32mm||38.1mm-31.75mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret ||138mm ||120mm||13mm||38.1mm-25.4mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola ||25mm||25mm||25mm||25mm
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+'''Notes:'''
+
+The front sides have 65mm composite panels and the back has 6.25mm rolled homogeneous armor and the suspension wheels and tracks are 20mm <!-- The front sides have 65mm composite panels and the back has 6.25mm rolled homogeneous armor -->
+<!-- The suspension wheels and tracks are 20mm -->
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
 {{tankMobility}}
 
@@ -102,22 +103,22 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American medium tank {{Ba
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[M2HB (12.7 mm)|12.7 mm M2HB]]
+! colspan="3" |[[M2HB (12.7 mm)|12.7 mm M2HB]]
 |-
-! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
+! Capacity (Belt) !! Fire rate !! Vertical 
 |-
-| || ___ (___) || ___ || __° || __°
+|1000(200)||575 shots/min||-9°/65°
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[M240 (7.62 mm)|7.62 mm M240]]
+! colspan="4" | [[M240 (7.62 mm)|7.62 mm M240]]
 |-
-! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
+! Mount !! Capacity (Belt) !! Fire rate !! Vertical 
 |-
-| || ___ (___) || ___ || __° || __°
+|Coaxial||10000(200)||941||n/a
 |-
-| || ___ (___) || ___ || __° || __°
+|Pintle(Loader)||1400(200)||941||-9°/65°
 |-
 |}
 
@@ -125,14 +126,28 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American medium tank {{Ba
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
+The main way to play this tank is to use its mobility to flank the enemy and snipe them from a distance using its powerful APFSDS round. It was not intended to be a brawler but you could use it as one if needed.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
+-The turret is able to stop chemical rounds 
+
+-Amazing APFSDS rounds
+
+-Good Mobility
+
 *
 
 '''Cons:'''
+
+-Not very effective against kinetic rounds
+
+-You can't shoot gun when the turret is turned around
+
 *
 
 == History ==
@@ -148,6 +163,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American medium tank {{Ba
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -156,6 +172,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American medium tank {{Ba
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

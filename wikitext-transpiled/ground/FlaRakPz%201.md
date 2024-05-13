@@ -5,7 +5,10 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German self-propelled anti-aircraft vehicle {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+
+Starting development in 1963 and fielded from 1977 onwards, the Roland Surface-to-Air Missile (SAM) was a cornerstone of NATO air defense for multiple decades. The Roland SAM was developed as a Franco-German collaboration project, originally intended to defend airfields and frontline formations from enemy fixed and rotary wing aviation. The FlaRakPz 1 was one of the hulls modified to carry this new SAM, with the base hull being taken from the [[Marder IFV (Family) | Marder]] IFV. The Roland turret comes equipped with both a search and track radar, as well as an optical tracking system for use in good atmospheric conditions or in heavy jamming environments. It could fire the Roland 2 and Roland 3 SAMs, with the Roland 3 being an upgraded variant of the Roland 2 in terms of missile speed, warhead size and better guidance systems for all weather conditions. The FlaRakPz units were all retired in 2005, with its successor system (planned to be the LFK NG, a variant of the IRIS-T AAM) being cancelled in 2011 and its SHORAD (SHOrt Range Air Defense) role was transferred to the German Air Force instead.
+
+Introduced in [[Update 1.89 "Imperial Navy"]], the FlaRakPz 1 is Germany's preferred vehicle of choice for use against enemy rotary aviation; the missiles don't require a lock to fire like the [[Ozelot]] and [[Gepard 1A2]]'s [[FIM-92 Stinger|Stinger]] MANPADS surface-to-air missiles, and as the vehicle is equipped with an Infra-Red Search and Track radar (IRST), it can discreetly scan and lock enemy aircraft without alerting their RWRs. However, as the missiles have noticeable input delay when pulling in, they often struggle against fixed wing aviation, with even fairly low agility aircraft able to do a corkscrew style manoeuvre only for the Roland SAM to be unable to compensate and miss entirely. The missiles also have minimal penetrative capabilities against armour, unlike the dual-purpose MIM146 of the [[ADATS]], and if your missile is still airborne you are forced to wait out the flight duration or wait for the missile to detonate to start reloading. Overall, while the FlaRakPz 1 certainly has a niche, it's sadly held back by the very niche filling role it has due to a lack of flexibility against enemy targets.
 
 == General info ==
 === Survivability and armour ===
@@ -51,14 +54,14 @@ The FlaRakPz 1 is powered by a {{Annotation|MTU|Motoren- und Turbinen-Union Frie
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[Roland|Roland SAM]] (x2) || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[Roland|Roland SAM]] (x2) || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 10 (2) || rowspan="2" | -10°/+80° || rowspan="2" | ±180° || rowspan="2" | N/A || 74.9 || 103.6 || 125.8 || 139.1 || 148.0 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00
+| rowspan="2" | 10 (2) || rowspan="2" | -10°/+80° || rowspan="2" | ±180° || rowspan="2" | N/A || 74.9 || 103.6 || 125.8 || 139.1 || 148.0 || rowspan="2" | 5.00 
 |-
 ! ''Realistic''
 | 50.6 || 59.5 || 72.3 || 79.9 || 85.0

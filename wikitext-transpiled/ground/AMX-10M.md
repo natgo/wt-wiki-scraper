@@ -12,15 +12,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''AMX-10M''', a unique French tank destroyer,  was developed from the [[AMX-10P]] infantry fighting vehicle. The AMX-10M was part of the {{Annotation|ACRA|Anti-Char Rapide Autopropulsé; Self-Propelled Rapid Anti-Tank}} project that started in the 1960s, which aimed to create a vehicle capable of firing supersonic {{Annotation|ATGMs|anti-tank guided missiles}} from a 142 mm smoothbore gun. The AMX-10M retained the same engine, chassis, and 20 mm autocannon as the AMX-10P, but had a modified chassis that housed the ACRA launcher and its missiles. The ACRA missiles had a range of about 4 km and could penetrate up to 700 mm of armour. Ultimately, due to the large associated expenses especially with the ATGMs, funding for the program was terminated at the last stage of testing. Additionally, advances in fire control systems for contemporary armour-piercing projectiles and the ACRA missiles' lack of ability to be deployed on helicopters, as well as the increasing relevance of the HOT ATGM system also contributed to the projects' cancellation.
+The '''AMX-10M''', a unique French tank destroyer, was developed from the [[AMX-10P]] infantry fighting vehicle. The AMX-10M was part of the {{Annotation|ACRA|Anti-Char Rapide Autopropulsé; Self-Propelled Rapid Anti-Tank}} project that started in the 1960s, which aimed to create a vehicle capable of firing supersonic {{Annotation|ATGMs|anti-tank guided missiles}} from a 142 mm smoothbore gun. The AMX-10M retained the same engine, chassis, and 20 mm autocannon as the AMX-10P, but had a modified chassis that housed the ACRA launcher and its missiles. The ACRA missiles had a range of about 4 km and could penetrate up to 700 mm of armour. Ultimately, due to the large associated expenses especially with the ATGMs, funding for the program was terminated at the last stage of testing. Additionally, advances in fire control systems for contemporary armour-piercing projectiles and the ACRA missiles' lack of ability to be deployed on helicopters, as well as the increasing relevance of the HOT ATGM system also contributed to the projects' cancellation.
 
-Introduced in  [[Update "Sons of Attila"]], the AMX-10M is a rather special tank that can fire barrel-launched ATGMs, a feature not commonly found in Western tanks or tank destroyers. The ACRA missile’s fast flight speed makes it difficult for the enemy to avoid getting hit. However, the missile requires continuous guidance and cannot hide behind cover due to its launcher and optic location, which means that the AMX-10M must be constantly exposed, increasing the risk of return fire. Despite these setbacks, the AMX-10M is still a formidable tank at range, able to easily penetrate the upper front plates of any heavy it can encounter at its battle rating, including the [[T95]], [[Maus]], [[IS-7]], and even the [[Object 279]]. It can also serve as an excellent last-ditch self-propelled anti-aircraft (SPAA) thanks to the AMX-10M possessing the same 20 mm gun as its brethren, the [[AMX-10P]].
+Introduced in [[Update "Sons of Attila"]], the AMX-10M is a rather special tank that can fire barrel-launched ATGMs, a feature not commonly found in Western tanks or tank destroyers. The ACRA missile’s fast flight speed makes it difficult for the enemy to avoid getting hit. However, the missile requires continuous guidance and cannot hide behind cover due to its launcher and optic location, which means that the AMX-10M must be constantly exposed, increasing the risk of return fire. Despite these setbacks, the AMX-10M is still a formidable tank at range, able to easily penetrate the upper front plates of any heavy it can encounter at its battle rating, including the [[T95]], [[Maus]], [[IS-7]], and even the [[Object 279]]. It can also serve as an excellent last-ditch self-propelled anti-aircraft (SPAA) thanks to the AMX-10M possessing the same 20 mm gun as its brethren, the [[AMX-10P]].
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour of the AMX-10M is thick enough to protect from small calibre machine guns from all angles. The extra structural steel plates help add 4 mm of protection, allowing the AMX-10M's armour during hull-down positions to protect against 20 mm AP rounds from medium ranges and most .50 calibre rounds beginning at around 400 meters. However even when hull-down the armor won't protect the gun breach from HMGs and Auto-cannons. Overall, the armour is similar to other ATGM carriers in that it shouldn't be relied upon.
+The armour of the AMX-10M is thick enough to protect from small calibre machine guns from all angles. The extra structural steel plates help add 4 mm of protection, allowing the AMX-10M's armour during hull-down positions to protect against 20 mm AP rounds from medium ranges and most .50 calibre rounds beginning at around 400 m. However even when hull-down the armour won't protect the gun breech from HMGs and Auto-cannons. Overall, the armour is similar to other ATGM carriers in that it shouldn't be relied upon.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -30,17 +30,16 @@ The armour of the AMX-10M is thick enough to protect from small calibre machine 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Casemate || 4 + 25 mm (47°) ''Front glacis'' <br> 25 mm (21°) ''Lower glacis'' <br> || 20mm ''Top'' <br> 15mm ''Bottom'' || 20 mm (18°) || 15mm
+| Casemate || 4 + 25 mm (47°) ''Front glacis'' <br> 25 mm (21°) ''Lower glacis'' <br> || 20 mm ''Top'' <br> 15 mm ''Bottom'' || 20 mm (18°) || 15 mm
 |-
 | Cupola || 20 mm || 20 mm || 20 mm || 15 mm
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: *Construction steel adds anohte -->
+'''Notes:'''
 
 * Tracks and suspension provides about 15 mm of protection.
-* Belly armor is 10 mm thick.
+* Belly armour is 10 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

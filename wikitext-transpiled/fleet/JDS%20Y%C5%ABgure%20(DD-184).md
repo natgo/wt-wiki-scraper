@@ -84,13 +84,16 @@ In 1959, USS Richard P. Leary as well as another Fletcher destroyer were loaned 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_destroyer_yugure Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-<!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!--''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.'' -->
+* ''links to approximate analogues of other nations and research trees.''-->
 
 ;Related development
+* [[Fletcher (Family)]]
 
-* [[Fletcher (Family)]] 
+;Other vehicles of similar configuration and role
+* [[USS Aylwin]]
+* [[Harukaze|JDS Harukaze]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

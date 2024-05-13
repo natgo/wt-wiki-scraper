@@ -19,7 +19,7 @@ Introduced in [[Update 1.55 "Royal Armour"]], the Pz.Kpfw. Churchill is a German
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-There are very few enemies which can successfully penetrate the Churchill, the [[M10 GMC|M10]] and the [[Achilles]] can quickly take care of this vehicle even at long ranges! Other tanks like the [[Jagdpanzer IV]], the [[Jagdpanzer 38(t)]], and the [[Dicker Max]] can also make quick work of the Churchill, but only in arcade battles, as in realistic battles, they all belong in the same tree.
+There are very few enemies which can successfully penetrate the Churchill, although the [[M10 GMC|M10]] and the [[Achilles]] can quickly take care of this vehicle even at long ranges. Other tanks like the [[Jagdpanzer IV]], the [[Jagdpanzer 38(t)]], and the [[Dicker Max]] can also make quick work of the Churchill, but only in arcade battles, as in realistic battles, they all belong in the same tree.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -46,10 +46,10 @@ There are very few enemies which can successfully penetrate the Churchill, the [
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 85 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | Vertical || 19.42 || 26.88 || 32.64 || 36.10 || 38.40 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
+| rowspan="2" | 85 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | {{Annotation|Shoulder|up to 10 km/h}} || 19.4 || 26.9 || 32.6 || 36.1 || 38.4 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
 |-
 ! ''Realistic''
-| 14.28 || 16.80 || 20.40 || 22.56 || 24.00
+| 14.3 || 16.8 || 20.4 || 22.6 || 24.0
 |-
 |}
 
@@ -129,6 +129,8 @@ If you are not in an up-tiered situation, you can effectively enter a battle and
 * Good penetration
 * Slow speed makes it easy to hit enemies after a shortstop
 * 30 individually fired smoke grenades, great for covering points and areas with smoke
+* Good gun depression
+* Has access to a low-speed stabilizer for firing on the move, pairs well with the vehicle's slow speed
 
 '''Cons:'''
 
@@ -152,15 +154,18 @@ These tanks were later evaluated by the Germans. Though none were damaged by dir
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_infanterie_kampfpanzer_churchill Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -185,6 +185,7 @@ The F-86K is equipped with an [[AN/APS-21]] search radar, located in the nose of
 * Can easily rip wings with strong input
 * Afterburner guzzles a lot of fuel
 * Missile lock can be broken with a high-G manoeuvre
+* Missiles can be unreliable if the enemy knows how to counter them  
 * No bombs or rockets
 
 == History ==
@@ -203,6 +204,7 @@ Initially, the F-86K was produced exclusively in the U.S., but would later also 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f-86k_late_german Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

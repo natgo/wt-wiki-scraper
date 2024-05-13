@@ -220,9 +220,9 @@ The Vautour IIN was a two-seat, all-weather interceptor variant of [[S.O.4050 Va
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-; '''Skins'''
 
-* [https://live.warthunder.com/feed/camouflages/?vehicle=so_4050_vautour_2n_israel_iaf Skins and camouflages for the Vautour IIN (Israel) from live.warthunder.com.]
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=so_4050_vautour_2n_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

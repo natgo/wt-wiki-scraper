@@ -84,6 +84,7 @@ The autocannon counts as the main weapon and 100 mm is fired with the "additiona
 |}
 
 ==== Ammunition ====
+
 * '''30 mm HE:''' {{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-I*|High-explosive fragmentation incendiary (self-destroying)}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 * '''30 mm APT:''' {{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|AP-T|Armour-piercing tracer}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
 * '''30 mm APDS:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEF-T*|High-explosive fragmentation tracer (self-destroying)}}
@@ -119,7 +120,7 @@ While the gun is stabilized, it is not a very good idea to rush uphill at full s
 
 Gun itself can bring two different ammunition types into battle, although the choice are limited to chemical energy shells. The ammunition choices are: Slow HE (3OF70) , super slow HE (3OF32) and Tandem HEAT ATGM (9M117M1). It is only possible to take 4 ATGMs. Overall, it is similar to the BMP-3.
 
-HE shells are mostly designed to be fired in a mortar fashion and for comfortable use it is necessary to install laser rangefinder or to play in AB mode. Unlike with the BMP-3, it is also necessary to swap primary weapon to "secondary weapon" to be able to aim HE precisely. The projectiles fall very slowly, but they are also very small and will often squeeze in-between ERA bricks and hit the enemy tank roof, causing overpressure damage and destroying the target. Overall, they can be used to harass other tanks out of cover (including ATGM carriers) or fired along with the autocannon to blow up light tanks in general melee range (although it is very awkward and slower than with the BMP-3).
+HE shells are mostly designed to be fired in a mortar fashion and for comfortable use it is necessary to install laser rangefinder or to play in AB mode. Just like the BMP-3, it is also need to swap primary weapon to "secondary weapon" to be able to aim HE precisely. The projectiles fall very slowly, but they are also very small and will often squeeze in-between ERA bricks and hit the enemy tank roof, causing overpressure damage and destroying the target. Overall, they can be used to harass other tanks out of cover (including ATGM carriers) or fired along with the autocannon to blow up light tanks in general melee range (although it is very awkward and slower than with the BMP-3).
 
 The missiles are launched at near maximum speed from the get go, which makes them ones of the deadliest at the rank (as many missiles at the BR start at around 250 m/s at best), but also make them mostly unsuitable for trick shots of any kind and require direct launch. Tandem missiles usually do not even require user to aim any more than in the enemy tanks direction. Missiles also have huge area of the blast wave, but BMD-4 cannot just destroy all of the surrounding cover as it itself is fragile and needs it to survive, so some restraint should be kept, at least until you are sure that it's possible to get away with such behaviour.
 
@@ -128,17 +129,18 @@ Ammunition rearm for 100 mm on a capture point takes about 6 seconds, which mean
 Weapons are not rearmed outside of the capture point in AB, even if it only uses ATGMs, so the tank cannot be used as a standoff sniper in AB for long, but is rather to be sacrificed in a deep flank.
 
 In terms of what types of ammunition to bring in, two types of combination can be made between the standard HE shells and the ATGM, as {{PAGENAME}} can only bring two selected ammo into battle:
+
 * ATGM + HE = the player can default to ATGM to react to armoured threats in a pinch, but switch over to HE shells to bombard the enemy from a distance if they are behind cover or in other similar situations. The HE shells can also be used to fight light tanks at close range, even if the BMD-4 runs out of ATGM. Slower HE can fire vertically at ranges as close as 400 m, but may fail to penetrate medium tanks and it is easier to see for moving targets, so the faster 3OF70 HE shell might be a better choice sometimes.
 * HE + HE = Not recommended, as neither of the 100 mm HE shells could deal with most medium tanks directly. Enemies in general will show no mercy to a BMD-4 since they will always assume the BMD-4 is carrying a ATGM, so its best to respond to this threat with an ATGM rather than HE shells.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="4" | [[2A70 (100 mm)|100 mm 2A70]] || colspan="4" | Reloading rate (seconds)
+! colspan="4" | [[2A70 (100 mm)|100 mm 2A70]] || Reloading rate (seconds)
 |-
 ! Capacity !! Vertical !! Horizontal !! Stabilizer
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
-| 38 || -6°/+60° || ±180° || Two-plane || 5.00 || 5.00 || 5.00 || 5.00
+| 38 || -6°/+60° || ±180° || Two-plane || 5.00 
 |-
 |}
 
@@ -233,6 +235,7 @@ Much attention was paid to the complex of anti-tank armament - a 100 mm cannon-l
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_bmd_4 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

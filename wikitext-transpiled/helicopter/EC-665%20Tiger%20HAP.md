@@ -1,9 +1,7 @@
 {{About
 | about = premium French attack helicopter '''{{PAGENAME}}'''
-| and
 | usage = other versions
-| link-1 = EC-665 Tiger HAD
-| link-2 = EC-665 Tiger UHT
+| link = Tiger Eurocopter (Family)
 }}
 {{Specs-Card
 |code=tiger_hap_france

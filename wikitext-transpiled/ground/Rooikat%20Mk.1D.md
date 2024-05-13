@@ -159,13 +159,14 @@ It is important to not bully ATGM tanks unless the kill is guaranteed, because t
 
 '''Pros:'''
 
-* One of the fastest ground vehicles in-game (120 km/h in RB), even with stock modules it can often drive off-road as fast as an upgraded [[BMP-2]]
+* Fast ground vehicle (120 km/h in RB), even with stock modules it can often drive off-road as fast as an upgraded [[BMP-2]]
 * Access to APFSDS rounds
 * Sides and front can stop .50 cals at slight angle or at 100+ metres
 * Laser Rangefinder helps with aiming at any range
 * Very good reverse speed at -43 km/h
 * Has good zoom variety for a light tank, having X8-12 zoom compared to usual X7-8 of light tanks at the rank
 * Incredible stock grind experience thanks to stock APFSDS and good gun handling & excellent speed on the appropriate terrain
+* Access to a drone (rank 6)
 
 '''Cons:'''
 

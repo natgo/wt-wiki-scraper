@@ -63,14 +63,14 @@ Like later T-72s, the T-72M2 has its engine upgraded to a Polish PZL Wola S12U d
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A46MS (125 mm)|125 mm 2A46MS]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[2A46MS (125 mm)|125 mm 2A46MS]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 44 || rowspan="2" | -6°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10 || rowspan="2" | 7.10
+| rowspan="2" | 44 || rowspan="2" | -6°/+13° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 19.0 || 26.4 || 32.0 || 35.4 || 37.6 || rowspan="2" | 7.10 
 |-
 ! ''Realistic''
 | 11.9 || 14.0 || 17.0 || 18.8 || 20.0
@@ -164,11 +164,11 @@ A very distinctive feature of the T-72M2 is the 2A42 30 mm autocannon mounted on
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The T-72M2 Moderna excels in mid- to long-range engagements with its powerful and accurate 125mm cannon. The recommended tactic is similar to most other Russian MBTs at this BR: find targets at range using the thermal sights, then use the laser rangefinder and highly capable APFSDS shells to knock out the target from as far away from your vehicle as possible. This is due to some inherent vehicle weaknesses, some of which will appear below, such as the slow turret traverse and poor reverse gear. At range, the T-72M2 suffers far less from these design drawbacks and with its 2nd generation thermal sights for both the gunner and commander, you can scour the battlefield quickly for enemy vehicles. NATO MBTs such as the [[Leopard 2A4]] and [[M1 Abrams]] this tier only have a 1st generation thermal sight for the gunner and lack thermals on the commander sight (or lack a commander sight entirely!), and as such have to rely on a much narrower FOV than your commander sight and with a lower resolution. However, do keep in mind that if your commander is knocked out, you will be unable to exploit this advantage.8
+The T-72M2 Moderna excels in mid- to long-range engagements with its powerful and accurate 125mm cannon. The recommended tactic is similar to most other Russian MBTs at this BR: find targets at range using the thermal sights, then use the laser rangefinder and highly capable APFSDS shells to knock out the target from as far away from your vehicle as possible. This is due to some inherent vehicle weaknesses, some of which will appear below, such as the slow turret traverse and poor reverse gear. At range, the T-72M2 suffers far less from these design drawbacks and with its 2nd generation thermal sights for both the gunner and commander, you can scour the battlefield quickly for enemy vehicles. NATO MBTs such as the [[Leopard 2A4]] and [[M1 Abrams]] this tier only have a 1st generation thermal sight for the gunner and lack thermals on the commander sight (or lack a commander sight entirely!), and as such have to rely on a much narrower FOV than your commander sight and with a lower resolution. However, do keep in mind that if your commander is knocked out, you will be unable to exploit this advantage.
 
 When forced into close-range combat, this vehicle is very mediocre compared to NATO vehicles with its painful reverse speed, lack of neutral steering, and subpar turret traverse. However, the liberal application of ERA, slat armour, and the underlying composite armour can sometimes save you from smaller-calibre or poorly-aimed shells. IFVs in particular, even ones with high-penetrating APFSDS like the [[M3A3 Bradley]] and [[Strf 9040C]], will be almost helpless against the frontal protection of a Moderna, while your 30mm autocannon can shred through them with little worry. 
 
-Against enemy air units, your survivability is for the most part decent. You have a Laser Warning System (LWS), and this alerts you of both enemy tanks using their laser rangefinders near you as well as enemy laser guided munitions. Considering the fact that a sizable portion of enemy guided air to ground ordinance such as the [[AGM-114B Hellfire]] and [[AGM-114K Hellfire II]] are laser guided, you can use your LWS as an early warning for inbound ordinance, allowing you to deploy a smokescreen, turn around (as this is faster than reversing), and reposition to a safer spot. You can differentiate an airborne lock from a ground lock by the length of the warning - ground vehicles only need to rangefind once or twice, while air launched ATGMs from strike drones, helicopter and the odd aircraft continuously trigger the LWS. 
+Against enemy air units, your survivability is for the most part decent. You have a Laser Warning System (LWS), and this alerts you of both enemy tanks using their laser rangefinders near you as well as enemy laser guided munitions. Considering the fact that a sizable portion of enemy guided air to ground ordnance such as the [[AGM-114B Hellfire]] and [[AGM-114K Hellfire II]] are laser guided, you can use your LWS as an early warning for inbound ordnance, allowing you to deploy a smokescreen, turn around (as this is faster than reversing), and reposition to a safer spot. You can differentiate an airborne lock from a ground lock by the length of the warning - ground vehicles only need to rangefind once or twice, while air launched ATGMs from strike drones, helicopter and the odd aircraft continuously trigger the LWS. 
 
 This vehicle will feel very reminiscent of the [[T-72AV (TURMS-T)]] with almost identical gun and armour performance. The Moderna has around 1 more HP/t, but overall both vehicles traverse the map similarly and can go through similar spots.
 
@@ -229,6 +229,7 @@ T-72M2 Moderna_WTWallpaper006.jpg
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[T-72 (Family)]]
 
 == External links ==

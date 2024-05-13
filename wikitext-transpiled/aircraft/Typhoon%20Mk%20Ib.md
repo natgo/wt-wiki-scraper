@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game as a premium pack since the start of the Open Beta Test prior to Update 1.27 but was removed from the store after the [[wt:en/news/5232-shop-winter-sales-special-bundle-and-gift-certificates-en|2017 Winter Sale]]. It has since been made available for purchase with Golden Eagles {{ge}} for the [[wt:en/news/5438-raf-100-royal-air-force-centenary-en|2018 "Royal Air Force Centenary"]], [[wt:en/news/6759-special-d-day-en|2020 D-Day]], and [[wt:en/news/8171-special-royal-air-force-day-en|2023 "Royal Air Force Day"]] mini-events. It also has been made available again in the store episodically for the [[wt:en/news/5232-shop-winter-sales-special-bundle-and-gift-certificates-en|2018 Winter Sale]], the [[wt:en/news/6866-special-80-year-anniversary-of-battle-of-britain-en|2020 "80<sup>th</sup> Anniversary of the Battle of Britain"]] event and as part of the [[wt:en/news/6759/current|2020]] and [[wt:en/news/7205-shop-d-day-bundles-en|2021]] D-Day Sales.
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British fighter {{Battle-rating}}. It has been in the game as a premium pack since the start of the Open Beta Test prior to Update 1.27 but was removed from the store after the [[wt:en/news/5232-shop-winter-sales-special-bundle-and-gift-certificates-en|2017 Winter Sale]]. It has since been made available for purchase with Golden Eagles {{ge}} for the [[wt:en/news/5438-raf-100-royal-air-force-centenary-en|2018 "Royal Air Force Centenary"]], the [[wt:en/news/6759-special-d-day-en|2020 D-Day]], the [[wt:en/news/8171-special-royal-air-force-day-en|2023 "Royal Air Force Day"]], and the [[wt:en/news/8834-special-get-a-decal-for-the-anniversary-of-the-royal-air-force-en|2024 "Anniversary of the Royal Air Force"]] mini-events. It also has been made available again in the store episodically for the [[wt:en/news/5232-shop-winter-sales-special-bundle-and-gift-certificates-en|2018 Winter Sale]], the [[wt:en/news/6866-special-80-year-anniversary-of-battle-of-britain-en|2020 "80<sup>th</sup> Anniversary of the Battle of Britain"]] event and as part of the [[wt:en/news/6759/current|2020]] and [[wt:en/news/7205-shop-d-day-bundles-en|2021]] D-Day Sales.
 
 While the {{Specs|name}} is slightly inferior compared to the Mk Ib/late in regards to flight performance and engine power, the main difference from the Mk Ia is the vastly upgraded armament options, including 4 x 20 mm Hispano Mk II cannons and larger bombs and rockets.
 
@@ -98,6 +98,7 @@ While the {{Specs|name}} is slightly inferior compared to the Mk Ib/late in rega
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+
 * 42.8 mm Bulletproof glass in cockpit front.
 * 12.7 mm Steel plate behind the pilot.
 * 1 mm Steel plate in the fuselage.
@@ -156,6 +157,7 @@ As a fighter, it is mainly a BnZ aircraft with lethal armament, especially the s
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Good diving speed
 * Excellent armament
 * Above average armour
@@ -164,10 +166,12 @@ As a fighter, it is mainly a BnZ aircraft with lethal armament, especially the s
 * Good climb rate
 
 '''Cons:'''
+
 * Water overheats if too much WEP applied
 * Low roll rate
 * Big target for a fighter
 * Limited cockpit visibility
+* The takeoff acceleration is lower than most counterparts.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -200,15 +204,18 @@ Whilst the Typhoon had a disappointing high altitude performance, its low altitu
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=typhoon_mk1b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

@@ -157,6 +157,7 @@ The remaining order of He 112 B-0 was cancelled due to delays and the design bei
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=a7he1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -165,8 +166,14 @@ The remaining order of He 112 B-0 was cancelled due to delays and the design bei
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;[[He 112 (Family)|Related development]]
-* [[He 112 B-0]]
+;Related development
+
+* [[He 112 (Family)]]
+
+;Other German aircraft tested by Japan
+
+* [[Bf 109 E-7 (Japan)]]
+* [[Fw 190 A-5 (Japan)]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

@@ -236,9 +236,12 @@ File:M3Lee + Grant.jpg|<small>The [[M3 Lee]] (right) and the Grant in the North 
 {{Youtube-gallery|P-RnfEaO0ns|'''The Shooting Range #215''' - ''Pages of History'' section at 03:31 discusses the M3 Grant.|5XbdErI74vQ|'''Tank Chats #30 M3 Grant''' - ''The Tank Museum''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[M3 Medium (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -165,6 +165,9 @@ If extremely bored by passive gameplay, or pushed hard, the tank can even use ot
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Skins
+* [https://live.warthunder.com/feed/camouflages/?vehicle=uk_vickers_mk_11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
 ;Videos
 {{Youtube-gallery|9ZA722l1aG8|'''The Shooting Range #383''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 

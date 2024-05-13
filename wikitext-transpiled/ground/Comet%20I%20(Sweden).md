@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish medium tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]]. Armed with a 77 mm HV gun, essentially a 17-pounder with a lower muzzle velocity, it has one of the more powerful guns available for a medium tank of its rating.
 
-The Comet is an excellent medium tank. It has great mobility and acceleration, able to reach 38 km/h very quickly and stay there at full throttle, though suffers from pitiful reverse speed like with the Cromwell. Firepower is another benefit, especially after unlocking APDS, giving it the penetration needed to deal with any threat you might encounter. The drawback of the design is the sub-par armour that can be easily penetrated at BR 5.3. One should take advantage of the Comet's low profile and mobility to hide and manoeuvre from the enemy to catch them at an advantageous angle. Gun depression was a feature that the previous tank in the tech tree, the Sherman Firefly, was sorely lacking. This is much improved on the Comet allowing the vehicle to more easily shoot over hills while in hull-down position.
+The Comet is an excellent medium tank. It has great mobility and acceleration, able to reach 38 km/h very quickly and stay there at full throttle, though suffers from pitiful reverse speed like with the Cromwell. Firepower is another benefit, especially after unlocking APDS, giving it the penetration needed to deal with any threat you might encounter. The drawback of the design is the sub-par armour that can be easily penetrated at BR 5.3. One should take advantage of the Comet's low profile and mobility to hide and manoeuvre from the enemy to catch them at an advantageous angle. Gun depression was a feature that the previous tank in the British tech tree, the Sherman Firefly, was sorely lacking. This is much improved on the Comet allowing the vehicle to more easily shoot over hills while in hull-down position.
 
 This particular Comet is an example operated by the Finnish Defence Forces, imported in 1958 and used as training vehicles for the [[Charioteer Mk VII (Sweden)|Charioteers]] they were bought alongside of. It is identical in performance to the British [[Comet I]].
 
@@ -72,10 +72,10 @@ The turret is an unreliable area to target. Its armour is thicker and bouncy. A 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 61 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | N/A || 14.3 || 19.8 || 24.0 || 26.5 || 28.2 || rowspan="2" | 9.62 || rowspan="2" | 8.51 || rowspan="2" | 7.84 || rowspan="2" | 7.40
+| rowspan="2" | 61 || rowspan="2" | -12°/+20° || rowspan="2" | ±180° || rowspan="2" | - || 20.0 || 27.7 || 33.6 || 37.2 || 39.5 || rowspan="2" | 9.62 || rowspan="2" | 8.51 || rowspan="2" | 7.84 || rowspan="2" | 7.40
 |-
 ! ''Realistic''
-| 8.9 || 10.5 || 12.8 || 14.1 || 15.0
+| 12.5 || 14.7 || 17.8 || 19.7 || 21.0
 |-
 |}
 
@@ -182,7 +182,7 @@ Also be very aware of lightly armoured tank destroyers - these vehicles will be 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+Finland ordered 41 Comet Mk1 Model Bs and received them close to the end of WWII. They were in use by the Finnish Defence Forces until 1970, when they were transferred to storage. In 2007, four were auctioned. 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

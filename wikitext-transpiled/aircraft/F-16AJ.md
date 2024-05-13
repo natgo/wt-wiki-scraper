@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' represents the proposed introduction of an F-16 closely resembling a YF-16 into JASDF service, as suggested by General Dynamics. The JASDF had plans to select a winner from 13 candidates proposed by different aircraft companies as part of a program to replace its ageing fleet of F-104Js and to serve alongside their F-4EJ aircraft. Ultimately, the program came down to a choice between the F-14, F-15, and F-16 where the F-15 emerged as the victor, becoming the F-15J.
+The '''{{Specs|name}}''' represents the proposed introduction of a Japanese F-16A closely resembling a YF-16 into JASDF service, as proposed by General Dynamics in their corporation brochure and advertisement during exhibition in Japan by the 1980s. The JASDF had plans to select a winner from 13 candidates proposed by different aircraft companies as part of a program to replace its ageing fleet of F-104Js and to serve alongside their F-4EJ aircraft. Ultimately, the program came down to a choice between the F-14, F-15, and F-16 where the F-15 emerged as the victor, becoming the [[F-15J]]; while the concept of Japanese "F-16" eventually evolved into the Mitsubishi F-2 which became the first jet to be equipped with AESA radar by 2000.
 
-Introduced in [[Update "Sky Guardians"]], the F-16AJ is currently one of only two truly multirole F-16s in the game, alongside the ROCAF's [[F-16A MLU (China)|F-16A MLU]]. The F-16AJ also marks the introduction of the AGM-65 series into JASDF service, providing much-anticipated precision air-to-ground weaponry for Japanese pilots. With one of the latest airborne radars in the game and weapon systems mostly identical to other F-16 variants, the F-16AJ now presents a good option for players who require both air interception and ground attack capabilities. Its available payloads will not disappoint players.
+Introduced in [[Update "Sky Guardians"]], the F-16AJ is currently one of only two truly multirole F-16As in the game, alongside the ROCAF's [[F-16A MLU (China)|F-16A MLU]]. The F-16AJ also marks the introduction of the AGM-65 series into JASDF service, providing much-anticipated precision air-to-ground weaponry for Japanese pilots. With one of the latest airborne radars in the game and weapon systems mostly identical to other F-16 variants, the F-16AJ now presents a good option for players who require both air interception and ground attack capabilities. Its available payloads will not disappoint players.
 
 == General info ==
 === Flight performance ===
@@ -175,14 +175,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! 300 gal drop tanks
 | || || || || 1 || || || ||
 |-
-| colspan="10" | Maximum permissible weight imbalance: 2,000 kg
+! 370 gal drop tanks
+| || || || 1 || || 1 || || ||
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 300 gal drop tank
+* 2 x 370 gal drop tanks + 1 x 300 gal drop tank
 * 2 x AIM-9P Sidewinder missiles
 * 6 x AIM-9P Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles

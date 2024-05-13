@@ -131,11 +131,13 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|H.E. M.C. Mk.13 (1,000 lb)|RP-3}}
+{{main|G.P. Mk.IV (500 lb)|H.E. M.C. Mk.13 (1,000 lb)|RP-3}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
+* 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
+* 2 x 500 lb G.P. Mk.IV bombs + 8 x RP-3 rockets (1,000 lb total)
 * 2 x 1,000 lb H.E. M.C. Mk.13 bombs (2,000 lb total)
 * 8 x RP-3 rockets
 

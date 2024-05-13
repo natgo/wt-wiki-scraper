@@ -14,6 +14,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American light tank {{Bat
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
+
 * Aluminium alloy 5083 (Hull, turret)
 
 {| class="wikitable"
@@ -73,14 +74,14 @@ Now that tier 4 has been unlocked and priority modifications are purchased, all 
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[XM35 (105 mm)|105 mm XM35]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+! colspan="5" | [[XM35 (105 mm)|105 mm XM35]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
-! Stock !! Full !! Expert !! Aced
+!Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 30 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 40.0 || 55.3 || 67.2 || 74.3 || 79.1 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00 || rowspan="2" | 5.00
+| rowspan="2" | 30 || rowspan="2" | -10°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 40.0 || 55.3 || 67.2 || 74.3 || 79.1 || rowspan="2" | 5.00 
 |-
 ! ''Realistic''
 | 25.0 || 29.4 || 35.7 || 39.5 || 42.0
@@ -174,6 +175,7 @@ Play the XM8 like you play the M18, sneak around, lurk, and strike when they lea
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_xm_8 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

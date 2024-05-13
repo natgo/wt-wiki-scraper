@@ -151,7 +151,7 @@ During the Vietnam War, the UH-1 earned several other nicknames other than "Huey
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uh_1b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 01:01 discusses the UH-1 Huey.}}
+{{Youtube-gallery|_xUPs-rPK3g|'''UH-1 Huey Ultimate Guide''' - ''Bob Dickinson''|6QZAY1EtkFU|'''The Shooting Range #110''' - ''Pages of History'' section at 01:01 discusses the UH-1 Huey.}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
