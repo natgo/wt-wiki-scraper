@@ -1,8 +1,8 @@
 {
   "folders": [
     {
-      "path": "."
-    }
+      "path": ".",
+    },
   ],
   "settings": {
     "editor.tabSize": 2,
@@ -14,20 +14,18 @@
     "terminal.integrated.shellIntegration.enabled": true,
     "typescript.updateImportsOnFileMove.enabled": "always",
     "files.associations": {
-      "*.blkx": "json"
+      "*.blkx": "json",
     },
 
     "[typescript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
-      "editor.formatOnSave": true
+      "editor.formatOnSave": true,
     },
     "[json]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode",
-      "editor.formatOnSave": true
+      "editor.formatOnSave": true,
     },
-    "conventionalCommits.scopes": [
-      "deps"
-    ],
-    "eslint.experimental.useFlatConfig": true
-  }
+    "conventionalCommits.scopes": ["deps"],
+    "eslint.experimental.useFlatConfig": true,
+  },
 }
