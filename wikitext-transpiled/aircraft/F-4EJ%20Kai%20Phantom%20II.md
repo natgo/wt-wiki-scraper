@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (known as F-4EJ改) was one of the cornerstone of the JASDF based on previous F-4EJs manufactured in Japan; as the airframe and avionics started to become obsolete by early 1980s, MHI and JASDF planned for the upgrades for the fleet of Phantoms with new controls, navigation systems and pulse-doppler radar. After the budget was passed, 90 of these jets were then converted into F-4EJ Kai standards and served JASDF for the next 3 decades until their ultimate decommission in 2021 from ADTW of JASDF.
+The '''F-4EJ Kai (F-4EJ改)''' was a crucial upgrade for the {{Annotation|JASDF|Japan Air Self-Defense Force}} to extend the operational life and enhance the combat capabilities of its domestically produced [[F-4EJ|F-4EJ Phantom IIs]], which were becoming outdated by the early 1980s. Initiated under the Aircraft Structural Integrity Program (ASIP), the modernisation effort began in 1980, with development taking place between 1981 and 1982, leading to its first flight in 1984. This upgrade introduced advanced radar and {{Annotation|FCS|Fire Control System}}, improved navigation and communication capabilities, and integrated modern missiles and bombing systems. A total of 90 F-4EJ Phantoms were converted to the F-4EJ Kai standard, enabling them to serve for an additional three decades until their decommissioning in 2021, with the last unit retiring under the [[F-4EJ ADTW|Air Development and Test Wing (ADTW)]].
 
-Introduced in [[Update "Direct Hit"]] as one of the earliest jets to receive PD radar in future updates, F-4EJ Kai introduced enhanced avionics for the already obsolete airframe of F-4EJ while retaining its combat capabilities against future jets or bombarding enemy ground target with high bomb payload. But be sure plan ahead for any assaults and avoid dogfights with other jets since hit-and-run greatly enhance the survivability of the jet.
+The '''F-4EJ Kai''' was introduced in [[Update "Direct Hit"]]. While it retains the classic [[F-4 Phantom II (Family)|F-4 "Phantom II"]] fuselage, it has been upgraded with 1990s technology to keep it relevant in modern combat. Notably, it shares the same PD radar, RWR, and weapon suite as the [[F-16 (Family)|F-16A "Fighting Falcon"]], making it a formidable opponent. To maximise its effectiveness, pilots should focus on using the AIM-7Fs for long-range engagements and head-on attacks while relying on the AIM-9Ls for quick kills in dogfights. However, it's crucial not to linger in close-quarters combat for too long, as more manoeuvrable jets can quickly gain the upper hand. Fire the missiles, secure the kill, and reposition before another opponent can sweep in. A more risky strategy involves intentionally slowing down the heavier F-4E airframe by making tight turns and using airbrakes, which can cause pursuing aircraft to overshoot. By flaring off incoming IR missiles and forcing the enemy into an overshoot, the F-4EJ Kai can get on the opponent's six, allowing it to finish them off with either an AIM-9 or a precisely calculated gun burst using its ballistic computer. This tactic, while dangerous, can turn the tables on unsuspecting adversaries who underestimate the F-4 by overestimating their own speed and missile capabilities.
 
 == General info ==
 === Flight performance ===
@@ -135,9 +135,9 @@ Introduced in [[Update "Direct Hit"]] as one of the earliest jets to receive PD 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm JM61A1 cannon, belly-mounted (640 rpg)
-** 1 x 20 mm JM61A1 cannon + 90 x countermeasures
+* 1 x 20 mm JM61A1 cannon, belly-mounted (640 rpg)
+* 30 x large calibre countermeasures
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -193,7 +193,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 1 x 600 gal drop tank
-* 2 x AIM-9P Sidewinder missiles
+* 2 x AIM-9P Sidewinder missiles + 2 x AIM-7F Sparrow missiles
 * 4 x AIM-9P Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles
 * 4 x AIM-7E Sparrow missiles
@@ -209,37 +209,34 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The F-4EJ Kai is the ultimate Japanese package of the [[F-4 Phantom II (Family)|F-4 "Phantom II"]] serving as the most advanced Phantom II to serve in-game.
+The F-4EJ Kai is the ultimate Japanese package of the [[F-4 Phantom II (Family)|F-4 "Phantom II"]]. Equipped with the same pulse-Doppler radar as on the [[F-16 (Family)|F-16 "Fighting Falcon"]], the EJ Kai possesses the ability to use a fantastic radar for its airframe, battle rating, and missile arsenal to employ it in the best possible way, allowing it to quickly lock targets for AIM-9Ls and AIM-7Fs which can guarantee aerial kills above ~20 m ground clearance.
 
-Equipped with the same Pulse-Doppler radar as on the [[F-16 (Family)|F-16 "Fighting Falcon"]], the EJ Kai possess the ability to use a fantastic radar for its air-frame, battle rating and missile arsenal to employ it in the best possible way, allowing it to quickly lock targets for the AIM-9L's and AIM-7F's which can guarantee aerial kills above ~20 m ground clearance. 
+While the radar and cockpit avionics get a whole upgrade package (which greatly enhances its simulator capabilities due to its cockpit HUD), the airframe is still a Phantom II after all, lacking any real manoeuvrability without access to the "Agile Eagle" modification found on the American [[F-4E Phantom II]]. The F-4EJ Kai is, ultimately, a missile bus which hits hard.
 
-While the radar and cockpit avionics get a whole upgrade package (which greatly enhance its simulator capabilities due to its cockpit HUD), the air-frame is still a Phantom II after-all, lacking any real manouverability without access to the "Agile Eagle" modification found on the American [[F-4E Phantom II]], the F-4EJ Kai is utmost a missile bus which hits hard.
-
-As all [[F-4 Phantom II (Family)|Phantom IIs]], the EJ Kai is a multi-role fighter with the capability to carry plenty of rockets, gun pods and bombs, but due to it serving under the Japanese JASDF and its defensive doctrine, it lacks GBUs, AGMs and Napalm bombs found on other (late) model Phantoms. While it certainly is a possibility to go multi-role, due to its large amount of carry capacity, it will turn its missile bus experience into a freight train towards bases or ground targets which is only really advised for quick carpet passes in ground battles or when trying to unlock later modules in air battles with priority towards guided AAMs, as the enemies facing the F-4EJ Kai won't have any issue intercepting a loaded Phantom.
+As with all [[F-4 Phantom II (Family)|Phantom IIs]], the EJ Kai is a multi-role fighter with the capability to carry plenty of rockets, gun pods and bombs. However, due to it serving under the Japanese JASDF and its defensive doctrine, it lacks GBUs, AGMs, or Napalm bombs found on other (late) model Phantoms. While it is certainly possible to go multi-role, due to its large amount of carry capacity, it will turn its missile bus experience into a freight train towards bases or ground targets. This is only advised for quick carpet passes in ground battles or when trying to unlock later modules in air battles with priority towards AAMs, as the enemies facing the F-4EJ Kai won't have any issues intercepting a loaded Phantom.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
-
-* Eased up modifications over the F-4EJ
-** Comes with 2 x AIM-9Ps stock instead of 2 x AIM-9Bs
-** 4 x AIM-9Ps is a tier I mod without the need of AIM-9Es
-* A wide range of suspended armaments, suitable for any playstyle
-** Powerful AIM-7F SARH missiles, with very long range, manoeuvres straight off the rails and have 25G of max overload
-** Top-of-the-line AIM-9L missiles, having excellent manoeuvrability of 30G, long-range, great all-aspect tracking, and being pretty flare resistant when firing rear-aspect
-** Can carry 8 missiles in total
-* Deadly frontal armament with high burst mass
-* Makes use of a ballistic computer to assist in the aim of cannons, rockets, and bombs against ground targets
-* Large reserve of countermeasures
-* AN/APG-66 radar - has diverse scan and tracking modes, very high resistance to notching and chaff, very long-range
+* Improved over the F-4EJ with better stock modifications.
+** Starts with 2 x AIM-9Ps and 2 x AIM-7Fs instead of AIM-9Bs.
+** Unlocks 4 x AIM-9Ps at Tier I without needing AIM-9Es.
+* Versatile armament options for various playstyles.
+** AIM-7F missiles offer long range, excellent manoeuvrability, and high G tolerance.
+** AIM-9L missiles provide superior manoeuvrability, medium-long range, all-aspect tracking, and decent rear-aspect flare resistance.
+** Can carry up to 8 missiles (4 IR, 4 SARH).
+* Ballistic computer aids in aiming cannons, rockets, and bombs.
+* Large supply of countermeasures.
+* AN/APG-66 radar with advanced scanning, tracking modes, and strong resistance to notching and chaff.
+* Advanced cockpit HUD for easy target tracking in simulator mode.
 
 '''Cons:'''
-
-* Limited ammunition in the frontally-mounted cannon
-* Lacks guided ordnance, limiting ground attack ability
-* Terrible manoeuvrability along with mediocre acceleration and top speed, particularly compared to common opponents
-** Doesn't have an Agile Eagle package like the F-4E and F-4F to increase manoeuvrability
+* Limited ammunition for the frontal cannon.
+** Carrying additional gun pod(s) weigh down the plane considerably.
+* No guided ordnance, reducing ground attack effectiveness.
+* Poor manoeuvrability and average acceleration/top speed, especially compared to typical opponents.
+** Lacks the Agile Eagle package (F-4E / F-4F), which would enhance maneuverability.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -275,15 +272,25 @@ By the time F-15J/DJs and F-2s joined the JASDF in larger quantities, F-4EJs (in
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
 * [[F-4 Phantom II (Family)]]
 ** [[F-4EJ Phantom II]]
 
 ;Aircraft of comparable role, configuration and era
+{{columns|2|
+* [[File:USA flag.png|30px|link=]] [[F-4 Phantom II (Family)]] (late / service-life extensions)
+** [[File:Israel flag.png|30px|link=]] [[Kurnass 2000]]
+** [[File:FRG flag.png|30px|link=]] [[F-4F KWS LV (Germany)|F-4F ICE]]
+* [[File:NATO flag.png|30px|link=]] [[Tornado (Family)]] (ADV variants)
+** [[File:Britain flag.png|30px|link=]] [[Tornado F.3]]
+** [[File:Italy flag.png|30px|link=]] [[Tornado ADV]]
 
-* Mikoyan-Gurevich [[MiG-21 (Family)]]
-* SAAB [[J35D]] Draken
-* Dassault [[Mirage IIIC]]
+
+* [[File:Sweden flag.png|30px|link=]] [[SAAB 37 Viggen (Family)]]
+** [[File:Sweden flag.png|30px|link=]] [[JA37D]]
+* [[File:France flag.png|30px|link=]] [[Mirage 2000 (Family)]] (2000C-series)
+* [[File:USSR flag.png|30px|link=]] [[MiG-23 (Family)]]
+* [[File:China flag.png|30px|link=]] [[J-8 (Family)]]
+}}
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

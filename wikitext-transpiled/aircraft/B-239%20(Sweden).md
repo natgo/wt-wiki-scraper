@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=b_239_finland
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -167,8 +167,12 @@ Finnish pilots regarded the B-239 as an easy to fly plane, while its relatively 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-;Skins
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage B-239 (Sweden).png
+</gallery>
 
+;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=b_239_finland Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

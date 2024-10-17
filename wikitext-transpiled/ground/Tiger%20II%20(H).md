@@ -240,7 +240,7 @@ British vehicles are some of the first to get APDS (The first being the [[Comet_
 =====The worst enemy is yourself=====
 This is true in a literal and figurative way if you keep telling yourself that you can't do it you won't do it. This tank is not easy to operate and it can be frustrating at times but it is a very good tank once you start using it properly and keep its limits and weaknesses in mind.
 
-In a literal way, yes, your worst possible enemy is another Panzerkampfwagen Tiger Ausf. B. They know the tank from the inside out just like you, long range and even taking cover won't help you since they have that same amazing gun and they know exactly where to hit, besides, when talking about distance: if you can hurt it, it can hurt you, and if it can't hurt you, you can't hurt it.
+In a literal way, yes, your worst possible enemy is another Tiger II. They know the tank from the inside out just like you, long range and even taking cover won't help you since they have that same amazing gun and they know exactly where to hit, besides, when talking about distance: if you can hurt it, it can hurt you, and if it can't hurt you, you can't hurt it.
 
 A Tiger II vs Tiger II fight usually ends in less than 25 seconds, sometimes lasting as little as 2 seconds using 2 shells or less to achieve the destruction of one of them. Sometimes you will find yourself exchanging shells for a whole game.
 

@@ -32,7 +32,7 @@ The La-5F is a relatively heavy fighter which makes it a good candidate to perfo
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 569 || 548 || rowspan="2" | {{Specs|ceiling}} || 22.1 || 22.8 || 11.8 || 11.8 || rowspan="2" | 370
+| 567 || 550 || rowspan="2" | {{Specs|ceiling}} || 22.1 || 22.9 || 11.9 || 11.9 || rowspan="2" | 370
 |-
 ! Upgraded
 | 623 || 591 || 20.1 || 21.2 || 20.7 || 15.6

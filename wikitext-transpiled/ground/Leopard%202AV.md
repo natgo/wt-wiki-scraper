@@ -17,7 +17,7 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German medium tank {{Batt
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour is capable of defeating M735 and most early HEATFS rounds when hitting the composite armour arrays, but the lower plate is very weak due to the layout of the composite armour. There is a fuel tank sandwiched between the composite armour which will usually lead to a fuel fire or even fuel detonation when hit. It is recommended to play hull down if you don't have FPE as the hull protection is very unreliable. The turret cheeks are near-invulnerable to all but the strongest rounds. However as with all MBTs, the area around the gun mantlet is quite weak.
+The armour is capable of defeating M735 and most early HEATFS rounds when hitting the composite armour arrays, but the lower plate is very weak due to the layout of the composite armour. There is a fuel tank sandwiched between the composite armour which will usually lead to a fuel fire or even fuel detonation when hit. It is recommended to play hull down if you don't have FPE as the hull protection is very unreliable. The turret cheeks are near-invulnerable to all but the strongest rounds. However as with all MBTs, the gun mantlet is quite weak, resulting in a rather large weak spot when playing hull-down.
 
 '''Armour type:'''<!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -42,13 +42,13 @@ The armour is capable of defeating M735 and most early HEATFS rounds when hittin
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-Its mobility is what makes the Leopard 2AV great. The acceleration is good, but making sharp turns at high speed can lead to flipping. Reverse speed is acceptable, enough to get out of a sticky situation quickly.
+The Leopard 2AV has effectively the same powerpack as its successors; a 1,500 hp MTU MB 873 Ka-501engine allows this Leopard to quickly manoeuvre the map. Although, the Leopard 2AV is slightly heavier than the Leopard 2A4 and significantly heavier than the Leopard 2K, resulting in a loss of 1.2 hp/t against the 2A4 and 4.0 hp/t against the 2K.
 
 {{tankMobility|abMinHp=2,032|rbMinHp=1,327}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
-Start with Parts and FPE, then go for the APFSDS projectile.
+Start with Parts and FPE, then it is preferred to go for DM23, as the stock 105mm HEATFS is inadequate for this BR.
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
@@ -129,20 +129,20 @@ There are 2 x 7.62 machine guns on the turret and 1 coaxial 7.62 machine gun. Th
 
 '''Pros:'''
 
-* Basically a better armoured [[TTD]]
-** Hull can block at least one HE hit from late game tanks without consequences (unless it was an SPG)
-** NERA placement is more solid and turret front is actually almost HEATFS proof, can survive some ATGMs
-** The ammo rack is more compact
-** 8 smoke groups
-** Has 3 MGs with focused fire to get rid of slow-flying ATGMs
-* Mobility is great
+* Turret front is almost impervious to chemical projectiles, with exceptions to stronger ATGMs commonly found at this BR
+* Blowout panels for the turret bustle, greatly improving survivability
+* 16 smoke grenades firing 2 at a time, for 8 pops in total
+* Three machine guns with focused fire allows this tank to dispatch slower ATGMs
+* High mobility compared to its contemporaries
+* Most fuel tanks are external
 
 '''Cons:'''
 
-* Final ammunition has worse angled penetration than [[TTD]] or [[TAM 2C]]
-* No thermal scope at rank VI
-* If ammo rack is hit directly through the tank, it is likely that the tank simply explodes; a penetrating hit on either side can render the tank unable to fight regardless
-* The turret roof is not HE proof and it is reasonably easy to hit machine guns above it
+* DM33 (105) at its BR may feel underwhelming
+* No thermals at rank VI
+* Turret bustle carries less ammo than other production Leopard 2 variants at 12 shells instead of 15, carrying more will result in detonation of the tank if the secondary ammo stowage is hit.
+* Additional armor plate behind the frontal fuel tank may produce spall if penetrated.
+* Hull armor is inadequate for its BR
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

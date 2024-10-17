@@ -223,11 +223,9 @@ File:Mig17vf86.png|<small>A MiG-17 after a hard-earned victory over an F-86 Sabr
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;[[MiG-17 (Family)|Related development]]
+;Related development
 
-* [[MiG-17AS]]
-* [[J-4]]
-* [[Shenyang F-5]]
+* [[MiG-17 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
 

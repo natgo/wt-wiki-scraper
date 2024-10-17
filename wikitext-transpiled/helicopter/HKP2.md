@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish utility helicopter {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''Helikopter 2''' (HKP2) was the Swedish designation for the French [[SA 313B Alouette II|SA 313 Alouette II]]. The first SA 313 arrived in Sweden in 1957, for use as a civilian crop duster. The helicopter was quickly adopted into the armed forces, serving with the army, air force, and navy. In total, Sweden operated 29 HKP2 helicopters, including 10 licence-built by SAAB in Norrköping, which remained in service until 1988 when it was finally replaced in army service by the [[HKP9A|HKP9]].
+
+Introduced in [[Update "Wind of Change"]], the '''HKP2''' is a light and manoeuvrable helicopter, but lacks armour. Its main difference from the French Alouettes lies in its landing gear: instead of skis, it uses floats for water landings. The armament remains the same - RB 52A ATGMs (Swedish version of the SS.11) with a range of 3.5 km, which necessitates flying close to the battlefield for deployment, exposing it to risk from anti-aircraft fire.
 
 == General info ==
 === Flight performance ===

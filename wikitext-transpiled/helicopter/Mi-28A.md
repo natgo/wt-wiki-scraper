@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-In March of 1995, the Swedish Chief of Army Command, Åke Sagrén, announced the need for a dedicated attack helicopter platform, citing the changing nature of modern warfare and the HPK9A helicopter's inability to satisfy the Army's requirements. Two helicopters, the Boeing AH-64 Apache (referred to as the [[AHS]] by Sweden) and the Mil {{Specs|name}} Havoc, were chosen as the final candidates after the field of potential helicopters was reduced to two. These helicopters were tested by foreign pilots while the Swedish crew served as operators/gunners. The former was regarded as a complex but effective platform, while the latter was viewed as reliable, easy to control, and not as much of a burden for maintenance crews. Both passed initial trials with success, but the procurement was cancelled due to budget cuts and a shift in national defense priorities.
+In March 1995, the Swedish Chief of Army Command, Åke Sagrén, announced the need for a dedicated attack helicopter platform, citing the changing nature of modern warfare and the [[HKP9A]] helicopter's inability to satisfy the Army's requirements. Two helicopters, the [[AHS|Boeing AH-64 Apache]] and the Mil Mi-28A Havoc, were chosen as final candidates after the field of potential helicopters was narrowed to two. These helicopters were flown by foreign pilots while Swedish crew served as operators/gunners. The former was regarded as a complex but effective platform, while the latter was viewed as reliable, easy to control, and less of a burden for maintenance crews. Both passed initial trials successfully, but procurement was cancelled due to budget cuts and a shift in national defence priorities.
 
-The {{Specs|name}} was introduced in [[Update "Wind of Change"]]. Based on the early production Mi-28A that was trialed by the Swedish army during the 1990s, its loadouts and gunnery equipment are somewhat limited in comparison to the later [[Mi-28N]] and [[Mi-28NM]], but it remains very potent in the right hands. Due to its effective rocket loadouts and 30mm gun, it works best as an early-spawn helicopter, but thanks to its [[9M120 Ataka|Ataka]] missiles, it is still capable of long-range combat in the middle to late stages of the game.
+The {{Specs|name}} was introduced in [[Update "Wind of Change"]]. Based on the early production Mi-28A that was trialed by the Swedish army during the 1990s, its loadouts and gunnery equipment are somewhat limited in comparison to the later [[Mi-28N]] and [[Mi-28NM]], but it remains very potent in the right hands. Due to its effective rocket loadouts and 30 mm gun, it works best as an early-spawn helicopter, but thanks to its [[9M120 Ataka|Ataka]] missiles, it is still capable of long-range combat in the middle to late stages of the game.
 
 == General info ==
 === Flight performance ===
@@ -42,7 +42,7 @@ The {{Specs|name}} was introduced in [[Update "Wind of Change"]]. Based on the e
 
 ;Armour
 
-The gunner and pilot are protected in the front with thin armour plating and slightly angled bulletproof glass, with an additional armour plating separating the both of them and an armour plate in the back. On the sides they are protected by thin armour plating together with some ceramic on both sides. An additional armour plating is located at the bottom protecting the crew from any minor shrapnel. Everything is surrounded by a small steel cage around the cockpit. Only the crew are protected and the engine and fuel tanks are left exposed. 
+The gunner and pilot are protected in the front with thin armour plating and slightly angled bulletproof glass, with an additional armour plating separating the both of them and an armour plate in the back. On the sides they are protected by thin armour plating together with some ceramic on both sides. An additional armour plating is located at the bottom protecting the crew from any minor shrapnel. Everything is surrounded by a small steel cage around the cockpit. Only the crew are protected and the engine and fuel tanks are left exposed.
 
 * 42 mm (56-59°) Bulletproof glass - Frontal windshield
 * 22 mm Bulletproof glass - Side windshield
@@ -79,37 +79,36 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|9M120 Ataka|S-8KO|S-13OF|GSh-23L (23 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-28N.png]]</div>
+|-
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
+| || 1 || 1 ||
+|-
+! [[S-8KO]] rockets
+| 20 || 20 || 20 || 20
+|-
+! [[S-13OF]] rockets
+| 5 || 5 || 5 || 5
+|-
+! [[9M120 Ataka]] missiles
+| 8 || || || 8
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 80 x S-8KO rockets
 * 20 x S-13OF rockets
 * 16 x 9M120 Ataka missiles
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mi-28N.png]]</div>
-|-
-! 23 mm GSh-23L cannons (250 rpg)
-| || 1 || 1 ||
-|-
-! S-8KO rockets
-| 20 || 20 || 20 || 20
-|-
-! S-13OF rockets
-| 5 || 5 || 5 || 5
-|-
-! 9M120 Ataka missiles
-| 8 || || || 8
-|-
-| colspan="5" | Maximum permissible weight imbalance: 480 kg
-|-
-|}
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -135,7 +134,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * No access to night vision or thermal imaging for the gunner position, meaning night maps are potentially difficult to navigate, and targetting is near impossible
 * No IRCM or MAW system, meaning missile avoidance using countermeasures is entirely manual and dependent on being aware of surroundings
 * The engine area is unprotected - even HMG or autocannon fire can damage the engines, transmission, and radiators, leading to severely reduced flight performance, or an unsurvivable loss of thrust
-* Its well-known silhouette and its reputation means the Mi-28A will often be targeted by enemy SPAA and airplanes with high priority 
+* Its well-known silhouette and its reputation means the Mi-28A will often be targeted by enemy SPAA and airplanes with high priority
 * The SPO-15 RWR is unable to detect most SAM threats, such as the Rolands or 2S6, making it very vulnerable to them due to the lack of warning of their existence
 
 == History ==
@@ -147,7 +146,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mi_28a_sweden Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
-
 
 ;Videos
 {{Youtube-gallery|yH6Ifk7g_KU|'''The MI-28 Ultimate Guide''' - ''Bob Dickinson''}}

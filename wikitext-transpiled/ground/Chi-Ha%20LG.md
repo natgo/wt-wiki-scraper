@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}} / Long 12 cm SPG''' ({{Annotation|長十二糎自走砲|Chō Jūni Senchi Jisōhō}}) was a one-off prototype was made with a 12 cm cruiser gun placed on the hull of a Chi-Ha to provide firepower in the defence of the Japanese homeland if the Americans invaded.
+The '''{{Specs|name}} / Long 12 cm SPG''' ({{Annotation|長十二糎自走砲|Chō Jūni Senchi Jisōhō}}) was an obscure, one-off prototype discovered by US Marines at the Yokosuka Naval Arsenal, with little information available on its development. It was created by the {{Annotation|1st Section|Cannon & Artillery}} of the Imperial Japanese Navy Technical Department and assembled at Yokosuka. The vehicle was essentially a stripped-down Chi-Ha hull, modified with a metal platform extension to accommodate the gun crew, and fitted with a surplus 12 cm/45 10th Year Cannon, typically used on cruisers, carriers, or as coastal batteries. With little concrete development history, accounts from testing crews and US evaluations suggest the vehicle was at the limits of what the Chi-Ha hull could handle. All internal modules were removed except for the driver’s position, and the hull was reinforced with automotive steel to withstand the massive recoil of the gun—a force that would have otherwise destroyed a standard riveted Chi-Ha. The vehicle offered no real protection for the crew, leaving them entirely exposed.
 
-It was introduced in [[Update "Raining Fire"]]. This tank was primarily built around the gun to mechanize it with little consideration to combat protection. Hence it should also be played as it was designed, hunkering down in a protected sniper position, take a shot, and duck for cover until the next shell is loaded.
+It was introduced in [[Update "Raining Fire"]]. Despite being built on the Chi-Ha hull, this vehicle was not truly considered a tank, even within its limited development circle. Instead, it should be regarded as a mobile gun emplacement. The crew is entirely exposed, and the mobility is compromised due to the heavy gun. Sniping is the only viable strategy, with the need to retreat into cover after each shot to maximize survivability. The powerful 120 mm SAPCBC-HE shell, with a velocity of 825 m/s and penetration of 100 mm at approximately 300 meters, defines the Chi-Ha Long Gun as the epitome of a "glass cannon." However, after firing, the gun's severe recoil will likely knock it off target, requiring readjustment if it hasn't already destroyed its target.
 
 == General info ==
 === Survivability and armour ===
@@ -186,20 +186,16 @@ File:Chi-Ha Long Gun (2).png|
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related Development
-
-* Directly Related:
-** [[Chi-Ha Kai|Type 97 Chi-Ha]] <small>(base hull)</small>
-
-* Related:
+* [[Chi-Ha (Family)]] <small>(base hull)</small>
 ** [[Chi-Ha Short Gun|Type 97 Chi-Ha Short Gun]] <small>(another navy variant)</small>
 
 ;Tanks of comparable role, configuration and era
-
-* [[8,8 cm Flak 37 Sfl.]]
-* [[VFW]]
-* [[YaG-10 (29-K)]]
-* [[QF 3.7 Ram]]
-* [[Pvkv II]]
+* [[File:Sweden flag.png|30px|link=]] [[Pvkv II]]
+* [[File:IJA flag.png|30px|link=]] [[Ro-Go Exp.]]
+* [[File:USSR flag.png|30px|link=]] [[ZiS-30]]
+* [[File:China flag.png|30px|link=]] [[LVT(A)(4) (ZiS-2)]]
+* [[File:Germany flag.png|30px|link=]] [[Dicker Max]]
+* [[File:USA flag.png|30px|link=]] [[M10 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -220,12 +220,20 @@ In late 2022, the Japanese Ministry of Defence in its plans of "Elimination of o
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
+;[[AH-64 (Family)|Related development]]
+{{columns|4|
+* [[File:USA flag.png|30px|link=]] [[AH-64D]]
+* [[File:Britain flag.png|30px|link=]] [[AH Mk.1]]
+* [[File:Sweden flag.png|30px|link=]] [[AHS]]
+* [[File:Israel flag.png|30px|link=]] [[Saraph]]
+}}
 ;Rotorcraft of comparable role, configuration and era
-
-* [[Mi-35M]]
-* [[Ka-50]]
-* [[EC-665 Tiger HAP]]
+{{columns|4|
+* [[File:FRG flag.png|30px|link=]] [[File:France flag.png|30px|link=]] [[Tiger Eurocopter (Family)]]
+* [[File:Italy flag.png|30px|link=]] [[A129 (Family)]]
+* [[File:South Africa flag.png|30px|link=]] [[Rooivalk Mk1F CSH]]
+* [[File:China flag.png|30px|link=]] [[Z-10]]
+}}
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

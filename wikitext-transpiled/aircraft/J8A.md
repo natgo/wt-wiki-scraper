@@ -20,13 +20,13 @@ It was introduced in [[Update 1.93 "Shark Attack"]] but was unavailable to be pl
 {{Specs-Avia-Flight}}
 <!--''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.''-->
 [[File:J8a_an_trn_26_001.png|450px|thumb|right|'''{{PAGENAME}}''' on the tail of a [[Flegel%27s_Bf_109_A|Bf 109 A-1]].]]
-The {{PAGENAME}} is an average biplane in terms of manoeuvrability, however, it is very stiff to the controls when attempting to roll the aircraft. Though an excellent flyer at lower altitudes and at lower speeds, keeping its speed up will increase its effectiveness when engaging in turn battles with other aircraft. The Bristol Mercury-IX engine allows this aircraft to reach top speeds of over 400 km/h (~250 mph) and can be a contender with other biplanes, however it will start to struggle against early monoplanes such as the Heinkel [[He 112 (Family)|He 112]], Messerschmitt [[Flegel's Bf 109 A|Bf 109A]], Polykarpov [[I-16 (Family)|I-16]] and the Brewster [[F2A-1|F2A]] fighters. Though not as fast nor does it have the armament these do, it does have a turning advantage they do not and can sometimes make a quick turn around or tail-chase a faster fighter long enough to put guns on target and eliminate an enemy.
+The {{PAGENAME}} is an average biplane in terms of manoeuvrability, however, it is very stiff to the controls when attempting to roll the aircraft. Though an excellent flyer at lower altitudes and at lower speeds, keeping its speed up will increase its effectiveness when engaging in turn battles with other aircraft. The Bristol Mercury-IX engine allows this aircraft to reach top speeds of over 400 km/h (~250 mph) and can be a contender with other biplanes, however it will start to struggle against early monoplanes such as the Heinkel [[He 112 (Family)|He 112]], Messerschmitt [[Flegel's Bf 109 A|Bf 109A]], Polikarpov [[I-16 (Family)|I-16]] and the Brewster [[F2A-1|F2A]] fighters. Though not as fast nor does it have the armament these do, it does have a turning advantage they do not and can sometimes make a quick turn around or tail-chase a faster fighter long enough to put guns on target and eliminate an enemy.
 
 The {{PAGENAME}} has a very low stall speed and with the throttle reduced to around 55%, this fighter can maintain level flight at a speed of about 80 km/h (50 mph) without nosing over. The vertical stabilizer is rather large for an aircraft of this type which lends itself to being an excellent aircraft for performing wing-over and hammerhead manoeuvres, especially when luring newer and unsuspecting enemy pilots into a rope-a-dope manoeuvre allowing for the {{PAGENAME}} to immediately change direction and pursue the tailing enemy fighter which may have themselves stalled out and set themselves up to be the perfect target for an inbound {{PAGENAME}}.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 4,420 m)
+! colspan="2" | Max speed<br>(km/h at 4,420 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -35,10 +35,10 @@ The {{PAGENAME}} has a very low stall speed and with the throttle reduced to aro
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 402 || 385 || rowspan="2" | {{Specs|ceiling}} || 16.7 || 17.3 || 13.4 || 13.4 || rowspan="2" | 232
+| 400 || 387 || rowspan="2" | {{Specs|ceiling}} || 16.7 || 17.4 || 13.4 || 13.4 || rowspan="2" | 232
 |-
 ! Upgraded
-| 429 || 414 || 15.3 || 16.0 || 18.2 || 15.7
+| 428 || 414 || 15.3 || 16.0 || 18.1 || 15.7
 |-
 |}
 

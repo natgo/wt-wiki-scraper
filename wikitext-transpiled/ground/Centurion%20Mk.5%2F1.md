@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced during [[Update "Hot Tracks"]] as a reward for [[Battle Pass: Season II, "Steel Centurion"]].
+The Centurion Mk.5, developed in 1955, was a modified [[Centurion Mk 3|Mk.3]] with the addition of extra machine guns and minor design changes. In a further modification, '''Centurion Mk.5/1''', an additional armour plate was fitted to the Centurion's lower glacis. A total of 221 tanks of this modification were produced. Some were converted from Australian Centurion Mk.3 and Mk.5 models, 58 of which were later used by Australia in the Vietnam War. They remained in service with Australia until the 1980s, when they were replaced by [[Leopard 1 (Family)|Leopard 1]]s.
+
+Introduced during [[Update "Hot Tracks"]] as a reward for [[Battle Pass: Season II, "Steel Centurion"]], the '''Centurion Mk.5/1''' is not only a combination of good protection, allowing it to withstand fire from potential opponents, and a powerful 20-pounder gun with AP and APDS rounds, but it also has a two-plane stabiliser, which allows for accurate firing on the move. However, the mobility of the Centurion Mk.5/1 leaves something to be desired, so it often lags behind allies when moving across the battlefield. It differs from the [[Centurion Mk 3]] by having reinforced frontal armour on the lower glacis and a coaxial 12.7 mm machine gun.
 
 == General info ==
 === Survivability and armour ===

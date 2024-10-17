@@ -111,7 +111,11 @@ Introduced in [[Update "Winged Lions"]], the '''{{Specs|name}}''' is a fairly ve
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+
+* 40 mm Bulletproof glass - Front Windshield
+* 13.5 mm Steel - Nose armor
+* 13.5 mm Steel - Upper seat rest
+* 13.5 mm Steel - Rear of pilot's seat
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -131,6 +135,8 @@ The '''''{{PAGENAME}}''''' is armed with:
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|Mk.2 incendiary|T10 140|T10 151}}
+
+The key distinction between the '''{{Specs|name}}''' and the M.D.450B Ouragan for France, is that the Israeli modification introduces two additional default ordinance configurations: one with the "2 x 500 lb AN-M64A1 bombs paired with 8 x T10 140 rockets' and the other being the '2 x 500 lb AN-M64A1 bombs paired with 8 x T10 151 rockets.'
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 

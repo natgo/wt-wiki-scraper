@@ -203,9 +203,13 @@ On the front, some of the S.M.79's shortcomings were painfully obvious. Its weak
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sm_79_1939 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related development
+*[[S.M.79 (Family)]]
+**[[S.M.79 serie 8]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

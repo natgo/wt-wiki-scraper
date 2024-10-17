@@ -9,8 +9,8 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese twin-engine fighter {{Battle-rating}}. It was introduced in [[Update 1.31]].
+[[File:A Ki-45 flying over Guadalcanal .png|alt=Be careful when a enemy gets on your tail. The Ki-45 can be out-maneuver by almost every other rank one plane |thumb|A Ki-45 flying over Guadalcanal]]<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+The '''{{Specs|name}}''' was the last mass produced variant of the Ki-45 series of fighter/striker aircrafts. It was the successor of the Ki-45 hei, a variant dedicated to engage naval assets. This version was conceived as a night fighter, equipped with the same 37mm Ho-203 autocannon as that found on the Ki-45 "otsu/乙" and "hei/丙". However, this time it came with two fixed 20mm Ho-5 cannons in Schräge Musik-style positions as well as its Type 98 7.92mm MG on the back operated by the gunner/radio operator.
 
 Being a classed as a heavy fighter, the Ki-45 isn't the best in the manoeuvrability category. However, for a heavy fighter, it manoeuvres very well. It is even capable of out-turning aircraft such as the [[P-47D-25]]. Unlike heavy fighters of other nations, the Ki-45 series does not feature aircraft with large amounts of heavy weaponry. This is a major downside, considering how heavy fighters traditionally give up manoeuvrability and speed for armament. Instead, the Ki-45s utilize more of an equilibrium between manoeuvrability, speed, and armament. These are what makes the Ki-45 both a capable dog-fighter, and bomber hunter.
 
@@ -198,6 +198,7 @@ The Ki-45's production was discontinued in July 1945. A total of 1,701 Ki-45s we
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki-45_tei Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -205,11 +206,13 @@ The Ki-45's production was discontinued in July 1945. A total of 1,701 Ki-45s we
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

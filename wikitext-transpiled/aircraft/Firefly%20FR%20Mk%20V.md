@@ -1,10 +1,9 @@
 {{About
 | about = British strike aircraft '''{{PAGENAME}}'''
-| other
-| usage-1 = the other version
+| and
+| usage = other versions
 | link-1 = Firefly F Mk I
-| usage-2 = other uses
-| link-2 = Firefly (Disambiguation)
+| link-2 = Firefly F.Mk.IV (France)
 }}
 {{Specs-Card
 |code=firefly_mk5

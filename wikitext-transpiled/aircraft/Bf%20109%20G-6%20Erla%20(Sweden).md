@@ -118,14 +118,20 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:''' 
 
-'''Pros:'''
+* Additional gun pods and selectable cannons are adequate for enhanced firepower
+* Great climb rate, effective for gaining advantages
+* Highly effective in the Boom and Zoom role
+* Good vertical energy retention
 
 *
 
-'''Cons:'''
+'''Cons:''' 
+
+* Subpar stock performance
+* Flaps respond slowly and tear at low speeds
+* Overheating occurs with excessive use of WEP
 
 *
 

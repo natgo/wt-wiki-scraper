@@ -88,7 +88,7 @@ The KPz-70 features the standard NATO track and block design that can be found o
 === Modifications and economy ===
 {{Specs-Economy}}
 
-The recommended research order of modules is Parts, FPE, the XM578E1 APFSDS shell, NVD, mobility modifications, and then any remaining modules.
+The recommended research order of modules is Parts, XM578E1 APFSDS shell, FPE, Smoke grenade then Lazer rangefinder, all of these essential modules will give you enough features to meet your needs in combat. Lastly finish with NVD, mobility modifications, and then any remaining modules.
 
 == Armaments ==
 {{Specs-Tank-Armaments}}

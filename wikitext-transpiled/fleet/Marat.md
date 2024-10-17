@@ -1,6 +1,7 @@
 {{Specs-Card
 |code=ussr_battleship_marat
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|store=12718
 }}
 
 == Description ==

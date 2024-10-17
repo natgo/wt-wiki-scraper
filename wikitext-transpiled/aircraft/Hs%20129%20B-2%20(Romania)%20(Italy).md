@@ -184,12 +184,12 @@ One Romanian ace to fly the Hs 129 was Teodor Zăbavă, who achieved four air-to
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
+* ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-
-* [[Hs 129 B-2]]
-* [[Hs 129 B-2 (Romania)]]
-* [[Hs 129 B-3]]
+;Related development
+* [[Hs 129 (Family)]]
+** [[Hs 129 B-2]]
+** [[Hs 129 B-2 (Romania)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

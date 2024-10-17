@@ -1,3 +1,8 @@
+{{About
+| about = French bluewater destroyer '''La Combattante'''
+| usage = coastal Motor Gun Boat
+| link = La Combattante P730
+}}
 {{Specs-Card
 |code=fr_destroyer_hunt_3series
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "Kings of Battle"]].
+'''La Combattante''' was originally a British Hunt-class destroyer, HMS ''Haldon'', laid down in January 1941. While still in the shipyard, her hull was damaged during a German air raid in March 1941. In 1942, after the ship's construction was completed, she was transferred to the Free French Navy and renamed ''La Combattante''. On her first combat duty, a convoy escort through the English Channel, she rescued the crew of a Liberty ship that had struck a mine. In 1944, she and the frigate HMS ''Rowley'' engaged German torpedo boats, leading to the sinking of [[S-147]]. About three weeks later, she had a similar encounter, sinking S-141. In the summer of 1944, the destroyer participated in Operation Neptune, during which she destroyed several coastal batteries with artillery fire. Her fate was sealed on 23 February 1945, when she struck a mine while patrolling the English Channel, sinking shortly thereafter with the loss of 117 crew members.
+
+Introduced in [[Update "Kings of Battle"]], '''{{Specs|name}}''' is a slow destroyer with a low crew count and no hull armour. Consequently, she is unable to exchange fire with other destroyers or move quickly enough to avoid danger. The key to using this vessel effectively is to be on the offensive, landing the first shots in order to win exchanges with her superior armament before the enemy can respond. ''La Combattante'' is most effective when staying near the coast and engaging enemy boats attempting to capture objectives. If an enemy destroyer is approaching, it is advisable to form a group with friendly vessels before deciding to engage.
 
 == General info ==
 === Survivability and armour ===

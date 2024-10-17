@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a member of the [[Fletcher (Family)|Fletcher-class]] destroyers, the first generation of destroyers developed by the U.S. after the disintegration of the Washington and London Naval Treaties during World War II. The Fletcher class was meant to be larger and carry more armament due to dissatisfaction with earlier destroyer classes. She was named for Captain Mervyn S. Bennion, a commander of USS West Virginia who was killed during the attack on Pearl Harbor. She was laid down on 19th March 1943 and commissioned on 14th December 1943. During the Battle of Surigao Strait in October 1944, Bennion torpedoed and sunk Japanese Fusō-class battleship Yamashiro. Before the aforementioned battle and also after it, she served as picket ship and fighter director through the Marianas, Philippines, and Iwo Jima and Okinawa campaigns. For her duty, she received the Presidential Unit Citation and was awarded with eight battle stars. She was placed into reserve on 20th June 1946 and sold for scrap many years later on 30th May 1973.
+The '''{{Specs|name}}''' is a member of the [[Fletcher (Family)|Fletcher-class]] destroyers, the first generation of destroyers developed by the U.S. after the disintegration of the Washington and London Naval Treaties during World War II. The Fletcher class was meant to be larger and carry more armament due to dissatisfaction with earlier destroyer classes. She was named for Captain Mervyn S. Bennion, a commander of USS West Virginia who was killed during the attack on Pearl Harbor. She was laid down on 19th March 1943 and commissioned on 14th December 1943. During the Battle of Surigao Strait in October 1944, Bennion torpedoed and sank Japanese Fusō-class battleship [[IJN Yamashiro|Yamashiro]]. Before the aforementioned battle and also after it, she served as picket ship and fighter director through the Marianas, Philippines, and Iwo Jima and Okinawa campaigns. For her duty, she received the Presidential Unit Citation and was awarded with eight battle stars. She was placed into reserve on 20th June 1946 and sold for scrap many years later on 30th May 1973.
 
-It was introduced in [[Update 1.79 "Project X"]] as an Xbox-exclusive vehicle purchasable on the [https://www.microsoft.com/en-us/p/war-thunder-uss-bennion/c13lc0czw316?activetab=pivot:overviewtab Microsoft Store]. As a Fletcher-class destroyer, the USS Bennion resembles its sister ships [[USS Fletcher]] and [[USS Cowell]] in terms of performance characteristics. The most distinctive differences the USS Bennion has compared to its sisters is its unique dazzle camouflage, following the MS-32/13D design pattern. Compared to its closer relative, the Cowell, the Bennion possess an extra 5,000 rounds of 40 mm Bofors ammunition.
+It was introduced in [[Update 1.79 "Project X"]] as an Xbox-exclusive vehicle purchasable on the [https://www.microsoft.com/en-us/p/war-thunder-uss-bennion/c13lc0czw316?activetab=pivot:overviewtab Microsoft Store]. As a Fletcher-class destroyer, the USS Bennion resembles its sister ships [[USS Fletcher]] and [[USS Cowell]] in terms of performance characteristics. The most distinctive differences the USS Bennion has compared to its sisters is its unique dazzle camouflage, following the MS-32/13D design pattern. Compared to its closer relative, the Cowell, the Bennion possesses an extra 5,000 rounds of 40 mm Bofors ammunition.
 
 == General info ==
 === Survivability and armour ===
@@ -92,7 +92,7 @@ As part of the Fletcher-class family, the USS Bennion's armour profile is not so
 | colspan="2" | -15°/+88° || colspan="2" | -10°/+88° || -15°/+88°
 |-
 ! scope="row" | Horizontal guidance
-| -150°/+90° || -90°/+150° || -180°/+20° || -20°/+180° ||  ±180°
+| -150°/+90° || -90°/+150° || -180°/+20° || -20°/+180° || ±180°
 |-
 ! scope="row" | Ammo capacity
 | colspan="6" | 25,000
@@ -118,7 +118,7 @@ As part of the Fletcher-class family, the USS Bennion's armour profile is not so
 |-
 ! colspan="8" | Turrets (Bow to stern)
 |-
-!  || Front port turret || Middle port turret || Front starboard turret || Middle starboard turret  || Rear port turret || Rear starboard turret || Rear stern turret
+!  || Front port turret || Middle port turret || Front starboard turret || Middle starboard turret || Rear port turret || Rear starboard turret || Rear stern turret
 |-
 ! scope="row" | Vertical guidance
 | -80°/+65° || ±100° || -65°/+80° || ±100° || colspan="3" | ±180°
@@ -141,7 +141,7 @@ As part of the Fletcher-class family, the USS Bennion's armour profile is not so
 |-
 ! Mode !! Mass (kg) !! Maximum speed <br> in water (km/h) !! Travel distance (km) !! Depth stroke (m) !! Arming<br>distance (m) !! Explosive type !! Explosive mass (kg)
 |-
-| Stock || rowspan="2" |  1,559 || 83 || 5.50 || rowspan="2" | 1.0 || rowspan="2" | 50 || rowspan="2" | TNT || rowspan="2" | 224
+| Stock || rowspan="2" | 1,559 || 83 || 5.50 || rowspan="2" | 1.0 || rowspan="2" | 50 || rowspan="2" | TNT || rowspan="2" | 224
 |-
 | Torpedo mode || 62 || 9.15
 |-
@@ -150,7 +150,7 @@ As part of the Fletcher-class family, the USS Bennion's armour profile is not so
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 
-The Bennion is a powerful American destroyer that is very versatile. There can be 3 main jobs for the Cowell to do:
+The Bennion is a powerful American destroyer that is very versatile. There can be 3 main jobs for the Bennion to do:
 
 *'''Gunfighter'''
 
@@ -158,17 +158,17 @@ With its fast firing armament, it is definitely capable of fighting other destro
 
 *'''Anti-air ship'''
 
-The Cowell has lots of anti-air weaponry. The deadliest will be your ten Bofors and five 127 mm cannons. Let your AI gunners shoot from long distance using radio fuse HE shells. Once enemy aircraft come close enough, you should either take control of the Bofors or the main guns themselves to deal with enemies. As always, lead your target and take into account your ship's momentum if you need to. The ship can fire all of its anti-aircraft guns when the enemy is directly above the ship. Try turning to the side to allow more guns to fire if the enemy is coming from an angle. The radio-fuse shells will make quick work of any enemy aircraft or at least critically damage them to the point that they will not be able to make their attack run, while the Bofors will chew down many smaller planes.
+The Bennion has lots of anti-air weaponry. The deadliest will be your ten Bofors and five 127 mm cannons. Let your AI gunners shoot from long distance using radio fuse HE shells. Once enemy aircraft come close enough, you should either take control of the Bofors or the main guns themselves to deal with enemies. As always, lead your target and take into account your ship's momentum if you need to. The ship can fire all of its anti-aircraft guns when the enemy is directly above the ship. Try turning to the side to allow more guns to fire if the enemy is coming from an angle. The radio-fuse shells will make quick work of any enemy aircraft or at least critically damage them to the point that they will not be able to make their attack run, while the Bofors will chew down many smaller planes.
 
 *'''Light craft hunter'''
 
-The Bofors also allow the Cowell to hunt PT boats and other small craft very well. From longer distances, use HE or Radio HE shells to try to hit enemy PT boats and deal splash damage to them. Once you move in closer, take command of your Bofors, load their Universal or HE belts, and slice the PT boats to ribbons. For larger gunboats, using your main guns are still an option. Since you are a destroyer, you are armoured enough to be immune to most of their small cannon and machine gun fire. Your main threat at this point is torpedo boats. Try targetting any PT boats that are heading in your direction. PT boats such as the [[LS 3]] and [[G-5]] are dangerous since they are small, fast and can carry 2 torpedoes. Be sure you make your course erratic and hard to hit, and always be ready to change course in the event that you detect an incoming torpedo. Keep in mind, if a torpedo hits: game over.
+The Bofors also allow the Bennion to hunt PT boats and other small craft very well. From longer distances, use HE or Radio HE shells to try to hit enemy PT boats and deal splash damage to them. Once you move in closer, take command of your Bofors, load their Universal or HE belts, and slice the PT boats to ribbons. For larger gunboats, using your main guns are still an option. Since you are a destroyer, you are armoured enough to be immune to most of their small cannon and machine gun fire. Your main threat at this point is torpedo boats. Try targeting any PT boats that are heading in your direction. PT boats such as the [[LS 3]] and [[G-5]] are dangerous since they are small, fast and can carry 2 torpedoes. Be sure you make your course erratic and hard to hit, and always be ready to change course in the event that you detect an incoming torpedo. Keep in mind, if a torpedo hits: game over.
 
 In terms of opposition:
 
 * [[BTD-1]]: This plane can carry 2 torpedoes which can kill you very quickly, or can attack you from high altitude with a 2,000 lb bomb. Try prioritizing these aircraft to shoot down first.
 * [[SKR-1]]: This patrol ship can shoot very rapidly and deal a lot of damage to your ship. Try engaging it from long range, where your shells will have the advantage.
-* Light cruisers: Light cruisers will have better guns that are capable of beating you in a straight-up gun duel. Try avoiding them or disabling their vital parts, or requesting help.
+* Light cruisers: Light cruisers will have better guns that are capable of beating you in a straight-up gun duel. Try avoiding them or disabling their vital parts, or requesting help, or you can attempt a torpedo attack but this is risky and may result in the loss of your vessel before your torpedoes impact.
 * PT boats: Certain PT boats who penetrate your line of defences might pose a danger by launching off torpedoes. Use your Bofors to try to mow down any PT boat that gets too close, and always be manoeuvring to dodge.
 
 === Pros and cons ===
@@ -205,11 +205,13 @@ After the war, the USS Bennion was sent to the Puget Sound Navy Yard on 21 Octob
 * ''links to approximate analogues of other nations and research trees.''-->
 
 ;Related development
+
 * [[Fletcher (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[USS Aylwin]]
-* [[Harukaze|JDS Harukaze]]
+* [[JDS Harukaze (DD-101)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

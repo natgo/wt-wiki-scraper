@@ -64,10 +64,10 @@ As a tracked vehicle, the ASRAD-R adjusts to narrow and rugged terrains and has 
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 8 (4) || rowspan="2" | -5°/+35° || rowspan="2" | ±180° || rowspan="2" | N/A || 26.4 || 36.5 || 44.3 || 49.0 || 52.1 || rowspan="2" | 19.50 || rowspan="2" | 17.25 || rowspan="2" | 15.90 || rowspan="2" | 15.00
+| rowspan="2" | 8 (4) || rowspan="2" | -10°/+70° || rowspan="2" | ±180° || rowspan="2" | N/A || 88.1 || 121.9 || 148.0 || 163.7 || 174.1 || rowspan="2" | 19.50 || rowspan="2" | 17.25 || rowspan="2" | 15.90 || rowspan="2" | 15.00
 |-
 ! ''Realistic''
-| 17.9 || 21.0 || 25.5 || 28.2 || 30.0
+| 59.5 || 70.0 || 85.0 || 94.0 || 100.0
 |-
 |}
 
@@ -109,10 +109,9 @@ As a tracked vehicle, the ASRAD-R adjusts to narrow and rugged terrains and has 
 
 '''Cons:'''
 
-* Limited anti-ground capabilities due to poor gun depression of -5° and low penetration of 200 mm
+* Limited anti-ground capabilities due to low penetration of 200 mm
 * Subpar mobility and armour protection as a result of using the M113 chassis
 * High profile and thus easy to spot, especially when the radar is active
-* Limited elevation (+35°) causes trouble when fighting
 * Relies on thermal sight to find the hostile aircraft because the opto-electronic tracker can't detect the target in the third-person view
 
 == History ==

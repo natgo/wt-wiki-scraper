@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-Colbert is the second of the [[Suffren (Family)|Suffren-class]] cruisers. Designed by French navy as a light cruiser, she had typical issues for the Washington treaty cruisers. Through the interwar period she was based in Toulon. During the World War Two, she participated in Operation Vado, bombing of the Italian ports of Genoa and Vado Ligure, without much success. With the fall of France and creation of the French Vichy Navy she remained a part of the Vichy forces along with the other vessels stationed in mainland France. With the Case Anton, German military occupation of Vichy France, French sailors scuttled Colbert along with the rest of the French fleet at Toulon on 27 November 1942. Her burned out wreck was scrapped after the war.
+Colbert was the second of the [[Suffren (Family)|Suffren-class]] cruisers. Designed as a light cruiser, she had typical issues for the Washington Treaty cruisers. Through the interwar period, she was based in Toulon. During World War Two, she participated in Operation Vado, shelling the Italian ports of Genoa and Vado Ligure, without much success. With the fall of France and the creation of the Vichy French Navy, she remained part of the Vichy forces, along with the other vessels stationed in mainland France. With Case Anton, the German military occupation of Vichy France, French sailors scuttled Colbert, along with the rest of the French fleet at Toulon, on 27 November 1942. Her burned-out wreck was scrapped after the war.
 
-Colbert was introduced in [[Update "La Royale"]] as a heavy cruiser, owning it to the calibre of the main guns and the overall displacement. She's a very good performer against soft targets thanks to an outstanding SAP shells, but lacks the survivability of mobility to consistently dictate the engagement with the enemy vessels. She's best used in the second line, picking off targets, while avoiding attention. When being fired upon, her best chance is in laying down the smoke screen and retreating, rather than continuing the direct exchange. Her two hydroplanes can be used to capture points without exposing the vessel or laying additional smoke screens, while torpedoes can be used for opportunistic kills, especially on an open sea maps.
+Colbert was introduced in [[Update "La Royale"]] as a heavy cruiser, owing to the calibre of the main guns and the overall displacement. She is a very good performer against soft targets thanks to outstanding SAP shells, but lacks the survivability or mobility to consistently dictate engagements with enemy vessels. She is best used in the second line, picking off targets while avoiding attention. When fired upon, her best chance is to lay down a smoke screen and retreat, rather than continue the direct exchange. Her two hydroplanes can be used to capture points without exposing the vessel or laying additional smoke screens, while torpedoes can be used for opportunistic kills, especially on open sea maps.
 
 == General info ==
 === Survivability and armour ===
@@ -66,7 +66,7 @@ It's worth noting that the 37 mm is an excellent calibre to deal with a light, f
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|Model 1923DT (550 mm)}}
 
-Divided between one triple-launcher on each side, there are six torpedoes in total, with additional 4 in the reloads for the total of 10 torpedoes onboard. The torpedoes themselves offer a great combination of speed and range, complemented by a substantial warhead. As a result, they prove effective for both short-range engagements and long-range area denial. 
+Divided between one triple-launcher on each side, there are six torpedoes in total, with additional 4 in the reloads for the total of 10 torpedoes onboard. The torpedoes themselves offer a great combination of speed and range, complemented by a substantial warhead. As a result, they prove effective for both short-range engagements and long-range area denial.
 
 === Scout plane ===
 {{Specs-Fleet-Plane}}
@@ -86,14 +86,17 @@ That said, when Colbert has an opportunity to fight with the enemies on her term
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * High top speed
 * Exceptional {{Annotation|SAP|Semi armour-piercing}} shells
 * Very good torpedoes
 * Two decent float planes
 
 '''Cons:'''
+
 * Very poor survivability, more comparable to the light cruisers than heavy.
 * No access to the {{Annotation|AP|Armour-piercing}} shells
+* Weak AA
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -103,12 +106,14 @@ That said, when Colbert has an opportunity to fight with the enemies on her term
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_cruiser_suffren_class_colbert Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[Dupleix]]
 
 == External links ==

@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' was a light support helicopter designed to serve the French Army's helicopter fleet, providing reconnaissance, fire support, and transport capabilities. The SA.341F was powered by a single Astazou IIIC turboshaft engine, which gave it high performance and agility. It had a standard armament of an M621 20 mm cannon mounted externally which could fire up to 750 rounds per minute. The SA.341F could also be fitted with two Mistral air-to-air missiles on the side stub wings, creating the "Gazelle Celtic" variant for self-defense and air superiority missions. The SA.341F had a maximum speed of 310 km/h, a range of 670 km, and a service ceiling of 6,000 m, making it suitable for various operational environments and missions.
+Development began in 1966 by Sud Aviation (later Aérospatiale) on order from the French Army for a replacement for the [[SA 313B Alouette II|Alouette II]]. Just a year later, the helicopter, designated SA.340, successfully completed its maiden flight in April 1967. The company continued development of the helicopter and, after some time, presented a new, improved model - the SA.341. One improvement was the replacement of the standard tail rotor with a closed "fenestron" tail rotor, integrated into the tail section of the helicopter.
 
-It was introduced in [[Update 1.87 "Locked On"]]. The Gazelle is a versatile helicopter that can perform different roles depending on the loadout. It can destroy tanks with ATGMs or rockets, or shoot down aircraft or helicopters with AAMs and cannon. It relies on stealth and cover to avoid detection and enemy fire, as it has no radar warning receiver and limited armour.
+SA.341 helicopters were adopted by the French Army in 1973. Specifically for this purpose, an armed modification, the '''SA.341F''', was manufactured: the helicopter received an upgraded engine, as well as the ability to carry various weaponry, including a 20 mm cannon, HOT-2 ATGMs, and Mistral AAMs. A total of approximately 150 SA.341F helicopters were produced before the end of serial production in 1996, which were actively used by France in various military conflicts.
+
+Introduced in [[Update 1.87 "Locked On"]], the '''SA.341F Gazelle''' is a versatile helicopter that can perform different roles depending on the loadout. It can destroy tanks with ATGMs or rockets, or shoot down aircraft or helicopters with AAMs and cannon. It is light, fast, manoeuvrable, and small, allowing it to carry out swift and rapid attacks, as well as quickly evade ground fire. However, it relies on stealth and cover to avoid detection and enemy fire, as it has no radar warning receiver and limited armour.
 
 == General info ==
 === Flight performance ===
@@ -51,9 +53,7 @@ Has no armour plating present on the vehicle, this helicopter is incredibly vuln
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 32 x countermeasures
+* 32 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}

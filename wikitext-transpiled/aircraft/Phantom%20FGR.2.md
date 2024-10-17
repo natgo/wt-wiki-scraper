@@ -140,11 +140,11 @@ Even when stock the Phantom FGR.2 is just about the best-performing aircraft in 
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -153,9 +153,8 @@ Even when stock the Phantom FGR.2 is just about the best-performing aircraft in 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 90 x countermeasures
+* 30 x large calibre countermeasures
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -184,13 +183,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 36 || 54 || || || || 54 || || || || 54 || 36
 |-
 ! [[AIM-9D Sidewinder]] missiles
-| || || 1, 2|||||| |||||| 1, 2|| ||
+| || || 1, 2 || || || || || || 1, 2 || ||
 |-
 ! [[AIM-9G Sidewinder]] missiles
 | || || 2 || || || || || || 2 || ||
 |-
 ! [[AIM-7E Sparrow]] missiles
-| || |||| 1|| 1|| || 1|| 1|||| ||
+| || || || 1 || 1 || || 1 || 1 || || ||
 |-
 ! [[Skyflash]] missiles
 | || || || 1 || 1 || || 1 || 1 || || ||

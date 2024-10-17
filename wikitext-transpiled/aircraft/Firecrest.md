@@ -124,6 +124,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 500 lb G.P. Mk.IV bombs (1,000 lb total)
 * 1 x 450 mm (18 inch) Mark XV torpedo
 * 8 x RP-3 rockets
+* 2 x 500 lb G.P. Mk.IV bombs + 8 x RP-3 rockets
 
 [[RP-3|RP-3 rockets]] - These are exceptional for many objectives. They have good armour penetration, moderate velocity and satisfactory amount of explosive mass when matched to contemporaries as US's [[HVAR]] or the Soviet's [[RBS-132]].
 

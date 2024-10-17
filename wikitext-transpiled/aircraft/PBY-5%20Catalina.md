@@ -143,7 +143,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 The '''''{{PAGENAME}}''''' is defended by:
 
 * 1 x 12.7 mm M2 Browning machine gun, 2 x beam turrets (478 rpg)
-* 2 x 7.62 mm Browning machine guns, nose turret (1,050 rpg = 2,100 total)
+* 1 x 7.62 mm Browning machine guns, nose turret (1,000 rpg)
 * 1 x 7.62 mm Browning machine gun, ventral turret (500 rpg)
 
 == Usage in battles ==
@@ -229,10 +229,13 @@ File:PBY-5 Catalina Aotea.jpg|<small>"The Wandering Witch" camouflage by Aotea</
 {{Youtube-gallery|60IVWW1_Flw|'''The Shooting Range #52''' - ''Pages of History'' section at 04:38 discusses the PBY-5 Catalina.}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+
+* [[PBY-5 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

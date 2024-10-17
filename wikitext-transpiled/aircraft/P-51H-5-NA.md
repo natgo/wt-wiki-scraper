@@ -11,7 +11,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The P-51H can rightly be considered the apex of the P-51 Mustang. The P-51H was an evolution from the lightweight Mustang experiments conducted in 1944. The biggest addition to the P-51H was the Packard Merlin V-1659-9. It featured an automatic boost control system and water injection. With water injection enabled, the V-1659 could produce a whopping 2,000+ hp although only for short bursts. The P-51H also featured extensive airframe modifications like a shorter carburetor air intake and longer fuselage. In preparation for the upcoming invasion of Japan, around 2,000 P-51Hs were ordered. However, the war was nearing its end and many orders were canceled. The P-51H would never see combat in either the Pacific or   European theatres.
+The P-51H can rightly be considered the apex of the P-51 Mustang. The P-51H was an evolution from the lightweight Mustang experiments conducted in 1944. The biggest addition to the P-51H was the Packard Merlin V-1659-9. It featured an automatic boost control system and water injection. With water injection enabled, the V-1659 could produce a whopping 2,000+ hp although only for short bursts. The P-51H also featured extensive airframe modifications like a shorter carburettor air intake and longer fuselage. In preparation for the upcoming invasion of Japan, around 2,000 P-51Hs were ordered. However, the war was nearing its end and many orders were canceled. The P-51H would never see combat in either the Pacific or European theatres.
 
 Introduced in [[Update 1.71 "New E.R.A."]], the '''{{Specs|name}}''' is an extremely dangerous aircraft. The combination of the powerful Merlin engine and lightweight airframe makes the P-51H a capable dogfighter. It also excels in boom and zoom tactics against enemy planes thanks to the various airframe improvements. Much like the other Mustang variants, the P-51H comes equipped with six M2 Browning machine guns and various loadouts of bombs and rockets. Players will be greatly satisfied with the P-51H's capability against enemy aircraft and ability to attack ground targets.
 
@@ -96,7 +96,7 @@ The {{PAGENAME}} handles much better than its predecessors. It has a noticeably 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (260 rpg outer + 260 rpg mid + 390 rpg inner = 1,820 total)
+* 6 x 12.7 mm M2 Browning machine guns, wing-mounted (270 rpg outer + 270 rpg mid + 400 rpg inner = 1,880 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -121,7 +121,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The P-51H-5-NA is a high altitude turn fighter. It has impressive performance against most props it may face and it can put a considerable fight against earlier jets. Compared to its German and British counterparts, it outperforms them by a fair amount in engine performance. The P-51H-5-NA can also be used as a strike fighter, as it can have great loadouts of combinations of bombs and rockets for this purpose.
+The P-51H-5-NA is a high altitude energy fighter. It has impressive performance against most props it may face and it can put a considerable fight against earlier jets. Compared to its German and British counterparts, it outperforms them by a fair amount in engine performance. The P-51H-5-NA can also be used as a strike fighter, as it can have great loadouts of combinations of bombs and rockets for this purpose.
 
 Whilst having great engine performance, the P-51H-5-NA can turn impressively as well, out-manoeuvring most of its German counterparts. It has good ordnance, capable of shooting any aircraft down with relative ease, as well as being able to dodge incoming attacks by jets. It has a good climb rate which also gives it an option to put up a fight against jet encounters, being able to perform boom and zoom attacks as its energy retention is good. It has a tendency to break its wings while zoom climbing at speeds higher than 550km/h. It also uses high octane fuel, which means it has considerable susceptibility to fire.
 
@@ -200,6 +200,7 @@ Despite a large number of P-51H Mustangs being delivered before the end of the w
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p-51h-5_na Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -211,9 +212,11 @@ Despite a large number of P-51H Mustangs being delivered before the end of the w
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other variants in-game
+
 * [[P-51 (Family)]]
 
 ;Aircraft of comparable role, configuration and era
+
 * Hawker [[Tempest (Family)|Tempest]]
 * Kawanishi [[N1K (Family)|N1K]]
 * Kawasaki [[Ki-61 (Family)|Ki-100]]

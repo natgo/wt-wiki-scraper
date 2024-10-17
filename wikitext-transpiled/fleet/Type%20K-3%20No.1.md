@@ -1,11 +1,13 @@
 {{Specs-Card
 |code=jp_no1_ch2
-|images={{Specs-Card-Image|GarageImage_Type_K-3_-_No.1_Class.jpg}}
+|images={{Specs-Card-Image|GarageImage {{PAGENAME}}.jpg|GarageImage {{PAGENAME}} (2).jpg}}
 }}
 
 == Description ==
 <!--In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot; if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.-->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese sub-chaser {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The Japanese Project K3, No.1-class Submarine Chaser No.1 was completed in March 1934 as a part of the Maru 1 Programme. It was the first class of the dedicated Anti-Submarine Warfare vessels in the Imperial Japanese Navy. The major advantage of the vessel was its high speed, while the key issue was a problem with the strength of the hull, which was later addressed in refits, modification of the No.3 subclass before it was built and finally, fully resolved in the [[Type K-7 No.4|No.4-class]]. She spent most of her service in the southern seas, survived the war without any notable successes, and finally was scuttled by the Royal Navy off Singapore.
+
+The '''{{Specs|name}}''' was introduced in [[Update 1.89 "Imperial Navy"]]. The ship has a powerful and varied combination of weapons, as well as good survivability compared to the other vessels in her BR. Her main disadvantages come from being such a large vessel - she has a low manoeuvrability and is easy to hit with nearly anything, from bombs and rockets to artillery strikes.
 
 == General info ==
 === Survivability and armour ===
@@ -122,9 +124,12 @@ On 27 June 1945 No.2 was struck by a 533 mm torpedo from the Balao-class submari
 * [[Type K-7 No.4]]
 
 == External links ==
-''Paste links to sources and external resources, such as:''
+<!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
-* ''other literature.''
+* ''other literature.'' -->
+* [[wikipedia:No.1-class submarine chaser|[Wikipedia] No.1-class submarine chaser]]
+* [http://www.combinedfleet.com/CH-1_t.htm <nowiki>[Imperial Japanese Navy Page]</nowiki> IJN Subchaser CH-1: Tabular Record of Movement]
+* Ships of the World - Escort Vessels of the Imperial Japanese Navy (Special Issue Vol. 45) (世界の艦船 - 日本海軍護衛詳艇史 (増刊第45集條 1996.No.507)) page 66.
 
 {{ShipManufacturer Uraga Dock Company}}
 {{Japan sub-chasers}}

@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=fr_citroen_kegresse_p4t
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -39,7 +39,7 @@ With its four HMGs, this SPAA is quite reminiscent of the [[GAZ-AAA (4M)]] while
 * Front tires are 10 mm thick.
 * The gun platform is 10 mm thick (wood).
 * Suspension wheels are 15 mm thick while tracks are 7 mm thick, and torsion bars are not modeled.
-* A 3 mm plate separates the driver cabin fro the gun platform.
+* A 3 mm plate separates the driver cabin from the gun platform.
 * Mudguards are 3 mm thick.
 
 The {{PAGENAME}} has practically no armour. Every crew member sits exposed to enemy fire, so even a light machine gun can knock out the entire crew in a matter of seconds. This means that the {{PAGENAME}} should never be exposed to any enemy fire, including artillery barrages, enemy ground fire and even strafing attacks from aircraft. The only parts of the vehicle that might stop a rifle-calibre round are the engine block and the gun mount.
@@ -153,6 +153,11 @@ The first half-tracks were built by Frenchman Adolphe Kegresse for Russia in 191
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage P.7.T AA.png
+</gallery>
 
 ;Skins
 

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet sub-chaser {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''{{Specs|name}}''' (NATO reporting name: Poti-class) was a Soviet Cold War corvette class, built for anti-submarine warfare during the 1960s. The Poti-class ships were the first to be powered by gas turbine, and unlike the preceding Project 122bis-class were also significantly smaller. The draught of the Poti-class was to be made as shallow as possible and was only 2 m. The ships were also the fastest corvettes built by the Soviet Union with a maximum speed of 70 km/h. The armament of the Pr.204 consisted of a single 57 mm AK-725 twin automatic artillery system astern, two RBU-6000 anti-submarine rocket launchers and four tubes with SET-40 homing torpedoes. A total of 66 ships were made, with six sold to Bulgaria and three to Romania. The class was replaced in Soviet service by [[MPK Pr.12412|Project 1241.2 Molniya]].
+
+The Project 204 was introduced in [[Update "Sky Guardians"]]. It is the fastest subchaser in the Soviet coastal tree. The main disadvantage of the ship comes from the only offensive armament being located astern, forcing the captain of the vessel to show the full broadside of the ship when trying to engage enemy surface vessels. The torpedoes on the Pr.204 are also very weak as their main usage was against submarines and not surface vessels. The torpedoes carry only 80 kg TNT eq. with a maximum speed of 54 km/h and fairly decent range of 8 km.
 
 == General info ==
 === Survivability and armour ===

@@ -161,6 +161,7 @@ Though the Type 3 Chi-Nu were one of the more powerful tanks churned out of Japa
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_3_chi_nu Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -173,9 +174,24 @@ Chi-Nu WebsiteImage 1.jpg|
 {{Youtube-gallery|O-NvSFl8GaE|'''Chi-Nu - Tank Review''' - ''Napalmratte''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* Type 97 [[Chi-Ha (Family)]]
+* Type 1 [[Chi-He (Family)]]
+* Type 3 [[Chi-Nu II]]
+
+;Other vehicles of similar configuration and role
+* [[File:Germany flag.png|30px|link=]] [[Pz.IV (Family)]] - <small>(Late models)</small>
+* [[File:Kingdom Hungary flag.png|30px|link=]] [[Turan III]]
+* [[File:Kingdom Italy flag.png|30px|link=]] [[P40|P26/40]]
+* [[File:USSR flag.png|30px|link=]] [[T-34 (Family)]] - <small>(Early models)</small>
+* [[File:USA flag.png|30px|link=]] [[M4 Sherman (Family)|M4A1]]
+* [[File:Britain flag.png|30px|link=]] [[Cromwell V]]
+* [[File:Britain flag.png|30px|link=]] [[Valentine XI]] / [[Valentine IX|IX]]
+* [[File:Sweden flag.png|30px|link=]] [[Pvkv IV]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -186,7 +202,7 @@ Chi-Nu WebsiteImage 1.jpg|
 
 === References ===
 <references>
-<ref name="MaiChiNu">Sun, Eun Ae. ''<nowiki>[WT]</nowiki> Type3 Chi-Nu'' SENSHA. Blogger.com, 16 Nov. 2016. Web. 16 May. 2017. [http://sensha-manual.blogspot.com/2016/11/wt-type3-chi-nu.html Website]</ref>
+<ref name="MaiChiNu">Sun, Eun Ae. ''[WT] Type3 Chi-Nu'' SENSHA. Blogger.com, 16 Nov. 2016. Web. 16 May. 2017. [http://sensha-manual.blogspot.com/2016/11/wt-type3-chi-nu.html Website]</ref>
 <ref name="ZalogaJapaneseTank">Zaloga Steven. ''Japanese Tanks 1939-1945'' Great Britain: Osprey Publishing Ltd., 2007</ref>
 </references>
 

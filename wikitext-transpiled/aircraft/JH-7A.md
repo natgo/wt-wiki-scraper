@@ -145,60 +145,64 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8 !! width="5%" | 9
-| rowspan="16" width="30%" | <!-- <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div> -->
+! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
+| rowspan="17" width="30%" | <!-- <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div> -->
 |-
 ! [[250-3 (250 kg)|250 kg 250-3]] bombs
-| || 1 || 4 || 6 || || 6 || 4 || 1 ||
+| || 1 || 4 || 6 || || || 6 || 4 || 1 ||
 |-
 ! [[250-4 (250 kg)|250 kg 250-4]] bombs
-| || 1 || 4 || 6 || || 6 || 4 || 1 ||
+| || 1 || 4 || 6 || || || 6 || 4 || 1 ||
 |-
 ! [[500-3 (500 kg)|500 kg 500-3]] bombs
-| || || 2 || 2 || || 2 || 2 || ||
+| || || 2 || 2 || || || 2 || 2 || ||
 |-
 ! [[500-4 (500 kg)|500 kg 500-4]] bombs
-| || || 2 || 2 || || 2 || 2 || ||
+| || || 2 || 2 || || || 2 || 2 || ||
 |-
 ! [[GB250 (260 kg)|260 kg GB250]] bombs
-| || 1* || 1* || 1* || || 1* || 1* || 1* ||
+| || 1* || 1* || 1* || || || 1* || 1* || 1* ||
 |-
 ! [[GB500 (570 kg)|570 kg GB500]] bombs
-| || || 1* || 1* || || 1* || 1* || ||
+| || || 1* || 1* || || || 1* || 1* || ||
 |-
 ! [[GB1000 (1,090 kg)|1,090 kg GB1000]] bombs
-| || || 1* || 1* || || 1* || 1* || ||
+| || || 1* || 1* || || || 1* || 1* || ||
 |-
 ! [[Type 90-1]] rockets
-| || 7 || 7 || 7 || || 7 || 7 || 7 ||
+| || 7 || 7 || 7 || || || 7 || 7 || 7 ||
 |-
 ! [[Type 130-2]] rockets
-| || || 4 || 4 || || 4 || 4 || ||
+| || || 4 || 4 || || || 4 || 4 || ||
 |-
 ! [[Kh-29T]] missiles
-| || || || 1 || || 1 || || ||
+| || || || 1 || || || 1 || || ||
 |-
 ! [[PL-5B]] missiles
-| 1 || 1 || || || || || || 1 || 1
+| 1 || 1 || || || || || || || 1 || 1
 |-
 ! [[PL-5C]] missiles
-| 1 || 1 || || || || || || 1 || 1
+| 1 || 1 || || || || || || || 1 || 1
 |-
 ! [[PL-8]] missiles
-| || 1 || || || || || || 1 ||
+| || 1 || || || || || || || 1 ||
 |-
 ! K/ADC03A targeting pod
-| || || || || 1* || || || ||
+| || || || || || 1* || || || ||
 |-
-| colspan="10" | Maximum permissible weight imbalance: 1,500 kg
+! 1,400 l drop tanks
+| || || 1 || || 1 || || || 1 || ||
 |-
-| colspan="11" | * The K/ADC03A targeting pod must be carried when equipping laser-guided bombs
+| colspan="11" | Maximum permissible weight imbalance: 1,500 kg
+|-
+| colspan="12" | * The K/ADC03A targeting pod must be carried when equipping laser-guided bombs
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-* Without load
+
+* 3 x 1,400 l drop tanks
 * 2 x PL-5C missiles
 * 12 x 250 kg 250-3 bombs (3,000 kg total)
 * 4 x PL-5B missiles
@@ -233,18 +237,18 @@ The JH-7A also has access to the Soviet/Russian Kh-29T TV-guided air-to-ground m
 The JH-7A vastly upgrades the arsenal of the PLAAF/PLANAF with its great selection of bombs and self-defense IR AAMs, as well as its great manoeuvrability thanks to its aerodynamic design and powerful turbofan engines. While pilots will need to be careful of the aircraft's sheer size and poor low-altitude manoeuvrability, most of the time both ground and aerial targets will have quite a bad day facing a well-piloted JH-7A.
 
 ==== Supersonic bomb truck ====
-The JH-7A can be said to be the one and only dedicated attacker of the PLANAF/PLAAF that fits the description of a "bomb truck". While primarily designed to target surface warships, ground attack missions are also within its scope, boasting the highest payload of all Chinese jets (up to 22 x 250 kg unguided bombs). This high payload, combined with its speed, makes base bombing a breeze.
+The JH-7A can be said to be the one and only dedicated attacker of the PLANAF/PLAAF that fits the description of a "bomb truck". While primarily designed to target surface warships, ground attack missions are also within its scope, boasting the highest payload of all Chinese domestic jets ''(up to 22 x 250 kg unguided bombs; the record in terms of quantity is held by, ironically an interceptor, [[J-11]][<nowiki/>[[J-11A|A]]] with up to 38 x 100 kg bombs)''. This high payload, combined with its speed, makes base bombing a breeze.
 
-However, the JH-7 is also able to operate well in its dual role as a fighter, thanks to new composite materials, FBW, and its mostly well-designed aerodynamic features. While it will often encounter more advanced fighters like the MiG-29 series and F-16 series, which pose significant threats from longer ranges, the JH-7A excels against adversaries at its tier. Despite its considerable size, it has the ability to stick on the tail of enemy jets, pulling AoA for increased firing opportunities, while having the acceleration recover or disengage when necessary. The PL-5C and PL-8 IR AAMs are both strong missiles. However, only being able to carry two PL-8, it can be recommended to reserve them for engaging longer-range targets, and using the PL-5Cs for most other scenarios. The PL-5B, a rear-aspect missile, can also be effective against careless targets thanks to its impressive thrust and range.
+However, the JH-7 is also able to operate well in its dual role as a fighter, do remember the J-prefix in its name means 歼击机 ''(jiān jī jī; Interceptor/fighter)''; thanks to new composite materials, FBW, and its mostly well-designed aerodynamic features. While it will often encounter more advanced fighters like the MiG-29 series and F-16 series, which pose significant threats from longer ranges, the JH-7A excels against adversaries at its tier. Despite its considerable size, it has the ability to stick on the tail of enemy jets, pulling AoA for increased firing opportunities, while having the acceleration recover or disengage when necessary. The PL-5C and PL-8 IR AAMs are both strong missiles. However, only being able to carry two PL-8, it can be recommended to reserve them for engaging longer-range targets, and using the PL-5Cs for most other scenarios. The PL-5B, a rear-aspect missile, can also be effective against careless targets thanks to its impressive thrust and range.
 
 To maximize the JH-7A's capabilities, it is crucial to bear in mind the manoeuvrability limitations inherent in high-wing aircraft. Pilots should exercise caution regarding altitude when engaging both ground and aerial targets, particularly during dogfights, where the JH-7A requires additional altitude for recovery.
 
-==== The taste of one's own medicine ====
+====The taste of one's own medicine ====
 In combined battles, the JH-7A presents some advantages over alternative options such as the F-16A MLU and Q-5L. It has a vast arsenal of weaponry, including up to six player-selected LGBs, scaling from 250 kg, 500 kg, and one ton-class bombs, along with up to 22 unguided bombs for numerous devastating strikes. It can also carry up to two [[Kh-29T]] AGM, which further boosts its engagement range and stand-off strike capability; lastly, 90 mm or 130 mm rocket pods remain an option as well.
 
 For Chinese tech-tree players, the JH-7A presents the opportunity to give enemies with more advanced multirole jets a taste of their own medicine. Equipped with the advanced K/ADC03A targeting pod with high-definition and zoom and a 2nd gen TVD for target acquisition, the JH-7A's life is made considerably easier when locating ground targets. Diving for the target and tossing bombs is effective, but for increased safety, pulling up after dropping bombs and flying sideways while maintaining a lock on the target is recommended. Depending on the quantity of enemy vehicles and their location, players can either pick six GB 250 for maximum efficiency, and precise hits within a 3 m radius of the enemy can terminate their service immediately; while bringing heavier GB 500/1000 will make sure enemies in a certain radius can face their ultimate demise, especially with GB 1000, which can be said as the ultimate solution against the toughest MBTs of its BR. Alternatively, thanks to FCS upgrades, JH-7A can also equip Russian Kh-29T; instead of HEAT warhead, Kh-29T is filled with explosives for maximum efficiency against ground targets, it is more akin to an universal missile against stationary targets and slow-moving vehicles. Make sure to check the weather of the map as TV cameras can be interfered by clouds and smog, as long as enemy targets did not take cover, a precise hit from the high ballistics of this missile can make sure it can neutralize designated targets.
 
-Utilizing unguided bombs from low altitudes also remains a viable strategy; be sure to know where the locations of the enemy's major forces and avoid SPAAs,  anti-air capable attack helicopters, and other jets at all costs. CCRP can aid in destroying stationary targets, provided the area is locked before bombs are released. Despite lacking long-range AGMs for the safest approach, the JH-7A can also employ unguided rockets as a little extra firepower against unaware SPAAs or light vehicles when bombs are depleted, supporting friendly jets and helicopters by eliminating potential threats.
+Utilizing unguided bombs from low altitudes also remains a viable strategy; be sure to know where the locations of the enemy's major forces and avoid SPAAs,  anti-air capable attack helicopters, and other jets at all costs. CCRP can aid in destroying stationary targets, provided the area is locked before bombs are released. Despite only two Kh-29Ts can be carried each flight which does hinders long-range engagement capabilities, the JH-7A can also employ unguided rockets as a little extra firepower against unaware SPAAs or light vehicles after the more precious A2G weapons are depleted, supporting friendly jets and helicopters by eliminating potential threats.
 
 The JH-7A can equip its full complement of air-to-air missiles with minimal overlap with bomb and rocket pylons, allowing it to defend against menacing enemy jets. The tactics will be very similar to air battles, while also having to be wary of enemy SPAAs: sneak up on enemies to deliver the fatal blow.
 
@@ -269,16 +273,17 @@ A crucial operational note for the JH-7A is to never even have the potential for
 * Rather huge target
 * Needs more altitude to recover due to high wing design
 * Long learning curve for the placement of 23 mm autocannon
+* Only two AGMs available per flight
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 ==== What the Aviation Forces Lack ====
-As Mainland China has already developed domestic attacker, namely the [[Q-5 (Family)|Q-5 series]] from Nanchang, there were already needs for a land-based naval aircraft for ship attacking operations i.e. Q-5Yi (强-5乙), probably the very last torpedo bomber ever designed. Soon after the Sino-Vietnamese (with RVN) conflicts of 1974, PLAN found a major piece of puzzle lacking for their South China Sea composition: an attacker capable of launching AShM for standoff operations while able to fly supersonic; while PLAAF also called for a new supersonic attacker to replace the H-5 fleet against the menacing Soviet forces. Thus Chinese military commands listed their requirements for the new attacker by 1976 where the CMC called for a new jet for both aviation forces under the same airframe and capable to defend itself from enemy interceptors while maintaining sufficiently high payload; with Chen Yijian 陈一坚 in lead, XAC was approved for the new bomber on October 1977, while the requirements were also given to SAC and NAMC respectively ''(note from editor: CAC was working on the J-9 program led by Song Wencong 宋文骢, future chief engineer of J-10)'', leading to a "civil-war" and probably the very first competition of aircrafts between Chinese manufacturers.
+As Mainland China has already developed domestic attacker, namely the [[Q-5 (Family)|Q-5 series]] from Nanchang, there were already needs for a land-based naval aircraft for ship attacking operations i.e. Q-5Yi (强-5乙), probably the very last torpedo bomber ever designed. Soon after the Sino-Vietnamese (with RVN) conflicts of 1974, PLAN found a major piece of puzzle lacking for their South China Sea composition: an attacker capable of launching AShM for standoff operations while able to fly supersonic; while PLAAF also called for a new supersonic attacker to replace the H-5 fleet against the menacing Soviet forces. Thus Chinese military commands listed their requirements for the new attacker by 1976 where the CMC called for a new jet for both aviation forces under the same airframe and capable to defend itself from enemy interceptors while maintaining sufficiently high payload; with Chen Yijian 陈一坚 in lead, XAC was approved for the new bomber on October 1977, while the requirements were also given to SAC and NAMC respectively ''(note from editor: CAC was working on the J-9 program led by Song Wencong 宋文骢, future chief engineer of J-10)'', leading to probably the very first competition of aircrafts between Chinese manufacturers.
 
 ==== The Winner of the trio : JH-7 ====
-As the program for new supersonic attacker went on, there were 3 schemes for PLAAF and PLAN command: the first one was the '''H-7 (轰-7)''' led by Chen Yijian with the design of JH-7 for the time being ''(the LRIP series of JH-7 of 1990s)''; '''JH-8 (歼轰-8)''' by SAC led by Gu Songfeng ''(顾诵芬, chief designer of J-8 series)'' with the iconic side intake of what-would-become J-8II in 1984 and the ambitious '''Q-6 (强-6)''' by Lu Xiaopeng ''(陆孝鹏, designer of Q-5 and J-12)'' with side intakes and variable swept wings inspired from the MiG-23MS acquired from Egypt. As for JH-8, the design would decrease its ceiling, radius wasn't considered a good idea for an attacker; while Q-6 was way too ambitious with its powerplant and structure, which were deemed not possible for Mainland China for the era especially during economic reforms where many new technologies have to give the way for the economy. Thus, the design from XAC, H-7, eventually won the competition with lower subsonic drag than the JH-8 design.
+As the program for new supersonic attacker went on, there were 3 schemes for PLAAF and PLAN command: the first one was the '''H-7 (轰-7)''' led by Chen Yijian with the design of JH-7 for the time being ''(the first series of JH-7 of 1990s)''; '''JH-8 (歼轰-8)''' by SAC led by Gu Songfeng ''(顾诵芬, chief designer of [[J-8 (Family)|J-8]] series)'' with the iconic side intake of what-would-become J-8II in 1984 and the ambitious '''Q-6 (强-6)''' by Lu Xiaopeng ''(陆孝鹏, designer of [[Q-5 (Family)|Q-5]] and J-12)'' with side intakes and variable swept wings inspired from the MiG-23MS acquired from Egypt ''(No. 9501, now an exhibit of China Aviation Museum)''. As for JH-8, the design would decrease its ceiling, radius - contradicted to CMC's requirements; while Q-6 was way too ambitious with its powerplant and structure, especially the VSW design which were deemed not possible for Mainland China for the era, especially during economic reforms where many new technologies have to give the way for the economy. Thus, the design from XAC, H-7, eventually won the competition with lower subsonic drag than the JH-8 design.
 
-Due to the design philosophy differences between PLAAF and PLANAF (Side-by-side vs tandem cockpit), PLAAF eventually quit the H-7 program and PLANAF's scheme won the overall design for the new jet. The new jet would utilize the 50 imported, used RR Spey RB.168 MK.202 from Great Britain as the new powerplant ''(which was intended for the J-13 program)''; while a H-5 named "Eagle" (鹰式武器试验机) would test the Type 232H PD radar and the AShM for future aircrafts. By a certain exhibition in 1988, Ministry of Aviation Industry ''(soon AVIC)'' exhibited the B-7 prototype to the public at its 1/100th prototype; while its prototypes made it to the skies in 1990s with fatalities during test flight ''(085 prototype with the pilot duo)'', the new JH-7 joined PLANAF service by late 1990s during a certain Zhuhai Airshow as the '''FBC-1''' fighter-bomber with only provisions of 18 production aircrafts due to the engine supplies.
+Due to the design philosophy differences between PLAAF and PLANAF (Side-by-side vs tandem cockpit), PLAAF eventually quit the H-7 program and PLANAF's scheme won the overall design for the new jet. The new jet would utilize the 50 imported, used RR Spey RB.168 MK.202 from Great Britain as the new powerplant ''(which was intended for the J-13 program)''; while a H-5 named "Eagle" (鹰式武器试验机) would test the Type 232H PD radar and the AShM for future aircrafts. By a certain exhibition in 1988, Ministry of Aviation Industry ''(soon AVIC)'' exhibited the B-7 prototype to the public at its 1/100th prototype; while its prototypes made it to the skies in 1990s with fatalities during test flight ''(085 prototype with the pilot duo)'', the new JH-7 entered service with PLANAF by late 1990s during a certain Zhuhai Airshow as the '''FBC-1''' fighter-bomber with only provisions of 18 production aircrafts due to the engine supplies.
 
 ==== The Ultimate Form - JH-7A ====
 As the introduction of Su-30MKK Flanker-H to PLANAF by late 1990s, PLANAF sought for utilizing the JH-7 platform for their latest AShM as well as provisions for BVR capabilities to fulfill the abbreviation "J" ''(歼, '''interceptors''')''; as well as the testbed of JL-10A radar as the alternative to CAC's J-10 program ''(which the Type 1473 was certified)''. This was also one of the new jets to utilize the PLAAF equivalent of NATO MIL-STD-1553B main data bus, MFDs and HUD; as well as a new FBW control as the backup for J-10, these features eventually become the foundations of the new JH-7A fighter-bomber utilizing CAD design via Dassault CATID V3, new pair of tail fins, as well as removed wing fences. First flown by early 2000s, JH-7A earned both the orders from PLANAF and PLAAF, distinguished by the red numberings (PLANAF) and yellow numbering (PLAAF) thanks to its multirole missions; although incidents have caused lives of PLA pilots through its service up to this date, it has still been a humble yet effective fighter-bomber for the aviation forces of PLA and a delivery platform (under the JH-7AII upgrade) of some latest airborne AShM, AGM or ALCM ''(air-launched cruise missile)'' platforms.

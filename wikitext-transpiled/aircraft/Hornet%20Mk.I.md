@@ -217,10 +217,13 @@ Other variants were also produced, with some experimental ones fitting a search 
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Hornet Mk.III]]
+
+;Aircraft of similar configuration or role
+* [[F7F-1]]
+* [[Ki-83]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

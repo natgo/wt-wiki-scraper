@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''{{Specs|name}}''' was the second production variant of the '''Nakajima Ki-43 ''Hayabusa''''' family of fighters. The Ki-43 was the main Japanese land based single engine fighter with almost 6000 units built between all variants. The first prototype of the aircraft flew in February 1942, it featured a new 2 stage supercharged engine that used a three blade propeller, a reinforced wing structure which supported racks for drop tanks or bombs and rubber coated fuel tanks as well as higher resistance against 7.7mm bullets for the propeller and a slightly larger canopy.
 
-== General info ==
+It has been in the game since the start of the Open Beta Test prior to Update 1.27. The '''{{Specs|name}}''' follows the spirit of its predecessor, the Ki-43-I. It features a light airframe prone to damage even by light machine gun fire, and has poor armament against other fighters but specially heavier targets. However it comes with some improvements, mainly the new engine which gives it more power, as well as slightly more survivability and the addition of bombs. It still relies on quick dogfights to defeat its opponents, using its superior agility to quickly gain an upper hand. Now for ground battles it can use 2 x 250KG bombs to destroy enemy units, with this bomb size it is recommended going for light tanks, armoured cars, SPAAs or any open top vehicles.
+
+==  General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->

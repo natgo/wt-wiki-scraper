@@ -5,12 +5,14 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (阿賀野, [[Abbreviations#.28JP.29_Naval|namesake]]: Agano River) is a rank {{Specs|rank}} Japanese light cruiser {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+'''Agano''' (Japanese: 阿賀野) was the lead ship of her class of Imperial Japanese Navy light cruisers (in Japanese also designated as 阿賀野型軽巡洋艦 - second-rank cruisers of the Agano class). Launched and commissioned in October 1940, she saw limited combat during her service. Although designed as a modern vessel, she was criticised for her inadequate anti-aircraft armament. Agano participated in several missions, including the Battle of Bougainville Island, but her role was marginal at best. In November 1943, she was heavily damaged during the Rabaul air raids, losing her rudder and two propellers. While attempting to return to Japan for repairs, she was torpedoed by the American submarine USS Skate on 16 February 1944 and subsequently sank, marking the first loss of her class.
+
+'''{{Specs|name}}''' was introduced along with the initial release of the Imperial Japanese Navy in [[Update 1.89 "Imperial Navy"]]. She has a fairly high speed, long-lance torpedoes, scout planes, and a good rate of fire, making it easy to fight against destroyers and other cruisers, while also being very competent at winning missions through objectives. Her biggest downsides are very limited anti-air capability, relatively poor survivability, and low penetration of the armour-piercing rounds, making her a difficult vessel to play in uptiers.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+''Armour is virtually non-existent. A few accurate salvos from an american. soviet or even german destroyer will send IJN Agano to the bottom of the sea.'' 
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -42,13 +44,13 @@ The Agano is very fast for a cruiser and can keep up with some destroyers when f
 {{Specs-Fleet-AA}}
 {{main|25 mm/60 Type 96 (25 mm)}}
 
-''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.''
+''Anti-aircraft defenses can be described as adequate at best. 10 x 25 mm AA guns in four separate mounts can shoot down a slow-flying or non-maneuvering plane at distances of under 2 km. However, they will have trouble dealing with a fast and maneuvering aircraft.''
 
 === Additional armament ===
 {{Specs-Fleet-Additional}}
 {{main|Type 93 Model 1, Mod 2 (610 mm)}}
 
-''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.''
+''The ship has 16 type 93, mod 2 torpedos in 2 torpedo tubes with the impressive explosive mass of almost 500 kg (627 kg of TNT equivalent), and the travel distance of 20 km at the speed of 91 km\h. They are capable of dealing a fatal blow to most opponents including battleships, provided that the hit lands anywhere near their ammo.Note that the firing angles of the tubes are very limited.'' 
 
 === Scout plane ===
 {{Specs-Fleet-Plane}}
@@ -56,7 +58,7 @@ The Agano is very fast for a cruiser and can keep up with some destroyers when f
 Located amidships is a catapult with one Aichi E13A1 scout plane (the second stored on the trolley is not available) which provides unique offensive and defensive abilities, expanding tactical options. Ship-launched scout planes fly just like regular tree units but lack munition choices and cockpit views. The E13A1 is equipped with a [[Type 97 navy (7.7 mm)|7.7 mm Type 97]] defensive machine gun and a formidable load of 4 x 60 kg bombs. It also has the scout plane ability to cap zones and lay down smoke cover (up to 3 times). Captains will be wise to remember to utilize the aircraft and consider when best to use it, for example to cap a point early or late in the match, to create a smoke screen to stymie enemy bombardment and repair, to attack enemy units directly, or perhaps something completely new! Carrying a heavier bomb load than most other scout planes, this unit has a very good chance to sink enemy boats or even a destroyer.
 
 == Usage in battles ==
-''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
+''When downtiered your best bet is to go after enemy destroyers as your fast-firing (6 second reload) 6inch guns provide you with excellent means of disposing of them. One has, however, to be accurate with their shots, as the ready rack only has 20 shells per gun, and when that is gone you are left in a very precarious position. It is best to find a safe spot and have it reloaded. Try to avoid duels with enemy cruisers as your guns can hardly penetrate most of them.  When uptiered you can face WWI battlecruisers, heavily armoured cruisers which your guns can only scratch. Your only realistic way of fighting them is to use your torpedos.''  
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -74,7 +76,7 @@ Located amidships is a catapult with one Aichi E13A1 scout plane (the second sto
 * Torpedoes have very limited firing arc
 * Armour is mediocre, other cruisers will punch right through it at close range
 * Turrets are large and lack armour, can thus easily be disabled
-* Main gun shells are very weak
+* Main gun shells lack penetration power
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -97,10 +99,14 @@ Her destroyer escort Oite took on 523 survivors from the Agano, but was herself 
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
-''Paste links to sources and external resources, such as:''
+<!-- ''Paste links to sources and external resources, such as:''
 
 * ''topic on the official game forum;''
-* ''other literature.''
+* ''other literature.'' -->
+
+* [[wikipedia:Japanese cruiser Agano|[Wikipedia] Japanese cruiser Agano]]
+* [https://japanese-warship.com/light/agano-class/ <nowiki>[大日本帝国軍 主要兵器]</nowiki> 『阿賀野型軽巡洋艦』 【Agano-class light cruiser】]
+* [https://japanese-warship.com/light/agano/ <nowiki>[大日本帝国軍 主要兵器]</nowiki> 阿賀野【阿賀野型軽巡洋艦　一番艦】 【Agano-class light cruiser first】]
 
 {{ShipManufacturer Sasebo Naval Arsenal}}
 {{Japan light cruisers}}

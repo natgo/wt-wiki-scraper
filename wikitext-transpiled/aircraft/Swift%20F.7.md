@@ -163,7 +163,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Without load
 * 2 x Fireflash missiles
 
-The Fireflash missile was the first air-to-air guided missile put into service with the United Kingdom's Royal Air Force. Built by Fairey Aviation, the same company who built the [[Swordfish Mk I|Swordfish]], this missile utilised radar beam riding guidance to get the missile onto a target. Though not as simple to use as other missiles found in-game, it can be a surprise to enemy fighters: they are usually not expecting head-on attacks and it will result in them having to go back and watching replays in unbelief to see what took them out.
+The Fireflash missile was the first air-to-air guided missile put into service with the United Kingdom's Royal Air Force. Built by Fairey Aviation, the same company who built the [[Swordfish Mk I|Swordfish]], this missile utilised radar beam riding guidance to get the missile onto a target. Though not as simple to use as other missiles found in-game, it can be a surprise to enemy fighters: they are usually not expecting head-on attacks and it will result in them having to go back and watching replays in disbelief to see what took them out.
 
 The odd-looking missile consists of a central dart attached to two boosters. The boosters spin-stabilize the missile in flight and propel the missile to speeds upwards of Mach 2. 1.5 seconds after launch, with fuel spent, the boosters separate and the missile would coast the rest of the way to the target, still receiving guidance from the controlling aircraft. Only one can be guided at any time, launching both at once can result in instant self-destruct sequence, potentially obliterating Swift F7 itself.
 

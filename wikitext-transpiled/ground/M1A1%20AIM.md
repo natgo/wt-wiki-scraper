@@ -137,17 +137,18 @@ The AIM plays just like its regular tech tree counterparts, meaning seasoned Abr
 '''Pros:'''
 
 * Has access to 2nd generation thermal sights allowing for easier targeting especially at long range
-** Also has access to 2nd generation thermals for the commander's machine gun
-* Effective turret armour
-* Good gun handling and reload speeds
-* M830A1 allows the engagement of helicopters
-* Highly effective KE-W APFSDS
+* Good gun handling 
+* Excellent reload speed 
+* M830A1 is effective against helicopters
+* Decent KE-W APFSDS
 
 '''Cons:'''
 
-* Poor stock grind with no tier 1 APFSDS round
-* Poor hull armour, easily penetrated by its contemporaries
-* Raised engine deck limits firing angles when the main gun is pointed rearwards
+* No stock APFSDS
+* Traditional "NATO hump" impairs firing above the engine
+* Poor armor and survivability, easily one shotted from every angle
+* Engine is extremely loud and high-pitched, easily detectable
+* Large profile and easy to find
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

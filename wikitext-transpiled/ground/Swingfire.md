@@ -155,7 +155,7 @@ The [[Advance to the Rhine]] location presents an adequate example for both of t
 
 [[File:Swingfire_FlankPreventions.jpg|thumb|360x360px|right|An example of why should never fire secondary launcher immediately: another enemy nearby the first target.{{Break}} Consider curving missiles horizontally, that way hitting enemies behind buildings and in uncomfortable situations like this.]]
 
-It's very tempting to fire the second launcher immediately in case of a miss, but if alone the player should let the first launcher to reload at least half-way before firing again, so the Swingfire won't get overrun if missing again. If they are already rushing towards the Swingfire - fire at will. This is very important against fast targets like the commonly found German tanks [[Leopard (Family)|Leopards]] and [[Ru 251]] or the Soviet [[T-54/55 (Family)]].
+It's very tempting to fire the second launcher immediately in case of a miss, but if alone the player should let the first launcher to reload at least half-way before firing again, so the Swingfire won't get overrun if missing again. If they are already rushing towards the Swingfire - fire at will. This is very important against fast targets like the commonly found German tanks [[Leopard 1 (Family)|Leopard Is]] and [[Ru 251]] or the Soviet [[T-54/55 (Family)]].
 
 In RB, it's possible to destroy planes with missiles, achieving "unguided" reward. It's not recommended to do in AB, since planes there can do unrealistic manoeuvres without damaging themselves into the ground or ripping their wings off. Helicopters can be shot down with 4 km range ATGM, but remember that Swingfire missile is the rather slow and cautious pilot will just dodge the shot. Soviet helicopters like the [[Mi-4AV]] provide a rather easy frag thanks to their huge size; their Falanga ATGM is also ranged up to 4 km therefore the possibility of sniping it with the Swingfire is possible.
 
@@ -179,7 +179,7 @@ If an enemy is behind smokes:
 
 '''ATGM carriers''' - Avoid attacking other ATGM carriers directly to the line-of-sight; use the fact, that you can fire over tall obstacles in front of your carrier and they usually cannot because of their extremely fast missiles. Be wary of certain ATGM carriers like the Japanese [[type 60 ATM]], as they can do the same to you. Destroy them before they can reach you or try to curve missiles into your cover, as your hull is very long and tall, which makes it vulnerable to top-down attacks of other vertical ATGM.
 
-'''Planes''' - Drive backwards or frontally into the Swingfire's smoke screen and with some luck they won't hit the ammo or the tank commander in the back. The best defence is to reposition situationally based on the enemy air superiority. If gaining notoriety in a area of the map, proceed to retreat and avoid sticking around too much. If needed, attempt to use the Machine gun and score some hits in the plane.  Call the treat to any allied aircraft or nearby anti-air tank!
+'''Planes''' - Drive backwards or frontally into the Swingfire's smoke screen and with some luck they won't hit the ammo or the tank commander in the back. The best defence is to reposition situationally based on the enemy air superiority. If gaining notoriety in a area of the map, proceed to retreat and avoid sticking around too much. If needed, attempt to use the Machine gun and score some hits in the plane. Call the treat to any allied aircraft or nearby anti-air tank!
 
 ;Counter-tactics
 <!--What to expect, if it would be in command of the enemy and how to counter it. (i.e. Just flank)-->

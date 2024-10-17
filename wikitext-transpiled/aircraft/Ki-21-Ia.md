@@ -189,7 +189,7 @@ In 1936, the Imperial Japanese Army Air Service issued a requirement for a new h
 
 Mitsubishi produced two prototypes of the Ki-21 to meet these standards. This new design proved superior to the design submitted by Kawasaki but was nearly on-par with Nakajima's submission. In early tests, Nakajima's prototype, the Ki-19 had more reliable engines and a better bombing platform, while the Ki-21 had better overall performance. In later rounds of testing, after the Army Air Service ordered modifications to be made to both prototypes, the Ki-21 came out on top and won the Army's contract for a heavy bomber.
 
-Production began in November 1937 and the bomber began to see action in August 1938. The specific variant seen in game, the Ki-21-Ia, was used on the Chinese front during the Second Sino-Japanese War and against the Soviet Union during the Nomohan Incident. The Ki-21 would start off successfully during early World War 2, but by the end of World War 2 it was relegated to second line duties or kamikaze attacks. Overall 2,064 Mitsubishi Ki-21s of all variants were produced for the Japanese Army Air Force.
+Production began in November 1937 and the bomber began to see action in August 1938. The specific variant seen in game, the Ki-21-Ia, was used on the Chinese front during the Second Sino-Japanese War and against the Soviet Union during the Nomohan Incident. The Ki-21 would start off successfully during early World War 2, but by the end of World War 2 it was relegated to second line duties or kamikaze attacks. Overall 2,064 Mitsubishi Ki-21s of all variants were produced for the Japanese Army Air Service.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

@@ -213,24 +213,24 @@ The MBT-70 benefits greatly from squad play. A skilled lone MBT-70 is most certa
 
 '''Pros:'''
 
-* Composite armour greatly enhances its survivability on the battlefield
-* Stock ammunition consists of the good MGM-51C "Shillelagh" guided missile, means no ammo costs for using it, plus a decent but inferior HEAT shell.
-* Has access to APFSDS shells with great close-range penetrating power.
+* Stock ammunition consists of the good MGM-51C "Shillelagh" guided missile, means no ammo costs for using it other than a longer reload, plus a decent but inferior HEAT shell.
 * Has a top mounted 20 mm anti-aircraft cannon installed which can also be used to defeat lightly armoured vehicles reliably with its 44 mm of penetration.
 * Has access to hydropneumatic suspension, useful for hull down engagements.
 * Extremely fast in both forwards and reverse.
 * Fast acceleration.
 * Autoloader means a consistent load rate of 7.5 seconds.
+* Decent Optics for the BR.
 
 '''Cons:'''
 
-* Mediocre reload rate of 7.5 seconds, lower than that of the equal-tiered KPz-70.
+* Terrible reload rate of 7.5 seconds, lower than that of the equal-tiered KPz-70, and worse than T-72s and T-64s.
 * Generally less protection from composite armour, relative to other Rank 6 tanks.
 * Weak side armour and LFP.
 * 20 mm AA gun overheats rather quickly with sustained firing.
 * Ammo racks are easy targets and are not entirely covered by its composite armour.
 * Vulnerable to the rear due to raised engine deck, it can be solved if hydropneumatic suspension are used.
 * Cramped interior, loss of more than one crew member more likely when penetrated.
+* APFSDS is terrible for its BR.
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

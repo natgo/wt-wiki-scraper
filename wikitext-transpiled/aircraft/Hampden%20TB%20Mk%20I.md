@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=hp52_hampden_tbmk1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -199,6 +199,11 @@ RAF Squadron No.49 was the first to receive their new Hampdens. Bearing the brun
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Hampden TB Mk I.png
+</gallery>
 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=hp52_hampden_tbmk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]

@@ -30,10 +30,10 @@ Introduced in [[Update 1.43]], the Yak-9 was the workhorse of the Soviet Air For
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 560 || 545 || rowspan="2" | {{Specs|ceiling}} || 19.8 || 20.3 || 13.5 || 13.4 || rowspan="2" | 350
+| 559 || 544 || rowspan="2" | {{Specs|ceiling}} || 19.8 || 20.3 || 13.5 || 13.4 || rowspan="2" | 350
 |-
 ! Upgraded
-| 593 || 577 || 18.4 || 19.0 || 18.7 || 16.0
+| 594 || 577 || 18.3 || 19.0 || 18.7 || 16.0
 |-
 |}
 

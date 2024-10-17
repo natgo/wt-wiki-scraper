@@ -137,9 +137,8 @@ Survivability of the Kfir is far greater than any of its contemporaries even tho
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
-** 2 x 30 mm DEFA 552A cannons + 36 x countermeasures
+* 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
+* 36 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -150,7 +149,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_Kfir_C.2.png]]</div>
+| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_Kfir_C.2.png]]</div>
 |-
 ! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
 | || 1 || || || || 1 ||
@@ -188,12 +187,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Python 3]] missiles
 | 1 || 1 || || || || 1 || 1
 |-
+! 880 l drop tanks
+| || || || 1 || || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 1 x 880 l drop tank
 * 2 x AIM-9D Sidewinder missiles
 * 2 x Shafrir 2 missiles
 * 4 x Shafrir 2 missiles
@@ -221,7 +223,7 @@ The Kfir suffers from the same issue as other delta wing designs such as the [[J
 
 One way of playing the Kfir C.7 is to fly around the center of the map and launch missiles at distracted enemies from behind. This will require you to stay low after takeoff and fly near the edge of the map to avoid being seen or being detected by enemy radar. Once the furball has formed, climb above the enemy, then look for enemies that are slow, distracted, un-aware of their surroundings then launch a Python 3 missile at 4 km or closer. The main challenge to this play style is to find distracted enemy and be unnoticed when launching your missile.
 
-Another way of playing the Kfir C.7 is to accelerate past Mach after takeoff, and then proceed to zoom up to high altitude at roughly 6-8 km where missiles are capable of flying much further, where the Kfir can truly stretch its exceptional speed and performance. Its primary weapon, the [[Python 3]], will have an exceptional range at these altitudes and it is not uncommon to achieve kills at ranges over 5-6 km. Be mindful that the radar will slave the seeker head of the [[Python 3]], and can be used to help achieve locks even if the plane is not directly off the nose of the aircraft. However, this play style is not recommended unless down tiered due to SARH and ARH missiles being very common at battle rating 11.3 and higher
+Another way of playing the Kfir C.7 is to accelerate past Mach after takeoff, and then proceed to zoom up to high altitude at roughly 6-8 km where missiles are capable of flying much further, where the Kfir can truly stretch its exceptional speed and performance. Its primary weapon, the [[Python 3]], will have an exceptional range at these altitudes and it is not uncommon to achieve kills at ranges over 5-6 km.
 
 ==== SB ====
 
@@ -244,17 +246,17 @@ The Kfir C.7 is one of the few aircraft with access to the very powerful [[Pytho
 '''Pros:'''
 
 * Great flight characteristics
-* Amazing control authority at any speed
+* Amazing control authority at medium and high speeds.
 * Above average acceleration below Mach 1, and one of the fastest acceleration in the game above Mach 1
 * Extremely fast, especially at high altitudes
 * Has extremely powerful, long range Python 3 missiles with exceptional manoeuvrability
 * Ballistic computer for guns, bombs, and rockets
 * 10 km rangefinding radar can be helpful for locating targets in Simulator battles
-* Python 3 and AIM-9G missiles can be slaved to radar locks
 
 '''Cons:'''
 
 * Limited gun ranging radar which does not track or lock enemies
+* Nose of the aircraft can feel unstable at low speeds.
 * Delta wing configuration bleeds airspeed quickly while in a high G turn
 * Only 36 countermeasures, which can be quickly used up, especially if split 50/50 between chaff and flares
 * Missiles are pointed down, requiring you to pull alpha or be above the target to get a lock

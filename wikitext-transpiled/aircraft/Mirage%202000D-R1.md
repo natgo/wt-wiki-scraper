@@ -136,7 +136,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
 ** 16 x large calibre countermeasures
-** 196 x large calibre countermeasures
+** 168 x large calibre countermeasures + 54 x countermeasures + 48 x chaff
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -224,7 +224,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 '''Pros:'''
 
 * Has excellent flight characteristics; very responsive engine and flight control surfaces
-* Access to tier 1 countermeasures that give a total of 88 CMs; selection of flare/chaff to your choosing
+* Access to tier 1 countermeasures that gives access to MAW and a total of 270 CMs (168 being large-caliber); selection of flare/chaff to your choosing, besides 48 small-caliber chaff
 * Stock R.550 Magic II all-aspect heat-seekers leaves you with plenty defensive firepower
 * All-round great ground-pounding ordnance, including 4 types of laser guided bombs, 2 types of unguided bombs, and the vastly powerful AS-30L laser guided missiles
 * Thermal camera pod lets you find ground targets with ease in combined battles

@@ -1,7 +1,7 @@
 {{About
 | about = American jet fighter '''{{PAGENAME}}'''
-| usage = the other version
-| link = F-14B
+| usage = other versions
+| link = F-14 (Family)
 }}
 {{Specs-Card
 |code=f_14a_early
@@ -209,7 +209,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! 280 gal drop tanks
 | || || 1 || || || 1 || ||
 |-
-| colspan="10" | * Use of dual Sparrow missiles on hardpoint 4 prevents use of the marked options on hardpoint 3 <br> <sup>†</sup> The AIM-54A Phoenix missiles on hardpoint 4 cannot be carried in conjunction with 2,000 lb LDGP Mk 84 bombs on hardpoint 3
+| colspan="10" | * Use of dual Sparrow missiles on hardpoint 5 prevents use of the marked options on hardpoint 4 <br> <sup>†</sup> The AIM-54A Phoenix missiles on hardpoint 5 cannot be carried in conjunction with 2,000 lb LDGP Mk 84 bombs on hardpoint 4
 |-
 |}
 
@@ -339,7 +339,6 @@ The last thing is using the combat flaps, but overusing them and doing it in the
 ** Detects a wide variety of targets:
 *** AI LO, AI HI, AAA/AI
 *** SAM LO, SAM MID, SAM HI
-* The [[AIM-9H Sidewinder|AIM-9H]] has much better flare resistance than previous AIM-9s (such as the [[AIM-9G Sidewinder|G]] or [[AIM-9J Sidewinder|J]] variants)
 
 '''Cons:'''
 
@@ -349,7 +348,6 @@ The last thing is using the combat flaps, but overusing them and doing it in the
 * Cannot pull sustained Gs when above 1,000 km/h IAS (11-13 G) in RB or the wings will rip
 * The TF30 is one of, if not the hottest running engine in-game, requiring the need to throttle down (and massively lose speed and energy retention) to reliably flare off infrared missiles
 * 60 countermeasures may be a bit lacking considering the extremely high engine temperature
-* The AIM-54A only has 17G overload and is sluggish due to high weight, and thus is rather easy to dodge
 * The AIM-54A's rocket motor burns for a very long time, giving enemies plenty of time to spot it early and evade
 * Requires lots of work and control binds related to the radar and variable wing sweep angle to make the most of the aircraft
 * The Damping SAS mode limits the AoA so much that it performs abysmally in one-circle fights (scissors, split-S, etc.) thus forcing the player to use the much more difficult Manual SAS mode (SB with full-real controls)
@@ -401,12 +399,16 @@ File:F-14A Early Wallpaper 7.jpg|
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
+
+* [[F-14 (Family)]]
+
 ;Other jet planes with variable sweep wings
 
+* [[F-111A]]
+* [[Tornado (Family)]]
 * [[MiG-23 (Family)]]
 * [[Su-17/22 (Family)]]
-* [[Tornado (Family)]]
-* [[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

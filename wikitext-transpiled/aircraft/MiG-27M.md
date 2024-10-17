@@ -1,7 +1,7 @@
 {{About
 | about = Soviet jet fighter '''{{PAGENAME}}'''
-| usage = the other MiG-27
-| link = MiG-27K
+| usage = other versions
+| link = MiG-27 (Family)
 }}
 {{Specs-Card
 |code=mig_27m
@@ -141,13 +141,13 @@ The plane gets some 10 mm armour behind the pilot, and 9 mm on each side of the 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm GSh-6-30 cannon, belly-mounted (300 rpg)
-** 1 x 30 mm GSh-6-30 cannon (300 rpg) + 72 x countermeasures
+* 1 x 30 mm GSh-6-30 cannon, belly-mounted (300 rpg)
+* 60 x large calibre countermeasures
+* 12 x countermeasures
 
 The GSh-6-30 is the most powerful cannon mounted on any top-tier aircraft. It uses large 30 mm rounds and has an incredibly high rate of fire at just under 5,000 rounds per minute. This means that it will fire about 83 rounds every second! A brief burst will obliterate any aircraft. In a ground attack role, it will perforate thinly armoured targets like light tanks and SPAAs and can even penetrate the roof armour of some MBTs. However, there are a few things to keep in mind: as with other Gatling guns, it needs a brief spool-up time before firing that should be accounted for when firing short bursts, and the 300 round ammunition supply can be depleted in no time at all — about 3.6 seconds to be more precise.
 
-The MiG-27M has a good supply of large-calibre countermeasures, launched from dispensers mounted on the wing gloves. Their number and size make it much easier to defend against missiles from enemy aircraft and disrupt the radar locks of SPAA.
+The MiG-27M has a good supply of countermeasures, launched from dispensers mounted on the wing gloves. Their number and size make it much easier to defend against missiles from enemy aircraft and disrupt the radar locks of SPAA.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -214,7 +214,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Delta-NG targeting pod
 | || || 1<sup>†</sup> || || || ||
 |-
-! 800 l drop tanks
+! 820 l drop tanks
 | || || || 1 || || ||
 |-
 | colspan="8" | Maximum permissible weight imbalance: 700 kg
@@ -226,7 +226,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 800 l drop tank
+* 1 x 820 l drop tank
 * 2 x R-13M1 missiles
 * 4 x R-60M missiles
 * 22 x 100 kg OFAB-100 bombs (2,200 kg total)
@@ -315,13 +315,14 @@ The MiG-27M is a great aircraft for ground RB because of its decent manoeuvrabil
 ;Related development
 
 * [[MiG-23 (Family)]]
+* [[MiG-27 (Family)]]
 
-; '''Other jet planes with variable sweep wings'''
+;Other jet planes with variable sweep wings
 
+* [[F-111A]]
+* [[F-14 (Family)]]
 * [[Tornado (Family)]]
 * [[Su-17/22 (Family)]]
-* [[F-14 (Family)|F14 (Family)]]
-* [[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -4,14 +4,9 @@
 }}
 
 == Description ==
-<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian strike aircraft {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]].
+<!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->The '''{{Specs|name}}'''was an Italian twin engine fighter/bomber prototype designed and produced in 1943. It was an improvement of the SM.88, a similar aircraft. The aircraft was powered by two German Daimler-Benz 605 engines. Development of the prototype was slow, being finished in 1943 and tested in 1944. The aircrafts performance was below expectations, and the prototype was damaged after an Axis pilot in a C.205 mistook the prototype for an American P-38 Lightning and engaged it. The aircraft was grounded for repairs and destroyed on the ground due to Allied bombing.
 
-The {{PAGENAME}} is an Italian twin-engine fighter/bomber prototype designed and produced in 1943. It utilized two imported German Daimler-Benz 605 engines. It was designed to have better performance than its predecessor, the SM.91. The middle gondola was eliminated and the cockpit for the crew of two, the pilot and the gunner, was moved behind the left engine. The gunner remotely operated a fixed 12.7 mm Breda-SAFAT machine gun located in the aircraft's tail.
-
-The {{PAGENAME}} had an armament complement of three 20 mm MG 151 autocannons and four 12.7 mm Breda-SAFAT machine guns.
-
-In-game this plane can reach over 16 m/s in climb rate and with its air spawn, that is enough to get a sufficient altitude above most fighters once the engagements start.
+It was introduced in [[Update 1.87 "Locked On"]]. The SM.92 is a decent jack of all trades, it has good offensive and suspended armament, a decent climb rate with air spawn and average agility. The aircraft is more ideal for boom and zoom tactics in case of air combat, due to its offensive armament a short well placed burst is enough to destroy most fighters, and the armament is also sufficient to engage bombers at high altitudes. For ground battles the 2 x 500KG bombs can destroy any target in sight, even heavy tanks, so you can attack ground units and then switch to intercept enemy bombers or ground attackers.
 
 == General info ==
 === Flight performance ===

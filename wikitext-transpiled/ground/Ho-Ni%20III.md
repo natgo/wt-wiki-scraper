@@ -144,16 +144,22 @@ Ho-Ni series SPGs went into production in 1942, and the order to design and prod
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_3_ho_ni_III Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.'' -->
-;Predecessor:
-* [[Ho-Ni I]]
+* ''links to approximate analogues of other nations and research trees.''-->
 
-;Other vehicles using [[Chi-Ha]] chassis:
-* [[Chi-Ha Short Gun]]
-* [[Chi-Ha LG]]
-* [[Ho-Ro]]
+;Related Development
+* [[Chi-Ha (Family)]]
+** [[Ho-Ni I]] - <small>(Predecessor)</small>
+** [[Ho-Ro]] - <small>(Howitzer tank variant)</small>
+
+;Other vehicles of similar configuration and role
+* [[File:Kingdom Italy flag.png|30px|link=]] [[75/34 M43]]
+* [[File:Germany flag.png|30px|link=]] [[StuG III (Family)]]
+* [[File:Kingdom Hungary flag.png|30px|link=]] [[Zrinyi I]]
+* [[File:USSR flag.png|30px|link=]] [[SU-76D]] / [[SU-57B]]
+* [[File:France flag.png|30px|link=]] [[SAu 40]]
+* [[File:Sweden flag.png|30px|link=]] [[Sav m/43 (1944)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

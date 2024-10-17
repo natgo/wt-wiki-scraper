@@ -33,7 +33,7 @@ In the game since the start of the Open Beta Test, the Spitfire Mk Vb/trop sport
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 545 || 526 || rowspan="2" | {{Specs|ceiling}} || 17.4 || 18.0 || 13.5 || 13.5 || rowspan="2" | 340
+| 545 || 527 || rowspan="2" | {{Specs|ceiling}} || 17.4 || 18.0 || 13.5 || 13.5 || rowspan="2" | 340
 |-
 ! Upgraded
 | 605 || 573 || 15.9 || 16.5 || 23.9 || 17.8
@@ -221,10 +221,11 @@ The Mk V formed the backbone of RAF Fighter Command across several theatres of o
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=spitfire_mk5b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 File:FighterImage Spitvbtrop 1.jpg|<small>Dogfight over Malta</small>
 </gallery>
 

@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The Q-5L (Chinese: 强-5L型强击机; unified NATO Codename: Fantan) was one of the final versions of the Q-5 family developed in the early 2000s, focusing on improving the electronics for ground-attack capabilities. China had been closely observing the USAF's guided munitions since the Vietnam War, during which their AGM-62 Walleyes performed exceptionally well in attacking critical infrastructure to stall attacks from the Viet Cong. Due to political turmoil, the PLAAF failed to acquire foreign targeting pods, so testing of domestic LGBs and guidance pods began in the 1990s with various prototypes. Although the plan for a 2-plane formation, where one plane would carry bombs and the other a target pod, was abandoned, the new avionics of the Q-5II (Q-5C; suffixed with L when upgraded) and Q-5D (suffixed with N) ensured the capability of the single jet to strike enemies with LGBs. These upgrades became the standard for the Q-5s before their ultimate decommission in the early 2010s.
 
-Introduced in [[Update "Fire and Ice"]], the Q-5L has an increased bomb payload and updated avionics such as a new FLIR sensor underneath the nose. However, it is still not any better in air combat than the [[Q-5A]] because it lacks air-to-air missiles and, in fact, loses the valuable chaff/flare dispenser. Its deficits in air-to-air combat and fragility are compensated for by access to laser-guided bombs and a targeting pod with thermal optics, all at a much lower battle rating than the [[Jaguar GR.1A]] or [[Mirage 2000D-R1]]. In Ground RB, a well-flown Q-5L can destroy enemy vehicles without much concern for enemy air defenses.
+Introduced in [[Update "Fire and Ice"]], the Q-5L has an increased bomb payload and updated avionics such as a new FLIR sensor underneath the nose. However, it is still not any better in air combat than the [[Q-5A]] because it lacks air-to-air missiles. Its deficits in air-to-air combat and fragility are compensated for by access to laser-guided bombs and a targeting pod with thermal optics, all at a much lower battle rating than the [[Jaguar GR.1A]] or [[Mirage 2000D-R1]]. In Ground RB, a well-flown Q-5L can destroy enemy vehicles without much concern for enemy air defenses.
 
 == General info ==
 === Flight performance ===
@@ -144,10 +144,9 @@ The Q-5L shares the same protection as its predecessors. Due to the need for gro
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 23 mm Type 23-2K cannons, wing-mounted (120 rpg = 240 total)
+* 18 x large calibre countermeasures
 
 The Type 23-2K cannons should be more than familiar to experienced Fantan users. Many of the Q-5L's opponents will be supersonic aircraft, and the substandard muzzle velocity and inconsistent damage per shot can be annoying. Still, they are its only air-to-air weapon.
-
-The Q-5L does not have the countermeasures seen on the previous Q-5A. A lack of flares and chaff is not unheard of for jets at its battle rating, but the Q-5L does not have impressive offensive weapons such as effective air-to-air missiles to compensate.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -172,10 +171,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[500-4 (500 kg)|500 kg 500-4]] bombs
 | || 1 || || || || 1 ||
 |-
-! [[TS250 (260 kg)|260 kg TS250]] bombs
+! [[GB250 (260 kg)|260 kg GB250]] bombs
 | || 1* || || || || 1* ||
 |-
-! [[LS-500J (570 kg)|570 kg LS-500J]] bombs
+! [[GB500 (570 kg)|570 kg GB500]] bombs
 | || 1* || || || || 1* ||
 |-
 ! [[Type 90-1]] rockets
@@ -193,11 +192,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 28 x Type 90-1 rockets
 * 16 x Type 130-2 rockets
-* 2 x 260 kg TS250 bombs (520 kg total)
-* 2 x 570 kg LS-500J bombs (1,140 kg total)
+* 2 x 260 kg GB250 bombs (520 kg total)
+* 2 x 570 kg GB500 bombs (1,140 kg total)
 * 8 x 250 kg 250-3 bombs (2,000 kg total)
 * 8 x 250 kg 250-4 bombs (2,000 kg total)
 * 2 x 500 kg 500-3 bombs (1,000 kg total)
@@ -206,29 +206,34 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 The good news for players of the Q-5L is that the PLAAF have finally ditched the -2 series bombs for the streamlined -3 series low-drag bombs, in addition to the ability to carry greater payloads. Players can take eight 250-3 bombs which, combined with the ballistic computer, could do extensive damage to multiple targets. While the option for a pair of 500-3 bombs on the wings also exists, in most cases the 250 kg bombs are more than enough to take down tanks of the rank. Both payloads are also now finally sufficient to (barely) destroy a base in Air RB.
 
-Thanks to the technological advances of the early 2000s, the Q-5L also receives "smart bombs" in the 260 kg TS250 and 500 kg LS-500J laser-guided bombs. Combined with the K/PZS-01 targeting pod with excellent thermal sights, both of these bombs can make sure the enemies will have a really bad day while you can keep yourself out of trouble by dropping the bombs from higher altitude. The TS250 is unlocked first and contains an underwhelming 91 kg of TNT equivalent. The LS-500J is much better with 220 kg of TNT and can quite consistently destroy clustered enemy tanks. Note that the targeting pod blocks the underbelly pylons from being used to carry unguided bombs.
+Thanks to the technological advances of the early 2000s, the Q-5L also receives "smart bombs" in the 260 kg GB250 and 500 kg GB500 laser-guided bombs. Combined with the K/PZS-01 targeting pod with excellent thermal sights, both of these bombs can make sure the enemies will have a really bad day while you can keep yourself out of trouble by dropping the bombs from higher altitude. The GB250 is unlocked first and contains an underwhelming 91 kg of TNT equivalent. The GB500 is much better with 220 kg of TNT and can quite consistently destroy clustered enemy tanks. Note that the targeting pod blocks the underbelly pylons from being used to carry unguided bombs.
 
 For players that feel that bombs are not their cup of tea, there are still options for 90 mm and 130 mm rockets at their disposal; while both of them can be guided by ballistic computer as well, do note that they don't have as many salvoes as their NATO/Warsaw Pact counterparts, so aim carefully before firing upon light targets or careless MBTs, taking them out using the high penetration HEAT warheads of the 90-1 or the explosive mass of the 130-2 rockets.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Q-5L shares many similar features to previous Fantans: the same bulky MiG-19/J-6-based airframe with high acceleration. While there are some changes to the avionics and weapons, in most scenarios Q-5L flies like all the other Fantans.
+The Q-5L shares many similar features to previous Fantans: the same bulky MiG-19/J-6-based airframe with very high acceleration/climb rate. While there are some changes to the avionics and weapons, in most scenarios Q-5L flies like all the other Fantans.
+
+==== Matchmaking oddity ====
+The Q-5L's lack of air-to-air missiles can possibly be seen as a blessing in disguise, as while it is rank VII, As of the [[Update "Seek & Destroy"]] The Q-5L sits at an extremely low BR of 9.3 in Air-battles and is currently the lowest-BR Rank VII aircraft in the game, giving the opportunity to grind top-tier aircraft at rank VIII without incurring an RP-gain penalty for researching aircraft that are more than one rank above or below the aircraft you are playing with.
 
 ==== Not-so Fighter ====
 An everlasting flaw of the Q-5s is the overweight airframe due to the limits of materials, this still applies to the Q-5L, though it has some parts of the airframe reinforced with modern materials. In most cases, using the Q-5L as a makeshift fighter is not a great idea as the airframe hinders the overall manoeuvrability; yes, it could still surprise in outturning supersonic jets of its rank or sometimes higher, but do remember that the Q-5 is an attacker and doesn't have the manoeuvrability at high speeds, especially at transonic speeds where the control surfaces lock up and might cause trouble when attempting to level out from a dive. To say the least, if enemy fighters are at lower speeds and lack the acceleration to escape from the Q-5L's pair of WP-6III engines, in most cases a sustained turnfight is enough to take them down with ease, assuming the pilot is used to the subpar ballistic performance of 23-2K cannons onboard. In some cases, even jets with delta wings will fall victim to the Q-5L with its superior manoeuvring energy retention. However, only take on enemies when they are on their own, as a prolonged dogfight means that supersonic enemy backup could quickly arrive and turn the tables.
 
-Since the airframe has been reinforced, the Q-5L can carry up to 2 tons of bombs in a single run: for the more dedicated role of being an attacker, taking eight 250-3 bombs are barely sufficient to take down a base at its rank: although this also means you have to land and rearm often, this at least gives the Q-5L a chance to earn extra research points. Using the new CCRP function alongside bomb series makes it very easy to bomb bases and turn around early. While bombing AI targets is still viable, only do it when the skies are clear from enemies as the Q-5L lacks countermeasures against enemy missiles.
+Since the airframe has been reinforced, the Q-5L can carry up to 2 tons of bombs in a single run: for the more dedicated role of being an attacker, taking eight 250-3 bombs are barely sufficient to take down a base at its rank: although this also means you have to land and rearm often, this at least gives the Q-5L a chance to earn extra research points. Using the new CCRP function alongside bomb series makes it very easy to bomb bases and turn around early. While bombing AI targets is still viable, only do it when the skies are clear from enemies as the Q-5L does not have AAMs to defend itself and a somewhat meager amount of countermeasures to go along with it.
 
 Using the Q-5L as a bomb truck will still leave the inner wing pylons available for carrying rockets. Two pods of 130 mm rockets can be fired at bases for additional points. More creatively, two pods of 90 mm rockets can be carried for use as makeshift flares in a tactic pioneered by contemporary attackers like the [[MiG-23BN (Germany)|MiG-23BN]]. Although 14 rockets is a long way from the MiG-23BN's swarms of 57 mm rockets, they are still better than nothing and can help the Q-5L survive a head-on or two from all-aspect missiles like the [[R-60M]].
 
 ==== Payback with Vengeance ====
-While players might not have a good time in aerial combat, the Q-5L brings in a very valuable feature for PLAAF jets: a full-fledged ballistic computer and guided bombs. To players suffering from enemy jet attackers in ground battles, the Q-5L lets enemies taste their own medicine to some extent. Thanks to the new HUD and sensors onboard, the Q-5L is able to achieve precise strikes with either its bombs or rockets. The new targeting pod onboard provides a thermal vision sight, while the jet itself also has a built-in 1.5x camera for acquisition. For the safest approach against enemy targets, take either the 250/500 kg LGBs (TS250/LS-500J) alongside the targeting pod and climb to at least 6 km before entering the battlefield as this lowers the odds of being pinged by SAM radar and MANPADS of the rank have very little chance of hitting targets at such altitude. Do note that due to the limited view angle of the pod, you might sometimes have to dive in for a better lock, make sure to deploy airbrakes for maximum control.
+While players might not have a good time in aerial combat, the Q-5L brings in a very valuable feature for PLAAF jets: a full-fledged ballistic computer and guided bombs. To players suffering from enemy jet attackers in ground battles, the Q-5L lets enemies taste their own medicine to some extent. Thanks to the new HUD and sensors onboard, the Q-5L is able to achieve precise strikes with either its bombs or rockets. The new targeting pod onboard provides a thermal vision sight, while the jet itself also has a built-in 1.5x camera for acquisition. The Q-5L's combination of climb-rate, targeting pod, and LGBs gives it an advantage over subsonic attackers at its BR such as the [[Su-25]] and [[A-10A]] who often need to be at lower altitudes closer to the battlefield to do effective damage
+
+To safely deal with ground targets, take either of the 250/500 kg LGBs (GB250/GB500) alongside the targeting pod and climb to at least 6 km before entering the battlefield as this lowers the odds of being pinged by SAM radar and MANPADS of the rank have very little chance of hitting targets at such altitude. Do note that due to the limited view angle of the pod, you might sometimes have to dive in for a better lock, make sure to deploy airbrakes for maximum control.
 
 Zoom-climbing to high altitudes and tossing laser-guided bombs in "orbital strikes" is a safe and relaxing way to destroy enemy SAMs, who cannot hide from the thermal targeting pod and will often have trouble detecting or hitting the Q-5L at such a high elevation. This anti-SAM capability is unparalleled for the Q-5L's battle rating. The bomb will take a long time to reach the ground however, so keep an eye on the battlefield and switch targets if needed. After SAMs are cleared, the Q-5L is free to start diving closer. Even after the LGBs are spent, the targeting pod can still be used to find and track targets to use unguided ordnance on - newly spawned revenge SAMs for example can be given a rude welcome of HE rockets.
 
 However, even before any LGBs have been researched, the Q-5L still has a range of unguided ordnance including GP bombs and rocket pods; the ballistic computer onboard can make sure the ordnance lands as close as possible to the designated target. Leave the bombs for (groups of) tanks, and use the rockets against light vehicles or enemy SPAA who aren't aware of your existence.
 
-The Q-5L's lack of air-to-air capability is not as relevant in Ground RB, but it is still important to keep an eye out for enemy aircraft because of its high fragility. A crafty opponent can counter the Q-5L by bringing out a jet with powerful missiles. It only takes one [[AIM-9L Sidewinder|AIM-9L]] to send the Q-5L back to the hangar if the pilot is staring through the targeting pod for minutes at a time. Watch the enemy air spawn, avoid giving opponents opportunities to launch their missiles, and use rockets as flares if needed. A skilled Fantan veteran can still out-dogfight overconfident attackers when not carrying bombs. Friendly TY-90-equipped Chinese helicopters like the [[Z-9W]] are ironically more effective in air combat than the Q-5L, so bait pursuers near them if possible.
+The Q-5L's lack of air-to-air capability is not as relevant in Ground RB, but it is still important to keep an eye out for enemy aircraft because of its high fragility. A crafty opponent can counter the Q-5L by bringing out a jet with powerful missiles. It only takes one [[AIM-9L Sidewinder|AIM-9L]] to send the Q-5L back to the hangar if the pilot is staring through the targeting pod for minutes at a time. Watch the enemy air spawn and pay attention to jets trying to launch missiles at you, A skilled Fantan veteran can still out-dogfight overconfident attackers when not carrying bombs. Friendly TY-90-equipped Chinese helicopters like the [[Z-9W]] are ironically more effective in air combat than the Q-5L, so bait pursuers near them if possible.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -239,14 +244,16 @@ The Q-5L's lack of air-to-air capability is not as relevant in Ground RB, but it
 * Built-in TVD camera for target acquisition; alternatively equipped with an advanced targeting pod
 * Access to 250/500 kg laser-guided bombs
 * Sufficient manoeuvrability at around 700 km/h
-* Great acceleration thanks to the WP-6-IIIA engines
-* Access to RWR
+* Great acceleration and climb rate thanks to the WP-6-IIIA engines
+* Access to very good RWR and countermeasures
+* Sits at 9.3 BR in air-battles while being rank VII, making it possible to grind top-tier aircraft at rank VIII without incurring a penalty in RP-gain
 
 '''Cons:'''
 
 * Same bulky airframe as all its predecessors and still locks up at transonic speeds
 * The built-in camera only has 1.5x magnification and limited rotation range
-* Lacks any type of AAM and countermeasures, unlike its technological predecessor [[A-5C]]
+* Rather lacking countermeasures at only 18 shots
+* Lacks any type of AAM, unlike its technological predecessor [[A-5C]]
 * Type 23-2K cannons needs extra practice against aerial targets
 * Subpar payload to its NATO/Warsaw Pact counterparts
 

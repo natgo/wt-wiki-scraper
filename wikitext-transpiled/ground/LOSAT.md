@@ -6,13 +6,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American tank destroyer {{Battle-rating}}. It was introduced during [[Update "Sons of Attila"]] as a reward for the [[wt:en/news/8494-event-tokushu-heiki-assemble-and-test-an-honorable-missile-to-obtain-prizes-en|2023 Tokushu Heiki event]].
+The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American tank destroyer {{Battle-rating}}. It was introduced during [[Update "Sons of Attila"]] as a reward for the [[wt:en/news/8494-event-tokushu-heiki-assemble-and-test-an-honorable-missile-to-obtain-prizes-en|2023 Tokushu Heiki event]]. Built on the already familiar XM8 / CCVL chassis, this peculiar ATGM tank destroyer requires a unique playstyle to fulfill it's niche role. This is also the only ATGM carrier to feature a solid rod penetrator with NO explosive mass whatsoever, giving you free range to shoot through obstacles whenever. 
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The most well protected side of the tank is the front, even though it has not much armour since it is based on the CCVL chassis. The biggest weak spot on the tank is the huge turret on top of the chassis holding all the ammunition for the vehicle. Any tank that fires at the turret with its main armament will most certainly completely destroy the LOSAT.
+The most well protected side of the tank is the front, even though it has not much armour since it is based on the CCVL chassis. The biggest weak spot on the tank is the huge turret on top of the chassis holding all the ammunition for the vehicle. Any tank that fires at the turret with its main armament will most certainly completely destroy the LOSAT. From the front, it can shrug off most autocannon fire from 25mm and lower calibers. 30mm and up are a death sentence.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -22,23 +22,59 @@ The most well protected side of the tank is the front, even though it has not mu
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 38.1 mm (76°) ''Front Glacis'' 
+6.35 mm (31°) ''Lower Glacis'' 
+| 25.4 mm ''Top'' <br>44 mm ''Bottom'' || 12.7 - 25.4 mm || 10 - 25.4 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 12.7 - 25.4 mm ''Turret front'' <br> 12 mm ''Gun mantlet'' || 25.4 mm || 25.4 mm || 25.4 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 25.4 mm || 25.4 mm || 25.4 mm || 25.4 mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Roadwheels and suspension bogies are 20mm thick
+* Tracks are 15mm thick
+* High Hardness side skirts are 6.25mm thick
+* ATGM gun steel housing is 5mm thick 
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
-<!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+<!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->{{TankMobility|abMinHp=817|rbMinHp=509|AoAweight=}}
 
-{{tankMobility|abMinHp=817|rbMinHp=509}}
+{| class="wikitable"
+! rowspan="2" |'''Game Mode'''
+! colspan="2" |'''Max Speed (km/h)'''
+! rowspan="2" |'''Weight (tons)'''
+! colspan="2" |'''Engine power (horsepower)'''
+! colspan="2" |'''Power-to-weight ratio (hp/ton)'''
+|-
+!'''Forward'''
+!'''Reverse'''
+!'''Stock'''
+!'''Upgraded'''
+!'''Stock'''
+!'''Upgraded'''
+|-
+!'''Arcade'''
+|75
+|15.6
+| rowspan="2" |19.5
+|817
+|993.7
+|41.89
+|50.95
+|-
+!'''Realistic'''
+|69
+|14.3
+|509
+|572.9
+|26.10
+|29.38
+|}
+The LOSAT has pretty good mobility. Based on the venerable XM8 / CCVL chassis, it's capable of reaching it's top speed fairly quickly on flat terrain and only struggles on hilly type terrain. The transmission and brakes are very responsive which is useful for getting the first shot off. The suspension is very stable and has minimal bouncing. The reverse gear isn't the fastest, but at a modest 14.3 km/h (Realistic; 15.6 km/h Arcade), it can safely scoot away from any retaliation. The cruise control function also carries a special battle mode setting for firing on the move without having to stop completely.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -48,7 +84,7 @@ The most well protected side of the tank is the front, even though it has not mu
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|LOSAT/MGM-166}}
+{{main|LOSAT/MGM-166}}The 163mm MGM-166 LOSAT (Line of Sight Anti Tank) missile launcher is a unique weapon. It does not store any ammunition in the hull and has all of it's 12 MGM-166's in clear view. It does not feature a stabilizer nor can it elevate or depress itself, making it very difficult to use on hilly terrain. It can move it's turret horizontally in a wide arc in front of the vehicle however making it easy to take shots from around corners and retreat thanks to it's modest reverse. Finally, the MGM-166 is the only kinetic penetrator ATGM in game as well as the only projectile in game that gains penetration the farther away the target is due to it's massive accelerating missile. The downside is you cannot fire the weapon while at speeds greater than 4 km/h, to mitigate this, you can utilize the cruise control's battle mode to continue "moving" (limited to 3 km/h). 
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -83,7 +119,7 @@ The most well protected side of the tank is the front, even though it has not mu
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''1''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''1''' || 6&nbsp;''(+0)'' || ''6 (+0)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || n/a
 |-
 |}
 
@@ -104,7 +140,7 @@ The most well protected side of the tank is the front, even though it has not mu
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The LOSAT is a very quick and agile vehicle. Although it boasts very little armour, its armament is exceptional. The MGM-166 is small propelled dart which does more damage the further it travels. The LOSAT has a very simple playstyle: use it in long range engagements, roughly at 1,500 or more metres. This will allow the ammunition to speed up to its full potential dealing extreme amounts of penetration as much as 729 mm on a standard vehicle regardless of the angle and direction. It is recommended to snipe with the vehicle across maps. Simply position somewhere and let loose with your supersonic weapons.
+The LOSAT is a very quick and agile vehicle. Although it boasts very little armour, its armament is exceptional. The MGM-166 is small propelled dart which does more damage the further it travels. The LOSAT has a very simple playstyle: use it in long range engagements, roughly at 1,500 or more metres. This will allow the ammunition to speed up to its full potential dealing extreme amounts of penetration as much as 729 mm on a standard vehicle regardless of the angle and direction. It is recommended to snipe with the vehicle across maps. Simply position somewhere and let loose with your supersonic weapons. Avoid hilly terrain as it will offset your missile trajectory. The missiles are highly responsive as previously stated, therefore you can even attack enemies behind cover in a sort of orbital strike on some maps by simply pointing the missiles up slightly and letting loose by dragging your aiming reticle back to the ground, it's not a very reliable tactic, unfortunately. Lastly, avoid areas where light tanks or IFVs with autocannons may be as your thin armor will not stand up to them at closer ranges. Use your .50cal to ward off any potential light tanks or uppity SPAAs (such as breaking tracks) while you reposition or get closer to your allies. 
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -135,6 +171,7 @@ The missile's specifications and design made it very different to most ATGM syst
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_losat_ccv Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

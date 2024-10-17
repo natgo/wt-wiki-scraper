@@ -59,7 +59,7 @@ The F-5 series is known to be small, lightweight, and nimble. The F-5E Tiger II,
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 1,018 || 470 || 463 || ~11 || ~5
+| 1,458 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 1,018 || 470 || 463 || ~11 || ~5
 |-
 |}
 
@@ -69,7 +69,7 @@ The F-5 series is known to be small, lightweight, and nimble. The F-5E Tiger II,
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 680 || < 750 || < 700 || N/A
+| < 680 || < 750 || < 700 || -
 |-
 |}
 
@@ -114,7 +114,7 @@ The F-5 series is known to be small, lightweight, and nimble. The F-5E Tiger II,
 
 The F-5E is a light fighter, so as such it lacks any kind armour. If it loses its wing or tail it becomes incredibly difficult to fly. Surprisingly though, it can take a significant amount of punishment for its size. It can often survive a few hits from 20 and 23 mm cannons, and in the right circumstances, even tank a single infrared missile, though in the latter case it will likely still leave you critically damaged, such as being down an engine and / or missing one or multiple control surfaces. Despite the razorback-like hump of the fuselage being loaded with fuel tanks, fires are uncommon unless a direct hit to one of the engines occurs.
 
-Flaring off incoming infrared missiles is very easy with the F-5E due to the low operating temperature of the engines even at full WEP to the point it's unnecessary, and maybe even wasteful to use the ''Flares Reinforced'' or ''Flare Priority'' setup for the countermeasures. While the E model only carries 45 countermeasures compared to the 60 on the A & C, they deploy one at a time and straight down, instead of deploying two at a time and completely rearwards, meaning your effective total is greater than the earlier F-5s, as well as being better at guiding infrareds away from you, ''except'' at ultra-low altitudes where the countermeasures may hit the ground.
+Flaring off incoming infrared missiles is very easy with the F-5E due to the low operating temperature of the engines even at full WEP, a trait shared with all the F-5 variants. While the E model only carries 45 countermeasures compared to the 60 on the A & C, they deploy one at a time and straight down, instead of deploying two at a time and completely rearwards, meaning your effective total is greater than the earlier F-5s, as well as being better at guiding infrareds away from you, ''except'' at ultra-low altitudes where the countermeasures may hit the ground.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -125,7 +125,7 @@ Flaring off incoming infrared missiles is very easy with the F-5E due to the low
 |-
 ! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
 | {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
@@ -138,7 +138,8 @@ Flaring off incoming infrared missiles is very easy with the F-5E due to the low
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
-* 45 x countermeasures
+* 10 x large calibre countermeasures
+* 30 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -149,7 +150,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-5E_(China).png]]</div>
+| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-5E_(China).png]]</div>
 |-
 ! [[GAU-13/A (30 mm)|30 mm GAU-13/A]] cannons (353 rpg)
 | || || || 1 || || ||
@@ -187,12 +188,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[AIM-9J Sidewinder]] missiles
 | 1 || || || || || || 1
 |-
+! 150 gal drop tanks
+| || || 1 || 1 || 1 || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 3 x 150 gal drop tanks
 * 2 x AIM-9E Sidewinder missiles
 * 2 x AIM-9J Sidewinder missiles
 * 5 x 750 lb M117 cone 45 bombs (3,750 lb total)
@@ -222,24 +226,24 @@ If an enemy jet follows the {{PAGENAME}}, be prepared to defend against a missil
 
 '''Pros:'''
 
-* Great manoeuvrability
-* Amazing energy retention above .90 Mach
-* Large selection of air-to-ground armaments, including Maverick air-to-ground missiles
-* Generous ammunition capacity for guns
-* Small target
 * Improved engines over its predecessor, improving its speed and manoeuvrability
-* Efficient afterburner allows the use of lower fuel reserves, improving performance
-* EEGS (Enhanced Envelope Gun Sight) allows for more accurate shots
+** Efficient afterburner allows the use of lower fuel reserves, further improving performance
+* Amazing energy retention above .90 Mach
+* Has AIM-9J missiles that are impossible to react to by sound alone (when you hear them, it's already too late to flare or dodge)
+* Large selection of air-to-ground armaments, including TV guided Maverick air-to-ground missiles
+* Generous ammunition capacity for guns and great modern anti-tank ammunition for the 30 mm
+* Small target
+* Has gun aim assist when locking the target with a radar, making a general tactic to remove F-5 (force a head-on) near useless for planes that do not have it themselves
 * Modern RWR with IFF + track, launch and threat type detection
 
 '''Cons:'''
 
-* Even though it has improved engines over the F-5C, it still has a low top speed compared to the competition
+* Even though it has improved engines over the F-5C, it still has a low top speed when compared to the higher tier competition
 * M39A3 cannons don't deal as much damage as cannons like the M61 Vulcan, or the Soviet GSh-23L
-* No BVR capabilities
+* No radar missiles, no all-aspect IR missiles
 * Radar lacks IFF and different search angle modes
 * Can only carry a maximum of two air-to-air missiles, making this plane mostly a gun fighter
-* No ballistic computer
+* No ballistic computer for bombs or rockets (slightly inconvenient in air RB)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -280,6 +284,7 @@ Back in 1972, the USAF realised the need for dissimilar aircraft combat training
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-5 (Family)]]
 
 == External links ==

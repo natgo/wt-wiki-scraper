@@ -16,13 +16,13 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese light tank {{Battle-ra
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The {{PAGENAME}} has extremely thin armour throughout its construction. As such, a player with the M18 should throw away any notion of trying to survive a shot and instead aim to avoid being hit at all. With an open-top construction and the placement of certain crew members, even enemy machine gun rounds can knock out the crew members inside and lower combat efficiency.
+The {{PAGENAME}} has extremely thin armour throughout its construction. Therefore, a player with the M18 should throw away any notion of trying to survive a shot and instead aim to avoid being hit at all. With an open-top construction and the placement of certain crew members, even enemy machine gun rounds can knock out the crew members inside and lower combat efficiency.
 
-The thin armour is also both a blessing and a curse for the vehicle. It is a curse as it means the vehicle can suffer through the overpressure damage mechanics. A single HE shell has the potential of knocking out the M18 instantly regardless of calibre. It can however benefit the M18 if the enemy's kinetic round does not hit any module or crew member: the shell may go through and through and the M18 may end up with little damage. As such, there can be second chances for this vehicle, but this should not be relied upon as a combat strategy.
+The thin armour is both a blessing and a curse for the vehicle. It is a curse as it means the vehicle can suffer through the overpressure damage mechanics. A single HE shell has the potential of knocking out the M18 instantly regardless of calibre. It can however benefit the M18 if the enemy's kinetic round does not hit any module or crew member: the shell may go through and the M18 may end up with little damage. As such, there can be second chances for this vehicle, but this should not be relied upon as a combat strategy.
 
-With five crew members, the M18 has a standard amount of crew to survive off of. Three are essential for combat efficiency: the gunner, loader, and driver. The commander operates the cupola machine gun and if knocked out will cause the machine gun to no longer function. This will be a constant occurrence due to the position of the commander model with the torso exposed above the turret, and so enemy machine gun rounds can hit and incapacitate the commander from the vehicle's functions.
+With five crew members, the M18 has a standard amount of crew to survive off of. Three are essential for combat efficiency: the gunner, loader, and driver. The commander operates the cupola machine gun and if knocked out, will cause the machine gun to no longer function. This will be a constant occurrence due to the position of the commander with the torso exposed above the turret, this allows enemy machine gun rounds to easily hit and incapacitate the commander.
 
-The M18's module configuration is rather standard with the transmission in front and engine in the back. The spread out nature means there are more "wiggle room" for kinetic shells to hit and pass through around the modules.
+The M18's module configuration is rather standard with the transmission in front and engine in the back. The spread out nature means there is more "wiggle room" for kinetic shells to hit and pass through the vehicle.
 
 '''Armour type:'''
 
@@ -51,9 +51,9 @@ The M18's module configuration is rather standard with the transmission in front
 
 {{tankMobility|abMinHp=620|rbMinHp=354}}
 
-Though the previous section on armour may imply poor survivability, the {{PAGENAME}}'s shining trait will be in its mobility. It produces enough engine horsepower to become a speed demon on the battlefield, quickly traversing through rough terrain to get to advantageous positions to ambush enemies that are just starting to get to the fight.
+Though the previous section on armour may imply poor survivability, the {{PAGENAME}}'s shining trait is in its mobility. It produces enough engine horsepower to esaily speed around on the battlefield, quickly traversing through rough terrain to get to advantageous positions and ambush enemies that are just starting to get in the fight.
 
-The vehicle displays great mobility when driving forwards and backwards, and so it can perform quick exits from a compromised position.
+The vehicle displays great mobility when driving forwards and backwards, allowing it to perform quick exits from a dangerous position.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -190,6 +190,7 @@ The M18 "Hellcat" tank destroyer stayed in the ROC Army and Marine Corps until t
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=cn_m18_hellcat Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -210,12 +211,14 @@ File:M18 GMC at Dali Environment Park.jpg|<small>One of the very last M18 GMC in
 * ''other literature.'' -->
 
 === References ===
+
 ;Citations
 <references>
 <ref name="ZalogaM18">Zaloga, S. (2004)</ref>
 </references>
 
 ;Bibliography
+
 * Zaloga, Stephen. (2004). M18 Hellcat Tank Destroyer 1943–97. Oxford: Osprey Publishing.
 
 {{TankManufacturer Buick}}

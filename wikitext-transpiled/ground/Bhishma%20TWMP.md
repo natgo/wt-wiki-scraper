@@ -51,13 +51,13 @@ Thanks to the new V-92S2 engine at 1,000 hp output, the T-90S has better power-t
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|2A46M-5 (125 mm)}}
+{{main|2A46M (125 mm)}}
 
-Sharing the same 2A46M-5 from T-90A and later series Russian tanks, all performances from previous Russian/Soviet MBTs are inherited to T-90S. Although 125 mm could sound fearsome, due to export limits on depleted-uranium ammunitions, the best kinetic shell for T-90S is 3BM42 for the time being; although it is still sufficient to defeat earlier NATO tanks, when facing more advanced MBTs, players might want to seek for the tandem ATGM to defeat such targets. Sometimes the HE-FS (Time-fused) can blow jets or rotorcrafts into piece with ease when landed near them, do be careful for the time fuse itself since the programmed fuse will detonate before hitting ground target.
+Although 125 mm could sound fearsome, due to export limits on depleted-uranium ammunitions, the best kinetic shell for T-90S is 3BM42 for the time being; although it is still sufficient to defeat earlier NATO tanks, when facing more advanced MBTs, players might want to seek for the tandem ATGM to defeat such targets. Sometimes the HE-FS (Time-fused) can blow jets or rotorcrafts into piece with ease when landed near them, do be careful for the time fuse itself since the programmed fuse will detonate before hitting ground target.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="5" | [[2A46M-5 (125 mm)|125 mm 2A46M-5]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
+! colspan="5" | [[2A46M (125 mm)|125 mm 2A46M]] || colspan="5" | Turret rotation speed (°/s) || Reloading rate (seconds)
 |-
 ! Mode !! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Upgraded !! Full !! Expert !! Aced
@@ -72,7 +72,7 @@ Sharing the same 2A46M-5 from T-90A and later series Russian tanks, all performa
 |}
 
 ==== Ammunition ====
-{{:2A46M-5 (125 mm)/Ammunition|3BK18M, 3OF26 EDKV, 3BM42, 9M119M1}}
+{{:2A46M (125 mm)/Ammunition|3BK18M, 3OF26 EDKV, 3BM42, 9M119M1}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -96,7 +96,7 @@ Sharing the same 2A46M-5 from T-90A and later series Russian tanks, all performa
 {{Specs-Tank-Weapon|2}}
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|6P49 (12.7 mm)|PKT (7.62 mm)}}
+{{main|6P49 (12.7 mm)|PKTM (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -109,7 +109,7 @@ Sharing the same 2A46M-5 from T-90A and later series Russian tanks, all performa
 |}
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[PKT (7.62 mm)|7.62 mm PKT]]
+! colspan="5" | [[PKTM (7.62 mm)|7.62 mm PKTM]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-

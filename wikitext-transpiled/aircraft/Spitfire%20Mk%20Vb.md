@@ -35,7 +35,7 @@ The Mk V variants of the Spitfire series do not have the upgraded Merlin 61 engi
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 560 || 542 || rowspan="2" | {{Specs|ceiling}} || 17.4 || 18.0 || 13.6 || 13.6 || rowspan="2" | 340
+| 562 || 542 || rowspan="2" | {{Specs|ceiling}} || 17.4 || 18.0 || 13.6 || 13.6 || rowspan="2" | 340
 |-
 ! Upgraded
 | 619 || 589 || 16.1 || 16.5 || 24.3 || 18.0

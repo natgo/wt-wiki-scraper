@@ -1,3 +1,9 @@
+{{About
+| about = American motor gun boat '''{{PAGENAME}}'''
+| usage = other versions
+| link = Landing Craft Support (Family)
+}}
+
 {{Specs-Card
 |code=us_lcs_l_3
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}

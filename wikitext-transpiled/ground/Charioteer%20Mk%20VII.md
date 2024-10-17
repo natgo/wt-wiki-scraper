@@ -36,7 +36,7 @@ The '''{{Specs|name}}''' (or just ''Charioteer'') is a rank {{Specs|rank}} Briti
 *Suspension wheels and tracks are 20 mm thick.
 *The area where the machine gun port would be has an additional 63 mm of armour placed on it.
 * 3 internal structural plates of 5 mm thickness separate:
-**  the driver compartment in two,
+** the driver compartment in two,
 ** the driver compartment from the crew compartment,
 ** the crew compartment from the engine bay.
 * These plates have large openings at some places, as visible in X-ray mode.
@@ -134,6 +134,13 @@ This is a classical sniper/flanker tank: fast, a good gun but no armour. One sho
 
 In urban maps, pre-aim before getting around corners since turret slewing rate is slow. One could also use its engine/transmission as an armour when ambushed: quick reaction shots will often "only" ignite the tank without damaging the crew too much, plus, if the shot is missed, you are already in a position to escape swiftly since frontwards speed is good. When zipping past an alley, blast a smoke screen to cover allies from enemy fire while shooting a hasty shot in the general direction of the enemy. Some enemies will turn their turret in order to protect themselves from flanking only to get shot by allied tanks. Your best weapons in close-range fights are both surprise and speed.
 
+;Enemies worth noting:
+
+* [[M41 Walker Bulldog (Family)]] Walker Bulldog - The M41 is a consistent threat from a number of tech trees, it is likely that there will be at least one on each team. What it lacks in sheer firepower compared to the Charioteer, it makes up for in gun handling and mobility. Since the Charioteer is thinly armoured, it poses a threat to you from any range. In a duel, the advantage is held by the M41 in a duel as it is a lot more reactive and can get a shot on you much more quickly and reliably retreat away from attacks. Try to remain undetected when fighting it and, when it is distracted, shoot centre-mass.
+* [[T34]]/[[T29]] - These heavies are difficult to penetrate from the front, so do not engage them when the hull is facing you as you will not be able to reliably destroy them. If they are angled from the front in any way then shoot their front sprocket, the sides are so thinly armoured that the shot will travel straight through into the turret crew and, if not destroying them, will seriously cripple them.
+* [[BTR-80A]] - The sheer speed and the amount of empty space in the BTR makes it almost impossible to deal with if the user is on open ground and, due to the poor gun handling of the Charioteer, can be easily overrun and shred to pieces. Remain undetected when it is around, and engage with extreme prejudice to avoid being detected.
+* [[IS-3]] - The IS-3 is extremely well armoured, and has a few "red-herring" weak spots. The most obvious would be the lower front plate, however shooting this will only reliably knock the driver out. The same goes for the turret ring and turret cheeks, which will often catch the shot and do little to no damage. When facing the IS-3 in a head on, do your best to disable its gun and preferably after it has already fired. This will leave it out of the action for nearly a full minute which is ample time to deal with it. A shot into the side will easily dispatch it.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -146,7 +153,7 @@ In urban maps, pre-aim before getting around corners since turret slewing rate i
 * Very speedy tank due to Cromwell chassis, can fill a role of a medium support tank for rushing capture points
 * Arguably the best turreted tank destroyer at Rank IV, with benefits of a medium tank (can call artillery)
 * Good smoke screen system with a useful spreading angle; great for retreats
-* Very low risk of fire due to rear mounted transmission and no fuel tanks on the front of the tank.
+* Very low risk of fire due to rear mounted transmission and no fuel tanks on the front of the tank
 
 '''Cons:'''
 

@@ -91,7 +91,8 @@ The player should be familiar with the ammunition choices, with the most used on
 {{:QF 2-pounder (40 mm)/Ammunition|Shot Mk.1 AP/T, Shot Mk.IXB APCBC/T, Shot Mk.1 APHV/T, Shell Mk.1 AP/T}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks Valentine I.png|thumb|295x295px|[[Ammo racks]] of the {{PAGENAME}}]]<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.35.1.80''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -99,11 +100,12 @@ The player should be familiar with the ammunition choices, with the most used on
 ! 2nd<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''61''' ||53 ''(+8)''||0 ''(+61)''|| Yes
+| '''61''' || 53&nbsp;''(+8)'' || 0&nbsp;''(+61)'' || Yes
 |-
 |}
 '''Notes''':
 
+* Visual discrepancy: 60 rounds are modelled whereas 61 rounds can be carried by the Valentine.
 * The large ring of ammunition is present until all rounds are expended, so there is little reason not to take full ammo.
 
 ==== [[Optics]] ====

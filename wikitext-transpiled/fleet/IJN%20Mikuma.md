@@ -43,7 +43,7 @@ However, due to the large size and displacement, the Mikuma is quite slow to dec
 
 Mikuma's main armament consists of 15 x 155 mm/60 3rd Year Type cannons mounted in five triple turrets in A-B-Cs-X-Y setup. Due to the gun's setup, the Mikuma is able to deliver a full salvo at a steep 60 degrees angle, thus increasing the ship's protection effectiveness.
 
-The 155 mm guns have three shell choice; a rudimentary HE shell with 3.39 kg of TNT equivalent, an APHEBC shell with high penetration (131 mm at 10 km) and a sizeable filler of 1.21 kg of TNT equivalent, and a HE-TF shell with the same filler as the HE shell, though is not useful due to the gun's slow reload and traverse. As with other similar guns, both shell has a high shell velocity at 920 m/s and thus were reasonably accurate at all ranges.
+The 155 mm guns have three shell choice; a rudimentary HE shell with 3.39 kg of TNT equivalent, an APHEBC shell with high penetration (186 mm at 10 km) and a sizeable filler of 1.21 kg of TNT equivalent, and a HE-TF shell with the same filler as the HE shell, though is not useful due to the gun's slow reload and traverse. As with other similar guns, both shell has a high shell velocity at 920 m/s and thus were reasonably accurate at all ranges.
 
 The guns have a rather mediocre rate of fire for its calibre at 6 RPM (10 second reload with ace crew) compared to other 150-155 mm guns with 7-8 RPM as baseline. This is made up with the sheer volume of rounds it can deliver for each salvo, with a well-aimed barrage capable of causing severe damage to the enemy ship.
 

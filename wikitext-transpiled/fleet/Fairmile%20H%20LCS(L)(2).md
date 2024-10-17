@@ -1,11 +1,13 @@
 {{Specs-Card
 |code=uk_fairmile_lcs_l_h_mk2
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}} (2).jpg}}
 }}
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British motor gun boat {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+Fairmile H LCS(L)(2) was a type of British Royal Navy [[Landing Craft Support (Family)|Landing Craft Support]] introduced in 1943. The ship was designed for continuous shelling of coastal positions during the advance of the landing force towards the coast. She featured anti-tank capability with the use of a 6-pounder QF gun turret, adopted from the [[Valentine (Family)|Valentine tank]]. A total of 10 vessels were built, 3 of which were destroyed during the first day of Operation Infatuate.
+
+The '''{{Specs|name}}''' was introduced in [[Update "Direct Hit"]] as a British motor gun boat. The ship has numerous independent weapon systems, providing good anti-air and anti-boat cover, but struggling with heavier targets. She carries a unique tank turret with heavy armour, making her extremely unlikely to have her primary armament knocked out. She also has a trainable mortar, launching depth charges at a fixed range for rare kills of opportunity. Finally, much like other Landing Craft Support vessels, she's very slow, making her easier to knock out with bombs or torpedoes than other coastal vessels.
 
 == General info ==
 === Survivability and armour ===
@@ -62,7 +64,7 @@ The 4.2-inch mortar is practically useless, stuck to a 1 km firing range, taking
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 Due to the slow speed and armour, trying to stick with the team is important. If you're in trouble or make a positioning mistake, low speed will give opponents plenty of opportunity to punish users of this vehicle. Soviet armoured boats can be tough for the rest of the team to deal with, having armour to stay protected with good enough mobility to avoid being hit by torpedoes, so be on the lookout for those. Also consider taking the role of an "AA barge," targeting aircraft outside 45° either side of the bow, even the 20 mm turrets can have difficulty targeting aircraft in the forward arc. Dashing from cover to cover is key in any boat, but taking the most efficient path is necessary to survival in such a slow boat. Consider choosing the right moment with support before moving out of cover. Utilize sight lines to the maximum and consider going for close-range ambushes. The boat's effectiveness at close range but inability to close that range easily make it a tricky one to play well.
 
-Against Soviet armoured boats, the [[Pr.191]], [[Pr.191M]], and [[Pr.1124 early]], and [[Pr.1124 late]], knock out the turrets then proceed to the magazines or bridge. Against the [[MBK pr.186]] or [[MBK-161 late]] or similar heavier boats, you'll need a near enough point-blank and square shot on the side of the turrets to knock them out. Consider hitting the magazines, above the waterline but below the turrets. 
+Against Soviet armoured boats, the [[Pr.191]], [[Pr.191M]], and [[Pr.1124 early]], and [[Pr.1124 late]], knock out the turrets then proceed to the magazines or bridge. Against the [[MBK pr.186]] or [[MBK-161 late]] or similar heavier boats, you'll need a near enough point-blank and square shot on the side of the turrets to knock them out. Consider hitting the magazines, above the waterline but below the turrets.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -103,10 +105,10 @@ Against Soviet armoured boats, the [[Pr.191]], [[Pr.191M]], and [[Pr.1124 early]
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wikipedia:Fairmile H landing craft|[Wikipedia] Fairmile H landing craft]]
+* [https://www.navypedia.org/ships/uk/brit_aws_lcsl22.htm <nowiki>[NAVYPEDIA]</nowiki> "LCS(L)2"- (LCS(L)251) type support landing craft (1943)]
+* [https://www.british-genealogy.com/forum/threads/89332-Combined-Operations-Landing-Craft-LCS-(L)-256 <nowiki>[British Genealogy]</nowiki> Combined Operations Landing Craft LCS (L) 256]
+* [https://ww2talk.com/index.php?threads/lcs-l-gunboats.49530/ <nowiki>[WW2Talk]</nowiki> LCS(L) gunboats]
 
 {{ShipManufacturer Fairmile Marine Company}}
 {{Britain boats}}

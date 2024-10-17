@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' (known as '''Q-5I''' pre-1987, '''强-5A/强-5I型强击机'''; unified NATO codename: Fantan) was the main production variant of Q-5 series attacker in the first half of 1980s. During the production of the [[Q-5 early]], PLAAF suggested for improvements to Q-5 especially in terms of its combat radius in 1976; Factory 320 (NAMC) soon concretized the required improvements including new internal fuel tanks, new engines, relocated drag chute and revised lifesaving equipment. Test flights were done during 1979 to 1980 with overall improved performance and was certified in 1983; however, engineers also called for another variant that introduced electronic improvements with new RWR and countermeasures, as well as new optical sights, the new jet, known as '''Q-5IA''' ('''Q-5B''' post-1987) was set as the standards of future productions of Q-5 before the '''Q-5II''' ('''Q-5C''' post-1987) overtook the production by 1986.
 
-Introduced in [[Update "New Power"]], Q-5A is externally very similar to the [[Q-5 early]] aside from the pure white paint scheme. This variant has several new features: it now has flares, a radar warning receiver, a ballistic computer, and a new pair of hardpoints for mounting 130 mm high-explosive rockets. The flight performance has also been improved noticeably, courtesy of the more powerful engines. The Q-5A is an all-round improvement with enhanced self-defense in air combat and much higher efficacy in ground attack; with the Q-5IA upgrades, it further enhance the survivability of Q-5A thanks to the countermeasures and RWR onboard. 
+Introduced in [[Update "New Power"]], Q-5A is externally very similar to the [[Q-5 early]] aside from the pure white paint scheme. This variant has several new features: it now has flares, a radar warning receiver, a ballistic computer, and a new pair of hardpoints for mounting 130 mm high-explosive rockets. The flight performance has also been improved noticeably, courtesy of the more powerful engines. The Q-5A is an all-round improvement with enhanced self-defense in air combat and much higher efficacy in ground attack; with the Q-5IA upgrades, it further enhance the survivability of Q-5A thanks to the countermeasures and RWR onboard.
 
 == General info ==
 === Flight performance ===
@@ -131,11 +131,11 @@ The Q-5 protects the pilot from small arms fire, but this level of protection do
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -145,9 +145,8 @@ The Q-5 protects the pilot from small arms fire, but this level of protection do
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 23 mm Type 23-2K cannons, wing-mounted (120 rpg = 240 total)
-** 2 x 23 mm Type 23-2K cannons + 18 x countermeasures
+* 2 x 23 mm Type 23-2K cannons, wing-mounted (120 rpg = 240 total)
+* 18 x large calibre countermeasures
 
 As on the Q-5 early, the Q-5A is equipped with rapid-firing 23 mm cannons. While they are not particularly powerful on an shot-by-shot basis, the high rate of fire ensures that a brief burst of successful hits should be enough to put down most opponents.
 
@@ -279,7 +278,7 @@ The Q-5 Fantan family
 
 * [[Q-5 early]] - LRIP and first series of Q-5
 * [[A-5C]] - Export variants to Pakistan with western weaponries
-* [[Q-5L]] - LGB platform based on the Q-5C/Q-5II 
+* [[Q-5L]] - LGB platform based on the Q-5C/Q-5II
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

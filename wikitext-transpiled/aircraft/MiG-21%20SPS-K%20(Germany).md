@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 During the 1960s and '70s, East Germany had modified their MiG-21PFs into a new standard, which they indigenously called the MiG-21PFM (not to be confused with the Soviet designated [[MiG-21PFM]], a heavily upgraded MiG-21PF using the second-generation MiG-21 body style). However, a problem quickly arose when the East German air force acquired the Soviet designated PFMs, as these planes were vastly different than the upgraded PFs sharing the same name. To avoid further confusion, all Soviet designated MiG-21PFMs in German service would be re-designated into the MiG-21SPS. However, yet again, a naming convention conundrum arose when the later variant of the Soviet MiG-21PFM (''Izdelyie 94A'') entered service, with the biggest change being the ability to carry a [[GSh-23L (23 mm)|GSh-23]] gunpod on the underbelly. To account for the new variant again, the Germans re-designated this variant into the MiG-21SPS-K, with the K standing for ''Kanone'' to denote its ability to take a cannon pod.
 
-Introduced as a premium pack in [[Update "Ground Breaking"]], the MiG-21SPS-K takes on an entirely new playstyle for the [[MiG-21 (Family)|Fishbed family]], completely departing from the high-speed, high AoA hit and run tactics of previous aircraft due to its loadouts. Due to not having a real built-in gun, this aircraft is very reliant on its IR-guided [[R-60]] and [[R-13M1]] and radar-guided [[R-3R]] air-to-air missile selection. However, due to being a MiG-21PFM airframe, it is limited to two hardpoints only, meaning the player can only take two missiles, so its best to choose wisely depending on the map and the Battle Rating of that match. The player can also choose between either a GSh-23 gunpod, or a SPS-141 countermeasures pod on the center pylon. Overall, the SPS-K is a unique premium as it differs greatly from the usual MiG-21's gameplay loop, having to rely a lot more on its ordnance and tools than its flight performance (which as with other MiG-21s, is very good as well).
+Introduced as a premium pack in [[Update "Ground Breaking"]], the MiG-21SPS-K takes on an entirely new playstyle for the [[MiG-21 (Family)|Fishbed family]], completely departing from the high-speed, high AoA hit and run tactics of previous aircraft due to its loadouts. Due to not having a real built-in gun, this aircraft is very reliant on its IR-guided [[R-60]] and [[R-13M1]] and radar-guided [[R-3R]] air-to-air missile selection. However, due to being a MiG-21PFM airframe, it is limited to two hardpoints only, meaning the player can only take a maximum of four missiles. The player can also choose between either a GSh-23 gunpod, or a SPS-141 countermeasures pod on the center pylon. Overall, the SPS-K is a unique premium as it differs greatly from the usual MiG-21's gameplay loop, having to rely a lot more on its ordnance and tools than its flight performance (which as with other MiG-21s, is very good as well).
 
 The MiG-21 SPS-K was removed from the Gaijin store at the end of the [[wt:en/news/8225-shop-may-sale-in-the-gaijin-store-en|2023 May Sale]]. It was made available briefly to purchase with Golden Eagles {{GE}} during the [[wt:en/news/8324-special-the-mig-21-sps-k-returns-to-celebrate-the-mig-21-s-first-flight-en|2023 "MiG-21's First Flight" celebration]].
 
@@ -113,7 +113,7 @@ The MiG-21 SPS-K was removed from the Gaijin store at the end of the [[wt:en/new
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-The aircraft gets 60 mm bulletproof glass in front of the pilot and 10 mm of steel behind the pilot, making it more survivable in head-on attacks. Even with the bulletproof glass, the pilot isn't immune to any enemy fire. The plane gets self-sealing fuel tanks in the wings and over the engine.
+The aircraft gets 60 mm bulletproof glass in front of the pilot and 10 mm of steel behind the pilot, making it more survivable in head-on attacks and making it be able to tank low caliber machine gun fire from enemy tanks. But even with the bulletproof glass, the pilot isn't immune to enemy fire, so you should still try to dodge any bullets aiming for you. The plane also gets self-sealing fuel tanks in the wings and over the engine.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -179,6 +179,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 23 mm GSh-23L cannon (250 rpg)
 * 2 x R-60 missiles + 1 x 490 l drop tank
 * 4 x R-3S missiles
@@ -196,7 +197,27 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+=== Air Realistic Battles ===
+The MiG-21 SPS-K is a decent fighter jet for its Battle Rating (BR). With its wide range of available weaponry, it can be used as a fighter and as an attack aircraft destroying enemy bases or ground vehicles.
+
+When you want to play as a fighter (which is its intended role), you can either take the R-3R, R-3S, R-13M1 or R-60 or any mix of these missiles with you. Since the SPS-K doesn’t have an onboard gun, you will also have to decide between taking the gun or the countermeasures.
+
+If you take the gun, you will be able to engage enemy planes and ground targets without the need of missiles. However, this way you will lack countermeasures, making it very hard to evade missiles. With the lack of flares, be aware of enemies like the [[A-10A]] and [[Su-25K]] due to them carrying the all-aspect [[AIM-9L Sidewinder|AIM-9L]] and [[R-60MK]] missiles which are lethal to you.
+
+Using the R-3R and/or R-3S is a great way to destroy enemy planes, while it is recommended to rather use the R-3Rs since many enemies which you will face are not capable of taking chaff with them. The R-3R can also be used in Head-ons because of your radar while the R-3S can only be used rear-aspect (when being behind the enemy). However both of these missiles only have a maximum G-overload of 10G, making them easy to outmaneuver and thus evade - even without countermeasures.
+
+Another option for making the MiG a lethal fighter are the R-13M1 missiles. These have a higher G-overload of 20G making them very hard to be dodged by enemies. They also feature a higher launch-range than the R-3R/S and are faster with the top speed being Mach 2.4. 
+
+The last option for you to take, is the R-60 missile. While being slower than the R-13M1, it has an higher G-overload of 30G, making this missile practically unable to be dodged. The R-60 is a rear-aspect missile, but this shouldn’t stop you from considering taking it with you. When you take the 2x R-60s, try to find enemies that are flying to the bases and quickly follow them. Most of the planes will have flares but some, like the often-seen [[Su-7BMK]], don’t have countermeasures. So it is best to search for planes who lack those.
+
+When you consider destroying bases or ground targets, it is best to equip the S-5K unguided rockets and the gun. With the lack of missiles, you won’t be able to pose a big threat to enemy planes, however, you can still make use of your gun if you are being attacked. If you are skilled (and lucky) enough, you can also use the rockets against enemy planes when you run out of ammo.
+
+=== Ground Realistic Battles ===
+The MiG-21 can also be used as a CAS vehicle hovering the skies of the battlefield. If you want to use the MiG in GRB, it is best to equip the S-5K rockets and the gun. While flying to the battlefield, be aware of enemy planes intercepting you or enemy SPAAs searching for their next target. Due to the lack of countermeasures, you should instantly try to dive down or fly behind rocks/hills if available, when you see a missile aiming for you.
+
+If you make it to the battlefield alive, you can use your gun to destroy light tanks and IFVs and your rockets to hit MBTs. Since the rockets aren’t that powerful tho, you should try to dive down directly onto the target you want to hit, while having your air brakes extended.
+
+Once you have unleashed your power, make your way back to the airfield, rearm and repeat.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -205,7 +226,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Has access to R-3R, R-3S, R-13M1, and R-60 air-to-air missiles
 * Decent radar to slave R-60s for easier target locking
 * In a downtier, it can dominate with its gun and flight characteristics
-* Quick plane with good speed for its br
+* Quick plane with good speed for its BR
 * Decent manoeuvrability at high speed
 * Ballistic computer for rockets, making it good for quick attack runs on ground targets
 
@@ -214,9 +235,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Bad energy retention in turns
 * Poor acceleration making to plane hard to fly in turnfights
 * Has to give up the gun for flare/chaff pod
-* Hard to make use out of in uptier matches
 * RWR is only working in the rear, not all around
-* Gun runs out of ammo quickly due to high rate of fire and low ammunition storage
+* Gun runs out of ammo quickly due to high rate of fire and low ammunition storage (250 ammo)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

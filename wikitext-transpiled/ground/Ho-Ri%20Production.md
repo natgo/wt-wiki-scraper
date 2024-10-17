@@ -149,7 +149,7 @@ Some concerning enemies are:
 '''Pros:'''
 
 * Heavy amount of frontal sloped armour
-* Can bounce '''anything''' when angled right
+* Can bounce '''anything''' it faces at its battle rating when angled right
 * Very fast for a heavy SPG, with high acceleration thanks to its massive engine
 * Reverse speed is good enough to get away from trouble and even when the Ho-Ri loses one track it can still balance around to continue fighting
 * High-velocity cannon with decent penetration and high post-penetration damage, perfect against medium tanks
@@ -195,9 +195,24 @@ The construction of the prototype was completed in 1944 and achieved a top speed
 {{Youtube-gallery|B2woWvJK4ew|'''Top 7 most armoured vehicles''' discusses the {{PAGENAME}} at 1:51 - ''War Thunder Official Channel''|xF4-TcnyWw0|'''Best tank destroyers''' discusses the {{PAGENAME}} at 3:35 - ''War Thunder Official Channel''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related development
+
+* [[Chi-Ri II]]
+** [[Ho-Ri Prototype]]
+
+;Other vehicles of similar configuration and role
+
+* [[File:Germany flag.png|30px|link=]] [[Ferdinand]] / [[Elefant]]
+* [[File:Germany flag.png|30px|link=]] [[Jagdpanther]]
+* [[File:Germany flag.png|30px|link=]] [[Jagdtiger]]
+* [[File:USSR flag.png|30px|link=]] [[Object 268]]
+* [[File:USA flag.png|30px|link=]] [[T28]] / [[T95]]
+* [[File:Britain flag.png|30px|link=]] [[Tortoise]]
+* [[File:France flag.png|30px|link=]] [[AMX-50 Foch]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

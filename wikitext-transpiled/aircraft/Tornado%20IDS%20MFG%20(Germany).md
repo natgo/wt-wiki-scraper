@@ -166,6 +166,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Large calibre countermeasures
 | 28 || || || || || || || || || || 28
 |-
+! Large calibre chaff
+| 340 || || || || || || || || || || 340
+|-
 ! 1,500 l drop tanks
 | || || 1 || || || || || || 1 || ||
 |-
@@ -177,7 +180,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 1,500 l drop tanks
-* 56 x large calibre countermeasures
+* 56 x large calibre countermeasures + 680 x large calibre chaff
 * 2 x AIM-9L Sidewinder missiles
 * 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
 * 7 x 1,000 lb Mk 83 AIR bombs (7,000 lb total)
@@ -189,12 +192,22 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-This Tornado sits at a lower BR than the other Tornados. In secluded 1-vs-1, energy trapping an opponent is a viable option. However, one needs to be aware of their surroundings so as not to be third-partied while at a lower speed.
 
-It is advisable to bomb enemy bases, since the Tornado is not very good in air combat. Since you will almost always be ahead of your team, it is advisable to throw flares when you are going to bomb a base. Once the bases are bombed there are two options:
+=== '''Air Realistic battles''' ===
+If used in Air Realistic battles, the Tornado IDS MFG should be used as a bomber rather than a fighter. Thus you should take 12 x 1,000 lb bombs for bombing and 2 x [[AIM-9L Sidewinder|AIM-9L]]<nowiki/>s if needed. It is also recommended to take the 58 x countermeasures with you, as these will be your only option for evading a missile. Since the Tornado is very fast, you can quickly fly into the battlefield with afterburners turned on. While flying, you should watch out for enemy planes and missiles. It is best to fly low to the ground - less than 60 m above it - as you will often face Pulse-Doppler radar with missiles such as [[AIM-7 Sparrow (Family)|AIM-7]]<nowiki/>s and [[R-24R]]. The combination of the radar with these strong missiles will most likely kill you if you don't pay enough attention.
 
-# Return to base, resupply and continue bombing
-# Try to support allies in air combat with missiles.
+Once you are close enough to the base, quickly fly up so you can drop your bombs. To get the most out of your IDS MFG, drop half of your bomb load (6 bombs) and keep the other half for another base. Once the bombs are away, you should fly down again to avoid being detected or getting missiles. Then fly to another base and repeat the process.
+
+If you're out of bombs, you can either fly back to base and rearm or make use of your missiles and engage enemy planes. Fire the missiles at unsuspecting targets, which are either in a fight or seem to not pay attention (e.g. when flying back to their airfield in a consistent straight line).
+
+Also, always make sure to look around using your assigned button, since any engagement with an enemy fighter like the [[F-16A|F-16]], [[MiG-23 (Family)|MiG-23]] or [[MiG-29]] will put you at a high risk of dying!
+
+=== '''Ground Realistic battles''' ===
+If used in Ground realistic battles, the Tornado can be lethal to enemy tanks due to its great armament. It is advisable to take the same weaponry as in Air battles (see above) since you will need the bombs to destroy ground targets and the AIM-9Ls and Flares/Chaff for any air engagement.
+
+While flying into the battlefield, it is best to - again - fly low to the ground, as enemy fighters or SPAAs can easily shoot you down. So when you spawn, dive down immediately!
+
+When over the battlefield, quickly drop your bombs and fly away as fast as possible. If you want to make another run, because you haven't dropped all of your bombs yet, make sure to avoid detection while turning in the air. If you see on your RWR that SPAAs like the [[Pantsir-S1]] are present, fly back to your airfield and rearm - even if you still have bombs.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -205,11 +218,9 @@ It is advisable to bomb enemy bases, since the Tornado is not very good in air c
 * Mauser BK27 guns have decent hitting power and ammunition capacity
 * Unlike other Tornado versions, has anti-ship equipment (missiles and radar)
 * Access to two AIM-9L Sidewinder air-to-air missiles stock
-* Can work as a figther when necessary
-** Variable wing sweep allows it to turn better when at low speeds, or during an emergency at high speed (at the risk of destroying itself) 
+* Can act as a fighter when necessary
+** Variable wing sweep allows it to turn better when at low speeds, or during an emergency at high speed (at the risk of destroying itself)
 ** Radar assisted gun makes intercepting incoming or leaving planes easier
-
-
 
 '''Cons:'''
 

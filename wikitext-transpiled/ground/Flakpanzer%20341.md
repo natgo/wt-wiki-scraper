@@ -163,6 +163,7 @@ In December, 1943 a wooden mock-up of the turret was built and installed on the 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_flakpanzer_V_Coelian Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

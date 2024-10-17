@@ -7,13 +7,20 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The Freccia IFV, made by Iveco and OTO Melara, was an Italian IFV designed to meet a new requirement from the Italian army for a new modern vehicle that would be able to successfully replace the obsolete fleet of VCC-2 APCs that had been serving in the Italian armed forces for many years. Iveco and OTO Melara would eventually design something closely based on the Centauro family of vehicles, which would end up being known as the Freccia. It would enter service in 2009 and continues to serve today in a multitude of locations where the Italian army is stationed.
 
-Introduced in [[Update "La Royale"]], the main defining feature of the Freccia is the new turret which is able to mount Spike fire-and-forget ATGMs. The main con when playing the Freccia is the big profile, you are very limited in how you can hide this machine. Fighting in close proximity to enemy vehicles is also not the best, the Spikes are mid-to-long range weapons, at close range the Spike cannot effectively lock onto enemy tanks, and for the missile to actually hit the target there has to be some considerable distance between players. This is why playing as a sniper is recommended. The Spike missile can lock onto enemy aircraft too but they need to be very close and flying relatively slowly in comparison to the missile for it to reach the target. Mobility-wise, you will not be lacking on maps with roads, but take note of areas with mud/snow as they will make the Freccia go slower. Armour-wise, the Freccia is actually surprisingly good for an IFV, it can withstand low-level autocannon fire and enemy tank shells if they hit an area of the platform with empty space. Overall the Freccia is a solid addition to any top tier Italian ground forces lineup.
+Introduced in [[Update "La Royale"]], the main defining feature of the Freccia over its [[VBC (PT2)|prototype]] is the new turret which is able to mount Spike fire-and-forget ATGMs. The main con when playing the Freccia is the big profile, you are very limited in how you can hide this machine. Fighting in close proximity to enemy vehicles is also not the best, the Spikes are mid-to-long range weapons with relatively poor penetration, and at close range the Spike missiles behave randomly, so for the missile to actually hit the target there often has to be some considerable distance between players. This is why playing as a sniper is recommended. The Spike missile can lock onto enemy aircraft too but it is very slow, so instead Freccia should use onboard IRST to use the gun on it instead when possible. Mobility-wise, Freccia will not be found lacking on maps with roads, but take note of areas with mud/snow as they will make it go slower. Armour-wise, the Freccia is actually surprisingly good for an IFV, it can withstand low-level autocannon fire and enemy tank shells if they hit an area of the platform with empty space. Overall the Freccia is a solid addition to any top tier Italian ground forces lineup.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The Freccia is protected against low to medium calibre munitions, frontally is where it's most effective. Enemy artillery can be a danger but if hit close to the vehicle the armour is good enough to protect the crew without issue.
+
+The Freccia is decently protected against 25 mm APDS and may sustain APFSDS of that calibre frontally for a while. 30 mm however can penetrate and hit any crew member position directly and with APFSDS is able to straight up overpenetrate engine deck and hit the gun ammo rack. Since 30 mm calibre is fairly popular at the BR, trying to find out who is tougher with other light tanks isn't the best course of action for Freccia.
+
+Against 105 mm and bigger cannons the armour doesn't really do much. Overpressure from the front can be blocked by the engine deck, but the ammunition capable of doing this much overpressure damage at the rank might as well destroy Freccia with direct hit damage. Composites on the sides make sure that HEAT can't overpressure the car hull, but it generally doesn't matter as the shell will either detonate ammo racks or hit both of the turret crew. HE of top tier tanks will destroy the tank from any angle but the hull front.
+
+The turret neck remains a universal weakspot for every weapon type and anyone aiming to hurt and/or overpressure Freccia should aim there.
+
+Enemy artillery can be a danger but if hit close to the vehicle the armour is good enough to protect the crew without immediately folding.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -37,7 +44,9 @@ The Freccia is protected against low to medium calibre munitions, frontally is w
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+Freccia is very close to the [[VBC (PT2)]] in terms of movement performance, if a little slower, so italian veterans will be right at home with this vehicle. 
+
+The car likes to drive at gear 8 and -4 at common combat speeds, so the driver crew skill heavily affects acceleration from standstill.
 
 {{tankMobility|abMinHp=852|rbMinHp=486}}
 
@@ -50,6 +59,12 @@ The Freccia is protected against low to medium calibre munitions, frontally is w
 {{Specs-Tank-Weapon|2}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Oerlikon KBA B02 (25 mm)}}
+
+The main cannon is identical to the one on car's prototype, meaning it will be rather easy to target and disable tanks, though this time around cars back is elevated a bit higher, blocking more of the gun depression than before.
+ 
+Even medium tanks will have to keep in mind that Freccia has APFSDS and can send them back to spawn all the same. APDS is slightly less effective against modern MBT, but it still can be used as a backup belt to deal crippling damage, should the target be immune to the gun.
+
+There is a new feature in the turret - from sniper seat gunner can activate IRST to allow the tank to lock onto aircraft, just like with the SIDAM, making the HE belt more useful. The feature doesn't provide correct aim assist if hybrid ammunition belt is used (as aim for the  belt will only be displayed for the first shell, which has a different velocity from the rest), but is otherwise excellent and doesn't trigger alarm for helicopters like the laser rangefinder might.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -95,13 +110,27 @@ The Freccia is protected against low to medium calibre munitions, frontally is w
 === Additional armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-{{main|Spike-MR}}
+{{main|Spike-LR2}}
 
-''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.''
+Secondary weapon of the tank are the Spike missiles. The missiles are IR in nature, and so there are certain implications that you need to be aware of:
+
+* They lock towards heat signatures and will chase their target on their own
+* They do not care if signature is alive or dead, only if it's bright, so spikes may decide to attack fires or a dead tank instead
+* They can be blinded by the smoke screen, so they often can't be used as a finisher
+* They can be blinded by bushes, but may ignore rocks sometimes, so if tank can't lock-on over cover, then it is probably because of a random plant
+* They have a mind of their own and may randomly decide to fly in less than optimal way if you launch them poorly, so aim cannon directly on targeted tanks when possible
+* Although the lock-on indicator may make it look like the missiles will go exactly where it points, in reality these missiles are obsessed with going for the driver port and the turret neck when fired from the front
+* These missiles do not really care about tank engines for some reason, so locking from behind is difficult, if not impossible (though tank cannon can do its best from behind anyway, so ATGM is not needed at this point)
+
+The missiles are slow (both physically and in the decision-making department) and so the launch procedure is very important. Try to be either closer than 140 m or further than 240 m when firing - in case of close range launch with launcher directly pointing at the tank, the missile will just go forward and act as a metaphorical shotgun, where as at ranges between 140 and 240 the missile will try to loft and will just fly over the target. At longer ranges, such as 500 m and beyond, the missile generally manages to fix itself and fly properly, but aiming the cannon on the target first is still important, as otherwise there is no guarantee that it will not self-destruct or randomly fly to the side.
+
+When going generally towards the target, Freccia should aim the gun on the target and make sure that it fires when its inertia vector is going up (if tank fires when it's going down, the missile will just crash). When going perpendicular to the enemy tank at 60-80 km/h , the aim should be offset to the opposite side (when going right, aim more to the left, etc), aim offset can be quickly judged by the horizontal marks on the sniper scope (number 8 signifies speed difference of 80 km/h).
+
+In terms of damage and penetration, spikes aren't anything groundbreaking and are rather weak due to low explosive mass, but their obsession with aiming for the driver port often makes them hit the gun breech, which in turn makes enemy medium tanks useless despite all of their armour. When properly launched and enemy tank has no cover, they may attack the hull instead and destroy everything in that part of the tank, which is particularly good against Soviet tanks, as they rely on ERA (which is ignored due to the tandem charge) and can't sustain hull damage most of the times.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! colspan="4" | [[Spike-MR]] missile || colspan="4" | Reloading rate (seconds)
+! colspan="4" | [[Spike-LR2]] missile || colspan="4" | Reloading rate (seconds)
 |-
 ! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Full !! Expert !! Aced
@@ -111,7 +140,7 @@ The Freccia is protected against low to medium calibre munitions, frontally is w
 |}
 
 ==== Ammunition ====
-{{:Spike-MR/Ammunition|Spike-MR}}
+{{:Spike-LR2/Ammunition|Spike-LR2}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -149,11 +178,18 @@ The Freccia is protected against low to medium calibre munitions, frontally is w
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Freccia IFV can be a very effective stand-off platform that you can use against the enemy team. Unlike other similar IFVs at or above its battle rating, the Freccia is not super effective at closer distances. The best way to play with the Freccia is flanking the enemy team or getting to spots where enemies won't expect to be be engaged from. The armament of the Freccia consists of a singular 25 mm Oerlikon autocannon, able to fire APDS and APFSDS when you research and buy the modification for it. It also has access to 2 x 7.62 mm machine guns, but these aren't really something which sets the Freccia apart from its peers. The main defining weapon system on the Freccia is the Spike-MR fire-and-forget anti-tank guided missiles. This Israeli-made ATGM allows the Freccia to easily dominate in open maps where hard cover is not easily accessible. At the start of matches, you can quickly make your way to spots where incoming enemies are spotted and freely fire your ATGMs even while moving. This strategy allows you to engage and drive away usually before an enemy has enough time to react and engage you. The Spike missile allows the Freccia to be best played as a sniper, for example on the Fields of Poland map the Freccia can set up near the woods on both sides of the map and fire at enemies across the map without much issue. The Spike is not effective at close range due to how the missile is set up to fully function. It requires at least 1-3 seconds of flight time to adjust itself to hit an enemy. At close ranges, the Spike will often not do enough damage and the missile was made to hit enemies at the top of their turrets, where the armour is usually at its weakest.
 
-In terms of armour and survivability, the Freccia is very protected against small to medium calibre munitions: enemy anti-air cannons or IFVs will struggle to penetrate you frontally. If penetration happens you still have some internal modules which can sustain the damage before reaching your crew or munitions. That said, it is advised that you do not play at close range with the Freccia or on maps which aren't open - although you are somewhat protected, an experienced player can easily find weakspots. The Freccia's weakspots include the turret, which due to crew configuration leads to a swift death if one well placed shot hits you. The other weakspot of the Freccia is at the back, where extra Spike ATGMs are stored, if you haven't used up the Spikes it means that if an enemy fires there the missiles will explode and you will be knocked out. However, when missiles aren't present, low calibre won't actually damage you as there's a lot of empty space on the vehicle. This means that rounds will likely just go through the platform and not hinder you in any way.
+The Freccia IFV can be a very effective stand-off platform that you can use against the enemy team. Unlike other similar IFVs at or above its battle rating, the Freccia is not super effective at closer distances, unless at point blank range, since opponents became much stronger since the times of the VBC (PT2). The best way to play with the Freccia is flanking the enemy team or getting to spots where enemies won't expect to be be engaged from.
 
-Mobility-wise, the Freccia is great on road and on maps with sand and snow. Not so good off-road especially without engine modules researched and installed, it's quite slow compared to its peers. It doesn't help that the platform is big which usually makes it harder to hide, so again avoid being at close range. Lastly one big issue with the Freccia is the fact that the Spike's lock-on is very hard to get to work. You cannot get a lock when enemies are behind a rock even if their turret or behind are exposed. In conclusion, the Freccia is a great platform, it has everything classic IFVs would need such as thermal and NV optics, a laser rangefinder, a drone and also a stabilized main cannon.
+The armament of the Freccia consists of a singular 25 mm Oerlikon autocannon, able to fire HE, APDS and APFSDS when you research and buy the modification for it (much like before, you can hot-switch between belts on demand). Just as before, the gun can operpenetrate engine decks from behind which is often instantly fatal and may ruin medium tanks from the sides, but is lacklustre when attacking from the front. The gun can now be locked onto aircraft via IRST to utterly destroy them, if commander wants to. Car also has access to 2 x 7.62 mm machine guns, but these features aren't really something which sets the Freccia apart from its peers.
+
+The main defining weapon system on the Freccia is the Spike-LR2 fire-and-forget anti-tank guided missiles. This Israeli-made ATGM allows the Freccia to easily dominate in open maps where hard cover is not easily accessible. At the start of matches, you can quickly make your way to spots where incoming enemies are spotted and freely fire your ATGMs even while moving (preferrably from afar). This strategy allows you to engage and drive away, usually before an enemy has enough time to react and engage you. The Spike missile allows the Freccia to be best played as a sniper, for example on the Fields of Poland map the Freccia can set up near the woods on both sides of the map and fire at enemies across the map without much issue. The Spike is not effective at close range due to how the missile is set up to fully function and how random it is. It requires at least 1-3 seconds of flight time to adjust itself to hit an enemy. At point blank ranges, the Spike will often fail to do enough damage, but can be nonetheless used to deliver a finishing blow from the side. Lastly, one big issue with the Freccia is the fact that the Spike's lock-on is very hard to get to work when it doesn't want to. You sometimes cannot get a lock when enemies are behind a rock, even if their turret is exposed, and sometimes missiles pretend to see nothing even when tank rear is exposed, so try to attack directly from the sides. 
+
+In terms of armour and survivability, the Freccia is very protected against small to medium calibre munitions: enemy with small anti-air cannons will struggle to penetrate you frontally, though 30 mm cannons of light tanks may just go through everything at medium range. If penetration happens you still have some internal modules which can sustain the damage before reaching your crew or munitions. That said, it is advised that you do not play at close range with the Freccia or on maps which aren't open - although you are somewhat protected, an experienced player can easily find weakspots. The Freccia's weakspots include the turret, which due to crew configuration leads to a swift death if one well placed shot hits you. The other weakspot of the Freccia is at the back, where extra Spike ATGMs are stored, if you haven't used up the Spikes it means that if an enemy fires there the missiles will explode and you will be knocked out. However, when missiles aren't present, low calibre won't actually damage you as there's a lot of empty space on the vehicle. This means that rounds will likely just go through the platform and not hinder you in any way.
+
+Mobility-wise, the Freccia is great on road and on maps with sand and will easily flank majority of opponents, although the advantage is not as blatant as before, as opponents also move faster now. When stock, it's not so good off-road especially without engine modules researched and installed, being quite slow compared to its peers. It doesn't help that the platform is big which usually makes it harder to hide, so again avoid being at close range when there is no hard cover.
+
+In conclusion, the Freccia is a great platform, it has everything classic IFVs would need such as thermal and NV optics, a laser rangefinder, a drone, missiles and also a stabilized main cannon.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -161,19 +197,19 @@ Mobility-wise, the Freccia is great on road and on maps with sand and snow. Not 
 '''Pros:'''
 
 * Mobile platform
-* Access to fire-and-forget Spike-MR missiles
+* Access to fire-and-forget Spike-LR2 missiles
 * Can fire ATGMs on the move
-* Armoured enough to allow it to withstand autocannon fire
+* Armoured hull is enough to allow it to withstand medium grade autocannon fire
 * Fast firing 25 mm Oerlikon cannon equipped with APFSDS
-* Due to the layout of the vehicle, at times thanks to the empty space enemy rounds will not damage you
+* Due to the layout of the vehicle, at times thanks to the empty space enemy rounds will not damage it
 
 '''Cons:'''
 
 * Big profile
-* Firing Spike ATGMs requires a lock
+* Firing Spike ATGMs requires a lock 
 * Firing at enemies directly behind is an issue if you need to depress your cannon
 * Crew layout in the turret can be a problem as enemies can 1 shot you at times
-* Due to being wheeled, sometimes when encountering mud or snow you may not be as mobile
+* Due to being wheeled, sometimes when encountering mud or snow it may not be as mobile
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -203,6 +239,7 @@ The Freccia VBM (Veicolo Blindato Medio - "medium armored vehicle") Infantry fig
 
 * [[VBC (PT2)]]
 * [[Type 87 RCV]]
+* [[Vilkas]] - extremely similar tank on German tech tree
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

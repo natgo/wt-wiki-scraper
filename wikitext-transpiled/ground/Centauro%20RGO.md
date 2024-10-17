@@ -13,6 +13,8 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update "Alpha Strike"]].
 
+The Centauro RGO is an Omani export variant of the Centauro B1 MGS. In 2008, the Royal Guards of Oman (RGO) imported six tanks but in the following years ordered three more. The RGO differentiates itself with the infamous HITFACT turret from OTO Melara, featuring the 120 mm/45 gun. With this turret added, the tank is now more likely to withstand a hit in the turret, unlike previous Centauros where the turret was a significant weak spot. The 120 mm gun makes it deadly on top of that, as it has access to the powerful CL3143 shell, capable of penetrating all Russian vehicles equipped with CONTACT-5 ERA.
+
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
@@ -27,9 +29,9 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian light tan
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 15 mm (80°) ''Top'' <br> 25 mm (45°) ''Bottom'' || 15 mm (47°) ''Top'' <br> 15 mm (28°) ''Bottom'' || 15 mm (21°) || 15 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 14 - 25 mm ''Turret front'' <br> 25 - 50 mm ''Gun mantlet'' || 25 mm || 25 mm || 14 - 20 mm
 |-
 | Cupola || ___ mm || ___ mm || ___ mm || ___ mm
 |-
@@ -90,7 +92,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian light tan
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''33''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''33''' || 9&nbsp;''(+24)'' || 24&nbsp;''(+0)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
 |-
 |}
 
@@ -137,15 +139,20 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Italian light tan
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-*
+* Powerful OTO Melara 120/45 cannon
+* Very fast and mobile on-road
+* Has access to the scouting ability
+* Quick reload time
+* 12.7 mm machine gun helps to defend against helicopters and light vehicles
 
 '''Cons:'''
 
-*
+* Despite the added armour on the turret, it's still relatively easy to penetrate
+* Lethargic when moving over rough terrain
+* Prone to high explosive rounds like HE or HEAT-FS
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

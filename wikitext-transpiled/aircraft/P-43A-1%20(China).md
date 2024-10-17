@@ -32,7 +32,7 @@ Much like its predecessor and successor, the P-43 is a heavy fighter with a larg
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 546 || 531 || rowspan="2" | {{Specs|ceiling}} || 19.9 || 20.6 || 10.8 || 10.8 || rowspan="2" | 343
+| 546 || 529 || rowspan="2" | {{Specs|ceiling}} || 19.9 || 20.6 || 10.8 || 10.8 || rowspan="2" | 343
 |-
 ! Upgraded
 | 589 || 566 || 18.1 || 19.0 || 17.1 || 13.6

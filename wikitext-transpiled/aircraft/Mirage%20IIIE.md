@@ -145,9 +145,8 @@ All other components can be researched at the user's discretion.
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 60 x countermeasures
+* 15 x large calibre countermeasures
+* 30 x countermeasures
 
 At this battle rating, proper usage of countermeasures is next to mandatory. The sheer amount of missiles in the air at every instant, and the fact that the Mirage IIIE is a top-tier aircraft, makes the flares the most important part of the Mirage IIIE's self preservation. As for quantities and type, it is recommended to always carry chaffs as well, SARH and ARM missiles being sometimes used at such BRs. Full flare composition is permissible when in a downtier match, where such missiles are much rarer. It is also notable that missiles encountered at such BRs can and will discriminate the jet from its flares. Ample usage of flares and afterburner cutoff must therefore be performed to ensure a successful evasion.
 
@@ -160,7 +159,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[DEFA 552A (30 mm)|30 mm DEFA 552A]] cannons (125 rpg)
 | || || || || 2 || ||
@@ -204,13 +203,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! SEPR 844 tank
 | || || || || 1* || ||
 |-
+! 1,700 l drop tanks
+| || 1 || || || || 1 ||
+|-
 | colspan="10" | * The SEPR 844 oxidiser tank must be carried when equipping the SEPR 844 rocket booster
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 30 mm DEFA 552A cannon (250 rpg)
+* 2 x 1,700 l drop tanks + 1 x 30 mm DEFA 552A cannon (250 rpg)
 * 2 x AIM-9B Sidewinder missiles
 * 2 x Matra R550 Magic 1 missiles
 * 1 x Matra R530 missile

@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=jp_battleship_settsu
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage {{PAGENAME}} (2).jpg|GarageImage {{PAGENAME}} (3).jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

@@ -1,5 +1,5 @@
 {{About
-| about = strike fighter '''{{PAGENAME}}'''
+| about = French strike fighter '''{{PAGENAME}}'''
 | usage = other versions
 | link = Alpha Jet (Family)
 }}
@@ -29,10 +29,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1005 || 996 || rowspan="2" |12,200||30.7|| 31.6 || 40.2 || 37.1 || rowspan="2" | 1,000
+| 1,005 || 996 || rowspan="2" | 12,200 || 30.7 || 31.6 || 40.2 || 37.1 || rowspan="2" | 1,000
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 1,032 || 1,019 || 28.8 || 30.0 || 61.0 || 50.0
 |-
 |}
 
@@ -90,7 +90,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 ! Weight (each) || colspan="2" | Type
 ! _m fuel || __m fuel || __m fuel
 |-
-|295|| colspan="2" |Jet
+|295|| colspan="2" |____
 | _,___ kg || _,___ kg || _,___ kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
@@ -129,7 +129,46 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.''
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="11" width="30%" | <!-- <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div> -->
+|-
+! [[DEFA 553 (30 mm)|30 mm DEFA 553]] cannons (150 rpg)
+| || || 1 || ||
+|-
+! [[DEFA 553 (30 mm)|30 mm DEFA 553]] cannons (180 rpg)
+| || 1 || || 1 ||
+|-
+! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
+| 1 || 1, 2 || || 1, 2 || 1
+|-
+! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
+| 1 || 1, 2 || || 1, 2 || 1
+|-
+! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
+| 1 || 1, 2 || || 1, 2 || 1
+|-
+! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
+| 1 || 1, 2 || || 1, 2 || 1
+|-
+! [[M116A2 incendiary]] bombs
+| 1 || 1 || || 1 || 1
+|-
+! [[SNEB type 23]] rockets
+| 18, 36 || 18, 36 || || 18, 36 || 18, 36
+|-
+! 310 l drop tanks
+| 1* || || || || 1*
+|-
+| colspan="6" | Maximum permissible weight imbalance: 500 kg
+|-
+| colspan="7" | * Drop tanks must be equipped simultaneously
+|-
+|}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
@@ -156,21 +195,25 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French strike aircraft {{Battl
 
 * Has CCIP, which is rare for its battle rating
 * It has rare features for SB at his BR, such as SAS and a modern HUD with sight customization
+* Small aircraft, can avoid many shots
+* Excellent 30 mm cannons that are great for head-ons
+* Very light aircraft, can pull out great manoeuvres
 
 '''Cons:'''
 
-* Does not have access to countermeasures
 * No RWR or radar
 * No guided weapons or air-to-air missiles
+* Cannot equip countermeasures
+* Equipping bombs makes the plane really heavy (especially M116A2 bombs)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 === [[wt:en/news/8790-development-alpha-jet-a-e-alpha-strike-en|Devblog]] ===
-By 1969, both Germany and France had a need for a new generation of jet trainer aircraft to replace their existing inventory of T-33 and Fouga Magister aircraft. It was decided that a collaboration between Dornier and Dassault-Breguet, with the latter first being two separate companies who later merged, had the best potential for a joint TA (Trainer Attack) aircraft over other competing manufacturers and won out the contest with the TA501.
+By 1969, both Germany and France had a need for a new generation of jet trainer aircraft to replace their existing inventory of T-33 and Fouga Magister aircraft. It was decided that a collaboration between Dornier and Dassault-Bréguet, with the latter first being two separate companies who later merged, had the best potential for a joint TA (Trainer Attack) aircraft over other competing manufacturers and won out the contest with the TA501.
 
-This aircraft was to satisfy the Luftwaffe’s need to also replace their G.91 aircraft in the attack role, while the Armée de l'Air’s needs were mostly on the training gap that the Anglo-French Jaguar was initially intended to cover, but ended up being a more advanced supersonic conversion / strike aircraft. As such, two distinct versions of what would be the Alpha Jet were formed. The A - Appui / Attack and the E - Ecole / Trainer versions. These would be produced in sub assemblies in Germany, France and also Belgium.
+This aircraft was to satisfy the Luftwaffe's need to also replace their G.91 aircraft in the attack role, while the Armée de l'Air's needs were mostly on the training gap that the Anglo-French Jaguar was initially intended to cover, but ended up being a more advanced supersonic conversion / strike aircraft. As such, two distinct versions of what would be the Alpha Jet were formed. The A - Appui / Attack and the E - Ecole / Trainer versions. These would be produced in sub assemblies in Germany, France and also Belgium.
 
 The first prototype would take to the skies in October 1973 and after many more years of testing and trials, the Alpha Jet would enter French and German service in 1979, going on to be a success story of collaboration between nations. While it still serves to this day with France, the aircraft has also been a huge export success, with multiple nations from Belgium, Portugal and Thailand operating the type, as well as it also being popular with private company operators who use them as aggressor training aircraft in the UK, America and Canada.
 
@@ -178,6 +221,7 @@ The first prototype would take to the skies in October 1973 and after many more 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=alpha_jet_e Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -186,7 +230,8 @@ The first prototype would take to the skies in October 1973 and after many more 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-* [[Alpha Jet (Family)]
+
+* [[Alpha Jet (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

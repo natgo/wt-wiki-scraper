@@ -252,8 +252,20 @@ The Type 75 has not yet participated in any combat operations during its service
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[2S3M]]
-* [[Bkan 1C]]
+;Related Development
+
+* Type 73 APC
+** [[SUB-I-II]] - <small>Prototype hull</small>
+** [[Type 75 MLRS]]
+* [[Type 99|Type 99 SPH]] - <small>Successor</small>
+
+;Other vehicles of similar configuration and role
+
+* [[File:USSR flag.png|30px|link=]] [[2S1]]
+* [[File:USSR flag.png|30px|link=]] [[2S3M]]
+* [[File:USA flag.png|30px|link=]] [[M109 (Family)|M109]]
+* [[File:China flag.png|30px|link=]] [[PLZ83 (Family)]]
+* [[File:South Africa flag.png|30px|link=]] [[G6]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

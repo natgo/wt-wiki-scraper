@@ -188,6 +188,7 @@ High speed and great climb rate coupled with its amazing armament make the Horne
 * Good amount of ammo for the cannons
 * One of the fastest props at all altitudes
 * Fantastic climb rate, especially when spaded, can beat the Do 335s to altitude
+* Air defense fighter spawn means the Hornet will spawn higher than all planes except bombers.
 * Thin body for a twin-engined fighter
 * Experience with the Mosquito transitions between the planes
 * Control surfaces remain effective even at redline speeds (which is good because speed is necessary to staying alive)
@@ -196,6 +197,8 @@ High speed and great climb rate coupled with its amazing armament make the Horne
 
 * Not great at destroying heavy bombers like the He 177, susceptible to engine damage or a knocked out pilot
 * Poor roll rate and turn rate
+* Poor engine performance at high altitude
+* Terrible nose authority due to rudder performance 
 * Despite the durable construction, the Hornet is made out of wood, meaning you cannot take much damage and remain in the fight
 * Fires deal serious damage to the wooden airframe
 * Wings are littered with fuel tanks

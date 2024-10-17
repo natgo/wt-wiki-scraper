@@ -145,19 +145,16 @@ The Leopard 2A7V, as it became known, featured improved protection thanks to a m
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_2a7v Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|JynFzP5cOdk|'''The Shooting Range #391''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.}}
 
 == See also ==
-<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+[[Leopard 2A7HU]]
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+[[Leopard 2A6 (Sweden)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

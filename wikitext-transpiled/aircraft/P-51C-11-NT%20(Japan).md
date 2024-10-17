@@ -247,6 +247,9 @@ One day in 1965 Maj.Gen. Kuroe went fishing off the Echizen coast, Fukui Prefect
 
 * [https://forum.warthunder.com/index.php?/topic/497252-p-51-c10/ Official data sheet - more details about the performance]
 
+=== References ===
+<references/>
+
 {{AirManufacturer NAA}}
 {{Japan fighters}}
 {{Japan premium aircraft}}

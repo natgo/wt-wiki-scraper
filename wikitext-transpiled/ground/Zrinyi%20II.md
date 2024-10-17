@@ -82,23 +82,26 @@ It is essential to note the vulnerability of the roof armour, measuring only 13 
 {{:Mavag 40/43M (105 mm)/Ammunition|105mm 38/33M, 105mm 42M}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.37.0.140''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
+! Ammo<br>type
 ! 1st<br>rack empty
 ! 2nd<br>rack empty
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''52''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''52''' || ''Projectiles''<br>''Propellants'' || 40&nbsp;''(+12)'' <br> 38&nbsp;''(+14)'' || 27&nbsp;''(+25)'' <br> 23&nbsp;''(+29)'' || 14&nbsp;''(+38)'' <br> 12&nbsp;''(+40)'' || 1&nbsp;''(+51)'' <br> 1&nbsp;''(+51)'' || No
 |-
 |}
+'''Notes''':
 
+* The {{PAGENAME}} uses two-piece ammunition, composed of projectiles (yellow) and propellant bags (orange). Both have separate racks.
+* Shells are modeled individually and disappear after having been loaded.
+{{Clear}}
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 

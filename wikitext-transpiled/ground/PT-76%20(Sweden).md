@@ -90,19 +90,21 @@ The amphibious feature of the PT-76B makes the vehicle more versatile, broadenin
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
 <!-- '''Last updated:''' -->
 {| class="wikitable" style="text-align:center"
+!Full<br>ammo
+!1st<br>rack empty
+!2nd<br>rack empty
+!3rd<br>rack empty
+!Visual<br>discrepancy
 |-
-! Full<br>ammo
-! 1st<br>rack empty
-! 2nd<br>rack empty
-! 3rd<br>rack empty
-! 4th<br>rack empty
-! 5th<br>rack empty
-! 6th<br>rack empty
-! Visual<br>discrepancy
-|-
-| '''40''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
-|-
+|'''40'''
+|39 ''(+1)''
+|25 ''(+15)''
+|1 ''(+39)''
+|No
 |}
+'''Note''':
+
+* Turret rack and rear ammo rack empty: 25 ''(+15)'' shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

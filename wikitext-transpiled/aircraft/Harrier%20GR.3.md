@@ -170,6 +170,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9G Sidewinder missiles
 * 108 x SNEB type 23 rockets
@@ -201,7 +202,7 @@ When facing player-controlled attackers ([[A-4E Early]] for example), the pilot 
 
 '''As an attacker/bomber:'''
 
-The Harrier has access to a wide variety of ground ordnance capable of destroying enemy ground units and bases. It also has access to CCIP ballistics computer (refer to [[Ballistic Computer]] for explanation) meaning the pilot has access to ground ordnance crosshairs which will increase ordnance accuracy, both rockets and bombs. It is not recommended to fly as a bomber (in terms of altitude) but fly as a tree cutter (as close to the ground as possible). This is recommended to achieve multiple things: radar interference, max speed, reduce enemy visibility and awareness. It also makes bombing easier without the need of ballistics computer (although it is recommended to use it since it will not require any practice). Time fuze MUST BE ADDED to avoid assault fuze explosion, risking your plane to be hit by the explosion causing a death. Ground striking ordnance should be taken at pilot's discretion, but it is recommended to take the 3 x 1,000 lb bombs in order to take a whole base completely and still maintain high speeds. This bomb loadout and AAM are recommended if the pilot wants to engage enemy air targets upon taking an enemy base.
+The Harrier has access to a wide variety of ground ordnance capable of destroying enemy ground units and bases. It also has access to CCIP ballistics computer (refer to [[Ballistic Computer]] for explanation) meaning the pilot has access to ground ordnance crosshairs which will increase ordnance accuracy, both rockets and bombs. It is not recommended to fly as a bomber (in terms of altitude) but fly as a tree cutter (as close to the ground as possible). This is recommended to achieve multiple things: radar interference, max speed, reduce enemy visibility and awareness. It also makes bombing easier without the need of ballistics computer (although it is recommended to use it since it will not require any practice). Time fuze MUST BE ADDED to avoid assault fuze explosion, risking your plane to be hit by the explosion causing a death. Ground striking ordnance should be taken at pilot's discretion, but it is recommended to take the 5 x 1,000 lb bombs in order to take a whole base completely and still maintain high speeds. This bomb loadout and AAM are recommended if the pilot wants to engage enemy air targets upon taking an enemy base.
 
 ''*Note: radar interference is mostly irrelevant in air realistic battles as the plane will still be highlighted and enemy pilots could use eye aiming. However, it will interfere with radar homing missiles (SARH missiles such as AIM-7E, R-3R, etc carried by F-4 Phantoms and MiG-21's) and will be your main line of defence when flying in simulator battles, you will be able to fly stealthily if flying in tree cutting tactic.''
 

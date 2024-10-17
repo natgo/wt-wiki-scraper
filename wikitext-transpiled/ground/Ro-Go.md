@@ -225,15 +225,14 @@ After World War I, the Imperial Japanese Army experimented with some possibility
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related Development
-
 * [[Ro-Go Exp.]]
 
 ;Other vehicles of similar configuration and role
-
-* [[Nb.Fz.]]
-* [[Independent]]
-* [[T-35]]
-* [[2C]]
+* [[File:Germany flag.png|30px|link=]] [[Nb.Fz.]]
+* [[File:Britain flag.png|30px|link=]] [[Independent]]
+* [[File:USSR flag.png|30px|link=]] [[T-28]]
+* [[File:USSR flag.png|30px|link=]] [[T-35]]
+* [[File:France flag.png|30px|link=]] [[B1 bis]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (חובט, lit. batsman) represent the [[M163|M163 VADS]] in IDF service. According to the records of the IDF, the vehicle joined the Israeli Air Defense Command in 1975 as a new air defense weapon, alongside the MIM-72 Chaparral which was introduced a year earlier. The Hovet, however, waited 7 years until it earned its first victory against an enemy target, in the 1982 Lebanese War, and further served in the IDF for more than 2 decades until the IADC was disbanded, leading to the decommission of the Hovet and its modernized variant, [[Machbet]], which was upgraded with TVD and 4 FIM-92 Stingers.
+'''Hovet''' (חובט - "batsman") was the Israeli designation for the American [[M163|M163 VADS]]. The vehicle joined the Israeli Air Defense Command (IADC) in 1975, operating alongside the MIM-72 Chaparral which had been introduced a year earlier. It earned its first victory against an enemy target in the 1982 Lebanon War, and further served in the IDF for more than two decades until the IADC was disbanded, leading to the decommissioning of the Hovet and its modernised variant, [[Machbet]].
 
-Introduced in [[Update "Wind of Change"]] along with the initial Israeli tech tree, the Hovet performs identically to its US Army cousin. Although the lack of search radar and its M113 chassis with minimal protection due to the aluminium alloy armour plates could cause problems when duelling with targets, the six-barrel M168 Vulcan can still strike fear into enemy aerial targets or vehicles with its high rate-of-fire and iconic sound.
+Introduced in [[Update "Wind of Change"]] along with the initial Israeli tech tree, the Hovet performs identically to its American counterpart. It is a fairly strong self-propelled gun, the main feature of which is its six-barreled M168 gun with a rate of fire of 3,000 rounds per minute. However, it lacks a search radar, and has a relatively low effective range. The M113 chassis offers minimal protection due to the aluminium alloy construction, but provides good mobility and manoeuvrability.
 
 == General info ==
 === Survivability and armour ===
@@ -111,7 +111,7 @@ The Hovet wields about 60 mm of penetration, which is enough to mortally wound/d
 * Long reload time
 * The 20 mm shells lose velocity quickly, making it very difficult to attack fast planes past 2 km or light tanks past 1 km
 * No passive radar search
-* The gun overheats over quickly
+* The gun overheats rather quickly
 * Low penetration
 
 == History ==
@@ -147,3 +147,4 @@ Some of the M163 were also converted into the Machbet (מחבט, lit. racquet) w
 * ''other literature.''
 
 {{Israel anti-aircraft vehicles}}
+<references />

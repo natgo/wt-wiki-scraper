@@ -134,7 +134,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
 | || 1 || || || || 1 ||
@@ -169,12 +169,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Shafrir 2]] missiles
 | 1 || || || || || || 1
 |-
+! 880 l drop tanks
+| || || || 1 || || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 1 x 880 l drop tank
 * 2 x Shafrir 2 missiles
 * 2 x AIM-9D Sidewinder missiles
 * 2 x AIM-9G Sidewinder missiles

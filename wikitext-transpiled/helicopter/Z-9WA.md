@@ -10,11 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese attack helicopter {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+'''Harbin Z-9WA''' was a modification of the [[Z-9W]] developed in 2005. As part of the upgrade, the helicopter received a new optical system with a thermal imager, improved avionics, and the ability to carry state-of-the-art weaponry. Besides service in the Chinese army, a certain number of these helicopters have also been supplied for export.
 
-The Harbin Z-9 is commonly known to the Chinese community as 海豚 "Haitun" (Dolphin) as it is based on the French Eurocopter AS365 ''Dauphin''. This revised version of the Z-9W comes with better avionics and upgraded firepower thanks to a set of revised pylons. While it still lag behind counterparts at its BR due to its original design as a transport helicopter, the armament onboard is available in greater numbers and allows the Z-9WA to still stand a chance against enemy targets with better ATGMs and more AAMs.
-
-The overall appearance of the Z-9WA is quite similar to the previous Z-9W other than the shiny black camouflage, rearranged optical trackers (from the top of cockpit to a position under the nose), and redesigned details in the cabin and cockpit. On top of the upgraded weapons and payload capacity, the Z-9WA has new systems such as thermal optics, MAWS, and countermeasures that make it better at hunting tanks and more slippery against enemy air defenses.
+Introduced in [[Update "Drone Age"]], the Z-9WA remains a relatively fast and lightweight machine. While it may lag behind counterparts at its BR due to its original design as a transport helicopter, the armament onboard is available in greater numbers and allows the Z-9WA to stand a chance against enemy targets with better ATGMs and more AAMs. The Z-9WA also has new systems such as thermal optics, MAWS, and countermeasures that make it better at hunting tanks and more slippery against enemy air defences.
 
 == General info ==
 === Flight performance ===
@@ -108,6 +106,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 36 x Type 57-1 rockets
 * 2 x 12.7 mm QJK99-12.7-1 machine guns (1,000 rpg = 2,000 total)
 * 4 x HJ-8E missiles
@@ -159,7 +158,11 @@ Like the Z-9W, make sure to sneak around in the battlefield for maximum survivab
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The Z-9WA is the upgraded version of the Z-9W with revised pylon that was bolted onto the airframe instead of going through the main airframe itself, a new 3-in-1 tracker with daytime/TVD/laser tracking and some revision on the nose of the helicopter. The project was started in November 2001 and contracts were signed in January next year, first seen as part of the PLA Hong Kong Garrison Aviation Corps at Shek Kong Airfield (石崗機場) in the early 2000s. The Z-9WA was the dedicated attack helicopter of PLAGF Aviation Corps before Project 941 (Z-10) until the Z-9WA's successor, the Z-19, came into service.
+The Z-9WA helicopter began with the development of the Harbin Z-9 (WZ-9) nicknamed "Haitun" (海豚, meaning "Dolphin") which is essentially a license built variant of the French AS365 "Dauphin" by Harbin Aircraft Manufacturing Corporation. The first Z-9 flew in 1981, after a successful deal signed in 1980 with Aérospatiale (now Airbus Helicopters) of France to produce a variant of the well-regarded Eurocopter AS365 Dauphin. The first variants began with heavy dependence on French subsystems and components, however by the time of the introduction of the Z-9B most parts were already made in China, without depending on external suppliers.
+
+The helicopter features Twin turboshaft engines, a crew of 1-2, has a cruise speed of 267 km/h, a range of up to 700 km, service ceiling of 5,400 m and a takeoff weight of 4,300 kg. The Z-9W and Z-9WA where later introduced, with important adjustments, mainly the addition of weapon systems and electronic subsystems.
+
+The Z-9WA is the upgraded version of the Z-9W with revised pylon that was bolted onto the airframe instead of going through the main airframe itself, a new 3-in-1 tracker with daytime/TVD/laser tracking and some revision on the nose of the helicopter, depending on the configuration, the helicopter might even include a nose mounted radar. The project was started in November 2001 and contracts were signed in January next year, first seen as part of the PLA Hong Kong Garrison Aviation Corps at Shek Kong Airfield (石崗機場) in the early 2000s. The Z-9WA was the dedicated attack helicopter of PLAGF Aviation Corps before Project 941 (Z-10) until the Z-9WA's successor, the Z-19, came into service.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -181,10 +184,8 @@ The Z-9WA is the upgraded version of the Z-9W with revised pylon that was bolted
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* [[wikipedia:Harbin_Z-9|[Wikipedia] Harbin Z-9]]
 
 {{AirManufacturer Harbin}}
 {{China helicopters}}

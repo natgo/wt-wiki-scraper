@@ -263,3 +263,4 @@ The French Vautour twin-engine bomber had been produced in three variants betwee
 {{AirManufacturer SNCA SO}}
 {{France jet aircraft}}
 {{France premium aircraft}}
+[[Category:Hidden vehicles]]

@@ -165,7 +165,7 @@ Unfortunately, missions like "destroy enemy bombers/attackers" and ground poundi
 
 '''Pros:'''
 
-* Incredibly manoeverable at low-to-medium speed, can out-turn most enemies it will face
+* Incredibly manoeuvrable at low-to-medium speed, can out-turn most enemies it will face
 * Excellent climb rate up to 4,500 m
 * Hard-hitting 20 mm cannons
 * Low stall speed and easy to take off and landing due to being a carrier-based fighter
@@ -174,7 +174,7 @@ Unfortunately, missions like "destroy enemy bombers/attackers" and ground poundi
 '''Cons:'''
 
 * Frail airframe with no protection, can be easily crippled by any incoming hits
-* Poor high-speed characteristics; control can easily lock at higher speeds, and high-speed manoevers may results into wing overloading
+* Poor high-speed characteristics; control can easily lock at higher speeds, and high-speed manoeuvres may results into wing overloading
 * Generally slow top speed and poor energy retention, vulnerable to boom-and-zoom attacks
 * 20 mm cannons have very poor muzzle velocity, making it difficult to hit enemies at all but point blank ranges (~300 m)
 * Low ammo count for 20 mm cannons, while 7 mm machine guns offers little damage output 

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish utility helicopter {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+While waiting for the delivery of 20 ordered [[HKP9A]] helicopters, the Swedish test centre Försökscentralen (FC) rented four BO 105 CB-3 helicopters from MBB in 1985. Three were used for flight testing and tactics development and were later returned, while one was used for weapons systems testing and was later purchased and joined the Swedish Air Force as the 21st HKP9A helicopter. It was notably equipped with a modernised Saab HeliTOW complex with an additional FLIR thermal sight.
+
+The '''HKP9A (FC)''' was introduced in [[Update "Wind of Change"]]. Unlike its [[HKP9A|predecessor]], it has new BGM-71D TOW-2 ATGMs, capable of destroying almost any MBT encountered in battle head-on. In addition, the helicopter is equipped with an improved aiming complex with a thermal imager, which significantly improves target detection on the battlefield both in normal daylight and nighttime conditions. In all other respects, it remains as small, manoeuvrable, and unarmoured as its predecessor.
 
 == General info ==
 === Flight performance ===
@@ -68,7 +70,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Access to Thermal Imaging
 * Great stock performance - comes with full missile payload stock
 * Countermeasure-resistant missiles
-* Access to RWR
 
 '''Cons:'''
 
@@ -78,6 +79,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Lacklustre air-to-air protection - only has access to optional 12.7 mm machine guns
 * Missiles require manual guidance
 * Small firing window - helicopter must be pointed at the target to guide effectively
+* No radar warning receiver (RWR) 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

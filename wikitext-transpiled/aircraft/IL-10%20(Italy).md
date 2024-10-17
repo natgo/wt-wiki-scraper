@@ -42,7 +42,7 @@ The '''{{Specs|name}} (1946)''' is a rank {{Specs|rank}} Italian strike aircraft
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
+| X || ✓ || ✓ || X || X     <!-- ✓ -->
 |-
 |}
 
@@ -57,7 +57,7 @@ The '''{{Specs|name}} (1946)''' is a rank {{Specs|rank}} Italian strike aircraft
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 720 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 496 || 467 || 320 || ~14 || ~14
+| 720 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || 467 || 320 || ~14 || ~14
 |-
 |}
 
@@ -102,10 +102,41 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-50sv (50 kg)|FAB-100sv (100 kg)|FAB-250sv (250 kg)}}
-{{main|M-8|M-13UK|RBS-82|RBS-132}}
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_IL-10.png]]</div>
+|-
+! [[FAB-50sv (50 kg)|50 kg FAB-50sv]] bombs
+| || || 1 || 1 || ||
+|-
+! [[FAB-100sv (100 kg)|100 kg FAB-100sv]] bombs
+| || || 1 || 1 || ||
+|-
+! [[FAB-250sv (250 kg)|250 kg FAB-250sv]] bombs
+| || || 1 || 1 || ||
+|-
+! [[M-8]] rockets
+| 1 || 1 || || || 1 || 1
+|-
+! [[M-13UK]] rockets
+| 1 || 1 || || || 1 || 1
+|-
+! [[RBS-82]] rockets
+| 1 || 1 || || || 1 || 1
+|-
+! [[RBS-132]] rockets
+| 1 || 1 || || || 1 || 1
+|-
+| colspan="7" | Maximum permissible loadout weight: 600 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * Without load
 * 4 x M-8 rockets
 * 4 x RBS-82 rockets
@@ -114,37 +145,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 2 x 50 kg FAB-50sv bombs (100 kg total)
 * 2 x 100 kg FAB-100sv bombs (200 kg total)
 * 2 x 250 kg FAB-250sv bombs (500 kg total)
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_IL-10.png]]</div>
-|-
-! 50 kg FAB-50sv bombs
-| || || 1 || 1 || ||
-|-
-! 100 kg FAB-100sv bombs
-| || || 1 || 1 || ||
-|-
-! 250 kg FAB-250sv bombs
-| || || 1 || 1 || ||
-|-
-! M-8 rockets
-| 1 || 1 || || || 1 || 1
-|-
-! M-13UK rockets
-| 1 || 1 || || || 1 || 1
-|-
-! RBS-82 rockets
-| 1 || 1 || || || 1 || 1
-|-
-! RBS-132 rockets
-| 1 || 1 || || || 1 || 1
-|-
-| colspan="7" | Maximum permissible loadout weight: 600 kg
-|-
-|}
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

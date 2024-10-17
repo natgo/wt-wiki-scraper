@@ -60,7 +60,7 @@ The {{PAGENAME}} was introduced in [[Update "Air Superiority"]] as top rank jet 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,470 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~12 || ~5
+| 1,543 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || - || - || - || ~12 || ~5
 |-
 |}
 
@@ -70,7 +70,7 @@ The {{PAGENAME}} was introduced in [[Update "Air Superiority"]] as top rank jet 
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 519 || < 700 || < 1,470 || -
+| < 519 || < 700 || < 1,543 || -
 |-
 |}
 
@@ -101,11 +101,11 @@ The {{PAGENAME}} was introduced in [[Update "Air Superiority"]] as top rank jet 
 ! Condition || 100% || WEP
 ! 9m fuel || 20m fuel || 30m fuel || 32m fuel || MGW
 |-
-| ''Stationary'' || 5,100 kgf || 7,528 kgf
-| 0.99 || 0.91 || 0.83 || 0.82 || 0.54
+| ''Stationary'' || 5,340 kgf ||8,050 kgf
+|1.06||0.97||0.89||0.87||0.58
 |-
-| ''Optimal'' || 5,100 kgf<br>(0 km/h) || 10,918 kgf<br>(1,250 km/h)
-| 1.44 || 1.31 || 1.21 || 1.19 || 0.79
+| ''Optimal'' || 5,340 kgf<br>(0 km/h) || 9,100 kgf<br>(1,000 km/h)
+|1.20||1.10||1.01||0.99||0.65
 |-
 |}
 
@@ -254,6 +254,7 @@ The Gripen is also a good dogfighter, use the air brake until you get into the 7
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=saab_jas39a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet armoured gun boat {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]].
+The '''{{Specs|name}}''' is a Soviet armoured boat developed in 1945 to replace the outdated [[Pr.1124 (Family)|Pr.1124]] armoured boats. The engineers learned from wartime experiences and the predecessor’s design to create a new boat with enhanced armor and anti-air defense, as well as slightly higher speed. The first prototype of the Pr.191 was slower than its predecessor, but it featured new armor and an updated design layout. Although only one prototype was built, the mass-production version, the [[Pr.191M]], was equipped with M-50 engines and more powerful heavy machine gun armaments.
+
+In the game, this boat was introduced in [[Update 1.83 "Masters of the Sea"]]. It has a crew of 14 and boasts strong armour that protects against heavy machine guns. Its armament includes an 85 mm cannon, capable of firing HE and APHE shells, making it perfect for targeting armoured enemies. It also features two twin 12.7 mm heavy machine guns, effective against lightly armoured targets and for anti-air defense. Additionally, the boat carries magnetic mines, but these are relatively small and require several mines to effectively sink destroyers by flooding.
 
 == General info ==
 === Survivability and armour ===
@@ -159,6 +161,7 @@ The single unit produced was designated '''BK-166'''.<ref name="Navpedia_191" />
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_pr_191 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

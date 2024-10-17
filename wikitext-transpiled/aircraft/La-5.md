@@ -30,7 +30,7 @@ It was introduced in [[Update 1.35]]. The La-5 is an energy fighter. While havin
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 554 || 537 || rowspan="2" | {{Specs|ceiling}} || 22.1 || 22.8 || 9.8 || 9.8 || rowspan="2" | 370
+| 555 || 537 || rowspan="2" | {{Specs|ceiling}} || 22.1 || 22.9 || 9.8 || 9.8 || rowspan="2" | 370
 |-
 ! Upgraded
 | 609 || 580 || 20.0 || 21.1 || 18.8 || 13.7
@@ -147,9 +147,9 @@ The 20 mm cannons are mighty, but low on total ammunition count. Only fly this p
 
 * Poor performance above 3,000 m (10,000 ft)
 * Low total ammunition count
-* Jack of all trades master of none
 * Severe surface control compression in dives
 * No bulletproof glass or armour to protect the pilot in head-on attacks
+* Horrible over the nose visibility (Simulator)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -200,6 +200,6 @@ File:Finnish Fokker D.XXI WTWallpaper 06.jpg|
 * [[wt:en/news/7045-development-fokker-d-xxi-the-flying-dutchman-en|[Devblog] Fokker D.XXI: The Flying Dutchman]]
 * [https://forum.warthunder.com/index.php?/topic/518099-fokker-dxxi/ Official data sheet - more details about the performance]
 
-{{AirManufacturer Fokker}}
+{{AirManufacturer VL}}
 {{Sweden fighters}}
 {{Sweden premium aircraft}}

@@ -199,9 +199,15 @@ Only in 1974, with the introduction of the [[Type 74 (Family)|Type 74]], would t
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Other vehicles of similar configuration and role
+;Related development
+* [[M24 (Family)]]
+** [[M19A1 (Japan)]]
 
-* [[AMX-13 (FL11)]]
+;Other vehicles of similar configuration and role
+* [[File:Britain flag.png|30px|link=]] [[Cromwell I]]
+* [[File:France flag.png|30px|link=]] [[AMX-13 (Family)]]
+** [[AMX-13 (FL11)]]
+** [[AMX-13-M24]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

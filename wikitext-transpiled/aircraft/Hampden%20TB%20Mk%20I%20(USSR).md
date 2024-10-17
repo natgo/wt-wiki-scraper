@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' was a British medium bomber serving also as a torpedo bomber. On 4th September 1942, 32 [[Hampden TB Mk I]] torpedo bombers from 144th Squadron RAF and 455th Squadron RAAF took off from their bases in the Shetlands to take part in Operation Orator, protecting the Murmansk-bound convoy PQ 18. The Hampdens flew over 3,900 km over sea and enemy territory until they arrived in Vayenga. Eight Hampdens were lost en route or damaged beyond repair. The British and Australian crews conducted a few sorties from Vayenga and were supposed to return with their Hampdens to Shetlands; however, strong headwinds prevented this as the Hampdens would not be able to reach their bases. The British instead trained Soviet crews in using the Hampdens and returned home by ship. The Soviet Navy's 24th Mine-Torpedo Aviation Regiment then operated the Hampdens until mid-1943 when lack of replacements and suitable spare parts forced them to withdraw them from service and return back to their original IL-4/DB-3 series bombers.
+On 4th September 1942, 32 [[Hampden TB Mk I]] torpedo bombers from 144th Squadron RAF and 455th Squadron RAAF took off from their bases in the Shetlands to take part in Operation Orator, protecting the Murmansk-bound convoy PQ 18. The Hampdens flew over 3,900 km over sea and enemy territory until they arrived in Vayenga. Eight Hampdens were lost en route or damaged beyond repair. The British and Australian crews conducted a few sorties from Vayenga and were supposed to return with their Hampdens to Shetlands; however, strong headwinds prevented this as the Hampdens would not be able to reach their bases.
 
-Introduced in [[Update 1.65 "Way of the Samurai"]], the Hampden features quite impressive bomb load for its size, being able to destroy more than two bases in air realistic battles. It also has access to the British Mark XII torpedo, having slightly higher drop speed than its Soviet 45-36AN counterpart. Unlike its British cousin, the Hampden in Soviet service had its defensive armament strengthened, as the dorsal twin 7.7 mm Vickers machine guns were replaced by single 12.7 mm Berezin UB machine gun in rotating turret.
+The British instead trained Soviet crews in using the Hampdens and returned home by ship. The Soviet Navy's 24th Mine-Torpedo Aviation Regiment then operated the Hampdens until mid-1943 when lack of replacements and suitable spare parts forced them to withdraw them from service and return back to their original IL-4/DB-3 series bombers.
+
+Introduced in [[Update 1.65 "Way of the Samurai"]], the Hampden TB Mk I UTK-1 features quite an impressive bomb load for its size, being able to destroy more than two bases in Air Realistic Battles at its battle rating. It also has access to the British [[18 inch Mark XII (450 mm)|Mark XII]] torpedo, having slightly higher drop speed than its Soviet [[45-36AN (450 mm)|45-36AN]] counterpart. Unlike its British cousin, the Hampden in Soviet service had its defensive armament strengthened, as the dorsal twin [[Vickers K (7.7 mm)|7.7 mm Vickers K]] machine guns were replaced by a single [[Berezin UB (12.7 mm)|12.7 mm Berezin UBT]] heavy machine gun in a rotating turret.
 
 == General info ==
 === Flight performance ===
@@ -180,15 +182,19 @@ RAF Squadron No.49 was the first to receive their new Hampdens. Bearing the brun
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=hp52_hampden_tbmk1_ussr_utk1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|Lec0mwCN81I|'''The Shooting Range #84''' - ''Pages of History'' section at 10:41 discusses the Hampden TB Mk I (USSR).}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[Hampden (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

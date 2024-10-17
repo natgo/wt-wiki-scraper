@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} British heavy tank {{Battle-rating}}. It was introduced in [[Update 1.63 "Desert Hunters"]]. The A1E1, with its five turrets, serve as the instigator of the multi-turreted concept that spread to the Soviet [[T-35]] and the German [[Nb.Fz.|Neubaufahrzeug]].
+The '''A1E1 Independent''' was an experimental British multi-turreted tank. Its development began in 1922 and was heavily influenced by the experience of World War I tank design, particularly in its numerous anti-infantry armament, weak armour, and large size in order to cross trenches. It was designed with reference to the French [[2C|Char 2C]], but was lighter and more manoeuvrable; the multi-turret concept would go on to influence a number of other tank designs, including the Soviet [[T-28]] and [[T-35]], and the German [[Nb.Fz.|Neubaufahrzeug]]. The first and only prototype of the A1E1 was built in 1926 and remained in service until 1935. However, at the start of World War II, the tank was returned to service and used as a static pillbox in case of German invasion of the British Isles. It survived the war and is now on display at the Bovington Tank Museum.
+
+Introduced in [[Update 1.63 "Desert Hunters"]], the Independent is relatively survivable due to its large crew complement, but limited by its thin armour and large silhouette. Despite its size, it is surprisingly mobile and responsive, though not particularly fast. Firepower-wise, the Independent only has access to an APHE shell, with rather lacklustre penetration but adequate post-penetration damage.
 
 == General info ==
 === Survivability and armour ===

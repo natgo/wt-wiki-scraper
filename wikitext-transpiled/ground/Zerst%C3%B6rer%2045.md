@@ -11,7 +11,9 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The Zerstörer 45 is overall not very armoured, and the armour it does have is weak. The Panzer IV hull on which this vehicle is based is the most armoured part, but really only provides adequate protection from machine gun fire, since every armour-piercing shell you face at its BR will go right through it easily. The gun crew is completely exposed with sides down, and raising the sides only meaningfully increases protection against 8 mm or smaller rounds.
+
+Because of overpressure, any stray high-explosive shell will make quick work of this vehicle, in addition to automatic fire.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -24,8 +26,6 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 | Hull || 50 mm || 30 mm || 20 mm || 10 mm
 |-
 | Turret || 16 mm || 16 mm
-!
-!
 |-
 |}
 
@@ -37,7 +37,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
 
-{{tankMobility}}
+{{tankMobility|abMinHp=426|rbMinHp=265}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -60,10 +60,10 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 840 (30) || rowspan="2" | 450 || rowspan="2" | -7°/+80° || rowspan="2" | ±180° || rowspan="2" | No || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 840 (30) || rowspan="2" | 450 || rowspan="2" | -7°/+80° || rowspan="2" | ±180° || rowspan="2" | - || 52.8 || 73.1 || 88.8 || 98.2 || 104.5 || rowspan="2" | 5.20 || rowspan="2" | 4.60 || rowspan="2" | 4.24 || rowspan="2" | 4.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 35.7 || 42.0 || 51.0 || 56.4 || 60.0
 |-
 |}
 
@@ -100,29 +100,26 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-* Effective penetration with Pzgr. H
+* Pz.Gr. H is very effective against light and medium tanks
+* M.Gr. is very effective against aircraft
 * Optional fold-up sides to add some protection for crew
-* Pz.Gr.H belts are very capable of penetrating light vehicles from the front and sides and is also capable of penetrating some medium vehicles from the sides and back
-
-*
 
 '''Cons:'''
 
-* Virtually no armour/exposed crew: sides down makes crew susceptible to any calibre of MG, with sides up can be penetrated with 12.7mm and higher
-* Panzer IV chassis: limited mobility and protection
-* Slow reverse speed: harder to get out of dangerous situations or reverse into cover
-* Fast ammo depletion: don't be fooled by the amount of shells in your rack, it subtracts by four every time you reload.
+* Crew is very exposed, vulnerable to rifle-calibre fire with sides down or 12.7+ mm with sides up
+* Panzer IV chassis has limited mobility and protection
+* Slow reverse speed: hard to get out of dangerous situations or reverse into cover
+* Ammunition depletes quickly due to the cannons' high fire rate
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 === [[wt:en/news/8779-development-zerstorer-45-a-new-wind-en|Devblog]] ===
-In parallel to the development of the Flakpanzer IV ‘Wirbelwind’, equipped with a quadruple 20 mm turret, the Ostbau Werke company also produced a second variant in November 1944. This version was then outfitted with the same quadruple mount but armed with modified 30 mm MK 103 cannons instead. Initially, firing tests of the turret were conducted on a Flakpanzer IV ‘Möbelwagen’ chassis. In December however, two dedicated prototypes were constructed using the chassis of the existing Panzer IV Ausf. H medium tanks.
+In parallel to the development of the Flakpanzer IV 'Wirbelwind', equipped with a quadruple 20 mm turret, the Ostbau Werke company also produced a second variant in November 1944. This version was then outfitted with the same quadruple mount but armed with modified 30 mm MK 103 cannons instead. Initially, firing tests of the turret were conducted on a Flakpanzer IV 'Möbelwagen' chassis. In December however, two dedicated prototypes were constructed using the chassis of the existing Panzer IV Ausf. H medium tanks.
 
 Despite the work done however, the Zerstörer 45 never made it past the prototype stage as the factories of the Ostbau Werke got destroyed in the final months of the war and thus a full-scale production became impossible.
 
@@ -136,7 +133,7 @@ Despite the work done however, the Zerstörer 45 never made it past the prototyp
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* Prototype in the German SPAAG series of vehicles (FlakPanzer)
+* ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==

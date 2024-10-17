@@ -5,13 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update 1.73 "Vive la France"]].
+The '''{{Specs|name}}''' was a combined project from the Thyssen-Henschel and Bofors companies. It was developed to engage and destroy Soviet APC and IFV formations without the need of additional anti tank weaponry, be that from Panzer companies or dedicated anti-tank infantry. The design was basically a Marder IFV chassis with a rapid fire 57 mm autocannon, as well as a TOW ATGM launcher with a reload mechanism that could be operated from inside the vehicle. However for an IFV, the Begleitpanzer had very little armour, and was too heavy and sluggish for a scout vehicle, as such, the project was canceled.
 
-At first glance, the Begleitpanzer 57 may be confused for a SPAA due to the light armoured chassis and the rapid-firing 57 mm autocannon. On the turret is also a TOW launcher with SACLOS guidance, meaning it will automatically align itself with where the crosshair is pointing.
-
-As it shares the same chassis, the Begleitpanzer 57's construction is similar to that of the [[Marder A1-]], with light armour all around and sides that heavy machine guns can penetrate. The main cannon's exterior mounting also means it can be disabled by machine guns and shrapnel.
-
-As a light tank, the Begleitpanzer 57 carries great firepower and high mobility. The 57 mm autocannon has a penetration power close to that of the [[ZSU-57-2]]'s, but the addition of a TOW launcher system makes this vehicle able to engage heavier targets.
+It was introduced in [[Update 1.73 "Vive la France"]]. At first glance, the '''Begleitpanzer 57''' may be confused for a SPAA due to the light armoured chassis and the rapid-firing 57 mm autocannon. On the turret is also a TOW launcher with SACLOS guidance, meaning it will automatically align itself with where the crosshair is pointing. As it shares the same chassis, the Begleitpanzer 57's construction is similar to that of the [[Marder A1-]], with light armour all around and sides that heavy machine guns can penetrate. The main cannon's exterior mounting also means it can be disabled by machine guns and shrapnel. As a light tank, the Begleitpanzer 57 carries great firepower and high mobility. The 57 mm autocannon has a penetration power close to that of the [[ZSU-57-2]]'s, but the addition of a TOW launcher system makes this vehicle able to engage heavier targets.
 
 == General info ==
 === Survivability and armour ===

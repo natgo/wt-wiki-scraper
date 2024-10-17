@@ -89,9 +89,8 @@ It was introduced in [[Update "Drone Age"]]. The M36B2 is the spiritual successo
 {{:M3 (90 mm)/Ammunition|T33 shot, M71 shell, M313, M304 shot, M82 shot (M36B2), M348 shell}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
-
+[[File:Ammoracks_M36B2.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.27.2.27''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -103,9 +102,16 @@ It was introduced in [[Update "Drone Age"]]. The M36B2 is the spiritual successo
 ! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''47''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''47''' || 39&nbsp;''(+8)'' || 30&nbsp;''(+17)'' || 21&nbsp;''(+26)'' || 12&nbsp;''(+35)'' || 7&nbsp;''(+40)'' || 1&nbsp;''(+46)'' || No
 |-
 |}
+'''Notes''':
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Racks 5 and 6 are first stage ammo racks. They total 11 shells and get filled first when loading up the tank.
+* These racks are also emptied early: the rack depletion order at full capacity is: 5 - 6 - 1 - 2 - 3 - 4.
+* Full reload speed will be realized as long as shells are available in the ready racks 5 and 6. If the ready rack is empty, a penalty to reload speed will occur.
+* Simply not firing when the gun is loaded will move ammo from racks 1-4 into rack 6 then 5. Firing will interrupt the restocking of the ready rack.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

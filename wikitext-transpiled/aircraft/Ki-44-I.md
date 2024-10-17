@@ -10,7 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]].
+The '''Ki-44-I''', designated as the '''Type 2 {{Annotation|Single-Seat|To differentiate from the 'Type 2 Twin-Seat' Ki-45}} Fighter, Model I ({{Annotation|二式単座戦闘機一型|Ni-Shiki Tanza Sentōki Ichi-Gata}})''' was developed alongside the lighter [[Ki-43 (Family)|Ki-43]] and the twin-engined [[Ki-45 (Family)|Ki-45]] in response to Western aircraft with retractable landing gear, such as the German [[Bf 109 (Family)|Bf 109]] and the British [[Spitfire (Family)|Spitfire]], which were introduced shortly after the Japanese deployment of the [[Ki-27 (Family)|Ki-27]] in 1937. While the [[Ki-43-I]] was designed as an agile, machine-gun-armed fighter, the Ki-44 was intended to be a heavier, faster, cannon-armed single-seat aircraft, with the [[Ki-45 ko]] serving as a long-range twin-engine aircraft to complement these planes. During its development and service, many Japanese aviators were opposed to the concept of a heavier single-engine aircraft that sacrificed agility for other factors. These doctrinal clashes were temporarily quelled by the tactics employed by the Soviet Air Force during the Nomonhan Incident, where the [[I-16 (Family)|I-16]] outperformed Japanese pilots using hit-and-run tactics and faster aircraft. Nakajima, tasked with developing all three aircraft, had little experience with "heavy" planes, resulting in the Ki-44 being lighter than a Bf 109, yet still valuable due to its high speed and formidable firepower. It even outperformed the Japanese-imported [[Bf 109 E-7 (Japan)|Bf 109 E-7]] in some aspects, despite its poor visibility and high landing speed requirements. The Ki-44 entered service in 1941, but many veteran Japanese pilots continued to dislike the aircraft, even though it achieved some successes in its smaller numbers.
+
+While the Ki-44 might seem less appealing to Japanese aviators compared to the Army's [[Ki-43 (Family)|Ki-43]] or the Navy's [[A6M]], it remains a fairly nimble aircraft that simply requires a different strategy. Boom-and-zoom tactics are key to the Ki-44's success; with its more powerful engine and increased firepower, the pilot should climb and dive on targets for maximum effect, regaining altitude for subsequent attacks. Although the Ki-44 is agile enough to change tactics or manoeuvres on the fly, pilots should note that it isn't as nimble as the previously mentioned aircraft.
+
+;Nicknames:
+* [[Abbreviations#.28IJA.29_Nicknames|Nickname]]: ''Shōki (鍾馗, Demon Queller)''
+* Allied reporting name: ''Tojo''
 
 == General info ==
 === Flight performance ===
@@ -183,12 +189,26 @@ When intercepting planes, it is crucial to know what the target is. If it is a b
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the aircraft;''
+* ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
+* [[Ki-43 (Family)]]
 * [[Ki-44 (Family)]]
+** [[Ki-44-I]]
+** [[Ki-44-I 34]]
+** [[Ki-44-II otsu]]
+** [[Ki-44-II hei]]
+* [[Ki-45 (Family)]]
+
+;Other vehicles of similar configuration and role
+* [[File:Kingdom Italy flag.png|30px|link=]] [[Re.2000 (Family)|Re.2000]] / [[Re.2001 (Family)|Re.2001]] / [[Re.2002 Early|Re.2000]]
+* [[File:USA flag.png|30px|link=]] [[P-43A-1]]
+* [[File:France flag.png|30px|link=]] [[M.B.157]]
+* [[File:Sweden flag.png|30px|link=]] [[J22-A]]/[[J22-B|-B]]
+* [[File:Finland flag.png|30px|link=]] [[VL Myrsky II]]
+* [[File:Germany flag.png|30px|link=]] [[Fw 190 (Family)]] - early models
+* [[File:IJN flag.png|30px|link=]] [[J2M (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

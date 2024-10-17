@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''Leclerc Séries 1''' is the first variant of the [[Leclerc (Family)|Leclerc main battle tank family]]. It was developed and manufactured by Nexter Systems. It was named after Marshal Philippe Leclerc de Hauteclocque, a Free French Forces commander who led the 2nd Armoured Division during World War II. In 1992, the Leclerc main battle tanks replaced the [[AMX-30 (Family)|AMX-30 main battle tanks]] as France's primary armoured platform. All variants of the Leclerc main battle tanks are armed with a 120 mm GIAT CN120-26 F1 tank gun designed by the Arsenal de Bourges (EFAB). It has a longer barrel than most main battle tanks of its generation, which gives it a higher muzzle velocity. Instead of the typical four-crew configuration found in most Western main battle tanks, it employs a three-crew configuration. This is mostly due to the implementation of an autoloader in the turret bustle. Creusot-Loire Industrie developed the autoloader in the turret bustle, which is known as Chargement Automatique. A total of 134 units were manufactured.
 
-Introduced in [[Update 1.89 "Imperial Navy"]], the Leclerc Séries 1 is generally well-protected, with an effective configuration that results in good survivability. It does, however, have several visible weak spots that are difficult to conceal, the most obvious of which is the gun mantlet, which is largely visible and can easily be fired at to damage the tank gun breech. It is susceptible to close-range combat as weak points are easily targeted. As a result, it is best to use its high-velocity ammunition to snipe or its greater mobility to flank opponents. It is one of the most competitive main battle tanks in its rank, featuring a six-second reload autoloader for quick follow-up shots in modern fast-paced warfare.
+Introduced in [[Update 1.89 "Imperial Navy"]], the Leclerc Séries 1 is generally well-protected, with an effective configuration that results in good survivability. It does, however, have several visible weak spots that are difficult to conceal, the most obvious of which is the gun mantlet, which is largely visible and can easily be fired at to damage the tank gun breech. It is susceptible to close-range combat as weak points are easily targeted. As a result, it is best to use its high-velocity ammunition to snipe or its greater mobility to flank opponents. It is one of the most competitive main battle tanks in its rank, featuring a five-second reload autoloader for quick follow-up shots in modern fast-paced warfare.
 
 == General info ==
 === Survivability and armour ===
@@ -56,7 +56,7 @@ The Leclerc Serie 1 mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted w
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0

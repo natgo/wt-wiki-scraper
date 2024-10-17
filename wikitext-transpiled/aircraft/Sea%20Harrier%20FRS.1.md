@@ -237,7 +237,7 @@ When players have the need for an attacker with slightly better A-A payload whil
 
 '''Pros:'''
 
-* Retains the great climb rate and thrust of earlier Harrier's
+* Retains the great climb rate and thrust of earlier Harriers
 * Addition of a search radar that can be used to slave the AAM's the Harrier can bring for off-angle shots
 * 4 powerful AIM-9L all-aspect missiles
 * Modern RWR with ability to detect track, launch and TWS modes

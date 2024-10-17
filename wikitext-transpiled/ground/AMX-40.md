@@ -188,11 +188,11 @@ AMX-40 should be used as a better AMX-30. It should be used almost the same way 
 
 '''Flanking''' - The AMX-40 is one of the most mobile MBTs at its battle rating and has nice agility when traversing. Speed should be the main feature of combat, "Hit n' Run" should be used, engage to disable or destroy and escape as fast as you can, use smoke if needed.
 
-'''Front line''' - Although not recommended due to the low armour, it can withstand some ATGMs and HEATFS as well as autocannons from IFV and SPAA. Stabilizer makes a huge upgrade to the tank as it can poke and shoot from corners without stopping at all, making engagements much more quicker than with AMX-30s. Composite armour will sometimes stop powerful rounds, do not expect to stop a round with this as it is not meant to stop high calibre APFSDS or even HEATFS. It will stop low calibre APFSDS (25 mm, 30 mm, 40 mm) at relative close ranges and anti tank grenades and rockets (PG-9).
+'''Front line''' - Although not recommended due to the low armour, it can withstand some ATGMs and HEATFS as well as autocannons from IFV and SPAA. Stabilizer makes a huge upgrade to the tank as it can poke and shoot from corners without stopping at all, making engagements much quicker than with AMX-30s. Composite armour will sometimes stop powerful rounds, do not expect to stop a round with this as it is not meant to stop high calibre APFSDS or even HEATFS. It will stop low calibre APFSDS (25 mm, 30 mm, 40 mm) at relative close ranges and anti tank grenades and rockets (PG-9).
 
-'''Support''' - Despite being an MBT, it can also be somewhat used as an IFV due to the 20 mm autocannon which can penetrate the sides of MBTs and/or destroy modules such as tracks, barrels or set engines on fire, sometimes firing the main gun is not even needed. Be aware that Soviet and Russian MBTs will stop penetration of your 20 mm HVAP due to the side armour. When engaging them, focus on firing at tracks and barrels, use your main gun to destroy them.
+'''Support''' - Despite being an MBT, it can also be somewhat used as an IFV due to the 20 mm autocannon which can penetrate the sides of MBTs and/or destroy modules such as tracks, barrels or set engines on fire, sometimes firing the main gun is not even needed. Be aware that Soviet and Russian MBTs will stop penetration of your 20 mm HVAP-T due to the side armour. When engaging them, focus on firing at tracks and barrels, use your main gun to destroy them.
 
-The OFL 120 G1 has penetration of a 105 mm APFSDS, it is only able to penetrate [[T-72A]] frontal plate. Tanks like [[T-72B]], [[T-72B3]], [[T-80B]] and [[T-80U]] will completely stop your round. Aim for the tank's sides.
+The OFL 120 G1 has penetration of a 105 mm APFSDS, it is only able to penetrate the frontal plate of the [[T-72A]]. Tanks like [[T-72B]], [[T-72B3]], [[T-80B]] and [[T-80U]] will completely stop your round. Aim for the tank's sides.
 
 '''Rural combat:'''
 

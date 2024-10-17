@@ -34,7 +34,7 @@ The AJS37 was a Swedish fighter-bomber aircraft which originated from the [[AJ37
 | 1,873 || 1,827 || rowspan="2" | {{Specs|ceiling}} || 26.1 || 26.4 || 158.4 || 147.8 || rowspan="2" | 500
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,012 || 1,948 || 23.4 || 25.0 || 224.1 || 190.0
 |-
 |}
 
@@ -137,12 +137,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_JA37D.png]]</div>
+| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_JA37D.png]]</div>
 |-
 ! [[Akan m/55 (30 mm)|30 mm Akan m/55]] cannons (150 rpg)
 | || 1 || || || || 1 ||
 |-
 ! [[m/71 (120 kg)|120 kg m/71]] bombs
+| || 4 || 4 || || 4 || 4 ||
+|-
+! [[m/71 retarded (120 kg)|120 kg m/71 retarded]] bombs
 | || 4 || 4 || || 4 || 4 ||
 |-
 ! [[psrak m/70]] rockets
@@ -160,11 +163,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Rb05A]] missiles
 | || || 1 || || 1 || ||
 |-
-! Countermeasures
-| || 24 || || || || 24 ||
+! Large calibre countermeasures
+| || 24* || || || || 24* ||
+|-
+! Large calibre chaff
+| || 340* || || || || 340* ||
 |-
 ! 1,250 l drop tanks
 | || || || 1 || || ||
+|-
+| colspan="9" | * Countermeasure and chaff pods are mounted simultaneously on the same hardpoint
 |-
 |}
 
@@ -175,10 +183,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 6 x RB24J missiles
 * 4 x RB 74 missiles
 * 16 x 120 kg m/71 bombs (1,920 kg total)
+* 16 x 120 kg m/71 retarded bombs (1,920 kg total)
 * 2 x Rb05A missiles
-* 48 x countermeasures
 * 24 x psrak m/70 rockets
 * 4 x RB 75 missiles
+* 48 x large calibre countermeasures + 680 x large calibre chaff
 {{Navigation-End}}
 
 == Usage in battles ==

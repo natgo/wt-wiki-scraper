@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-During the South African Border war, the Popular Movement for the Liberation of Angola (MPLA) utilized ZU-23-2 guns against the SADF. Designed by the Soviet Union, these anti-aircraft guns were also found to be effective against infantry and light vehicles. The SADF would seize enough of these guns to partially utilize them as regular weapons in their army. In the early 1990s, the SAMIL-100 Kwêvol armoured cargo truck was selected by the Armaments Corporation of South Africa as a carrier for captured ZU-23-2 turrets, which were redesignated by the SADF as the GA-6. The Bosvark would fill the gap left behind by the earlier Ystervark, which was removed from frontline service in 1991.
+During the South African Border war, the Popular Movement for the Liberation of Angola (MPLA) utilized ZU-23-2 anti-aircraft guns against the South African Defense Forces (SADF). Designed by the Soviet Union, these anti-aircraft guns were also found to be very effective against infantry and light vehicles. The SADF would seize enough of these guns to partially utilize them as regular weapons in their army. In the early 1990s, the SAMIL-100 Kwêvol armoured cargo truck was selected by the Armaments Corporation of South Africa as a carrier for captured ZU-23-2 turrets, which were redesignated by the SADF as the GA-6. The Bosvark would fill the gap left behind by the earlier Ystervark, which was removed from frontline service in 1991.
 
-Introduced in [[Update "Fire and Ice"]], the Bosvark is fast and manoeuvrable, players can easily set up ambushes by hiding near buildings and waiting for unsuspecting enemy aircraft to fly low, making them an easy target. It is, however, larger than other SPAA vehicles, and many of its personnel are unprotected. As a result, it is critical to always remain hidden and unnoticed. A quick burst of fire from the 23 mm ZU-23-2 twin-barrelled autocannons can readily bring down any aircraft during battles. However, as the ammunition is limited and the reload time is long, it is crucial not to fire for an extended period. Finally, do not engage enemy ground forces. Despite having access to armour-piercing ammunition belts, the armour penetration capability is insufficient to deal with the vast majority of targets encountered during fights.
+Introduced in [[Update "Fire and Ice"]], the Bosvark is relatively fast and manoeuvrable for its size. Players can easily set up ambushes by hiding near buildings and waiting for unsuspecting enemy aircraft to fly low, making them an easy target. It is, however, larger than other SPAA vehicles at its tier, and many of its personnel are unprotected. As a result, it is critical for this vehicle to remain as hidden and unnoticed as possible until it is time to strike. A short burst from the Bosvark's autocannons can readily bring down any aircraft during battles. Players should keep in mind that the 23 mm ZU-23-2 will quickly deplete its ammunition and has a relatively long reload time, so it is recommended to not fire this weapon for longer than a few seconds at a time. Despite having access to armour-piercing ammunition belts, the armour penetration capability is insufficient to deal with the majority of tanks encountered during fights. Combined with the lack of weapon traverse towards the front section of the vehicle, it is not recommended to use the Bosvark in direct combat with enemy ground vehicles.
 
 == General info ==
 === Survivability and armour ===
@@ -171,6 +171,10 @@ Bosvark, as it became known, entered service with the 10 Air Defence Artillery R
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_bosvark Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+{{Skin-gallery
+ |market|ugcitem_1001300|Bosvark in 'Exhibition Pattern' camoflage.png|Camouflage "Exhibition Pattern" on Gaijin Market, semi-historical
+}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

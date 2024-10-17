@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' was the lead ship of the Trento-class heavy cruisers of the Regia Marina. Laid down in 1925 under the Washington naval treaty, although they exceeded the imposed limits of it. Trento together with her sister Trieste, were very lightly armoured with only a 70 mm thick belt, 20 to 50 mm thick deck and 100 mm armour protecting turrets. What Trento lacked in armour, she made up in her speed as she managed to reach 66 km/h during her trials and also featured a heavy armament consisting of eight 203 mm/50 Model 1924 guns made by Ansaldo, in four twin turrets with two forward and two aft. During WWII, Trento served extensively in Mediterranean, taking part in battle of Calabria, Cape Spartivento, and Cape Matapan. She also took part in the First and Second battle of Sirte, during which she heavily damaged British K-class destroyer HMS Kingston. In June 1942, during Operation Harpoon, Trento was torpedoed by a Bristol Beaufort torpedo bomber and then later on torpedoed by British submarine HMS Umbra and sunk with very heavy loss of life on June 15th, 1942.
+The '''RN Trento''' was the lead ship of the Trento-class heavy cruisers of the Regia Marina. Laid down in 1925 under the Washington naval treaty, although they exceeded the imposed limits of it. Trento together with her sister Trieste, were very lightly armoured with only a 70 mm thick belt, 20 to 50 mm thick deck and 100 mm armour protecting turrets. What Trento lacked in armour, she made up in her speed as she managed to reach 66 km/h during her trials and also featured a heavy armament consisting of eight 203 mm/50 Model 1924 guns made by Ansaldo, in four twin turrets with two forward and two aft. During WWII, Trento served extensively in Mediterranean, taking part in battle of Calabria, Cape Spartivento, and Cape Matapan. She also took part in the First and Second battle of Sirte, during which she heavily damaged British K-class destroyer HMS Kingston. In June 1942, during Operation Harpoon, Trento was torpedoed by a Bristol Beaufort torpedo bomber and then later on torpedoed by British submarine HMS Umbra and sunk with very heavy loss of life on June 15th, 1942.
 
-Introduced in [[Update "Starfighters"]], Trento is the first heavy cruiser of the Regia Marina that captains will come across. She offers powerful main weaponry and average speed, but inadequate protection. Her secondary weapons consist of six twin 100 mm turrets able to fire HE-TF shells against aircraft on long distances, complemented by four twin 37 mm Breda autocannons for self defence against motor torpedo boats and aircraft that manage to penetrate the flak barrage made by the 100 mm guns. As last wave of defense serve four twin 13.2 mm Breda heavy machine guns. Trento is also armed with 16 torpedoes with 4 loaded in two fixed twin launchers amidship on each side and another 8 torpedoes ready to be reloaded. However, the spare torpedoes are relatively unprotected as the 50 mm armour belt doesn't reach high enough to fully cover these, leaving the ship vulnerable to fatal torpedo explosions.
+Introduced in [[Update "Starfighters"]], the  '''{{Specs|1=name}}''' is the first heavy cruiser of the Regia Marina that captains will come across. She offers powerful main weaponry and average speed, but inadequate protection. Her secondary weapons consist of six twin 100 mm turrets able to fire HE-TF shells against aircraft on long distances, complemented by four twin 37 mm Breda autocannons for self defence against motor torpedo boats and aircraft that manage to penetrate the flak barrage made by the 100 mm guns. As last wave of defense serve four twin 13.2 mm Breda heavy machine guns. Trento is also armed with 16 torpedoes with 4 loaded in two fixed twin launchers amidship on each side and another 8 torpedoes ready to be reloaded. However, the spare torpedoes are relatively unprotected as the 50 mm armour belt doesn't reach high enough to fully cover these, leaving the ship vulnerable to fatal torpedo explosions.
 
 == General info ==
 === Survivability and armour ===
@@ -64,7 +64,7 @@ The Trento is armed with 16 x 533 mm steam-turbined S.I. 270/533,4X7,2 Tipo I to
 === Scout plane ===
 {{Specs-Fleet-Plane}}
 
-Located on the bow is a catapult with one Ro.43 scout plane which provides unique offensive and defensive abilities, expanding tactical options. Ship-launched scout planes fly just like regular tree units but lack munition choices and cockpit views. The Ro.43 is a 2 seater equipped with two fixed offensive light machine guns and a single defensive machine gun turret, but no bombs. It does have the scout plane ability to cap zones and lay down smoke cover (up to 3 times). Captains will be wise to remember to utilise the aircraft and consider when best to use it, for example to cap a point early or late in the match, to create a smoke screen to stymie enemy bombardment and repair, to attack enemy units directly, or perhaps something completely new!
+Located on the bow is a catapult with one Ro.43 scout plane which provides unique offensive and defensive abilities, expanding tactical options. Ship-launched scout planes fly just like regular tree units but lack munition choices and cockpit views. The Ro.43 is a 2-seater equipped with two fixed offensive light machine guns and a single defensive machine gun turret, but no bombs. It does have the scout plane ability to cap zones and lay down smoke cover (up to 3 times). Captains will be wise to remember to utilise the aircraft and consider when best to use it, for example to cap a point early or late in the match, to create a smoke screen to stymie enemy bombardment and repair, to attack enemy units directly, or perhaps something completely new!
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
@@ -81,10 +81,11 @@ The Trento is best used to support pushes towards caps by using its good module 
 * One scout seaplane
 
 '''Cons:'''
+
 * Poor reload time and accuracy, especially when stock
-* Poor manoverability, struggle to make an evasive manoever and moving around tight corridors
+* Poor manoeuvrability, struggle to make an evasive manoeuvre and moving around tight corridors
 * Inadequate ammunition protection, highly vulnerable to diving shots and torpedoes
-* Mediocre delicated anti-air armaments
+* Mediocre dedicated anti-air armaments
 * Static torpedo launchers
 
 == History ==
@@ -104,6 +105,7 @@ During WWII, Trento and Trieste took part in numerous actions in the Mediterrane
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_cruiser_trento Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -123,6 +125,7 @@ File:Trento WTWallpaper 08.jpg|
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

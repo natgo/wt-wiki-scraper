@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=fr_renault_r39
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -164,8 +164,12 @@ Concurrently, in 1939, AMX had developed a new type of track and suspension for 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-;Skins
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage R.35 (SA38).png
+</gallery>
 
+;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_renault_r39 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

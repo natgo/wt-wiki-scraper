@@ -149,10 +149,23 @@ The Ho-Ni I was used in China by the 3rd Tank Division and on Luzon by the 2nd T
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_3_ho_ni_I Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related Development
+* [[Chi-Ha (Family)]]
+** [[Ho-Ni III]] - <small>(Successor tank destroyer variant)</small>
+** [[Ho-Ro]] - <small>(Howitzer tank variant)</small>
+
+;Other vehicles of similar configuration and role
+* [[File:Germany flag.png|30px|link=]] [[Marder III]] [[Marder III H|(H)]]
+* [[File:USSR flag.png|30px|link=]] [[SU-76M]]
+* [[File:Sweden flag.png|30px|link=]] [[Ikv 72]]
+* [[File:Britain flag.png|30px|link=]] [[Archer]]
+* [[File:France flag.png|30px|link=]] [[Lorraine 37L]]
+* [[File:Germany flag.png|30px|link=]] [[Sd.Kfz.251/10]] / [[Sd.Kfz.251/22]]
+* [[File:USA flag.png|30px|link=]] [[M3 GMC]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

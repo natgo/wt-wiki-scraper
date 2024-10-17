@@ -28,11 +28,11 @@ The '''Medium Tank M26 Pershing''' was made available in the French ground tree 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 101.6 mm (42-46°) ''Front Glacis'' <br> 162.5 mm (25-60°) ''Upper front glacis'' <br> 76.2 mm (28-53°) ''Lower Glacis'' || 76.2 mm (0-1°) ''Front'' <br> 50.8 mm (0-3°) ''Rear'' || 50.8 mm (7°) ''Top'' <br> 22.2 mm (71°) ''Bottom'' || 22.2 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 101.6 mm (1-55°) ''Turret front'' <br> 114.3 mm (1-84°) ''Gun mantlet''|| 76.2 mm (2-54°) || 76.2 mm (0-79°) || 25.4 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 76.2 mm || 76.2 mm || 76.2 mm || 25.4 mm
 |-
 |}
 

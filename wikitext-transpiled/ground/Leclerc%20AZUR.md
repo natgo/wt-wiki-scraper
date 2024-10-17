@@ -66,7 +66,7 @@ The Leclerc AZUR mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted with
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0
@@ -121,19 +121,26 @@ The Leclerc AZUR mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted with
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+As with other Leclerc MBTs, the AZUR will want to exploit its high top speed and short reload time to quickly dispatch enemies from unexpected positions. While the AZUR armour kit offers more side protection than any other Leclerc, its ERA sideskirts will not offer much protection against the APFSDS rounds or tandem charge missiles that are extremely common at its BR and as such should be considered more of a safety net than a real defense strategy. Although you maintain the edge on reload speed over every other MBT besides Type 10s, Challenger 2s, and M1 Abrams (the latter two require aced crews to be equal with you), attempting to brawl in the Leclerc is not advised due to its large weakspots requiring minimal aim from your opponent. The best strategy in the Leclerc is to use your high mobility to obtain a strong firing position early in the match and your decent optics and quick reload speed to locate and destroy targets while presenting as little opportunities for counter fire as possible.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
 '''Pros:'''
 
-*
+* High top speed
+* Thickest side armour of any Leclerc with AZUR ERA protecting the crew compartment
+* Cage armour protecting the engine compartment
+* Well hidden and quick autoloader
+* Can take 22 rounds of ammo without utilizing hull ammo racks
+* Roof-mounted machine gun can offer defense against low flying threats
 
 '''Cons:'''
 
-*
+* Doesn't feature the improved turret armour found on the Leclerc SXXI
+* Large frontal weak spots leave the tank vulnerable to even higher penetrating autocannons
+* Even the thickest parts of the armour struggles to stop most top-tier APFSDS round at close range
+* Heaviest of all the Leclercs
+* Only three crewmen limits survivability
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -143,6 +150,7 @@ The Leclerc AZUR mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted with
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_leclerc_azur Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -151,6 +159,7 @@ The Leclerc AZUR mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted with
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Leclerc (Family)]]
 
 == External links ==

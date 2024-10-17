@@ -18,6 +18,7 @@ It was introduced in [[Update "Winged Lions"]] as a ship-launched reconnaissance
 
 * {{Specs-Link|jp_cruiser_agano}}
 * {{Specs-Link|jp_cruiser_mogami}}
+* {{Specs-Link|jp_cruiser_haguro}}
 * {{Specs-Link|jp_battlecruiser_kongo}}
 * {{Specs-Link|jp_battlecruiser_haruna}}
 * {{Specs-Link|jp_battleship_ise}}

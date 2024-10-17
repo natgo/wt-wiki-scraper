@@ -63,7 +63,7 @@ As the FlaRakRad is the largest ground vehicle in game, and an SPAA, it is not h
 |}
 
 ==== Ammunition ====
-{{:Roland/Ammunition|Roland 3, VT1}}
+{{:Roland/Ammunition|VT1}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

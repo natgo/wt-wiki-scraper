@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' was an upgrade package for the [[F-4E Phantom II]] by the IAF. The upgrade focused on the aircraft armament and electronic systems. While upgrades to the power plant were proposed, with the introduction of more powerful engines, this modification was not installed to reduce costs. The Kurnass 2000 received a new radar, the AN/APG-76, that was far superior to the AN/APG-120 used by the standard F-4E. It also was equipped with the ASX-1 TISEO targeting system which allowed Raphael Popeye ASMs to be launched. More advanced avionics and targeting systems for anti-tank munitions and guided bombs were installed, as well as the ability to carry the AIM-9L and Python 3 missile.
 
-Introduced in [[Update "Sky Guardians"]], the Kurnass 2000 is an Israeli upgrade of the venerable F-4E Phantom II. It looks and flies almost identically to the standard F-4E, however its air-to-air armament is now drastically improved and rounded out by the all-aspect AIM-9L Sidewinder and Python 3 for closer engagements. For anti armour situations, it has access to the IR guided AGM-65D Maverick and new Paveway II laser guided bombs, coupled with its Pave Spike targeting module. The Kurnass 2000 is a multirole aircraft with impressive systems and weapons, only held back by the performance of its old airframe compared to 4th generation opponents like the [[MiG-29]] and [[F-16A]]. The Kurnass 2000 also features an EEGS for its cannon, like the one featured in all 4th generation fighters, it's very good for gun kills, especially in simulator battles. It also has a very powerful radar (although no radar-guided missiles) and can carry a total of 290 countermeasures.
+Introduced in [[Update "Sky Guardians"]], the Kurnass 2000 is an Israeli upgrade of the venerable F-4E Phantom II. It looks and flies almost identically to the standard F-4E, however its air-to-air armament is now drastically improved and rounded out by the all-aspect AIM-9L Sidewinder and Python 3 for closer engagements. For anti armour situations, it has access to the IR guided AGM-65D Maverick and new Paveway II laser guided bombs, coupled with its Pave Spike targeting module. The Kurnass 2000 is a multirole aircraft with impressive systems and weapons, only held back by the performance of its old airframe compared to 4th generation opponents like the [[MiG-29]] and [[F-16A]]. The Kurnass 2000 also features an EEGS for its cannon, like the one featured in all 4th generation fighters, it's very good for gun kills, especially in simulator battles. It also has a very powerful radar (although no radar-guided missiles) and can carry a total of 290 countermeasures (200 are external BOL pods and can only carry flares).
 
 == General info ==
 === Flight performance ===
@@ -110,8 +110,15 @@ Introduced in [[Update "Sky Guardians"]], the Kurnass 2000 is an Israeli upgrade
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-<!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+<!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->''The survivability features of the Kurnass 2000 is very similar to the Kurnass with the only with the only inprovement being more countermeasures.''
+
+''By this stage in the high-rank battles, all the fuel tanks are self-sealing. While this will assist with any fuel tank punctures from machine gun calibre weapons, the presence of fast-firing autocannons and missiles mean that these self-sealing tanks are only an accessory to the overall survival of the aircraft.''
+
+''The only armor is a 8.5 mm steel plate just below the forward fuel tank in the fuselage. However, considering the small size it is made up of and the large plane overall, this armour plate should not be relied upon for the overall survival of the aircraft.''
+
+''The biggest change from previous version is the countermeasure flares, which are greatly useful at deterring incoming infrared-homing missiles like the [[AIM-9J Sidewinder|Sidewinders]] or [[R-60|R-60s]]. To utilise the flares, one must turn off their engine afterburners to eliminate that as a significant source of heat, deploy the flares in a suitable manner, then bank away from the flares to that the missile lock onto the remaining heat source rather than the plane's engine.''
+
+''A survivability feature shared with its predecessor is the Radar Warning Receiver (RWR). The RWR will ping the player in the source of any incoming radar scans, and will also notify if the radar source have achieved a lock-on with the player. Keep an eye on this as it may signify to the player that an enemy semi-active radar homing missile may be launched soon and evasive actions should be taken.''
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -135,7 +142,8 @@ Introduced in [[Update "Sky Guardians"]], the Kurnass 2000 is an Israeli upgrade
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
-* 90 x countermeasures
+* 30 x large calibre countermeasures
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -196,7 +204,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Python 3]] missiles
 | || || 2<sup>†</sup> || || 1 || || 1 || || 2<sup>†</sup> || ||
 |-
-! Countermeasures
+! Flares
 | || || || 100 || || || || 100 || || ||
 |-
 ! Pave Spike targeting pod
@@ -214,7 +222,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 1 x 600 gal drop tank
-* 2 x AIM-9G Sidewinder missiles
+* 2 x Python 3 missiles + 2 x AIM-9L Sidewinder missiles
 * 6 x AIM-9G Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles
 * 6 x Python 3 missiles
@@ -228,7 +236,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 3 x 2,000 lb LDGP Mk 84 bombs (6,000 lb total)
 * 285 x FFAR Mighty Mouse rockets
 * 60 x Zuni Mk32 Mod 0 ATAP rockets
-* 200 x countermeasures
+* 200 x flares
 * 6 x AGM-65D missiles
 * 4 x 277 kg GBU-12 Paveway II bombs (1,108 kg total)
 * 4 x 957 kg GBU-10 Paveway II bombs (3,828 kg total)
@@ -239,7 +247,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 '''Air RB:'''
 
-In Air RB, the Kurnass 2000 could be compared to the [[F-4EJ Kai Phantom II|F-4EJ Kai]], having the same air-to-air missile armament and similar radar. To properly utilize the 8 potent missiles and one of the best radars in game is the major task that every Kurnass 2000 pilot will have to face. Typically, enter the battle at a low altitude and shooting down everyone on your way is a viable and effective way to fly the Kurnass 2000. Climbing could also be attempted, but given the presence of AIM-54s and 4th generation fighter jets featuring the same avionics and significantly higher climb rate, it would be a riskier style to fly the Kurnass 2000.
+In Air RB, the Kurnass 2000 could be compared to the [[F-4EJ Kai Phantom II|F-4EJ Kai]], having similar air-to-air missile armament and similar radar. To properly utilize the 6 potent missiles and one of the best radars in game is the major task that every Kurnass 2000 pilot will have to face. Typically, enter the battle at a low altitude and shooting down everyone on your way is a viable and effective way to fly the Kurnass 2000. Do to lack of radar missles, do not climb.
 
 A major difference between the Kurnass 2000 and the F-4EJ Kai is the slats on the Kurnass' wings. At high speed, extension of the slats provides more lift and limits the angle of attack of the aircraft, resulting in a significant decrease in speed loss during turns to a level even comparable to the level of 4th generation aircraft like the F-16 and MiG-29. At lower speed, the slats also increase the overall manoeuvrability of the aircraft, so it is advised to extend the slats in battles (by toggling "combat flaps"), especially when fighting in groups, retracting them when needed to gain more speed or for higher angle of attack. Overall, the slats of the Kurnass provides pilots with the ability to alter the aerodynamics of the aircraft during combat, and provide more versatility and a higher overall performance compared to the F-4EJ Kai.
 
@@ -254,13 +262,14 @@ A major difference between the Kurnass 2000 and the F-4EJ Kai is the slats on th
 * High level of manoeuvrability at high speed as with any other Phantoms
 * Guided bombs and missile with targeting pod for engaging ground targets
 * Equipped with an IR-guided ground attack weapon, the AGM-65D
+* It has a lot of countermeasures
 
 '''Cons:'''
 
 * Big and heavy aircraft
-* Thrust to weight ratio less than 4th generation jets
 * Lack of radar-guided missiles
 * Despite having a targeting pod and a camera on the wing, neither has a thermal camera, which can make difficult to identify targets at long range
+* It is 12.3 the same BR as the F-14
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

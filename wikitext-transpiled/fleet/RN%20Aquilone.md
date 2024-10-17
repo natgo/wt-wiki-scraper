@@ -1,3 +1,8 @@
+{{About
+| about = Italian Destroyer '''{{PAGENAME}}'''
+| usage = other versions
+| link = Turbine (Family)
+}}
 {{Specs-Card
 |code=it_destroyer_aquilone
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -7,7 +12,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 '''RN Aquilone''' was a [[Turbine (Family)|Turbine-class destroyer]] laid down for the Regia Marina on 18 May 1925. She was launched on 3 August 1927, completed and commissioned on 3 December 1927, and assigned in 1929 to the 1°Divisione Navale. Between 1936-1937, she participated in the Spanish Civil War. Despite the wear on the ship by this time, she also participated in WWII, with particular combat in the seas of Libya and several battles around Tobruk. While sailing to Tripoli on 17 September 1930, Aquilone hit naval mines that were not visible in the fog, and quickly sank.
 
-Introduced in [[Update "New Power"]], RN Aquilone has very good manoeuvrability and speed. With the same armament as [[RN Turbine]], the two dual 120 mm turrets can cause good damage with the HE shells, while also being capable of handling more armoured targets with the AP shells. The anti-aircraft armament is composed by three 40 mm Vickers-Terni cannons; the HE-FT are ineffective at medium and long ranges, but can provide quite a punch to enemy boats and incoming enemy aircraft at shorter ranges.
+Introduced in [[Update "New Power"]], '''{{Specs|1=name}}''' has very good manoeuvrability and speed. With the same armament as [[RN Turbine]], the two dual 120 mm turrets can cause good damage with the HE shells, while also being capable of handling more armoured targets with the AP shells. The anti-aircraft armament is composed by three 40 mm Vickers-Terni cannons; the HE-FT are ineffective at medium and long ranges, but can provide quite a punch to enemy boats and incoming enemy aircraft at shorter ranges.
 
 == General info ==
 === Survivability and armour ===

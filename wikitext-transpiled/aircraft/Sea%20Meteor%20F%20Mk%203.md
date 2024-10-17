@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+In 1948, two [[Meteor F Mk 3]]s were navalised for carrier trials. They were fitted with tail hooks and had reinforced underbellies and landing gear, as well as being equipped with the new, more powerful Derwent 5 jet engines. The two aircraft undertook a number of take-off and landing tests aboard HMS Illustrious and Implacable. While the Royal Navy were impressed with their performance, it was instead decided to commission the [[Attacker FB 1|Supermarine Attacker]] for the role.
 
-At first sight, most pilots that take the Sea Meteor out believe it has just what they always wanted from the Meteor F.3 - speed. Because of this, they often try to do what they did in the F.3 - turn fighting - and end up without wings. The key difference between the Meteor F.3 and the Sea Meteor is the weaker wings. While you could pull full G's in the Meteor F.3 and get away with it, the Sea Meteor will instantly rip if mishandled above 700 km/h. Use your airbrakes and try to tame the speed of the Sea Meteor in a dive, because if you go too fast downwards, it won't be compression that kills you - your incapability of pulling up rests on the weakness of your wings. Your straight-line speed is truly an upgrade from the F.3, and now even the dreaded B-57s will have a hard time running away from you - in fact, the fully-upgraded Sea Meteor usually hits its redline speed in a straight line, and can easily rip its wings off in level flight if you are not careful.
+In the game since the start of the Open Beta Test prior to Update 1.27, the Sea Meteor solves one of the main issues of the preceding Meteor F Mk 3: its relatively lacklustre engine performance. Equipped with engines almost twice as powerful as the original Derwent Is, the Sea Meteor is certainly not lacking for speed and acceleration. However, this upgrade comes with a significant drawback: the extra power means that the Sea Meteor can reach structural failure extremely easily, capable of ripping its wings even in level flight, let alone at the hint of any manoeuvres at high speeds. Despite the importance of maintaining speed in jet gameplay, it is highly recommended to utilise the airbrake if necessary when diving or manoeuvring, lest you become a meteorite heading straight into the sea. The Sea Meteor exhibits the same excellent manoeuvrability of the original Meteor once this immediate issue has been mitigated, and has more than enough thrust to regain speed or separation after an engagement.
 
 == General info ==
 === Flight performance ===
@@ -124,13 +124,13 @@ At first sight, most pilots that take the Sea Meteor out believe it has just wha
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-{{main|Hispano Mk.V (20 mm)}}
+{{main|Hispano Mk.II (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 4 x 20 mm Hispano Mk.V cannons, nose-mounted (200 rpg top-left, 190 rpg top-right, 190 rpg bottom-left, 200 rpg bottom-right = 780 total)
+* 4 x 20 mm Hispano Mk.II cannons, nose-mounted (180 rpg = 720 total)
 
-The 4 x 20 mm Hispano Mk.V cannons can cause massive damage if properly aimed. However, their muzzle velocity is somewhat average and the air targets belt (easily the best one) does not contain tracers at all, so you must get used to the lead angles while grinding the ammo upgrade.
+The 4 x 20 mm Hispano Mk.II cannons can cause massive damage if properly aimed. However, their muzzle velocity is somewhat average.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

@@ -22,7 +22,7 @@ The '''{{Specs|name}}''' was introduced in [[Update "Alpha Strike"]]. Being a di
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 0 m - sea level)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -31,7 +31,7 @@ The '''{{Specs|name}}''' was introduced in [[Update "Alpha Strike"]]. Being a di
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 1,156 || 1,151 || rowspan="2" | {{Specs|ceiling}} || 33.0 || 34.4 || 71.5 || 65.2 || rowspan="2" | 900
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -45,7 +45,7 @@ The '''{{Specs|name}}''' was introduced in [[Update "Alpha Strike"]]. Being a di
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -60,7 +60,7 @@ The '''{{Specs|name}}''' was introduced in [[Update "Alpha Strike"]]. Being a di
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 518 || 463 || 370 || ~8 || ~5
 |-
 |}
 
@@ -70,7 +70,7 @@ The '''{{Specs|name}}''' was introduced in [[Update "Alpha Strike"]]. Being a di
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || -
+| < 585 || < 600 || < 548 || -
 |-
 |}
 
@@ -78,34 +78,34 @@ The '''{{Specs|name}}''' was introduced in [[Update "Alpha Strike"]]. Being a di
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="5" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | _____ || _
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | Rolls-Royce Spey 101 || 2
+| colspan="2" | 14,526 kg || colspan="3" | 462 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 13m fuel || 20m fuel || 30m fuel || 43m fuel
 |-
-| ___ kg || colspan="2" | ___
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 2,361 kg || colspan="2" | Low-bypass turbofan
+| 16,686 kg || 17,808 kg || 19,446 kg || 21,725 kg || 25,613 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="5" | Thrust to weight ratio @ 0 m (100%)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 13m fuel || 20m fuel || 30m fuel || 43m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 5,020 kgf || -
+| 0.60 || 0.56 || 0.52 || 0.46 || 0.39
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 5,120 kgf<br>(1,000 km/h) || -
+| 0.61 || 0.58 || 0.53 || 0.47 || 0.40
 |-
 |}
 
@@ -135,8 +135,8 @@ The '''{{Specs|name}}''' was introduced in [[Update "Alpha Strike"]]. Being a di
 The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
-** 30 x countermeasures
-** 90 x countermeasures
+** 30 x large calibre countermeasures
+** 90 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -229,28 +229,34 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 === [[wt:en/news/8760-development-buccaneer-s2b-swashbuckling-sky-pirate-en|Devblog]] ===
-Initially intended for the Royal Navy, the RAF showed little interest in the Buccaneer until the cancellation of both TSR-2 and the RAF’s own version of the Aardvark, the F-111K, led to a decision to adopt the Buccaneer into service to fill a gap in capabilities. This coincided with the gradual retirement of Aircraft Carriers from the Royal Navy freeing up aircraft that could be provided to the RAF, as well as new build aircraft to the S.2B standard. This variant would initially see an enlarged “bulged” bomb bay and the capacity for Martel Anti-Ship missiles.
+Initially intended for the Royal Navy, the RAF showed little interest in the Buccaneer until the cancellation of both TSR-2 and the RAF's own version of the Aardvark, the F-111K, led to a decision to adopt the Buccaneer into service to fill a gap in capabilities. This coincided with the gradual retirement of Aircraft Carriers from the Royal Navy freeing up aircraft that could be provided to the RAF, as well as new build aircraft to the S.2B standard. This variant would initially see an enlarged "bulged" bomb bay and the capacity for Martel Anti-Ship missiles.
 
 Operation Pulsator, supporting British forces in Lebanon in 1983, would see a further significant upgrade for the Buccaneer, introducing internal countermeasures to the aircraft for better self defence. AIM-9G and AIM-9L capability was also added, a notable improvement over earlier AIM-9Bs on earlier S.2s.
 
 Despite its age, the Buccaneer would however still prove its worth as late as the 1991 Gulf War, acting as a laser designator aircraft for Tornado GR.1s to deliver their laser guided bombs before early TIALD pods became available for operations. Later in the conflict, Buccaneers would themselves take part in direct bombing attacks.
 
-Initially not planned to take part in “Operation Granby”, a handful of Buccaneer S.2Bs from No.12, 208 and 237 OCU were rushed over to the Gulf, hastily repainted in “Desert Pink” and equipped now with AIM-9Ls and Pave Spike pods. The pilots that would operate them dubbed themselves the “Sky Pirates” and were famous for their skull and crossbones flag and colourful nose art adorning many of the aircraft that took part.
+Initially not planned to take part in "Operation Granby", a handful of Buccaneer S.2Bs from No.12, 208 and 237 OCU were rushed over to the Gulf, hastily repainted in "Desert Pink" and equipped now with AIM-9Ls and Pave Spike pods. The pilots that would operate them dubbed themselves the "Sky Pirates" and were famous for their skull and crossbones flag and colourful nose art adorning many of the aircraft that took part.
 
 The Tornado would however fully replace the last Buccaneers in service shortly after the Gulf War, covering all roles that it had previously maintained. The last Buccaneers would bow out of service with the RAF in 1994, 36 years after the first Buccaneer took to the skies.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
-''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+;Skins
+
+* [https://live.warthunder.com/feed/camouflages/?vehicle=buccaneer_s2b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+;Videos
+{{Youtube-gallery|VN1s4oSSLj8|'''The Shooting Range #404''' - ''Metal Beasts'' section at 00:24 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+
+* [[Buccaneer (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

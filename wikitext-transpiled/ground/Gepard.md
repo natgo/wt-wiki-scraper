@@ -147,9 +147,9 @@ Capturing points is also an option thanks to the good mobility of the vehicle, a
 
 Against enemy threats:
 
-* Arcade: Keep your head on a swivel, and when enemies start air battles be prepared to react very soon; jets can reach the battle in seconds. Try to fire as soon as the enemy reaches within 2 kilometres, any closer and you risk the aircraft being able to open fire on you or even ram you and induce Hull Break. Helicopters should be treated with a similar deal of respect, so try to limit the amount of time they have within firing range by coating them in a blank of anti-air fire as soon as the lead indicator appears.
+* Arcade: Keep your head on a swivel, and when enemies start air battles be prepared to react very soon; jets can reach the battle in seconds. Try to fire as soon as the enemy reaches within 2 kilometres, any closer and you risk the aircraft being able to open fire on you or even ram you and induce overpressure. Helicopters should be treated with a similar deal of respect, so try to limit the amount of time they have within firing range by coating them in a blank of anti-air fire as soon as the lead indicator appears.
 
-* Realistic/Simulator: If using the Gepard in higher rank games, be mindful of aircraft such as the [[AH-1Z]] and [[FJ-4B VMF-232]]. Their long-range guided missiles allow them to attack you outside of the range of your lead indicator or even out of the range of your guns themselves. Stay hidden until they draw closer, and then attempt to "ambush" them as they are pre-occupied attacking other allies. Stay away from common traffic areas if your only goal is to take out these aircraft, and try to sneak as close as possible to them so that you can re-acquire the lead indicator. Thanks to the fact the Gepard is vulnerable to being hull-broken, it only takes a missile landing near to completely disable the anti-aircraft vehicle.
+* Realistic/Simulator: If using the Gepard in higher rank games, be mindful of aircraft such as the [[AH-1Z]] and [[FJ-4B VMF-232]]. Their long-range guided missiles allow them to attack you outside of the range of your lead indicator or even out of the range of your guns themselves. Stay hidden until they draw closer, and then attempt to "ambush" them as they are pre-occupied attacking other allies. Stay away from common traffic areas if your only goal is to take out these aircraft, and try to sneak as close as possible to them so that you can re-acquire the lead indicator. Thanks to the fact the Gepard is vulnerable to being overpressured, it only takes a missile landing near to completely disable the anti-aircraft vehicle.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -211,14 +211,22 @@ File:GarageImage Gepard (2).jpg
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[Leopard I]]
+;Related development
 
-'''Similar SPAAs:'''
+* [[Leopard (Family)]]
+** [[Gepard 1A2]]
 
-* [[ZSU-23-4]]
-* [[Chieftain Marksman]]
-* [[Type 87]]
-* [[M163]]
+;Other vehicles of similar configuration and role
+
+* [[Oerlikon KDA (35 mm)]]
+** [[File:Japan flag.png|30px|link=]] [[Type 87]]
+** [[File:Britain flag.png|30px|link=]] [[Chieftain Marksman]]
+** [[File:Finland flag.png|30px|link=]] [[ItPsV Leopard]]
+** [[File:South Africa flag.png|30px|link=]] [[ZA-35]]
+** [[File:China flag.png|30px|link=]] [[PGZ09]]
+* [[File:Sweden flag.png|30px|link=]] [[VEAK 40]]
+* [[File:France flag.png|30px|link=]] [[AMX-30 DCA]]
+* [[File:USSR flag.png|30px|link=]] [[ZSU-37-2]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

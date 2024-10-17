@@ -2266,7 +2266,8 @@
   <p>
     The handle is put down if the vehicle speeds up too much (faster than 19 km/h), but if it was
     reloading while the tank was moving, it will pull the launcher out at the end of the reload,
-    whether you want it or not. When launcher is pulled out, it is always pointing forward.
+    whether you want it or not. When launcher is pulled out, it is always pointing forward, so
+    holding "fire" when trying to attack a target on a side is unwise.
   </p>
   <p>
     DO NOT hold "fire" button while reloading or waiting for launcher to pull out, because launcher
@@ -2284,6 +2285,14 @@
     for anything but AA duty.
   </p>
   <p>
+    In RB, missiles will only go for the crosshairs of the sniper camera. The aiming camera can only
+    go as low as -5 degrees, making hill battles, particularly at short range, very awkward. In AB,
+    while the camera cannot depress any further, it will still be able to guide the missile for an
+    additional ~20 degrees down (until the aiming circle is unable to go any further in sniper
+    seat). This allows to attack tanks safely in AB, but will cause the missiles to gain a minimum
+    attack range of up to about 500 m (to get back on target).
+  </p>
+  <p>
     The Shturm-S cannot properly fire or aim from medium tank hulldown spots, so it is inferior to
     <a href="/IT-1" title="IT-1">IT-1</a> in that regard. In arcade mode and, at some spots, RB,
     tank can fire over obstacles by using a stepping stone of some sort, but it cannot really guide
@@ -2296,12 +2305,12 @@
   </p>
   <p>
     When rearming on a capture point, the main type of ATGM is replenished first (the one on
-    top-left of "ammo distribution" UI), so choose carefully. Rearming on a cap is rather slow with
-    about 15 seconds for one missile, full rearm outside of cap in AB is about 35 seconds.
+    top-left of "ammo distribution" UI), so choose carefully. Rearming on a cap takes about 5
+    seconds for one missile, full rearm outside of cap in AB is about 35 seconds.
   </p>
   <p>
-    Missiles are vulnerable to jamming, so when fighting tanks with IRCM, it is necessary to also
-    attack from the side, so that the missile doesn't get derailed.
+    Missiles are very vulnerable to jamming, so when fighting tanks with IRCM, it is necessary to
+    also attack from the side, so that the missile doesn't get derailed.
   </p>
   <p>The list of available ATGM in order of acquisition:</p>
   <ul>
@@ -2673,10 +2682,11 @@
   <ol>
     <li>
       Can you even make it to the sniper point before being shot by a hypothetical
-      <a href="/Leopard_(Family)" class="mw-redirect" title="Leopard (Family)">Leopard</a>?
+      <a href="/Leopard_1_(Family)" title="Leopard 1 (Family)">Leopard I</a>?
     </li>
     <li>
       Can you fire through or over obstacles at your sniping spot, and how many of them is there?
+      (maximum depression of about -20 degrees)
     </li>
     <li>
       Is it physically impossible to snipe you from any other side, but front (so that you can see
@@ -2740,16 +2750,17 @@
   <p>
     First of all, you have to deal with carrier's weaknesses, as Shturm-S can't take a hit and
     survive. It is ideal to fire at opponents when their marker is still dark red or just became
-    bright red, as it means that they can only fire at the camera or, maybe, the launcher. When
-    using HEAT warhead, an indirect shot of such kind is only possible if an enemy is at least 180 m
-    away from Shturm-S, HE missile is somewhat slower and a 100 m or even 50 m shot might become
-    possible, but it requires better user aim and won't work against certain tanks.
+    bright red, as it means that they can only fire at the camera or, maybe, the launcher. An
+    indirect shot of such kind is only possible if an enemy is at least 500 m away from Shturm-S.
   </p>
   <p>
     There are a few obvious choices to make using this mentality: you want to occupy a corridor in
     urban environment, that has some rubbish, slight uphill or tank carcasses in a way, so you can
-    fire over them and enemies can't do anything about it, OR you want to occupy a hill, steep cliff
-    or an angled rock, which will cover your entire hull and allow you to slide down when needed.
+    fire over them and enemies can't do anything about it, OR you want to occupy a hill, semi-steep
+    cliff or an angled rock, which will cover your entire hull and allow you to slide down when
+    needed. You want to be reasonably far away from your opponents or to have another gentle slope
+    nearby, that will cover the hull and give you time to prepare when you are inevitably forced to
+    fight at close range.
   </p>
   <p>
     Secondly, you have to work on your hulldown technique. Since even a scratch to a corner of the
@@ -2805,13 +2816,14 @@
     Once you have an enemy tank in you arcade mode LOS/aim assist range, go into binocular view, as
     it allows full 360 degree sight and is located much higher than sniper scope, allowing you to
     see the entire scenery freely and removing the need to expose the camera any further. Aim at an
-    enemy tank that is located further than 180 m, press "fire" to aim AB marker at their turret or
-    hull, exit binocular view, press fire again to launch missile at them. Do not touch anything
-    after this to let the missile destroy them. Sometimes missile goes way too high, particularly
-    when you try to curve shots over hills, in such case try to pull the camera a bit higher and aim
-    at the turret neck, or even at the ground next to them, generally this should be enough.
+    enemy tank that is located further than 480 m, press "fire" to aim AB marker at their turret or
+    hull, exit binocular view. If you do not want to waste a missile, check if the circle is still
+    on the enemy tank in the sniper seat (you do not need to actually see the target), otherwise
+    press fire again to launch the missile at them. Do not touch anything after this to let the
+    missile destroy them. If the target moves, you can try to intercept it in the sniper seat, but
+    generally this shouldn't be necessary.
   </p>
-  <p>A textbook example of using this technique:</p>
+  <p>A textbook example of using this technique (angles of attack may change):</p>
   <ul class="gallery mw-gallery-packed-hover">
     <li class="gallerybox" style="width: 358px">
       <div style="width: 358px">
@@ -2942,10 +2954,10 @@
     ground as well.
   </p>
   <p>
-    The HE missile makes AB sniping even easier, as it is slow and will generally manage to curve
-    into enemy tank roof by itself from 100 m, likely causing overpressure and destroying the
-    target. It is also much easier to manually use at point blank ranges. Unfortunately, it is
-    extremely ineffective against "non standard" soviet tanks, which you will often meet, such as
+    The HE missile generally makes AB sniping easier, as it is slow and will generally manage to
+    curve into enemy tank roof, likely causing overpressure and destroying the target. It is also
+    much easier to manually use at point blank ranges. Unfortunately, it is extremely ineffective
+    against "non standard" soviet tanks, which you will often meet, such as
     <a href="/T-55AM-1" title="T-55AM-1">T-55AM-1</a>,
     <a href="/Object_268" title="Object 268">Object 268</a>,
     <a href="/IS-7" title="IS-7">IS-7</a> and so on, and is bad against many American tanks, so at
@@ -2979,8 +2991,7 @@
             title="Enlarge"
           ></a>
         </div>
-        HE missile can be pretty good for close range combat unlike HEAT, but it requires some user
-        skill and adjustment.
+        The missiles are also powerful at close ranges, but they should only be fired directly.
       </div>
     </div>
   </div>
@@ -3037,9 +3048,7 @@
     and abuse the fact that launcher pulls out after reload regardless of your movement speed and
     execute the enemy tank with either Tandem or HE (whichever you prefer or need for current
     opponent). Remember to face the enemy tank when attacking, as launcher is always pointing
-    forward when pulled out. In case if you prefer to use HE, it generally cannot break cannon
-    barrels, but it is far easier to launch over terrain without direct camera assistance to reduce
-    risks of dying to a random countersnipe.
+    forward when pulled out.
   </p>
   <p>
     Smoke attack: Only feasible for a spaded tank, but can be used even in general melee range. Only
@@ -3217,8 +3226,9 @@
     Sniper medium tanks (mostly in AB): Other snipers are also a serious threat, since they compete
     for a complete domination over map with you, and they are exceptionally allergic to ATGM tanks
     with high missile speed, such as Shturm-S, so they will never stop trying to snipe you, until
-    they finally do. They are the main reason for the AB rule "Make it physically impossible to
-    snipe you from the side".
+    they finally do. While you have some weapon depression advantage over them in AB, they can see
+    and dodge your missiles. They are the main reason for the AB rule "Make it physically impossible
+    to snipe you from the side".
   </p>
   <h3>
     <span class="mw-headline" id="Pros_and_cons">Pros and cons</span
@@ -3268,14 +3278,16 @@
       proximity HE ATGM (the last one available for unlock) for self-defence against air targets
     </li>
     <li>Cannot change missile type mid-reload, nor after one is reloaded</li>
-    <li>Rearming is rather slow, and leaves you vulnerable</li>
     <li>
       Relatively limited arc of fire; while the launcher can rotate quite a bit, either way, the
       guidance module sits at the front of the vehicle, and after firing at a target located to the
       sides of the vehicle, the missile will require some distance before flying straight -
       self-defence for close-range combat is difficult
     </li>
-    <li>Have to follow an extensive set of rules to be useful in AB</li>
+    <li>
+      Have to follow an extensive set of rules to be useful in AB, has a minimal range of 500 m for
+      safe missile fire procedure
+    </li>
     <li>
       Missiles can be jammed, so although they are very useful even in rank VII, some enemies cannot
       be attacked directly

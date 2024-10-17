@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German utility helicopter {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]]. An icon of the Vietnam War, this upgraded Huey utility helicopter built under license by Dornier takes on its predecessors abilities and improves upon them in almost every way.
+The '''Dornier UH-1D''' was a German version of the American [[UH-1B|UH-1 Iroquois]], manufactured under licence in Germany. The success of the Iroquois helicopters did not go unnoticed by the US's allies: the government of West Germany also became interested in these machines, acquiring a licence to produce them in German factories. From February 1967 to the end of 1981, German aircraft manufacturers built 352 helicopters, designated UH-1D, to the standard of the American UH-1H model with a Lycoming T53-L13 engine. These helicopters remained in service with Germany until the 2020s.
+
+Introduced in [[Update 1.83 "Masters of the Sea"]], the UH-1D takes on its predecessors abilities and improves upon them in almost every way. While it is not the fastest, it is a manoeuvrable helicopter that can be loaded to the limit with rockets or fitted with six guided missiles, allowing it to destroy enemy armoured vehicles from a safe distance. For hunting enemy helicopters, it can be equipped with powerful and rapid-fire Miniguns. However, much like its predecessors, it completely lacks any armour or defensive features.
 
 == General info ==
 === Flight performance ===

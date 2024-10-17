@@ -208,7 +208,7 @@ File:Reworked F4U-1C Model.jpg|<small>Reworked model of the {{PAGENAME}}</small>
 * ''topic on the official game forum;''
 * ''other literature.''-->
 
-* [https://forum.warthunder.com/index.php?/topic/325083-f4u-1ausmccd/ Official data sheet - more details about the performance]
+* [https://old-forum.warthunder.com/index.php?/topic/325083-f4u-1ausmccd/ Official data sheet - more details about the performance]
 
 === References ===
 

@@ -186,8 +186,25 @@ Finally, with the evaluations from JGSDF Fuji School, Ordnance School, and leake
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[Type 90 (Family)]]
-* [[Type 10]]
+;Related Development
+* [[Type 90 (Family)]] - <small>(predecessor)</small>
+* [[Type 10 (Family)]]
+** [[TKX (P)]] - <small>(Prototype without armour kit)</small>
+** [[Type 10]] - <small>(Production model)</small> 
+
+;Other vehicles of similar configuration and role
+{{columns|2|
+* [[File:France flag.png|30px|link=]] [[Leclerc (Family)]]
+* [[File:FRG flag.png|30px|link=]] [[Leopard 2 (Family)]]
+* [[File:Italy flag.png|30px|link=]] [[Ariete (Family)]]
+* [[File:USA flag.png|30px|link=]] [[M1 Abrams (Family)]]
+* [[File:Britain flag.png|30px|link=]] [[Challenger (Disambiguation)|Challenger MBT]]
+* [[File:Israel flag.png|30px|link=]] [[Merkava (Family)]]
+* [[File:USSR flag.png|30px|link=]] [[T-72 (Family)|T-72 / T-90 (Family)]]
+* [[File:USSR flag.png|30px|link=]] [[T-80 (Family)]]
+* [[File:China flag.png|30px|link=]] [[ZTZ96 (Family)]]
+* [[File:China flag.png|30px|link=]] [[ZTZ99 (Family)]]
+}}
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -10,7 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]].
+The '''{{Specs|name}}''', designated as the '''Type 2 {{Annotation|Single-Seat|To differentiate from the 'Type 2 Twin-Seat' Ki-45}} Fighter, Model IIc ({{Annotation|二式単座戦闘機一型丙|Ni-Shiki Tanza Sentōki Ni-Gata Hei}})''', was the final standard production variant of the Ki-44-II. It was armed with four 12.7 mm guns and featured a Type 100 optical sight, replacing the older Type 97 telescopic sight. As the most produced variant of the Ki-44, many earlier Ki-44-II models were upgraded to the Ki-44-IIc standard, although they often retained their original Type 97 gunsights. Despite this, the relatively limited production of the Ki-44 and the development of the Ki-44-III were eventually discontinued in favour of the more versatile [[Ki-84 (Family)|Ki-84, Type 4 Fighter]]. This marked the end of the Ki-44's rather anticlimactic service record, which saw early action in the Pacific but primarily over the home islands. Although initially intended to be a formidable contender against Western designs, it was ultimately disliked by many Japanese aviators and was relegated to a limited-production interceptor mainly used for homeland defence.
+
+The default camouflage bears the insignia of the 70th Sentai, which like many other Ki-44 using air squadrons was purposed to shoot down B-29s in defense of Japan. Around June 1945, the squadron was slowly reinforced with [[Ki-84 (Family)|Ki-84s]], but didn't see service, the squadron members were instead prepared to train on the [[Ki-200]], in July all pilots were taken to the Aviation Inspection Department to take physical examinations to fly the Ki-200, but the war ended before the squadron could take flight with the Ki-200.
+
+It was introduced in [[Update 1.55 "Royal Armour"]]. As the final variant of the Ki-44, it is heavily armed with four deadly 12.7 mm guns loaded with high-explosive rounds. However, this armament upgrade also pits it against more formidable opponents, making positioning crucial. To succeed, always aim to catch other pilots off guard by maintaining an altitude advantage, then use its relative manoeuvrability to finish them off. While climbing is straightforward, be aware that aircraft in this tier may be able to keep up with the Ki-44-II in a chase. Therefore, it is essential to destroy your target quickly or maintain your altitude advantage to stay ahead.
+
+;Nicknames:
+* [[Abbreviations#.28IJA.29_Nicknames|Nickname]]: ''Shōki (鍾馗, Demon Queller)''
+* Allied reporting name: ''Tojo''
 
 == General info ==
 === Flight performance ===
@@ -201,12 +209,27 @@ The high landing speeds and comparatively limited manoeuvrability made it unpopu
 {{Youtube-gallery|woJWg8E03HM|'''The Shooting Range #75''' - ''Pages of History'' section at 08:00 discusses the Ki-44.}}
 
 == See also ==
-<!--Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''-->
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[Ki-44-I]]
-* [[Ki-44-II otsu]]
+;Related development
+* [[Ki-43 (Family)]]
+* [[Ki-44 (Family)]]
+** [[Ki-44-I]]
+** [[Ki-44-I 34]]
+** [[Ki-44-II otsu]]
+** [[Ki-44-II hei]]
+* [[Ki-45 (Family)]]
+
+;Other vehicles of similar configuration and role
+* [[File:Kingdom Italy flag.png|30px|link=]] [[Re.2000 (Family)|Re.2000]] / [[Re.2001 (Family)|Re.2001]] / [[Re.2002 Early|Re.2000]]
+* [[File:USA flag.png|30px|link=]] [[P-43A-1]]
+* [[File:France flag.png|30px|link=]] [[M.B.157]]
+* [[File:Sweden flag.png|30px|link=]] [[J22-A]]/[[J22-B|-B]]
+* [[File:Finland flag.png|30px|link=]] [[VL Myrsky II]]
+* [[File:Germany flag.png|30px|link=]] [[Fw 190 (Family)]] - early models
+* [[File:IJN flag.png|30px|link=]] [[J2M (Family)]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

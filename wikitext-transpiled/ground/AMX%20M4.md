@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-In the late 1940s, the French Army sought to replace its aging medium tanks with a new 50-ton medium tank that would serve as the main asset in armored divisions. The French company AMX initially proposed an under-armored version of the Tiger II tank with 30mm plates, but after feedback from the army, the armor was enhanced to 80mm in the front and 40mm on the sides. Changes were made to reduce weight in other aspects of the tank, such as introducing a new oscillating turret and redesigning the suspension wheels. The first prototype, named M4, featured a 90mm SA47 gun and was slightly over 50 tons. A second prototype with a 100mm SA 47 L/50 gun led to the development of the AMX-50 tank.
+In the late 1940s, the French Army sought to replace its aging medium tanks with a new 50-ton medium tank that would serve as the main asset in armoured divisions. The French company AMX initially proposed an under-armoured version of the Tiger II tank with 30 mm plates, but after feedback from the army, the armour was enhanced to 80 mm in the front and 40 mm on the sides. Changes were made to reduce weight in other aspects of the tank, such as introducing a new oscillating turret and redesigning the suspension wheels. The first prototype, named M4, featured a 90 mm SA47 gun and was slightly over 50 tons. A second prototype with a 100 mm SA 47 L/50 gun led to the development of the AMX-50 tank.
 
-It was introduced in [[Update 1.75 "La Résistance"]]. It uses an improved 90 mm SA47 cannon over the [[ARL-44]] and has a 7-round autoloader and a better armour lay-out while being more mobile. Marking a new generation of French tanks, the AMX M4 is the prototype of what to expect from French tank development moving forward. The '''{{Specs|name}}''' is the sturdiest representative of French rank IV vehicles, from which it shares some common features: good mobility, an oscillating turret (fitted with an autoloader), sloped armour in front and back, high hull, high gun placement, good gun depression, 4 crew member, a coaxial MAC 31 machine gun and large tracks. What distinguishes the AMX M4 is its [[Panther D|Panther]]-like hull, its efficient 90 mm SA47 gun developed from the [[ARL-44]] and the thickest armour pattern of all French ground forces with 80 mm sloped at ~55° in the frontal area.
+It was introduced in [[Update 1.75 "La Résistance"]]. It uses an improved 90 mm SA47 cannon over the [[ARL-44]] and has a 7-round autoloader and a better armour layout while being more mobile. Marking a new generation of French tanks, the AMX M4 is the prototype of what to expect from French tank development moving forward. The '''{{Specs|name}}''' is the sturdiest representative of French rank IV vehicles, from which it shares some common features: good mobility, an oscillating turret (fitted with an autoloader), sloped armour in front and back, high hull, high gun placement, good gun depression, 4 crew members, a coaxial MAC 31 machine gun and large tracks. What distinguishes the AMX M4 is its [[Panther D|Panther]]-like hull, its efficient 90 mm SA47 gun developed from the [[ARL-44]] and the thickest armour pattern of all French ground forces with 80 mm sloped at ~55° in the frontal area.
 
 == General info ==
 === Survivability and armour ===
@@ -42,9 +42,9 @@ It was introduced in [[Update 1.75 "La Résistance"]]. It uses an improved 90 mm
 * The internal armour plate separating the crew compartment and the engine bay is 5 mm thick.
 * Floor armour is 20 mm thick, with the underside of the sponsons also being 20 mm thick.
 
-The AMX M4, a post-war French tank, is a remarkable fusion of German tank design elements, drawing inspiration from the [[Panther tank (Family)|Panther]] for its robust armour, the [[Tiger (Disambiguation)|Tiger I/II]] for its mobility and firepower, and integrating French innovation with an oscillating turret and autoloader. The armour profile is a notable feature, featuring an 80 mm angled front glacis and 60 mm pre-angled front cheeks, rendering it highly resilient in frontal engagements effectively protecting for 200 mm penetration. However, it is imperative to recognize that the efficiency of the frontal cheeks diminishes when subjected to direct fire, underscoring the significance of strategic positioning during combat scenarios.
+The AMX M4, a post-war French tank, is a remarkable fusion of German tank design elements, drawing inspiration from the [[Panther tank (Family)|Panther]] for its robust armour, the [[Tiger (Disambiguation)|Tiger I/II]] for its mobility and firepower, and integrating French innovation with an oscillating turret and autoloader.
 
-Beyond its robust armour head-on, the oscillating turret and autoloader on top of its mobility provide a tactical edge in engagements, ensuring rapid and precise responses.  This technological enhancement transforms the tank into a formidable force during flanking manoeuvres, allowing for a rapid succession of shots followed by a tactical withdrawal. While this dynamic manoeuvre adds a layer of unpredictability to its tactics, it introduces the vulnerability of exposing the tank's comparatively weaker side armour.
+The armour profile is a notable feature, featuring an 80 mm angled front glacis and 60 mm pre-angled front cheeks, rendering it somewhat resilient in frontal engagements. Against WW2 tanks like the T-34-85 and M4A3E2, the AMX M4's frontal armour is quite resilient, being able to take shots confidently (unless the shot strikes a weakspot on the oscillating turret). It can even bounce shots from a Tiger I if angled properly! However, against its Cold War counterparts such as the M41, T29, etc, the armour will get easily penetrated. Moreover, the side and rear armour are thin, only being able to shrug off small calibre rounds when angled, underscoring the significance of strategic positioning during combat scenarios.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -52,7 +52,11 @@ Beyond its robust armour head-on, the oscillating turret and autoloader on top o
 
 {{tankMobility|abMinHp=1,550|rbMinHp=884}}
 
-Post-war French designs are all very good at moving around: they have good engines, wide tracks and can easily achieve ~40 km/h on most terrains. The {{PAGENAME}} may be the worst of them all, on par with the [[AMX-50 (TOA100)]] as they share a ''very similar'' hull, they still have ''above average'' mobility, when compared to other medium tanks at the same BR.
+Post-war French designs are all very good at moving around: they have good engines, wide tracks and can easily achieve ~40 km/h offroad. The {{PAGENAME}} may be the worst of them all, on par with the [[AMX-50 (TOA100)]] as they share a very similar hull; but they still have above average mobility, when compared to other medium tanks at the same BR.
+
+With a speed of 50 km/h and nice acceleration, the AMX M4 can quickly relocate to anywhere on the map, giving it an advantage over most other tanks. The player should favour straight routes and/or minimal uphills when moving, to maximise speed throughout the manoeuvre.
+
+The reverse speed of -20 km/h is fast enough for short range retreats and relocating, but for long range it is still best to turn the hull around.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -73,19 +77,21 @@ Post-war French designs are all very good at moving around: they have good engin
 !Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 49 || rowspan="2" | -10°/+15° || rowspan="2" | ±180° || rowspan="2" | N/A || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.70 
+| rowspan="2" | 49 || rowspan="2" | -10°/+15° || rowspan="2" | ±180° || rowspan="2" | N/A || 28.6 || 39.5 || 48.0 || 53.1 || 56.5 || rowspan="2" | 6.70
 |-
 ! ''Realistic''
 | 17.9 || 21.0 || 25.5 || 28.2 || 30.0
 |-
 |}
 
-The gun has exceptionally good armour penetration for its rank, exceeding even that of the [[KwK 43 (88 mm)|8.8 cm KwK 43 L/71 gun]] used on the [[Tiger II (Family)|Tiger II]]. This firepower advantage is further exaggerated by its autoloader, providing a fire rate of 9 rounds a minute until the 7-shot magazine is empty, a very good rate of fire for the BR. All French medium rank IV tanks share this good reload rate, this is their most prominent selling point. Note that like most French tanks of this period, the 90 mm only fires solid-shot armour-piercing rounds. However, the fragmentation effect of these larger shells is much greater than the long 75 mm gun of the [[AMX-13]] and is sufficient for one-shot kills on most enemy vehicles with careful aiming.
+The gun has exceptionally good armour penetration for its rank, exceeding even that of the [[KwK 43 (88 mm)|8.8 cm KwK 43 L/71 gun]] used on the [[Tiger II (Family)|Tiger II]], allowing the AMX M4 to effortlessly penetrate the front of the toughest nuts around this BR, such as the Tiger II, [[T29]], and even the [[Maus]] at close range! This firepower advantage is further exaggerated by its autoloader, providing a fast reload of 6.7 seconds until the 7-shot magazine is empty, a very good rate of fire for the BR. All French medium rank IV tanks share this good reload rate, this is their most prominent selling point.
 
-The oscillating turret design also allows a high gun placement, which means you can fire over hills by exposing only the strong top portion of your tank, even more so with its good depression angles. When it comes to elevation, there is a problem: this tank can only lift its gun 15°, which makes defending against planes impossible and an uphill battle a bit challenging.
+The 90 mm only fires solid-shot armour-piercing rounds like most French tanks of this period. However, the fragmentation effect of these larger shells is much greater than the long 75 mm gun of the [[AMX-13]] and is sufficient for one-shot kills on most enemy vehicles with careful aiming. It is also recommended to bring a few rounds of high-explosive shells to deal with lightly armoured vehicles (e.g. [[Pbv 501]], [[M53/59]], [[M50]], etc), especially since the autoloader speeds up the ammo-switching process.
+
+The oscillating turret design also allows a high gun placement, which means you can fire over hills by exposing only the strong top portion of your tank, even more so with its good -10° depression angle. When it comes to elevation, there is a problem: this tank can only lift its gun 15°, which makes defending against planes impossible and an uphill battle a bit challenging. Lastly, the fast turret rotation of around 25°/s is great for the AMX M4 to deal with threats from multiple directions with ease.
 
 ==== Ammunition ====
-{{:SA47 (90 mm)/Ammunition|90 mm Obus de rupture, 90 mm Obus explosif}}
+{{:SA47 (90 mm)/Ammunition|PCO-50, 90 mm Obus explosif}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -136,7 +142,9 @@ The small calibre of the MAC 31 machine gun makes it largely ineffective against
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-At its BR, 80 mm of sloped frontal armour is more than sufficient to endure close range fights (as long as it is facing the enemy with its frontal armour). But what this tank is really good at is, as any other French rank IV, ''sniping'': a very good gun, great depression and fire rate make it very deadly, even more so that it ''can'' take a few hits. The AMX M4 offers the best survivability of all French rank IV tanks since its BR is low and armour, thick. It is a true "medium tank" capable of all roles, given the good context.
+At its BR, 80 mm of sloped frontal armour might be sufficient to endure close range fights (as long as it is facing the correct enemy with its frontal armour). But what this tank is really good at is, as any other French rank IV, sniping: a very good gun, great depression and fire rate make it very deadly.
+
+Beyond its armour head-on, the oscillating turret and autoloader on top of its mobility provide a tactical edge in engagements, ensuring rapid and precise responses. This technological enhancement transforms the tank into a formidable force during flanking manoeuvres, allowing for a rapid succession of shots followed by a tactical withdrawal. While this dynamic manoeuvre adds a layer of unpredictability to its tactics, it introduces the vulnerability of exposing the tank's comparatively weaker side armour.
 
 This tank can be used in almost all roles on the battlefield, as long as the context is on its side. Here are some roles this tank is the most efficient at:
 
@@ -154,33 +162,33 @@ Use your speed and firepower to outpace the enemy advance. All considerations fr
 
 '''Support:'''
 
-The AMX M4 is not fit for brawling due to the relatively light armour it has. However, there is still a place for it in the Frontline if its commander is ever so daring. The supporting tank follows closely behind the heavy tanks, using them as shields. When an enemy fires at the heavy tank, the support tank should momentarily get out of cover, fire into the soft part of their frontal armour, cannon barrel, and/or the enemy's tracks. The support tank then comes back behind cover, readying itself for attacking again.
+The AMX M4 will not be fit for brawling against more advanced tanks. However, there is still a place for it in the Frontline if its commander is ever so daring. The supporting tank follows closely behind the heavy tanks, using them as shields. When an enemy fires at the heavy tank, the support tank should momentarily get out of cover, fire into the soft part of their frontal armour, cannon barrel, and/or the enemy's tracks. The support tank then comes back behind cover, readying itself for attacking again.
 
 The AMX M4 wields this role well, as it has good manoeuvrability, good acceleration, and a quick-firing cannon. It is however, a tall tank, so be wary of seeking cover behind any low-profile heavy tank and it has a below average reverse speed.
+
+'''Enemies worth noting:'''
+
+* [[M109 (Family)|M109]]: this is a commonly seen self-propelled howitzer armed with a 155 mm cannon, firing HE shells. This plus its good speed means that it can easily over-pressure the AMX M4 at any distance and angle, making it a huge threat. Luckily, it has thin armour, so a shot to the hull or turret will be deadly to the M109.
+* [[Maus]]: this moving fortress can seem very formidable. Indeed, one AMX M4 alone usually isn't enough to destroy a Maus, but the player can still utilise the tank's good speed, agility, and penetration to weaken the Maus until reinforcements arrive. Firstly, do not peek out to fire if the Maus is aiming at your general direction. If it's not or it's reloading, target the tracks first, then the main gun barrel. Then if the turret or hull is at a good flat angle to you, target the flat armour. Try to maintain a rough distance of 150-400 m, as any closer makes it very easy for the Maus to angle and render the AMX M4's shots useless, and too far the penetration of the 90 mm SA47 gun will drop below the point where it can go through the Maus' frontal turret. Lastly, call an artillery strike on a disabled Maus, and mark it on the minimap for your teammates.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Fast and good manoeuvrability
-* Decent reverse speed
-* Front glacis is 80 mm and is heavily sloped for a high chance of ricochets, similar to the [[Panther D|Panther]]'s
+* Fast 51 km/h speed and good agility (-20 km/h reverse, neutral steering)
+* Frontal armour is tough against WW2 tanks like [[T-34-85]], [[M18 Hellcat (Family)|M18]]
 * Potent 90 mm gun (same as [[ARL-44]] or [[Char 25t]]: easy learning curve)
-* Good gun depression
-* Good turret rotation
-* Very good reload rate between 7 shots due to the autoloader
+* Good gun depression and turret rotation
+* Fast reload between 7 shots due to autoloader
 
 '''Cons:'''
 
-* Overall armour is quite thin against expected opponents
-** Thin side armour
-** Thin UFP "corners" makes angling ineffective
-** Vulnerable to planes (thin top armour)
-* Bad elevation angles
-* Long reload time after 7 shots due to autoloader
-* Only two ammo choice between APC and HE rounds
+* Overall thin armour and low survivability against Cold War opponents
+* Bad gun elevation angles
+* Long reload time after 7 autoloader shots
 * Ammo always held in reload mechanism makes it easy ammo rack targets
+* Large hull, hard to hide
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

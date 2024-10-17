@@ -94,14 +94,15 @@ Introduced in [[Update "Sons of Attila"]], the Chaparral comes with the benefit 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The first and most noticeable jump from the M247 to the Chaparral is the lack of radar. The lack of radar can take some getting used to but is not a downside; the lack of a radar renders you invisible to almost any jet that does not have a Radar Warning Receiver (RWR). Even though searching for targets is more difficult, it also makes you more difficult to be found. Thanks to the IR locking, the target will not detect the lock nor the missile launch and, thanks to the smokeless missile motor, means that there is only a split second window after firing where you can be detected. This also means that you can reload the missile rack by locking onto the sun and firing your last missile in relative safety. 
+The first and most noticeable jump from the M247 to the Chaparral is the lack of radar. This lack of radar can take some time getting used to but is not a downside; the lack of a radar (and therefore having nothing to trigger a Radar Warning Receiver or RWR) renders you invisible to most detection barring direct line-of-sight and late generation '''missile approach warning''' '''systems''' (MAW). Even though searching for targets is more difficult, it also makes you more difficult to be found. Due to the IR locking, the target will not detect the lock and, thanks to the smokeless missile motor (available once the MIM-72E is unlocked) may not notice the launch, meaning that there is only a split second window after firing where you can be detected. However, it is generally recommended to relocate after your launch as other aircraft may have noticed. Typically missiles should be fired in pairs, waiting approximately 2-3 seconds between launches. With a full ammo load this typically results in 4-6 semi-guaranteed shootdowns. The lack of IRCCM and being a early generation IR guidance also means the missiles are capable of being locked on to the sun, though if need be this can be used to "dump" your last missile to start a reload early.  
 
 There are several ways to avoid missing;
 
 * Avoid firing the missile before the target has fired flares, chances are they've been locked by another SPAA and are trying to avoid them. This leaves you the perfect window to fire and cripple them.
-* Avoid firing when the target has lots of energy, the less energy the target has means a higher chance you will hit them. Try firing after they've finished an evasive maneuverer. 
-* In rear aspect, the missiles functionally ignore flares which means that you will be able to lock and fire before they have chance to avoid it. Try to pre-emptively aim in rear aspect so that you can destroy the aircraft after they've passed overhead.
+* Avoid firing when the target has lots of energy, the less energy the target has means a higher chance you will hit them. Try firing after they've finished an evasive maneuver. 
+* In rear aspect, the missiles generally ignore flares which means that you will be able to lock and fire before they have chance to avoid it. Try to pre-emptively aim in rear aspect so that you can destroy the aircraft after they've passed overhead.
 * Don't fire at distant targets travelling transversally, the missiles tend to overcorrect and have a decent chance to miss their target.
+* Remember that the missile is attempting to intercept the target, and therefore will be aiming for where the target '''will be''', and not where it is. 
 
 As this is the first missile-centric SPAA, actively engaging targets takes a lot less time and effort as the missiles themselves do much of the work for you. Four missiles give plenty of chance to destroy a target in the event that the missile is evaded. 
 
@@ -158,5 +159,6 @@ The MIM-72D was an export variant with improved warhead, the MIM-72E was used du
 * ''other literature.'' -->
 
 * [[wt:en/news/8445-development-improved-chaparral-oppa-chaparral-style-en|[Devblog] Improved Chaparral: Oppa Chaparral Style!]]
+* https://apps.dtic.mil/sti/pdfs/ADA434389.pdf
 
 {{USA anti-aircraft vehicles}}

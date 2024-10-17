@@ -34,7 +34,7 @@ The Yak-3 performs best in terms of speed and climb under 3,000 m and acceptably
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 633 || 616 || rowspan="2" | {{Specs|ceiling}} || 18.3 || 18.9 || 17.9 || 17.9 || rowspan="2" | 348
+| 633 || 613 || rowspan="2" | {{Specs|ceiling}} || 18.3 || 18.9 || 18.0 || 17.9 || rowspan="2" | 348
 |-
 ! Upgraded
 | 674 || 654 || 17.2 || 17.4 || 24.3 || 21.3

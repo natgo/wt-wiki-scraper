@@ -95,8 +95,6 @@ Accidentally hitting something on max speed, especially explosive decorations, l
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|L21A1 (30 mm)}}
 
-The weapon is virtually same as on the [[Fox]], but on a much better turret, which makes using it easier. 
-
 The 30 mm L21A1 RARDEN cannon is an effective autocannon, although its rate of fire is sub-par. Unlike other autocannons, it requires to aim first and fire later, but it does have enough punch to scare majority of sniper tanks at close range.  While cannon is not technically stabilized, Warrior gunners can manage to fire with some accuracy on the move if they are skilled, enough to make it virtually stabilised in AB.
 
 {| class="wikitable" style="text-align:center" width="100%"

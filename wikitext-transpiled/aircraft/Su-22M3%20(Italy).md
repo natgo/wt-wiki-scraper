@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Su-22M3 was an export variant of the Su-17 strike aircraft developed by the Soviet Union. Used by different nations around the globe, the Su-22M3 variant employed the airframe of the Su-17M3 and adapted it to use a similar engine to that of the export variants of the MiG-23, in this case, the Tumansky R-29BS-300 engine. The M3 variant was primarily exported to [[Su-22M3|Syria]] and Hungary, where they served a long and fruitful life. The Hungarian People's Republic acquired 12 single-seater Su-22M3s and three dual-seat trainer Su-22UM3s in 1983 for the Hungarian Air Force. When the Hungarian People's Republic reformed into Hungary after the dissolution of the USSR in 1991, the Hungarian Air Force found itself with 10 single-seater Su-22M3s and two twin-seat trainer Su-22UM3 (as two single seaters and one trainer had been lost in accidents previously). These aircraft served in reserve backlines until 1997, when they were withdrawn and retired. While the Hungarian Fitters never saw the amount of combat that the Syrian ones did at first, Hungary eventually sold some of their Su-22M3s to Syria sometime in the late '90s, as Syria was looking to replenish some of their Su-22 losses. These Su-22M3s would be upgraded with more KDS-12 flare dispensers in Syrian service.
+The Su-22M3 was an export variant of the Su-17 strike aircraft developed by the Soviet Union. Used by different nations around the globe, the Su-22M3 variant employed the airframe of the Su-17M3 and adapted it to use a similar engine to that of the export variants of the MiG-23, in this case, the Tumansky R-29BS-300 engine. The M3 variant was primarily exported to [[Su-22M3|Syria]] and Hungary, where they served a long and fruitful life. The Hungarian People's Republic acquired 12 single-seater Su-22M3s and three dual-seat trainer Su-22UM3s in 1983 for the Hungarian Air Force. When the Hungarian People's Republic reformed into Hungary after the dissolution of the USSR in 1991, the Hungarian Air Force found itself with 10 single-seater Su-22M3s and two twin-seat trainer Su-22UM3 (as two single-seaters and one trainer had been lost in accidents previously). These aircraft served in reserve backlines until 1997, when they were withdrawn and retired. While the Hungarian Fitters never saw the amount of combat that the Syrian ones did at first, Hungary eventually sold some of their Su-22M3s to Syria sometime in the late '90s, as Syria was looking to replenish some of their Su-22 losses. These Su-22M3s would be upgraded with more KDS-12 flare dispensers in Syrian service.
 
 The '''{{Specs|name}}''' was introduced in [[Update "Alpha Strike"]] in the Hungarian sub-tree of the Italian tech tree, and is identical to the [[Su-22M3|Syrian Su-22M3]] in the Soviet tree. The Su-22M3 uses a Tumansky R-29 engine similar to the [[MiG-23MF (Italy)|MiG-23MF]] in the same tree, and the airframe is that of the Su-17M3, featuring a new forward fuselage layout modified from a two-seat trainer variant. The Su-22M3 has enhanced payload options for the Fitter family: it can carry up to six all-aspect R-60M missiles for air-to-air combat and up to four Kh-25ML or two Kh-29L for ground striking, along with a large amount of various unguided bombs and rockets for blanket strikes and carpet bombing. Players must take caution when flying this variant of the Fitter, due to the low amount of countermeasures; 12 flares/chaff is often not enough to defend more than one threat at this battle rating, but they still make the Su-22M3 a less vulnerable target to incoming missiles when conserved correctly. All in all, the Su-22M3 provides a nice backbone of support to the Italian tech tree at this battle rating, with its high speed interdiction capabilities filling the gap of performance that the [[AMX]] can not achieve.
 
@@ -240,15 +240,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-*
+* High speed and energy retention
+* Large selection of suspended weapons
+* Powerful air-to-ground missiles
+* Variable sweep wings increase manoeuvrability at lower speeds
+* Afterburning engine
 
 '''Cons:'''
 
-*
+* Sluggish manoeuvrability at low airspeeds
+* Low countermeasure capacity
+* Large target
+* Afterburner significantly depletes fuel reserves
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -258,6 +264,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=su_22m3_hungary Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -265,14 +272,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Related Development
-* [[Su-17/22 (Family)]]
+;'''Related development'''
 
-;Other jet planes with variable sweep wings
-* [[F-111A]]
-* [[F-14 (Family)]]
-* [[Tornado (Family)]]
-* [[MiG-23 (Family)]]
+* [[Su-17/22 (Family)]]
+** [[Su-22M3]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -199,6 +199,7 @@ The Skink (No.1001) was to be sent back to Canada and one of the Skinks in Canad
 * [[QF 3.7 Ram]]
 * [[C2A1]]
 * [[ADATS (M113)]]
+* [[Leopard 2A4M|Leopard 2A4M CAN]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

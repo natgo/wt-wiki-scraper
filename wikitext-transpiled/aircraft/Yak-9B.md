@@ -30,10 +30,10 @@ Introduced in [[Update 1.53 "Firestorm"]], the Yak-9B is the only Yak fighter ai
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 573 || 558 || rowspan="2" | {{Specs|ceiling}} || 21.8 || 22.4 || 13.6 || 13.6 || rowspan="2" | 500
+| 573 || 558 || rowspan="2" | {{Specs|ceiling}} || 21.8 || 22.5 || 13.6 || 13.6 || rowspan="2" | 500
 |-
 ! Upgraded
-| 608 || 591 || 20.2 || 21.0 || 18.5 || 16.0
+| 609 || 591 || 20.2 || 21.0 || 18.4 || 16.0
 |-
 |}
 
@@ -151,7 +151,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * No WEP in Realistic and Simulator battles
 
 == History ==
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+An experimental fighter-bomber version of the Yak-9D with four vertical tube bomb bays behind the cockpit. The bomb bay had a capacity of up to 4 x 100 kg (220 lb) FAB-100 bombs or 4 PTAB cassettes with 32 x 1.5 kg (3.3 lb) bomblets each. The typical loadout was 200 kg (440 lb) of bombs.<ref>https://en.wikipedia.org/wiki/Yakovlev_Yak-9</ref> The Yak-9B was evaluated by the 30th Fighter Division from 18 December 1944 until 20 February 1945, with the trials proving unsuccessful. Bomb release could be achieved at dive angles of less than 45 degrees, but a 400 kg bomb load could not be released this way, which limited the ability to take advantage of the plane's total bomb capacity. Poor handling with a full bomb load and full fuel load, combined with a lack of special aiming equipment, limited the Yak-9B's combat usefulness.<ref>https://airpages.ru/eng/ru/yak9.shtml</ref> The Soviet Air Forces report back to the factory concluded: "Pilots did not want to fly the aircraft. The Chief Designer must redesign the aeroplane." The Yak-9B was not redesigned and never entered full production.<ref>https://www.airvectors.net/avyak1.html#m5</ref>
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

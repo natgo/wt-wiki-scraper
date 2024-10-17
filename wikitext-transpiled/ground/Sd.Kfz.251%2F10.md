@@ -11,7 +11,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced in [[Update "Raining Fire"]] as a reward for the [[wt:en/news/6878-event-wargame-strategist-en|2020 Wargame "Strategist" event]].
+The '''Sd.Kfz.251''' was a German light half-track armoured personnel carrier. The Sd.Kfz.251 family of armoured personnel carriers was produced by Hanomag from 1938 to 1945, with over 15,000 vehicles of various modifications manufactured during this period. Initially, the Sd.Kfz.251 was intended for transporting infantry on the battlefield, but subsequently, many specialised vehicles were built on its chassis: from a standard armoured personnel carrier and command vehicle to rocket artillery systems and self-propelled artillery mounts.
+
+One of many modifications of this APC was the '''Sd.Kfz.251/10''', a self-propelled artillery mount armed with the 37 mm Pak 35/36 anti-tank gun. The self-propelled gun was used as a command vehicle and was intended to enhance the firepower of infantry units. Serial production ran from 1942 to 1943, during which period 311 were built. In 1944, due to the already insufficient firepower of the gun, all vehicles of the type were withdrawn from combat units and used in the rear areas.
+
+Introduced in [[Update "Raining Fire"]] as a reward for the [[wt:en/news/6878-event-wargame-strategist-en|2020 Wargame "Strategist" event]], the Sd.Kfz.251 has the mobility and manoeuvrability of a medium tank, but lags behind most tracked vehicles in cross-country ability. The gun itself is located above the hull of the armoured personnel carrier, which allows it to fire while completely concealing the vehicle behind cover. The gun's power is sufficient for effective combat with enemy armour, and the fast reload rate allows for a fairly intensive rate of fire. However, the open fighting compartment and the crew, peering out from the hull up to their waist, make the vehicle very vulnerable even to machine gun fire.
 
 == General info ==
 === Survivability and armour ===
@@ -108,7 +112,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German tank destr
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-The Sd.Kfz.251/10 is a light armored half track with decent mobility, with a quick firing high velocity, but low spalling 37 mm main gun. For these reasons, the Sd.Kfz.251/10 should not be used in the frontlines due to being so lightly armored even against 7.62 mm machine gun fire can and will harm you. 
+The Sd.Kfz.251/10 is a light armored half track with decent mobility, with a quick firing high velocity, but low spalling 37 mm main gun. For these reasons, the Sd.Kfz.251/10 should not be used in the frontlines due to being so lightly armored even against 7.62 mm machine gun fire can and will harm you.
 
 ''As a sniper:''
 

@@ -30,7 +30,7 @@ This aircraft has been in the game since the start of the Open Beta Test prior t
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 650 || 627 || rowspan="2" | {{Specs|ceiling}} || 20.0 || 20.7 || 14.0 || 14.0 || rowspan="2" | 348
+| 650 || 627 || rowspan="2" | {{Specs|ceiling}} || 20.0 || 20.6 || 14.0 || 14.0 || rowspan="2" | 348
 |-
 ! Upgraded
 | 714 || 676 || 18.3 || 19.2 || 23.9 || 18.2

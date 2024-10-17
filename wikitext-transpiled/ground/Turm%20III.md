@@ -57,7 +57,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 !Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 47 || rowspan="2" | ±12° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 5.00 
+| rowspan="2" | 47 || rowspan="2" | ±12° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 22.8 || 31.6 || 38.4 || 42.5 || 45.2 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 14.3 || 16.8 || 20.4 || 22.6 || 24.0
@@ -150,14 +150,16 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} German medium tan
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Turm III has a good amount of firepower, courtesy of both its 105 mm cannon and the 30 mm autocannon. This can be taken advantage of in open areas to quickly penetrate the armour of enemies with APDS. Light vehicles can also easily be penetrated by the 30 mm autocannon, making it easy to spray opponents with the 30 mm while the main armament is reloading. Although the 30 mm has limited elevation, it can still be suitable for anti-aircraft purposes and easily defeats helicopters and aircraft that stray within range.
+
+Due to its weak armour, which is penetrable by most MBTs, it's not necessarily best to use the Turm III to attack head-on. However, it is ahead of most MBTs in terms of mobility, allowing it to rush capture points, get into favourable positions, or quickly retreat into cover when necessary.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* First stage ammo rack houses all of the ammo   
+* First stage ammo rack houses all of the ammo
 * Has a fast autoloader for the main armament
 * Has an autocannon for coaxial weapon that can defeat even some MBTs through the side armour
 * Two-axis stabilizer, unlike its equivalent counterpart, the [[Leopard I]]

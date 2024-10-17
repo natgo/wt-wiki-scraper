@@ -16,7 +16,7 @@ Introduced in [[Update 1.55 "Royal Armour"]] along with the initial British grou
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 [[File:Conqueror trapshot mantlet .png|thumb|400x400px|A basic weak spot of the Conqueror; the gun mantlet. The area is hit because of Conqueror's poor depression. It can be targeted by large-calibre HE, APDS and Sabot shells. - The shown camouflage is known as 'Phalanx', part of the "Night Vision" chest.]]
-The Conqueror utilises the same hull as the Caernarvon does, with respectable frontal armour capable of shrugging off rounds from many adversaries. Unfortunately, this hull suffers from similarly weak side and rear armour - and as such angling, the vehicle can prove extremely dangerous if it exposes the side too much. The Conqueror replaces the Caernarvon's Centurion-based turret with a fresh design, providing much better crew spacing and protection. The turret is not without its weaknesses, however; the commander's cupola protrudes quite significantly and APHE or HESH shells may disable internal turret components or crew members. There is also a weak section directly behind the mantlet at the top of the turret, penetration of which will disable crew or the breech/horizontal turret drive.
+The Conqueror Mark 2 utilizes a modified version of Caernarvon's hull, with respectable frontal armour capable of shrugging off rounds from many adversaries. Unfortunately, this hull suffers from similarly weak side and rear armour - and as such angling, the vehicle can prove extremely dangerous if it exposes the side too much. The Conqueror replaces the Caernarvon's Centurion-based turret with a fresh design, providing much better crew spacing and protection. The turret is not without its weaknesses, however; the commander's cupola protrudes quite significantly and APHE or HESH shells may disable internal turret components or crew members. There is also a weak section directly behind the mantlet at the top of the turret, penetration of which will disable crew or the breech/horizontal turret drive.
 Trap shots are possible, it is likely to get shot with a high-calibre HE, capable of damaging the tank by hitting the base of the turret and exploding into the driver and/or ammo rack just below it. Unlike with similar tank [[M103]] though, for most heavy tanks HE can only penetrate the driver hatch, taking them out, and damage the gun breech on a good hit. SPG calibre HE (like 152 mm of [[Object 268]]) will definitely destroy the roof armour and ammo rack, resulting in a knock-out, unless only a few shells are being carried (which is highly impractical). Non-HE shells are less likely to ricochet and do significant internal damage like this, but it is still possible to push them into the tank.
 
 The frontal track guards are also very vulnerable at particular angles and can be exploited even when sides are not exposed to instantly destroy the tank using nearly any gun, like with [[Churchill Mk VII]]. The more realistic scenario, however, is high-calibre HESH hitting the ground next to them and setting the tank on fire or outright destroying it. Fortunately, most tanks which are capable of this and are going out of their way to use HESH instead of HEAT are British and can only be your opponent in AB, in RB the likelihood of receiving such hit is greatly reduced.
@@ -182,7 +182,7 @@ As usual, keep in mind that the vehicle's sides and lower front plate are partic
 * Only rifle-calibre machine guns
 * Particularly weak side armour and lower front plate; will be commonly targeted areas
 * Only 17 mm of protection on the wide engine deck will be targeted by planes
-* Top speed is limited at only 34 km/h; it faces really mobile enemies such as the [[Leopard (Family)|Leopards]]
+* Top speed is limited at only 34 km/h; it faces really mobile enemies such as the [[Leopard 1 (Family)|Leopard Is]]
 * Large cupola can be exploited by APHE ammunition
 
 == History ==
@@ -216,7 +216,7 @@ The Conqueror were all stationed in West German in the armoured regiments statio
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Related Development
+;Related development
 
 * [[Caernarvon]]
 * [[Conway]]
@@ -230,7 +230,7 @@ The Conqueror were all stationed in West German in the armoured regiments statio
 
 * [[IS-7]]
 * [[IS-4M]]
-* [[T-10M]] /  [[T-10A]]
+* [[T-10M]]/[[T-10A]]
 * [[M103]]
 
 == External links ==

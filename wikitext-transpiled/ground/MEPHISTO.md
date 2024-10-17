@@ -114,7 +114,7 @@ However, there are a couple of issues. The missile can only be fired when statio
 * Amazing mobility and handling
 * Stronger than average ATGMs
 * 4 shots per reload
-* Gen 2 thermals
+* Gen 1 thermals
 * Amphibious capabilities
 * 360 degrees aerosol smoke protection with two uses
 

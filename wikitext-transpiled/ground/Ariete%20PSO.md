@@ -25,6 +25,86 @@ A common weak point on the {{PAGENAME}} from the front is the gun mantlet, as so
 
 Under normal circumstance however, the {{PAGENAME}}'s four crew members make it a relatively survivable tank to drive, as the common knock-out of the gunner and commander with a penetration through the turret will leave just two (loader and driver), allowing the {{PAGENAME}} to withdraw and continue fighting at the expense of a longer reload time.
 
+'''Armour type:'''
+
+* Rolled homogeneous armour (hull, turret, internal plates)
+* High-hardness rolled armour (hull UFP, turret front)
+* Composite armour (turret front)
+* Spaced armour (hull UFP, gun mantlet, turret sides)
+
+{| class="wikitable"
+!'''Armour'''
+!'''Front (Slope angle)'''
+!'''Sides'''
+!'''Rear'''
+!'''Roof'''
+|-
+|Hull
+|Spaced Armour ''Upper glacis'' 
+50 mm (50°) ''Lower glacis'' 
+
+35 mm (60°) ''Sponson front''
+|10-20 mm ''Top'' 
+35 mm ''Bottom''
+|20 mm
+|35 mm ''Crew compartment'' 
+20 mm ''Engine compartment'' 
+
+5 mm ''Exhaust radiators''
+|-
+|Turret
+|Composite armour ''Turret front'' 
+Spaced armour + 90 mm ''Gun mantlet''
+|Spaced armour
+|20 mm + 10 mm
+|40 mm ''Front portion''
+20 mm ''Rear portion''
+|}
+'''Internal armour:'''
+
+* 20 mm -  Upper hull sides
+* 35 mm - Upper hull sides
+* 10 mm - Between driver and hull ammo rack
+* 8 mm - Between crew and engine compartments
+
+{| class="wikitable"
+!'''Composite/spaced armour'''
+!'''Front'''
+!'''Sides'''
+|-
+|Hull
+|'''''Upper glacis''''' 
+300 - 400+ mm ''Chemical'' 
+
+235 - 300+ mm ''Kinetic''
+|'''''Front half'''''
+299 mm composite screen
+|-
+|Turret
+|'''''Turret front''''' 
+520 - 600+ mm ''Chemical'' 
+
+380 - 400+ mm ''Kinetic'' 
+
+'''''Gun mantlet''''' 
+
+210 - 530+ mm ''Chemical'' 
+
+175 - 400+ mm ''Kinetic''
+|'''''Turret side''''' 
+45 - 400+ mm ''Chemical'' 
+
+45 - 225+ mm ''Kinetic''
+
+250 mm Composite screen
+|}
+'''Notes:'''
+
+* Tracks and suspension - 20 mm
+* Sideskirts - 12 mm
+* Fenders - 5 mm
+* There is a 10 mm composite screen on the turret roof
+
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->

@@ -157,9 +157,9 @@ File:ArtImage2 Ta-Se.png|<small>Ta-Se in [[Japan (Ground Forces)]]</small>
 
 ;Other vehicles of similar configuration and role
 
-* [[Flakpanzer I]]
-* [[Flakpanzer 38]]
-* [[Pvlvv fm/42]]
+* [[File:Germany flag.png|30px|link=]] [[Flakpanzer I]]
+* [[File:Germany flag.png|30px|link=]] [[Flakpanzer 38]]
+* [[File:Sweden flag.png|30px|link=]] [[Pvlvv fm/42]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

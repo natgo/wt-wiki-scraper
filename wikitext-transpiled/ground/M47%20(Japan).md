@@ -177,7 +177,15 @@ While it's likely that the other vehicles were also deactivated due to Japanese 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-* [[M47 (Family)]]
+* [[Patton (Disambiguation)]]
+** [[M47 (Family)]]
+
+;Other vehicles of similar configuration and role
+* [[File:USA flag.png|30px|link=]] [[Patton (Disambiguation)]]
+* [[File:Japan flag.png|30px|link=]] [[Type 61 (Family)]]
+* [[File:USSR flag.png|30px|link=]] [[T-54/55 (Family)|T-54 (Family)]]
+* [[File:France flag.png|30px|link=]] [[AMX-30 (1972)]]
+* [[File:Israel flag.png|30px|link=]] [[M-51]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

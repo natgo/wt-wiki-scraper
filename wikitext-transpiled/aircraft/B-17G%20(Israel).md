@@ -170,6 +170,7 @@ When climbing to fight the B-17, you will most likely have a lower energy level 
 * Large size means a juicy target from higher-calibre shells
 * Slower speed compared to equivalent German bombers
 * Rear gunner susceptible to getting knocked out by incoming fire
+* Engines overheat quickly when using WEP specially if the radiator modification is not installed 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

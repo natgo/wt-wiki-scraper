@@ -62,7 +62,7 @@ The 'Beagle' has relatively mediocre flight characteristics given its size and w
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 810 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || 577 || 548 || 400 || ~7 || ~4
+| 850 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || 577 || 548 || 400 || ~7 || ~4
 |-
 |}
 
@@ -72,7 +72,7 @@ The 'Beagle' has relatively mediocre flight characteristics given its size and w
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 500 || < 600 || < 600 || N/A
+| < 500 || < 600 || < 600 || -
 |-
 |}
 
@@ -179,58 +179,58 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|FAB-100M-43 (100 kg)|FAB-250M-46 (250 kg)|FAB-500M-46 (500 kg)|FAB-1500M-46 (1,500 kg)|FAB-3000M-46 (3,000 kg)}}
-{{main|ZB-500 incendiary|S-5K|S-24|GSh-23L (23 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 12 x 100 kg FAB-100M-43 bombs (1,200 kg total)
-* 8 x 250 kg FAB-250M-46 bombs (2,000 kg total)
-* 10 x 250 kg FAB-250M-46 bombs (2,500 kg total)
-* 4 x 500 kg FAB-500M-46 bombs (2,000 kg total)
-* 1 x 1,500 kg FAB-1500M-46 bomb (1,500 kg total)
-* 1 x 3,000 kg FAB-3000M-46 bomb (3,000 kg total)
-* 2 x 23 mm GSh-23L cannons, wing-mounted (gunpods) (250 rpg = 500 total)
-* 6 x S-24 rockets
-* 192 x S-5K rockets
-* 4 x ZB-500 incendiary bombs
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="3.5%" | 1 !! width="3.5%" | 2 !! width="3.5%" | 3 !! width="3.5%" | 4 !! width="3.5%" | 5 !! width="3.5%" | 6 !! width="3.5%" | 7 !! width="3.5%" | 8 !! width="3.5%" | 9 !! width="3.5%" | 10 !! width="3.5%" | 11 !! width="3.5%" | 12 !! width="3.5%" | 13
 | rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 23 mm GSh-23L cannons (250 rpg)
+! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (250 rpg)
 | || || || || || 1 || || 1 || || || || ||
 |-
-! 100 kg FAB-100M-43 bombs
+! [[FAB-100M-43 (100 kg)|100 kg FAB-100M-43]] bombs
 | || || || || || || 12 || || || || || ||
 |-
-! 250 kg FAB-250M-46 bombs
+! [[FAB-250M-46 (250 kg)|250 kg FAB-250M-46]] bombs
 | || 1 || 1 || 1 || 1 || 1 || 8 || 1 || 1 || 1 || 1 || 1 ||
 |-
-! 500 kg FAB-500M-46 bombs
+! [[FAB-500M-46 (500 kg)|500 kg FAB-500M-46]] bombs
 | || || || || || || 4 || || || || || ||
 |-
-! 1,500 kg FAB-1500M-46 bombs
+! [[FAB-1500M-46 (1,500 kg)|1,500 kg FAB-1500M-46]] bombs
 | || || || || || || 1 || || || || || ||
 |-
-! 3,000 kg FAB-3000M-46 bombs
+! [[FAB-3000M-46 (3,000 kg)|3,000 kg FAB-3000M-46]] bombs
 | || || || || || || 1 || || || || || ||
 |-
-! ZB-500 incendiary bombs
+! [[ZB-500 incendiary]] bombs
 | || || || || 1 || 1 || || 1 || 1 || || || ||
 |-
-! S-5K rockets
+! [[S-5K]] rockets
 | 16 || 16 || 16 || 16 || 16 || 16 || || 16 || 16 || 16 || 16 || 16 || 16
 |-
-! S-24 rockets
+! [[S-24]] rockets
 | || || || 1 || 1 || 1 || || 1 || 1 || 1 || || ||
 |-
 | colspan="14" | Maximum permissible loadout weight: 3,010 kg<br>Maximum permissible weight imbalance: 1,250 kg
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* 12 x 100 kg FAB-100M-43 bombs (1,200 kg total)
+* 192 x S-5K rockets
+* 6 x S-24 rockets
+* 8 x 250 kg FAB-250M-46 bombs (2,000 kg total)
+* 10 x 250 kg FAB-250M-46 bombs (2,500 kg total)
+* 4 x 500 kg FAB-500M-46 bombs (2,000 kg total)
+* 1 x 1,500 kg FAB-1500M-46 bomb (1,500 kg total)
+* 1 x 3,000 kg FAB-3000M-46 bomb (3,000 kg total)
+* 4 x ZB-500 incendiary bombs
+* 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
+{{Navigation-End}}
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

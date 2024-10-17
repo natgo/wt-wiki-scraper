@@ -128,11 +128,11 @@ The Meteor F Mk 4 G.41F performs far better than the [[Meteor F Mk 3]]; it is ve
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-{{main|Hispano Mk.V (20 mm)}}
+{{main|Hispano Mk.II (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 4 x 20 mm Hispano Mk.V cannons, nose-mounted (200 rpg top-left + 190 rpg bottom-left + 190 top-right + 200 rpg bottom-right = 780 total)
+* 4 x 20 mm Hispano Mk.II cannons, nose-mounted (180 rpg = 720 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

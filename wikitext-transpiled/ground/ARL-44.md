@@ -28,16 +28,19 @@ Introduced in [[Update 1.75 "La Résistance"]], the ARL-44 is insufficiently arm
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 120 mm (48°) ''Front glacis'' <br> 100 mm (spherical) ''MG port'' <br> 50 mm ''Hull compartment between the tracks'' <br> 50 mm (63°) ''Lower glacis'' || 50 mm <br> 25 mm ''Tracks cover'' || 35 mm (32°) ''Rear glacis'' <br> 35 mm (20°) ''Hull compartment between the tracks'' || 20 mm <br> 5 mm ''Radiator vents'' <br> 5 mm (18°) ''Engine access panel''
+| Hull || 120 mm (48°) ''Front glacis'' <br>100 mm (spherical) ''MG port'' <br>50 mm ''Hull compartment between the tracks'' <br>50 mm (63°) ''Lower glacis'' || 50 mm <br>25 mm ''Tracks cover'' || 50 mm (32°) ''Rear glacis'' <br>30 mm (20°) ''Hull compartment between the tracks'' || 20 mm <br>10 mm ''Radiator vents'' <br>10 mm (72°) ''Engine access panel''
 |-
-| Turret || 110 mm (0-70°) ''Turret front'' <br> 66 mm ''Gun mantlet'' || 60 mm (14°) || 20 mm (8°) || 20 mm (11°) ''Front'' <br> 10 mm ''Rear''
+| Turret || 110 mm (0-79°) ''Turret front'' <br> 66 mm ''Gun mantlet'' 
+50 mm ''Gun mantlet's edge'' 
+| 30 mm (14°) 
+30 mm + 20 mm (14°) ''Side cover by tracks'' 
+| 30 mm (8°) || 20 mm (79°) ''Front'' <br> 10 mm ''Center''
 |-
 | Cupola || colspan="4" style="text-align:center" | 60 mm (spherical)
 |}
 '''Notes:'''
 
 * Suspension wheels are 15 mm thick while tracks are 20 mm thick and bogies are 10 mm thick.
-* An additional 25 mm RHA plate separates the engine from the crew compartment.
 
 In spite of its armour the {{PAGENAME}} still has weak spots easy to target. Avoid showing your sides and/or your back to enemy tanks and you should be mostly fine. Because of the large weak spots like the turret cheeks or the hull between the tracks, it is better to stay as far as possible from the frontline, using the very powerful gun to knock down enemies.
 
@@ -156,6 +159,7 @@ Fighting in close quarters require a great knowledge of your tank: when attackin
 ** Very high penetration power
 ** Good spalling
 ** High muzzle velocity round: easy to aim at distances
+* It has its best ammo in stock
 * Can be played a little like a heavy tank when facing weaker enemies.
 
 '''Cons:'''

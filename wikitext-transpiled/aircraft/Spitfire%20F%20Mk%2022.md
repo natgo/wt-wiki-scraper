@@ -125,6 +125,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 1 x 500 lb G.P. Mk.IV bomb + 2 x 250 lb G.P. Mk.IV bombs (1,000 lb total)
 * 3 x 500 lb G.P. Mk.IV bombs (1,500 lb total)
 * 6 x RP-3 rockets
+* 2 x Triplex R.P. rockets
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

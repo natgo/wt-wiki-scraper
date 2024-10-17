@@ -201,7 +201,7 @@ In summary, the Maus is both extremely armoured and at the same time not armoure
 
 '''Pros:'''
 
-* Nigh undestructible tank against many guns when angled and at range
+* Nigh indestructible tank against many guns when angled and at range
 * Capable of soaking a large amount of damage and very resilient to bombs and rockets
 * Turret sides are as strong as, if not stronger than, the front of the turret
 * Good traction, will reach its top speed consistently on almost all terrain

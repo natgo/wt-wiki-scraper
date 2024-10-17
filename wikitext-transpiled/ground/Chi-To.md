@@ -140,20 +140,18 @@ Most tanks you face can penetrate you frontally if they shoot your frontal plate
 
 '''Pros:'''
 
-* Powerful 75 mm cannon, good penetration and very low shell drop-off.
-* A very powerful tank at 4.3, can tackle all foes at its BR bracket.
+* Powerful 75 mm cannon, good penetration and very low shell drop-off
 * Decent gun depression of -11°
-* Ammo in the turret can be emptied by carrying 15 less ammo.
-* Decent top armour, enough to resist strafing aircraft weapons.
+* Ammo in the turret can be emptied by carrying 15 less shells
+* Decent roof armour, enough to resist strafing aircraft weapons
 
 '''Cons:'''
 
-* Atrocious optics 
-* Armour is average and mostly flat and unangled, like the Panzer IV.
-* The Chi-To is asymmetric and is a large tank, it is difficult to hide from enemies.
-* Reload rate quite slow.
-* Angling front armour can expose the 50 mm hull cheek armour.
-* Very hard to turn on the spot, especially when stock. 
+* Armour is average and mostly flat and unangled
+* Large size can make the Chi-To easier to spot
+* Average reloading rate
+* Angling front armour can expose the 50 mm hull cheek armour
+* Relatively low stock mobility 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -178,10 +176,22 @@ The second tank is still believed to be at the bottom of the lake. A project to 
 {{Skin-gallery |market|ugcitem_1000270|Type 4 Chi-To Operation Ketsugо.png|Camo "Operation Ketsugо"}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[Chi-Nu II]]
+* [[Chi-To Late]]
+
+;Other vehicles of similar configuration and role
+* [[File:IJA flag.png|30px|link=]] [[Chi-Ri II]]
+* [[File:Germany flag.png|30px|link=]] [[Pz.IV (Family)]] - <small>(Late models)</small>
+* [[File:Germany flag.png|30px|link=]] [[Panther tank (Family)]]
+* [[File:Kingdom Hungary flag.png|30px|link=]] [[Turan III]]
+* [[File:USSR flag.png|30px|link=]] [[T-34 (Family)|T-34-85]]
+* [[File:USA flag.png|30px|link=]] [[M4 Sherman (Family)|Sherman M4 (76) (Family)]]
+* [[File:Britain flag.png|30px|link=]] [[Firefly (Disambiguation)|Sherman Firefly]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

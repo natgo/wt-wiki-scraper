@@ -135,9 +135,8 @@ The '''{{Specs|name}}''', introduced into the game in [[Update "Wind of Change"]
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
-** 2 x 30 mm DEFA 552A cannons + 36 x countermeasures
+* 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
+* 36 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -186,14 +185,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Python 3]] missiles
 | 1 || || || || || || 1
 |-
-| colspan="8" | Maximum permissible loadout weight: 4,295 kg<br>Maximum permissible wing load: 1,500 kg
+! 880 l drop tanks
+| || || || 1 || || ||
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 1 x 880 l drop tank
 * 2 x AIM-9D Sidewinder missiles
 * 2 x AIM-9G Sidewinder missiles
 * 2 x Python 3 missiles

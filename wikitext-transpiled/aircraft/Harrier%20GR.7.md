@@ -146,13 +146,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10 !! width="4%" | 11
-| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[ADEN 25 (25 mm)|25 mm ADEN 25]] cannons (100 rpg)
 | || || || || 1 || || 1 || || || ||
 |-
 ! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
-| 1 || || || || || || || || || || 1
+| 1 || 1 || || 1 || || 1 || || 1 || || 1 || 1
+|-
+! [[H.E. M.C. Mk.1 No.118 (540 lb)|540 lb H.E. M.C. Mk.1 No.118]] bombs
+| 1 || 1 || || 1 || || 1 || || 1 || || 1 || 1
 |-
 ! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
 | || 1 || || 1 || || 1 || || 1 || || 1 ||
@@ -203,14 +206,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 25 mm ADEN 25 cannons (100 rpg = 200 total)
-* 2 x AIM-9L Sidewinder missiles
+* 2 x AIM-9L Sidewinder missiles + 2 x AIM-9M Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles
 * 4 x AIM-9L Sidewinder missiles + 640 x countermeasures
 * 4 x AIM-9M Sidewinder missiles
 * 4 x AIM-9M Sidewinder missiles + 640 x countermeasures
 * 108 x SNEB type 23 rockets
 * 114 x CRV7 M247 rockets
-* 2 x 540 lb Mk.M2 bombs (1,080 lb total)
+* 7 x 540 lb Mk.M2 bombs (3,780 lb total)
+* 7 x 540 lb H.E. M.C. Mk.1 No.118 bombs (3,780 lb total)
 * 5 x 1,000 lb H.E. M.C. Mk.13 bombs (5,000 lb total)
 * 5 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (5,000 lb total)
 * 6 x 277 kg GBU-12 Paveway II bombs (1,662 kg total)

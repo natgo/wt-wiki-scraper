@@ -34,10 +34,10 @@ In general, the Spitfire performs best at low and medium altitudes: below 4,500 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 527 || 507 || rowspan="2" | {{Specs|ceiling}} || 16.7 || 17.7 || 10.7 || 10.7 || rowspan="2" | 300
+| 528 || 506 || rowspan="2" | {{Specs|ceiling}} || 16.7 || 17.7 || 10.7 || 10.7 || rowspan="2" | 300
 |-
 ! Upgraded
-| 617 || 584 || 14.6 || 15.0 || 26.2 || 19.5
+| 617 || 584 || 14.1 || 15.0 || 26.2 || 19.5
 |-
 |}
 
@@ -116,7 +116,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 '''Notes:'''
 
 * 153 rounds per second total output (1150 rpm x 8 / 60).
-* Muzzle velocity 810 m/s (2,660 feet/second). <ref>[http://www.aviation-history.com/guns/303.htm <nowiki>[The Aviation History Online Museum]</nowiki> Browning .303 Mark II Machine Gun]</ref>
+* Muzzle velocity 810 m/s (2,660 feet/second). <ref>[http://www.aviation-history.com/guns/303.htm <nowiki>[The Aviation History Online Museum] Browning .303 Mark II Machine Gun</nowiki>]</ref>
 * The .303 was a rifle round, accurate but fairly ineffective in air combat unless in skilled hands. The calibre was chosen over the .50 as it was lighter, had a higher rate of fire and was less susceptible to jamming. However, it required an average 4,500 rounds to disable an enemy aircraft <ref>Flying Guns: World War II by Anthony G Williams, Emmanuel Gustin (2003), p95</ref>, of which 250 rounds needed to hit (i.e. a full 2-second burst). The accurate placing of the shot was essential, as it lacked sufficient energy to cause structural damage.
 * The design used an open bolt mechanism to allow air to flow through the barrel and prevent overheating. This worked well at lower altitudes but caused icing at high altitude. The red canvas wing-port covering kept the gun clean and warm; later marks also ducted hot air from the engine to regulate the gun's breech temperature. <ref>[[wikipedia:Supermarine_Spitfire#Armament|[Wikipedia] Supermarine Spitfire - Armament]]</ref>
 * RAF recommended convergence in 1939 was 365 m (400 yards) in contrast to the Luftwaffe, with experience from the Spanish Civil War, using 200 m (which the RAF adopted by mid-1940). Although many high scoring pilots reduced this, close to 137 m (150 yards) or less for an accurate kill, others ignored convergence altogether or went to a box-shot where paired guns were set to different convergences.

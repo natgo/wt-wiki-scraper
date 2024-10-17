@@ -218,8 +218,19 @@ To fulfill the military's requirements, tank designers offered several promising
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
 * [[Type 61 (Family)]]
+
+;Other vehicles of similar configuration and role
+* [[File:USA flag.png|30px|link=]] [[Patton (Disambiguation)]]
+** [[File:USA flag.png|30px|link=]] [[M46]]
+** [[File:USA flag.png|30px|link=]] [[M47]]
+** [[File:USA flag.png|30px|link=]] [[M48A1|M48]]
+
+* [[File:USSR flag.png|30px|link=]] [[T-54/55 (Family)|T-54 (Family)]]
+* [[File:France flag.png|30px|link=]] [[AMX-30 (1972)]]
+* [[File:Israel flag.png|30px|link=]] [[M-51]]
+* [[File:FRG flag.png|30px|link=]] [[Ru 251]]
+* [[File:Sweden flag.png|30px|link=]] [[Ikv 91]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -177,14 +177,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Matra R550 Magic 1]] missiles
 | 1 || || || || || || 1
 |-
-| colspan="8" | Maximum permissible weight imbalance: 1,500 kg
+! 1,700 l drop tanks
+| || 1 || || || || 1 ||
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 2 x 1,700 l drop tanks
 * 2 x Matra R550 Magic 1 missiles
 * 2 x AIM-9B Sidewinder missiles
 * 1 x AS-30 Nord missile

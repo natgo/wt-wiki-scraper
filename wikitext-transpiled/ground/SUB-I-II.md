@@ -164,11 +164,13 @@ Vehicles of similar configuration
 
 * [[AMX-10P]]
 * [[Marder A1-]]
-* [[Wiesel 1A4]]
+* [[XM800T]]
 
 Vehicles with similar weapon systems
 
 * [[R3 T20 FA-HS]]
+* [[U-SH 204 GK]]
+* [[Wiesel 1A4]]
 * [[Ystervark]]
 * [[Type 87 RCV (P)]]
 
@@ -184,4 +186,5 @@ Vehicles derived from the Type 73 chassis
 
 * [[wt:en/news/7997-development-sub-i-ii-speed-and-bite-en|[Devblog] SUB-I-II: Speed and Bite]]
 
+{{Manufacturer MHI}}
 {{Japan anti-aircraft vehicles}}

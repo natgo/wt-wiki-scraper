@@ -11,9 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Soviet fighter {{Battle-rating}}. It was introduced in [[Update_1.41#19.06.2014_-_1.41.27.12|Update 1.41.27]] through the [[wt:en/news/668--en|LaGG-3-34 starter pack]]. From 2014 to 2019, it was purchasable in the store as part of several premium packs but was removed at the beginning of 2019. It was also made available in parallel in the [[Warbonds]] shop as a random prize of the Vehicle battle trophy from [[wt:en/news/5738-news-how-can-you-get-premium-vehicles-warbonds-en|September 2018]] to March 2019 and from [[wt:en/news/6605-news-premium-vehicles-for-warbonds-until-the-31st-of-march-en|March 2020]] to October 2020.
+The '''{{Specs|name}}''' was a Soviet fighter aircraft, a variant of the LaGG-3 fighter. The 20 mm ShVAK shooting through the propeller hub was replaced by 37 mm NS-37 cannon, allowing the aircraft to be used in tank busting roles similar to the later [[Yak-9T]]. 40 of the LaGGs were sent to Stalingrad in 1942 for evaluation. However, the installation of the gun shifted center of gravity forward and caused stability issues, while the recoil from the cannon caused engine damage such as oil leaks and ruptures of piping. The aircraft was not developed further.
 
-The LaGG-3-34 is a modification of the LaGG-3 with a nose-mounted 37 mm NS-37 autocannon that can be equipped with a variety of belts, including AP. As such, it can fight late biplanes and early fighters but will suffer in low altitude engagements due to its weight. However, if used as a heavy fighter (maintaining energy, using altitude and avoiding furballs), the LaGG-3-34 is extraordinarily effective in dealing with planes and tanks.
+The LaGG-3-34 was introduced in [[Update_1.41#19.06.2014_-_1.41.27.12|Update 1.41.27]] through the [[wt:en/news/668--en|LaGG-3-34 starter pack]]. From 2014 to 2019, it was purchasable in the store as part of several premium packs but was removed at the beginning of 2019. It was also made available in parallel in the [[Warbonds]] shop as a random prize of the Vehicle battle trophy from [[wt:en/news/5738-news-how-can-you-get-premium-vehicles-warbonds-en|September 2018]] to March 2019 and from [[wt:en/news/6605-news-premium-vehicles-for-warbonds-until-the-31st-of-march-en|March 2020]] to October 2020. The LaGG-3-34 makes for perfect CAS aircraft due to its 37 mm cannon into ground battles, as well as as a fighter capable of defending itself. The LaGG fulfils the same role of the later Yak-9T although at a lower battle rating, as well as with slightly worse performance more comparable to the early Yak-9.
 
 == General info ==
 === Flight performance ===
@@ -60,7 +60,7 @@ The LaGG-3-34 is a modification of the LaGG-3 with a nose-mounted 37 mm NS-37 au
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 440 || 414 || 280 || ~12 || ~9
+| 700 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 440 || 414 || 280 || ~12 || ~9
 |-
 |}
 

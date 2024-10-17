@@ -123,9 +123,9 @@ The Mirage F1C-200 does not have any armour on the aircraft. Most contemporary c
 |-
 ! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -135,9 +135,9 @@ The Mirage F1C-200 does not have any armour on the aircraft. Most contemporary c
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 30 mm DEFA 553 cannons, belly-mounted (135 rpg = 270 total)
-** 2 x 30 mm DEFA 553 cannons + 252 x countermeasures
+* 2 x 30 mm DEFA 553 cannons, belly-mounted (135 rpg = 270 total)
+* 48 x large calibre countermeasures
+* 144 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -148,7 +148,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_F1C.png]]</div>
+| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_F1C.png]]</div>
 |-
 ! [[DEFA 553 (30 mm)|30 mm DEFA 553]] cannons (180 rpg)
 | || || 1 || || 1 || ||
@@ -192,6 +192,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Matra Super 530F]] missiles
 | || || 1 || || 1 || ||
 |-
+! 1,200 l drop tanks
+| || || 1 || 1 || 1 || ||
+|-
 | colspan="8" | Maximum permissible weight imbalance: 500 kg
 |-
 |}
@@ -199,7 +202,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 3 x 1,200 l drop tanks
 * 72 x SNEB type 23 rockets
 * 144 x SNEB type 23 rockets
 * 2 x 30 mm DEFA 553 cannons (180 rpg = 360 total)

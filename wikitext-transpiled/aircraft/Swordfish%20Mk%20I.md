@@ -133,7 +133,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Swordfish is  largely confined to the early ranks, where it is moderately effective as a bomber. While it is slow and poorly armed, it is quite manoeuvrable and carries a decent payload. Therefore, it is strictly relegated to bombing and torpedo bombing. During ground realistic battles, the Swordfish can be great for accurately bombing enemy vehicles, but it will be a very easy target for SPAA, enemy fighters, and especially American tanks like the M2A2 or the Sherman 105. Therefore you must be careful and try to drop your bombs as quickly as possible before returning to base to rearm. Hanging around once your bombs are gone will quickly get you shot down. Pinpoint the target at a distance, drop the bombs and then escape before AA can respond. In this aircraft, it is advisable to fly low to use trees, hills, rocks, and other terrain features.
+The Swordfish is largely confined to the early ranks, where it is moderately effective as a bomber. While it is slow and poorly armed, it is quite manoeuvrable and carries a decent payload. Therefore, it is strictly relegated to bombing and torpedo bombing. During ground realistic battles, the Swordfish can be great for accurately bombing enemy vehicles, but it will be a very easy target for SPAA, enemy fighters, and especially American tanks like the M2A2 or the Sherman 105. Therefore you must be careful and try to drop your bombs as quickly as possible before returning to base to rearm. Hanging around once your bombs are gone will quickly get you shot down. Pinpoint the target at a distance, drop the bombs and then escape before AA can respond. In this aircraft, it is advisable to fly low to use trees, hills, rocks, and other terrain features.
 
 A good tactic is to fly at a distance from the fighting, keeping out of range of machine gun fire or worse. If an enemy starts to capture a capture points, one can swoop in and bomb the capture point, clearing it of any enemy vehicles. Not only does it benefit the team, but is also confirms an enemy target location. Circling over the combat area looking for targets is not a good idea. This is risky enough in faster, more nimble aircraft, so trying this in a big and slow biplane bomber is almost suicidal.
 
@@ -161,13 +161,13 @@ If intercepted by an enemy aircraft, the best option is to call for help. The Sw
 
 '''Pros:'''
 
-* Quite manoeuvrable
+* Surprisingly good manoeuvrability and turn time, can outturn most planes at rank
 * Good bomb load for its rank
 * Useful at downing vehicles in tank battles
 * Easy to aim bombs thanks to its low speed
 * One forward firing machine gun for taking out soft/light targets
 * One rear-facing machine gun that may prove itself useful
-* Like in real life, unlike most aircraft, it is easy to control at low speeds
+* Like in real life, unlike most aircraft, it is easy to control at low speeds; overall good low-speed performance 
 * Engine cooling is great (does not overheat for a while even when on WEP)
 * Bombsight when using bombs allows for precise dropping of bombs
 
@@ -176,7 +176,7 @@ If intercepted by an enemy aircraft, the best option is to call for help. The Sw
 * Terribly slow
 * Quick speed loss in tight turns combined with slow speed means that you might be struggling to maintain a non-stall airspeed
 * Poor rate of climb
-* Vulnerable to tank MG's and even main cannons
+* Vulnerable to tank MGs and even main cannons
 * Offensive armament is virtually useless
 * Insufficient armament to efficiently fend off enemy planes
 * Very poor cockpit visibility
@@ -194,13 +194,13 @@ Taking to the skies for the first time in 1934, the Swordfish was born into an e
 {{Navigation-First-Simple-Line}}
 A single-engine biplane of mixed construction, the Fairey Swordfish was developed initially as a Torpedo Bomber/Spotter/Reconnaissance aircraft. The origins of the Swordfish lay in the TSR I prototype of 1933 which, after being lost in an accident, was replaced by the TSR II which first flew on April 17th 1934. The first order for 86 aircraft was placed in April 1935 and in July 1936 the first Swordfish entered service with 825 Naval Air Squadron of the Fleet Air Arm.
 
-The Swordfish Mk I was powered by a radial air-cooled Bristol Pegasus Mk IIIM engine and was equipped with one synchronised, fuselage-mounted 0.303 inch Vickers Mk.II machine gun and one 0.303 inch Lewis or Vickers 'K' machine gun in the Telegraphist Air Gunner's cockpit. The Swordfish Mk I could carry one 18 inch torpedo (731 kg), one sea mine (680 kg), three Mk VII depth charges or up to 1500 lbs (680 kg) of bombs underneath the fuselage and wings. Later variants could carry 60 lb rockets.
+The Swordfish Mk I was powered by a radial air-cooled Bristol Pegasus Mk IIIM engine and was equipped with one synchronised, fuselage-mounted 0.303 inch Vickers Mk.II machine gun and one 0.303 inch Lewis or Vickers K machine gun in the Telegraphist Air Gunner's cockpit. The Swordfish Mk I could carry one 18 inch torpedo (731 kg), one sea mine (680 kg), three Mk VII depth charges or up to 1500 lbs (680 kg) of bombs underneath the fuselage and wings. Later variants could carry 60 lb rockets.
 
 The Swordfish was normally crewed by three; the pilot, the observer and in the rearmost cockpit, the Telegraphist Air Gunner, or TAG. On some occasions the observer would be seated in the TAG's cockpit whilst an extra fuel tank was fitted in the observer's cockpit.
 
-As an open cockpit biplane with a fixed undercarriage and areas of fabric skin, the Swordfish was viewed by most as an anachronism and obsolete by the beginning of the Second World War. Nothing could be further from the truth; the Swordfish possessed stable, forgiving handling characteristics which made it ideally suited for naval operations from the unforgiving decks of aircraft carriers in rough seas or at night. With a low stall speed and an incredible agility for an aircraft of its size, the Swordfish could out turn most enemy fighters at slow speeds. It was a tough, robust aircraft capable of withstanding battle damage which would have destroyed many more 'modern' aircraft. It even outlasted its intended replacement, the Fairey Albacore.
+As an open cockpit biplane with a fixed undercarriage and areas of fabric skin, the Swordfish was viewed by most as an anachronism and obsolete by the beginning of the Second World War. Nothing could be further from the truth; the Swordfish possessed stable, forgiving handling characteristics which made it ideally suited for naval operations from the unforgiving decks of aircraft carriers in rough seas or at night. With a low stall speed and an incredible agility for an aircraft of its size, the Swordfish could out turn most enemy fighters at slow speeds. It was a tough, robust aircraft capable of withstanding battle damage which would have destroyed many more modern aircraft. It even outlasted its intended replacement, the Fairey Albacore.
 
-The Swordfish became immortalised in the annals of naval aviation history when, on the night of 11th-12th November 1940, when 21 Swordfish of 813 NAS, 815 NAS, 819 NAS and 824 NAS carried out a daring attack on the Italian port of Taranto, crippling three Italian battleships and causing significant damage to smaller warships and coastal installations. The attack would become the model for the Japanese Navy's strike on Pearl Harbour. Swordfish of 818 NAS also succeeded in crippling the steering gear of the German battleship 'Bismarck' allowing Royal Navy warships to destroy her. Perhaps the most tragic moment in the illustrious career of the Swordfish was when six aircraft of 825 NAS attacked the German warships 'Scharnhorst', 'Gneisenau' and 'Prinz Eugen' through a screen of anti aircraft fire and squadrons of German fighters. All six Swordfish were lost and their CO, Lt Cdr Eugene Esmonde, was awarded a posthumous Victoria Cross, one of only four ever to be awarded to naval aviators.
+The Swordfish became immortalised in the annals of naval aviation history when, on the night of 11th-12th November 1940, when 21 Swordfish of 813 NAS, 815 NAS, 819 NAS and 824 NAS carried out a daring attack on the Italian port of Taranto, crippling three Italian battleships and causing significant damage to smaller warships and coastal installations. The attack would become the model for the Japanese Navy's strike on Pearl Harbour. Swordfish of 818 NAS also succeeded in crippling the steering gear of the German battleship Bismarck allowing Royal Navy warships to destroy her. Perhaps the most tragic moment in the illustrious career of the Swordfish was when six aircraft of 825 NAS attacked the German warships Scharnhorst, Gneisenau and Prinz Eugen through a screen of anti aircraft fire and squadrons of German fighters. All six Swordfish were lost and their CO, Lt Cdr Eugene Esmonde, was awarded a posthumous Victoria Cross, one of only four ever to be awarded to naval aviators.
 
 After a career matched by no other naval strike aircraft in history, production of the Swordfish ceased in August 1944. A Swordfish carried out the last operational flight by a biplane in the Fleet Air Arm in June 1945, leaving only a few of Swordfish to carry out ancillary duties until the last disappeared from the Royal Navy's books in the 1950s. A total of 2,391 Swordfish were produced, 992 of which were from the Mk I series.
 {{Navigation-End}}

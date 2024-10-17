@@ -112,7 +112,7 @@ Introduced during [[Update "Air Superiority"]] as a reward for the [[wt:en/news/
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-It is a small aircraft when compared to similar BR fighters, being less likely to be hit. All fuel tanks are self-sealing and dispersed around the entire wing and mainframe. The relatively small engine less prone to be hit by an enemy, but having a single engine makes it impossible to fly if it is destroyed. 
+It is a small aircraft when compared to similar BR fighters, being less likely to be hit. All fuel tanks are self-sealing and dispersed around the entire wing and mainframe. The relatively small engine less prone to be hit by an enemy, but having a single engine makes it impossible to fly if it is destroyed.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -136,7 +136,8 @@ It is a small aircraft when compared to similar BR fighters, being less likely t
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 30 mm DEFA 554 cannons, belly-mounted (125 rpg = 250 total)
-* 54 x countermeasures
+* 16 x large calibre countermeasures
+* 18 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -179,7 +180,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 1 x 1,300 l drop tank
-* 2 x Matra R550 Magic 1 missiles
+* 2 x Matra R550 Magic 1 missiles + 2 x Matra Super 530F missiles
 * 2 x Matra R550 Magic 2 missiles
 * 72 x SNEB type 23 rockets
 * 2 x Matra Super 530F missiles

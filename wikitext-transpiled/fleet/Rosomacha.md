@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet frigate {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
+The '''{{Specs|name}}''' was a Riga-class frigate built to replace the Kola-class frigates in the early 1950s. The Kola class was considered too heavy and costly, so the Riga class was designed using a similar but smaller and simpler design. SKR Rosomacha was laid down in June 1952, launched in August 1953, and commissioned in April 1954. In the late 1950s, some Riga-class frigates underwent modernization, designated as Pr.50 A. The modernization included replacing the two-tube torpedo launchers with three-tube torpedo launchers capable of launching homing anti-submarine torpedoes and replacing the two MBU-200 rocket launchers with [[RBU-2500]] mortar launchers. The SKR Rosomacha served in the Northern Fleet until 1989 and was later scrapped.
+
+Introduced in [[Update "Ixwa Strike"]], the SKR Rosomacha has practically no armour, with only 8 mm of armour located on its main gun and bridge, barely withstanding enemy autocannon fire. This frigate was not built to fight enemy destroyers, as its main cannon ammunition consists only of high-explosive shells with a maximum penetration of only 24 mm, which can barely damage enemy destroyers. Instead, this frigate excels at fighting enemy boats, as they are lightly armoured, and the main armament has a fast reload rate of 15 rounds per minute. If you have to fight an enemy destroyer, you still have three torpedoes at your disposal. However, with a speed of 63 km/h, they are quite easy for an aware enemy to dodge. You also have 96 RBU-2500 mortars that can deal significant damage to enemy destroyers, but keep in mind the effective range of these mortars is limited to around 1 km. So, make sure the enemy destroyer is less than 1 km away if you want to hit it effectively.
 
 == General info ==
 === Survivability and armour ===
@@ -70,9 +72,11 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet frigate {{Battl
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -83,6 +87,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet frigate {{Battl
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_skr_pr50plo_rosomacha Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -91,6 +96,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet frigate {{Battl
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Pr.50 (Family)]]
 
 == External links ==
@@ -98,6 +104,7 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Soviet frigate {{Battl
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

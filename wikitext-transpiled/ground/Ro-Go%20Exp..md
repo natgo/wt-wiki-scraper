@@ -160,8 +160,10 @@ A different configuration was brought to the drawing board by the original desig
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
 * [[Ro-Go]]
+
+;Tanks of comparable role, configuration, and era
+* [[File:IJN flag.png|30px|link=]] [[Chi-Ha LG]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

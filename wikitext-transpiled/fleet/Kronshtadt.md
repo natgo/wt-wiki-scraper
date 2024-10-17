@@ -157,10 +157,9 @@ One of the ordered ships - Kronshtadt - was laid down in Leningrad on 30th Novem
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[USS Alaska]]
+* [[Scharnhorst]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

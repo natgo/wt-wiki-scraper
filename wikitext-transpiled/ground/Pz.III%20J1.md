@@ -74,7 +74,7 @@ Introduced in [[Update 1.43]], the Panzer III J1 is an improved variant of the P
 * '''PzGr 39''' - Armour Piercing Capped shell - This is your main ammo type, use it whenever you think it has enough penetration to penetrate your target. It deals the most damage because of its explosive filler.
 * '''PzGr 40/1''' - Armour Piercing Composite Rigid shell - This type of ammo should be used if you are having trouble penetrating your opponent, or trying to hit a fast-moving tank at some distance. However, its damaging potential is much lower, because it has no explosive filler to further enhance damage after the penetration.
 * '''PzGr 40''' - Armour Piercing Composite Rigid shell - this variation of APCR is lighter, slightly faster and offers the best penetration (up to 150 mm). Use it against heavily armoured beasts like the [[KV-1 (Family)|KV-1]] (If you can't flank them). However, don't expect it to cause any real damage upon penetration, it is even worse than that of PzGr 40/1. It basically only deals damage to modules/crew straight in its path. It is therefore almost useless to fire them at things like turret cupolas, as it will usually just fly right through them.
-* '''Sprgr. 38''' - High Explosive ammo - You should carry only very few of these. They are completely useless against anything other than unarmoured AA vehicles, to which it is lethal.
+* '''Sprgr. 38''' - High Explosive ammo - You should carry only very few of these. They are completely useless against anything other than unarmoured AA vehicles and TDs, to which it is lethal.
 
 {{:KwK39 (50 mm)/Ammunition|PzGr 39, PzGr 40/1, PzGr 40, Sprgr. 38}}
 

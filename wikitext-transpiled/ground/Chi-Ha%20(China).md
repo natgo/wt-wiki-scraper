@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=cn_type_97_chi_ha
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

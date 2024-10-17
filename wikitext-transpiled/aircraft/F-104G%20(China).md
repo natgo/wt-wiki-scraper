@@ -61,7 +61,7 @@ The F-104G has about 8% more engine thrust than the F-104A in exchange for sligh
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,527 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 827 || 444 || ~12 || ~5
+| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 827 || 444 || ~12 || ~5
 |-
 |}
 

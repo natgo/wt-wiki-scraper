@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet armoured gun boat {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game.
+The '''{{Specs|name}}''' is an upgraded, production version of the [[Pr.191]]. It features new M-50 engines, making the boat slightly faster, addressing a key issue with the previous version. It is also equipped with new 14.5 mm [[KPV (14.5 mm)|KPV]] heavy machine guns, replacing the older 12.7 mm model. The boat entered production in 1947, although there were initial issues with the hull's bottom, which were later resolved. A total of 188 Pr.191M units were produced between 1947 and 1954, with most being assigned to the river patrol fleet.
+
+In the game, this boat was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. It retains the same crew count and armour layout as the previous version but has a faster speed. The boat still uses the 85 mm cannon but now comes equipped with a 14.5 mm KPV heavy machine gun that can penetrate up to 40 mm of armor at close range, making it effective at destroying enemy boats and some armoured targets. It also has magnetic mines, though they are not particularly effective at sinking enemy destroyers.
 
 == General info ==
 === Survivability and armour ===
@@ -94,6 +96,7 @@ The ship comes with 12 MIRAB mines. These mines are rather small, and should be 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_pr_191m Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -105,6 +108,7 @@ The ship comes with 12 MIRAB mines. These mines are rather small, and should be 
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

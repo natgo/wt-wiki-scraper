@@ -30,7 +30,7 @@ The Ki-49's role is a low-altitude medium bomber capable of destroying ground ta
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 481 || 465 || rowspan="2" | {{Specs|ceiling}} || 31.0 || 31.8 || 9.6 || 9.6 || rowspan="2" | 650
+| 481 || 464 || rowspan="2" | {{Specs|ceiling}} || 31.0 || 31.8 || 9.6 || 9.6 || rowspan="2" | 650
 |-
 ! Upgraded
 | 524 || 502 || 29.0 || 30.0 || 16.1 || 12.5
@@ -210,10 +210,12 @@ Production of the Ki-49 ceased in December of 1944. In all, 819 Ki-49s were cons
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki-49_2b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

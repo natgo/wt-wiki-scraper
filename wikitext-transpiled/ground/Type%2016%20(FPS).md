@@ -172,19 +172,20 @@ In AB, your ability to flank is hampered by the different visibility mechanics, 
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Related Development
+;Related development
+* [[Type 16 (Family)]]
+** [[Type 16 (P)]] - <small>(Prototype)</small>
+** [[Type 16]]
 
-* [[Type 16 (P)]] - <sub>Prototype</sub>
-* [[Type 16]] - <sub>Main Production</sub>
-
-;Other {{Annotation|MCV|Maneuver Combat Vehicle}}/{{Annotation|MGS|Mobile Gun Systems}}:
-
-* [[File:Italy_flag.png|20px|link=]] [[Centauro (Family)]]
-* [[File:South Africa_flag.png|20px|link=]] [[Rooikat (Family)]]
-* [[File:FRG_flag.png|20px|link=]] [[Radkampfwagen 90]]
-* [[File:USA_flag.png|20px|link=]] [[M1128]]
-* [[File:France_flag.png|20px|link=]] [[AMX-10RC]]
-* [[File:China_flag.png|20px|link=]] [[ZLT11]]
+;Other vehicles of similar configuration and role
+* [[File:Italy_flag.png|30px|link=]] [[Centauro (Family)]]
+* [[File:South Africa_flag.png|30px|link=]] [[Rooikat (Family)]]
+* [[File:France_flag.png|30px|link=]] [[Vextra 105]]
+* [[File:FRG_flag.png|30px|link=]] [[Radkampfwagen 90]]
+* [[File:China_flag.png|30px|link=]] [[ZLT11]]
+* [[File:Britain_flag.png|30px|link=]] [[Vickers Mk.11]]
+* [[File:USA_flag.png|30px|link=]] [[M1128]]
+* [[File:Finland_flag.png|30px|link=]] [[CT-CV 105HP]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

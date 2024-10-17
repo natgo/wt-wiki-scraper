@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=hp52_hampden_mk1_late
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

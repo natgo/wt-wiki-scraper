@@ -10,41 +10,17 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Challenger 2 OES is a modification for the tank made to improve its survivability in high intensity battles. With the introduction of ERA blocks covering the sides and front of the vehicle, this protection is meant to deal specially against RPGs and ATGMs in urban combat. The vehicle also received updated protection against IEDs. The upgrade started development based on the Challenger 2 TES, which is almost identical, this upgrade was created as a response to the asymmetric warfare scenario of Iraq 2002, in which IEDs and urban combat doomed many NATO tanks due to their poor protection on the sides. The US developed a similar upgrade with the TUSK ERA package for their M1 Abram tanks.
+The '''Challenger 2 OES''' is a modification for the Challenger 2 tank made to improve its survivability in high intensity battles. With the introduction of ERA blocks covering the sides and front of the vehicle, this protection was meant to deal specially with RPGs and ATGMs in urban combat. The vehicle also received updated protection against IEDs. The upgrade started development based on the [[Challenger 2 TES]], which is almost identical; this upgrade was created as a response to the asymmetric warfare scenario of Iraq 2002, in which IEDs and urban combat doomed many NATO tanks due to their poor protection on the sides. The US developed a similar upgrade with the [[M1A2 SEP|TUSK ERA]] package for their M1 Abrams tanks.
 
-Introduced in [[Update "Air Superiority"]], the Challenger 2 OES is very similar to other Challenger 2 tanks. However the increased weight due to the ERA and added composite screens does not include an upgraded engine, which means that the mobility of the Challenger 2 OES is mediocre when compared to earlier Challenger 2s. However, this comes with increased protection against both APFSDS projectiles and ATGMs, the ERA and composite screens are enough to increase the protection against other tanks in critical areas, while they also increase the chances of enemy ATGMs not penetrating the vehicle on the sides of the tank and the turret. However the weak spot in the lower front plate is still present so take that into consideration and hide your hull whenever possible.
+Introduced in [[Update "Air Superiority"]], the Challenger 2 OES is very similar to other Challenger 2 tanks. However, the increased weight due to the ERA and added composite screens does not include an upgraded engine, which means that the mobility of the Challenger 2 OES is mediocre when compared to earlier Challenger 2s. However, this comes with increased protection against both APFSDS projectiles and ATGMs, the ERA and composite screens are enough to increase the protection against other tanks in critical areas, while they also increase the chances of enemy ATGMs not penetrating the vehicle on the sides of the tank and the turret. However, the weak spot in the lower front plate is still present so take that into consideration and hide your hull whenever possible.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
-<!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->'''The Challenger 2 OES, like its predecessors, is renowned for its exceptional armor protection. The tank features Chobham armor, which is one of the most advanced armor technologies, providing substantial protection against a variety of anti-tank weapons.'''
+<!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
 
-==== '''Armor Layout''' ====
-
-* '''Frontal Armor: The Challenger 2's frontal armor is its strongest aspect, capable of withstanding direct hits from most contemporary anti-tank rounds. The turret front and glacis plate are particularly well protected.'''
-* '''Side and Rear Armor: While the sides are robust, especially compared to earlier tank models, they are still vulnerable to modern anti-tank weapons if exposed. The rear armor is the weakest point, susceptible to all forms of anti-tank weaponry.'''
-
-==== '''Key Weak Areas''' ====
-
-* '''Lower Glacis: This area remains a common weak point in many tanks, including the Challenger 2. Hits here can potentially disable the tank or damage internal components.'''
-* '''Rear: The engine and less protected rear aspects make it vulnerable, especially in urban combat scenarios where flanking is possible.'''
-* '''Roof: The roof is thinner compared to the frontal and side armor, making it vulnerable to top-attack weapons.'''
-
-==== '''Crew and Module Layout''' ====
-'''The Challenger 2 typically houses a crew of four: the commander, gunner, loader, and driver.'''
-
-* '''Driver: Located at the front of the hull, slightly offset to the left.'''
-* '''Commander and Gunner: Positioned in the turret with the commander behind and to the right of the gunner.'''
-* '''Loader: Also in the turret, positioned on the left side.'''
-
-'''The placement of these crew members, along with critical modules like the ammunition storage and fuel tanks, is strategic. Ammunition is often stored in blow-out compartments to minimize the risk of catastrophic damage if the tank is penetrated.'''
-
-==== '''Evaluation of Protection''' ====
-
-* '''Level of Armor Protection: The Challenger 2’s armor is highly effective against traditional ballistic threats and offers good resistance against improvised explosive devices and mines. However, the tank's protection against newer anti-tank guided missiles and top-attack munitions is a concern that needs continuous upgrades, such as active protection systems.'''
-* '''Placement of Modules: The design includes several survivability features, such as the separation and armoring of ammunition storage. This layout helps improve crew survival in the event of a penetration by isolating the explosion to specific compartments.'''
-
-'''type:''' <!-- The types of armour present on the vehicle and their general locations -->
+'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -78,33 +54,9 @@ Introduced in [[Update "Air Superiority"]], the Challenger 2 OES is very similar
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|L30A1 (120 mm)}}The Challenger 2 OES is equipped with the L30A1 120mm rifled gun. This artillery piece is noted for its distinctive rifling, which enhances the accuracy and stability of its ammunition.
+{{main|L30A1 (120 mm)}}
 
-Reloading Speed: The L30A1 has a slower reloading speed compared to modern smoothbore guns found on other main battle tanks. This can affect its ability to deliver rapid successive shots.
-
-Ballistics: The rifled design aids in maintaining a tighter spin on the fired shells, improving their trajectory and accuracy over long distances.
-
-Power of Shells: The gun fires a variety of shells including armor-piercing fin-stabilized discarding sabot (APFSDS), high-explosive squash head (HESH), and more. These shells are capable of penetrating modern armor and inflicting significant damage.
-
-Flexibility of Fire: The gun mount and turret provide reasonable agility in targeting. However, the overall speed at which the gun can switch targets and fire is moderated by its mechanical loading system.
-
-Ammunition Types and Usage
-
-The L30A1 uses several types of ammunition:
-
-APFSDS: Ideal for engaging modern armored vehicles at long distances.
-
-HESH: Effective against lighter armored vehicles and for causing internal spalling on heavier armor.
-
-Smoke rounds: Useful for creating smoke screens to cover movements or obscure vision.
-
-Advice on Ammunition Storage and Usage
-
-Ammunition Storage: It is advisable to carry a balanced mix of APFSDS and HESH shells based on the mission profile, with a few smoke rounds for tactical flexibility.
-
-Usage Tips: Utilize APFSDS rounds for long-range engagements against heavily armored targets. Switch to HESH for closer encounters or against buildings and lighter armored vehicles to maximize damage.
-
-''.''
+''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -210,7 +162,6 @@ Usage Tips: Utilize APFSDS rounds for long-range engagements against heavily arm
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_challenger_2_megatron Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -219,7 +170,6 @@ Usage Tips: Utilize APFSDS rounds for long-range engagements against heavily arm
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
 * [[Challenger 2 (Family)]]
 
 == External links ==

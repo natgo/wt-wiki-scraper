@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (日向, [[Abbreviations#.28JP.29_Naval|namesake]]: Hyūga (old) Province) is a rank {{Specs|rank}} Japanese battleship {{Battle-rating}}. It was introduced in [[Update "Hot Tracks"]].
+'''IJN Hyuga''' (日向, [[Abbreviations#.28JP.29_Naval|namesake]]: Hyūga (old) Province) is a battleship of the Imperial Japanese Navy and the second vessel of the Ise class. Commissioned after the end of the First World War, the battleship saw limited action during her service. Notably, she supported Japanese troops during the Siberian Expedition in the Russian Civil War, assisted survivors of the Great Kanto Earthquake, and participated in several battles of the Pacific War during the Second World War. Hyuga was sunk during an American air raid on Kure in July 1945 and was subsequently raised and scrapped in 1946–47.
+
+Introduced in [[Update "Hot Tracks"]], '''{{Specs|name}}''' features an excellent main battery supported by a capable secondary anti-surface armament. However, she struggles with anti-air defences, which can, at best, be described as symbolic, to the point that they would struggle to counter even early inter-war bombers. Her armour protection is average, if not below average for her battle rating, making direct engagements challenging. The vessel is equipped with torpedoes that have an 8 km range, with three tubes on each side of the ship, but as they are fixed, their use is highly situational and should not be relied upon.
 
 == General info ==
 === Survivability and armour ===

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-During its lifetime, Israel employed a large fleet of Centurion tanks that were modified to fit modern NATO equipment such as improved weaponry engine and armour. These vehicles were called Sho't and this specific variant included the more powerful 105 mm Sharir cannon that was very similar to the already in use 105 mm M68 cannon. Compared to previous variants, the most notable upgrade was the introduction of Blazer ERA, the engine and transmission remained the same but the improved armour meant that the vehicle was much more capable of dealing with Soviet threats like RPG's and other tandem-shaped warheads. The vehicle was also further modified into other variants to include more capable fire control systems with thermal imaging system for the gunner and improved commander sights.
+The '''Sho't Kal Gimel''' was the third serial modification of the [[Sho't Kal Alef|Sho't Kal]] series developed based on the British Centurion. The Sho't Kal Gimel modification took place from the late 1970s to the early 1980s. The tank received additional machine guns, new 10-round smoke grenade launchers on the turret sides, and "Blazer" ERA on the hull and turret. This variant was withdrawn from service along with other Sho't Kal variants in 2007.
 
-It was introduced in [[Update "Wind of Change"]]. The '''{{Specs|name}}''' is a modernization of the Israeli fleet of Centurion tanks using NATO equipment, including a new 105 mm cannon, continental engine, and ERA packs. The Sho't Kal Gimel shares similar capabilities to previous Sho't Kal series tanks with better chemical protection and small improvements to the firepower. Being a Centurion, this tank suffers from a lacklustre mobility in a relatively weak engine. While the firepower is good, it lacks the thermal imaging system of other variants of the Sho't. It is still a relatively competitive tank that has a very capable gun depression and the ERA blocks improve the tank survivability against shape warheads like HEAT and ATGMs that start to be very common around this rank.
+Introduced in [[Update "Wind of Change"]], the Sho't Kal Gimel shares similar capabilities to previous Sho't Kal series tanks, but with better chemical protection and small improvements to firepower. Unlike its [[Sho't Kal Alef|predecessor]], it receives a laser rangefinder, smoke grenade launchers, the powerful M111 "Hetz" HEAT round, and "Blazer" ERA, allowing the tank to withstand hits from high-explosive rounds and ATGMs. While the firepower is good, it lacks the thermal imaging system of the [[Sho't Kal Dalet]]. It is still a relatively competitive tank that has very capable gun depression, and the ERA blocks improve tank survivability against shaped-charge warheads like HEAT and ATGMs, which become increasingly common at this rank. In addition, the tank retains good mobility.
 
 == General info ==
 === Survivability and armour ===
@@ -162,7 +162,7 @@ However, this tank does still have some advantages: it has access to APFSDS, alt
 
 * Relatively slow compared to its competitors
 * Slow gun traverse speed
-* Cramped crew and compartment 
+* Cramped crew and compartment
 * low glacis is a huge weakspot that cant protect it against even a decent amount of spaa
 
 == History ==

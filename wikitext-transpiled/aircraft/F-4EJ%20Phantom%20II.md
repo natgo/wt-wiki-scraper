@@ -122,11 +122,11 @@ It was introduced in [[Update 1.97 "Viking Fury"]]. The F-4EJ Phantom II is a ve
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -136,9 +136,9 @@ It was introduced in [[Update 1.97 "Viking Fury"]]. The F-4EJ Phantom II is a ve
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm JM61A1 cannon, chin-mounted (640 rpg)
-** 1 x 20 mm JM61A1 cannon + 90 x countermeasures
+* 1 x 20 mm JM61A1 cannon, chin-mounted (640 rpg)
+* 30 x large calibre countermeasures
+* 60 x countermeasures
 
 Due to this cannon's high rate of fire (only 6.60 seconds of continuous fire), trigger discipline is a must.
 

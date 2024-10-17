@@ -223,10 +223,16 @@ However, like many late-war tanks of Japan, they would never see any battle serv
 {{Youtube-gallery|PosWOnOGkSo|'''Best experimental vehicles''' discusses the {{PAGENAME}} at 2:59 - ''War Thunder Official Channel''|RyA5KcS2hAw|'''Multi-turreted Tanks'''  discusses the {{PAGENAME}} at 4:21  - ''War Thunder Official Channel''|-jmSoAvIsv4|'''The Shooting Range #26''' - ''Metal Beasts'' section at 00:46 discusses the {{PAGENAME}}.}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Other vehicles of similar configuration and role
+* [[File:IJA flag.png|30px|link=]] [[Chi-To (Family)]]
+* [[File:Germany flag.png|30px|link=]] [[Panther tank (Family)]]
+* [[File:USSR flag.png|30px|link=]] [[KV-85]]
+* [[File:USA flag.png|30px|link=]] [[M6A1]]
+* [[File:France flag.png|30px|link=]] [[ARL-44]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

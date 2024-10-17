@@ -241,3 +241,4 @@ The Centurion Stridsvagn series served alongside the domestic Strv 103 design as
 {{Britain medium tanks}}
 {{Britain premium ground vehicles}}
 [[Category:ATGM vehicles]]
+[[Category:Hidden vehicles]]

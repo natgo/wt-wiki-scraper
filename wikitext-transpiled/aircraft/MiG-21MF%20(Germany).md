@@ -180,6 +180,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 3 x 490 l drop tanks
 * 2 x 490 l drop tanks + 64 x countermeasures + 2 x R-3S missiles
 * 2 x 490 l drop tanks + 64 x countermeasures + 2 x R-3R missiles
@@ -196,7 +197,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 
-While the '''{{Specs|name}}''' itself is a pretty mediocre fighter, it has access to 4 deadly R-60 missiles. These missiles work the best when enemy is slow, so the recommended tactic is to wait a bit before engaging into the battle. Acquiring a radar lock will slave the R-60's seeker to the target which can help leading the missile before launch.  
+While the '''{{Specs|name}}''' itself is a pretty mediocre fighter, it has access to 4 deadly R-60 missiles. These missiles work the best when enemy is slow, so the recommended tactic is to wait a bit before engaging into the battle. Acquiring a radar lock will slave the R-60's seeker to the target which can help leading the missile before launch. Pilots may want to consider exchanging 1 or 2 of their R-60s for radar-guided R-3R missiles, as these can be locked on and fired at an unsuspecting opponent in head on engagements. To minimize the time given to enemies to react, aim to launch within 2 kilometers.   
 
 Due to the immense speed bleed in turns, it is strongly recommended to keep the speed high near enemies, unless one really wants to closely meet AIM-9J. Dropping below 800 km/h makes it really hard to dodge this missile. When an enemy is spotted, it is recommended to turn roughly into their direction, so when they engage, they'll have to make a 180° turn, which will give time for MiG pilot to disengage without risking getting hit by a missile.
 

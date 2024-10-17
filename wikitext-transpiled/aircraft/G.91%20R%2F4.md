@@ -10,13 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update 1.87 "Locked On"]] as a [[wt:en/news/6078-development-g-91ys-turning-and-burning-en|pack vehicle]] purchasable in the Gaijin Store, but was removed from sale after the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May Sale]]. It later returned for purchase for Golden Eagles {{ge}} in [[Update "Red Skies"]].
+The '''{{Specs|name}}''' was the successor of the R/3, being a hybrid between the R/1 and R/3. It retained the advanced avionics and pylons of the R/3 but with the 4 Browning MGs from the R/1. Many NATO nations where interested, like Portugal, Greece, Turkey and Germany. However the aircraft competed against American and was only put in service with West Germany and Portugal. The last one to deploy it in most combats, being used in colonial wars in Angola, Mozambique and other Portuguese colonial domains.
 
-The R/4 is a variant of the G.91 jet fighter that has been modified for ground attack, allowing it access to a competitive selection of air-to-ground ordnance such as bombs, rockets, and high-explosive air-to-ground missiles. The R/4 also has the option to equip two different types of air-to-air missiles: the IR-tracking [[AIM-9B Sidewinder]] missile, or the command-guided [[AA-20 Nord]] missile.
-
-The G.91 R/4 is a very nimble fighter with relatively average top speed and fairly good acceleration. Best played as a support fighter, the G.91 R/4 can use its incredible roll and turn rates to quickly get guns on target, as well as to dodge the typically less manoeuvrable fighters that it shares its battle ratings with.
-
-There are few changes between the [[G.91 pre-serie|Pre-serie]], [[G.91 R/1|R/1]], [[G.91 R/3|R/3]] and the [[G.91 R/4|R/4]], with exception of the armament, and this guide can be considered universal for all listed aircraft.
+It was introduced in [[Update 1.87 "Locked On"]] as a [[wt:en/news/6078-development-g-91ys-turning-and-burning-en|pack vehicle]] purchasable in the Gaijin Store, but was removed from sale after the [[wt:en/news/7154-shop-may-sale-in-the-gaijin-store-en|2021 May Sale]]. It later returned for purchase for Golden Eagles {{ge}} in [[Update "Red Skies"]]. The R/4 is a variant of the G.91 jet fighter that has been modified for ground attack, allowing it access to a competitive selection of air-to-ground ordnance such as bombs, rockets, and high-explosive air-to-ground missiles. The R/4 also has the option to equip two different types of air-to-air missiles: the IR-tracking [[AIM-9B Sidewinder]] missile, or the command-guided [[AA-20 Nord]] missile. The G.91 R/4 is a very nimble fighter with relatively average top speed and fairly good acceleration. Best played as a support fighter, the G.91 R/4 can use its incredible roll and turn rates to quickly get guns on target, as well as to dodge the typically less manoeuvrable fighters that it shares its battle ratings with.
 
 == General info ==
 === Flight performance ===
@@ -178,6 +174,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 4 x 12.7 mm M3 Browning machine guns (300 rpg = 1,200 total)
 * 2 x 12.7 mm M3 Browning machine gun + 4 x AA-20 Nord missiles
 * 4 x 12.7 mm M3 Browning machine guns + 4 x AIM-9B Sidewinder missiles

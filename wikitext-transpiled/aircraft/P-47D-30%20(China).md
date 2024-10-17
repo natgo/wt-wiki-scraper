@@ -42,7 +42,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear
 |-
-| ✓ || ✓ || ✓ || X || X     <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || X     <!-- ✓ -->
 |-
 |}
 
@@ -57,7 +57,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese fighter {{Battle-ratin
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 498 || 469 || 320 || ~13 || ~5
+| 885 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 498 || 469 || 320 || ~13 || ~5
 |-
 |}
 
@@ -158,7 +158,7 @@ As for dogfighting, because almost all aerial battles in Sim occurs at below 3,0
 ==== Against the P-47D-28 ====
 '''Turnfighter''': for dedicated turn fighters such as A6M5 and Spitfire, the key is patience. If you are at a higher altitude than the P-47, follow above and/or behind it so it cannot get far away for a climbing session. Then, although you are a turn fighter, perform Boom and Zoom (BnZ) on it, but watch out for your speed as a turn fighter may rip a wing apart or have their control surfaces compressed when diving at high speed. The P-47 cannot really pull any agile defensive manoeuvre due to its weight. If it enters a steep dive in an attempt to get away from your attack, do not follow. The P-47D can accelerate up to ~800 km/h while still being responsive, a speed turn fighters cannot even dream of. Gradually decrease your altitude when the Jug gets out of the dive, then BnZ it again. If the P-47 is higher than you and BnZ you, patience comes into play. Roll and turn under its negative G area to force its shots to miss. If it does not zoom away and instead tries to pull off more shots, use your superior turn rate and get on its tail. If it does zoom away, be prepared for a few more passes. As you dodge, turn towards your teammates as they might be able to help. If your plane performs great at low altitude (eg. La-5), lure it closer and closer to the deck with each dodge.
 
-'''Strike aircraft/bomber''': the bad news is, unless your aircraft is extremely robust, well-armed or fast (eg. BV 238 or Ju 288), there is not much you can do to counter a diving P-47D. Its 8x .50 cals will easily rip your plane apart, and some Jug pilots may open fire from very far away, for example when they are still 900 m away. Their 12.7 mm bullets inflict damage really well even over distance and thus can seriously incapacitate a target regardless of distance. If a P-47 somehow is staying on your tail, do not hesitate to put an accurate burst into its huge radial engine. With engine/cooling systems damaged, most pilots will choose to bank away.
+'''Strike aircraft/bomber''': the bad news is, unless your aircraft is extremely robust, well-armed or fast (eg. BV 238 or Ju 288), there is not much you can do to counter a diving P-47D. Its 8 x .50 cals will easily rip your plane apart, and some Jug pilots may open fire from very far away, for example when they are still 900 m away. Their 12.7 mm bullets inflict damage really well even over distance and thus can seriously incapacitate a target regardless of distance. If a P-47 somehow is staying on your tail, do not hesitate to put an accurate burst into its huge radial engine. With engine/cooling systems damaged, most pilots will choose to bank away.
 
 '''Enemies worth noting:'''
 
@@ -191,13 +191,13 @@ As for dogfighting, because almost all aerial battles in Sim occurs at below 3,0
 * Powerful engines provides excellent flatline acceleration, resulting into good climb rate and overall flight performance
 ** Great handling at medium-to-high speed, both vertical and horizontal
 ** Excellent at boom-and-zoom and zoom climbing due to great diving acceleration and climbing
-* Has eight Browning MG with an access to the dreaded API-T belts in addition to suspended armaments, can be used both as a fighter and attacker 
+* Has eight Browning MG with an access to the dreaded API-T belts in addition to suspended armaments, can be used both as a fighter and attacker
 * Fairly resilient airframe, capable of taking some punishments
 * Bubble cockpit provides great visibility in Simulator
 
 '''Cons:'''
 * Its large engine were prone to being set on fire, especially in head-ons
-* Large and heavy for a fighter, will bleed a considerable amount of energy with any manoevers and results into very poor low-speed handling
+* Large and heavy for a fighter, will bleed a considerable amount of energy with any manoeuvres and results into very poor low-speed handling
 * Engine can overheat quickly if you constantly use WEP
 * Machine guns are mounted very far apart, can be somewhat tricky to aim at range or while turning
 
@@ -216,7 +216,7 @@ After World War II, the Chinese Nationalist Air Force received 102 P-47Ds used d
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p-47d_30_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|05gm5vYQczw|'''Death from Above! P-47D-28 Thunderbolt - China'''  - ''Jengar''|yHuUGzezChI|'''Best after-party picks''' discusses the {{PAGENAME}} at 1:23 - ''War Thunder Official Channel''|x7ZqjJx-lyI|'''How to Stock Grind feat. Chinese P-47D-28''' - ''Napalmratte''|t3xD7JpnHeI|'''Best aircraft for Boom & Zoom''' discusses the {{PAGENAME}} at 3:34 - ''War Thunder Official Channel''}}
+{{Youtube-gallery|05gm5vYQczw|'''Death from Above! P-47D-28 Thunderbolt - China''' - ''Jengar''|yHuUGzezChI|'''Best after-party picks''' discusses the {{PAGENAME}} at 1:23 - ''War Thunder Official Channel''|x7ZqjJx-lyI|'''How to Stock Grind feat. Chinese P-47D-28''' - ''Napalmratte''|t3xD7JpnHeI|'''Best aircraft for Boom & Zoom''' discusses the {{PAGENAME}} at 3:34 - ''War Thunder Official Channel''}}
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

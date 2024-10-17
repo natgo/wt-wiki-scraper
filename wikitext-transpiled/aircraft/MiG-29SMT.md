@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 By the turn of the millennium, the Russian VVS had fallen behind its adversaries again in terms of air power, due to the financial issues of post-Soviet Russia. With lack of funding resulting in the failure of the Mikoyan MFI and the MiG 1.44 program to produce a 5th generation frontline fighter to replace the MiG-29, a new aircraft was required to act as a counter to the latest [[F-16 (Family)|F-16]] variants and new Eurocanard fighters such as the Typhoon, Rafale, and Gripen. RSK MiG decided to restart development of their MiG-29SMT (9.17) from the mid-90s, and presented the idea of a MiG-29 modernized for the 21st century to the Russian government. With the cost savings of updating an older airframe being the main advantage, the development of the MiG-29SMT was greenlit, and the MiG-29SMT was heavily updated and upgraded into the 9.18 and 9.19 variants. To recoup some of the development costs, both variants were almost exclusively intended for export, with a special and slightly downgraded variant of the 9.19 created exclusively for the Russian VVS to save costs. The development of the 9.19 was finalized in 2006 with pre-production aircraft performing regular test flights and air-show demonstrations to attract foreign buyers. In the following years, the MiG-29SMT (9.19) would enter mass production where it would find homes with the Russian VVS, the Algerian Air Force, and the Syrian Arab Air Force.
 
-The '''{{Specs|name}}''', introduced in [[Update "Sons of Attila"]], brings a new taste to a formidable beast that most top-rank pilots in War Thunder are familiar with. While the flight performance feels significantly worse than its predecessor, the [[MiG-29|MiG-29 (9.13)]], the new MiG-29SMT brings to the table a completely game-changing set of weaponry, including some of the best air-to-air missiles in the game such as the R-73 and R-27E family. This, combined with the upgraded avionics, radar, and upgraded assortment of guided ground ordnance for precision CAS, makes the MiG-29SMT a very dangerous and formidable aircraft in the top ranks of War Thunder.
+The '''{{Specs|name}}''', introduced in [[Update "Sons of Attila"]], brings a new taste to a formidable beast that most top-rank pilots in War Thunder are familiar with. While the flight performance feels significantly worse than its predecessor, the [[MiG-29|MiG-29 (9.13)]], the new MiG-29SMT brings to the table a completely game-changing set of weaponry, including some of the best air-to-air missiles in the game such as the R-73 and R-27E family as well as the R-77s. This, combined with the upgraded avionics, radar, and upgraded assortment of guided ground ordnance for precision CAS, makes the MiG-29SMT a very dangerous and formidable aircraft in the top ranks of War Thunder.
 
 == General info ==
 === Flight performance ===
@@ -137,7 +137,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
 ** 1 x 30 mm GSh-30-1 cannon, cheek-mounted (150 rpg) + 60 x countermeasures
-** 1 x 30 mm GSh-30-1 cannon + 60 x countermeasures + 56 x large calibre countermeasures
+** 1 x 30 mm GSh-30-1 cannon + 56 x large calibre countermeasures + 60 x countermeasures
 
 Compared to the basic MiG-29, the SMT is capable of mounting supplementary large calibre countermeasures for better self-protection.
 
@@ -203,6 +203,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[R-73]] missiles
 | 1 || 1 || 1 || || 1 || 1 || 1
 |-
+! [[R-77]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
 ! 2,000 l drop tanks
 | || || || 1 || || ||
 |-
@@ -214,12 +217,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 1 x 2,000 l drop tank
-* 2 x R-73 missiles
+* 2 x R-73 missiles + 2 x R-77 missiles
 * 6 x R-73 missiles
 * 2 x R-27T missiles
 * 2 x R-27R missiles
 * 2 x R-27ET missiles
 * 2 x R-27ER missiles
+* 6 x R-77 missiles
 * 80 x S-8KO rockets
 * 20 x S-13OF rockets
 * 2 x Kh-29TD missiles
@@ -247,6 +251,10 @@ While the MiG-29SMT has reduced manoeuvrability from the added fuel tank compare
 When it comes to BVR, the MiG-29SMT dominates with the R-27ER missiles that have long range and acceptable overload, and its powerful radar that has a lot of special features and acceptable range. This, along with the new SPO-150 RWR that increases situational awareness by giving information about the exact vehicle that's pinging the MiG-29SMT, makes it perfect for BVR combat.
 
 The MiG-29SMT is also strong in close-range engagements. It carries the R-73, which is an extremely effective heat-seeking missile with 40G overload and great range for its type. You'll want to use it in unpredictable ways where the enemy won't expect it to track reliably to avoid being flared away by using the missile's wide gimbal limits.
+
+While the recently added [[R-77]] isn't a strong of a BVR missile as the [[R-27ER]], the MiG-29SMT proves to be a great platform for it. The maneuverability coupled with its extended range essentially makes it a "longer ranged [[R-73]]". the best way to use them is to try to shoot at targets that are flying relatively fast (around 800 m/s relative closing speed) and at 20 to 25 kms. Farther shots are not worth it as the R-77 is not as long ranged as its competitors unless you are flying very fast at very high altitudes and your targets appears unmoving or unaware.
+
+Due to the higher speed bleed of the MiG-29SMT compared to the [[Su-27SM]] and its contemporaries, it is better to fly it at low to medium altitudes (up to 3000 metres) where the denser air will allow you to turn without losing too much speed and provide your engines with better thrust to accelerate away. Higher altitude flight paths can be attempted, just be extremely careful.
 
 '''CAS (Close Air Support)/Ground Attack'''
 

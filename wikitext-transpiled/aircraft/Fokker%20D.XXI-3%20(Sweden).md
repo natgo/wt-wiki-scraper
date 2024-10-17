@@ -161,5 +161,5 @@ In dogfights, use your superior turn time to get an advantage over opponents. Ke
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-{{AirManufacturer Fokker}}
+{{AirManufacturer VL}}
 {{Sweden fighters}}

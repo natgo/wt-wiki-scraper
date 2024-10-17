@@ -159,12 +159,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Shafrir 2]] missiles
 | 1 || || 1
 |-
+! 880 l drop tanks
+| || 1 ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 1 x 880 l drop tank
 * 2 x Shafrir 2 missiles
 * 2 x AIM-9D Sidewinder missiles
 * 1 x Matra R530 missile

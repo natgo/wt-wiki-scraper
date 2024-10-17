@@ -136,7 +136,7 @@ Other than the airframe and alloy skins, the F-16 MLU has no extra protection fo
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 1 x 20 mm M61A1 cannon, wing root-mounted (512 rpg)
-* 90 x countermeasures
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -182,7 +182,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 370 gal drop tanks + 1 x 300 gal drop tank
-* 2 x AIM-9P Sidewinder missiles
+* 2 x AIM-9P Sidewinder missiles + 2 x AIM-7M Sparrow missiles
 * 6 x AIM-9P Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles
 * 2 x AIM-7M Sparrow missiles
@@ -216,7 +216,6 @@ The introduction of the F-16A MLU means the Chinese tech tree finally has the up
 * Impressive payload for interception missions with up to 6 x AAMs
 * Impressive manoeuvrability at almost all speeds
 * Equipped with a drogue chute for shorter landing distance
-* Has 90 countermeasures unlike the 60 found on other early F16 variants
 
 '''Cons:'''
 

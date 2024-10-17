@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Meteor F Mk.8 was a jet aircraft designed by Britain as an upgrade of the Meteor family. During the 1950s, Israel tried to obtain more jet aircraft due to the arms race happening in the region. 11 Meteors of the Mk.8 variant where delivered to Israel between 1953 and 1954. These units would be part of several squadrons, participating in the Suez Crisis and later being retired from frontline duties in 1956. After that it would be used as a trainer aircraft for the next years.
+The Meteor F Mk.8 was a jet aircraft designed by Britain as an upgrade of the Meteor family. During the 1950s, Israel tried to obtain more jet aircraft due to the arms race happening in the region. 11 Meteors of the Mk.8 variant were delivered to Israel between 1953 and 1954. These units would be part of several squadrons, participating in the Suez Crisis and later being retired from frontline duties in 1956. After that it would be used as a trainer aircraft for the next years.
 
 It was introduced in [[Update "Winged Lions"]] alongside the initial Israeli air tech tree. It plays as a support/frontline fighter, with great acceleration and good low speed manoeuvrability. Having good awareness is crucial to staying alive on the battlefield, picking fights that you know you can win.
 

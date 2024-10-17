@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}''' , alongside with its [[MiG-9 (China)|earlier variant]], was the very first jet aircraft arrived at China and the first jet for PLAAF by 1950. To quickly upgrade PLAAF for the upcoming Korean War and the dire need for major cities air-defense operations from Nationalist bombers, VVS transferred 9 divisions of MiG-9 series to PLAAF which also made the officials decided to purchase extra MiG-9 to arm the air force. The aircraft was deemed sufficient to handle earlier jets such as F-84B or F-80 series, soon after the introduction of state-of-the-art F-86 series in USAF service and the eventual introduction of MiG-15 in PLAAF service, these MiG-9s were soon retired from frontline and served as PLAAF's jet "lead-in trainer" before their ultimate decommission in 1959.
+
+Introduced in [[Update 1.91 "Night Vision"]] with the initial Chinese aviation tech tree, the aircraft shares identical performance to its Soviet counterpart; while the new engine with WEP mode certainly helps its acceleration, players would still have to keep extra caution on their speeds and any unwelcomed third-party during a dogfight - a careless jet can be an easy prey for even a propeller aircraft.
 
 == General info ==
 === Flight performance ===

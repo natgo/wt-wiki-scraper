@@ -169,6 +169,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Large calibre countermeasures
 | 28 || || || || || || || || || || 28
 |-
+! Large calibre chaff
+| 340 || || || || || || || || || || 340
+|-
 ! LITENING II targeting pod
 | || || || || || || || 1<sup>†</sup> || || ||
 |-
@@ -183,7 +186,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 1,500 l drop tanks
-* 56 x large calibre countermeasures
+* 56 x large calibre countermeasures + 680 x large calibre chaff
 * 2 x AIM-9L Sidewinder missiles
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
@@ -196,9 +199,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-There are multiple ways to use the Tornado in ARB, one tactic is to stick to the team and try and give support with your AIM-9Ls on your way to the enemy bases and/or ground targets. This gives you the advantage of team cover and a bit of safety, although you will undoubtedly be in the midst of battle once enemy interceptors and fighters reach your team. The other tactic would be to go full throttle directly to the enemy bases while keeping extremely low to the ground to decrease your chances of being spotted visually or by radar. While this leaves you mostly alone and isolated from the possible support of your team, you will be able to take a more direct route to your main target, meaning you'll be able to evade any slower or unsuspecting enemies. Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance is not suited to it and you'll most likely be shot down very quickly. So keep in mind that although the Tornado is fast, its not very manoeuvrable at high speed so try to avoid faster enemies such as the [[F-16 (Family)|F-16]] or the [[F-14A Early|F-14]]. In the case of 1-to-1 confrontation the best option is to simply hope you are faster and run away, against capable fighters like the MiG-23, F-16, MiG-29, Viggen, F-14, and Mirage 2000 you don't stand a chance, unless the enemy pilot is extremely inexperienced. With countermeasures you are able to survive for longer if you can time their use and can dodge without losing too much of your speed. 
+There are multiple ways to use the Tornado in ARB, one tactic is to stick to the team and try and give support with your AIM-9Ls on your way to the enemy bases and/or ground targets. This gives you the advantage of team cover and a bit of safety, although you will undoubtedly be in the midst of battle once enemy interceptors and fighters reach your team. The other tactic would be to go full throttle directly to the enemy bases while keeping extremely low to the ground to decrease your chances of being spotted visually or by radar. While this leaves you mostly alone and isolated from the possible support of your team, you will be able to take a more direct route to your main target, meaning you'll be able to evade any slower or unsuspecting enemies. Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance is not suited to it and you'll most likely be shot down very quickly. So keep in mind that although the Tornado is fast, its not very manoeuvrable at high speed so try to avoid faster enemies such as the [[F-16 (Family)|F-16]] or the [[F-14A Early|F-14]]. In the case of 1-to-1 confrontation the best option is to simply hope you are faster and run away, against capable fighters like the MiG-23, F-16, MiG-29, Viggen, F-14, and Mirage 2000 you don't stand a chance, unless the enemy pilot is extremely inexperienced. With countermeasures you are able to survive for longer if you can time their use and can dodge without losing too much of your speed.
 
-; Ground Battles 
+; Ground Battles
 
 This variant of the Tornado works best when performing high-speed precision strikes. Although the unguided 1000 lb bombs are more than sufficent for this role, the guided munitions combined with the thermal imaging pod can be used to compensate for the former's relative low explosive yield. In both cases, the FLIR pod automatically creates a drop point for the CCRP system, requiring no line of sight once the target is acquired and the plane is on approach, allowing it to stay at a treetop level, outside the reach of SPAAs. On top of this, the guided bombs glide towards their target and can be used against moving targets, at the expense of having to keep the target in the FLIR's field of view.
 
@@ -220,8 +223,8 @@ Probably the most effective deterrent in the game against air support, the [[Pan
 ** Higher bomb load and speed than SU-22
 * Mauser BK27 guns have decent hitting power and ammunition capacity
 * Laser-guided munitions give it a good ground attack capability
-* Can work as a figther when necessary
-** Variable wing sweep allows it to turn better when at low speeds, or during an emergency at high speed (at the risk of destroying itself) 
+* Can work as a fighter when necessary
+** Variable wing sweep allows it to turn better when at low speeds, or during an emergency at high speed (at the risk of destroying itself)
 ** Radar assisted gun makes intercepting incoming or leaving planes easier
 
 '''Cons:'''

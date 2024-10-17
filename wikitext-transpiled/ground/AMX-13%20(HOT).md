@@ -186,6 +186,7 @@ The AMX-13 should be played as a scout or as an ATGM sniper. Be aware of your zo
 
 '''Cons:'''
 
+* Missiles oscillate up and down multiple times around aim point, very difficult to aim below 700 m
 * Since ATGMs are stored outside the tank turret, stray artillery shells can hit and detonate ammo
 * Horrendous gun performance at top tier, you will be unable to penetrate almost all enemies frontally
 * Long replenishment time for the autoloader after the 12 shots have been spent

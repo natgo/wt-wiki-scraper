@@ -159,9 +159,9 @@ File:Ammoracks OF-40 Mk.2a (2).png|Ammoracks 10-12
 
 With an upgraded 1,000 hp engine, the OF-40 (MTCA) is more manoeuvrable, similarly to other third generation main battle tanks. The OF-40 (MTCA) will get you to a better position than the rest of the tanks if not in an uptier situation.
 
-The main weaponry on this tank is the same as the [[Leopard (Family)|Leopard family]]. DM23 APFSDS shells are recommended for engaging armoured targets while you should also carry several M456 HEATFS and M416 smoke shells for special purposes.
+The main weaponry on this tank is the same as the [[Leopard 1 (Family)|Leopard I family]]. DM23 APFSDS shells are recommended for engaging armoured targets while you should also carry several M456 HEATFS and M416 smoke shells for special purposes.
 
-The armour is not upgraded from the rest of OF-40 family. Although the OF-40 family has spaced armour all around the turret, you will not want to use this feature. While it is significantly more effective than the Leopard 1's turret armour, all main battle tanks can still penetrate you from all angles with ease using kinetic energy shells. The hull is as fragile as other Leopards, which is another reason why you don't want to take a shot.
+The armour is not upgraded from the rest of OF-40 family. Although the OF-40 family has spaced armour all around the turret, you will not want to use this feature. While it is significantly more effective than the Leopard 1's turret armour, all main battle tanks can still penetrate you from all angles with ease using kinetic energy shells. The hull is as fragile as other Leopards I, which is another reason why you don't want to take a shot.
 
 Although the OF-40 (MTCA) has night vision devices, it lacks thermal sights for both the gunner and the commander. You might want to get in cover such as bushes and buildings first before opening fire. Avoid sitting in the opening at all time, always get in cover after shooting.
 

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-'''RN Aquila''' was laid down in Naples as ''Vifor'' for the Romanian Navy on 11 March 1914. After the outbreak of WWI, she and her sister ships were seized by Italy in May 1915; she was completed and launched as scout cruiser RN Aquila on 26 July 1916, and assigned to the 3°Gruppo Esploratori of the 4th Division, reporting to the Superior Naval Command at Brindisi. Her first action took place on 15 May 1917, taking part in a battle together with other Italian and British vessels against 3 Austro-Hungarian Novara-class scout cruisers and accompanying ships, during which she was hit by a shell from destroyer Csepel and immobilised. In the last months of WWI, she was also used as a support unit for the bombardment of Durazzo. On 14 September 1922, she was taken to the Arsenal in Naples and later to the Castellammare di Stabia shipyards for work. On 11 October 1937, she was secretly handed over to the Spanish Nationalist Navy and renamed ''Melilla''.
+The '''RN Aquila''' was laid down in Naples as ''Vifor'' for the Romanian Navy on 11 March 1914. After the outbreak of WWI, she and her sister ships were seized by Italy in May 1915; she was completed and launched as scout cruiser RN Aquila on 26 July 1916, and assigned to the 3°Gruppo Esploratori of the 4th Division, reporting to the Superior Naval Command at Brindisi. Her first action took place on 15 May 1917, taking part in a battle together with other Italian and British vessels against 3 Austro-Hungarian Novara-class scout cruisers and accompanying ships, during which she was hit by a shell from destroyer Csepel and immobilised. In the last months of WWI, she was also used as a support unit for the bombardment of Durazzo. On 14 September 1922, she was taken to the Arsenal in Naples and later to the Castellammare di Stabia shipyards for work. On 11 October 1937, she was secretly handed over to the Spanish Nationalist Navy and renamed ''Melilla''.
 
-Introduced in [[Update "Fire and Ice"]], RN Aquila shines in her use of 152 mm guns and AP shells at a low battle rating. Her armament is quite good against enemy destroyers, but she lacks the anti-aircraft armament to be effective against aerial targets. Her manoeuvrability and speed is decent, but her survivability is poor with minimal armour.
+Introduced in [[Update "Fire and Ice"]], '''{{Specs|name}}''' shines in her use of 152 mm guns and AP shells at a low battle rating. Her armament is quite good against enemy destroyers, but she lacks the anti-aircraft armament to be effective against aerial targets. Her manoeuvrability and speed is decent, but her survivability is poor with minimal armour.
 
 == General info ==
 === Survivability and armour ===
@@ -62,21 +62,18 @@ Introduced in [[Update "Fire and Ice"]], RN Aquila shines in her use of 152 mm g
 ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+'''Pros:'''
 
-* 152mm Cannons with SAP and AP at low tier
-* Adeguate manouvrability and speed
+* 152 mm Cannons with SAP and AP at low tier
+* Adequate manoeuvrability and speed
 * Good secondary armament for enemy coastal boats
-
-*
 
 '''Cons:'''
 
 * No anti-air Armament
 * Mediocre survivability
 * Slow reload speed of the primary armament
-
-*
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

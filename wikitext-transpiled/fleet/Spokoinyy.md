@@ -150,6 +150,8 @@ Absolutely no battleship should be engaged with the 130 mm as the cannons are in
 
 '''Cons:'''
 
+
+* Guns aren't the most accurate even with the rangefinder
 * Lacking in protection against enemy gunfire
 * Small number of crewmen
 * Ready racks have to load up again when all of the shells have been fired (takes approx. 2 minutes)

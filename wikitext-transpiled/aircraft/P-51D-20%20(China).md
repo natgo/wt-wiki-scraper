@@ -37,7 +37,7 @@ This P-51D-20 operated by the Republic of China Air Force is largely the same as
 |-
 |}
 
-The P-51D-20 is the first Mustang available in the Chinese tech tree. As expected, it has a sleek airframe and laminar-flow wings that give it good diving and high-speed characteristics. It picks up speed readily in shallow dives and maintains roll and elevator control at high IAS. In Realistic battles, the rudder may perform poorly at high speeds due to the behavior of the instructor, which is an issue with all -D series Mustangs. Low speed performance is substandard and both the turn and roll rates are below average at low to medium IAS. 
+The P-51D-20 is the first Mustang available in the Chinese tech tree. As expected, it has a sleek airframe and laminar-flow wings that give it good diving and high-speed characteristics. It picks up speed readily in shallow dives and maintains roll and elevator control at high IAS. In Realistic battles, the rudder may perform poorly at high speeds due to the behavior of the instructor, which is an issue with all -D series Mustangs. Low speed performance is substandard and both the turn and roll rates are below average at low to medium IAS.
 
 The P-51D-20's engine is not quite strong enough to compensate for the weight of the plane. A 31 minute minimum fuel load contributes to this issue. The climb rate is decent once spaded but not impressive. Vertical energy retention and horizontal acceleration are not great, so hard vertical manoeuvres should be done with caution and chasing after enemies a similar altitudes without the aid of residual dive speed can be difficult.
 
@@ -138,7 +138,16 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="4%" | 1 !! width="4%" | 2 !! width="4%" | 3 !! width="4%" | 4 !! width="4%" | 5 !! width="4%" | 6 !! width="4%" | 7 !! width="4%" | 8 !! width="4%" | 9 !! width="4%" | 10
-| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_P-51D-5.png]]</div>
+| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_P-51D-5.png]]</div>
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| || || || 1 || || || 1 || || ||
+|-
+! [[AN-M57 (250 lb)|250 lb AN-M57]] bombs
+| || || || 1 || || || 1 || || ||
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || || || 1 || || || 1 || || ||
 |-
 ! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
 | || || || 1 || || || 1 || || ||
@@ -159,6 +168,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Without load
 * 6 x M8 rockets
 * 10 x HVAR rockets
+* 2 x 100 lb AN-M30A1 bombs (200 lb total)
+* 2 x 250 lb AN-M57 bombs (500 lb total)
+* 2 x 500 lb AN-M64A1 bombs (1,000 lb total)
 * 2 x 1,000 lb AN-M65A1 bombs (2,000 lb total)
 {{Navigation-End}}
 
@@ -168,7 +180,7 @@ The 6 x M8 rockets are largely ineffective. A direct hit is practically required
 
 The 6 x HVAR rockets are the recommended rocket loadout, as they are improved over the M8s in almost every regard. The higher velocity of 420 m/s can make the HVARs easier to aim at mid-to-long ranges. Not only that, but the higher penetration of 36 mm is able to punch through much thicker armour to do more reliable damage. The explosive mass of 3.4 kg of TNT is also much more devastating to both light targets and armoured targets, allowing damage to unarmoured targets even without a direct hit, and doing much more damage to enemy vehicles when directly hit as well. For a pilot who prefers rockets to bombs, HVARs will not disappoint and can result in several vehicle knockouts when aimed well.
 
-The 2 x 1,000 lb bomb loadout is very effective against armoured ground targets. The high explosive mass of 240.4 kg TNT equivalent allows up to 113 mm of armour penetration and a destruction radius of 12 m. This means that even if the bombs aren't dropped exactly on or near the target there is still a large chance of doing critical damage or knocking out the vehicle entirely. Against lightly armoured targets these bombs can hull break them even if not dropped right on them. The downside to the bomb loadout is that both bombs drop together, so only one bomb drop per flight is achievable; only one destruction can be scored unless multiple targets are grouped closely together. 
+The 2 x 1,000 lb bomb loadout is very effective against armoured ground targets. The high explosive mass of 240.4 kg TNT equivalent allows up to 113 mm of armour penetration and a destruction radius of 12 m. This means that even if the bombs aren't dropped exactly on or near the target there is still a large chance of doing critical damage or knocking out the vehicle entirely. Against lightly armoured targets these bombs can hull break them even if not dropped right on them. The downside to the bomb loadout is that both bombs drop together, so only one bomb drop per flight is achievable; only one destruction can be scored unless multiple targets are grouped closely together.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

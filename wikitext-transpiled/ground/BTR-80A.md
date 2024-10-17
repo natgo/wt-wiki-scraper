@@ -18,13 +18,15 @@ The '''{{Specs|name}}''', introduced in [[Update "La Royale"]], follows the tren
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+Despite being a light tank, the armour of the BTR-80 is not to be underestimated. The frontal armour is capable of saving you from coaxial and roof-mounted MG's of tanks such as rank IV and V [[Leopard (Family)|Leopards]], and opponents such as early American MBT's (e.g. [[MBT-70]]). A notably much more dangerous opponent would be American and German 20 mm and above autocannons, but even against these the BTR-80 can provide some protection. Notable armoured spots include turret cheeks, a portion of the upper hull right above the driver/commander optics, and a portion of the lower hull right below the frontal structural steel. So although it is best to avoid being shot at, the BTR-80's armour can provide effective protection against most coaxial and roof mounted MG's and some autocannons. Though it is worth noting that autocannons can penetrate the BTR-80 nearly anywhere if shot from the side.
 
 '''Armour type:'''
 <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+
 * High hardness rolled armor (Front, sides, rear, roof, turret)
+
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
@@ -119,7 +121,9 @@ While quite large and somewhat heavier than most other light IFVs such as the Wi
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The BTR-80A works very well as a flanker, the great speed allows it to get a jump on any light vehicles intending to do the same, however its lack of armor makes it prone to oneshots, especially as many modern light tanks have HEAT rounds by default. Most medium tanks you find will be completely impenetrable from the front, requiring you to either ambush them from the sides, or incapacitate them by destroying their gun and tracks before moving to their vulnerable sides. Despite this the BTR is still vulnerable to machine gun fire, making an ambush on a group of enemies, even from a side, ill-advised, unless you can dispatch them quickly.
+
+Although it is not its main purpose, the BTR-80A, especially with its HE rounds, is able to shoot down enemy planes quite easily. But its lack of radar, armor, relatively slow gun handling and limited ammo makes it unsuitable for a dedicated AA role.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -130,6 +134,7 @@ While quite large and somewhat heavier than most other light IFVs such as the Wi
 ** APDS is great for fighting against light vehicles and MBTs' sides
 * Fairly mobile and thus very good at flanking
 * Amphibious
+* Quiet engine
 
 '''Cons:'''
 

@@ -31,7 +31,7 @@ As mentioned constantly, the {{PAGENAME}} has excellent turn-fighting, climbing,
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 550 || 534 || rowspan="2" | {{Specs|ceiling}} || 15.9 || 16.5 || 16.0 || 16.0 || rowspan="2" | 300
+| 549 || 532 || rowspan="2" | {{Specs|ceiling}} || 15.9 || 16.5 || 16.0 || 16.0 || rowspan="2" | 300
 |-
 ! Upgraded
 | 597 || 571 || 14.4 || 15.1 || 23.9 || 19.4

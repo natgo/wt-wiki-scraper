@@ -116,6 +116,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 9 x 100 kg FAB-100sv bombs (900 kg total)
 * 4 x 250 kg FAB-250sv bombs (1,000 kg total)
@@ -176,12 +177,12 @@ When bombing anything, note that the center of the reticle should be aimed below
 * High wing rip speed (over 700 km/h)
 * Air spawn in RB.
 * Very easy to land and take-off
-* Decent payload, 500 kg bombs are very useful in tank RB
+* Easy to drop bombs from steep approaches
+* Very good payload, 1000 kg bombs are very useful in ground RB
 * Forward-firing ShVAK cannons, can be useful in a head-on engagement
 * Twin tail design leaves little restriction on back gunners
 * Decently agile for its size
 * Guaranteed to put out fires on fuel tanks due to pressurized gas system
-* Very efficient in taking out individual ground targets
 * Individual bomb drops, very effective in tank battles
 * Engines can cool down even with a 100% throttle
 * Can pretty much WEP indefinitely
@@ -225,6 +226,7 @@ After its combat debut, the Tu-2 received high accolades. It was praised for thi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tu-2_early Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -108,7 +108,7 @@ Trees and smokes can completely block IRST system - if you cannot see your oppon
 
 
 {| class="wikitable" style="text-align:center"
-! colspan="5" | Thales ADAD - Passive Infared Search
+! colspan="5" | Thales ADAD - Passive Infrared Search
 |-
 ! {{Annotation|Maximum<br/>Detection<br/>Range|The maximum possible range at which a target can be detected}}
 ! {{Annotation|Minimum<br/>Detection<br/>Range|The range, below which, a target cannot be detected}}
@@ -118,7 +118,7 @@ Trees and smokes can completely block IRST system - if you cannot see your oppon
 |-
 | ~8,000 m || N/A || 360° || -__°/+__° || N/A
 |-
-! colspan="5" | Thales ADAD - Passive Infared Track
+! colspan="5" | Thales ADAD - Passive Infrared Track
 |-
 ! {{Annotation|Maximum<br/>Tracking<br/>Range|The maximum range at which a target can be tracked}}
 ! {{Annotation|Minimum<br/>Tracking<br/>Range|The range below which targets cannot be tracked by the radar}}

@@ -1,12 +1,12 @@
 {{Specs-Card
 |code=sbd-3
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 |cockpit=cockpit_sbd-3.jpg
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The SBD Dauntless was the workhorse of the US Navy, serving from 1940 all the way to late 1944 as the main carrier-based dive bomber. It replaced the SBC Helldiver and SBU Corsair aboard US carriers. Featuring a range of about 1,700 km, and quite heavy armaments for its size and role - two 12.7 mm Browning M2 machine guns in the engine cowling and a bomb load of up to 2,250 lbs, it was very versatile plane. The SBD participated in many battles in the Pacific theatre, and achieved successes such as the sinking of Japanese aircraft carrier Shōhō during the Battle of the Coral Sea in May 1942. Its biggest success was during the Battle of Midway in June 1942, when SBD bombers sank four aircraft carriers, namely Akagi, Kaga, Sōryū, and Hiryū. By 1944, the SBD was slowly being replaced by the faster and more modern SB2C Helldiver. Foreign users included the Royal Navy, Free French Air Force, Mexico, Chile, and Morocco.
+The '''SBD Dauntless''' was the workhorse of the US Navy, serving from 1940 all the way to late 1944 as the main carrier-based dive bomber. It replaced the SBC Helldiver and SBU Corsair aboard US carriers. Featuring a range of about 1,700 km, and quite heavy armaments for its size and role - two 12.7 mm Browning M2 machine guns in the engine cowling and a bomb load of up to 2,250 lbs, it was very versatile plane. The SBD participated in many battles in the Pacific theatre, and achieved successes such as the sinking of Japanese aircraft carrier Shōhō during the Battle of the Coral Sea in May 1942. Its biggest success was during the Battle of Midway in June 1942, when SBD bombers sank four aircraft carriers, namely Akagi, Kaga, Sōryū, and Hiryū. By 1944, the SBD was slowly being replaced by the faster and more modern SB2C Helldiver. Foreign users included the Royal Navy, Free French Air Force, Mexico, Chile, and Morocco.
 
 In War Thunder since the start of the Open Beta Test, the '''{{Specs|name}}''' is one of the first bombers in the American aviation tech tree. It features an airspawn allowing for quick bombing runs out of reach of enemy fighters, as your bombs are dropped before the fighters can climb up to your altitude. The heavy armament compared to contemporaries found in other tech trees allows for engaging enemy fighters using altitude advantage or, after installation of the DGP-1 machine gun pods, engaging enemy medium and heavy bombers such as Fw 200s, He 111s or Ju 88s. Despite being a bomber, SBD is also quite a manoeuvrable aircraft, allowing to win prolonged turn fights with less agile opponents such as the He 112 or MiG-3.
 
@@ -150,16 +150,54 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-[[File:Dauntless_dive_carrier.JPG.jpg|thumbnail|right|A Dauntless diving towards a Japanese carrier.]]
-{{main|AN-M30A1 (100 lb)|AN-M64A1 (500 lb)|AN-M65A1 (1,000 lb)|Type A Mark I mine|M2 Browning (12.7 mm)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* 1 x 1,000 lb AN-M65A1 bomb + 2 x 100 lb AN-M30A1 bombs (1,200 lb total)
-* 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
-* 1 x Type A Mark I mine
-* 1 x 500 lb AN-M64A1 bomb (500 lb total)
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3
+| rowspan="9" width="30%" | <!-- <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div> -->
+|-
+! [[M2 Browning (12.7 mm)|12.7 mm M2 Browning]] machine guns (340 rpg)
+| 2 ||  || 2
+|-
+! [[AN-M30A1 (100 lb)|100 lb AN-M30A1]] bombs
+| 1 ||  || 1
+|-
+! [[AN-M64A1 (500 lb)|500 lb AN-M64A1]] bombs
+| || 1 ||
+|-
+! [[AN-M65A1 (1,000 lb)|1,000 lb AN-M65A1]] bombs
+| || 1 ||
+|-
+! [[A.P. AN-MK 33 (1,000 lb)|1,000 lb A.P. AN-MK 33]] bombs
+|  || 1 ||
+|-
+! [[AN-Mk 1 (1,600 lb)|1,600 lb AN-Mk 1]] bombs
+|  || 1 ||
+|-
+! [[Type A Mark I mine|Type A Mark I]] mines
+| || 1 ||
+|-
+| colspan="4" | Maximum permissible loadout weight: 750 kg<br>Maximum permissible weight imbalance: 120 kg
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 2 x 100 lb AN-M30A1 (200 lb total)
+* 1 x 500 lb AN-M64A1 (500 lb total)
 * 1 x 500 lb AN-M64A1 bomb + 2 x 100 lb AN-M30A1 bombs (700 lb total)
+* 1 x 1,000 lb AN-M65A1 bomb (1,000 lb total)
+* 1 x 1,000 lb AP AN-MK 33 bomb (1,000 lb total)
+* 1 x 1,600 lb AN-Mk 1 bomb (1,600 lb total)
+* 1 x Type A Mark I mine
+* 4 x 12.7 mm M2 Browning machine guns, wing-mounted (gunpods) (340 rpg = 1,360 total)
+{{Navigation-End}}
+
+
+Note that the 1,000 lb Type A Mark I mine has more TNT equivalent (0.5 tons) as compared to the 1,000 lb AN-M65A1 bomb (0.3 tons) and it can be used on ground targets as well as opposed to its intended use case - which is for ships.
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}
@@ -172,11 +210,12 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Dauntless is an underrated aircraft, as it is viewed as a weak and sluggish bomber by a majority of tier 1 players. Use this to your advantage by catching unsuspecting bombers and fighters. Its manoeuvrability is good enough to energy fight the enemy. You should try to keep your speed higher than 200 km/h and stay at altitudes lower than 2km.
+[[File:Dauntless_dive_carrier.JPG.jpg|thumbnail|right|A Dauntless diving towards a Japanese carrier.]]
+The Dauntless is an underrated aircraft, as it is viewed as a weak and sluggish bomber by a majority of tier 1 players. Use this to your advantage by catching unsuspecting bombers and fighters. Its manoeuvrability is good enough to energy fight the enemy. You should try to keep your speed higher than 200 km/h and stay at altitudes lower than 2 km.
 
 This plane is good at what it was designed for Dive Bombing. Start at a high altitude at around 4-5,000 feet, fly directly above the target, invert the plane, cut the throttle and deploy airbrakes (H key by default), dive, at 1,000-700 feet release bombs, pull the nose up, retract air brakes, push the throttle to full, then pitch up in a climb.
 
-The small bomb load requires you pick your targets carefully and make your bombs count, choose to attack artillery positions or bases, where you have a higher chance of hitting due to their stationary position. Ships are also prime targets (it is what it was designed for), as the 1000lb bomb is plenty to sink a small ship.
+The small bomb load requires you pick your targets carefully and make your bombs count, choose to attack artillery positions or bases, where you have a higher chance of hitting due to their stationary position. Ships are also prime targets (it is what it was designed for), as the 1,000 lb bomb is plenty to sink a small ship.
 
 Do not rely on fighter support when focusing on ground targets. After you drop your bombs, the plane should be manoeuvrable enough to dogfight enemies. You should stay on deck and manoeuvre wisely to not expose your weak underbelly. If you are caught at high altitude, go into a steep dive until you are at the deck, there is a good chance you may out dive them. If you cannot lose the enemy, try to quickly turn to your enemy's direction. your high G tolerance is equal, if not better than most enemies so you could lose them if they cant follow your turn.
 

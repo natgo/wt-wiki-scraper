@@ -5,14 +5,14 @@
 }}
 {{Specs-Card
 |code=il_centurion_mk_5_shot
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Sho't was the Hebrew name given by the Israeli Armed Forces to the Centurion tanks and their different versions. The first Sho't was a [[Centurion Mk.5/1]] without any relevant modification. The Sho't was introduced to Israel during the 1960s in an effort by the IAF to modernize their tank force. At that time, the IAF only operated modernized Shermans and several WW2-era modified vehicles that were no match for the M48s and T-54s in service with the Arab nations.
+'''Sho't''' (Hebrew: שוט‎ - "whip") was the Israeli designation for the British Centurion Mk.5 tank. Israel received a certain number of these tanks between 1958 and 1960, as part of cooperation with Britain, replacing the modernised Sherman tanks then in service with the IDF which were no match for the M48s and T-54s in service with Arab nations. The Sho't tanks saw their baptism of fire in 1967 during the Six-Day War, where they demonstrated good results engaging enemy targets and also high survivability. However, after the hostilities ended, the need for modernisation of the vehicles became apparent.
 
-Introduced in [[Update "Wind of Change"]], the Sho't behaves equally to the [[Centurion Mk.5/1]]. It is a very powerful tank that relies heavily on its gun handling. Centurions are not characterized by their mobility, firepower or armour. Instead, they rely on their gun handling, thanks to their two-axis stabilizer and a relatively powerful APDS shell. The 84mm gun will not win in terms of penetration power, however; other rounds like that of the [[T-54 (1949)|T-54]]'s 100m D-10T or the [[Leopard I]]'s L7A3. Despite this, combined with the two-axis stabilizer, it can be used effectively to push corners and shoot while moving to avoid enemy fire. This also gives the Sho't a much quicker reaction time since it doesn't have to stop to get a precise shot if it encounters an enemy while changing positions or flanking.
+Introduced in [[Update "Wind of Change"]], the Sho't behaves exactly like the [[Centurion Mk.5/1]]. Centurions are not characterised by their mobility, firepower, or armour; instead, they rely on their gun handling, thanks to their two-axis stabiliser and a relatively powerful APDS shell. While the 84 mm gun will not win in terms of penetration power compared to other guns such as the [[T-54 (1949)|T-54]]'s 100 mm D-10T or the [[Leopard I]]'s L7A3, the combination with the two-axis stabiliser allows it to be used effectively to push corners and shoot while moving to avoid enemy fire. This also gives the Sho't a much quicker reaction time since it doesn't have to stop to get a precise shot if it encounters an enemy while changing positions or flanking.
 
 == General info ==
 === Survivability and armour ===

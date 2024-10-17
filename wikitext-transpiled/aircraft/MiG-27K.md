@@ -1,7 +1,7 @@
 {{About
 | about = Soviet jet fighter '''{{PAGENAME}}'''
-| usage = the other MiG-27
-| link = MiG-27M
+| usage = other versions
+| link = MiG-27 (Family)
 }}
 {{Specs-Card
 |code=mig_27k
@@ -134,9 +134,9 @@ The '''{{Specs|name}}''', introduced in [[Update "Winged Lions"]], is the epitom
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm GSh-6-30 cannon, belly-mounted (300 rpg)
-** 1 x 30 mm GSh-6-30 cannon + 72 x large calibre countermeasures
+* 1 x 30 mm GSh-6-30 cannon, belly-mounted (300 rpg)
+* 60 x large calibre countermeasures
+* 12 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -206,7 +206,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Delta-NG targeting pod
 | || || 1<sup>†</sup> || || || ||
 |-
-! 800 l drop tanks
+! 820 l drop tanks
 | || || || 1 || || ||
 |-
 | colspan="8" | Maximum permissible weight imbalance: 700 kg
@@ -218,7 +218,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 800 l drop tank
+* 1 x 820 l drop tank
 * 2 x R-13M1 missiles
 * 4 x R-60M missiles
 * 22 x 100 kg OFAB-100 bombs (2,200 kg total)
@@ -243,7 +243,7 @@ As mentioned before, the MiG-27K's arsenal is largely the same as the MiG-27M's.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-;General Tactics 
+;General Tactics
 
 The user is able to utilise the MiG-27K's powerful ordnance and long range to eliminate many ground vehicles in a single pass. The MiG-27K can be used to destroy enemy vehicles from an extreme range. The pilot of the aircraft should ensure that they manage targets effectively to destroy as many enemies as possible and keeping themselves alive. It should be noted that a MiG-27K can single-handedly change the course of a game if handled correctly, avoiding SPAA and enemy jets by giving them a small window of opportunity to counter the MiG-27K.
 
@@ -253,9 +253,9 @@ The pilot should, however, keep an eye out for other enemy aircraft, as the MiG-
 
 ;Using air-to-ground missiles
 
-It is suggested to use air-to-ground missiles against targets such as SPAA and tanks. The Kh-25ML, Kh-29L and Kh-29T rockets are excellent examples of powerful ordnance that can be employed to destroy multiple targets in a single pass. A massive advantage of using these missiles is that they are extremely potent, and therefore the pilot doesn't need to worry about where he is aiming, as long as he hits the target. 
+It is suggested to use air-to-ground missiles against targets such as SPAA and tanks. The Kh-25ML, Kh-29L and Kh-29T rockets are excellent examples of powerful ordnance that can be employed to destroy multiple targets in a single pass. A massive advantage of using these missiles is that they are extremely potent, and therefore the pilot doesn't need to worry about where he is aiming, as long as he hits the target.
 
-Firstly, the pilot must be aware of the current situation on the battlefield, and create a list of targets that are imperative to winning the battle. If enemies are overrunning a point, for example, the MiG-27K can be used to relieve pressure on the team and destroy targets capturing the point. In doing this, the pilot should manage their altitude in order to avoid SPAA fire as best they can, and using their targeting pod to guide missiles in to high-priority targets. 
+Firstly, the pilot must be aware of the current situation on the battlefield, and create a list of targets that are imperative to winning the battle. If enemies are overrunning a point, for example, the MiG-27K can be used to relieve pressure on the team and destroy targets capturing the point. In doing this, the pilot should manage their altitude in order to avoid SPAA fire as best they can, and using their targeting pod to guide missiles in to high-priority targets.
 
 [[File:Mig 27.png|thumb|right|MiG-27k using high-zoom optics to seek a target at a range of almost 10 kilometres away.]]
 
@@ -263,21 +263,21 @@ This can be done from any altitude, but a lower one is more reliable as it gives
 
 ;Using guided bombs
 
-Guided bombs such as the KAB-500L and KAB-500Kr bombs have an enhanced range due to them being unpowered and droppable from any height. 
+Guided bombs such as the KAB-500L and KAB-500Kr bombs have an enhanced range due to them being unpowered and droppable from any height.
 
-This means that the MiG-27K pilot can climb to extreme altitude, avoiding SPAA's attention, and carefully selecting targets based on the situation they find themselves in. However, an altitude of over 10,000 metres or 33,000 feet should be avoided, as several SPAAs are designed specifically for destroying high-flying aircraft. 
+This means that the MiG-27K pilot can climb to extreme altitude, avoiding SPAA's attention, and carefully selecting targets based on the situation they find themselves in. However, an altitude of over 10,000 metres or 33,000 feet should be avoided, as several SPAAs are designed specifically for destroying high-flying aircraft.
 
 Guided bombs can be used to quietly eliminate targets from such a distance that they were not even aware the MiG was in the area, allowing for multiple targets to be acquired and destroyed on a single pass. This allows them to take out targets and re-arm without any realistic threat from the ground. However, this leaves the MiG vulnerable to other aircraft that are capable of firing missiles that can destroy their vehicle from many miles away - namely the FlaRakRad and the ADATS weapon systems.
 
 ;Up close & personal>
 
-The MiG-27K has one final ace up its sleeve. The infamous GSh-6-30 cannon, mounted on the bottom of the vehicle. 
+The MiG-27K has one final ace up its sleeve. The infamous GSh-6-30 cannon, mounted on the bottom of the vehicle.
 
-It is not advised to use the cannon, as it leaves the pilot vulnerable to SPAA strikes. However, some situations call for a desperate attempt to thwart the enemy advance, and the GSh-6-30 is more than capable of doing this. Equipped with 300 rounds of ammunition, the 30 mm cannon will shred any lightly armoured vehicle with ease. Heavier armour, such as Leopard MBTs and Abrams MBTs can also be approached, albeit from the top. Getting rounds through the top of the turret will vaporise crew members and components inside, resulting in the temporary crippling of the vehicle or outright destruction. Ammo loads are often ignited by the cannon, rendering the tank useless unless it re-arms. 
+It is not advised to use the cannon, as it leaves the pilot vulnerable to SPAA strikes. However, some situations call for a desperate attempt to thwart the enemy advance, and the GSh-6-30 is more than capable of doing this. Equipped with 300 rounds of ammunition, the 30 mm cannon will shred any lightly armoured vehicle with ease. Heavier armour, such as Leopard MBTs and Abrams MBTs can also be approached, albeit from the top. Getting rounds through the top of the turret will vaporise crew members and components inside, resulting in the temporary crippling of the vehicle or outright destruction. Ammo loads are often ignited by the cannon, rendering the tank useless unless it re-arms.
 
-SPAA vehicles will have an extremely difficult time defending against the cannon if caught unaware, as it will easily destroy most SPAA vehicles with a few rounds. However, spawn invulnerability may play a large part into the demise of the "brawling" playstyle, as invincible SPAA will cause a large issue for the MiG-27K on the exit of the gunrun. 
+SPAA vehicles will have an extremely difficult time defending against the cannon if caught unaware, as it will easily destroy most SPAA vehicles with a few rounds. However, spawn invulnerability may play a large part into the demise of the "brawling" playstyle, as invincible SPAA will cause a large issue for the MiG-27K on the exit of the gunrun.
 
-Another point should be made on overcommitting to the airstrike, as the MiG-27K is not as manoeuvrable as other aircraft. This means that the plane will not pull up as violently as one might want it to when in a dive, resulting the pilot ploughing into the ground at Mach 1. 
+Another point should be made on overcommitting to the airstrike, as the MiG-27K is not as manoeuvrable as other aircraft. This means that the plane will not pull up as violently as one might want it to when in a dive, resulting the pilot ploughing into the ground at Mach 1.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -320,13 +320,14 @@ The MiG-27K followed the previous MiG-27M as the ultimate variant of the MiG-27 
 ;Related development
 
 * [[MiG-23 (Family)]]
+* [[MiG-27 (Family)]]
 
 ;Other jet planes with variable sweep wings
 
+* [[F-111A]]
+* [[F-14 (Family)]]
 * [[Tornado (Family)]]
 * [[Su-17/22 (Family)]]
-* [[F-14 (Family)]]
-* [[F-111A]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

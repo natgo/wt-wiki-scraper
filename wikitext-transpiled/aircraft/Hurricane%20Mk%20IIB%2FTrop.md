@@ -41,10 +41,10 @@ While it is agile against many other planes at its rank, it can easily be outcla
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 487 || 471 || rowspan="2" | {{Specs|ceiling}} || 18.0 || 18.7 || 7.4 || 7.4 || rowspan="2" | 320
+| 486 || 470 || rowspan="2" | {{Specs|ceiling}} || 18.0 || 18.6 || 7.3 || 7.3 || rowspan="2" | 320
 |-
 ! Upgraded
-| 535 || 510 || 16.4 || 17.0 || 16.1 || 11.1
+| 536 || 510 || 16.1 || 17.0 || 16.1 || 11.1
 |-
 |}
 
@@ -204,11 +204,12 @@ Supercharger: this should be switched at 3.5km (11,482 feet) altitude for optima
 * Convergence is key: additional guns are mounted further out on the wing, resulting in a high convergence and beyond or below the target - the distance may result in a lot of missed shots.
 * Due to the Hurricane having a carburettor, inverted manoeuvres will cause the engine to fail due to fuel starvation.
 * Ammo count may seem plentiful, but there are 12 guns that fire at the same time, so you technically only have 350 rounds; trigger discipline will be needed
+* Default 7.7 mm gun rounds consist of ball rounds, which aren't sufficient penetrative bullets
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 [[File:Historical_Hurricane_ii_bomber.jpg|thumbnail|Hawker Hurricane IIB of No.402 Squadron, RCAF]]
-The plain one. The dumpy one. The unsexy sister of the glamorous Spitfire, its partner in the Battle of Britain. The plane that took, according to some sources, roughly 60 per cent of the accounted kills during that air campaign in World War II. The plane in which the only Victoria Cross for Fighter Command was won by Ft Lt. James Nicolson. The plane in which a foreigner, the Czech Sgt. Josef František gained the third most victories of all pilots during the Battle of Britain: he gained 17 victories. The history of the Hurricane is not only interesting as it tells us something about the plane, but it is also equally important as it tells us about the desperate struggle in which it took part.
+The plain one. The dumpy one. The underappreciated sister of the glamorous Spitfire, its partner in the Battle of Britain. The plane that took, according to some sources, roughly 60 per cent of the accounted kills during that air campaign in World War II. The plane in which the only Victoria Cross for Fighter Command was won by Ft Lt. James Nicolson. The plane in which a foreigner, the Czech Sgt. Josef František gained the third most victories of all pilots during the Battle of Britain: he gained 17 victories. The history of the Hurricane is not only interesting as it tells us something about the plane, but it is also equally important as it tells us about the desperate struggle in which it took part.
 
 The Hurricane thus has a long, but rather overshadowed history during the first years of the War. It served in all the theatres of World War II. In many variants, the workhorse fighter continued to serve until the end of the War - although its large-scale and frontline use effectively ended by 1943. It was a front line fighter, night fighter, intruder, the fighter-bomber, naval fighter, reconnaissance aircraft and also had various non-combat roles.
 [[File:HurricaneMkIIB RAF274 NAfrica.jpg|thumbnail|Hawker Hurricane Mk IIB Trop of No.274 Squadron, RAF]]

@@ -143,11 +143,11 @@ Countermeasures > AIM-9B FGW.2 > New boosters > AIM-9E > G-suit > Wings repair >
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -158,7 +158,8 @@ Countermeasures > AIM-9B FGW.2 > New boosters > AIM-9E > G-suit > Wings repair >
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
-* 90 x countermeasures
+* 30 x large calibre countermeasures
+* 60 x countermeasures
 
 The M61A1 is an excellent cannon at its rank, its only disadvantages being the spool-up time and somewhat limited ammo count relative to rate of fire.
 
@@ -352,10 +353,9 @@ If pilots need to counter ground based AA, the best tactic is to break line of s
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[F-4 Phantom II (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -186,9 +186,12 @@ Beginning in January 1938, the S.M.79 was used as a night bomber. The "Sparviero
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sm_79_1937 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related development
+*[[S.M.79 (Family)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

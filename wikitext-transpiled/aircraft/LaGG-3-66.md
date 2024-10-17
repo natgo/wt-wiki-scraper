@@ -30,7 +30,7 @@ The LaGG-3-66 is a jack-of-all-trades type of fighter aircraft. It does not have
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 573 || 558 || rowspan="2" | {{Specs|ceiling}} || 22.4 || 23.0 || 11.2 || 11.1 || rowspan="2" | 403
+| 572 || 558 || rowspan="2" | {{Specs|ceiling}} || 22.4 || 23.0 || 11.2 || 11.1 || rowspan="2" | 403
 |-
 ! Upgraded
 | 608 || 591 || 20.7 || 21.5 || 16.6 || 13.8
@@ -145,6 +145,7 @@ When using this plane, it can be used in a variety of roles depending on what or
 
 ====Specific enemies worth noting====
 <!--Some concerning vehicles to worry about if playing this plane. (i.e. Japanese fighters will out turn you)-->
+
 * [[Spitfire (Family)|Supermarine Spitfires]] - The Spitfire is a plane to be feared when flying the LaGG-3-66 as many of the key strengths the LaGG-3-66 has, the Spitfire has (if not better). When battling the Spitfire, always try to go for the initial hit as early Spitfires (Spitfire Mk I/IIa) do not react well to damage. If you are battling cannon armed Spitfires, always go for the initial hit but remember the cannon armed Spitfire has far superior firepower compared to the LaGG-3-66 and will have no issues destroying the LaGG-3-66. Always remember not to get into manoeuvring fights with Spitfires as they will easily outmanoeuvre the LaGG-3-66 at any speeds.
 
 * [[Ki-43 (Family)|Nakajima Ki-43 Hayabusa]] and [[A6M (Family)|Mitsubishi A6M Reisen]] - When battling these planes, altitude is everything. These two Japanese planes will have no issue outperforming a LaGG-3-66 in manoeuvrability. Therefore when facing these two enemy planes, use Boom and Zoom tactics to defeat them. The Ki-43 and the A6M are some of the few planes that the LaGG-3-66 will face that can easily defeat the LaGG-3-66 at low-speed manoeuvring air to air combat.
@@ -219,10 +220,12 @@ In total, 6,528 LaGG-3s were produced between the years of 1941 and 1944, with t
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=lagg-3-66 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

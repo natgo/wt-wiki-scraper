@@ -193,7 +193,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[R-60MK]] missiles
 | 1 || 1 || 1 || || 1 || 1 || 1
 |-
-! 1,500 l drop tanks
+! 1,520 l drop tanks
 | || || || 1 || || ||
 |-
 | colspan="8" | Maximum permissible loadout weight: 3,050 kg<br>Maximum permissible wing load: 1,525 kg<br>Maximum permissible weight imbalance: 1,200 kg
@@ -204,7 +204,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * Without load
-* 2 x R-60MK missiles
+* 2 x R-60MK missiles + 2 x R-27R1 missiles
 * 6 x R-60MK missiles
 * 6 x R-60 missiles
 * 2 x R-27T1 missiles
@@ -224,7 +224,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x 500 kg FAB-500M-62 bombs (2,000 kg total)
 * 6 x 500 kg FAB-500Sh bombs (3,000 kg total)
 * 4 x ZB-500 incendiary bombs
-* 1 x 1,500 l drop tank
+* 1 x 1,520 l drop tank
 {{Navigation-End}}
 
 == Usage in battles ==

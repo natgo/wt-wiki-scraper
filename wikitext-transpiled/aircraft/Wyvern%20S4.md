@@ -158,11 +158,11 @@ In Naval Battles, the Wyvern can be used as a fighter-bomber. The 3 x 1,000 lb b
 * Above average manoeuvrability at high speeds
 * Excellent dive performance
 * Surprisingly high climb rate
-* Reasonably capable of Boom & Zoom, which will allow this premium plane to make even more money
+* Very capable of Boom & Zoom, which will allow this premium plane to make even more money
 * In addition to carrying 3 x 1,000 lb bombs, you can release them separately from one another
 * It has an airbrake, a rare item at its BR
 * Highly versatile, serving as both an attack aircraft, or fighter capable of opportunistic kills and a bomber with its bomb capability
-* Good visibility around the cockpit
+* It can take quite a lot of damage in certian situations, and can consitantly survive fires
 
 '''Cons:'''
 

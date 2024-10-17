@@ -173,10 +173,20 @@ File:ArtImage2 Ha-Go Commander.png|<small>Ha-Go Commander in [[jungle]]</small>
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_95_ha_go_commander Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related Development
+* [[Ha-Go]]
+
+;Tanks of comparable role, configuration, and era
+* [[File:France flag.png|30px|link=]] [[H.39]]
+* [[File:Britain flag.png|30px|link=]] [[File:Finland flag.png|30px|link=]] [[Vickers Mk.E]]
+* [[File:USSR flag.png|30px|link=]] [[T-26 (Family)]]
+* [[File:USA flag.png|30px|link=]] [[M2A4]] / [[M3 Stuart (Family)]]
+* [[File:Italy flag.png|30px|link=]] [[M13/40 (Family)]]
+* [[File:Germany flag.png|30px|link=]] [[Pz.35(t)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

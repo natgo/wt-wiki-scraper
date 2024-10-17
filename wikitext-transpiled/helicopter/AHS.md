@@ -29,7 +29,7 @@ The AHS is an [[AH-64A]] that was trialled by Sweden in the 1990s, it is identic
 ! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}}
+| 276 || 257 || rowspan="2" | {{Specs|ceiling}}
 |-
 ! Upgraded
 | ___ || ___

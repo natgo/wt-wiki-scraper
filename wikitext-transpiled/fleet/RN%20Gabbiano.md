@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=it_gabbiano_class
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage {{PAGENAME}} (2).jpg}}
 }}
 
 == Description ==

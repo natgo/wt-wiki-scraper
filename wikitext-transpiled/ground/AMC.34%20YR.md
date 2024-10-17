@@ -1,13 +1,13 @@
 {{Specs-Card
 |code=fr_amc_34
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
-<!--''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.''-->
-The '''{{specs|name}}'''was a cavalry tank designed and fielded during the pre-war period. The tank fielded the same 47 mm SA 34 gun used by the Char B1 and was used on mainland France between 1936 and 1937. The tank was considered poorly armoured, even for a cavalry tank, and was re-armed with a 20mm gun turret and shipped to North Africa. The vehicle was later replaced by the H.39 in late 1939. It should be noted, that the earlier Char D1 and early Char D2 infantry tanks did see wide service, sharing the same gun as the AMC.34 but in a different body, with increased armour at the cost of mobility, 160 D1s were built and served in North Africa.
+<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+The '''Automitrailleuse de Combat AMC.34 (APX-1)''', otherwise known as the '''Renault YR''', was an interwar light cavalry tank. It was a further development of earlier tankette designs, which were called to development after the Red Scare with Joseph Stalin taking power of the USSR. The Renault YR started development in 1933, which by March of 1934 received an order of twelve pre-series vehicles without turrets for evaluation and trial deployment. Deployed within the ''4e {{Annotation|GAM|Groupe d'automitrailleuses}}'' (previously and later re-known as the ''4e {{Annotation|RC|Régiment de Cuirassiers}}'') in '34, the AMCs were initially armed with modified FT-17 cannon turrets, which shortly after were replaced by surplus APX-1 turrets (produced for the [[D2|Char D2]]). However, it was not well-received as it didn't achieve the requested mobility and armour. With better tanks being developed and produced, the development of the AMC.34 was cancelled and was redesigned as the later [[AMC.35 (ACG.1)|AMC.35]]. The AMC.34s were shipped to the colony of Morocco and equipped by the ''1e and 5e {{Annotation|RCA|Régiments de Chasseurs d'Afrique}}'' and received their last turret change to a 1-man APX-2-like turret housing a 25 mm gun. By 1939 they were completely phased out by the [[H.39]].
 
-It was introduced in [[Update 1.75 "La Résistance"]].  While originally a reserve vehicle, it was later superseded in status as a reserve vehicle in [[Update 1.93 "Shark Attack"]] by the AMD.35. It features a well-armoured turret on a fragile chassis with a subpar SA34 L/30 cannon as the main armament. The vehicle features mediocre mobility, armour and firepower. The turret is well armoured, but with such a big chassis, is easy to get shot at the front or the sides. Aside from that, its SA 34 cannon has a very poor reload speed, lower than most tanks around its BR, and with 27mm of penetration at point-blank ranges, the vehicle is not beginner-friendly at all and can be considered inferior to most rank I tanks. It requires great skill and map knowledge to be used with effectiveness, try to engage at close quarters and with allied support for increased chances of survival..
+It was introduced in [[Update 1.75 "La Résistance"]]. While originally a reserve vehicle, it was later superseded in status as a reserve vehicle in [[Update 1.93 "Shark Attack"]] by the [[AMD.35]]. The vehicle features 2-man crew, mediocre mobility, armour and firepower. It features a well-armoured turret on a fragile chassis with a subpar SA34 L/30 cannon as the main armament which has poor reload speed and low penetration at 27 mm at point-blank range, which results in a not at all beginner-friendly vehicle and inferior to most rank I tanks. It requires great skill and map knowledge to be used with effectiveness, try to engage at close quarters and with allied support for increased chances of survival.
 
 == General info ==
 === Survivability and armour ===
@@ -150,8 +150,12 @@ The earlier Char D1 and the early versions of the Char D2 infantry tanks, which 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-;Skins
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage AMC.34 YR.png
+</gallery>
 
+;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_amc_34 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -6,13 +6,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British tank destroyer {{Battle-rating}}. It was introduced during [[Update "Wind of Change"]] as a reward for the [[wt:en/news/7640-event-the-battle-for-arachis-en|"Battle for Arachis"]] event.
+The '''Alecto Mk.I''' was a British experimental light self-propelled gun, built on the basis of the Light Tank Mk.VIII "Harry Hopkins". Due to delays in development and testing of the Mk.VIII, the first chassis available for conversion into a self-propelled gun appeared only in August 1943. Testing and refinement of the Alecto itself, which began only in 1944, also dragged on considerably; as a result, a sample more or less ready for production only appeared by June 1945, when the need for such a machine had already disappeared, since there were more powerful and refined self-propelled guns available. A small batch of Alectos were produced, the exact number of which is unknown. They did not participate in combat operations, were used for training purposes and were scrapped by 1955.
 
-Arriving a tad late to meet proper action in the Second World War, the Alecto was developed as a close-support self-propelled gun, to provide support fire to the reconnaissance and airborne units. As timing is no longer an issue, the Alecto is now prepared to reinforce the early British lineup, with much competent firepower.
-
-Constant repositioning and long-range firing will be crucial as this is where the Alecto excels at; mobility and firepower. Despite not having solid shot rounds, the chemical HEAT rounds bring unexplored capabilities to the explosive-lacking British Rank I.
-
-Overall, a very uncomplicated vehicle with some obvious drawbacks yet a very dynamic playstyle. Players that enjoyed the swiftness of the [[Tetrarch I|Tetrarch]] and the lightness of the [[Stuart I|Stuart]] will surely get the best out of it.
+Introduced during [[Update "Wind of Change"]] as a reward for the [[wt:en/news/7640-event-the-battle-for-arachis-en|"Battle for Arachis"]] event, the Alecto represents a classic "glass cannon". Its 95 mm howitzer is a very powerful weapon, with powerful HE and HEAT shells at its disposal, but it reloads quite slowly and surviving the reloading process in the enemy's sight is unlikely, since it has virtually no armour. However, it has satisfactory mobility and a very small profile, which somewhat increases its chances of survival. Constant repositioning and long-range firing will be crucial, as this is where the Alecto can excel.
 
 == General info ==
 === Survivability and armour ===

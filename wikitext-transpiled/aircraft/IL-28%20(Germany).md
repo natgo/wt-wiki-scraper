@@ -214,11 +214,14 @@ The IL-28 starts off with twelve 100 kg bombs which in some cases are not enough
 '''Pros:'''
 
 * Powerful rear 23 mm cannon turret
+* Hard hitting 23 mm cannons in the front
 * Very fast - many early jet fighters cannot catch it at top speed
 * Powerful and flexible ordnance capacity
 * Highly armoured tail gunner position
 * Gunner can cover a large area of the rear and the sides because of the turret design
 * Fast acceleration
+* Suprisingly good turnrate, it can contest many airplanes at the battle rating
+* 
 
 '''Cons:'''
 
@@ -228,6 +231,7 @@ The IL-28 starts off with twelve 100 kg bombs which in some cases are not enough
 * Poor roll rate-any wing damage will often result in a roll that is impossible to pull out of
 * Cockpit features no rearward visibility
 * Fast acceleration means that you might break the wings if you don't pay attention
+* Rudder locks up very hardly even at medium speeds, which makes it very difficult to aim, especially paired with the poor roll rate
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

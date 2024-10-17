@@ -144,6 +144,7 @@ When it comes to intercepting ground pounders or bombers, the Ki-43 generally pe
 * Good acceleration
 * Climbs well
 * Useful flaps in a turnfight
+* Can turn on a dime, fantastic roll rate and turn rate; can turnfight with pretty much anything except similar planes
 * Good all-round cockpit visibility in simulator
 * Forgiving landing characteristics
 
@@ -165,6 +166,7 @@ When it comes to intercepting ground pounders or bombers, the Ki-43 generally pe
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki_43_2_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

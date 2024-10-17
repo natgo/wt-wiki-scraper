@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=us_cruiser_atlanta_class_atlanta
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -129,8 +129,12 @@ USS Atlanta also took part in heavy fighting during the Battle of the Eastern So
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-;Skins
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage USS Atlanta.png
+</gallery>
 
+;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_cruiser_atlanta_class_atlanta Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

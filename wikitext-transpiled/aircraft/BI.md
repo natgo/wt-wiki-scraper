@@ -144,6 +144,8 @@ To get the longest endurance out of its limited fuel amount, climb from the airf
 
 When you hit the altitude you like, you can throttle back to 0% and just glide, with only minor adjustments to the throttle to stay in level flight.
 
+Also you can stay low at 30% throttle until you are at 750-800 kph and from there on you fly at 10-17% throttle while looking for enemys above you. Once you have spotted one you pull upwards holding your speed with 30% throttle and an aproach from below is so unexpected the enemy will not even know where you came from. This will be more fuel efficient than climbing as stated above.
+
 ==== Descending ====
 The key to descending without locking up and crashing is to not point your nose straight down. Unlike other aircraft, the BI is able to gain a lot of speed even in a little descent. When the BI starts going over 700 km/h, pull up slowly and slow back down. When you push the nose back down, push the rudder all the way to the left or right. If you aren't losing speed fast enough, shift the plane 45 degrees to the left and right, with full rudder movements. This will slow you down.
 

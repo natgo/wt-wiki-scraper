@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-After the collapse of the Soviet Union, the Hungarian air force was in a very weak state, with their best fighters at the time being a selection of poorly maintained [[MiG-23MF (Italy)|MiG-23MF]]<nowiki/>s. However, in 1993, a welcomed surprise upgrade happened, as the Russian Federation's debt compensation package to Hungary included twenty-eight MiG-29 aircraft, of the 9.12 chassis standard. Hungary would operate these aircraft extensively and begin the most in-depth pilot training program for its air force since the 50s as a result. The Hungarian MiG-29s would begin the end of their service in 1999 when Hungary joined NATO and was essentially forced to upgrade to a NATO fighter aircraft for compatibility and interchangeability purposes. As the [[JAS39EBS HU C (Italy)|JAS-39C Gripen]] was chosen and purchased, the MiG-29 fleet was slowly retired as deliveries of the Gripen took place over the next decade. The last Hungarian MiG-29 was retired in December 2010, when the decision was made to sell all former Hungarian MiG-29s to the highest bidder.
+After the collapse of the Soviet Union, the Hungarian air force was in a very weak state, with their best fighters at the time being a selection of poorly maintained [[MiG-23MF (Italy)|MiG-23MFs]]. However, in 1993, a welcome surprise upgrade happened as the Russian Federation's debt compensation package to Hungary included twenty-eight MiG-29 aircraft of the 9.12 chassis standard. Hungary would operate these aircraft extensively and begin the most in-depth pilot training program for its air force since the 1950s as a result. The Hungarian MiG-29s would begin the end of their service in 1999 when Hungary joined NATO and was essentially forced to upgrade to a NATO fighter aircraft for compatibility and interchangeability purposes. As the [[JAS39EBS HU C (Italy)|JAS-39C Gripen]] was chosen and purchased, the MiG-29 fleet was slowly retired as deliveries of the Gripen took place over the next decade. The last Hungarian MiG-29 was retired in December 2010, when the decision was made to sell all former Hungarian MiG-29s to the highest bidder.
 
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian jet fighter in the Hungarian sub-tree of the Italian tech tree. It was introduced in [[Update "Alpha Strike"]] alongside many other Hungarian aircraft and provides a nice alternative to the [[F-16A ADF (Italy)|F-16A ADF]] in the Italian tech tree at the same battle rating. Building upon dogfighting doctrine established with the earlier [[MiG-21MF (Italy)|MiG-21MF]] and [[MiG-21bis-SAU (Italy)|MiG-21bis]] in the Hungarian sub-tree, along with the advanced weapon employment techniques learned with the [[MiG-23MF (Italy)|MiG-23MF]] that precedes it, the MiG-29 not only builds upon the playstyles of its predecessors, but adds on to it with many new tools and weapons, such as the powerful [[R-27ER1]] missile and a HMD (Helmet Mounted Display) targeting system for its all-aspect IR missiles. In general, the MiG-29 in the Hungarian sub-tree brings a formidable aircraft to that rank for Italian tree players, proving a great alternative to the F-16A ADF at the same battle rating.
+Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' provides a nice alternative to the [[F-16A ADF (Italy)|F-16A ADF]]. Building upon dogfighting doctrine established with the earlier [[MiG-21MF (Italy)|MiG-21MF]] and [[MiG-21bis-SAU (Italy)|MiG-21bis]] in the Hungarian sub-tree, along with the advanced weapon employment techniques learned with the [[MiG-23MF (Italy)|MiG-23MF]] that precedes it, the MiG-29 not only builds upon the playstyles of its predecessors, but adds to it with many new tools and weapons, such as the powerful [[R-27ER1]] missile and an HMD (Helmet Mounted Display) targeting system for its all-aspect IR missiles.
 
 == General info ==
 === Flight performance ===
@@ -141,13 +141,70 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.''
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
+| rowspan="17" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-29.png]]</div>
+|-
+! [[OFAB-100 (100 kg)|100 kg OFAB-100]] bombs
+| || 4 || 4 || || 4 || 4 ||
+|-
+! [[FAB-250M-54 (250 kg)|250 kg FAB-250M-54]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[FAB-250M-62 (250 kg)|250 kg FAB-250M-62]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[OFAB-250Sh (250 kg)|250 kg OFAB-250Sh]] bombs
+| || 1, 2 || 1, 2 || || 1, 2 || 1, 2 ||
+|-
+! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[FAB-500M-62 (500 kg)|500 kg FAB-500M-62]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[FAB-500Sh (500 kg)|500 kg FAB-500Sh]] bombs
+| || 1 || 1, 2 || || 1, 2 || 1 ||
+|-
+! [[ZB-500 incendiary]] bombs
+| || 1 || 1 || || 1 || 1 ||
+|-
+! [[S-8KO]] rockets
+| || 20 || 20 || || 20 || 20 ||
+|-
+! [[S-24B]] rockets
+| || 1 || 1 || || 1 || 1 ||
+|-
+! [[R-27ER1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-27R1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-27T1]] missiles
+| || || 1 || || 1 || ||
+|-
+! [[R-60]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
+! [[R-60MK]] missiles
+| 1 || 1 || 1 || || 1 || 1 || 1
+|-
+! 1,520 l drop tanks
+| || || || 1 || || ||
+|-
+| colspan="8" | Maximum permissible loadout weight: 3,090 kg<br>Maximum permissible wing load: 1,545 kg
+|-
+|}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-
 * Without load
-* 2 x R-60MK missiles
+* 2 x R-60MK missiles + 2 x R-27R1 missiles
 * 6 x R-60MK missiles
 * 6 x R-60 missiles
 * 2 x R-27T1 missiles

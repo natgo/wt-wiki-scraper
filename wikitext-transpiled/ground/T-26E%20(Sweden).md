@@ -13,9 +13,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-During the Winter War, Finland captured hundreds of Soviet tanks and armoured vehicles, including large amounts of T-26 tanks. While most could not be repaired, some were fitted with new parts, scavenged from other tanks and sent into battle. In fact, some tanks saw their turret replaced with that found in the [[Vickers Mk.E]] tank, while retaining the original 45 mm gun and 7.62 mm MG, some of the Vickers turret still used the 9 mm Suomi hull sub-machine gun however. The new tanks were designated T-26E, the E meaning "''englantilainen''" (English).
+The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Swedish light tank {{Battle-rating}}. It was introduced in [[Update "Fire and Ice"]].
 
-Introduced in [[Update "Fire and Ice"]], this vehicle is not to be confused with the Soviet uparmoured [[T-26E]]. The T-26E in the Swedish tree is a [[Vickers Mk.E]] with the gun mount of a [[T-26]], combining the armour and mobility of the former with the firepower of the latter. The '''{{Specs|name}}''' has, as already mentioned, the turret of a Vickers Mk.E, but it still retains the original T-26's weapons, like the 45 mm cannon and the 7.62 mm DT MG. The gun is excellent, one of the best at rank I, thanks to its high velocity APHE shell that also has good penetration and enough explosive filler to kill most tanks with a single hit. However, like with all T-26s, the mobility is poor when compared to more agile tanks like the [[M3 Stuart]] and the [[BT-5]].
+This vehicle is not to be confused with the Soviet uparmoured [[T-26E]]. The T-26E in the Swedish tree is a [[Vickers Mk.E]] with the gun mount of a [[T-26]], combining the armour and mobility of the former with the firepower of the latter.
 
 == General info ==
 === Survivability and armour ===

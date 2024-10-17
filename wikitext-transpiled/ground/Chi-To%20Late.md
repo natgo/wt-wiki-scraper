@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ({{Annotation|四式中戦車 「チト」量産型|Yon-Shiki Chū-Sensha [Chi-To] Ryōsan-gata}}) was the final design of the [[Chi-To]] and the proposed production model, having a more streamlined turret design easing production, the armour is also slightly more angled giving it more effective armour than its initial design.
+The '''{{Specs|name}}''' ({{Annotation|四式中戦車 「チト」量産型|Yon-Shiki Chū-Sensha [Chi-To] Ryōsan-gata}}) was the final design of the [[Chi-To]] and the proposed production model, having a more streamlined turret design easing production, the armour is also slightly more angled giving it more effective armour than its initial design. However, like its prototype, production was delayed for too long due to material shortages, factory bombings, and ultimately the end of the war.
 
 It was introduced in [[Update 1.69 "Regia Aeronautica"]]. Compared to its previous design before it, the Chi-To late is slightly more forgiving due to armour effectiveness, able to shrug off shells slightly more often with the same deadly cannon as the [[Chi-To]]. It is still advised to keep the Chi-To Late at a long sniper distance, offering the high velocity and deadly 75 mm cannon would be a shame to lose in the frontline.
 
@@ -187,10 +187,22 @@ Despite its potential, the Type 4 Chi-To was never made in large numbers. At the
 {{Youtube-gallery|U2fm2lpHvWI|'''Way Of The Gun - Chi-to Late''' - ''8Bit Dane''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+* [[Chi-Nu II]]
+* [[Chi-To]]
+
+;Other vehicles of similar configuration and role
+* [[File:IJA flag.png|30px|link=]] [[Chi-Ri II]]
+* [[File:Germany flag.png|30px|link=]] [[Pz.IV (Family)]] - <small>(Late models)</small>
+* [[File:Germany flag.png|30px|link=]] [[Panther tank (Family)]]
+* [[File:Kingdom Hungary flag.png|30px|link=]] [[Turan III]]
+* [[File:USSR flag.png|30px|link=]] [[T-34 (Family)|T-34-85]]
+* [[File:USA flag.png|30px|link=]] [[M4 Sherman (Family)|Sherman M4 (76) (Family)]]
+* [[File:Britain flag.png|30px|link=]] [[Firefly (Disambiguation)|Sherman Firefly]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

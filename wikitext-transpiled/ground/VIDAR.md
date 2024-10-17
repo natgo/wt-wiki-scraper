@@ -7,7 +7,7 @@
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 
-The '''{{Specs|name}}''' is a self-propelled artillery system fielded by Norway since 2019. The system is an export version of the South Korean K9 Thunder Self-Propelled Artillery Gun, which Norway acquired the system to replace its aging M109A3GNMs of American origin. The orders so far have been in two batches, the initial 2017 contract for 24 K9s and an extra order in 2022 for 4 more systems. The system has some differences compared to the South Korean version, most notably the ODIN fire control system developed domestically and direct-fire enabling equipment. This system was given to the ''Artilleribataljonen'' of the ''Brigade Nord'', the only artillery unit in the Norwegian army. 
+The '''{{Specs|name}}''' is a self-propelled artillery system fielded by Norway since 2019. The system is an export version of the South Korean K9 Thunder Self-Propelled Artillery Gun, which Norway acquired to replace its aging M109A3GNMs of American origin. The orders so far have been in two batches, the initial 2017 contract for 24 K9s and an extra order in 2022 for 4 more systems. The system has some differences compared to the South Korean version, most notably the ODIN fire control system developed domestically and direct-fire enabling equipment. This system was given to the ''Artilleribataljonen'' of the ''Brigade Nord'', the only artillery unit in the Norwegian army.
 
 Introduced in [[Update "Sons of Attila"]], the VIDAR is fitted with excellent optics and fire control system. At its BR, it is one of the few vehicles with both a thermal imaging system and a laser rangefinder. Its best round is a 155 mm HE shell that is capable of destroying most tanks, but requires very good aiming when it faces heavily armoured targets like the [[T-55AM-1]]. The vehicle also has a fairly poor turret rotation speed and no stabilizer, and, being an artillery system, the armor protection is fairly thin and its gun depression limited. However, it has good mobility for a vehicle of its size, and a very good reverse speed of 42 km/h. The VIDAR is best suited for highly mobile warfare, moving around rapidly after firing a few accurate shells towards your enemies.
 
@@ -46,7 +46,8 @@ As for the crews, thanks to the long hull and large engine block, shrapnel from 
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
 {{tankMobility|abMinHp=1,420|rbMinHp=884}}
-To drive the K9 series and its ~47 ton weight up to a max speed of 67 km/h, the K9 uses a powerpack with 1,000 HP.The STX Engine-MTU joint-venture for the MTU 881Ka-500 V8 engine and SNT Dynamics-Allison joint-venture for the X1100-5A3 transmission enables the vehicle to have a HP/t ratio of over 20, which is almost unheard of for a SPH in this weight class. This was due to the 'shoot-and-scoot' battle doctrine, and as a result the VIDAR is incredibly mobile for its size while also having high reverse to boot as well. Even other SPHs considered mobile like the [[2S3M]] top out at 18.9 HP/t and have less armour, lack the initial rate of fire and fire their shells at a noticeably lower velocity, giving the K9 and by extension the VIDAR a distinct niche.
+
+To drive the K9 series and its ~47 ton weight up to a max speed of 67 km/h, the K9 uses a powerpack with 1,000 HP. The STX Engine-MTU joint-venture for the MTU 881Ka-500 V8 engine and SNT Dynamics-Allison joint-venture for the X1100-5A3 transmission enable the vehicle to have a HP/t ratio of over 20, which is almost unheard of for an SPH in this weight class. This was due to the 'shoot-and-scoot' battle doctrine, and as a result, the VIDAR is incredibly mobile for its size while also having high reverse to boot as well. Even other SPHs considered mobile like the [[2S3M]] top out at 18.9 HP/t and have less armour, lack the initial rate of fire, and fire their shells at a noticeably lower velocity, giving the VIDAR a distinct niche.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -58,7 +59,7 @@ To drive the K9 series and its ~47 ton weight up to a max speed of 67 km/h, the 
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|CN98 (155 mm)}}
 
-To provide credible and powerful deterrence against potential foreign adversaries, Hyundai WIA developed the domestic 155 mm CN98 L/52 howitzer for the K9 Thunder, while keeping it compatible with NATO standard 155 mm ammunition. This most certainly helped export the VIDAR to Norway; thanks to its rather fast reload rate (for the first three shells on the "ready-rack") the and a wide variety of compatible ammunition, the CN98 cannon makes the VIDAR a fearsome SPH against all enemies it faces, be it something hardened against nuclear war like the [[Object 279]] or something very modern such as the [[M1 Abrams]] if you hit their weakspots. 
+To provide credible and powerful deterrence against potential foreign adversaries, Hyundai WIA developed the domestic 155 mm CN98 L/52 howitzer for the K9 Thunder, while keeping it compatible with NATO standard 155 mm ammunition. This most certainly helped export the VIDAR to Norway; thanks to its rather fast reload rate (for the first three shells on the "ready-rack") and a wide variety of compatible ammunition, the CN98 cannon makes the VIDAR a fearsome SPH against all enemies it faces, be it something hardened against nuclear war like the [[Object 279]] or something very modern such as the [[M1 Abrams]] if you hit their weakspots.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -69,7 +70,7 @@ To provide credible and powerful deterrence against potential foreign adversarie
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 48 || rowspan="2" | -4°/+70° || rowspan="2" | ±180° || rowspan="2" | N/A || 8.8 || 12.2 || 14.8 || 16.4 || 17.4 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
+| rowspan="2" | 48 || rowspan="2" | -2°/+70° || rowspan="2" | ±180° || rowspan="2" | - || 8.8 || 12.2 || 14.8 || 16.4 || 17.4 || rowspan="2" | 7.80 || rowspan="2" | 6.90 || rowspan="2" | 6.36 || rowspan="2" | 6.00
 |-
 ! ''Realistic''
 | 5.9 || 7.0 || 8.5 || 9.4 || 10.0
@@ -94,13 +95,13 @@ To provide credible and powerful deterrence against potential foreign adversarie
 ! 5th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''48''' 
-| Projectiles <br> Propellants 
+| '''48'''
+| Projectiles <br> Propellants
 | 34&nbsp;''(+14)'' <br> 31&nbsp;''(+17)''
 | 19&nbsp;''(+29)'' <br> 21&nbsp;''(+27)''
 | 10&nbsp;''(+38)'' <br> 3&nbsp;''(+45)''
 | 3&nbsp;''(+45)'' <br> 1&nbsp;''(+47)''
-| 1&nbsp;''(+47)'' <br> N/A 
+| 1&nbsp;''(+47)'' <br> N/A
 | No
 |-
 |}
@@ -123,13 +124,17 @@ To provide credible and powerful deterrence against potential foreign adversarie
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-VIDAR's [[CN98 (155 mm)|CN98 (155mm)]] cannon can only inflict damage with HE rounds, so players should be at least aware of how [[Damage mechanics#Overpressure|Overpressure]] works in War Thunder. Having some knowledge of where vehicles can be overpressured (turret rooftops, the upper plates of the hull, areas around hull ammunition storages and so on) is the bare minimum to be able to do any consistent damage to enemy vehicles. 
+The VIDAR's [[CN98 (155 mm)|CN98]] cannon can only inflict damage with HE rounds, so players should be aware of how [[Damage mechanics#Overpressure|overpressure]] works in War Thunder. Having some knowledge of where vehicles can be overpressured (turret rooftops, the upper plates of the hull, areas around hull ammunition storages and so on) is the bare minimum to be able to do any consistent damage to enemy vehicles.
 
-The VIDAR can generally consider two types of enemies as its most noteworthy adversaries; vehicles with stabilized guns, which can fire on the move, and enemy APCs, IFVs, and SPAAGs with high-calibre, rapid-firing heavy machine guns or autocannons. While the VIDAR is constructed mainly out of 35 mm hardened steel plates as opposed to the thin aluminium of its older artillery brethren such as the M109s, it still requires smart planning and quick moving to remain intact. Any enemy main gun will make short work of the VIDAR, and the thin plating can only resist HMG and certain autocannon rounds. Most enemy vehicles must therefore be considered lethal; while the vast majority of 12.7 mm (.50 cal) and 14.5 mm HMG rounds can be shrugged off, anything bigger is much more likely to either fully penetrate or at least severely harm the vehicle. Many 20 mm APDS rounds will go through the armour at normal engagement ranges. Any sort of HVAP or APDS bigger than 20 mm will ignore the steel plates; APFSDS will not even think of it as a barrier between itself and the crew or ammunition load! Here, enemy IFVs such as the Bradleys, Type 89, or BMP series can be considered dangerous opponents to face. An enemy missile hitting the VIDAR is more likely than not to destroy the vehicle. 
+The VIDAR can generally consider two types of enemies as its most noteworthy adversaries; vehicles with stabilized guns, which can fire on the move, and vehicles equipped with autocannons. While the VIDAR is constructed mainly out of 35 mm hardened steel plates as opposed to the thin aluminium of its older artillery brethren such as the [[M109 (Family)|M109]]s, it still requires smart planning and quick moving to remain intact. Any enemy main gun will make short work of the VIDAR, and the thin plating can only really resist HMG and certain autocannon rounds.
 
-Using the very good acceleration and turning speeds of the VIDAR will help the commander move quickly from one favourable position to another. Using natural cover such as trenches, ditches, muddy riverbanks, or small clusters of trees will help conceal the vehicle while remaining within viewing distance of the battlefield.  The excellent sights will provide the opportunity to spot and engage enemies from afar, and the near-instant-use laser rangefinder will automatically raise or lower the gun to the right horizontal elevation for the targeted enemy who finds himself at the receiving end of the L/52 cannon.
+Talking about stabilizers first, the VIDAR finds itself at a Battle Rating where stabilizers start being more common. Cold War icons like the [[Leopard 1]] and [[M60]] don't come equipped with them, but vehicles such as the [[T-55A]], [[M60A1 (AOS)]], [[M3 Bradley]] and others like it are a dime a dozen. These vehicles can, as the name implies, fire on the move, as their guns are stabilized in one or more axes, while your slow horizontal slew rate and lack of one means against these vehicles you are unlikely to fire the first shot against them while on the move yourself. It may be beneficial to find longer ranged sightlines or flanking the enemy in uptiers using your high mobility, as you may outflank and destroy enemy vehicles without them noticing your presence rather than accidentally meeting one of these vehicles head-on and suffering the consequences of an unstabilized gun.
 
-The choice of HE-VT means the VIDAR can successfully engage aircraft. Using the laser rangefinder, one can target helicopters at range, both stationary and moving. With some practice, it becomes relatively easy to engage moving aircraft using the high muzzle velocity, good sights, and good proximity fuzing radius. Enemy planes flying directly against the VIDAR can be "swatted" out of the sky with ease.
+Against autocannons, the VIDAR unfortunately doesn't fare much better either, with superficial armor when it comes to protecting against direct enemy fire. This as a result means that if you take fire from the enemy you will at best be crippled and at worst suffer a catastrophic detonation should one of the penetrating shells hit the ammo. The benefit of autocannons is that, even if unstabilized, they can usually be "sprayed" at a target and have generally somewhat accurate results. Vehicles with a high slew rate on their turrets such as the [[AMX-30 DCA]] and [[Marder IFV (Family)|Marder IFV]]s can also fire on the move quasi-stabilized as well, so if you hear autocannon fire near you stay vigilant. One of the benefits of fighting vehicles with such armament is that they too are generally lightly armored, so as a result should you ambush them or get a direct hit on them first chances are you will win the engagement with minimal damage taken. Vehicles to generally be wary of around this BR would be stabilized autocannon vehicles such as the [[Gepard]], [[M3 Bradley]], [[BMP-2]] and many others.
+
+Using the very good acceleration and overall high mobility of the VIDAR will help you relocate from long-range firing position to firing position easily. The excellent sights will provide the opportunity to spot and engage enemies from afar, especially with the help of thermals, and the near-instant-use laser rangefinder means your gun will automatically elevate or depress to the correct distance setting within your aiming parameters, significantly easing your main downside of having to hit near the turret or hull roof specifically to cause proper overpressure damage. It is to be noted however that while the VIDAR itself is mobile, the turret traverse in the horizontal can be lacking. It is recommended to always point your turret towards potential enemies while on the move, should you encounter someone on the way to another area of the map. It is also noteworthy to keep the tank's limited gun depression in mind, as this may prove a hindrance on slopes or terrain with frequent vertical elevation changes. Try and find gentle slopes or flat ground if possible, as the VIDAR's large size and poor gun depression limit its effectiveness around hilly terrain.
+
+The option of HE-VT means the VIDAR can successfully engage aircraft. Using the laser rangefinder, one can target both hovering and moving helicopters at range. However, it is somewhat inadvisable to aim at aircraft with the shells available unless they are flying directly at you - mostly due to M107 (PF)'s middling shell velocity of only 580 m/s, almost half that of your nominal HE shell (OE F3 155 mm) which flies at 935 m/s - meaning that hitting enemy aircraft unless highly experienced in other contemporaries which use the same shell will prove surprisingly difficult. It may help to just take a few shots, however, given that you are safe, as if your aim is true you can prove to the enemy that you are a force to be reckoned with and that there is no escape.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -137,7 +142,7 @@ The choice of HE-VT means the VIDAR can successfully engage aircraft. Using the 
 '''Pros:'''
 
 * Great firepower
-* Fast reload rate for a SPH
+* High reload rate for the first 3 ready rack shells
 * Agile and nimble chassis
 * Thermal imager and laser rangefinder
 * 35 mm average all-around armour
@@ -151,10 +156,12 @@ The choice of HE-VT means the VIDAR can successfully engage aircraft. Using the 
 ** Only partial protection from autocannons
 * Poor gun depression
 * Relatively small first-stage ammo rack
+* HE-VT has low velocity compared to contemporaries like the [[Bkan 1C]] or [[Type 99]]'s HE-VT
+* Lack of gun/sight stabilization
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The '''{{Specs|name}}''' is an export version of the South Korean K9 Thunder Self Propelled Artillery System, in service with the Norwegian Army. Norway decided to acquire a total of 24 K9 Thunder systems as well as 6 K10 ammo resupply vehicles in 2017 to replace their aging American-made M109A3GNM. The K9 won out in the competition which consisted of the CAESAR wheeled artillery system, the K9, German PzH2000 and M109G, with the M109G and K9 being the final two contenders before the K9 was selected in December of 2017 as the winner. 
+The '''{{Specs|name}}''' is an export version of the South Korean K9 Thunder Self Propelled Artillery System, in service with the Norwegian Army. Norway decided to acquire a total of 24 K9 Thunder systems as well as 6 K10 ammo resupply vehicles in 2017 to replace their aging American-made M109A3GNM. The K9 won out in the competition which consisted of the CAESAR wheeled artillery system, the K9, German PzH2000 and M109G, with the M109G and K9 being the final two contenders before the K9 was selected in December of 2017 as the winner.
 
 The VIDAR is operated by the only artillery unit in the Norwegian Army, the ''Artilleribataljonen'' of the ''Brigade Nord.'' The vehicle was manufactured by the company Hanwha Land Systems, deliveries started in 2019 and finished between 2020 and 2021. All units were considered operational by the Norwegian Army by January 1st, 2022. In November of 2022, Norway inked an additional deal to import 4 more K9 SPHs and 8 more K10 ammo resupply vehicles, raising the total to 28 VIDARs and 14 K10s soon to be in service.
 
@@ -164,7 +171,7 @@ The K9 has seen combat action in the Yeonpyeong bombardment of 2010, an artiller
 
 The K9 has received very good export deals. Competing in the international markets with very powerful systems like the American M109 and German Pzh2000, it has sold more than 1,700 units, including those for South Korea. Turkey has also fitted their own version of the system, the T-155 Firtina, with 300 units expected to be deployed.
 
-In December of 2013, the program to improve the K9's performance was passed, which led to the K9A1. The K9A1 modification upgraded the FCS of the K0 up to K55A1 standard, added GPS navigation on top of the original INS system, the addition of an APU and a night vision periscope for the driver as well as a rear view camera. The software was also updated from a DOS based framework up to a Windows based digital FCS, to provide a graphics based fire control system for the crew to enhance performance.  
+In December of 2013, the program to improve the K9's performance was passed, which led to the K9A1. The K9A1 modification upgraded the FCS of the K0 up to K55A1 standard, added GPS navigation on top of the original INS system, the addition of an APU and a night vision periscope for the driver as well as a rear view camera. The software was also updated from a DOS based framework up to a Windows based digital FCS, to provide a graphics based fire control system for the crew to enhance performance.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

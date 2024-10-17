@@ -11,7 +11,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The J-7E (Chinese: 歼-7E型歼击机; unified NATO codename: Fishcan) is a heavily-modified model of the MiG-21 series and one of the current support fighters of the PLAAF. The design of a double-delta J-7 was demanded not only by foreign customers, but also by the PLAAF themselves, where the jet would be the replacement of the bulk of J-6s in PLAAF service by late 1980s, as well as a way to earn foreign exchanges to fund the Project No.10 (J-10). Although being quite obsolete in today's standards, the jet is still rather cheap to operate and equipped with relatively advanced IR AAMs to deliver sudden strikes on foes, as well as a makeshift "lead-in" trainer for pilots before they operate newer jets.
+The J-7E (officially K/AJJ7E, or in Chinese 歼-7E型歼击机; unified NATO codename: Fishcan) is a heavily-modified model of the MiG-21 series and one of the current support fighters of the PLAAF. The design of a double-delta J-7 was demanded not only by foreign customers, but also by the PLAAF themselves, where the jet would be the replacement of the bulk of J-6s in PLAAF service by late 1980s, as well as a way to earn foreign exchanges to fund the future Project No.10 (J-10) during the economic reform era. Although being quite obsolete in today's standards, the jet is still rather cheap to operate and equipped with relatively advanced IR AAMs to deliver sudden strikes on foes, as well as a makeshift "lead-in" trainer for pilots before they operate newer jets.
 
 Introduced in [[Update "Red Skies"]], the J-7E offers a very different way to upgrade a [[MiG-21 (Family)|Fishbed]] from the Soviet approach - not only does it have a more powerful engine and additional fuel, it also comes with the iconic double-delta wing with slats, making it a formidable competitor in terms of overall manoeuvrability and especially at lower speeds, which no Soviet Fishbed can ever offer. With its newer PL-5B missile and large countermeasure capacity, the J-7E can prove its abilities over its competitors and use its amazing manoeuvrability to dominate close-quarters engagements in the hands of a good pilot even facing more competent foes.
 
@@ -21,7 +21,7 @@ Introduced in [[Update "Red Skies"]], the J-7E offers a very different way to up
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 The J-7E's airframe looks similar to the [[J-7II]] aside from the double delta wings, having a small nose and a thin fuselage spine like the early [[MiG-21F-13]] the J-7II was developed from. This contrasts with the Soviet MiG-21s, where from the [[MiG-21PFM]] onward, the noses and fuselage spines were enlarged to house search radars and hold additional fuel, respectively. To compensate for the increased weight and aerodynamic penalties, Soviet designers installed increasingly powerful engines. Even though the J-7E's new WP-13F (reverse engineered R-13-300 with some newer technologies) engine lags behind the [[MiG-21SMT]] and [[MiG-21bis]]'s engines in terms of maximum thrust, the J-7E actually weighs less than the [[MiG-21MF (Germany)|MiG-21MF]] and can make the most of its engine power. The acceleration and climb are not on the level of the legendary MiG-21bis but still competitive for a top rank fighter.
 
-Thanks to the new engine and the slat-equipped double-delta wings, the J-7E has one of the most impressive manoeuvrability among all the current top-tier aircraft. The turn time is a whopping 29 seconds even when stock in RB, leaving most its competitors (other than F-5 family) behind by at least 3 seconds. Low-speed manoeuvrability and high-speed energy retention are greatly improved, addressing long-standing issues with the Fishbed family and presenting a pleasant surprise to new pilots. It is possible to make sustained high-G turns at above 1,000 km/h IAS without losing much airspeed at all and maintain good nose authority during spiral climbs or dogfights at near-stall speeds. The slats still work at 900 km/h, which helps with gun snapshots or missile leading at high speeds. The wing loading is lower than most contemporaries other than the [[J35D]] and [[Mirage IIIC]], which feature full tailless delta wings. The J-7E is very solid in close combat and can compete with Mirages and F-5s while dancing around heavier aircraft like [[F-4 Phantom II (Family)|Phantoms]].
+Thanks to the new engine and the slat-equipped double-delta wings, the J-7E has one of the most impressive manoeuvrability among its battle rating. The turn time is a whopping 29 seconds even when stock in RB, leaving most its competitors (other than F-5 family) behind by at least 3 seconds. Low-speed manoeuvrability and high-speed energy retention are greatly improved, addressing long-standing issues with the Fishbed family and presenting a pleasant surprise to new pilots. It is possible to make sustained high-G turns at above 1,000 km/h IAS without losing much airspeed at all and maintain good nose authority during spiral climbs or dogfights at near-stall speeds. The slats still work at 900 km/h, which helps with gun snapshots or missile leading at high speeds. The wing loading is lower than most contemporaries other than the [[J35D]] and [[Mirage IIIC]], which feature full tailless delta wings. The J-7E is very solid in close combat and can compete with Mirages and F-5s while dancing around heavier aircraft like [[F-4 Phantom II (Family)|Phantoms]].
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -63,7 +63,7 @@ Thanks to the new engine and the slat-equipped double-delta wings, the J-7E has 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || 525 || 450 || ~11 || ~5
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || - || 665 || 450 || ~11 || ~5
 |-
 |}
 
@@ -154,40 +154,46 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[250-3 (250 kg)|250 kg 250-3]] bombs
-| 1 || 1 || 1 || 1
+| 1 || 1 || || 1 || 1
 |-
 ! [[250-4 (250 kg)|250 kg 250-4]] bombs
-| 1 || 1 || 1 || 1
+| 1 || 1 || || 1 || 1
 |-
 ! [[500-3 (500 kg)|500 kg 500-3]] bombs
-| || 1 || 1 ||
+| || 1 || || 1 ||
 |-
 ! [[500-4 (500 kg)|500 kg 500-4]] bombs
-| || 1 || 1 ||
+| || 1 || || 1 ||
 |-
 ! [[Type 90-1]] rockets
-| 7 || 7 || 7 || 7
+| 7 || 7 || || 7 || 7
 |-
 ! [[Type 130-2]] rockets
-| 4 || 4 || 4 || 4
+| 4 || 4 || || 4 || 4
 |-
 ! [[PL-2]] missiles
-| 1 || 1 || 1 || 1
+| 1 || 1 || || 1 || 1
 |-
 ! [[PL-5B]] missiles
-| 1 || 1 || 1 || 1
+| 1 || 1 || || 1 || 1
+|-
+! 490 l drop tanks
+| 1 || || || || 1
+|-
+! 720 l drop tanks
+| || || 1 || ||
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
-* 2 x PL-5B missiles
+* 1 x 720 l drop tank + 2 x 490 l drop tanks
+* 1 x 720 l drop tank + 2 x PL-5B missiles
 * 4 x PL-2 missiles
 * 4 x PL-5B missiles
 * 16 x Type 130-2 rockets
@@ -221,20 +227,14 @@ Countermeasures and a radar warning receiver allow the J-7E to have good defensi
 
 * [[Mirage IIIE|Mirage III]] series: they have the infamous [[Matra R550 Magic 1|Magic R.550]] and [[Matra R530]] at their disposal and these missiles can send anything that flies back to the hangar with ease. Their high angle of attack also worth mentioning since they can still sacrifice some more speed in the short run and hit you with the cannons. In this case, keep your speed, try to bleed their energy and avoid their Magics with flares, without them, the J-7E with its higher acceleration and energy retention can duel the Mirage III with relative ease.
 
-* [[J35D]]: Currently the only other fighter in War Thunder with a double-delta wing, the Draken has incredibly low wing loading, a good thrust-to-weight ratio, and powerful RB24J missiles that are functionally identical to AIM-9Js. Its missiles are not quite as potent as the Magics used by the Mirages, but the plane can pull off some very impressive manoeuvres, so be cautious when dogfighting with a Draken for the first few turns and be prepared to drop flares if necessary. The Draken's design is a double edged sword however, because the entire aircraft being a lifting body means that it acts like an enormous airbrake during hard turns, losing immense speed. The tailed double-delta configuration of the J-7E is more balanced and its superior energy retention will give a careful pilot the upper hand in an extended engagement. The J35D also lacks flares, is a large target, and has an even more awkward gun placement than the J-7E, so it's not particularly threatening when its speed is gone.
+* [[J35D]]: The Draken has incredibly low wing loading, a good thrust-to-weight ratio, and powerful RB24J missiles that are functionally identical to AIM-9Js. Its missiles are not quite as potent as the Magics used by the Mirages, but the plane can pull off some very impressive manoeuvres, so be cautious when dogfighting with a Draken for the first few turns and be prepared to drop flares if necessary. The Draken's design is a double edged sword however, because the entire aircraft being a lifting body means that it acts like an enormous airbrake during hard turns, losing immense speed. The tailed double-delta configuration of the J-7E is more balanced and its superior energy retention will give a careful pilot the upper hand in an extended engagement. The J35D also lacks flares, is a large target, and has an even more awkward gun placement than the J-7E, so it's not particularly threatening when its speed is gone.
+* [[J35XS]]: Similar to the J35D, the J35XS is a very good dogfighter but with 2 new upgrades: 2 more RB24J missiles and 12 large calibre countermeasures. So a good J35XS player could easily defeat your PL-5 missiles. Yet due to its fight performance, it loses speed rapidly. Players could exploit this characteristic and energy trip a J35XS player in a dogfight and line up a gun kills.
 
 * [[F-4 Phantom II (Family)|F-4 Phantoms]]: Other than the [[F-4C]]: All top-tier Phantoms are large, bulky planes that will suffer heavily in a dogfight with the J-7E, but they are fast and may be able to outrun the J-7E and other Fishbeds at low altitude courtesy of their higher rip speeds (less so for the FGR/FG if they are carrying gun pods). Careful Phantom pilots will maintain their energy and repeatedly sling missiles at the J-7E while avoiding dogfights, and they also carry plenty of flares to avoid return fire from PL-5Bs. The British Phantoms boast pulse-doppler radars that can guide AIM-7 Sparrows against ground clutter while staying at high altitude. The J-7E has a radar warning receiver and an impressive supply of countermeasures for a light fighter, so long range Sparrow shots can be detected and evaded, but such launches are still annoying to deal with and can wear down the J-7E. Coordinate with teammates, trash their Sparrow shots to force them to switch to short-range IR missiles, and bait them into close quarters engagements where the J-7E excels. The German [[F-4F]] lacks radar-guided missiles despite being otherwise modern, so it is less of a threat.
 
 * [[JA37C|JA37C Viggen]]: Another very iconic jet from Sweden and it is among the most advanced and manoeuvrable jets; the first mass-produced jet that ever comes with a canard. With one of the highest climb rate thanks to its aerodynamic design and powerful engine, as well as an advanced radar with look-down capabilities, this jet among with Phantoms are tough targets to engage. So a good way to avoid quick demise from their Skyflash missiles is to stay as low as you could, where its radar couldn't detect with ease, and try to take a detour behind the enemy lines where they will be concentrated on your teammates, then strike them when they are unaware of it. If that is not the case and you have gone into a dogfight with it, do not head-on as you are a piece of cake to Skyflash. Keep also your speed and manoeuvres in check, bite on its tail as much as you can, since there's a risk for the J-7E to overshoot and get shot by the Viggen's 30 mm cannons.
 
 * [[MiG-23 (Family)]]: The family of late Warsaw Pact variable-swept wing aircraft in-game, the Floggers, have a higher thrust than J-7E does and it does come with better avionics and head-on capable R-60M missiles (MiG-23M and MiG-27M) which can make short work of careless players. The R-24T on the MiG-23MLD are also worth mentioning as they have quite a long radius, are IRST-guided and won't trigger your RWR. But the good news is that in many cases, if the enemy player didn't pay enough attention to tailing J-7E, they are still easy preys to your missiles or sometimes your 30 mm cannons, with such a large airframe, hits can be achieved with ease; but do note that some experienced players will manually control the swept angle of the wings and keep in dogfight for quite a while.
-
-* [[F-16 (Family)]] All F-16s are extremely powerful opponents and your perfect counter, having a strong PD radar and AIM-7Ms being able to destroy you easily even from long ranges without a proper care, and the AIM-9L with a high burning time and G tolerance for an IR missile
-** To defeat the AIM-7M, try to estimate his position by the missile's trails and your RWR, and go on a defensive with the proper use of chaff and notching the enemy's radar to make the radar lose track and so will the missile.
-** In short to medium ranges, the AIM-9L would be used, but can be easily fooled by flares, with the low heat emission of the J-7E helping as well. However, the AIM-9L can reach long ranges, and so your situational awareness has to be redoubled if an F-16 is near to make sure they don't catch you unaware.
-** In dogfight scenarios, it can be very tricky to win against one decent pilot, always try to pull a F-16 to high speeds to make their controls "compress" by their fly-by-wire system and limiting the turning/rolling capacity, and always forcing a scissors in this short period of time, but never trying to do an extended rate fight in a considerable time, because that's the true advantage the F-16 has over you, and try to leave this scissors in case of disadvantage and repeating that same tactic with enough speed
-** The F-16 has a radar leading computer for its M61 Vulcan cannon. As the Vulcan is already well known for a high accuracy, muzzle velocity, fire rate and damage, the leading computer turns the canon into a deadly point-and-click weapon. Try to fly more unpredictably to make it hard for the enemy to get a good aim, as well as avoid being radar-locked for the leading computer to get an aiming solution.
-** The {{PAGENAME}} also has a radar gunsight, giving it the ability to lock the missile automatically at the enemy even in short ranges, and thanks to the extreme acceleration, G-tolerance and wide seeker of the PL-5B, it's possible to catch people by surprise even less than 1 km and with their reaction time being almost null.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

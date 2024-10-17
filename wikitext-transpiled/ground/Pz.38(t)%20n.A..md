@@ -12,13 +12,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+In September 1939, after the invasion of Poland, the Germans realised the obsolescence of their Panzer II and the need to replace it. Development of a new vehicle was undertaken by German companies MAN and Daimler-Benz, as well as the Czech ČKD (renamed as BMM), which had come under German control following the occupation of Czechoslovakia. BMM presented its tank, designated '''Pz.Kpfw.38(t) n.A.''' (''neuer Art'': "new type"), in December 1941. It was a substantial modification of the [[Pz.38(t) F|Pz.38(t)]], receiving a new, 220-horsepower engine, larger road wheels and wider tracks, an extended and largely redesigned hull, and a virtually completely reworked turret. Additionally, for the first time for BMM, the tank partially utilised welded armour. A total of 5 prototypes were built by April 1942, with minor differences between them: the initial vehicles lacked full-fledged optics and also used more riveted components. The vehicle ultimately lost out to the MAN design, known as the Luchs, but its running gear design was later used in the development of the [[Jagdpanzer 38(t)|Hetzer]]. One prototype survived the war and was used as a test laboratory.
+
+Introduced in [[Update "La Royale"]], the Pz.38(t) n.A. is represented by a late prototype with welded armour and optics. In battle, it is a fast and manoeuvrable tank with a good 37 mm gun, which also features a shoulder stabiliser that increases accuracy when firing on the move. However, its crew is positioned quite tightly in the hull, and the armour can only protect against autocannon fire.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-While armour isn't very favourable on the {{PAGENAME}} compared to the [[Pz.38(t) F]] at the same BR, it makes that in less weight and a better engine, allowing it to get into more favourable positions quicker; be it finding a good sniping/ambush spot or driving out an incoming shell. 
+While armour isn't very favourable on the {{PAGENAME}} compared to the [[Pz.38(t) F]] at the same BR, it makes that in less weight and a better engine, allowing it to get into more favourable positions quicker; be it finding a good sniping/ambush spot or driving out an incoming shell.
 
 '''Armour type:'''  <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -30,8 +32,8 @@ While armour isn't very favourable on the {{PAGENAME}} compared to the [[Pz.38(t
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 30 mm (20º) ''Front plate'' 
-20 mm (75º) ''Upper glacis'' 30 mm (15º) ''Lower glacis'' 
+| Hull || 30 mm (20º) ''Front plate''
+20 mm (75º) ''Upper glacis'' 30 mm (15º) ''Lower glacis''
 | 25 mm || 20 mm (5º) || 10 - 20 mm
 |-
 | Turret || 30 mm (6º) ''Turret front'' <br>50 mm (5-38º) ''Gun mantlet'' || 12 - 25 mm || 20 mm (12º) || 12 mm (83º)

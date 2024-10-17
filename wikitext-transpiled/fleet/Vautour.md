@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+'''Vautour''' was a French contre-torpilleur, the second ship of the [[Aigle (Family)|Aigle class]], launched in August 1930. She had a typical fate for a French destroyer - before the surrender of France, she was mainly engaged in convoy escorts. After the signing of the Armistice of Compiègne, she became part of the Vichy fleet. In November 1942, she was scuttled with the rest of the fleet located in Toulon, to avoid falling into German hands. In January 1943, she was raised by the Italians and prepared for refurbishment, but in February 1944 she was sunk again during an Allied air raid on Toulon. After the end of the war, she was raised in 1951 and immediately scrapped.
+
+Introduced in [[Update "La Royale"]], the '''{{Specs|name}}''' features good anti-air and anti-coastal armament with a combination of 37 mm and 13.2 mm guns, allowing her to play a support role for friendly vessels. Against larger threats, she boasts excellent primary armament and very good long-range torpedoes. Much like the rest of the Aigle class, she suffers from low survivability. Her unique feature, compared to the rest of her class, is a complement of [[Guiraud depth charge|depth charges]] and a single secondary gun, [[75 mm/35 model 1925 (75 mm)|75 mm/35]], which has very little practical use.
 
 == General info ==
 === Survivability and armour ===

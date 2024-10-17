@@ -122,9 +122,29 @@ It was introduced during [[Update "Ixwa Strike"]] as a reward for [[wt:en/news/7
 
 '''Pros:'''
 
+* '''The gun is powerful, fast to reload, and can effectively penetrate armour on the M4's front at 200 m. Its APCR has a penetration of up to 137 mm, which is effective against KV-1'''
+* '''Extremely high forward and reverse speeds make it the fastest vehicle on the road; can get to positions quickly or retreat fast'''
+* '''Small and narrow frontal profile allows it to hide behind small bushes or rocks; it's also harder to get hit'''
+* '''Can be a great scout vehicle in higher ranks due to its fast speed. Even the [[M18 GMC]] cannot easily outrun it'''
+* '''Only 8 mm side armour, meaning some shells will go straight through without being detonated'''
+* '''Has a wide range of good-looking camouflage to unlock. Suitable for almost every terrain/map'''
+* '''Has 6 smoke grenades, that create a wide frontal screen when launched; very useful when trying to cover up a general area'''
+* '''Surprisingly durable at times, due to inexperienced players shooting at the front, ignoring the crew member lying in the back'''
+* '''Gun mantlet is thick and covers most of the turret, which makes the turret surprisingly durable'''
+
 *
 
 '''Cons:'''
+
+* '''Thin armour overall, can get killed by almost anything including artillery strikes, strafing planes and [[M2 Browning (12.7 mm)|.50 cal M2 Browning]]'''
+* '''Vulnerable to overpressure (HE shells, artillery strikes, bombs, and rockets)'''
+* '''Compact crew compartment, will be easily destroyed in one shot'''
+* '''Relatively slow turret rotation, combined with the sharp turns at high speed, it is hard to aim'''
+* '''Relatively low calibre shells tend to bounce off angled armour, angled hull of the [[T-34 (Family)|T-34]] is almost impossible to penetrate'''
+* '''Starts to snake around at high speeds, making it hard to control, needing counter-steering.'''
+* '''Sluggish mobility on snowy and desert maps, which takes away its mobility advantage'''
+* '''Cannot turn in place due to wheels'''
+* '''Hard to control at top speed'''
 
 *
 
@@ -136,6 +156,7 @@ It was introduced during [[Update "Ixwa Strike"]] as a reward for [[wt:en/news/7
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_sdkfz_234_2_td Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 * Skins and camouflages for the [[Sd.Kfz.234/2#Media|Sd.Kfz.234/2]] can be used for the {{PAGENAME}}.
 

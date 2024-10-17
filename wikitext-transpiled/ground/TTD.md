@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
+The '''{{Specs|name}}''' '''(Tank Technology Demonstrator)''' is  a rank {{Specs|rank}} British medium tank {{Battle-rating}}. It was introduced in [[Update "Ixwa Strike"]].
 
 == General info ==
 === Survivability and armour ===
@@ -152,6 +152,7 @@ After the Loggim program and its TTD were cancelled the SANDF chose not to buy a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_ttd Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -162,6 +163,7 @@ After the Loggim program and its TTD were cancelled the SANDF chose not to buy a
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

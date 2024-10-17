@@ -169,6 +169,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x Shafrir missiles
 * 8 x 100/50 kg G.P. bombs (800 kg total)
@@ -194,7 +195,6 @@ The Sambad is best used as a support fighter, using its high speed energy retent
 * Has access to a pair of Shafrir AAMs
 * Equipped with a drogue chute to aid with braking during landings
 * Better high-speed acceleration than a lot of its contemporaries thanks to its afterburner
-* Fuselage-mounted SNEB rockets are very accurate; good for ground-attack
 
 '''Cons:'''
 

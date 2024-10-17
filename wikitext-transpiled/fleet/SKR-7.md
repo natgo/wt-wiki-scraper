@@ -53,34 +53,11 @@ The Pr. 35 "Mirka" is armed with a single quintuple 406 mm torpedo launcher arme
 The Mirka rounds off the armament with four RBU-6000 anti-submarine rocket launchers, each carrying 12 rockets to total 48. As being rockets they have a limited effective engagement range, high arcs of fire and are very hard to aim in conjunction with primary weapons, however should a small boat decide to get too close or should you decide to engage a target at point-blank range, the barrage of 25 kg warheads smashing into the superstructure and hull of the hostile ship will almost certainly cripple it, if not outright sink it. The rockets are also useful in defending a capture point as they can be lobbed over smaller islands without exposing your ship.
 
 === Radar ===
-The Pr. 35 has access to search and targeting radar for the [[AK-726 (76 mm)|AK-726]] 76 mm semi-automatic gun turrets, making anti-air capabilities much more advanced than most of the ships it will face at its br. It is equipped with an MR-302 Rubka air/surface search radar and an MR-105 Turel fire control radar, both available in most of the cold war soviet anti submarine frigates. The MR-302 is located on top of the main mast with two Don navigation radar right below it located at port and starboard from the mast. MR-105 is located on top of the bridge (refer to picture). Enemy pilots do not account the existence of this radars as they are uncommon in game, use surprise to your advantage. Targeting radar makes engaging enemy planes an easier task with standard HE ammo. When using HE-VT, AA engagements will be finished in couple seconds. Be aware of the distance as in engagements with planes in distances smaller than 1km, weapons tend to overshoot even when following target indicator. Engage air targets as soon as you see them in a relatively close distance (2-10 km). Proximity shells will make this task easier.
-[[File:Radars Pr. 35.png|thumb|300px|Red circle: MR-302 Rubka air/surface search radar <br> Blue circle: MR-102 Turel fire control radar]]
-[[File:Radar interface Pr. 35.png|right|thumb|Mirka's radar display. <br> Dark green: within targeting radar angle <br> Light green: targeting radar dead zone]]
-
-{| class="wikitable" style="text-align:center"
-! colspan="4" | MR-302 Rubka - Air/surface Search Radar
-|-
-! {{Annotation|Maximum<br/>Detection<br/>Range|The maximum possible range at which a target can be detected}}
-! {{Annotation|Guaranteed<br/>Detection<br/>Range|The range, below which, detection of a target is practically guaranteed}}
-! {{Annotation|Max Azimuth<br/>Scan Angle|How far to each side the radar can scan (widest search mode)}}
-! {{Annotation|Max Elevation<br/>Scan Angle|How far up and down the radar can scan (widest search mode)}}
-|-
-| 120,000 || 10,000 m || ±180° || 0°/+75°
-|-
-! colspan="4" | MR-105 Turel - Fire Control Radar
-|-
-! {{Annotation|Maximum<br/>Tracking<br/>Range|The maximum range at which a target can be tracked}}
-! {{Annotation|Minimum<br/>Tracking<br/>Range|The range below which targets cannot be tracked by the radar}}
-! {{Annotation|Azimuth Tracking<br/>Angle|How far to each side the radar can track a target}}
-! {{Annotation|Elevation Tracking<br/>Angle|How far up and down the radar can track a target}}
-|-
-| 10,000 m || 100 m || ±155° || 0°/+80°
-|-
-|}
-
-Note:
-
-* Targeting radar can work with search radar down or by locking on target when an aircraft is not shown on radar display.
+[[File:SKR-7-radar-view.png|thumb|Radar HUD tracking a target, with firing lead indicator, distance to the target, and closing speed visible.]]
+The vessel comes equipped with two radars:
+* MR-105 - tracking radar director, located on the main superstructure
+* Foot-N - search radar antenna, located on top of the mast
+They can spot targets at a significant range and provide a lead indicator, making it very easy to destroy aircraft using {{Annotation|HE-VT|High-explosive variable time fuse}} rounds, even at long range where the target might not expect accurate fire. By default, or after being destroyed and repaired, your radar may be turned off. You can turn it back on using the Switch radar search on/off control (default: {{key press|Alt|R}}). Be aware that if the target enters the blind spot behind the vessel, radar tracking (including the lead indicator) will be lost. In engagements with planes at distances smaller than 1 km, weapons tend to overshoot even when following the target indicator. Tracking will be lost at around 14 km, and at ranges of around 10 km or more, the lock will be very unstable. The detection range is over 20 km, including shells, missiles, and other munitions in flight. Radars have only one search mode available and do not provide any assistance in detecting or engaging surface targets.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->

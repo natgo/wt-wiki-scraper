@@ -41,7 +41,7 @@ The engine tends to run hot and without MEC it will, after quite a while, overhe
 | 575 || 559 || rowspan="2" | {{Specs|ceiling}} || 19.3 || 19.8 || 13.5 || 13.5 || rowspan="2" | 368
 |-
 ! Upgraded
-| 608 || 592 || 18.0 || 18.5 || 18.7 || 16.0
+| 610 || 592 || 17.8 || 18.5 || 18.7 || 16.0
 |-
 |}
 

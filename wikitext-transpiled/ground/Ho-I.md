@@ -7,7 +7,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' ({{Annotation|二式砲戦車「ホイ」|Ni-Shiki Hō-Sensha [Ho-I]}}) was designed to uparm the [[Chi-Ha]]'s 57 mm low velocity cannon to a 75 mm low velocity to beat bunkers the Chi-Ha couldn't. Development to squeeze a 75 mm into the turret of the Chi-Ha or Chi-Ha Kai took some time and only by 1941 was a ''Type 1 Experimental Ho-I'' ready, but for production the [[Chi-He]] hull was chosen to ease up production.
 
-The Ho-I was introduced with the rest of the Japanese ground forces tree with [[Update 1.65 "Way of the Samurai"]]. Essentially a Chi-He with a new turret and short barrel 75 mm meant to replace the older [[Chi-Ha]]s in their infantry support role offering a bigger bang. It can also load HEAT, mimicking the role of the [[Pz.IV E]] in a smaller and faster package but with a longer reload.
+The Ho-I was introduced alongside the rest of the Japanese ground forces tree in [[Update 1.65 "Way of the Samurai"]]. Essentially a [[Chi-He]] with a new turret and a short-barrelled 75 mm gun, it was designed to supplement the [[Chi-Ha]]s in their infantry support role and take over bunker-busting duties by delivering a more powerful impact. The Ho-I can also load HEAT shells, mimicking the role of the [[Pz.IV E]] in a smaller, faster package, albeit with a longer reload time. Its low-velocity HEAT shell, with 90 mm of penetration, can effectively handle most targets, and combined with its average mobility, favours close-range engagements. While longer-range engagements are possible, they require excellent marksmanship due to the challenging ballistics.
 
 == General info ==
 === Survivability and armour ===
@@ -160,16 +160,18 @@ The initial prototype Ho-I used the Chi-Ha chassis, but it was decided to switch
 
 ;Related Development
 
+* [[Chi-Ha]]
 * [[Chi-He (Family)]] - <small>(Base hull)</small>
 
-;Other vehicles of similar configuration and role
+;Tanks of comparable role, configuration, and era
 
-* [[Chi-Ha]]
-* German tanks equipped with [[KwK37 (75 mm)]]
-** [[Pz.III N]]
-** [[Pz.IV (Family)]] - <small>(Early models)</small>
-* [[T-26-4]]
-* {{Specs-Link|us_m8_scott}}
+* Axis tanks equipped with [[KwK37 (75 mm)]] L/24
+** [[File:Germany flag.png|30px|link=]] [[Pz.III N]]
+** [[File:Germany flag.png|30px|link=]] [[Pz.IV (Family)]] - <small>(Early models)</small>
+** [[File:Kingdom Hungary flag.png|30px|link=]] [[Turan II]]
+* [[File:USSR flag.png|30px|link=]] [[T-26-4]]
+* [[File:USA flag.png|30px|link=]] [[M8 Scott]]
+* [[File:Finland flag.png|30px|link=]] [[BT-42]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

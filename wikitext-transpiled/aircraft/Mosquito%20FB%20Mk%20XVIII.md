@@ -210,6 +210,9 @@ Isolated examples do exist of the Molins gun being used in the air-to-air role, 
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
+* [[Mosquito (Family)]]
+
 ;Similar aircraft fitted with a 57 mm gun
 
 * [[Ki-102 otsu]]

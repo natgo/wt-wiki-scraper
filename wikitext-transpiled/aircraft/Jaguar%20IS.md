@@ -83,34 +83,34 @@ As an aside, it's worth noting that the Jaguar IS, like all Jaguar variants, has
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="6" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="3" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | Rolls-Royce Turbomeca Limited Adour Mk.811 || 2
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="3" | 7,616 kg || colspan="3" | 453 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | Max Takeoff<br>Weight
+! colspan="5" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 14m fuel || 20m fuel || 30m fuel || 45m fuel || 49m fuel
 |-
-| 709 kg || colspan="2" | _____
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 709 kg || colspan="2" | Afterburning low-bypass turbofan
+| 8,592 kg || 8,937 kg || 9,597 kg || 10,587 kg || 10,869 kg || _,___ kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="6" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MTOW
+! Condition || 100% || WEP
+! 14m fuel || 20m fuel || 30m fuel || 45m fuel || 49m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 2,300 kgf || 3,630 kgf
+| 0.84 || 0.81 || 0.76 || 0.69 || 0.67 || _.__
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 2,424 kgf<br>(200 km/h) || 3,636 kgf<br>(200 km/h)
+| 0.85 || 0.81 || 0.76 || 0.69 || 0.67 || _.__
 |-
 |}
 
@@ -154,7 +154,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="5%" | 1 !! width="5%" | 2 !! width="5%" | 3 !! width="5%" | 4 !! width="5%" | 5 !! width="5%" | 6 !! width="5%" | 7 !! width="5%" | 8
-| rowspan="9" width="30%" | <!-- <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div> -->
+| rowspan="10" width="30%" | <!-- <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div> -->
 |-
 ! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
 | 1 || 2 || || || 2 || || 2 || 1
@@ -180,6 +180,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! LITENING II targeting pod
 | || || || 1* || || || ||
 |-
+! 264 gal drop tanks
+| || 1 || || || 1 || || 1 ||
+|-
 | colspan="10" | * The LITENING II pod must be carried when equipping Mk.13 bombs
 |-
 |}
@@ -187,7 +190,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 3 x 264 gal drop tanks
 * 2 x Matra R550 Magic 2 missiles
 * 8 x 540 lb Mk.M2 bombs (4,320 lb total)
 * 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
@@ -339,6 +342,7 @@ The Jaguar saw operational deployment in Indian service on multiple occasions, i
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jaguar_is Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

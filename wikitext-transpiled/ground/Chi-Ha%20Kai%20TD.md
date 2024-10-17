@@ -166,19 +166,23 @@ The engine provides adequate power - the power-weight ratio is comparable with o
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;[[Chi-Ha (Family)|Related Development]]
-* [[Chi-Ha]] - <small>(Base hull)</small>
+;Related Development
+* [[Chi-Ha (Family)]]
+** [[Chi-Ha]] - <small>(Base hull)</small>
+** [[Chi-Ha LG|Chi-Ha Long Gun]] - <small>(Navy variant)</small>
+** [[Chi-Ha Short Gun]] - <small>(Navy variant)</small>
+** [[Ho-Ni I]] / [[Ho-Ni III|III]] - <small>(Gun tank variant(s))</small>
+** [[Ho-Ro]] - <small>(Howitzer tank variant)</small>
 * [[Chi-He (Family)|Chi-He]] - <small>(Successor)</small>
-* [[Chi-Ha LG|Chi-Ha Long Gun]] - <small>(Navy variant)</small>
-* [[Chi-Ha Short Gun]] - <small>(Navy variant)</small>
-* [[Ho-Ni I]] / [[Ho-Ni III|III]] - <small>(Gun tank variant(s))</small>
-* [[Ho-Ro]] - <small>(Howitzer tank variant)</small>
 
 ;Other vehicles of similar configuration and role
-* [[Panzer III (Family)]] - <small>(Early models)</small>
-* [[LT-38 (Family)]]
-* [[M15/42]]
-* [[Lago I]]
+* [[File:Czech flag.png|30px|link=]] [[File:Germany flag.png|30px|link=]] [[LT-38 (Family)|Pz.38(t)]]
+* [[File:Germany flag.png|30px|link=]] [[Pz.III (Disambiguation)|Pz.III (Family)]] - <small>(Early models)</small>
+* [[File:Kingdom Hungary flag.png|30px|link=]] [[Turan I]]
+* [[File:Kingdom Italy flag.png|30px|link=]] [[M15/42]]
+* [[File:France flag.png|30px|link=]] [[AMC.35 (ACG.1)]]
+* [[File:Britain flag.png|30px|link=]] [[Valentine I]]
+* [[File:Sweden flag.png|30px|link=]] [[Lago I]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

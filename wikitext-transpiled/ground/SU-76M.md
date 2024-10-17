@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. It is based on the modified chassis of the obsolescent [[T-70|T-70M]] light tank, designed primarily as an infantry support weapon with a secondary anti-tank role.
+The '''SU-76''' was the most widely produced self-propelled artillery mount of the Red Army. It was designed to support infantry and saw use throughout World War II. The first SU-76, based on the chassis of the [[T-60]] and [[T-70]] tanks, entered production in 1942. In 1943, a modernised version, designated '''SU-76M''', with an open fighting compartment and engine with increased service life, was developed and entered serial production. Production of these self-propelled guns continued until 1945, with over 14,000 units produced. Besides the Red Army, they were also used by the armies of Poland, China, North Korea (in the Korean War), Albania, and Yugoslavia.
+
+Introduced during the Closed Beta Test for Ground Forces before Update 1.41, the '''SU-76M''' presents itself as a decent sniper with its powerful 76 mm cannon. This weapon's capabilities are sufficient to engage the vast majority of opponents at ranges up to 1 km. Combined with weak armour and an open fighting compartment, it is most optimal for the SU-76M to stay out of the main engagements, attacking the enemy from afar and from behind cover, although, with some skill, the vehicle can also provide direct support to allies at close and medium ranges. It is quite nimble and compact, therefore relatively inconspicuous.
 
 == General info ==
 === Survivability and armour ===

@@ -135,49 +135,47 @@ The '''''{{PAGENAME}}''''' is armed with:
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
-{{main|Mk.M2 (540 lb)|L.D H.E. M.C. Mk.1 (1,000 lb)|RN|SNEB type 23}}
-{{main|Firestreak|Red Top}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
-* Without load
-* 2 x Firestreak missiles
-* 2 x Red Top missiles
-* 4 x 540 lb Mk.M2 bombs (2,160 lb total)
-* 2 x 1,000 lb L.D H.E. M.C. Mk.1 bombs (2,000 lb total)
-* 144 x SNEB type 23 rockets + 48 x RN rockets
-* 144 x SNEB type 23 rockets + 2 x Firestreak missiles
-* 2 x Firestreak missiles + 4 x 540 lb Mk.M2 bombs (2,160 lb total)
-* 2 x Red Top missiles + 144 x SNEB type 23 rockets
-* 2 x Red Top missiles + 4 x 540 lb Mk.M2 bombs (2,160 lb total)
-
-==== Custom loadout options ====
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
 | rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
-! 540 lb Mk.M2 bombs
+! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
 | 1, 2 || || || || 1, 2
 |-
-! 1,000 lb L.D H.E. M.C. Mk.1 bombs
+! [[L.D H.E. M.C. Mk.1 (1,000 lb)|1,000 lb L.D H.E. M.C. Mk.1]] bombs
 | 1 || || || || 1
 |-
-! RN rockets
+! [[RP]] rockets
 | || || 48 || ||
 |-
-! SNEB type 23 rockets
+! [[SNEB type 23]] rockets
 | 18, 36 || 36 || || 36 || 18, 36
 |-
-! Firestreak missiles
+! [[Firestreak]] missiles
 | || || 2 || ||
 |-
-! Red Top missiles
+! [[Red Top]] missiles
 | || || 2 || ||
-|-
-| colspan="6" | Maximum permissible weight imbalance: 450 kg
 |-
 |}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
+* Without load
+* 2 x Firestreak missiles
+* 2 x Red Top missiles
+* 4 x 540 lb Mk.M2 bombs (2,160 lb total)
+* 2 x 1,000 lb L.D H.E. M.C. Mk.1 bombs (2,000 lb total)
+* 144 x SNEB type 23 rockets + 48 x RP rockets
+* 144 x SNEB type 23 rockets + 2 x Firestreak missiles
+* 2 x Firestreak missiles + 4 x 540 lb Mk.M2 bombs (2,160 lb total)
+* 2 x Red Top missiles + 144 x SNEB type 23 rockets
+* 2 x Red Top missiles + 4 x 540 lb Mk.M2 bombs (2,160 lb total)
+{{Navigation-End}}
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->

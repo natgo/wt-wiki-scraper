@@ -8,22 +8,19 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is an armoured fighting vehicle used by Lithuania, which was developed in collaboration with ARTEC GmbH. The vehicle's roots trace back to the German-Dutch "Boxer AFV" program, showcasing a joint effort by European nations to enhance their armoured capabilities. The Vilkas variant, specifically tailored for Lithuania, integrates advanced technologies and offers versatility in combat scenarios. Entering service in the Lithuanian Armed Forces in 2019, the Vilkas deployment represents Lithuania's strategic investment in a contemporary armoured platform, capable of meeting the challenges of modern warfare.
 
-The '''Boxer ''Vilkas''''' is an event gift German light tank introduced during [[Update "Air Superiority"]] as a reward for the [[wt:en/news/8644-event-winter-extreme-earn-yourself-rewards-this-festive-season-en|2023 Winter Extreme event]]. The Vilkas is a unique light tank choice for German top-tier players, providing fire-and-forget Spike missiles for use against tanks at longer ranges or against nearby helicopters. As such, the Vilkas presents a new playstyle to players of the German ground tree, allowing them to rush to a good position using mobility, and play as a "sniper" with decent firepower and long-range missile, or perhaps play the vehicle more aggressively and use the Spike missiles for dispatching helicopters and long-range targets of opportunity when needed. All in all, the Vilkas is a uniquely interesting vehicle to bolster the top lineups of the German tech tree.
+The '''''Vilkas''''' is an event gift German light tank introduced during [[Update "Air Superiority"]] as a reward for the [[wt:en/news/8644-event-winter-extreme-earn-yourself-rewards-this-festive-season-en|2023 Winter Extreme event]]. The Vilkas is a unique light tank choice for German top-tier players, providing fire-and-forget Spike missiles for use against tanks at longer ranges or against nearby helicopters. As such, the Vilkas presents a new playstyle to players of the German ground tree, allowing them to rush to a good position using mobility, and play as a "sniper" with decent firepower and long-range missile, or perhaps play the vehicle more aggressively and use the Spike missiles for dispatching helicopters and long-range targets of opportunity when needed. All in all, the Vilkas is a uniquely interesting vehicle to bolster the top lineups of the German tech tree.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-Despite its composite screens covering the entire hull, Vilkas does not offer particularly robust protection. While it can withstand high-caliber machine gun fire from the frontal aspect at all ranges, its sides and rear lack adequate armor coverage. Nevertheless, its armor proves invaluable in mitigating fragmentation damage from artillery strikes and rockets, setting it apart from other lightly armored vehicles at its battle rating. One of Vilkas's standout features is its spacious interior, which enhances survivability by reducing the likelihood of an instant kill from a singular hit. Additionally, the unmanned turret significantly bolsters its protection capabilities, allowing operators to engage targets without fear of immediate destruction. Even in the event of ammunition detonation from cannon belts or Spike missile launchers, the platform remains resilient, further increasing survivability and sustaining operational effectiveness on the battlefield. 
+Despite its composite screens covering the entire hull, the Vilkas does not offer particularly robust protection. While it can withstand high-calibre machine gun fire from the frontal aspect at all ranges, its sides and rear lack adequate armour coverage. Nevertheless, its armour proves invaluable in mitigating fragmentation damage from artillery strikes and rockets, setting it apart from other lightly armoured vehicles at its battle rating. One of the Vilkas's standout features is its spacious interior, which enhances survivability by reducing the likelihood of an instant kill from a singular hit. Additionally, the unmanned turret significantly bolsters its protection capabilities, allowing operators to engage targets without fear of immediate destruction. Even in the event of detonation of the cannon belts or Spike missile launchers, the platform remains resilient, further increasing survivability and sustaining operational effectiveness on the battlefield.
 
-However, despite these strengths, Vilkas's vulnerability from the sides and rear underscores the importance of strategic positioning and situational awareness to maximize its defensive capabilities. Commanders must leverage its strengths while mitigating its weaknesses to ensure its effectiveness in combat scenarios. Overall, Vilkas represents a versatile and survivable platform if handled correctly.
+'''Armour type:'''
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
-*Rolled homogeneous armor (Most of the hull structure)
-*High hardness homogeneous armor (Turret, Lower glacis, Hull front roof, Parts of hull sides)
-*Composite screen (Additional armor on hull sides and rear)
+*Rolled homogeneous armour (Most of the hull structure)
+*High hardness homogeneous armour (Turret, Lower glacis, Hull front roof, Parts of hull sides)
+*Composite screen (Additional armour on hull sides and rear)
 
 {| class="wikitable"
 |-
@@ -35,17 +32,17 @@ However, despite these strengths, Vilkas's vulnerability from the sides and rear
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+'''Notes:'''
+
 *Wheels and suspension - 10 mm (Chassis)
-*Gun mount - 38 mm (Cast homogeneous armor)
+*Gun mount - 38 mm (Cast homogeneous armour)
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-Vilkas boasts a commendable power-to-weight ratio of 24.7, endowing it with remarkable speed and agility despite its considerable size and profile. Its off-road capabilities and superb top speed contribute to its versatility on the battlefield, allowing for swift maneuvers and rapid responses to changing tactical situations. Additionally, Vilkas maintains a decent reverse speed, further enhancing its mobility and operational effectiveness in dynamic environments. However, unlike some other IFVs in the game, Vilkas is not amphibious. While this may seem like a drawback at first glance, its lack of amphibious capability often proves to be inconsequential in combat scenarios. Amphibious operations are typically rare and highly situational, limiting their relevance in most engagements. Therefore, Vilkas's non-amphibious nature does not significantly impact its combat performance in the majority of scenarios.
+The Vilkas boasts a commendable power-to-weight ratio of 24.7, endowing it with remarkable speed and agility despite its considerable size and profile. Its off-road capabilities and superb top speed contribute to its versatility on the battlefield, allowing for swift manoeuvres and rapid responses to changing tactical situations. Additionally, the Vilkas maintains a decent reverse speed, further enhancing its mobility and operational effectiveness in dynamic environments.
 
-Overall, Vilkas's impressive speed, agility, and off-road capabilities far outweigh any limitations. Commanders can rely on its exceptional mobility to execute rapid assaults, flank enemy positions, and maneuver effectively in diverse combat environments.{{tankMobility|abMinHp=1,263|rbMinHp=721}}
+{{tankMobility|abMinHp=1,263|rbMinHp=721}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -55,7 +52,9 @@ Overall, Vilkas's impressive speed, agility, and off-road capabilities far outwe
 === Main armament ===
 {{Specs-Tank-Weapon|2}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
-{{main|Bushmaster 2 Mk.44 (30 mm)}}The Vilkas is equipped with the formidable Bushmaster 2 Mk.44 30mm automatic cannon. While it may lack efficacy against heavily armored vehicles in head-on combat engagements, its versatility shines in various tactical roles. Primarily, the Bushmaster 2 Mk.44 proves particularly effective for flanking maneuvers and short-range anti-aircraft defense against approaching helicopters or slow and low-flying enemy jets. Its rapid rate of fire and powerful ammunition make it a formidable deterrent against aerial threats, providing critical support to ground forces. Moreover, when deployed within a group, the Vilkas becomes invaluable for targeting and neutralizing critical components of enemy vehicles, such as tracks or cannon barrels. Additionally, the Vilkas's Bushmaster 2 Mk.44 is recommended for continuous use of the APFSDS belt, even when engaging aircraft or lightly armored vehicles.
+{{main|Bushmaster 2 Mk.44 (30 mm)}}
+
+The Vilkas is equipped with the formidable Bushmaster 2 Mk.44 30 mm automatic cannon. While it may lack efficacy against heavily armoured vehicles in head-on combat engagements, its versatility shines in various tactical roles. Primarily, the Bushmaster 2 Mk.44 proves particularly effective for flanking manoeuvres and short-range anti-aircraft defense against approaching helicopters or slow and low-flying enemy jets. Its rapid rate of fire and powerful ammunition make it a formidable deterrent against aerial threats, providing critical support to ground forces. Moreover, when deployed within a group, the Vilkas becomes invaluable for targeting and neutralizing critical components of enemy vehicles, such as tracks or cannon barrels. Additionally, the Vilkas's Bushmaster 2 Mk.44 is recommended for continuous use of the APFSDS belt, even when engaging aircraft or lightly armoured vehicles.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -66,7 +65,7 @@ Overall, Vilkas's impressive speed, agility, and off-road capabilities far outwe
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 600 (200) || rowspan="2" | 200 || rowspan="2" | -10°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 54.5 || 75.5 || 91.7 || 101.4 || 107.9 || rowspan="2" | 13.00 || rowspan="2" | 11.50 || rowspan="2" | 10.60 || rowspan="2" | 10.00
+| rowspan="2" | 600 (200) || rowspan="2" | 200 || rowspan="2" | -10°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 54.5 || 75.5 || 91.7 || 101.4 || 107.9 || rowspan="2" | 0.26 || rowspan="2" | 0.23 || rowspan="2" | 0.21 || rowspan="2" | 0.20
 |-
 ! ''Realistic''
 | 34.1 || 40.1 || 48.7 || 53.9 || 57.3
@@ -77,9 +76,8 @@ Overall, Vilkas's impressive speed, agility, and off-road capabilities far outwe
 {{:Bushmaster 2 Mk.44 (30 mm)/Ammunition|APDS, HEI-T, APFSDS}}
 
 ==== [[Ammo racks]] ====
-[[File:Ammoracks Vilkas.png|thumb|[[Ammo racks]] of the {{PAGENAME}}]]
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.35.1.86''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -98,9 +96,12 @@ Overall, Vilkas's impressive speed, agility, and off-road capabilities far outwe
 === Additional armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
-{{main|Spike-LR2MR}}The Vilkas comes equipped with the Spike-LR2MR IR fire-and-forget missiles, offering a potent but somewhat unpredictable anti-tank capability. These missiles show variable reliability, dependent on factors such as target speed, launch angle, distance, and carrier velocity. While they hold promise as stand-off weapons effective against heavily armored targets, their performance can be inconsistent. Despite their small warhead, successful penetration can result in significant damage to enemy tanks. The missile launcher's positioning allows for No Line-of-Sight launches, contingent upon various factors and the target's level of exposure. However, their effectiveness diminishes at distances shorter than 400 meters. Moreover, their capacity for top-down attacks may encounter limitations, particularly against combat vehicles with additional roof protection, such as Russian tanks with ERA or heavily armored tanks like the Strv 122 or Leopard 2A7 featuring NERA components.
+{{main|Spike-LR2MR}}
 
-In essence, the Spike-LR2MR's effectiveness hinges largely on chance, making its deployment a calculated risk on the battlefield. Commanders must weigh the situational factors carefully when employing these missiles, recognizing both their potential and limitations in engaging enemy armor.
+The Vilkas comes equipped with the Spike-LR2MR IR fire-and-forget missiles, offering a potent but somewhat unpredictable anti-tank capability. These missiles show variable reliability, dependent on factors such as target speed, launch angle, distance, and carrier velocity. While they hold promise as stand-off weapons effective against heavily armoured targets, their performance can be inconsistent. Despite their small warhead, successful penetration can result in significant damage to enemy tanks. The missile launcher's positioning allows for No Line-of-Sight launches, contingent upon various factors and the target's level of exposure. However, their effectiveness diminishes at distances shorter than 400 metres. Moreover, their capacity for top-down attacks may encounter limitations, particularly against combat vehicles with additional roof protection, such as Russian tanks with ERA or heavily armoured tanks like the Strv 122 or Leopard 2A7 featuring NERA components.
+
+In essence, the Spike-LR2MR's effectiveness hinges largely on chance, making its deployment a calculated risk on the battlefield. Commanders must weigh the situational factors carefully when employing these missiles, recognizing both their potential and limitations in engaging enemy armour.
+
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="4" | [[Spike-LR2MR]] missile || colspan="4" | Reloading rate (seconds)
@@ -116,8 +117,8 @@ In essence, the Spike-LR2MR's effectiveness hinges largely on chance, making its
 {{:Spike-LR2MR/Ammunition|Spike-LR2}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.35.1.86''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -146,7 +147,7 @@ In essence, the Spike-LR2MR's effectiveness hinges largely on chance, making its
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Vilkas is best played at medium range in a hull-down scenario, to use the Spike missiles and the cannon. In Realistic Battles, it is best to remain at a range (ideally further than 500 m) to use the Spike missiles efficiently, as they need at least 300 m distance to not overshoot the target. However, the 25 mm APFSDS is largely ineffective at range against heavily armoured targets unless shooting sides at a flatter angle. At closer ranges, it is easier to damage cannon barrels and tracks, but depending on the distance, the Spike missiles may be infeasible or unusable. Thus, playing at medium ranges is the best option for the Vilkas. Remaining behind cover allows the crew to be safe from all kinetic munitions, but still vulnerable to overpressure damage from explosive munitions. In addition, if the turret's ammunition is destroyed, a fire can occur. If this occurs, the Vilkas' position is easily given away by a large ammo cook-off and should be repositioned as soon as possible, ideally to a friendly capture point to re-arm. Rearming one 200-round 25 mm magazine at a capture point takes less than a minute. The excellent power-to-weight ratio of the Vilkas enables quick movements and rotations, especially in uneven environments. In addition, the commander's thermal sight permits the acquisition and firing of the Spike missiles while mostly concealed behind cover. However, due to the lacklustre payload inside the Spike missiles, multiple missiles may be required to destroy a tank. 
+The Vilkas is best played at medium range in a hull-down scenario, to use the Spike missiles and the cannon. In Realistic Battles, it is best to remain at a range (ideally further than 500 m) to use the Spike missiles efficiently, as they need at least 300 m distance to not overshoot the target. However, the 25 mm APFSDS is largely ineffective at range against heavily armoured targets unless shooting sides at a flatter angle. At closer ranges, it is easier to damage cannon barrels and tracks, but depending on the distance, the Spike missiles may be infeasible or unusable. Thus, playing at medium ranges is the best option for the Vilkas. Remaining behind cover allows the crew to be safe from all kinetic munitions, but still vulnerable to overpressure damage from explosive munitions. In addition, if the turret's ammunition is destroyed, a fire can occur. If this occurs, the Vilkas' position is easily given away by a large ammo cook-off and should be repositioned as soon as possible, ideally to a friendly capture point to re-arm. Rearming one 200-round 25 mm magazine at a capture point takes less than a minute. The excellent power-to-weight ratio of the Vilkas enables quick movements and rotations, especially in uneven environments. In addition, the commander's thermal sight permits the acquisition and firing of the Spike missiles while mostly concealed behind cover. However, due to the lacklustre payload inside the Spike missiles, multiple missiles may be required to destroy a tank.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

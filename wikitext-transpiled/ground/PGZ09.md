@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (Chinese: PGZ09式自行高射炮; industry code WA3001) has been in PLAGF service since the late 2000s, alongside previous systems and SAM systems for field and infrastructure defense. The Oerlikon KDA (GDF-001) was introduced to Mainland China during the late 1980s and was licensed to be built domestically in 1990 as the PG90. With the introduction of AHEAD ammunition for the 35 mm autocannons by the mid-2000s, there were also plans to built a new SPAAG with such capabilities on a variety of chassis ranging from wheeled APC to the latest artillery chassis; alternative plans to introduce the 2S6 Tunguska were also proposed. The prototype using the latest artillery chassis eventually won the bidding; although there were plans to install SAMs on the sides, the finalized prototype only has a new FCS installed and the armament consisted of only a pair of 35 mm autocannons.
+The '''{{Specs|name}}''' (Chinese: PGZ09式自行高射炮; industry code WA3001) has been in PLAGF service since the late 2000s, alongside previous systems and SAM systems for field and infrastructure defense. The Oerlikon KDA (GDF-001) was introduced to Mainland China during the late 1980s and was licensed to be built domestically in 1990 as the PG90 before the 1993 sanctions to PLA; the licensed PG90 was then redeveloped into the newer PG99-35-2 systems comparable with the GDF-003 system. Meanwhile, to fill the need for a slightly long-range SPAA with the accuracy of 35 mm autocannon and arming with pairs of SAMs, PLAGF first foreseen [[2S6|2S6 Tungska]] as the import solution for this mission; then projects based on the chassis of NORINCO's new wheeled chassis were also developed as the technological demonstrator for the turret system. This eventually lead to a domestic solution with new universal artillery platform and provisions for 2 pairs or IR AAMs on the side of turret, to unknown reason, the production model of the new SPAA lacked the missiles from both the prototype turret by a certain university in Mainland China and its production model which would soon to be known as the PGZ09 ''(referred as PGZ07 before clarification in 2015)''; first spotted during military exercise and officially debuted in 2009 and 2015's military parade respectively, the PGZ09 serves as the alternative platform to utilize domestic AHEAD rounds to intercept oncoming missiles or unguided projectiles within detection range, while the earlier [[PGZ04A]] would serve as the very last layer of defense if the target breaches all lines of defense.
 
-Introduced in [[Update "Red Skies"]], PGZ09 is a Chinese counterpart to the Flakpanzer [[Gepard]] and [[Type 87]] designed to intercept incoming aerial targets such as helicopters, drones, or cruise missiles. With its high off-road speed, advanced electronic system with separated search/tracking radar, electro-optical tracking system, as well as a 2nd gen thermal sight, it can prove deadly to both careless aerial and ground targets and provide field air-defense to its allies wherever they are with its mobility.
+Introduced in [[Update "Red Skies"]], PGZ09 is a Chinese counterpart to the Flakpanzer [[Gepard]] and [[Type 87]] designed to intercept incoming aerial targets such as helicopters, drones, or cruise missiles. With its high off-road speed, advanced electronic system with separated search/tracking radar, electro-optical tracking system, 2nd gen thermal sight, as well as being the very first SPAA to introduce 35 mm AHEAD, it can prove deadly to both careless aerial and ground targets and provide field air-defense to its allies wherever they are with its mobility.
 
 == General info ==
 === Survivability and armour ===
@@ -53,7 +53,7 @@ Thanks to the powerful 8V150 engine producing almost 800 hp, this turbocharged d
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|PG99-35-2 (35 mm)}}
 
-As a variant of the Swiss Oerlikon GDF-002, the PG99-35-2 shares the same traits as the [[Oerlikon KDA (35 mm)|35 mm Oerlikon KDA]] guns found on other nations' SPAAs: high rate of fire, high muzzle velocity, and sufficient penetration to tear down most vehicles from the sides with ease. But due to the internal design of the PGZ09, it has lower ammo count than its Western and Japanese counterparts, carries only 40 APDS rounds as emergency anti-armour and most of all: its inferior -2° depression angle where it will be a major problem at complicated terrain.
+As a variant of the Swiss Oerlikon GDF-002, the PG99-35-2 shares the same traits as the [[Oerlikon KDA (35 mm)|35 mm Oerlikon KDA]] guns found on other nations' SPAAs: high rate of fire, high muzzle velocity, and sufficient penetration to tear down most vehicles from the sides with ease; what makes PGZ09 unique among any 35 mm SPAAs is the '''AHEAD''' ('''Advanced hit efficiency and destruction''') thanks to the installation of coils in the muzzle break to control the fuse. But due to the internal design of the PGZ09, it has lower ammo count than its Western and Japanese counterparts, carries only 40 APDS rounds as emergency anti-armour like its counterparts and most of all: its inferior -2° depression angle where it will be a major problem at complicated terrain.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -74,11 +74,12 @@ As a variant of the Swiss Oerlikon GDF-002, the PG99-35-2 shares the same traits
 ==== Ammunition ====
 
 * '''Default:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''PMD062:''' {{Annotation|Ahead|Shrapnel with time fuse}}{{-}}{{Annotation|Ahead|Shrapnel with time fuse}}{{-}}{{Annotation|Ahead|Shrapnel with time fuse}}{{-}}{{Annotation|Ahead|Shrapnel with time fuse}}
 * '''DKG01A:''' {{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}
 * '''DKP01A:''' {{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|API-T*|Armour-piercing incendiary tracer (self-destroying)}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
 * '''DM23:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}
 
-{{:PG99-35-2 (35 mm)/Ammunition|HEI-T*, API-T*, APDS}}
+{{:PG99-35-2 (35 mm)/Ammunition|HEI-T*, API-T*, Ahead, APDS}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
@@ -102,9 +103,13 @@ Like its counterparts in NATO and Japan, speed is your friend and the PGZ09 is a
 
 The PGZ09 can also be used in an anti-armour role to a certain extent thanks to the good penetration of 35 mm shells, these rounds are lethal to lightly armoured vehicles and the sides of Cold War MBTs, albeit the PGZ09 has the worst gun depression among SPAAs (at a mere -2°), making it struggle in even slightly uneven terrain, so keep some distance from land-based enemies if you're in a gunfight. Additionally, it has only 40 rounds of APDS at disposal so think twice before unleashing them on enemies. Do remember that those 8-10 mm of steel all-around won't help you too much on stopping some higher calibre machine guns, autocannons and anything with explosive fillers.
 
-Note: when using the PGZ09 in the anti-armour role with thermals on, avoid placing the target at the front-right side of the hull. This is the location of the engine exhaust pipe, to the right of the driving compartment. Its heat will glare the gunner's thermal optic and heavily disrupt your aim.
+''Note: when using the PGZ09 in the anti-armour role with thermals on, avoid placing the target at the front-right side of the hull. This is the location of the engine exhaust pipe, to the right of the driving compartment. Its heat will glare the gunner's thermal optic and heavily disrupt your aim.''
 
-When locking onto an air target using your fire control radar, the green square that captivates the target will gently float around, leading to the guns bobbing around as well. This can considerably decrease the accuracy of your bursts as your guns are not aiming at the exact centre of the target. The low accuracy is especially noticeable when the target is close to stationary, for example targeting a hovering helicopter 3 km away. The fire control radar will also give a wrong lead signal when the target is flying at treetop level. Therefore to counter these issues, you must switch to the optronic tracker. The PGZ09 is equipped with an optronic tracker just like that of the [[SIDAM 25]] that gives more accurate lead. Open the multifunction menu, then press 1 - 4 to switch to the optronic tracker. You will see that the original light green arc indicating your fire control radar scanning area decrease from 180° to ~30°. The optronic tracker gives a way more precise lead that won't float around or get interfered by ground clutter, and also allows you to target aircraft when the fire control radar is destroyed, making it the ideal targeting method against aircraft. You will however have to manually switch to it in every battle.
+When locking onto an air target using your fire control radar, the green square that captivates the target will gently float around, leading to the guns bobbing around as well. This can considerably decrease the accuracy of your bursts as your guns are not aiming at the exact centre of the target. The low accuracy is especially noticeable when the target is close to stationary, for example targeting a hovering helicopter 3 km away. The fire control radar will also give a wrong lead signal when the target is flying at treetop level. Therefore to counter these issues, you must switch to the optronic tracker. The PGZ09 is equipped with an optronic tracker just like that of the [[SIDAM 25]] that gives more accurate lead. Open the multifunction menu, then press 1 - 4 to switch to the optronic tracker. You will see that the original light green arc indicating your fire control radar scanning area decrease from 180° to ~30°. The optronic tracker gives a more precise lead that won't float around, get interfered by ground clutter or notching, and also allows you to target aircraft when the fire control radar is destroyed, making it the ideal targeting method against aircraft. You will however have to manually switch to it in every battle, and compared to the track radar it has a smaller acquisition FOV and will be obscured by trees and foliage. Aside from all the conventional NATO equivalent 35 mm ammunition, PGZ09 also introduced AHEAD for SPAAs, a first since the introduction of PUMA in Bundeswehr service; the IRST tracking will also serve as a much better way to rangefinding the enemy aircraft with great accuracy, be sure to lead-in slightly more ahead than the indicator does for maximum damage and efficiency - it is not a good idea to waste ammo on just one aircraft with all 440 rounds in the main magazine.
+
+The AHEAD shells do fairly little damage on an individual basis. They will not blast chunks off of enemy aircraft like the WZ305's 57 mm HE-VT shells and typically a solid chain of nearby detonations is required to down a target. However, the PGZ09's excellent volume of fire compared to the [[PUMA]] and [[KF41]] makes this much more attainable. A potential benefit of the AHEAD shells is that they have no tracers whatsoever, and although this makes it somewhat more difficult to correct their trajectory for maximum damage, this means that targets will have little to no indication that they are being fired upon (especially when using the IRST tracker) until the airburst clouds start showing up, at which point it might be too late to evade. They are also very helpful against helicopters, which are typically small targets that can easily spot and dodge SPAA tracer fire outside a couple of kilometers: with AHEAD, they may find themselves exploding in a cloud of shrapnel with no warning.
+
+The AHEAD shells still have some penetration to dispatch lightly armoured ground vehicles in a pinch, but they are much less effective than the API-T rounds for this role. Since the PGZ09 can only carry one ammo type for the main 440-round belt, taking AHEAD means specializing more in air defense, while the majority-API-T belt has flexibility for players who want to be able to hunt ground vehicles.
 
 '''Enemies worth noting:'''
 
@@ -126,6 +131,7 @@ When locking onto an air target using your fire control radar, the green square 
 ** High speed, one of the fastest SPAAs in the game
 ** Adequate reverse speed of -15 km/h
 * 2 salvos of smoke grenades can help conceal the vehicle for repositioning
+* AHEAD airburst shells for convenient and stealthy attacks against aircraft
 
 '''Cons:'''
 
@@ -158,11 +164,17 @@ In 2011, a new type of SPAAG was seen on state television, designated "PGZ07" by
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Similar SPAAs armed with the 35 mm Oerlikon:
+;Other vehicles of similar configuration and role
 
-* Flakpanzer [[Gepard]]
-* [[Chieftain Marksman]]
-* [[Type 87]]
+* [[Oerlikon KDA (35 mm)]]
+** [[File:FRG flag.png|30px|link=]] [[Gepard]]
+** [[File:Japan flag.png|30px|link=]] [[Type 87]]
+** [[File:Britain flag.png|30px|link=]] [[Chieftain Marksman]]
+** [[File:Finland flag.png|30px|link=]] [[ItPsV Leopard]]
+** [[File:South Africa flag.png|30px|link=]] [[ZA-35]]
+* [[File:Sweden flag.png|30px|link=]] [[VEAK 40]]
+* [[File:France flag.png|30px|link=]] [[AMX-30 DCA]]
+* [[File:USSR flag.png|30px|link=]] [[ZSU-37-2]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

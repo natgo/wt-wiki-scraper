@@ -190,20 +190,25 @@ Despite its relatively early production life over late-war Japanese tanks and it
 {{Youtube-gallery|4_cJ1CpEatw|'''Best gun depression'''  discusses the {{PAGENAME}} at 1:33 - ''War Thunder Official Channel''}}
 
 == See also ==
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.'' -->
 
-;[[Chi-He (Family)|Related Development]]
-
+;Related Development
 * [[Chi-Ha (Family)]] - <small>(Predecessor)</small>
 ** [[Chi-Ha Kai]]
-* [[Ho-I]] - <small>(Gun tank variant)</small>
-* [[Ka-Chi]] - <small>(Amphibious variant)</small>
+* [[Chi-He (Family)]]
+** [[Ho-I]] - <small>(Gun tank variant)</small>
+* [[Ka-Chi]] - <small>(Inspired navy amphibious variant)</small>
 
 ;Other vehicles of similar configuration and role
-
-* [[Panzer III (Family)]] - <small>(Early models)</small>
-* [[LT-38 (Family)]]
-* [[M15/42]]
-* [[Lago I]]
+* [[File:Czech flag.png|30px|link=]] [[File:Germany flag.png|30px|link=]] [[LT-38 (Family)|Pz.38(t)]]
+* [[File:Germany flag.png|30px|link=]] [[Pz.III (Disambiguation)|Pz.III (Family)]] - <small>(Early models)</small>
+* [[File:Kingdom Hungary flag.png|30px|link=]] [[Turan I]]
+* [[File:Kingdom Italy flag.png|30px|link=]] [[M15/42]]
+* [[File:France flag.png|30px|link=]] [[S.35]]
+* [[File:Britain flag.png|30px|link=]] [[Crusader (Family)|Crusader]]
+* [[File:Sweden flag.png|30px|link=]] [[Lago I]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

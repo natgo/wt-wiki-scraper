@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese sub-chaser {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The Japanese Project K8, No.13-class Submarine Chasers were built as a part of the Maru 4 Programme. The lead ship of her class was completed in July 1940, while the last ship was completed in January 1942, with a total of 15 vessels built. During WW2, most of the vessels of the class were re-armed with [[25 mm/60 Type 96 (25 mm)|25 mm Type 96]] guns and fitted with 22-GO radar. They fought primarily in the southern seas, from the Philippines to Bali Island, but also participated in numerous convoy escorts. Only five vessels of the class survived the war.
+
+The '''{{Specs|name}}''' is a Japanese sub-chaser introduced in [[Update 1.89 "Imperial Navy"]]. She has exceptional survivability combined with very good armament for her BR. She struggles most in mobility, which is not helped by being a comparatively large vessel for the BR, making her a very attractive target to motor torpedo boats and enemy bombers alike. Compared to [[Type K-3 No.1|her predecessor]], she improves on survivability and armament, at the expense of significantly lower speed and manoeuvrability.
 
 == General info ==
 === Survivability and armour ===
@@ -223,7 +225,7 @@ Submarine chasers of the project number K8, also known as the No.13-class submar
 |}
 {{Sp-end}}
 
-No. 13 and No. 13 took part in a hunt for USS Nautilus (SS-168) in June 1942, damaging the submarine with depth charges and forcing it back to Pearl Harbor for month-long repairs. The No. 27 was likely the last victim of the USS Grunion, before the latter was sunk 4 days later. No. 18 sunk USS Amberjack (SS-219) on 16 February 1943. In October 1943, No. 15 took part in the sinking of submarine USS Wahoo (SS-238). On 14 November 1943, the No. 20 engaged in a gunnery duel with the HMS Taurus (P399), with the submarine hitting the bridge of the chaser with its QF 4-inch Mk IV (102 mm) gun, killing the captain and most of the crew onboard. The ship suffers a number of other hits that eventually flood her engine room forcing the ship to be towed back into the port for repairs. The submarine returned back to the port undamaged, despite No. 20's crew claiming a direct hull hit and dropping a number of depth charges.
+No. 13 and No. 14 took part in a hunt for USS Nautilus (SS-168) in June 1942, damaging the submarine with depth charges and forcing it back to Pearl Harbor for month-long repairs. The No. 27 was likely the last victim of the USS Grunion, before the latter was sunk 4 days later. No. 18 sunk USS Amberjack (SS-219) on 16 February 1943. In October 1943, No. 15 took part in the sinking of submarine USS Wahoo (SS-238). On 14 November 1943, the No. 20 engaged in a gunnery duel with the HMS Taurus (P399), with the submarine hitting the bridge of the chaser with its QF 4-inch Mk IV (102 mm) gun, killing the captain and most of the crew onboard. The ship suffers a number of other hits that eventually flood her engine room forcing the ship to be towed back into the port for repairs. The submarine returned back to the port undamaged, despite No. 20's crew claiming a direct hull hit and dropping a number of depth charges.
 
 08 August 1945 marks the most successful anti-aircraft duty of the class, with the No. 19 damaging six out of fourteen [[B-25 (Family)|B-25]] bombers trying to strafe it in the Tsushima Strait between Japan and South Korea. The ship suffered one bomb hit, but survives the encounter and returns back to the Kure port, about 20 km away from Hiroshima just days after the atomic bombing.
 
@@ -260,6 +262,8 @@ Ships of comparable role, configuration and era
 * ''other literature.'' -->
 
 * [[wikipedia:No.13-class_submarine_chaser|[Wikipedia] No.13-class submarine chaser]]
+* [http://www.combinedfleet.com/CH-13_t.htm <nowiki>[Imperial Japanese Navy Page]</nowiki> IJN Subchaser CH-13: Tabular Record of Movement]
+* Ships of the World - Escort Vessels of the Imperial Japanese Navy (Special Issue Vol. 45) (世界の艦船 - 日本海軍護衛詳艇史 (増刊第45集條 1996.No.507)) pages 70-73
 
 {{ShipManufacturer Nippon Kokan Co.}}
 {{Japan sub-chasers}}

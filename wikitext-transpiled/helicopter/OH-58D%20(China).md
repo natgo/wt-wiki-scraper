@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''', known as OH-58D戰搜直升機 (lit: combat reconnaissance helicopter) represents the 39 helicopters purchased and used by the ROCA Aviation and Special Force Command (陸軍航空特戰指揮部). The OH-58 Kiowa originally started as the Light Observation Helicopter (LOH) program to upgrade US Army observation helicopters which Bell Helicopters won the contract for in 1981; this project eventually developed into the Army Helicopter Improvement Program (AHIP) and the new OH-58D joined US Army in 1985. The ROCA then purchased 39 helicopters in 1992 (26 purchased alongside the fleet of AH-1W) and 1999 (13 helicopters), and deployed them at the only two helicopter companies in the ROCA and Army Aviation Training Command. Although 2 helicopters have crashed during its service since 1992 (2000 and 2020), the ROCA will still likely use OH-58D for the time being thanks to sufficient spare parts for up to 12 years bought from US.
+The ROCA purchased 39 [[OH-58D|OH-58D Kiowa Warriors]], known as the OH-58D戰搜直升機 (lit: combat reconnaissance helicopter), from the US in 1992 (26 purchased alongside a fleet of [[AH-1W (China)|AH-1Ws]]) and 1999 (13 helicopters assembled by AIDC), and deployed them in the only two helicopter companies in the ROCA and Army Aviation Training Command. Although two helicopters have crashed during their service since 1992 (in 2001 and 2020), the ROCA will likely continue to operate the OH-58D for a number of years, thanks to up to 12 years worth of spare parts bought from the US.
 
-Introduced in [[Update "Sons of Attila"]] and marking the arrival of ROCA helicopters, the OH-58D Kiowa Warrior performs identically with its US cousin. Not only does it have a mast-mounted camera to make good use of terrain or tree tops to conceal itself, the four AGM-114K or AIM-92 will make sure enemy vehicles will have to think twice before hunting the OH-58D down.
+Introduced in [[Update "Sons of Attila"]], the ROCA OH-58D performs identically with its American counterpart, only lacking the option to equip the 30 mm grenade launcher or 7.62 mm Minigun. It has small dimensions, AIM-92 Stinger missiles, and countermeasure pods, aiding its survival in combat and somewhat mitigating the lack of armour. It also has a mast-mounted camera, allowing it to make good use of terrain or treetops to conceal itself, while the four AGM-114K Hellfire II missiles will make light work of any enemy ground vehicle.
 
 == General info ==
 === Flight performance ===
@@ -34,7 +34,7 @@ One point of note is the Kiowa Warrior's ability fly evasive or performative man
 | 215 || 203 || rowspan="2" | {{Specs|ceiling}}
 |-
 ! Upgraded
-| ___ || ___
+|247.1||229.6
 |-
 |}
 

@@ -66,7 +66,8 @@ The AH Mk.1, has only limited armour protection installed with bullet proof glas
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 1 x 30 mm M230E-1 cannon, chin turret (1,200 rpg)
-* 72 x countermeasures
+* 64 x countermeasures
+* 8 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
@@ -88,10 +89,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Starstreak]] missiles
 | 2 || || || || || 2
 |-
-! Countermeasures
+! Flares
 | 60* || || || || || 60*
 |-
-| colspan="8" | * Both countermeasure pods must be equipped together
+| colspan="8" | * Both flare pods must be equipped together
 |-
 |}
 
@@ -103,7 +104,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x AGM-114K Hellfire II missiles
 * 8 x AGM-114K Hellfire II missiles
 * 16 x AGM-114K Hellfire II missiles
-* 120 x countermeasures
+* 120 x flares
 {{Navigation-End}}
 
 === Defensive systems ===
@@ -122,7 +123,7 @@ When unlocked, countermeasures are not installed - this requires '''MAW''' (tier
 
 '''Overview:'''
 
-The AH Mk.1 is functionally identical to the American [[AH-64D]] Apache, besides its use of the Starstreak missile system which replaces the [[AIM-92 Stinger]]. The Apache is an excellent helicopter for attacking ground targets, and can also hold its own against many enemy aircraft. The AH Mk.1 in particular has superior air-to-air and air-to-ground capability due to the Starstreak. Through adequate use of cover, teamwork, and game sense, the Apache can easily dismantle enemy teams. An Apache pilot must understand all of the tools at their disposal.
+The AH Mk.1 is functionally identical to the American [[AH-64D]] Apache, besides its use of the Starstreak missile system which replaces the [[AIM-92 Stinger]]. These anti-air missiles are unflarable and have a minor anti-tank capability. Because of that, spawning the helicopter with them increases its cost (putting it just above the starting points in RB). The Apache is an excellent helicopter for attacking ground targets, and can also hold its own against many enemy aircraft. The AH Mk.1 in particular has superior air-to-air and air-to-ground capability due to the Starstreak. Through adequate use of cover, teamwork, and game sense, the Apache can easily dismantle enemy teams. An Apache pilot must understand all of the tools at their disposal.
 
 The Apache has an arsenal of weapons. The most effective anti-tank weapon in the Apache's arsenal is the AGM-114 Hellfire, which uses a top attack trajectory to destroy ground vehicles. There is functionally very little difference between the AGM-114B and K variants, used on early and late Apaches respectively.
 
@@ -167,7 +168,7 @@ On the AH Mk.1, the Starstreak missile can also be used in the air-to-ground rol
 '''Pros:'''
 
 * Every guided weapon, including AAM, is controlled by locking the weapon, which can be done both by pilot (who also controls radar) or gunner, so the only way to stop missiles from hitting is to completely destroy the Apache itself
-* Starstreak AAM can be used to destroy light tanks and SPAA, this Apache can be spawned at the start of an RB match with both rockets and AAM, effectively making it the cheapest and/or meanest early attack helicopter 
+* Starstreak AAM can be used to quickly destroy light tanks and SPAA, if needed
 * Decent anti-helicopter ability with the Starstreak, which does not care about flares, and can compete with [[Ka-50]] and [[Ka-52]]
 * Adequate speed and manoeuvrability
 * Advanced countermeasure system with Radar Warning Receiver and Missile Alert Warning, although MAW can easily drain all the flares
@@ -185,8 +186,9 @@ On the AH Mk.1, the Starstreak missile can also be used in the air-to-ground rol
 * Easily destroyed by enemy aircraft if they are not detected beforehand
 ** Unreliably performing Starstreak missiles - cannot easily take down approaching jets or helicopters if they are closer than 4 km away and/or do not approach Apache directly
 ** Although the cannon is extremely lethal, the autopilot accuracy beyond 1 km range is rather bad and gets even worse when helicopter is moving around
-** Radar can only scan ground or air at the same time and anti-air radar is extremely slow 
+** Radar can only scan ground or air at the same time and anti-air radar is extremely slow
 * The particular Hellfire missiles used on this helicopter have a long time to target and often waste time on upholding the launch protocol (going up to then fall down) even when target is at close range, unless the Apache is literally falling down onto the target
+* Starstreak AAM increases the spawn cost, meaning the helicopter will lose anti-air capability if you want to start with this helicopter in RB
 
 == History ==
 <!--''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''-->

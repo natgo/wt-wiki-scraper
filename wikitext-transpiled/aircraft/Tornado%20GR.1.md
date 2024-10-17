@@ -155,6 +155,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! !! width="4.8%" | 1 !! width="4.8%" | 2 !! width="4.8%" | 3 !! width="4.8%" | 4 !! width="4.8%" | 5 !! width="4.8%" | 6 !! width="4.8%" | 7 !! width="4.8%" | 8 !! width="4.8%" | 9 !! width="4.8%" | 10 !! width="4.8%" | 11
 | rowspan="9" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
+! [[G.P. Mk.I (1,000 lb)|1,000 lb G.P. Mk.I]] bombs
+| || || || 1 || 1 || || 1 || 1 || || ||
+|-
 ! [[H.E. M.C. Mk.13 (1,000 lb)|1,000 lb H.E. M.C. Mk.13]] bombs
 | || || 1, 2 || 1, 2<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1*<sup>‡</sup> || 1, 2<sup>‡</sup> * || 1, 2<sup>‡</sup> || 1, 2 || ||
 |-
@@ -182,10 +185,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Large calibre countermeasures
 | 28 || || || || || || || || || || 28
 |-
+! Large calibre chaff
+| 340 || || || || || || || || || || 340
+|-
 ! TIALD targeting pod
 | || || || || || || || 1<sup>†</sup> || || ||
 |-
-! 1,500 l drop tanks
+! 330 gal drop tanks
 | || || 1 || || || || || || 1 || ||
 |-
 | colspan="13" | * Marked guided bombs on hardpoints 4/8 cannot be equipped with bombs on hardpoint 6 or hardpoints 5/7 respectively <br> <sup>†</sup> TIALD targeting pod must be equipped when using marked guided bombs <br> <sup>‡</sup> Bombs on hardpoint 6 cannot be equipped with dual bomb mounts on hardpoints 4-8
@@ -195,8 +201,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 2 x 1,500 l drop tanks
-* 56 x large calibre countermeasures
+* 2 x 330 gal drop tanks
+* 56 x large calibre countermeasures + 680 x large calibre chaff
 * 2 x AIM-9L Sidewinder missiles
 * 4 x 546 kg Mk.13 bombs (2,184 kg total)
 * 1 x 2,000 lb GBU-24 Paveway III bomb (2,000 lb total)
@@ -205,7 +211,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 12 x 1,000 lb H.E. M.C. Mk.13 bombs (12,000 lb total)
 * 12 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (12,000 lb total)
 * 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
-* 4 x 1,000 lb H.E. M.C. Mk.13 bombs (4,000 lb total)
+* 4 x 1,000 lb G.P. Mk.I bombs (4,000 lb total)
 * 4 x 404 kg PGM 500 bombs (1,616 kg total)
 * 3 x 1,060 kg PGM 2000 bombs (3,180 kg total)
 {{Navigation-End}}
@@ -214,7 +220,7 @@ In air RB, just 5 LDGP mk 83 bombs are enough to take out single base. If they a
 
 Due to the lack of "bomb series" option of 5 for use by strategic bombing computer, it is possible to substitute it by equipping two different types of bombs and choosing 6 bombs option (the second "series" could consist of H.E. M.C. Mk.13 bombs), but then it will be impossible to equip TIALD targeting pod for convenience.
 
-TIALD itself has 20 km maximum range, has thermal vision and can lock onto targets, much like on Jaguar GR.1A. Installation of TIALD unlocks installation of up to 4 small laser guided bombs or 1 big laser bomb with 2 small laser ones or 2 big TV ones (the plane will still be able to carry 2 more dumb bombs in any case). The ballistic computer does not calculate maximum drop potential for these bombs, as they are more aerodynamic and can glide much further than the UI implies. The small laser bombs are quite stupid and will not continue to correct their course if TIALD lock was lost (in case plane was destroyed or had to retreat), the big one has IOG and will continue falling towards last painted location even if the plane is gone. 
+TIALD itself has 20 km maximum range, has thermal vision and can lock onto targets, much like on Jaguar GR.1A. Installation of TIALD unlocks installation of up to 4 small laser guided bombs or 1 big laser bomb with 2 small laser ones or 2 big TV ones (the plane will still be able to carry 2 more dumb bombs in any case). The ballistic computer does not calculate maximum drop potential for these bombs, as they are more aerodynamic and can glide much further than the UI implies. The small laser bombs are quite stupid and will not continue to correct their course if TIALD lock was lost (in case plane was destroyed or had to retreat), the big one has IOG and will continue falling towards last painted location even if the plane is gone.
 
 A unique feature for British bomber Tornado is the ability to install TV bombs. The TV bombs do not require TIALD to function (although it might make their use much easier, particularly on consecutive launches) and so 4 of them can be mounted (maximum of 3 big PGM 2000 with one PGM 500 or TIALD and 2 dumb bombs as support), but the ones on points 4 and 8 will prevent installation of anything else next to them on the fuselage. The TV bombs will inherit the plane speed on launch (but no more than MACH 1) and have rocket engine that will let them keep their altitude and speed for about 12 km and can be fired at targets with moderate heat signature from about 25 km away. They might as well be called "cruise missile" with the War Thunder map sizes and they can outrange and destroy any SPAA that does not immediately smoke itself upon seeing weird things on their radar, but their usefulness against fast moving targets like other planes is questionable due to the low manoeuvrability of its engine. It's also ill adviced to launch these when diving down, as the plane might crash into one and blow up. Unfortunately they will not lock onto plain ground from anything further than 15 km unless the plane is about 8 km higher than current target spot and cruise at about MACH 0.93 (which is one of height/speed combinations generally necessary for them to even reach a target 23 km away), so they cannot be used for base bombing outside of enemy fighters range (even though 3 PGM 2000 is enough for 1 base). These bombs also have issues with launching during evening and night time (regardless of the TIALD or plane itself having NVD), so sometimes laser or even dumb bombs should be used in a loadout instead.
 
@@ -226,7 +232,7 @@ The other tactic would be to go full throttle directly to the enemy bases while 
 
 Although taking only 3 TV bombs and firing them akin to cruise missiles to avoid interacting with enemy fighters at all sounds like a decent idea, as the plane will be able to fly significantly faster and fire much earlier, it's generally not worth doing in an uptier due to the randomness of the TV bomb behaviour - on some maps they will fire from 25 km, allowing you to just barely evade 12.3 planes and their SARH missiles (and the F14 with ARH could theoretically be countered by chaff spam), more often than not they will have you to fly closer to about 18 km close, which will be way too close and too late. The TV bombs don't work at long range during evening, further reducing viability of this strategy. Moreover, the problem of teammates getting the base first remains, as the bombs can't fly faster than MACH 1.0 at all, as opposed to the Tornados or the ever present Phantoms.
 
-Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance is not very suited to it, especially with bombs, and you'll most likely be shot down very quickly. So keep in mind that although the Tornado is fast, its not very manoeuvrable at high speed so try to avoid faster turning enemies such as the [[F-16 (Family)|F-16]] or the [[F-14A Early|F-14]]. In the case of 1-to-1 confrontation the best option is to blast them away in a head-on by using aim assisted guns, then run behind a mountain. If there is no choice, drop bombs and fuel tanks, then drop speed to around 800-900 m/s (via reverse thrust) to use flaps, which will grant you a turn speed of an average fighter-bomber (maybe even higher, if you only have 18 minutes of fuel). Against superior fighters like the F-16, MiG-29, Viggen, F-14, and Mirage 2000 you don't stand a chance in a turnfight, unless the enemy pilot is extremely inexperienced, but you may waste enough of their time to get saved. With countermeasures you are able to survive for longer if you can time their use and can dodge without losing too much of your speed, but their number is very limited.
+Taking an active role in air-to-air combat is not advised, as the Tornado's flight performance is not very suited to it, especially with bombs, and you'll most likely be shot down very quickly. So keep in mind that although the Tornado is fast, its not very manoeuvrable at high speed so try to avoid faster turning enemies such as the [[F-16 (Family)|F-16]] or the [[F-14A Early|F-14]]. In the case of 1-to-1 confrontation the best option is to blast them away in a head-on by using aim assisted guns, then run behind a mountain. If there is no choice, drop bombs and fuel tanks, then drop speed to around 800-900 km/h (via reverse thrust) to use flaps, which will grant you a turn speed of an average fighter-bomber (maybe even higher, if you only have 18 minutes of fuel). Against superior fighters like the F-16, MiG-29, Viggen, F-14, and Mirage 2000 you don't stand a chance in a turnfight, unless the enemy pilot is extremely inexperienced, but you may waste enough of their time to get saved. With countermeasures you are able to survive for longer if you can time their use and can dodge without losing too much of your speed, but their number is very limited.
 
 In GRB, if you only have dumb bombs you're going to need to stick to the ground as much as possible or to fly at extemely difficult to hit angles to avoid enemy AA, you can't linger too much on the battlefield or else the entire enemy team will begin to prioritise you as a target. Once TIALD was unlocked, you can fling pairs of dumb bombs onto enemy tanks from range, but you also need to be very wary of what type of enemy air has been spawned in - if you focus too much on ground vehicles you become easy pickings for any enemy aircraft which can take advantage of you not realising they're there. You can easily pick off enemy SPAA once you have unlocked your laser guided bombs, so try to fly as high as possible. In conclusion, play a reserved role and only engage when you think its clear. After unlocking TV bombs, you might as well avoid enemy AA altogether and only appear in the sky above your own airfield to drop some giant missile-bombs towards enemy tanks or even odd static helicopter to avoid unnecessary risk, but these bombs will not work well during evening and won't work at all at night.
 
@@ -241,7 +247,7 @@ In Air Arcade Assault, playing the plane with 10 dumb bombs and 2 9L is the best
 * Unlike other Tornado bombers, can carry TV bombs, including 1 ton versions
 ** The TV bombs have their own rocket engine, so they can be launched like a cruise missile from way outside of any AA firing range
 * Large payload and is supersonic
-* Although it's slower than other Tornado bombers, it is also much more stable 
+* Although it's slower than other Tornado bombers, it is also much more stable
 
 '''Cons:'''
 

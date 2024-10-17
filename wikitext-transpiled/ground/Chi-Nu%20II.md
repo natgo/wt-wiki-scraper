@@ -162,7 +162,18 @@ Like most of the Japanese late-war tanks developed and retained in the home isla
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-* [[Chi-Nu]]
+* Type 97 [[Chi-Ha (Family)]]
+* Type 1 [[Chi-He (Family)]]
+* Type 3 [[Chi-Nu]]
+* Type 4 [[Chi-To (Family)]]
+
+;Other vehicles of similar configuration and role
+* [[File:Germany flag.png|30px|link=]] [[Pz.IV (Family)]] - <small>(Late models)</small>
+* [[File:Kingdom Hungary flag.png|30px|link=]] [[Turan III]]
+* [[File:USSR flag.png|30px|link=]] [[T-34 (Family)]] - <small>(57 mm / 85 mm)</small>
+* [[File:USA flag.png|30px|link=]] [[M4 Sherman (Family)|Sherman M4 (76) (Family)]]
+* [[File:Britain flag.png|30px|link=]] [[Firefly (Disambiguation)|Sherman Firefly]]
+* [[File:Sweden flag.png|30px|link=]] [[Pvkv IV]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

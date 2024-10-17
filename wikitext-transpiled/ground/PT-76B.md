@@ -203,6 +203,9 @@ During the process of serial release various changes were made to the design of 
 
 * [[Type 63-I]]
 * [[BMP-3]]
+* [[PT-76 (Sweden)]]
+* [[PT-76 (China)]]
+* [[Object 211]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -143,6 +143,16 @@ Prior to the creation of the Japanese Ground Self-Defense Force in July of 1954,
 
 ;Related development
 * [[M3 Half-Track (Family)]]
+** [[M13 MGMC]]
+** [[M15 CGMC]]
+** [[M16 MGMC]]
+
+;Tanks of comparable role, configuration, and era
+* [[File:Italy flag.png|30px|link=]] [[CM52]]
+* [[File:Taiwan flag.png|30px|link=]] [[CCKW 353 (M45)]]
+* [[File:USSR flag.png|30px|link=]] [[BTR-152D]]
+* [[File:Germany flag.png|30px|link=]] [[Sd.Kfz.251/21]]
+* [[File:France flag.png|30px|link=]] [[VTT DCA]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

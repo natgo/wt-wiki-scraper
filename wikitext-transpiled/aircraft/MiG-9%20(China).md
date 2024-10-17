@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese jet fighter {{Battle-rating}}. It was introduced in [[Update 1.91 "Night Vision"]].
+The '''{{Specs|name}}'''was the very first jet aircraft to arrive in China and the first jet for PLAAF by 1950. To quickly upgrade PLAAF for the upcoming Korean War and the dire need for major cities' air-defence operations from Nationalist bombers, VVS transferred 9 divisions of the MiG-9 series to PLAAF which also made the officials decide to purchase extra MiG-9 to arm the air force. The aircraft was deemed sufficient to handle earlier jets such as the F-84B or F-80 series, soon after the introduction of the state-of-the-art F-86 series in USAF service and the eventual introduction of MiG-15 in PLAAF service, these MiG-9s were soon retired from frontline and served as PLAAF's jet "lead-in trainer" before their ultimate decommission in 1959.
+
+Introduced in [[Update 1.91 "Night Vision"]] with the initial Chinese aviation tech tree, the aircraft shares identical performance to its Soviet counterpart; while it is small and nimble, as well as packs a very heavy punch against rivals, players have to get used to the WWII-era equivalent engine and the ballistic performance to make good use of the first proper jet fighter of PLAAF; any careless moves or not keeping sufficient speed can lead to an embarrassing demise to the aircraft to even a propeller aircraft.
 
 == General info ==
 === Flight performance ===
@@ -171,7 +173,7 @@ If there are no bombers to attack, either because they have all been destroyed o
 * Loses a lot of speed during turns
 * Very bad turn rate even compared to some jet bombers
 * Difficult jet for beginners (hard to use due to its weapons and flight characteristics)
-* Mediocre brakes make it 0hard to land on short airfields
+* Mediocre brakes make it hard to land on short airfields
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -202,16 +204,20 @@ The last production aircraft were handed over to the Air Force in December 1948,
 The MiG-9 was the beginning of the jet MiG's history. The success of the MiG-15 fighter all over the world would have been impossible without the experience gained in the processes of design, building, testing, mass production, and operation of the first Soviet jet fighter, the MiG-9.
 
 As new fighters were received by the Air Force, some MiG-9s would be delivered to China. These planes became the first jet fighters of the People's Liberation Army Air Force of China.
-{{Navigation-End}}
+{{Navigation-End}}The MiG-9 started its service with the Chinese Air Force in 1950, with a total of 13 fighter divisions being delivered to this country between 1950 and 1951, 9 of which, consisted of MiG-9s. The MiG-9 introduction in the PLAGF was probably due to the quick adoption of the Mig-15 over the Mig-9 in the USSR since the last one became obsolete very quickly and had a large number of reliability issues, especially its armament which could not be fired at the same time and its use was restricted depending on the altitude. 
+
+The Mig-9 suffered a similar destiny in China, with it being quickly replaced with the more modern Mig-15. The main purpose of the Mig-9 was to defend Chinese industrial sectors, as well as its cities from possible attacks, since at this time the PRC was very young and constantly under threat of air raids by the remnants of the Nationalist Chinese, the aircraft however, was mainly used to train new pilots and help them in the transition from propeller aircraft to jet aircraft.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=mig-9_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

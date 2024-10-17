@@ -1,11 +1,13 @@
 {{Specs-Card
 |code=fr_destroyer_desaix_class_kleber
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage {{PAGENAME}}.jpg|GarageImage {{PAGENAME}} (2).jpg}}
 }}
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "Alpha Strike"]].
+The '''{{Specs|name}}''' was a French destroyer, initially laid down as Zerstörer 1934A-class Z6 Theodor Riedel on 18th July 1935 for the Kriegsmarine and completed on 2nd July 1937. She served throughout the war with the Kriegsmarine until being handed over to Britain as a war prize, who subsequently gave the ship to France. She was renamed it to Kléber after General Jean-Baptiste Kléber. The ship underwent modernization in Cherbourg between 1948 and 1951. After the refit, she was assigned to the 3rd Destroyer Division of the Mediterranean Fleet. In October 1953, she was transferred to Cherbourg and placed into reserve in December. Kléber was broken up in Rouen in 1958.
+
+Introduced in [[Update "Alpha Strike"]], Kléber is very similar to her Type 1934A sisters found in the German naval tree, with the exception of enhanced anti-aircraft weaponry due to the refit as Kléber features six 40 mm Bofors cannons, one quadruple and two twin 20 mm cannon mounts, as well as two quadruple torpedo launchers amidships. Such a setup provides Kléber with formidable medium to short range anti-air protection compared to her sister [[Z12 Erich Giese]] in the German tree. Like her sisters, Kléber is vulnerable to magazine detonation as the main gun magazines are located directly on the waterline, making any hit into said area lethal.
 
 == General info ==
 === Survivability and armour ===
@@ -66,9 +68,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -84,6 +88,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
@@ -96,6 +101,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rati
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

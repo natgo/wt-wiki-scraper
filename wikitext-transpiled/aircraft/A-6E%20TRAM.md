@@ -141,7 +141,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="18" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="19" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[Mk 11 mod 5 (20 mm)|20 mm Mk 11 mod 5]] cannons (750 rpg)
 | 1 || 1 || || 1 || 1
@@ -185,6 +185,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Zuni Mk32 Mod 0 ATAP]] rockets
 | 12 || 8 || || 8 || 12
 |-
+! [[AGM-123 Skipper]] missiles
+| 1 || 1 || || 1 || 1
+|-
 ! [[AIM-9G Sidewinder]] missiles
 | 1 || 1 || || 1 || 1
 |-
@@ -206,6 +209,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 4 x AIM-9L Sidewinder missiles
 * 40 x Zuni Mk32 Mod 0 ATAP rockets
 * 190 x FFAR Mighty Mouse rockets
+* 4 x AGM-123 Skipper missiles
 * 28 x 250 lb LDGP Mk 81 bombs (7,000 lb total)
 * 28 x 250 lb Mk 81 Snakeye bombs (7,000 lb total)
 * 28 x 500 lb LDGP Mk 82 bombs (14,000 lb total)
@@ -232,6 +236,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Access to excellent AIM-9L all-aspect air-to-air missiles
 * Decent flight characteristics when lightly loaded makes it viable in dogfights
 * Built-in TRAM turret provides FLIR and laser-targeting capabilities
+* Highly customizable secondary weapons due to the large variety of guided bombs, rockets, gunpods, air-to-air missiles and more which allows a loadout appropriate to almost any fight
 
 '''Cons:'''
 
@@ -239,8 +244,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Loses speed very quickly in turns
 * Gunpods have poor accuracy and are wing-mounted (convergence issue)
 * TRAM turret cannot look fully backwards
-* Relatively low top speed, acceleration and climb rate, especially when carrying heavy payloads
-* Poor handling at high speeds
+* Relatively low top speed, acceleration and climb rate, especially when carrying heavy payloads due to it being a subsonic jet
+* Poor handling at high speeds, causing stall very easily, especially when climbing
+* Subsonic jet which makes it slower than other jets at its battle rating, making it difficult to outrun and maneuver most supersonic jets 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Merkava Mk.3C''' is the second subvariant of the Merkava Mk.3, which is the third variant of the [[Merkava (Family)|Merkava main battle tank family]]. The Merkava Mk.3C received the new Barak Zoher fire control system, which can be distinguished by the inclusion of a commander-independent sight on the turret roof, beginning in 1995. This adds hunter-killer capabilities to the Merkava Mk.3C, a trait that is desperately needed in modern conflict. The new fire control system can now automatically track targets and even low-flying helicopters. Other small upgrades, such as the insertion of composite screens into portions of the hull, were also implemented, mostly to defend the tank from rocket-propelled grenades (RPGs) and anti-tank guided missiles (ATGMs) launched from elevated positions.
+The '''Merkava Mk.3C''' was the second subvariant of the Merkava Mk.3. Produced from 1995, it received the new "Barak Zoher" fire control system, distinguished by the inclusion of a commander-independent sight on the turret roof. This addition gives the Merkava Mk.3C hunter-killer capabilities, a trait desperately needed in modern conflict. Other small upgrades, such as the insertion of composite screens into portions of the hull, were also implemented, mostly to defend the tank from RPGs and ATGMs launched from elevated positions.
 
 Introduced in [[Update "Drone Age"]], the Merkava Mk.3C received yet another important upgrade: the commander's independent sight. With the addition of hunter-killer capabilities, players can search for possible adversaries while remaining behind low obstacles and rocky terrain. Furthermore, the commander can override controls for the main gun, allowing players to engage opponents more effectively. Together with the [[Merkava Mk.3B]]'s improved weaponry, the Merkava Mk.3C is a truly modern main battle tank that combines outstanding situational awareness, protection, and firepower.
 
@@ -124,7 +124,12 @@ Introduced in [[Update "Drone Age"]], the Merkava Mk.3C received yet another imp
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+The Merkava Mk.3C is virtually the same vehicle as the previous Mk.3B aside from the new commander optics and can be used identically. With sluggish mobility, inconsistent protection, and a punchy gun, the Merkava is best used as a sniper in entrenched positions where its good damage control makes it difficult to dislodge and its high-velocity, high-mass APFSDS can make short work of exposed targets. Be careful of sustained combat because the ready rack can be depleted very quickly and the Merkava's large size and unmistakable profile tend to attract attention. The quartet of machine guns and time-fused HE shell offer a measure of anti-helicopter capability against rushing and hovering helicopters, respectively.
+
+The commander sight doesn't have a thermal imager and can't be considered a major improvement in itself, but it does open up some new opportunities in combat. With two-plane stabilization and improved fields of view compared to the previous basic periscope, the commander's ability to override the main gun becomes much more viable. It also helps that the commander sight is placed very close to the gunner's sight, reducing the amount of added parallax in Sim battles. Though it's not a very common situation to lose the gunner from incoming fire but not the commander, having a credible way to fire back when damaged further improves the Merkava's survivability.
+
+A small quirk worth noting with the increased relevance of the commander override is that using the laser rangefinder in the commander's sight does not prime the time fuse of the M339 HE-TF shell. This means that the commander override can't take advantage of the airburst feature, but makes it slightly easier to use M339 as a direct-impact weapon at long distances. In exchange for lower optical zoom and a bit of uncertainty due to parallax, there is no need to switch to a different shell type and back (which might be forgotten in the heat of battle or impossible if APFSDS and HEAT are depleted) after ranging to clear the time fuse as would be required in the gunner's sight.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -134,14 +139,13 @@ Introduced in [[Update "Drone Age"]], the Merkava Mk.3C received yet another imp
 * Good armor against most HEAT and some APFSDS rounds
 
 * Excellent post-penetration survivability with good ammo storage and crew layout
-* Generous quantity of smoke grenades 
+* Generous quantity of smoke grenades
 * APFSDS round is one of the best sabot rounds for the battle rating
 
 '''Cons:'''
 
 * Overall armor layout is vulnerable to APFSDS, able to be penetrated with ease from most places
 * Mediocre mobility
-
 * Large/tall profile, easily spotted
 
 == History ==

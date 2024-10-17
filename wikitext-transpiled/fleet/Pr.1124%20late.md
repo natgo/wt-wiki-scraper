@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Soviet armoured gun boat {{Battle-rating}}. It was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game.
+The '''{{Specs|name}}''' is a further development of the [[Pr.1124 early|Pr.1124]] in 1943-1944, with an improved main turret housing the [[F-34 (76 mm)|76 mm F-34 cannons]], and an additional [[37 mm/67 70-K (37 mm)|37 mm/67 70-K]] autocannon.
+
+This boat was introduced during [[Update 1.79 "Project X"]] when the Soviet fleet was implemented into the game. There is no difference in terms of performance compared to the previous model, the [[Pr.1124 early]]. However, the additional autocannon makes this boat more dangerous to lightly armoured targets, as it can easily destroy them with a few good hits.
 
 == General info ==
 === Survivability and armour ===
@@ -102,6 +104,7 @@ Finally, the Pr.1124 late suffers from a rather mediocre manoeuvrability, with a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_1124_ack Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -109,11 +112,13 @@ Finally, the Pr.1124 late suffers from a rather mediocre manoeuvrability, with a
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

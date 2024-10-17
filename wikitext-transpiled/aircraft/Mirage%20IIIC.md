@@ -182,6 +182,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! SEPR 841 tank
 | || || || || 1* || ||
 |-
+! 1,300 l drop tanks
+| || 1 || || || || 1 ||
+|-
 | colspan="10" | * The SEPR 841 oxidiser tank must be carried when equipping the SEPR 841 rocket booster
 |-
 |}
@@ -189,7 +192,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 30 mm DEFA 552A cannon (250 rpg)
+* 2 x 1,300 l drop tanks + 1 x 30 mm DEFA 552A cannon (250 rpg)
 * 2 x AIM-9B Sidewinder missiles
 * 2 x Matra R550 Magic 1 missiles
 * 1 x Matra R530 missile

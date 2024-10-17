@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The le.Pz.Sp.Wg. Sd.Kfz. 221 (''Leichter Panzerspähwagen, Sonderkraftfahrzeug 221''), first produced in 1935, was a German armoured car used as a reconnaissance vehicle for the German Panzer Divisions during World War II. At 339 vehicle manufactured between 1935 to 1940, the Sd.Kfz. 221 saw use in Nazi Germany's early campaigns in Europe, North Africa, and the Eastern Front. Some of these vehicles were armed with the 2.8 cm sPzB 41, a squeeze-bore anti-tank weapon that was capable of producing high-velocity projectiles to penetrate armour. The Sd.Kfz. 221 in German service was eventually succeeded by the larger Sd.Kfz. 222 design, or the more off-road capable Sd.Kfz. 250 half-tracks.
+The le.Pz.Sp.Wg. Sd.Kfz. 221 (''Leichter Panzerspähwagen, Sonderkraftfahrzeug 221''), first produced in 1935, was a German armoured car used as a reconnaissance vehicle for the German Panzer Divisions during World War II. With 339 vehicles manufactured between 1935 to 1940, the Sd.Kfz. 221 saw use in Nazi Germany's early campaigns in Europe, North Africa, and the Eastern Front. Some of these vehicles were armed with the 2.8 cm s.Pz.B. 41, a squeeze-bore anti-tank weapon that was capable of producing high-velocity projectiles to penetrate armour. The Sd.Kfz. 221 in German service was eventually succeeded by the larger [[Sd.Kfz.222]] design and the more off-road capable Sd.Kfz. 250 half-tracks.
 
 Introduced into War Thunder in [[Update 1.79 "Project X"]], the '''{{Specs|name}}''' is a unique armoured car with its squeeze-bore armament attached to the car's high mobility and relatively thin armour on the body. The squeeze-bore armament, named the [[S.Pz.B.41_(28/20_mm)|28/20 mm S.Pz.B.41]], functions by firing a 28 mm caliber shell down a barrel that narrows it to 20 mm at the muzzle end. This method creates a very high pressure within the barrel that causes the projectile to exit with a high velocity to penetrate more armour relative to the caliber diameter. While providing a bigger punch for the caliber size, the weapon only fires APCR shots as a consequence. Due to this, players using the gun would find some issues such as relatively poor armour-piercing performance against highly sloped armour plating and poor post-penetration damage.
 
@@ -131,7 +131,7 @@ If sniping and ambushing are both not working, it is also possible to use this v
 '''Cons:'''
 
 * Limited and unsymmetrical gun traverse
-* Limited post-penetration damage 
+* Limited post-penetration damage
 * Low survivability: only 2 crew members who can be easily taken out by all vehicles and aircraft
 * Poor mobility on soft surfaces
 * Can easily tip over in a sharp turn at high speed
@@ -144,7 +144,7 @@ The Sd.Kfz. 221, also known as the PSW 221, along with its sister Sd.Kfz. 222 wa
 
 The 2.8 cm sPzB 41 taper-bore heavy anti-tank rifle had a 28 mm breech calibre, but due to malleable skirts around the projectile, the projectile emerged from the barrel with a 20 mm calibre. This greatly increased the possible muzzle velocity (4,600 ft/sec at the muzzle) but required rounds with tungsten carbide cores to prevent shattering on impact, and rapidly wore out the gun bore. In 1942 the other requirements for and scarcity of tungsten forced its discontinuation in anti-tank round production, and the weapons that could only use tungsten ammunition were no longer usable after existing ammo supplies ran out. During its short service life, it was sometimes mounted on light armoured cars like the 221 and armoured half-tracks in place of their usual machine gun.
 
-The Sd.Kfz.221 served mainly in the Aufklärungsabteilung (reconnaissance battalion) attached to the Panzer divisions. It was deployed in various fronts, but was ineffective in battlefields in the Eastern and the North African fronts due to its poor offroad mobility. Hence, the Sd.Kfz.221/222 was taken out of service by the end of 1942, and replaced with the famous Sd.Kfz. 250 half-track. 
+The Sd.Kfz.221 served mainly in the Aufklärungsabteilung (reconnaissance battalion) attached to the Panzer divisions. It was deployed in various fronts, but was ineffective in battlefields in the Eastern and the North African fronts due to its poor offroad mobility. Hence, the Sd.Kfz.221/222 was taken out of service by the end of 1942, and replaced with the famous Sd.Kfz. 250 half-track.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

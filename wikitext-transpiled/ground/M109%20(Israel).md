@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=il_m109
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -114,6 +114,8 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The M109 should be played as a manually-aimed artillery unit that engages enemies while they are distracted. It is important to stick close to allies and avoid being flanked by faster tanks. The M109's mobility is decent enough to allow it to get to a position in time. Acknowledging the lengthy reload time of this TD, along with the short barrel with a heavy shell and high shell drop, it is recommended to stay at a medium to short range and engage targets with one hit angles. Should one be incapable of neutralizing the enemy at once (heavy armour, bad angle, etc.), it is recommended to leave them to be finished by teammates.
 
+At your battle rating of 6.0, some of the most common enemies you'll be facing are the infamous German big cats- the Tiger and the Panther. Both of these tanks are actually surprisingly easy to kill with overpressure- for the Panther, one only needs to aim at the mantlet and overpressure will splash down through the weak top armor on the frontal hull and result in a one shot kill. For Tigers, simply aim at the cupola. Ditto for the King Tigers. Casemates like the Ferdinand, Jagdpanther/tiger are a fair bit more difficult to kill frontally but if you have a shot at their side it should, again, be a one shot kill.
+
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
@@ -141,6 +143,7 @@ The M109 should be played as a manually-aimed artillery unit that engages enemie
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_m109 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

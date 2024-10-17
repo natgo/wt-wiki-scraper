@@ -6,9 +6,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a Japanese-purchased Tiger I meant to be shipped over to Japan by submarine to bolster Japanese tank forces and research material. The transfer was never issued due to the continued increase of Allied naval supremacy, and the Tiger was loaned "back" to the Germans and used in the 101st SS heavy tank battalion in Belgium.
+The '''{{Specs|name}}''' refers to a '''Tiger E (Chassis No. 250455)''' purchased by Japan under the advice of General Hiroshi Ōshima, the Japanese ambassador in Berlin. General Ōshima had visited the Eastern Front, where he saw the formidable Tiger tank in action. In May 1943, Japan made an offer to acquire either the blueprints or an actual model of the tank. After negotiations, it was decided that Japan would purchase a Tiger I along with its blueprints, ammunition, and spare parts, with the aim of potentially facilitating domestic production. The plan was to ship the tank to Japan by submarine, intending to strengthen Japanese tank forces and serve as valuable research material. However, the transfer was never completed due to the increasing dominance of Allied naval forces. As a result, the Tiger I was loaned "back" to the Germans and subsequently used in the 101st SS Heavy Panzer Battalion in Belgium.
 
-It was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]]. The Heavy Tank No.6 was initially made available as a pre-order [[wt:en/news/4379-japanese-pre-order-packs-en|premium pack]] for the release of the Japanese tree and was discontinued after the [[wt:en/news/6263-shop-war-thunder-summer-sale-en|2019 Summer sales]]. Performance-wise, it is identical to the German [[Tiger H1]], but its ammunition selection is the same as the [[Tiger H1]]'s. The Heavy Tank No. 6 is an early Tiger E, featuring a late Tiger E turret on a mid-production Tiger H1 hull. It still lacks the 80 mm turret ring protection and the improved turret-top armour, but is otherwise identical to the Tiger E.
+The Heavy Tank No.6 was introduced along with the initial Japanese Ground Forces tree in [[Update 1.65 "Way of the Samurai"]]. It was initially made available as a pre-order [[wt:en/news/4379-japanese-pre-order-packs-en|premium pack]] for the release of the Japanese tree and was discontinued after the [[wt:en/news/6263-shop-war-thunder-summer-sale-en|2019 Summer sales]]. It features a late [[Tiger E]] turret on a mid-production [[Tiger H1]] hull, as well as the Tiger H1's ammunition selection. It also lacks the improved turret-top armour of the Tiger E.
+
+The Tiger I offers a unique experience to Japanese tank crews with its reliable 100 mm frontal armour and powerful KwK36 8.8 cm gun. This combination makes it effective both as a sniper and a brawler, particularly when angled to enhance armour protection. However, a drawback of the Japanese-purchased Tiger I is the placement of S-Mine launchers on the hull, especially the two mounted on the front corners, which can restrict the gun's ability to aim downward at optimal angles; a factor that must be carefully managed in combat.
 
 == General info ==
 === Survivability and armour ===
@@ -201,8 +203,14 @@ Payment by the Japanese for the Tiger tank came into Henschel on 28 February 194
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
-
 * [[Tiger I (Family)]]
+
+;Other vehicles of similar configuration and role
+* [[File:Germany flag.png|30px|link=]] [[Panther tank (Family)]]
+* [[File:USA flag.png|30px|link=]] [[M4A3E2 (76) W]]
+* [[File:USA flag.png|30px|link=]] [[M26 (Family)]]
+* [[File:USSR flag.png|30px|link=]] [[IS-1]]
+* [[File:Britain flag.png|30px|link=]] [[Churchill (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

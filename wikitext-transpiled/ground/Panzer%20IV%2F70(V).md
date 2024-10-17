@@ -39,9 +39,9 @@ Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Pan
 * Mudguards are 4 mm thick.
 * Tracks (20 mm thick) are used as add-on armour on the casemate.
 
-Befitting of the German casemate destroyer line, the frontal armour on the {{PAGENAME}} is one to be feared. It features a mighty frontal plate of 80 mm sloped at 50°, resulting in an awesome 120 mm of protection. The gun mantlet also is very well protected, and has over 150 mm in some areas. The amazing armour is made better when the player unlocks the "add-on armour" modification, applying tracks to the front and sides of the tank, and results in over 185 mm of protection in some areas. Even with this amazing armour, it is best to use the {{PAGENAME}} at longer ranges, as this allows you to make use of your amazing gun and turns you from a difficult target to a nigh impenetrable one.
+Befitting of the German casemate destroyer line, the frontal armour on the {{PAGENAME}} is one to be feared. It features a mighty frontal plate of 80 mm sloped at 50° compared to the Panther's 55º. This results in a slight reduction of useful armor, and is especially prominent against certain shells fired by the Soviet 85 mm gun that can be commonly found at this BR. The gun mantlet is also very well protected due to its volumetric armor. However, the bottom of the mantlet creates a shot trap that may destroy your vehicle. The armour is improved even further when the player unlocks the "Add-on Armour" modification, applying tracks to the front and sides of the tank, and results in over 185 mm of protection in the critical region where 3 of 4 crew members sit in a row, which helps significantly against BR-365 fired by the Soviet 85 mm gun.. Even with this amazing armour, it is best to use the {{PAGENAME}} at longer ranges, as this allows you to make use of the Panzer IV/70's high velocity gun and turns you from a difficult target to a nigh impenetrable one.
 
-However, the side armour is very weak and is able to be penetrated by most things at your BR, so the player should be careful and look out for flankers.
+However, the side armour is very weak and is able to be penetrated by most things at your BR, so the player should be careful and look out for flankers. It should also be noted that in an uptier, it is common to face the American 90 mm or Soviet 122 mm guns, which will make short work of the vehicle frontally.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -110,7 +110,7 @@ The Panzer IV/70(V) bears the 75 mm PaK42 cannon with a rate of fire below avera
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|MG42 (7.92 mm)}}
 
-The tank has a MG42 commander machine gun with a high fire rate. It is able to quickly finish off the exposed crews of some vehicles. However, its traverse angles are very limited meaning a lot of the time the whole tank has to be moved to get the MG on target. Also the maximum penetration of 13 mm makes it useless against those not-so-lightly-armoured vehicles, like the [[BTR-152A]], the [[M18 GMC]], etc.
+The tank has a MG42 bow machine gun with a high fire rate. It is able to quickly finish off the exposed crews of some vehicles. However, its traverse angles are very limited meaning a lot of the time the whole tank has to be moved to get the MG on target. Also the maximum penetration of 13 mm makes it useless against those not-so-lightly-armoured vehicles, like the [[BTR-152A]], the [[M18 GMC]], etc.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -150,6 +150,7 @@ As the match progresses, the player can use the Pz IV/70 as a medium tank since 
 
 * [[IS-2]], [[ISU-122]], [[SU-152]]/[[ISU-152]]: The Pz IV/70 relies on its frontal armour a lot to survive, so the biggest threats are generally the vehicles with high penetration. These machines with high-calibre guns pose the biggest threat, as their APHEBC shells will slice through the Pz IV/70's frontal armour like butter, and their damage is more than enough to kill all the crew inside. Try and finish them off first before they see you. If they do, quickly go to a nearby cover and either call for help, or wait until they fire / are distracted.
 * [[ARL-44]]: the ARL 44's 90 mm SA45 gun can cut through the Pz IV/70's armour with no effort from almost any practical combat range. Its upper frontal plate is completely immune to your shells, and its lower plate also has a habit of causing ricochets. Fortunately, its turret armour is easily penetrated by your gun, resulting in most or all of the turret crew being knocked out or even the ammunition at the back of the turret being detonated.
+* [[M36B1]]: The M36 can be found on many nations in the game and is one of the earliest vehicles to utilize the 90 mm M3 gun, which fires the M82 APCBC shot capable of penetrating the sloped frontal armor of the Pz IV/70 with ease. The M82 is an incredible shell with excellent angled performance and high explosive filler content, which, combined with the limited space inside of the Pz IV hull, will often incapacitate your crew in a single shot. Thus, it is of utmost importance to destroy these vehicles if spotted.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -168,7 +169,7 @@ As the match progresses, the player can use the Pz IV/70 as a medium tank since 
 
 * Lacks a turret which limits its combat potential and makes it vulnerable to flankers
 * Closely packed crew meaning a penetration from any angle will likely to destroy the tank
-* Poor side armour, extremely weak against APBCs like the Soviet 85 mm
+* Poor side armour, extremely weak against most guns found at the BR
 * The downward side of the gun mantlet is prone to shot traps (shell ricocheting down into the hull roof) which is lethal
 * Although frontal armour is thick, it can still get knocked out with a single shot by the [[IS-2 (Family)|IS-2]] regardless the angle and distance
 

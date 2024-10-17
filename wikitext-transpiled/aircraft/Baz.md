@@ -26,7 +26,7 @@ The '''{{Specs|name}}''', introduced in [[Update "Air Superiority"]], is Israel'
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | 750
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -182,8 +182,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 3 x 610 gal drop tanks
-* 2 x AIM-9L Sidewinder missiles
+* 2 x AIM-9L Sidewinder missiles + 2 x AIM-7M Sparrow missiles
 * 4 x AIM-9L Sidewinder missiles
 * 4 x AIM-9M Sidewinder missiles
 * 4 x Python 3 missiles
@@ -197,17 +198,32 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+'''''Air Realistic Battles'''''
 
+''The F-15A is very capable as a frontline fighter, and has a large number of countermeasures at its disposal in case of any threats. The AIM-9M is likely going to be your primary armament, as the AIM-7M is limited in use. The combination of a very capable platform and IRCCM make the Eagle a deadly fighter. However, you should avoid engaging a group of enemies, as this is where the jet struggles. Even though it retains speed very well, it can easily slow down when backed into a corner. As always, stay with your team and don't head into furballs blindly. Avoid drawn-out dogfights as this can easily lead to a third-party situation, and the off-boresight capability of enemies like the Su-27, JAS-39, J-11, and later MiG-29 variants can best the Eagle even if in the disadvantageous position. The F-14 Tomcat can also be a formidable opponent in BVR combat due to its long-range Phoenix air-to-air missiles that utilizes active-radar homing. The F-15A is no slouch, however, as it can hold its own in a BVR fight. Be sure to pay attention to your RWR and defend accordingly.''
+
+'''''Air Simulator Battles'''''
+
+''In simulator battles, the F-15 is very formidable due to its smokeless AIM-9M air-to-air missiles, but is limited by the seeker range and speed of the AIM-7M. The cockpit allows for excellent visibility and provides great situational awareness to the pilot, but the jet does lack HMD, so you must point your nose at targets. The biggest advantage the F-15A has in a simulator battle is its high speed manoeuvrability and smokeless missiles, allowing for stealthy kills.''
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
+* Quite manoeuvrable at all speeds
+* Incredible engine output at all altitudes
+* High TWR and amazing acceleration
+* Lethal AIM-9M missiles with IRCCM capabilities
+
 *
 
 '''Cons:'''
+
+* Large and easy-to-hit target
+* No TWS mode hinders BVR capabilities
+* Sparrows are inconsistent and unreliable
+* Tends to bleed airspeed very rapidly in high-G turns
 
 *
 
@@ -233,6 +249,7 @@ From 1976 onward, Israel continued purchasing F-15s of various models for almost
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f_15a_iaf Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -241,6 +258,7 @@ From 1976 onward, Israel continued purchasing F-15s of various models for almost
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-15 (Family)]]
 
 == External links ==

@@ -180,7 +180,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[AIM-9M Sidewinder]] missiles
 | 1 || 1* || 1* || || || 1* || 1* || 1
 |-
-! [[Skyflash]] missiles
+! [[AIM-120A]] missiles
 | || 1 || 1 || || || 1 || 1 ||
 |-
 ! Countermeasures
@@ -202,12 +202,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 3 x 1,100 l drop tanks
-* 2 x AIM-9L Sidewinder missiles
+* 2 x AIM-9M Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles + 640 x countermeasures
 * 6 x AIM-9M Sidewinder missiles
 * 6 x AIM-9M Sidewinder missiles + 640 x countermeasures
-* 4 x Skyflash missiles
+* 4 x AIM-120A missiles
+* 4 x AIM-120A missiles + 640 x countermeasures
 * 640 x countermeasures
 * 8 x 500 lb LDGP Mk 82 bombs (4,000 lb total)
 * 8 x 500 lb Mk 82 Snakeye bombs (4,000 lb total)

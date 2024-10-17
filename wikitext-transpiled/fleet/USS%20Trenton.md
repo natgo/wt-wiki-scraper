@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=us_cruiser_omaha_class_trenton
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

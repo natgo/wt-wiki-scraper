@@ -66,7 +66,7 @@ The best way to deal with this tank is to immobilize it while sitting outisde of
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 36 || rowspan="2" | -5°/+22° || rowspan="2" | ±20° || rowspan="2" | N/A || 12.3 || 17.1 || 20.7 || 22.9 ||24.4|| rowspan="2" | 7.6 || rowspan="2" | 6.8 || rowspan="2" | 6.2 || rowspan="2" | 5.9
+| rowspan="2" | 36 || rowspan="2" | -5°/+22° || rowspan="2" | ±20° || rowspan="2" | - || 12.3 || 17.1 || 20.7 || 22.9 || 24.4 || rowspan="2" | 7.67 || rowspan="2" | 6.78 || rowspan="2" | 6.25 || rowspan="2" | 5.90
 |-
 ! ''Realistic''
 | 8.3 || 9.8 || 11.9 || 13.2 || 14.0
@@ -100,17 +100,13 @@ The best way to deal with this tank is to immobilize it while sitting outisde of
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|MG42 (7.92 mm)}}
 
-{| class="wikitable" style="text-align:center"
+{| class="wikitable" style="text-align:center" width="50%"
 |-
 ! colspan="5" | [[MG42 (7.92 mm)|7.92 mm MG42]]
 |-
-! Mount
-! Capacity<br>(Belt capacity)
-! Rate of fire<br>(shots/minute)
-! Vertical<br>guidance
-! Horizontal<br>guidance
+! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Pintle || 2,000 (150) || 1,200 || ±20° || ±45°
+| Pintle || 2,100 (150) || 1,200 || ±20° || ±45°
 |-
 |}
 

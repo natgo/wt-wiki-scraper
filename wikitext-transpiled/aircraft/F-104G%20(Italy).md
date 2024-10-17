@@ -54,7 +54,7 @@ Introduced in [[Update "Direct Hit"]], the F-104G is not very manoeuvrable but i
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,527 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 827 || 444 || ~12 || ~5
+| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 827 || 444 || ~12 || ~5
 |-
 |}
 

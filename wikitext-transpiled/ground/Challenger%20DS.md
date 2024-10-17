@@ -60,6 +60,7 @@ While it is slower than Western MBTs at its BR, it is not a slow platform. It ho
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|L11A5 (120 mm)}}
+
 The Challenger bears the 120 mm L11A5, an updated but essentially identical version of the gun found on the Chieftains. It keeps the same ammunition as the Challenger Mk.2 and previous Chieftain Mk.10, making the ballistic performance identical. The L23 comes as the stock round with a significant armour penetration at the cost of reduced penetration angle. L23A1 has much better angle penetration at the cost of reduced armour penetration.
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -79,7 +80,7 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 |}
 
 ==== Ammunition ====
-{{:L11A5 (120 mm)/Ammunition|Shot L23, Shell L31A7, Shot L23A1, L34}}
+{{:L11A5 (120 mm)/Ammunition|Shot L23A1, Shell L31A7, L26, L34}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
@@ -111,7 +112,7 @@ The Challenger bears the 120 mm L11A5, an updated but essentially identical vers
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,400 (200) || 600 || N/A || N/A
+| Coaxial || 2,400 (200) || 1,001 || - || -
 |-
 |}
 {| class="wikitable" style="text-align:center" width="50%"

@@ -6,12 +6,11 @@
 {{Specs-Card
 |code=il_merkava_mk_2d
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_001.jpg}}
-|store= 10706
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Merkava Mk.2D''' was the third and last subvariant of the [[Merkava Mk.2B|Merkava Mk.2]], which was the second variant of the [[Merkava (Family)|Merkava main battle tank family]]. Several enhancements were made to the Merkava Mk.2 over its service life. The Merkava Mk.2B was equipped with gunner thermal imaging equipment; this was followed by more armour and composite screens on the top of the turret of the Merkava Mk.2C, to enhance urban warfare protection against rocket-propelled grenades (RPGs) and anti-tank guided missiles (ATGMs) fired from building rooftops, as well as attacks from enemy air forces. Finally, the Merkava Mk.2D was equipped with the most recent add-on modular composite armour, quite similar to that of the [[Merkava Mk.4B|Merkava Mk.4]] variant, where damaged modular composite armour may be easily swapped out for new modular composite armour even while in combat. Newly upgraded modular composite armour could also be simply added without requiring significant changes to the tank's fundamental structure.
+The '''Merkava Mk.2D''' was the final variant of the Merkava Mk.2. It was equipped with the latest add-on modular composite armour for the hull and turret, quite similar to that of the [[Merkava Mk.4B|Merkava Mk.4]] variant. Damaged armour could be easily swapped out for new modules even while in combat, while new module upgrades could also be added without requiring significant changes to the tank's fundamental structure.
 
 Introduced in [[Update "Winged Lions"]], the Merkava Mk.2D is the most advanced derivative of the Merkava Mk.2. With turret protection comparable to the Merkava Mk.4 variant, the Merkava Mk.2D will undoubtedly shine in the hands of any competent player. In rocky terrain, players will have little issue adopting a hull-down position and making the best use of the tank's low silhouette and fully protected turret to lock down areas of the battlefield against adversaries.
 

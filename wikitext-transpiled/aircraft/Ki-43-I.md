@@ -11,7 +11,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.43]].
+The '''{{Specs|name}}''' was the first production and service variant of the '''Nakajima Ki-43 ''Hayabusa''''' codename "Oscar" by the Allied Forces. The Hayabusa was a singe engine land based fighter that like other Japanese designs at the time relied on its agility and manoeuvrability to defeat its opponents, at such the aircraft was initially lightly armoured and armed. The Ki-43-I was the first production variant of this aircraft with either 2 x 7.7mm MGs or 2 x 12.7mm HMGs. The production of this variant started in 1941 but as the war progressed the 2 x 12.7mm HMG variant became more popular and was sometimes referred as Ki-43-Ic.
+
+It was introduced in [[Update 1.43]]. The '''{{Specs|name}}''' is a classic Japanese fighter for that BR. It features light armament, poor survivability and requires more skill than other fighters to be used effectively. This is because the Ki-43 is a dogfighter, that uses its great agility, turn rate, and roll rate to quickly gain an upper hand on a duel. It should be used at medium altitude, using its good acceleration and decent climb rate to get at a good altitude so that you can dive and regain energy on prolonged dogfights. This aircraft is not meant for boom and zoom, since it has less dive speed and less climb rate than heavy fighters/interceptors or proper boom and zoom fighters like the Bf-109.
 
 == General info ==
 === Flight performance ===

@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=spitfiremkiia
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -30,10 +30,10 @@ Introduced in [[Update 1.35]], the Spitfire Mk IIa is an improvement over its pr
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 545 || 535 || rowspan="2" | {{Specs|ceiling}} || 16.1 || 16.5 || 14.0 || 16.0 || rowspan="2" | 300
+| 549 || 533 || rowspan="2" | {{Specs|ceiling}} || 15.9 || 16.5 || 16.0 || 16.0 || rowspan="2" | 300
 |-
 ! Upgraded
-| 599 || 571 || 14.8 || 15.1 || 27.3 || 19.4
+| 597 || 571 || 14.4 || 15.1 || 23.9 || 19.4
 |-
 |}
 
@@ -231,6 +231,11 @@ In the summer of 1939, an early Spitfire Mk I was fitted with the new Rolls Royc
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Spitfire Mk IIa.png
+</gallery>
 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=spitfiremkiia Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]

@@ -161,9 +161,16 @@ In contrast to the one-man turret of [[Ha-Go|Type 95 Ha-Go]], the Type 98 had a 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_98_ke_ni Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Tanks of comparable role, configuration, and era
+* [[File:USA flag.png|30px|link=]] [[M22]]
+* [[File:Britain flag.png|30px|link=]] [[Tetrarch I]]
+* [[File:USSR flag.png|30px|link=]] [[BT-5]]
+* [[File:Sweden flag.png|30px|link=]] [[Strv m/38]]
+* [[File:Germany flag.png|30px|link=]] [[Pz.38(t) n.A.]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

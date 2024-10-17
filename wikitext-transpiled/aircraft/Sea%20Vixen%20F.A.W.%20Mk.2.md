@@ -5,7 +5,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-During the late 1940s, de Havilland Aircraft Company set out to create the ultimate naval aircraft for the Royal Navy. The requirements set forth by the Royal Navy's Fleet Air Arm dictated a reliable, high-speed, all-weather fleet defence strike fighter, armed with not only the latest developments in British air-to-air missile technology and a powerful radar, but also a respectable quantity of ground ordnance, including guided ordnance. De Havilland would set out to build the DH.110 prototype, which not only surpassed all expectations by being faster and more heavily armed than requested, but was also good enough to be submitted to the Royal Air Force for consideration in their upcoming interceptor selection. While initially the DH.110 fared very poorly, having the initial prototype disintegrate in the middle of an airshow and killing 31 people, almost directly causing it to lose out in both selections to the [[Sea Venom FAW 20|Sea Venom]] which was cheaper and more readily available for the Royal Navy, and the [[Javelin F.(A.W.) Mk.9|Javelin]] interceptor which was favoured more by the RAF. This did not stop de Havilland, who saw the potential in their fighter, from developing the DH.110 further under their own funds, and shortly after, returned to the RAF with a proposal for an updated version, which could accommodate the latest British missiles such as the Firestreak, and had its safety issues ironed out. The RAF would order 148 of the type, now called the "Sea Vixen", and they would enter service very shortly after in 1959. Despite the attempts at fixing the safety issues, the Sea Vixen remained one of the most dangerous aircraft to enter service with the RAF, with over a third of the Sea Vixens in service being lost in accidents. 30 of these (54% of the accidents) were fatal, and eventually, the Sea Vixen was relegated to peacekeeping and target tug roles, almost never seeing actual combat (with the exception of air-cover missions for RAF helicopters/ships in Tanganyika and the Persian Gulf).
+During the late 1940s, de Havilland Aircraft Company set out to create the ultimate naval aircraft for the Royal Navy. The requirements set forth by the Royal Navy's Fleet Air Arm dictated a reliable, high-speed, all-weather fleet defence strike fighter, armed with not only the latest developments in British air-to-air missile technology and a powerful radar, but also a respectable quantity of ground ordnance, including guided ordnance. De Havilland would set out to build the DH.110 prototype, which not only surpassed all expectations by being faster and more heavily armed than requested, but was also good enough to be submitted to the Royal Air Force for consideration in their upcoming interceptor selection. While initially the DH.110 fared very poorly, having the initial prototype disintegrate in the middle of an airshow and killing 31 people, almost directly causing it to lose out in both selections to the [[Sea Venom FAW 20|Sea Venom]] which was cheaper and more readily available for the Royal Navy, and the [[Javelin F.(A.W.) Mk.9|Javelin]] interceptor which was favoured more by the RAF. This did not stop de Havilland, who saw the potential in their fighter, from developing the DH.110 further under their own funds, and shortly after, returned to the Royal Navy with a proposal for an updated version, which could accommodate the latest British missiles such as the Firestreak, and had its safety issues ironed out. The Royal Navy would order 148 of the type, now called the "Sea Vixen", and they would enter service very shortly after in 1959. Despite the attempts at fixing the safety issues, the Sea Vixen remained one of the most dangerous aircraft to enter service with the Royal Navy, with over a third of the Sea Vixens in service being lost in accidents. 30 of these (54% of the accidents) were fatal, and eventually, the Sea Vixen was relegated to peacekeeping and target tug roles, almost never seeing actual combat (with the exception of air-cover missions for Royal Navy helicopters/ships in Tanganyika and the Persian Gulf).
 
 The '''{{Specs|name}}''' was introduced in [[Update "Red Skies"]]. While on the more expensive side of rank V premiums, the cost is justified as this aircraft is very good in most aspects against almost all aircraft it can face against. Most aircraft you face cannot keep up with you in a turn, and those that can, will be unable to catch you in a straight line. The main highlight of this aircraft is its versatility in both air and ground battles. In air battles, while limited by its weak roll rate and lack of ballistic ordnance such as cannons or guns, the Sea Vixen gets access to the [[Red Top]] air-to-air missile, which at its battle rating is strong against most targets it faces, with the exception of the A-4Es with flares. This aircraft also shines in mixed battles, with the ability to bring a decent selection of bombs, rockets, and the [[AGM-12B Bullpup|AGM-12B]] Bullpup guided missiles. All in all, the Sea Vixen proves not only a very versatile aircraft, but a good premium for grinding the respective ranks of the British aircraft tree.
 
@@ -163,6 +163,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 4 x Firestreak missiles
 * 4 x Red Top missiles
 * 4 x 500 lb H.E. M.C. Mk.II bombs (2,000 lb total)
@@ -182,7 +183,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 [[File:Sea Vixen Wiki Image 3.jpg|thumb|Sea Vixen launching a [[Firestreak]] AAM.]]
+
 ;Air Realistic battles
+
 The '''Red Tops''' are generally much better missiles to equip, compared to the '''Firestreaks''', as they have the largest warhead of any air-to-air missile in the game and have a slightly better top speed (Mach 2.5). Because of this, the Sea Vixen's best tactic is to climb to one side at the start of the battle and attack enemy bombers. The Red Tops are very good for attacking from the side and this tactic is a good idea to avoid enemy tail gunners and will make the missile more likely to hit because of the Red Tops' poor range from the rear.
 
 Alternatively, you can use the Red Tops in Boom-n-Zoom attacks on enemy fighters, who are not watching out for missiles or fighters, which have lost speed. The Red Tops are most useful when fired from the side between 1 to 2.5 km range. The Sea Vixen's manoeuvrability may tempt you to engage in dogfights, however, you should generally stick to boom-and-zoom tactics at least until there are only a few hostile aircraft left; The Sea Vixen's primary way of avoiding damage is its superior speed and engaging in dogfights gives a chance to hostiles to get a hit on you.
@@ -190,11 +193,13 @@ Alternatively, you can use the Red Tops in Boom-n-Zoom attacks on enemy fighters
 Remember to actively use your radar lock, the Sea Vixen's radar lock is superior to even some top-tier aircraft and allows you to get a missile lock without needing to have your aircraft's nose pointed at the target. It can also help you acquire a lock more easily on turning aircraft and it is generally good practice to radar lock any target you are going after.
 
 ;Enemies worth noting:
+
 MiG-19s and F-104s in particular need to be looked out for as they are common and among the very few aircraft able to catch up to the Sea Vixen. In a downtier, A-4Es are the primary target that should be avoided, as they possess flares.
 
 ;Strategies for specific aircraft:
+
 * [[F-104 (Family)|F-104 ''Starfighter'']]: In uptiers, the most common aircraft you will face is the F-104s. Unfortunately, you will see very few bombers in these cases, so you will most likely have to deal with them one way or another.
-** First, try to identify them, ideally, you want to engage [[F-104A]]s and not [[F-104C]]s, as the F-104C gets flares. From there, your ideal engagement is intercepting an F-104 that is diving on another target (or just cruising) from the sides, the Sea Vixen has great manoeuvrability and can easily get on an aircraft's tail. When you are on the tail of a F-104, quickly judge its speed, if it is going near your top speed, your desired missile launch range is within 1.5km; Red Tops have subpar burn time and cannot catch up if launched from any further.
+** Your ideal engagement is intercepting an F-104 that is diving on another target (or just cruising) from the sides, the Sea Vixen has great manoeuvrability and can easily get on an aircraft's tail. When you are on the tail of a F-104, quickly judge its speed, if it is going near your top speed, your desired missile launch range is within 1.5km; Red Tops have subpar burn time and cannot catch up if launched from any further.
 ** If the target F-104 tries to dogfight you, quickly check your surroundings, if there are no other hostile aircraft in sight, feel free to respond in kind. The Sea Vixen is far more manoeuvrable than the F-104, you have the upper hand.
 
 * [[A-4 (Family)|A-4 ''Skyhawk'']]: The strategy against A-4s is generally just brute force. You can get on their tail and pressure them, you are both faster and more manoeuvrable so you can afford a protracted fight (given there are no other hostiles in the vicinity).
@@ -209,25 +214,21 @@ MiG-19s and F-104s in particular need to be looked out for as they are common an
 '''Pros:'''
 
 * Very high top speed of over 1,100 km/h at sea level
-* Good acceleration thanks to its two powerful engines
+* Good acceleration and climb rate thanks to its two powerful engines
 * [[Red Top]] missiles can be very hard to dodge when used correctly
-* Climbs better than most aircraft it faces
-* Is surprisingly manoeuvrable
-* Can carry [[AGM-12B Bullpup]] air-to-ground missiles
-* Decent ground attack ordnance loadouts
-* Can drop bombs / fire rockets separately instead of in pairs
+* Surprisingly manoeuvrable, despite the size
+* Decent ground attack ordnance loadouts, including [[AGM-12B Bullpup]] air-to-ground missiles
 * Can take-off and land from aircraft carriers
-* The AI Mk.18 radar is better than that found on most aircraft you face.
+* The AI Mk.18 radar is better than that found on most aircraft you face
 
 '''Cons:'''
 
 * The Sea Vixen has no guns or cannons, relying entirely on missiles for air-to-air combat
+** Only having four air-to-air missiles with no other air-to-air armament limits how many kills you can get without re-arming. Targets with flares can be very hard to kill as a result
+** Having only missiles enforces a fairly high minimum engagement range on you (missiles require time to start tracking after launch, and arm their proximity fuse).
 * Missiles are rear-aspect only so you cannot engage targets you are approaching head-on (or from the front aspect in general)
-* Both [[Red Top]] and [[Firestreak]] missiles do not have great range when fired from directly behind a target.
-* Only having four air-to-air missiles with no other air-to-air armament limits how many kills you can get without re-arming
-* Unlike in aircraft with guns you cannot opportunistically kill ground targets while flying around
-* Targets with flares can be very hard to kill
-* Having only missiles enforces a fairly high minimum engagement range on you (missiles require time to start tracking after launch, and arm their proximity fuse).
+* Both [[Red Top]] and [[Firestreak]] missiles do not have great range when fired from directly behind a target
+* Very large in size, can be easily hit by most enemies
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

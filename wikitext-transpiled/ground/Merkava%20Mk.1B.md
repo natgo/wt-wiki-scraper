@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Merkava Mk.1B''' was the first and only subvariant of [[Merkava Mk.1 (USA)|Merkava Mk.1]], which was the first variant of the [[Merkava (Family)|Merkava main battle tank family]]. The IDF formerly had to rely on importing foreign weapons to maintain its armoured units since its industry was inadequate to develop domestic vehicles. The British deciding not to sell the Chieftain to the Israelis (because they were already supplying them to Arab countries) led to Israel to begin their own tank development program. Israel first deployed the Merkava Mk.1 during the Lebanon War in 1982; following the battle, numerous modifications were made and implemented. The Merkava Mk.1B and Merkava Mk.1 are essentially distinguished by the addition of a new firing control system, additional side armour for the suspension, and chains with balls on the back of the turret. Under the back of the turret bustle, there was a shot trap where a well-placed shot might totally jam the turret. Chain netting was added to pre-maturely detonate rocket-propelled grenades (RPGs) before they hit the main armour, increasing survivability. In 1983, manufacturing was stopped in favour of the upgraded [[Merkava Mk.2B|Merkava Mk.2]] variant.
+The Merkava Mk.1 was the first variant of the [[Merkava (Family)|Merkava main battle tank family]]. The IDF formerly had to rely on importing foreign weapons to maintain its armoured units since its industry was inadequate to develop domestic vehicles. The British decision not to sell the Chieftain to the Israelis (because they were already supplying them to Arab countries) led Israel to begin its own tank development program. Development was overseen by General Israel Tal, who was not a professional engineer but an experienced soldier who had participated in World War II and the subsequent Arab-Israeli wars. He laid down the philosophy of the design, which prioritised crew protection, resulting in the tank's unique configuration: the engine was located at the front and, for rapid evacuation and transport of soldiers, a rear hatch was installed, effectively transforming it into an "armoured IFV". By 1974, the first prototypes of the Merkava tank were sent for initial trials, and in December 1979, almost ten years after development began, the Merkava entered service with the IDF. It was first deployed during the 1982 Lebanon War. In 1983, manufacturing was stopped in favour of the upgraded [[Merkava Mk.2B|Merkava Mk.2]] variant. Some Merkava Mk.1s were upgraded to the Mk.2 standard, being redesignated '''Merkava Mk.1B'''.
 
-Introduced in [[Update "Wind of Change"]], the Merkava Mk.1B is the first indigenous armoured vehicle in the Israeli ground tree. The positioning of the engine at the front rather than the back, which is the conventional tank configuration, is one of the Merkava main combat tank's extremely distinctive features. The objective of such a design was to increase crew survivability, since Israel is a small country with limited resources and manpower, making it essential for them to survive battles. With its much-improved survivability compared to conventional main battle tanks, players will enjoy playing one of the Middle East's most iconic main battle tanks.
+Introduced in [[Update "Wind of Change"]], the Merkava Mk.1B is the first indigenous armoured vehicle in the Israeli ground tree. The positioning of the engine at the front is one of the Merkava's most distinctive features, and improves the tank's survivability by absorbing shots from the front, protecting the crew. However, it also increases the risk of engine failure and fire. The Merkava boasts a powerful gun, a thermal sight, and excellent survivability, aided by its LWS and numerous smoke grenades, but low mobility compared to many Western tanks.
 
 == General info ==
 === Survivability and armour ===
@@ -28,13 +28,13 @@ Introduced in [[Update "Wind of Change"]], the Merkava Mk.1B is the first indige
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 60 mm (67-76°) ''Front glacis''<br>60 - 90 mm (30-57°) ''Lower glacis''
-| 50 + 10 mm ''Top''<br>50 + 10 mm ''Bottom''
+| Hull || 60 mm (67-76°) ''Front glacis''<br>60 - 90 mm (30-57°) ''Lower glacis''
+| 50 + 10 mm ''Top''<br>50 + 10 mm ''Bottom''
 | 30 mm (12-44°) mm
 | 20 - 30 mm
 |-
-| Turret || 30 - 65 mm (1-71°) ''Turret front'' <br> 100 mm (0-75°) ''Gun mantlet''
-| 65 mm ''Upper turret armour'' <br> 65 mm (0-60°) ''Lower turret armour''
+| Turret || 30 - 65 mm (1-71°) ''Turret front'' <br> 100 mm (0-75°) ''Gun mantlet''
+| 65 mm ''Upper turret armour'' <br> 65 mm (0-60°) ''Lower turret armour''
 | 65 mm (11° - 66°)
 | 30 mm
 |-
@@ -131,15 +131,18 @@ Introduced in [[Update "Wind of Change"]], the Merkava Mk.1B is the first indige
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
 
-*
+* Has access to M413 that can penetrate almost anything at its BR
+* The engine in the front provides extra crew protection
+* Gets access to thermals
+* Access to laser warning system
 
 '''Cons:'''
 
-*
+* Reverse gear is slower than later models
+* Underpowered engine for its weight
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

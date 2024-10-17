@@ -10,7 +10,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Merkava Mk.4M''' is the third and last subvariant of the Merkava Mk.4, which is the fourth variant of the [[Merkava (Family)|Merkava main battle tank family]]. It is an enhanced subvariant of the standard Merkava Mk.4, outfitted with the Trophy active protection system (APS). Also known as the Merkava Mk.4M Windbreaker, this tank began production in 2009. In 2011, the first brigade outfitted with these tanks was declared operational. It saw action in the same year and successfully resisted an anti-tank guided missile (ATGM) attack. Since then, the updated Merkava Mk.4M tanks equipped with the Trophy APS have intercepted dozens of rocket-propelled grenades (RPGs) such as the RPG-29 and ATGMs such as the Kornet and Metis-M.
+Following the end of the Second Lebanon War in 2006, where Merkavas were frequently subjected to attacks from anti-tank weapons, a decision was made to equip the tanks with the "Trophy" active protection system developed by Rafael. The system was first presented to the public in 2005 at the LIC-2005 international exhibition in Tel Aviv. It includes a radar that detects and identifies incoming projectiles aimed at the tank. Upon receiving a signal from the radar, launch units are activated, firing countermeasures to intercept and destroy the warhead at maximum distance from the tank. [[Merkava Mk.4B|Merkava Mk.4]]s equipped with this system, designated '''Merkava Mk.4M''' (''Me'il Ruach'', מעיל רוח; lit. "Windbreaker"), were adopted for service in the early 2010s and have already participated in several regional conflicts.
 
 Introduced in [[Update "Wind of Change"]], the Merkava Mk.4M is the ultimate subvariant of the Merkava Mk.4. Players can lead assaults into modern battlefields without fear of ATGMs from both ground vehicles and helicopters, thanks to the Trophy APS. The Merkava Mk.4M is a truly modern main battle tank designed for even the most intense conflict, providing the finest protection and firepower to confront any adversary. Players should bear in mind, however, that the Trophy APS does not give unlimited protection, and hence the tank should not stay out in the open for long during combat.
 
@@ -18,7 +18,11 @@ Introduced in [[Update "Wind of Change"]], the Merkava Mk.4M is the ultimate sub
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The Merkava Mk.4M's armour is mainly composed of NERA, which is very effective against chemical munitions. Most HEAT rounds and ATGMs will fail to penetrate the frontal arc of the tank. Notable chemical munitions that can penetrate the front reliably are modern helicopter-mounted ATGMs such as the Hellfire and the 9M133 ATGM on the BMP-2M.
+
+However, the armour does not perform well against kinetic munitions and modern APFSDS sabot rounds will easily go through the hull and turret. This is somewhat alleviated by the good crew placement in the tank, which allows the crew to survive some shots that other contemporary MBTs would not.
+
+The Trophy APS is excellent at neutralizing ATGMs and projectiles that travel under 1,000 m/s which greatly enhances the Merkava's survivability. The addition of a Laser Warning System allows players to also be aware of other laser-guided munitions such as GBUs that the APS cannot intercept, giving the player time to react accordingly.
 
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
@@ -130,17 +134,16 @@ Introduced in [[Update "Wind of Change"]], the Merkava Mk.4M is the ultimate sub
 * Powerful APFSDS round
 * Trophy System will stop most missiles
 * HE-TF can help with fighting against helicopters
-* Generation 2 thermal for gunner and commander
-* 200mm of NERA on the turret roof will protect against HE shells striking the optics and sometimes even against artillery
-* 400mm of NERA side armor above the tracks. Enough to stop most HEAT-FS and autocannons.
-* Can reverse at 64kph.
+* Generation 2 thermals for gunner and commander
+* 200 mm of NERA on the turret roof will protect against HE shells striking the optics and sometimes even against artillery
+* 400 mm of NERA side armour above the tracks, enough to stop most HEAT-FS and autocannons
+* Can reverse at 64 km/h
 
 '''Cons:'''
 
 * Engine is at the front of the tank and any penetrating hit to the UFP will result in a stranded tank
 * Upper front plate is weaker than those of other nations' tanks
-* Slower reload than most top tier manual loaded tanks. 8.7 secs stock, 6.7 ace.
-* depression of only 7°
+* Gun depression of only 7°
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

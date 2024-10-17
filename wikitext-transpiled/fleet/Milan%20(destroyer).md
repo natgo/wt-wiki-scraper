@@ -5,12 +5,14 @@
 }}
 {{Specs-Card
 |code=fr_destroyer_aigle_class_milan
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage {{PAGENAME}}.jpg|GarageImage {{PAGENAME}} (2).jpg}}
 }}
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+'''Milan''' was a French contre-torpilleur, the fifth ship of the [[Aigle (Family)|Aigle class]], launched in October 1931. During the Norwegian campaign in April 1940, she made two convoy escorts to the shores of Norway. In May, she raided Skagerrak Strait with the aim of destroying German transports, but achieved no success. In June of the same year, she transported General Charles de Gaulle to Plymouth. After the armistice with Germany, Milan served under the Vichy French Navy. On November 8, 1942, during the Allied siege of Casablanca, as part of Operation Torch, she engaged US Navy Task Force 34, but ran ashore after receiving a direct hit from battleship USS Massachusetts. After the war, she was refloated and sold for scrap.
+
+Introduced in [[Update "La Royale"]], the '''{{Specs|name}}''' features very good anti-air and anti-coastal armament, in particular a large amount of medium-range 37 mm guns, making her an excellent support for friendly vessels. Against larger threats, she boasts excellent primary armament and very good long-range torpedoes. Her biggest issue is the lack of survivability, even if she has the largest crew complement of her class. She also has the lowest speed in her class, but the difference is not significant enough to affect combat performance. Her unique feature, compared to the rest of her class, is a complement of 20 mines, which can be used to defend capture points or block critical routes.
 
 == General info ==
 === Survivability and armour ===

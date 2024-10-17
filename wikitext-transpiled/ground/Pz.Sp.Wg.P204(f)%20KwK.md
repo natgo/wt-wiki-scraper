@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The capitulation of France in 1940 saw a number of equipment captured by the Germans, including the [[AMD.35]] armoured car and their production facilities. The German Wehrmacht pressed the Panhard armoured car into service, issuing them to their reconnaissance units and they would see prominent use during Operation Barbarossa. However, as the years pass, the AMD.35 were seen as becoming obsolete in the frontline services and saw more use behind the lines such as occupational and policing duties. In 1944, it was decided to take 34 AMD.35 and modify them to accommodate the [[KwK_L/42_(50_mm)|50 mm L/42 tank gun]] used in the Panzer III. Transformed into open-top vehicles and designated as Pz.Sp.Wg.P204(f) KwK, the were utilized in occupation duties until the Allied invasion of Normandy, where the vehicles were then committed to combat the invading Allies.
+The capitulation of France in 1940 saw a number of equipment captured by the Germans, including the [[AMD.35]] armoured car and their production facilities. The German Wehrmacht pressed the Panhard armoured car into service, issuing them to their reconnaissance units and they would see prominent use during Operation Barbarossa. However, as the years passed, the AMD.35 were seen as becoming obsolete in frontline service and saw more use behind the lines such as occupational and policing duties. In 1944, it was decided to take 34 AMD.35 and modify them to accommodate the [[KwK_L/42_(50_mm)|50 mm L/42 tank gun]] used in the Panzer III. Transformed into open-top vehicles and designated as Pz.Sp.Wg.P204(f) KwK, they were utilized in occupation duties until the Allied invasion of Normandy, where the vehicles were then committed to combat the invading Allies.
 
-Introduced as part of a reward for the [[wt:en/news/8384-event-summer-extreme-en|2023 Summer Extreme]] event during [[Update "La Royale"]], the Pz.Sp.Wg.P204(f) KwK is a fairly unique armoured car in the early German tech tree line-up. The AMD.35 armoured car chassis provides decent mobility on hard surfaces, but the star of the show is the 50 mm cannon, which is powerful enough to penetrate tanks it will encounter. However, limitations in the turret traverse and the open-top nature of the turret limits the full potential of this cannon at the rank it is in. The Pz.Sp.Wg.P204(f) KwK can help players strike true with power, but only in the right situations that the player can put the armoured car into against an incoming enemy.
+Introduced as part of a reward for the [[wt:en/news/8384-event-summer-extreme-en|2023 Summer Extreme]] event during [[Update "La Royale"]], the Pz.Sp.Wg.P204(f) KwK is a fairly unique armoured car in the early German tech tree line-up. The AMD.35 armoured car chassis provides decent mobility on hard surfaces, but the star of the show is the 50 mm cannon, which is powerful enough to penetrate tanks it will encounter. However, limitations in the turret traverse and the open-top nature of the turret limit the full potential of this cannon at the rank it is in. The Pz.Sp.Wg.P204(f) KwK can help players strike true with power, but only in the right situations that the player can put the armoured car into against an incoming enemy.
 
 == General info ==
 === Survivability and armour ===
@@ -100,15 +100,15 @@ With a lack of a coaxial machine gun and poor armor, players may find head on at
 '''Pros:'''
 
 * Wheeled vehicle, faster than conventional tanks on roads
-* Powerful 50 mm KwK L/42 cannon can penetrate most vehicles at its BR 
-* Special transmission allows for top speed to be reached in both forward and reverse, making engine-first tactics viable and increasing survivability 
+* Powerful 50 mm KwK L/42 cannon can penetrate most vehicles at its BR
+* Special transmission allows for top speed to be reached in both forward and reverse, making engine-first tactics viable and increasing survivability
 
 '''Cons:'''
 
 * Poor braking
 * Large turning radius
 * Lack of coaxial machine gun
-* Relies on player's ability to hit shots on key crew members (drivers and gunners) 
+* Relies on player's ability to hit shots on key crew members (drivers and gunners)
 * Open-topped layout makes it prone to air attack and flanking machine gun attacks
 * Weak armour stops only rifle-calibre machine gun rounds
 * Poor manoeuvrability off road, confines the vehicle to surfaces like roads and gravel for utilization of speed advantage

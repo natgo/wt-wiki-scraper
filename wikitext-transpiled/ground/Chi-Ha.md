@@ -119,12 +119,12 @@ The gun is the same as on the I-Go. Not much to write home about, but we're hard
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-[[File:Chi-Ha (3).png|left|thumb|250px|Chi-Ha passing a disabled [[T-26 (China)]]]]
+[[File:Chi-Ha (3).png|left|thumb|250px|The Chi-Ha passing a disabled Chinese [[T-26 (China)|T-26]]]]
 The Chi-Ha is the most interesting Rank I Japanese tank to play as it has little to no armour, a shot-put-like muzzle velocity and looks like a bus in some sense as to how long it is. But there is a way to play this tank despite all the negatives to this tank and to play it to the best of its abilities, one can play it as a support tank in every way (apart from long distance as the rounds drop like a brick after 500 m). Stay close to teammates and always play sneaky as the Chi-Ha can be easily taken out with a single shot by any opponent, like all Japanese tanks in this rank.
-[[File:Chi-Ha (4).png|thumb|250px|Chi-Ha destroying another [[T-26]]]]
-But if facing a heavy tank or medium tank of early Rank II are very hard to versus from head-on and the fact that the 57 mm APHE rounds lack penetration to destroy it from the front. So the best option is to go up behind it or attack from the side to destroy them. Another problem that shows itself strongly in close quarter fights is that the Chi-Ha has a hand-cranked turret and turning the tank is painful at best. So it is best to plan ahead before attacking, think where the enemy may be and find a place to hide the bulky tank from the enemy and wait for the enemy to come to the firing range. The Type 3 HEAT shell changes this. With 55 mm of penetration, the tank is capable of penetrating tanks that it previously couldn't - which is most tanks at rank I and II. In addition to this, the Type 3 HEAT has the potential to hull break lightly armoured targets like LVTs or the Sturmpanzer. Use the protection analysis feature to figure out which tanks you can and can't get through, and adapt your playstyle accordingly when those vehicles are encountered. Now, this is somewhat important "'''Don't''' look for the enemy, let the '''enemy''' look for the Chi-Ha." Of course, the Chi-Ha could still go look for the enemy, but always be on alert and make sure to have a friend for firing support.
+[[File:Chi-Ha (4).png|thumb|250px|The Chi-Ha destroying another [[T-26]]]]
+But when facing a heavy tank or early Rank II medium tank, issues can arise. These can be very hard to engage head-on and the fact that the APHE rounds severely lack penetration doesn't help. So the best option is to go up behind it or attack from the side to destroy them. Another problem that shows itself strongly in close quarter fights is that the Chi-Ha has a hand-cranked turret and turning the tank is painful at best. So it is best to plan ahead before attacking, think where the enemy may be and find a place to hide the bulky tank from the enemy and wait for the enemy to come to the firing range. The Type 3 HEAT shell changes this: with 55 mm of penetration, the tank is now capable of penetrating tanks that it previously couldn't - those being most tanks at Ranks I and II. In addition to this, the HEAT shell has the potential to overpressure lightly armoured targets like [[LVT (Family)|LVTs]] or the [[15cm sIG 33 B Sfl|Sturmpanzer]]. Use the protection analysis feature to figure out which tanks you can and can't get through, and adapt your playstyle accordingly when those vehicles are encountered. Now, this is somewhat important: "'''Don't''' look for the enemy, let the '''enemy''' look for the Chi-Ha." Of course, the Chi-Ha could still go look for the enemy, but always be on alert and make sure to have a friend for firing support.
 
-Engine power is not that powerful, which then means that the acceleration will be slow to start up, but it will slowly get faster over time. But reversing is like all British tanks when they reverse, It's going to be slow. But this is compensated for the turning speed of this tank as it is better to turn and run in some cases then reverse.
+The engine is not that powerful, which then means that initial acceleration will be slow, but it will slowly get faster over time. Reversing, however is comparable to most British tanks: it's going to be slow. But this is compensated by the turning speed of this tank, so it is better to turn and run than reverse in some cases.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -135,15 +135,15 @@ Engine power is not that powerful, which then means that the acceleration will b
 * Quite fast (up to 44 km/h), allowing it to get to certain spots in time
 * Lovely climbing ability combined with the amazing -15 degrees gun depression, it is great at mountain combat
 * Has a vertical stabiliser which most tanks don't have, allowing the Chi-Ha to get the first shot off
-* Due to its slow 57 mm shell velocity, it can shoot behind cover without showing the tank to some degree
-* Type 3 HEAT is powerful. It can frontally penetrate common targets like [[M3 Lee]], and destroy tanks like [[LVT(A)(1)]] with overpressure
+* Due to the low shell velocity, can shoot behind cover without showing the tank to some degree
+* Effective HEAT shell, can frontally penetrate common targets like [[Pz.III (Family)|Pz. IIIs]], and destroy lighter tanks like [[LVT (Family)|LVTs]] with overpressure
 * Great turning ability in low gear
 
 '''Cons:'''
 
-* 57 mm armament may be underpowered in an uptier, especially in frontal engagements
-* Thin armour can be penetrated by 20 mm/.50 cal up close
-* Abysmal penetration on stock APHE, will struggle to penetrate most low tier tanks like [[M3A1 Stuart|M3A1]] and [[T-70]]
+* Main armament may be inadequate in an uptier, especially in frontal engagements
+* Thin armour that can be penetrated by 20 mms /.50 cals up close
+* Abysmal penetration on stock APHE, will struggle to penetrate most low tier tanks like [[M3 Stuart (Family)|Stuarts]] and [[T-70|T-70s]]
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -204,13 +204,7 @@ Chi-Ha (14).png|
 ;Related Development
 
 * [[Chi-Ha (Family)]]
-
-;Other vehicles of similar configuration and role
-
 * [[Ho-I]]
-* German tanks equipped with [[KwK37 (75 mm)]]
-* [[T-26-4]]
-* {{Specs-Link|us_m8_scott}}
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

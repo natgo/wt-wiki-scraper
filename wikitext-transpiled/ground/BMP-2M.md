@@ -181,15 +181,15 @@ Unlike the BMP-2 which only has one ATGM launcher and takes some time to reload,
 === Machine guns ===
 {{Specs-Tank-Weapon|4}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|PKT (7.62 mm)}}
+{{main|PKTM (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[PKT (7.62 mm)|7.62 mm PKT]]
+! colspan="5" | [[PKTM (7.62 mm)|7.62 mm PKTM]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,000 (250) || 700 || N/A || N/A
+| Coaxial || 2,000 (250) || 700 || - || -
 |-
 |}
 
@@ -224,7 +224,6 @@ Avoid frontal confrontation with enemies of any kind, due to the very thin armou
 * Can equip 9M133FM-3 HE missiles with proximity fuses, useful for AA duties
 * Laser rangefinder keeps the autocannon effective at range, especially with the APFSDS belt
 * Amphibious ability can be useful for crossing the water to areas hard-to-reach for other vehicles
-* Roof-mounted grenade launcher can clear obstacles that typically machine guns can not
 * Can be played as a light tank, long range tank, CQB support vehicle, or SPAA
 ** IFV IRST has a max range of 8 km and does not trigger aircraft RWR. Works very well alongside 9M133FM-3 proximity-fused HE missiles and works well against aircraft at close range with the autocannon
 
@@ -236,6 +235,7 @@ Avoid frontal confrontation with enemies of any kind, due to the very thin armou
 * Grenade launcher has only 3 mm of pen and generally can't destroy opponents, instead being used against obstacles and clearing ERA at close range, sometimes damaging tracks or exposed ammo racks (e.g. ATGMs) at very close range
 * ATGMs require discipline to use, as the urge to fire all four of them on contact is near irresistible. While firing all four ATGM ensures that the target tank is absolutely annihilated, it is a waste of ammunition if operator does not redirect remaining missiles away from already destroyed tank towards next target
 * Destroying the grenade launcher belt knocks the vehicle out
+* Roof-mounted grenade launcher cannot clear fences or destructible walls (Even some things that 7.62 machine guns can clear)
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

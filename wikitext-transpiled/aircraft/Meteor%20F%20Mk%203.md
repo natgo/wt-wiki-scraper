@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The Gloster Meteor was the first and only Allied jet aircraft to see combat in WWII. Beginning development in 1940, prototypes first flew in 1943, and the first production variant soon entered service in July 1944. They were initially used to intercept V-1 flying bombs, achieving the world's first air-to-air "kills" in a jet-powered fighter on 4 August, just a few days before its German competitor, the [[Me 262 A-1a|Me 262]], achieved the same on a piloted aircraft. The '''Meteor F Mk 3''', equipped with improved Rolls-Royce Derwent I engines, would enter service in December 1944. They were deployed in Europe, providing air defence over Belgium and the Netherlands, having initially been banned from flying over the continent for fears of being downed and captured by the Germans or Soviets. The Meteor would spawn a number of variants, and would remain in operational service as late as 1970 with export customers such as Argentina.
+
+In the game since the start of the Open Beta Test prior to Update 1.27, the Meteor F Mk 3 is a solid jack-of-all-trades, and an excellent introduction to early jet combat. While not as fast as the [[Attacker FB 1|Attacker]], nor as manoeuvrable as the [[Vampire F.B.5|Vampire]], the Meteor provides a balanced and versatile platform capable of dogfighting common opponents and adapting to any situation. Its nonetheless excellent manoeuvrability allows it to easily bait and trap most opponents in a turnfight, while the four venerable Hispano cannons mounted in the nose will quickly down any target once on their tail. Its main drawbacks include the somewhat low engine power, as one might expect from one of the first of their kind, as well as the rather stiff roll rate; both issues become greatly alleviated in future variants.
 
 == General info ==
 === Flight performance ===
@@ -125,11 +127,11 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} British jet fighter {{Battle-r
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
-{{main|Hispano Mk.V (20 mm)}}
+{{main|Hispano Mk.II (20 mm)}}
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 4 x 20 mm Hispano Mk.V cannons, nose-mounted (200 rpg top + 190 rpg bottom = 780 total)
+* 4 x 20 mm Hispano Mk.II cannons, nose-mounted (180 rpg = 720 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

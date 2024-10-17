@@ -181,7 +181,7 @@ In total, 2,150 Hudsons would be used by the British Commonwealth through both d
 
 ;Related development
 
-* [[A-29]]
+* [[Hudson (Family)]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

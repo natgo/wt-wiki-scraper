@@ -196,11 +196,17 @@ One of the three standard Italian wartime bombers, alongside the S.M. 79 and the
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.'' -->
+* ''links to approximate analogues of other nations and research trees.'' -->'''Related development'''
 
-* [[S.M.79 (Family)|S.M.79]] - research tree rank 2 predecessor
-* CANT [[Z.1007 bis serie 3]] - production predecessor
-* [[SB 2M-100|SB 2]], [[Ar-2]], [[Ki-49 (Family)|Ki-49]], and [[Ju 88 (Family)|Ju 88]] - similar in flight and combat style
+* [[Z.1007 (Family)]]
+
+'''Aircraft of similar configuration or role'''
+
+* [[S.M.79 (Family)]]
+* [[SB (Family)]]
+* [[Ar-2]]
+* [[Ki-49 (Family)|Ki-49 (Family)]] 
+* [[Ju 88 (Family)|Ju 88 (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

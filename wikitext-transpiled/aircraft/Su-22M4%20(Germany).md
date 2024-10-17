@@ -238,7 +238,30 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+=== Air RB ===
+The useable loadouts can vary significantly depending on the opponents faced in the battle. Generally, any loadout carrying 8 FAB-500s is optimal as it can destroy exactly two bases. The R-60MKs are suboptimal in most scenarios due to how susceptible they are to flares, but excel when launched in "melee" (as in: from behind, no more than 800 m away), as they tend to fly past the flares and still hit their target. That said, the Su-22M4 should not be used for dogfighting, instead you should engage distracted or vulnerable targets.
+
+A rare but entertaining scenario is when the Su-22M4 meets subsonic aircraft like the [[A-10A Late]] or any [[Su-25 (Family)|Su-25 variant]] as the Kh-29T can in fact be used to engage them and can cause panic as the enemy pilot sees that their flares have no effect.
+
+=== Ground RB ===
+The Su-22M4's performance as close air support is as to be expected. The generous rocket load is recommended as even the FAB-500 bombs need relatively high precision to be effective. The laser-guided weapons are quite underwhelming as the plane lacks any form of advanced fire control to effectively target anything smaller than a cargo ship.
+
+Where the jet really shines is with the Kh-29T, originally designed against ships, this missile can obliterate any ground target. When spawned in, immediately begin climbing at a steep angle and switch to missile view, within a few seconds you should have a clear view of the battlefield. Center the crosshair on a target and simply hold the launch button, the missile will fire the moment it acquires a lock.
+
+However, you should be mindful of what you engage.
+
+'''Do:'''
+
+* Enemy anti-air: The [[Pantsir-S1]] especially is a treat for the missile's guidance system due to its large rectangular shape.
+* Targets far from cover: Enemies who think they are safe behind hills are especially good targets.
+* Helicopters: Although they can occasionally dodge the missile, it is reasonably effective while keeping you out of their AA missile range.
+
+'''Don't:'''
+
+* Enemies under fire: While much faster than the [[AGM-65 (Family)|AGM-65]], it still takes time for the missile to reach the target, and them deploying smoke or being destroyed will waste it.
+* Enemies moving to cover: The missile cannot re-acquire a lock and will self-destruct if it loses the target.
+* Targets that are off-bore: Although the missile has impressive manoeuvrability, it still has limits and the plane's nose should be pointing towards the target at ranges closer than 6 km.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -267,15 +290,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related Development
 
-;;Related Development
-;*[[Su-17/22 (Family)]]
+*[[Su-17/22 (Family)]]
 
-; '''Other jet planes with variable sweep wings'''
+;Other jet planes with variable sweep wings
 
 * [[Tornado (Family)]]
 * [[MiG-23 (Family)]]
@@ -291,4 +311,5 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''topic on the official game forum;''
 * ''other literature.''
 
+{{AirManufacturer Sukhoi}}
 {{Germany jet aircraft}}

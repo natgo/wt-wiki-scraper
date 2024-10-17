@@ -98,6 +98,7 @@ The tank gets almost no armour, so you are best off hiding or staying at your te
 * VT1 missiles come stock and they are very fast
 * Has access to gen 3 gunner thermals
 * Can fire all 8 missiles without reloading
+* Binoculars/top view is from the top of the radar tower - allows complete visibility from behind cover, even when the radar is folded down
 
 '''Cons:'''
 

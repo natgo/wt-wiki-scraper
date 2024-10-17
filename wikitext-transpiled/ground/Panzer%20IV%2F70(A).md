@@ -132,8 +132,7 @@ This vehicle is very much a defensive weapon that should only be on the offensiv
 Urban areas should be avoided if possible. Entering such an area is an invitation for the enemy to flank, and the closeness of the engagements negates the main advantage of this tank: the gun. Engaging the enemy at close range doesn't utilise the L/70's excellent penetration at range.
 
 ===Arcade battles===
-In Arcade battles, with the shot indicator showing the player where shots will land, the high-velocity L/70 can accurately hit targets at long ranges, and targets on the move as the shells arrive quickly at the target.
-The penetration indicator, which changes colour based on the chance of successful penetration, is a problem for the IV/70 (A). It highlights the weak areas of the tank to enemy players, making the weak spots obvious.
+In Arcade battles, with the shot indicator showing the player where shots will land, the high-velocity L/70 can accurately hit targets at long ranges, and targets on the move as the shells arrive quickly at the target. The penetration indicator, which changes colour based on the chance of successful penetration, is a problem for the IV/70 (A). It highlights the weak areas of the tank to enemy players, making the weak spots obvious.
 
 Arcade tends to be faster-paced than Realistic and Simulator, so the lack of a turret may be a large detriment as being flanked is quite common in this mode.
 
@@ -149,27 +148,27 @@ At the start of the match, the Panzer IV/70(A) is best used as a sniper for most
 
 This way the player can use the bushes to hide the Pz IV/70. If any opponent appears in the sight, the player can kill it easily with the great penetration, velocity and damage of the main cannon. If the enemy notices the player, either go back in cover until they are distracted, or utilise the sturdy frontal armour and be a "heavy tank". It can bounce quite some shells, given that the enemy's guns aren't strong enough.
 
-As the match progresses, the player can use the Pz IV/70 as a medium tank since it has good top speed and traverse. Go cap some points and help the teammates to push. With its low profile, the Pz IV/70 can find a comfortable corner around a point and ambush any point-cappers. Now the situational awareness comes into place, as this vehicle is turretless, meaning it cannot respond quickly to close-quarter sudden encounters. Also note that the side armour is extremely thin, so even if the player thinks they're just angling a little bit, shells like the Soviet 85 or 122 mm will still penetrate with ease.
+As the match progresses, the player can use the Pz IV/70 as a medium tank since it has good top speed and traverse. Go cap some points and help the teammates to push. With its low profile, the Pz IV/70 can find a comfortable corner around a point and ambush any point-cappers. Now the situational awareness comes into place, as this vehicle is turretless, meaning it cannot respond quickly to close-quarter sudden encounters. Also note that the side armour is extremely thin, so even if the player thinks they're just angling a little bit, shells like the Soviet 85 or 152 mm will still penetrate with ease.
 
 '''Enemies worth noting:'''
 
-* [[IS-2]], [[ISU-122]], [[SU-152|SU]]/[[ISU-152]]: The Pz IV/70 relies on its frontal armour a lot to survive, so the biggest threats are generally the vehicles with high penetration. These machines with high calibre guns pose the biggest threat, as their APHEBC shells will slice through the Pz IV/70's frontal armour like butter, and their damage is more than enough to kill all the crew inside. Try and finish them off first before they see you. If they do, quickly go to a nearby cover and either call for help, or wait until they fire / are distracted.
+* [[ISU-122]], [[SU-152|SU-152]]/[[ISU-152]]: The Pz IV/70 relies on its frontal armour a lot to survive, so the biggest threats are generally the vehicles with high penetration. These machines with high calibre guns pose the biggest threat, as their APHEBC shells will slice through the Pz IV/70's frontal armour like butter, and their damage is more than enough to kill all the crew inside. Try and finish them off first before they see you. If they do, quickly go to a nearby cover and either call for help, or wait until they fire / are distracted.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Excellent firepower: decent rate of fire and good accuracy for the main gun. Stock shell has great penetration and damage, and can easily penetrate and one-shot most opponents like T-34-85, [[M4A2]] / A3, [[IS-1]], etc
+* Excellent firepower: decent rate of fire and good accuracy for the main gun, the stock shell has great penetration and damage, and can easily penetrate and one-shot most opponents like [[T-34-85 (D-5T)|T-34-85s]], [[M4A2 (76) W|M4A2 (76)s]], etc.
 * Decent top speed of 40 km/h with good acceleration means excellent cross country performance
-* Adequate gun depression of 5 degrees for a compact hull.
+* Adequate gun depression of 5 degrees for a compact hull
 
 '''Cons:'''
 
-* Lacks a turret which limits its combat potential and makes it vulnerable to flankers like [[M18 GMC|M18]]
-* Closely packed crew meaning a penetration from any angle will likely to destroy the tank.
-* Poor overall armor inadequate against almost all guns in and below its br.
-* The downward side of the gun mantlet is prone to trapshots (shell ricocheting down into the hull roof) which is lethal.
+* Lacks a turret which limits its combat potential and makes it vulnerable to flankers like [[M18 Hellcat (Family)|M18s]]
+* Closely packed crew meaning a penetration from any angle will likely to destroy the tank
+* Poor overall armor inadequate against almost all guns at and below its BR
+* The downward side of the gun mantlet is prone to trapshots (shell ricocheting down into the hull roof) which can be lethal
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

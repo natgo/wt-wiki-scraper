@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' (Chinese: 歼-8F型歼击机; unified NATO codename: Finback 长须鲸) was the final combat variant of the J-8 series interceptors, built by Shenyang Aircraft Corporation (SAC, 沈飞) from remaining J-8II airframes or by upgrading previous J-8Ds in the mid-2000s. The project traces back to the J-8C (or J-8III) project for domestic avionic upgrades for J-8II: although the unreliable WP-14 engine ruined the whole project, the radar systems were tested rather successfully and marked the completion of a domestic pulse-Doppler radar. By the end of the 20th century, the plans for Project 12 (PL-12) were also on schedule for domestic ARH AAM. Thus the placeholder aircraft, J-8H, with a new radar joined the PLAAF with PL-11 SARH, while the J-8F with a modified radar based on the former radar and new NATO-equivalent FCS main bus was finalised by 2005 and became a cornerstone of the PLAAF until new interceptors replaced them from June 2022.
+The '''{{Specs|name}}''' (Chinese: 歼-8F型歼击机; unified NATO codename: Finback 长须鲸) was the final combat variant of the J-8 series interceptors, built by Shenyang Aircraft Corporation (SAC, 沈飞) from remaining J-8II airframes or by upgrading previous J-8Ds in the mid-2000s. The project traces back to the J-8C (or J-8III) project for domestic avionic upgrades for J-8II: although the unreliable WP-14 engine ruined the whole project, the radar systems were tested rather successfully and marked the completion of a domestic pulse-Doppler radar. By the end of the 20th century, the plans for Project 12 (PL-12) were also on schedule for domestic ARH AAM. Thus the placeholder aircraft, J-8H, with a new radar joined the PLAAF with PL-11 SARH, while the J-8F with a modified radar based on the former radar new NATO-equivalent FCS main bus and access to ARH AAM were finalised by 2005 and became a cornerstone of the PLAAF until new interceptors replaced them from June 2022.
 
-Introduced in [[Update "La Royale"]], the J-8F is the first domestic Chinese jet with a pulse-Doppler-capable radar, featuring new powerful PL-8 AAMs and the ability to mount missiles on all wing pylons. The jet is also upgraded with new engines with higher thrust, new all- RWR systems and the J-8II's signature differential elevators for better roll rate. While it is still unable to equip PL-11 SARH missiles due to incompatible radar equipment, the new PL-8 missile and avionics will not disappoint players.
+Introduced in [[Update "La Royale"]], the J-8F is the first domestic Chinese jet with a pulse-Doppler-capable radar, featuring powerful PL-8 and PL-12 AAMs and the ability to mount missiles on all wing pylons. The jet is also upgraded with new engines with higher thrust, new all- RWR systems and the J-8II's signature differential elevators for better roll rate. 
 
 == General info ==
 === Flight performance ===
@@ -125,7 +125,7 @@ Like most jets of its era, the J-8F still retained certain degree of extra prote
 |-
 ! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
 | {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}} || {{Tick}}
 |-
@@ -137,9 +137,8 @@ Like most jets of its era, the J-8F still retained certain degree of extra prote
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 23 mm Type 23-3 cannon, belly-mounted (200 rpg)
-** 1 x 23 mm Type 23-3 cannon + 64 x large calibre countermeasures
+* 1 x 23 mm Type 23-3 cannon, belly-mounted (200 rpg)
+* 84 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -150,7 +149,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_J-8B.png]]</div>
+| rowspan="11" width="30%" | <div class="ttx-image">[[File:Hardpoints_J-8B.png]]</div>
 |-
 ! [[250-3 (250 kg)|250 kg 250-3]] bombs
 | || 1 || || 6 || || 1 ||
@@ -173,15 +172,25 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[PL-8]] missiles
 | 1 || 1 || 1 || || 1 || 1 || 1
 |-
+! [[PL-12]] missiles
+| || 1 || || || || 1 ||
+|-
+! 800 l drop tanks
+| 1 || || || || || || 1
+|-
+! 1,400 l drop tanks
+| || || || 1 || || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 2 x 800 l drop tanks + 1 x 1,400 l drop tank
 * 2 x PL-5B missiles
 * 6 x PL-5B missiles
 * 6 x PL-8 missiles
+* 2 x PL-12 missiles
 * 8 x 250 kg 250-3 bombs (2,000 kg total)
 * 8 x 250 kg 250-4 bombs (2,000 kg total)
 * 2 x 500 kg 500-3 bombs (1,000 kg total)
@@ -189,23 +198,23 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 28 x Type 90-1 rockets
 {{Navigation-End}}
 
-For players who are very familiar with the loadouts on the J-8B, most of the available weapons are identical on both jets, with the PL-8 (licensed Rafael Python-3) being the exception. Due to the lack of radar-guided missiles, some players might find this a huge drawback that they will have to get close enough to enemy jets to even launch IR-guided AAMs at the first place. However, the PL-8 is a game-changer for the J-8F; with not only the best all-aspect locking range among NATO equivalents, the J-8F is also equipped with HMD for off-bore launches. A full loadout of 6 x PL-8 can be a nightmare for the enemy team if utilized carefully. The old faithful PL-5B still serves as its stock missiles - although it might be somewhat obsolete at the BR, launches on careless targets can still earn some quick victories.
+For players who are very familiar with the loadouts on the J-8B, most of the available weapons are identical on both jets, with the PL-8 (licensed Rafael Python-3) and PL-12. The PL-8 is a game-changer for the J-8F; with not only the best all-aspect locking range among NATO equivalents, the J-8F is also equipped with HMD for off-bore launches. A full loadout of 6 x PL-8 can be a nightmare for the enemy team if utilized carefully. The old faithful PL-5B still serves as its stock missiles - although it might be somewhat obsolete at the BR, launches on careless targets can still earn some quick victories. The PL-12 now turns the jet into a supersonic missile train with capabilities to finish off enemy jets at very long range (or, BVR range) but with only 2 missiles per flight; so be familiar to the performance of missile to maximize the overall efficiency.
 
 The ground-attack loadout is totally identical to the J-8B though, with varieties of bombs and rockets at its disposal. Although neither the calibre nor explosive content of the Type 90-1 HEAT rocket is effective for hunting enemy MBTs even with a precise hit, they can still serve as an extra card on hand alongside the -3 series low drag GP bombs or -4 series drag chute retarded bombs. The bombs will certainly be more effective against more valuable targets such as MBTs, while saving rockets for vulnerable SPAA systems and light tanks.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Like its predecessors, the J-8F is designed to be a high-altitude interceptor that utilize ranges of missiles, especially radar-guided missiles; but due to avionic changes on J-8F, the only missile of such type is the PL-12 which is yet to introduce in future patches. This also eliminates the option to use earlier PL-11 or Aspide-1A SARH AAM from earlier variants of J-8II (J-8B, D and H). For the time being, the only two options are both IR missiles, PL-5B and PL-8. Still, the overall manoeuvrability is still surprisingly good for such a huge jet and retained the similar flight envelope of the late MiG-21 series (MF or bis). To make the best out of the J-8F, unless in dire situation or 1-vs-1, use the J-8F as an interceptor instead of a fighter where its sheer size will be a huge plus for enemy guns to land upon the airframe, ruining the aerodynamics of the jet or being shot down right away.
+Like its predecessors, the J-8F is designed to be a high-altitude interceptor that utilize ranges of missiles, especially radar-guided missiles; but due to avionic changes on J-8F eliminated the possibilities for PL-11, the remaining options called for the [[PL-12]] by [[Update "Seek & Destroy"|"Seek & Destroy"]] instead. The loadout of full-IR AAMs or mix of PL-12 and IR AAMs turn J-8F into what can be said as "old but not obsolete" while retaining the overall manoeuvrability which surprisingly good for such a huge jet and retained the similar flight envelope of the late MiG-21 series (MF or bis). Considering for the abundance of ARH AAM at top tier, players will need to employ tactics to end the service of enemy jets as much as possible for the final victory of friendly team.
 
 ==== Air Battles: The High-Speed Missile Train ====
-The sheer size of the jet and its NATO codename of "Finback" could be a problem when there are enemies behind the J-8F's tail. Due to the availability of only IR AAMs, instead of being an interceptor and hunt down high-flyers, doing the opposite, i.e rushing into chaotic battlefield and taking out enemy jets is a viable option as preceded from J-8B. Although having an AN/APG-66V equivalent radar is a major plus for the jet, it's currently more a mean to search BVR targets from long range to plan ahead for a sudden attack or interfere with enemy RWRs to hide oncoming radar-guided missiles from other teammates. Instead, it has another spade on its hand: a HMD fused with the technology from Russia and Israel. Not only it now enables off-bore lock-on to enemy jets, it also has a rather long acquisition range at whopping 5 km. The old friend PL-5B and newcomer PL-8 are the only available missiles for the jet. Even at this tier, the PL-5B still retains its immersive thrust that can take out enemy jets at around 4 km away while having 30 G overload, it is especially dangerous for careless jets which have no situational awareness for the incoming missile; HMD further enhance its acquisition at rear-aspects and making the J-8F able to fire with more flexibility upon enemy targets. While the PL-8 finally enables all-aspect lock on to enemy jets for PLAAF jets, not only it has the most immersive thrust among all NATO/US-allied countries IR AAMs, it also has unprecedented overload at 40 G which is more than enough to do all-aspect launches from unexpected angles at Mach 3.5 max speed thanks to the HMD. There are even occasions where low to high launches with more than 3 km altitude differences can hit targets at 5 km away, given the target didn't manoeuvre. With all 6 pylons available for IR missiles, scoring victories will not be a problem when picking the targets carefully i.e. those not using cycle salvos for flares or those already engaged in heated battles. Another note is that the J-8II series since the J-8D comes with a KJ8602 RWR with all-aspect detection, making players easier to identify threats without having to guess the exact direction.
+The sheer size of the jet and its NATO codename of "Finback" could be a problem when there are enemies behind the J-8F's tail. Due to the availability of only IR AAMs, instead of being an interceptor and hunt down high-flyers, doing the opposite, i.e rushing into chaotic battlefield and taking out enemy jets is a viable option as preceded from J-8B. Having an AN/APG-66V equivalent radar is a major plus for the jet since it has in fact better radar than the later tech-tree jet, [[J-11]] and [[J-11A]]. A spade on its hand is a HMD fused with the technology from Russia and Israel. Not only it now enables off-bore lock-on to enemy jets, it also has a rather long acquisition range at whopping 5 km. The old friend PL-5B and newcomer PL-8 are now part of the spade cards on your hand. Even at this tier, the PL-5B still retains its immersive thrust that can take out enemy jets at around 4 km away while having 30 G overload, it is especially dangerous for careless jets which have no situational awareness for the incoming missile; HMD further enhance its acquisition at rear-aspects and making the J-8F able to fire with more flexibility upon enemy targets. While the PL-8 finally enables all-aspect lock on to enemy jets for PLAAF jets, not only it has the most immersive thrust among all NATO/US-allied countries IR AAMs, it also has unprecedented overload at 40 G for the time being which is more than enough to do all-aspect launches from unexpected angles at Mach 3.5 max speed thanks to the HMD. There are even occasions where low to high launches with more than 3 km altitude differences can hit targets at 5 km away, given the target didn't manoeuvre. With all 6 pylons available for IR missiles, scoring victories will not be a problem when picking the targets carefully i.e. those not using cycle salvos for flares or those already engaged in heated battles. By 2005, thanks to the access of PL-12 for J-8F (as part of its stock configuration), this turn the jet into an easily-underestimated target to begin with, thanks to the more advanced domestic avionics, if players considered well for an assault on enemy jet formation, even just two PL-12s can cause major havoc to enemy team, either by disabling them at once or by deterring them from vantage positions. Another note is that the J-8II series since the J-8D comes with a KJ8602 RWR with all-aspect detection, making players easier to identify threats without having to guess the exact direction; even with a question mark shown on the screen, players can identify the threat according to the analyze of the RWR, thus enabling them to evade the radar source accordingly .
 
-Alternatively, some players will make use of its high payload to make extra profit against enemy fortifications or bases; eight 250 kg bombs are just enough to destroy a top-tier base with a single run. Just make sure to avoid any enemy jets which are eager to hunt down players who wanted to ruin their bases.
+Alternatively, some players will make use of its high payload to make extra profit against enemy fortifications or bases thanks to the so-called "JH-8" capabilities; eight 250 kg bombs are just enough to destroy a top-tier base with a single run. Just make sure to avoid any enemy jets which are eager to hunt down players who wanted to ruin player's bombing runs.
 
 If players used up all their payloads, the remaining option is the Type 23-3 autocannon. While its technological predecessor, GSh-23L is infamous for its rather curved ballistics due to its low muzzle velocity, thanks to the Type 1492 PD radar and new HUD, the jet now enjoys ballistic computer for the gun as well and easier to land shots on enemy jets. While traditional, unassisted aiming is still viable to experienced players, be sure to compensate for the ballistics with more AoA. Most of all, the J-8F is always an interceptor; only use its sufficient manoeuvrability in dire situation or 1-vs-1 dogfights, as the delta wing design is a double-edge sword for the jet.
 
 ==== Ground Battles: The "JH-8" ====
-A little fact to the J-8II series: there were competitions for the new PLAAF strike aircraft in the 1980. While XAC's JH-7 Flying Leopard (Feibao 飞豹; NATO codename Flounder) won the competition, one of the failed options was SAC's JH-8 based on J-8II (the other one was NAMC's Q-6). And in fact J-8II does have sufficient air to ground payload (albeit no guided munition for these operations); there are options to take a mix of 250 kg bombs for multiple targets or 500 kg bombs for higher chance for a knock-out. Since the J-8F could fly at more than 1,300 km/h at sea level, chances are players have to consider which type of bomb to take. The -3 series are low-drag GP bombs while the -4 are drag-chute retard bombs; due to the lack of CCRP function, players have to either fly high and dive on enemies when taking the -3 series (very risky when any enemy SPAA, especially [[Pantsir-S1]], is online) or flying at top speed at very low-altitude to avoid any radar detection; be sure to plan ahead for the assault for maximum efficiency. Alternatively, some players would still take Type 90-1 rockets to take down light vehicles or SPAA systems with the help of the ballistic computer; bringing a mix of rockets, bombs or even IR AAMs can turn J-8F into its prospected usage as a fighter-bomber and enemy vehicles will be troubled by the "JH-8".
+A little fact to the J-8II series: there were competitions for the new PLAAF strike aircraft in the 1980. While XAC's JH-7 Flying Leopard (Feibao 飞豹; NATO codename Flounder) won the competition, one of the failed options was SAC's JH-8 based on J-8II (in this case as the 歼轰-8; the other one was NAMC's Q-6). And in fact J-8II does have sufficient air to ground payload (albeit no guided munition for these operations); there are options to take a mix of 250 kg bombs for multiple targets or 500 kg bombs for higher chance for a knock-out. Since the J-8F could fly at more than 1,300 km/h at sea level, chances are players have to consider which type of bomb to take. The -3 series are low-drag GP bombs while the -4 are drag-chute retard bombs; due to the lack of CCRP function, players have to either fly high and dive on enemies when taking the -3 series (very risky when any enemy SPAA, especially [[Pantsir-S1]], is online) or flying at top speed at very low-altitude to avoid any radar detection; be sure to plan ahead for the assault for maximum efficiency. Alternatively, some players would still take Type 90-1 rockets to take down light vehicles or SPAA systems with the help of the ballistic computer; bringing a mix of rockets, bombs or even IR AAMs can turn J-8F into its prospected usage as a fighter-bomber and enemy vehicles will be troubled by the "JH-8". Sometimes if players are troubled by enemy jets, the combination of PL-8 and PL-12 + centerline bombs can sometimes literary turn the jet into its JH-8 name, by sending enemy birds straight into a roast pigeons stove or deterring them from further damages, thus leading to major destruction of enemy team.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -214,10 +223,11 @@ A little fact to the J-8II series: there were competitions for the new PLAAF str
 
 * Rather high overall engine thrust
 * Advanced avionics
-** First PLAAF jet to equip domestic PD radar with sufficient detection range
+** First domestic PLAAF jet to equip domestic PD radar with sufficient detection range
 ** HMD for off-bore launches, especially for all-aspect IR AAM
 ** All-aspect KJ8602 RWR, unlike Warsaw Pact SPO-15 with limited all-aspect capabilities
 * 6 powerful PL-8s with very long lock-on range and high overload
+* PL-12 ARH AAM comes at stock
 * Sufficient payload for occasional ground-attack operations
 * Retained the same, if not better manoeuvrability from J-8B
 * High top speed
@@ -225,10 +235,10 @@ A little fact to the J-8II series: there were competitions for the new PLAAF str
 
 '''Cons:'''
 
-* Lacks any form of radar-guided weaponry
-* Rather large target due to its long airframe
-* Relatively small ammo pool
+* Limited dogfight capabilities due to its obsolete airframe
+* Relatively small ammo pool and advanced missiles
 * Delta wing design and its size cause severe speed bleeding in manoeuvres
+* Lacks "smart ammunition" for ground attacks
 * Any damage to the tail or rear of the airframe, especially the elevators, can result in the aircraft being very difficult to control or completely disabled
 
 == History ==

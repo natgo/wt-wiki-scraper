@@ -10,7 +10,13 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]].
+The '''{{Specs|name}}''', designated as the '''Type 2 {{Annotation|Single-Seat|To differentiate from the 'Type 2 Twin-Seat' Ki-45}} Fighter, Model IIb ({{Annotation|二式単座戦闘機一型乙|Ni-Shiki Tanza Sentōki Ni-Gata Otsu}})''', was a Model II variant of the Ki-44, featuring an improved engine and nose-mounted 12.7 mm guns. While it was equipped with only its nose armament, it could also be optionally fitted with 40 mm cannons in the wings, although these were sometimes swapped out for 12.7 mm guns due to the 40 mm’s unsatisfactory performance. The 40 mm cannons were specifically intended for countering American bombers, but despite their lethality, the Ki-44 remained an underwhelming aircraft for high-altitude interceptions against the [[B-29A-BN|B-29]], as the cannons were effective only at very short ranges with limited ammunition—essentially at a ramming distance. This tactic was later formalised by several Army Sentai under the "Shinten Seiku-Tai" (震天制空隊) units, which used standard army planes or those stripped of armour and armament to reduce weight, enabling them to ram bombers out of the sky more efficiently. This approach was akin to the German Sonderkommando "Elbe" 's mission in 1945 and the Russian "Taran" tactics of 1941. Although survival rates were low and the attacks were effectively kamikaze missions, some pilots managed to survive multiple sorties, ramming a bomber and then ejecting to continue fighting another day.
+
+It was introduced in [[Update 1.55 "Royal Armour"]]. The Ki-44-IIb features one of the slowest-velocity cannons ever mounted on an aircraft, but the 40 mm shells pack a significant punch if they manage to hit—though this is admittedly difficult to achieve. The Ki-44-II is equipped with a powerful engine, enabling the aircraft to reach interceptor altitudes quickly and effortlessly, making it ideal for strafing bombers at high altitudes and destroying them in a single pass. Pilots should reserve their 40 mm ammunition for bombers, focusing on getting close at high speeds, as targeting smaller aircraft with these cannons presents a considerable challenge. Once the 40 mm rounds are depleted, the Ki-44-IIb can still be a formidable boom-and-zoom fighter against other aircraft, with its nose-mounted 12.7 mm machine guns providing decent lethality thanks to their high-explosive rounds.
+
+;Nicknames:
+* [[Abbreviations#.28IJA.29_Nicknames|Nickname]]: ''Shōki (鍾馗, Demon Queller)''
+* Allied reporting name: ''Tojo''
 
 == General info ==
 === Flight performance ===
@@ -176,10 +182,33 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Skin-gallery|market|ugcitem_1000418|Ki-44-II Otsu flown by Yoshida Yoshio.png|Camo "1st Chutai leader, Yoshida Yoshio"}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.'' -->
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[Ki-43 (Family)]]
+* [[Ki-44 (Family)]]
+** [[Ki-44-I]]
+** [[Ki-44-I 34]]
+** [[Ki-44-II otsu]]
+** [[Ki-44-II hei]]
+* [[Ki-45 (Family)]]
+
+;Other vehicles of similar gun configuration
+* [[File:France flag.png|30px|link=]] [[D.371 H.S.9]]
+* [[File:USSR flag.png|30px|link=]] [[I-16 type 28]]
+* [[File:Britain flag.png|30px|link=]] [[Tempest Mk V (Vickers P)]]
+* [[File:USA flag.png|30px|link=]] [[P-51]]
+
+;Other vehicles of similar configuration and role
+* [[File:Kingdom Italy flag.png|30px|link=]] [[Re.2000 (Family)|Re.2000]] / [[Re.2001 (Family)|Re.2001]] / [[Re.2002 Early|Re.2000]]
+* [[File:USA flag.png|30px|link=]] [[P-43A-1]]
+* [[File:France flag.png|30px|link=]] [[M.B.157]]
+* [[File:Sweden flag.png|30px|link=]] [[J22-A]]/[[J22-B|-B]]
+* [[File:Finland flag.png|30px|link=]] [[VL Myrsky II]]
+* [[File:Germany flag.png|30px|link=]] [[Fw 190 (Family)]] - early models
+* [[File:IJN flag.png|30px|link=]] [[J2M (Family)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

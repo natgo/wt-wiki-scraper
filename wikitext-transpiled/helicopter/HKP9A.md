@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish utility helicopter {{Battle-rating}}. It was introduced in [[Update "Wind of Change"]].
+The '''Helikopter 9A''' (HKP9A) was a Swedish anti-tank modification of the Bo 105 CB-3 light multi-purpose helicopter, developed by order of the Swedish FMV (''Försvarets materielverk'': defence procurement agency) in the mid-1980s based on tests of the [[BO 105 CB-2|Bo 105 CB-2]]. As its primary armament, the Swedish version of the Bo 105 received the BGM-71 TOW anti-tank missile system, and an original electro-optical observation and reconnaissance system named "SAAB HeliTOW" was also installed. This system was developed by Saab Instruments AB in collaboration with Emerson Electronics. A total of 21 HKP9As were delivered to FMV, which served with the Swedish Army until 2009.
+
+The '''HKP9A''' was introduced in [[Update "Wind of Change"]]. Like all aircraft in the [[BO 105 (Family)|Bo 105 family]], it boasts excellent manoeuvrability, allowing it to easily take advantage of various terrain features to launch ATGMs from unexpected directions, then quickly withdraw under the cover of the surrounding terrain. It can carry up to eight decent ATGMs with reasonable range, but the lack of armour protection means that the helicopter is extremely vulnerable to enemy aircraft and anti-aircraft fire.
 
 == General info ==
 === Flight performance ===
@@ -27,7 +29,7 @@ The {{PAGENAME}} is a light utility helicopter operated by the Swedish army. Alt
 ! AB !! RB
 |-
 ! Stock
-| 215 || 196 || rowspan="2" | {{Specs|ceiling}}
+| 215 || 197 || rowspan="2" | {{Specs|ceiling}}
 |-
 ! Upgraded
 | 257 || 242

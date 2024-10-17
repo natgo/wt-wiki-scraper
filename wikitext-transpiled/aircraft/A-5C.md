@@ -145,9 +145,8 @@ The A-5C protects the pilot from small arms fire, but against the armaments enco
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 23 mm Type 23-2K cannons, wing-mounted (120 rpg = 240 total)
-** 2 x 23 mm Type 23-2K cannons + 18 x countermeasures
+* 2 x 23 mm Type 23-2K cannons, wing-mounted (120 rpg = 240 total)
+* 18 x large calibre countermeasures
 
 The A-5C is equipped with the same Type 23-2K cannons as the other Fantan models. They fire rapidly and have a decent ammunition supply by Soviet/Chinese standards, but the muzzle velocity leaves something to be desired when fighting supersonic aircraft and the damage from individual shots can be inconsistent. They are not very suited for high-speed snapshots or head-ons but are still important backup weapons for when the A-5C runs out of missiles.
 
@@ -283,7 +282,7 @@ Armaments include two [[Type 23-2K (23 mm)|Type 23-2K (23 mm)]] autocannons fitt
 
 Pakistan had sent 2 teams of staffs to Nanchang Aircraft Corporation and it was concluded that the A-5C (Q-5IA) would be a fair option, ordering 52 aircraft. Pakistan deemed it worthy as an attacker with its low-altitude performance and price, but it would also be upgraded with Western avionics, ejection seats, weaponry such as Western IR AAMs for self-defense. The original delivery to Pakistan consisted of 52 '''{{Specs|name}}'''s in 1983 which equipped the No. 16 and No. 26 Squadrons of the PAF.<ref name=":0" />
 
-In total, about 90 '''{{Specs|name}}'''s were delivered to Pakistan between 1983-94, at the price of around $1 million per aircraft<ref name=":2">(Chawla, 66)</ref>, distributed to three different PAF squadrons (No. 7, 16 and 26).<ref name=":3">(Nanchang Q-5 Fantan 2023)</ref> Some of them were retired as early as 1999 and as of mid-1999 only 49 remained in service.<ref name=":4">(FANTAN A-5 2000)</ref>. However, Pakistan would continue to purchase more, with 6 '''{{Specs|name}}'''s acquired in 2003.<ref name=":5">(Chawla, 72)</ref> The remaining would be kept in commission until mid-2011, when the more-advanced JF-17 "Thunder" - a joint Chinese-Pakistani multi-role combat aircraft, replaced them as a multi-role fighter. 
+In total, about 90 '''{{Specs|name}}'''s were delivered to Pakistan between 1983-94, at the price of around $1 million per aircraft<ref name=":2">(Chawla, 66)</ref>, distributed to three different PAF squadrons (No. 7, 16 and 26).<ref name=":3">(Nanchang Q-5 Fantan 2023)</ref> Some of them were retired as early as 1999 and as of mid-1999 only 49 remained in service.<ref name=":4">(FANTAN A-5 2000)</ref>. However, Pakistan would continue to purchase more, with 6 '''{{Specs|name}}'''s acquired in 2003.<ref name=":5">(Chawla, 72)</ref> The remaining would be kept in commission until mid-2011, when the more-advanced JF-17 "Thunder" - a joint Chinese-Pakistani multi-role combat aircraft, replaced them as a multi-role fighter.
 
 Other export variants of the A-5 remain in service with Myanmar, Bangladesh, North Korea and Sudan. As of 2023, 20 A-5Bs (based on the Q-5II) and '''{{Specs|name}}'''s are in service with the Myanmar Air Force, while less than 10 '''{{Specs|name}}'''s serve with the Bangladesh Air Force. It is unknown how many remain in service with North Korea and Sudan.<ref name=":3" /> Some sources estimate that North Korea purchased 36-50 A-5s between 1970 and 1982 with Sudan receiving around 20 in the early 2000s.<ref name=":6">(Forsgen)</ref>
 
@@ -323,14 +322,14 @@ Modern usages of the A-5 include during the War in Darfur, beginning in 2003, wh
 
 ;Bibliography
 
-* “A-5C Fantan.” AIRCRAFTS OF THE PAKISTAN AIR FORCE, PAKISTAN AIRFORCE ONLINE, 1999, pakfizaia.tripod.com/a5.html. 
-* “Nanchang Q-5 Ground Attack Aircraft.” Airforce Technology, 26 Sept. 2010, www.airforce-technology.com/projects/nanchanggroundattack/?cf-view. 
-* Sherman, Robert. “FANTAN A-5, Q-5 (NANCHANG).” Fantan A-5, Q-5 (Nanchang) Pakistan Aircraft Special Weapons Delivery Systems, 13 Feb. 2000, nuke.fas.org/guide/pakistan/aircraft/a-5.htm. 
-* Chawla, Shalini. “PAKISTAN AIR FORCE: MODERNISATION TRENDS.” Air Power, vol. 14, no. 3, summer 2019, pp. 57–80.
-* Nanchang Q-5 (Fantan), Military Factory, 10 Apr. 2023, www.militaryfactory.com/aircraft/detail.php?aircraft_id=568. 
-* Forsgren, Jan. “Jan Forsgren.” Aeroflight, 2023, www.aeroflight.co.uk/user/fleet/north-korea-af-nanchang-q-5-ia-fantan.htm. 
-* Feinberg, William. “China Summons Burmese Ambassador after Bomb Kills Four in Yunnan.” East by Southeast, ExSe, 14 Mar. 2015, www.eastbysoutheast.com/china-summons-burmese-ambassador-after-bomb-kills-four-in-yunnan/. 
-* Andersson, Hilary. “China ‘Is Fuelling War in Darfur.’” BBC News, BBC, 13 July 2008, news.bbc.co.uk/2/hi/africa/7503428.stm. 
+* "A-5C Fantan." AIRCRAFTS OF THE PAKISTAN AIR FORCE, PAKISTAN AIRFORCE ONLINE, 1999, pakfizaia.tripod.com/a5.html.
+* "Nanchang Q-5 Ground Attack Aircraft." Airforce Technology, 26 Sept. 2010, www.airforce-technology.com/projects/nanchanggroundattack/?cf-view.
+* Sherman, Robert. "FANTAN A-5, Q-5 (NANCHANG)." Fantan A-5, Q-5 (Nanchang) Pakistan Aircraft Special Weapons Delivery Systems, 13 Feb. 2000, nuke.fas.org/guide/pakistan/aircraft/a-5.htm.
+* Chawla, Shalini. "PAKISTAN AIR FORCE: MODERNISATION TRENDS." Air Power, vol. 14, no. 3, summer 2019, pp. 57–80.
+* Nanchang Q-5 (Fantan), Military Factory, 10 Apr. 2023, www.militaryfactory.com/aircraft/detail.php?aircraft_id=568.
+* Forsgren, Jan. "Jan Forsgren." Aeroflight, 2023, www.aeroflight.co.uk/user/fleet/north-korea-af-nanchang-q-5-ia-fantan.htm.
+* Feinberg, William. "China Summons Burmese Ambassador after Bomb Kills Four in Yunnan." East by Southeast, ExSe, 14 Mar. 2015, www.eastbysoutheast.com/china-summons-burmese-ambassador-after-bomb-kills-four-in-yunnan/.
+* Andersson, Hilary. "China 'Is Fuelling War in Darfur.'" BBC News, BBC, 13 July 2008, news.bbc.co.uk/2/hi/africa/7503428.stm.
 
 {{AirManufacturer Nanchang}}
 {{China jet aircraft}}

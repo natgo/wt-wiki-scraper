@@ -42,7 +42,7 @@ The Gladiator Mk II behaves very well in the sky, it got a decent acceleration t
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 399 || 386 || rowspan="2" | {{Specs|ceiling}} || 16.7 || 17.7 || 13.0 || 13.0 || rowspan="2" | 232
+| 399 || 387 || rowspan="2" | {{Specs|ceiling}} || 16.7 || 17.7 || 13.0 || 13.0 || rowspan="2" | 232
 |-
 ! Upgraded
 | 431 || 414 || 15.3 || 16.0 || 18.8 || 15.7
@@ -102,6 +102,7 @@ The Gladiator Mk II behaves very well in the sky, it got a decent acceleration t
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!--''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''-->
+* Self-sealing fuel tanks
 
 The Gladiator Mk II does not have any particular armour on the plane itself, making the pilot exposed to being hit by bullet can be fatal and instantly knocked unconscious. The survivability of the aircraft over all is decent when in its own BR and not facing any cannons other than most 7,62mm and 7,92mm Machine guns. But it's still best to avoid being hit as much as possible in the Gladiator Mk II since it does not have much armour its survivability can be questioned at the damage it can take before going down.
 
@@ -197,16 +198,20 @@ A total of 746 Gladiator aircraft were produced, and served with distinction in 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=gladiator_mk2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
 {{Youtube-gallery|iE4wTuJbe2I|'''The Shooting Range #40''' - ''Pages of History'' section at 05:13 discusses the Gladiator.|rpp-GqXiaKg|'''The Shooting Range #214''' - ''Air Triathlon'' section at 09:59 discusses the {{PAGENAME}}.}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+
+* [[Gladiator (Family)]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

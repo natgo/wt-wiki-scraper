@@ -185,6 +185,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 12 x HVAR rockets
 * 32 x HVAR rockets
@@ -267,7 +268,7 @@ It will automatically detect other planes within the scanning area and display t
 '''Cons:'''
 
 * Turn rate is not very good, though better than the F-84B
-* Manoeuvrability diminished with heavy payloads
+* Maneuverability diminished with heavy payloads
 * Middle road fighter, not the best or fastest, but capable
 * Long takeoff roll out
 

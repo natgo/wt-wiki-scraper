@@ -57,7 +57,9 @@ Being CIWS mounts, they were designed with shooting down missiles, which tend to
 
 All being said, they are still potentially very deadly threats to aircraft in range, being able to track aircraft much faster than most other gun mounts and having a biblical rate of fire that deletes any unarmoured target it touches.
 
-As a side note, despite being specifically designed to take out missiles, the mounts currently do not have this functionality modelled in game. If the ship is under attack by missile armed vehicles, such as a Tornado or USS Douglas, the CIWS mounts will utterly ignore the missiles and make no effort to intercept them.
+1*As a side note, despite being specifically designed to take out missiles, the mounts currently do not have this functionality modelled in game. If the ship is under attack by missile armed vehicles, such as a Tornado or USS Douglas, the CIWS mounts will utterly ignore the missiles and make no effort to intercept them.
+
+1* (Some players claim that incoming shells from close range enemy ships will engage the CWIS to intercept them. One specific example was a Tashkent ship at 2,000m, triggering the CIWS on the Kutuzov with every shot - no incoming shells landing)
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->

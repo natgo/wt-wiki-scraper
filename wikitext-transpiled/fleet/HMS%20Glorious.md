@@ -55,7 +55,7 @@ The APCBC shell is fairly strong with ~20 kg of TNT effective filler and decent 
 
 To compensate for the main guns' relatively slow rate of fire, the Glorious features a staggering 18 х 4 inch (102 mm) BL Mark IX cannons, housed in six open triple turrets placed around the midship section. With up to 12 guns available while in full broadsides and decent rate of fire of 12 rpm (maxed), these guns are great at chipping away at the deck mounts of enemy ships, especially cruisers and smaller ships, though they are ineffective against capital ships.
 
-The gun has two shell choices; the default HE with a rather small explosive mass of 721 g of TNT, though due to the sheer burst mass, they can deal quite a good amount of damage against cruisers and destroyers, especially since it can easily suppress the enemy ship while they are repairing their critical modules by repeatedly destroying their outer compartments over and over again. The other option, an SAP shell, is very weak, with a penetration of only 51 mm at 5 km range, this shell struggles to even penetrate light cruisers, and is generally inferior in terms of damage compared to the HE shell. As such, it is recommended to only use the HE shell instead.
+The gun has two shell choices; the default HE with a rather small explosive mass of 721 g of TNT, though due to the sheer burst mass, they can deal quite a good amount of damage against cruisers and destroyers, especially since it can easily suppress the enemy ship while they are repairing their critical modules by repeatedly destroying their outer compartments over and over again. The other option, an SAP shell, is very weak, with a penetration of only 51 mm at 5 km range, this shell struggles to even penetrate light cruisers at long ranges, and is generally inferior in terms of average damage compared to the HE shell. However, the 51 mm penetration is still sufficient to penetrate the deck of most non-capital ships at close range (~5 km), and as such it is recommended to only reserve it for that occasion instead.
 
 {{:BL Mark IX (102 mm)/Ammunition|4 inch HE, 4 inch SAP}}
 
@@ -83,7 +83,7 @@ HMS Glorious is a classic "glass cannon", featuring extremely powerful 381 mm ca
 
 Against other battleships and battlecruisers, the armour is wholly inadequate, and the ship really does become equivalent to a large light cruiser. Its mobility can be used to play around hard cover and attempt to dodge incoming shells; however, if caught in the open, Glorious is unlikely to survive for long.
 
-On the other hand, if in a match against only cruisers, the unusual armaments can be used to great effect, quickly destroying any cruiser in a few good hits. When facing destroyers, consider switching to control of the 102 mm cannons - the greater volume of fire (up to 12 guns on a broadside) and sufficient stopping power of the guns will rapidly wreck any small ship. The 4" SAP ammunition is significantly better for this than the stock HE.
+On the other hand, if in a match against only cruisers, the unusual armaments can be used to great effect, quickly destroying any cruiser in a few good hits. When facing destroyers, consider switching to control of the 102 mm cannons - the greater volume of fire (up to 12 guns on a broadside) and sufficient stopping power of the guns will rapidly wreck any small ship. At closer range, the 4" SAP ammunition is significantly better for this than the stock HE, as its relatively low penetration is still sufficient to penetrate the deck of most cruisers and damaging their crew compartments.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -94,7 +94,7 @@ On the other hand, if in a match against only cruisers, the unusual armaments ca
 * Numerous fast-firing 102 mm provides steady damage output at mid-to-close range
 * Huge empty space at the bow and stern can absorb several hits from shells and torpedoes
 * Quite fast and manoeuvrable, despite the size
-* Equipped with 40 torpedoes for aerial denial barrages
+* Equipped with 40 torpedoes for area denial barrages
 
 '''Cons:'''
 

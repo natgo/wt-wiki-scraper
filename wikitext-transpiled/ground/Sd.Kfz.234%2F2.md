@@ -58,7 +58,7 @@ The Puma can reach a speed of around 45 km/h on flat terrain. Thanks to its tran
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|KwK.39/1 (50 mm)}}
 
-The Puma fields the 50 mm KwK39/1 cannon, similar to the one in the late Panzer III models, as well as the same ammunition. The cannon was designed for an anti-tank role, and it does its job well. It can select from an APC shell penetrating 106 mm, which should be the main round, two APCR shells with 130 mm and 137 mm penetration respectively (a few of the better ones should be carried into battle, especially if you uptier the Puma, so it might see KV-1s, as well for long-range sniping), and an HE shell which can be used against AA trucks. As the APC shell has no ballistic cap, it might struggle against angled armour, so it is best to go for side shots. With a reload of 4.1 seconds and high velocity shells, this tank can do the job both in close quarters and at long range.
+The Puma fields the 50 mm KwK39/1 cannon, similar to the one in the late Panzer III models, as well as the same ammunition. The cannon was designed for an anti-tank role, and it does its job well. It can select from an APC shell penetrating 106 mm, which should be the main round, two APCR shells with 130 mm and 137 mm penetration respectively (a few of the better ones should be carried into battle, especially if you uptier the Puma, so it might see KV-1s, as well for long-range sniping), and an HE shell which can be used against AA trucks. It is best to go for side shots. With a reload of 4.1 seconds and high velocity shells, this tank can do the job both in close quarters and at long range.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -95,7 +95,7 @@ The Puma fields the 50 mm KwK39/1 cannon, similar to the one in the late Panzer 
 ! 9th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''55''' || 33&nbsp;''(+22)'' || 29&nbsp;''(+26)'' || 25&nbsp;''(+30)'' || 21&nbsp;''(+34)'' || 17&nbsp;''(+38)'' || 13&nbsp;''(+42)'' || 9&nbsp;''(+46)'' || 5&nbsp;''(+50)'' || 1&nbsp;''(+54)'' || No
+| '''55''' || 32&nbsp;''(+23)'' || 29&nbsp;''(+26)'' || 25&nbsp;''(+30)'' || 21&nbsp;''(+34)'' || 17&nbsp;''(+38)'' || 13&nbsp;''(+42)'' || 9&nbsp;''(+46)'' || 5&nbsp;''(+50)'' || 1&nbsp;''(+54)'' || No
 |-
 |}
 [[File:Ammoracks_Sd.Kfz.234-2.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

@@ -55,7 +55,7 @@ However, the main advantage of this aircraft are its handling characteristics. T
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 382 || 320 || 294 || ~10 || ~7
+| ~590 <!--{{Specs|destruction|body}}--> || {{Specs|destruction|gear}} || 382 || 320 || 294 || ~10 || ~7
 |-
 |}
 
@@ -201,6 +201,7 @@ Other users of the Bre.690 series were the Italian Regia Aeronautica, which rece
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=br_693_ab2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
@@ -213,10 +214,18 @@ File:Bréguet 693 WTWallpaper 005.jpg
 </gallery>
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Aircraft of comparable role, configuration and era
+* [[File:Germany flag.png|30px|link=]] [[Bf 110 (Family)]]
+* [[File:IJA flag.png|30px|link=]] [[Ki-45 (Family)]]
+* [[File:France flag.png|30px|link=]] [[Potez 630 (Family)]]
+* [[File:Britain flag.png|30px|link=]] [[Beaufighter (Family)]]
+* [[File:Britain flag.png|30px|link=]] [[Blenheim Mk IV]]
+* [[File:Netherlands flag.png|30px|link=]] [[Fokker G.IA (France)|Fokker G.IA]]
+* [[File:USSR flag.png|30px|link=]] [[Yak-2 KABB]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -17,6 +17,7 @@ The {{PAGENAME}} was introduced during [[Update "Direct Hit"]] as a reward for t
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
 '''Armour type:'''
+
 * Rolled homogeneous armour
 * Wheel (tires)
 
@@ -114,7 +115,7 @@ The {{PAGENAME}} was introduced during [[Update "Direct Hit"]] as a reward for t
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The fast speed allows the Pbil m/40 to get into positions where the enemy team would not suspect you. Take advantage of your 20 mm cannon's high rate of fire to quickly dispose of unaware tanks. If you are engaging someone in CQC, you should try to take out their gunner or barrel before trying to finish your enemy off, although you should be able to penetrate most enemy tanks frontally. You can also utilise its speed to reach capture points early before attacking the enemy, which will also help your team as you are essentially scouting for them when they catch up to you.
+The fast speed allows the Pbil m/40 to get into positions where the enemy team would not suspect you. Take advantage of your 20 mm cannon's high rate of fire and sizable magazine to quickly dispose of unaware tanks, although take care to aim for vital components, due to its relatively low damage. If you are engaging someone in CQC, you should try to take out their gunner or barrel before trying to finish your enemy off, although you should be able to penetrate most enemy tanks frontally. You can also utilise its speed to reach capture points early before attacking the enemy, which will also help your team as you are essentially scouting for them when they catch up to you. As always, use speed as your primary defence, and attempt to avoid direct confrontation, entering engagements on your own terms via ambush or flanking. Using the Pbil m/40 as an improvised SPAA is unadvisable due to its relatively poor elevation, but can still be possible, especially with the generally less durable and slower CAS at this BR.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

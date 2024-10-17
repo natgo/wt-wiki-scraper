@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Japanese motor torpedo boat {{Battle-rating}}. It was introduced during [[Update "Danger Zone"]] as a reward for [[Battle Pass: Season VIII, "Field Testing"]].
+The '''{{Specs|name}} (No. 10)''' was the first of a new Japanese patrol boat type, known as the Type A (Kō/甲) torpedo boat (Heavy Torpedo boat). Subsequent standard small-sized patrol boats would be classified under Type B (Otsu/乙). Called into production and influenced by German S-Boots in 1941, the Japanese attempted to upscale their patrol boats from the previous [[Type T-1]] at 20 tons to 80 tons. However, due to relatively low advancements in shipbuilding materials, especially for patrol boats, the entire vessel was constructed from steel and wood instead of light alloy. Additionally, the armament exceeded the planned weight, reaching over 90 tons. This failure to meet expectations led to the development of the variant [[Type T-51b]] (No. 11 - 17).
+
+It was introduced during [[Update "Danger Zone"]] as a reward for [[Battle Pass: Season VIII, "Field Testing"]]. Despite failing to meet the planned weight, the vessel is still operational and can be effectively used in two roles: either utilising the four torpedoes against slower, larger vessels or ambushing light boats with its rear-mounted anti-air twin 25 mm emplacement.
 
 == General info ==
 === Survivability and armour ===
@@ -73,7 +75,26 @@ An alternative version of this approach is to bait enemy boats into following yo
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Type Ko MTB (甲型魚雷艇, T-51) is a Japanese large MTB inspired by the German S-boots.
+This boat is separated into two group: No.10 class MTB (T-51a) and No.11 class MTB (T-51b).
+
+After the completion of the No.1 class MTB ([[Type T-1|T-1]]), news about activity of the German [[S-38|Schnellboot (S-boot)]] from Europe reached the Imperial Japanese Navy (IJN). They started to copy the S-boot design, but they had only a simple sketch and one civilian motor boat owned by the Mitsui family built by Lürssen (a builder of S-boot). In that time, the Japanese did not have the experience to produce a wood-and-iron mixed large boat, so at first they built one prototype. ("Vessel No.600", later No.10 MTB)
+
+The No.600 prototype was laid down in July 1942 by Yokohama Yacht Tsurumi factory and completed in November 1943. But because of the worsening of the war situation, they started mass-production the ship design before testing the prototype. Just afterwards, the Japanese receive official detailed drawings of 95-ft type S-boot. Basically, design of future T-51 and S-boat was similar, but there was much for the Japanese to learn.
+
+In the designing of No.600, the Japanese simplified lots of part and material. Due to how well-crafted the S-boot design was, the simplification caused several problems. Though measures were taken to mitigate the problems, the vessel stability was not enough and so there were difficulties putting the ship into practical use.
+
+No.600 was equipped with four Mark 71 Model 6 engines (water-cooled, 920 HP), which were a copy of the Italian MAS-451 MTB engines. There were two shafts, with two engines connected to one shaft by Vulkan coupling. However, this configuration caused an increase of weight and so the prototype exceeded the planned displacement of 84.2 tons, and instead reached 89.6 tons and so the maximum speed decreased. Because of this, the boat was redesigned into the No.11 class MTB, which eliminated the coupling and so each engine had their own shaft. With this, the single No.10 class design (No.600 prototype) was named the ''T-51a'', with the redesigned No.11 class as the '''T-51b''' that would be the model for subsequent boat numbers.
+
+Armaments was also redesigned between the two class. The T-51a had one 25 mm twin machine gun and four 45 cm torpedoes, while the T-51b had three 25 mm single machine guns and two torpedoes.
+
+No.10 (T-51a), No.13 and No.16 were built at Yokohama Yacht Tsurumi factory, while the other boats were built by a new shipyard, Yokohama Yacht Choshi factory. A total of ten Type Ko MTBs were laid down, but only 8 boats were completed (No.10 - No.17). Construction of Type Ko was cancelled in August 1944. No.18 was planned to equip a small diesel engine, but it was not completed. The construction of Type Ko MTBs was delayed because the No.11 class MTBs need to resolve problem discovered during the testing of No.10 class MTB. Also the Mk.71 Mod.6 engines required advanced manufacturing technology and so production of engine was also delayed.
+
+No.10 MTB was dispatched to Truk island just after completion, but a fire broke out and sank due to air raid. No.12 MTB was brought out from Choshi to Yokosuka to equip weapons, but just after that was completed, she sunk due to an electric motor spark that ignited the gasoline and subsequently exploded.
+
+Other vessels was deployed to the Special Attack corps, but most of them did not experience the actual battle. Only one boat deployed at Habu port of Izu Oshima attacked an enemy submarine.
+
+Also, No.16 MTB equip only two engine. She used space of other engines for hold and used for tender boat of other small MTBs and midget submarines at Kawadana Assault Corps.<ref name="ShigeruNavy" /><ref name="YoshinobuBoat" />
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -98,6 +119,12 @@ An alternative version of this approach is to bait enemy boats into following yo
 * ''other literature.'' -->
 
 * [[wt:en/news/7780-development-battle-pass-vehicles-type-t-51a-torpedo-boat-en|[Devblog] Battle Pass vehicles: Type T-51A torpedo boat]]
+
+===References===
+<references>
+<ref name="ShigeruNavy">Makino Shigeru [牧野茂] & Fukui Shizuo [福井静雄], ''Navy Shipbuilding Technology Overview [海軍造船技術概要]'' (Konnichi no Wadaisha, 1987), pp.716-719.</ref>
+<ref name="YoshinobuBoat">Imamura Yoshinobu [今村好信], (2011) ''Story of Japanese Torpedo Boats [日本魚雷艇物語]'' (Kojin-sha, 2011) pp.55-60.</ref>
+</references>
 
 {{Japan boats}}
 {{Japan premium ships}}

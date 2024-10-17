@@ -114,26 +114,23 @@ One interesting note is the pintle-mounted MG on the roof, which has good elevat
 
 '''Pros:'''
 
-* 150 mm howitzer makes it an intimidating foe
-* The howitzer's high trajectory makes it able to fire over hills
-* Large TNT filler in its HE shell
-* HE load can cause sufficient splash and shrapnel damage even if the shell doesn't directly hit the target
-* Can destroy most, if not all, vehicles by shooting HE just under an enemy tank and hitting the thin belly armour
-* Can deter inattentive flak trucks or any vehicles with open and exposed crew with its roof-mounted MG
-* Quick, manoeuvrable in both AB and RB, though slightly sluggish to put into gear in the latter
+* 150 mm short barreled howitzer
+** Low velocity and high arc allows to fire over hills and cover
+** High TNT filler
+*** Ability to destroy any tank
+*** Can cause sufficient indirect splash and shrapnel damage on non-direct hits
+* Roof-mounted LMG for self-defence against open tops/trucks
+* Fair manoeuvrability for a self-propelled howitzer
 * Good gun depression
-* HE Shell will destroy any vehicle you come up against
 
 '''Cons:'''
 
-* Super thin armour, extremely vulnerable to heavy machine guns, SPAAs, and aircraft
-* Extreme blast radius can destroy the vehicle if fired too close to oneself
-* Ammo Rack is literally a box behind the crew on top of the engine deck, leading to some very explosive ends if hit there
+* Thinly armoured
+** The extreme blast radius of the shell can destroy the vehicle itself at close range
+** Gun crew is exposed from the rear
+* Additional ammo rack is a rather exposed box on top of the engine
 * Massive recoil causes the vehicle to be launched backwards after firing, requiring aiming adjustment after every shot
-* Horizontal traverse is disappointing
-* Very slow muzzle velocity and limited range
-* At long range, the shells have a habit of bouncing harmlessly off armour surfaces without exploding
-* AP Shell lacking in penetration for the calibre relies more on HE power
+* Standard Japanese LMG with limited ammo
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -151,10 +148,19 @@ The Type 4 Ho-Ro was a Self Propelled Gun developed by the Imperial Japanese Arm
 {{Youtube-gallery|_xCgMBOiA8U|'''High-explosive power''' discusses the {{PAGENAME}} at 5:23 - ''War Thunder Official Channel''}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related Development
+* [[Chi-Ha (Family)]]
+
+;Tanks of comparable role, configuration, and era
+* [[File:Germany flag.png|30px|link=]] [[15cm sIG 33 B Sfl]]
+* [[File:Sweden flag.png|30px|link=]] [[Spj fm/43-44]]
+* [[File:Britain flag.png|30px|link=]] [[Alecto I]]
+* [[File:Italy flag.png|30px|link=]] [[Lancia 3Ro (100/17)]]
+* [[File:USSR flag.png|30px|link=]] [[SU-122]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

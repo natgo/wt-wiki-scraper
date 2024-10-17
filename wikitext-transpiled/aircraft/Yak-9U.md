@@ -34,7 +34,7 @@ At sea level, the Yak-9U can catch most, if not all, planes at its BR, including
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 652 || 634 || rowspan="2" | {{Specs|ceiling}} || 20.1 || 20.7 || 14.9 || 14.9 || rowspan="2" | 380
+| 646 || 631 || rowspan="2" | {{Specs|ceiling}} || 20.1 || 20.7 || 14.9 || 14.9 || rowspan="2" | 380
 |-
 ! Upgraded
 | 699 || 677 || 18.6 || 19.1 || 22.9 || 18.8

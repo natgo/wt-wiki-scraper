@@ -149,7 +149,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
-| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21_SPS-K_(Germany).png]]</div>
+| rowspan="10" width="30%" | <div class="ttx-image">[[File:Hardpoints_MiG-21_SPS-K_(Germany).png]]</div>
 |-
 ! [[GSh-23L (23 mm)|23 mm GSh-23L]] cannons (200 rpg)
 | || 1 ||
@@ -158,6 +158,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1 || || 1
 |-
 ! [[FAB-500M-54 (500 kg)|500 kg FAB-500M-54]] bombs
+| 1 || || 1
+|-
+! [[ZB-360 incendiary]] bombs
 | 1 || || 1
 |-
 ! [[S-5K]] rockets
@@ -187,6 +190,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 1 x 23 mm GSh-23L cannon + 2 x Kh-66 missiles
 * 1 x 23 mm GSh-23L cannon + 2 x 250 kg OFAB-250sv bombs (500 kg total)
 * 1 x 23 mm GSh-23L cannon + 2 x 500 kg FAB-500M-54 bombs (1,000 kg total)
+* 2 x ZB-360 incendiary bombs
 {{Navigation-End}}
 
 The 23 mm GSh-23L cannon is attached to the {{PAGENAME}} as a gunpod at the belly, similar to the [[M61 (20 mm)|20 mm M61]] cannon on the [[F-4C Phantom II|F-4C]]. Despite the odd configuration, the armament firepower is not any lacking compared to the other MiG-21 variants, having more ammunition than the [[MiG-21F-13]]'s 30 mm and identical to the [[MiG-21SMT]]'s identical 23 mm in an internal mount. As such, new pilots simply need to compensate the odd firing angle of the belly-mounted gunpod to make the {{PAGENAME}} work in a dogfight.

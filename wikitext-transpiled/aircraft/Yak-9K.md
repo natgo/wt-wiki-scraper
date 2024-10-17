@@ -32,7 +32,7 @@ The configuration of the Yak-9K's engine is for excellent low altitude performan
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 576 || 562 || rowspan="2" | {{Specs|ceiling}} || 18.8 || 19.5 || 13.7 || 13.5 || rowspan="2" | 366
+| 576 || 561 || rowspan="2" | {{Specs|ceiling}} || 18.8 || 19.5 || 13.7 || 13.5 || rowspan="2" | 366
 |-
 ! Upgraded
 | 609 || 593 || 17.2 || 18.0 || 18.5 || 16.0

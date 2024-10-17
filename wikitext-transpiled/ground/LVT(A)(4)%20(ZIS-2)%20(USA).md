@@ -96,6 +96,10 @@ Due to its big and tall tracks, the LVT can drive over some obstacles that are t
 | '''76''' || 71&nbsp;''(+5)'' || 65&nbsp;''(+11)'' || 49&nbsp;''(+27)'' || 33&nbsp;''(+43)'' || 17&nbsp;''(+59)'' || 1&nbsp;''(+75)'' || No
 |-
 |}
+'''Notes:'''
+
+* Turret Empty: 65 (+11) shells
+* Turret plus mid-hull empty: 33 (+43) shells
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

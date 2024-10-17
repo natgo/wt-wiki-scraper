@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_leopard_2a5_pso
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -142,6 +142,11 @@ The Leopard 2 PSO, with PSO standing for "Peace Support Operations", was KMW's p
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Leopard 2 PSO.png
+</gallery>
 
 ;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_leopard_2a5_pso Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]

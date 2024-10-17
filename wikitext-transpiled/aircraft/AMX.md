@@ -1,3 +1,8 @@
+{{About
+| about = Italian '''{{PAGENAME}}'''
+| usage = other variants
+| link = AMX (Family)
+}}
 {{Specs-Card
 |code=amx
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''AMX International AMX''', known in Italian service as '''A-11 ''Ghibli''''', is a joint venture between Alenia and Aermacchi of Italy, and EMBRAER of Brazil. Italy initiated a requirement for a new aircraft to replace the Fiat [[G.91 Y]]'s that were in service, while Brazil joined the venture primarily to replace an Italian aircraft in their service, the Aermacchi MB-326. After several prototypes, the AMX was adopted into service by the air forces of both Italy and Brazil. Initially, the primary variant in service was the A-11A, with the AMX-T serving as the dual-seater trainer variant. The AMX served for many decades and demonstrated its worth in multiple deployments. The variant featured in the game is the A-11B / AMX ACOL. The AMX ACOL was a further upgrade which outfitted 55 AMX-11A aircraft with new avionics. These enhancements included the addition of an INS/GPS navigation system, new communication systems, IFF, and new HUD displays. The most significant addition to the upgrade was the capability to deploy smart munitions, such as JDAM bombs, which later played an essential role in its deployment in Afghanistan.
+The '''AMX International AMX''', known in Italian service as '''A-11 ''Ghibli''''', is a joint venture between Alenia and Aermacchi of Italy, and EMBRAER of Brazil. Italy initiated a requirement for a new aircraft to replace the Fiat [[G.91 Y]]'s that were in service, while Brazil joined the venture primarily to replace an Italian aircraft in their service, the Aermacchi MB-326. After several prototypes, the AMX was adopted into service by the air forces of both Italy and Brazil. Initially, the primary variant in service was the A-11A, with the AMX-T serving as the dual-seater trainer variant. The AMX served for many decades and demonstrated its worth in multiple deployments. The AMX ACOL was a further upgrade which outfitted 55 AMX-11A aircraft with new avionics. These enhancements included the addition of an INS/GPS navigation system, new communication systems, IFF, and new HUD displays. The most significant addition to the upgrade was the capability to deploy smart munitions, such as JDAM bombs, which later played an essential role in its deployment in Afghanistan.
 
-It was introduced in [[Update "Air Superiority"]]. As a subsonic strike aircraft, it will fly similarly to other planes in its role, such as the [[A-10A|A-10]], [[Su-25 (Family)|Su-25]], [[Harrier (Family)|Harrier]], and, most notably, the [[A-6E TRAM]]. While it is capable of carrying up to two AIM-9Ls and comes equipped with internal countermeasures, it can also be used, though not intended, in an air-to-air role. This is preferably done when the pylons aren't loaded with ordnance, as it significantly affects the plane's performance. When utilized for its intended role, the AMX can carry up to six GBU Paveway II guided bombs or eight "dumb" unguided bombs. These capabilities can be devastating for enemy ground forces while showcasing the AMX's value as a formidable Close Air Support plane for allied forces.
+It was introduced in [[Update "Air Superiority"]]. As a subsonic strike aircraft, it will fly similarly to other planes in its role, such as the [[A-10A|A-10]], [[Su-25 (Family)|Su-25]], [[Harrier (Family)|Harrier]], and, most notably, the [[A-6E TRAM]], the variant featured in the game is the A-11A. While it is capable of carrying up to two AIM-9Ls and comes equipped with internal countermeasures, it can also be used, though not intended, in an air-to-air role. This is preferably done when the pylons aren't loaded with ordnance, as it significantly affects the plane's performance. When utilized for its intended role, the AMX can carry up to six GBU Paveway II guided bombs or eight "dumb" unguided bombs. These capabilities can be devastating for enemy ground forces while showcasing the AMX's value as a formidable Close Air Support plane for allied forces.
 
 == General info ==
 === Flight performance ===
@@ -17,7 +22,7 @@ It was introduced in [[Update "Air Superiority"]]. As a subsonic strike aircraft
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 0 m - sea level)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -26,7 +31,7 @@ It was introduced in [[Update "Air Superiority"]]. As a subsonic strike aircraft
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 1,140 || 1,132 || rowspan="2" | {{Specs|ceiling}} || 31.7 || 32.9 || 76.2 || 67.5 || rowspan="2" | 1,000
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -211,15 +216,19 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 '''Pros:'''
 
 * Great payload options
+** GBUs and thermals provide strong and accurate ground strike options for Ground Battles
 * Internal mounted countermeasures
 * Relatively nimble for a strike aircraft
 * AIM-9Ls are potent in a downtier
+** Gun radar can be used to detect enemies or slave your AIM-9Ls
 
 '''Cons:'''
 
 * Rather limited ammo for Vulcan standards
-* slow acceleration at lower speeds, struggles with larger payloads
-* Sub-sonic
+* Slow acceleration at lower speeds, struggles with larger payloads
+* Subsonic speed
+** Bleeds most of its energy in dogfights quickly, poor acceleration means you will almost always be on the defensive
+* Once your AIM-9Ls are expended you are mostly helpless
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -247,6 +256,10 @@ Later in its service life, the A-11 received an upgrade known as the A-11B / AMX
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
+;Related development
+
+* [[AMX A-1A]]
 
 ;Aircraft of comparable role, configuration and era
 

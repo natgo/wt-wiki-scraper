@@ -123,11 +123,11 @@ It also features a total of 180 countermeasures. It is easy to flare off incomin
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Cross}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Cross}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -148,7 +148,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="16" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="19" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[SAMP Type 25 200 (250 kg)|250 kg SAMP Type 25 200]] bombs
 | 1 || 1 || || 2 || || 1 || 1
@@ -186,14 +186,22 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[TBA Multi-Dart 100 AB]] rockets
 | 4 || 4 || || || || 4 || 4
 |-
+! [[AS-30L Nord]] missiles
+| || 1 || || || || 1 ||
+|-
 ! [[Matra R550 Magic 1]] missiles
 | 1 || || || || || || 1
 |-
 ! Countermeasures
-| || || 90 || || 90 || ||
+| || || 54* || || 54* || ||
+|-
+! Large calibre countermeasures
+| || || 16* || || 16* || ||
 |-
 ! ATLIS II targeting pod
 | || || || 1 || || ||
+|-
+| colspan="9" | * Standard and large calibre countermeasures are equipped concurrently on the same hardpoint
 |-
 |}
 
@@ -201,11 +209,12 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * Without load
-* 180 x countermeasures
+* 32 x large calibre countermeasures + 108 x countermeasures
 * 2 x Matra R550 Magic 1 missiles
 * 72 x SNEB type 23 rockets
-* 16 x TBA Multi-Dart 100 AB rockets
 * 16 x TBA ECC rockets
+* 16 x TBA Multi-Dart 100 AB rockets
+* 2 x AS-30L Nord missiles
 * 6 x 250 lb LDGP Mk 81 bombs (1,500 lb total)
 * 6 x 250 lb Mk 81 Snakeye bombs (1,500 lb total)
 * 6 x 500 lb LDGP Mk 82 bombs (3,000 lb total)

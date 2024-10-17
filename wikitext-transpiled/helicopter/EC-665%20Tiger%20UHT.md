@@ -64,7 +64,8 @@ The fuel and transmission sit in the middle of the aircraft, between the gunner 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 64 x countermeasures
+* 32 x countermeasures
+* 16 x large calibre countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
@@ -75,10 +76,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="9" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[FN M3P (12.7 mm)|12.7 mm FN M3P]] machine guns (250 rpg)
 | || 1* || 1* ||
+|-
+! [[FN M3P (12.7 mm)|12.7 mm FN M3P]] machine guns (400 rpg)
+| || 1 || 1 ||
 |-
 ! [[FFAR Mighty Mouse]] rockets
 | || 3*, 19 || 3*, 19 ||
@@ -98,20 +102,21 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[PARS 3 LR]] missiles
 | || 4 || 4 ||
 |-
-| colspan="6" | * Gunpods can be carried concurrently with triple FFAR rockets on the same hardpoint
+| colspan="6" | * 250 rpg gunpods and triple FFAR rockets are carried concurrently on the same hardpoint
 |-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 38 x FFAR Mighty Mouse rockets
 * 14 x APKWS II (M151) missiles
 * 14 x APKWS II (M282) missiles
 * 4 x HOT-3 missiles
 * 8 x HOT-3 missiles
 * 8 x PARS 3 LR missiles
-* 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total)
-* 2 x 12.7 mm FN M3P machine guns + 6 x FFAR Mighty Mouse rockets
+* 2 x 12.7 mm FN M3P machine guns (400 rpg = 800 total)
+* 2 x 12.7 mm FN M3P machine guns (250 rpg = 500 total) + 6 x FFAR Mighty Mouse rockets
 * 4 x ATAS (AIM-92) missiles
 {{Navigation-End}}
 
@@ -120,11 +125,13 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 ;Overview
 
-The EC-665 Tiger UHT is a great tank hunting helicopter, enabled through the help of its superb avionics, electronics, optronics and one-of-a-kind PARS 3 LR anti-tank guided missiles. Although the playstyle is similar to its predecessors, the Tiger UHT is quite unlike other helicopters previously found in its tech tree. With the addition of all-new MAW, thermal optics, air-to-air missiles and unique heat-seeking anti-tank guided missiles, the EC-665 Tiger UHT presents the leading edge of anti-tank helicopters. With support from friendly fighters occupying hostile aircraft and helicopters, the Tiger UHT can singlehandedly wipe out entire teams on the ground, even the latest anti-air vehicles have great difficulty taking out a Tiger UHT when piloted accordingly.
+The EC-665 Tiger UHT is a great tank hunting helicopter, enabled through the help of its avionics, electronics, optronics and the gimmicky kind PARS 3 LR anti-tank guided missiles. The Tiger UHT is quite unlike other helicopters previously found in its tech tree. With the addition of all-new MAWS, thermal optics, air-to-air missiles and heat-seeking anti-tank guided missiles, the EC-665 Tiger UHT presents the leading edge of anti-tank helicopters. With support from friendly fighters occupying hostile aircraft and helicopters, the Tiger UHT can singlehandedly wipe out entire teams on the ground, even the latest anti-air vehicles have great difficulty taking out a Tiger UHT when piloted accordingly.
 
 ;Air-to-air combat
 
 Although possible, the Tiger UHT should avoid actively hunting other helicopters and especially aircraft(unless unavoidable), as it is far more important to prioritize hunting ground targets instead. If required, the Tiger UHT is equipped with 4 Stinger heat-seeking missiles that work best against slow-flying targets within 750m-5km with 2km being the optimal launch distance. With an all aspect locking seeker, the missile can engage aircraft directly coming towards it, however, this is limited to a maximum distance of roughly 4km.
+
+What most don't know is that the PARS-3LR has been adjusted and now can engage air targets reliably at ranges up to 7km due to its 10G overload capability and imaging infrared seeker which is nearly impossible to fool with IR countermeasures.
 
 ;Short-range anti tank combat
 
@@ -137,7 +144,7 @@ For the Tiger UHT, there are 2 choices of anti-tank guided missiles: HOT-3 and P
 ;Engaging ground targets with PARS 3 LR
 
 [[File:Pars_3_LR_demonstration.mp4|right|thumb|x300px|Engagement of multiple tank targets using PARS 3 LR]]
-When picking out targets to engage, there are a few criteria to be checked to ensure a good hit. Targets that are moving towards cover such as buildings, terrain, or smoke, or sitting behind bushes (not bushes as 3D decorations). The task of finding targets is greatly improved through the optics being mounted above the main rotor overseeing the entire helicopter and being equipped with thermal/night vision systems. This allows for great viewing angles of over -60° to 60° in the horizontal plane, and -40° to 10° in elevation.
+When picking out targets to engage, there are a few criteria to be checked to ensure a good hit. Targets that are moving towards cover such as buildings, terrain, or smoke, or sitting behind bushes (not bushes as 3D decorations). The task of finding targets is greatly improved through the optics being mounted above the main rotor overseeing the entire helicopter and being equipped with thermal/night vision systems. This allows for great viewing angles of over -180° to 180° in the horizontal plane, and -90° to 10° in elevation.
 
 An important feature about PARS 3 LR is the infrared seeker, being able to engage aircraft and especially helicopters too. Although not reliable due to the lack of a proximity fuse, this can be a live saver when fighting at ranges that exceed the range of Stinger.
 

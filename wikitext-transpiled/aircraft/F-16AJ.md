@@ -184,7 +184,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 370 gal drop tanks + 1 x 300 gal drop tank
-* 2 x AIM-9P Sidewinder missiles
+* 2 x AIM-9P Sidewinder missiles + 2 x AIM-7F Sparrow missiles
 * 6 x AIM-9P Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles
 * 2 x AIM-7F Sparrow missiles

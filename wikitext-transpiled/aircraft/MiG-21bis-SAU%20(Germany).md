@@ -22,7 +22,7 @@ The MiG-21bis-SAU has very nice acceleration, especially at lower speeds, this a
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max Speed<br>(km/h at 13,000 m)
+! colspan="2" | Max speed<br>(km/h at 13,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)

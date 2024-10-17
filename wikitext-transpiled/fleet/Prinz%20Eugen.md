@@ -1,7 +1,6 @@
 {{Specs-Card
 |code=germ_cruiser_prinz_eugen
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
-|store=8103
 }}
 
 == Description ==

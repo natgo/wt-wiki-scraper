@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian tank destroyer {{Battle-rating}} in the Italian research tree. It was introduced in [[Update "Sons of Attila"]] as part of the Hungarian branch of the Italian tech tree.
+The '''2S1 Gvozdika''' was a self-propelled artillery piece used by the Hungarian Army during the Cold War and a few decades before the dissolution of the Warsaw Pact. During the Cold War, the USSR employed the use of military aid and training as a way to exert control over its weaker allies such as Poland, East Germany, and others such as Hungary. Due to the constant tension, these nations had to be armed and trained to be able to hold off Western powers until Soviet troops could arrive in case of an invasion, as well as aiding Soviet troops in their own invasion if necessary. The Soviet Union exported 144 of these artillery pieces to Hungary, which were mostly phased out of active service by 2004, as they had relied on Soviet aid for maintenance and spare parts. By 2018, Hungary signed a contract with KMW to replace their aging fleet of Soviet artillery with 24 units of the PzH 2000.
+
+The 2S1 was introduced in [[Update "Sons of Attila"]] as part of the Hungarian branch of the Italian tech tree. As with most self-propelled howitzers in War Thunder, it lacks armour and has a poor turret traverse speed, but boasts great gun elevation. The 2S1 fields a 122 mm howitzer, which is smaller than conventional 155 mm howitzers, and thus its HE shell features less explosive filler. Nonetheless, the vehicle is relatively low-profile compared to its counterparts, and with a well-placed shot, even medium tanks can be destroyed. The vehicle is decently mobile, and thanks to its low profile, it can be used to flank enemy units. This is a recommended playstyle due to its poor armour and turret traverse. It can also be used to place ambushes in maps with plenty of cover like forests or cramped cities. For light vehicles, a shot to a weak spot like side armour should be sufficient, but for medium or heavy tanks, it is recommended aiming for the commander's cupola, or the gun mantlet. If unable to penetrate, try to retreat and incapacitate the enemy tank by shooting the barrel, tracks, or engine. Note that the 2S1 reloads faster than counterparts like the American M109, but it is still slow compared to most medium tanks even with an Aced crew.
 
 == General info ==
 === Survivability and armour ===
@@ -22,20 +24,33 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian tank destroyer {{Bat
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
+* Rolled homogeneous armour
+* Constrution Steel (4 mm plate on Front hull)
+
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 14 mm (39°)
+18 mm (39°) ''additional plate''
+| 7 mm ''Top'' <br>7 mm ''Bottom'' || 7 mm (3°) || 7 mm
+10 mm ''Driver hatch''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 14 mm (20°) ''Turret front'' <br>20 mm ''Gun mantlet'' || 7 mm (20°)
+10 mm (19°) ''Ejection port''
+| 7 mm (15°) || 7 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || colspan="3" | 14 mm (cylindrical) || 7 - 14 mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+
+* Suspension wheels are 20 mm thick and tracks are 20 mm thick.
+* Belly armour is 7 mm thick.
+
+The armour of the 2S1 can be easily penetrated by heavy machine guns like the 12.7mm M2HB Browning, often found on the roof of vehicles at Rank IV.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -83,12 +98,19 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian tank destroyer {{Bat
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 ! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''40''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''40''' || 36&nbsp;''(+4)'' || 28&nbsp;''(+12)'' || 20&nbsp;''(+20)'' || ''13(+27)'' || 1&nbsp;''(+39)'' || No
 |-
 |}
+
+===== Notes: =====
+
+* Shells are modeled individually and disappear after having been shot or loaded.
+* Rack 4 and 5 are first stage ammo racks. They total 19 shells and gets filled first when loading up the tank.
+* This rack is also emptied early: the rack depletion order at full capacity is: 4 - 5 - 1 - 2 - 3.
+* If you pack 20 ''(+20)'' shells, it will keep the hull empty of ammo.
+* Simply not firing when the gun is loaded will move ammo from racks 1-3 into racks 5 then 4. Firing will interrupt the restocking of the ready racks.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -99,7 +121,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian tank destroyer {{Bat
 
 '''Pros:'''
 
-* Fairly mobile with a short profile, decent for sneaking around the map
+* Fairly mobile with a low profile, decent for sneaking around the map
 * Main armament is able to obliterate light and medium tanks, particularly with hull shots
 * Has a backup shell to defeat targets that are difficult to destroy with HE
 * Great elevation angles
@@ -108,8 +130,8 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian tank destroyer {{Bat
 
 * HE is unreliable against heavy tanks, many medium tanks can resist turret shots
 * Very weak armour without any compensation
-** If more than 12 shells is carried, it's almost impossible to survive a turret hit due to the weird ammo rack placement, but having such a low ammo load is bad for long-term gameplay
-** Crew placement is not ideal, any shot that didn't hit ammo racks will likely hit the gunner instead
+** If more than 13 shells are carried, it's almost impossible to survive a turret hit due to the weird ammo rack placement, but having such a low ammo load is bad for long-term gameplay
+** Crew placement is not ideal, any shot that doesn't hit ammo racks will likely hit the gunner instead
 * Long profile, being hit while passing a crossing in a city might end badly
 * Extremely slow turret traverse
 * Commander scope is blocked by the IR spotlight, can be very annoying to deal with
@@ -122,6 +144,7 @@ The 2S1 was used extensively by the Hungarian Army during the Cold War. These ve
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_2s1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -130,10 +153,12 @@ The 2S1 was used extensively by the Hungarian Army during the Cold War. These ve
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[2S1]]
 * [[2S3M]]
 
 ;Similar vehicles
+
 * [[Type 75 SPH]]
 
 == External links ==

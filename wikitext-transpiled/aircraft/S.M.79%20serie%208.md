@@ -193,7 +193,9 @@ From the high of the Spanish Civil War to the end of WW2, the Sparviero was the 
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''-->
 
-* {{Specs-Link|sm_79_1939}} - Exact same variant of aircraft in the German tech tree
+;Related development
+*[[S.M.79 (Family)]]
+**[[S.M.79 serie 8 (Germany)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

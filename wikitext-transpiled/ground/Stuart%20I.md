@@ -10,7 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update "Starfighters"]].
+'''Stuart I''' was the British designation for the American [[M3 Stuart]], supplied under the Lend-Lease programme. After heavy losses in 1940-41, Britain faced a shortage of armoured vehicles and turned to the USA. They were refused permission to manufacture their own tank models in American factories, leaving the purchase of American designs as the only solution. Under the Lend-Lease programme, 1,784 M3s and 1,594 M3A1s were sent to the British Army, where they received the designations Stuart I and [[Stuart III]] respectively.
+
+Immediately after their arrival, the Stuarts were sent to Africa to fight against Germany and Italy. There they quickly proved themselves: they were fast, reliable, could withstand heavy fire, and, unlike the common [[Crusader II]], they possessed HE rounds. However, there were also problems: the two hull machine guns, located close to the sides, were useless and discarded by crews; their range was insufficient for operations in Africa. One attempt to remedy the latter was the modification with Guiberson diesel engines, designated as Stuart II. After the end of the North African campaign, the tanks were redeployed to Asia, where some were handed over to China, while the rest fought against Japan until the end of World War II.
+
+Introduced in [[Update "Starfighters"]], the Stuart is a light tank with a number of positive characteristics: it has good armour, pleasant mobility and excellent penetration. However, by its class standards, it is very tall, turns poorly on the spot, and the dense crew layout gives it poor survivability.
 
 == General info ==
 [[File:M3 Stuart Screenshot 3.jpg|thumb|M3 Stuart driving in the Snow ([[Frozen Pass (Ground Forces)|Frozen Pass]])]]

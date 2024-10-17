@@ -178,7 +178,7 @@ The fact that all models continued in service until 1945 reflects that many Ki-4
 
 '''As a testbed for the Ki-148'''
 
-About 180 Ki-148 Missiles were built to defend the Japanese mainland for the anticipated land invasion. Although the Ki-148 was designed to be launched from [[Ki-102 otsu|Ki-102]] Strike fighters, the Japanese Army Air Force needed to sufficiently test and deploy missiles before they could be used in combat. The Ki-48-II Otsu was the aircraft selected to launch and test these missiles. In late 1944, A Ki-48-II was modified with a missile control system and the bomb bay was removed, and trials with the Ki-148 commenced. The missile turned out to be successful, more so than its larger counterpart, the Ki-147.
+About 180 Ki-148 Missiles were built to defend the Japanese mainland for the anticipated land invasion. Although the Ki-148 was designed to be launched from [[Ki-102 otsu|Ki-102]] Strike fighters, the Japanese Army Air Service needed to sufficiently test and deploy missiles before they could be used in combat. The Ki-48-II Otsu was the aircraft selected to launch and test these missiles. In late 1944, A Ki-48-II was modified with a missile control system and the bomb bay was removed, and trials with the Ki-148 commenced. The missile turned out to be successful, more so than its larger counterpart, the Ki-147.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

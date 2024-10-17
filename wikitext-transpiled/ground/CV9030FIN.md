@@ -16,26 +16,36 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+The CV9030FIN has 20 mm of frontal hull armour, which is not significant enough to stop anything larger than a 14.5 mm machine gun. However, the upper plate is angled very well and as such could possibly prevent low-penetration auto-cannons from damaging the vehicle; the hull front, with its slope, can offer from 20 mm on the lower glacis up to almost 90 mm of effective thickness on the upper glacis. The side armour is composed of two spaced plates, one 6 mm and one 10 mm plate (for a total of 16 mm). This is enough to stop low-calibre machine guns, but a .50 cal will penetrate the armour with ease. A fuel tank is located between the spaced armour plates of the left side of the hull, right beneath the turret; the fuel tank is able to absorb machine gun bullets, protecting the turret crew from the left side from machine gun fire. The rear of the hull has 20 mm of armour, enough to stop low-calibre machine guns. Shots by large calibre cannons to the turret will more often than not only kill a single crew-member allowing an attacking response or swift retreat.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+
+* Body made entirely of rolled homogeneous armour
+* Structural steel boxes attached to sides and rear of turret
+* Composite screen covering front, sides of turret, and sides of hull
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 20 mm (78°) ''Upper glacis'' <br> 20 mm + 30 mm (29°) ''Lower glacis - Upper section'' <br> 10 mm + 30 mm (43°) ''Lower glacis - Lower section''
+| 6 mm + 20 mm ''Upper'' <br> 10 mm + 20 mm ''Lower''
+| 20 mm || 20 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 20 mm + 50 mm ''Turret front'' || 20 mm + 60 mm || 20 mm || 20 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || colspan="4" | 20 mm (cylindrical)
 |-
 |}
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+'''Notes:'''
+
+* Suspension wheels, tracks, and bogies are 15 mm thick.
+* Belly armour and the bottom plate above the tracks are 10 mm thick.
+* Mudguards are 5 mm thick.
+* Inner armour plates protect the sides of the crew compartment (the upper section over the tracks only).
+* The engine is separated from the driver position and the crew compartment by an armour plate.
+* The driver viewport is a weak spot as it is the only place where the inner armour does not overlap with the external armour.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -71,6 +81,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 |}
 
 ==== Ammunition ====
+
 * '''Default:''' {{Annotation|APDS|Armour-piercing discarding sabot}}
 * '''MK266:''' {{Annotation|HEI-T|High-explosive incendiary tracer}}
 * '''MK258:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}
@@ -112,7 +123,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+APFSDS round allows adequate penetration of MBTs from the side and rear angles and is best utilized to position the vehicle to allow such shots. While acceleration is poor, the fair top speed allows creative positioning and the good reverse speed provides for the ability to use shoot and scoot tactics. Only IFVs and other lightly armoured vehicles can reliably be destroyed from the front.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -139,7 +150,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
-[https://live.warthunder.com/feed/camouflages/?vehicle=sw_cv_9030_fin Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+* [https://live.warthunder.com/feed/camouflages/?vehicle=sw_cv_9030_fin Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
@@ -147,6 +158,7 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Swedish light tank {{Battle-ra
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[CV90 (Family)]]
 
 == External links ==

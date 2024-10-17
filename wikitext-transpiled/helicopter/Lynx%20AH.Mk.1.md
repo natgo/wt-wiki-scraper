@@ -58,18 +58,41 @@ It is advisable to prioritise unlocking the Chaff/flare modification for the Lyn
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 192 x countermeasures
+* 128 x countermeasures
 
 === Suspended armament ===
 {{Specs-Heli-Suspended}}
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
-{{main|AGM-114B Hellfire|ATAS (AIM-92)|BGM-71C Improved TOW|BGM-71D TOW-2}}
-{{main|Hydra-70 M247|Oerlikon KAD-B (20 mm)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
+| rowspan="7" width="30%" | <div class="ttx-image">[[File:Hardpoints_G-LYNX.png]]</div>
+|-
+! [[Oerlikon KAD-B (20 mm)|20 mm Oerlikon KAD-B]] cannons (570 rpg)
+| || || 1 ||
+|-
+! [[Hydra-70 M247]] rockets
+| 19 || || || 19
+|-
+! [[AGM-114B Hellfire]] missiles
+| 2, 4 || || || 2, 4
+|-
+! [[ATAS (AIM-92)]] missiles
+| || 2 || 2 ||
+|-
+! [[BGM-71C Improved TOW]] missiles
+| 2, 4 || || || 2, 4
+|-
+! [[BGM-71D TOW-2]] missiles
+| 2, 4 || || || 2, 4
+|-
+|}
+
+{{Navigation-Start|Default weapon presets}}
+{{Navigation-First-Simple-Line}}
 * 1 x 20 mm Oerlikon KAD-B cannon (570 rpg) + 38 x Hydra-70 M247 rockets
 * 4 x ATAS (AIM-92) missiles
 * 38 x Hydra-70 M247 rockets
@@ -82,34 +105,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance presets:
 * 8 x AGM-114B Hellfire missiles
 * 1 x 20 mm Oerlikon KAD-B cannon
 * 1 x 20 mm Oerlikon KAD-B cannon + 8 x BGM-71D TOW-2 missiles
-
-==== Custom loadout options ====
-{| class="wikitable" style="text-align:center" width="100%"
-|-
-! !! width="11%" | 1 !! width="11%" | 2 !! width="11%" | 3 !! width="11%" | 4
-| rowspan="8" width="30%" | <div class="ttx-image">[[File:Hardpoints_G-LYNX.png]]</div>
-|-
-! 20 mm Oerlikon KAD-B cannons (570 rpg)
-| || || 1 ||
-|-
-! Hydra-70 M247 rockets
-| 19 || || || 19
-|-
-! AGM-114B Hellfire missiles
-| 2, 4 || || || 2, 4
-|-
-! ATAS (AIM-92) missiles
-| || 2 || 2 ||
-|-
-! BGM-71C Improved TOW missiles
-| 2, 4 || || || 2, 4
-|-
-! BGM-71D TOW-2 missiles
-| 2, 4 || || || 2, 4
-|-
-| colspan="5" | Maximum permissible weight imbalance: 200 kg
-|-
-|}
+{{Navigation-End}}
 
 '''20 mm Oerlikon KAD-B cannon:'''
 

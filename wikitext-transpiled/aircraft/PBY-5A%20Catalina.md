@@ -130,6 +130,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 16 x 100 lb AN-M30A1 bombs (1,600 lb total)
 * 4 x 500 lb AN-M64A1 bombs (2,000 lb total)
 * 4 x 1,000 lb AN-M65A1 bombs (4,000 lb total)
@@ -146,7 +147,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 The '''''{{PAGENAME}}''''' is defended by:
 
 * 1 x 12.7 mm M2 Browning machine gun, 2 x beam turrets (478 rpg)
-* 2 x 7.62 mm Browning machine guns, nose turret (1,050 rpg = 2,100 total)
+* 1 x 7.62 mm Browning machine guns, nose turret (1,000 rpg)
 * 1 x 7.62 mm Browning machine gun, ventral turret (500 rpg)
 
 == Usage in battles ==
@@ -237,7 +238,12 @@ The PBY was used as a bomber and torpedo carrier, and was often utilized in nigh
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
+* [[PBY-5 (Family)]]
+
+;Aircraft of similar configuration or role
 * [[PBM-1 "Mariner"]]
+* [[H6K4]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -235,3 +235,4 @@ This specific aircraft was piloted by Philip M. Rasmussen during the attack on P
 
 {{AirManufacturer Curtiss}}
 {{USA fighters}}
+{{USA premium aircraft}}

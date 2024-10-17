@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German SPAA {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]].
+The '''Sonderkraftfahrzeug (Sd.Kfz.) 222''' was a German light armoured car, designed in 1935 by order of the Ministry of Armaments as an improved version of its predecessor, [[Sd.Kfz.221 (s.Pz.B.41)|Sd.Kfz.221]]. Unlike its predecessor, the Sd.Kfz.222 received a 20 mm automatic gun, in addition to an upgraded hull. Both the Sd.Kfz.221 and Sd.Kfz.222 were actively used in all military campaigns of the Third Reich as reconnaissance and staff vehicles, proving themselves most successfully in the first years of World War II, when combat operations were conducted predominantly on terrain densely criss-crossed by roads. Later, the Sd.Kfz.222 lost its relevance due to its increasingly inadequate armour protection and poor off-road mobility. Nonetheless, the vehicle remained in service with Wehrmacht units until Germany's surrender, being used both for its intended purpose of reconnaissance and for supporting advancing infantry, providing anti-aircraft fire, and conducting police operations. A total of 994 Sd.Kfz.222s were manufactured.
+
+Introduced in [[Update "Sky Guardians"]], the Sd.Kfz.222 can fulfil the role of an SPAA, as the armoured car is equipped with a good KwK38 20 mm automatic gun capable of destroying even a bomber with several rounds. However, the long reload time and low shot dispersion prevent the vehicle from effectively combating fast and small aircraft. However, thanks to its excellent mobility on hard ground and the availability of armour-piercing belts for the gun, the Sd.Kfz.222 is also well-suited as a light tank that can quickly reach a key point, outmanoeuvre opponents on the flanks and launch a surprise attack, then swiftly retreat without exposing itself to return fire. However, one should not forget about the vehicle's weak armour protection.
 
 == General info ==
 === Survivability and armour ===
@@ -26,9 +28,9 @@ Armour protection is, mediocre, to say the least. Almost the entire car is compr
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear
 |-
-| Hull || 30 mm (35°) ''Lower glacis'' <br> 14.5 mm (33°) ''Upper glacis'' || 8 mm (35°) ''Top'' <br> 8 mm (34°) ''Bottom'' || 8 mm (39°) 
+| Hull || 30 mm (35°) ''Lower glacis'' <br> 14.5 mm (33°) ''Upper glacis'' || 8 mm (35°) ''Top'' <br> 8 mm (34°) ''Bottom'' || 8 mm (39°)
 |-
-| Turret || 8 mm (33°) ''Turret front'' <br> 8 mm ''Gun mantlet'' || 8 mm (35°) || 8 mm (35°) 
+| Turret || 8 mm (33°) ''Turret front'' <br> 8 mm ''Gun mantlet'' || 8 mm (35°) || 8 mm (35°)
 |-
 |}
 
@@ -40,7 +42,7 @@ Armour protection is, mediocre, to say the least. Almost the entire car is compr
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The Sd.Kfz.222 moves rapidly on roads, less so on regular ground and will get bogged down in soft terrain. It is easy to control at speed and can engage enemies quickly since it needs little time to come to a full stop. 
+The Sd.Kfz.222 moves rapidly on roads, less so on regular ground and will get bogged down in soft terrain. It is easy to control at speed and can engage enemies quickly since it needs little time to come to a full stop.
 
 {{tankMobility|abMinHp=128|rbMinHp=80}}
 
@@ -123,7 +125,7 @@ One downside is that the belt carries only 10 rounds, which quickly are depleted
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
-'''Pros:''' 
+'''Pros:'''
 
 * Fast and nimble
 * 20 mm autocannon has a fast rate of fire

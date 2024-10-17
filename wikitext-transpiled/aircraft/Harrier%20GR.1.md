@@ -224,7 +224,8 @@ In Ground RB, usually planes have to fly back to their airfield to rearm/repair.
 
 '''Cons:'''
 
-* Limited WEP duration of ~90 seconds because of rapid engine overheating
+* Limited WEP duration of ~90 seconds due to the use of Water Injection and a limited supply of water
+* Engine overheats rapidly at higher thrust settings, keep below 80% throttle to limit overheat whenever possible
 * Although deflecting nozzles in flight can help with manoeuvrability, doing so bleeds a lot of speed
 * Weaker engine than other later [[Harrier (Family)|Harriers]]; engine performance declines as the altitude increases
 * Countering the [[SRAAM]] is extremely easy with flares due to missile's wide inner FoV and by outrunning their ~1.5 km effective range

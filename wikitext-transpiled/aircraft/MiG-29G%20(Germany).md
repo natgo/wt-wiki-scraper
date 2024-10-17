@@ -22,7 +22,7 @@ The MiG-29G is, like its predecessor, very manoeuvrable and fast, making it a le
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 14,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -31,7 +31,7 @@ The MiG-29G is, like its predecessor, very manoeuvrable and fast, making it a le
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,358 || 2,306 || rowspan="2" | {{Specs|ceiling}} || 20.2 || 20.5 || 270.1 || 256.9 || rowspan="2" | 750
 |-
 ! Upgraded
 | ___ || ___ || __._ || __._ || __._ || __._
@@ -43,7 +43,7 @@ The MiG-29G is, like its predecessor, very manoeuvrable and fast, making it a le
 |-
 ! colspan="6" | Features
 |-
-! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
+! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor 	gear !! Drogue chute
 |-
 | X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
@@ -119,6 +119,15 @@ The MiG-29G has no armour whatsoever thus making it very vulnerable to enemy sho
 
 == Armaments ==
 {{Specs-Avia-Armaments}}
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="5" | [[Ballistic Computer]]
+|-
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
+|-
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+|-
+|}
 === Offensive armament ===
 {{Specs-Avia-Offensive}}
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
@@ -196,7 +205,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 1 x 1,520 l drop tank
-* 2 x R-73E missiles
+* 2 x R-73E missiles + 2 x R-27R1 missiles
 * 6 x R-73E missiles
 * 2 x R-27ER1 missiles
 * 2 x R-27ET1 missiles
@@ -224,7 +233,7 @@ The MiG-29G is a very efficient air superiority plane. It is based on the MiG-29
 
 In Air Realistic Battles, the MiG-29G has multiple possible playstyles, which it can easily fit into due to its overall versatility. It is not the best in Ground RB due to its non existent guided munitions. However it can be used as a superiority fighter in GRB, where the Stealth and Close range playstyles that are described below would work best, due to the nature of GRB where there are no markers.
 
-* Long Range BVR - This play style uses the famous R-27ER missile, capable of hitting enemies at up to 40 km, and 30-35 km reliably in Air RB matches. This play style can also work identically on MiG-29A's due to their similar weight, thrust, radar and armament. If you want to play like this, you need to climb as much as you can during a match, and use your radar to find enemies high up and then fire the R-27ER upwards so it gains more speed. The MiG-29SMT would technically be better at this due to its radar, which can look directly left and right, meaning you can notch while guiding missiles, but the additional weight of the SMT makes it arguably worse, since it can't climb as high and as fast as the MiG-29A or G, limiting the range and speed of the R-27ER, or how early you can fire them. In general, this play style is quite hard to nail down because, for example, an enemy F-14B has powerful engines and can launch AGM-54s before you can even see him on the MiG-29's radar, not to mention they can also guide onto you without the F-14 locking you. After you have fired your R-27ER slightly upwards, you should start pulling to one side so the enemy missiles start turning and after around 5-10 seconds, you should pull the complete other direction, to further bleed the energy of enemy missiles coming at you. You need to do this while ensuring that the enemy remains locked. If you lose lock, it will be hard to re-acquire lock due to the slightly primitive nature of the MiG-29G's radar. After you hit the target or miss it, you should change direction again, and then continuing your match however you wish.
+* Long Range BVR - This play style uses the famous R-27ER missile, capable of hitting enemies at up to 40 km, and 30-35 km reliably in Air RB matches. This play style can also work identically on MiG-29A's due to their similar weight, thrust, radar and armament. If you want to play like this, you need to climb as much as you can during a match, and use your radar to find enemies high up and then fire the R-27ER upwards so it gains more speed. The MiG-29SMT would technically be better at this due to its radar, which can look directly left and right, meaning you can notch while guiding missiles, but the additional weight of the SMT makes it arguably worse, since it can't climb as high and as fast as the MiG-29A or G, limiting the range and speed of the R-27ER, or how early you can fire them. In general, this play style is quite hard to nail down because, for example, an enemy F-14B has powerful engines and can launch AIM-54s before you can even see him on the MiG-29's radar, not to mention they can also guide onto you without the F-14 locking you. After you have fired your R-27ER slightly upwards, you should start pulling to one side so the enemy missiles start turning and after around 5-10 seconds, you should pull the complete other direction, to further bleed the energy of enemy missiles coming at you. You need to do this while ensuring that the enemy remains locked. If you lose lock, it will be hard to re-acquire lock due to the slightly primitive nature of the MiG-29G's radar. After you hit the target or miss it, you should change direction again, and then continuing your match however you wish.
 * Close quarters - This playstyle is quite simple. It means taking 6 x R-73E missiles, going straight into the furball and shooting missiles at enemies. There is not much theory or many tips about this one. You should always try to lead the R-73E's even though they have thrust vectoring. You should always fire them from the sides or rear aspects only to maximize your chance of scoring a hit. Front Aspect can work at extreme close range, but in general above 500 m, one flare in front aspect is too much for the R-73E's IRCCM. It works best at below 1 km in side aspect and 1.5 km in rear aspect, where the missiles become nearly unflareable. You should always check your surroundings and keep good situational awareness to survive in the furball. The amazing manoeuvrability of the MiG-29G also makes using guns on target quite easy. You should always try to use your gun wherever you can rather than missiles at extreme close ranges. The R-73's will have a very hard time hitting below 500 m at low speed during manoeuvring.
 ** Another variation of the Close quarters play style - Taking 2 x R-27ER missiles, and 4 x R-73E missiles. You still don't need to have the radar on alerting enemies of your existence, but you should keep it on the "HMD" setting, letting you lock players without using "SRC". Firing the R-27ER missiles at targets coming at you, which are not hugging the ground are generally free targets. Just remember you should fire the R-27ER between 4.5 km and 8 km so the enemy has no chance to escape. If used correctly this can grant you 2 targets destroyed.
 * Stealth - This is more of a "fun" play style, which increases the difficulty of destroying the enemies. It involves using 2 x R-27ET, along with the standard 4 x R-73E missiles. In this play style you should only use the IRST of the MiG-29. Searching and Locking enemies with the IRST does not alert them, therefore you can find and sneak up on players who are flanking or are not paying attention. This "play style" involves flanking while using the IRST to find enemies before they find you on their flanks. Staying low ensures you won't be targeted by the enemies trying to do BVR (they can see you, but you are just not a good target). If they fire at you, staying low also ensures the proximity fuse of the enemy missile won't detonate due to being too close to the ground). Due to how spotting works in this game, enemies can see you at around 6.84 km for a level 75 expert pilot. Your IRST can see enemies in front aspect at a maximum range between 5 km and 12 km. 5 km for a non-afterburning target with low engine temperature, and about 12 for very hot targets, and up to 35 km in rear-aspect if their hot engines are in afterburners. After flanking the furball, you can climb to around 6 km, and start firing R-27ET's from above enemies that are not fighting. This ensures they are unlikely to look directly up at you, unlikely to drop flares (the IRCCM of the R-27ET is good, but is useless at long range due to the FOV nature if it). The missile is also unlikely to lock onto a friendly players that passes to close as well. Keep in mind the R-27ET has the same flight performance of the R-27ER, its range is limited by the seeker. This play style is generally for when you are bored of firing easy missiles and want a bit of a switch, requiring a more interesting approach. This is not efficient or recommended if you want to spade the plane, or want to get as much RP as possible.

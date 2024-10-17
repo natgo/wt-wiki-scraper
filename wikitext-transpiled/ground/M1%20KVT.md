@@ -17,7 +17,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American medium t
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour of the M1 KVT is quite similar to the M1 Abrams with a few differences. The side skirts were removed, and a frontal rubber-fabric screen was equipped which gave its lower glacis more effective armour of chemical protection. The turret and the frontal hull were installed with several fake ERA blocks which weren't modelled and thus contributed zero additional protection. The M1 KVT has decent frontal armour overall which gives it a great advantage in battles. The left turret cheek offers better protection compared to the right one, yet they both worked well at blocking most projectiles around its BR. The lower glacis offers a similar level of protection to the turret cheeks. On the other hand, the upper glacis is extremely angled which may bounce most shells. Those bounced shells are likely to be absorbed by the composite armour modules of the turret cheeks at last. However, the lower part of the main gun mantlet along with the turret ring is very fragile: most large-calibre shells can easily penetrate it. Most reserve ammo is stored at the rear of the turret and such penetration is very likely to detonate them. Due to the thin roof armour, the gunner optics shield is actually another weak spot that has a risk of overpressuring your entire crew by catching large-calibre HE shells such as 3OF26, 9M119, and DTB-125.
+The armour of the M1 KVT is quite similar to the M1 Abrams with a few differences. The side skirts were removed, and a frontal rubber-fabric screen was equipped which gave its lower glacis more effective armour of chemical protection. The turret and the frontal hull were installed with several fake ERA blocks which weren't modelled and thus contributed zero additional protection. You can turn this into a regular Abrams by removing the "Vismod" in the modifications menu. The M1 KVT has decent frontal armour overall which gives it a great advantage in battles. The left turret cheek offers better protection compared to the right one, yet they both worked well at blocking most projectiles around its BR. The lower glacis offers a similar level of protection to the turret cheeks. On the other hand, the upper glacis is extremely angled which may bounce most shells. Those bounced shells are likely to be absorbed by the composite armour modules of the turret cheeks at last. However, the lower part of the main gun mantlet along with the turret ring is very fragile: most large-calibre shells can easily penetrate it. Most reserve ammo is stored at the rear of the turret and such penetration is very likely to detonate them. Due to the thin roof armour, the gunner optics shield is actually another weak spot that has a risk of overpressuring your entire crew by catching large-calibre HE shells such as 3OF26, 9M119, and DTB-125.
 
 '''Armour type:'''
 
@@ -164,12 +164,14 @@ The frontal armour of M1 KVT is well-balanced and most APFSDSs with less penetra
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * ~400 mm of frontal kinetic protection overall and blowout panels at the rear of the turret protecting preloaded and primary ammo racks
 * Wonderful acceleration, top speed, reverse speed, and off-road mobility
 * Very accurate gun, gunner thermal sight, competent two-plane stabilizer, and brilliant depression and elevation
 * Relatively fast reloading speed, 5-second reload with full-upgraded aced crew
 
 '''Cons:'''
+
 * The firepower of the main gun is insufficient around its BR
 * Downhill terrain significantly decreases the effectiveness of its frontal armour
 * Elevated engine decks limit turret rear angle depression
@@ -185,6 +187,7 @@ The frontal armour of M1 KVT is well-balanced and most APFSDSs with less penetra
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=us_m1_abrams_kvt Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

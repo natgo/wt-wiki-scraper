@@ -22,7 +22,15 @@ Be aware of high-explosive rounds and ATGMs though. If these land on your comman
 
 The frontal hull can be penetrated by all APFSDS rounds and ATGM warheads at its BR: if possible, hiding it by hulldowning properly is recommended. 
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+'''Armour type:'''
+
+* Rolled homogenous armour (hull roof, underbody, turret roof, turret rear, commander copola, driver hatch, gunner and commander optics, turret basket, turret underside, radiator covering mesh)
+* High hardness rolled armour (hull front, turret front, turret side, side skirts)
+* Cast homogenous armour (inner mantlet shroud)
+* Structural steel (mudguards, mesh turret basket) 
+* External composite armor with NERA elements (gun mantlet, mantlet shroud)
+* Composite screens (forward part of hull sides, forward part of turret sides, turret front, add-on armor on hull sides and turret) 
+* Tracks (upper glacis) <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -30,18 +38,59 @@ The frontal hull can be penetrated by all APFSDS rounds and ATGM warheads at its
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 35 mm (53-82°) ''Upper glacis'' 
+40 mm (50-51°) ''Lower glacis''
+| 10 mm (5°) ''Upper hull'' 
+35 mm (0°) ''Lower forward hull'' 
+
+20 mm (0°) ''Lower rear hull''
+
+110** mm (0°) ''Lower forward hull add-on''
+
+50** mm (0°) Upper forward hull add-on
+
+12mm (0°) Side skirts
+| 20 mm (12-50°) ''All rear'' || 20 mm (0-8°) ''Hull roof incl. engine deck''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 80** mm (57-59°) ''Right cheek add-on'' 
+80** mm (55-58°) ''Left cheek add-on'' 
+
+80** mm (63°) ''Upper mantlet add-on'' 
+
+250 mm (0°) Inner ma''ntlet shroud'' 
+
+400** mm (1°) ''Mantlet armour external composite''
+
+650** mm (9°) ''Mantlet shroud external composite''
+
+35 mm (0°)  ''Cheeks''
+| 80** mm (20-22°) ''Right add-on'' 
+80** mm (22°) ''Left add-on''
+
+35 mm (0°) ''Forward''
+
+15 mm (0°) ''Rear''
+| 25 mm (0°) ''Rear'' 
+20 mm (10°) ''Basket'' 
+
+20 mm (70°) ''Turret underside''
+
+5mm (8°) ''External mesh basket''
+| 35 - 40 mm (80-89°) ''Forehead Armour''
+14 mm (68-82°) ''Forward sides'' 
+
+20 mm (89°) ''Rear turret''
+
+20 mm (83°) ''Basket''
 |-
 |}
-'''Notes:'''
+<nowiki>**</nowiki> Composite screens
+
+= '''Notes:''' =
 
 * Upper hull and Lower rear hull overlap (10 + 20 mm thick).
 * Upper mantlet add-on and mantlet armour overlap (30 + 400 mm thick).
-* Holes in the engine deck are covered by 8 mm of mesh.
+* Holes in the engine deck are covered by 10 mm of mesh.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -58,7 +107,6 @@ The frontal hull can be penetrated by all APFSDS rounds and ATGM warheads at its
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|Rh120 L/55 (120 mm)}}
-
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! colspan="5" | [[Rh120 L/55 (120 mm)|120 mm Rh120 L/55]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
@@ -165,6 +213,7 @@ Use 3rd person view in close quarters, always. This gives you a much better situ
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sw_leopard_2a6nl Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

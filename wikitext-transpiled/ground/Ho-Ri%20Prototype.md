@@ -157,8 +157,17 @@ The construction of the prototype was completed in 1944 and achieved a top speed
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+;Related development
+* [[Chi-Ri II]]
+** [[Ho-Ri Production]]
 
-* [[Ferdinand]]
+;Other vehicles of similar configuration and role
+* [[File:Germany flag.png|30px|link=]] [[Ferdinand]] / [[Elefant]]
+* [[File:Germany flag.png|30px|link=]] [[Jagdpanther]]
+* [[File:USSR flag.png|30px|link=]] [[ISU-122S]]
+* [[File:USA flag.png|30px|link=]] [[T28]] / [[T95]]
+* [[File:Britain flag.png|30px|link=]] [[Tortoise]]
+* [[File:France flag.png|30px|link=]] [[CA Lorraine]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

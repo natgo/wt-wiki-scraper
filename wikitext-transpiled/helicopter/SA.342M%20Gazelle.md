@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-A member of the [[Gazelle (Family)|Gazelle helicopter family]], the '''{{Specs|name}}''' is a French Army anti-tank helicopter equipped with a Turbomeca Artouste Astazou XIV engine and a Fenestron tail rotor. It is equipped with up to four HOT missiles and a SFIM APX M379 stabilised sight, making it the primary anti-tank gunship of the Gazelle family. The SA.342M can also switch to an anti-air role by mounting Mistral missiles, becoming the Gazelle Mistral variant.
+The '''SA.342M Gazelle''' was a modification of the [[SA.341F Gazelle|SA.341]] designed specifically for the French Army. Entering service in 1984, key improvements included a more powerful engine, improved optics and avionics, and the addition of extra pylons for ordnance, which doubled the aircraft's payload capacity. These helicopters were used by France in the Gulf War as well as a number of other conflicts. SA.342Ms are still in service with France, but are gradually being phased out.
 
-It was introduced in [[Update 1.87 "Locked On"]]. The Gazelle is a versatile helicopter that can perform different roles depending on the loadout. It can destroy tanks with ATGMs or rockets, or shoot down aircraft or helicopters with AAMs and cannon. It relies on stealth and cover to avoid detection and enemy fire, as it has no radar warning receiver and limited armour.
+Introduced in [[Update 1.87 "Locked On"]], the SA.342M differs from the preceding [[SA.341F Gazelle|SA.341F]] primarily by the absence of a 20 mm autocannon, but gained the ability to use two ordnance pylons instead of one. The SA.342M also received a thermal imager for improved target detection. Otherwise, it remains the same fast and agile Gazelle, capable of delivering swift attacks, though lacking in survivability.
 
 == General info ==
 === Flight performance ===

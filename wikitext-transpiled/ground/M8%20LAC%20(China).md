@@ -9,12 +9,12 @@
 }}
 {{Specs-Card
 |code=cn_m8_greyhound
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''M8 Greyhound Light Armoured Car (M8 LAC)''' was an armoured car developed by Ford Motor Company during World War II and primarily used by U.S. and British forces in Europe and the Pacific from 1943 until the end of the war. Many of the vehicles were provided to other countries for limited service, notably through the lend-lease program established by the U.S. during World War II. A few of these vehicles, likely used by US Army/USMC were captured in Mainland China in 1949 which one of them is still on display in the Chinese military museum; while additional vehicles were supplied to ROCA after their retreat and were not used during combat, as well as served as police riot-suppression vehicle. 
+The '''M8 Greyhound Light Armoured Car (M8 LAC)''' was an armoured car developed by Ford Motor Company during World War II and primarily used by U.S. and British forces in Europe and the Pacific from 1943 until the end of the war. Many of the vehicles were provided to other countries for limited service, notably through the Lend-Lease Act established by the U.S. during World War II. A few of these vehicles, likely used by US Army/USMC, were captured in Mainland China in 1949. One of them is still on display in a Chinese military museum; while additional vehicles were supplied to ROCA after their retreat and were not used during combat, but served as riot-suppression vehicles. 
 
 Introduced in [[Update 1.91 "Night Vision"]], the Chinese M8 LAC is identical to the [[M8 LAC]] used by the U.S. Army ground forces. The 37 mm anti-tank gun is essentially found in almost every light tank in the early ranks; therefore, it should be more than familiar to players of the U.S. ground forces in terms of playstyle. It has an M2HB Browning heavy machine gun mounted on the back of the turret, which can be highly valuable when fighting other light tanks and early aircraft. However, given that it is an open-top vehicle, it is vulnerable to aircraft strafing; therefore, it is critical to pay attention when aircraft fly overhead during engagements.
 
@@ -23,14 +23,14 @@ Introduced in [[Update 1.91 "Night Vision"]], the Chinese M8 LAC is identical to
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-This vehicle's intended design leaves us with only 12.7 mm of armour at a 59° angle slope at the front hull, Side hull is only protected with 9.5 mm. And the strongest part being the gun mantlet with 25 mm added to 19.1 mm of turret armour. As a result this vehicle is only protected against rifle-calibre MG fire, with the sides easily penetrated by heavy MG fire. Although this may prove an advantage when fighting against shells with delayed fuse. The crew is very tight, so one AP shell at the center could knock out everyone inside, but notice that there is a huge gap between the driving compartment and the fighting compartment, meaning it will absorb plenty of shells and saving the player from being destroyed quickly. There are some rounds stored at the turret, and at the vehicle's floor, bringing less rounds eliminates the rounds stored in the turret. Also keep in mind that it is an open top vehicle, making it vulnerable to artillery and aerial attacks.
+This vehicle's armor includes 12.7 mm at a 59° degree slope for the front hull, the side hull is only protected with 9.5 mm, with the strongest part being the gun mantlet, with a 25 mm gun mantlet added to 19.1 mm of turret armour. As a result this vehicle is only protected against rifle-calibre MG fire, with the sides easily penetrated by heavy MG fire. However, the thin armor may provide an advantage when fighting against shells with delayed fuse. The crew is very tight, so one AP shell in the center could knock out everyone inside, but notice that there is huge gap between the driving compartment and the fighting compartment, meaning the M8 LAC can absorb plenty of shells and prevent the player from being destroyed quickly. There are some rounds stored in the turret, and on the vehicle's floor, and bringing less rounds eliminates the rounds stored in the turret. Also keep in mind that it is an open top vehicle, making it vulnerable to artillery and aerial attacks.
 
 '''Armour type:'''
 
-* Rolled homogeneous armour (hull)
-* Cast homogeneous armour (turret, gun mantlet)
-* Structural steel (mudguard, storage boxes, gun breech)
-* Wheels (tires)
+* Rolled homogeneous armour (Hull)
+* Cast homogeneous armour (Turret, gun mantlet)
+* Structural steel (Mudguard, storage boxes, gun breech)
+* Wheels (Tires)
 
 {| class="wikitable"
 |-
@@ -55,9 +55,9 @@ This vehicle's intended design leaves us with only 12.7 mm of armour at a 59° a
 
 {{tankMobility|abMinHp= 129|rbMinHp= 97}}
 
-While it has poor armour and survivability, the {{PAGENAME}} excels in terms of mobility. As a wheeled vehicle it reaches 60 km/h on road in arcade with stock modules and 40 km/h off road.
+While it has poor armour and survivability, the {{PAGENAME}} excels in terms of mobility. As a wheeled vehicle, it reaches 60 km/h on-road in Arcade Mode with stock modules and 40 km/h off-road.
 
-On realistic it reaches 38 km/h off road, and 55 km/h on road with 7 gears, it also has -12 km/h reverse speed on two reverse gears.
+In Realistic Mode, it reaches 38 km/h off-road, and 55 km/h on-road with 7 gears, it also has a maximum of -12 km/h reverse speed with two reverse gears.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -170,6 +170,7 @@ The driver is at the foremost part of the hull. Behind him, there is absolutely 
 * M6 cannon requires precision shots, as post-penetration effects are weak especially against the [[LVT(A)(1)|LVT(A)]] series which are super spacious
 * Turret traverse is rather sluggish, might not get the gun on target sometimes
 * Looks very similar to the American [[M8 Greyhound]], the lighter coloured camouflage can be hard to distinguish in [[Simulator Battles]]
+* The open-topped design makes it vulnerable to overpressure from explosive shells
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

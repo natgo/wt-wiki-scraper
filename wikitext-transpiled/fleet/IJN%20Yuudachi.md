@@ -13,7 +13,7 @@ She was introduced during [[Update 1.89 "Imperial Navy"]] as a reward for the [[
 == General info ==
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+The Yuudachi has no armour beyond her steel hull the 0.125 inch antifragmentation armour of the main calibre turrets which isn't rare for destroyers. She has the lowest crew count among destroyers at its battle ratin, with even a few frigates like the British Whitby class (F-77) or the German Köln F220 having slightly larger crew sizes. Her magazines for the main guns are roughly on par with other countries in size but are slightly higher up and more exposed than other similar ships, with no nearby modules to shield them from potential damage. She does present a slightly lower and longer silhouette than most of her peers which helps with her survivability.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
@@ -36,7 +36,7 @@ She was introduced during [[Update 1.89 "Imperial Navy"]] as a reward for the [[
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|127 mm/50 3rd Year Type (127 mm)}}
 
-The ''Yuudachi''<nowiki />'s main armament is comprised of five 127 mm Type 3 cannons in two dual and one single gun turret. Note that none of the turrets are superfiring, requiring a broadside to bring all guns to bear.
+The Yuudachi's main armament is comprised of five 127 mm Type 3 cannons in two dual and one single gun turret. Note that none of the turrets are superfiring, requiring a broadside to bring all guns to bear.
 
 The Type 3 cannon is the same one found on most of the modern IJN destroyers. Unfortunately, it suffers from multiple drawbacks such as slow reload and traverse speed. This makes the cannon relatively ineffective against aircraft, coupled with the lack of proximity fuse shells (only time-fused shells are available). It also does not have access to any armour-piercing rounds, limiting its effectiveness against heavy warships. The cannons will do just fine against destroyers and small craft, but the poor rate of fire will leave you unable to win against most other destroyers in a straight up gun battle. However, you are still much more well-armed than reserve destroyers, and can destroy most of them in an even fight.
 
@@ -103,10 +103,12 @@ Especially noteworthy is the Yūdachi's final battle in November of 1942, when, 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_destroyer_yuudachi Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

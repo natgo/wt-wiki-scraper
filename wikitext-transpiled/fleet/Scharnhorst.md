@@ -100,6 +100,7 @@ Although the main cannons are only 283 mm, the shells have a relatively high arm
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Incredibly resilient to the armour-piercing shells due to thick layered armour and high crew count
 * High top speed and decent acceleration
 * Great gun handling - relatively high turret rotation and gun elevation speed for the calibre
@@ -109,6 +110,7 @@ Although the main cannons are only 283 mm, the shells have a relatively high arm
 * One scout seaplane
 
 '''Cons:'''
+
 * Prone to destruction from a high calibre high explosive shells
 * Large target: easy for your enemy to strike with gunfire or torpedoes
 * Quite slow to decelerate, can make dodging torpedoes somewhat difficult
@@ -159,10 +161,9 @@ At 09:00 AM, Scharnhorst contacted the British cruisers [[HMS Norfolk|Norfolk]],
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[USS Alaska]]
+* [[Kronshtadt]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

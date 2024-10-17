@@ -5,16 +5,16 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The Toldi IIA is a Hungarian light tank of World War II named after the popular hungarian folklore character Toldi Miklós. developed from the Toldi II in order to up-gun it. 80 Toldi IIs were modified into Toldi IIAs sporting 40 mm 37/42M guns, and these served on the Eastern Front fighting Soviet forces. The original Toldi I was developed from the Landsverk L-60 family, and the Toldi II was an improved variant of the Toldi I, with better armour, which the Toldi IIA retains. This allows the Toldi IIA to stand its ground, but it shares some of the same weaknesses as its Swedish counterpart.
-
 The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Hungarian light tank {{Battle-rating}} in the Italian tech tree. It was introduced during [[Update "Ixwa Strike"]] as a reward for [[Battle Pass: Season III, "Strength athletics"]].
+
+The Toldi IIA is a Hungarian light tank of World War II named after the popular Hungarian folklore character Toldi Miklós. Developed from the Toldi II in order to up-gun it with a more potent 40 mm gun. 80 Toldi IIs were modified into Toldi IIAs sporting 40 mm 37/42M guns, and these served on the Eastern Front fighting Soviet forces. The original Toldi I was based on and developed from the Landsverk L-60, and the Toldi II was an improved variant of the Toldi I, with better armour, which the Toldi IIA retains. This allows the Toldi IIA to stand its ground, but it shares some of the same weaknesses as its Swedish relatives.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 
-The hull of the Toldi IIA is practically identical to that of the [[strv m/40L]]. It is a very resistant hull at this battle rating, able to bounce back several rounds if angled correctly. In terms of survivability, this vehicle does not perform well: ammo racks are positioned on the sides of the hull, which is a benefit against frontal shots but a disadvantage against side shots. The crew compartment is tight, a well-aimed shot in the  center of the vehicle will knock it right out.
+The hull of the Toldi IIA is quite similar to that of the [[strv m/40L]]. It is a very resistant hull at this battle rating, able to bounce several rounds if angled correctly. In terms of survivability, this vehicle does not perform well: ammo racks are positioned on the sides of the hull, which is a benefit against frontal shots but a disadvantage against side shots. The crew compartment is tight; a well-aimed shot to the center of the vehicle will knock it out.
 
 '''Armour type:'''
 
@@ -40,7 +40,7 @@ The hull of the Toldi IIA is practically identical to that of the [[strv m/40L]]
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 
-The Büssing NAG L8V/36TR is an engine capable of delivering 155 horsepower and manages to take the Toldi IIA to a top speed of 47 km/h. Unfortunately, the reverse is not as good, at only -5 km/h. This engine manages to make the Toldi IIa maintain a constant speed of at least 35 km/h on any terrain. The chassis is great for driving on all types of terrain that can be found in the game: sand, snow, mud and dirt.
+The Büssing NAG L8V/36TR is an engine capable of delivering 155 horsepower and manages to take the Toldi IIA to a top speed of 47 km/h. Unfortunately, the reverse is not as good, at only -5 km/h. This engine manages to make the Toldi IIA maintain a constant speed of at least 35 km/h on any terrain. The chassis is great for driving on all types of terrain that can be found in the game: sand, snow, mud and dirt.
 
 {{tankMobility|abMinHp=240|rbMinHp=137}}
 
@@ -70,7 +70,7 @@ The Büssing NAG L8V/36TR is an engine capable of delivering 155 horsepower and 
 |-
 |}
 
-The main armament of the Toldi IIA is a 40 mm 37/42M cannon that can fire 3 different types of projectiles, HE, APHEBC, APBC. It is recommended to use the 43M APBC shell as it is the most powerful: at its battle rating it is an excellent shell.
+The main armament of the Toldi IIA is a 40 mm 37/42M cannon that can fire 3 different types of shells; APHEBC, HE, and APBC. It is recommended to use the 43M APBC shell as it is the most powerful; at its battle rating it is an excellent shell.
 
 ==== Ammunition ====
 {{:37/42M (40 mm)/Ammunition|36M, 39M, 43M}}
@@ -99,7 +99,7 @@ The main armament of the Toldi IIA is a 40 mm 37/42M cannon that can fire 3 diff
 {{Specs-Tank-Weapon|2}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|34/40M (8 mm)}}
-The Toldi IIA has a coaxial 8 mm 34/40M machine gun, excellent for eliminating the crew of open-topped vehicles such as SPAAs and SPGs. However, it should not be used against more armoured tanks as it won't penetrate them.
+The Toldi IIA has a coaxial 8 mm 34/40M machine gun, excellent for eliminating the crew of light trucks and open vehicles such as SPAAs and SPGs. However, it should not be used against more armoured tanks as it won't be able to penetrate them.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -113,7 +113,7 @@ The Toldi IIA has a coaxial 8 mm 34/40M machine gun, excellent for eliminating t
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-The Toldi IIA is a very versatile light tank good for any situation on the battlefield. With its good speed, it can change positions effectively and quickly and with its decent mobility, it can afford to go and capture points first. With the limited protection of Toldi IIA, it is recommended to adopt a playstyle more focused on spotting enemies and supporting fire for allies. But for more dynamic players, it can be used as a frontline vehicle to capture the points in the first line and help the advance of allies.
+The Toldi IIA is a very versatile light tank good for any situation on the battlefield. With its good speed, it can change positions effectively and quickly and with its decent mobility, it can afford to go and capture points first. With the limited protection of the Toldi IIA, it is recommended to adopt a playstyle more focused on spotting enemies and supporting fire for allies. But for more dynamic players, it can be used as a frontline vehicle to capture the points in the first line and help the advance of allies.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -136,7 +136,7 @@ The Toldi IIA is a very versatile light tank good for any situation on the battl
 === Devblog ===
 [[File:Toldi IIa (3).png|thumb|Toldi IIA, lateral photo]]
 [[File:Toldi IIa (2).png|thumb|Toldi IIA, frontal photo]]
-After defeat in World War I, Hungary, like Germany, was prohibited from having its own army and armoured vehicles. However, like Germany, this ban didn't hold Hungary back for long. After purchasing small batches of Italian and German tanks, the Hungarian government announced its intention to select a foreign tank design to be deployed at domestic facilities. As a result of tests, preference was given to the Swedish light tank Landsverk L-60, which later entered service with Sweden under the designation Strv m/38. The tank was adapted to the types of guns and sights available to Hungary, the turret was slightly modified and launched into series under the name 38.M Toldi. The first series of Hungarian light tanks, built before April 1940, actively participated in combat - including heavy battles on the Eastern Front, where it showed itself completely indefensible against Soviet medium and heavy armoured vehicles. After two modernizations, the protection on the gun mantlet and the frontal projection of the hull was strengthened, and the 40 mm cannon became the main weapon. Now the tank was completely produced from Hungarian components, but with the increased protection and increased calibre, the weight of the vehicle also increased, which subsequently affected its movement performance. Despite all efforts, the upgraded 38.M Toldi II and IIA tanks could no longer compete with the Soviet tanks of the second half of the war. Almost all tanks in the series were lost in battles or by technical failures, the last Toldis were destroyed in the battles for Budapest. The only surviving Toldi IIA tank is currently on display in the Patriot park near Kubinka, Moscow region.
+After defeat in World War I, Hungary, like Germany, was prohibited from having its own army and armoured vehicles. However, like Germany, this ban didn't hold Hungary back for long. After purchasing small batches of Italian and German tanks, the Hungarian government announced its intention to select a foreign tank design to be deployed at domestic facilities. As a result of tests, preference was given to the Swedish light tank Landsverk L-60, which later entered service with Sweden under the designation Strv m/38. The tank was adapted to the types of guns and sights available to Hungary, the turret was slightly modified and launched into series under the name 38.M Toldi. The first series of Hungarian light tanks, built before April 1940, actively participated in combat - including heavy battles on the Eastern Front, where it showed itself completely indefensible against Soviet medium and heavily armoured vehicles. After two modernizations, the protection on the gun mantlet and the frontal projection of the hull was strengthened, and the 40 mm cannon became the main weapon. Now the tank was completely produced from Hungarian components, but with the increased protection and increased calibre, the weight of the vehicle also increased, which subsequently affected its movement performance. Despite all efforts, the upgraded Toldi II and IIA tanks could no longer compete with the Soviet tanks of the second half of the war. Almost all tanks in the series were lost in battles or by technical failures, the last Toldis were destroyed in the battles for Budapest. The only surviving Toldi IIA tank is currently on display in the Patriot park near Kubinka, Moscow region.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

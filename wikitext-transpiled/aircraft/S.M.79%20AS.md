@@ -233,15 +233,10 @@ The version was modified to mount a torpedo, but was little changed from earlier
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''-->
 
+;Related development
 
-
-;Other S.M.79 vehicles:
-
-* [[S.M.79_AS_(Germany)|▀S.M.79 AS]] - Version of the plane in the German tech tree
-* [[S.M.79 serie 1]]
-* [[S.M.79 serie 8]]
-* [[S.M.79 bis/T.M]]
-* [[S.M.79 B]]
+* [[S.M.79 (Family)]]
+** [[S.M.79 AS (Germany)]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

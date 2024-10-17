@@ -14,34 +14,34 @@ The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} American medium tank {{Ba
 ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
 
 '''Armour type:'''
-
-* '''Rolled homogeneous armour (Front, Side, Rear, Hull roof)'''
-* '''Cast homogeneous armour (Turret, Transmission area)'''<!-- The types of armour present on the vehicle and their general locations -->
+<!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+
+* Rolled homogeneous armour (Front, Side, Rear, Hull roof)
+* Cast homogeneous armour (Turret, Transmission area)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 50.8 mm (56°) ''Front glacis'' <br> 50.8 mm (12-56°) ''Transmission area'' <br> 50.8 (13-20°) + 25.4 mm (35°) ''Protruding hatches'' || 38.1 mm <br> 38.1 + 25.4 mm ''Appliqué addition'' || 38.1 mm (0-10°) ''Top'' <br> 25.4 mm (33-64°) ''Bottom'' || 19.5 mm ''Sides'' <br> 12.7 mm ''Engine deck and center''
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 76.2-88.9 mm (4-67°) ''Turret front'' <br> 50.8 + 88.9 mm ''Gun mantlet'' || 50.8 mm (0-68°) || 50.8 mm (2-66°) || 25.4 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 50.8 mm || 50.8 mm || 50.8 mm || 25.4 mm
 |-
 |}
 
 '''Notes:'''
 
-* '''Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.'''
-* '''Front armour has two protruding areas for driver and co-driver hatches. These are weak points as they present a flat armour surface.'''
-* '''Belly armour is 12.7 mm thick.'''
+* Suspension wheels are 15 mm thick, bogies are 10 mm thick, and tracks are 20 mm thick.
+* Front armour has two protruding areas for driver and co-driver hatches. These are weak points as they present a flat armour surface.
+* Belly armour is 12.7 mm thick.
 
-'''Though most high-end anti-tank weapons can cleave through the M4 Sherman's front armour rather easily, some smaller-calibre weapons less than 75 mm would have some trouble going against the front armour. In these cases, aim for weak points like the protruding hatches in the front sloping armour, the crest of the transmission housing, where the slope is minimum in both areas or the machine gun port from the hull. The turret has a very robust construction so if there is no faith in penetrating through the front hull easily, don't bother trying to penetrate the turret from the front except for the very small weak point on the gunner's position of the turret.'''
+Though most high-end anti-tank weapons can cleave through the M4 Sherman's front armour rather easily, some smaller-calibre weapons less than 75 mm would have some trouble going against the front armour. In these cases, aim for weak points like the protruding hatches in the front sloping armour, the crest of the transmission housing, where the slope is minimum in both areas or the machine gun port from the hull. The turret has a very robust construction so if there is no faith in penetrating through the front hull easily, don't bother trying to penetrate the turret from the front except for the very small weak point on the gunner's position of the turret.
 
-'''If a shot can be made to the M4 Sherman's sides, send it towards the front half of the tank where it would either cripple the crew or ignite one of the ammunition racks strewn all over the internals.'''<!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+If a shot can be made to the M4 Sherman's sides, send it towards the front half of the tank where it would either cripple the crew or ignite one of the ammunition racks strewn all over the internals.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -170,10 +170,9 @@ There will be concerns about certain vehicles:
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+;Related development
+* [[M4 Sherman (Family)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

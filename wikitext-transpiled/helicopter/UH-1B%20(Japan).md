@@ -116,7 +116,10 @@ The JGSDF quickly realized the potential of combat manoeuvres between helicopter
 * ''reference to the series of the helicopter;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
 * [[UH-1 (Family)]]
+;Rotorcraft of comparable role, configuration and era
+* [[File:Italy flag.png|30px|link=]] [[AB 205 A-1]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

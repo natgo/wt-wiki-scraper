@@ -97,9 +97,9 @@
               </td>
             </tr>
             <tr>
-              <td>11.0</td>
-              <td>11.3</td>
-              <td>11.3</td>
+              <td>11.7</td>
+              <td>12.0</td>
+              <td>12.0</td>
             </tr>
           </table>
         </div>
@@ -653,11 +653,12 @@
     airframe, along with your airspeed.
   </p>
   <p>
-    With only 60 countermeasures available to use that are deployed in pairs of two, effectively
-    halving your actual number of deployments to just 30, the F-4S is rather limited in its defense
-    against missiles compared to many of its opponents and even other Phantom variants, and bringing
-    chaff with the mixed setup halves your actual deployment number again to just a measly 15,
-    meaning you'll have to be very aware of your countermeasure usage.
+    It is important to note that your countermeasures fire in pairs of two; with the introduction of
+    separate flare/chaff firing, it is now possible to optimize your countermeasure drops in order
+    to defend against both SARH and IR air-to-air missiles. 60 countermeasures at this BR is roughly
+    the norm, but as you may face ARH missiles in the form of AIM-120As on the
+    <a href="/AV-8B_Plus" title="AV-8B Plus">AV-8B+</a> it is best to keep the idea of chaffing
+    separately in the back of your head at all times.
   </p>
   <h3>
     <span class="mw-headline" id="Modifications_and_economy">Modifications and economy</span
@@ -1345,14 +1346,13 @@
       <th>CCIP (Rockets)</th>
       <th>CCIP (Bombs)</th>
       <th>CCRP (Bombs)</th>
-      <th>Lead indicator</th>
+      <th>EEGS</th>
     </tr>
     <tr>
       <td>
         <img
-          alt="alt={{{alt}}} "
+          alt="Icon GreenCheckmark.png"
           src="/images/thumb/9/96/Icon_GreenCheckmark.png/20px-Icon_GreenCheckmark.png"
-          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/9/96/Icon_GreenCheckmark.png 1.5x"
@@ -1362,9 +1362,8 @@
       </td>
       <td>
         <img
-          alt="alt={{{alt}}} "
+          alt="Icon GreenCheckmark.png"
           src="/images/thumb/9/96/Icon_GreenCheckmark.png/20px-Icon_GreenCheckmark.png"
-          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/9/96/Icon_GreenCheckmark.png 1.5x"
@@ -1374,9 +1373,8 @@
       </td>
       <td>
         <img
-          alt="alt={{{alt}}} "
+          alt="Icon GreenCheckmark.png"
           src="/images/thumb/9/96/Icon_GreenCheckmark.png/20px-Icon_GreenCheckmark.png"
-          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/9/96/Icon_GreenCheckmark.png 1.5x"
@@ -1386,9 +1384,8 @@
       </td>
       <td>
         <img
-          alt="alt={{{alt}}} "
+          alt="Icon GreenCheckmark.png"
           src="/images/thumb/9/96/Icon_GreenCheckmark.png/20px-Icon_GreenCheckmark.png"
-          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/9/96/Icon_GreenCheckmark.png 1.5x"
@@ -1398,9 +1395,8 @@
       </td>
       <td>
         <img
-          alt="alt={{{alt}}} "
+          alt="Icon GreenCheckmark.png"
           src="/images/thumb/9/96/Icon_GreenCheckmark.png/20px-Icon_GreenCheckmark.png"
-          title="alt={{{alt}}} "
           width="20"
           height="20"
           srcset="/images/9/96/Icon_GreenCheckmark.png 1.5x"
@@ -1431,13 +1427,7 @@
     The <i><b>F-4S Phantom II</b></i> is armed with:
   </p>
   <ul>
-    <li>
-      A choice between two presets:
-      <ul>
-        <li>Without offensive armament</li>
-        <li>60 x countermeasures</li>
-      </ul>
-    </li>
+    <li>60 x countermeasures</li>
   </ul>
   <h3>
     <span class="mw-headline" id="Suspended_armament">Suspended armament</span
@@ -1657,7 +1647,7 @@
     <tr>
       <th><a href="/AIM-7F_Sparrow" title="AIM-7F Sparrow">AIM-7F Sparrow</a> missiles</th>
       <td></td>
-      <td>1</td>
+      <td>1*</td>
       <td></td>
       <td>1</td>
       <td>1</td>
@@ -1665,20 +1655,20 @@
       <td>1</td>
       <td>1</td>
       <td></td>
-      <td>1</td>
+      <td>1*</td>
       <td></td>
     </tr>
     <tr>
       <th><a href="/AIM-9H_Sidewinder" title="AIM-9H Sidewinder">AIM-9H Sidewinder</a> missiles</th>
       <td></td>
       <td></td>
-      <td>2</td>
+      <td>2*</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td>2</td>
+      <td>2*</td>
       <td></td>
       <td></td>
     </tr>
@@ -1706,10 +1696,6 @@
       <td colspan="13">
         * Sparrows on hardpoints 2/10 cannot be carried in conjunction with Sidewinders on
         hardpoints 3/9 respectively
-        <p>
-          *20 mm Mk 11 Mod 5 gun pod and 600 gal drop tank cannot be carried at the same time due to
-          sharing hardpoint 1
-        </p>
       </td>
     </tr>
   </table>
@@ -1814,37 +1800,55 @@
   <p>
     <br />
     The most powerful aspect of the F-4S is its weaponry. For IR-guided missiles, it carries
-    AIM-9Hs. Even though they have mediocre turn performance (max overload 18G), their respectable
-    range and long guidance time makes them ideal for picking off inattentive players or AI planes.
-    The crown jewel of the F-4S' arsenal however is the AIM-7F. With effective usage of the Pulse
-    Doppler and ACM modes, the F-4S can confidently go into battle with an all-Sparrow loadout and
-    not feel limited at closer engagement ranges. The AIM-7F is able to reliably hit targets from a
-    minimum of 3 km in head ons, all the way out to a maximum of 25-30 km in good conditions with
-    Pulse Doppler active (any further than that will require some luck.) Head on snapshots from less
-    than 3 km can be done, but you'll be pushing the limits of both your radar's lock speed and the
-    Sparrow's 25G pull limit.
+    AIM-9Hs, which are functionally very similar to their predecessor, the AIM-9Gs. Even though they
+    have a fairly average turn performance with a max overload of 18G, their respectable range and
+    long guidance time make them ideal for picking off inattentive players or AI planes. The crown
+    jewel of the F-4S' arsenal however is the AIM-7F Sparrow, a Semi-Active Radar Homing missile.
+    With enough range to reliably hit 15km+ shots from front-aspect, it offers a much needed range
+    boost from the lacking-in-range AIM-7E-2s and starts pulling in much faster than AIM-7Es, making
+    them an excellent all-rounder missile. Head-on snapshots from less than 3 km can be done, but
+    you'll be pushing the limits of both your radar's lock speed and the Sparrow's 25G pull limit,
+    so it may be beneficial to roll your aircraft to lessen the G load the missile will have to pull
+    in some circumstances.
   </p>
   <p>
-    Your biggest threats will be the F-14A / B, the MiG-29 9.13, and the Yak-141. All three gravely
-    outclass you in BVR combat; the F-14s due to their massive, highly advanced radar and long-range
-    Phoenix missiles, while the MiG-29 and Yak-141 carry the R-27ER, arguably the best SARH missile
-    currently in War Thunder. The F-14s and MiG-29 9.13 also have you massively beat in a dogfight;
-    both are able to comfortably sit inside your turning circle and either shoot at you with their
-    guns or fire off a missile, so catching these opponents off guard or while they're distracted
-    will aid in you and your team's survival. The Yak-141 however, while boasting phenomenal
-    acceleration, has much more exploitable performance flaws; it can barely break the sound barrier
-    due to high airframe drag, and bleeds energy severely in turns. You will have no issue beating
-    the 141 in a 1v1 dogfight thanks to your upgraded manoeuvrability, just as long as you remember
-    that the 141 is a VTOL aircraft, and may get creative with their manoeuvres out of desperation.
+    There are two types of vehicles you have to be wary of in the F-4S as of current: 4th generation
+    fighters that completely outclass you, and Harriers. First off, 4th generation fighters such as
+    the <a href="/F-14_(Family)" title="F-14 (Family)"> F-14</a>,
+    <a href="/F-15A" title="F-15A">F-15A</a>, <a href="/F-16A" title="F-16A">F-16A</a> and
+    <a href="/MiG-29" title="MiG-29">MiG-29</a> all have you completely beat in terms of flight
+    performance. While you may attempt to fight them in a 1v1, unless the enemy pilot makes a severe
+    lapse in judgement it will be all but certain you will be the one ejecting out of your plane. On
+    the topic of missile armament, while the F-15A still comes equipped with AIM-7Ms (which are
+    functionally identical to your AIM-7Fs) and the F-16A lacks SARH/ARH missiles, the F-14 comes
+    equipped with the AIM-54 Phoenix Active Radar Homing (ARH) missile which has an effective launch
+    range at least twice that of your 7Ms and the MiG-29 has 2 R-27ER/ET SARH missiles which have
+    better range, a stronger motor and significantly faster speeds than your AIM-7M can hope to
+    achieve, meaning even if you launch first you may not be guaranteed a win. The latter two
+    aircraft also come equipped with a Track-While-Scan (TWS) mode capable radar, which can easily
+    give your position away even from extreme ranges while your radar needs a hard lock to make sure
+    if a target is, in fact, an enemy flying towards you at maximum speed.
   </p>
   <p>
-    The MiG-29SMT, while featuring more advanced avionics and the deadly R-73 infared missile at
-    close range, along with the R-27ER for mid and long range, has far worse manoeuvreability than
-    the 9.13 and is moderately heavier, making it much less dominant in a dogfight and unable to
-    extend out of an engagement as easily. Avoiding detection from this aircraft as you approach the
-    frontline is evermore paramount as you're now at an extremely large BVR disadvantage, but you'll
-    find that it's relatively much easier to lead your shots on the SMT than many of the other 4th
-    gen fighters if you manage to close the distance.
+    The second problem you may face is, as said prior, Harriers. This may sound odd, as Harriers are
+    a much lower Battle Rating than the F-4S, and even in a 1v1 situation aren't excellent
+    dogfighters unless they take full advantage of their VTOL capabilities, but it is also of the
+    most vital importance to remember the <a href="/AV-8B_Plus" title="AV-8B Plus"> AV-8B+</a> for
+    the simple fact that it has AIM-120As. ARH missiles are much less reliant on holding a lock on
+    the target than SARH missiles due to the seeker built into the missile itself, so all the AV-8B+
+    has to do is obtain a lock within visual range (&lt;10km or so) and fire a missile at you, as
+    the missile's own seeker will almost instantly turn itself on and lock your aircraft. To dodge
+    these ARH missiles, you should first lower your altitude (if possible) to be as close to ground
+    level as possible, as multipathing means that the missiles will not be able to track you
+    properly if you are hugging the ground. However, this may not always be possible, or the terrain
+    may have too many trees to realistically dive down and hold that altitude - so in that case,
+    what should you do? The ideal way to dodge an ARH missile is not to try and notch the missile
+    (keeping the missile lock 90 degrees to your aircraft), as the missile seeker is not as easily
+    spoofed as a SARH missile. Instead, you should strive to 'go cold', i.e. turn a full 180 degrees
+    around from the missile to make it harder for the missile to track you - in general, it is
+    recommended to try both and see what works best for you depending on the situation you're in.
+    What matters is the ability to be aware of the possibilty of facing ARH in a full uptier, so you
+    can control your encounters as much as possible.
   </p>
   <p>
     Base bombing is, as expected for the Phantoms, and no exception to the F-4S, a completely viable
@@ -1855,15 +1859,6 @@
     the plague, as getting too close may spell an untimely return to the hangar, and the lack of
     guided munitions means you have to get close to or within their firing range to deal with them,
     either with bombs or rockets.
-  </p>
-  <p>
-    There are 2 types of missiles you will encounter in a Phantom. A radar-based missile, and a heat
-    seeking missile. First, Radar based missiles. A good way to trick radar missiles is by using
-    terrain. Long range missiles tend to lock onto the ground/trees when their target is flying just
-    above the deck. Use this to your advantage, and fly at a safe 200-600m to confuse radar
-    missiles. This strategy will <i><b>NOT</b></i> work on heat-guided missiles. Use flare and cut
-    your afterburners before the missile gets within 1km of you. Also, avoid overusing flares, as
-    you only have 60 (30 if you bring mixed with chaffs) countermeasures to work with.
   </p>
   <h3>
     <span class="mw-headline" id="Pros_and_cons">Pros and cons</span
@@ -1884,10 +1879,10 @@
   </h3>
   <p><b>Pros:</b></p>
   <ul>
-    <li>Powerful pulse-Doppler radar</li>
+    <li>Powerful Pulse-Doppler radar</li>
     <li>HMD allows significant off-boresight tracking for both the AIM-7F and AIM-9H</li>
-    <li>Can carry up to 8 air-to-air missiles</li>
-    <li>One of the best SARH missiles at 11.3</li>
+    <li>Can carry up to 10 air-to-air missiles</li>
+    <li>Very potent SARH missiles for its BR</li>
     <li>Can take off and land on aircraft carrier</li>
     <li>A wide range of suspended armaments, suitable for any playstyle</li>
     <li>
@@ -1896,19 +1891,16 @@
     </li>
     <li>
       Slats provide valuable ability to control AoA and energy retention, increasing adaptability in
-      aerial combat.
+      aerial combat
     </li>
   </ul>
   <p><b>Cons:</b></p>
   <ul>
     <li>Doesn't have an internal gun</li>
-    <li>The external gun pod negatively affects flight performance</li>
+    <li>The external gun pod adversely affects flight performance</li>
+    <li>The 20 mm Mk 11 mod 5 cannon is less efficient than other cannons at this BR</li>
     <li>Can't carry a gun pod and drop tank at the same time as they share the same hardpoint</li>
     <li>Quite large and heavy compared to other fighters at its rank</li>
-    <li>
-      Fires will very rapidly destroy the airframe, and effectiveness of the extinguishers is
-      questionable
-    </li>
     <li>Lack of guided munitions limits its potential in Ground Battles</li>
     <li>60 countermeasures is mediocre in uptiers, which this aircraft sees extremely often</li>
   </ul>
@@ -2140,7 +2132,41 @@
           padding-right: 7px;
         "
       >
-        <a href="/F-15A" title="F-15A">F-15A</a>
+        <a href="/F-15A" title="F-15A">F-15A</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a
+          href="/F-15C_MSIP_II"
+          title="F-15C MSIP II"
+          >F-15C MSIP II</a
+        >
+      </td>
+    </tr>
+    <tr>
+      <td width="15%" align="right" style="background: #dbe0e2"><b>Strike Aircraft</b>&#160;</td>
+      <td
+        style="
+          background: #f6f6f6;
+          border-left: 1px solid #b0bec5;
+          padding-left: 7px;
+          padding-right: 7px;
+        "
+      >
+        <a href="/AV-8B_Plus" title="AV-8B Plus">AV-8B Plus</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/AV-8B_(NA)" title="AV-8B (NA)"
+          >AV-8B (NA)</a
+        >
+      </td>
+    </tr>
+    <tr>
+      <td width="15%" align="right" style="background: #dbe0e2"><b>Helicopters</b>&#160;</td>
+      <td
+        style="
+          background: #f6f6f6;
+          border-left: 1px solid #b0bec5;
+          padding-left: 7px;
+          padding-right: 7px;
+        "
+      >
+        <a href="/AH-6M" title="AH-6M">AH-6M</a>
       </td>
     </tr>
     <tr>
@@ -2172,6 +2198,10 @@
           href="/F-4F_(Germany)"
           title="F-4F (Germany)"
           >◄F-4F</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a
+          href="/F-4F_KWS_LV_(Germany)"
+          title="F-4F KWS LV (Germany)"
+          >◄F-4F KWS LV</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a
           href="/Phantom_FG.1"
           title="Phantom FG.1"
@@ -2209,10 +2239,14 @@
           padding-right: 7px;
         "
       >
-        <a href="/Baz" title="Baz">Baz</a><span style="font-weight: bold">&#160;·</span>&#32;<a
-          href="/F-15J"
-          title="F-15J"
-          >F-15J</a
+        <a href="/F-15J" title="F-15J">F-15J</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/F-15J(M)" title="F-15J(M)"
+          >F-15J(M)</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/Baz" title="Baz">Baz</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a
+          href="/Baz_Meshupar"
+          title="Baz Meshupar"
+          >Baz Meshupar</a
         >
       </td>
     </tr>
@@ -2239,10 +2273,7 @@
           padding-right: 7px;
         "
       >
-        <a href="/AH-6M" title="AH-6M">AH-6M</a
-        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/Lahatut" title="Lahatut"
-          >Lahatut</a
-        >
+        <a href="/Lahatut" title="Lahatut">Lahatut</a>
       </td>
     </tr>
     <tr>
@@ -2263,7 +2294,11 @@
           <a href="/Template:AirManufacturer_Douglas" title="Template:AirManufacturer Douglas"
             >Douglas Aircraft Company</a
           >
-          in 1967 to form McDonnell Douglas.</small
+          in 1967 to form McDonnell Douglas Corporation. Later it was merged with
+          <a href="/Template:AirManufacturer_Boeing" title="Template:AirManufacturer Boeing"
+            >The Boeing Company</a
+          >
+          in 1997.</small
         >
       </td>
     </tr>
@@ -2510,7 +2545,12 @@
           padding-right: 7px;
         "
       >
-        <a href="/F-15A" title="F-15A">F-15A</a>
+        <a href="/F-15A" title="F-15A">F-15A</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a
+          href="/F-15C_MSIP_II"
+          title="F-15C MSIP II"
+          >F-15C MSIP II</a
+        >
       </td>
     </tr>
     <tr>
@@ -2668,11 +2708,18 @@
         "
       >
         <a href="/AV-8A" title="AV-8A">AV-8A</a
-        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/AV-8C" title="AV-8C">AV-8C</a>
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/AV-8C" title="AV-8C">AV-8C</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/AV-8B_Plus" title="AV-8B Plus"
+          >AV-8B Plus</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/AV-8B_(NA)" title="AV-8B (NA)"
+          >AV-8B (NA)</a
+        >
       </td>
     </tr>
     <tr>
-      <td width="15%" align="right" style="background: #dbe0e2">A-10&#160;</td>
+      <td width="15%" align="right" style="background: #dbe0e2">
+        <a href="/A-10_(Family)" title="A-10 (Family)">A-10</a>&#160;
+      </td>
       <td
         style="
           background: #f6f6f6;
@@ -2684,7 +2731,7 @@
         <a href="/A-10A" title="A-10A">A-10A</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/A-10A_Late" title="A-10A Late"
           >A-10A Late</a
-        >
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/A-10C" title="A-10C">A-10C</a>
       </td>
     </tr>
     <tr>
@@ -2717,7 +2764,9 @@
       </td>
     </tr>
     <tr>
-      <td width="15%" align="right" style="background: #dbe0e2">F-111&#160;</td>
+      <td width="15%" align="right" style="background: #dbe0e2">
+        <a href="/F-111_Aardvark_(Family)" title="F-111 Aardvark (Family)">F-111</a>&#160;
+      </td>
       <td
         style="
           background: #f6f6f6;
@@ -2726,7 +2775,10 @@
           padding-right: 7px;
         "
       >
-        <a href="/F-111A" title="F-111A">F-111A</a>
+        <a href="/F-111A" title="F-111A">F-111A</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/F-111F" title="F-111F"
+          >F-111F</a
+        >
       </td>
     </tr>
   </table>
@@ -2769,6 +2821,10 @@
           >F4U-4B VMF-214</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/P-26A-34" title="P-26A-34"
           >P-26A-34</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a
+          href="/Rasmussen%27s_P-36A"
+          title="Rasmussen&#39;s P-36A"
+          >Rasmussen's P-36A</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/P-40C" title="P-40C">P-40C</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/P-43A-1" title="P-43A-1"
           >P-43A-1</a
@@ -2900,6 +2956,8 @@
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/AU-1" title="AU-1">AU-1</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/XA-38" title="XA-38">XA-38</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/AV-8A" title="AV-8A">AV-8A</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/AV-8B_(NA)" title="AV-8B (NA)"
+          >AV-8B (NA)</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/A-6E_TRAM" title="A-6E TRAM"
           >A-6E TRAM</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/A-10A" title="A-10A">A-10A</a>
@@ -2922,6 +2980,10 @@
           href="/PBM-3_%22Mariner%22"
           title='PBM-3 "Mariner"'
           >PBM-3 "Mariner"</a
+        ><span style="font-weight: bold">&#160;·</span>&#32;<a
+          href="/PBM-5A_%22Mariner%22"
+          title='PBM-5A "Mariner"'
+          >PBM-5A "Mariner"</a
         ><span style="font-weight: bold">&#160;·</span>&#32;<a href="/PV-2D" title="PV-2D">PV-2D</a>
       </td>
     </tr>

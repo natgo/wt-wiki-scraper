@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British Self-Propelled Anti-Aircraft Gun {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]] along with the rest of the British tree.
+In 1941, the Associated Equipment Company (AEC) created a chassis for an armoured car based on their Matador artillery tractor, drawing on experience gained while fighting Italian armoured cars in North Africa. The prototype was shown at the Cavalry Guard Parade and impressed Churchill, after which a contract was signed initially for 120 units, and ultimately 629 were produced between 1942 and 1943. They were used in battles in North Africa, sometimes alongside the Staghound. The main modifications to the vehicle used the QF 2-pounder, QF 6-pounder, and QF 75 mm guns. In 1944, a prototype SPAA on an AEC chassis was built using a [[Crusader AA Mk II]] turret featuring two 20 mm Oerlikon automatic cannons. However, due to the Allies' widespread air superiority, it did not enter mass production.
 
-This is a low rank British AA car, which, while lacking armour, can pack quite the punch. It has two 20 mm autocannons on its turret, and good manoeuvrability and speed. Unlike the AA of many other countries at this rank, this is a closed top vehicle, and performs well in anti-tank roles.
+Introduced in [[Update 1.55 "Royal Armour"]] along with the initial British ground tree, the '''AEC AA''' is a fairly effective wheeled anti-aircraft gun with good protection. It packs quite the punch, able to be used effectively against both aircraft and light armour. Its armour provides decent protection even against heavy machine guns, while its wheeled chassis has mediocre cross-country ability but high speed, which can help avoid enemy attention if position changes are frequent enough.
 
 == General info ==
 === Survivability and armour ===

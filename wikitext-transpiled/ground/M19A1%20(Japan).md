@@ -150,9 +150,18 @@ Due to the lack of armour, this vehicle should never be used to engage ground ve
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+* [[M24 (Family)]] <small>(Base hull)</small>
+** [[M19A1]]
+* [[M42 (Family)]] <small>(Successor)</small>
 
-* [[M19A1]]
-* [[M42 (Family)]]
+;Tanks of comparable role, configuration, and era
+* [[File:Vietnam flag.png|30px|link=]] [[Phòng không T-34]]
+* [[File:Britain flag.png|30px|link=]] [[Crusader AA Mk I]]
+* [[File:Germany flag.png|30px|link=]] [[Ostwind]] [[Ostwind II|(II)]]
+* [[File:Finland flag.png|30px|link=]] [[L-62 ANTI II]]
+* [[File:France flag.png|30px|link=]] [[AMX-13 DCA 40]]
+* [[File:Sweden flag.png|30px|link=]] [[Lvkv 42]]
+* [[File:Italy flag.png|30px|link=]] [[Leopard 40/70]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=ussr_btr_152d
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -79,6 +79,7 @@ One recommended order of research is as follows:
 * ''Artillery Support'': If using the BTR-152D in a more frontline role, this modification can allow for periodic calling of artillery in a designated sector which is capable of knocking out enemies. This may be useful if there are other anti-aircraft vehicles nearby.
 
 == Armaments ==
+[[File:Weapon KPV (14.5 mm) BTR-152D.png|thumb|right|350px|The 4x KPV (14.5 mm)]]
 {{Specs-Tank-Armaments}}
 === Main armament ===
 {{Specs-Tank-Weapon|1}}
@@ -141,7 +142,9 @@ It is recommended to fire bursts around four seconds long in order to keep up a 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-There are a few ways to play the BTR-152D, although its main role is as an anti-aircraft vehicle. 
+There are a few ways to play the BTR-152D, although its main role is as an anti-aircraft vehicle.
+
+[[File:ArtImage2 BTR-152D.png|right|350px]] 
 
 '''Anti-Aircraft Role'''
 

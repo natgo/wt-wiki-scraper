@@ -182,6 +182,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9G Sidewinder missiles
 * 28 x FFAR Mighty Mouse rockets
@@ -201,9 +202,13 @@ The AV-8C can be considered a multirole aircraft which can focus in air-to-air c
 
 '''When air to air:'''
 
-The Harrier has access to AIM-9G Sidewinder air to air missiles capable of taking down all enemy aircraft in the game. It should be noted that the AIM-9G is a rear-aspect lock-on missile, meaning the Harrier must be behind the enemy aircraft to be able to launch the missile.
+The Harrier has access to AIM-9G Sidewinder rear-aspect IR air-to-air missiles. The AIM-9G has decent range and maneuverability with a top speed of Mach 2.5 and 18G's of pull. This combined with its uncaged seeker should make it one's primary weapon in air-to-air. The AIM-9G has a surprisingly long effective range of 1 to 3 miles even against targets who are mildly maneuvering or gaining distance away from you. You can use this to ambush players who do not suspect that you are in range for a shot and thus are not flaring or pulling defensive maneuvers. Though try to ensure that your shot is as straight line as possible as to not waste the missile's fuel and allow it to reach its max speed. Be mindful that the missile is heavier than previous variants. This makes it difficult to use in short range engagements as its ability to turn with maneuvering opponents can be compromised at tight angles. As a rule, if you are in gun range or just outside of it, use your guns only. The AIM-9G is also easy to spoof with flares. If your opponent is aware of you/pre-flaring, do not take the shot as you can only carry two missiles and without them the Harrier is forced to knife fight with its guns while many other fighters will still have missiles. Be careful when friendlies are nearby as well as the AIM-G can attack them if they get in between you and an enemy. The Harrier's 30 mm ADEN Mk.4 cannons are devastating to any aircraft that you can hit with them. Their large caliber causes them to travel slower and drop more than other rounds so be prepared to compensate. The guns are also belly-mounted which leads to even more bullet drop. Aim high and be disciplined on your trigger as your ammo count is not high but your rate of fire is.
 
-'''When facing enemy bombers:'''
+'''Thrust Vectoring in Forward Flight (VIFFing)''':
+
+The Harrier can only be used to its full potential if one learns to take advantage of its ability to vector its thrust. This is an advanced technique that will require practice and proper key binding configuration but the end result will pay off. VIFFing has multiple applications during dogfighting that greatly increase the maneuverability of the the Harrier. Percentages denote amount of downward vector. Past 90% the AV8-C's vectors go beyond 90 degrees down and actually go 10 degrees forward causing rearward thrust. Offensively it can be used to increase your turn rate (20%), angle of attack (20-60%), lower your stall speed to energy trap (as required), and be used as an extra air-brake (100%). Defensively it can be used to force opponents to overshoot (20-80%), slow your groundspeed to win rolling scissor fights (20-100%), execute high G turns (80%) and reduce attack angles for missile shots (20-60%). Keep in mind that any amount of VIFFing will slow you down and make you vulnerable to attack by any nearby enemies so these maneuvers are best used in dogfight duels. You can still use this as an advantage as the Harrier has outstanding thrust to weight/acceleration so you can stop and then quickly regain energy. 
+
+'''When facing enemy bombers:''' 
 
 Enemy bombers are the easiest targets for the Harrier both in gun strafe and when using missiles as they lack agility when dogfighting against the Harrier and countermeasures such as flares to be able to counter the missiles. It is unlikely to face enemy bombers besides the [[Vautour IIA IDF/AF (France)|Vautour IIA IDF/AF]] as most of them stay at 8.0. AI-controlled bombers are the exception.
 

@@ -10,9 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-Towards the end of WWII, multiple captured German prototype jet bombers found their way into Soviet hands, and were quickly analysed and reverse-engineered. One of the first successful production jet bombers to incorporate the technologies learned from these planes was the new IL-28 bomber, which would go on to become one of the staples of air forces of the Eastern Bloc during the '50s and '60s. One such operator was the Hungarian Air Force, who acquired the type in the late '50s and kept using it until it was eventually replaced by the [[Su-22M3 (Italy)|Su-22M3]] in the frontline bomber/strike role.
+The IL-28 (Italy) is an Italian jet bomber introduced in [[Update "Alpha Strike"]] with a Battle Rating of 8.0 (AB/RB/SB).
 
-Introduced in [[Update "Alpha Strike"]], the Hungarian IL-28 is completely identical to its [[IL-28|Soviet brother]], and as such it should be played the same. The aircraft fills the role of the "fast frontline bomber" previously taken by aircraft such as the [[Tu-2S-59 (Italy)|Tu-2S]] found in the same tech tree, focusing on interdicting the enemy airspace quickly, striking a single target precisely, and leaving before the fighters can scramble. In-game, it finds itself at an advantage when doing this at its battle rating, due to its generous airspawn and powerful tail gunners. All in all, the IL-28 teaches players of the Italian tech tree the playstyle of high speed interdiction and strike bombing, preparing them for future aircraft in this line such as the following [[Su-22M3 (Italy)|Su-22M3]].
+In the late 1950s, the Hungarian Air Force acquired IL-28 bombers from the Soviet Union. It would see service during the Cold War, eventually being replaced in Hungarian service by the [[Su-22M3 (Italy)|Su-22M3]] in the frontline bomber/strike role. This aircraft's camouflage represents IL-28 no.'55' of the Hungarian Air Force, currently on display in the Airplane Museum of Szolnok, in Szolnok, Hungary.
+
+In-game, the Hungarian IL-28 is identical to its [[IL-28|Soviet brother]], and as such it will perform identically. This aircraft fills the role of the "fast frontline bomber", like the previous propeller-engined [[Tu-2S-59 (Italy)|Tu-2S-59]]. This role focuses on interdicting the enemy airspace quickly, striking targets precisely, and then leaving before enemy fighters can intercept. The Hungarian IL-28 may find itself at an advantage when doing this at its battle rating, due to its airspawn and powerful tail gunners. All in all, this bomber can teach players of the Italian tech tree the playstyle of high speed interdiction and strike bombing, preparing them for future aircraft in this line such as the following [[Su-22M3 (Italy)|Su-22M3]].
 
 == General info ==
 === Flight performance ===
@@ -25,16 +27,16 @@ Introduced in [[Update "Alpha Strike"]], the Hungarian IL-28 is completely ident
 ! colspan="2" | Max speed<br>(km/h at _,___ m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
-! colspan="2" | Rate of climb<br>(metres/second)
+! colspan="2" | Rate of climb<br>(metres/second.)
 ! rowspan="2" | Take-off run<br>(metres)
 |-
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 866 || 842 || rowspan="2" | {{Specs|ceiling}} || 49.3 || 50.1 || 16.3 || 15.4 || rowspan="2" | 1,480
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 945 || 905 || 46.9 || 48.0 || 24.1 || 20.0
 |-
 |}
 
@@ -45,7 +47,7 @@ Introduced in [[Update "Alpha Strike"]], the Hungarian IL-28 is completely ident
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| ✓ || ✓ || ✓ || X || X || X
 |-
 |}
 
@@ -60,7 +62,7 @@ Introduced in [[Update "Alpha Strike"]], the Hungarian IL-28 is completely ident
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 577 || 548 || 400 || ~7 || ~4
 |-
 |}
 
@@ -70,7 +72,7 @@ Introduced in [[Update "Alpha Strike"]], the Hungarian IL-28 is completely ident
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || -
+| < 500 || < 600 || < 600 || N/A
 |-
 |}
 
@@ -155,14 +157,24 @@ The '''''{{PAGENAME}}''''' is defended by:
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
 
-'''Pros:'''
-
-*
+* Powerful rear 23 mm cannon turret
+* Very fast - many early jet fighters cannot catch it at top speed
+* Powerful and flexible ordnance capacity
+* Highly armoured tail gunner position
+* Gunner can cover a large area of the rear and the sides because of the turret design
+* Good acceleration
 
 '''Cons:'''
+
+* Fuel tanks are not protected by any armour
+* Fairly small payload compared to its counterparts
+* Able to be intercepted by Korean War-era jet aircraft
+* Poor roll rate; any wing damage will often result in a roll that is impossible to pull out of
+* Cockpit features no rear visibility
+* Fast acceleration means that you might break the wings if you don't pay attention
+* Forward guns are primarily for self-defense head-ons, as they're hard to aim with poor flight manoeuvrability
 
 *
 
@@ -182,7 +194,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Related development
+;'''Related development'''
 
 * [[IL-28 (Family)]]
 

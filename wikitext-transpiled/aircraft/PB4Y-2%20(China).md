@@ -31,7 +31,7 @@ The '''{{Specs|name}}''' has the same performance as the other Liberators. It is
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 385 || 370 || rowspan="2" | {{Specs|ceiling}} || 39.4 || 41.0 || 1.3 || 1.3 || rowspan="2" | 950
+| 385 || 379 || rowspan="2" | {{Specs|ceiling}} || 39.4 || 41.0 || 1.3 || 1.3 || rowspan="2" | 950
 |-
 ! Upgraded
 | 427 || 404 || 36.7 || 38.0 || 6.5 ||3.5

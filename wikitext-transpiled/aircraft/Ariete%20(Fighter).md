@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Italian jet fighter {{Battle-rating}}. It was introduced in [[Update "Danger Zone"]].
+The Aerfer Ariete was a prototype aircraft primarily made for export after the previous design, the [[Sagittario 2]], lost the NATO competition to the [[G.91 (Family)|G.91]]. Aerfer would further improve the design by giving it a new engine, but otherwise remained largely similar to the original design, making it one of the most manoeuvrable aircraft of the time. However, it was also not chosen; the Aerfer Ariete would no longer be offered for export as the Aerfer company began to work on its next aircraft, known as the Aerfer Leone.
 
-The Aerfer Ariete is a further development of the Aerfer Sagittario 2. The aircraft is one of the more nimble and dog-fight friendly jets that Italy has access to inside its tech tree. Similarly to the Sagittario 2, it has great handling and 2 fast firing cannons which destroy pretty much any aircraft that is unlucky enough to get hit by it. In game it is even better than the Sagittario due to it having access to another engine known as the Rolls-Royce RSr.2 Soar. Again similarly to the Sagittario it does not have a lot of fuel for it to be able to stay in the air for too long, so players may not want to over extend when playing the aircraft. The Aerfer Ariete is a prototype aircraft which was primarily made for export after the previous design known as the Aerfer Sagittario lost the NATO competition to the G.91. Aerfer would further improve the design by giving it a new engine which would make it one of the most manoeuvrable aircraft of the time. Sadly it also wasn't picked, the Aerfer Ariete would no longer be offered for export as the Aerfer company would begin to work on its next aircraft known as the Aerfer Leone.
+Introduced in [[Update "Danger Zone"]], the Aerfer Ariete is a further development of the Aerfer [[Sagittario 2]]. The aircraft is one of the most nimble and dogfight-friendly jets in the Italian tree. Similar to the Sagittario 2, it has great handling and two fast-firing cannons which can easily destroy any aircraft unlucky enough to be hit by them. However, it is equipped with an additional engine which, while rather weak on its own, provides a nice boost to the Ariete's flight capabilities. Similar to the Sagittario, it does not have a lot of fuel, so it cannot stay in the air for too long. Players may therefore not want to overextend when playing the aircraft.
 
 == General info ==
 === Flight performance ===
@@ -31,7 +31,7 @@ The Aerfer Ariete has incredible manoeuvrability, at its battle rating and even 
 |-
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
-! Stock	
+! Stock
 | 1,042 || 1,037 || rowspan="2" | {{Specs|ceiling}} || 24.4 || 24.7 || 31.3 || 27.1 || rowspan="2" | 1,000
 |-
 ! Upgraded
@@ -159,6 +159,9 @@ The Aerfer Ariete does not have access to any countermeasures so keep that in mi
 * No suspended armament
 * Large possibility of facing many supersonic jets
 * Has a heavier airframe than the Sagittario 2 due to the second engine
+* Requires high level pilot to handle high G turns and avoid constant blackout
+* No Counter Measures, while most of the time facing IR and all aspect missiles
+* Unfortunate BR which all but guarantees full uptiers, where dog fighting ability is trumped by good IR missiles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

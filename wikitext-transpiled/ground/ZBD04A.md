@@ -25,8 +25,8 @@ The crew of 3 has similar layout to NATO IFVs - instead of having all crews clos
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 18 mm (82°) UFP 
-20 mm +30 mm (43°) LFP 
+| Hull || 18 mm (82°) UFP
+20 mm +30 mm (43°) LFP
 | 20 +10 mm ''Top'' <br> 20 mm ''Bottom'' || 13 mm || 13 mm
 |-
 | Turret || 40 mm + 15 mm ''Turret front'' <br>40 mm ''Gun mantlet'' || 40 mm || 40 mm || 18 mm
@@ -41,7 +41,7 @@ The crew of 3 has similar layout to NATO IFVs - instead of having all crews clos
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
 To further increase the mobility of ZBD04A to keep up with MBTs, NORINCO installed new power pack consists of new version of 6V150 ''(same name as the one on ZBD86 but based on 12V150HB on ZTZ99 series)'' and CH400D transmission; enabling the vehicle to quickly reach vantage points or flanking enemies with its mobility, as well as retreat from danger much faster than BMP-1 variants.
 
-{{tankMobility}}
+{{tankMobility|abMinHp=930|rbMinHp=531}}
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -64,10 +64,10 @@ As part of the main component of ZBD04 series, China acquired the 2K23 turret sy
 ! Stock !! Full !! Expert !! Aced
 |-
 ! ''Arcade''
-| rowspan="2" | 500 (250) || rowspan="2" | 330 || rowspan="2" | -6°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || __._ || __._ || __._ || __._ || __._ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+| rowspan="2" | 500 (250) || rowspan="2" | 330 || rowspan="2" | -6°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 33.3 || 46.1 || 56.0 || 61.9 || 65.9 || rowspan="2" | 1.30 || rowspan="2" | 1.15 || rowspan="2" | 1.06 || rowspan="2" | 1.00
 |-
 ! ''Realistic''
-| __._ || __._ || __._ || __._ || __._
+| 20.8 || 24.5 || 29.8 || 32.9 || 35.0
 |-
 |}
 
@@ -112,7 +112,7 @@ Part of the composition of 2K23 system is the iconic 100 mm smoothbore, low-reco
 ! Capacity !! Vertical !! Horizontal !! Stabilizer
 ! Stock !! Full !! Expert !! Aced
 |-
-| 50 || - || - || Two-plane || colspan="4" | 4.0 
+| 50 || - || - || Two-plane || colspan="4" | 4.0
 |-
 |}
 
@@ -156,10 +156,12 @@ Like most PLAGF vehicles post-2010, instead of more conventional 7.62x39 mm cali
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-; The Best Friend of MBTs 
+
+; The Best Friend of MBTs
+
 If players have certain extent of knowledge of the ZBD04 series, the original design of ZBD04 is similar to BMP-3; but on the improved ZBD04A, ditching some features for more reliable protection becomes the key for ZBD04A, thus leading to the IFV with superior performance to many of its enemies and now the best friend of PLAGF's MBT columns within their heavy composite brigades.
 
-To say anything about ZBD04A's capabilities, players have to consider for one thing first at all - its role as an IFV. ZBD04A was designed as an IFV from day one, thus thinking of using it as a frontline vehicle means the shortest possible service life of the vehicle. Although the vehicle was designed to stop up to 30 mm caliber shells, facing MBTs or LTs with high caliber cannons is never the best idea to ever consider; taking it as a support vehicle vehicle is always the idea as it doesn't have the side protection like [[PUMA]] in Bundeswehr's service. Thanks to the revision of hull design, ZBD04A can stop up to 30 mm full-caliber shells from certain distance up front; this also means better survivability for the crew albeit only having 3 crews in this case, the overall design is much larger than its previous designs or Russian designs, thus migrates some damages from shrapnel is also possible but never take it as granted. The redesigned hull on ZBD04A also further enlarges the profile of the vehicle, thus enemy can spot the existence of the vehicle relative fast in this case; in this case, the hull itself is almost the height of a M1A2 Abrams from side-by-side comparison! 
+To say anything about ZBD04A's capabilities, players have to consider for one thing first at all - its role as an IFV. ZBD04A was designed as an IFV from day one, thus thinking of using it as a frontline vehicle means the shortest possible service life of the vehicle. Although the vehicle was designed to stop up to 30 mm caliber shells, facing MBTs or LTs with high caliber cannons is never the best idea to ever consider; taking it as a support vehicle vehicle is always the idea as it doesn't have the side protection like [[PUMA]] in Bundeswehr's service. Thanks to the revision of hull design, ZBD04A can stop up to 30 mm full-caliber shells from certain distance up front; this also means better survivability for the crew albeit only having 3 crews in this case, the overall design is much larger than its previous designs or Russian designs, thus migrates some damages from shrapnel is also possible but never take it as granted. The redesigned hull on ZBD04A also further enlarges the profile of the vehicle, thus enemy can spot the existence of the vehicle relative fast in this case; in this case, the hull itself is almost the height of a M1A2 Abrams from side-by-side comparison!
 
 Now the flaws have been addressed, it is the time to introduce the features of ZBD04A: firstly, the improved FCS over BMP-3 series and among one of the best in game thanks to its late introduction by 2011; then the fairly mobility to navigate around the battlefield, after that the impressive protection thanks to the applique armor plates and lastly, the turret system with improved ammunitions. Having a 3rd generation TVD is pretty hard to come by at its tier, let alone CITV system with same TVD definition; if players are having problem seeking for the hiding enemies in complicated terrain, the TVD is certainly the best friend to players, it is always better to find the enemy first then plan to finish them off, instead of CQC which can be extra risky for IFVs; thanks to the improved powerplant developed as part of the WZ123 program, ZBD04A also utilized better domestic engine and dual-flow transmission for its overall mobility, as long as players are aware of their position and where they should be to intercept enemy vanguards, both IFVs or fast MBTs, utilizing the mobility of ZBD04A can often gain players early victories against such targets with a somewhat impressive protection up front - if the enemy didn't destroy the vehicle in one-go or the turret system, chances are ZBD04A can achieve revenge kills against those which almost sent the vehicle back to the hanger. After that, the turret system - it is well known that PLAGF adopted the 2K23 turret system as their IFV firepower, in this case, ZBD04A shares most of the ammunition from its Russian counterpart minus the better ATGM but now has access to APFSDS; this can be said as a game-changer for the vehicle as this enables the 2A72 equivalent (as ZPL02/ZPZ02) with full APDS or APFSDS belt against enemy vehicles, this also further enhance the odds to disable enemies from sides; although lacking more advanced ATGM, the APS03-100 is more than enough to take down most MBTs around its tier with its tandem warhead or sometimes even by overpressure, be sure to aim carefully for long-distance target and sometimes lower the DPI for best result.
 
@@ -202,7 +204,7 @@ By 1993, Boris Yeltsin's new economic "therapy" has negative impacts to Russia, 
 To address a missing piece of ZBD04 - its protection, PLA issued the demand for a new IFV that retains identical turret system while vastly improving its protection. The weight and protection of the original ZBD04 also eliminated the options of applique armor or ERA packages, thus leading to the complete redesign of new IFV with a larger chassis while upgrading the protection rated for 30 mm autocannons at certain distance; amphibious capabilities was also retained but only rated for inland water bodies and rivers as the waterjet system was removed. The new IFV was first spotted in 2008 as "ZBD08" until the official statement issued in 2014's "Peace Mission 2014" exercise unrevealed the new IFV as ZBD04A.
 
 === [[wt:en/news/8776-development-zbd-04a-the-unstoppable-scout-en|Devblog]] ===
-The ZBD-04 which has a fighting compartment from the Russian BMP-3 was developed in China in the late 1990s and began entering service in the early 2000s. The next model of this vehicle was the modernized ZBD-04A, featuring additional armor and improved electronics. This vehicle was first presented to the general public at a parade in 2015. Today, the ZBD-04A is in service with units and is the most modern vehicle of this class in the People’s Liberation Army of China.
+The ZBD-04 which has a fighting compartment from the Russian BMP-3 was developed in China in the late 1990s and began entering service in the early 2000s. The next model of this vehicle was the modernized ZBD-04A, featuring additional armor and improved electronics. This vehicle was first presented to the general public at a parade in 2015. Today, the ZBD-04A is in service with units and is the most modern vehicle of this class in the People's Liberation Army of China.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

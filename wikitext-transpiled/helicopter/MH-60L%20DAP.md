@@ -5,9 +5,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update "Kings of Battle"]]. This distinctive vehicle is a representative of the famous Sikorsky UH-60 Black Hawk utility helicopter family. Designed to replace the [[UH-1 (Family)|Bell UH-1]] in US Army service, the Black Hawk is a sleek, heavy helicopter with better performance and nearly three times the Huey's takeoff weight. Reliable and versatile, it has a long list of variants and operators in both civilian and military roles and is one of the most recognizable helicopter models in the world.
+By the end of the 1960s, the US Army had begun to formulate requirements for a military transport helicopter to replace the [[UH-1 (Family)|UH-1 Iroquois]]. Sikorsky engineers proposed their S-70 prototype (YUH-60) which, competing against the Boeing-Vertol Model 179 (YUH-61), was selected for serial production under the designation UH-60 Black Hawk. The new helicopter began to enter service in 1979 and subsequently underwent several upgrades and was produced in a huge number of modifications. In 1987, the Army placed an order for an improved armed version, the '''MH-60L''', with more powerful engines and the ability to mount external weapons.
 
-The MH-60L DAP ("MH-60" denoting a special purpose model and "DAP" meaning "Direct Action Penetrator") is a specialized gunship or attack variant used by US Army special forces. It still looks largely like a utility helicopter with an unmodified crew cabin but features large stub wings with four reinforced pylons. In-game, the DAP has a very similar arsenal and payload to the [[AH-64D|AH-64D Apache]], mainly relying on powerful AGM-114K Hellfire II ATGMs, APKWS guided rockets, and ATAS air-to-air missiles at a slightly lower battle rating than the Longbow Apache. Although it obviously lacks the armour protection and internal gun of a purpose-designed attack helicopter, the DAP has some armament and subsystem advantages over the contemporary [[AH-64A|A-model Apache]] and is a solid, memorable option for helicopter fans.
+Some of the modernized MH-60L helicopters were subsequently further modified at the request of special operations forces. They were able to carry rocket pods, AGM-114 Hellfire ATGMs, air-to-air missiles, as well as other heavy weapons. Moreover, the troop-carrying cabin was reconfigured: the seats remained only for the onboard gunners, and an additional fuel tank was located in the rear. Helicopters of this version received the designation '''DAP''' (Direct Action Penetrator).
+
+Introduced in [[Update "Kings of Battle"]], the MH-60L DAP is a specialized gunship helicopter. It still looks largely like a utility helicopter with an unmodified crew cabin but features large stub wings with four reinforced pylons. The DAP has a very similar arsenal and payload to the [[AH-64D|AH-64D Apache Longbow]], mainly relying on powerful AGM-114K Hellfire II ATGMs, APKWS guided rockets, and ATAS air-to-air missiles at a slightly lower battle rating than the Apache Longbow. Although it obviously lacks the armour protection and internal gun of a purpose-designed attack helicopter, the DAP has some armament and subsystem advantages over the contemporary [[AH-64A|A-model Apache]] and is a solid, memorable option for helicopter fans.
 
 == General info ==
 === Flight performance ===
@@ -67,6 +69,37 @@ The '''''{{PAGENAME}}''''' is armed with:
 <!-- ''Describe the helicopter's suspended armament: additional cannons under the winglets, any bombs, and rockets. Since any helicopter is essentially only a platform for suspended weaponry, this section is significant and deserves your special attention. If there is no suspended weaponry remove this subsection.'' -->
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! !! width="7%" | 1 !! width="7%" | 2 !! width="7%" | 3 !! width="7%" | 4 !! width="7%" | 5 !! width="7%" | 6
+| rowspan="9" width="30%" | <!-- <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div> -->
+|-
+! [[LR30 (30 mm)|30 mm LR30]] cannons (250 rpg)
+| || 1 || || || 1 ||
+|-
+! [[M134 Minigun (7.62 mm)|7.62 mm M134 Minigun]] machine guns (1,500 rpg)
+| || || 1 || 1 || ||
+|-
+! [[GAU-19 (12.7 mm)|12.7 mm GAU-19]] machine guns (550 rpg)
+| || 1 || || || 1 ||
+|-
+! [[Hydra-70 M247]] rockets
+| 7, 19 || 7, 19 || || || 7, 19 || 7, 19
+|-
+! [[AGM-114K Hellfire II]] missiles
+| 2, 4 || 2, 4 || || || 2, 4 || 2, 4
+|-
+! [[APKWS II (M151)]] missiles
+| 7 || 7 || || || 7 || 7
+|-
+! [[APKWS II (M282)]] missiles
+| 7 || 7 || || || 7 || 7
+|-
+! [[ATAS (AIM-92)]] missiles
+| 2 || 2 || || || 2 || 2
+|-
+|}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}

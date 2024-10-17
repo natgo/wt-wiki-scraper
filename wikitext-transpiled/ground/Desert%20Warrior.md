@@ -1,0 +1,198 @@
+{{Specs-Card
+|code=uk_desert_warrior
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+}}
+
+== Description ==
+<!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
+The '''{{Specs|name}}''' (or simply {{Specs|pseudonym}}) was developed in the 1990s by GKN Defence for export markets, particularly those in arid regions. Based on the proven FV510 Warrior chassis, it features a new Delco two-man turret armed with a 25mm M242 Bushmaster chain gun and two BGM-71 TOW missiles mounted on the turret sides. Primarily designed for infantry transport and support, the vehicle has the capacity to carry seven fully equipped troops in addition to its crew. Kuwait became the primary operator of the Desert Warrior, integrating 254 of the type into their armored forces. The Desert Warrior has been in service with the Kuwaiti Army since its introduction in 1995, continuously receiving upgrades such as new fire control and thermal sight systems.
+
+The {{Specs|pseudonym}} was introduced in [[Update "Seek & Destroy"]]. It is a pleasant upgrade to the older [[Warrior|FV510 Warrior]], finding much needed upgrades in terms of its firepower. The newly equipped M242 Bushmaster 25mm chain gun proves highly effective against light-armored targets and is capable of engaging heavier vehicles from the side. To engage tougher opponents, the Desert Warrior is equipped with two deadly TOW missile launchers. The vehicle offers three types of missiles: the basic TOW-2 for standard anti-armor use, the TOW-2A with a tandem warhead effective against reactive armor and heavily armored targets, and the TOW-2B with a top-attack profile for hitting enemies in defilade or behind cover. Overall, the upgrades bring it close to the performance of its American counterpart, the [[M3A3 Bradley]].
+== General info ==
+=== Survivability and armour ===
+{{Specs-Tank-Armour}}
+<!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
+''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.''
+
+'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
+* Cast homogeneous armour (Turret, Transmission area) -->
+
+{| class="wikitable"
+|-
+! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
+|-
+| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+|-
+| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+|-
+| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+|-
+|}
+
+'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
+<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+
+=== Mobility ===
+{{Specs-Tank-Mobility}}
+<!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
+''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+
+{{tankMobility|abMinHp=852|rbMinHp=486|AoAweight=}}
+
+=== Modifications and economy ===
+{{Specs-Economy}}
+
+== Armaments ==
+{{Specs-Tank-Armaments}}
+=== Main armament ===
+{{Specs-Tank-Weapon|2}}
+<!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
+{{main|M242 (25 mm)}}
+
+''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.''
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! colspan="6" | [[M242 (25 mm)|25 mm M242]] || colspan="5" | Turret rotation speed (°/s) || colspan="4" | Reloading rate (seconds)
+|-
+! Mode !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal !! Stabilizer
+! Stock !! Upgraded !! Full !! Expert !! Aced
+! Stock !! Full !! Expert !! Aced
+|-
+! ''Arcade''
+| rowspan="2" | 480 (120) || rowspan="2" | 200 || rowspan="2" | -8°/+60° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || __._ || __._ || __._ || __._ || rowspan="2" | 10.4 || rowspan="2" | _.__ || rowspan="2" | _.__ || rowspan="2" | _.__
+|-
+! ''Realistic''
+| 23.8 || __._ || __._ || __._ || __._
+|-
+|}
+
+==== Ammunition ====
+
+* '''Default:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''M791:''' {{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|APDS|Armour-piercing discarding sabot}}{{-}}{{Annotation|HEI-T*|High-explosive incendiary tracer (self-destroying)}}
+* '''PMB 090:''' {{Annotation|APFSDS|Armour-piercing fin-stabilized discarding sabot}}
+
+{{:M242 (25 mm)/Ammunition|HEI-T*, APDS, APFSDS}}
+
+==== [[Ammo racks]] ====
+<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
+<!-- '''Last updated:''' -->
+{| class="wikitable" style="text-align:center"
+|-
+! Full<br>ammo
+! 1st<br>rack empty
+! 2nd<br>rack empty
+! 3rd<br>rack empty
+! 4th<br>rack empty
+! 5th<br>rack empty
+! 6th<br>rack empty
+! Visual<br>discrepancy
+|-
+| '''4''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+|-
+|}
+
+=== Additional armament ===
+{{Specs-Tank-Weapon|1}}
+<!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
+{{main|BGM-71 TOW}}
+
+''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.''
+
+{| class="wikitable" style="text-align:center" width="100%"
+|-
+! colspan="4" | [[BGM-71 TOW]] missile || colspan="4" | Reloading rate (seconds)
+|-
+! Capacity (Belt) !! Vertical !! Horizontal !! Stabilizer
+! Stock !! Full !! Expert !! Aced
+|-
+| 10 (2) || -3°/+20° || - || - || 13.0 || _.__ || _.__ || _.__
+|-
+|}
+
+==== Ammunition ====
+{{:BGM-71 TOW/Ammunition|TOW-2, TOW-2B, TOW-2A}}
+
+==== [[Ammo racks]] ====
+<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
+<!-- '''Last updated:''' -->
+{| class="wikitable" style="text-align:center"
+|-
+! Full<br>ammo
+! 1st<br>rack empty
+! 2nd<br>rack empty
+! 3rd<br>rack empty
+! 4th<br>rack empty
+! 5th<br>rack empty
+! 6th<br>rack empty
+! Visual<br>discrepancy
+|-
+| '''5''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+|-
+|}
+
+=== Machine guns ===
+{{Specs-Tank-Weapon|3}}
+<!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
+{{main|M240 (7.62 mm)}}
+
+''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
+
+{| class="wikitable" style="text-align:center" width="50%"
+|-
+! colspan="5" | [[M240 (7.62 mm)|7.62 mm M240]]
+|-
+! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
+|-
+| Coaxial
+| 1400 (___) || ___ || __° || __°
+|-
+|}
+
+== Usage in battles ==
+<!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+
+=== Pros and cons ===
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
+
+'''Pros:'''
+
+*
+
+'''Cons:'''
+
+*
+
+== History ==
+<!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+
+=== [[wt:en/news/8929-development-desert-warrior-horseman-of-the-apocalypse-en|Devblog]] ===
+Following the Warrior’s introduction into the British Army, GKN Defence, the designers of the Warrior, were looking to export their vehicle to other countries. To attract potential customers, they opted to modify the Warrior to increase its outreach and interest, naming it the Desert Warrior. This new vehicle featured better internal cooling for the hotter desert climates, optimized areas for the desert sand, as well as a Delco turret featuring a stabilized 25 mm Bushmaster and TOW ATGMs on each side of the turret. In 1992 Kuwait gained interest in this new vehicle and put it up for trials against other similar vehicles. Following trials, Kuwait purchased around 250 Desert Warriors in 1993, where they have been serving in the Kuwait Army since 1995 until present day.
+
+== Media ==
+<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
+
+== See also ==
+<!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.'' -->
+''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
+* ''reference to the series of the vehicles;''
+* ''links to approximate analogues of other nations and research trees.''
+
+== External links ==
+<!-- ''Paste links to sources and external resources, such as:''
+* ''topic on the official game forum;''
+* ''other literature.'' -->
+
+* [[wt:en/news/8929-development-desert-warrior-horseman-of-the-apocalypse-en|Desert Warrior: Horseman of the Apocalypse [Devblog]]]
+
+{{Britain light tanks}}
+[[Category:ATGM vehicles]]

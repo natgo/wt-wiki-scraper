@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=fr_hotchkiss_h39_cambronne
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -217,8 +217,12 @@ The 14ème BCC was deployed in May 1940 in the Aisne region 30 km from the Belgi
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
-;Skins
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage H.39 "Cambronne".png
+</gallery>
 
+;Skins
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_hotchkiss_h39_cambronne Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

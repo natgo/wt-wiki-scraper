@@ -34,7 +34,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a squadron 
 | 1,754 || 1,742 || rowspan="2" | {{Specs|ceiling}} || 26.2 || 27.3 || 130.4 || 116.4 || rowspan="2" | 850
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 1,832 || 1,778 || 24.9 ||26.0|| 171.6 ||150.0
 |-
 |}
 
@@ -45,7 +45,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a squadron 
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| ✓ || ✓ || ✓ || ✓ || ✓ || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -60,7 +60,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a squadron 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| 1,458 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~11 || ~5
 |-
 |}
 
@@ -78,34 +78,34 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a squadron 
 {| class="wikitable" style="text-align:center"
 |-
 ! colspan="3" | Engine
-! colspan="4" | Aircraft mass
+! colspan="5" | Aircraft mass
 |-
 ! colspan="2" | Engine name || Number
-! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="2" | Wing loading (full fuel)
+! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
 | colspan="2" | General Electric J85-GE-21A || 2
-| colspan="2" | _,___ kg || colspan="2" | ___ kg/m<sup>2</sup>
+| colspan="2" | 4,945 kg || colspan="3" | 402 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
-! colspan="3" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
+! colspan="4" | Mass with fuel (no weapons load) || rowspan="2" | {{Annotation|Max Gross<br>Weight|Mass of the fully equipped aircraft with heaviest weapons load}}
 |-
 ! Weight (each) || colspan="2" | Type
-! _m fuel || __m fuel || __m fuel
+! 11m fuel || 20m fuel || 30m fuel || 38m fuel
 |-
 | 303 kg || colspan="2" | Afterburning axial-flow turbojet
-| _,___ kg || _,___ kg || _,___ kg || _,___ kg
+| 5,543 kg || 5,981 kg || 6,499 kg || 6,940 kg || 9,742 kg
 |-
 ! colspan="3" | {{Annotation|Maximum engine thrust @ 0 m (RB/SB)|The maximum thrust produced by each engine, while mounted in the aircraft. NOTE: Thrust varies significantly depending on speed & altitude.}}
-! colspan="4" | Thrust to weight ratio @ 0 m (___%/WEP)
+! colspan="5" | Thrust to weight ratio @ 0 m (WEP)
 |-
-! Condition || 100% || ___%/WEP
-! _m fuel || __m fuel || __m fuel || MGW
+! Condition || 100% || WEP
+! 11m fuel || 20m fuel || 30m fuel || 38m fuel || MGW
 |-
-| ''Stationary'' || ___ kgf || ___ kgf
-| _.__ || _.__ || _.__ || _.__
+| ''Stationary'' || 1,480 kgf || 2,220 kgf
+| 0.80 || 0.74 || 0.68 || 0.64 || 0.46
 |-
-| ''Optimal'' || ___ kgf<br>(_ km/h) || ___ kgf<br>(_ km/h)
-| _.__ || _.__ || _.__ || _.__
+| ''Optimal'' || 1,575 kgf<br>(1,458 km/h) || 3,011 kgf<br>(1,458 km/h)
+| 1.09 || 1.01 || 0.93 || 0.87 || 0.62
 |-
 |}
 
@@ -136,7 +136,8 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a squadron 
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
-* 45 x countermeasures
+* 10 x large calibre countermeasures
+* 30 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -147,7 +148,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-5E_(China).png]]</div>
+| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-5E_(China).png]]</div>
 |-
 ! [[GAU-13/A (30 mm)|30 mm GAU-13/A]] cannons (353 rpg)
 | || || || 1 || || ||
@@ -185,12 +186,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Python 3]] missiles
 | || 1 || || || || 1 ||
 |-
+! 150 gal drop tanks
+| || || 1 || 1 || 1 || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 2 x AIM-9P4 Sidewinder missiles
+* 3 x 150 gal drop tanks + 2 x AIM-9P4 Sidewinder missiles
 * 2 x Python 3 missiles
 * 1 x 30 mm GAU-13/A cannon (353 rpg)
 * 76 x FFAR Mighty Mouse rockets
@@ -214,16 +218,19 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 '''Pros:'''
 
 * A small target with good manoeuvrability makes it a difficult target to hit
+* Flaps do not break with speed. Even if the pilot puts them on landing position, they automatically adjust to different speeds.
 * Uses Python 3 IR missiles
 * Can attack ground targets from a distance with the AGM-65B
 * All IR missiles can be slaved by the radar
 * Modern HUD with sight customization, good for simulator battles
+* Although the radar is not very good, the aircraft has a ballistic computer for radar-locked aerial targets (EEGS)
 
 '''Cons:'''
 
 * AGM-65B does not have a thermal camera, which makes it weather dependent
-* Despite having 4 hardpoints, it cannot carry 4 Pythons 3
+* Despite having 4 hardpoints for missiles, it cannot carry 4 Pythons 3
 * Radar only has standard pulse mode
+* No IFF for Active Radar
 * No radar missiles
 
 == History ==

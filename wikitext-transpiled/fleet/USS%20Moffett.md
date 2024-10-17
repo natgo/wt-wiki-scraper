@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=us_destroyer_porter_1942
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -50,7 +50,7 @@ Looking at the use-cases for each of the shells:
 * '''AAC Mk.34 ({{Annotation|HE|High-explosive fragmentation shell}})''' - Ammunition of choice against heavy cruisers and other heavily-armoured targets where you can't do damage with any of the SAP shells. Use this to start fires, destroy secondary and anti-air guns, etc.
 * '''Common Mk.32 ({{Annotation|Common|Common shell}})''' - Functionally similar to a semi-armour-piercing shell, it is your default go-to ammunition against majority of destroyers, MBTs, or other soft-skinned targets
 * '''SP Common Mk.46 ({{Annotation|SP Common|Special common shell}})''' - Functionally similar to a semi-armour-piercing shell with more penetration. It is an alternative against armoured destroyers (e.g. most of USSR designs) or a light cruisers. Trades damage output for a better penetration - still not enough enough of it to penetrate the citadel of a heavy cruiser, but there is a narrow group of targets and ranges where Mk.46 is superior. If you are in doubt when to use it - opt for Mk.32 or regular HE.
-* '''AAVT Mk.31 ({{Annotation|HE-VT|High-explosive variable time fuse shell}})''' - One of the best anti-air options in its BR. A combination of the high rate of fire with a relatively good explosive filler on a time fuse make it a potent weapon that most players don't expect to encounter. But remember that the HE-VT fuse is arming after 457 m, in any distance shorter than that it works like a regular HE shell. If you have issues aiming at the airborne units - ''Select secondary weapon'' (default <kbd>Alt+2</kbd> on PC), then hover over the enemy bomber/fighter and press ''Manual targeting of the primary calibre'' (default <kbd>X+1</kbd> on PC) to have AI gunners aim for you. You can switch back to your main guns with ''Select primary weapon'' (default <kbd>Alt+1</kbd> on PC).
+* '''AAVT Mk.31 ({{Annotation|HE-VT|High-explosive variable time fuse shell}})''' - One of the best anti-air options in its BR. A combination of the high rate of fire with a relatively good explosive filler on a proximity fuse make it a potent weapon that most players don't expect to encounter. But remember that the HE-VT fuse is arming after 457 m, in any distance shorter than that it works like a regular HE shell. If you have issues aiming at the airborne units - ''Select secondary weapon'' (default <kbd>Alt+2</kbd> on PC), then hover over the enemy bomber/fighter and press ''Manual targeting of the primary calibre'' (default <kbd>X+1</kbd> on PC) to have AI gunners aim for you. You can switch back to your main guns with ''Select primary weapon'' (default <kbd>Alt+1</kbd> on PC).
 
 {{:5 inch/38 Mk.12 (127 mm)/Ammunition|5 inch AAC Mk.34, 5 inch Common Mk.32, 5 inch SP Common Mk.46, 5 inch AAVT Mk.31}}
 
@@ -79,7 +79,7 @@ Instead of using the M2 Browning MG like its tech tree counterpart [[USS Porter]
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|Mk.15 (533 mm)|Mk.6 mortar depth charge}}
 
-Moffett is equipped with 8 x 21 inch (533 mm) torpedo tubes, positioned into twin mounts, one placed just behind the rear smokestack and the other between the two smokestacks. While it is not the most powerful in-game torpedo, it can still do its job well.
+Moffett is equipped with 8 x 21 inch (533 mm) torpedo tubes, positioned into two quadruple mounts, one placed just behind the rear smokestack and the other between the two smokestacks. While it is not the most powerful in-game torpedo, it can still do its job well.
 
 == Usage in battles ==
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->

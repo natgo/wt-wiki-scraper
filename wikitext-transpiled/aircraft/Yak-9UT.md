@@ -147,6 +147,7 @@ In Ground RB and especially in Naval battles, the Yak-9UT is best suited as an a
 * Decent lower speed manoeuvrability that gets even better above 400 km/h (250 mph)
 * Flaps are fast to deploy and are helpful if used properly
 * Nose-mounted 23 mm and 37 mm cannons are effective against all types of aerial targets
+* Nose-mounted 45 mm have APHE belt that could inflict serious damage to enemy ground targets
 * Able to choose between various cannons
 * Decent low-to-mid altitude acceleration and climb
 * Decent energy retention at lower altitudes
@@ -163,8 +164,7 @@ In Ground RB and especially in Naval battles, the Yak-9UT is best suited as an a
 * Ailerons stiffen above 500 km/h
 * Flaps break if fully deployed past 280 km/h IAS
 * Flaps only have Landing position
-* The 45 mm NS-45 cannon is a challenge to effectively use
-* Unable to switch between the N-37 and the NS-23 without going back to the hangar
+* Unable to switch between the NS-45, N-37 and the NS-23 without going back to the hangar
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

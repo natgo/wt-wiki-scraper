@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-Israel acquired 52 units of the [[Imp.Chaparral|Chaparral]] system, that was very familiar to them since they already used the M113 APC and different configurations of its chassis, as well as the AIM-9 Sidewinder air-to-air missile, in large numbers. It was used as a close-range air defence platform for many years, in many different variants, being upgraded at the end to the MIM-72G model that used a smokeless all aspect seeker and IRCCM (Infrared Counter Countermeasures). Israel was able to intercept 2 aircraft with this system, a MiG-17 in the Golan Heights in 1973 and another in the Lebanese Invasion of 1982, both operated by the Syrian Air Force.
+One of the first foreign customers of the American MIM-72 Chaparral was the IDF, which ordered the first batch of SAMs in 1973, immediately after the Yom Kippur War. The first batteries were delivered to Israel at the end of 1973 under the name Drakon. In total, several dozen Chaparral launch systems entered service with the IDF, and were actively used in the 1970s and '80s to protect Israeli airspace from potential attacks by Syrian aviation. In 1996, Israel concluded a deal with the United States to acquire 36 more modern MIM-72C '''Improved Chaparral''' complexes. They differed from previous versions in an improved guidance system, a Doppler proximity fuze, and a HE fragmentation warhead for the missile. Subsequently, these SAMs also received more advanced missiles, such as the MIM-72E with a smokeless engine and MIM-72G which integrated the seeker head from the FIM-92 Stinger, increasing their resistance to countermeasures. In 2003, all Chaparral units were retired and withdrawn from service by the IDF.
 
-Introduced in [[Update "Sons of Attila"]], the Israeli Chaparral is equipped with much better missiles than the American version; the MIM-72G features IRCCM and improved engines, allowing it to combat aircraft with countermeasures and compete with SPAAs with advanced radar. The missile uses the same seeker as the one present in the FIM-92 Stinger missile, making it quite hard to dodge, and the improved engine makes it even more lethal. However, the Israeli Chaparral still suffers from a lack of radar and gun for very close range engagements, since even the improved missile is not capable of being launched if the locked target is just a couple metres ahead, which is especially dangerous against enemy helicopters.
+Introduced in [[Update "Sons of Attila"]], the Israeli Chaparral is equipped with much better missiles than the American version; the MIM-72G features IRCCM and improved engines, allowing it to combat aircraft with countermeasures and compete with SPAAs with advanced radar. The missile uses the same seeker as the one present in the FIM-92 Stinger missile, making it quite hard to dodge, and the improved engine makes it even more lethal. However, the Israeli Chaparral still suffers from a lack of radar and a gun for very close-range engagements, as even the improved missile is not capable of hitting if the locked target is just a few metres away, which is especially dangerous against enemy helicopters.
 
 == General info ==
 === Survivability and armour ===
@@ -125,6 +125,7 @@ These new Chaparral vehicles would only serve in the IDF for another 4 years aft
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=il_mim_72_chaparral Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -133,6 +134,7 @@ These new Chaparral vehicles would only serve in the IDF for another 4 years aft
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Imp.Chaparral]]
 
 == External links ==

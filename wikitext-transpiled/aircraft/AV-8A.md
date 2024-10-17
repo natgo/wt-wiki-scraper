@@ -6,7 +6,6 @@
 {{Specs-Card
 |code=av_8a
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage AV-8A 001.jpg}}
-|store=9687
 }}
 
 == Description ==
@@ -108,7 +107,9 @@ Introduced in [[Update "New Power"]], the '''{{Specs|name}}''' was one of the fi
 | 1.46 || 1.32 || 1.21 || 1.17 || 0.76
 |-
 |}
-{{Notice|The F402-RR-401 engine loses a significant amount of thrust as your speed increases}}
+Notice:
+
+The Engine can't be kept at 100% Throttel for longer then a Minutes or else it will overheat.{{Notice|The F402-RR-401 engine loses a significant amount of thrust as your speed increases}}
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
@@ -195,7 +196,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 5 x 500 lb Mk 82 Snakeye bombs (2,500 lb total)
 * 2 x 1,000 lb LDGP Mk 83 bombs (2,000 lb total)
 * 5 x Mk 77 mod 4 incendiary bombs
-* 240 x countermeasures
+* 240 x countermeasures (in 1 Countermeasures-pod)
 {{Navigation-End}}
 
 == Usage in battles ==
@@ -212,17 +213,17 @@ Enemy bombers are the easiest targets for the Harrier both in gun strafe and whe
 
 '''When facing enemy attackers:'''
 
-When facing player-controlled attackers (not necessarily planes labelled as attackers but planes who focus on ground striking), the pilot must stay aware that, besides the Harrier superior mobility, they can outturn you as they will often fly at lower speeds than you, meaning their turn radius compared to yours will be much smaller. Most of the enemy planes that do CAS runs will often be enemy fighters (not labelled as attackers) but with ground ordnance, meaning they can or will be heavier than you, increasing drag and reducing agility when in a dogfight, use this as an advantage.
+When facing player-controlled attackers (not necessarily planes labelled as attackers but planes who focus on ground striking), the pilot must stay aware that, besides the Harrier superior mobility, they can outturn you as they will often fly at lower speeds than you, meaning their turn radius compared to yours will be much smaller. Most of the enemy planes that do CAS runs will often be enemy fighters (not labelled as attackers) but with ground ordnance, meaning they can or will be heavier than you, increasing drag and reducing agility when in a dogfight, use this as an advantage.But You still are a Harrier, that means that you aren't very manoeuvrable.
 
 '''As an attacker/bomber:'''
 
-The Harrier has access to a wide variety of ground ordnance capable of destroying enemy ground units and bases. It also has [[Ballistic Computer#CCIP Usage|CCIP]] meaning the pilot has access to ground ordnance crosshairs which will increase accuracy for both rockets and bombs, as well as [[Ballistic Computer#CCRP Usage|CCRP]] allowing for guided approach to target and automatic bomb release. It is advised to fly to your bombing target at as low altitude as possible (NOE flight). This approach has multiple advantages: increased radar interference from terrain masking and terrain clutter, and reduced enemy visibility and awareness. It also makes bombing more accurate, even with the help of ballistics computer. Time fuse is essential for low level bombing, to avoid hitting yourself with shrapnel from your own bombs. Ground striking ordnance should be taken at pilot's discretion, but it is recommended to take the 2 x 1,000 lb and 3 x 500 lb bombs in order to take a whole base completely and still maintain high speed. You are unable to carry any sort of anti-air missiles with this payload.
+The Harrier has access to a wide variety of ground ordnance capable of destroying enemy ground units and bases. It also has [[Ballistic Computer#CCIP Usage|CCIP]] meaning the pilot has access to ground ordnance crosshairs which will increase accuracy for both rockets and bombs, as well as [[Ballistic Computer#CCRP Usage|CCRP]] allowing for guided approach to target and automatic bomb release. It is advised to fly to your bombing target at as low altitude as possible (NOE flight). This approach has multiple advantages: increased radar interference from terrain masking and terrain clutter, and reduced enemy visibility and awareness. It also makes bombing more accurate, even with the help of ballistics computer. Time fuse is essential for low level bombing, to avoid hitting yourself with shrapnel from your own bombs. Ground striking ordnance should be taken at pilot's discretion, but it is recommended to take the 2 x 1,000 lb and 3 x 500 lb bombs in order to take a whole base completely and still maintain high speed. You are unable to carry any sort of anti-air missiles with this payload.But if you take just the 2 x 1000 lb bombs and some air to air ordnance.
 
 Radar interference is mostly irrelevant in air realistic battles as the plane will still be highlighted and enemy pilots could use eye aiming. However, it will interfere with radar homing missiles (SARH missiles such as AIM-7E, R-3R, etc. carried by F-4 Phantoms and MiG-21s) and will be your main line of defence when flying in simulator battles, you will be able to fly stealthily in NOE flight.
 
 '''When in combined battles (ground realistic battles):'''
 
-This is where the Harrier is able to shine as an attacker, primarily using VTOL and hovering mode to an advantage. There is multiple loadouts which can be used in order to make the Harrier a scary attacker.
+This is where the Harrier is able to shine as an attacker, primarily using VTOL and hovering mode to an advantage. There is multiple loadouts which can be used in order to make the Harrier a scary attacker. Most useful is a mix of 1 or 2 AIM 9s, the unguided rockets and most importantly the countermeasures. Be awear of SPAA on the battle field and use your countermeasures because you got a lot of them.
 
 '''Bomb payload''' - This is often the most used payload for multiple reasons: has the biggest explosion radius compared to rockets, are more forgiving when missing by couple metres, can take multiple targets with a single bomb. The use of ballistics computer makes their aiming much easier than with eye aiming both in realistic and simulator battles.
 
@@ -230,11 +231,9 @@ This is where the Harrier is able to shine as an attacker, primarily using VTOL 
 
 '''VTOL trick''' - The Harrier can be used as a helicopter thanks to the VTOL capabilities, rockets are recommended if used like this. It is able to hide behind mountains, poke to attack and go back into cover as a helicopter would do. Handling this technique can be tricky and will require practice but is an alternate way of playing CAS.
 
-AIM-9G are not recommended to be taken in Ground Realistic Battles as most of the air to air engagements will be within a kilometre range specially since the AIM-9G's turn radius is fairly narrow, meaning enemy planes can be engaged with the 30 mm ADEN autocannons or be taken by friendly SPAA. It is not recommended to use them against enemy helicopters either as the autocannons are sufficient for them.
+AIM-9G are not recommended to be taken in Ground Realistic Battles as most of the air to air engagements will be within a kilometre range specially since the AIM-9G's turn radius is fairly narrow, meaning enemy planes can be engaged with the 30 mm ADEN autocannons or be taken by friendly SPAA. It is not recommended to use them against enemy helicopters either as the autocannons are sufficient for them.But if your aim sucks just take 1 AIM 9.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-
 '''Pros:'''
 
 * Thrust vectoring capabilities
@@ -244,11 +243,12 @@ AIM-9G are not recommended to be taken in Ground Realistic Battles as most of th
 * 22 different payload options, many of which are great for bombing
 * Powerful 30 mm ADEN cannons with a generous ammo count of 260 rounds (130 per gun)
 * Has a [[HUD#410SUM1|Head-Up Display]] in the cockpit which provides flight information and accurate weapon aiming functionality and is useful in Simulator battles
-* Large supply of 240 countermeasures
+* Large supply of 240 countermeasures (sacrifices 1 hardpoint for weaponry)
 
 '''Cons:'''
 
 * Heavy airframe loses significant speed in turns
+* Dosen't turn well in general
 * No Radar Warning Receiver
 * Only gets two air-to-air missiles at most
 * ADEN cannons have low velocity
@@ -275,8 +275,9 @@ The Harrier entered service with the USMC in 1971, under the designation AV-8A.<
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 
-* ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* [[Harrier GR.3]]
+* [[Sea Harrier FRS.1 (e)]]
+* [[AV-8C]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

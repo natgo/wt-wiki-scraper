@@ -164,6 +164,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Large calibre countermeasures
 | 28 || || || || || || || || || || 28
 |-
+! Large calibre chaff
+| 340 || || || || || || || || || || 340
+|-
 ! 1,500 l drop tanks
 | || || 1 || || || || || || 1 || ||
 |-
@@ -175,7 +178,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 1,500 l drop tanks
-* 56 x large calibre countermeasures
+* 56 x large calibre countermeasures + 680 x large calibre chaff
 * 2 x AIM-9L Sidewinder missiles
 * 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)
 * 12 x 1,000 lb LDGP Mk 83 bombs (12,000 lb total)
@@ -203,7 +206,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * Requires special procedures and speed control to work well as a fighter
 * Full bombing loadout will severely limit its maximum speed to 1.05 MACH
 * Most basic loadout of all Tornado bombers - only dumb bombs
-** Has anti-ship search radar, but no special equipment to capitalize on it 
+** Has anti-ship search radar, but no special equipment to capitalize on it
 * Radar gun assist has shorter range than other Tornado planes by 300 m (at 1.2km) which is getting way too close for comfort in head-on fights
 * Cannons deal low damage to planes unless the target was set on fire
 

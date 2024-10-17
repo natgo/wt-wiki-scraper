@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 Israel captured a total of 60 ZSU-23-4 from Egypt and Syria, who acquired them from the Soviet Union shortly after its introduction, during the Yom Kippur War and other conflicts. While there is very limited data surrounding Israel's usage of ZSU-23-4s in combat or even in active service, some captured units were used for personal training in a very limited number. Currently there is a ZSU-23-4 in display at the Yad la-Shiryon Museum, Israel.
 
-Introduced in [[Update "Fire and Ice"]], the '''{{Specs|name}}''' "Shilka" presents a higher rate of fire and more powerful ammunition than its predecessor [[Hovet]], allowing the user to saturate the airspace to increase the chance of hitting a low-flying aircraft. It has the same performance as the Soviet ZSU-23-4, thus it has a very good fire rate, a mediocre cannon for dealing with ground units and an average mobility. Like many other SPAAGs of its rank, it lacks access to any kind of guided missile to deal with air threats.
+Introduced in [[Update "Fire and Ice"]], the '''{{Specs|name}}''' "Shilka" presents a higher rate of fire and more powerful ammunition than its predecessor [[Hovet]], allowing the user to saturate the airspace to increase the chance of hitting a low-flying aircraft. It has the same performance as the Soviet [[ZSU-23-4]], thus it has a very good fire rate, a mediocre cannon for dealing with ground units and an average mobility. Like many other SPAAGs of its rank, it lacks access to any kind of guided missile to deal with air threats.
 
 == General info ==
 === Survivability and armour ===
@@ -144,19 +144,21 @@ Missile-equipped aircraft are the greatest threat to your existence. They are ca
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-'''Analogues in other nations'''
+'''Related development'''
 
-* [[M163]]
+* [[ZSU-23-4 (Family)]]
+
+'''Vehicles of similar configuration or role'''
+
+* [[ZSU-37-2]]
 * [[SIDAM 25]]
 * [[AMX-30 DCA]]
+* [[Hovet]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-''Paste links to sources and external resources, such as:''
-
-* ''topic on the official game forum;''
-* ''other literature.''
+* https://warthunder.com/en/game/changelog/current/1427
 
 {{Israel anti-aircraft vehicles}}

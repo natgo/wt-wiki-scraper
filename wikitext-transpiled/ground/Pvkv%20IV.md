@@ -94,6 +94,7 @@ Introduced in [[Update "Sons of Attila"]], the '''{{PAGENAME}} "Värjan"''' is a
 | '''40''' || 33&nbsp;''(+7)'' || 25&nbsp;''(+15)'' || 17&nbsp;''(+23)'' || 9&nbsp;''(+31)'' || 1&nbsp;''(+39)'' || No
 |-
 |}
+To go into battle with the turret empty, pack 33 (+7).
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -115,7 +116,7 @@ Introduced in [[Update "Sons of Attila"]], the '''{{PAGENAME}} "Värjan"''' is a
 
 The '''{{PAGENAME}}''' is classified as a medium tank, but in reality works more like a tank destroyer with very vulnerable characteristics. Based on the [[Strv m/40L]] hull, it has an adequate speed of 50 km/h to move around on the battlefield and get into ambush positions. In ambush positions, the {{PAGENAME}} can utilize its good gun depression which can change the gameplay of the vehicle in combat of certain maps. Open maps with hills and mounds can give extra protection and cover for the vulnerable vehicle due to the elevation and depression. Meanwhile, close combat maps like Sweden and Advance to the Rhine will be to its disadvantage due to the cramped crew space.
 
-The {{PAGENAME}} is an excellent ambush tank, equipped with a powerful 57 mm [[Pvkan m/43 (57 mm)|Pvkan m/43]] designed to knock out vehicles from a distance where it can be relatively safe and protected from enemy fire. It has enough firepower to handle most enemy vehicles it will face; once unlocked, the APDS ammunition it will be efficient at sniping due to high penetration shells, where even heavy tanks' armour will be rendered ineffective. The {{PAGENAME}} will thrive when it can utilize its strong points using the cannon at distance and efficiently use the gun elevation to its advantage.
+The {{PAGENAME}} is an excellent ambush tank, equipped with a powerful 57 mm [[Pvkan m/43 (57 mm)|Pvkan m/43]] designed to knock out vehicles from a distance where it can be relatively safe and protected from enemy fire. It has enough firepower to handle most enemy vehicles it will face; once unlocked, the APDS ammunition it will be efficient at sniping due to high penetration shells, where even heavy tanks' armour will be rendered ineffective. In addition to the APDS ammunition the tank can also fire a decent APHE shell which can easily one shot enemies.  The {{PAGENAME}} will thrive when it can utilize its strong points using the cannon at distance and efficiently use the gun elevation to its advantage.
 
 The {{PAGENAME}} has a few disadvantages, like the weak side and rear armour and cramped crew space but also a slow turret traverse. Due to these weak points, it's easy for light tanks like the [[Sd.Kfz.234/2]] and [[M24 (Family)|M24]] to knock out it out. It's also very vulnerable to autocannon and heavy machine gun fire, so most SPAA and light tanks will be able to flank around get in close and out turn the {{PAGENAME}}'s turret. In city or towns the {{PAGENAME}} is at a disadvantage with its slow turret rotation and cramped crew space making it an easy target to knock out for most vehicles.
 

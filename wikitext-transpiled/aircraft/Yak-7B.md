@@ -27,10 +27,10 @@ The aircraft has a lightweight body and a good engine making it very capable of 
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 554 || 535 || rowspan="2" | {{Specs|ceiling}} || 22.3 || 23.0 || 13.2 || 13.0 || rowspan="2" | 320
+| 553 || 536 || rowspan="2" | {{Specs|ceiling}} || 22.3 || 23.0 || 13.2 || 13.0 || rowspan="2" | 320
 |-
 ! Upgraded
-| 586 || 570 || 21.0 || 21.5 || 18.0 || 15.5
+| 587 || 570 || 20.7 || 21.5 || 18.0 || 15.5
 |-
 |}
 
@@ -73,6 +73,8 @@ The aircraft has a lightweight body and a good engine making it very capable of 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
+* 8 mm Steel - Pilot's seat back
+* Self-sealing fuel tanks
 
 The aircraft can take a few hits in the engine and in the hull. It has 8 mm (0.31 in) of steel on the seat. You can avoid most of the enemy aircraft but stalling this fighter is a death wish. Any [[Bf 110 (Family)|Bf 110]] or the other Boom & Zoom type aircraft will knock your plane out. It's effective to gradually reduce your speed and make circles clockwise to make enemies overshoot.
 

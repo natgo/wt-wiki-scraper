@@ -25,7 +25,7 @@ The Tiger H1 should be played more like a bulky medium tank rather than a heavy 
 
 The Tiger H1 is equipped with 12 smoke grenades that can help cover the vehicle while it escapes or repairs. Smoke grenades discharge in 2 salvos of 6 (3 to each side of the turret) covering a 120° sector 10 m in front of the vehicle. The grenades deploy smoke in 4 seconds and last 25 seconds. Both salvos are separated by a 1-minute reload time.
 
-The commander cupola is tall and weak: this can lead APHE shells to detonate inside, knocking out at best the loader or even the commander, loader, and gunner.
+The commander cupola is tall and weak: this can lead APHE shells to detonate inside, knocking out at best the loader or even the commander, loader, and gunner. 
 
 '''Armour type:'''
 
@@ -157,7 +157,7 @@ The Tiger H1 is very effective at long range, and should be used accordingly. Pl
 
 There will be many hard eggs to crack such as the IS- Series, T-34 Series, American Jumbos, and several other tanks that will give the {{PAGENAME}} trouble.
 
-* The Russians have many tanks at the BR able to handle the Tiger H1 easily. The main tank at this BR is the T-34-85's. While it may have very thin armour and is easy to penetrate it is easy to angle and the T-34 is a flanking machine, it will drive circles around the Tiger so it needs to be destroyed quick. The IS- Heavy tanks are the second worst nightmare situation. Thick armour and a huge gun. If the IS tank is not destroyed first, it will definitely destroy the Tiger.
+* The Russians have many tanks at this BR able to handle the Tiger H1 easily. The main tank at this BR is usually the T-34-85. While it may have very thin armour that is easy to penetrate, it is easy to angle and the T-34 is a flanking machine. It will drive circles around the Tiger so it needs to be destroyed quickly. The IS- Heavy tanks are the second worst nightmare situation, with thick armour and a huge gun. If the IS tank is not destroyed first, it will definitely destroy the Tiger.
 * The American Jumbos are similar to the T-34. The 75 mm variant would have trouble to penetrate the Tiger's armour at long ranges, but caution needs to be exercised when they are armed with a 76 mm gun.
 * The Japanese tanks all have very thin armour that the 88 mm gun can easily penetrate through with no problem, but their guns at this BR all have enough penetration to deal with the {{PAGENAME}} if it gets a hit on.
 

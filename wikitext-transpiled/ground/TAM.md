@@ -161,11 +161,11 @@ During the 1960s, Argentina was looking far and wide for offers to update its ag
 
 In 1973 however, the Ministry of Defense drew up a set of requirements for a completely new combat vehicle that would be produced domestically and would to enter service by 1980. Despite knowing what they wanted, Argentinian engineers lacked the technical know-how in order to actually design and produce such a vehicle. Faced with this problem, the Argentinian government sought collaboration with a foreign company in order to design and build the vehicle they wanted. Eventually, a contracted was signed with the German Thyssen-Henschel company, a joint development effort soon ensued.
 
-The TAM (Tanque Argentino Mediano, eng: Argentinian Medium Tank), as it would be designated, was based off the German Marder IFV and equipped with a modification of the British, the Royal Ordnance L7A3 cannon that was produced in Germany. The first two prototypes of the TAM were built in 1976 and 1977 respectively and underwent extensive testing over the course of two years.
+The TAM (Tanque Argentino Mediano, eng: Argentinian Medium Tank), as it would be designated, was based off the German Marder IFV and equipped with a modification of the British Royal Ordnance L7A3 cannon that was produced in Germany. The first two prototypes of the TAM were built in 1976 and 1977 respectively and underwent extensive testing over the course of two years.
 
 After successfully passing testing, the TAM was put into mass production in 1979. The vehicles were armed with FMK.4 Modelo 1L cannons, which was a domestic licensed copy of the original German cannon. The government ordered 200 vehicles of the IFV variant. However, economic difficulties resulted in the order being only partially fulfilled before production was restarted later on. Argentina was also very keen on exporting the TAM to other countries, but despite interest and some contracts being signed, the TAM was never widely exported for various reasons.
 
-A total of around 280 TAMs were built and most of them still serve in the Argentinian army, albeit with upgraded equipment. The TAM was never deployed in any combat operations to this date.
+A total of around 280 TAMs were built and most of them still serve in the Argentinian army, albeit with upgraded equipment. The TAM has never been deployed in any combat operations to this date.
 
 ''- From [[wt:en/news/5740-development-tam-replacing-the-old-guard-en|Devblog]]''
 
@@ -173,10 +173,11 @@ A total of around 280 TAMs were built and most of them still serve in the Argent
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=germ_thyssen_henschel_tam Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images
-<gallery mode="packed-hover"  heights="200">
+<gallery mode="packed-hover" heights="200">
 File:TAM.jpg
 </gallery>
 
@@ -189,6 +190,7 @@ File:TAM.jpg
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Leopard 1 (Family)]]
 * [[CV 90105 TML]]
 

@@ -10,14 +10,16 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} American attack helicopter {{Battle-rating}}. It was introduced in [[Update 1.81 "The Valkyries"]].
+The '''Bell AH-1Z Viper''' was a modification of the [[AH-1W|AH-1W Super Cobra]]. The main difference from its predecessor was the installation of four-bladed composite main and tail rotors, as well as modernised engines and improved electronic equipment. The start of full-scale serial production of the AH-1Z was approved at the end of November 2010, and the United States Marine Corps placed an order for 189 Vipers, of which 131 would be upgraded from AH-1W Super Cobras. Bell delivered the final AH-1Z in November 2022.
+
+Introduced in [[Update 1.81 "The Valkyries"]], the most advanced modification of the Cobra significantly differs from other helicopters of this series: two engines and four-bladed main rotors increase the speed and responsiveness of the helicopter, and it is able to equip an assortment of powerful underwing armaments, including Hellfire missiles, AIM-9M air-to-air missiles, as well as modified Hydra-70 rockets with laser guidance (APKWS II).
 
 == General info ==
 === Flight performance ===
 {{Specs-Heli-Flight}}
 <!-- ''Describe how the helicopter behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 
-The AH-1Z is a highly agile attack helicopter, with speeds up to 306 km/h in arcade and 287 km/h in realistic & simulator modes. With a maximum height that exceeds the capability of most other attack helicopters in this game, it can go up to 6,000 meters compared to the [[Ka-52]] (5,400 m), the [[AH-64D]] (5,400 m), and the [[EC-665 Tiger HAD]] (4,300 m).
+The AH-1Z is a highly agile attack helicopter, with speeds up to 306 km/h in arcade and 287 km/h in realistic & simulator modes. With a maximum height that exceeds the capability of most other attack helicopters in this game, it can go up to 6,000 m compared to the [[Ka-52]] (5,400 m), the [[AH-64D]] (5,400 m), and the [[EC-665 Tiger HAD]] (4,300 m).
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -122,25 +124,25 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in a helicopter, the features of using the helicopter in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 [[File:AH-1Z Deploying Flares.jpg|thumb|300px|AH-1Z performs evasive action while deploying flare series.]]
-Using the AH-1Z Viper after the AH-1F requires learning time, the playstyle between this and the AH-1F has some unique differences such as ammunition, views and overall playstyle.
+Using the AH-1Z Viper after the AH-1F requires some learning time, as the playstyle between the two has unique differences in ammunition, views, and overall gameplay.
 
-The AH-1Z is an attack helicopter, it does this role very well, in fact, it is one of the best attack helicopters in the game, with speed up to 411 km/h (255 mph). The AH-1Z offers a large array of ordnance selections, from miniguns and rockets, to Hellfire missiles. In addition, the AH-1Z can carry a combination of missiles, rockets or miniguns together. To optimise your loadout, pick a role to specialise, air protection or ground attack, though this attack helicopter can do it all.
+The AH-1Z is an attack helicopter that excels in its role. In fact, it is one of the best attack helicopters in the game, with speeds up to 411 km/h (255 mph). The AH-1Z offers a large array of ordnance selections, from miniguns and rockets to Hellfire missiles. Additionally, the AH-1Z can carry a combination of missiles, rockets, or miniguns together. To optimize your loadout, choose a role to specialize in, whether it be air protection or ground attack, though this attack helicopter can do it all.
 
-To utilise the AH-1Z viper, make sure to adjust the tactics to the map, for example, on maps with rocks and hilly terrain, stay low and use cover whilst you get to into a position which will allow you to dominate the battlefield. For maps which are open and flat, climb to a high altitude and assess the situation, just make sure to scan the map and not get fixated on a location.
+To effectively use the AH-1Z Viper, make sure to adjust your tactics to the map. For example, on maps with rocks and hilly terrain, stay low and use cover to get into a position where you can dominate the battlefield. On open and flat maps, climb to a high altitude and assess the situation, ensuring to scan the map and not get fixated on a single location.
 
-The AH-1Z has three main playstyles, the playstyles of this attack helicopter are focused around dominating in the following roles: medium & close range, long range, and air protection/support.
+The AH-1Z has three main playstyles focused on dominating in the following roles: medium and close range, long range, and air protection/support.
 
-However, the AH-1Z does have one drawback, due to the increase in size changes to the centre of gravity in high pitch and tight turns, it is possible to lose control. It is advisable to always counteract by keeping the nose of the helicopter level or to lessen the turn radius. If required to do one, such as evading surface to air missiles, make sure that there is enough room to recover the helicopter in – ideally at least 1,000 feet and make sure to increase the pitch of the blades to a 100% to adjust for yawing.
+However, the AH-1Z does have one drawback. Due to the increased size and changes to the center of gravity in high-pitch and tight turns, it is possible to lose control. It is advisable to counteract this by keeping the nose of the helicopter level or reducing the turn radius. If required to make a tight turn, such as when evading surface-to-air missiles, ensure there is enough room to recover the helicopter, ideally at least 300 m, and increase the pitch of the blades to 100% to adjust for yawing.
 
 ====Close/medium range====
 The AH-1Z offers a combination of wing-mounted ordnance and ordnance packages which are available from Rocket pods, Machine guns, Hellfire missiles.
 
-In an nonupgraded configuration it can carry up to 76 x Hydra-70 rockets or two pods with machine guns, but taking them to the battle will reduce the amount of Hydras to 38. Using these weapons will force you to get close to the ground units and make the helicopter vulnerable to turret-mounted anti-air weapons or SPAAGs, so it is recommended to stay at very low altitude and use the high level speed to evade fire.
+In an non-upgraded configuration it can carry up to 76 x Hydra-70 rockets or two pods with machine guns, but taking them to the battle will reduce the amount of Hydras to 38. Using these weapons will force you to get close to the ground units and make the helicopter vulnerable to turret-mounted anti-air weapons or SPAAGs, so it is recommended to stay at very low altitude and use the high level speed to evade fire.
 
 Hydra rockets are not as reliable as long range AGMs, their accuracy is not great and in most cases even if the player manages to get close to the battlefield it will be able to destroy only a few units or disable their weapons and other components.
 
 ====Long range - Hellfire missiles====
-To utilise the long-range performance of the AH-1Z, hover outside of the combat zone. It is important that you check and make sure that there are no threats in the vicinity which could shoot you down. Once the combat zone has been declared safe from vehicles which could destroy you. Increase altitude, until you have a good visual on the objectives. Hover the helicopter, change the view to the gun camera and locate a target ground vehicle and fire! The Hellfire missiles offer up to 1,100 mm of penetration with a speed of 475 meters per second.
+To utilise the long-range performance of the AH-1Z, hover outside of the combat zone. It is important that you check and make sure that there are no threats in the vicinity which could shoot you down. Once the combat zone has been declared safe from vehicles which could destroy you. Increase altitude, until you have a good visual on the objectives. Hover the helicopter, change the view to the gun camera and locate a target ground vehicle and fire! The Hellfire missiles offer up to 1,100 mm of penetration with a speed of 475 m/s.
 
 Firing the Hellfire missiles, you will notice that you cannot see them. This is normal, you need to keep the laser designator on the target. On the HUD, left-hand side, you will see a countdown, it takes 10 seconds for the missile to hit the target. When the Hellfire gets close to the target you will see the rocket, this where you can adjust the missile trajectory.
 

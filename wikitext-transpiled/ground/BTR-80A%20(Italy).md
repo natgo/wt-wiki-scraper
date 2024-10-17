@@ -10,13 +10,15 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian light tank {{Battle-rating}} in the Italian research tree. It was introduced in [[Update "Sons of Attila"]] as part of the Hungarian branch of the Italian tech tree. It is a jack of all trades, master of none type of light tank. It can do a lot of support work, including damaging critical weakspots of tanks and being a makeshift SPAA, but it has way too many flaws to excel in any given role. Make no mistake though, BTR can be very persistent, and if it somehow manages to get behind your lines, anyone can fall victim to a sudden autocannon burst.
+The '''{{Specs|name}}''' is the main Hungarian APC (Armoured Personnel Carrier). Hungary acquired the BTR-80 after buying more than 500 from Russia between 1996 and 1999 to modernise its fleet of old BTR-60s and 70s at a good price, since at the time Russia was struggling financially and had a lot of Soviet surplus military equipment lying around. A few dozen BTR-80As were sold to Serbia in 2024, while the rest remained in the Hungarian Army. As the years passed, most units were modified and modernised to the modern Russian BTR-80 standard, with stabilizers, improved optics, and modern communication systems. Others were repurposed as MED-EVAC vehicles or for NBC missions.
+
+Introduced in [[Update "Sons of Attila"]] as part of the Hungarian branch of the Italian tech tree, the BTR-80 is a "jack of all trades, master of none" type of light tank. It can do a lot of support work, including damaging critical weakspots of tanks and being a makeshift SPAA, but it has too many flaws to excel in any given role. The BTR can be very persistent, and if it somehow manages to get behind your lines, anyone can fall victim to a sudden autocannon burst. The vehicle is excellent at incapacitating enemy units while also being able to engage light tanks, IFVs, ATGM carriers, or SPAAs. With its good mobility and amphibious capabilities, it can cause havoc amongst the enemy back rows, destroying its support units and making its frontline vulnerable to flanking manoeuvres or air attacks.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-The armour of BTR is unreliable and quite bad. While 12.7 mm HMG can't penetrate the turret, it can penetrate crew compartment hull at below 200 m range. The sandbags on the sides protect the gunner, but can't protect the driver or commander. Even so, area around wheels can be hit instead to hit the crew anyway. 
+The armour of BTR is unreliable and quite bad. While 12.7 mm HMG can't penetrate the turret, it can penetrate crew compartment hull at below 200 m range. The sandbags on the sides protect the gunner, but can't protect the driver or commander. Even so, area around wheels can be hit instead to hit the crew anyway.
 
 HESH will obliterate the BTR via overpressure, even if it hits sandbags, so relying on armour is not worth it. As a consequence of thin armour, APHE rarely detonates upon contact, but due to the compact crew placement, any direct frontal hit will destroy the entirety of the tank with kinetic damage alone.
 
@@ -58,7 +60,7 @@ The chassis can swim, if necessary.
 === Modifications and economy ===
 {{Specs-Economy}}
 
-About 80% of tank power is locked behind upgrades, arguably the most important ones are in the Tier IV modifications. First priority should be improving turret handling by researching horizontal drives, then adjustment of fire to make it able to reliably damage enemy cannons. After this, getting a special AP ammo belt could be useful for destroying and/or annoying tanks and airstrike upgrade could be very beneficial in AB to research BTR through air superiority. At that point researching parts makes at least some sense, as tank will now be at least somewhat useful in real combat situations. Continue down the ranks by researching anything cannon and mobility related, as FPE and NVD are quite useless on this IFV. Optionally, take crew replenishment instead of movement upgrade in Tier III if playing in AB, as it may allow to sustain more damage. Upon reaching Tier IV modifications, research APDS belt immediately, then go for mobility upgrades and pick any utility tools you feel necessary. 
+About 80% of tank power is locked behind upgrades, arguably the most important ones are in the Tier IV modifications. First priority should be improving turret handling by researching horizontal drives, then adjustment of fire to make it able to reliably damage enemy cannons. After this, getting a special AP ammo belt could be useful for destroying and/or annoying tanks and airstrike upgrade could be very beneficial in AB to research BTR through air superiority. At that point researching parts makes at least some sense, as tank will now be at least somewhat useful in real combat situations. Continue down the ranks by researching anything cannon and mobility related, as FPE and NVD are quite useless on this IFV. Optionally, take crew replenishment instead of movement upgrade in Tier III if playing in AB, as it may allow to sustain more damage. Upon reaching Tier IV modifications, research APDS belt immediately, then go for mobility upgrades and pick any utility tools you feel necessary.
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
@@ -67,7 +69,7 @@ About 80% of tank power is locked behind upgrades, arguably the most important o
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|2A72 (30 mm)}}
 
-The cannon is a rather slow firing 30 mm found on some Soviet tanks, such as BMP-3. The turret is rather sluggish too, being unable to keep up with the IFV when it is driving fast, even when fully upgraded, even in AB with good crew. 
+The cannon is a rather slow firing 30 mm found on some Soviet tanks, such as BMP-3. The turret is rather sluggish too, being unable to keep up with the IFV when it is driving fast, even when fully upgraded, even in AB with good crew.
 
 The elevation angles are absolutely atrocious and if the BTR is angled even a bit, it will not reach short tanks. Even when the chassis are not angled, it will be unable to aim at the bottom of Soviet tanks until about 100 m away. Even if, by some miracle, it can aim at their bottom weakspot, the gun recoil will make the gun aim higher anyway, so it is better to aim for crippling shots, rather than try to destroy enemies outright.
 
@@ -157,7 +159,7 @@ After getting tier IV modifications, you will finally have some mobility and eno
 If you are very good at sneaking, you want to get behind enemy lines and get exactly behind enemy MBTs to line them up and then fire at their engines or turret backs, then laugh at the explosions. This is easier said than done, as majority of players at natural BR prefer spawning heavy tanks, and those that do not are generally faster than you and will be already entrenched and on overwatch, but it is still worth attempting. Here are some examples of successful flank:
 
 <gallery mode="packed-hover" heights="150px">
-BTR side ambush.jpg|By staying out of sight you can sneak around and catch complacent players off guard. Sometimes works multiple times. 
+BTR side ambush.jpg|By staying out of sight you can sneak around and catch complacent players off guard. Sometimes works multiple times.
 BTR back flank.jpg|Ideal scenario - you managed to drive around enemy arriving on a cap without being seen. Prioritize paranoid enemies.
 </gallery>
 
@@ -188,6 +190,7 @@ BTR back flank.jpg|Ideal scenario - you managed to drive around enemy arriving o
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_btr_80a_hungary Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -196,6 +199,7 @@ BTR back flank.jpg|Ideal scenario - you managed to drive around enemy arriving o
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[BTR-80A]]
 
 == External links ==

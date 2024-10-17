@@ -118,12 +118,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="15%" | 1 !! width="15%" | 2 !! width="15%" | 3
-| rowspan="5" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="6" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[GP 50 (50 kg)|50 kg GP 50]] bombs
 | 1 || || 1
 |-
 ! [[GP 100T (100 kg)|100 kg GP 100T]] bombs
+| 1 || || 1
+|-
+! [[A.P 160 (160 kg)|160 kg A.P 160]] bombs
 | 1 || || 1
 |-
 ! [[GP 250 (250 kg)|250 kg GP 250]] bombs
@@ -142,6 +145,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 2 x 100 kg GP 100T bombs (200 kg total)
 * 1 x 250 kg GP 250 bomb (250 kg total)
 * 1 x 500 kg GP 500 bomb (500 kg total)
+* 2 x 160 kg A.P 160 bombs (320 kg total)
 {{Navigation-End}}
 
 == Usage in battles ==

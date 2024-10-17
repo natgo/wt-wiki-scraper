@@ -5,7 +5,11 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} French battleship {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+'''Lorraine''' was a [[Bretagne (Family)|Bretagne-class]] battleship of the French fleet, launched in 1913 and named after the French region of Lorraine. She was considered, like her sister ships, a super-dreadnought, but only thanks to the calibre of her guns. Due to the constraints of French shipyards, her length and displacement remained almost unchanged compared to her predecessors of the [[Courbet (Family)|Courbet class]].
+
+She spent most of her service in the Mediterranean. In World War I, she was stationed in the port of Corfu, successfully preventing the Austro-Hungarian fleet from leaving the Adriatic Sea without firing a shot. In the 1920s and 1930s, she underwent a number of refits, one of which removed her central battery, replacing it with additional anti-air armament. With the outbreak of World War II, she carried a shipment of French gold to Bermuda, then returned to the Mediterranean. With the French surrender, she was interned by the British in the port of Alexandria. By the end of 1942, she was transferred to the Free French Navy, and participated in the Allied invasion of Provence and the siege of La Rochelle. After the war, she was used as a stationary gunnery training ship, then barracks ship, and finally was sold to a shipbreaking company in 1954.
+
+The Lorraine was introduced in [[Update "La Royale"]] in her 1944 refit. She is characterised by low mobility and mediocre protection, but has good anti-air defence and powerful main guns.
 
 == General info ==
 === Survivability and armour ===

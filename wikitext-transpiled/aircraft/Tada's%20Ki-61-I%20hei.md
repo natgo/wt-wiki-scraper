@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update "Starfighters"]]. The plane is painted after the camouflage scheme of the pilot Chuichi Tada of the 78th Sentai based in Rabaul, New Guinea.
+This '''Ki-61-I hei''', designated as the '''Type 3 Fighter ({{Annotation|三式戦闘機|San-shiki Sentōki}})''', was flown by pilot '''Takeichi Tada''' of the 78th Sentai. The 78th Sentai was initially formed in 1942 in Manchuria, equipped with Ki-27s. In April 1943, the unit was recalled to Akeno Airbase, Japan, where they were the 2nd Squadron transitioned to the Ki-61 after intense training. The unit's insignia, eight stylized 7s forming a chrysanthemum, symbolized "78". After training, the squadron was deployed to Rabaul in June 1943, where they camouflaged their Ki-61s, removing the unit insignia and painting tail lines in white, yellow, or blue to distinguish the Chutai (flight groups). The 78th Sentai earned the distinction of securing the first aerial victory with the Ki-61 and flew defensive missions over Rabaul until the unit was effectively destroyed and disbanded by July 1944.
+
+Introduced in [[Update "Starfighters"]], the '''Ki-61-I hei''' retains the excellent manoeuvrability typical of Japanese aircraft but has some limitations. Its top speed is only marginally higher than early "Zeroes", and while it accelerates well and maintains energy, it falls behind other aircraft in overall speed, resembling the German Bf 109 G-6. The armament is deadly, featuring two MG 151 20 mm cannons with German Minengeschoß shells for devastating firepower, paired with Japanese 12.7 mm guns equipped with HE shells. Although the ammo count is average, it's less than that of American aircraft. The effective landing flaps aid in slowing down during combat, allowing for overshoots. The Hei Hien can also carry various bombs, with the 250 kg loadout being the most effective. For air combat, air target belts for the MG 151s, packed with Minengeschoß shells, and stealth or air target belts for the 12.7 mm guns are recommended.
 
 == General info ==
 === Flight performance ===
@@ -87,17 +89,17 @@ The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} Japanese fighter {{Bat
 <!-- ''Describe the offensive armament of the aircraft, if any. Describe how effective the cannons and machine guns are in a battle, and also what belts or drums are better to use. If there is no offensive weaponry, delete this subsection.'' -->
 {{main|MG 151 (20 mm)|Ho-103 (12.7 mm)}}
 
-The '''''{{PAGENAME}}''''' is armed with:
+'''''{{PAGENAME}}''''' is armed with:
 
-* 2 x 20 mm MG 151 cannons, wing-mounted (150 rpg = 300 total)
-* 2 x 12.7 mm Ho-103 machine guns, nose-mounted (400 rpg = 800 total)
+* 2 x 20 mm MG 151 cannons, wing-mounted (120 rpg = 240 total)
+* 2 x 12.7 mm Ho-103 machine guns, nose-mounted (250 rpg = 500 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|Army Type 94 GPHE (50 kg)|Army Type 94 GPHE (100 kg)|Army Type 92 GPHE (250 kg)}}
 
-The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+'''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 * Without load
 * 2 x 50 kg Army Type 94 GPHE bombs (100 kg total)
@@ -179,7 +181,22 @@ For ground pounding, the best loadout is the 2 x 250 kg bombs. With an extra 500
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+{{Notice|This aircraft and history are based on a Russian source and have some (translation) inaccuracies
+
+For a long time, the aircraft was believed to be piloted by '''"Tada Chuichi"''' who allegedly achieved a confirmed aerial victory over Neil Kirby. However place, dates and aircraft models do not align. Upon further investigation by Japanese volunteers, national archives revealed that the only pilot named "Tada" under the 78th Sentai was '''"Takeichi Tada"''' with no known combat history.<ref name="TwitterType3">[https://x.com/type3fighter/status/1304415351644409856 (JP) Twitter x-post on national archives]</ref>}}
+
+The 78th Sentai, an Imperial Japanese Army Air Force fighter unit, was established in March 1942 in Xingshu, Manchuria, and was initially equipped with the Ki-27. The unit was originally stationed in Manchuria, based in April at Sunjia (near Harbin) and from December at Lioyang. During this early period, the 78th Sentai focused on local air defence and patrol missions, but as the Pacific War started and intensified, their role and equipment evolved.
+
+[[File:Jp ijaaf 78 snt blossom .png|left|thumb|"Chrysanthemum" of the 78th Sentai. (Note: Eight 7s to form the stylized flower)]]
+In April 1943, the 78th Sentai returned to Akeno Airbase in Japan, where they became the second Sentai, alongside the 68th Sentai, to be re-equipped with the Ki-61 "Hien", a newer and more powerful fighter. The transition from the Ki-27 to the Ki-61 required intensive training, especially given the significant differences between the two aircraft. The Ki-61 was more heavily armed and featured a liquid-cooled inline engine, a departure from the radial engines typically used by Japanese fighters. The Sentai adopted the unit insignia of a chrysanthemum-like design, featuring eight stylized sevens to represent their number "78".
+
+By June 1943, after completing their conversion to the Ki-61 and mastering the new aircraft, the 78th Sentai was deployed to Rabaul, New Guinea. The first group of 33 aircraft arrived via a newly established and complex air route that bypassed the usual stop at Truk, taking a detour through Nyutabaru, Naha, Chiaya (Taiwan), Manila, Davao, Manado, Babo, Hollandia, and ultimately Wewak. A second group, consisting of 15 additional aircraft, was transported aboard the aircraft carrier Un'yō, departing from Yokosuka.
+
+In New Guinea, the 78th Sentai flew primarily defensive missions, including bomber escort and interception duties, over the fiercely contested skies. Air battles in the region were extremely severe, and the 78th Sentai faced a well-coordinated and heavily armed Allied force. Despite this, the 78th Sentai scored several notable successes. The first aerial victory with the Ki-61 came when a pilot of the 78th successfully shot down a P-38 Lightning. The Ki-61's improved performance, especially its speed and armament, made it a formidable adversary against Allied aircraft.
+
+However, the intense combat took a heavy toll on the 78th Sentai. The unit suffered significant losses during its time in New Guinea, both in aircraft and experienced pilots. One of the most tragic losses was that of Lieutenant Takamiya Keiji, an ace pilot with 17 confirmed kills, whose death was a severe blow to the morale and combat effectiveness of the unit.
+
+By September 1943, the situation had become untenable, and the 78th Sentai was forced to retreat to Manila to regroup and resupply. They returned to Wewak in mid-October 1943, but the unit continued to face mounting losses as the war in the Pacific dragged on. The attrition in men and machines steadily worsened, and by March 1944, the 78th Sentai had lost all of its aircraft. Despite their best efforts, the unit was unable to recover, and by July 1944, the 78th Sentai was officially disbanded. The remaining ground crew and surviving personnel of the 78th Sentai were stranded in Sarmi, Papua, where they were forced to fend for themselves until the end of the war.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -201,6 +218,13 @@ For ground pounding, the best loadout is the 2 x 250 kg bombs. With an extra 500
 * ''other literature.'' -->
 
 * [https://forum.warthunder.com/index.php?/topic/212461-kawasaki-ki-61-i-hei/ Official data sheet - more details about the performance]
+* [https://zawazawa.jp/warthunder/topic/1800?page=1 (JP) War Thunder Japanese Wiki - Ki-61-I tei Tada's comment section]
+
+=== References ===
+<references />
+* [https://soranokakera.lekumo.biz/tesr/2018/01/post-3600.html (JP) Sorano Kakera - Army Air Squadron List Database]
+* [https://pacificwrecks.com/units/jaaf/78.html Pacific Wrecks - 78th Hiko Sentai (78th Flying Regiment)]
+* [http://www.aviationofjapan.com/2008/08/78th-sentai-chrysanthemum-or-cherry.html Aviation of Japan - 78th Sentai "Chrysanthemum" or "Cherry Blossom" Marking]
 
 {{AirManufacturer Kawasaki}}
 {{Japan fighters}}

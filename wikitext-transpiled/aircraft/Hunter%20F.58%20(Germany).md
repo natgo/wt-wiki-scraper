@@ -223,7 +223,7 @@ While Swiss purchased the F.58 variant which was based on the F.6 with ground-at
 * Huge target, can be easy prey to enemy gunfire
 * Not manoeuvrable below 600 km/h
 * Relatively limited payload options due to pylon layouts
-* Due to its advanced capabilities will face off against supersonic jets often, which renders the Hunter's subsonic capabilities futile
+* Due to its updated avionics, it will face off against supersonic jets often, which renders the Hunter's subsonic capabilities futile
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

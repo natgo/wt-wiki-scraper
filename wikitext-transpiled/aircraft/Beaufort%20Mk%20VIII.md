@@ -114,7 +114,7 @@ When engaging fighters ([[Yak-7B|Yak-7s]], [[Bf 109 E-3|Bf 109 Es]], [[Spitfire 
 
 When engaging bombers, try to come below them and pepper them with your tail gunner. Flying in front of them and aiming for the enemy bombers pilot is also effective.
 
-Be mindful of these things too; watch out for players diving on you, as they can easily kill your tail gunner from above. Also watch out for rockets, even a B-17 can't take a rocket hit! Plus some of the American planes ([[F2A-3|F2A]], [[F4F-3|F4F]]) are armed with four or more .50s, try to avoid these as their ammunition count is very large and they are easily able to critically damage a Beaufort.
+Be mindful of these things too; watch out for players diving on you, as they can easily knock out your tail gunner from above. Also watch out for rockets, even a B-17 can't take a rocket hit! Plus some of the American planes ([[F2A-3|F2A]], [[F4F-3|F4F]]) are armed with four or more .50s, try to avoid these as their ammunition count is very large and they are easily able to critically damage a Beaufort.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -140,7 +140,7 @@ Be mindful of these things too; watch out for players diving on you, as they can
 
 * Very strong rear 12.7 mm machine guns
 * Fast and agile for a bomber
-* Two pilots (if one is killed, you can still fly)
+* If one pilot is knocked out, the copilot can still fly
 * Universal ammo belt for the 12.7 mm machine guns contains a large amount of API ammo
 * 12.7 mm machine guns can engage enemy aircraft effectively over 1,500 m away
 

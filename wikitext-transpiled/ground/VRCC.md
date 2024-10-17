@@ -1,14 +1,15 @@
 {{Specs-Card
 |code=it_vrcc_centauro
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|StoreImage_{{PAGENAME}}_002.jpg}}
-|store=11443
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 Introduced into the service of the Spanish Army in the late 1990s, the VRCC (Cavalry Reconnaissance and Combat Vehicle) has proven to be an invaluable asset over the years. Since its introduction, the VRCC has been an essential component in various military operations and exercises, making significant contributions to Spain's defense capability. Belonging to prestigious Cavalry regiments such as the 10th "Alcántara" Cavalry Regiment and the 12th "Farnesio" Cavalry Regiment, the VRCC has established a legacy of excellence in military service throughout the 2000s and 2010s. The VRCC has taken part in various operational missions over the years, including deployments in regions such as the Balkans, the Middle East, and Africa. From peacekeeping and security missions in the Balkans to support operations in conflict zones in the Middle East and Africa, the VRCC has proven its capability to adapt to different environments and situations.
 
-The VRCC was introduced in [[Update "Drone Age"]]. It stands as a formidable force. Armed with a potent 105 mm cannon, it possesses the ability to engage and neutralize a wide spectrum of targets with accuracy and efficiency. Its swift mobility across diverse landscapes empowers rapid deployment and tactical manoeuvrability, ensuring a potent presence on the battlefield. Enhanced by advanced electronic systems, the VRCC offers heightened situational awareness, enabling effective command and control. Whether conducting reconnaissance or providing support in offensive operations, the VRCC's combat capabilities underscore its crucial role on the battlefield.
+The VRCC was introduced as a premium gift vehicle in [[Update "Drone Age"]], but was removed from the store after the [[wt:en/news/https://warthunder.com/en/news/8880-shop-may-sale-in-the-gaijin-store-enn|2024 May sales]]. 
+
+It stands as a formidable force. Armed with a potent 105 mm cannon, it possesses the ability to engage and neutralize a wide spectrum of targets with accuracy and efficiency. Its swift mobility across diverse landscapes empowers rapid deployment and tactical manoeuvrability, ensuring a potent presence on the battlefield. Enhanced by advanced electronic systems, the VRCC offers heightened situational awareness, enabling effective command and control. Whether conducting reconnaissance or providing support in offensive operations, the VRCC's combat capabilities underscore its crucial role on the battlefield.
 
 == General info ==
 === Survivability and armour ===

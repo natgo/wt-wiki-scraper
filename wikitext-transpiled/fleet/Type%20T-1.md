@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese motor torpedo boat {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The '''{{Specs|name}} (No.1)''' was the first domestically built, production-model small torpedo boat for the Japanese Navy, following years of low-priority research. The major obstacle for Japanese motorboat development was the lack of small yet high-power engines, but this did not prevent the Japanese from trying. Constructed at the Yokohama Yacht Workshop's Tsurumi Factory and completed in 1941, the No.1 class of patrol boats ranged from No.1 to No.6 and were divided in half at the start of the war, with deployments to Tarawa and Wake Island. By 1943, all but one had been lost.
+
+It was introduced in [[Update 1.89 "Imperial Navy"]]. As the first development of Japanese motor patrol boats, the T-1 offers a basic all-round motor torpedo boat with limited firepower and armour. Equipped with guns, torpedoes, and depth charges, its effectiveness is rather low and requires skilful manoeuvring. The T-1's armament includes only 2 x 7.7 mm MGs, which, despite having decent firing angles, provide insufficient damage output for offensive use. Therefore, careful manoeuvring is essential to utilise its average MTB speed effectively and to surprise enemy vessels.
 
 == General info ==
 [[File:Type T-1 1.jpg|thumb|349x349px|The Type T-1 ]]

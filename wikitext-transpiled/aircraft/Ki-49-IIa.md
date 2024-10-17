@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27.
+The '''{{Specs|name}}''' was a Japanese medium bomber developed in late 1930s. The development of the Ki-49 began after experience from combat with Ki-21 showed that the bomber would be unable to conduct daylight bombing missions unescorted. To remedy this issue, heavy defensive armament as well as armour was installed. The Ki-49-IIa featured more powerful Ha-109 engines as opposed to the Ha-41 engines used previously, self-sealing fuel tanks, and an improved armour scheme.
 
-The Ki-49's role is a low-altitude medium bomber capable of destroying ground targets such as pillboxes and tanks. Although hindered by a low total bomb capacity, this aircraft is renowned for its impressive manoeuvrability. This being said, it is very easy for the Ki-49 to hover above an area and drop all of its payloads rather quickly. Heavy bombers such as the G8N1 Renzan have a harder time due to their sheer size and slow rate of turn. Make sure to select either of the 4 x 250 kg bomb load outs if attacking targets like tanks, pillboxes, or smaller ships.
+The Ki-49-IIa has been in the game since the start of the Open Beta Test prior to Update 1.27. The Ki-49's role is a low-altitude medium bomber capable of destroying ground targets such as pillboxes and tanks. Although hindered by a low total bomb capacity, this aircraft is renowned for its impressive manoeuvrability. The defensive armament coupled with the armour also makes repelling attackers easier, especially with the dorsal 20 mm cannon.
 
 == General info ==
 === Flight performance ===

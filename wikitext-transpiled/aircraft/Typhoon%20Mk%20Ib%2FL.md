@@ -32,7 +32,7 @@ You also get some decent payload options. A choice of 2 x 250, 500 or 1,000 lb b
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 647 || 626 || rowspan="2" | {{Specs|ceiling}} || 20.4 || 21.0 || 16.5 || 16.5 || rowspan="2" | 450
+| 646 || 629 || rowspan="2" | {{Specs|ceiling}} || 20.4 || 21.0 || 16.2 || 16.2 || rowspan="2" | 450
 |-
 ! Upgraded
 | 696 || 671 || 18.7 || 19.5 || 23.2 || 19.5
@@ -209,6 +209,7 @@ After many early teething problems, critical failures and threats to be withdraw
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=typhoon_mk1b_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -220,10 +221,12 @@ After many early teething problems, critical failures and threats to be withdraw
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Typhoon (Family)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

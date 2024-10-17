@@ -112,9 +112,14 @@ The '''''{{PAGENAME}}''''' is defended by:
 
 '''Pros:'''
 
+* Good turret coverage
+* Bombs have decent explosive filler
+
 *
 
 '''Cons:'''
+
+* Limited ammunition for turrets
 
 *
 

@@ -151,6 +151,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 3 x 500 lb G.P. Mk.IV bombs (1,500 lb total)
 * 8 x RP-3 rockets
 * 2 x 250 lb G.P. Mk.IV bombs + 4 x RP-3 rockets (500 lb total)
+* 2 x Triplex R.P. rockets
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -163,7 +164,7 @@ The main task for a Mk 24 pilot is to utilize the immense power of the Rolls-Roy
 
 The Spitfire F Mk 24's main combat tactic is Boom & Zooming due to its outstanding speed, armament, and engine output. Because of the last point, Energy fighting is an option open to the Mk 24 as well, when engaging an enemy separated from his team. The Rolls-Royce Griffon engine is what opens the Spitfire F Mk 24 to both of these tactics. Not only does the Griffon engine bestow the Mk 24 with incredible top speed, but it also causes the fighter to accelerate incredibly fast allowing it to keep its speed for longer even in a sharp climb.
 
-Although boom-and-zooming and energy fighting are the main tactics of the Spitfire F Mk 24, the fighter is also able to keep up with most enemies in-turn fights with few exceptions (namely Japanese fighters). Try to maintain a speed of between 400-500 km/h; this is where the plane maintains a high turn rate. Turning below this velocity against planes such as the [[P-51H-5-NA]] is not recommended. The Mk 24 should avoid combat at low altitude especially versus Soviet fighters who excel below 4 km. The Mk 24's strength is at high altitude combat, where it can fully utilize the power of its Griffon engine.
+Although boom-and-zooming and energy fighting are the main tactics of the Spitfire F Mk 24, the fighter is also able to keep up with most enemies in-turn fights with few exceptions (namely Japanese fighters). Try to maintain a speed of between 400-500 km/h; this is where the plane maintains a high turn rate. Turning below this velocity against planes such as the [[P-51H-5-NA]] is not recommended. The Mk 24 should avoid combat at low altitude especially versus Soviet fighters who excel below 4 km. The Mk 24's strength is at high altitude combat, where it can fully utilize the power of its Griffon engine to excel in combat.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -197,6 +198,7 @@ Although boom-and-zooming and energy fighting are the main tactics of the Spitfi
 * Very good roll rate
 * Very high wing rip speed
 * Works well with manual engine control
+* High climb rate
 
 '''Cons:'''
 

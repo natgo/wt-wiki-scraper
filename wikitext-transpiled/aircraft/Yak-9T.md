@@ -35,10 +35,10 @@ Like other Yak fighters, the {{PAGENAME}} has excellent low altitude performance
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 576 || 560 || rowspan="2" | {{Specs|ceiling}} || 18.8 || 19.5 || 13.7 || 13.6 || rowspan="2" | 366
+| 578 || 559 || rowspan="2" | {{Specs|ceiling}} || 18.8 || 19.5 || 13.7 || 13.5 || rowspan="2" | 366
 |-
 ! Upgraded
-| 610 || 593 || 17.2 || 18.0 || 18.5 || 16.0
+| 611 || 593 || 17.2 || 18.0 || 18.5 || 16.0
 |-
 |}
 

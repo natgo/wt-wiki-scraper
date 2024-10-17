@@ -94,7 +94,7 @@ The introduction of the Royal Ordnance 105 mm L7 cannon marked the transformatio
 |}
 
 ==== Ammunition ====
-{{:ZPL94 (105 mm)/Ammunition|Type-83 HEAT, DTB-1, Type-83 HESH, Type-83 APDS}}
+{{:ZPL94 (105 mm)/Ammunition|Type-83 HEAT, DTB-1, Type-83 HESH, BTM1, Type-83 APDS}}
 
 The ZTZ88A offers a range of shells at the player's disposal, and players who already own the [[T-69 II G]] will be very familiar with them as both tanks share the same shells.
 
@@ -103,6 +103,8 @@ The first option that comes stock is the Type 83 HEAT having identical performan
 The DTB-1 is very different from most HE shells at its tier - it is a VT shell, meaning that the shell detonates when it is close to other vehicles, including aircraft; this is a trait that the ZTZ88A's NATO counterparts don't have. It has 1.66 kg of explosive mass, which can sometimes knock out lighter vehicles like SPAAs, but its real utility lies in its anti-air potential. It is suggested to use to target aircraft or helicopters which happen to be within your elevation angle - a hit from DTB-1 is very lethal to aircraft.
 
 The Type 83 HESH is another story. It is a common HESH found on NATO vehicles - a solid hit on vehicles can trigger a lethal post-penetration effect, but the results of HESH is mixed. It generates a wide cone of shrapnel but the effects tend to be rather shallow or inconsistent. It is still possible to snipe stationary vehicles hiding behind cover with Type 83 HESH in some cases so bring some if desired - the laser rangefinder will certainly help with this.
+
+The BTM1 SAP shell is an interesting option returning from the [[ZTZ59D1]]. It can't be said to have high penetration by Rank VI standards (and doesn't benefit from the ZPL94 cannon's increased muzzle velocity), but its instant-knockout ability can be entertaining for attacks of opportunity, especially when using the ZTZ88A's good mobility and gun handling compared to previous Chinese tanks.
 
 The last round available is Type 83 APDS, which is actually an APFSDS round. Thanks to the longer barrel of the ZPL94, the overall penetration is slightly higher than M111/DM23 APFSDS at 351 mm point-blank; this is the go-to shell for the ZTZ88A. It might not have the highest penetration at its tier, especially compared to the [[PTL02]] and [[PTZ89]], but it can still hit enemies hard. There are a few opponents to watch out for in uptiers: the British [[Chieftain Mk 10]] and [[Challenger Mk.2]]/[[Challenger Mk.3|Mk.3]] have tough turrets, and the Soviet [[T-72A]] (when spaded), [[T-72AV (TURMS-T)]], [[T-64B]], and [[T-72B]] have tough turret and UFP armour that the ZTZ88A cannot penetrate without aiming for weak spots.
 

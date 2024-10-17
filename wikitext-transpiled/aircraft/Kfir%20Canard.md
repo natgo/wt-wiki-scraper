@@ -136,9 +136,8 @@ The Kfir Canard relies upon not being hit to be effective, largely achieved thro
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
-** 2 x 30 mm DEFA 552A cannons + 36 x countermeasures
+* 2 x 30 mm DEFA 552A cannons, belly-mounted (140 rpg = 280 total)
+* 36 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -149,7 +148,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_Kfir_C.2.png]]</div>
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_Kfir_C.2.png]]</div>
 |-
 ! [[GAU-4 (20 mm)|20 mm GAU-4]] cannons (1,200 rpg)
 | || 1 || || || || 1 ||
@@ -184,12 +183,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Shafrir 2]] missiles
 | 1 || || || || || || 1
 |-
+! 880 l drop tanks
+| || || || 1 || || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 1 x 880 l drop tank
 * 2 x AIM-9D Sidewinder missiles
 * 2 x Shafrir 2 missiles
 * 2 x AIM-9G Sidewinder missiles
@@ -263,6 +265,10 @@ File:StoreImage Kfir Canard 004.jpg|<small>Kfir Canard in flight</small>
 ;Skins
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=kfir_canard Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
+
+
+;Videos
+{{Youtube-gallery|8iI4xBykiDE|'''Kfir Canard Ultimate Guide''' - ''Bob Dickinson''}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

@@ -127,10 +127,17 @@ Following trials, the Na-To II was selected over the Na-To I to be mass-produced
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_type_5_na_to Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Other vehicles of similar configuration and role
+* [[File:Germany flag.png|30px|link=]] [[Marder III]] [[Marder III H|(H)]]
+* [[File:USSR flag.png|30px|link=]] [[SU-76M]]
+* [[File:Sweden flag.png|30px|link=]] [[Pvkv m/43 (1946)]]
+* [[File:Britain flag.png|30px|link=]] [[Archer]]
+* [[File:Germany flag.png|30px|link=]] [[Sd.Kfz.251/22]]
+* [[File:USA flag.png|30px|link=]] [[M3 GMC]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

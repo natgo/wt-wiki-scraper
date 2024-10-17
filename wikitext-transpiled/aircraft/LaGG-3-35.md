@@ -30,7 +30,7 @@ The LaGG-3-35 is a jack of all trades type of fighter aircraft. It does not have
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 549 || 534 || rowspan="2" | {{Specs|ceiling}} || 21.9 || 22.7 || 11.3 || 11.1 || rowspan="2" | 403
+| 548 || 534 || rowspan="2" | {{Specs|ceiling}} || 22.0 || 22.8 || 11.4 || 11.3 || rowspan="2" | 403
 |-
 ! Upgraded
 | 583 || 566 || 20.1 || 21.0 || 16.5 || 13.8
@@ -197,6 +197,7 @@ In terms of armaments, the LaGG-3 carried two 12.7 mm Berezin BS machine guns, o
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=lagg-3-35 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -205,6 +206,7 @@ In terms of armaments, the LaGG-3 carried two 12.7 mm Berezin BS machine guns, o
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[LaGG-3 (Family)]]
 * [[La-5 (Family)]]
 

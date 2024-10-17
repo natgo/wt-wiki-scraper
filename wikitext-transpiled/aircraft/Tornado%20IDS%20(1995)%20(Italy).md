@@ -168,6 +168,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Large calibre countermeasures
 | 28 || || || || || || || || || || 28
 |-
+! Large calibre chaff
+| 340 || || || || || || || || || || 340
+|-
 ! CLDP targeting pod
 | || || || || || || || 1<sup>†</sup> || || ||
 |-
@@ -182,7 +185,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 1,500 l drop tanks
-* 56 x large calibre countermeasures
+* 56 x large calibre countermeasures + 680 x large calibre chaff
 * 2 x AIM-9L Sidewinder missiles
 * 4 x 1,000 lb LDGP Mk 83 bombs (4,000 lb total)
 * 7 x 1,000 lb LDGP Mk 83 bombs (7,000 lb total)

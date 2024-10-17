@@ -205,7 +205,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! Delta-NG targeting pod
 | || 1* || || ||
 |-
-! 800 l drop tanks
+! 820 l drop tanks
 | || || 1<sup>¶</sup> || ||
 |-
 | colspan="7" | * It is required to equip the Delta-NG targeting pod with the Kh-23M missiles <br> <sup>†</sup> R-24R missiles cannot be equipped together with R-23T or R-24T missiles <br> <sup>‡</sup> R-24T missiles cannot be equipped together with R-23R or R-24R missiles  <br> <sup>¶</sup> The drop tank cannot be equipped in conjunction with quad bombs on adjacent hardpoints
@@ -215,10 +215,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* 1 x 800 l drop tank
+* 1 x 820 l drop tank
 * 12 x large calibre countermeasures
 * 4 x R-13M1 missiles
 * 6 x R-60M missiles
+* 2 x R-23T missiles
+* 2 x R-23R missiles
+* 2 x R-24R missiles
+* 2 x R-24T missiles
 * 4 x R-60M missiles + 2 x R-23T missiles
 * 4 x R-60M missiles + 2 x R-23R missiles
 * 4 x R-60M missiles + 2 x R-24R missiles

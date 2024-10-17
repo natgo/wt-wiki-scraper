@@ -89,7 +89,7 @@ The DTB-1 HE-VT round, seen previously on the [[T-69 II G]] and WMA301, can be u
 
 The final kinetic round for this vehicle is the new DTW2 with higher velocity and nearly 150 mm more penetration than its predecessor. This is a common round which is still used by PLAGF at present with a whopping 491mm penetration at point blank range, just comes behind the infamous M900 round found on American vehicles. For its BR it can handle most enemies it might ever face, but T-72B series and later T-80U can be a very nasty enemy with their above-average protection without carefully placed shots. This will be the go-to shell for the vehicle, but bringing some HE-VT and ATGM for knocking down aircraft or higher tier MBTs is also viable.
 
-{{:ZPL98A (105 mm)/Ammunition|Type-83 HEAT, Type-83 APDS, DTW2-105, DTB-1, GP105}}
+{{:ZPL98A (105 mm)/Ammunition|Type-83 HEAT, Type-83 APDS, DTW2-105, BTM1, DTB-1, GP105}}
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->

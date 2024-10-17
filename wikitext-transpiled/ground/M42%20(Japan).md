@@ -153,10 +153,23 @@ Even after the [[Type 87]] was adopted in 1987 within the JGSDF, the M42 remaine
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_m42_duster Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related development
+* [[M19A1]] [[M19A1 (Japan)|(Japan)]] <small>(Predecessor)</small>
+* [[M41 (Family)]] <small>(Base hull)</small>
+** [[M42 (Family)]]
+
+;Tanks of comparable role, configuration, and era
+* [[File:Vietnam flag.png|30px|link=]] [[Phòng không T-34]]
+* [[File:Britain flag.png|30px|link=]] [[Crusader AA Mk I]]
+* [[File:Germany flag.png|30px|link=]] [[Ostwind]] [[Ostwind II|(II)]]
+* [[File:Finland flag.png|30px|link=]] [[L-62 ANTI II]]
+* [[File:France flag.png|30px|link=]] [[AMX-13 DCA 40]]
+* [[File:Sweden flag.png|30px|link=]] [[Lvkv 42]]
+* [[File:Italy flag.png|30px|link=]] [[Leopard 40/70]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

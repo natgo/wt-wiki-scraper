@@ -30,7 +30,7 @@ In the game since the start of the Open Beta Test, the Spitfire F Mk XVI is a ve
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 624 || 605 || rowspan="2" | {{Specs|ceiling}} || 21.0 || 21.8 || 17.5 || 17.5 || rowspan="2" | 390
+| 624 || 604 || rowspan="2" | {{Specs|ceiling}} || 21.0 || 21.8 || 17.5 || 17.5 || rowspan="2" | 390
 |-
 ! Upgraded
 | 683 || 651 || 18.7 || 19.8 || 29.2 || 22.3

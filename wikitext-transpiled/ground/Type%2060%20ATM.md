@@ -299,19 +299,17 @@ Containers of these missiles were used as portable weapons, and were also instal
 Type 60 APC.png|{{PAGENAME}} without launcher. (Almost Type 60 APC)
 </gallery>
 
-;Videos
-{{Youtube-gallery|hoKUjLz4To0|'''Type 60 ATM - The Wörst''' - ''Napalmratte''}}
-
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Other vehicles of similar configuration and role
-
-* [[Swingfire]]
-* [[RakJPz 2]]
-* [[Zachlam Tager]]
+;Other vehicles with manual input missiles
+* [[File:Britain flag.png|30px|link=]] [[Swingfire]]
+* [[File:FRG flag.png|30px|link=]] [[RakJPz 2]]
+* [[File:France flag.png|30px|link=]] [[AMX-13 (SS.11)]]
+* [[File:Sweden flag.png|30px|link=]] [[Strv 81 (RB 52)]]
+* [[File:USSR flag.png|30px|link=]] [[BMP-1]] <small>(without BMP-1P modification)</small>
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

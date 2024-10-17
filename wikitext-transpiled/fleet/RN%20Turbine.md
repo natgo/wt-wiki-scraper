@@ -1,3 +1,8 @@
+{{About
+| about = Italian Destroyer '''{{PAGENAME}}'''
+| usage = other versions
+| link = Turbine (Family)
+}}
 {{Specs-Card
 |code=it_destroyer_turbine
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,9 +10,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' was the lead ship of the Turbine-class destroyers, improved and enlarged versions of the preceding Sauro-class. Turbine was completed on 27th August 1927, and saw some action throughout her service life. During the Spanish Civil War, Turbine torpedoed and sank Soviet cargo ship Timiryazev carrying coal from Cardiff to Port Said. During her first war patrol on 13th June 1940, Turbine participated in the detection and sinking of British O-class submarine HMS Odin at the entrance of the Gulf of Taranto. She later also participated in the bombardment of the British-held port of Sollum, Egypt as retaliation after a British air attack on Tobruk. On 19th June, Turbine scored her second and last kill of the war, detecting another O-class submarine, HMS Orpheus, about 25 miles north of Tobruk and sinking it with depth charges. Between July and September 1940, Turbine survived multiple air attacks while at anchor in the ports of Tobruk and later Benghazi; except Euro, all her other sisters were sunk in the attacks. In 1942, Turbine underwent refit which changed her anti-aircraft weaponry to seven 20 mm Breda Model 1935 autocannons as the obsolete 40 mm pompoms were removed. Two depth charge launchers were also added. After Italy signed the Armistice, Turbine was ordered to surrender to Germany while at anchor at Piraeus, Greece. She was renamed TA14 and served in the Aegean until sunk by USAAF air attack with rockets in Salamis on 16th September 1944.
+The '''RN Turbine''' was the lead ship of the Turbine-class destroyers, improved and enlarged versions of the preceding Sauro-class. Turbine was completed on 27th August 1927, and saw some action throughout her service life. During the Spanish Civil War, Turbine torpedoed and sank Soviet cargo ship Timiryazev carrying coal from Cardiff to Port Said. During her first war patrol on 13th June 1940, Turbine participated in the detection and sinking of British O-class submarine HMS Odin at the entrance of the Gulf of Taranto. She later also participated in the bombardment of the British-held port of Sollum, Egypt as retaliation after a British air attack on Tobruk. On 19th June, Turbine scored her second and last kill of the war, detecting another O-class submarine, HMS Orpheus, about 25 miles north of Tobruk and sinking it with depth charges. Between July and September 1940, Turbine survived multiple air attacks while at anchor in the ports of Tobruk and later Benghazi; except Euro, all her other sisters were sunk in the attacks. In 1942, Turbine underwent refit which changed her anti-aircraft weaponry to seven 20 mm Breda Model 1935 autocannons as the obsolete 40 mm pompoms were removed. Two depth charge launchers were also added. After Italy signed the Armistice, Turbine was ordered to surrender to Germany while at anchor at Piraeus, Greece. She was renamed TA14 and served in the Aegean until sunk by USAAF air attack with rockets in Salamis on 16th September 1944.
 
-Turbine was introduced in [[Update "Starfighters"]] as Italian reserve destroyer. Her armament is relatively weak with very long reload of 11 sec, compared to her much faster firing contemporaries. Unlike them however, she has access to APHE shells, as well as HE-TF and standard HE shells. Turbine also has access to quite powerful torpedoes, capable of reaching speeds of up to 94 km/h, although limited to range of only 4 km. Turbine is best used as an ambusher, capable of delivering fast and deadly torpedo attacks at close range.
+'''{{Specs|name}}''' was introduced in [[Update "Starfighters"]] as Italian reserve destroyer. Her armament is relatively weak with very long reload of 11 sec, compared to her much faster firing contemporaries. Unlike them however, she has access to APHE shells, as well as HE-TF and standard HE shells. Turbine also has access to quite powerful torpedoes, capable of reaching speeds of up to 94 km/h, although limited to range of only 4 km. Turbine is best used as an ambusher, capable of delivering fast and deadly torpedo attacks at close range.
 
 == General info ==
 === Survivability and armour ===
@@ -129,27 +134,6 @@ RN Turbine must be used as a support ship or for side attacks; its cannons fire 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-=== Turbine-class ===
-The Turbine-class comprised 8 destroyers named after winds (Turbine, Borea, Nembo, [[RN Aquilone|Aquilone]], Euro, Espero, Zeffiro, and Ostro). It was one of the first classes of military ships after the First World War. This class succeeded fairly well, they had 2 twin turrets with [[120 mm/45 O.T.O. Mod. 1926 (120 mm)|120 mm/45 O.T.O. Mod. 1926]] guns with 6 torpedoes for auxiliary armament.
-
-They fought in the war, but suffered 6 losses by 1940 and the other 2 sank after the armistice of 8 September.
-
-The Turbine-class ships presented characteristics that can be defined as intermediate between the ships of the first post-war period and those of the 1930s. They were launched in 1927-28, and compared to their predecessors had a hull lengthened by 3 m, so as to be able to accommodate a 10% more powerful propulsion apparatus.
-
-Propulsion was given by 2 groups of steam turbines on 2 axles, each on a funnel of different sizes (the front funnel was larger) with a modest 40,000 horsepower. The torpedo launchers were 2 triple mounts of 533 mm, there were also depth charges and, similarly to the other ships of the type in service in the Regia Marina, up to 50 mines could be carried.
-
-The main armament was based on 2 twin turrets of [[120 mm/45 O.T.O. Mod. 1926 (120 mm)|120 mm/45 O.T.O. Mod. 1926]] cannons.The twin cannons allowed for a much more compact design of the ships than 4 single installations, and certainly also contributed to the aesthetic harmony of the design, more compact and powerful, but the cannons very close together interfered with each other during fire, causing a dispersion of fire that haunted the naval engineers throughout the war.
-
-Turbine-class ships:
-
-* RN Turbine (1927)
-* RN Borea (1927)
-* RN Nembo (1927)
-* [[RN Aquilone]] (1927)
-* RN Euro (1927)
-* RN Espero (1928)
-* RN Zeffiro (1928)
-* RN Ostro (1928)
 
 === RN Turbine ===
 [[File:RN Turbine (1927) (3).png|thumb|RN Turbine during military exercises]]

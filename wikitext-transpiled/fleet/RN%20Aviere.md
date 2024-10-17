@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The RN Aviere was one of the 19 [[Soldati (Family)|Soldati-class]] destroyers, built in an OTO Melara shipyard in Livorno between 1937 and 1938, entered service on 31 August 1938, and was assigned to the 11th destroyer squadron. In the pre-war period she performed training activities, and during the Second World War participated in several missions, most famously the Battle of Punta Stilo (1940), Battle of Sirte (1941-1942), and eventually the Battle of Mezzo Agosto, completing 145 missions in all her service and having a distance travelled of 58,000 miles (93,000 km). Eventually, on 17 December 1942, while escorting the RN Camicia Nera and the German ship Ankara north of Biserta, she was hit by torpedoes from the submarine HMS Splendid, causing her to sink rapidly.
+The '''RN Aviere''' was one of the 19 [[Soldati (Family)|Soldati-class]] destroyers, built in an OTO Melara shipyard in Livorno between 1937 and 1938, entered service on 31 August 1938, and was assigned to the 11th destroyer squadron. In the pre-war period she performed training activities, and during the Second World War participated in several missions, most famously the Battle of Punta Stilo (1940), Battle of Sirte (1941-1942), and eventually the Battle of Mezzo Agosto, completing 145 missions in all her service and having a distance travelled of 58,000 miles (93,000 km). Eventually, on 17 December 1942, while escorting the RN Camicia Nera and the German ship Ankara north of Biserta, she was hit by torpedoes from the submarine HMS Splendid, causing her to sink rapidly.
 
-Introduced in the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]] during [[Update "Red Skies"]], RN Aviere is a ship with excellent acceleration and manoeuvrability and therefore a good ability to dodge enemy hits and torpedoes. The armament is composed of four 120 mm and eight 20 mm cannons, a good armament but not excellent. It is not recommended to attempt breakthroughs because of the reload of the main guns. The strong point is the torpedoes that can easily demolish enemy ships.
+Introduced in the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]] during [[Update "Red Skies"]], '''{{Specs|1=name}}''' is a ship with excellent acceleration and manoeuvrability and therefore a good ability to dodge enemy hits and torpedoes. The armament is composed of four 120 mm and eight 20 mm cannons, a good armament but not excellent. It is not recommended to attempt breakthroughs because of the reload of the main guns. The strong point is the torpedoes that can easily demolish enemy ships.
 
 == General info ==
 === Survivability and armour ===
@@ -80,17 +80,18 @@ Depth charges, on the other hand, are placed in launchers one on the left and on
 <!-- ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).'' -->
 RN Aviere compared to RN Geniere and RN Corazziere has less main armament and less crew.
 
-Instead of having 5 120mm cannons it only has 4 which allow it to damage or destroy other destroyers with one shot, APHE are perfect against destroyers and light cruisers while the heavy ones need enough shots to do serious damage to them, HE are perfect against small targets or firing on the decks of enemy ships so you can disable the ship's control, while torpedoes are the ship's main piece of equipment and cause serious damage to enemy ships or complete destruction.
+Instead of having 5 x 120 mm cannons it only has 4 which allow it to damage or destroy other destroyers with one shot, APHE are perfect against destroyers and light cruisers while the heavy ones need enough shots to do serious damage to them, HE are perfect against small targets or firing on the decks of enemy ships so you can disable the ship's control, while torpedoes are the ship's main piece of equipment and cause serious damage to enemy ships or complete destruction.
 
 Reduced crew is a disadvantage for RN Aviere, which means you cannot be in prolonged combat against other ships.
 
 In Battle RN Aviere must be used with cover (an island, rock, etc.), thanks to your acceleration you can get out of cover and fire a few shots then return behind cover so you avoid enemy damage, if you find open maps without cover you will be an easy target so move away and fire at a distance dodging incoming enemy shots.
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+'''Pros:'''
 
 * Incredible acceleration
-* Incredible manouvrability
+* Incredible manoeuvrability
 * Fairly large AP shell filler with good penetration
 * Fast main gun traverse and elevation speeds
 * Wide main gun traverse arcs
@@ -117,7 +118,7 @@ In 1939, he was in Naples for the Naval Review organised in Naples on the occasi
 
 During the Second World War, he carried out intense activity, completing 145 missions of which, 41 escorting, 16 searching for the enemy and ultimately covering 58,000 Miles (93341.952 Km)
 
-In 1940 she participated in the Battle of Punta Stilo (on 9 July 1940), firing squadron torpedoes against enemy larger ships, after 12 October while she was with the 11th Squadron and 1st Torpedo Squadron she participated in an attack east of Malta against the cruiser Aiax, but before it could open fire it was hit by 152mm cannons, which immobilized it and it lost 8 men after this fact The unit returned to Augusta escorted by RN Geniere in turn was taken to La Spezia to carry out work until 10 December.
+In 1940 she participated in the Battle of Punta Stilo (on 9 July 1940), firing squadron torpedoes against enemy larger ships, after 12 October while she was with the 11th Squadron and 1st Torpedo Squadron she participated in an attack east of Malta against the cruiser Aiax, but before it could open fire it was hit by 152 mm cannons, which immobilized it and it lost 8 men after this fact The unit returned to Augusta escorted by RN Geniere in turn was taken to La Spezia to carry out work until 10 December.
 
 In 1941 RN Aviere participated in the 1st Battle of Sirte.
 

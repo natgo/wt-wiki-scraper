@@ -143,7 +143,6 @@ When fighting aircraft such as Strike Fighters, it is advisable to conserve ammu
 * The driving compartment can obstruct the autocannon's gun depression, which might be sometimes fatal
 * No armour protection, making it highly vulnerable to MG bullets, shrapnel, and even ramming from tanks and aircraft
 * Is wheeled, meaning its mobility will be significantly worsened on bad road conditions
-* Reverse speed of -13 km/h can be inadequate, especially when compared to its counterpart [[R3 T20 FA-HS|R3 T20]]
 * Gunsight is positioned far above the gun, which can be awkward to aim in simulator
 * Complex appearance can make it hard to place bushes, decorators, and decals
 

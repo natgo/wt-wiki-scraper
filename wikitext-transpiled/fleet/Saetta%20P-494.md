@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=it_p494_saetta
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage {{PAGENAME}} (2).jpg|GarageImage {{PAGENAME}} (3).jpg}}
 }}
 
 == Description ==
@@ -27,7 +27,7 @@ The hull of this vessel is made up of 8 mm of steel, and the superstructure is m
 
 {{NavalMobility}}
 
-The Saetta has the highest top speed of any non-premium tier 2 Italian boat. With such speed, it is often able to reach desirable locations on the map before the enemy is able to.
+The Saetta has the highest top speed of any non-premium rank 5 Italian boat. With such speed, it is often able to reach desirable locations on the map before the enemy is able to.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -61,7 +61,7 @@ The missiles are carried in a five-round launcher just behind the Saetta's bridg
 
 The guided missiles are the Saetta's most unique feature. This missile can be used to attack ships quite effectively (usually it can destroy a smaller vessel in one hit), and is also very capable of destroying enemy aircraft, thanks to its proximity fuse. When using the missile, remember that the launcher cannot point directly forwards, and that the enemy must be near the sides or rear of the vessel before a firing solution is achieved. Also keep in mind that the missile is not very fast (280 m/s), and that it can take a considerable amount of time to reach the target.
 
-As for the main cannons, the Saetta's 40 mm Bofors are great for dealing with smaller boats. They can be used to sink destroyers, but it will usually take a considerable length of time to do so. The Saetta is equipped with a radar, and has a lead indicator for use in an anti-air role. The lead indicator, when used with the vehicle's 40 mm cannons, makes dealing with aircraft a breeze.
+As for the main cannons, the Saetta's 40 mm Bofors are great for dealing with smaller boats. They can also be used to harass destroyers by repeatedly disabling their guns, though with some considerable effort. The Saetta is equipped with a radar, and has a lead indicator for use in an anti-air role. The lead indicator, when used with the vehicle's 40 mm cannons and proximity fuses, makes dealing with aircraft a breeze.
 
 This vessel has quite a high top speed, and is often able to reach favourable positions on the map before the enemy. This speed can also be used to help the vessel outflank the enemy and take them by surprise.
 
@@ -75,11 +75,12 @@ Since the Saetta is unable to survive more than a few hits from an enemy destroy
 '''Pros:'''
 
 * Equipped with Nettuno guided missiles
-* Guided missiles are able to make quick work of enemy ships
+* Guided missiles are able to make quick work of enemy boats
 * High speed
 * Radar with lead indicator
 * Cannons provide great stopping power
 * Great agility
+* Boat spawn
 
 '''Cons:'''
 

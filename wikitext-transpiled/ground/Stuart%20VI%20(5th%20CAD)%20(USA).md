@@ -208,6 +208,7 @@ Shown as a tank from the Canadian Fifth Armored Division.
 *[[C2A1]]
 *[[ADATS (M113)]]
 *[[Skink]]
+*[[Leopard 2A4M|Leopard 2A4M CAN]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

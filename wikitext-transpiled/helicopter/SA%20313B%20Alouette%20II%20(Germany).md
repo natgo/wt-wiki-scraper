@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German utility helicopter {{Battle-rating}}. It was introduced in [[Update 1.83 "Masters of the Sea"]]. A [[SA.313B Alouette II|French design]], the ''Alouette II'' was in West-German service and could carry a multitude of armaments.
+The '''SA.313B Alouette II''' was a French light multipurpose helicopter developed by Sud-Aviation in 1968 and widely supplied to both civilian and military organisations in various countries worldwide. Over 1,000 SA.313s were built, of which approximately 220 were delivered to West Germany. As standard, they were not equipped with armament, so this issue was addressed locally where the aircraft was intended to perform combat missions. The Germans mounted four 7.62 mm MG3 machine guns in pairs on skids of the landing gear. As anti-tank weaponry, the helicopter could carry SS.11 anti-tank guided missiles on special crossbeams along the fuselage sides. Alouette II helicopters served in the German armed forces until the mid-2000s.
+
+Introduced in [[Update 1.83 "Masters of the Sea"]], the Alouette II is a light, manoeuvrable and fast aircraft capable of providing effective ground support, and rapid withdrawal in case of danger or enemy air defence systems. However, it can prove challenging to pilot effectively, and will require time to get used to, as it lacks sufficient armour or powerful armaments.
 
 == General info ==
 === Flight performance ===

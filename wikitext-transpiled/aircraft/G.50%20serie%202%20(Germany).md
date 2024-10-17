@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=fiat_g50_seria2
-|images={{Specs-Card-Image|GarageImage_G.50_serie_2.jpg}}
+|images={{Specs-Card-Image|GarageImage_G.50_serie_2.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

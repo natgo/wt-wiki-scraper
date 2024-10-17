@@ -35,7 +35,7 @@ The Hurricane Mk I/L is a bit more sluggish in movement and turning than its bre
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 503 || 486 || rowspan="2" | {{Specs|ceiling}} || 15.9 || 16.4 || 7.4 || 7.4 || rowspan="2" | 350
+| 501 || 486 || rowspan="2" | {{Specs|ceiling}} || 15.8 || 16.4 || 7.4 || 7.4 || rowspan="2" | 350
 |-
 ! Upgraded
 | 551 || 525 || 14.7 || 15.0 ||16.0|| 10.9

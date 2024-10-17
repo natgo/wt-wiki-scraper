@@ -128,6 +128,16 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 * 3 x 23 mm NR-23 cannons, chin-mounted (100 rpg = 300 total)
 
+=== Suspended armament ===
+{{Specs-Avia-Suspended}}
+<!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
+{{main|OFAB-250sv (250 kg)}}
+
+The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
+
+* Without load
+* 2 x 250 kg OFAB-250sv bombs (500 kg total)
+
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''

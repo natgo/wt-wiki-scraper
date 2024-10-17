@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
+The Centauro I 105, developed in the 1980s by a consortium of Italian firms, addressed the Italian Army's need for a fast and manoeuvrable tank destroyer matching the firepower of their Leopard 1 MBTs. The Centauro featured a 105 mm cannon on an eight-wheeled chassis. The final prototype was unveiled in 1986 and finally entered service in 1992 and saw action in numerous conflicts. Over 400 were built, with some variants serving alongside the original design to this day.
+
+Introduced in [[Update 1.85 "Supersonic"]], the '''{{Specs|name}}''' is a fast and powerful light tank for its BR. Although it lacks armour, it compensates this with the ability to change positions quickly, overwhelming your opponents. To deal with enemy tanks, it has a 105 mm OTO Melara cannon with good APFSDS ammunition, for target acquisition it has access to first generation thermal sight for the gunner, while this system is quite bad at long ranges, it is good enough and makes finding targets easier, especially against enemies without any kind of thermal sight. The vehicle does suffer from a poor turret rotation speed, a mediocre reload rate, and a poor gun depression due to the turret placement.
 
 == General info ==
 === Survivability and armour ===
@@ -196,6 +198,7 @@ Around 400 B1 Centauros were built until 2006, including some other derived modi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_b1_centauro Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -207,6 +210,7 @@ Around 400 B1 Centauros were built until 2006, including some other derived modi
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Rooikat Mk.1D]]
 * [[PTL02]]
 * [[WMA301]]

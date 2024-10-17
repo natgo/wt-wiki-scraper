@@ -261,11 +261,20 @@ The testing of the first construction prototype was done on the chassis of the C
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+;Related development
+* [[Chieftain (Family)]]
+* [[ItPsV Leopard]] - <small>Same Marksman turret</small>
 
-* [[Gepard]]
-* [[Type 87]]
-* [[PGZ09]]
-* [[AMX-30 DCA]]
+;Other vehicles of similar configuration and role
+* [[Oerlikon KDA (35 mm)]]
+** [[File:FRG flag.png|30px|link=]] [[Gepard]]
+** [[File:Japan flag.png|30px|link=]] [[Type 87]]
+** [[File:Finland flag.png|30px|link=]] [[ItPsV Leopard]]
+** [[File:South Africa flag.png|30px|link=]] [[ZA-35]]
+** [[File:China flag.png|30px|link=]] [[PGZ09]]
+* [[File:Sweden flag.png|30px|link=]] [[VEAK 40]]
+* [[File:France flag.png|30px|link=]] [[AMX-30 DCA]]
+* [[File:USSR flag.png|30px|link=]] [[ZSU-37-2]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

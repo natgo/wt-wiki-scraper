@@ -198,7 +198,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1, 2 *|| || || || 1, 2 *
 |-
 ! [[Skyflash]] missiles
-| || || 4 || ||
+| || || 2, 4 || ||
 |-
 ! [[Skyflash SuperTEMP]] missiles
 | || || 4 || ||
@@ -217,7 +217,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 330 gal drop tanks
-* 2 x AIM-9L Sidewinder missiles
+* 2 x AIM-9L Sidewinder missiles + 2 x Skyflash missiles
 * 4 x AIM-9L Sidewinder missiles + 320 x countermeasures
 * 4 x Skyflash missiles
 * 4 x Skyflash SuperTEMP missiles
@@ -323,7 +323,7 @@ The genesis of the Tornado F.3 can be traced back to the late 1960s when the nee
 
 Originally designed as a multi-role combat aircraft, the Tornado's versatility was its hallmark. While it had variants like the GR1 for strike/attack missions and the ECR for electronic combat/reconnaissance, the evolving geopolitical landscape necessitated a dedicated air defence variant. This led to the development of the Tornado F.3, a variant that specialized in the interception and neutralization of airborne threats. Distinct from its siblings, the Tornado F.3 featured a longer fuselage to accommodate additional fuel, enhancing its endurance — a critical attribute for an interceptor. Equipped with the sophisticated Foxhunter radar and armed with air-to-air missiles such as the AIM-9 Sidewinder and the Skyflash, the F.3 was a formidable opponent in the skies.
 
-Entering service with the Royal Air Force in the mid-1980s, the Tornado F.3 became a cornerstone of Britain’s air defence. It replaced ageing aircraft like the English Electric Lightning and the F-4 Phantom II, embodying a new era of air defence capabilities. Throughout the latter stages of the Cold War, the F.3 was a sentinel in the skies, regularly conducting patrols and intercepts of unidentified or potentially hostile aircraft near UK airspace. Though it never engaged in high-intensity dogfights, its presence acted as a significant deterrent.
+Entering service with the Royal Air Force in the mid-1980s, the Tornado F.3 became a cornerstone of Britain's air defence. It replaced ageing aircraft like the English Electric Lightning and the F-4 Phantom II, embodying a new era of air defence capabilities. Throughout the latter stages of the Cold War, the F.3 was a sentinel in the skies, regularly conducting patrols and intercepts of unidentified or potentially hostile aircraft near UK airspace. Though it never engaged in high-intensity dogfights, its presence acted as a significant deterrent.
 
 The Tornado F.3's combat history, while not marked by prolific aerial battles, nonetheless encompasses critical deployments. During the Gulf War in 1990-91, the F.3s were deployed primarily in air defence roles, safeguarding coalition forces against the Iraqi aerial threat, which, as it turned out, was minimal. In the Balkans conflicts of the 1990s, the F.3 again played a key role, focusing on air defence and patrol duties.
 

@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=uk_m109a1
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -26,11 +26,11 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 32 mm || 32 mm ''Top'' <br> 32 mm ''Bottom'' || 32 mm || 10 - 32 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 32  mm ''Turret front'' <br> 32 mm ''Gun mantlet'' || 32mm || 32 mm || 6-32mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 33 mm || 33 mm || 33 mm || 33 mm
 |-
 |}
 
@@ -77,7 +77,7 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 
 ==== [[Ammo racks]] ====
 <!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+<!-- 'Last updated: 30/07/2024' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -86,10 +86,9 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 ! 3rd<br>rack empty
 ! 4th<br>rack empty
 ! 5th<br>rack empty
-! 6th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''28''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''28''' || 12&nbsp;''(+16)'' || 10&nbsp;''(+18)'' || 5&nbsp;''(+23)'' || 2&nbsp;''(+26)'' || ''0(+28)'' || No
 |-
 |}
 
@@ -98,7 +97,9 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
 {{main|M2HB (12.7 mm)}}
 
-''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.''
+''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use'' 
+
+The Roof 50cal should be used against light targets (such as open topped vehicles) while your main 155mm gun is reloading. Using the 50cal to shoot or fan of any planes that might strafe you.
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
@@ -120,9 +121,19 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 
 '''Pros:'''
 
+High Damage
+
 *
 
 '''Cons:'''
+
+Lengthy Reload
+
+Weak Armour
+
+Sluggish Turret Traverse
+
+Poor Gunner Sight Zoom
 
 *
 
@@ -134,6 +145,7 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_m109a1 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==

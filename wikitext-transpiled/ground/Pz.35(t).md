@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} German light tank {{Battle-rating}}. It was introduced in [[Update 1.51 "Cold Steel"]].
+The '''Panzerkampfwagen 35(t)''', also known as ''LT vz.35'', was a Czechoslovakian light tank designed in 1935 by engineers at Škoda. The LT vz.35 was the most numerous tank in the Czechoslovakian army; during its serial production until 1939, 434 units were manufactured. After the German occupation of Czechoslovakia in 1939, these tanks were taken into service by the Wehrmacht, where they received the designation Pz.35(t) (''Tschecherei'': "Czech"). They formed the core of the German 1st Light Division and, after its reorganisation, the 6th Tank Division. The tanks were actively used by the Wehrmacht during the invasion of Poland, France, and the USSR in 1939-41. In smaller numbers, they were also used by the armies of Romania, Slovakia, Bulgaria, and Hungary, to which they were exported from Germany.
+
+Introduced in [[Update 1.51 "Cold Steel"]], the Pz.35(t) represents an average but versatile vehicle, which copes well with a wide range of tasks on the battlefield. On the other hand, it does not excel in anything: in mobility, the Pz.35(t) is inferior to many other light tanks, and its armour and survivability are generally mediocre. However, the decent 37 mm gun and good frontal armour allow the vehicle to successfully perform the role of a "second line" machine.
 
 == General info ==
 === Survivability and armour ===
@@ -149,9 +151,29 @@ Note that the default shell Pzgr. 34(t) has no tracer component, and the player 
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
 [[File:LT vz. 35 (1939).jpg|right|thumb|Czechoslovak LT vz. 35 ready for transfer to Panzertruppe in March 1939. The fate of this particular tank is unknown.]]
 
-The Czechoslovakian main battle tank prior to German occupation, 398 were built between 1936 and 1939. They called it the Light Tank vz (model) 35. Another 126 were exported to Romania in 1936, where they were called the R-2. The Germans seized 244 of the 35(t) models when they invaded in 1939, with another 52 kept by Slovakia. The 6th Panzer Brigade used the 35(t) in the invasion of Poland. The 6th Panzer Division used it used it most notably in the Battle of France and in the invasion of Russia. It was retired from German service in 1942 but remained in service until the end of the war in countries like Romania.
+The Czechoslovakian LT vz. 35 was their main tank prior to the German occupation. with a total of 398 units built between 1936 and 1939, it was the main tank used by the German 6th Panzer division during the Battle of France and Operation Barbarossa before being phased out in favour of more modern German designs.
 
-{{break}}
+=== Development ===
+The tank was a result of a competition between Českomoravská Kolben-Daněk and Škoda, the first one presented a variant of the LT vz. 34 coming at 8.5 while the second presented a new 10.5 ton model with more armour. Skoda's design was chosen and production was divided between the two manufacturers.
+
+Early in the development the tank saw plenty of factory issues and reliability problems due to the rushed development and production, making it so that many units had to return to the factory for repairs involving mainly the electrical system.
+
+The tank saw the interest of various countries, with Romania asking for 126 units, Afghanistan asking for 10 that where later sold to Bulgaria instead, and many others given to minor nations such as Hungary by Germany after the occupation.
+
+=== Operational History ===
+Czechoslovakian forces used the tank to supress protest and risings by the German Party of the Sudetes, and also to defend Slovakia from raids and incursions from Hungarian and Polish troops. After the German occupation they where used by Czech paramilitary groups armed and instructed by the German SS.
+
+After the German Occupation, the tank was widely used by the 6th ''Panzer-Divisionen'' (6th Panzer Division) and where used on the Battle of France where they suffered moderate casualties.
+
+During the Invasion of the Soviet Union the tank also participated but problems quickly rose up, the poor reliability and the inability of the tank to operate on very low temperatures quickly became a problem. Many where lost in combat and the tank proved ineffective even against soviet light tanks and specially against the T-34. Due to this poor performance Germany phased out the tank in 1942 and the remaining units where redistributed between Bulgaria, Slovakia, Romania and Hungary.
+
+Bulgaria employed 26 units, some being the T-11 variant with a more powerful gun that where used in the 1st Tank Brigade until the arrival of Panzer IV tanks.
+
+Slovakia used 52 units seized after their declaration of independence that where used for the suppression of anti-axis uprisings but 30 participated in the Invasion of the Soviet Union, most of which where destroyed or abandoned because of mechanical fails. The tanks where soon replaced by more modern units in 1943 being relegated to suppression of civic movements or training.
+
+Hungary was impressed with the LT vz. 35 after capturing one during a conflict with Slovakia, and it was a great inspiration in the construction of the 40M Turan I developed by Skoda.
+
+Romania was the 2nd largest user of the LT vz. 35 after buying 126 from Czechoslovakia, they where assigned to the 1st Armoured Regiment, participating in Operation Barbarossa an even in the Battle of Stalingrad covering the flanks of the Germany Army. In this last battle the unit lost 77 tanks with two thirds being lost to mechanical failures or abandoned. The tanks also participated in combat after the Romanian addition to the Allies, but the units where divided and some remained with the Axis while some remained went to the Allies.{{break}}
 {{Navigation-Start|{{Annotation|Archive of the in-game description|An archive of the historical description of the vehicle that was presented in-game prior to Update 1.55 'Royal Armour'}}}}
 {{Navigation-First-Simple-Line}}
 The Škoda LT vz.35 light tank was developed between 1935 and 1936. This tank was put into service in 1936, and by 1937 it had become the primary tank of the Czechoslovakian army. Between 1935 and 1940, 424 LT vz.35 tanks were produced. 218 tanks of this model were accepted into service in Wehrmacht and used until 1942. The tank was inferior to the Pz.38(t) in many ways, and its crews were not sorry to see it go.

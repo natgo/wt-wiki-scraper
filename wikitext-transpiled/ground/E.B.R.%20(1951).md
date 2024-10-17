@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Panhard Engin Blindé de Reconnaissance (E.B.R.) Modèle 1951''' is the first variant of the [[E.B.R. (Family)|Panhard E.B.R. armoured car family]]. In general, the Panhard E.B.R. armoured car is an 8x8 wheeled armoured car built on the basis of the previous Panhard AM 40 P/Model 201, an armoured car born before World War II but only at the prototype level. All variants of the Panhard E.B.R. armoured car family are powered by a 200 horsepower 6 litre 12HD horizontally opposed air-cooled 12-cylinder engine (with dual carburettors and 6.6:1 compression, allowing it to run on low-octane petrol) and had a crew of four: two drivers (front and rear), and a gunner and a commander, both sitting in the oscillating turret. The engine was located beneath the fighting compartment's floor, which necessitated the removal of the turret in order to perform extensive engine repairs. The Panhard E.B.R. Modèle 1951 was the first mass-produced variant, with around 836 units manufactured between 1951 and 1954. The main armament is a 75 mm SA 49 tank gun that was manually loaded and mounted in a round-shaped FL 11 oscillating turret. The ammunition and ballistics of the US Army 75 mm M3 and M6 tank guns were shared by the SA 49 tank gun.
+The '''Panhard Engin Blindé de Reconnaissance (E.B.R.) Modèle 1951''' is the first variant of the [[E.B.R. (Family)|Panhard E.B.R. armoured car family]]. In general, the Panhard E.B.R. armoured car is an 8x8 wheeled armoured car built on the basis of the previous Panhard AM 40 P/Model 201, an armoured car born before World War II but only at the prototype level. All variants of the Panhard E.B.R. armoured car family are powered by a 200 horsepower 6 litre 12HD horizontally opposed air-cooled 12-cylinder engine (with dual carburettors and 6.6:1 compression, allowing it to run on low-octane petrol) and had a crew of four: two drivers (front and rear), and a gunner and a commander, both sitting in the oscillating turret. The engine was located beneath the fighting compartment's floor, which necessitated the removal of the turret in order to perform extensive engine repairs. The Panhard E.B.R. Modèle 1951 was the first mass-produced variant, with around 836 units manufactured between 1951 and 1954. The main armament is a 75 mm SA 49 tank gun that was manually loaded and mounted in a round-shaped FL 11 oscillating turret. The ammunition and ballistics of the US Army 75 mm M3 and M6 tank guns were shared by the SA 49 tank gun.
 
-Introduced in [[Update "Ground Breaking"]], the Panhard E.B.R. Modèle 1951 is a fast and agile light tank that is suited for flanking and capturing zones. On open maps, try to be the first to reach the flanking positions. Due to its low muzzle velocity and poor accuracy, its primary armament is unreliable across long distances. If you are attacked from the front, simply retreat or outmanoeuvre your opponent. Never engage in a frontal assault on an enemy or exchange shots with multiple opponents at the same time. Use your superior mobility and high speed to sneak across the maps and ambush isolated enemies in combat. Its thin armour is not able to withstand even a heavy machine gun. When confronted with multiple opponents, use smoke to conceal your retreat.
+Introduced in [[Update "Ground Breaking"]], the Panhard E.B.R. Modèle 1951 is a fast and agile light tank that is suited for flanking and capturing zones. On open maps, try to be the first to reach the flanking positions. Due to its low muzzle velocity and poor accuracy, its primary armament is unreliable across long distances. If you are attacked from the front, simply retreat or outmanoeuvre your opponent. Never engage in a frontal assault on an enemy or exchange shots with multiple opponents at the same time. Use your superior mobility and high speed to sneak across the maps and ambush isolated enemies in combat. Its thin armour is not able to withstand even a heavy machine gun. When confronted with multiple opponents, use smoke to conceal your retreat.
 
 == General info ==
 === Survivability and armour ===
@@ -25,21 +25,25 @@ While the armor is not very thick, the tank compensates for its vulnerability by
 '''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
+* Rolled homogeneous armour (hull, turret roof - rear, cupola roof)
+* Cast homogeneous armour (turret base, turret, gun mantlet, cupola)
 
 {| class="wikitable"
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 22 mm (56-70°) ''Upper glacis'' <br> 16 mm (75°) ''Sides'' <br> 40 mm (16°) ''Lower glacis'' || style="text-align:center" | 16 mm || 22 mm (56-70°) ''Upper glacis'' <br> 16 mm (75°) ''Sides'' <br> 40 mm (16°) ''Lower glacis'' || style="text-align:center" | 15 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 40 mm (spherical) ''Turret front'' <br> 60 mm (spherical) ''Gun mantlet'' || colspan="2" style="text-align:center" | 20 mm (cylindrical) || 40 mm (spherical) ''Turret front'' <br> 10 mm (18°) ''Rear half''
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || colspan="3" style="text-align:center" | 20 mm (conical) ''Base'' <br> 10 mm (spherical) ''Dome'' || 20 mm (conical) ''Outer ring'' <br> 10 mm (spherical) ''Centre''
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Wheels and the chassis are 10 mm thick.
+* Belly armour is 10 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -77,8 +81,8 @@ While the armor is not very thick, the tank compensates for its vulnerability by
 {{:SA49 (75 mm)/Ammunition|M72 shot, M48 shell, M89, M61 shot}}
 
 ==== [[Ammo racks]] ====
-<!-- [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]] -->
-<!-- '''Last updated:''' -->
+[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]
+<!-- '''Last updated: 2.37.0.37''' -->
 {| class="wikitable" style="text-align:center"
 |-
 ! Full<br>ammo
@@ -88,11 +92,19 @@ While the armor is not very thick, the tank compensates for its vulnerability by
 ! 4th<br>rack empty
 ! 5th<br>rack empty
 ! 6th<br>rack empty
+! 7th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''60''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
+| '''60''' || 55&nbsp;''(+5)'' || 49&nbsp;''(+11)'' || 37&nbsp;''(+23)'' || 25&nbsp;''(+35)'' || 22&nbsp;''(+38)'' || 19&nbsp;''(+41)''
+|1&nbsp;''(+59)''|| No
 |-
 |}
+'''Notes:'''
+
+* Rack 7 is a first-stage ammo rack. It totals 18 shells which will get replenished over time when not interrupted by firing.
+** The restocking time is longer than the normal reload time of the gun (about 12 seconds).
+* Shells are modelled individually and disappear after having being fired or loaded.
+* Hull empty: 19 (+41) shells.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}
@@ -129,6 +141,7 @@ The E.B.R (1951) is a fast light tank perfect for flanking and capturing points.
 '''Cons:'''
 
 * Relies on roads heavily as mobility on loose surfaces is quite poor
+* Overall poor survivability due to thin overall armour, the fuel tanks in particular is prone to exploding when being hit
 * Thin side armour can be penetrated by anything more powerful than .30 cals: heavy MGs and autocannons (e.g. [[M16 MGMC]], [[Wirbelwind]]) are considerably dangerous
 * Steering radius is quite large, navigation in confined environment can be awkward
 * M61 shell cannot reliably penetrate tanks like [[StuG III G]], [[T14]], [[KV-1E]]

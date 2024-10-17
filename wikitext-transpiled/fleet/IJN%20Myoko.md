@@ -102,12 +102,17 @@ It is also viable to utilize the speed of the Myoko to capture points and take a
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
+The Myoko was the lead ship of her class, and the first built under the IJN's "Fleet Modernization Program".  This program saw the Japanese navy building heavy cruisers that fell within the 10,000 ton displacement limit that was part of the Washington Naval Treaty. (Though, by the time of the start of World War II, the Myoko-class had an average displacement of 13,500 tons.)  Laid down at the Yokosuka Naval Arsenal in October of 1924, she was launched in April of 1927 and formally commissioned in July of 1929. 
+
+Prior to the commencement of World War II she served in several roles, including as the flagship of Sentai-9 of the IJN's Fifth Fleet.  At the start of World War II she was part of Sentai-5 of the Third Fleet and took part in "Operation M", which was the invasion of the southern Philippine Islands. <ref>https://en.wikipedia.org/wiki/Japanese_cruiser_My%C5%8Dk%C5%8D</ref>  
+
 ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_cruiser_myoko Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

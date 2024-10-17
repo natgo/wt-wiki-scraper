@@ -1,3 +1,9 @@
+{{About
+| about = Japan motor gun boat '''{{PAGENAME}}'''
+| usage = other versions
+| link = Landing Craft Support (Family)
+}}
+
 {{Specs-Card
 |code=jp_yuri_class_asagao
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -5,7 +11,11 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese motor gun boat {{Battle-rating}}. It was introduced in [[Update "Air Superiority"]].
+Laid down in 1944 as American [[Landing Craft Support (Family)|Landing Craft Support]] ''LCS(L)(3)-9'', Asagao started its career in the Asia-Pacific, delivering supplies to Filipino guerrillas and harassing Japanese targets in the region. With the end of the war, the ship was placed in reserve and renamed ''LSSL-9''. In 1950, ''LSSL-9'' was assigned to France, where she was named RFS ''Hallebarde'' (L-9023), but she returned to the United States by 1955.
+
+However, in 1956, along with a batch of fifty other LSSLs, the vessel was transferred to the Japan Self-Defense Force, where the batch was reclassified as the Yuri-class of patrol ships and the vessel was given a new name: JDS ''Asagao'' (あさがお), after the flower morning glory (family Convolvulaceae). Her service in the JSDF was entirely uneventful, being used as a training vessel before returning back to the US Navy in April 1965. The ship was then leased to South Vietnam in September 1965 as RVNS ''Đoàn Ngọc Tang'' (HQ-228), but with the fall of South Vietnam in 1975, she escaped to the Philippines, where she was loaned to the local government and remained under the name RPS ''La Union'' (LF-50) until her decommissioning in the 1980s.
+
+The '''{{Specs|name}}''' was introduced in [[Update "Air Superiority"]]. In combat, she can outgun most motor torpedo boats and other light vessels, while also being a good anti-air platform. However, her low speed and mediocre survivability make her struggle with frigates and other high-BR vessels. She's a relatively large vessel with an unusually low draft, making her able to reach locations more typically accessible to the torpedo boats, with which she also shares spawn points. Her unique feature, compared to the other LCS's, is a rank III modification enabling the use of 120 [[4.5-inch BBR Mk.7|Mk7 barrage rockets]].
 
 == General info ==
 === Survivability and armour ===
@@ -62,13 +72,24 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese motor gun boat {{Batt
 ''Describe the technique of using this ship, the characteristics of her use in a team and tips on strategy. Abstain from writing an entire guide – don't try to provide a single point of view, but give the reader food for thought. Talk about the most dangerous opponents for this vehicle and provide recommendations on fighting them. If necessary, note the specifics of playing with this vehicle in various modes (AB, RB, SB).''
 
 === Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
-
 '''Pros:'''
+
+* Incredible firepower against other coastal ship types: Anything but heavily armoured gunboats and subchasers can be shredded in very short time.
+* Decent anti-air capability due to dedicated AA armament and access to the AA Mk.31 HE-VT shell for the 76 mm secondary gun.
+* Large crew count of 65 people allows to survive moderate amount of enemy fire.
+* In opposition to the American and Italian counterparts, the Asagao (YTE-01) gets access to 4.5 inch Mk7 barrage rockets.
+* Frontal twin configuration of Bofors L/60 Mark 1 autocannons is greatly heightened. This allows to hide large parts of the ship and engage enemies behind cover.
+
 *
 
 '''Cons:'''
+
+* Extremely slow top speed of only 22 km/h - even slower than the American and Italian representatives of this ship class.
+** This plus the large size of the Asagao makes evading enemy torpedoes, artillery and gunfire a very difficult task.
+
+* Usually suffers high crew losses during fires on board.
+* 4.5 inch Mk7 barrage rockets have fixed forward firing angle and distance of impact: Hitting enemies with these require several salvos and prediction of enemy movements.
+
 *
 
 == History ==
@@ -76,22 +97,26 @@ The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese motor gun boat {{Batt
 ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
 
 == Media ==
-<!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
 ''Excellent additions to the article would be video guides, screenshots from the game, and photos.''
 
 == See also ==
-<!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.'' -->
-''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-* ''reference to the series of the ship;''
-* ''links to approximate analogues of other nations and research trees.''
+
+=== Other vessels of the Landing Craft, Support (Large) class: ===
+
+* For the American version, see [[LCS(L)(3)]].
+* For the Italian version, see [[Alano]].
+
+=== Family of Landing Craft Support ships: ===
+
+* [[Landing Craft Support (Family)|Landing Craft Support]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

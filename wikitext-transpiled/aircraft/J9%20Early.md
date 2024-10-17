@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish fighter {{Battle-rating}}. It was introduced during [[Update "Air Superiority"]] as a reward for the [[wt:en/news/8644-event-winter-extreme-earn-yourself-rewards-this-festive-season-en|2023 Winter Extreme event]].
+The '''J9''' was the Swedish designation for the American P-35A. The P-35 was chosen in 1935 in a competition for a single seat fighter for the USAAC, however, the USAAC later rejected the P-35 n favour of Curtis's design in 1937. Thus, Seversky and their P-35 went to Europe looking for possible buyers. Sweden set 3 orders, one for 15 units, another for 45, and a last one for 60. The first 60 aircraft arrived without issues, however the last 60 were diverted to the Pacific Theatre, where they suffered very heavy losses.
+
+It was introduced during [[Update "Air Superiority"]] as a reward for the [[wt:en/news/8644-event-winter-extreme-earn-yourself-rewards-this-festive-season-en|2023 Winter Extreme event]]. The J9 features a very peculiar design, being similar to early Italian monoplane fighters. It has access to 4 MGs, of which 2 are hard-hitting 13.2 mm guns with HEF shells. The aircraft is a bit slow compared to others around its BR, but it compensates this with a very good turning radius and a decent climb rate. It should be used as a dogfighter, entering fights from above to have lots of energy when turning.
 
 == General info ==
 === Flight performance ===
@@ -69,7 +71,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} Swedish fighter {
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+The aircraft has no survivability features, having no armour plates for the engine, pilot or fuel tanks, making it easy to get hit in critical areas by low calibre guns.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -89,7 +91,11 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The J9 Early is a good fighter in the hands of a skilled dogfighter. It does not have the best acceleration, nor the best top speed, in order to succeed these are the recommended guidelines for usage in battles.
+
+Climb to medium to high altitude, around 4,000-5,000 m, in this position, dive onto enemy fighters or try to destroy those trying to intercept you from below. The J9 is a very capable dogfighter as long as it has energy, since it can pull high G turns with sufficient speed. Climbing to this altitude, gives you enough room to make mistakes, since when diving against an enemy, even if you miss, you should have enough energy to pull away from danger and up into the sky, beware that this tactic is not recommended when other fighters are at the same altitude as you.
+
+Also be aware that the J9 starts to compress at around 400 km/h, so don't dive for too long or you might end up crashing onto the ground.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -110,14 +116,18 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
 '''Pros:'''
 
 * 13.2 mm cannons fire HEF rounds
+* Very agile body, able to make high G turns quickly with enough energy
+* Decent climb rate for its BR
 
 '''Cons:'''
 
-*  Ailerons compress heavily above 380 km/h
-*  Low top speed
+* Ailerons compress heavily above 380 km/h
+* Low top speed
+* No armour for critical components
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -125,6 +135,7 @@ The '''''{{PAGENAME}}''''' is armed with:
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
 ;Videos
 {{Youtube-gallery|aX8nq3hSmiM|'''J9 Early - A Flying Wing-Ripping Chainsaw''' - ''Tankenstein''}}
 

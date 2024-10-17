@@ -145,7 +145,7 @@ In War Thunder, the Kikka is a fast and versatile fighter-bomber introduced in [
 
 * ''Otsu mod.'' allows the installation of a second 30 mm cannon
 
-Due to the lacklustre firepower while stock, Kikka pilots should prioritize unlocking the Otsu mod 30 mm belts as soon as possible. Therefore, research 800 kg bomb first to unlock the link for Otsu mod at rank 3 modification, then research the ammunition belt for better chance at dealing damage, and finally the Otsu mod itself. After this, you can either upgrade the flight performance or additional gun upgrades depending on your preference.
+Due to the lacklustre firepower while stock, Kikka pilots should prioritize unlocking the Otsu mod as soon as possible. After this, you can either upgrade the flight performance, additional gun upgrades or bombs depending on your preference.
 
 == Armaments ==
 {{Specs-Avia-Armaments}}

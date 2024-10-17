@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' was developed from the SEPECAT Jaguar, a joint project between Britain and France in the 1960s and 1970s. The Jaguar was originally designed as a trainer and light attack aircraft but later evolved into a supersonic strike aircraft with precise strike capability. It entered service with the Royal Air Force in 1974. It was also exported to India, Oman, Ecuador, and Nigeria. The Jaguar saw combat in several conflicts, such as the Gulf War, the Iraq War, and the Kargil War. It remained in service with the RAF until 2007, when it was replaced by the Eurofighter Typhoon.
 
-The {{Specs|name}} was introduced in [[Update "Raining Fire"]]. It is fit with afterburning engines and totes an incredibly heavy air-to-ground payload, with full ballistics computer capability to match, though its flight performance does not lend well to air-to-air combat. It’s also worth noting that the aircraft lacks any kind of countermeasures. This means that players need to be strategic and cautious when using this aircraft. Nonetheless, its payload options make it a worthwhile jet for ground attack missions.
+The {{Specs|name}} was introduced in [[Update "Raining Fire"]]. It is fit with afterburning engines and totes an incredibly heavy air-to-ground payload, with full ballistics computer capability to match, though its flight performance does not lend well to air-to-air combat. It's also worth noting that the aircraft lacks any kind of countermeasures. This means that players need to be strategic and cautious when using this aircraft. Nonetheless, its payload options make it a worthwhile jet for ground attack missions.
 
 == General info ==
 === Flight performance ===
@@ -152,7 +152,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="6" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="7" width="25%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[Mk.M2 (540 lb)|540 lb Mk.M2]] bombs
 | 1 || 2 || 2 || 2 || 1
@@ -169,11 +169,14 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[AIM-9G Sidewinder]] missiles
 | 1 || || || || 1
 |-
+! 264 gal drop tanks
+| || 1 || 1 || 1 ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-* Without load
+* 3 x 264 gal drop tanks
 * 8 x 540 lb Mk.M2 bombs (4,320 lb total)
 * 8 x 1,000 lb H.E. M.C. Mk.13 bombs (8,000 lb total)
 * 8 x 1,000 lb H.E. M.C. Mk.13 No.117 bombs (8,000 lb total)

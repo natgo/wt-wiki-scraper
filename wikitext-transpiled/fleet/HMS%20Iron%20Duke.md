@@ -1,12 +1,11 @@
 {{Specs-Card
 |code=uk_battleship_iron_duke
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
-|store=12861
 }}
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British battleship {{Battle-rating}}. It was introduced in [[Update "Kings of Battle"]].
+The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} British battleship {{Battle-rating}}. It was introduced in [[Update "Kings of Battle"]], but was removed from the store after the [[wt:en/news/https://warthunder.com/en/news/8880-shop-may-sale-in-the-gaijin-store-enn|2024 May sales]]. It has since been reintroduced, purchasable in-game for Golden Eagles {{GE}} for the [[wt:en/news/9123-shop-hms-iron-duke-is-back-on-the-anniversary-of-its-launch-en|2024 "Anniversary of its Launch"]] mini event.
 
 == General info ==
 === Survivability and armour ===

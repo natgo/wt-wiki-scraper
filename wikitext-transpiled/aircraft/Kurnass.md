@@ -120,11 +120,11 @@ Introduced in [[Update "Winged Lions"]], the '''{{Specs|name}}''' is much like t
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -134,9 +134,9 @@ Introduced in [[Update "Winged Lions"]], the '''{{Specs|name}}''' is much like t
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
-** 1 x 20 mm M61A1 cannon + 90 x countermeasures
+* 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
+* 30 x large calibre countermeasures
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}

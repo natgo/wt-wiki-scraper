@@ -20,7 +20,7 @@ Introduced in [[Update "Danger Zone"]] alongside with its [[F-5E|American counte
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
 Since AIDC received different batches of F-5E/Fs through the two decades of assembling, their airframe naming can be confusing (K, Ba, C, Pseudo-C); but in this case, this is the C structure which is totally identical to its [[F-5E|American counterpart]]. With a pair of GE J85-G-21A and a light yet surprisingly sturdy airframe, although the overall acceleration is nowhere comparable to jets at its tier, but the revised airframe did help F-5E making manoeuvres easier thanks to its above-average manoeuvrability. Those who are stalling or used up their energy will meet their miserable end very quickly.
 
-While some players take it as a deliciated jet fighter against aerial targets, as a multi-role lightweight fighter, the overall payload is surprisingly high thanks to the composite materials used on its wing; bringing either lightweight bombs or devastating heavy bombs are among its options; do keep in mind that this turns F-5E into a slow bomb truck which can be shot down with relatively ease, so avoid enemies before delivering the payloads.
+While some players take it as a dedicated jet fighter against aerial targets, as a multi-role lightweight fighter, the overall payload is surprisingly high thanks to the composite materials used on its wing; bringing either lightweight bombs or devastating heavy bombs are among its options; do keep in mind that this turns F-5E into a slow bomb truck which can be shot down with relatively ease, so avoid enemies before delivering the payloads.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -62,7 +62,7 @@ While some players take it as a deliciated jet fighter against aerial targets, a
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 1,018 || 740 || 463 || ~11 || ~5
+| 1,458 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || 1,018 || 470 || 463 || ~11 || ~5
 |-
 |}
 
@@ -72,7 +72,7 @@ While some players take it as a deliciated jet fighter against aerial targets, a
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < 680 || < 750 || < 700 || N/A
+| < 680 || < 750 || < 700 || -
 |-
 |}
 
@@ -125,7 +125,7 @@ A common misconception of lightweight aircraft is its protection. While F-5E is 
 |-
 ! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
 | {{Tick}} || {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
 |-
@@ -138,7 +138,8 @@ A common misconception of lightweight aircraft is its protection. While F-5E is 
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 2 x 20 mm M39A3 cannons, nose-mounted (280 rpg = 560 total)
-* 45 x countermeasures
+* 10 x large calibre countermeasures
+* 30 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -149,7 +150,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_{{PAGENAME}}.png]]</div>
 |-
 ! [[GAU-13/A (30 mm)|30 mm GAU-13/A]] cannons (353 rpg)
 | || || || 1 || || ||
@@ -184,12 +185,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[AIM-9P Sidewinder]] missiles
 | 1 || || || || || || 1
 |-
+! 150 gal drop tanks
+| || || 1 || 1 || 1 || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 3 x 150 gal drop tanks
 * 2 x AIM-9P Sidewinder missiles
 * 1 x 30 mm GAU-13/A cannon (353 rpg)
 * 76 x FFAR Mighty Mouse rockets
@@ -205,9 +209,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-Like its tech tree predecessor and its American counterpart, F-5E was designed to be a lightweight and inexpensive option for countries with tight budgets. This version of ROCAF's F-5E is identical to US ones with new avionics and engines to retain its combat capability against possible enemies. While this might sound good at first glance, players have to consider for a major problem- the waves of SARH/ARH capable jets at 11.0; you will either face waves of [[AIM-7E-2 Sparrow|Sparrows]] or even worse, waves of [[AIM-54A Phoenix|Phoenixes]] from [[F-14A Early|F-14A]]; for lightweight jets exactly like F-5E,  facing such missiles alongside their carriers will be the ultimate nightmare to deal with. Players have to survive the first wave of head-on attacks at the first place in order to take revenge on enemy targets. Although only a pair of AIM-9P and M39A2 cannons are available for air-to-air missions, if used at the right moment ie. a careless or slow enemy, 2 missiles are more than enough to score some hits. If it has to join a dogfight, the high ammo count at its tier can give trigger-happy players more opportunity to shoot down enemy aircraft, even multiple targets if aimed properly. But do note that a pair J85-GE-21A still aren't something with high thrust, any severe energy loss gives players very little chance to even regain the speed, making it easier to be shot at.
+Like its tech tree predecessor and its American counterpart, F-5E was designed to be a lightweight and inexpensive option for countries with tight budgets. This version of ROCAF's F-5E is identical to US ones with new avionics and engines to retain its combat capability against possible enemies. While this might sound good at first glance, players have to consider for a major problem- the waves of SARH/ARH capable jets at 11.0; you will either face waves of [[AIM-7E-2 Sparrow|Sparrows]] or even worse, waves of [[AIM-54A Phoenix|Phoenixes]] from [[F-14A Early|F-14A]]; for lightweight jets exactly like F-5E, facing such missiles alongside their carriers will be the ultimate nightmare to deal with. Players have to survive the first wave of head-on attacks at the first place in order to take revenge on enemy targets. Although only a pair of AIM-9P and M39A2 cannons are available for air-to-air missions, if used at the right moment ie. a careless or slow enemy, 2 missiles are more than enough to score some hits. If it has to join a dogfight, the high ammo count at its tier can give trigger-happy players more opportunity to shoot down enemy aircraft, even multiple targets if aimed properly. But do note that a pair J85-GE-21A still aren't something with high thrust, any severe energy loss gives players very little chance to even regain the speed, making it easier to be shot at.
 
-If CAS is your cup of tea, F-5E has a great variety of ordnance ranging from napalm bombs, general purpose bombs, Zuni rockets, as well as 2 pairs of AGM-65B. It can be said that F-5E is the long-awaited CAS aircraft for the Chinese tech tree ''<small>(note: PLAAF only had AGMs in service after the introduction of Su-30MKK Flanker-H in early 2000s)</small>'' . For a less risky approach, use the Mavericks to take out MBTs or menacing SPAAGs, its explosive content and penetration is more than enough to take out any unnoticed ground targets. Since Mavericks used IR/TV tracker in this case, some players sought it as a surprise way to shoot down hovering helicopters from safe distance and altitude. While bombs and rocket pods are available as well, due to the lack of equipment, F-5E still doesn't have any form of ballistic computer. Players should enter the battlefield below 600 m and at around 700 km/h then dive upon the target at 30°, then drop the payloads and pullup for a run; while rockets requires higher altitude for the dive, so use them with extreme caution and practice the trajectory for precise hits. Napalm can also be useful in some way for the nature that it could burn plants and open-top vehicles, but its aesthetic use is much greater than its practical use, i.e. blinding TVD modules on vehicles or equipment with its extreme heat.
+If CAS is your cup of tea, F-5E has a great variety of ordnance ranging from napalm bombs, general purpose bombs, Zuni rockets, as well as 2 pairs of AGM-65B. It can be said that F-5E has been one of the most-selected CAS aircraft for the Chinese tech tree until the introduction of [[Q-5L]] with LGBs or JH-7A with a pair of [[Kh-29T|Kh-29Ts]] ''<small>(editor's note: the lack of PLAAF jet with ATGM has been continued for 2 years until Kings of Battle on December 2023)</small>''. For a less risky approach, use the Mavericks to take out MBTs or menacing SPAAGs, its explosive content and penetration is more than enough to take out any unnoticed ground targets. Since Mavericks used IR/TV tracker in this case, some players sought it as a surprise way to shoot down hovering helicopters from safe distance and altitude. While bombs and rocket pods are available as well, while the HUD provides a gun ballistic computer, this is not the case for A2G weapons. Players should enter the battlefield below 600 m and at around 700 km/h then dive upon the target at 30°, then drop the payloads and pullup for a run; while rockets requires higher altitude for the dive, so use them with extreme caution and practice the trajectory for precise hits. Napalm can also be useful in some way for the nature that it could burn plants and open-top vehicles, but its aesthetic use is much greater than its practical use, i.e. blinding TVD modules on vehicles or equipment with its extreme heat.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -223,8 +227,8 @@ If CAS is your cup of tea, F-5E has a great variety of ordnance ranging from nap
 
 '''Cons:'''
 
-* No ballistic computer of any form
-* Low top speed at its rank
+* Only gun ballistic computer is available, not for rockets/bombs
+* Low top speed at its rank and lacks the thrust to escape from danger
 * The only A2A option is the pair of guns and two AIM-9Ps at most
 * Small countermeasures capacity, less than the F-5A
 

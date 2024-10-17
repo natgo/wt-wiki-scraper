@@ -35,7 +35,7 @@ The FJ-4B's flight performance is a bit sluggish. Due to the weight of the airfr
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 1,058 || 1,029 || rowspan="2" | {{Specs|ceiling}} || 32.5 || 33.2 || 28.1 || 26.4 || rowspan="2" | 750
+| 1,058 || 1,027 || rowspan="2" | {{Specs|ceiling}} || 32.5 || 33.3 || 28.1 || 26.2 || rowspan="2" | 750
 |-
 ! Upgraded
 | 1,107 || 1,090 || 30.2 || 31.0 || 42.8 || 35.0
@@ -178,6 +178,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 2 x AIM-9B Sidewinder missiles
 * 4 x AIM-9B Sidewinder missiles
@@ -260,6 +261,7 @@ Wishing to increase the strike capabilities of the new FJ-4, engineers of the No
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fj_4b Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Images

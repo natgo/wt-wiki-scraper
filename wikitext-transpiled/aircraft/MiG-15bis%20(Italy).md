@@ -45,7 +45,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a Hungarian
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || X
 |-
 |}
 
@@ -60,7 +60,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a Hungarian
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 598 || 450 || ~12 || ~7
 |-
 |}
 
@@ -70,7 +70,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a Hungarian
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || -
+| < 600 || < 700 || < 750 || N/A
 |-
 |}
 

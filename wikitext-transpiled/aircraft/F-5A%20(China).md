@@ -137,11 +137,10 @@ The research priority of the bombs is up to the user's preference and ability to
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
-** 2 x 20 mm M39A2 cannons + 60 x countermeasures
+* 2 x 20 mm M39A2 cannons, nose-mounted (280 rpg = 560 total)
+* 60 x countermeasures
 
-The F-5 can make short work of enemy jet fighters thanks to its fairly accurate cannons, the generous amount of rounds and the directional controllability of the aircraft. The two nose-mounted autocannons  are not as fast-firing as many of the top-rank vehicles like the [[M61 (20 mm)|M61 Vulcan]] on Phantoms or the [[GSh-23L_(23_mm)|GSh-23L]] on MiG-21s. However, the M39A2 cannon shells are of similar nature to the M61, so the same effect on enemy targets can be expected if the shots land onto target. One benefit of the lower rate of fire is the longer time of firing available to a F-5A pilot. So if the pilot aims carefully, the F-5A can deliver devastating effects with their 20 mm M39A2 for a longer period of time.
+The F-5 can make short work of enemy jet fighters thanks to its fairly accurate cannons, the generous amount of rounds and the directional controllability of the aircraft. The two nose-mounted autocannons are not as fast-firing as many of the top-rank vehicles like the [[M61 (20 mm)|M61 Vulcan]] on Phantoms or the [[GSh-23L_(23_mm)|GSh-23L]] on MiG-21s. However, the M39A2 cannon shells are of similar nature to the M61, so the same effect on enemy targets can be expected if the shots land onto target. One benefit of the lower rate of fire is the longer time of firing available to an F-5A pilot. So if the pilot aims carefully, the F-5A can deliver devastating effects with their 20 mm M39A2 for a longer period of time.
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -152,7 +151,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="12" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-5E_(China).png]]</div>
+| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_F-5E_(China).png]]</div>
 |-
 ! [[LDGP Mk 81 (250 lb)|250 lb LDGP Mk 81]] bombs
 | || || 6 || 6 || 6 || ||
@@ -187,12 +186,15 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[AIM-9P Sidewinder]] missiles
 | 1 || || || || || || 1
 |-
+! 150 gal drop tanks
+| || || 1 || 1 || 1 || ||
+|-
 |}
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 3 x 150 gal drop tanks
 * 2 x AIM-9P Sidewinder missiles
 * 18 x 250 lb LDGP Mk 81 bombs (4,500 lb total)
 * 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
@@ -208,7 +210,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 The F-5A has a bewildering array of loadouts, but the vast majority are dedicated to ground attack. Once AIM-9P missiles are unlocked, your attack capability is vastly increased and F-5A becomes an effective dogfighter provided it is not carrying too much ordnance.
 
-For a pure air-to-air role, the 2x AIM-9P loadout is the best, as the F-5A cannot carry more than two air-to-air missiles and everything else causes unnecessary weight and drag during combat. Most of the other loadouts still include the twin AIM-9Ps as a supplement to combinations of rockets, AGMs, and bombs. For mixed battles, these multirole loadouts are generally best option as they allow the F-5A to cause plenty of havoc to ground targets while still having air-to-air missiles for countering enemy aircraft. The one loadout lacking missiles that may be worth considering consists of 4x AGM-12B Bullpup AGMs and nothing else; Bullpups are very lethal against player controlled tanks but the multirole loadouts are limited to only having two of them.
+For a pure air-to-air role, the 2x AIM-9P loadout is the best, as the F-5A cannot carry more than two air-to-air missiles and everything else causes unnecessary weight and drag during combat. Most of the other loadouts still include the twin AIM-9Ps as a supplement to combinations of rockets, AGMs, and bombs. For mixed battles, these multirole loadouts are generally the best option as they allow the F-5A to cause plenty of havoc to ground targets while still having air-to-air missiles for countering enemy aircraft. The one loadout lacking missiles that may be worth considering consists of 4x AGM-12B Bullpup AGMs and nothing else; Bullpups are very lethal against player controlled tanks but the multirole loadouts are limited to only having two of them.
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
@@ -246,7 +248,7 @@ The key to ground attack in a F-5A is keep on track of SPAAGs or other multirole
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-As a supersonic fighter born in late 1950s, Northrop F-5 series fighters were a popular choice for many countries, as well as being a famous star in USAF's Exercise Red Flag, where it performed well even against 3rd generation fighters such as F-14 Tomcat. Although the US Air Force only used a limited number of F-5C "Skoshi Tiger" in the Vietnam War, both F-5A "Freedom Fighter" and F-5E "Tiger" were involved in many wars and conflicts around the world, such as the Iran-Iraq war in the 1980s, in which one of the Iranian F-5E fighter jets shot down a MiG-25 flown by an Iraqi ace pilot with the M39 autocannons!
+As a supersonic fighter born in late 1950s, Northrop F-5 series fighters were a popular choice for many countries, as well as being a famous star in USAF's Exercise Red Flag, where it performed well even against 4th generation fighters such as F-14 Tomcat. Although the US Air Force only used a limited number of F-5C "Skoshi Tiger" in the Vietnam War, both F-5A "Freedom Fighter" and F-5E "Tiger" were involved in many wars and conflicts around the world, such as the Iran-Iraq war in the 1980s, in which one of the Iranian F-5E fighter jets shot down a MiG-25 flown by an Iraqi ace pilot with the M39 autocannons!
 
 === "Freedom Fighters" and "Tigers" in Taiwan ===
 In an effort to replace the outdated F-86F Sabre fighter jets, the ROCAF placed an order of 60 F-5A and B fighters to the United States, the first tranche of a total requirement for 115 aircraft.

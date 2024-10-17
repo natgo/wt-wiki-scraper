@@ -120,7 +120,7 @@ As a bomber, Yak-28B also featured protections around the cockpit including armo
 |-
 ! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
+| {{Tick}} || {{Cross}} || {{Tick}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -154,7 +154,7 @@ The Yak-28B has 2 very powerful engines that give it a immense acceleration. Eve
 
 '''Air battles'''
 
-At the start of a match, take 20 minutes of fuel, equip Air targets belt and get yourself 6 x 250 kg bombs or 1 x 3,000 kg bomb (6 x 250 kg allows you to precisely eliminate bases while the 3,000 kg bomb gives the most explosive damage and is best used for bombing and quick resupplying). Start ascending on a 30-45° angle to an altitude of 6-12 km to any of the bomb targets (best to go for the furthest one as many bombers and strike aircraft will go for the first one). Once on a high altitude make sure you are certain that your bomb target will not get bombed by any teammates, if they all get bombed: simply remain high altitude on 100% thrust (not WEP) and wait for additional bomb targets to spawn. Once you have released your bombs start heading back to base, when coming close to base fully turn off your engine to bleed speed the most and land and repeat. If you are among the last players left of your team, take max fuel and ascend to the max altitude and remain there on 100% thrust, if someone starts coming close start the afterburners and fly away from the enemy. Tho this tactic is seen as a annoying and unfair, also known as "space climbing".
+At the start of a match, take 20 minutes of fuel, equip Air targets belt and get yourself 6 x 250 kg bombs or 1 x 3,000 kg bomb (6 x 250 kg allows you to precisely eliminate bases while the 3,000 kg bomb gives the most explosive damage and is best used for bombing and quick resupplying). Start ascending on a 30-45° angle to an altitude of 6-12 km to any of the bomb targets (best to go for the furthest one as many bombers and strike aircraft will go for the first one). Once on a high altitude make sure you are certain that your bomb target will not get bombed by any teammates, if they all get bombed: simply remain high altitude on 100% thrust (not WEP) and wait for additional bomb targets to spawn. Once you have released your bombs start heading back to base, when coming close to base fully turn off your engine to bleed speed the most and land and repeat. If you are among the last players left of your team, take max fuel and ascend to the max altitude and remain there on 100% thrust, if someone starts coming close start the afterburners and fly away from the enemy. Though this tactic is seen as a annoying and unfair, also known as "space climbing".
 
 '''CAS'''
 

@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-Battleship Leonardo da Vinci was launched in 1911 and commissioned in 1914. The first two years of her career were spent at harbour, due to fears of Austro-Hungarian torpedo attack. In August 1916, she fell victim to an internal explosion due to spontaneous ignition of the main armament propellant charges. The Regia Marina made a decision to recover the wreck, which turned upside down and sunk in the mud at the bottom of the harbour. Refloating wasn't completed until 1919 and righting the ship took until January 1921. The reconstruction of the wreck was estimated to cost 60 million lira - a sum beyond the capabilities of the post-war navy. After numerous attempts to allocate the funding, the Italian Navy finally gave up in 1923 and struck the vessel off the registry, sending the hull to Taranto to be broken up.
+The Battleship '''RN Leonardo da Vinci''' was launched in 1911 and commissioned in 1914. The first two years of her career were spent at harbour, due to fears of Austro-Hungarian torpedo attack. In August 1916, she fell victim to an internal explosion due to spontaneous ignition of the main armament propellant charges. The Regia Marina made a decision to recover the wreck, which turned upside down and sunk in the mud at the bottom of the harbour. Refloating wasn't completed until 1919 and righting the ship took until January 1921. The reconstruction of the wreck was estimated to cost 60 million lira - a sum beyond the capabilities of the post-war navy. After numerous attempts to allocate the funding, the Italian Navy finally gave up in 1923 and struck the vessel off the registry, sending the hull to Taranto to be broken up.
 
-Introduced in [[Update "Air Superiority"]], RN Leonardo da Vinci is by far the weakest of the [[Conte di Cavour (Family)|Conte di Cavour-class]] battleships, lacking the armour and armament of the other vessels in the class. The greatest weakness is its stern ammo racks exposed above the waterline. It has overall good armour for its BR and can be used to aggressively push capture points, but it lacks flexibility to retreat without risking deadly hits in the stern.
+Introduced in [[Update "Air Superiority"]], the  '''{{Specs|1=name}}''' is by far the weakest of the [[Conte di Cavour (Family)|Conte di Cavour-class]] battleships, lacking the armour and armament of the other vessels in the class. The greatest weakness is its stern ammo racks exposed above the waterline. It has overall good armour for its BR and can be used to aggressively push capture points, but it lacks flexibility to retreat without risking deadly hits in the stern.
 
 == General info ==
 === Survivability and armour ===
@@ -64,9 +64,11 @@ Introduced in [[Update "Air Superiority"]], RN Leonardo da Vinci is by far the w
 ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".''
 
 '''Pros:'''
+
 *
 
 '''Cons:'''
+
 *
 
 == History ==
@@ -82,6 +84,7 @@ Introduced in [[Update "Air Superiority"]], RN Leonardo da Vinci is by far the w
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.''
 

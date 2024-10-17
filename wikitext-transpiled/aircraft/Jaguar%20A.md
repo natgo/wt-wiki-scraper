@@ -148,7 +148,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="9%" | 1 !! width="9%" | 2 !! width="9%" | 3 !! width="9%" | 4 !! width="9%" | 5
-| rowspan="13" width="30%" | <div class="ttx-image">[[File:Hardpoints_Jaguar_GR.1.png]]</div>
+| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_Jaguar_GR.1.png]]</div>
 |-
 ! [[SAMP Type 25 (250 kg)|250 kg SAMP Type 25]] bombs
 | 1 || 3 || 3 || 3 || 1
@@ -186,6 +186,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! ATLIS II targeting pod
 | || || 1* || ||
 |-
+! 1,200 l drop tanks
+| || 1 || 1 || 1 ||
+|-
 | colspan="7" | * The ATLIS II pod must be carried when equipping guided air-to-ground ordnance
 |-
 |}
@@ -193,7 +196,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 3 x 1,200 l drop tanks
 * 2 x Matra R550 Magic 1 missiles
 * 11 x 250 kg SAMP Type 25 bombs (2,750 kg total)
 * 11 x 250 kg SAMP Type 25 200 bombs (2,750 kg total)

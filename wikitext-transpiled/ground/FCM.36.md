@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=fr_fcm_36
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -140,6 +140,7 @@ In the right hands, this tank can be used correctly to a degree. Practice with t
 * Very poor mobility: weak engine, slow top speed, and bad reverse speed
 * Cannot angle properly without exposing a flat surface
 * Only 2 crew members, cramped and sitting in line
+* Tall silhouette
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -154,7 +155,13 @@ During the Invasion of France in 1940, the 100 FCM 36s in service with the Frenc
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage FCM.36.png
+</gallery>
+
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_fcm_36 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -162,6 +169,7 @@ During the Invasion of France in 1940, the 100 FCM 36s in service with the Frenc
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.''
 

@@ -56,7 +56,7 @@ Despite only seating three crew members, the Leclerc's survivability proves to b
 {{Specs-Tank-Weapon|1}}
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|GIAT CN120-26 F1 (120 mm)}}
-The Leclerc SXXIa mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted with a two-plane stabilizer and an autoloading system. The CN120 is a competitive cannon, displaying excellent performance with the OFL 120 F1 APFSDS round, up to a maximum of 575 mm of penetration at 0°. Combined with the consistent 6-second reload (independent of crew), this 120 mm cannon is more than competitive when compared to the offerings on its contemporaries. However, it's important to note that the OFL 120 F1 round is a tier 4 modification, and as such a stock Leclerc will be required to use the OCC 120 G1 HEAT-FS round - which, while capable, can prove somewhat unreliable when used against late vehicles with ERA and composite armour.
+The Leclerc SXXIa mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted with a two-plane stabilizer and an autoloading system. The CN120 is a competitive cannon, displaying excellent performance with the OFL 120 F1 APFSDS round, up to a maximum of 575 mm of penetration at 0°. Combined with the consistent 5-second reload (independent of crew), this 120 mm cannon is more than competitive when compared to the offerings on its contemporaries. However, it's important to note that the OFL 120 F1 round is a tier 4 modification, and as such a stock Leclerc will be required to use the OFL 120 G1 - which, while capable, is sometimes not sufficient enough to take out tanks with one shot in certain scenarios. 
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -67,7 +67,7 @@ The Leclerc SXXIa mounts a 120 mm GIAT CN120-26/52 smoothbore cannon, fitted wit
 ! Autoloader
 |-
 ! ''Arcade''
-| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 6.00
+| rowspan="2" | 40 || rowspan="2" | -8°/+20° || rowspan="2" | ±180° || rowspan="2" | Two-plane || 38.1 || 52.7 || 64.0 || 70.8 || 75.3 || rowspan="2" | 5.00
 |-
 ! ''Realistic''
 | 23.8 || 28.0 || 34.0 || 37.6 || 40.0

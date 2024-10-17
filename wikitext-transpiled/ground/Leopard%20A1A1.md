@@ -161,7 +161,7 @@ Sometimes moving is not an option, but remember, directly behind your hull front
 
 * Extra armour increases weight - slightly reducing mobility
 * Insufficient armour (basically a glass cannon) for protection
-* APFSDS is tier 4 modification - there is a long grind with APDS and HEATFS before it is unlocked
+* APFSDS is tier 3 modification - there is a long grind with APDS and HEATFS before it is unlocked
 * Ammo rack in the front - a very easy target, and if more ammo than minimum is carried, the tank will blow up once the ammo is struck
 * No available heavy machine gun, often helpless against helicopter attacks
 * Small internal compartment (only 4 crew members) - a penetrating hit, which happens more often than a nonpenetrating one, can easily disable the tank by killing three crew members

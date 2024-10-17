@@ -120,11 +120,11 @@ Introduced in [[Update "Danger Zone"]], the Mirage F1CT acts as the best Mirage 
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -134,9 +134,9 @@ Introduced in [[Update "Danger Zone"]], the Mirage F1CT acts as the best Mirage 
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 30 mm DEFA 553 cannon, belly-mounted (135 rpg)
-** 1 x 30 mm DEFA 553 cannon + 252 x countermeasures
+* 1 x 30 mm DEFA 553 cannon, belly-mounted (135 rpg)
+* 48 x large calibre countermeasures
+* 144 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -147,7 +147,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {| class="wikitable" style="text-align:center" width="100%"
 |-
 ! !! width="6%" | 1 !! width="6%" | 2 !! width="6%" | 3 !! width="6%" | 4 !! width="6%" | 5 !! width="6%" | 6 !! width="6%" | 7
-| rowspan="14" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_F1C.png]]</div>
+| rowspan="15" width="30%" | <div class="ttx-image">[[File:Hardpoints_Mirage_F1C.png]]</div>
 |-
 ! [[SAMP Mk 82 (500 lb)|500 lb SAMP Mk 82]] bombs
 | || 1 || 1, 2 || 1, 4 || 1, 2 || 1 ||
@@ -185,6 +185,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 ! [[Matra Super 530F]] missiles
 | || || 1 || || 1 || ||
 |-
+! 1,200 l drop tanks
+| || || 1 || 1 || 1 || ||
+|-
 | colspan="8" | Maximum permissible weight imbalance: 950 kg
 |-
 |}
@@ -192,7 +195,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
 
-* Without load
+* 3 x 1,200 l drop tanks
 * 72 x SNEB type 23 rockets
 * 144 x SNEB type 23 rockets
 * 10 x 500 lb SAMP Mk 82 bombs (5,000 lb total)

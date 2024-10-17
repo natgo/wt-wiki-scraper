@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "Sky Guardians"]] but was removed from the Gaijin store after the [[wt:en/news/8580-shop-war-thunders-birthday-sale-in-the-gaijinnet-store-en|War Thunder's 11th Anniversary sale]]. The vessel returned to sale on the [[wt:en/news/8748-shop-aigle-is-back-on-the-anniversary-of-its-launch-en|anniversary of its launch]].
+'''Aigle''' was the lead ship of [[Aigle (Family)|her class]] of contre-torpilleurs, commissioned in September 1932. During World War II, she performed mostly escort duties. With the start of hostilities against Italy, she participated in Operation Vado in June 1940, silencing the coastal defence battery at Cape Vado and engaging other coastal installations as well as Italian torpedo boats. After the signing of the Armistice at Compiègne and the surrender of France, she served in the Vichy Fleet, again primarily in escort duty. She did not see any combat until Case Anton, the German takeover of Vichy France. In defiance of the German breach of the armistice, French sailors burned Aigle, along with numerous other vessels, during the scuttling of the French fleet at Toulon.
+
+The '''{{Specs|name}}''' was introduced into the game with the start of closed beta testing of the French bluewater fleet in [[Update "Sky Guardians"]] as a premium vessel. She was removed from the game after [[wt:en/news/8580-shop-war-thunders-birthday-sale-in-the-gaijinnet-store-en|War Thunder's 11th Anniversary sale]]. She returned to sale on the [[wt:en/news/8748-shop-aigle-is-back-on-the-anniversary-of-its-launch-en|anniversary of her launch]]. Being in her 1942 refit, she features very good anti-air and anti-coastal armament, in particular a large amount of medium-range 37 mm guns, making her an excellent support for friendly vessels. Against larger threats, she boasts excellent primary armament and very good long-range torpedoes. Her biggest issue is the lack of survivability, even if she has the largest crew complement of her class. She also has the lowest speed in her class, but the difference is not significant enough to affect combat performance.
 
 == General info ==
 === Survivability and armour ===
@@ -55,7 +57,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French destroyer 
 <!-- ''Describe the available additional armaments of the ship: depth charges, mines, torpedoes. Talk about their positions, available ammunition and launch features such as dead zones of torpedoes. If there is no additional armament, remove this section.'' -->
 {{main|Model 1923DT (550 mm)}}
 
-The torpedoes of the Aigle are rather slow compared to the ones the German or American ships can carry. In trade for the slow speed, they have an above-average travel distance of 9km with a decent amount of explosive filler of 308g of TNT, for inflicting great damage to enemy ships. Further, the Aigle is rather limited by only having 6 of those torpedoes, disallowing unthought use of the 1923DT torpedoes. 
+The torpedoes of the Aigle are rather slow compared to the ones the German or American ships can carry. In trade for the slow speed, they have an above-average travel distance of 9km with a decent amount of explosive filler of 308g of TNT, for inflicting great damage to enemy ships. Further, the Aigle is rather limited by only having 6 of those torpedoes, disallowing unthought use of the 1923DT torpedoes.
 
 The torpedo launchers of the Aigle are located at two positions, 3 in the centre and 3 in the back of the ship. This allows the ship to have good torpedo launch angles over the sides which allows the ship to launch torpedoes while retreating from a position or turning away from enemy fire.
 
@@ -72,7 +74,7 @@ The torpedo launchers of the Aigle are located at two positions, 3 in the centre
 * Turrets have antifragmentation armour to offer, reducing the chance of the turret being knocked out
 * Ammunition is stored further down in the ship, making it harder to cause an explosion
 * Very fast ship, making it harder to hit and improving survivability
-* Torpedoes have a long travel distance 
+* Torpedoes have a long travel distance
 
 '''Cons:'''
 

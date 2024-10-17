@@ -89,6 +89,7 @@ For a heavy bomber, the Lincoln is quite a responsive machine. It turns relative
 {{Specs-Avia-Suspended}}
 <!-- ''Describe the aircraft's suspended armament: additional cannons under the wings, bombs, rockets and torpedoes. This section is especially important for bombers and attackers. If there is no suspended weaponry remove this subsection.'' -->
 {{main|G.P. Mk.IV (250 lb)|G.P. Mk.IV (500 lb)|M.C. Mk.I (1,000 lb)|G.P. Mk.I (1,000 lb)}}
+{{main|H.C. Mk.II (4,000 lb)|H.C. Mk.II (8,000 lb)|H.C Mk.I (12,000 lb)}}
 
 The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
@@ -96,6 +97,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 14 x 500 lb G.P. Mk.IV bombs (7,000 lb total)
 * 6 x 1,000 lb G.P. Mk.I bombs (6,000 lb total)
 * 14 x 1,000 lb M.C. Mk.I bombs (14,000 lb total)
+* 1 x 4,000 lb H.C. Mk.II bomb (4,000 lb total)
+* 1 x 8,000 lb H.C. Mk.II bomb (8,000 lb total)
+* 1 x 12,000 lb H.C Mk.I bomb (12,000 lb total)
 
 === Defensive armament ===
 {{Specs-Avia-Defensive}}

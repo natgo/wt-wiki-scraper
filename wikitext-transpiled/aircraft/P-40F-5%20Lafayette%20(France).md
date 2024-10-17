@@ -79,12 +79,14 @@ The P-40F-5 does not climb well so side-climbing is advised. The engine is best 
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
 
 ;Armour plates
+
 * 3 mm steel between oil cooling system and engine
 * 8 mm steel behind pilot
 * 38 mm bulletproof glass in front of pilot
 * Self-sealing fuel tanks (1 behind pilot, 1 under pilot, 1 in front of pilot's feet)
 
 ;Critical components
+
 The oil and liquid cooling system are both located under the nose of the plane. When hit, both will leak out almost instantly and causes engine failure shortly after.
 
 === Modifications and economy ===
@@ -216,7 +218,9 @@ Some concerning fighters the P-40F has to watch out for are the:
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The French P-40F was named “Lafayette” after the famous Lafayette Escadrille, a squadron of American volunteer pilots who flew for France during World War I.
+
+In late 1942, as French forces in North Africa aligned with the Allies, the U.S. transferred P-40Fs to the French squadron GC II/5, which had historical ties to the Lafayette Escadrille. These aircraft played a significant role in the North African campaign, providing air support and engaging in dogfights with Axis aircraft.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

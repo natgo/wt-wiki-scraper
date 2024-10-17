@@ -146,6 +146,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 4 x 100 kg FAB-100sv bombs (400 kg total)
 * 2 x 250 kg FAB-250sv bombs (500 kg total)
@@ -227,6 +228,15 @@ During armament testing of the nose mount, it was found that the Plexiglas fusel
 The heavy fighters were delivered from the factory to the front lines with equipment corresponding to the main production Pe-3 aircraft. The total number of Pe-3s built in 1941 was 196; 11 more planes were assembled from available stocks of parts in April 1942.
 {{Navigation-End}}
 
+=== Operational History ===
+The Pe-3 was first issued to the 95th High-Speed Bomber Aviation Regiment and was primarily used for ground attack and escort missions before being assigned to the defence of Moscow. The aircraft was also issued for reconnaissance missions but these resulted in very heavy losses with 1/4th of the total aircrafts being destroyed in its first three months of combat, a very high casualty rate that resulted in the relegation of the aircraft to less risky missions and some aircrafts being converted for other roles. The production of the aircraft was terminated due to the evacuation of the factories which resulted in a lower number of available units.
+
+The Pe-3 continued to have a successful combat history, it was mainly assigned to reconnaissance air regiments and it played a crucial rule in the northern fleet to escort convoys with aid to the Soviet Union in what is known as the Arctic Convoys.
+
+A soviet Pe-3 was captured by the Fins after crash landing around Lake Inari, it was pretty undamaged and after repairs it was put into service as Pe-301 as a photo-reconnaissance aircraft with 222h of flight before being destroyed on the ground by a soviet raid on the airfield it was stationed.
+
+The Gneiss-2 radar was installed and tested on the Pe-3 between 1942 and 1943 but saw very limited service with only 15 being issued.
+
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
@@ -239,11 +249,13 @@ The heavy fighters were delivered from the factory to the front lines with equip
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

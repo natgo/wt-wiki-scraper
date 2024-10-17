@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a gift rank {{Specs|rank}} German bomber {{Battle-rating}}. It has been in the game since the start of the Open Beta Test prior to Update 1.27 in the German aviation tree. In [[Update 1.69 "Regia Aeronautica"]], the S.M.79, as well as the other Italian planes in the German tree, were moved to the new Italian tree. This variant is painted in Romanian markings.
+The '''{{Specs|name}}''' was an Italian-made medium bomber which served in the Romanian air force. In 1936, Romania showed interest in the Italian Savoia-Marchetti 79 triple-engined bomber, and asked the manufacturer if they could develop a twin-engined version. The work on the aircraft finished in 1939. Unlike the regular S.M.79, the S.M.79B had two locally built licensed versions of the French Gnome-Rhône K14 radial engine, which also powered the Romanian IAR-80 fighter. The nose section was redesigned, with the typical hump housing the forward-facing 12.7 mm machine gun being removed and the cockpit positioned above the fuselage, offering better all-around view compared to the base S.M.79. The nose received a glazing, improving the bombardier's view, and the tail was slightly enlarged. Due to having two engines, both climb rate and speed were decreased compared to the regular S.M.79. A total of 24 aircraft were ordered, later on another 80 were made locally by IAR, using German Jumo 211 engines.
+
+The S.M.79B has been in the game since the start of the Open Beta Test prior to Update 1.27 in the German aviation tree. In [[Update 1.69 "Regia Aeronautica"]], the S.M.79, as well as the other Italian planes in the German tree, were added to the new Italian tree, and the aircraft became unavailable to research. The bomb load of the twin-engined version is same as their triple-engined counterpart, however the S.M.79B is notably slower, with worse climb rate and no offensive weaponry. The aircraft has no weaponry to defend against frontal attacks, and the angles the defensive weaponry can fire around the aircraft are very bad. Only the dorsal 12.7 mm machine gun features very good vertical angle of fire. The aircraft features very good horizontal and vertical manoeuvrability due to its large elevator surface area, however the elevator stiffens above 390 km/h.
 
 == General info ==
 === Flight performance ===
@@ -169,9 +171,13 @@ When compared with the Iraqi planes, the Romanian version had several difference
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sm_79_iar Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related development
+*[[S.M.79 (Family)]]
+**[[S.M.79 B]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

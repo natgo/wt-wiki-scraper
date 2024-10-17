@@ -45,7 +45,7 @@ Her speed and manoeuvrability allows capping and positioning unavailable to othe
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|4 inch/45 Mark XVI (102 mm)}}
 
-With two twin 4"/45 turrets forward and another at the stern HMS Abdiel has similar firepower to other British ships at this BR. The stern turret can fire at relative fine angles forward, about 15 degrees off the bow. Turret traverse is somewhat slow though easily enough to keep the guns on target which manouvreing.
+With two twin 4"/45 turrets forward and another at the stern HMS Abdiel has similar firepower to other British ships at this BR. The stern turret can fire at relative fine angles forward, about 15 degrees off the bow. Turret traverse is somewhat slow though easily enough to keep the guns on target which manoeuvring.
 
 She therefore plays far more like a destroyer than a Light Cruiser.
 

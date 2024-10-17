@@ -5,7 +5,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British utility helicopter {{Battle-rating}}. It was introduced in [[Update "Alpha Strike"]].
+The '''Westland Wessex''' was a British modification of the American multipurpose [[H-34]] helicopter. In the late 1950s, Westland Helicopters began developing a new multipurpose helicopter, taking into account the experience of licensed production of American-developed Dragonfly and Whirlwind helicopters. The H-34 was chosen as the base model, the documentation and one copy of which the company received from Sikorsky. In 1958, a modified version of the helicopter took to the skies with a Napier Gazelle turboshaft engine instead of the standard piston engine. The helicopter was initially developed for the needs of the Royal Navy, but later the vehicle also entered service with Air Force units, as well as the Australian Navy and the armed forces of a number of other states.
+
+One modification of the Wessex was the '''HU Mk.5''', intended for special forces units. Designed for amphibious and search-and-rescue missions, the HU Mk.5 was powered by two Rolls-Royce Gnome turboshaft engines. The Wessex HU Mk.5 has been used as a military transport and attack helicopter in a number of armed conflicts around the world, from Cyprus and Malaysia to the Falklands. In total, about 100 helicopters of the HU Mk.5 modification were built, which were in service with Great Britain until the 1990s.
+
+The '''Wessex HU Mk.5''' was introduced in [[Update "Alpha Strike"]]. At first glance, it is not much different from the [[H-34]], but the main difference lies in the new power plant, consisting of two Rolls-Royce Gnome engines, which provide a significant increase in power and flight capabilities compared with the original H-34. Another important difference is the presence of 7.62 mm machine guns and an expanded arsenal of suspended weapons, which, in addition to unguided rockets, includes new AS.11 and AS.12 guided missiles with increased armour penetration. However, much like the H-34, the Wessex lacks any armour protection.
 
 == General info ==
 === Flight performance ===
@@ -108,7 +112,7 @@ Retiring finally in the early 2000s, the Wessex was finally replaced in all majo
 * ''topic on the official game forum;''
 * ''other literature.'' -->
 
-* [[wt:en/news/8757-development-wessex-hu5-her-majestys-helicopter-en|[Devblog] Wessex HU.5: Her Majesty’s Helicopter]]
+* [[wt:en/news/8757-development-wessex-hu5-her-majestys-helicopter-en|[Devblog] Wessex HU.5: Her Majesty's Helicopter]]
 
 {{AirManufacturer Westland}}
 {{Britain helicopters}}

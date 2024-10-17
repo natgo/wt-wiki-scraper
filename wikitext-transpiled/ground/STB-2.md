@@ -161,18 +161,27 @@ The prototype for the Type 74. Known in Japanese as 74式戦車の試作車STB-1
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;[[Type 74 (Family)|Related Development]]
+;Related Development
 
-* [[Type 74 (C)]] - <small>(Early Production version)</small>
-* [[Type 74 (E)]] - <small>(Variant with improved FCS & thermal sleeve)</small>
-* [[Type 74 (F)]] - <small>(Variant with mounting plates for a Type 92 mine-roller)</small>
-* [[Type 74 (G)]] - <small>(Improved ({{Annotation|改|Kai}}) variant with thermal and armour skirts)</small>
+* [[Type 74 (Family)]]
+** [[Type 74 (C)]] - <small>(Early Production version)</small>
+** [[Type 74 (E)]] - <small>(Variant with improved FCS & thermal sleeve)</small>
+** [[Type 74 (F)]] - <small>(Variant with mounting plates for a Type 92 mine-roller)</small>
+** [[Type 74 (G)]] - <small>(Improved ({{Annotation|改|Kai}}) variant with thermal and armour skirts)</small>
+** [[Type 87]] - <small>(SPAAG built on a modified Type 74 Hull)</small>
 
 ;Other vehicles of similar configuration and role
-
-* [[Leopard I]]
-* [[AMX-30]]
-* [[AMX-30 (1972)]]
+{{columns|2|
+* [[File:FRG flag.png|30px|link=]] [[Leopard 1 (Family)]]
+* [[File:Italy flag.png|30px|link=]] [[OF-40 (Family)]]
+* [[File:Britain flag.png|30px|link=]] [[Vickers MBT (Family)|Vickers MBT Mk.1 - 3]]
+* [[File:France flag.png|30px|link=]] [[AMX-30 (Family)]]
+* [[File:USA flag.png|30px|link=]] [[M60 (Family)]]
+* [[File:FRG flag.png|30px|link=]] [[File:Argentina flag.png|30px|link=]] [[TAM (Family)]]
+* [[File:USA flag.png|30px|link=]] [[File:Italy flag.png|30px|link=]] [[M47 (105/55)]]
+* [[File:USA flag.png|30px|link=]] [[File:FRG flag.png|30px|link=]] [[M48A2 G A2]]
+* [[File:USSR flag.png|30px|link=]] [[T-54/55 (Family)]]
+}}
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

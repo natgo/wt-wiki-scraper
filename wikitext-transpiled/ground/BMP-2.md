@@ -73,11 +73,9 @@ The Shipunov 2A42 30 mm autocannon is a very versatile weapon - it is possible t
 
 The main concern with this powerful main weapon is the ammo capacity. The gun has two firing modes - relatively slow (~200/minute) and extremely fast (~550/minute), while your ammo capacity is 500. To not run out of ammo during the battle, one should use full auto mode only when facing certain doom, or when sitting in an ambush position against an unknown enemy.
 
-Its reload rate for the belts is quite fast at 1 second and it gets a choice of HEF-T, AP-T, and HVAP in belts. Every belt is universal and has at least 1 AP and 1 HE in them, HE belt carrying 2 of HEF-T for 1 AP-T per cycle.
+Its autocannon reload rate is quite fast at 1 second. Belts come with APDS, AP-I/T and/or HEF-I/T shells.
 
-The HVAP belts have enough penetration to obliterate lighter tanks such as [[Leopard A1A1|Leopard A1A1s]], [[AMX-30B2 BRENUS]] and [[Warrior]] frontally, however, when engaging other larger targets it's only possible to completely defeat them from the side, though you can still cripple enemy tanks frontally by shooting cannon barrels and tracks.
-
-The main difference of the HVAP compared to the APDS of other autocannon-equipped vehicles is that it is '''very''' bad against angled tanks and when attacking tanks on high ground (Refer to the table, to see how bad it can get). Because of that, targets usually easily dealt with such as the [[Striker]] may deflect fire from your main gun when heavily angled. When facing something the main gun cannot deal with, you'll need to use the secondary weapon:
+The APDS belts have enough penetration to obliterate lighter tanks such as [[Leopard A1A1|Leopard A1A1s]], the [[AMX-30B2 BRENUS]] and the [[Warrior]] frontally, however, when engaging other more-armored targets it's only possible to completely defeat them from the side, though you can still cripple enemy tanks frontally by shooting cannon barrels and tracks.
 
 {| class="wikitable" style="text-align:center" width="100%"
 |-
@@ -126,7 +124,7 @@ BMP-2 also has an ATGM launcher. Its guidance system is semi-automatic, so it's 
 
 The ATGM is able to penetrate most tanks BMP-2 will face at its BR and often above when aimed well. The 9M113 is also fairly useable at range, although it generally won't reach sniping helicopters. The BMP only has 4 ATGMs, so it's a good idea to be stringent with them.
 
-Unlike BMP-1, BMP-2 can directly aim with the ATGM launcher by using "select special weapon or ATGM" key, which also disables the main turret. The launcher can turn 15 degrees to the left or 38 degrees to the right. This may seem a bit redundant, as BMP is too short to directly fire over walls, but when the tank is using something as a stepping stone it can lean just enough to be able to see a bit of enemy tanks and to not lose control over the missile anymore. Since the missile is launched a bit up, if the target is about 90-150 m away, then hitting it would just require aiming the crosshair directly at it. Remember to use "reset weapon selection" key to return controls to normal.
+Unlike the BMP-1, BMP-2 can directly aim with the ATGM launcher by using the "select special weapon or ATGM" key, which also disables the main turret. The launcher can turn 15 degrees to the left or 38 degrees to the right. This may seem a bit redundant, as BMP is too short to directly fire over walls, but when the tank is using something as a stepping stone it can lean just enough to be able to see a bit of enemy tanks and to not lose control over the missile anymore. Since the missile is launched a bit up, if the target is about 90-150 m away, then hitting it would just require aiming the crosshair directly at it. Remember to use "reset weapon selection" key to return controls to normal.
 
 <gallery mode="packed-hover" heights="200px">
 BMP-2 firing atgm over a wall atgm scope.jpg|When the launcher is pulled high enough, all you need is to be far enough and to aim true.
@@ -228,16 +226,17 @@ A single BMP-2 can find a suitable covered position on a hill or a ditch deep en
 * At times is surprisingly survivable, the vehicle's internals are largely non-critical components
 * Can ford rivers/canals to get to locations that are normally difficult or sometimes impossible to reach
 * Somewhat effective as an AA with fast-firing 30 mm
-* ATGMs will comfortably destroy almost any vehicle with a well placed missile
-* 30 mm HVAP can quickly disable tracks/gun barrel on any target
+* ATGMs will comfortably destroy almost any vehicle with a well placed missile, and has enough explosive power to sometimes overpressure cupolas.
+* 30 mm APDS can quickly disable tracks/gun barrel on any target.
 
 '''Cons:'''
 
-* The 30 mm HVAP is not as powerful as APDS on other AFVs and has extremely bad angled performance
+* The 30 mm APDS, while powerful, is not as strong as some other nations' 30mm ammunition (L21A1 has 110mm pen APFSDS, but is offset by firerate)
 * Small maximum ammo load, can only take a single APDS belt, exactly 160 shells (Changing to low rate of fire is recommended)
-* Vulnerable to HMGs and light cannons at close ranges, particularly without add-on armour
+* Vulnerable to HMGs and light cannons at close ranges, especially on the side, particularly when without the add-on armour (BMP-2D modification)
 * Vulnerable to overpressure (HE shells, bombs, rockets, ATGMs and artillery strikes).
-* Konkurs ATGM is highly ineffective against vehicles with ERA like the [[Sho't Kal Dalet (Great Britain)]] or the [[M60A1 RISE (P)]]
+* Konkurs ATGM is highly ineffective against vehicles with ERA like the [[Sho't Kal Dalet (Great Britain)]] or the [[M60A1 RISE (P)]] 
+* The ATGM's drop when firing can make it destruct itself on the ground or obstacles
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

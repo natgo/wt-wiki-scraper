@@ -6,7 +6,7 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The usage of the [[M551]] Sheridan airborne/reconnaissance tank in combat in places like Vietnam enabled the United States to gather experience on what they like or didn't like about the lightweight armored vehicles in combat operations. This allowed the United States to establish the baseline requirements when opening the Armored Gun System (AGS) program to find a replacement to the M551 for their airborne forces. One contender in this contest was Teledyne Continental Motors (TCM), which produced their own AGS design in the early 1980s. Their design was submitted and was distinguished for its unmanned turret when compared to competitors like the [[CCVL]]. However, the CCVL ended up winning the AGS program and the TCM AGS design was not adopted. TCM continued to utilize their AGS design for export sales attempt after the program's conclusion.
+The usage of the [[M551]] Sheridan airborne/reconnaissance tank in combat in places like Vietnam enabled the United States to gather experience on what they liked or didn't like about lightweight armored vehicles in combat operations. This allowed the United States to establish the baseline requirements when opening the Armored Gun System (AGS) program to find a replacement to the M551 for their airborne forces. One contender in this contest was Teledyne Continental Motors (TCM), which produced their own AGS design in the early 1980s. Their design was submitted and was distinguished for its unmanned turret when compared to competitors like the [[CCVL]]. However, the CCVL ended up winning the AGS program and the TCM AGS design was not adopted. TCM continued to utilize their AGS design for export sales attempt after the program's conclusion.
 
 Introduced during [[Update "Winged Lions"]] as a reward for the [[wt:en/news/7469-event-operation-w-i-n-t-e-r-en|2021 Operation W.I.N.T.E.R.]] event, the AGS presents a unique platform for American operators with its unmanned turret on top. The sheer small size of the turret sticking on top of the hull makes this vehicle extremely survivable in a hull-down position as enemies would struggle to incapacitate the vehicle due to the tiny target the turret presents, and the right attack angle needed to damage the critical components and crew in the AGS hull. With a -10 degree gun depression, the AGS can be quite useful in hull-down positions against enemies as well. That said, if the AGS gets targeted by anything equipped with autocannons and above, they will quite easily shred it apart. So the AGS is best used once an ideal hull-down location can be found that hides the hull but exposes the turret, but don't plan to stay very long lest artillery or a bomb finds the AGS' position.
 
@@ -17,6 +17,7 @@ Introduced during [[Update "Winged Lions"]] as a reward for the [[wt:en/news/746
 The Teledyne Light Tank is primarily made out of Aluminium alloy 7039 all around. The sides are covered by two sets of composite screens. However, it's important to note that the TCM AGS is a light tank and its survivability is suboptimal.
 
 '''Armour type:'''
+
 * Aluminium alloy 7039
 
 {| class="wikitable"
@@ -135,6 +136,8 @@ If you must take an engagement, push an enemy moving towards your left, using yo
 * Good gun depression
 * Laser rangefinder
 * 5 second reload is faster than most competing tanks
+* Fast horizontal and vertical targeting speed
+* Reasonable sight magnification (x2.6-x8)
 
 '''Cons:'''
 
@@ -142,7 +145,6 @@ If you must take an engagement, push an enemy moving towards your left, using yo
 * Gun, while passable, needs to hit weak spots on most medium tanks it faces frontally, and can easily net poor damage results.
 * Low-calibre machine guns are of little use
 * Its 1st generation thermal sights are vastly inferior to those of other encountered vehicles, such as the [[T-72AV (TURMS-T)]]
-* Low zoom optics make some long-range engagements difficult, if not impossible
 * Ammo rack is placed far into the back of the vehicle, being hit while on the move can prove accidentally fatal
 * Gun only reloads from ready rack, if the ready rack is empty gun cannot reload until a shell is loaded into the ready rack, thus making extended engagements difficult
 

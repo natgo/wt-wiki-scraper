@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian bomber {{Battle-rating}}. It was introduced in [[Update 1.69 "Regia Aeronautica"]] along with the initial Italian aircraft tree.
+The '''{{Specs|name}}''' was an Italian-made medium bomber which served in the Romanian air force. In 1936, Romania showed interest in the Italian Savoia-Marchetti 79 triple-engined bomber, and asked the manufacturer if they could develop a twin-engined version. The work on the aircraft finished in 1939. Unlike the regular S.M.79, the S.M.79B had two locally built licensed versions of the French Gnome-Rhône K14 radial engine, which also powered the Romanian IAR-80 fighter. The nose section was redesigned, with the typical hump housing the forward-facing 12.7 mm machine gun being removed and the cockpit positioned above the fuselage, offering better all-around view compared to the base S.M.79. The nose received a glazing, improving the bombardier's view, and the tail was slightly enlarged. Due to having two engines, both climb rate and speed were decreased compared to the regular S.M.79. A total of 24 aircraft were ordered, later on another 80 were made locally by IAR, using German Jumo 211 engines.
+
+The S.M.79B was introduced in [[Update 1.69 "Regia Aeronautica"]]. The bomb load of the twin-engined version is same as their triple-engined counterpart, however the S.M.79B is notably slower, with worse climb rate and no offensive weaponry. The aircraft has no weaponry to defend against frontal attacks, and the angles the defensive weaponry can fire around the aircraft are very bad. Only the dorsal 12.7 mm machine gun features very good vertical angle of fire. The aircraft features very good horizontal and vertical manoeuvrability due to its large elevator surface area, however the elevator stiffens above 390 km/h.
 
 == General info ==
 === Flight performance ===
@@ -127,7 +129,7 @@ It is a bomber with a decent climb rate for the BR, allowing you to easily get a
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
-'''Pros:''' 
+'''Pros:'''
 
 * Great bomb load making you capable of taking down 2 bases
 * Decent speed for the BR and makes you capable to outrun an enemy climbing towards you
@@ -138,19 +140,19 @@ It is a bomber with a decent climb rate for the BR, allowing you to easily get a
 * Crew is easily knocked out
 
 == History ==
-Alessandro Marchettí was famous for creating record breaking and Schneider Trophy winning racing seaplanes, and was the Savoia (aka SIAI, Società Idrovolanti Alta Italia). In 1922 Marchettí joined Savoia to form one of the great aircraft companies in history, until merged in 1983. After the conclusion of the Schneider Trophy race (won by UK), the firm used its experience to build fast aircraft for civilian and military use.
+Alessandro Marchettí was famous for creating record breaking and Schneider Trophy winning racing seaplanes, and was the Savoia (aka SIAI, Società Idrovolanti Alta Italia). In 1922 Marchettí joined Savoia to form one of the great aircraft companies in history, until merged in 1983. After the conclusion of the Schneider Trophy race (won by UK), the firm used its experience to build fast aircraft for civilian and military use.
 
-You probably saw the very similar looking Italian S.81 in game, which was a militarized version of the successful S.73. The S.M.79 was new passenger version based on the planform of its predecessor; the most obvious difference was retractable landing gear. It was truly made first as a passenger version to compete with those being made by other countries. Needless to say, it immediately attracted attention of the Regina Italia and a bomber version was developed in parallel. For a few brief months it was considered the best transport and bomber in world and became a major point of pride in Fascist Italy and was sold to several countries in the years before WW2.
+You probably saw the very similar looking Italian S.81 in game, which was a militarized version of the successful S.73. The S.M.79 was new passenger version based on the planform of its predecessor; the most obvious difference was retractable landing gear. It was truly made first as a passenger version to compete with those being made by other countries. Needless to say, it immediately attracted attention of the Regina Italia and a bomber version was developed in parallel. For a few brief months it was considered the best transport and bomber in world and became a major point of pride in Fascist Italy and was sold to several countries in the years before WW2.
 
-Unlike nearly every bomber in War Thunder (and even in WW2), it was built mainly of steel a wood! The fuselage was a common for time welded steel tube design, with entire rear half being covered in cloth and plywood. The crew area to nose was duralumin cladded (which is very similar to Hawker Hurricane’s construction). Most surprising the wings are completely wood! A major technical achievement for its size. During its production life several engines where tried, depending on power and reliability, one model even removing the nose engine.
+Unlike nearly every bomber in War Thunder (and even in WW2), it was built mainly of steel a wood! The fuselage was a common for time welded steel tube design, with entire rear half being covered in cloth and plywood. The crew area to nose was duralumin cladded (which is very similar to Hawker Hurricane's construction). Most surprising the wings are completely wood! A major technical achievement for its size. During its production life several engines where tried, depending on power and reliability, one model even removing the nose engine.
 
-To make the S.M.79 fast the wings are shorter than typical for its weight. To compensate for higher clean stall speed a number of advanced high lift devices were used to reduce stall speed for landing, being Handley-Page leading extending slats and drooping ailerons (also called “flaperons”) in conjunction with uncommon slotted flaps. After trying a few engines, the Alfa Romeo 126 was used on the prototypes for testing and the record breaking flights soon after. As with the S.M.73 / S.81, once again the Italian military wanted a bomber version and laid out proposed additions.
+To make the S.M.79 fast the wings are shorter than typical for its weight. To compensate for higher clean stall speed a number of advanced high lift devices were used to reduce stall speed for landing, being Handley-Page leading extending slats and drooping ailerons (also called "flaperons") in conjunction with uncommon slotted flaps. After trying a few engines, the Alfa Romeo 126 was used on the prototypes for testing and the record breaking flights soon after. As with the S.M.73 / S.81, once again the Italian military wanted a bomber version and laid out proposed additions.
 
 ''Sparviero goes to war''
 
-The spacious cabin was easy to install a set of bomb racks, all bombs mounted vertically (not unusual for time). While the S.81 had the bomb aimers position just behind the nose-mounted engine, the S.M.79 positioned it in a ventral “tub” well after of the bomb bay itself. Also unlike the S.81 this streamlined tub also became the location of the ventral defensive gun, usually a 12.7 mm Breda-SAFT MG instead of a turret. A streamlined dorsal mount was also installed for a rear firing 12.7 mm MG, and unusually for bombers a fixed, pilot fired forward mounted 12.7 mm MG, firing above the propeller disk. Both these streamlined protrusions could be closed to greatly minimize drag for a very high cruise speed, which the turreted S.81 could not. It was the prominent hump on its top that earned the nickname "il gobbo maledetto" ("damned hunchback"). Italy was open to export sales, and many countries purchased this top of line bomber to add to their forces.
+The spacious cabin was easy to install a set of bomb racks, all bombs mounted vertically (not unusual for time). While the S.81 had the bomb aimers position just behind the nose-mounted engine, the S.M.79 positioned it in a ventral "tub" well after of the bomb bay itself. Also unlike the S.81 this streamlined tub also became the location of the ventral defensive gun, usually a 12.7 mm Breda-SAFT MG instead of a turret. A streamlined dorsal mount was also installed for a rear firing 12.7 mm MG, and unusually for bombers a fixed, pilot fired forward mounted 12.7 mm MG, firing above the propeller disk. Both these streamlined protrusions could be closed to greatly minimize drag for a very high cruise speed, which the turreted S.81 could not. It was the prominent hump on its top that earned the nickname "il gobbo maledetto" ("damned hunchback"). Italy was open to export sales, and many countries purchased this top of line bomber to add to their forces.
 
-From the high of the Spanish Civil War to the end of WW2, the Sparviero was the backbone of Italian bomber air forces and continued to do well over the vast stretches of the Mediterranean sea despite better allied defenses. Success was made despite high losses up to the Italian Armistice. They continued to be used in lesser roles on both sides of the conflict, and after the war were used for various duties by several nations for years later. Lebanon was the last operator who used them well in the 1950’s and are the last 2 remaining S.M.79 in world.
+From the high of the Spanish Civil War to the end of WW2, the Sparviero was the backbone of Italian bomber air forces and continued to do well over the vast stretches of the Mediterranean sea despite better allied defenses. Success was made despite high losses up to the Italian Armistice. They continued to be used in lesser roles on both sides of the conflict, and after the war were used for various duties by several nations for years later. Lebanon was the last operator who used them well in the 1950's and are the last 2 remaining S.M.79 in world.
 
 Romania wanted a 2-engine Gnome-Rhone version, which S.M. provided. The entire forward cockpit was rearranged, pilots in tandem, and a large glass nose for the bombardier, the original ventral location replaced with a streamlined front. The weight savings from one less engine and all its wires, tubes controls, and extra fuel tank offset most of the performance loss of one engine, however it was more vulnerable to damage and engine issues. Unsatisfied with the poor performing Gnome-Rhone engines, Romania had a number built with the Jumo 211 engine.
 
@@ -158,13 +160,17 @@ Romania wanted a 2-engine Gnome-Rhone version, which S.M. provided. The entire f
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sm_79_iar_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related development
+*[[S.M.79 (Family)]]
+**[[S.M.79 B (Germany)]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

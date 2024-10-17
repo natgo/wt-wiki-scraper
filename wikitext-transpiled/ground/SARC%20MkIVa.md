@@ -10,7 +10,11 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} British light tank {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+The SARC (South African Reconnaissance Car) series of armoured vehicles, known in British service as the Marmon-Herrington Armoured Car, was developed by South Africa on order from the British military in 1938. The vehicles were assembled in South African factories using components from the USA, Britain, and South Africa itself. Despite being accepted into service with the British Army, they were never actually used in combat by the British, who preferred their own domestically produced armoured cars. SARC vehicles were also in service with the armies of Cyprus, Egypt, India, Poland, and a number of other countries. They took part in the 1948 Arab-Israeli War and during the Turkish invasion of Cyprus in the summer of 1974. A total of 5,746 SARC armoured vehicles of all modifications were produced.
+
+The most widespread modification of the SARC armoured cars was the '''SARC Mk IV'''. Over 2,000 units were produced between 1943 and 1944. The vehicle was developed specifically for British forces fighting in North Africa; however, the North African campaign ended before it could enter service. Unlike previous modifications equipped with machine gun and rifle armament, the Mk IV had a 2-pounder QF gun paired with a Browning MG mounted in its turret.
+
+Introduced in [[Update "La Royale"]], the SARC MkIVa is one of the fastest vehicles at its rank. Apart from excellent mobility, it also boasts decent armament, with the same 2-pounder cannon that equips many early vehicles in the British tree. However, having a wheeled chassis, the SARC MkIVa is significantly less manoeuvrable than tracked armoured vehicles, especially when turning, and can struggle over rough terrain. The vehicle's armour protection is also subpar, as is its survivability in combat.
 
 == General info ==
 === Survivability and armour ===
@@ -46,7 +50,7 @@ The MkIVa does not accelerate quickly. In a city fight or in a sniping match, th
 
 This is offset by its very high top speed of 80 km/h, granting it unmatched speed on flat terrain. Combined with its smaller size, this gives the MkIVa the opportunity to sneak into a hidden location and get flanking shots on unsuspecting enemies.
 
-In unflat or offroad conditions, the MkIVa's mobility is greatly reduced. The mediocre 15 hp/t power-to-weight ratio means that the vehicle might not even start on a slope and will slide down uncontrollably. Therefore, either avoid driving uphills, or gain some speed before reaching the hill. 
+In unflat or offroad conditions, the MkIVa's mobility is greatly reduced. The mediocre 15 hp/t power-to-weight ratio means that the vehicle might not even start on a slope and will slide down uncontrollably. Therefore, either avoid driving uphills, or gain some speed before reaching the hill.
 
 {{tankMobility|abMinHp=147|rbMinHp=84}}
 
@@ -153,9 +157,9 @@ In an emergency, it can be used as an anti-aircraft weapon, but the poor damage 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-The South African Reconnaissance Car (SARC), known in British service as the Marmon-Herrington<ref>David Fletcher, Tank Chat #129, The Tank Museum https://www.youtube.com/watch?v=MQmaXWPouno</ref>, had a remarkably diverse pedigree, as it combined components made in the United States, Canada, and the United Kingdom, put together in South Africa.  The service record of its variants was similarly far-flung, despite its relatively small production numbers, as it saw service in WW2, Cyprus, across Africa, and even (from captured Japanese stock) Indonesia.<ref name=":0">[[wikipedia:Marmon-Herrington_Armoured_Car|[Wikipedia] Marmon-Herrington Armoured Car]]</ref>
+The South African Reconnaissance Car (SARC), known in British service as the Marmon-Herrington<ref>David Fletcher, Tank Chat #129, The Tank Museum https://www.youtube.com/watch?v=MQmaXWPouno</ref>, had a remarkably diverse pedigree, as it combined components made in the United States, Canada, and the United Kingdom, put together in South Africa.  The service record of its variants was similarly far-flung, despite its relatively small production numbers, as it saw service in WW2, Cyprus, across Africa, and even (from captured Japanese stock) Indonesia.<ref name=":0">[[wikipedia:Marmon-Herrington_Armoured_Car|[Wikipedia] Marmon-Herrington Armoured Car]]</ref>
 
-This variant, the Mark IV, fitted a 40 mm 2-pdr. gun in an artillery mounting, not the usual tank-style mantlet.  It arrived rather late in WW2, but saw action post-war in Cyprus and with the Arab League.  Earlier versions fought with the 1st King’s Dragoon Guards at the Siege of Tobruk in 1941.<ref name=":0" />
+This variant, the Mark IV, fitted a 40 mm 2-pdr. gun in an artillery mounting, not the usual tank-style mantlet.  It arrived rather late in WW2, but saw action post-war in Cyprus and with the Arab League.  Earlier versions fought with the 1st King's Dragoon Guards at the Siege of Tobruk in 1941.<ref name=":0" />
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

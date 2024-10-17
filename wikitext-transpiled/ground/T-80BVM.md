@@ -164,6 +164,7 @@ Overall, T-80BVM does fit its purpose to assault enemies at high crossroad speed
 * Good mobility
 * Good gun handling
 * Has 3rd generation thermal sights for the gunner
+* Better -11 km/h reverse gear over the T-72 series
 
 '''Cons:'''
 

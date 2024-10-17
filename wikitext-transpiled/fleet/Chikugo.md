@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (ちくご, [[Abbreviations#.28JP.29_Naval|namesake]]: Chikugo River) is a rank {{Specs|rank}} Japanese frigate {{Battle-rating}}. It was introduced in [[Update 1.89 "Imperial Navy"]].
+The '''Chikugo''' (ちくご, [[Abbreviations#.28JP.29_Naval|namesake]]: Chikugo River) was a Japanese destroyer escort, lead ship of her class, launched on 13 January 1970 and commissioned on 31 July 1971 under the Third Defence Build-up Programme. Constructed at Mitsui Shipbuilding's Tamano Shipyard, she was assigned to the Sasebo District Force upon entering service. On 26 August 1971, she was integrated into the newly formed 34th Escort Flotilla alongside the destroyer escort ''Mikuma''. After 26 years of service, during which she accumulated a total of 503,405 nautical miles, she was decommissioned on 15 April 1996. The Chikugo class featured enhanced anti-submarine warfare capabilities compared to the earlier [[Isuzu]] class; however, the anti-aircraft armament of the class was less robust than that of its predecessor.
+
+Introduced in [[Update 1.89 "Imperial Navy"]], '''{{Specs|name}}''' is a Japanese frigate. Her main armament consists of a single, rapid-firing, twin 76 mm turret, effective against all kinds of targets, although it requires a substantial amount of ammunition to take down larger vessels. This can be addressed with the two triple torpedo launchers, which are particularly lethal against slower targets. For anti-aircraft duty, she relies on a single 40 mm Bofors turret, which can be further supported with the use of HE-VT rounds from the main gun.
 
 == General info ==
 === Survivability and armour ===
@@ -31,6 +33,7 @@ The '''{{Specs|name}}''' (ちくご, [[Abbreviations#.28JP.29_Naval|namesake]]: 
 Chikugo carries two 3 inch Mk.33 automatic cannons in twin installation. The turret is placed at the front of the ship and can effectively cover the front and sides of your vessel, but is unable to react to enemies from the rear. HE shells can take care of unarmoured targets especially motor boats which can be destroyed within a few shots. For armoured targets and destroyers you can choose AP shells but you still have to keep in mind that it is a 76 mm multi-purpose cannon. HE-VT shells are good for use in AA roles. These guns heat up quickly so keep an eye on continuous rapid fire or you may lose one or both until repairs complete. Changing between ammunition types is time-consuming and leaves you vulnerable with no ability to return fire until switch is complete.
 
 {{:3 inch Mk.33 (76 mm)/Ammunition|76 mm HC Mk.27, 76 mm APHE, 76 mm HE-VT}}
+
 === Secondary armament ===
 {{Specs-Fleet-Secondary}}
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->

@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian bomber {{Battle-rating}}. It was introduced in [[Update "Alpha Strike"]].
+The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian bomber {{Battle-rating}}. It was introduced in [[Update "Alpha Strike"]]. 
+
+Originally developed by the Soviet Union during WWII, several Tu-2s were supplied to the Hungarian Air Force in 1951. There they were nicknamed "Túzok", the Hungarian name for the Great Bussard bird, playing off of the 'Tu' for Tupolev designation. The type would see little operational service with Hungary, staying mostly grounded during the Hungarian Revolution in 1956 and being effectively abandoned soon after.
 
 == General info ==
 === Flight performance ===
@@ -132,6 +134,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * Without load
 * 9 x 100 kg FAB-100M-43 bombs (900 kg total)
 * 4 x 250 kg FAB-250M-44 bombs (1,000 kg total)
@@ -240,6 +243,7 @@ If confronted with an enemy Tu-2S-59, initiate a head on pass ''but then pitch u
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=tu-2_postwar_late_hungary Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -249,6 +253,7 @@ If confronted with an enemy Tu-2S-59, initiate a head on pass ''but then pitch u
 
 ;Related development
 * [[Tu-2 (Family)]]
+** [[Tu-2S-59]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''
@@ -256,6 +261,7 @@ If confronted with an enemy Tu-2S-59, initiate a head on pass ''but then pitch u
 * ''other literature.'' -->
 
 * [[wt:en/news/8767-development-the-hungarian-aircraft-line-is-coming-to-the-italian-tree-en|[Devblog] The Hungarian Aircraft Line is Coming to the Italian Tree!]]
+* [https://wwiiafterwwii.wordpress.com/2016/05/30/tu-2-bat-post-wwii-service/ <nowiki>[wwiiafterwwii]</nowiki> Tu-2 “Bat”: post-WWII service] 
 
 {{AirManufacturer Tupolev}}
 {{Italy bombers}}

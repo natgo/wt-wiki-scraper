@@ -186,7 +186,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 370 gal drop tanks + 1 x 300 gal drop tank
-* 2 x AIM-9P Sidewinder missiles
+* 2 x AIM-9P Sidewinder missiles + 2 x Python 3 missiles
 * 6 x AIM-9P Sidewinder missiles
 * 6 x AIM-9L Sidewinder missiles
 * 6 x Python 3 missiles
@@ -200,7 +200,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB)''
+
+When played in ARB the Netz is a fast manurable and powerful jet, and one way to use it to all of these advantages to to become a ghost. With an air to air combat loadout - I recommend 2-9 Python 3s and the centre drop pod and 30 minutes of fuel - and turning off the radar immediately to  dictate the battle you first avoid the initial fight. Common maps encountered by the Netz is Golan Hights on the side of the lake, Afghanistan on the side of the enemy spawn being on the right side of the runway, and the new Chinese map mysterious valley on the side of ....... To play these maps with the Netz with this tactic is to stay out of sight, flying low in valleys, turning off afterburner to let enemies fly past you, taking a longer way around. By turning off you radar you become invisible to unaware jets because you don't ping on their warning system. Then when you can look around and see the majority of the enemy team engaged with friendly forces, turn however many degrees to then fly behind them. Its your choice from their, either wait for returning jets heading for the airfield ( They have often exhausted their missiles and countermeasures) or move up to surprise attack any who are locked in a dogfight. This method has led to many successful sneak attacks for me personally, and more than once I've accidently gotten within 3-2km without realising me the enemy are merging head on and gotten the kill with the amazing python 3s.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''

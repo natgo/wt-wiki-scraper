@@ -12,6 +12,8 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese fighter {{Battle-rating}}. It was introduced in [[Update 1.55 "Royal Armour"]].
 
+The default camouflage bears the insignia of the 105th Sentai, formed in 1944 with the task of providing aerial defence over Japanese Taiwan. Soon after its creation remnants from the 23rd Independent Chutai retreating from Okinawa came under the command of the 105th. Around March 1945, the Sentai was tasked with Kamikaze escort and Kamikaze missions all performed by Ki-61s.
+
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}

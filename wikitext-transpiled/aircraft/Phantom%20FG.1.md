@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 By the late 1950s, the Fleet Air Arm were looking to replace their roster of ageing [[Sea Vixen F.A.W. Mk.2|de Havilland Sea Vixens]]. Having dropped the idea of a navalised version of the P.1154 (a supersonic development of the P.1127, which was itself the predecessor of the [[Harrier (Family)|Hawker Siddeley Harrier]]), they instead decided to purchase a customised variant of the F-4 Phantom II from the United States. The Phantom FG.1, also known as the F-4K, was created from the [[F-4J Phantom II|F-4J]] with a number of modifications, including a hingeable nose radome and longer front gear leg to adapt it to the smaller British carriers, as well as the installation of the larger and more powerful Rolls-Royce Spey turbofan engines. From April 1968, 48 aircraft would be delivered to the Fleet Air Arm; however, issues would soon be encountered, namely in that the heat produced by the afterburning Spey engines would cause the flight deck plating to buckle and melt. Ultimately, only HMS Ark Royal (R09) would be refitted to operate the Phantom FG.1, carrying 28 aircraft, and they would remain in service until the Ark Royal's decommissioning in 1978, after which the aircraft were transferred to RAF service.
 
-Introduced in [[Update "Starfighters"]], the Phantom FG.1 is very similar to the [[Phantom FGR.2]], equipping AIM-9Gs, Skyflashes, a pulse-Doppler radar, and the two powerful turbofan engines that differentiate them from other [[F-4 Phantom II (Family)|Phantoms]]. Due to the navalisation, it is marginally heavier than the FGR.2, but does feature a tail hook for carrier landings. The main draws of the Phantom are its good acceleration and high-speed manoeuvrability, as well as the large air-to-air complement which, coupled with the powerful pulse-Doppler radar, allows the FG.1 to be a potent air superiority fighter. Use the aircraft's speed and AIM-9Gs to target unsuspecting opponents from medium ranges, while utilising the Skyflashes in head-on approaches. The 20 mm gunpod can be removed for extra flight performance, or equipped to provide another option in close range engagements.
+Introduced in [[Update "Starfighters"]], the Phantom FG.1 is very similar to the [[Phantom FGR.2]], equipping AIM-9Gs, Skyflashes, a pulse-Doppler radar, and the two powerful turbofan engines that differentiate them from other [[F-4 Phantom II (Family)|Phantoms]]. The main draws of the Phantom are its good acceleration and high-speed manoeuvrability, as well as the large air-to-air complement which, coupled with the powerful pulse-Doppler radar, allows the FG.1 to be a potent air superiority fighter. Use the aircraft's speed and AIM-9Gs to target unsuspecting opponents from medium ranges, while utilising the Skyflashes in head-on approaches. The 20 mm gunpod can be removed for extra flight performance, or equipped to provide another option in close range engagements.
 
 == General info ==
 === Flight performance ===
@@ -128,11 +128,11 @@ Flares should be one of your top priorities. The bomb upgrades may also be usefu
 [[File:FG.1.jpg|thumb|Phantom FG.1 pushing into the sound barrier while carrying a 1,000 lb bomb payload]]
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -141,9 +141,8 @@ Flares should be one of your top priorities. The bomb upgrades may also be usefu
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 90 x countermeasures
+* 30 x large calibre countermeasures
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -192,7 +191,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
-* 1 x 20 mm GAU-4 cannon
+
+* 1 x 20 mm GAU-4 cannon (1,200 rpg)
 * 1 x 600 gal drop tank
 * 2 x AIM-9D Sidewinder missiles
 * 4 x AIM-9D Sidewinder missiles
@@ -225,6 +225,7 @@ Any British Phantom should not be taken close to the beginning furball. All ment
 This, however, does not mean that the Phantom FG.1 cannot handle itself in a dogfight. The FG.1 is more than capable of engaging aircraft up close, with a powerful M61 Vulcan. You can easily kill aircraft in a head-on, but that doesn't mean that you should commit and stay there! Always break off if you see enemy tracer, or at the very least when the enemy aircraft is 1 km away, lest you would like your own example of the World's Best Distributor of MiG Parts spread all over the sky. When using the Vulcan, one has two options on how to engage, one of which is more risky than the other, and depends on your aircraft being spaded.
 
 [[File:PHANTOM FG 1 COOL 2.png|thumb|Phantom FG.1 above the North Atlantic.]]
+
 * The first method of engagement is a fairly standard low-risk hit-and-run pass. Approach the enemy, shoot, and break off. There's nothing too special about it, and it relies more on the Phantom's blinding speed to get into the target area, the Vulcan's overwhelming Burst Mass to put at least a few rounds on the target, and then get out of the danger zone as soon as possible lest you become the target of unwanted attention. It requires little in the way of skill and little in the way of performance upgrades, as the FG.1 already has considerable engine power. However, it does not allow for sustained time on target and gives you only a small window of opportunity to make the shot.
 * The second method of engagement is much more risky, more rewarding, and requires a fair amount of pilot skill and a fully upgraded plane. In addition, this method is specific to British Phantoms, if not the FG.1 in general, as the FG.1 is the only Phantom which has this type of afterburner performance. Pilots are not recommended to try this in the [[F-4C]], [[F-4E]] or [[F-4EJ]]. Conversely, this tactic works very effectively against turning non-Spey phantoms. This method should not be used above 5,000 m under any circumstances. This method works best while in cloud and with an ACM lock on the enemy. The Phantom has its best roll performance at 700-950 km/h (380-515 kts) and can use its takeoff flaps below 700 km/h without risking them ripping off. You can use the airbrakes to slow the aircraft to the required speed, and then by tapping the flaps from raised to takeoff position, you can turn a little tighter than usual, and then use your outstanding afterburner performance to rapidly regain speed. You can out-accelerate any phantom in-game below 5,000 m, and even from a slower start you can rapidly close the gap. This manoeuvre can also be attempted at an angle to the horizontal, although speed can become a much greater concern (both flap rip speed and stall speeds). While this tactic may at first seem illogical- speed, after all, is the lifeblood of jet battles- the fast afterburner acceleration of the Spey Phantom can often ensure that you do not end up stalling. This tactic is, however, highly situational and requires a fair bit of situational awareness and pilot skill to pull off. Phantom neophytes shouldn't attempt this until they have at least spaded it and grown comfortable with it.
 

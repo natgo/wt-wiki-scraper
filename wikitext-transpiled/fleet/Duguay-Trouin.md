@@ -36,7 +36,7 @@ The mobility can be described in one word: average. The rudder turn speed varies
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|155 mm/50 model 1920 (155 mm)}}
 
-Four twin turrets provide an one of the highest damage outputs in the BR, comparable only with some of the US destroyers. While the low rate of fire can be an issue under some circumstances, the size of the explosive filler in both: HE and SAP shells more than make up for it. The gun comes equipped with three types of shells:
+The {{PAGENAME}} features eight 155 mm model 1920 cannons, arranged in four twin turrets in A-Bs-Xs-Y. On paper, the gun offers one of the highest damage outputs at its the BR, comparable only with the late US destroyers. While the low rate of fire can be an issue under some circumstances, the size of the explosive filler in both: HE and SAP shells more than make up for it. The gun comes equipped with three types of shells:
 
 * '''M1924 HE''' - large explosive filler, contact fuse, best against soft-skinned targets and external modules on the enemy warships
 * '''M1924 SAP''' - good explosive filler, best against lightly-armoured targets, will dive into the ship to reach the internal modules
@@ -44,6 +44,7 @@ Four twin turrets provide an one of the highest damage outputs in the BR, compar
 
 The ship lacks any dedicated anti-air shells or AP shells that could penetrate heavy armour.
 
+While in theory, each shell is quite powerful, the gun suffers from an abysmal vertical shell dispersions. The shell drop of each salvos is very inconsistent, with some dipped into the water 200 meters before the target, while othertimes it simply overshoot the enemy ship entirely. This will become apparent when firing from beyond 8 km range, as the shell would scattered wildly around the target, sometimes doesn't hit the enemy ship at all.
 {{:155 mm/50 model 1920 (155 mm)/Ammunition|155 mm M1924 HE, 155 mm M1924 HE-BF, 155 mm M1924 SAP}}
 
 === Secondary armament ===
@@ -76,13 +77,15 @@ The ship is best used for pushing enemy points, out-ranging enemy destroyers and
 
 '''Pros:'''
 
-* Very good damage output from the main guns
+* Very good damage output from the main guns, provided that most shell hits
 * Effective anti-air cover
 * Good survivability with very well protected ammo racks
 
 '''Cons:'''
 
 * Very limited armour protection
+* Horrible shell dispersion, especially at longer ranges (~8 km)
+* Can be easily outgunned in uptiers due to slow rate of fire
 * Very limited capability to deal with a heavily-armoured target due to the lack of AP shells
 * Lack of {{Annotation|HE-TF|High-explosive with time fuse}} or {{Annotation|HE-VT|High-explosive variable time fuse}} shells
 * No torpedoes

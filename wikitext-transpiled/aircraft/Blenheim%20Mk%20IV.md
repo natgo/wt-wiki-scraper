@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=blenheim_mkiv
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -186,10 +186,18 @@ Whilst certainly one of the world's fastest aircraft during the prototype phase 
 {{Youtube-gallery|u5714dpuDDo|'''The Shooting Range #176''' - ''Pages of History'' section at 04:02 discusses the Blenheim.}}
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Aircraft of comparable role, configuration and era
+* [[File:Germany flag.png|30px|link=]] [[Bf 110 (Family)]]
+* [[File:IJA flag.png|30px|link=]] [[Ki-45 (Family)]]
+* [[File:France flag.png|30px|link=]] [[Potez 630 (Family)]] 
+* [[File:France flag.png|30px|link=]] [[Br.693AB2|Bréguet 693 AB.2]]
+* [[File:Britain flag.png|30px|link=]] [[Beaufighter (Family)]]
+* [[File:Netherlands flag.png|30px|link=]] [[Fokker G.IA (France)|Fokker G.IA]]
+* [[File:USSR flag.png|30px|link=]] [[Yak-2 KABB]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

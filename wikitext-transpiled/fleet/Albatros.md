@@ -35,7 +35,7 @@ The Albatros, as a Cold War fast attack craft, changes completely the doctrine o
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|76 mm/62 OTO-Melara Compact (76 mm)}}
 
-The Albatros is armed with the powerful OTO-Melara 76 mm Compact autocannon, the same gun as seen in the [[OTOMATIC]]. They are powerful weapons which will decimate almost every vessel it faces, not only because of the calibre but also because the rate of fire, which is doubled as it has two turrets. The autocannons have access to both anti-air and general purpose ammunition, this being HE, HE-VT and SAP. It is recommended to utilize SAP as primary ammunition against everything but aircraft. When it comes to aircraft, HE-VT is recommended due to the proximity fuse. With the use of radar, engaging enemy targets becomes easier than engaging them with eyesight.
+The Albatros is armed with the powerful OTO-Melara 76 mm Compact autocannon, the same gun as seen in the [[OTOMATIC]]. They are powerful weapons which will decimate almost every vessel it faces, not only because of the calibre but also because the rate of fire, which is doubled as it has two turrets. The autocannons have access to both high explosive and proximity fuzed ammunition, this being HE and HE-VT. It is recommended to utilize HE as primary ammunition against everything but aircraft. When it comes to aircraft, HE-VT is recommended due to the proximity fuse. With the use of radar, engaging enemy targets becomes easier than engaging them with eyesight.
 
 {{:76 mm/62 OTO-Melara Compact (76 mm)/Ammunition|76 mm DM-251, 76 mm DM-261}}
 
@@ -105,6 +105,7 @@ File:Type 143 turning at speed.png|Type 143 Albatros turning at high speed.
 ;Related development
 
 * [[Bussard]]
+* [[Albatros Klasse (Family)|Albatos Klasse]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''

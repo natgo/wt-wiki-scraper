@@ -32,7 +32,7 @@ The LaGG-3-8 has decent responsiveness. It climbs fairly well, and gets to speed
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 532 || 514 || rowspan="2" | {{Specs|ceiling}} || 25.3 || 26.3 || 7.6 || 7.6 || rowspan="2" | 400
+| 532 || 514 || rowspan="2" | {{Specs|ceiling}} || 25.2 || 26.3 || 7.6 || 7.6 || rowspan="2" | 400
 |-
 ! Upgraded
 | 578 || 554 || 22.8 || 24.0 || 14 || 10.5

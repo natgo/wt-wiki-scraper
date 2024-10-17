@@ -31,10 +31,10 @@ Despite its thick wings, the Typhoon is surprisingly good at turning. It can rel
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 612 || 596 || rowspan="2" | {{Specs|ceiling}} || 21.9 || 22.5 || 14.5 || 14.5 || rowspan="2" | 580
+| 612 || 597 || rowspan="2" | {{Specs|ceiling}} || 21.9 || 22.6 || 14.5 || 14.5 || rowspan="2" | 580
 |-
 ! Upgraded
-| 656 || 634 || 20.1 || 21.0 || 20.1 || 17.1
+| 656 || 634 || 20.2 || 21.0 || 20.1 || 17.1
 |-
 |}
 
@@ -240,6 +240,7 @@ The early service life of the Typhoon was less than impressive. With a relativel
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=typhoon_mk1a Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -248,10 +249,12 @@ The early service life of the Typhoon was less than impressive. With a relativel
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[Typhoon (Family)]]
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

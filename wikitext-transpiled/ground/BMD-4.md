@@ -118,7 +118,7 @@ The 100 mm of this tank is near identical to the one on the [[BMP-3]]. However, 
 
 While the gun is stabilized, it is not a very good idea to rush uphill at full speed until gun drives were upgraded as the gun has poor depression and kicks upwards when the tank drives uphill. Without upgrades, it will not put itself back on target in time, and the tank can't sustain even accidental hits unlike the BMP-3.
 
-Gun itself can bring two different ammunition types into battle, although the choice are limited to chemical energy shells. The ammunition choices are: Slow HE (3OF70) , super slow HE (3OF32) and Tandem HEAT ATGM (9M117M1). It is only possible to take 4 ATGMs. Overall, it is similar to the BMP-3.
+Gun itself can bring two different ammunition types into battle, although the choices are limited to chemical energy shells. The ammunition choices are: Slow HE (3OF70) , super slow HE (3OF32) and Tandem HEAT ATGM (9M117M1). It is only possible to take 4 ATGMs. Overall, it is similar to the BMP-3.
 
 HE shells are mostly designed to be fired in a mortar fashion and for comfortable use it is necessary to install laser rangefinder or to play in AB mode. Just like the BMP-3, it is also need to swap primary weapon to "secondary weapon" to be able to aim HE precisely. The projectiles fall very slowly, but they are also very small and will often squeeze in-between ERA bricks and hit the enemy tank roof, causing overpressure damage and destroying the target. Overall, they can be used to harass other tanks out of cover (including ATGM carriers) or fired along with the autocannon to blow up light tanks in general melee range (although it is very awkward and slower than with the BMP-3).
 
@@ -168,15 +168,15 @@ In terms of what types of ammunition to bring in, two types of combination can b
 === Machine guns ===
 {{Specs-Tank-Weapon|3}}
 <!-- ''Offensive and anti-aircraft machine guns not only allow you to fight some aircraft but also are effective against lightly armoured vehicles. Evaluate machine guns and give recommendations on its use.'' -->
-{{main|PKT (7.62 mm)}}
+{{main|PKTM (7.62 mm)}}
 
 {| class="wikitable" style="text-align:center" width="50%"
 |-
-! colspan="5" | [[PKT (7.62 mm)|7.62 mm PKT]]
+! colspan="5" | [[PKTM (7.62 mm)|7.62 mm PKTM]]
 |-
 ! Mount !! Capacity (Belt) !! Fire rate !! Vertical !! Horizontal
 |-
-| Coaxial || 2,000 (250) || 700 || N/A || N/A
+| Coaxial || 2,000 (250) || 700 || - || -
 |-
 |}
 

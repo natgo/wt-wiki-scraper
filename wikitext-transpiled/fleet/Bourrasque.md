@@ -7,7 +7,7 @@
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
 The '''{{Specs|name}}''' was a French WWII destroyer and the lead ship of her class. The Bourrasque-class destroyers were smaller and slower than the preceding [[Jaguar (Destroyer) (Family)|Chacal-class destroyers]]. Bourrasque was laid down on 12th November 1923 and launched on 5th August 1925. The main armament consisted of four Canon de 130 mm Modéle 1919 in shielded single mounts covered by 10 mm thick antifragmentation armour plates on the front and sides. The secondary armament consisted of a pair of Canon de 37 mm Modéle 1925 for anti-aircraft protection and two triple launchers for 550 mm 23DT torpedoes. During her short war career, the ship participated in Operation Dynamo, where on 30th May 1940, while evacuating troops from Dunkerque, she struck a German naval mine and sunk with loss of about 500 out of the 1,100-1,200 crew and troops onboard.
 
-Bourrasque was introduced together with French navy in [[Update "La Royale"]]. The Bourrasque suffers from very slow turret rotation speed and abysmal reload of 11 seconds, which can be reduced down to 8 seconds when the crew is aced. The magazines and shell rooms are deep under the waterline, making them well-protected against detonation. Captains are advised to use SAP shells in the main guns for its penetration capability while aiming for enemy vessel weak spots such as magazines and shell rooms. The torpedoes are quite fast with max speed of 72 km/h while also having more than average range of 9 km and high explosive yield of 308 kg of TNT. The ship itself is quite mediocre, but when in good hands, it can be formidable foe, especially when relying on torpedo ambushes and close range brawls with her powerful 130 mm cannons.
+Bourrasque was introduced together with French navy in [[Update "La Royale"]]. The Bourrasque suffers from very slow turret rotation speed and abysmal reload of 11 seconds, which can be reduced down to 8 seconds when the crew is aced. The magazines and shell rooms are deep under the waterline, making them well-protected against detonation. Captains are advised to use SAP shells in the main guns for its penetration capability while aiming for enemy vessel weak spots such as magazines and shell rooms. The torpedoes are quite fast with max speed of 72 km/h while also having more than average range of 9 km and high explosive yield of 308 kg of TNT. The ship itself is quite mediocre, but when in good hands, it can be formidable foe, especially when relying on torpedo ambushes and close-range support roles with her powerful 130 mm cannons.
 
 == General info ==
 [[File:Bourrasque X-Ray.png|thumb|The Bourrasque with X-Ray view enabled, showing the location of all modules]]
@@ -112,12 +112,14 @@ The Bourrasque, the lead ship of the class, was laid down on 12<sup>th</sup> Nov
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=fr_destroyer_bourrasque_class_bourrasque Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 ;Similar ships from other nations
 
 * [[USS Litchfield]]

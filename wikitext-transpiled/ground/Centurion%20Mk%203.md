@@ -133,9 +133,9 @@ When rounding a corner, it is best to only expose your frontal armour. Approach 
 
 '''Pros:'''
 
-* Powerful and high penetrating gun, stock round is adequate enough to deal with other vehicle it faces and APDS can punch through anything it will face.
-* Has a base reload time of 8.1 seconds, which can be lowered further into around 7.4 seconds (which is on average 2 seconds faster than its competitors).
-* Excellent gun angles
+* Powerful and high penetrating gun, stock round is adequate enough to deal with any vehicle it faces and APDS can punch through anything it will face.
+* Has a base reload time of 8.1 seconds, which can be lowered further to around 7.4 seconds (which is on average 2 seconds faster than its competitors).
+* Excellent gun angles.
 * Strong gun mantlet.
 * Neutral steering, can turn on the spot without having to switch into gear 1.
 * Good manoeuvrability.
@@ -146,7 +146,7 @@ When rounding a corner, it is best to only expose your frontal armour. Approach 
 '''Cons:'''
 
 * Low top speed.
-* Ammo rack in the front, penetration through the lower glacis will likely ends up destroying or detonating the ammo rack.
+* Ammo rack in the front, penetration through the lower glacis will likely end up destroying or detonating the ammo rack.
 * Top armour covering the engine compartments is not improved from the [[Centurion Mk 1|Mk 1]], still 8 mm which can be penetrated by most aircraft guns.
 * Small internal compartment (only 4 crew members), easy to one shot.
 * APDS shot causes only punctual damage (aim carefully).

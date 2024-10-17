@@ -85,7 +85,7 @@ The M1A2's gun handles very well, with a very efficient stabilizer that allows a
 |}
 
 ==== Ammunition ====
-{{:M256 (120 mm)/Ammunition|M830, M830A1, M829, M829A2}}
+{{:M256 (120 mm)/Ammunition|M830, M830A1, M829, M829A2, M908}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

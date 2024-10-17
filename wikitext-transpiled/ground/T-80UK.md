@@ -96,6 +96,7 @@ Aside from having TVD sights and FCS for time-fuzed HE shells, the 2A46M-1 on T-
 | '''30''' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __&nbsp;''(+__)'' || __
 |-
 |}
+The T-80UK main ammo rack consists of a mechanized carousel at the bottom of the turret which carries 28 propellants and projectiles.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

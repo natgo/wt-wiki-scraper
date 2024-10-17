@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=germ_thyssen_henschel_tam_2c
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -160,6 +160,10 @@ The first TAM 2C prototype was unveiled in 2013, having been upgraded by Elbit s
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+;Images
+<gallery mode="packed-hover" heights="200">
+File:ArtImage TAM 2C.png
+</gallery>
 
 ;Skins
 

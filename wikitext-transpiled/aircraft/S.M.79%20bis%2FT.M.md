@@ -197,13 +197,17 @@ This version was dedicated toward low level anti-ship torpedo missions. To impro
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=sm_79_1943_italy Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
-''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
-
+<!--''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
-* ''links to approximate analogues of other nations and research trees.''
+* ''links to approximate analogues of other nations and research trees.''-->
+
+;Related development
+*[[S.M.79 (Family)]]
+**[[S.M.79 bis/T.M (Germany)]]
 
 == External links ==
 <!--''Paste links to sources and external resources, such as:''

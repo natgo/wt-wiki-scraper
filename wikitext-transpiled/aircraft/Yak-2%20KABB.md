@@ -143,6 +143,7 @@ In Ground RB, the Yak-2 can act as an excellent fighter, as it excels in low-alt
 * Good speed it allows it to be used as both a fighter and bomber interceptor
 * Can actually be used as a heavy fighter
 * Decent rate of climb
+* Great cockpit visibility for simulator battles
 
 '''Cons:'''
 
@@ -188,13 +189,17 @@ Image:Yak-2 KABB jonigustavo 002.jpg
 ;Related development
 
 * Yakovlev [[Yak-4]]
+* Yakovlev [[I-29]]
 
 ;Aircraft of comparable role, configuration and era
 
-* Messerschmitt [[Bf 110 (Family)|Bf 110]]
-* Kawasaki [[Ki-45 (Family)|Ki-45]]
-* [[Potez 630]] and [[Potez 631|631]]
-* Bréguet [[Br.693AB2]]
+* [[File:Germany flag.png|30px|link=]] [[Bf 110 (Family)]]
+* [[File:IJA flag.png|30px|link=]] [[Ki-45 (Family)]]
+* [[File:France flag.png|30px|link=]] [[Potez 630 (Family)]] 
+* [[File:France flag.png|30px|link=]] [[Br.693AB2|Bréguet 693 AB.2]]
+* [[File:Britain flag.png|30px|link=]] [[Beaufighter (Family)]]
+* [[File:Britain flag.png|30px|link=]] [[Blenheim Mk IV]]
+* [[File:Netherlands flag.png|30px|link=]] [[Fokker G.IA (France)|Fokker G.IA]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

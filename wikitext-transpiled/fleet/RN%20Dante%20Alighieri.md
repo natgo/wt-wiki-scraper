@@ -9,7 +9,7 @@ The '''RN Dante Alighieri''', launched on 20 August 1910 and entering service on
 
 In 1923, she was refitted: all boilers were converted to run on oil, a new quadruped foremast was installed to replace the original tripod, and the funnels were lengthened to reduce the discharge of combustion smoke onto the deck. In 1925, the ship was equipped to take on board an M.18 reconnaissance seaplane and in 1927, together with the Duilio, she visited the city of Zara. At the end of the 1920s, the distressed state of the Italian economy in the aftermath of the First World War did not allow for the maintenance of a sizeable fleet, and it was therefore decided to reduce the naval budget; consequently, the construction of the Caracciolos was suspended, it was decided to dismantle the battleship Leonardo da Vinci, which had been scheduled for refit after its recovery in the port of Taranto, and to withdraw the battleships Dante Alighieri and [[RN Conte di Cavour|Cavour]] from service. Thus, on 1 July 1928, the ship was laid up, to be decommissioned and dismantled shortly afterwards.
 
-Introduced in [[Update "Red Skies"]], RN Dante Alighieri's manoeuvrability is not bad for a battleship. The main armament consisting of 305 mm cannons allows you to destroy even heavy and light cruisers in one shot; however, against battleships and battlecruisers, targeting weakpoints in their hulls with APHE will be required to cause them as much damage as possible. The anti-air armament is quite poor, being composed only of two 40 mm cannons. Finally, Dante Alighieri's armour proves capable of resisting both torpedoes and enemy battleships.
+Introduced in [[Update "Red Skies"]], the  '''{{Specs|1=name}}''' manoeuvrability is not bad for a battleship. The main armament consisting of 305 mm cannons allows you to destroy even heavy and light cruisers in one shot; however, against battleships and battlecruisers, targeting weakpoints in their hulls with APHE will be required to cause them as much damage as possible. The anti-air armament is quite poor, being composed only of two 40 mm cannons. Finally, Dante Alighieri's armour proves capable of resisting both torpedoes and enemy battleships.
 
 == General info ==
 === Survivability and armour ===
@@ -130,6 +130,7 @@ File:RN Dante Alighieri parte 3.png
 <!-- ''Links to articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the ship;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
 * [[RN Andrea Doria]]
 * [[HMS Dreadnought]]
 
@@ -137,6 +138,7 @@ File:RN Dante Alighieri parte 3.png
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
+
 * [[wt:en/news/7181-development-dante-alighieri-a-poet-goes-to-war-en|[Devblog] Dante Alighieri: A Poet Goes to War]]
 * [[wikipedia:Italian battleship Dante Alighieri|<nowiki>[wikipedia]</nowiki> Italian battleship Dante Alighieri]]
 * [http://www.agenziabozzo.it/navi_da_guerra/c-navi%20da%20guerra/C-0014_DANTE_ALIGHIERI_1910_corazzata_carica_carbone_Bunkeraggio_1915.htm <nowiki>[Agenzia Bozzo]</nowiki> 014 C. DANTE ALIGHIERI 1910]

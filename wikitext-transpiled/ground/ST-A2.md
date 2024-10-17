@@ -209,22 +209,25 @@ Only two experimental prototypes of the ST-A2 were built. They underwent testing
 
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_st_a2 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
-;Videos
-{{Youtube-gallery|Bn27S_eSGmc|'''ST-A2 - First Impressions - Below Average''' - ''Napalmratte''}}
-
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;Vehicles equipped with the same chassis
-
-* [[ST-A1]]
-* [[Type 61]]
+;Related development
+* [[Type 61 (Family)]]
 
 ;Other vehicles of similar configuration and role
+* [[File:USA flag.png|30px|link=]] [[Patton (Disambiguation)]]
+** [[File:USA flag.png|30px|link=]] [[M46]]
+** [[File:USA flag.png|30px|link=]] [[M47]]
+** [[File:USA flag.png|30px|link=]] [[M48A1|M48]]
 
-* [[Type 62]] / [[Type 62 (USSR)]]
+* [[File:USSR flag.png|30px|link=]] [[T-54/55 (Family)|T-54 (Family)]]
+* [[File:France flag.png|30px|link=]] [[AMX-30 (1972)]]
+* [[File:Israel flag.png|30px|link=]] [[M-51]]
+* [[File:FRG flag.png|30px|link=]] [[Ru 251]]
+* [[File:Sweden flag.png|30px|link=]] [[Ikv 91]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

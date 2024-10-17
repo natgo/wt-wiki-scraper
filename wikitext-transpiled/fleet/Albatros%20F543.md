@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=it_albatros_class_f543
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage {{PAGENAME}} (2).jpg}}
 }}
 
 == Description ==
@@ -114,6 +114,7 @@ The Albatros-class was the first series of warships constructed by Italian shipy
 
 * [[Sparviero]]
 * [[76 mm/62 OTO-Melara Compact (76 mm)/Ammunition|76 mm/62 OTO-Melara Compact]]
+* [[Albatros Class (Family)|Albatros Class]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

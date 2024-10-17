@@ -10,7 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian tank destroyer {{Battle-rating}}. It was introduced in [[Update "Kings of Battle"]].
+The M109, an American-designed self-propelled howitzer, replaced the M44 in the US army in 1961. Italy received M44s post-war as US aid, however with further negotiations Italy later acquired M109s, upgrading some to the M109L standard with OTO Melara 155 mm cannons and adding rammer devices. While not heavily armoured, the M109 could withstand small arms fire and some shell splinters. It reached speeds of 35 km/h and had a range of 216 miles. The Italian army used M109s in peacekeeping operations but phased them out in the early 2000s for the PzH 2000 artillery piece. Leonardo also created an upgrade for the M109 with a longer-range cannon and Italian Vulcano guided munitions.
+
+It was introduced in [[Update "Kings of Battle"]]. The '''{{Specs|name}}''' has little to no armour, being able to be penetrated from low calibre autocannon fire, including 14.5 mm HMGs. This does not mean that the M109 is bad; with a powerful 155 mm cannon, its HE shells are enough to overpressure or even penetrate the armour of most tanks. The tank does have a very long reload rate and a poor turret traverse speed, it is recommended using the M109 for ambushes, flanking with allies, launching a HE shell at a weakspot and then retreat to safety to reload. Against heavy tanks, it is recommended to aim for the top of the turret or below the chassis if possible.
 
 == General info ==
 === Survivability and armour ===
@@ -29,7 +31,7 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 32 mm (27-74°) ''Upper Glacis''<br>32 mm (0-49°) ''Lower Glacis'' 
+| Hull || 32 mm (27-74°) ''Upper Glacis''<br>32 mm (0-49°) ''Lower Glacis''
 | 32 mm ''Top'' <br> 32 mm ''Bottom'' || 32 mm || 32 mm ''Hull Roof''<br>10 mm ''Radiator Covers''
 |-
 | Turret || 32 mm (28-73°) ''Turret front'' <br> 32 mm (4-56°) ''Gun mantlet'' || 32 mm (23-50°) || 32 mm || 32 mm
@@ -97,12 +99,12 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 ! 4th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''28''' 
+| '''28'''
 |Projectiles<br>Propellants
-| 24&nbsp;''(+4)''<br>23&nbsp;''(+5)'' 
-| 19&nbsp;''(+9)''<br>17&nbsp;''(+11)'' 
-| 17&nbsp;''(+11)''<br>1&nbsp;''(+27)'' 
-| 1&nbsp;''(+27)''<br>N/A 
+| 24&nbsp;''(+4)''<br>23&nbsp;''(+5)''
+| 19&nbsp;''(+9)''<br>17&nbsp;''(+11)''
+| 17&nbsp;''(+11)''<br>1&nbsp;''(+27)''
+| 1&nbsp;''(+27)''<br>N/A
 | No
 |-
 |}
@@ -132,7 +134,11 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The M109G features a very powerful armament at its BR, paired with a mediocre platform, chassis and powerplant. But in other to be used effectively, it needs to be played with caution in mind or you might be send back to the menu.
+
+The M109G has a very slow reload rate and the armour can be penetrated even by 14.5 mm HMGs, so in order to avoid that, a recommended tactic is flanking with allies, launching a HE shell, preferably at a high value target like a heavy tank, and quickly retreat to reload.
+
+The tank can be used as a brawler but can be quickly overwhelmed by superior enemy numbers. For such tactics, it is recommended going with a coordinated squad of other M109s or even better, a mix of heavy and light vehicles, combining destructive firepower with armour and speed. The M109G is overall a very team dependent vehicle, it requires you and your team to do well in order to succeed, that is why it should be played in a more passive playstyle than other vehicles. Avoid rushing capture points since they could be ambushed, and avoid brawling alone; when playing solo, flanking and sniping is your best bet.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -149,7 +155,7 @@ The armour on the M109 is nearly non-existent, being surrounded by 32 mm thick a
 * Slow turret traverse speed
 * Low survivability due to thin armour and munition placement, cannot sustain even 12.7 mm HMG
 * Long reload when compared to normal tanks
-* (mostly AB) Shell velocity does not let the tank to fire over a hill at short to medium range 
+* (mostly AB) Shell velocity does not let the tank to fire over a hill at short to medium range
 * (RB) Bad optics zoom, inadequate for sniping at long distances
 
 == History ==

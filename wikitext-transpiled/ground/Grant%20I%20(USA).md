@@ -8,12 +8,12 @@
 }}
 {{Specs-Card
 |code=us_mk1_grant
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-Following the defeat in France, the British military was left in a state of equipment shortage and were in need of American equipment to recover from their losses. The American's premier medium tank of the time was the [[M3 Lee|M3 medium]], however the British sought for modifications to refit the tanks to better suit British needs as well as build from their existing armour experiences. This led to a much larger turret bing developed by Rock Island Arsenal for the British military, with the new turret capable of housing a radio and doing away with the machine gun cupola. In order to distinguish this modified M3 from the regular M3 mediums being purchased from the United States, the modified M3 was given the nickname "Grant" after Ulysses Grant, the 18th President of the United States and a general who commanded the Union Army during the Civil War. The Grants served within the British and Commonwealth military forces, serving both in the European and Pacific Theater.
+Following the defeat in France, the British military was left in a state of equipment shortage and were in need of American equipment to recover from their losses. The premier American medium tank of the time was the [[M3 Lee|M3 medium]], however the British sought for modifications to refit the tanks to better suit British needs as well as build from their existing armour experiences. This led to a much larger turret bing developed by Rock Island Arsenal for the British military, with the new turret capable of housing a radio and doing away with the machine gun cupola. In order to distinguish this modified M3 from the regular M3 mediums being purchased from the United States, the modified M3 was given the nickname "Grant" after Ulysses Grant, the 18th President of the United States and a general who commanded the Union Army during the Civil War. The Grants served within the British and Commonwealth military forces, serving both in the European and Pacific Theater.
 
 Introduced in along with the initial American ground tree in [[Update 1.45 "Steel Generals"]] as a bundle vehicle, the Grant shared many similarities with the M3 Lee. The redesigned turret brings protection benefits, with the turret front armour being overall thicker than on the M3 Lee. The removal of the machine gun cupola also removes another weak point to prevent enemies from incapacitating the turret crew. Due to the presence of two cannons, this tank is an excellent multi-role vehicle. The Grant can be played it as a brawler combining the agile 37 mm gun with the high damage of the 75 mm gun, but don't get too close, in fact, the turreted gun has a bad depression and, combined with the high profile, tends to make close tanks difficult to hit. Note that the different guns can be assigned different keys to be separately used, so it is possible to select the 75 mm as a primary weapon, allowing the optics to accommodate the 75 mm shells (and not from the point of view of the 37 mm gun) and use the bullet drop indicator in [[:Category:Game_modes|arcade battles]]. Finally, despite the awkward position of the 75 mm in the hull, it benefits from a stabilization that would allow faster target acquisition when moving in slow speed or coming to a stop.
 
@@ -21,6 +21,10 @@ Although starting as a bundle vehicle, it was later removed from the store. It w
 
 == General info ==
 === Survivability and armour ===
+
+[[File:Grant I (USA) Smoke Grenade.png|thumb||right|300px|Smoke Grenade launched from the turret]]
+[[File:Grant I (USA) Smoke Grenade2.png|thumb||right|300px|Smoke Grenade effect]]
+
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 '''Armour type:'''
@@ -56,8 +60,11 @@ Although starting as a bundle vehicle, it was later removed from the store. It w
 
 == Armaments ==
 {{Specs-Tank-Armaments}}
+
+[[File:Weapon M5 (37 mm) Grant I (USA).png|thumb|right|350px|The M5 (73 mm) on Grant I (USA) turret.]]
 === Main armament ===
 {{Specs-Tank-Weapon|2}}
+
 <!-- ''Give the reader information about the characteristics of the main gun. Assess its effectiveness in a battle based on the reloading speed, ballistics and the power of shells. Do not forget about the flexibility of the fire, that is how quickly the cannon can be aimed at the target, open fire on it and aim at another enemy. Add a link to the main article on the gun: <code><nowiki>{{main|Name of the weapon}}</nowiki></code>. Describe in general terms the ammunition available for the main gun. Give advice on how to use them and how to fill the ammunition storage.'' -->
 {{main|M5 (37 mm)}}
 
@@ -99,11 +106,13 @@ Although starting as a bundle vehicle, it was later removed from the store. It w
 | '''128''' || 125&nbsp;''(+3)'' || 121&nbsp;''(+7)'' || 117&nbsp;''(+11)'' || 97&nbsp;''(+31)'' || 74&nbsp;''(+54)'' || 70&nbsp;''(+58)'' || 57&nbsp;''(+71)'' || 27&nbsp;''(+101)'' || 1&nbsp;''(+127)'' || Yes
 |-
 |}
-[[File:Ammoracks_{{PAGENAME}}.png|right|thumb|x200px|[[Ammo racks]] of the {{PAGENAME}}]]
+
+[[File:Weapon M2 (75 mm) Grant I.png|thumb|right|350px|The M2 (75 mm) on Grant I (USA) hull]]
 
 === Additional armament ===
 {{Specs-Tank-Weapon|1}}
 <!-- ''Some tanks are armed with several guns in one or more turrets. Evaluate the additional weaponry and give advice on its use. Describe the ammunition available for additional weaponry. Give advice on about how to use them and how to fill the ammunition storage. If there is no additional weaponry remove this subsection.'' -->
+
 {{main|M2 (75 mm)}}
 
 {| class="wikitable" style="text-align:center" width="100%"
@@ -160,6 +169,8 @@ The multiple cannons allow for different combinations of attack. The 75 mm gun p
 Different guns mean different styles of play. The Grant can be played as a tank destroyer, using its sponson gun to take shots at medium range and its 37 mm to cover the flanks and make longer range snipe shots. The Grant can also be used as an assault tank, quickly advancing on points while switching between the powerful 75 mm gun and the faster-firing 37 mm. In all game modes, the two gun profiles should be assigned to different keys, this will allow players to aim using the sights of the three guns separately, allowing the usage of the individual optics to actually hit things at range.
 
 the Grant I has the possibility of facing long-barrelled [[Pz.III J1|Pz.Kpfw. III]], and [[Pz.IV F2|Pz.Kpfw. IV]], as well as [[T-34 (1941)|T-34]]s. The [[ZiS-30]] and [[Na-To]] are also very deadly. The 75 mm gun can reliable penetrate all of these tanks at short range (save the T-34), whereas the 37 mm will require some particular shot placement.
+
+[[File:ArtImage2 Grant I (USA).png|right|350px]]
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->

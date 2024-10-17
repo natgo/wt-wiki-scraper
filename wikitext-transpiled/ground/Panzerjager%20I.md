@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''', otherwise known as the '''{{Specs|pseudonym}}''', is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced in [[Update 1.57 "Battle March"]].
+The '''Panzerjäger I''' (''4,7 cm Pak (t) (Sfl.) auf Pz.Kpfw.I (Sd.Kfz.101) ohne Turm'') was the first self-propelled gun adopted by Nazi Germany. The SPG had a chassis from the obsolete Pz.I, from which the turret was removed and the hull partially cut down; onto this an open-topped, rear fighting compartment was mounted. The vehicle was armed with a 47 mm captured Czech Skoda gun, designed in 1937-1938, which received the designation 4,7 cm PaK(t) in the Wehrmacht. The Panzerjäger I was produced from 1940 to 1941, during which period 202 units of the self-propelled guns were manufactured. It actively participated in the French, North African and Eastern campaigns, where it was used for ambushing fire and proved effective against enemy light tanks, but was practically helpless against medium and heavy tanks. In addition, in autumn/winter 1941, the self-propelled gun showed complete unsuitability for the climate of the Soviet Union, where it constantly broke down or got bogged down in mud and snow. The Panzerjäger I participated in combat operations until mid-1943.
 
-The vehicle is based on a Pz.Kpfw.I chassis, which is also found on the [[Flakpanzer I]]. This means it has no armour. It has a silhouette slightly resembling a [[Marder III]], but is quite scaled down.
+Introduced in [[Update 1.57 "Battle March"]], the Panzerjäger I has a sufficiently powerful gun for its battle rating, but also an open fighting compartment, which makes it quite vulnerable to HE shells, artillery, and enemy aircraft.
 
 == General info ==
 === Survivability and armour ===

@@ -44,7 +44,7 @@ While armour is nothing impressive for any BR, it is in no way rubbish or useles
 
 {{tankMobility|abMinHp=156|rbMinHp=97}}
 
-An interesting feature that can provide any wise commander with a few hits is the BTR-152A's speed. This light APC can carry itself over the road at breakneck speeds, provided it can ride a paved road. In good circumstances, it can reach over 80 km/h and keep its good speed even while turning, due to its wheeled chassis. Offroad mobility is not bad, meaning it can easily follow medium and light tanks on any terrain, making for an effective flanker. Backwards, speed tops at -20 km/h, which is enough to get out of an ugly situation if needed. With its large wheels, this truck can cross some small trenches and rivers, where its GAZ and ZiS truck counterparts would ditch. This truck's centre of mass is quite low, allowing it to turn at high speeds without rolling.
+Users of the [[M13 MGMC|M13]] or [[M16 MGMC]] will find the BTR-152A and its successor [[BTR-152D]] very familiar. Although offering worse performance in almost every way, their mobility is still very useful and can be used to quickly reach optimal positions or perform flanking manoeuvres and drive-bys. As a fully wheeled vehicle, off-road performance is comparatively bad, but it makes up for it with good characteristics on paved surfaces, including less of a speed penalty when turning. Backwards, speed tops at -11 km/h, which is enough to get out of an ugly situation if needed. With its large wheels, this truck can cross some small trenches and rivers, where its GAZ and ZiS truck counterparts would ditch. This truck's centre of mass is quite low, allowing it to turn at high speeds without rolling.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -164,6 +164,7 @@ File:CrewSpots BTR-152A.jpeg|X-ray view showing the positions of crew members
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[BTR-152D]] - Same chassis but with 4 x [[KPVT (14.5 mm)|14.5 mm KPVT]] instead of 2
 
 == External links ==

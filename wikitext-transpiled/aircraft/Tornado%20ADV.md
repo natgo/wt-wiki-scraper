@@ -156,7 +156,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 1, 2 *|| || || || 1, 2 *
 |-
 ! [[Skyflash]] missiles
-| || || 4 || ||
+| || || 2, 4 || ||
 |-
 ! [[Skyflash SuperTEMP]] missiles
 | || || 4 || ||
@@ -175,7 +175,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 2 x 330 gal drop tanks
-* 2 x AIM-9L Sidewinder missiles
+* 2 x AIM-9L Sidewinder missiles + 2 x Skyflash missiles
 * 4 x AIM-9L Sidewinder missiles + 320 x countermeasures
 * 4 x Skyflash missiles
 * 4 x Skyflash SuperTEMP missiles

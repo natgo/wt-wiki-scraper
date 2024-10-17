@@ -123,7 +123,14 @@ The '''''{{PAGENAME}}''''' is defended by:
 * 1 x 20 mm MG 151/20 cannon, dorsal turret (250 rpg)
 
 == Usage in battles ==
-''Describe the tactics of playing in an aircraft, the features of using vehicles in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+<!-- ''Describe the tactics of playing in an aircraft, the features of using vehicles in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
+'''Bomber hunting'''
+
+While technically a bomber and getting a bomber airspawn, it is also apt as a bomber-interceptor. Players can often find themselves able to get to enemy bombers far before friendly interceptors and air defence fighters, such as P-38s, XP-50s, P-61s, or Whirlwinds are able to get to altitude. What a player can do to dispatch of an enemy bomber is up to them; the 20 mm MG 151s can adequately dispatch of enemy bombers, but players can also use the HVARs to great effect against bombers. The velocity of the HVARs is rather low, so a player that is inexperienced might have an issue at longer ranges, getting in close raises the chances of hitting.
+
+'''High-altitude fighter'''
+
+Once the bomber threats have been neutralized, pilots often find themselves above or at the same height as enemy fighters, but the M.B.175T is no slouch. While the positioning of the offensive 20 mm MG151s is unfortunate, the M.B.175T is blessed with a defensive 20 mm MG 151 which can be used to devastating effect. Pilots should chose to work from the top down, focusing on the fighters that are closest relative to the pilot's height. A tactic that can work is to bait them into stalling for what they might think is an easy shot, then using the M.B.175Ts deceptively good turning ability to pounce on a stalled enemy.
 
 === Manual Engine Control ===
 {| class="wikitable" style="text-align:center"
@@ -162,7 +169,7 @@ The '''''{{PAGENAME}}''''' is defended by:
 * Flaps have a rather low speed limit before they tear off
 * Gunner is exposed
 * Does not have a ventral gunner, making it vulnerable to attacks from under
-* No Bombload
+* No bombload
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/ History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

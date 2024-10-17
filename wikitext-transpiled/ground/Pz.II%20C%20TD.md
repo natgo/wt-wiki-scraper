@@ -5,16 +5,14 @@
 }}
 {{Specs-Card
 |code=germ_pzkpfw_II_ausf_C_td
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Panzerkampfwagen II Ausführung C (Panzer II C)''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 121''') was the third variant of the [[Pz.II (Family)|Panzer II light tank family]]. 
+The '''Pz.Kpfw.II Ausf. C''' was the third production modification of the Pz.Kpfw.II tank. After the end of the Spanish Civil War, it became clear that the armour of early Pz.Kpfw.II models did not meet modern requirements and could be easily penetrated by field anti-tank artillery. Consequently, development began on an improved version of the vehicle. Its hull and turret armour were strengthened to 14.5 and 20 mm respectively, while the gun mantlet received a shield with extensions at the top and bottom, which protected the mantlet from shrapnel and bullets. The thickness of the viewports was also increased, a single-piece hatch replaced the double-hinged one on the turret roof, and a new TZF4/38 sight was installed. The tank saw action in nearly all theatres of war, including Africa, the USSR, and even some units participated in battles on the Western Front. A total of 364 Pz.Kpfw.II Ausf. C tanks were produced from July 1938 to March 1940.
 
-Introduced in [[Update "Winged Lions"]], this special tank was a reward for [[wt:en/news/7498-esport-play4peace-tournaments-en|watching streams on Twitch.tv]] and is no longer obtainable by any means. It is identical to the standard [[Pz.II C|Panzer II C variant]].
-
-The Panzer II C is one of the few light tanks available to the German Army during World War II. The ground forces of the German Army are largely made up of medium tanks, heavy tanks, and tank destroyers. Later in the war, light tanks were rarely built because armoured-wheeled vehicles performed comparable roles far more efficiently. In general, the Panzer II C is a dangerous light tank in the hands of a good player. As most enemy tanks in the early ranks are rather weakly armoured, the Panzer II C may unleash a barrage of armour-piercing rounds down the opponent's route with the L/55 20 mm autocannon, crippling most opponent tanks with a single ammunition clip.
+Introduced in [[Update "Winged Lions"]], this special tank was a reward for [[wt:en/news/7498-esport-play4peace-tournaments-en|watching streams on Twitch.tv]] and is no longer obtainable. It is identical to the standard [[Pz.II C]]. The Pz.II C can be a dangerous light tank in the hands of a skilled player. As most enemy tanks in the early ranks are rather weakly armoured, the Pz.II C can unleash a barrage of armour-piercing rounds at an opponent with its L/55 20 mm autocannon, crippling most tanks with a single ammunition clip. The tank also boasts decent mobility and a large crew (for a light tank), but suffers from very weak armour.
 
 == General info ==
 === Survivability and armour ===

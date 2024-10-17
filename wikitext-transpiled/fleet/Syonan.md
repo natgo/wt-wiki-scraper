@@ -35,7 +35,7 @@ The Syonan is a relatively slow ship, reaching a max of 36 km/h in RB modes and 
 <!-- ''Provide information about the characteristics of the primary armament. Evaluate their efficacy in battle based on their reload speed, ballistics and the capacity of their shells. Add a link to the main article about the weapon: <code><nowiki>{{main|Weapon name (calibre)}}</nowiki></code>. Broadly describe the ammunition available for the primary armament, and provide recommendations on how to use it and which ammunition to choose.'' -->
 {{main|120 mm/45 10th year type (120 mm)}}
 
-The Syonan is equipped with two 120 mm/45 10th year type cannons for its primary weapon. They do a good amount of damage to smaller boats and reload quickly at 12 rounds a minute on an average crew. The guns also traverse fairly slowly at around 8.5 degrees a second, because of this they're a fairly poor weapon at closer ranges when needing to track small fast boats. These guns do have viability against the larger patrol vessels and destroyers you'll come across and will be your go-to weapon at longer ranges.
+The Syonan is equipped with three 120 mm/45 10th year type cannons for its primary weapon. They do a good amount of damage to smaller boats and reload quickly at 12 rounds a minute on an average crew. The guns also traverse fairly slowly at around 8.5 degrees a second, because of this they're a fairly poor weapon at closer ranges when needing to track small fast boats. These guns do have viability against the larger patrol vessels and destroyers you'll come across and will be your go-to weapon at longer ranges.
 {{:120 mm/45 10th year type (120 mm)/Ammunition|120 mm Type 1 HE, 120 mm Type 0 HE}}
 
 === Secondary armament ===
@@ -96,6 +96,7 @@ During the escort of Hi-92 convoy, she was sunk on 25 February 1945 by a torpedo
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=jp_escort_hiburi_class_syonan Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -104,6 +105,7 @@ During the escort of Hi-92 convoy, she was sunk on 25 February 1945 by a torpedo
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vessels of similar role
+
 * [[LCS(L)(3)]]
 * [[K2]]
 * [[Groza]]

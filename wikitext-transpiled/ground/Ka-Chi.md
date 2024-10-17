@@ -5,19 +5,19 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Special {{Specs|name}}''' ({{Annotation|特三式内火艇 「カチ」|Toku San-Shiki Uchibitei [Ka-Chi]}}) was an improvement program by the Navy over the [[Ka-Mi]], going larger and stronger using the [[Chi-He]] as a base instead of the Ha-Go. During development the idea of making the tank transportable by submarine came up, allowing the tank to stealthily approach islands, emerge with the submarine, and off-load into the water to then land on the island amphibiously. While a very potent tank and operationally interesting, the Navy had more pressing issues during 1943-45 on top of being on the defensive, the Ka-Chi's priority and use case was diminished. Only 12 - 19 were built and all were reserved for homeland defense.
+The '''Special {{Specs|name}}''' ({{Annotation|特三式内火艇 「カチ」|Toku San-Shiki Uchibitei [Ka-Chi]}}) was an improvement program by the Navy over the [[Ka-Mi]], going larger and stronger using the [[Chi-He]] as a base instead of the Ha-Go. During development, the idea of making the tank transportable by submarine came up, allowing the tank to stealthily approach islands, emerge with the submarine, and offload into the water to then land on the island amphibiously. While a very potent tank and operationally interesting, during 1943-45 the Navy had more pressing issues on top of being on the defensive, diminishing the Ka-Chi's priority and use case. Only 12-19 were built and all were reserved for homeland defense.
 
-It was introduced during [[Update "Red Skies"]] as a reward for the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]]. This vehicle might seem familiar to some Japanese players as this is essentially a much larger, amphibious [[Chi-He]], boasting the same turret, max armour of 50 mm, and the same engine. Allied players will find the Ka-Chi reminiscent of the [[LVT(A)(1)]] as both are amphibious tanks with similar configurations.
+The Ka-Chi was introduced during [[Update "Red Skies"]] as a reward for the [[wt:en/news/7267-event-summer-landing-en|2021 Summer Landing event]]. It may seem vaguely familiar to some Japanese tankers, as it is essentially a much larger, amphibious [[Chi-He]], featuring the same turret, maximum armour of 50 mm, and the same engine. Although the maximum armour is identical to that of the Chi-He, the Ka-Chi is significantly more survivable due to its enormous size, which spaces out more crew members, including two additional onboard engineers located behind the fighting compartment. Additionally, the mounted pontoons serve as extra spaced armour. However, these modifications strain the engine, which was not upgraded, resulting in slower mobility. Consequently, the Ka-Chi functions as an ad hoc assault tank, supposed to draw enemy fire with its large size, absorb shots, and push forward to engage enemy tanks with its decent 47 mm gun while providing support to allied forces.
 
 == General info ==
 === Survivability and armour ===
 {{Specs-Tank-Armour}}
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
-At a first glimpse, the armour might look unappealing with weak sides but if one takes a literal dive in the armour profile it will become apparent that the tank isn't built like a conventional tank but like a submarine. It has a {{Annotation|light hull|The outer non-watertight hull which provides a hydrodynamically efficient shape}} and a {{Annotation|pressure hull|The inner hull of a submarine that maintains structural integrity with the difference between outside and inside pressure at depth.}} which both are 10 mm with air in-between, which can protect the tank from depths up to 100 m and tank cannons alike, even withstanding low-tier HEAT rounds of large calibres. 
+At a first glimpse, the armour might look unappealing with weak sides but if one takes a literal dive in the armour profile it will become apparent that the tank isn't built like a conventional tank but like a submarine. It has a {{Annotation|light hull|The outer non-watertight hull which provides a hydrodynamically efficient shape}} and a {{Annotation|pressure hull|The inner hull of a submarine that maintains structural integrity with the difference between outside and inside pressure at depth.}} which both are 10 mm with air in-between, which can protect the tank from depths up to 100 m and tank cannons alike, even withstanding low-tier HEAT rounds of large calibres.
 
-The frontal armour of the Ka-Chi will look very similar to that of the Chi-He maxing out at 50 mm, which with installed pontoons, will become even better as the floats act like spaced armour, defeating most HEAT & HE rounds and stopping some AP shells that lose their velocity before they reach the main hull. 
+The frontal armour of the Ka-Chi will look very similar to that of the Chi-He maxing out at 50 mm, which with installed pontoons, will become even better as the floats act like spaced armour, defeating most HEAT & HE rounds and stopping some AP shells that lose their velocity before they reach the main hull.
 
-The unconventional armour profile of this tank including the large spaced-out crew makes for a very survivable landship of a tank that shouldn't be messed around with. 
+The unconventional armour profile of this tank including the large spaced-out crew makes for a very survivable landship of a tank that shouldn't be messed around with.
 
 Once pontoons are installed, they count as additional spaced armour for the front and back of the vehicle, stopping nearly any HEAT or HE shell from damaging the main hull. A large commander cupola is also installed, which doesn't connect to the turret as the hatch is closed. The cupola can be a fake weak spot that inexperienced players may target, thinking that a shot will kill a commander and splash down into the turret crew. Take note that is a legitimate concern when facing certain enemies like the [[15cm sIG 33 B Sfl]] and [[Spj fm/43-44]] as their large calibre HE shells can do exactly this.
 
@@ -38,7 +38,7 @@ Once pontoons are installed, they count as additional spaced armour for the fron
 
 * Tracks and suspension wheels are 20 mm thick.
 * Front of the turret has bolted on 25 mm armour to total up to 50 mm thick as the rest of the front.
-* The hull is built like a submarine, having an outer light hull and a pressure hull both 10 mm thick. 
+* The hull is built like a submarine, having an outer light hull and a pressure hull both 10 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -124,7 +124,7 @@ The only functional machine gun mounted in the Ka-Chi is the hull-mounted bow ma
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-When downtiered, the tank can survive hits from most enemy shells at its BR. The surprisingly good armour and the good survivability make it a heavy tank. Its 47 mm gun won't have any trouble penetrating the enemy armour at its BR. The Ka-Chi's armour is thick, but also flat: angling gives the tank a higher chance to bounce shells. 
+When downtiered, the tank can survive hits from most enemy shells at its BR. The surprisingly good armour and the good survivability make it a heavy tank. Its 47 mm gun won't have any trouble penetrating the enemy armour at its BR. The Ka-Chi's armour is thick, but also flat: angling gives the tank a higher chance to bounce shells.
 
 When uptiered it should play as a support tank. Some enemy guns at the higher low-tier like the Russian [[ZIS-2 (57 mm)|ZIS-2]] and British [[6pdr OQF Mk.III (57 mm)|6pdr OQF Mk.III]] can penetrate the armour of the Ka-Chi without trouble (even when angled). The 47 mm cannon will also begin to struggle to penetrate enemy tanks.
 
@@ -132,7 +132,7 @@ In mixed ground battles, there is a high chance that planes will see you due to 
 
 The very high mounting of the turret allows it to sit behind and shoot over things that most tanks cannot, such as large rocks, lumber piles, and steep hills. This means that it can take hull-down positions that leave only the turret exposed, increasing survivability. One tactic is to use it as a sniper tank or mobile bunker. The punchy cannon and the ability to take unusual positions allows the Ka-Chi to hold down specific areas of the map quite easily.
 
-Another tactic is to use the Ka-Chi as a breakthrough heavy tank. Although significantly riskier, the survivability against low-calibre cannons and HE/HEAT resistance allows it to tank shots and push through enemy lines. Try to keep friendlies close and keep your enemies at a distance as a lone Ka-Chi is easily flanked and swarmed. 
+Another tactic is to use the Ka-Chi as a breakthrough heavy tank. Although significantly riskier, the survivability against low-calibre cannons and HE/HEAT resistance allows it to tank shots and push through enemy lines. Try to keep friendlies close and keep your enemies at a distance as a lone Ka-Chi is easily flanked and swarmed.
 
 The Ka-Chi, like a few other premium heavy vehicles of the rank such as the [[T-35]], [[B1 ter]] and [[Nb.Fz.|Neubaufahrzeug]] have an unwritten ability to rally friendly tanks when they charge. The stunning mass of the vehicle, its relative rarity, and the fact that it is used by more experienced players can inspire friendlies to group around the Ka-Chi as they are protected behind the large hull and can trust that the player using it will help lead them to victory.
 
@@ -192,8 +192,12 @@ Ka-Chi_WTWallpaper006.jpg
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[Ka-Mi]]
-* [[Chi-He]]
+;Related Development
+* [[Chi-He (Family)|Type 1 Chi-He]] (Based off)
+* [[Ka-Mi|Type 1 Ka-Mi]] (Predecessor)
+
+;Tanks of comparable role, configuration, and era
+* [[File:USA flag.png|30px|link=]] [[LVT(A)(1)]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

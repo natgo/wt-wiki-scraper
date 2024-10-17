@@ -5,7 +5,11 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} French heavy cruiser {{Battle-rating}}. It was introduced during [[Update "La Royale"]] but was removed from the Gaijin store after the [[wt:en/news/8677-shop-the-new-year-sale-in-the-gaijinnet-store-en|2023 New Year sale]].
+'''Dupleix''' was a French [[Suffren (Family)|Suffren-class]] heavy cruiser named after Joseph François Dupleix, the 18th century Governor-General of French India. She was the final vessel of her class, launched October 1930 and commissioned May 1932.
+
+Pre-war, she played a fictional heavy cruiser Alma in a 1935 movie ''Veille d'armes''. With the outbreak of WW2, she was assigned to Force X, hunting German submarines and merchant ships, capturing a Reefer steam ship SS Santa Fé. In June 1940, she participated in Operation Vado, attacking gasworks among other targets on the shores of Northern Italy. With the Franco-German Armistice, Dupleix was assigned to the 1st Cruiser Division in the Vichy French High Sea Force. She didn't see any combat until Case Anton, the German takeover of the Vichy France. In defiance of the German breach of the armistice, French sailors burned Dupleix, along with numerous other vessels, during the scuttling of the French fleet at Toulon.
+
+The '''{{Specs|name}}''' is a premium French heavy cruiser introduced during [[Update "La Royale"]], and later removed from the Gaijin store after the [[wt:en/news/8677-shop-the-new-year-sale-in-the-gaijinnet-store-en|2023 New Year sale]]. Compared to her [[Colbert|researchable counterpart]], she has improved armour and a more widely distributed crew, giving her better survivability in battle, but still below-average for her battle rating. In all other ways she's very similar to her sister ship, which is located in a lower BR across the game modes, making Dupleix a very peculiar vessel, struggling to deal with most of the enemies she gets to fight.
 
 == General info ==
 === Survivability and armour ===

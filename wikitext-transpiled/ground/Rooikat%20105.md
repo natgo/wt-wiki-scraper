@@ -6,7 +6,6 @@
 {{Specs-Card
 |code=uk_rooikat_105_td
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
-|store=8262
 }}
 
 == Description ==

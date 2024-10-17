@@ -96,6 +96,7 @@ If facing an un-angled KV-1 face-on, the front hull plate is still a popular pla
 |-
 |}
 '''Notes''':
+
 * Racks are modeled by sets of 2, 3 or 4 shells and sets disappear from the rack once all shells in the set have been loaded/fired.
 * Turret empty: 106&nbsp;''(+10)'' shells.
 
@@ -136,6 +137,10 @@ In short, a more diverse playstyle is needed to accommodate the enemies the KV-1
 Since the KV-1 ZiS-5 armament hasn't drastically improved while the potential opponent pool has, there will be times when the KV-1 ZiS-5 be facing enemies that cannot be penetrated from the front. The poor armour, large profile, and cramped interior mean a penetrating round by any tank could be lethal.
 
 High battle rating vehicles like the [[Tiger H1|Tiger I]] heavy tank have guns able to defeat the KV-1 ZiS-5 with ease, while the 76 mm gun is nigh useless at ranges. However, in close ranges towards flat angled armour, the 76 mm BR-354P APCR ammunition can penetrate through flat armour, especially that of the Tiger I while under 250 m. APCR is discouraged against highly-sloped armour, so facing against even the [[M4A1 (76) W|M4 Shermans]] will have the front armour hard to hit through with the APCR, so the APHEBC rounds should remain the standard round, even if the penetration is not up to par anymore.
+
+'''Enemies worth noting:'''
+
+* [[T14]]: this American heavy tank has advantages in speed, firepower, and overall protection. Its 75 mm gun is vertically stabilised and has ~100 mm penetration up close, enough to get a steady aim on the KV-1 ZiS-5's weakspots and penetrate. But in return, the KV-1 cannot reliably penetrate the T14 as its hull front is heavily angled, turret front covered by a thick gun mantlet, and the sides usually exceed the KV-1's penetration. When fighting a T14 frontally, aim for its hull machine gun to get an instant knockout, and/or its gun barrel and tracks; remember to swivle your turret and hull if its aiming at you. When fighting one from the side, do not target its turret or the sideskirt-covered hull, only shoot the upper hull with as little angling as possible. 
 
 [[File:KV-1 ZiS-5 screenshot 4.jpg|thumb|KV-1 ZiS-5 on [[Kursk (Ground Forces)|Kursk]]]]
 
@@ -203,6 +208,7 @@ In 1941-1943, KV tanks served in the main battalions of mixed tank brigades and 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_kv_1_zis_5 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -214,9 +220,11 @@ In 1941-1943, KV tanks served in the main battalions of mixed tank brigades and 
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Vehicles equipped with the same chassis
+
 * [[KV-1 (Family)]]
 
 ;Other vehicles of similar configuration and role
+
 * [[Churchill III]]
 * [[Churchill VII]]
 

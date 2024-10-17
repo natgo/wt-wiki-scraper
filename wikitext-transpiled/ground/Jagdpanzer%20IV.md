@@ -114,15 +114,14 @@ The ammunition available to the {{PAGENAME}} allows for engaging all types of ta
 ! 9th<br>rack empty
 ! Visual<br>discrepancy
 |-
-| '''79''' || 71&nbsp;''(+8)'' || 62&nbsp;''(+17)'' || 53&nbsp;''(+26)'' || 44&nbsp;''(+35)'' || 35&nbsp;''(+44)'' || 26&nbsp;''(+53)'' || 17&nbsp;''(+62)'' || 9&nbsp;''(+70)'' || 1&nbsp;''(+78)'' || Yes
+| '''79''' || 69&nbsp;''(+10)'' || 59&nbsp;''(+20)'' || 49&nbsp;''(+30)'' || 43&nbsp;''(+36)'' || 35&nbsp;''(+44)'' || 29&nbsp;''(+50)'' || 21&nbsp;''(+58)'' || 11&nbsp;''(+68)'' || 1&nbsp;''(+78)'' || No
 |-
 |}
 Notes:
 
-* Pack 26&nbsp;''(+53)'' shells to go into battle with the left flank ammunition depleted (racks  1 to 6 emptied).
-* The visual discrepancy concerns the number of shells per rack as well as the total number of sells (73 shells modeled for 79 available).
-* Rack 1 is modeled as 3 shells, racks 2, 3, 7 & 8: 10 shells, racks 4 & 5: 8 shells, rack 6: 6 shells and rack 9: 11 shells.
-* However, racks 1 to 7 contain 9 shells each while racks 8 and 9 contain 8 shells each.
+* Pack 29&nbsp;''(+50)'' shells to go into battle with the right flank and hull empty.
+* Shells in racks are depleted by increments of two.
+* Sponson racks contain 10 shells each.
 
 === Machine guns ===
 {{Specs-Tank-Weapon|2}}

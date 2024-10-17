@@ -22,7 +22,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a Hungarian
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
-! colspan="2" | Max speed<br>(km/h at _,___ m)
+! colspan="2" | Max speed<br>(km/h at 13,000 m)
 ! rowspan="2" | Max altitude<br>(metres)
 ! colspan="2" | Turn time<br>(seconds)
 ! colspan="2" | Rate of climb<br>(metres/second)
@@ -31,10 +31,10 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a Hungarian
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| ___ || ___ || rowspan="2" | {{Specs|ceiling}} || __._ || __._ || __._ || __._ || rowspan="2" | ___
+| 2,177 || 2,142 || rowspan="2" | {{Specs|ceiling}} || 37.8 || 38.8 || 191.0 || 179.8 || rowspan="2" | 750
 |-
 ! Upgraded
-| ___ || ___ || __._ || __._ || __._ || __._
+| 2,300 || 2,237 || 36.4 || 37.0 || 261.0 || 224.0
 |-
 |}
 
@@ -45,7 +45,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a Hungarian
 |-
 ! Combat flaps !! Take-off flaps !! Landing flaps !! Air brakes !! Arrestor gear !! Drogue chute
 |-
-| _ || _ || _ || _ || _ || _     <!-- ✓ -->
+| X || ✓ || ✓ || ✓ || X || ✓     <!-- ✓ -->
 |-
 |}
 
@@ -60,7 +60,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a Hungarian
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || ___ || ___ || ___ || ~__ || ~__
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || N/A || 500 || 450 || ~12 || ~6
 |-
 |}
 
@@ -70,7 +70,7 @@ Introduced in [[Update "Alpha Strike"]], the '''{{Specs|name}}''' is a Hungarian
 |-
 ! Ailerons !! Rudder !! Elevators !! Radiator
 |-
-| < ___ || < ___ || < ___ || -
+| < 650 || < 600 || < 950 || N/A
 |-
 |}
 

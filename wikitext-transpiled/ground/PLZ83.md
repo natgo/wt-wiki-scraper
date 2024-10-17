@@ -1,3 +1,8 @@
+{{About
+| about = Chinese tank destroyer '''{{PAGENAME}}'''
+| usage = the gift version
+| link = PLZ83-130
+}}
 {{Specs-Card
 |code=cn_plz_83
 |images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
@@ -15,7 +20,10 @@ Introduced in [[Update "Kings of Battle"]] as the first domestic SPH of the Chin
 <!-- ''Describe armour protection. Note the most well protected and key weak areas. Appreciate the layout of modules as well as the number and location of crew members. Is the level of armour protection sufficient, is the placement of modules helpful for survival in combat? If necessary use a visual template to indicate the most secure and weak zones of the armour.'' -->
 Some similarities can be found between the PLZ83 and later [[PTZ89]] - they are both based on the WZ321 tracked platform developed in the 1980s. Although it is not as protected as its Soviet counterpart, the [[2S3M]], the PLZ83 still has sufficient protection to stop .50 calibre rounds up front at point-blank range (aside from the LFP); for an SPH, this is certainly good news as enemies have to utilize their autocannons or larger calibre cannons to destroy the vehicle, although it is wise to avoid the frontline at all as this will vastly increase its risk of being destroyed. As an SPH, the PLZ83 has a relatively tall profile to house its 152 mm howitzer, meaning that it will give itself away quickly without foliage or indestructible cover; so be sure to hide the vehicle from the sight of enemy vehicles. Being hit in the hull or the turret can bring completely different outcomes - while the hull can sometimes survive oncoming shots thanks to the engine block or the driver, 26 rounds are stowed in the turret behind the 3 turret crew, so any penetrated shots from APCBC with explosive filler can send the turret flying.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
+'''Armour type:'''
+
+* Rolled homogeneous armour
+* Structural steel (side skirts)<!-- The types of armour present on the vehicle and their general locations -->
 <!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
 * Cast homogeneous armour (Turret, Transmission area) -->
 
@@ -23,11 +31,20 @@ Some similarities can be found between the PLZ83 and later [[PTZ89]] - they are 
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 10 mm (58°-75°) ''Upper glacis'' 
+15 + 15 mm (4°-55°) ''Lower glacis'' 
+| 15 mm (19°-60°) ''Turret ring extension'' <br>15 mm (0°-4°) ''Side'' 
+4 mm (0°) ''Side skirts'' 
+| 15 mm (0°) || 10 mm (90°)
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 30 mm (0°-20°) ''Turret front''  
+25 mm (0°-14°) ''Turret cheeks''<br>25-30 mm (0°-86°) ''Gun mantlet'' 
+| 15 mm (0°-11°) ''Turret side'' 
+10 mm (46°) ''Upper turret side'' 
+| 10 mm (0°-11°) || 10 mm (90°) ''Front''
+10 mm (77°) ''Rear''
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || colspan="3" | 30 mm (1°) || 10 mm (90°)
 |-
 |}
 
@@ -70,7 +87,7 @@ To accommodate such a huge 152 mm howitzer onto the WZ321 chassis, Chinese engin
 |}
 
 ==== Ammunition ====
-{{:PL66 Gai (152 mm)/Ammunition|DDB1/PL66, DDB1/PL66 (VT)}}
+{{:PL66 Gai (152 mm)/Ammunition|DDB1/PL66-152, BEE7-152, BEE7-152 (VT)}}
 
 Although the gun was certified in 1966, due to the lack of plans for more powerful shells until the late 1980s, both shells, DDB1 and its VT variant, are equivalent of the already obsolete OF-540 shell in Soviet service, thus it needs more careful aiming for maximum efficiency as enemies can sometimes survive a direct hit and fire back upon PLZ83.
 

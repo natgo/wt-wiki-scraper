@@ -205,7 +205,7 @@ An unknown amount of Ki-49s were involved in the Battle of Okinawa in 1945.
 {{Navigation-First-Simple-Line}}
 Nakajima Ki-49-I Donryu Army Bomber, type 100 model 1 (code name "Helen")
 
-Twin-engine monoplane medium bomber with retractable landing gear and tail wheel. The development of a new medium bomber (heavy bomber, by Japanese standards) for the Japanese Army Air Force began in the spring of 1938. The new airplane was to replace the Mitsubishi Ki-21 bomber.
+Twin-engine monoplane medium bomber with retractable landing gear and tail wheel. The development of a new medium bomber (heavy bomber, by Japanese standards) for the Japanese Army Air Service began in the spring of 1938. The new airplane was to replace the Mitsubishi Ki-21 bomber.
 
 Based on Japan's experience in its war with China, special attention was given to providing the bomber with high speed capabilities and strong defensive weaponry so that it could operate without fighter cover. The crew needed protective armour, and self-sealing fuel tanks were essential.
 
@@ -231,6 +231,8 @@ In all, 128 Ki-49-i aircraft were constructed.
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
+
+* [[Ki-48-II otsu]]
 
 ;Related development
 

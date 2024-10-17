@@ -1,6 +1,6 @@
 {{Specs-Card
 |code=ussr_object_435
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -77,11 +77,11 @@ The 115 mm U-5TS smoothbore cannon is the same as on the T-62. It reloads more q
 ==== Ammunition ====
 The Object 435's ammunition needs no introduction to T-62 veterans. The stock 3BM4 round is a solid steel dart with a high muzzle velocity and good angled penetration. It has poor flat penetration, especially compared to the T-10M's heavy 3BM-11 APDS, but practically any tank can be dispatched with a shot to the hull. Even after the other ammunition types are unlocked, 3BM4 should be a staple in the Object 435's arsenal.
 
-The 3BM3 tungsten-cored APFSDS has much greater flat penetration, but its angled penetration is degraded significantly. Since the Object 435 will meet very few enemy tanks that 3BM3 would perform better against than 3BM4, it should be mostly disregarded.
+The 3BM3 tungsten-cored APFSDS has much greater flat penetration, but its angled penetration at 60° is degraded significantly. Since the Object 435 will meet very few enemy tanks that 3BM3 would perform better against than 3BM4, it should be mostly disregarded.
 
 The 3BK4 HEAT-FS round is quite impressive within its class, with good penetration and TNT equivalent. It has less consistent damage than APFSDS and can be defeated by ERA, so it should be reserved for either overpressuring light targets or attacking huge steel behemoths like the [[Maus]] or [[Object 279]] that can sometimes block APFSDS.
 
-The 3OF11 is an ordinary HE shell containing 2.64 kg of TNT. While it's enough to overpressure light vehicles, it's a far cry from the infamous 125 mm 3OF26 rounds of later Soviet MBTs and will have a difficult time damaging anything with decent protection. The Object 435's slow reload also makes it very dangerous if an armoured target shows up when a HE shell is loaded. It helps to bring several for smacking light tanks or exposed cupolas opportunistically, but it should not be relied on as a primary tool.
+The 3OF11 is an ordinary HE shell containing 2.64 kg of TNT. While it's enough to overpressure light vehicles, it's a far cry from the infamous 125 mm 3OF26 rounds of later Soviet MBTs and will have a difficult time damaging anything with decent protection, but is still much better than most HE shells similarly rated MBTs have to offer. The Object 435's slow reload also makes it very dangerous if an well-armoured target shows up when a HE shell is loaded. It helps to bring several rounds for smacking light tanks or exposed cupolas opportunistically, but it should not be relied on as a primary tool.
 
 {{:U-5TS (115 mm)/Ammunition|3BM4, 3BM3, 3BK4, 3OF11}}
 
@@ -162,6 +162,7 @@ The main weakness of the Object 435 is that it has no sources of smoke, with no 
 * No protection against HEAT or APFSDS rounds
 * No sources of smoke
 * Slow reload
+* Loud and recognizable engine 
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=fr_hotchkiss_h39
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

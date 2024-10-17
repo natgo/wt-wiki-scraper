@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=la-5fn_luftwaffe
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
 }}
 
 == Description ==

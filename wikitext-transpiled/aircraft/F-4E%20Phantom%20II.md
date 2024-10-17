@@ -131,11 +131,11 @@ A survivability feature shared with its predecessor is the Radar Warning Receive
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
 |}
 === Offensive armament ===
@@ -145,9 +145,9 @@ A survivability feature shared with its predecessor is the Radar Warning Receive
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
-** 1 x 20 mm M61A1 cannon + 90 x countermeasures
+* 1 x 20 mm M61A1 cannon, chin-mounted (640 rpg)
+* 30 x large calibre countermeasures
+* 60 x countermeasures
 
 Due to this cannon's high rate of fire, trigger discipline is a must.
 
@@ -233,6 +233,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 1 x 600 gal drop tank
 * 2 x AIM-9E Sidewinder missiles
 * 3 x 20 mm GAU-4 cannons (1,200 rpg = 3,600 total)
@@ -334,7 +335,7 @@ The first F-4Es entered service in the 1960s and were dispatched to serve in Vie
 
 The F-4E was exported to a variety of countries. Israel was the largest foreign user of the F-4 Phantom, having purchased 124 F-4 Phantoms from the United States betwen 1971 and 1974; the Israelis were credited with at least 115 kills using the F-4 Phantom during various conflicts. As well, Germany and Japan both procured modified versions of the F-4E, being the F-4F and F-4EJ, respectively. Other notable foreign users of the F-4E include Australia (24 aircraft), Egypt (35 aircraft), Greece (34 aircraft), and Turkey (40 aircraft).
 
-During service, the Phantom gained a number of nicknames, including "Rhino" (referencing its titanium construction and long nose), "Double-Ugly", and even "The world's largest distributor of MiG Parts", referencing the 277 MiGs downed by the Phantom during various conflicts. The USAF retired the aircraft in 1996, and the aircraft was used as a target drone until 2016. The aircraft remains in service with Iran, Japan, South Korea, Greece and Turkey, 62 years after its maiden flight.
+During service, the Phantom gained a number of nicknames, including "Rhino" (referencing its titanium construction and long nose), "Double-Ugly", and even "The world's largest distributor of MiG Parts", referencing the 277 MiGs downed by the Phantom during various conflicts. The USAF retired the aircraft in 1996, and the aircraft was used as a target drone until 2016. The aircraft remains in service with Iran, Greece and Turkey, 66 years after its maiden flight.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->

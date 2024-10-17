@@ -5,7 +5,7 @@
 }}
 {{Specs-Card
 |code=us_m1a2_sep_abrams
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_TUSK.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|GarageImage_{{PAGENAME}}_TUSK.jpg|ArtImage_{{PAGENAME}}.png|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
@@ -61,7 +61,7 @@ As with the previous Abrams tanks, the M1A2 SEP's gun handles very well, with an
 |}
 
 ==== Ammunition ====
-{{:M256 (120 mm)/Ammunition|M830, M830A1, M829, M829A2}}
+{{:M256 (120 mm)/Ammunition|M830, M830A1, M829, M829A2, M908}}
 
 ==== [[Ammo racks]] ====
 [[File:Ammoracks_M1A2_Abrams.png|right|thumb|x250px|[[Ammo racks]] of the {{PAGENAME}}]]

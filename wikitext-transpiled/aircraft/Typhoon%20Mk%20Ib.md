@@ -59,7 +59,7 @@ While the {{Specs|name}} is slightly inferior compared to the Mk Ib/late in rega
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 401 || 377 || 250 || ~11 || ~5
+| {{Specs|destruction|body}} || {{Specs|destruction|gear}} || 261 || 261 || 250 || ~11 || ~5
 |-
 |}
 

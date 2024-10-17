@@ -198,6 +198,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 2 x 23 mm GSh-23L cannons (250 rpg = 500 total)
 * 2 x R-60 missiles
 * 4 x R-60 missiles
@@ -239,11 +240,11 @@ Thanks to the bomb payload the Yak-38 carries, it is able to act as a low level 
 
 ''Normal Landing:''
 
-If you are coming in for a landing, you need to get rid of your speed first. Unfortunately the Yak-38 has no airbrakes and weak flaps, so you can't easily reduce your speed if you are flying past 500 km/h with your flaps only. When you are close to the airport, manoeuvre in circles until you have gotten rid of your speed. Once your speed has significantly reduced, move to the end of the runway and put your gear down and the flaps too if needed.
+If you are coming in for a landing, you need to get rid of your speed first. Unfortunately the Yak-38 has no airbrakes and weak flaps, so you can't easily reduce your speed if you are flying past 500 km/h with your flaps only. When you are close to the airfield, manoeuvre in circles until you have gotten rid of your speed. Once your speed has significantly reduced, move to the end of the runway and put your gear down and the flaps too if needed.
 
 ''VTOL landing:''
 
-Approach the airport and get rid of your speed. When you have reached the conventional landing speed, slowly increase the VTOL (with no engine power the VTOL has no power) and lift the plane so you can get rid of the remaining speed. When you have no forward movement left, you can turn on hover-mode and slowly remove the hover power (0% is stationary height, 100% is increasing height, -100% is lowering height). Reduce the hover power to 0 when close to the ground and avoid making contact with -100% hover power.
+Approach the airfield and get rid of your speed. When you have reached the conventional landing speed, slowly increase the VTOL (with no engine power the VTOL has no power) and lift the plane so you can get rid of the remaining speed. When you have no forward movement left, you can turn on hover-mode and slowly remove the hover power (0% is stationary height, 100% is increasing height, -100% is lowering height). Reduce the hover power to 0 when close to the ground and avoid making contact with -100% hover power.
 
 '''When in ground battles'''
 
@@ -270,6 +271,7 @@ This is the place where the Yak-38 shines, thanks to an unusual suspended ordnan
 * Vertical landings require careful consideration of your velocity bleed.
 * Somewhat fragile gear means careless landings can cause the plane to smash into the strip or carrier deck
 * Very high RPM combined with low RPG count means you have to be very careful when using the gun(s)
+* Lack of countermeasures
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' (or "Paris Commune") is a rank {{Specs|rank}} Soviet battleship {{Battle-rating}}. It was introduced in [[Update "Direct Hit"]].
+The Parizhskaya Kommuna was the lead ship of the Sevastopol-class (also known as Gangut-class) battleships of the Imperial Russian Navy. The ship was commissioned in 1911 under the name Sevastopol, but would later be renamed Parizhskaya Kommuna by the new Soviet government. Over the 1920s, Parizhskaya Kommuna underwent a major modernisation, including a new flared bow, upgraded armament, armour, and machinery. In 1929, the ship was transferred to the Soviet Black Sea Fleet, where she served as the fleet flagship through the 1930s. During World War II, Parizhskaya Kommuna provided artillery support to Soviet forces defending Sevastopol and survived several German air raids, though she was eventually evacuated to Poti on the Black Sea coast. Over the next year, Parizhskaya Kommuna participated in bombardment missions against German forces in Crimea, including the Kerch-Feodosia Amphibious Operation. In 1943, the ship was renamed back to Sevastopol and served in a support role for the rest of the war.
+
+The '''{{Specs|name}}''' (or "Paris Commune") is a rank {{Specs|rank}} Soviet battleship {{Battle-rating}}, introduced in [[Update "Direct Hit"]]. s a World War II refit, the Parizhskaya Kommuna features enhanced survivability compared to her World War I-era predecessor, the Poltava, particularly with regards to vertical protection. A vastly increased anti-aircraft armament acts as an excellent deterrent to aerial threats, while increased turret roof as well as deck armour improves survivability even if the Parizhskaya Kommuna is hit from above. Moreover, the main armament of 12 x 305 mm guns has an increased rate of fire while retaining the powerful shells of previous Russian dreadnoughts. That being said, the weight gain due to modernisation negatively impacts her mobility, and modernised armour does not improve her belt nor torpedo protection.
 
 == General info ==
 === Survivability and armour ===
@@ -51,7 +53,7 @@ The ship is armed with the same set of 305 mm guns as the Imperatritsa Mariya an
 <!-- ''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.'' -->
 {{main|120 mm/50 pattern 1905 (120 mm)}}
 
-''Some ships are fitted with weapons of various calibres. Secondary armaments are defined as weapons chosen with the control <code>Select secondary weapon</code>. Evaluate the secondary armaments and give advice on how to use them. Describe the ammunition available for the secondary armament. Provide recommendations on how to use them and which ammunition to choose. Remember that any anti-air armament, even heavy calibre weapons, belong in the next section. If there is no secondary armament, remove this section.''
+Parizhskaya Kommuna's secondary armament consists of 16 casemate 120 mm/50 guns, which results in a modest broadside of eight 120 mm guns in practice. Both of the 120 mm shells that are avaliable have quite good explosive filler, though this is counterbalanced by a slow rate of fire. The traversal rates of the casemate guns are adequate for combating other bluewater ships, but may not cope as well with agile torpedo boats at close range. Since the SAP has a greater explosive filler than the HE, as well as penetrative capabilities against destroyers and light cruisers, SAP is the generally better ammunition choice.
 
 {{:120 mm/50 pattern 1905 (120 mm)/Ammunition|120 mm patt.1911 HE, 120 mm patt.1911 SAP}}
 
@@ -64,7 +66,7 @@ The Parizhskaya Kommuna is armed with a competent anti-air suite, composed of 6 
 
 The 76 mm cannons form your long-range defence, with their timed fuse shells. The filler of the shells is 200 g, but you have 6 of these cannons and the reload isn't terrible, so can keep up a steady stream of flak to keep inbound aircraft dodging, lest they be hit by fragments.
 
-For closer range defence, you have the 37 mm autocannons. The mounts have a decent traverse speed, but the guns themselves are not outstanding, with relatively average accuracy, range and rate of fire, a couple of hits or less can delete enemy fighters. Bombers may take more hits though.
+For closer range defence, you have the 37 mm autocannons. The mounts have a decent traverse speed, but the guns themselves are not outstanding, with relatively average accuracy, range and rate of fire, a couple of hits or less can delete enemy fighters. Bombers may take more hits though. 
 
 To top it off, the 12.7 mm MGs are basically there to supplement the 37 mm guns. They're not exactly long range and don't do a lot of damage, their rate of fire being the only thing going for them, but they increase the volume of fire being spewed at enemy planes, which is never a bad thing.
 
@@ -95,12 +97,19 @@ All in all, the Parizhskaya Kommuna can sustain an AA field roughly equivalent t
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the ship in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the ship and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Ship-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the ship's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+The Parizhskaya Kommuna was the first battleship of the Sevastopol class (also known as Gangut class). Parizhskaya Kommuna completed construction under the name Sevastopol in 1911 under the Imperial Russian Navy, and served in the Baltic Fleet. Sevastopol was largely unaffected by the tumultuous Russian Revolution in 1917 and the Civil War that followed, but suffered significant damage from a fire in 1919. With a reduced crew, Sevastopol was laid up and used as a source of spare parts for her sister ships.
+
+In 1921, the ship was renamed Parizhskaya Kommuna by the new Soviet government. Over the 1920s, Parizhskaya Kommuna underwent a major rebuilding and modernisation at the Baltiysky Zavod shipyard in Leningrad. This included installation of a new flared bow to address her poor seakeeping, as well as upgrades to her armament (particularly bolstering her anti-aircraft armament), armour, and machinery. In 1929, Parizhskaya Kommuna was transferred to the Black Sea Fleet, where she would serve as the fleet flagship through the 1930s.
+
+Following the induction of the Soviet Union into the Second World War in 1941, Parizhskaya Kommuna provided artillery support to Soviet forces defending Sevastopol. The ship survived several German air raids on its moorings in Sevastopol, but was eventually evacuated to Poti on the Black Sea coast as the city fell. Over the next year, Parizhskaya Kommuna participated in several bombardment missions against German forces in Crimea, including the Kerch-Feodosia Amphibious Operation. However, battle damage sustained throughout the campaign would force the ship to undergo periodic repairs. 
+
+In 1943, the ship was renamed back to its original name of Sevastopol and would serve out the rest of the war in a support role, not participating in any major naval action past that point. After the war, the ageing dreadnought was decommissioned in 1956 and subsequently scrapped.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ussr_battleship_parizhskaya_kommuna Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

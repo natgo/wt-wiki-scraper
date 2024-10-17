@@ -11,12 +11,16 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American armoured
 === Survivability and armour ===
 {{Specs-Fleet-Armour}}
 <!-- ''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.'' -->
-''Talk about the vehicle's armour. Note the most well-defended and most vulnerable zones, e.g. the ammo magazine. Evaluate the composition of components and assemblies responsible for movement and manoeuvrability. Evaluate the survivability of the primary and secondary armaments separately. Don't forget to mention the size of the crew, which plays an important role in fleet mechanics. Save tips on preserving survivability for the "Usage in battles" section. If necessary, use a graphical template to show the most well-protected or most vulnerable points in the armour.''
+Steel screens and armoured plates cover the side of the Zippo's 6 mm steel hull. The superstructure and turrets are covered in plating equivalent to or better than the famed USSR gunboats at the same battle rating. These plates will protect the turrets and bridge crew against machine guns and light auto-cannons, but will offer little resistance against AP shells from heavy cannons. However, the screens do act as a sort of spaced armour, detonating HE shells and even stopping 40 mm explosive rounds from breaching the hull behind them. The wide and unprotected bow often makes for a good target, with the associated compartment extending nearly half the length of the boat and housing a third of her crew. Given the location of her main gun and the location of her ammo racks, as well as her obvious lack of mobility, it is advised to attack enemies while facing them bow-on.
 
 === Mobility ===
 {{Specs-Fleet-Mobility}}
 <!-- ''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.'' -->
-''Write about the ship's mobility. Evaluate its power and manoeuvrability, rudder rerouting speed, stopping speed at full tilt, with its maximum forward and reverse speed.''
+The Zippo is easily a contender for the slowest boat in the game, only capable of an agonizing 16 km/h in RB - even slower than the infamously sluggish German flak barges. In some cases, it can take nearly the entire match to reach a capture point! For this reason, you're going to want to find a spot with solid land cover and good visibility so that you can support your team with ranged fire or pick off flankers trying to stall their advance. While the flamethrowers are very deadly, their short range and your slow speed prevents you from using them in most circumstances.
+
+Like Soviet riverboats, the shallow draft of the vessel contributes to poor stability on the waves. It's advised to move across the waves rather than over them, since her wide hull can somewhat reduce the roll imparted as they impact the vessel. Her incredibly low top speed and rapid-fire armament are also beneficial in compensating for inaccuracy should you be forced into poor weather or open seas.
+
+Finally, this boat is very sluggish in turns, but can slow or stop quickly should that be required. The hull produces substantial drag while turning, which can be used to rapidly bleed off the little speed you have and assist the engines as you go full astern.
 
 {{NavalMobility}}
 
@@ -56,7 +60,7 @@ The '''{{Specs|name}}''' is a premium gift rank {{Specs|rank}} American armoured
 <!-- ''An important part of the ship's armament responsible for air defence. Anti-aircraft armament is defined by the weapon chosen with the control <code>Select anti-aircraft weapons</code>. Talk about the ship's anti-air cannons and machine guns, the number of guns and their positions, their effective range, and about their overall effectiveness – including against surface targets. If there are no anti-aircraft armaments, remove this section.'' -->
 {{main|Flamethrower}}
 
-Flamethrowers are a very unique weapon in naval battles and can even burn on the ocean's surface. The system mounted to the LCM(6) Zippo has long range for a flamethrower, but it is very short-ranged in terms of naval weapons.
+Flamethrowers are a very unique weapon in naval battles and can even burn on the ocean's surface. The system mounted to the LCM(6) Zippo has long range for a flamethrower, but it is very short-ranged in terms of naval weapons - typically only able to hit targets out to 200 metres.
 
 Like the [[Churchill Crocodile]], one of this weapon system's disadvantages is being mounted to a vehicle that cannot quickly close the gap between it and the enemy to get within range. If they do, however, the flamethrower can make quick work of small vessels with open gun positions. Larger vessels hit by the flamethrowers can be distracted by the fires, as they can be deadly if left uncontrolled.
 
@@ -71,7 +75,7 @@ Though the system is bound to the anti-aircraft suite, the flamethrowers unfortu
 
 '''Pros:'''
 
-* 40 mm Bofors and several 20 mm Oerlikon autocannons
+* 40 mm Bofors and several 20 mm Oerlikon auto-cannons
 * Features two flamethrowers as a deadly close-range weapon
 * Napalm fuel can light the water surface on fire for a brief moment, causing any boats that pass on it to catch fire
 

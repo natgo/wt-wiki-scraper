@@ -32,7 +32,7 @@ Since the LaGG-3 has cannon armament, a 2-4 second burst is all that is needed t
 ! AB !! RB !! AB !! RB !! AB !! RB
 |-
 ! Stock
-| 540 || 523 || rowspan="2" | {{Specs|ceiling}} || 25.2 || 26.2 || 7.7 || 7.7 || rowspan="2" | 400
+| 539 || 521 || rowspan="2" | {{Specs|ceiling}} || 25.2 || 26.2 || 7.7 || 7.7 || rowspan="2" | 400
 |-
 ! Upgraded
 | 584 || 561 || 22.8 || 24.0 || 14.1 || 10.6
@@ -99,7 +99,9 @@ Since the LaGG-3 has cannon armament, a 2-4 second burst is all that is needed t
 
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
-''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.''
+
+* 8 mm Steel - Pilot's seat back
+* Self-sealing fuel tanks
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -201,10 +203,12 @@ Later on, the LaGG-3 Series 11 was replaced by the Series 23 in manufacturing fa
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=lagg-3-11 Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 

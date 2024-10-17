@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-During the late '80s and early '90s, Airbus, DASA, and Aérospatiale formed Eurocopter to create the next generation of European helicopters. Their most famous example was the Tiger helicopter, earning notorious on-screen fame after starring as an important plot point in the 1995 James Bond movie "''Goldeneye''". The Tiger and its derivatives would go on to have a long and prosperous life with many European countries, and were adapted into different variants to suit the needs of each operator. The Eurocopter Tiger family would be renamed to the Airbus EC665 Tiger after Eurocopter was renamed to Airbus Helicopters SAS. The HAD variant, standing for ''Hélicoptère d'Appui Destruction'', or "Helicopter for Support and Destruction", is a specially made version for the French air force which favours heavy frontline support and anti-tank duties over the older [[EC-665 Tiger HAP|HAP]] model. In 2022, Airbus and France reached an agreement to upgrade the existing Tiger HADs into [[Tiger HAD Block 2|a new block]], allowing them to carry better ordnance and avionics.
+The '''EC-665 Tiger HAD''' (''Hélicoptère d'Appui Destruction''; "Helicopter for Support and Destruction") is a modification of the preceding [[EC-665 Tiger HAP|HAP variant]], intended to improve its heavy frontline support and anti-tank capabilities. Developed in the early 2000s together with the Spanish army, the HAD variant received an improved engine, as well as the ability to carry the latest weapons such as Hellfire II missiles. France planned to increase its fleet of these helicopters to 67 units by 2025, of which about 40 were to be converted from the previous HAP model, and the rest manufactured from scratch. In 2022, Airbus and France reached an agreement to upgrade the existing Tiger HADs into [[Tiger HAD Block 2|a new block]], allowing them to carry better ordnance and avionics.
 
-Introduced in [[Update 1.91 "Night Vision"]], the Tiger HAD provides a great CAS option for the French tech tree in top rank tank battles, thanks to its great avionics (MAW), optics (Thermals), and decent selection of various missiles for various jobs, including Mistrals and Stingers for the air-to-air role, along with HOT-3 ATGMs and AGM-114K Hellfire missiles to provide longer range ground support. The HAD is a popular pick both for mixed battles and helicopter enduring confrontation PvE battles where it can make short work of targets from a safe distance thanks to its decent missile selection and great optics.
+Introduced in [[Update 1.91 "Night Vision"]], the Tiger HAD provides a great CAS option for the French tech tree in top rank tank battles, thanks to its great avionics (MAW), optics (thermals), and decent selection of various missiles for various jobs, including Mistrals and Stingers for the air-to-air role, along with HOT-3 ATGMs and AGM-114K Hellfire II missiles to provide longer range ground support. The HAD is a popular pick both for mixed battles and helicopter Enduring Confrontation battles where it can make short work of targets from a safe distance thanks to its decent missile selection and great optics.
 
 == General info ==
 === Flight performance ===
@@ -68,7 +68,8 @@ This is one of the best-protected helicopters in the game, thanks to the composi
 The '''''{{PAGENAME}}''''' is armed with:
 
 * 1 x 30 mm GIAT M781 cannon, nose turret (450 rpg)
-* 64 x countermeasures
+* 32 x countermeasures
+* 16 x large calibre countermeasures
 
 The 30 mm cannon only fires high explosive ammo (4 mm penetration), so it is advised only to use it against aircraft and light-armoured, open-topped vehicles.
 
@@ -117,11 +118,11 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!--''Defensive armament with turret machine guns or cannons, crewed by gunners. Examine the number of gunners and what belts or drums are better to use. If defensive weaponry is not available, remove this subsection.''-->
 The '''''{{PAGENAME}}''''' only has the following Defensive systems installed:
 
-*'''Flares''' - installs 60 Flares.
+*'''Countermeasures''' - installs 48 Countermeasures.
 *'''MAW''' - Missile Approach Warning system.
 *'''ATAM''' - Air To Air Missile.
 
-The '''MAW''' system allows for 60 Flares to be installed, along with warnings that missiles have been launched.
+The '''MAW''' system provides warnings that missiles have been launched and automatically deploys countermeasures.
 The '''ATAM''' allows for the Mistral air-to-air missile to be installed, these are installed on each wing's hard point, which means 50% of the available hard points are used by the mistral air-to-air missiles, meaning the suspended armament are reduced by half. However, the Mistral missiles are one of the best missiles in the game, able to destroy anything which it locks on to.
 
 == Usage in battles ==

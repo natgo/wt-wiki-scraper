@@ -111,7 +111,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 The {{PAGENAME}} is an early model P-51 which is similar to the [[P-51C-10]] in performance, sharing similar firepower capabilities and characteristics. P-51 early models lacks compared to the later war models 2 x [[M2 Browning (12.7 mm)|12.7 mm M2 Browning]] to the P-51D and H model giving them a bit less firepower than the late war models which can make it a bit tougher to deal with the larger aircraft and the more heavily-armoured ones.
 
 '''Air Battles:'''
-P-51 are known to be great at "Boom n Zoom" tactics, which indulge in maintaining its speed over the opponent where it dives to gain speed on the opponent then using the gain speed to get into an position of advantage over the target again to either do a second pass or find a new alternative target that may pose a threat to the P-51. Having 4 x hard-hitting M2 Browning machine guns and 1260 rounds means it does not lack in any firepower or ammunition to deal with most aircraft it will face. Though more heavily-armoured airplanes like [[IL-2]] can be a bit harder to neutralize with only the 4 machine guns if not dealing good crippling shots to the [[IL-2]], Some larger bombers can also be a though nut to crack if not taking care and properly aim at weak spots due to hitting the main fuselage could end up with the P-51 depleting its ammo fast and not doing much damage. The P-51 shine when it have the altitude advantage and can play to its strengths of diving on the target. It will have a hard time dealing with opponents in a dogfight, where it can bleed its speed and be easily outmanoeuvred by planes like [[Yak-3]] or [[Spitfire Mk Vb/trop]] that will have the manoeuvrability at low speed over the P-51.
+P-51 are known to be great at "Boom n Zoom" tactics, which indulge in maintaining its speed over the opponent where it dives to gain speed on the opponent then using the gained speed to get into an position of advantage over the target again to either do a second pass or find a new alternative target that may pose a threat to the P-51. Having 4 x hard-hitting M2 Browning machine guns and 1260 rounds means it does not lack in any firepower or ammunition to deal with most aircraft it will face. Though more heavily-armoured airplanes like [[IL-2]] can be a bit harder to neutralize with only the 4 machine guns if not dealing good crippling shots to the [[IL-2]], Some larger bombers can also be a tough nut to crack if not taking care and properly aim at weak spots due to hitting the main fuselage could end up with the P-51 depleting its ammo fast and not doing much damage. The P-51 shine when it have the altitude advantage and can play to its strengths of diving on the target. It will have a hard time dealing with opponents in a dogfight, where it can bleed its speed and be easily outmanoeuvred by planes like [[Yak-3]] or [[Spitfire Mk Vb/trop]] that will have the manoeuvrability at low speed over the P-51.
 
 '''Ground Battles:'''
 The {{PAGENAME}} is best to maintain air superiority over the enemy team, protecting its own team from being attacked from the air. The {{PAGENAME}} got its 4 x [[M2 Browning (12.7 mm)|12.7 mm M2 Browning]] that can with ease deal with most enemy air units that could be sent in, The M2 Brownings can also be used to give allied ground units assistance by hitting lightly-armoured targets from above or any open top vehicle to either disable or neutralize the enemy target. In a supporting role, the {{PAGENAME}} can also used 2 x ordnance bombs to bring with into battle in case of any more heavily-armoured vehicles will appear. The P-51 gets a synchronized bomb drop, making it able to only do one bomb run before having to return to airfield to restock on bombs. Since it is lacking in ground supporting capabilities, it is best suited to maintain air superiority over the battlefield, protecting allied ground attackers, bombers, and suppressing enemy fighters or SPAAs.
@@ -137,12 +137,14 @@ The {{PAGENAME}} is best to maintain air superiority over the enemy team, protec
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
+
 * Great Boom & Zoom aircraft
 * Great acceleration
 * Large fuel capacity
 * Good high altitude performance
 
 '''Cons:'''
+
 * Limited to two bombs
 * Fewer [[M2 Browning (12.7 mm)|M2 Browning]]s than late war models
 * Mediocre medium to low speed manoeuvrability
@@ -156,6 +158,7 @@ The {{PAGENAME}} is best to maintain air superiority over the enemy team, protec
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=p-51b_7_sweden Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -167,6 +170,7 @@ The {{PAGENAME}} is best to maintain air superiority over the enemy team, protec
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[P-51 (Family)]]
 
 == External links ==

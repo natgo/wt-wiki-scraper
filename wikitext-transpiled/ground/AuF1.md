@@ -39,7 +39,7 @@ On the other hand, the AuF1's weak armour may sometimes survive solid shot shell
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-The AuF1 is a fast tank for its battle rating, based on the AMX-30 chassis. It has a great reverse gearbox that helps it escape from danger, and it can use smoke grenades to cover its retreat. However, it is not as fast as light tanks, and it does not accelerate as well as a [[Leopard (Family)|Leopard]] or [[STB-1]]. Therefore, it is not a good idea to rush to capture points at the beginning of the map.
+The AuF1 is a fast tank for its battle rating, based on the AMX-30 chassis. It has a great reverse gearbox that helps it escape from danger, and it can use smoke grenades to cover its retreat. However, it is not as fast as light tanks, and it does not accelerate as well as a [[Leopard 1 (Family)|Leopard I]] or [[STB-1]]. Therefore, it is not a good idea to rush to capture points at the beginning of the map.
 
 {{tankMobility|abMinHp=1,022|rbMinHp=637}}
 
@@ -128,7 +128,7 @@ The AuF1 has an almost unique ability to annihilate lightly armoured tanks that 
 '''Pros:'''
 
 * Speedy 7.5 s auto-loader, reloads faster than all Soviet that you will encounter such as the T-44-100 and T-54 and most other tanks
-* Unlimited ready rack,  the total ammo load (42 shells) is part of the first-stage auto-loaded ammo stowage
+* Unlimited ready rack, the total ammo load (42 shells) is part of the first-stage auto-loaded ammo stowage
 * Relatively great mobility for an SPH with the same forward and reverse speed, thanks to a reversible gearbox
 * Possess modern smoke grenades that explode in the air, allowing to disengage a sticky situation quickly
 * Crew is relatively spaced out

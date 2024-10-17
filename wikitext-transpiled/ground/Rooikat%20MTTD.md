@@ -93,7 +93,35 @@ The Rooikat MTTD features extremely good mobility, with limitations. The engine 
 
 == Usage in battles ==
 <!-- ''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
-''Describe the tactics of playing in the vehicle, the features of using vehicles in the team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view but instead give the reader food for thought. Describe the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
+The Rooikat MTTD is a versatile and mobile tank destroyer best suited for aggressive flanking manoeuvres and hit-and-run tactics. Utilizing its excellent speed and manoeuvrability, quickly reposition to outflank opponents and exploit their weaker side and rear armour. The autoloader mechanism ensures a consistent rate of fire even with a reduced crew, allowing for rapid follow-up shots and increased damage output.
+
+When engaging enemies, take advantage of the vehicle's good gun depression and low profile by utilizing hull-down positions. This will minimize the risk of being hit while still being able to effectively engage targets. The laser rangefinder and thermal imager provide valuable information for accurate targeting, especially in long-range engagements or poor visibility conditions.
+
+==== Offensive Tactics: ====
+
+* '''Flanking Maneuvers''': Utilize superior speed to outmanoeuvre opponents and attack from unexpected angles, exploiting weaker armour.
+* '''Hit-and-Run Tactics''': Quickly engage targets and then reposition before the enemy can retaliate. The autoloader ensures rapid follow-up shots during these engagements.
+* '''Hull-Down Positions''': Utilize the good gun depression and low profile to minimize exposure while still engaging targets effectively.
+* '''Long-Range Engagements''': The laser rangefinder and thermal imager enhance accuracy in these situations, allowing for precise shots at a distance.
+
+==== Defensive Tactics: ====
+
+* '''Avoid Direct Confrontations''': The Rooikat MTTD's light armour makes it vulnerable to enemy fire, so prioritize avoiding head-on engagements.
+* '''Utilize Terrain''': Leverage hills, ridges, and other terrain features to conceal your position and ambush unsuspecting enemies.
+* '''Quick Retreats''': If overwhelmed or outmatched, use the vehicle's speed to disengage and reposition to a more advantageous location.
+* '''Teamwork''': Coordinate with teammates to create crossfires and maximize your damage output while minimizing individual risk.
+
+==== Map Selection: ====
+The Rooikat MTTD excels in open, rural maps with ample space for manoeuvring. Avoid urban maps with tight spaces and limited flanking opportunities, as these environments negate the vehicle's speed and manoeuvrability advantages.
+
+==== Limitations: ====
+
+* '''Light Armour''': The vehicle's primary weakness makes it susceptible to enemy fire and requires a cautious play style.
+* '''Terrain Sensitivity''': Mobility is significantly hampered by uneven terrain, mud, snow, and sand, requiring careful route planning.
+* '''Poor Hill Climbing''': The lacklustre power-to-weight ratio limits its ability to climb steep slopes or obstacles.
+* '''Limited Penetration''': The GT-7 cannon struggles against the frontal armour of late-model Soviet MBTs, forcing flanking manoeuvres or targeting weaker areas.
+
+By understanding the Rooikat MTTD's strengths and weaknesses, and adapting your tactics accordingly, you can maximize its effectiveness on the battlefield and achieve victory.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -104,14 +132,14 @@ The Rooikat MTTD features extremely good mobility, with limitations. The engine 
 * GT-7 cannon ballistics characteristics are competitive
 * The superb top speed of the Rooikat chassis remains
 * Equipped with features enhancing its combat capability: laser rangefinder, thermal imager, ESS and NVD
-* Crew location and good gun depression allows safer hull-down attacks
+* Crew location and good gun depression allow safer hull-down attacks
 
 '''Cons:'''
 
 * Only 3 crew members
 * No secondary armament or coaxial machine gun
 * Mobility is heavily affected by uneven terrain, mud, snow, sand
-* Lacklustre power to weight ratio: struggles climbing slopes or rocks
+* Lacklustre power-to-weight ratio: struggles climbing slopes or rocks
 * GT-7 penetration is unreliable versus late Soviet MBT frontal armour as on [[T-72 (Family)]], [[T-80 (Family)]] or [[T-90A]]
 
 == History ==
@@ -124,6 +152,7 @@ It used a regular production Rooikat hull with a completely new two-man turret. 
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=uk_rooikat_mttd Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos

@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Hungarian medium tank {{Battle-rating}} in the Italian research tree. It was introduced in [[Update "Sons of Attila"]] as part of the Hungarian branch of the Italian tech tree.
+The Turan III was developed from the [[Turan II|41M Turán II]] Hungarian medium tank, as Hungary needed tanks that were able to better deal with the well-armoured Soviet [[T-34 (Family)|T-34s]] and [[KV-1 (Family)|KV-1s]] that Hungary was fighting on the Eastern Front. The Turán III was equipped with a long barrel 75 mm 43.M gun that could effectively deal with the well-armoured Soviet tanks, unlike the short barrel 75 mm gun of the Turán II. To house this large and powerful gun, the Turán III had a new, larger turret. The Turán III also had significantly more armour than the Turán II.
 
-The 43M Turán III was a Hungarian medium tank of World War II. It was developed from the [[Turan II|41M Turán II]] Hungarian medium tank, as Hungary needed tanks that were able to better deal with the well-armoured Soviet [[T-34 (Family)|T-34s]] and [[KV-1 (Family)|KV-1s]] that Hungary was fighting on the Eastern Front. The Turán III was equipped with a long barrel 75 mm 43.M gun that could effectively deal with the well-armoured Soviet tanks, unlike the short barrel 75 mm gun of the Turán II. To house this large and powerful gun, the Turán III had a new, larger turret than the Turán II. The Turán III also had significantly more armour than the Turán II.
+Introduced in [[Update "Sons of Attila"]], the '''{{Specs|name}}''' is a serious upgrade over the Turan I. It shares some important characteristics with the Panzer IV H, and its playstyle is also rather similar. It has access to a very powerful gun for its BR which allows the Turan III to face even Soviet heavy tanks like the KV-1. The vehicle's powerplant was also upgraded, featuring excellent mobility for a medium tank, including full reverse speed at maximum 48 km/h, which is great for hit and run tactics. It still features the same armour plates and smoke grenades as the Turan I, which allows for higher survivability. However, the reload speed is rather poor at 7.6 seconds when stock, it has a very large profile, and the commanders cupola is an important weak point to keep in mind. The armour, while upgraded, is not enough to stop most 76 mm or even 57 mm guns around its BR, so it should be used in a passive playstyle.
 
 == General info ==
 === Survivability and armour ===
@@ -28,8 +28,8 @@ The 43M Turán III was a Hungarian medium tank of World War II. It was developed
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 13 mm || 35 mm ''Top'' <br> 25 mm ''Bottom'' || 13 mm top 
-35 mm bottom 
+| Hull || 13 mm || 35 mm ''Top'' <br> 25 mm ''Bottom'' || 13 mm top
+35 mm bottom
 | 13 mm
 |-
 | Turret || 75/35 mm ''Turret front'' <br> 33 mm ''Gun mantlet'' || 35/25 mm || 25/50 mm || 35/13/25/5 mm

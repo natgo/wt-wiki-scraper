@@ -112,11 +112,11 @@ The '''{{Specs|name}}''', introduced in [[Update "Sky Guardians"]], is one of th
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-While the F-4S completely lacks any armour plating or ballistic glass, meaning that the pilot and internal systems are exposed to damage from even small arms fire, the airframe itself is relatively sturdy thanks to the upgrades it got to better handle high-G sustained turns, and can take a few hits from opposing aircraft using 20 x 102 mm Vulcan or 20 x 110 mm USN rounds and remain airborne. Higher calibre guns however such as the BK-27 found on the Tornados, and the GSh-30-1 on the MiG-29 have a higher chance of severely crippling your performance or outright destroying the aircraft. As with the F-4J, the RIO (Radar Intercept Officer) in the back of the cockpit cannot take control of the aircraft if the pilot is knocked out, as it lacks the dual controls found on the USAF variants of the Phantom (C & E.) 
+While the F-4S completely lacks any armour plating or ballistic glass, meaning that the pilot and internal systems are exposed to damage from even small arms fire, the airframe itself is relatively sturdy thanks to the upgrades it got to better handle high-G sustained turns, and can take a few hits from opposing aircraft using 20 x 102 mm Vulcan or 20 x 110 mm USN rounds and remain airborne. Higher calibre guns however such as the BK-27 found on the Tornados, and the GSh-30-1 on the MiG-29 have a higher chance of severely crippling your performance or outright destroying the aircraft. As with the F-4J, the RIO (Radar Intercept Officer) in the back of the cockpit cannot take control of the aircraft if the pilot is knocked out, as it lacks the dual controls found on the USAF variants of the Phantom (C & E.)
 
 The fuel tanks are self-sealing, but generally won't be able to stop a fire from igniting due to every aircraft at the F-4S' BR using guns that are at least 20 mm in calibre. They also take up a lot of space in the midsection and rear of the Phantom, making shots to the fuselage potentially fatal. There are additional fuel tanks located in the upper-front of the wings and in the bottom of the fuselage, but they are a much smaller and thinner target, so the chances that they get hit are much lower in comparison. You have an extinguisher to put out engine fires, but effectiveness may vary depending on the severity of damage to the rest of the airframe, along with your airspeed.
 
-With only 60 countermeasures available to use that are deployed in pairs of two, effectively halving your actual number of deployments to just 30, the F-4S is rather limited in its defense against missiles compared to many of its opponents and even other Phantom variants, and bringing chaff with the mixed setup halves your actual deployment number again to just a measly 15, meaning you'll have to be very aware of your countermeasure usage.
+It is important to note that your countermeasures fire in pairs of two; with the introduction of separate flare/chaff firing, it is now possible to optimize your countermeasure drops in order to defend against both SARH and IR air-to-air missiles. 60 countermeasures at this BR is roughly the norm, but as you may face ARH missiles in the form of AIM-120As on the [[AV-8B_Plus|AV-8B+]] it is best to keep the idea of chaffing separately in the back of your head at all times.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -127,7 +127,7 @@ With only 60 countermeasures available to use that are deployed in pairs of two,
 |-
 ! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! Lead indicator
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
 | {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}} || {{Tick}}
 |-
@@ -138,9 +138,7 @@ With only 60 countermeasures available to use that are deployed in pairs of two,
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** Without offensive armament
-** 60 x countermeasures
+* 60 x countermeasures
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -184,10 +182,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | 12 || 12 || || || || 12 || || || || 12 || 12
 |-
 ! [[AIM-7F Sparrow]] missiles
-| || 1 || || 1 || 1 || || 1 || 1 || || 1 ||
+| || 1* || || 1 || 1 || || 1 || 1 || || 1* ||
 |-
 ! [[AIM-9H Sidewinder]] missiles
-| || || 2 || || || || || || 2 || ||
+| || || 2* || || || || || || 2* || ||
 |-
 ! 600 gal drop tanks
 | || || || || || 1 || || || || ||
@@ -195,7 +193,6 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | colspan="12" | Maximum permissible loadout weight: 7,257 kg<br>Maximum permissible wing load: 3,000 kg<br>Maximum permissible weight imbalance: 1,500 kg
 |-
 | colspan="13" | * Sparrows on hardpoints 2/10 cannot be carried in conjunction with Sidewinders on hardpoints 3/9 respectively
-<nowiki>*</nowiki>20 mm Mk 11 Mod 5 gun pod and 600 gal drop tank cannot be carried at the same time due to sharing hardpoint 1
 |-
 |}
 
@@ -222,39 +219,38 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 Being a slightly upgraded F-4J, the F-4S retains many of its predecessor's defining characteristics.
 
-The main difference between the two is the F-4S' leading edge wing slats. These greatly increase manoeuvrability below ~970-1000 km/h SPD by allowing you to pull more AoA (Angle of Attack) which helps to tighten down your turning circle, but results in noticeably more energy bleed. Inversely, the slats will reduce the amount of AoA you can pull above the priorly-mentioned airspeed, which massively improves energy retention and delays pilot blackouts at the cost of an overall wider turn circle. This ability to control your AoA at various speeds can be an invaluable tool in winning engagements if properly mastered, but remember that you're still a Phantom; the F-4S can't turn tight enough to competitively dogfight most other top-tier aircraft even with the manoeuvrability upgrade, but it's good enough that you may be able to last in an extended engagement against a single opponent until an ally comes to your aid.  <!--Testing was done with a loadout consisting of 6 Sparrows and the gunpod with 30:23 / a full tank of fuel at ~1000ft and ~6500ft, starting from ~1190-1210km/h SPD. RB physics and good weather were selected with limited fuel and ammo disabled, and the test location was Peale Island. Testing was performed by continually turning horizontally with combat flaps deployed and full WEP at both specified altitudes while maintaining said altitude as best as possible.-->
+The main difference between the two is the F-4S' leading edge wing slats. These greatly increase manoeuvrability below ~970-1000 km/h SPD by allowing you to pull more AoA (Angle of Attack) which helps to tighten down your turning circle, but results in noticeably more energy bleed. Inversely, the slats will reduce the amount of AoA you can pull above the priorly-mentioned airspeed, which massively improves energy retention and delays pilot blackouts at the cost of an overall wider turn circle. This ability to control your AoA at various speeds can be an invaluable tool in winning engagements if properly mastered, but remember that you're still a Phantom; the F-4S can't turn tight enough to competitively dogfight most other top-tier aircraft even with the manoeuvrability upgrade, but it's good enough that you may be able to last in an extended engagement against a single opponent until an ally comes to your aid. <!--Testing was done with a loadout consisting of 6 Sparrows and the gunpod with 30:23 / a full tank of fuel at ~1,000 ft and ~6,500 ft, starting from ~1,190-1,210 km/h SPD. RB physics and good weather were selected with limited fuel and ammo disabled, and the test location was Peale Island. Testing was performed by continually turning horizontally with combat flaps deployed and full WEP at both specified altitudes while maintaining said altitude as best as possible.-->
 
 
-The most powerful aspect of the F-4S is its weaponry. For IR-guided missiles, it carries AIM-9Hs. Even though they have mediocre turn performance (max overload 18G), their respectable range and long guidance time makes them ideal for picking off inattentive players or AI planes. The crown jewel of the F-4S' arsenal however is the AIM-7F. With effective usage of the Pulse Doppler and ACM modes, the F-4S can confidently go into battle with an all-Sparrow loadout and not feel limited at closer engagement ranges. The AIM-7F is able to reliably hit targets from a minimum of 3 km in head ons, all the way out to a maximum of 25-30 km in good conditions with Pulse Doppler active (any further than that will require some luck.) Head on snapshots from less than 3 km can be done, but you'll be pushing the limits of both your radar's lock speed and the Sparrow's 25G pull limit.
+The most powerful aspect of the F-4S is its weaponry. For IR-guided missiles, it carries AIM-9Hs, which are functionally very similar to their predecessor, the AIM-9Gs. Even though they have a fairly average turn performance with a max overload of 18G, their respectable range and long guidance time make them ideal for picking off inattentive players or AI planes. The crown jewel of the F-4S' arsenal however is the AIM-7F Sparrow, a Semi-Active Radar Homing missile. With enough range to reliably hit 15km+ shots from front-aspect, it offers a much needed range boost from the lacking-in-range AIM-7E-2s and starts pulling in much faster than AIM-7Es, making them an excellent all-rounder missile. Head-on snapshots from less than 3 km can be done, but you'll be pushing the limits of both your radar's lock speed and the Sparrow's 25G pull limit, so it may be beneficial to roll your aircraft to lessen the G load the missile will have to pull in some circumstances.
 
-Your biggest threats will be the F-14A / B, the MiG-29 9.13, and the Yak-141. All three gravely outclass you in BVR combat; the F-14s due to their massive, highly advanced radar and long-range Phoenix missiles, while the MiG-29 and Yak-141 carry the R-27ER, arguably the best SARH missile currently in War Thunder. The F-14s and MiG-29 9.13 also have you massively beat in a dogfight; both are able to comfortably sit inside your turning circle and either shoot at you with their guns or fire off a missile, so catching these opponents off guard or while they're distracted will aid in you and your team's survival. The Yak-141 however, while boasting phenomenal acceleration, has much more exploitable performance flaws; it can barely break the sound barrier due to high airframe drag, and bleeds energy severely in turns. You will have no issue beating the 141 in a 1v1 dogfight thanks to your upgraded manoeuvrability, just as long as you remember that the 141 is a VTOL aircraft, and may get creative with their manoeuvres out of desperation. 
+There are two types of vehicles you have to be wary of in the F-4S as of current: 4th generation fighters that completely outclass you, and Harriers. First off, 4th generation fighters such as the [[F-14 (Family) | F-14]], [[F-15A]], [[F-16A]] and [[MiG-29]] all have you completely beat in terms of flight performance. While you may attempt to fight them in a 1v1, unless the enemy pilot makes a severe lapse in judgement it will be all but certain you will be the one ejecting out of your plane. On the topic of missile armament, while the F-15A still comes equipped with AIM-7Ms (which are functionally identical to your AIM-7Fs) and the F-16A lacks SARH/ARH missiles, the F-14 comes equipped with the AIM-54 Phoenix Active Radar Homing (ARH) missile which has an effective launch range at least twice that of your 7Ms and the MiG-29 has 2 R-27ER/ET SARH missiles which have better range, a stronger motor and significantly faster speeds than your AIM-7M can hope to achieve, meaning even if you launch first you may not be guaranteed a win. The latter two aircraft also come equipped with a Track-While-Scan (TWS) mode capable radar, which can easily give your position away even from extreme ranges while your radar needs a hard lock to make sure if a target is, in fact, an enemy flying towards you at maximum speed. 
 
-The MiG-29SMT, while featuring more advanced avionics and the deadly R-73 infared missile at close range, along with the R-27ER for mid and long range, has far worse manoeuvreability than the 9.13 and is moderately heavier, making it much less dominant in a dogfight and unable to extend out of an engagement as easily. Avoiding detection from this aircraft as you approach the frontline is evermore paramount as you're now at an extremely large BVR disadvantage, but you'll find that it's relatively much easier to lead your shots on the SMT than many of the other 4th gen fighters if you manage to close the distance.
+The second problem you may face is, as said prior, Harriers. This may sound odd, as Harriers are a much lower Battle Rating than the F-4S, and even in a 1v1 situation aren't excellent dogfighters unless they take full advantage of their VTOL capabilities, but it is also of the most vital importance to remember the [[AV-8B_Plus | AV-8B+]] for the simple fact that it has AIM-120As. ARH missiles are much less reliant on holding a lock on the target than SARH missiles due to the seeker built into the missile itself, so all the AV-8B+ has to do is obtain a lock within visual range (<10km or so) and fire a missile at you, as the missile's own seeker will almost instantly turn itself on and lock your aircraft. To dodge these ARH missiles, you should first lower your altitude (if possible) to be as close to ground level as possible, as multipathing means that the missiles will not be able to track you properly if you are hugging the ground. However, this may not always be possible, or the terrain may have too many trees to realistically dive down and hold that altitude - so in that case, what should you do? The ideal way to dodge an ARH missile is not to try and notch the missile (keeping the missile lock 90 degrees to your aircraft), as the missile seeker is not as easily spoofed as a SARH missile. Instead, you should strive to 'go cold', i.e. turn a full 180 degrees around from the missile to make it harder for the missile to track you - in general, it is recommended to try both and see what works best for you depending on the situation you're in. What matters is the ability to be aware of the possibilty of facing ARH in a full uptier, so you can control your encounters as much as possible. 
 
 Base bombing is, as expected for the Phantoms, and no exception to the F-4S, a completely viable strategy thanks to its impressive bomb load. It also has some merit in attacking ground targets, as it can carry a ludicrous amount of Mighty Mouse rockets (Up to a maximum of 247 if you wish to forgo the gun pod) that are very easy to aim thanks to having a rocket CCIP, and you can still carry 4 Sparrows to have a strong weapon against enemy aircraft. Avoid SPAA vehicles like the plague, as getting too close may spell an untimely return to the hangar, and the lack of guided munitions means you have to get close to or within their firing range to deal with them, either with bombs or rockets.
 
-There are 2 types of missiles you will encounter in a Phantom. A radar-based missile, and a heat seeking missile. First, Radar based missiles. A good way to trick radar missiles is by using terrain. Long range missiles tend to lock onto the ground/trees when their target is flying just above the deck. Use this to your advantage, and fly at a safe 200-600m to confuse radar missiles. This strategy will '''''NOT''''' work on heat-guided missiles. Use flare and cut your afterburners before the missile gets within 1km of you. Also, avoid overusing flares, as you only have 60 (30 if you bring mixed with chaffs) countermeasures to work with. 
-===  Pros and cons ===
+=== Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Powerful pulse-Doppler radar
+* Powerful Pulse-Doppler radar
 * HMD allows significant off-boresight tracking for both the AIM-7F and AIM-9H
-* Can carry up to 8 air-to-air missiles
-* One of the best SARH missiles at 11.3
+* Can carry up to 10 air-to-air missiles
+* Very potent SARH missiles for its BR
 * Can take off and land on aircraft carrier
 * A wide range of suspended armaments, suitable for any playstyle
 * Can carry enough bombs to destroy a base without significantly affecting its flight performance
-* Slats provide valuable ability to control AoA and energy retention, increasing adaptability in aerial combat.
+* Slats provide valuable ability to control AoA and energy retention, increasing adaptability in aerial combat
 
 '''Cons:'''
 
 * Doesn't have an internal gun
-* The external gun pod negatively affects flight performance
+* The external gun pod adversely affects flight performance
+* The 20 mm Mk 11 mod 5 cannon is less efficient than other cannons at this BR
 * Can't carry a gun pod and drop tank at the same time as they share the same hardpoint
 * Quite large and heavy compared to other fighters at its rank
-* Fires will very rapidly destroy the airframe, and effectiveness of the extinguishers is questionable
 * Lack of guided munitions limits its potential in Ground Battles
 * 60 countermeasures is mediocre in uptiers, which this aircraft sees extremely often
 

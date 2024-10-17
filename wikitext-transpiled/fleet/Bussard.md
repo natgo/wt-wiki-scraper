@@ -112,6 +112,7 @@ File:Bussard firing on the enemy.jpg|<small>Bussard firing at the enemy</small>
 ;Related development
 
 * [[Albatros]]
+* [[Albatros Klasse (Family)|Albatos Klasse]]
 
 ;Other boats of similar configuration and role
 

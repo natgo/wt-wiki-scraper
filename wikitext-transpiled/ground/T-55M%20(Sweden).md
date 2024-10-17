@@ -22,24 +22,23 @@ The T-55M has moderate frontal protection, with 100 mm plates for upper front pl
 
 As for the turret, the T-55M has slightly less protection than the T-62 and combined with a generally larger turret, it is easier for opponents to hit and penetrate the turret. The thinnest spots are right next to the cannon breech, at 200 mm, which rather slowly becomes over 300 mm when moving further away from the breech.
 
-'''Armour type:''' <!-- The types of armour present on the vehicle and their general locations -->
-<!-- Example: * Rolled homogeneous armour (Front, Side, Rear, Hull roof)
-* Cast homogeneous armour (Turret, Transmission area) -->
+'''Armour type:'''
+
+* Rolled homogeneous armour (Hull, Turret roof)
+* Cast homogeneous armour (Turret, Gun mantlet)
 
 {| class="wikitable"
+! Armour !! Front !! Sides !! Rear !! Roof
 |-
-! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
+| Hull || 100 mm (59-77°) ''Front glacis'' <br> 100 mm (56-59°) ''Lower glacis'' || 80 mm || 20 mm (61°) ''Upper'' <br> 45 mm (16°) ''Middle'' <br> 20 mm (71°) ''Lower'' || 30 mm ''General'' <br> 45 mm ''Engine vent''
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
-|-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
-|-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Turret || 130-200 mm (14-39°) ''Turret front'' || 100-160 mm (15-73°) || 66-110 mm (4-41°) || 30 mm
 |-
 |}
+'''Notes:'''
 
-'''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
-<!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+* Suspensions wheels and tracks are 20 mm thick
+* Belly armour is 20 mm thick.
 
 === Mobility ===
 {{Specs-Tank-Mobility}}

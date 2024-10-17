@@ -41,7 +41,7 @@ The deadliest threats are HMG and autocannon mounted vehicles such as the Pz.IIs
 === Mobility ===
 {{Specs-Tank-Mobility}}
 <!-- ''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.'' -->
-''Write about the mobility of the ground vehicle. Estimate the specific power and manoeuvrability, as well as the maximum speed forwards and backwards.''
+The mobility of the LVT is not the most desirable. It can be sluggish at times due to the size of the vehicle. That being said, it does have a fairly competitive speed for it's BR and rank. You wont be as fast as a BT tank or any of the lighter German vehicles, but that's okay. The shoulder stabilizer (stops functioning at ~10 km/h) loves to utilize the sluggish speed of the LVT. The reverse speed is modest, but should not be counted on if caught in a bad situation. Plan your routes accordingly during live gameplay and utilize paved roads to get the most out of your speed. An added bonus is that the LVT is buoyant and can therefore tread on water on maps like Poland but do keep in mind you're limited to only 5 or 6 km/h in water.
 
 {{tankMobility|abMinHp=387|rbMinHp=221}}
 

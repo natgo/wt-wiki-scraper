@@ -5,7 +5,9 @@
 
 == Description ==
 <!-- ''In the first part of the description, cover the history of the ship's creation and military application. In the second part, tell the reader about using this ship in the game. Add a screenshot: if a beginner player has a hard time remembering vehicles by name, a picture will help them identify the ship in question.'' -->
-The '''{{Specs|name}}''' is a premium rank {{Specs|rank}} French destroyer {{Battle-rating}}. It was introduced in [[Update "La Royale"]].
+'''Panthère''' was a French ''contre-torpilleur'' of the [[Jaguar (Destroyer) (Family)|''Chacal'' class]], laid down in December 1923, launched in October 1924, and commissioned in October 1926. During the interwar period, she participated in parades, training campaigns, and modernisations. In 1930, she accompanied the cruisers ''Lamotte-Picquet'' and ''[[Primauguet]]'' to the French West Indies. With the outbreak of World War II, she was primarily engaged in convoy escort duties across a wide operational area. When France surrendered, ''Panthère'' was undergoing repairs and modernisation. After the signing of the Armistice, she was placed in reserve with only a minimal crew on board, and her anti-aircraft guns were transferred to more modern ships. In November 1942, she was captured virtually intact by German troops and subsequently transferred to the Italian Navy, designated ''FR 22'', where she was mainly used as a transport vessel. Following Italy's capitulation, ''Panthère'' was scuttled in La Spezia harbour in accordance with the treaty. After the war, her wreckage was raised and scrapped.
+
+Introduced in [[Update "La Royale"]], '''{{Specs|name}}''' is an easy choice for quickly progressing from interwar to World War II-era destroyers. She has characteristics typical of French destroyers: a deadly broadside, high speed, and below-average survivability. Compared to other vessels of [[Jaguar (Destroyer) (Family)|her class]], she does not excel in any specific regard but is best considered a middle ground between [[Chacal]] and [[Leopard]].
 
 == General info ==
 === Survivability and armour ===

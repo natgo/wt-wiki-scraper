@@ -60,7 +60,7 @@ The F-104G has great speed, acceleration, and climb rate due to its streamlined 
 |-
 ! Combat !! Take-off !! Landing !! + !! -
 |-
-| 1,527 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 827 || 444 || ~12 || ~5
+| 1,555 <!-- {{Specs|destruction|body}} --> || {{Specs|destruction|gear}} || N/A || 827 || 444 || ~12 || ~5
 |-
 |}
 
@@ -83,7 +83,7 @@ The F-104G has great speed, acceleration, and climb rate due to its streamlined 
 ! colspan="2" | Engine name || Number
 ! colspan="2" | {{Annotation|Basic mass|Mass of the aircraft with pilot and engine oil, but no fuel or weapons load}} || colspan="3" | Wing loading (full fuel)
 |-
-| colspan="2" | General Electric J79-GE-11 || 1
+| colspan="2" | General Electric J79-MTU-J1K || 1
 | colspan="2" | 6,552 kg || colspan="3" | 532 kg/m<sup>2</sup>
 |-
 ! colspan="3" | Engine characteristics
@@ -131,11 +131,11 @@ The F-104G's engine performance is sufficient when stock, so one should go for c
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}}
+| {{Tick}} || {{Tick}} || {{Tick}} || {{Cross}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -145,9 +145,8 @@ The F-104G's engine performance is sufficient when stock, so one should go for c
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* A choice between two presets:
-** 1 x 20 mm M61A1 cannon, nose-mounted (750 rpg)
-** 1 x 20 mm M61A1 cannon + 60 x countermeasures
+* 1 x 20 mm M61A1 cannon, nose-mounted (750 rpg)
+* 60 x countermeasures
 
 The M61A1 is an excellent cannon at its rank, only disadvantages being the spool up time and limited ammo count relative to rate of fire.
 
@@ -172,10 +171,10 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 | || 1 || || 1* || || 1 ||
 |-
 ! [[LDGP Mk 82 (500 lb)|500 lb LDGP Mk 82]] bombs
-| || 1 || || 1* || || 1 ||
+| || 1, 2 || || 1* || || 1, 2 ||
 |-
 ! [[Mk 82 Snakeye (500 lb)|500 lb Mk 82 Snakeye]] bombs
-| || 1 || || 1* || || 1 ||
+| || 1, 2 || || 1* || || 1, 2 ||
 |-
 ! [[M117 cone 45 (750 lb)|750 lb M117 cone 45]] bombs
 | || 1 || || 1* || || 1 ||
@@ -224,8 +223,8 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * 14 x Hydra-70 M247 rockets
 * 2 x AS-20 Nord missiles
 * 2 x AS-30 Nord missiles
-* 3 x 500 lb LDGP Mk 82 bombs (1,500 lb total)
-* 3 x 500 lb Mk 82 Snakeye bombs (1,500 lb total)
+* 5 x 500 lb LDGP Mk 82 bombs (2,500 lb total)
+* 5 x 500 lb Mk 82 Snakeye bombs (2,500 lb total)
 * 3 x 750 lb M117 cone 45 bombs (2,250 lb total)
 * 3 x 1,000 lb LDGP Mk 83 bombs (3,000 lb total)
 * 3 x 250 kg Matra 25E bombs (750 kg total)

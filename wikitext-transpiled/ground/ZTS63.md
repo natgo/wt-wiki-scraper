@@ -158,7 +158,7 @@ Overall, ZTS63 is a welcomed addition to PLAGF line-up thanks to its better FCS 
 * Cannon struggles against late war heavy tanks like [[Maus]], [[IS-4M|IS-4]]
 * Slow turret traverse speed
 * Relatively slow reload speed
-* Still lacks NVD for night battles
+* Challenging stock grind 
 * No smoke grenades
 
 == History ==

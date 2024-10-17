@@ -1,7 +1,7 @@
 {{About
 | about = American strike aircraft '''{{PAGENAME}}'''
-| usage = the premium version
-| link = A-10A
+| usage = other versions
+| link = A-10 (Family)
 }}
 {{Specs-Card
 |code=a_10a_late
@@ -254,7 +254,7 @@ The A-10A Late was a minor upgrade in the A-10. It featured the new and improved
 * [https://live.warthunder.com/feed/camouflages/?vehicle=a_10a_late Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
-{{Youtube-gallery|ty5x8xhle84|'''The Shooting Range #295''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
+{{Youtube-gallery|vVPcNBt02cQ|'''A-10A Warthog Ultimate Review''' - ''Bob Dickinson''|ty5x8xhle84|'''The Shooting Range #295''' - ''Metal Beasts'' section at 00:28 discusses the {{PAGENAME}}.}}
 
 == See also ==
 <!-- ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''

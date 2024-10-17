@@ -210,8 +210,12 @@ One of the three standard Italian wartime bombers, alongside the S.M. 79 and the
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-* [[S.M.79 (Family)|S.M.79]] - research tree predecessor
-* [[SB 2M-100|SB 2]], [[Ar-2]], [[Ki-49 (Family)|Ki-49]], [[S.M.79 (Family)|S.M.79]] and [[Ju 88 (Family)|Ju 88]] - similar in flight and combat style
+;Related development
+* [[Z.1007 bis serie 5]]
+
+;Aircraft of similar configuration or role
+* [[Ju 88 A-4]]
+* [[G4M1]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

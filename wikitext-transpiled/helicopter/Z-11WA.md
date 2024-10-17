@@ -5,9 +5,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the helicopter, as well as its key features. In the second part, tell the reader about the helicopter in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Chinese attack helicopter {{Battle-rating}}. It was introduced in [[Update "Drone Age"]].
+The '''Changhe Z-11''' was the first indigenously designed Chinese helicopter. Its development began in 1991 based on the French Eurocopter AS.350 Écureuil. The prototype of the Z-11 helicopter made its maiden flight in December 1994, and began leaving the production line in 1998. Later, various military versions were created based on the helicopter. Thus, in 2004, a reconnaissance modification of the helicopter was presented under the designation '''Z-11WA''' with an updated observation and targeting system.
 
-The Z-11WA is the first Chinese helicopter in the main tech tree. The Changhe Z-11 is a light helicopter closely resembling the French AS350 Écureuil (Squirrel) with minor detail differences, and this reconnaissance/light attack variant has been augmented with a prominent sensor orb above the cockpit. It has a rather high battle rating for a starter helicopter, but offers good flight performance, a small size, and very early access to thermal optics. Its main drawback is the limited arsenal consisting of domestic HJ-8A ATGMs, 57 mm and 90 mm rocket pods, and 12.7 mm machine gun pods. This helicopter is best used sneakily, locating targets from afar and creeping closer to attack from unexpected angles.
+Introduced in [[Update "Drone Age"]], the Z-11WA combines good speed, small size, excellent manoeuvrability, and excellent armament, including HJ-8A anti-tank guided missiles (ATGMs). Additionally, it boasts thermal imaging equipment. Its main drawback is the limited arsenal consisting only of the relatively slow and short-ranged HJ-8A ATGMs, 57 mm and 90 mm rocket pods, and 12.7 mm machine gun pods. Due to the lack of armour and other defensive features, this helicopter is best used sneakily, locating targets from afar and creeping closer to attack from unexpected angles.
 
 == General info ==
 === Flight performance ===
@@ -68,6 +68,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 
 {{Navigation-Start|Default weapon presets}}
 {{Navigation-First-Simple-Line}}
+
 * 36 x Type 57-1 rockets
 * 14 x FS70 rockets
 * 2 x HJ-8A missiles
@@ -106,12 +107,19 @@ With these in mind, players of the Z-11WA can utilize it as an "aerial guerrilla
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the helicopter in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-After the introduction of some French helicopters from Aérospatiale, including the [[SA.342L Gazelle]] and AS365 (later Z-9 after domestic production) since the 1980s, the PLAGF was in need for completely domestic helicopters. While claimed to be a domestic design, the Z-11 has a close resemblance to the AS350 Écureuil in terms of its aerodynamic design. The first prototype was flown on December 1992 and was later introduced into service in 1994 as the first domestic scout helicopter of the PLAGF. The armed version, Z-11WA, was introduced in 2004 with limited air-to-ground weapons, while the later Z-11WB in the mid-2010s were armed with more advanced missile options. Aside from its military variants, Z-11 also has civilian versions including its later variant AC311 from early 2010s.
+After the introduction of some French helicopters from Aérospatiale, including the [[SA.342L Gazelle]] and AS365 (later Z-9 after domestic production) since the 1980s, the PLAGF was in need for completely domestic helicopters. While claimed to be a domestic design, the Z-11 has a close resemblance to the AS350B Écureuil in terms of its aerodynamic design.
+
+The development of the Z-11 began in the late 1980s, based on the design of the AS 350B Ecureuil (Squirrel), thus, its similar appearance. The vehicle could be considered a reversed engineered version, considering its very similar aerodynamics, one of the main differences is the powerplant, the Turboméca Arriel 1D engine of the original AS350B was replaced with a domestically-produced Liming WZ8D engine. The final version of the base Z-11 ended up with a skid-type landing gear, a fenestron tail rotor, and a single turboshaft engine. With an overall length of 13.01 meters, a fuselage length of 11.24 meters, a width of 1.8 meters, and a height of 3.14 meters. While rotor diameter is 10.6 meters, and has a maximum take-off weight of 2,250 kilograms.
+
+The first prototype was flown on December 1992 and was later introduced into service in 1994 as the first domestic scout helicopter of the PLAGF. The armed version, '''Z-11WA''', was introduced in 2004 with limited air-to-ground weapons, while the later Z-11WB in the mid-2010s were armed with more advanced missile options. Aside from its military variants, Z-11 also has civilian versions including its later variant AC311 from early 2010s.
+
+Other variants of the Z-11 used by the PLAGF include the Z-11W for training purposes and regular Z-11 without armament or modifications for observation, reconnaissance and transport.
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=z_11wa Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -129,8 +137,7 @@ After the introduction of some French helicopters from Aérospatiale, including 
 * ''other literature.'' -->
 ''Paste links to sources and external resources, such as:''
 
-* ''topic on the official game forum;''
-* ''other literature.''
+* https://en.wikipedia.org/wiki/Changhe_Z-11
 
 {{AirManufacturer Changhe}}
 {{China helicopters}}

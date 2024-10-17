@@ -11,15 +11,17 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''', colloquially known as 超級軍刀機 (Super Sabre jet), was the twin-seater variant of F-100 and in fact the very first supersonic jet in ROCAF service which served until 1984; these jets were mostly identical to USAF variants minus INS for SEAD capabilities (F-100F is also the first Wild Wiesel jet). As part of the Military Aid Program (MAP) to ROCAF without any supersonic jet by August 1958 during the 1st Taiwan Strait Crisis, USAF immediately transferred six F-100F to ROCAF with four upcoming jets by September after the heat; meanwhile the single-seater [[F-100A (China)|F-100A]] with upgrades from the D series also arrived to ROCAF between 1958 to 1970. Due to the soon arrival of [[F-104 (Family)|F-104]] fleet by 1960s and the passage of major aerial combats between ROCAF/PLAAF, these F-100F were usually served as the trainer jet for pilots, CAP and ground attacker thanks to its sufficient performance for main island operations. However, due to a transporter crash in 1979 that costed almost all F-100 engineers in ROCAF and consecutive crashes involved the fleet of F-100s, they were soon phrased out by the last squadron that operated it by 1984, likely been replaced by later series F-104G or [[F-5E (China)|CKD assembled F-5E by AIDC]]. 
+The '''{{Specs|name}}''', colloquially known as the 超級軍刀機 (Super Sabre jet), was the twin-seater variant of the F-100 and the first supersonic jet in ROCAF service, serving until 1984. These jets were mostly identical to USAF variants minus INS for SEAD capabilities (the F-100F was also the first Wild Weasel jet). During the 2nd Taiwan Strait Crisis in August 1958, the USAF transferred six F-100Fs to the ROCAF under the Military Aid Program (MAP), with four more jets by September. Due to the arrival of the [[F-104 (Family)|F-104]] to the ROCAF in the 1960s and the lack of major aerial combat between the ROCAF and PLAAF, the F-100Fs usually served as trainers, CAP, and ground attackers. However, due to a transporter crash in 1979 that cost almost all the F-100 engineers in ROCAF and consecutive crashes involving the fleet of F-100s, they were soon phased out with the last squadron them until 1984, replaced by later series [[F-104G (China)|F-104Gs]] or [[F-5E (China)|AIDC-assembled F-5Es]].
 
-Introduced during [[Update "Sons of Attila"]] as a reward for the [[wt:en/news/8494-event-tokushu-heiki-assemble-and-test-an-honorable-missile-to-obtain-prizes-en|2023 Tokushu Heiki event]] and the first aerial main prize of seasonal event of Chinese tech-tree, F-100F now further extends its combat capability than ROCAF's F-100A thanks to its better payload for ground attack; while it can cause extensive damage to ground targets, be sure to take extra caution on enemy jets as most supersonic jets of its tier will not have a hard time taking down F-100F. Even though 2 cannons were removed from the nose, the ballistic performance of M39 and up to 4 AIM-9E can make sure it would still have the chance to turn the tides with its somewhat good AoA that is traded with its speed.
+Introduced during [[Update "Sons of Attila"]] as a reward for the [[wt:en/news/8494-event-tokushu-heiki-assemble-and-test-an-honorable-missile-to-obtain-prizes-en|2023 Tokushu Heiki event]], the F-100F extends its combat capability over the preceding F-100A thanks to its better payload for ground attack. While it can cause extensive damage to ground targets, be sure to take extra caution against enemy jets, as most supersonic jets of its tier will not have a hard time taking down the F-100F. Even though two cannons were removed from the nose, the ballistic performance of the M39 and up to four AIM-9Es ensures that it still has the chance to turn the tides with its somewhat good AoA that is traded with its speed.
 
 == General info ==
 === Flight performance ===
 {{Specs-Avia-Flight}}
 <!-- ''Describe how the aircraft behaves in the air. Speed, manoeuvrability, acceleration and allowable loads - these are the most important characteristics of the vehicle.'' -->
-Aside from the rear-seat, F-100F looks mostly identical to any other F-100 series in game especially its signature "catfish" intake. In this case, F-100F will be quite different from ROCAF's F-100A especially on its weight due to its F-100D based design - the D variant can be said as a multirole fighter while the F variant added a rear-seat for the weapon officer, therefore the weight of the extra pilot and extended cockpit should be considered as well. The other difference is the lack of a pair of autocannons than the A/D series, so half the firepower in this case. Compare to its arch enemy - [[MiG-19 (Family)|MiG-19]], it is very certain that F-100F at such huge size will have very hard time following the path of Farmers during a dogfight; but this huge size also gives F-100F a feature which is higher AoA when used in combination with the speed brake, although it trades lots of the energy and could be fatal at frontline, if players do need extra AoA to line-up the shots on enemy targets when 1 vs 1, this could be a "reverse" card for F-100F at such situation. Oddly enough, although having some extra weights, F-100F is still slightly faster than the A variant with upgraded engine (ROCAF received overhaul upgraded F-100A with F-100D equivalent equipment).
+Aside from the rear-seat, the F-100F looks mostly identical to any other F-100 series in the game, especially with its signature "catfish" intake. However, it handles quite differently from the tech-tree F-100A, especially due to its weight - the F variant adds a rear seat for the weapons officer, therefore the weight of the extra pilot and extended cockpit should be considered as well.
+
+The F-100F has a very hard time following the path of its arch enemy, the [[MiG-19 (Family)|MiG-19]], in a dogfight. However, due to its larger wings, the F-100F is able to pull greater AoA at low-medium speeds, though at the cost of a significant amount of energy, which may allow it to come out on top if used to its advantage in key situations.
 
 {| class="wikitable" style="text-align:center" width="70%"
 ! rowspan="2" | Characteristics
@@ -113,10 +115,11 @@ Aside from the rear-seat, F-100F looks mostly identical to any other F-100 serie
 === Survivability and armour ===
 {{Specs-Avia-Armour}}
 <!-- ''Examine the survivability of the aircraft. Note how vulnerable the structure is and how secure the pilot is, whether the fuel tanks are armoured, etc. Describe the armour, if there is any, and also mention the vulnerability of other critical aircraft systems.'' -->
-* 64 mm bulletproof glass: windscreen
-* 12.7 mm steel: behind pilots 
 
-Jets at the dawn of supersonic still have some extend of protection for the pilot even though the abundance of autocannons by the Warsaw-Pact jets; the protection of F-100F is mostly identical to other F-100 series other having additional protection for the Weapon System Officer (aka rear-pilot); while autocannons more than 20 mm calibre can tear down the pilots with ease, earlier jets with only machine guns will need more precise hits on pilots or sustained hits on F-100F airframe to send it to kingdom come.
+* 64 mm bulletproof glass: windscreen
+* 12.7 mm steel: behind pilots
+
+Jets at the dawn of the supersonic era still have some extent of protection for the pilot despite the abundance of heavy autocannons on Warsaw-Pact aircraft. The protection of F-100F is mostly identical to other the F-100 series, other than having additional protection for the Weapon System Officer (aka rear-pilot). While autocannons more than 20 mm calibre can knock out the pilots with ease, earlier jets with only machine guns will need more precise hits on pilots or sustained hits on the airframe to send it to back to the hangar.
 
 === Modifications and economy ===
 {{Specs-Economy}}
@@ -125,11 +128,11 @@ Jets at the dawn of supersonic still have some extend of protection for the pilo
 {{Specs-Avia-Armaments}}
 {| class="wikitable" style="text-align:center"
 |-
-! colspan="4" | [[Ballistic Computer]]
+! colspan="5" | [[Ballistic Computer]]
 |-
-! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs)
+! CCIP (Guns) !! CCIP (Rockets) !! CCIP (Bombs) !! CCRP (Bombs) !! EEGS
 |-
-| {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}}
+| {{Cross}} || {{Cross}} || {{Cross}} || {{Tick}} || {{Cross}}
 |-
 |}
 === Offensive armament ===
@@ -139,7 +142,7 @@ Jets at the dawn of supersonic still have some extend of protection for the pilo
 
 The '''''{{PAGENAME}}''''' is armed with:
 
-* 2 x 20 mm M39A1 cannons, -mounted (175 rpg = 350 total)
+* 2 x 20 mm M39A1 cannons, chin-mounted (175 rpg = 350 total)
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -209,27 +212,26 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).''
 
-=== Pros and cons ===
-<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->'''Pros:'''
+=== Radars ===
+{{main|AN/APG-30A}}
 
-* Supersonic and slightly faster than F-100A
-* Can sometimes trades speed for higher AoA (for "snap shot")
+=== Pros and cons ===
+<!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
+
+'''Pros:'''
+
 * Weapon System Officer (WSO; or rear-pilot) has access to aircraft control for last-ditch retaliation
-* Higher and more extensive payload for multirole operations than F-100 series with (wing-mounted) chaffs
+* Higher and more extensive payload for multirole operations than F-100 series including (wing-mounted) chaffs
 * Good ballistics for the M39 autocannon
 * RWR for better situational awareness at its BR
 
-*
-
 '''Cons:'''
 
-* Heavier airframe than earlier F-100 series thus less manoeuvrable 
-* Lacks a pair of autocannon than previous F-100 series
+* Heavier airframe than earlier F-100 series thus less manoeuvrable
+* Lacks a pair of autocannons compared to the previous F-100 series
 * Control surfaces lock up at supersonic speeds
-* Any maneuvers will bleeds the energy severely 
-* Lack ballistic computer for precise ground attack
-
-*
+* Any manoeuvres will severely bleed energy
+* Lacks ballistic computer for precise ground attack
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the aircraft in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
@@ -239,6 +241,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=f_100f_china Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
@@ -247,6 +250,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Related development
+
 * [[F-100 (Family)]]
 
 == External links ==

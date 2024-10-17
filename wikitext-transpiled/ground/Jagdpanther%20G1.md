@@ -5,12 +5,14 @@
 }}
 {{Specs-Card
 |code=germ_panzerjager_panther
-|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage_{{PAGENAME}}.png}}
+|images={{Specs-Card-Image|GarageImage_{{PAGENAME}}.jpg|ArtImage2_{{PAGENAME}}.png}}
 }}
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 173''') is a rank {{Specs|rank}} German tank destroyer {{Battle-rating}}. It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]].
+The '''{{Specs|name}}''' ([[Abbreviations#.28DE.29_Sd.Kfz._Index|Sd.Kfz. Index:]] '''Sd.Kfz. 173''') was one of the most powerful tank destroyers fielded by Germany in World War II. Based on the Panther tank, it was produced from 1943 to 1945 with a total of 413 units manufactured. The early variants of the Jagdpanther G1 were the first one to enter combat in 1944, armed with an fixed 88mm Pak43/2 cannon in a casemate configuration. The second version of the G1 was armed with a Pak43/3 instead of the /2. Other modifications included heat shields around the exhaust and a new gun mantlet. The vehicles were asigned to heavy tank destroyer battalions in the Western and Eastern Fronts, with most fighting against the Soviets at the East, and proved very successful.
+
+It was introduced during the Closed Beta Test for Ground Forces before [[Update 1.41]]. The Jagdpanther is a well rounded tank destroyer, with adequate armour, speed and a very good armament. The tanks armour is average at best, but if used at a high angle, like hiding behind a small hill, it becomes much more efficient, being able to ricochet many rounds and many others won't be able to penetrate. The 88 mm cannon of the Jagdpanther is powerful enough to destroy even heavy tanks it faces, though be aware though that tanks like the IS-2 can stop your rounds from the front. Also be aware that the side and roof armour are very thin and the Jagdpanther is vulnerable even to autocannon fire.
 
 == General info ==
 === Survivability and armour ===
@@ -193,6 +195,12 @@ For a heavy vehicle, the Jagdpanther had good speed and manoeuvrability. On the 
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
+
+;Images
+
+<gallery mode="packed-hover" heights="200">
+File:ArtImage Jagdpanther G1.png
+</gallery>
 
 ;Skins
 

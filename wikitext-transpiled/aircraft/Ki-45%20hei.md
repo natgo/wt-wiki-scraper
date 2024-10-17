@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Japanese twin-engine fighter {{Battle-rating}}. It was introduced in [[Update 1.31]].
+The '''{{Specs|name}}'''  was the successor of the Ki-45 "otsu/乙". It featured a revised armament, mainly designed to engage light naval target. This armament consisted of one 37mm Ho-203 automatic cannon on the nose while retaining its 7.92mm MG on the back as a defensive armament. Its armament only allowed the aircraft to engage small targets like patrol boats, since it lacked racks for suspended armament like bombs or torpedoes. Further upgrades where conducted in the form of the Ki-45 "tei/丁" and the Ki-45 II later renamed to Ki-96.
 
-Being a classed as a heavy fighter, the Ki-45 isn't the best in the manoeuvrability category. However, for a heavy fighter, it manoeuvres very well. It is even capable of out-turning aircraft such as the [[P-47D-25]]. Unlike heavy fighters of other nations, the Ki-45 series does not feature aircraft with large amounts of heavy weaponry. This is a major downside, considering how heavy fighters traditionally give up manoeuvrability and speed for armament. Instead, the Ki-45s utilize more of an equilibrium between manoeuvrability, speed, and armament. These are what makes the Ki-45 both a capable dog-fighter, and bomber hunter.
+It was introduced in [[Update 1.31]]. Being a classed as a heavy fighter, the Ki-45 isn't the best in the manoeuvrability category. However, for a heavy fighter, it manoeuvres very well. It is even capable of out-turning aircraft such as the [[P-47D-25]]. Unlike heavy fighters of other nations, the Ki-45 series does not feature aircraft with large amounts of heavy weaponry. This is a major downside, considering how heavy fighters traditionally give up manoeuvrability and speed for armament. Instead, the Ki-45s utilize more of an equilibrium between manoeuvrability, speed, and armament. These are what makes the Ki-45 both a capable dog-fighter, and bomber hunter.
 
 == General info ==
 === Flight performance ===
@@ -189,15 +189,18 @@ In addition to that, the report mentioned significant noise and vibration levels
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=ki-45_hei Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 == See also ==
 ''Links to the articles on the War Thunder Wiki that you think will be useful for the reader, for example:''
+
 * ''reference to the series of the aircraft;''
 * ''links to approximate analogues of other nations and research trees.''
 
 == External links ==
 ''Paste links to sources and external resources, such as:''
+
 * ''topic on the official game forum;''
 * ''other literature.''
 

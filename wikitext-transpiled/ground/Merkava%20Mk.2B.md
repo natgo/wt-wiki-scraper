@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''Merkava Mk.2B''' is the first subvariant of the Merkava Mk.2, which is the second variant of the [[Merkava (Family)|Merkava main battle tank family]]. In comparison to its predecessor, the [[Merkava Mk.1B]], the Merkava Mk.2 variant has enhanced armour protection, a new transmission, and more fuel capacity. Chains with metal balls were added to the Merkava Mk.2's turret rear to provide additional protection against rocket-propelled grenades (RPGs) and anti-tank guided missiles (ATGMs). The tank comes standard with NBC protection and automatic fire extinguishing equipment. Compared to the standard Merkava Mk.2, the Merkava Mk.2B also included thermal imaging equipment for the gunner and minor changes to the fire-control system. The Merkava Mk.2 was first manufactured in 1983, and it was last produced in 1989, with 580 units constructed in total. It saw service in several local battles, where it performed well. The final Merkava Mk.2 tank was moved to reserve units in 2016. Most of the remaining tanks are currently in storage, though these might potentially be modified to become armoured personnel carriers. They were never exported.
+The Merkava Mk.2 was developed in 1983, taking into account the experience of the Lebanon War, which highlighted the need for additional tank protection, including against shaped-charge munitions. The tank received a new fire control system, a laser warning system, and a new transmission. Additionally, the turret's protection was enhanced by installing additional armour screens. In a later version, designated '''Merkava Mk.2B''', the tank also received a thermal sight, and the armour was increased further. The Merkava Mk.2 was first manufactured in 1983 and last produced in 1989, with 580 units constructed in total. It saw service in several local battles, where it performed well. The final Merkava Mk.2 tank was moved to reserve units in 2016. Most of the remaining tanks are currently in storage, though these might potentially be modified to become armoured personnel carriers. They were never exported.
 
-Introduced in [[Update "Wind of Change"]], the Merkava Mk.2B retains the unique tank design created in Israel. During battles, locating targets is much easier now with thermal imaging equipment for the gunner. To improve crew protection, some composite armour screens are installed throughout the tank, primarily in the turret. In general, the Merkava Mk.2B resembles the Merkava Mk.1B, with good frontal turret armour that can survive a wide range of ammunition. The hull, on the other hand, is not as impressive as the turret. Most tank ammunition will easily penetrate the frontal hull.
+The '''Merkava Mk.2B''' was introduced in [[Update "Wind of Change"]]. Its main difference from the [[Merkava Mk.1B]] lies in the addition of composite screens on the sides of the hull and turret, providing the tank with additional protection against HEAT rounds and ATGMs. The tank also boasts a powerful gun and excellent survivability, aided by its laser warning system, a large number of smoke grenades, and its unconventional design - the frontal location of the engine compartment. This unusual engine placement protects the crew from hits to the front, but also increases the risk of engine failure and fire. The Merkava also has low mobility compared to many Western designs.
 
 == General info ==
 === Survivability and armour ===
@@ -30,16 +30,16 @@ The hull is not as impressive as the turret. On one hand, the lower and upper pl
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || 60 mm (67-76°) ''Front glacis''
-60 - 90 mm (30-57°) ''Lower glacis''
-| 50 + 10 mm ''Top''
-50 + 20 mm (Composite Screens) ''Bottom''
+| Hull || 60 mm (67-76°) ''Front glacis''
+60 - 90 mm (30-57°) ''Lower glacis''
+| 50 + 10 mm ''Top''
+50 + 20 mm (Composite Screens) ''Bottom''
 | 30 mm (12-44°) + 200 - 600 mm (air) + 30 mm || 30 mm
 |-
-| Turret || 30 - 65 mm (1-71°) + 45 mm (Spaced armour) + 100 mm ( Cast Homogenous armour near mantlet) + 25 mm (Composite Screens) ''Turret front''
-Variable thickness armour (0-75°) ''Gun mantlet''
-| 65 mm + 45 mm (Spaced armour) + 25 mm (Composite Screens) ''Upper turret armour''
-Variable Thickness Armour mm (0-60°) ''Lower turret armour''
+| Turret || 30 - 65 mm (1-71°) + 45 mm (Spaced armour) + 100 mm ( Cast Homogenous armour near mantlet) + 25 mm (Composite Screens) ''Turret front''
+Variable thickness armour (0-75°) ''Gun mantlet''
+| 65 mm + 45 mm (Spaced armour) + 25 mm (Composite Screens) ''Upper turret armour''
+Variable Thickness Armour mm (0-60°) ''Lower turret armour''
 | 65 mm (11° - 66°) + 45 mm (Spaced armour) + 20 mm (Tracks) || 30mm
 |-
 | Cupola || 30 mm || 30 mm || 30 mm || 30mm

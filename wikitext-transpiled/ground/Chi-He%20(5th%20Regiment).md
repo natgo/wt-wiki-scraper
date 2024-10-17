@@ -13,7 +13,9 @@
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 The '''{{Specs|name}}''' ({{Annotation|一式中戦車（戦車第五連隊仕様）「チへ」|Ichi-Shiki Chū-Sensha (Sensha Dai Go Rentai Shiyō) [Chi-He]}}) is a regular [[Chi-He]] in service by the 1st Tank Division, 2nd Armored Brigade, 5th Armored Regiment of the Imperial Japanese Army.
 
-It was introduced in [[Update "Regia Marina"]]. Being a carbon copy the [[Chi-He]], it plays exactly the same, on top of that it comes with a unique camouflage and 3 distinct decals on all available camouflages for the tank.
+The 5th Tank Regiment was established in May 1937 in Kurume and stationed in Manchuria in 1938 as part of the Kwantung Army's 1st Tank Brigade during the Nomonhan Incident. Although better equipped than the 3rd and 4th Tank Regiments, the 5th Tank Regiment had many inexperienced soldiers, leading it to remain in reserve during the Second Nomonhan Incident and avoid combat. Afterwards, it helped establish the 10th and 11th Tank Regiments by providing personnel and equipment. During the Pacific War, the regiment continued training and security duties in Manchuria until March 1945, when it returned to Japan for homeland defence, stationed first in Tochigi and later in Saitama Prefecture. Notably, the 5th Tank Regiment never saw combat from its formation until Japan's surrender.
+
+It was introduced in [[Update "Regia Marina"]]. Being a carbon copy of the [[Chi-He]], it plays exactly the same, on top of that it comes with a unique camouflage and 3 distinct decals on all available camouflages for the tank.
 
 == General info ==
 === Survivability and armour ===
@@ -194,19 +196,21 @@ Despite its relatively early production life over late-war Japanese tanks and it
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
-;[[Chi-He (Family)|Related Development]]
-
+;Related Development
 * [[Chi-Ha (Family)]] - <small>(Predecessor)</small>
 ** [[Chi-Ha Kai]]
-* [[Ho-I]] - <small>(Gun tank variant)</small>
-* [[Ka-Chi]] - <small>(Amphibious variant)</small>
+* [[Chi-He (Family)]]
+** [[Ho-I]] - <small>(Gun tank variant)</small>
+* [[Ka-Chi]] - <small>(Inspired navy amphibious variant)</small>
 
 ;Other vehicles of similar configuration and role
-
-* [[Panzer III (Family)]] - <small>(Early models)</small>
-* [[LT-38 (Family)]]
-* [[M15/42]]
-* [[Lago I]]
+* [[File:Czech flag.png|30px|link=]] [[File:Germany flag.png|30px|link=]] [[LT-38 (Family)|Pz.38(t)]]
+* [[File:Germany flag.png|30px|link=]] [[Pz.III (Disambiguation)|Pz.III (Family)]] - <small>(Early models)</small>
+* [[File:Kingdom Hungary flag.png|30px|link=]] [[Turan I]]
+* [[File:Kingdom Italy flag.png|30px|link=]] [[M15/42]]
+* [[File:France flag.png|30px|link=]] [[AMC.35 (ACG.1)]]
+* [[File:Britain flag.png|30px|link=]] [[Valentine I]]
+* [[File:Sweden flag.png|30px|link=]] [[Lago I]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

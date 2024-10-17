@@ -23,16 +23,17 @@ The ELC bis' armour is only sufficient to protect against small arms fire, and t
 |-
 ! Armour !! Front (Slope angle) !! Sides !! Rear !! Roof
 |-
-| Hull || ___ mm || ___ mm ''Top'' <br> ___ mm ''Bottom'' || ___ mm || ___ - ___ mm
+| Hull || 40* mm (75°-79°) ''Upper glacis'' <br> 40* mm (12°-61°) ''Lower glacis''|| 15+4** mm ''Top'' <br> 15 mm ''Bottom'' || 15 mm (21°) ''Upper rear'' <br> 15 mm (46°) ''Lower Rear'' ||8 mm
 |-
-| Turret || ___ - ___ mm ''Turret front'' <br> ___ mm ''Gun mantlet'' || ___ - ___ mm || ___ - ___ mm || ___ - ___ mm
+| Turret || 30 mm (50°) ''Turret front'' <br> 8 mm (10°) ''Left turret cheek'' <br> 8mm (28°) ''Right turret cheek'' <br> 15 mm (25°) + 8mm (26°) ''Gun mantlet'' || 8 mm (12°) || 8 mm (1°) ''Turret rear'' <br> 8 mm (62°-74°) ''Upper turret rear''|| 8 mm
 |-
-| Cupola || ___ mm || ___ mm || ___ mm || ___ mm
+| Cupola || 8 mm || 8 mm || 8 mm || 8 mm
 |-
 |}
 
 '''Notes:''' <!-- Any additional notes which the user needs to be aware of -->
 <!-- Example: * Suspension wheels are 20 mm thick, tracks are 30 mm thick, and torsion bars are 60 mm thick. -->
+<br><nowiki>*</nowiki> <small>Variable thickness cast homogeneous armour</small><br><nowiki>**</nowiki> <small>Structural steel</small>
 
 === Mobility ===
 {{Specs-Tank-Mobility}}
@@ -138,7 +139,20 @@ HEATFS being the ELC's only available shell, large tanks can be hard to deal wit
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->
-''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).''
+
+'''Pre-Development'''
+
+France first became interested in developing a lightly armoured combat vehicle capable of being airlifted in November 1946. While this project fell through, another program was launched 10 years later in 1954, the Engin Léger de Combat (ELC) "light combat vehicle" project. The ELC program was spearheaded by two main competitors, Ateliers de construction d'Issy-les-Moulineaux (AMX) and Brunon-Vallette (EVEN).<ref name=":0">(Pasholok 2015)</ref><ref name=":1">(Military 2000)</ref> The idea was to create a light combat vehicle mounting an anti-tank armament on a slightly less completely armored tank chassis and to create a mobile light tank destroyer. One that would be barely visible, capable of engaging and defeating all types of enemy tanks up to a distance of approximately 1000 meters, which was then increased to 1500 meters.<ref name=":2>(AMX 1958)</ref>
+
+In March 1954, AMX engineers based their first design of the ELC, designated Chenillette 4-120SR, off of the Hotchkiss CC-2 transporter. While AMX envisioned a two-seat combat vehicle armed with four 120 mm recoilless rifles, this did not make it off paper (not to be confused with EVEN's similar designs of the ELC Even 120).<ref name=":3">(Pasholok 2016)</ref> 4 months later, in July 1954, another project was proposed, the Chenillette 6-105SR, armed with six 105 mm recoilless rifles. Again, this version did not make it off paper.<ref name=":1"/>
+
+'''Development'''
+
+The '''AMX ELC bis''' was first conceived on April 27th, 1954. Originally called the 'Chenillette biplace avec casemate tournante de 90' (2-seat wedge with a 90 mm gun mounted in a casemate turret), AMX designers placed both crew members in the turret, with the engine in the bow. This allowed for a very compact vehicle layout. However, this meant that the turret could only rotate if the vehicle was not in motion, as the driver would not have visibility and access to the controls. In December 1954, a redesign placed the driver in the wheelhouse, moving the turret forward and the engine and transmission to the back. The first prototype entered testing in 1955, with a 90 mm D914 cannon inserted in a two-man TC.901 turret developed by FAHM (Forges et Aciéries de la Marine et d'Homécourt, a.k.a. Saint-Chamond).<ref name=":1"/>
+
+The D914 gun was capable of firing 90mm Empennée HEAT rounds, but was found to be inadequate, and thus an improved D915 cannon, capable of firing what were designated 'G shells' was created, prompting the development of a new turret. In total, 4 turrets were created, TC.901 through TC.904. TC.901 and TC.902 both were fit with the D914 gun and ANVRC 7 radio while the TC.903 and TC.904 were created and fit with the D915 gun and a different ANGRC 4 radio. In addition, the TC.902 and TC.904 were both equipped with rangefinders.<ref name=":2/> In 1957, after two years of testing, a new chassis was designed and the second and final prototype of the '''AMX ELC bis''' using the TC.904 turret and D915 gun was created. Differing from the first prototype, it included, smoke grenade launchers, redesigned observation devices, a rangefinder and an increase in road wheels to five. The gun mantlet, engine compartment roof and upper front plate were all changed, including the equipment mounted on them.<ref name=":0"/><ref name=":3"/> The final '''AMX ELC bis''' prototype was equipped with a 4-cylinder SOFAM Type 4 GSr engine with a power of 180 hp, resulting in a specific power of 20 hp/t and a top speed of 80 km/h. The tank was estimated to weigh a total of 8920 kg with crew and ammunition.<ref name=":4>(AMX 1961)</ref>
+
+Development concluded in 1958,<ref name=":2"/> and while testing continued, the ELC program was eventually closed in 1961.<ref name=":4"/> The project was discontinued in favour of improving the AMX-13 light tank.<ref name=":3"/>
 
 == Media ==
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
@@ -160,8 +174,17 @@ HEATFS being the ELC's only available shell, large tanks can be hard to deal wit
 <!-- ''Paste links to sources and external resources, such as:''
 * ''topic on the official game forum;''
 * ''other literature.'' -->
-
 * [[wt:en/news/7615-development-amx-elc-bis-the-grass-crawler-en|[Devblog] AMX ELC bis: The Grass Crawler]]
 
+=== References ===
+;Citations
+<references />
+
+;Bibliography
+* "French Christmas Tree." Warspot, 2015, https://warspot.ru/4780-frantsuzskaya-yolka
+* Centre des hautes études de l'Armement. ''Les Ingénieurs Militaires et l'Émergence d'une Nouvelle Industrie Française de l'Armement: 1945-1960.'' CHARME, 2000
+* "AMX ELC 90." Tank Archives, 2016, https://www.tankarchives.ca/2016/02/amx-elc-90.html
+* AMX, "AMX ELC: General history, armament, casemate turret, mobility, turret modifications", 1958, https://archive.org/details/al-9n-zevau-0-rurc-u-h-9fzex-ufm-0-sqxgx-bg-x-4-spka-n-4-vnbc-by-74-ct-4-rwwivop 
+* AMX, "AMX ELC bis performance, mass, gabarites", 1961, https://archive.org/details/2022-09-18-214717589
 {{TankManufacturer AMX}}
 {{France tank destroyers}}

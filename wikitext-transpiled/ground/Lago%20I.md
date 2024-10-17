@@ -124,27 +124,27 @@ The Lago I's engine also allows it to reach its top speed fast, having great acc
 '''Enemies worth noting:'''
 
 * '''B1 bis/ter:''' Can pose a serious threat to the Lago I if unattended, the B1's 47 mm can penetrate the Lago I if gets into close combat. The 75 mm can also pose a serious threat to the Lago I if the shell hits. If the Lago I is not equipped with the slpprj m/49 APDS round, it will have a struggle to defeat the armour of the B1, specially against the more armoured version Ter which puts the Lago I in a huge disadvantage if fighting in close quarters. If equipped with slpprj m/49, the B1's can be fought at distance where the Lago I will have the advantage.
-* '''[[M4 Sherman (Family)|M4 Sherman]]:''' Low rank Shermans like M4A1 and M4A3 105 can pose a serious threat, having mobility and guns capable of eliminate the Lago I with ease. Their short 75 mm and 105 mm can easily penetrate the Lago I and close range and at distance. These are highly dangerous enemies for the Lago I even if equipped with APDS rounds. The angled armour of the Shermans can easily bounce the 37 mm rounds of the Lago. You must be more careful where you aim when fighting Shermans. But even if the Shermans are a dangerous target, they are not invincible for the Lago I can deliver a well-placed shot, or a flanking manoeuvre could give the Lago the penetration it needs to cause serious damage to the Shermans.
-* '''[[T-34]]:''' T-34 is also one of the tanks the Lago I needs to be wary of, T-34 is a threat for inexperienced Lago I users. The sloped hull of the T-34 can bounce most APDS and APCBC rounds, but the T-34's turret is a weak spot making them less of a threat than Sherman tanks.
+* '''[[M4 Sherman (Family)|M4 Sherman]]:''' Low rank Shermans like the M4A1 and M4A3 (105) can pose a serious threat, having mobility and guns capable of eliminate the Lago I with ease. Their short 75 mm and 105 mm can easily penetrate the Lago I and close range and at distance. These are highly dangerous enemies for the Lago I even if equipped with APDS rounds. The angled armour of the Shermans can easily bounce the 37 mm rounds of the Lago. You must be more careful where you aim when fighting Shermans. But even if the Shermans are a dangerous target, they are not invincible for the Lago I can deliver a well-placed shot, or a flanking manoeuvre could give the Lago the penetration it needs to cause serious damage to the Shermans.
+* '''[[T-34]]:''' The T-34 is also one of the tanks the Lago I needs to be wary of, T-34 is a threat for inexperienced Lago I users. The sloped hull of the T-34 can bounce most APDS and APCBC rounds, but the T-34's turret is a weak spot making them less of a threat than Sherman tanks.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in a bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
 
 '''Pros:'''
 
-* Still effective in uptiers, since it has access to a high-penetrating APDS shell with an amazing 105 mm penetration and high velocity
-* -10 degrees gun depression means that it can adapt different terrains well
+* Still effective in uptiers, since it has access to a high-penetrating APDS shell with an amazing 115 mm of penetration and high velocity
+* -10 degrees gun depression means that it can adapt to different terrains well
 * Quite fast and mobile
-* Sufficient power to weight ratio ensures mobility on bad terrain
+* Sufficient power to weight ratio ensures good mobility even on bad terrain
 * Good turret traverse speed
-* Small target
+* Small target profile
 * Short reload time
 
 '''Cons:'''
 
 * Terrible stock grind - APDS is the only acceptable shell for the battle rating, and it is a tier IV modification, while the other shells are extremely weak and wholly inadequate for the opponents you will have to face
-* Armour is inadequate to resist any shells, even a [[Pz.II (Disambiguation)|Pz.II]] can penetrate it frontally
-* Roof armour can be penetrated by common aircraft armaments such as 12.7 mm M2, and 15 mm MG151
+* Armour is inadequate to resist any shells, even a [[Pz.II (Family)|Panzer II]] can penetrate it frontally
+* Roof armour can be penetrated by common aircraft armaments such as the 12.7 mm M2, and 15 mm MG 151
 
 == History ==
 <!-- ''Describe the history of the creation and combat usage of the vehicle in more detail than in the introduction. If the historical reference turns out to be too long, take it to a separate article, taking a link to the article about the vehicle and adding a block "/History" (example: <nowiki>https://wiki.warthunder.com/(Vehicle-name)/History</nowiki>) and add a link to it here using the <code>main</code> template. Be sure to reference text and sources by using <code><nowiki><ref></ref></nowiki></code>, as well as adding them at the end of the article with <code><nowiki><references /></nowiki></code>. This section may also include the vehicle's dev blog entry (if applicable) and the in-game encyclopedia description (under <code><nowiki>=== In-game description ===</nowiki></code>, also if applicable).'' -->

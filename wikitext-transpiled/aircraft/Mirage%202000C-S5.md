@@ -12,7 +12,7 @@
 <!-- ''In the description, the first part should be about the history of and the creation and combat usage of the aircraft, as well as its key features. In the second part, tell the reader about the aircraft in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
 A timeless classic, and an icon of delta-wing fighter design, the Mirage 2000C-S5 is the penultimate production variant of the "C" variant of the Mirage 2000. Unlike the earlier production models of the Mirage 2000C, this version comes equipped with an upgraded SNECMA M53-P2 engine, an Eclair chaff-flare dispenser to increase the number of countermeasures available, as well as an improved Thomson-CSF RDI radar that allowed the use of the much improved Matra Super 530D missile. For the time, it was a very important upgrade alongside the [[Mirage 2000C-S4|C-S4]] variant, since it allowed the Mirage 2000 to be at the same level of the latest variants of the MiG-29 and F-16 in terms of technology and weapon systems.
 
-It was introduced in [[Update "Drone Age"]]. The '''{{Specs|name}}''' is a very capable air superiority fighter. Compared to its competitors, it has access to a smaller payload in terms of air-to-air missiles and ground ordnance. However it compensates this with excellent flight performance, with very powerful engine in a light airframe. It has very good acceleration and top speeds, while it does have poor energy retention due to the delta wing configuration, it pulls very good AOA and is competitive in sustained dogfights, the powerful engine and low speed acceleration also allows the Mirage 2000 C-S5 to regain its speed quickly if necessary. Since it has access to a small amount of air-to-air missiles, it is recommended to stay close to the ground, since the Matra R530Ds are not well-suited for BVR combat when compared to the latest versions of the AIM-7 and the R-27. The Matra Magic 2 has very good close range performance, and a seeker with IRCCM, but it should be used at distances not higher than 3 km due to the limited range.
+It was introduced in [[Update "Drone Age"]]. The '''{{Specs|name}}''' is a very capable air superiority fighter. Compared to its competitors, it has access to a smaller payload in terms of air-to-air missiles and ground ordnance. However it compensates this with excellent flight performance, with very powerful engine in a light airframe. It has very good acceleration and top speeds, while it does have poor energy retention at low speeds due to the delta wing configuration, it pulls very good AOA and is competitive in sustained dogfights, the powerful engine and low speed acceleration also allows the Mirage 2000 C-S5 to regain its speed quickly if necessary. Since it has access to a small amount of air-to-air missiles, it is recommended to stay close to the ground, since the Matra R530Ds are not well-suited for BVR combat when compared to the latest versions of the AIM-7 and the R-27. The Matra Magic 2 has very good close range performance, and a seeker with IRCCM, but it should be used at distances not higher than 3 km due to the limited range.
 
 == General info ==
 === Flight performance ===
@@ -137,8 +137,8 @@ Pilots familiar with delta-wing fighter designs will be at home in the Mirage 20
 The '''''{{PAGENAME}}''''' is armed with:
 
 * A choice between two presets:
-** 2 x 30 mm DEFA 554 cannons, belly-mounted (125 rpg = 250 total) + 36 x countermeasures
-** 2 x 30 mm DEFA 554 cannons + 90 x countermeasures
+** 2 x 30 mm DEFA 554 cannons, belly-mounted (125 rpg = 250 total) + 16 x large calibre countermeasures
+** 2 x 30 mm DEFA 554 cannons + 32 x large calibre countermeasures + 18 x countermeasures + 48 x chaff
 
 === Suspended armament ===
 {{Specs-Avia-Suspended}}
@@ -181,7 +181,7 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 {{Navigation-First-Simple-Line}}
 
 * 1 x 1,300 l drop tank
-* 2 x Matra R550 Magic 1 missiles
+* 2 x Matra Super 530F missiles + 2 x Matra R550 Magic 1 missiles
 * 2 x Matra R550 Magic 2 missiles
 * 72 x SNEB type 23 rockets
 * 2 x Matra Super 530F missiles
@@ -194,9 +194,9 @@ The '''''{{PAGENAME}}''''' can be outfitted with the following ordnance:
 <!-- ''Describe the tactics of playing in the aircraft, the features of using aircraft in a team and advice on tactics. Refrain from creating a "guide" - do not impose a single point of view, but instead, give the reader food for thought. Examine the most dangerous enemies and give recommendations on fighting them. If necessary, note the specifics of the game in different modes (AB, RB, SB).'' -->
 The aircraft's weapons suite paired with its flight performance makes it a dangerous foe to any aircraft opposing it. The aircraft is a formidable foe in BVR engagements and even more so in a dogfight. This versatility offered by its great weapons and flight performance means that it can perform as a support fighter, slinging its Super 530D's from afar and at high altitudes. Thanks to its flight performance, it can also comfortably perform well as a frontline fighter, diving straight in to fire its Super 530D and excellent all-aspect IR R550 Magic 2 missiles. However, pilots of the Mirage 2000 will have to be careful of when they fire their missiles as it carries only 4 missiles in total, which is little compared to a lot of its competition. In addition, missiles such as the AIM-7F Sparrow, carried by some American fighters, possess a higher effective range than the Super 530D missile. Therefore, the Mirage 2000 pilots are advised to stay out of the range in which a longer-range missile can strike the Mirage, while being too far for the Mirage's Super 530D to strike back.
 
-The worst-case scenario for a Mirage 2000 pilot would be to be caught in a low-altitude sustained turn (or rate fight) with an adversary such as the F-14 Tomcat, or the MiG-23MLD, which will create a host of problems for the Mirage 2000 that bleeds its airspeed quickly. The Mirage-2000 pilot will almost always prefer to dogfight at higher altitudes, '''avoiding''' sustained turns with enemies, and compensating for the rapid loss in energy by manoeuvring by converting altitude into airspeed that can be vital to victory as the Mirage manoeuvres into a position to secure victory.
+The worst-case scenario for a Mirage 2000 pilot would be to be caught in a low-altitude sustained turn (or rate fight) with an adversary such as the F-14 Tomcat, or the F-16A, which could lead to the Mirage being eventually "out-rated". However, at high speeds the Mirage 2000 compresses slightly and has very good energy retention and is able to keep up a very competitive turn rate for a sustained amount of time. At low speeds, the Mirage 2000 is able to convert airspeed into AOA and stay within the opponent's turning circle and potentially be able to pull in for a gun shot.
 
-When it comes to dogfighting, the Mirage's flight performance enables a skilled pilot to be a formidable adversary to any of its opponents, even to those such as the F-14A Early, and the MiG-23MLD. The Mirage's game plan should almost always be to get in, and out as quickly as possible. Taking advantage of the high AoA capability of the Mirage, and utilizing as much airspeed and altitude as possible is necessary to engage and defeat the target as quickly as possible, to give any prospecting enemies minimal time to find and defeat the Mirage while it is slow and vulnerable while busy in a dogfight.
+When it comes to dogfighting, the Mirage's flight performance enables a skilled pilot to be a formidable adversary to any of its opponents, even to those such as the F-14A Early, and the F-16A. The Mirage's game plan should almost always be to get in, and out as quickly as possible. Taking advantage of the high AoA capability of the Mirage, and utilizing as much airspeed and altitude as possible is necessary to engage and defeat the target as quickly as possible, to give any prospecting enemies minimal time to find and defeat the Mirage while it is slow and vulnerable while busy in a dogfight.
 
 === Pros and cons ===
 <!-- ''Summarise and briefly evaluate the vehicle in terms of its characteristics and combat effectiveness. Mark its pros and cons in the bulleted list. Try not to use more than 6 points for each of the characteristics. Avoid using categorical definitions such as "bad", "good" and the like - use substitutions with softer forms such as "inadequate" and "effective".'' -->
@@ -210,7 +210,7 @@ When it comes to dogfighting, the Mirage's flight performance enables a skilled 
 
 '''Cons:'''
 
-* Poor energy retention
+* Poor energy retention at low speeds
 * Low ammo count for the DEFA cannons (only 250 rounds total)
 * Carries a maximum of only 4 missiles
 * Very limited options for ground attack ordnance

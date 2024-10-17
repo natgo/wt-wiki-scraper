@@ -150,11 +150,11 @@ Capturing points is also an option thanks to the good mobility of the vehicle, a
 
 * Has 4 IR-guided anti-air missiles mounted on the sides of the turret
 * Missiles can be fired on the move
-* Guns are effective agaisnt light tanks
+* Guns are effective against light tanks
 
 '''Cons:'''
 
-* Missiles can be easily countered by defensive manouvers
+* Missiles can be easily countered by defensive manoeuvres
 * No thermal imager at a BR where it is commonly found
 * The lack of passive locking method alerts the enemy of your presence
 * The ammo count is scarce when taking into account the high rate of fire
@@ -176,13 +176,15 @@ Capturing points is also an option thanks to the good mobility of the vehicle, a
 * ''reference to the series of the vehicles;''
 * ''links to approximate analogues of other nations and research trees.'' -->
 
+;Related development
+* [[Leopard (Family)]]
+** [[Gepard]]
 ;Other vehicles of similar configuration and role
-
-* [[LAV-AD]]
-* [[2S6]]
-* [[PGZ04A]]
-* [[SIDAM 25 (Mistral)]]
-* [[Machbet]]
+* [[File:China flag.png|30px|link=]] [[PGZ04A]]
+* [[File:USSR flag.png|30px|link=]] [[ZSU-23-4M4]]
+* [[File:Italy flag.png|30px|link=]] [[SIDAM 25 (Mistral)]]
+* [[File:USA flag.png|30px|link=]] [[LAV-AD]]
+* [[File:Israel flag.png|30px|link=]] [[Machbet]]
 
 == External links ==
 <!-- ''Paste links to sources and external resources, such as:''

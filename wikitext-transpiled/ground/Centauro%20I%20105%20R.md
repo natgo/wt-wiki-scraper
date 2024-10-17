@@ -10,9 +10,9 @@
 
 == Description ==
 <!-- ''In the description, the first part should be about the history of the creation and combat usage of the vehicle, as well as its key features. In the second part, tell the reader about the ground vehicle in the game. Insert a screenshot of the vehicle, so that if the novice player does not remember the vehicle by name, he will immediately understand what kind of vehicle the article is talking about.'' -->
-The '''{{Specs|name}}''' is a rank {{Specs|rank}} Italian light tank {{Battle-rating}}. It was introduced in [[Update 1.85 "Supersonic"]].
+Following the development of the Centauro I 105, the Italian army set up a competition for an ERA package for Centauro units placed in Somalia. British Royal Ordnance designed the ROMOR-A to be fitted for the Centauro units in Italian service. 10 units were sent to Somalia to be directly attached to the vehicles while another 10 were sent to Italy for further testing, the upgrade was a success mainly to the easiness of use of the ROMOR-A ERA package, being easy to attach in the field.
 
-The {{PAGENAME}} is a variant of the [[Centauro I 105]], but with the addition of ROMOR-A ERA present on the hull and turret. It is also known as the Centauro ROMOR.
+Introduced in [[Update 1.85 "Supersonic"]], the Centauro I 105 ROMOR is the same as the original [[Centauro I 105]] but with the addition of ROMOR-A ERA. This means increased protection against HEAT and HE warheads, however it does not change the playstyle of the vehicle in almost any way. It is still very easy to destroy with APFSDS or APDS ammunition from regular tank guns or autocannons. Use this vehicle as a sniper, using its mobility and agility to your advantage, it has access to a powerful 105 mm cannon with good APFSDS ammunition as well as first generation thermal sight for the gunner for easier target acquisition.
 
 == General info ==
 === Survivability and armour ===
@@ -205,6 +205,7 @@ Around 400 B1 Centauros were built until 2006, including some other derived modi
 <!-- ''Excellent additions to the article would be video guides, screenshots from the game, and photos.'' -->
 
 ;Skins
+
 * [https://live.warthunder.com/feed/camouflages/?vehicle=it_b1_centauro_romor Skins and camouflages for the {{PAGENAME}} from live.warthunder.com.]
 
 ;Videos
@@ -216,6 +217,7 @@ Around 400 B1 Centauros were built until 2006, including some other derived modi
 * ''links to approximate analogues of other nations and research trees.'' -->
 
 ;Other vehicles of similar configuration and role
+
 * [[Radkampfwagen 90]]
 * [[Rooikat 105]]
 * [[Type 16]]
